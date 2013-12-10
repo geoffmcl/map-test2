@@ -1,0 +1,145 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Modify Feature</title>
+    <link rel="stylesheet" href="js/theme/default/style.css" type="text/css">
+    <link rel="stylesheet" href="css/style2.css" type="text/css">
+    <style type="text/css">
+        #map {
+            width: 512px;
+            height: 350px;
+            border: 1px solid gray;
+        }
+        #controls {
+            width: 512px;
+        }
+        #controlToggle {
+            padding-left: 1em;
+        }
+        #controlToggle li {
+            list-style: none;
+        }
+        .olControlEditingToolbar .olControlDeleteVertexItemInactive { 
+          background-image: url("js/theme/default/img/remove_point_off.png");
+          background-repeat: no-repeat;
+        }
+        .olControlEditingToolbar .olControlDeleteVertexItemActive { 
+          background-image: url("js/theme/default/img/remove_point_on.png");
+          background-repeat: no-repeat;
+        }
+        p {
+                width: 1024px;
+        }
+    </style>
+    <script src="js/OpenLayers.js"></script>
+    <script type="text/javascript">
+        <!--
+        var map, vectors, panel, controls;
+        var mapnik, fromProjection, toProjection;
+        function init(){
+            //map = new OpenLayers.Map('map');
+            //var wms = new OpenLayers.Layer.WMS( "OpenLayers WMS", 
+            //    "http://labs.metacarta.com/wms/vmap0?", {layers: 'basic'}); 
+            // get the map
+            map = new OpenLayers.Map("map", {
+                projection: new OpenLayers.Projection("EPSG:3857"),
+                // this sets wgs84/4326 as default for display coords
+                displayProjection: new OpenLayers.Projection("EPSG:4326") }
+            );
+            mapnik         = new OpenLayers.Layer.OSM();
+            fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+            toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+
+            vectors = new OpenLayers.Layer.Vector("Vector Layer");
+
+            //map.addLayers([wms, vectors]);
+            map.addLayers([mapnik,vectors]);
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+            map.addControl(new OpenLayers.Control.MousePosition());
+            
+            panel = new OpenLayers.Control.Panel({'displayClass': 'olControlEditingToolbar'});
+
+            var snapVertex = {method: 'vertex', layers: [vectors]};
+            
+            controls = {
+                point: new OpenLayers.Control.DrawFeature(vectors,
+                            OpenLayers.Handler.Point,
+                            {'displayClass': 'olControlDrawFeaturePoint',
+                             handlerOptions: snapVertex}),
+
+                line: new OpenLayers.Control.DrawFeature(vectors,
+                            OpenLayers.Handler.Path,
+                            {'displayClass': 'olControlDrawFeaturePath',
+                             handlerOptions: snapVertex}),
+
+                polygon: new OpenLayers.Control.DrawFeature(vectors,
+                            OpenLayers.Handler.Polygon,
+                            {'displayClass': 'olControlDrawFeaturePolygon',
+                             handlerOptions: snapVertex}),
+
+                //del: new OpenLayers.Control.DeleteVertex(vectors,
+                del: new OpenLayers.Control.SelectFeature(vectors,
+                           {'displayClass': 'olControlDeleteVertex',
+                            onModificationStart: onModificationStart,
+                            onModification: onModification,
+                            onModificationEnd: onModificationEnd
+                           })
+            };
+            
+            for(var key in controls) {
+                panel.addControls([controls[key]]);
+            }
+            
+            map.addControl(panel);
+            panel.activateControl(controls.del)
+            
+            map.setCenter(new OpenLayers.LonLat(13, 38), 3);
+            
+            //var wkt = new OpenLayers.Format.WKT();
+            //var features = wkt.read("POLYGON((-3.69140625 -21.796875,-11.953125 -0.17578125,4.04296875 -2.98828125, 4 -15, 0 -20))");
+            //vectors.addFeatures(features);
+            // "POLYGON(-20 10,-10 -10,10 10,10 -10,20 10,10 12,-20 10)"
+            var feature4 = new OpenLayers.Feature.Vector(
+                OpenLayers.Geometry.fromWKT(
+                    "POLYGON(-30 10, -40 40, -20 40, -10 20, -30 10)"
+                )
+            );
+            vectors.addFeatures([feature4]);
+            
+        }
+        
+        function onModificationStart(feature) {
+            $('action').innerHTML = feature.id + " is ready to be modified";
+        }
+        
+        function onModification(feature) {
+            $('action').innerHTML = feature.id + " has been modified";
+        }
+        
+        function onModificationEnd(feature) {
+            $('action').innerHTML = feature.id + " is finished to be modified";
+        }
+        
+        // -->
+    </script>
+  </head>
+  <body onload="init()">
+    <h1>OpenLayers Modify Feature Example</h1>
+    <div id="map"></div>
+    <div id="action"><p>&nbsp;</p></div>
+    <div id="docs">
+    <p>To use the delete vertex control (should this be called remove vertex ?),
+    you have to click on a feature to select it,
+    then select a vertex and then press the backspace key on your keyboard to remove the selected vertex.
+    </p>
+    <p>Unforunately appears to fail both as the online demo, and in this local context???
+    Locally even the WKT POLYGON is not drawn. Also locally, the function OpenLayers.Control.DeleteVertex() 
+    does not appear to exist. Is this a later/earlier version of OpenLayers.js? No, the online uses a 
+    OpenLayers.js which generate an 'include' for MANY js files, including "OpenLayers/Control/DeleteVertex.js",
+    which is obviously NOT included in the 'single' model OpenLayers.js file.
+    <p>
+    
+    
+    </div>
+  </body>
+</html>
+

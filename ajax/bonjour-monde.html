@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<title>Sample Three.js</title>
+<meta charset='utf-8'>
+<meta name='author' content='Theo Armour'>
+</head>
+<body>
+	<p>Sample Three.js icosahedron to adjust...</p>
+
+	<p>Line width</p>
+	<div id="slider1"></div>
+	<p>Scale X</p>
+	<div id="slider2"></div>
+	<p>Scale Y</p>
+	<div id="slider3"></div>
+	<p>Scale Z</p>
+	<div id="slider4"></div>
+	
+<script>
+
+	$(function() {
+		var e = $.elements;
+		$( "#slider1" ).slider( {
+			slide: function( event, ui ) {
+				e.app.lineWidth = ui.value;
+				$.setHash();
+			},
+			value: e.app.lineWidth
+		});
+		$( "#slider2" ).slider( {
+			max: 2,
+			min: 0.1,
+			slide: function( event, ui ) {
+				e.app.scaleX = ui.value;
+				$.setHash();
+			},
+			step: 0.05,
+			value: e.app.scaleX 
+		});	
+		$( "#slider3" ).slider( {
+			max: 2,
+			min: 0.1,
+			slide: function( event, ui ) {
+				e.app.scaleY = ui.value;
+				$.setHash();
+			},
+			step: 0.05,
+			value: e.app.scaleY
+		});	
+		$( "#slider4" ).slider( {
+			max: 2,
+			min: 0.1,
+			slide: function( event, ui ) {
+				e.app.scaleZ = ui.value;
+				$.setHash();
+			},
+			step: 0.05,
+			value: e.app.scaleZ
+		});		
+	
+		$.ifr = parent.document.body.appendChild( document.createElement( "iframe" ) );
+		$.ifr.src = "threejs-demo.html";
+		$.ifr.style.cssText = 'outline: solid 5px black; height: ' + window.innerHeight + 'px; position: absolute; top: 0; width: ' + window.innerWidth + 'px; z-index: -5; ';		
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head>
+  <title>
+   Test css 3
+  </title>
+  <link rel="stylesheet"
+        href="css/testcss.css"
+        type="text/css">
+  <style type="text/css">
+body { margin: 2em; }
+  .rotat
+  {
+  width:200px;
+  height:100px;
+  background-color:yellow;
+  /* Rotate div */
+  transform:rotate(7deg);
+  -ms-transform:rotate(7deg); /* IE 9 */
+  -webkit-transform:rotate(7deg); /* Safari and Chrome */
+  }
+  </style>
+  <script type="text/javascript">
+<!-- fnSetRotation function --> 
+  //oObj input requires that a matrix filter be applied. 
+  //deg input defines the requested angle of rotation.
+  var deg2radians = Math.PI * 2 / 360;
+  function fnSetRotation(oObj, deg)
+  {    rad = deg * deg2radians ;
+    costheta = Math.cos(rad);
+    sintheta = Math.sin(rad);
+    if (oObj.filters) {
+        oObj.filters.item(0).M11 = costheta;
+        oObj.filters.item(0).M12 = -sintheta;
+        oObj.filters.item(0).M21 = sintheta;
+        oObj.filters.item(0).M22 = costheta;
+    } else {
+        console.log("oObj.filters NOT defined!");
+    }
+  }
+
+  <!-- fnResize function --> 
+  //oObj input requires that a matrix filter be applied. 
+  //flMultiplier input defines the amount by which the oObj is resized.
+  function fnResize(oObj, flMultiplier)
+  {
+    if (oObj.filters) {
+        oObj.filters.item(0).M11 *= flMultiplier;
+        oObj.filters.item(0).M12 *= flMultiplier;
+        oObj.filters.item(0).M21 *= flMultiplier;
+        oObj.filters.item(0).M22 *= flMultiplier;
+    }
+  }
+
+
+  var iCount = 400;
+  <!-- fnSpin function --> 
+  function fnSpin(oObj)
+  {
+
+  <!-- The function chosen for flMultiple defines size changes in the animation. -->
+        var flMultiple = iCount/720; 
+        iCount += 4;
+
+  <!-- The number of 360-degree rotations is three. -->
+        if (iCount>=360*3)     {
+            oObj.onfilterchange = null;
+        }
+
+        fnSetRotation(oObj, iCount);
+        fnResize(oObj, flMultiple);
+  }
+  
+  function startSpin() {
+    var obj = document.getElementById('oDiv');
+    fnSpin(obj);
+  }
+  
+  function detectOSAndBrowser() {
+    var nVer = navigator.appVersion;
+    var nAgt = navigator.userAgent;
+    var bName  = navigator.appName;
+    var nameOffset,verOffset,ix;
+    var browserName = "unknown Browser"
+    // In Opera, the true version is after "Opera" or after "Version"
+    if ((verOffset = nAgt.indexOf("Opera"))!=-1) {
+        browserName = "Opera";
+    }
+    // In MSIE, the true version is after "MSIE" in userAgent
+    else if ((verOffset = nAgt.indexOf("MSIE"))!=-1) {
+        browserName = "Internet Explorer";
+    }
+    // In Chrome, the true version is after "Chrome" 
+    else if ((verOffset = nAgt.indexOf("Chrome"))!=-1) {
+        browserName = "Google Chrome";
+    }
+    // In Safari, the true version is after "Safari" or after "Version" 
+    else if ((verOffset = nAgt.indexOf("Safari"))!=-1) {
+        browserName = "Safari";
+    }
+    // In Firefox, the true version is after "Firefox" 
+    else if ((verOffset = nAgt.indexOf("Firefox"))!=-1) {
+        browserName = "Mozilla Firefox";
+    }
+    // In most other browsers, "name/version" is at the end of userAgent 
+    else if ( (nameOffset = nAgt.lastIndexOf(' ')+1) < (verOffset = nAgt.lastIndexOf('/')) ) 
+    {
+        browserName = nAgt.substring(nameOffset,verOffset);
+        if (browserName.toLowerCase()==browserName.toUpperCase()) {
+            browserName = navigator.appName;
+        }
+    } else {
+        browserName = bName;
+    }
+    
+    var OSName = "unknown OS";
+    if (nVer.indexOf("Win")!=-1) { 
+        OSName="Windows";
+    } else
+    if (nVer.indexOf("Mac")!=-1) {
+        OSName="Mac OS X";
+    } else
+    if (nVer.indexOf("X11")!=-1) {
+        OSName="UNIX";
+    } else 
+    if (nVer.indexOf("Linux")!=-1) {
+        OSName="Linux";
+    }
+    //if (OSName!=="unknown OS") {
+    //    $('#device').html('You\'re using '+browserName+'<br /><div id="OS">on a '+OSName+' computer.</div>');
+    //}
+    //if (OSName=="unknown OS") {
+    //    $('#device').html('We were unable to detect your OS and/or browser.');
+    //}
+    document.write("<p>Browser: "+browserName+", in OS: "+OSName+"</p>");
+  }
+  </script>
+ </head>
+ <body onload="startSpin();">
+  <h1 align="center">
+   Rotation test in various browsers
+  </h1>
+<SCRIPT LANGUAGE="JavaScript">
+    var msg = "<p><b>navigator.appName</b>: ["+navigator.appName+"]<br><b>navigator.userAgent</b>: ["+
+        navigator.userAgent+"]<br><b>navigator.appVersion</b>: ["+navigator.appVersion+"]";
+    if (navigator.appCodeName)
+        msg += "<br><b>navigator.appCodeName</b>: ["+navigator.appCodeName+"]";
+    if (navigator.platform)
+        msg += "<br><b>navigator.platform</b>: ["+navigator.platform+"]";
+    if (navigator.product)
+        msg += "<br><b>navigator.product</b>: ["+navigator.product+"]";
+    if (navigator.vendor)
+        msg += "<br><b>navigator.vendor</b>: ["+navigator.vendor+"]";
+        
+    msg += "</p>";
+    document.write(msg);
+    detectOSAndBrowser();    
+</SCRIPT>
+  
+  <p class="rotat">
+   Rotation 7 degs test
+  </p>
+
+  <p>
+   from : http://msdn.microsoft.com/en-us/library/ms533014(VS.85).aspx
+  </p>
+
+<!--   <div style="width:100%; filter: progid:DXImageTransform.Microsoft.MotionBlur(strength=13, direction=310) progid:DXImageTransform.Microsoft.Blur(pixelradius=2) progid:DXImageTransform.Microsoft.Wheel(duration=3);">
+  Blurry text with smudge of gray.
+  </div> -->
+  
+  <!-- When loaded, the onfilterchange event is fired as the filter makes 
+its initial settings.  This starts the animation. -->
+
+  <div id="oDiv"
+       style="position:absolute; filter:progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand')"
+       onfilterchange="fnSpin(this)">
+   <div style=" background-color: lightblue; padding:5;">
+    SOME TEXT
+    <br>
+    SOME TEXT
+    <br>
+    SOME TEXT
+    <br>
+    SOME TEXT
+    <br>
+   </div>
+  </div>
+ </body>
+</html>

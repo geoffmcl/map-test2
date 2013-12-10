@@ -1,0 +1,136 @@
+<html>
+<head>
+<title>Test javescript 1</title>
+<style>
+ body { margin: 30px; }
+</style>
+<link rel="stylesheet" href="css/testcss.css" />
+  <script src="js/OpenLayers-2.14-dev.js"
+        type="text/javascript">
+</script>
+  <script src="js/OpenStreetMap.js"
+        type="text/javascript">
+</script>
+<script src='js/three.min.js'
+        type="text/javascript">
+</script>
+<script  src="js/jquery-2.0.3.js"
+        type="text/javascript">
+</script>
+<script  src="js/geodesic.js"
+        type="text/javascript">
+</script>
+<script type="text/javascript">
+    var startTime = new Date();
+    var def_lat = 37.59746; // 37.61867421125;
+    var def_lon = -122.31939;   // -122.37500760875;
+    var targ_lat =  37.65033182756634;
+    var targ_lon = -122.44567243134424;
+    var def_hdg = 297.9;
+    var def_dist = 15;
+    var circuit;
+    
+    function calculateCircuit() {
+        circuit = new Array();
+        circuit[0] = new LatLon(def_lat,def_lon);
+        var p = getDirect( def_lat, def_lon, def_hdg, def_dist );
+        circuit[1] = new LatLon(p._lat,p._lon);
+        var nhdg = def_hdg;
+        nhdg += 90;
+        if (nhdg >= 360)
+            nhdg -= 360;
+        var p2 = getDirect( p._lat, p._lon, nhdg, def_dist / 2);
+        circuit[2] = new LatLon(p2._lat,p2._lon);
+        nhdg += 90;
+        if (nhdg >= 360)
+            nhdg -= 360;
+        var p3 = getDirect( p2._lat, p2._lon, nhdg, def_dist );
+        circuit[3] = new LatLon(p3._lat,p3._lon);
+    }
+    function showCircuit() {
+        var i, i2, p1, p2, dist, brng;
+        var msg = 'circuit: ';
+        for (i = 0; i < 4; i++) {
+            i2 = i + 1;
+            if (i2 == 4)
+                i2 = 0;
+            p1 = circuit[i];
+            p2 = circuit[i2];
+            dist = getDistance(p1._lat,p1._lon,p2._lat,p2._lon);
+            brng = getBearing(p1._lat,p1._lon,p2._lat,p2._lon);
+            if (i == 0) {
+                msg += 'from '+p1._lat+','+p1._lon;
+            }
+            msg += ' on '+brng+' for '+dist+' to '+p2._lat+','+p2._lon;
+        }
+        console.log(msg);
+        $("#info2").html('<p>'+msg+'</p>');
+    }
+    function strInArray(s,a) {
+        var i, t;
+        var max = a.length;
+        for (i = 0; i < max; i++) {
+            t = a[i];
+            if ( s == t )
+                return true;
+        }
+        return false;
+    }
+    function test_array() {
+        var a = [];
+        a.push('ABCD');
+        a.push('DEFG');
+        a.push('HIJK');
+        var v = 'HIJK';
+        // ARGH! The 'in' function ONLY works for 'Objects'
+        if (v in a)
+            console.log("Found "+v);
+        else
+            console.log("Appears 'in' test FAILED!");
+        // so MUST iterate the array, whatever the cost ;=((
+        if (strInArray(v,a))
+            console.log("Found "+v);
+        else
+            console.log("Appears 'stringInArray' FAILED!");
+    }
+    function init() {
+    
+        var msg = 'Done init...';
+        msg += ' start '+def_lat+','+def_lon+' on '+def_hdg+'<br>';
+        var dist = getDistance(def_lat, def_lon, targ_lat, targ_lon);
+        var brng = getBearing(def_lat, def_lon, targ_lat, targ_lon);
+        var brng2 = getBearing(targ_lat, targ_lon, def_lat, def_lon);
+        var p = getDirect( def_lat, def_lon, def_hdg, dist );
+        msg += ' dist '+dist+' km on '+brng+' ('+brng2+') '+p._lat+','+p._lon;
+        var dlat = targ_lat - p._lat;
+        var dlon = targ_lon - p._lon;
+        var d2 = getDistance(targ_lat, targ_lon, p._lat, p._lon) * 1000;
+        msg += '<br>diff '+dlat+','+dlon+' dist '+d2+' m';
+        
+        calculateCircuit();
+        showCircuit();
+        
+        var d = new Date();
+        var ms = d.valueOf() - startTime.valueOf();
+        msg += ' ms='+ms;
+        console.log(msg);
+        $("#info").html('<p>'+msg+'</p>');
+        test_array();
+    }
+</script>
+
+</head>
+
+<body>
+
+<p>Just some javescript testing...</p>
+
+<div id="info"><p>&nbsp</p></div>
+<div id="info2"><p>&nbsp</p></div>
+  <script type="text/javascript"
+        defer="defer">
+        init();
+</script>
+</body>
+</html>
+

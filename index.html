@@ -1,12 +1,539 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
  <head>
-  <title>map-test2</title>
+  <meta http-equiv="Content-type"
+        content="text/html; charset=us-ascii">
+  <title>
+   Map Testing Site 2
+  </title>
+  <link rel="stylesheet"
+        href="css/home.css"
+        type="text/css">
  </head>
  <body>
-  <h1 align="center">map-test2</h1>
-  
-  <p>Some tests and experiments with OpenLayers and the json crossfeed feed</p>
-  
+  <h1>
+   Map Testing Site 2
+  </h1>
+
+  <p>
+   This is a BIG bunch of 'map' tests, using OpenLayers, OpenStreetMap, and much more, It started
+   out as just looking at and experimenting with our FGx <a target="_blank"
+      href="http://test.fgx.ch">test.fgx.ch</a>, examining, experimenting, until I had
+      <a target="_blank"
+      href="map-test.html">map-test</a>, but then went on to many other tests and experiments.
+      Most were concerning OpenLayers, and quite a number of experiments with mouse hover popups,
+      and tools tips, some of which 'failed', but others work as expected, as I learned some of
+      the ins and outs of such tooltip popup displays. In the final 'map' I wanted to be able to
+      display information about the 'feature' as the mouse hovered over it. While not 'hovering'
+      the 'marker-custom.html' example shows the adding of a custom marker with a label to a
+      vector layer as a feature shows lots of promise.
+  </p>
+
+  <p>
+   The table below contains the current 'working' files, with a brief description, in approximate
+   date order. To an alpha sorted jump <a href="#sorted">list</a>
+  </p>
+  <!-- *** MAIN TABLE BEGIN *** -->
+
+  <table align="center"
+         width="100%"
+         border="0"
+         cellpadding="2"
+         cellspacing="2"
+         summary="Site List">
+   <thead>
+    <tr>
+     <th>
+      Link
+     </th>
+     <th>
+      Description
+     </th>
+     <th>
+      Link
+     </th>
+     <th>
+      Description
+     </th>
+    </tr>
+   </thead>
+
+   <tbody>
+    <tr>
+     <td>
+      <a target="_blank"
+          href="tracker.html">tracker.html</a>
+     </td>
+     <td>
+      Development of a tracker - Used by globe 3D on flight selection
+     </td>
+     <td>
+      <a target="_blank"
+          href="nav.html">nav.html</a>
+     </td>
+     <td>
+      Started loading csv/json adding airports etc to display
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="json-load.html">json-load.html</a>
+     </td>
+     <td>
+      Further experiments with csv/json loading
+     </td>
+     <td>
+      <a target="_blank"
+          href="dist-test.html">dist-test.html</a>
+     </td>
+     <td>
+      Experiments with getting fast distance calculation
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <strong>index.html</strong>
+     </td>
+     <td>
+      This file
+     </td>
+     <td>
+      <a target="_blank"
+          href="circle.html">circle.html</a>
+     </td>
+     <td>
+      Some experiments with circle sizes per zoom
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="flights.html">flights.html</a>
+     </td>
+     <td>
+      Simple table display of crossfeed json
+     </td>
+     <td>
+      <a target="_blank"
+          href="getip.html">getip.html</a>
+     </td>
+     <td>
+      Display the client IP
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="testcss3.html">testcss3.html</a>
+     </td>
+     <td>
+      Test of rotating text - not all works!
+     </td>
+     <td>
+      <a target="_blank"
+          href="map-test.html">map-test.html</a>
+     </td>
+     <td>
+      The main feature page. On selection show tracker.html
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="testjs2.html">testjs2.html</a>
+     </td>
+     <td>
+      Test javascript input checkbox onclick
+     </td>
+     <td>
+      <a target="_blank"
+          href="testjs.html">testjs.html</a>
+     </td>
+     <td>
+      Just some quick tests of javascript code
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="marker-custom.html">marker-custom.html</a>
+     </td>
+     <td>
+      Adding custom marker as feature to vector layer on click and drag
+     </td>
+     <td>
+      <a target="_blank"
+          href="testcss.html">testcss.html</a>
+     </td>
+     <td>
+      Just testing some CSS
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="threejs-demo.html">threejs-demo.html</a>
+     </td>
+     <td>
+      Started experiments with Theo's fgx-globe/fgx-globe-r3
+     </td>
+     <td>
+      <a target="_blank"
+          href="globe.html">globe.html</a>
+     </td>
+     <td>
+      3D shell using threejs-demo.html in iframe
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="vector-features.html">vector-features.html</a>
+     </td>
+     <td>
+      Small no map random features marker line with tooltip popup
+     </td>
+     <td>
+      <a target="_blank"
+          href="jquery.qtip.html">jquery.qtip.html</a>
+     </td>
+     <td>
+      Hover popup toolstips using jquery.qtip.js
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="tooltip3.html">tooltip3.html</a>
+     </td>
+     <td>
+      Full map with marker with hover tooltips using label.js
+     </td>
+     <td>
+      <a target="_blank"
+          href="sundial2.html">sundial2.html</a>
+     </td>
+     <td>
+      FramedCloud Popup with Text File - OpenLayers - FAILS!
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="popup.html">popup.html</a>
+     </td>
+     <td>
+      Simple full map with marker but NO popup tooltip!
+     </td>
+     <td>
+      <a target="_blank"
+          href="tooltip2.html">tooltip2.html</a>
+     </td>
+     <td>
+      Full map with marker with hover tooltips using label.js
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="delete-vertex.html">delete-vertex.html</a>
+     </td>
+     <td>
+      Delete not working? Small map with toolbar and layeswitcher
+     </td>
+     <td>
+      <a target="_blank"
+          href="draw-feature.html">draw-feature.html</a>
+     </td>
+     <td>
+      Small map with 4 layers in switcher to draw points lines etc with delete experiments
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="highlight-feature.html">highlight-feature.html</a>
+     </td>
+     <td>
+      Simple highlight features example. No map.
+     </td>
+     <td>
+      <a target="_blank"
+          href="tooltip1.html">tooltip1.html</a>
+     </td>
+     <td>
+      Full map with layer switcher and markers but custom tooltips does not appear?
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="popup4.html">popup4.html</a>
+     </td>
+     <td>
+      Small map test using ext-all-debug.js slider to dim map display
+     </td>
+     <td>
+      <a target="_blank"
+          href="map.html">map.html</a>
+     </td>
+     <td>
+      Simple full windows map with a marker
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="popup3.html">popup3.html</a>
+     </td>
+     <td>
+      No map jQuery UI Dialog - Animated dialog display and destroy
+     </td>
+     <td>
+      <a target="_blank"
+          href="popup2.html">popup2.html</a>
+     </td>
+     <td>
+      No map jQuery UI Dialog - basic dialog display
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="marker1.html">marker1.html</a>
+     </td>
+     <td>
+      Simple map with marker and line draw
+     </td>
+     <td>
+      <a target="_blank"
+          href="marker.html">marker.html</a>
+     </td>
+     <td>
+      Small map with mouse pos outside map adds diff. image markers on click has selector
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="nav1.html">nav1.html</a>
+     </td>
+     <td>
+      Full screen map with marker and selector and big zoom tool
+     </td>
+     <td>
+      <a target="_blank"
+          href="show-one.html">show-one.html</a>
+     </td>
+     <td>
+      3D display of three.js json aircraft model
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="circle-failed.html">circle-failed.html</a>
+     </td>
+     <td>
+      No display!
+     </td>
+     <td>
+      <a target="_blank"
+          href="devel.html">devel.html</a>
+     </td>
+     <td>
+      Crossfeed map with Model added to list. Links to tracker.html
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="moving.html">moving.html</a>
+     </td>
+     <td>
+      No map - Just entering text Add Task and Delete tasks in javascript
+     </td>
+     <td>
+      <a target="_blank"
+          href="updown2.html">updown2.html</a>
+     </td>
+     <td>
+      No map - moving entries in a tables - seeking table sort
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="updown.html">updown.html</a>
+     </td>
+     <td>
+      No map - moving entries in a tables - seeking table sort
+     </td>
+     <td>
+      <a target="_blank"
+          href="airports.html">airports.html</a>
+     </td>
+     <td>
+      Crossfeed map with overlay that failes. How to stop the pink?
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="demof.html">demof.html</a>
+     </td>
+     <td>
+      Crossfeed map fairly clean copy
+     </td>
+     <td>
+      <a target="_blank"
+          href="proxy.php">proxy.php</a>
+     </td>
+     <td>
+      Do a fetch given a url
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="crossfeed.php">crossfeed.php</a>
+     </td>
+     <td>
+      Just fetch the current flights.json list
+     </td>
+     <td>
+      <a target="_blank"
+          href="ietest.html">ietest.html</a>
+     </td>
+     <td>
+      IE css test of position: absolute of two table
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="index_json2.html">index_json2.html</a>
+     </td>
+     <td>
+      Crossfeed map with error in listing like index-fast
+     </td>
+     <td>
+      <a target="_blank"
+          href="index_fast.html">index_fast.html</a>
+     </td>
+     <td>
+      Crossfeed map will error in listing
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <!-- *** MAIN TABLE END *** -->
+  <a name="sorted"
+        id="sorted"></a>
+  <p>
+   Alpha sorted list: <a target="_blank"
+      href="airports.html">airports.html</a> <a target="_blank"
+      href="circle-failed.html">circle-failed.html</a> <a target="_blank"
+      href="circle.html">circle.html</a> <a target="_blank"
+      href="crossfeed.php">crossfeed.php</a> <a target="_blank"
+      href="delete-vertex.html">delete-vertex.html</a> <a target="_blank"
+      href="demof.html">demof.html</a> <a target="_blank"
+      href="devel.html">devel.html</a> <a target="_blank"
+      href="dist-test.html">dist-test.html</a> <a target="_blank"
+      href="draw-feature.html">draw-feature.html</a> <a target="_blank"
+      href="flights.html">flights.html</a> <a target="_blank"
+      href="getip.html">getip.html</a> <a target="_blank"
+      href="globe.html">globe.html</a> <a target="_blank"
+      href="highlight-feature.html">highlight-feature.html</a> <a target="_blank"
+      href="ietest.html">ietest.html</a> <a target="_blank"
+      href="index.html">index.html</a> <a target="_blank"
+      href="index_fast.html">index_fast.html</a> <a target="_blank"
+      href="index_json2.html">index_json2.html</a> <a target="_blank"
+      href="jquery.qtip.html">jquery.qtip.html</a> <a target="_blank"
+      href="json-load.html">json-load.html</a> <a target="_blank"
+      href="map-test.html">map-test.html</a> <a target="_blank"
+      href="map.html">map.html</a> <a target="_blank"
+      href="marker-custom.html">marker-custom.html</a> <a target="_blank"
+      href="marker.html">marker.html</a> <a target="_blank"
+      href="marker1.html">marker1.html</a> <a target="_blank"
+      href="moving.html">moving.html</a> <a target="_blank"
+      href="nav.html">nav.html</a> <a target="_blank"
+      href="nav1.html">nav1.html</a> <a target="_blank"
+      href="popup.html">popup.html</a> <a target="_blank"
+      href="popup2.html">popup2.html</a> <a target="_blank"
+      href="popup3.html">popup3.html</a> <a target="_blank"
+      href="popup4.html">popup4.html</a> <a target="_blank"
+      href="proxy.php">proxy.php</a> <a target="_blank"
+      href="show-one.html">show-one.html</a> <a target="_blank"
+      href="sundial2.html">sundial2.html</a> <a target="_blank"
+      href="testcss.html">testcss.html</a> <a target="_blank"
+      href="testcss3.html">testcss3.html</a> <a target="_blank"
+      href="testjs.html">testjs.html</a> <a target="_blank"
+      href="testjs2.html">testjs2.html</a> <a target="_blank"
+      href="threejs-demo.html">threejs-demo.html</a> <a target="_blank"
+      href="tooltip1.html">tooltip1.html</a> <a target="_blank"
+      href="tooltip2.html">tooltip2.html</a> <a target="_blank"
+      href="tooltip3.html">tooltip3.html</a> <a target="_blank"
+      href="tracker.html">tracker.html</a> <a target="_blank"
+      href="updown.html">updown.html</a> <a target="_blank"
+      href="updown2.html">updown2.html</a> <a target="_blank"
+      href="vector-features.html">vector-features.html</a>
+  </p>
+
+  <p>
+   Done Site Map of 46 of 46 files, on 2013/12/10 13:22:47 UTC, by genindex04.pl
+  </p>
+
+  <p>
+   As noted above this table is generated by genindex (geninex04.pl), taking the description from
+   description.csv, so when new modules are added, a description should also be added to
+   description.csv. Adding a description of 'EXCLUDE' will exclude a file from the list, and a
+   decription of 'Previous backup copy' will cause the listing to be last, and the special
+   description of 'This file' will mean no link anchor added. Otherwise they are in general date
+   order.
+  </p>
+
+  <p class="top">
+   <a href="#top">top</a>
+  </p>
+
+  <p>
+   <a target="_blank"
+      href="http://tidy.sourceforge.net/"><img border="0"
+        src="images/checked_by_tidy.gif"
+        alt="checked by tidy"
+        width="32"
+        height="32"></a>&nbsp; <a href="http://validator.w3.org/check?uri=referer"
+      target="_blank"><img src="images/valid-html401.gif"
+        alt="Valid HTML 4.01 Transitional"
+        width="88"
+        height="31"></a>
+  </p>
+  <!-- 20131118 - add brief description to each in table initially generated by genindex03.pl -->
+  <!-- index.html - 20131114 - initial index -->
  </body>
 </html>

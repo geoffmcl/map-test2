@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" debug="true">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>MousePosition Control</title>
+    <!-- <link rel="stylesheet" href="http://openlayers.org/dev/theme/default/style.css" type="text/css"> -->
+    <!-- <link rel="stylesheet" href="http://openlayers.org/dev/examples/style.css" type="text/css"> -->
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/style2.css" type="text/css">
+    <script src="js/OpenLayers.js"></script>
+    <style>
+.smallmap {
+    width: 1024px;
+    height: 512px;
+    border: 1px solid #ccc;
+} 
+    </style>
+    <script type="text/javascript">
+        var map;
+        var lat = 48.72698;
+        var lon = 2.370448;
+        var zoom = 12;
+        var curr_marker = null;
+        var markerslayer = null;
+        // some test images
+        var images = new Array( "NDB-95x95.gif", "VOR-95x83.gif", "VOR-DME-95x83.gif", "VORTAC-97x85.gif",
+            "OM.png", "MM.png", "IM.png" );
+        //var images = new Array( "NDB-95x95.png", "VOR-95x83.png", "VOR-DME-95x83.png", "VORTAC-97x85.png" );
+        //var images = new Array( "NDB-95x95.png", "NDB-95x95.png", "VOR-DME-95x83.png", "VORTAC-97x85.png" );
+        var next_image = 0;
+        function init(){
+            var map = new OpenLayers.Map('map');
+            var proj4326 = new OpenLayers.Projection("EPSG:4326");
+            var projmerc = new OpenLayers.Projection("EPSG:900913");
+            var layerOSM = new OpenLayers.Layer.OSM("Street Map");
+            map.addLayers([layerOSM]);
+            //if (!map.getCenter()) map.zoomToMaxExtent();
+            var pos = new OpenLayers.LonLat(lon,lat).transform( proj4326, projmerc );
+            map.setCenter( pos, zoom );
+
+            map.events.register("mousemove", map, function(e) { 
+                var position = this.events.getMousePosition(e);
+                OpenLayers.Util.getElement("coords").innerHTML = 'MOUSE POSITION '+position;
+                var lonlat = map.getLonLatFromPixel( this.events.getMousePosition(e) );
+                OpenLayers.Util.getElement("lonlatTG").innerHTML = 'lonlat => '+lonlat;
+                var lonlatTransf = lonlat.transform(map.getProjectionObject(), proj4326);
+                OpenLayers.Util.getElement("lonlatTrans").innerHTML = 'lonlatTransf => '+lonlatTransf;
+                OpenLayers.Util.getElement("lonlatDouble").innerHTML = 'lonlat => '+lonlat;
+            });
+
+            map.events.register("click", map, function(e) {
+                var position = this.events.getMousePosition(e);
+                // var icon = new OpenLayers.Icon('http://maps.google.com/mapfiles/ms/icons/red-pushpin.png');   
+                var img = images[next_image];
+                next_image++;
+                if (next_image >= images.length) next_image = 0;
+                var icon = new OpenLayers.Icon('data/img/'+img);   
+                var lonlat = map.getLonLatFromPixel(position);
+                var lonlatTransf = lonlat.transform(map.getProjectionObject(), proj4326);
+                // alert ('lonlatTrans=> lat='+lonlatTransf.lat+' lon='+lonlatTransf.lon+'\nlonlat=>'+lonlat+'\nposition=>'+position);
+                var lonlat = lonlatTransf.transform(proj4326, map.getProjectionObject());
+                
+                curr_marker = new OpenLayers.Marker(lonlat, icon);
+                if (markerslayer !== null) {
+                    // remove the previous NDB marker
+                    map.removeLayer(markerslayer,true);
+                }
+                markerslayer = new OpenLayers.Layer.Markers( "Markers" );
+                markerslayer.addMarker(curr_marker);
+                map.addLayer(markerslayer);
+            });
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+        }
+    </script>
+  </head>  
+
+  <body onload="init()">
+    <h1 id="title">MousePosition Control</h1>
+    <div id="tags">coordinate</div>
+    <p>Click on map and create marker</p>
+    <div id="map" class="smallmap"></div>
+    <div id="coords"></div>
+    <div id="lonlatTG"></div>
+    <div id="lonlatTrans"></div><br/>
+    <p>
+    see how, even though we did NOT transform [lonlat],
+    <br/>it was nevertheless transformed
+    </p>
+    <div id="lonlatDouble"></div>
+
+  </body>
+</html>

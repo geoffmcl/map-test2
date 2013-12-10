@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+ <head>
+  <title>
+   Crossfeed JSON 1
+  </title>
+  <meta http-equiv="Content-Type"
+        content="text/html; charset=us-ascii">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="apple-mobile-web-app-capable"
+        content="yes">
+  <script type="text/javascript"
+        src="js/jquery-2.0.3.js">
+</script><!--
+             ,MMN,    ...................................................................................
+              ,MMM,           CROSSFEED CLIENT MAPPING TESTSUITE: FULL SCREEN MAP
+               JMMN,
+       .gg,      MMMM,         These files are written for testing and develop
+       .MMN  .....jMMMMa.......    the crossfeed client (written by Geoff McLane) of FlightGear
+      .TMMMMMMMMMMMMMMMMMMMMMMM@     Multiplayer Server (written by Oliver Schroeder). 
+       .MMF    `?WMMMM"7??!`       See http://www.fgx.ch for more information.
+       ?""`      dMMM'          (c) 2013 Yves Sablonier, Zurich
+               .MMM'       Licence: GPLv2 or later
+              .MMM'     http://www.gnu.org/licenses/gpl.txt
+             .MMM'     ............................................
+
+      Please do not remove this copyright and license information from this source in any case.
+      For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow this links:
+      http://openlayers.org, http://jquery.org
+      ........................................................................................
+      20131205: Fetch the crossfeed flights.json
+-->
+  <link rel="stylesheet"
+        href="./css/stylesheet4.css"
+        type="text/css">
+  <link rel="stylesheet"
+        href="css/style.css"
+        type="text/css">
+  <link rel="stylesheet"
+        href="css/home.css"
+        type="text/css">
+  <style type="text/css">
+h1 {
+    width: 95%;
+}
+  </style>
+  <script src="js/OpenLayers.js"
+        type="text/javascript">
+</script>
+  <script type="text/javascript">
+var removal = [];
+    // ----------------------------------------------------------------------------------------------
+    // Creating the main table
+    // ----------------------------------------------------------------------------------------------
+    // Some strings to construct the table...
+    var tableheader = "<table class='mono' align='center' border='1' cellpadding='2' cellspacing='2'>"+
+        "<tr class='table_head'>"+
+        "<th class='hfid'>FID<\/th>"+
+        "<th class='hcs2'>Callsign<\/th>"+
+        "<th class='hlon'>Longitude<\/th>"+
+        "<th class='hlat'>Latitude<\/th>"+
+        "<th class='hhdg'>Heading<\/th>"+
+        "<th class='halt'>Altitude<\/th>"+
+        "<th class='hspd'>Speed<\/th>"+
+        "<th class='hdist'>Dist (nm)<\/th>"+
+        "<th class='hmod'>Model<\/th>"+
+        "<\/tr>";
+    
+    
+    function workData() {
+    
+         // reset the arrays
+         var flightshere = [];
+         var flightsdata = [];
+         var datafids = [];
+         removal = [];
+   
+         // we do not care about the "success" label, we check for
+         // request loading state directly
+         if ( (this.readyState == 4) && (this.status == "200") ) {
+            var tm = getTimeStg();
+            // JSON parsing the response string
+            var text = this.responseText;
+            var data = JSON.parse(text);
+            var html = "<p align='center'>Last update: "+data.last_updated+"<\/p>";
+            html += tableheader;
+            // try alternate coding without jQuery
+            var flights = data.flights;  // array
+            var i, flt, max = flights.length;
+            for ( i = 0; i < max; i++ ) {
+                flt = flights[i];   // object
+                // Defining the flight row
+                // "<td class='callsign'><p>"+flt.callsign.toUpperCase()+
+                var model = get_model(flt.model);
+                var flightrow = "<tr class='flightrow' id='"+flt.fid+"'>"+
+                    "<td class='fid'>"+flt.fid+"<\/td>"+
+                    "<td class='callsign'>"+flt.callsign+"<\/td>"+
+                    "<td class='lon'>"+flt.lon+"<\/td>"+
+                    "<td class='lat'>"+flt.lat+"<\/td>"+
+                    "<td class='hdg'>"+flt.hdg+"<\/td>"+
+                    "<td class='alt'>"+flt.alt_ft+"<\/td>"+
+                    "<td class='spd'>"+flt.spd_kts+"<\/td>"+
+                    "<td class='dist'>"+flt.dist_nm+"<\/td>"+
+                    "<td class='model'>"+model+"<\/td>"+
+                    "<\/tr>";
+                html += flightrow;
+                flightsdata.push($(flightrow))
+                datafids.push(JSON.stringify(flt.fid))
+            }; // for END each flight
+            html += "<\/table>";
+            $("#flights").html(html);
+            //$("#flights").html("<p>"+tm+": "+text+"<\/p>");
+            setTimeout("sendRequest('http://crossfeed.fgx.ch/flights.json')", 1800);
+        }
+    }
+    // XMLHttpRequest handling
+    function getXMLHttpRequest() {
+        var httpReq = null;
+        if (window.XMLHttpRequest) {
+            httpReq = new XMLHttpRequest();
+        } else if (typeof ActiveXObject != "undefined") {      
+            httpReq = new ActiveXObject("Microsoft.XMLHTTP")
+        }
+        return httpReq;
+    }
+           
+    function sendRequest(url) {
+        var req = getXMLHttpRequest();
+        req.onreadystatechange = workData;
+        req.open("GET", url);
+        req.send(null);
+    }
+    
+    function init() {
+        $("#flights").html("<p>Done init<\/p>");
+    }
+    
+    // ----------------------------------------------------------------------------------------------
+    // Utility functions
+    // ----------------------------------------------------------------------------------------------
+    // various guesses that it is ATC
+    function is_atc( callsign, model ) {
+        if (model == 'OpenRadar') return true;
+        var mod = model.toUpperCase();
+        var n = mod.indexOf('ATC');
+        if (n >= 0) return true;
+        n = callsign.indexOf('ATC');
+        if (n >= 0) return true;
+        return false;
+    }
+    // strip .xml extension, and strip '-model'
+    function strip_extent(txt) {
+        var n = txt.lastIndexOf('.');
+        if (n > 0) {
+            txt = txt.substr(0,n);
+            n = txt.indexOf('-model'); // like 'A-10-model'
+            if (n > 0) {
+                txt = txt.substr(0,n);
+            } else {
+                n = txt.indexOf('-jsbsim'); // like 'dr400-180-jsbsim'
+                if (n > 0) {
+                    txt = txt.substr(0,n);
+                }
+            }
+        }
+        return txt;
+    }
+    // remove path from model name, strip .xml extension, and limit length to 10 letters
+    function get_model(txt) {
+        var n = txt.lastIndexOf('/');
+        if (n > 0) {
+            txt = strip_extent(txt.substr(n+1));
+        }
+        if (txt.length > 10) {
+            txt = txt.substr(0,10);
+        }
+        return txt;
+    }
+    function getTimeStg() {
+        var date = new Date();
+        var mins = date.getMinutes();
+        var secs = date.getSeconds();
+        var tm = date.getHours() + ":" + (mins < 10 ? "0" : "") + 
+            mins + ":" + (secs < 10 ? "0" : "") + secs;
+        return tm;
+    }
+  </script>
+ </head>
+ <body>
+  <h1 align="center">
+   Crossfeed JSON
+  </h1>
+
+  <div id="flights">
+   Flights:
+  </div>
+  <p class="bot">
+   <a target="_blank"
+      href="http://tidy.sourceforge.net/"><img border="0"
+        src="images/checked_by_tidy.gif"
+        alt="checked by tidy"
+        width="32"
+        height="32"></a>&nbsp; <a href="http://validator.w3.org/check?uri=referer"
+      target="_blank"><img src="images/valid-html401.gif"
+        alt="Valid HTML 4.01 Transitional"
+        width="88"
+        height="31"></a>
+  </p>
+  <!-- This gives IE compatibility with the OpenLayers map init function -->
+  <script type="text/javascript"
+        defer="defer">
+  init();
+      sendRequest("http://crossfeed.fgx.ch/flights.json")
+  </script>
+ </body>
+</html>

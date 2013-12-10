@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>OpenLayers Popup</title>
+    <style type="text/css">
+      html, body, #basicMap {
+	  margin: 0;
+          width: 100%;
+          height: 100%;
+      }
+    </style>
+    <script src="js/OpenLayers.js"></script>
+    <script>
+    var circle_style = { 
+      strokeColor: '#ff0000', 
+      strokeOpacity: 0.5,
+      strokeWidth: 3,
+      fill: true
+    };
+    var markersLayer, marker, selectControl, layer, control;
+    var mapnik, fromProjection, toProjection, position;
+    function init(lat,lon,zoom) {
+        map = new OpenLayers.Map("basicMap", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+		});
+        mapnik         = new OpenLayers.Layer.OSM();
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
+        map.addLayer(mapnik);
+        map.addControl(new OpenLayers.Control.Permalink('permalink'));
+        map.addControl(new OpenLayers.Control.MousePosition());
+
+        // try a marker layer
+        // =================== FAILED ====================
+        markersLayer = new OpenLayers.Layer.Markers( "Markers" );
+    	map.addLayer(markersLayer);
+
+        marker = new OpenLayers.Marker(position);
+        marker.id = "1";
+    	markersLayer.addMarker(marker);
+        
+        // this code causes an event on a click on the marker, BUT
+        // openlayers reports #<Object> has no method 'getFeatureFromEvent'
+        // using either markersLayer.events.on(), or marker.events.on()
+        var select = new OpenLayers.Control.SelectFeature(markersLayer);
+        //markersLayer.events.on({
+        marker.events.on({
+                "featureselected": onFeatureSelect,
+                "featureunselected": onFeatureUnselect
+        });
+        map.addControl(select);
+        select.activate();   
+        
+        //marker.events.register("mousedown", marker, function() {
+            //alert('Clicked marker with id '+this.id);
+        //    onFeatureSelect(this);
+        //});
+        //    ============================================== */
+            
+        /* ==================== FAILED =======================
+        // markersLayer.events.on({
+        //marker.events.on({
+        layer.events.on({
+            'featureselected': onFeatureSelect,
+            'featureunselected': onFeatureUnselect
+        });
+        selectControl = new OpenLayers.Control.SelectFeature(layer);
+        //selectControl = new OpenLayers.Control.SelectFeature(markersLayer);
+        //selectControl = new OpenLayers.Control.SelectFeature(marker);
+          ===================================================== */
+          
+        /* ==================== FAILED =======================
+        layer = new OpenLayers.Layer.Vector("Vector Layer");
+        control = new OpenLayers.Control.SelectFeature(layer);
+        map.addControl(control);
+        control.activate();
+
+        layer.events.register("featureselected", layer, selected);
+
+        
+        var radius = 2000;  // TODO: what SIZE should the circle be? probably should DEPEND on zoom???
+          // distance to vertex, in map units
+        var sides = 30;     // docs say '20 approximates a circle'... so ...
+        var point = new OpenLayers.Geometry.Point(position.lon, position.lat);
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+                point,
+                radius,
+                sides,
+                0 );
+        var featurecircle = new OpenLayers.Feature.Vector(circle, null, circle_style);
+        //vectorLayer.addFeatures([featurecircle]);
+        layer.addFeatures([featurecircle]);
+          ===================================================== */
+         
+          
+        map.setCenter(position, zoom );
+    }
+    function selected (evt) {
+        alert(evt.feature.id + " selected on " + this.name);
+    }
+      
+    function onPopupClose(evt) {
+        // 'this' is the popup.
+        selectControl.unselect(this.feature);
+    }
+    function onFeatureSelect(evt) {
+        var feature = evt.feature;
+        console.log("Feature selected...");
+        //feature.geometry.getBounds().getCenterLonLat(),
+        var popup = new OpenLayers.Popup.FramedCloud("featurePopup",
+                             evt.lonlat,
+                             new OpenLayers.Size(100,100),
+                             "<h2>title: "+evt.id+ "</h2>" +
+                             "desc: "+evt.id,
+                             null, true, onPopupClose);
+        feature.popup = popup;
+        popup.feature = feature;
+        map.addPopup(popup);
+    }
+    function onFeatureUnselect(evt) {
+        var feature = evt.feature;
+        if (feature.popup) {
+            popup.feature = null;
+            map.removePopup(feature.popup);
+            feature.popup.destroy();
+            feature.popup = null;
+        }
+    }
+      
+    </script>
+  </head>
+  <body>
+    <div id="basicMap"></div>
+    <script type="text/javascript" defer="defer">
+
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+
+	var lat = gup2('lat',52.52);
+	var lon = gup2('lon',13.41);
+	var zoom = gup2('zoom',15);
+	init(lat,lon,zoom);
+    </script>
+  </body>
+</html>

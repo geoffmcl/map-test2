@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>OpenLayers Simplest Example</title>
+</head>
+<body>
+<div id="Map" style="height:500px"></div>
+<script src="js/OpenLayers.js"></script>
+<script>
+    var lat            = 47.35387;
+    var lon            = 8.43609;
+    var zoom           = 18;
+ 
+    var lat1 = 47.35446;
+    var lon1 =  8.43256;
+    var lat2 = 47.35361;
+    var lon2 =  8.43408;
+    var style = { 
+      strokeColor: '#0000ff', 
+      strokeOpacity: 0.5,
+      strokeWidth: 3
+    };
+    
+    var fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+    var toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+    var position       = new OpenLayers.LonLat(lon, lat).transform( fromProjection, toProjection);
+    var pos1 = new OpenLayers.LonLat(lon1, lat1).transform( fromProjection, toProjection);
+    var pos2 = new OpenLayers.LonLat(lon2, lat2).transform( fromProjection, toProjection);
+ 
+    //map = new OpenLayers.Map("Map");
+    map = new OpenLayers.Map("Map", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326") }
+        );
+    var mapnik         = new OpenLayers.Layer.OSM();
+    map.addLayer(mapnik);
+    map.addControl(new OpenLayers.Control.Permalink('permalink'));
+    map.addControl(new OpenLayers.Control.MousePosition());
+    map.addControl(new OpenLayers.Control.ScaleLine());
+ 
+    var markers = new OpenLayers.Layer.Markers( "Markers" );
+    map.addLayer(markers);
+    markers.addMarker(new OpenLayers.Marker(position));
+    //markers.addMarker(new OpenLayers.Marker(pos1));
+    //markers.addMarker(new OpenLayers.Marker(pos2));
+ 
+    var lineLayer = new OpenLayers.Layer.Vector("Line Layer");
+    map.addLayer(lineLayer);
+    var points = new Array(
+        new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+        new OpenLayers.Geometry.Point(lon2, lat2).transform( fromProjection, toProjection )
+    );
+    var line = new OpenLayers.Geometry.LineString(points);
+    var lineFeature = new OpenLayers.Feature.Vector(line, null, style);
+    lineLayer.addFeatures([lineFeature]);
+    
+    map.setCenter(position, zoom);
+</script>
+</body>
+</html>
+

@@ -1,0 +1,233 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!-- from : http://www.mail-archive.com/users@openlayers.org/msg11117.html -->
+    <title>tooltip3 demo</title>
+    <style type="text/css">
+html, body, #basicMap {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.olMarkerLabel { 
+font-size: small; 
+color: black; 
+background-color: #FFFFCC; 
+width: 150px; 
+padding: 1px; 
+border: 1px black solid; 
+z-index: 1000; 
+}       
+    </style>
+    <script src="js/OpenLayers.js"></script>
+    <script src="js/label.js"></script>
+    <script>
+    // testing of using Marker.Label (extended) class
+    var use_marker_label = true;
+    // if false, marker displayed, but no popup, and still the many
+    // Uncaught TypeError: Object #<Object> has no method 'getFeatureFromEvent'
+    var map, select;
+    var mapnik, fromProjection, toProjection, position, markers, marker;
+    var icon;
+    var circleLayer, lineLayer;
+    
+    // not getting mousemove location display!!!
+    var add_select = true; // is this needed? - seems YES???
+    var add_events_on = false; // but maybe not this? - hmmm NO? and the events are NOT fired anyway
+    var add_second_select = true; // what about this? - hmmm, popup shown but single error message 
+    // shown - Uncaught TypeError: Cannot read property 'events' of null
+    // With it 'true' popup shown, but get 'hundreds' of errors on 'mousemove'
+    // Uncaught TypeError: Object #<Object> has no method 'getFeatureFromEvent'
+    
+    var add_vector_layers = false;
+    
+    var add_2nd_marker = false;
+    var lon2 = 13.39416;
+    var lat2 = 52.51608;
+    function init(lat,lon,zoom) {
+        map = new OpenLayers.Map("basicMap", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+		});
+        mapnik         = new OpenLayers.Layer.OSM();
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        map.addLayer(mapnik);
+        map.addControl(new OpenLayers.Control.Permalink('permalink'));
+        map.addControl(new OpenLayers.Control.MousePosition());
+        
+        // can/should this be a vector layer - NO, has to be Layer.Markers to have 'AddMarker(marker)'!!!
+        // markers = new OpenLayers.Layer.Vector( "Markers" );
+        markers = new OpenLayers.Layer.Markers( "Markers" );
+    	map.addLayer(markers);
+        
+        //marker = new OpenLayers.Marker(position);
+        var ttTxt = " Marker lat="+lat+", lon="+lon+" ";
+        icon = new OpenLayers.Icon('js/img/marker.png');
+        if (use_marker_label) {
+            marker = new OpenLayers.Marker.Label(position, icon.clone(), ttTxt ,{mouseOver:true});
+        } else {
+            marker = new OpenLayers.Marker(position);
+        }
+    	markers.addMarker(marker);
+        if (add_2nd_marker) {
+            var pos = new OpenLayers.LonLat(lon2,lat2).transform( fromProjection, toProjection);
+            var icon2 = new OpenLayers.Icon('data/img/OM.png');
+            ttTxt = " Outer Marker at lat="+lat2+", lon="+lon2+" ";
+            marker = new OpenLayers.Marker.Label(pos, icon2.clone(), ttTxt ,{mouseOver:true});
+            markers.addMarker(marker);
+        }
+
+        
+        // does the tooltip get messed up if I add other layers
+        // YES IT DOES??? WHY???
+        if (add_vector_layers) {
+            // for circle drawing
+            console.log("Adding vector layers... circleLayer and lineLayer.");
+            circleLayer = new OpenLayers.Layer.Vector("Cicle Layer");
+            map.addLayer(circleLayer);
+            // for line drawing
+            lineLayer = new OpenLayers.Layer.Vector("Line Layer");
+            map.addLayer(lineLayer);
+        }
+        
+        map.setCenter(position, zoom );
+        
+        if (add_select) {
+            // seems this is NOT needed????
+            console.log("Adding select controls... select and highlightCtrl.");
+            //add the main select (for regular popups)
+            select = new OpenLayers.Control.SelectFeature(markers, {toggle:true, 
+                clickout: true});
+                
+            if (add_events_on) {
+                markers.events.on({ "featureselected": onMarkerSelect, 
+                    "featureunselected": onMarkerUnselect});
+            }
+            //add the second select for tooltips:
+            if (add_second_select) {
+                var highlightCtrl = new OpenLayers.Control.SelectFeature(markers, { 
+                    hover: true, highlightOnly: true, renderIntent: "temporary",
+                    eventListeners: { featurehighlighted: tooltipSelect, 
+                    featureunhighlighted: tooltipUnselect } });
+
+                //the order in which you add these lines seems to matter!
+                map.addControl(highlightCtrl);
+                map.addControl(select);
+
+                highlightCtrl.activate();
+            }
+            select.activate();
+        }
+        
+    }
+    
+//support functions
+var lastFeature = null;
+var tooltipPopup = null;
+
+function tooltipSelect(event){
+        var feature = event.feature;
+        var selectedFeature = feature;
+        console.log('tooltipSelect() fired');
+        //if there is already an opened details window, don\'t draw the tooltip
+        if(feature.popup != null){
+            return;
+        }
+        //if there are other tooltips active, destroy them
+        if(tooltipPopup != null){
+            map.removePopup(tooltipPopup);
+            tooltipPopup.destroy();
+            if(lastFeature != null){
+                delete lastFeature.popup;
+                tooltipPopup = null;
+            }
+        }
+        lastFeature = feature;
+        var tooltipPopup = new OpenLayers.Popup("activetooltip",
+                    feature.geometry.getBounds().getCenterLonLat(),
+                    new OpenLayers.Size(80,12),
+                    "&nbsp;"+feature.attributes.name,
+                    true );
+         //this is messy, but I'm not a CSS guru
+        tooltipPopup.contentDiv.style.backgroundColor='ffffcb';
+        tooltipPopup.closeDiv.style.backgroundColor='ffffcb';
+        tooltipPopup.contentDiv.style.overflow='hidden';
+        tooltipPopup.contentDiv.style.padding='3px';
+        tooltipPopup.contentDiv.style.margin='0';
+        tooltipPopup.closeOnMove = true;
+        tooltipPopup.autoSize = true;
+        feature.popup = tooltipPopup;
+        map.addPopup(tooltipPopup);
+    }
+    function tooltipUnselect(event){
+        var feature = event.feature;
+        console.log('tooltipUnselect() fired');
+        if(feature != null && feature.popup != null){
+            map.removePopup(feature.popup);
+            feature.popup.destroy();
+            delete feature.popup;
+            tooltipPopup = null;
+            lastFeature = null;
+        }
+    }
+
+    function onMarkerSelect(event) {
+        //unselect any previous selections
+        console.log('onMarkerSelect() fired');
+        tooltipUnselect(event);
+        var feature = event.feature;
+        var selectedFeature = feature;
+        var popup = new OpenLayers.Popup.FramedCloud("activeAlarm",
+                    feature.geometry.getBounds().getCenterLonLat(),
+                    new OpenLayers.Size(100,100),
+                    "Loading...<img src='http://$server/map/symbols/ajax-loader.gif' border=0>",
+                    null, true, onMarkerPopupClose );
+        feature.popup = popup;
+        popup.setOpacity(0.7);
+        map.addPopup(popup);
+        //call ajax to get the data
+        loadDetails(feature.attributes.description);
+    }
+    function onMarkerUnselect(event) {
+        console.log('onMarkerUnselect() fired');
+        var feature = event.feature;
+        if(feature.popup) {
+            map.removePopup(feature.popup);
+            feature.popup.destroy();
+            delete feature.popup;
+        }
+    }
+    function onMarkerPopupClose(evt) {
+        select.unselectAll();
+    }
+
+    </script>
+  </head>
+  <body>
+    <div id="basicMap"></div>
+    <script type="text/javascript" defer="defer">
+
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+
+	var lat = gup2('lat',52.52);
+	var lon = gup2('lon',13.41);
+	var zoom = gup2('zoom',15);
+	init(lat,lon,zoom);
+    </script>
+  </body>
+</html>
+
+
+

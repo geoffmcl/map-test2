@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>FramedCloud PopUp with Text File - OpenLayers - Demo with Source</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="stylesheet" href="js/theme/default/style.css" type="text/css">
+    <link rel="stylesheet" href="css/style2.css" type="text/css">
+
+    <style type="text/css">
+        html, body {
+            height: 100%;
+        }
+        #map {
+            width: 100%;
+            height: 70%;
+            border: 1px solid black;
+        }
+        .olPopup p { margin:0px; font-size: .9em;}
+        .olPopup h2 { font-size:1.2em; }
+    </style>
+<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+    <script type="text/javascript">
+        var lon = 5;
+        var lat = 40;
+        var zoom = 5;
+        var map, select;
+        var fromProjection, toProjection, position;
+
+        function init(){
+            map = new OpenLayers.Map('map');
+
+            var wms = new OpenLayers.Layer.WMS(
+                "OpenLayers WMS",
+                "http://vmap0.tiles.osgeo.org/wms/vmap0",
+                {layers: 'basic'}
+            );
+            fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+            toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+            position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
+
+            var sundials = new OpenLayers.Layer.Vector("KML");
+            //var sundials = new OpenLayers.Layer.Vector("KML", {
+            //    projection: map.displayProjection,
+            //    strategies: [new OpenLayers.Strategy.Fixed()],
+            //    protocol: new OpenLayers.Protocol.HTTP({
+			//url: "textfile.txt",
+			//format: new OpenLayers.Format.Text(
+			//	{
+			//		extractStyles: true,
+			//		extractAttributes: true
+			//	}
+			//)
+            //    })
+            //});
+
+            map.addLayers([wms, sundials]);
+            
+            select = new OpenLayers.Control.SelectFeature(sundials);
+            
+            sundials.events.on({
+                "featureselected": onFeatureSelect,
+                "featureunselected": onFeatureUnselect
+            });
+
+            map.addControl(select);
+            select.activate();   
+            //map.zoomToExtent(new OpenLayers.Bounds(68.774414,11.381836,123.662109,34.628906));
+            //map.zoomToMaxExtent();
+            map.setCenter(position, zoom );
+
+        }
+        function onPopupClose(evt) {
+            select.unselectAll();
+        }
+        function onFeatureSelect(event) {
+            var feature = event.feature;
+            // Since KML is user-generated, do naive protection against
+            // Javascript.
+            var content = "<h2>"+feature.attributes.title + "</h2>" + feature.attributes.description;
+            if (content.search("<script") != -1) {
+                content = "Content contained Javascript! Escaped content below.<br>" + content.replace(/</g, "&lt;");
+            }
+            popup = new OpenLayers.Popup.FramedCloud("chicken", 
+                                     feature.geometry.getBounds().getCenterLonLat(),
+                                     new OpenLayers.Size(100,100),
+                                     content,
+                                     null, true, onPopupClose);
+            feature.popup = popup;
+            map.addPopup(popup);
+        }
+        function onFeatureUnselect(event) {
+            var feature = event.feature;
+            if(feature.popup) {
+                map.removePopup(feature.popup);
+                feature.popup.destroy();
+                delete feature.popup;
+            }
+        }
+    </script>
+  </head>
+  <body onload="init()">
+      <h1 id="title">FramedCloud PopUp with Text File - OpenLayers</h1>
+
+	<p><a href="http://TeroKarvinen.com">&lt;&lt; Back to TeroKarvinen.com</a></p>
+
+      <div id="tags">
+          textfile, popup, FramedCloud
+      </div>
+
+      <p id="shortdesc">
+          FramedCloud popups with data points read from <a href="textfile.txt">a text file</a>. 
+	Based on the <a href="http://openlayers.org/dev/examples/sundials.html">Sundial example</a>. 
+	Original copyright <a href="http://openlayers.org/dev/authors.txt">OpenLayers contributors</a>, this version edited by 
+	<a href="http://TeroKarvinen.com">Tero Karvinen</a>. My modifications are under the same <a href="http://openlayers.org/dev/license.txt">license</a> you can find in a directory above sundial. 
+    </p>
+
+    <div id="map" class="smallmap"></div>
+
+    <div id="docs"></div>
+  </body>
+</html>
+
+
+<!--
+=== textfile.txt ===
+lat	lon	title	description	icon	iconSize	iconOffset
+48.9459301	9.6075669	Title One	Description one<br>Second line.<br><br>(click again to close)	Ol_icon_blue_example.png	24,24	0,-24
+48.9899851	9.5382032	Title Two	Description two.	Ol_icon_red_example.png	16,16	-8,-8
+
+=== link ===
+
+See you at http://TeroKarvinen.com/tag/openlayers
+-->

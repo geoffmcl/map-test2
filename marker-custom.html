@@ -1,0 +1,178 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <!-- from : http://permalink.gmane.org/gmane.comp.gis.openlayers.user/13274 -->
+        <title>OpenLayers Click Event Example</title>
+         
+        <link rel="stylesheet" href="js/theme/default/style.css" type="text/css" />
+        <link rel="stylesheet" href="css/style2.css" type="text/css" />
+         <script src="js/OpenLayers.js"></script>
+         <style>
+.smallmap {
+  width: 900px;
+  height: 550px;
+}
+        
+         </style>
+        <script type="text/javascript">
+    var def_lat = 37.59746; // 37.61867421125;
+    var def_lon = -122.31939;   // -122.37500760875;
+    var def_zoom = 12;
+    var SHADOW_Z_INDEX = 10;
+    var MARKER_Z_INDEX = 11;
+    var DIAMETER = 200;
+    var NUMBER_OF_FEATURES = 15;
+    var map,osm, osm_lite, layer;
+    var fromProjection, toProjection;
+    var use_pos_control = false;
+    function init() {
+        //map = new OpenLayers.Map('map');
+        map = new OpenLayers.Map("map", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326") }
+        );
+        osm = new OpenLayers.Layer.OSM("Normal OSM");
+        map.addLayer(osm);
+        osm_lite = new OpenLayers.Layer.OSM("Light OSM");
+        osm_lite.setOpacity(0.4);
+        map.addLayers([osm,osm_lite]);
+        
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        // original layers
+        //var ol_wms = new OpenLayers.Layer.WMS( "OpenLayers WMS",
+        //     "http://labs.metacarta.com/wms/vmap0?", {layers: 'basic'} );
+        //var jpl_wms = new OpenLayers.Layer.WMS( "NASA Global Mosaic",
+        // "http://t1.hypercube.telascience.org/cgi-bin/landsat7", 
+        //{layers: "landsat7"});
+        //jpl_wms.setVisibility(false);
+        // map.addLayers([ol_wms, jpl_wms]);
+        map.addControl(new OpenLayers.Control.ScaleLine());
+        map.addControl(new OpenLayers.Control.LayerSwitcher());
+        if (use_pos_control) {
+            map.addControl(new OpenLayers.Control.MousePosition());
+        } else {
+            map.events.register("mousemove", map, function(e) { 
+                var lonlat = map.getLonLatFromPixel( this.events.getMousePosition(e) );
+                var lltrans = lonlat.transform(toProjection,fromProjection);
+                OpenLayers.Util.getElement("coords").innerHTML = 'Position: '+lltrans;
+            });
+        }
+        // map.setCenter(new OpenLayers.LonLat(0, 0), 0);
+        // map.zoomToMaxExtent();
+        var pos = new OpenLayers.LonLat(def_lon,def_lat).transform( fromProjection, toProjection);
+        map.setCenter(pos, def_zoom);
+        
+        layer = new OpenLayers.Layer.Vector( "Markers w/ Drop Shadows",
+            {
+                styleMap: new OpenLayers.StyleMap({
+                    graphicYOffset: -25, // shift graphic up 28 pixels
+                    label : "${name}",
+                    // Set the external graphic and background graphic images.
+                    externalGraphic: "${icon}",
+                    backgroundGraphic: "js/img/marker_shadow.png",
+                    // Set the z-indexes of both graphics to make sure the background
+                    // graphics stay in the background (shadows on top of markers looks
+                    // odd; let's not do that).
+                    backgroundGraphicZIndex: SHADOW_Z_INDEX,
+                    graphicZIndex: MARKER_Z_INDEX,
+                    // Makes sure the background graphic is placed correctly relative
+                    // to the external graphic.
+                    backgroundXOffset: -2,
+                    backgroundYOffset: -20,
+                    pointRadius: 10
+                }),
+                    isBaseLayer: false,
+                    rendererOptions: {yOrdering: true}
+            });
+            
+        map.addLayers([layer]);
+            
+        // Add a drag feature control to move features around.
+        var dragFeature = new OpenLayers.Control.DragFeature(layer);
+        map.addControl(dragFeature);
+        dragFeature.activate();
+         
+        var click = new OpenLayers.Control.Click();
+        map.addControl(click);
+        click.activate();
+    }   // end init()
+
+    OpenLayers.Control.Click = OpenLayers.Class(OpenLayers.Control, 
+        {
+            defaultHandlerOptions: {
+                'single': true,
+                'double': false,
+                'pixelTolerance': 0,
+                'stopSingle': false,
+                'stopDouble': false
+            },
+            initialize: function(options) {
+                this.handlerOptions = OpenLayers.Util.extend(
+                    {}, this.defaultHandlerOptions
+                );
+                OpenLayers.Control.prototype.initialize.apply(
+                    this, arguments
+                ); 
+                this.handler = new OpenLayers.Handler.Click(
+                    this, {
+                        'click': this.trigger
+                    }, 
+                    this.handlerOptions
+                    );
+                }, 
+                trigger: function(e) {
+                    var lonlat = map.getLonLatFromViewPortPx(e.xy);
+                    //alert("You clicked near " + lonlat.lat + " N, " +lonlat.lon + " E");
+                    //layer.removeFeatures(layer.features);
+                    var features = [];
+                    // build a feature vector
+                    var myMarker = new OpenLayers.Feature.Vector(
+                        new OpenLayers.Geometry.Point(lonlat.lon , lonlat.lat)); 
+                    // get user selected label text, and chosen icon name
+                    var MarkerLabel= document.getElementById("Marker Label").value;
+                    var MarkerIcon= document.getElementById("Icon").value;
+                    myMarker.attributes = {
+                        name: MarkerLabel,
+                        icon: "js/img/" + MarkerIcon + ".png"
+                    };
+                    features.push(myMarker);
+                    layer.addFeatures(features);
+                 }
+        });
+
+        </script>
+    </head>
+    <body onload="init()">
+        <h1 id="title">Click Event Example with Custom Marker</h1>
+
+        <div id="tags">
+        </div>
+
+        <p id="shortdesc">
+            This example shows the use of the click handler and getLonLatFromViewPortPx 
+            function to trigger events on mouse click. It also shops how to add a custom 
+            marker with custom Icon with custom label, as a 'feature' to a vector layer.
+            It further demonstrates add a drag control.
+        </p>
+
+        <div id="map" class="smallmap"></div>
+    
+        <div id="docs">
+            <label for="Marker Label">Label</label>
+                 <input id="Marker Label" type="text" size="5" maxlength="5"
+                       name="Marker Label" value="a label" onchange="update()" />
+
+        <label for="Icon">Icon</label>
+            <select name="Icon" id="Icon">
+                <option value="marker" selected="selected">marker-red</option>
+                 <option value="marker-blue">marker-blue</option>
+                <option value="marker-gold">marker-gold</option>
+                <option value="marker-green">marker-green</option>
+             </select>
+        </div>
+        
+        <div id="coords"></div>
+        
+    </body>
+</html>

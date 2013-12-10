@@ -1,0 +1,49 @@
+Link,Description
+map-test.html,The main feature page. On selection show tracker.html
+airports.html,Crossfeed map with overlay that failes. How to stop the pink?
+circle-failed.html,No display!
+circle.html,Some experiments with circle sizes per zoom
+crossfeed.php,Just fetch the current flights.json list
+delete-vertex.html,Delete not working? Small map with toolbar and layeswitcher
+demof.html,Crossfeed map fairly clean copy
+devel-ok1.html,Previous backup copy
+devel.html,Crossfeed map with Model added to list. Links to tracker.html
+draw-feature.html,Small map with 4 layers in switcher to draw points lines etc with delete experiments
+globe.html,3D shell using threejs-demo.html in iframe
+highlight-feature.html,Simple highlight features example. No map.
+ietest.html,IE css test of position: absolute of two table
+index.html,This file
+index_fast.html,Crossfeed map will error in listing
+index_json2.html,Crossfeed map with error in listing like index-fast
+jquery.qtip.html,Hover popup toolstips using jquery.qtip.js
+map.html,Simple full windows map with a marker
+marker.html,Small map with mouse pos outside map adds diff. image markers on click has selector
+marker1.html,Simple map with marker and line draw
+moving.html,No map - Just entering text Add Task and Delete tasks in javascript
+nav.html,Started loading csv/json adding airports etc to display
+nav1.html,Full screen map with marker and selector and big zoom tool
+popup.html,Simple full map with marker but NO popup tooltip!
+popup2.html,No map jQuery UI Dialog - basic dialog display
+popup3.html,No map jQuery UI Dialog - Animated dialog display and destroy
+popup4.html,Small map test using ext-all-debug.js slider to dim map display
+proxy.php,Do a fetch given a url
+show-one-ok2.html,3D display of three.js json aircraft model
+show-one.html,3D display of three.js json aircraft model
+sundial2.html,FramedCloud Popup with Text File - OpenLayers - FAILS!
+testcss.html,Just testing some CSS
+threejs-demo.html,Started experiments with Theo's fgx-globe/fgx-globe-r3
+tooltip1.html,Full map with layer switcher and markers but custom tooltips does not appear?
+tooltip2.html,Full map with marker with hover tooltips using label.js
+tooltip3.html,Full map with marker with hover tooltips using label.js
+tracker.html,Development of a tracker - Used by globe 3D on flight selection
+updown.html,No map - moving entries in a tables - seeking table sort
+updown2.html,No map - moving entries in a tables - seeking table sort
+vector-features.html,Small no map random features marker line with tooltip popup
+json-load.html,Further experiments with csv/json loading
+marker-custom.html,Adding custom marker as feature to vector layer on click and drag
+testjs.html,Just some quick tests of javascript code
+testjs2.html,Test javascript input checkbox onclick
+flights.html,Simple table display of crossfeed json
+getip.html,Display the client IP
+testcss3.html,Test of rotating text - not all works!
+dist-test.html,Experiments with getting fast distance calculation

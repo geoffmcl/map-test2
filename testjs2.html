@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Test javescript 2</title>
+<style>
+ body { margin: 30px; }
+</style>
+<link rel="stylesheet" href="css/testcss.css" />
+  <script src="js/OpenLayers-2.14-dev.js"
+        type="text/javascript">
+</script>
+  <script src="js/OpenStreetMap.js"
+        type="text/javascript">
+</script>
+<script src='js/three.min.js'
+        type="text/javascript">
+</script>
+<script  src="js/jquery-2.0.3.js"
+        type="text/javascript">
+</script>
+<script  src="js/geodesic.js"
+        type="text/javascript">
+</script>
+<script type="text/javascript">
+    var startTime = new Date();
+    function centAir(val) {
+        var msg;
+        if (val)
+            msg = "Input clicked, and is checked";
+        else
+            msg = "Input clicked, and is off";
+        $("#info").html(msg);
+    }
+</script>
+
+</head>
+
+<body>
+
+<p>Just some javescript testing input...</p>
+
+<div id="centreAir"><p><input type="checkbox" onclick="centAir(this.checked);" checked>Center Aircraft</p></div>
+<div id="info">&nbsp;</div>
+  <script type="text/javascript"
+        defer="defer">
+        //init();
+</script>
+</body>
+</html>
+

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Get IP
+  </title>
+  <script src="js/jquery-2.0.3.js"
+        type="text/javascript">
+</script>
+ </head>
+ <body>
+  <script type="text/javascript">
+  $.getJSON("http://jsonip.appspot.com?callback=?",function(data){
+        //alert( "Your ip: " + data.ip);
+        document.write(data.ip);
+    });
+  </script>
+ </body>
+</html>

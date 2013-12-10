@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+      <body bgcolor=white>
+        <table width=100% height=100% cellpadding=0 cellspacing=0>
+          <tr>
+            <td valign=top style="padding: 5px;" rowspan=2 height=99%>
+              <script language="JavaScript">
+                function get( e ){ return( document.getElementById( e ) ); }
+
+                function findPosX( obj )
+                {
+                  var curleft = 0;
+                  if( obj.offsetParent )
+                  {
+                    while( obj.offsetParent )
+                    {
+                      curleft += obj.offsetLeft;
+                      obj = obj.offsetParent;
+                    }
+                  }
+                  else if( obj.x )  curleft += obj.x;
+                  return( curleft );
+                }
+
+                function findPosY( obj )
+                {
+                  var curtop = 0;
+                  if( obj.offsetParent )
+                  {
+                    while( obj.offsetParent )
+                    {
+                      curtop += obj.offsetTop;
+                      obj = obj.offsetParent;
+                    }
+                  }
+                  else if( obj.y ) curtop += obj.y;
+                  return( curtop );
+                }
+
+                function getClickX( e )
+                {
+                  if( !e ) e = event;
+                  var scrollLeft = document.body.scrollLeft;
+                  if( scrollLeft <= 0 && document.documentElement )
+                  {
+                    scrollLeft = document.documentElement.scrollLeft;
+                  }
+                  return( e.clientX + scrollLeft );
+                }
+
+                function getClickY( e )
+                {
+                  if( !e ) e = event;
+                  var scrollTop = document.body.scrollTop;
+                  if( scrollTop <= 0 && document.documentElement )
+                  {
+                    scrollTop = document.documentElement.scrollTop;
+                  }
+                  return( e.clientY + scrollTop );
+                }
+
+                window.onload = function()
+                {
+                  addTask( "" );
+                };
+
+                document.onclick = function()
+                {
+                  with( get("ControlDiv") )
+                  {
+                    style.visibility = "hidden";
+                  }
+                }
+
+                function RowFromPos( table, x, y )
+                {
+                  if( x >= findPosX( table ) && x < findPosX( table ) + table.clientWidth )
+                  {
+                    if( y >= findPosY( table ) && y < findPosY( table ) + table.clientHeight )
+                    {
+                      for( i = 0 ; i < table.rows.length ; i++ )
+                      {
+                        if( x >= findPosX( table.rows[i] ) && x < findPosX( table.rows[i] ) + table.rows[i].clientWidth &&
+                            y >= findPosY( table.rows[i] ) && y < findPosY( table.rows[i] ) + table.rows[i].clientHeight )
+                        {
+                          return( i );
+                        }
+                      }
+                    }
+                  }
+
+                  return( -1 );
+                }
+
+                var clickY = 0, dragRow = null;
+                function onDragBegin( row )
+                {
+                  document.onmouseup = onDragDrop;
+                  document.onmousemove = onDragDrag;
+
+                  dragRow = row;
+                  clickY = getClickY( event );
+                  dragRow.style.backgroundColor = "gold";
+                }
+
+                function onDragDrag()
+                {
+                  var curX = getClickX( event );
+                  var curY = getClickY( event );
+                  var rowIndex = RowFromPos( get("TaskTable"), curX, curY );
+
+                  if( rowIndex != -1 && rowIndex != dragRow.rowIndex )
+                  {
+                    if( rowIndex < dragRow.rowIndex )
+                    {
+                      // Move Up
+                      var parent = dragRow.parentNode;
+                      var prev = dragRow.previousSibling;
+                      if( prev )
+                      {
+                        parent.removeChild( dragRow );
+                        parent.insertBefore( dragRow, prev );
+                      }
+                    }
+                    else
+                    {
+                      // Move down
+                      var next = dragRow.nextSibling;
+                      var par = dragRow.parentNode;
+                      par.removeChild( dragRow );
+                      if( next.nextSibling )
+                      {
+                        par.insertBefore( dragRow, next.nextSibling );
+                      }
+                      else
+                      {
+                        par.appendChild( dragRow );
+                      }
+                    }
+                  }
+                }
+
+                function onDragDrop()
+                {
+                  document.onmouseup = null;
+                  document.onmousemove = null;
+
+                  dragRow.style.backgroundColor = "";
+                  fixTable();
+                }
+
+                function addTask( task)
+                {
+                  var table = get("TaskTable");
+                  var row = table.insertRow( table.rows.length );
+
+                  var cell = row.insertCell( row.cells.length );
+                  cell.align = "right"; cell.vAlign = "bottom";
+                  cell.width = "1%"; cell.noWrap = true;
+                  cell.innerHTML = "<b>0.</b>";
+
+                  cell = row.insertCell( row.cells.length );
+                  cell.width = "99%";
+
+                  var div = document.createElement("DIV");
+                  div.designMode = "on";
+                  div.contentEditable = true;
+                  div.style.width = "99%";
+                  div.style.height = "50px";
+                  div.style.border = "1px solid black";
+                  div.style.padding = "2px";
+                  div.style.overflow = "scroll";
+                  div.style.overflowX = "auto";
+                  div.style.cursor = "text";
+                  div.innerHTML = ( task != "" ? task : "<font color=\"gray\" face=\"Tahoma\">Enter task desciption here</font>" );
+                  div.onfocus = function()
+                  {
+                    if( this.innerText == "Enter task desciption here" )
+                    {
+                      this.innerHTML = "";
+                    }
+                    event.cancelBubble = true;
+                    showControlDiv( this );
+                  }
+                  div.onclick = function()
+                  {
+                    event.cancelBubble = true;
+                  };
+                  div.onblur = function()
+                  {
+                    if( this.innerText.replace(/^\s*/, "").replace(/\s*$/, "") == "" )
+                    {
+                      this.innerHTML = "<font color=\"gray\" face=\"Tahoma\">Enter task desciption here</font>";
+                    }
+                  }
+                  div.onselectstart = function()
+                  {
+                    event.cancelBubble = true;
+                  };
+                  cell.appendChild( div );
+
+                  cell = row.insertCell( row.cells.length );
+                  cell.width = 15; cell.align = "right"; cell.vAlign = "bottom";
+                  cell.innerHTML = "<font color=red face=Tahoma size=2 style='cursor: pointer;' onclick='JavaScript: deleteTask( this.parentElement.parentElement.rowIndex );'><b>X</b></a>";
+
+                  var handle = document.createElement( "DIV" );
+                  handle.innerHTML = "<font color=green size=6><b>*</b></font>";
+                  handle.style.cursor = "n-resize";
+                  handle.onmousedown = function()
+                  {
+                    onDragBegin( this.parentElement.parentElement );
+                  };
+                  cell.appendChild( handle );
+
+                  fixTable();
+                }
+
+                function deleteTask( row )
+                {
+                  get("TaskTable").deleteRow( row );
+                  fixTable();
+                }
+
+                function deleteAll()
+                {
+                  var table = get("TaskTable");
+                  while( table.rows.length > 0 ) table.deleteRow( 0 );
+                }
+
+                function fixTable()
+                {
+                  var numTask = 0;
+                  var table = get("TaskTable");
+                  for( var i = 0 ; i < table.rows.length ; i++ )
+                  {
+                    numTask++;
+                    table.rows[i].cells[0].innerHTML = "<b>" + numTask + ".</b>";
+                  }
+                }
+
+                function showControlDiv( parent )
+                {
+                  var div = get("ControlDiv");
+                  var x = findPosX( parent );
+                  var y = findPosY( parent );
+
+                  div.style.top = ( y - 39 ) + "px";
+                  div.style.left = x + "px";
+                  div.style.width = ( parent.offsetWidth - 17 ) + "px";
+                  div.style.visibility = "visible";
+                }
+              </script>
+
+              <form method=post action="blah">
+
+                <div unselectable=on id=ControlDiv style=" visibility: hidden; position: absolute; top: -1000px; left: -1000px;; padding-top: 3px; padding-left: 15px; background-color: white; border: 1px solid black; border-bottom: 0px; border-top-left-radius: 15px; border-top-right-radius: 15px; width: 100%; height: 35px;">
+                  <button unselectable=on style="border: 1px solid black; width: 30px; height: 30px; display: inline; text-align: center; cursor: pointer; margin-right: 10px;" onclick="JavaScript: event.cancelBubble=true; document.execCommand( 'Bold' ); return( false );"><font size=4><b>B</b></b></font></button>
+                  <button unselectable=on style="border: 1px solid black; width: 30px; height: 30px; display: inline; text-align: center; cursor: pointer; margin-right: 10px;" onclick="JavaScript: event.cancelBubble=true; document.execCommand( 'Italic' ); return( false );"><font size=4><i>I</b></i></font></button>
+                  <button unselectable=on style="border: 1px solid black; width: 30px; height: 30px; display: inline; text-align: center; cursor: pointer; margin-right: 10px;" onclick="JavaScript: event.cancelBubble=true; document.execCommand( 'Underline' ); return( false );"><font size=4><u>U</b></u></font></button>
+                  <!-- <button unselectable=on style="border: 1px solid black; width: 30px; height: 30px; display: inline; text-align: center; cursor: pointer; margin-right: 10px;" onclick="JavaScript: event.cancelBubble=true; return( false );"><img src=images/img.bmp></button> -->
+                  Font Face:
+                  <select unselectable=on style="width: 200px; margin-right: 10px;" onclick="JavaScript: event.cancelBubble=true;" onchange="JavaScript: document.execCommand( 'FontName', false, this.value ); return( false );">
+                    <option value="Times New Roman">Times New Roman</option>
+                    <option value="Courier New">Courier New</option>
+                    <option value="Tahoma">Tahoma</option>
+                  </select>
+                  Font Size:
+                  <select unselectable=on style="width: 75px;" onclick="JavaScript: event.cancelBubble=true;" onchange="JavaScript: document.execCommand( 'FontSize', false, this.value ); return( false );">
+                    <option value=1>1 (8pt)</option>
+                    <option value=2>2 (10pt)</option>
+                    <option value=3 selected>3 (12pt)</option>
+                    <option value=4>4 (14pt)</option>
+                    <option value=5>5 (18pt)</option>
+                    <option value=6>6 (24pt)</option>
+                    <option value=7>7 (36pt)</option>
+                  </select>
+                </div>
+
+                <br><br><br>
+                <table width=100% onselectstart="JavaScript: return( false );">
+                  <tr>
+                    <td width=1% nowrap><font size=5><b>Task List:</b></font></td>
+                    <td width=33% align=center style="color: blue; font-family: Tahoma; cursor: pointer;" onclick="JavaScript: addTask( '', false );"><font size=5>+</font>&nbsp;Add Task</td>
+                    <td width=33% align=center style="color: red; font-family: Tahoma; cursor: pointer;" onclick="JavaScript: if( confirm( 'Are you sure you want to delete all tasks from this template?' ) ) deleteAll();"><font size=2><b>X</b></font>&nbsp;Delete All</td>
+                  </tr>
+                </table>
+                <table width=100% id=TaskTable cellspacing=0 onselectstart="JavaScript: return( false );"></table>
+              </form>
+              <br><br><br><br><br>
+            </td>
+          </tr>
+        </table>
+      </body>
+    </html>

@@ -1,0 +1,21 @@
+{"success":true,"source":"cf-client","last_updated":"2013-01-06 20:11:32","flights":[
+{"fid":1357501463000,"callsign":"bolide","lat":35.809925,"lon":-120.594907,"alt_ft":25001,"model":"Aircraft/B-2/Models/b2-spirit.xml","spd_kts":544,"hdg":137,"dist_nm":182},
+{"fid":1357496019000,"callsign":"AVA0512","lat":21.140477,"lon":-81.990414,"alt_ft":40775,"model":"Aircraft/il-96-400/Models/il-96-400T.xml","spd_kts":486,"hdg":224,"dist_nm":810},
+{"fid":1357501875000,"callsign":"LH130","lat":48.756675,"lon":9.577245,"alt_ft":2941,"model":"Aircraft/A330-300/Models/A330-343.xml","spd_kts":177,"hdg":295,"dist_nm":87},
+{"fid":1357503078000,"callsign":"andreaf","lat":37.344493,"lon":-121.857969,"alt_ft":1280,"model":"Aircraft/c172p/Models/c172p.xml","spd_kts":65,"hdg":312,"dist_nm":0},
+{"fid":1357496352000,"callsign":"MIA0586","lat":39.170036,"lon":-76.608148,"alt_ft":1167,"model":"Aircraft/CRJ700-family/Models/CRJ700FFC.xml","spd_kts":171,"hdg":274,"dist_nm":612},
+{"fid":1357497793000,"callsign":"R-wrg","lat":59.801392,"lon":30.268149,"alt_ft":90,"model":"Aircraft/777/Models/777-200ER.xml","spd_kts":10,"hdg":17,"dist_nm":210},
+{"fid":1357498747000,"callsign":"PHNL_TW","lat":21.317454,"lon":-157.916030,"alt_ft":13,"model":"OpenRadar","spd_kts":0,"hdg":48,"dist_nm":0},
+{"fid":1357500719000,"callsign":"FF-RS4","lat":-24.899002,"lon":-43.520077,"alt_ft":3463,"model":"Aircraft/F-7MG/Models/F-7MG.xml","spd_kts":722,"hdg":265,"dist_nm":295},
+{"fid":1357500354000,"callsign":"ESA_06","lat":38.793749,"lon":-90.461678,"alt_ft":6937,"model":"Aircraft/Gloster-Meteor/Models/gloster-meteor.xml","spd_kts":429,"hdg":277,"dist_nm":284},
+{"fid":1357500575000,"callsign":"PaimRS","lat":-22.839699,"lon":-43.085538,"alt_ft":7172,"model":"Aircraft/777-200/Models/777-200ER.xml","spd_kts":301,"hdg":148,"dist_nm":204},
+{"fid":1357502183000,"callsign":"BENJI","lat":21.456718,"lon":-157.463302,"alt_ft":10556,"model":"Aircraft/737NG800/Models/738.xml","spd_kts":346,"hdg":345,"dist_nm":33},
+{"fid":1357501294000,"callsign":"D-DD9EF","lat":53.763255,"lon":8.645234,"alt_ft":720,"model":"Aircraft/eurofighter/Models/Typhoon.xml","spd_kts":300,"hdg":341,"dist_nm":124},
+{"fid":1357502912000,"callsign":"OK-LUK","lat":-23.426308,"lon":-42.595911,"alt_ft":6412,"model":"Aircraft/A320neo/Models/A320neo.xml","spd_kts":208,"hdg":219,"dist_nm":9},
+{"fid":1357501981000,"callsign":"KL-314","lat":52.316769,"lon":4.749790,"alt_ft":-9,"model":"Aircraft/fokker100/Models/fokker100.xml","spd_kts":40,"hdg":290,"dist_nm":0},
+{"fid":1357502179000,"callsign":"RUIVO","lat":38.766086,"lon":-9.144171,"alt_ft":346,"model":"Aircraft/777/Models/777-200LR.xml","spd_kts":3,"hdg":23,"dist_nm":0},
+{"fid":1357502492000,"callsign":"fael","lat":-22.801261,"lon":-43.246141,"alt_ft":26,"model":"Aircraft/bo105/Models/bo105.xml","spd_kts":3,"hdg":245,"dist_nm":6},
+{"fid":1357502763000,"callsign":"Goose","lat":37.426211,"lon":-122.092430,"alt_ft":421,"model":"Aircraft/SenecaII/Models/SenecaII.xml","spd_kts":114,"hdg":294,"dist_nm":7},
+{"fid":1357502866000,"callsign":"FTL579","lat":18.080628,"lon":-63.103904,"alt_ft":1267,"model":"Aircraft/DR400-jsbSim/Models/dr400-jsbSim.xml","spd_kts":93,"hdg":4,"dist_nm":3},
+{"fid":1357502989000,"callsign":"AUA422","lat":46.977840,"lon":15.443255,"alt_ft":1090,"model":"Aircraft/f-14b/Models/f-14b.xml","spd_kts":2,"hdg":349,"dist_nm":0} 
+]}

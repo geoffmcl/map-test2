@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Up-Down 2</title>
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+<script type="text/javascript" src="js/jquery-2.0.3.js"></script>
+<script type="text/javascript">
+
+    jQuery(function($) {
+      
+      var tableOne = $('#one'),
+          tableTwo = $('#two'),
+          sequenceIndex = $('.sequence').index(),
+          moved = [];
+      
+      function addChecked(e) {
+        tableOne.find(':checked').each(function() {
+          var row = $(this).closest('tr'),
+              clone;
+          
+          // check if the row we're trying to 
+          // move has already been moved
+          if ($.inArray(row[0], moved) < 0) {
+            
+            // cache this row so we 
+            // know it's been moved
+            moved.push(row[0]);
+            
+            // clone and append to table2.
+            // store original row as data 
+            // so that we can remove from 
+            // cache when rows are removed
+            clone = row.clone()
+              .data('orig', row[0])
+              .appendTo(tableTwo.find('tbody'));
+            
+            // because table1 doesn't have the same
+            // number of columns as table2 we have to
+            // create an extra column within the row  
+            // to hold the sequence num
+            $('<td/>').insertAfter(clone.find('td').eq(sequenceIndex-1));
+          }
+        });
+        
+        updateSequence();
+        e.preventDefault();
+      }
+      
+      function removeChecked(e) {
+        tableTwo.find(':checked').each(function() {
+          var row = $(this).closest('tr'),
+              // get the index of this row within the cache
+              position = moved.indexOf(row.data('orig'));
+         
+          // remove this row from the cache
+          moved.splice(position, 1);
+          
+          // remove this row from the DOM
+          row.remove();
+        });
+        
+        updateSequence();
+        e.preventDefault();
+      }
+      
+      function moveUpDown(e) {
+        var button = $(this),
+            isUp = button.hasClass('up'),
+            rows = tableTwo.find(':checked').closest('tr');
+        
+        if (!isUp) {
+          // if we're going down we need to 
+          // reverse the row array so that the
+          // rows don't just switch around
+          Array.prototype.reverse.call(rows);
+        }
+        
+        rows.each(function() {
+          var checked = $(this),
+              nextPrev = checked[isUp ? 'prev' : 'next']();
+          
+          // move the row
+          if (nextPrev.length) {
+            checked[isUp ? 'insertBefore' : 'insertAfter'](nextPrev);
+          }
+        });
+        
+        updateSequence();
+        e.preventDefault();
+      }
+      
+      function updateSequence() {
+        tableTwo.find('tr').each(function() {
+          var row = $(this),
+              sequence = row.index()+1;
+          
+          row.find('td').eq(sequenceIndex).text(sequence);
+        });
+      }
+      
+      $('#add').on('click', addChecked);
+      $('#remove').on('click', removeChecked);
+      $('.up, .down').on('click', moveUpDown);
+    });
+</script>
+
+</head>
+<body>
+<table id="one" style="border:1px solid red;">
+    <caption>Table 1</caption>
+<thead>
+<tr>
+<th></th>
+<th >ID</th>
+<th> Name</th>
+<th>System</th>
+</tr>
+</thead>
+    <tbody>
+      <tr>
+        <td><input type="checkbox" /></td>
+        <td>12</td>
+        <td>Sam</td>
+        <td>FSS</td>
+     </tr>
+  
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>87</td>
+        <td>Harry</td>
+        <td>MSS</td>
+     </tr>
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>23</td>
+        <td>Rita</td>
+        <td>MVV</td>
+     </tr>
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>65</td>
+        <td>Tom</td>
+        <td>RDD</td>
+     </tr>   
+   </tbody>
+</table>
+
+<table id="two" style="border:1px solid green;">
+    <caption>Table 2</caption>
+<thead>
+<tr>
+<th></th>
+<th >ID</th>
+<th class="sequence">Sequence No</th>
+<th>Name</th>
+<th>System</th>
+</tr>
+</thead>
+    <tbody>
+
+    </tbody>
+
+</table>
+<br><hr><br>
+<button id="add">Add</button>
+<button id="remove">Remove</button>
+<button class="up">UP</button>
+<button class="down">DOWN</button>
+</body>
+</html>
+

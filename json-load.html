@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type"
+        content="text/html; charset=us-ascii">
+  <title>
+   ICAO json load
+  </title>
+  <script src="js/OpenLayers-2.14-dev.js"
+        type="text/javascript">
+</script>
+  <script src="js/OpenStreetMap.js"
+        type="text/javascript">
+</script>
+  <script src='js/three.min.js'
+        type="text/javascript">
+</script>
+  <script src="js/jquery-2.0.3.js"
+        type="text/javascript">
+</script>
+  <script src="js/geodesic.js"
+        type="text/javascript">
+</script>
+  <style type="text/css">
+html, body, #map {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+#status_line {
+    position: absolute;
+    font-size: 12px;
+    bottom: 1em;
+    left: 10em;
+    width: 800px;
+    z-index: 1000;
+    vertical-align: middle;
+    border: 1px solid #000000;
+    background-color: white;
+}
+.nob {
+    border: 0;
+    padding: 0;
+}
+
+.olMarkerLabel { 
+font-size: small; 
+color: black; 
+background-color: #FFFFCC; 
+width: 150px; 
+padding: 1px; 
+border: 1px black solid; 
+z-index: 1000; 
+}       
+
+  </style>
+  <script type="text/javascript">
+   var startTime = new Date();
+   var FGx = FGx || {};
+   var def_lat = 37.61867421125;
+   var def_lon = -122.37500760875;
+   var def_zoom = 12;
+   var max_ils_rng = 15;   // was 10, but...
+   var NM2KM = 1.852;
+   
+  // ondemand loading of ICAO.json
+   var jsonLoaded = {};    // loaded json ICAO files
+   var jsonDone = [];  // do not repeatedly load a failed file
+   
+   var map, mapnik, fromProjection, toProjection, position;
+   // layers to present
+   var airportLabel, airportRunways, airportILS, ILSLabels, airportMarkers, airportCircles;
+   var heliportCircles, heliMarkers;
+   var NDBLayer, VORLayer;
+   
+    var curr_lat1, curr_lon1, curr_lat2, curr_lon2;
+    var curr_zoom = 0;
+    var airFound = [];
+    var heliFound = [];
+    var paintedICAO = [];   // painted ICAO
+    var navFound = [];
+    
+    var blue_style = { 
+      strokeColor: '#0000ff', 
+      strokeOpacity: 0.5,
+      strokeWidth: 2,
+      fill: false
+    };
+    
+   // misc functions
+/**
+ * Object.size = function(obj)
+ * @param  (object) Object to get the size of
+ * @return (int)    Length of the object
+ */
+Object.size = function(obj) {
+    var size = 0, key;
+    for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++;
+    }
+    return size;
+};
+   
+var labelStyle = new OpenLayers.Style({
+    externalGraphic: "images/background_trans.png",
+    //externalGraphic: "images/label_background.gif",
+    graphicWidth: "${labelWidth}",
+    graphicHeight: "13", 
+    graphicOpacity: 0.99,
+    graphicXOffset: "${labelOffset}", 
+    graphicYOffset: 14,
+    fillColor: "#000000",
+    fillOpacity: 0.0,
+    strokeWidth: 0.0,
+    label : "${icao}",
+    //fontColor: "#CCCCCC", 
+    fontColor: "#000000", 
+    fontSize: "11px", 
+    fontFamily: "\"DejaVuSansMonoBold\",monospace", 
+    fontWeight: "normal",
+    labelAlign: "center",
+    labelXOffset: "0",
+    labelYOffset: "-22" });
+             
+  function 	init(lat,lon,zoom) {
+    FGx.callbackCount = 0;
+    map = new OpenLayers.Map("map", {
+        projection: new OpenLayers.Projection("EPSG:3857"),
+        // this sets wgs84/4326 as default for display coords
+        displayProjection: new OpenLayers.Projection("EPSG:4326") }
+    );
+    mapnik         = new OpenLayers.Layer.OSM();
+    fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+    toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+    position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+    
+    map.addLayer(mapnik);
+    map.addControl(new OpenLayers.Control.Permalink('permalink'));
+    map.addControl(new OpenLayers.Control.MousePosition());
+    map.addControl(new OpenLayers.Control.ScaleLine());
+    map.addControl(new OpenLayers.Control.LayerSwitcher());
+
+    // airportLabel, airportRunways, airportILS, ILSLabels, airportMarkers;
+    // NDBLayer, VORLayer;
+    //labelLayer = new OpenLayers.Layer.Vector("Label Layer", {styleMap: labelStyle});
+
+    airportLabel = new OpenLayers.Layer.Vector( "Airport Labels", {styleMap: labelStyle} );
+    map.addLayer(airportLabel);
+    airportRunways = new OpenLayers.Layer.Vector( "Airport Runways" );
+    map.addLayer(airportRunways);
+    airportMarkers = new OpenLayers.Layer.Markers( "Airport Markers" );
+    map.addLayer(airportMarkers);
+    airportCircles = new OpenLayers.Layer.Vector("Airport Circles");
+    map.addLayer(airportCircles);
+    airportILS = new OpenLayers.Layer.Vector( "Airport ILS" );
+    map.addLayer(airportILS);
+    ILSLabels = new OpenLayers.Layer.Vector( "ILS Labels", {styleMap: labelStyle} );
+    map.addLayer(ILSLabels);
+    heliportCircles = new OpenLayers.Layer.Vector("Heliport Circles");
+    map.addLayer(heliportCircles);
+    heliMarkers = new OpenLayers.Layer.Markers("Heliport Markers");
+    // heliMarkers.setOpacity(0.5);    // guestimate only
+    map.addLayer(heliMarkers);
+    NDBLayer = new OpenLayers.Layer.Vector( "NDB Layer" );
+    map.addLayer(NDBLayer);
+    VORLayer = new OpenLayers.Layer.Vector( "VOR Layer" );
+    map.addLayer(VORLayer);
+
+ 
+    map.setCenter(position, zoom );
+ 
+    map.events.register('zoomend', undefined, zoomChanged);
+    map.events.register('moveend', undefined, moveEnded);
+ 
+    console.log("Done init...");
+    showStatus();
+  }
+
+    function zoomChanged() {
+        setGLobalBounds();
+        findAirports();  // add any new airports in the view
+    }
+    
+    function moveEnded() {
+        setGLobalBounds();
+        findAirports();  // add any new airports in the view
+    }
+   /**
+     * function searchAirports( lat1, lon1, lat2, lon2 );
+     * Top Left corner
+     * @param (number) Maximum latitude
+     * @param (number) Minimum longitude
+     * Bottom Right corner
+     * @param (number) Minimum latitude
+     * @param (number) Maximum longitude
+     * @return (array) Array of indexes of airports within bounding box
+     * search airports from a -icao.CSV file
+     * 0    1                2         3            4       5
+     * icao,"name",          lat,      lon,         runways,ils
+     * 00C,"Animas Air Park",37.203178,-107.8691945,1,      0
+     */
+    function searchAirports( lat1, lon1, lat2, lon2 ) {
+        var max = FGx.airports.length;
+        var i, air, nlat, nlon, id, cnt;
+        var newFound = [];
+        for (i = 1; i < max; i++) {
+            air = FGx.airports[i];
+            nlat = parseFloat(air[2]);
+            nlon = parseFloat(air[3]);
+            if ((nlat <= lat1)&&(nlat >= lat2)&&
+                (nlon >= lon1)&&(nlon <= lon2)) {
+                if (i in airFound) {
+                    // already in list
+                } else {
+                    airFound.push(i); // just need an index
+                    newFound.push(i);
+                }
+            }
+        }
+        return newFound; // return the NEW found
+    }
+    /**
+     * function searchHelipads( lat1, lon1, lat2, lon2 );
+     * Top Left corner
+     * @param (number) Maximum latitude
+     * @param (number) Minimum longitude
+     * Bottom Right corner
+     * @param (number) Minimum latitude
+     * @param (number) Maximum longitude
+     * @return (array) Array of indexes of airports within bounding box
+     * search airports from a -heli.CSV file
+     * 0    1                     2           3             4       5
+     * icao,"name",               lat,        lon,          runways,ils
+     * 00E, "[h] Apache Junction",33.49421222,-111.64124806,0,      0
+     */
+    function searchHelipads( lat1, lon1, lat2, lon2 ) {
+        var max = FGx.helipads.length;
+        var i, air, nlat, nlon, id, cnt;
+        newFound = [];
+        for (i = 1; i < max; i++) {
+            air = FGx.helipads[i];
+            nlat = parseFloat(air[2]);
+            nlon = parseFloat(air[3]);
+            if ((nlat <= lat1)&&(nlat >= lat2)&&
+                (nlon >= lon1)&&(nlon <= lon2)) {
+                if (i in heliFound) {
+                    // aready found and painted
+                } else {
+                    heliFound.push(i); // just need an index
+                    newFound.push(i);
+                }
+            }
+        }
+        return newFound; // return the found
+    }
+    
+    /** 
+     * function searchNavAids( lat1, lon1, lat2, lon2, type );
+     * @param (Float) Degrees of hightest (N) latitude
+     * @param (Float) Degrees of least (W) longitude
+     * @param (Float) Degrees of lowest (S) latitude
+     * @param (Float) Degrees of most (E) longitude
+     * @param (?) ??? not used
+     */
+    function searchNavaids( lat1, lon1, lat2, lon2, type ) {
+        var max = FGx.navaids.length;
+        var i, nav, nlat, nlon, id, cnt;
+        newFound = [];
+        for (i = 1; i < max; i++) {
+            nav = FGx.navaids[i];
+            nlat = parseFloat(nav[1]);
+            nlon = parseFloat(nav[2]);
+            if ((nlat <= lat1)&&(nlat >= lat2)&&
+                (nlon >= lon1)&&(nlon <= lon2)) {
+                if (i in navFound) {
+                    // aleady done
+                } else {
+                    navFound.push(i); // just need an index
+                    newFound.push(i);
+                }
+            }
+        }
+        return newFound; // return the found
+    }
+    
+    function paintHelipad( alat, alon, icao ) {
+        // Heliport
+        var green_style = { 
+          strokeColor: '#004000', 
+          strokeOpacity: 0.5,
+          strokeWidth: 2,
+          fill: false
+        };
+        var pos = new OpenLayers.LonLat(alon,alat).transform( fromProjection, toProjection );
+        var point = new OpenLayers.Geometry.Point(pos.lon,pos.lat);
+        // put a green circle
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+                        point,
+                        600,
+                        20,
+                        0 );
+        var feat = new OpenLayers.Feature.Vector(circle, null, green_style);
+        var circ2 = OpenLayers.Geometry.Polygon.createRegularPolygon(
+                        point,
+                        1600,
+                        20,
+                        0 );
+        var feat2 = new OpenLayers.Feature.Vector(circ2, null, green_style);
+        heliportCircles.addFeatures([feat,feat2]);
+        
+        // TODO: Add heliport marker
+        var icon = new OpenLayers.Icon('data/img/HP.gif');
+        var marker = new OpenLayers.Marker(point, icon);
+        heliMarkers.addMarker(marker);
+        
+        if (curr_zoom >= 8) {
+            addLabel(icao, alon, alat, airportLabel);
+        }
+    }
+    
+    function paintVORRose( nlat, nlon ) {
+        var p1, p2, hdg, dist1, dist2;
+        dist1 = 3.25;
+        dist2 = 0.4;
+        for (hdg = 0; hdg < 360; hdg += 10) {
+            if ((hdg == 0)||(hdg == 90)||(hdg == 180)||(hdg == 270))
+                dist2 = 0.4;
+            else
+                dist2 = 3.0;
+            p1 = getDirect( nlat, nlon, hdg, dist1 ); // outter point
+            p2 = getDirect( nlat, nlon, hdg, dist2 ); // inner point
+            paintLine( p2._lat, p2._lon, p1._lat, p1._lon, blue_style, VORLayer );
+        }
+    }
+    function paintNDBRose( nlat, nlon ) {
+        var p1, p2, hdg, dist1, dist2;
+        dist1 = 3.25;
+        dist2 = 0.4;
+        for (hdg = 0; hdg < 360; hdg += 45) {
+            if ((hdg == 0)||(hdg == 90)||(hdg == 180)||(hdg == 270))
+                dist2 = 0.4;
+            else
+                dist2 = 3.0;
+            p1 = getDirect( nlat, nlon, hdg, dist1 ); // outter point
+            p2 = getDirect( nlat, nlon, hdg, dist2 ); // inner point
+            paintLine( p2._lat, p2._lon, p1._lat, p1._lon, blue_style, NDBLayer );
+        }
+    }
+    function paintCircle( nlat, nlon, radius, style, layer ) {
+        var pos = new OpenLayers.LonLat(nlon,nlat).transform( fromProjection, toProjection );
+        var point = new OpenLayers.Geometry.Point(pos.lon,pos.lat);
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+                        point,
+                        radius,
+                        20,
+                        0 );
+        var feat = new OpenLayers.Feature.Vector(circle, null, style);
+        layer.addFeatures([feat]);
+    }
+    
+    function drawNavaid(nav) {
+        var typ = parseInt(nav[0]);
+        var nlat = parseFloat(nav[1]);
+        var nlon = parseFloat(nav[2]);
+        //var pos = new OpenLayers.LonLat(nlon,nlat).transform( fromProjection, toProjection );
+        if (typ == 2) {
+            paintCircle( nlat, nlon, 5000, blue_style, NDBLayer );
+            paintNDBRose( nlat, nlon );
+        } else if (typ == 3) {
+            paintCircle( nlat, nlon, 5000, blue_style, VORLayer );
+            paintVORRose( nlat, nlon );
+        }
+    }
+    
+    function paintNavaids(navs) {
+        var i, nax, ind, nav;
+        max = navs.length;
+        for (i = 0; i < max; i++) {
+            ind = navs[i];
+            nav = FGx.navaids[ind];
+            drawNavaid(nav);
+        }
+    }
+      
+    function findAirports() {
+        var i,ind,air,max,icao,alat,alon;
+        var navs = searchNavaids( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
+        paintNavaids(navs);
+        
+        var helis = searchHelipads( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
+        max = helis.length;
+        for (i = 0; i < max; i++) {
+            ind = helis[i];
+            air = FGx.helipads[ind];
+            icao = air[0];
+            alat = parseFloat(air[2]);
+            alon = parseFloat(air[3]);
+            // TODO: not many pure heliport json generated, so
+            //if (icao in jsonLoaded) {
+            //    // already loaded
+            //} else {
+            //    getAirJson(icao);   // try to load json for heliport
+            //}
+            paintHelipad(alat,alon,icao);
+        }
+        
+        var airs = searchAirports( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
+        max = airs.length;
+        for (i = 0; i < max; i++) {
+            ind = airs[i];
+            air = FGx.airports[ind];
+            icao = air[0];
+            alat = parseFloat(air[2]);
+            alon = parseFloat(air[3]);
+            if (icao in jsonLoaded) {
+                // already loaded
+            } else {
+                getAirJson(icao);   // try to load json for airport - this also does the painting on load
+            }
+        }
+        showStatus();
+
+    }
+    
+    
+    // when airports and navaids full loaded...
+    function checkStage2() {
+        if (FGx.doneAir && FGx.doneHeli && FGx.doneNav) {
+            console.log("Ready for stage 2 loads...");
+            findAirports();
+        }
+    }
+  /**
+  * function requestFile( fname, callback );
+  * @param (string)   File name to load
+  * @param (function) Callback funtion on load end
+  * ========== load data files ========
+  */
+  function requestFile( fname, callback, type ) {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open( 'GET', fname, true );
+    if (type == 1)
+        xmlhttp.onreadystatechange = callbackXmlJson;
+    else
+        xmlhttp.onreadystatechange = callbackXmlCsv;
+    xmlhttp.onloadend = callback;
+    xmlhttp.send( null );
+  }
+  
+    function addLabel(icao, lon, lat, layer) {
+        var point =  new OpenLayers.Geometry.Point(lon,lat).transform( fromProjection, toProjection); 
+        var labelFeature = new OpenLayers.Feature.Vector(point);
+        labelFeature.id = "label"+icao;
+        labelFeature.attributes.icao = icao;
+        // This calculates label background width and offset
+        labelWidth = 8 * icao.length;
+        labelOffset = labelWidth / 2 * -1.0;
+        labelFeature.attributes.labelWidth = labelWidth;
+        labelFeature.attributes.labelOffset = labelOffset;
+        layer.addFeatures(labelFeature);
+        // console.log("Label "+icao+" at "+lat+","+lon+" "+point.y+","+point.x);
+    }
+    
+    function paintLine( lat1, lon1, lat2, lon2, style, layer )
+    {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        var lineFeature = new OpenLayers.Feature.Vector(line, null, style);
+        layer.addFeatures([lineFeature]);
+    }
+    
+    function airportMarker( mlat, mlon, image ) {
+        var pos = new OpenLayers.Geometry.Point(mlon,mlat).transform( fromProjection, toProjection );
+        var icon = new OpenLayers.Icon(image);
+        var marker = new OpenLayers.Marker(pos, icon);
+        airportMarkers.addMarker(marker);
+        console.log("Marker at "+mlat+","+mlon+" "+pos.y+","+pos.x+' img '+image);
+    }
+  
+    function paintRunway(rwy) {
+        var rwy_style = { 
+          strokeColor: '#600000', 
+          strokeOpacity: 0.5,
+          strokeWidth: 4
+        };
+        var len_m, wid_m, hdg, surf, rwy1, lat1, lon1, rwy2, lat2, lon2;
+        len_m = rwy.len_m;
+        wid_m = rwy.wid_m;
+        hdg = rwy.hdg;
+        surf = rwy.surf;
+        rwy1 = rwy.rwy1;
+        lat1 = rwy.lat1;
+        lon1 = rwy.lon1;
+        rwy2 = rwy.rwy2;
+        lat2 = rwy.lat2;
+        lon2 = rwy.lon2;
+        paintLine(lat1, lon1, lat2, lon2, rwy_style, airportRunways);
+    }
+    
+    function drawILS( ilat, ilon, ihdg, irng ) {
+        var ils_style = {
+          strokeColor: '#ff0000', 
+          strokeOpacity: 0.5,
+          strokeWidth: 1
+        };
+        var p1, p2, p3;
+        if (irng > max_ils_rng)   
+            irng = max_ils_rng;   // seems line too long... limit to 10 km, or something
+        // *********************************************************
+        // 20131119 - Seems must 'reverse' this heading for drawing
+        // *********************************************************
+        ihdg += 180;
+        if (ihdg >= 360)
+            ihdg -= 360;
+            
+        // draw center line
+        p1 = getDirect( ilat, ilon, ihdg, irng );
+        ihdg += 1.5;
+        if (ihdg > 360)
+            ihdg -= 360;
+        // draw at +1.5 degrees
+        p2 = getDirect( ilat, ilon, ihdg, irng );
+        ihdg -= 3;
+        if (ihdg < 0)
+            ihdg += 360;
+        // draw at -1.5 degrees
+        p3 = getDirect( ilat, ilon, ihdg, irng );
+        paintLine( ilat, ilon, p1._lat, p1._lon, ils_style, airportILS );
+        paintLine( ilat, ilon, p2._lat, p2._lon, ils_style, airportILS );
+        paintLine( ilat, ilon, p3._lat, p3._lon, ils_style, airportILS );
+        return p1;
+    }
+
+    // 0    1           2             3    4     5   6          7    8    9   10
+    // type,lat,        lon,          feet,freq, rng,bear,      id,  icao,rwy,"name"
+    // 4,   49.43206100,007.57322800, 780, 11050,18, 262.262,   IRWL,ETAR,26, "ILS-cat-III"
+    // 5,   58.22567800,-006.33297500,26,  11090,18, 354.293,   SOY, EGPO,36, "LOC"
+    // 6,   36.27208600,006.63146400, 2303,10930,10, 300316.215,CT,  DABC,32, "GS"
+    // 7,   40.00144200,-083.02929400,815, 0,    0,  94.235,    ----,KCMH,10R,"OM"
+    // 8,   39.79342534,-104.52811126,5512,0,    0,  271.156,   ----,KFTG,26, "MM"
+    // 9,   47.61215800,-117.54695600,2313,0,    0,  61.968,    ----,KGEG,03, "IM"
+    // 12,  65.74222222,-019.57750000,16,  10970,18, 0.000,     IKR, BIKR,01, "DME-ILS"
+    function paintILS(ils,icao) {
+        var typ = parseFloat(ils[0]);     // "ILS"
+        var ialt,idesc,ifreq,ihdg,iid,ilat,ilon,irng,irwy,p1;
+        idesc = ils[10];    // "ILS-cat-I"
+        ilat = parseFloat(ils[1]);      // 48.754623
+        ilon = parseFloat(ils[2]);      // 2.113813
+        irwy = ils[9];      // "07L"
+        if ( typ == 4 ) {
+            ialt = parseFloat(ils[3])   // alt_fmsl; // 538
+            ifreq = parseFloat(ils[4]);    // 109.29
+            ihdg = parseFloat(ils[6]);      // 71.07
+            iid = ils[7];        // "TNO"
+            irng = parseFloat(ils[5]) * NM2KM;   // 18
+            p1 = drawILS( ilat, ilon, ihdg, irng );
+            if (curr_zoom > 10)
+                addLabel( irwy+' '+ifreq+' '+iid, p1._lon, p1._lat, ILSLabels );
+            //console.log("Painted ILS "+icao+' '+irwy+'_'+ifreq+'_'+iid+' '+ilat+','+ilon);
+        } else if (typ == 7) {  // 'OM'
+            markerCircle(ilat,ilon);
+            airportMarker( ilat, ilon, 'data/img/OM.png' );
+            console.log("Painted OM "+icao+' '+irwy+' '+ilat+','+ilon);
+        } else if (typ == 8) { // 'MM'
+            markerCircle(ilat,ilon);
+            airportMarker( ilat, ilon, 'data/img/MM.png' );
+            //console.log("Painted MM "+icao+' '+irwy+' '+ilat+','+ilon);
+        } else if (typ == 9) { // 'IM'
+            markerCircle(ilat,ilon);
+            airportMarker( ilat, ilon, 'data/img/IM.png' );
+            //console.log("Painted IM "+icao+' '+irwy+' '+ilat+','+ilon);
+        } else if (typ == 6) { // 'GS'
+            // what to do for this, if anything
+        } else if (typ == 12) { // 'DME'
+            // what to do for this, if anything
+        } else {
+            console.log("Skipped ILS paint type "+typ+" "+idesc);
+        }
+    }
+    
+    function markerCircle(clat,clon) {
+        var red_style = { 
+            strokeColor: '#ff0000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 2,
+            fill: false
+        };
+
+        var radius = 600;
+        var sides = 20;
+        var point = new OpenLayers.Geometry.Point(clon,clat).transform( fromProjection, toProjection );
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+                        point,
+                        radius,
+                        sides,
+                        0 );
+        var featurecircle = new OpenLayers.Feature.Vector(circle, null, red_style);
+        airportCircles.addFeatures([featurecircle]);
+        // console.log("Circle at "+clat+","+clon+" "+point.y+","+point.x); // now ok
+    }
+    
+    function scan_navaids_icao(icao) {
+        var max = FGx.navaids.length;
+        var i, nav, nic;
+        var found = [];
+        for (i = 0; i < max; i++) {
+            nav = FGx.navaids[i];
+            nic = nav[8];
+            if (nic == icao)
+                found.push(nav);
+        }
+        return found;
+    }
+
+    
+    function paintAirport( data ) {
+        // LOTS of information about the airport/helipad
+        var j, maxj, rwu, ils;
+        var z = curr_zoom;
+        var icao = data.icao;
+        var alat = data.lat;
+        var alon = data.lon;
+        var name = data.name;
+        // if present, with have form, like from SFO2.json
+        // ,"helipads":[
+        // {"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-122,"surf":"Concrete","lat1":37.62126700,"lon1":-122.39807200}
+
+        var helia = data.helipads;
+        var rada = data.radios;
+        // var nava = data.navaids; // DEPRECIATED
+        // {"len_m":3650,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":48.71996610,"lon1":2.31692799,"rwy2":"24","lat2":48.73544710,"lon2":2.36068699},
+        // paint runways
+        var rwysa = data.runways;
+        if (rwysa) {
+            maxj = rwysa.length;
+            for (j = 0; j < maxj; j++) {
+                rwy = rwysa[j];
+                paintRunway(rwy);
+            }
+        }
+        if (z >= 8) {
+            // var ilsa = data.ils; // DEPRECIATED
+            var ilsa = scan_navaids_icao(icao);
+            maxj = ilsa.length;
+            for (j = 0; j < maxj; j++) {
+                ils = ilsa[j];
+                paintILS(ils,icao);
+            }
+            addLabel( icao, alon, alat, airportLabel );
+        }
+        
+        // console.log("Painted: "+icao+' '+alat+','+alon);
+    }
+
+  function callbackJson(data) {
+      var icao = data.icao;
+      jsonLoaded[icao] = data;
+      var alat = data.lat;
+      var alon = data.lon;
+      console.log("Loaded: "+icao+".json - "+data.name+' '+alat+','+alon);
+      paintAirport(data);
+  }
+  
+  
+  function callbackAirports(data) {
+	var dataLines = data.split(/\r\n|\n/);
+	var max = dataLines.length;
+    var separator = ',';
+    var i, ap;
+    for ( i = 1; i < max; i++ ) {
+        ap = dataLines[i].split( separator );
+		FGx.airports.push(ap);
+    }
+    max = FGx.airports.length;
+    console.log("Loaded "+max+" airports...");
+    FGx.doneAir = true;
+    checkStage2();
+  }  
+  
+  function callbackHeliports(data) {
+	var dataLines = data.split(/\r\n|\n/);
+	var max = dataLines.length;
+    var separator = ',';
+    var i, ap;
+    for ( i = 1; i < max; i++ ) {
+        ap = dataLines[i].split( separator );
+		FGx.helipads.push(ap);
+    }
+    max = FGx.helipads.length;
+    console.log("Loaded "+max+" helipads...");
+    FGx.doneHeli = true;
+    checkStage2();
+  }  
+  
+  function callbackNavaids(data) {
+	var dataLines = data.split(/\r\n|\n/);
+	var max = dataLines.length;
+    var separator = ',';
+    var i, ap;
+    for ( i = 1; i < max; i++ ) {
+        ap = dataLines[i].split( separator );
+		FGx.navaids.push(ap);
+    }
+    max = FGx.navaids.length;
+    console.log("Loaded "+max+" navaids...");
+    FGx.doneNav = true;
+    checkStage2();
+  }  
+  
+   function callbackXmlJson() {
+        if ( this.readyState == 4  ) {
+            if (this.status == "200") {
+                if (this.onloadend) {
+                    var data = JSON.parse(this.responseText);
+                    var icao = data.icao;
+                    var alat = data.lat;
+                    var alon = data.lon;
+                    console.log("CB: "+icao+".json "+alat+','+alon);
+                    this.onloadend(data);
+                }
+                this.onloadend = 0;
+            } else {
+                console.log(FGx.callbackCount+': Load FAILED!');
+                this.onloadend = 0;
+            }
+        } else {
+            FGx.callbackCount++;
+            //console.log(FGx.callbackCount+': Waiting for load... ');
+        }
+    }
+   function callbackXmlCsv() {
+        if ( this.readyState == 4  ) {
+            if (this.status == "200") {
+                if (this.onloadend) {
+                    var data = this.responseText;
+                    this.onloadend(data);
+                }
+                this.onloadend = 0;
+            } else {
+                console.log(FGx.callbackCount+': Load csv FAILED!');
+                this.onloadend = 0;
+            }
+        } else {
+            FGx.callbackCount++;
+            //console.log(FGx.callbackCount+': Waiting for csv load... ');
+        }
+    }
+    
+  function getAirJson(icao) {
+    var file = 'data/'+icao+'.json';
+    if (icao in jsonDone) {
+        console.log("Already attempted load of "+file);
+    } else {
+        console.log("A:Fetching "+file);
+        jsonDone.push(icao);
+        requestFile( file, callbackJson, 1 );   // expect json
+    }
+  }
+  
+  // initial get airports and navaids
+  function getAirports() {
+	FGx.airports = [];
+    FGx.helipads = [];
+    FGx.navaids = [];
+    FGx.doneAir = false;
+    FGx.doneHeli = false;
+    FGx.doneNav = false;
+    requestFile( 'data/apt1000-icao.csv', callbackAirports, 0 ); // get Airports - csv
+    requestFile( 'data/apt1000-heli.csv', callbackHeliports, 0 ); // get Heliport - csv
+    requestFile( 'data/apt1000-nav.csv', callbackNavaids, 0 ); // get Navaids -csv
+    
+  }
+  
+    /**
+      * function setGLobalBounds()
+      * Get current 'extent' of the map
+      */
+    function setGLobalBounds() {
+        curr_zoom = map.getZoom();
+        var ext = map.getExtent();
+        //var stg = ext.toBBOX();
+        var mlat,mlon,width,height,uwid,uht;
+        var left = ext.left;
+        var top  = ext.top;
+        var right = ext.right;
+        var bott = ext.bottom;
+        uwid = right - left;
+        uht  = bott - top;
+        var tl = new OpenLayers.LonLat(left,top).transform( toProjection, fromProjection );
+        var br = new OpenLayers.LonLat(right,bott).transform( toProjection, fromProjection );
+        var lat1 = tl.lat;
+        var lon1 = tl.lon;
+        var lat2 = br.lat;
+        var lon2 = br.lon;
+        // expand this to a minimum of 0.1 degrees span - WHY? not sure!
+        var av;
+        if ((lat1 - lat2) < 0.1) {
+            av = (lat1 + lat2) / 2;
+            lat1 = av + 0.05;
+            lat2 = av - 0.05;
+        }
+        if ((lon2 - lon1) < 0.1) {
+            av = ( lon1 + lon2 ) / 2;
+            lon1 = av - 0.05;
+            lon2 = av + 0.05;
+        }
+        
+        // set GLOBAL screen bounds - as EPSG:4326, WGS-84 (World Geodetic System)
+        curr_lat1 = lat1;
+        curr_lon1 = lon1;
+        curr_lat2 = lat2;
+        curr_lon2 = lon2;
+        mlat = (lat1 + lat2) / 2;
+        mlon = (lon1 + lon2) / 2;
+        width = getDistance( mlat, lon1, mlat, lon2 );
+        height = getDistance( lat1, mlon, lat2, mlon );
+        console.log("Bounds: TL="+lat1.toFixed(2)+","+lon1.toFixed(2)+
+            " BR="+lat2.toFixed(2)+","+lon2.toFixed(2)+
+            " w="+width+" h="+height+" km u "+uwid.toFixed(1)+","+uht.toFixed(1)+' z='+curr_zoom);
+    }
+
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+    
+    function getElapsed() {
+        var d = new Date();
+        var ms = d.valueOf() - startTime.valueOf();
+        var elap = ms2hhmmss(ms);
+        return elap;
+    }
+    function showStatus() {
+        var acnt = airFound.length;
+        var ncnt = navFound.length;
+        var hcnt = heliFound.length;
+        var msg = "Status: air "+acnt+", heli "+hcnt+", nav "+ncnt;
+        msg += " z="+curr_zoom;
+        var elap = getElapsed();
+        msg += ' elap '+elap;
+        $("#status_line").html(msg);
+        console.log(msg);
+    }        
+  </script>
+ </head>
+ <body>
+  <!-- <h1 align="center" class="nob">
+   ICAO json load
+  </h1> -->
+  <div id="map">
+  </div>
+  <div id="status_line">Status:
+  </div>
+  <script type="text/javascript"
+        defer="defer">
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+
+	var lat = gup2('lat',def_lat);
+	var lon = gup2('lon',def_lon);
+	var zoom = gup2('zoom',def_zoom);
+	init(lat,lon,zoom);
+    setGLobalBounds();
+    //getAirJson('KSFO');
+    getAirports();  // start airport, heliport, navaid loads
+    
+  </script>
+ </body>
+</html>

@@ -1,0 +1,83 @@
+<body>
+
+	<p>jQuery Theme: <select id="selectTheme" onchange="setTheme( this.selectedIndex );" >
+			<option>base</option>
+			<option>black-tie</option>
+			<option>blitzer</option>
+			<option>cupertino</option>
+			<option>dark-hive</option>
+			<option>dot-luv</option>
+			<option>eggplant</option>
+			<option>excite-bike</option>
+			<option>flick</option>
+			<option>hot-sneaks</option>
+			<option>humanity</option>
+			<option>le-frog</option>
+			<option>mint-choc</option>
+			<option>overcast</option>
+			<option>pepper-grinder</option>
+			<option>redmond</option>
+			<option>smoothness</option>
+			<option>south-street</option>
+			<option>start</option>
+			<option>sunny</option>
+			<option>swanky-purse</option>
+			<option>trontastic</option>
+			<option>ui-darkness</option>
+			<option>ui-lightness</option>
+			<option>vader</option>	
+		</select>
+	</p>
+
+	<p>Globe Map: <select id="selectGlobe" onchange="setGlobe( this.selectedIndex )" >
+			<option>Dark world</option>
+			<option>Low resolution world</option>
+			<option>High resolution world</option>
+			<option>Political Map</option>
+			<option>Elevation Map</option>
+		</select>
+	</p>
+
+	<p>Stars Map: <select id="selectStars" onchange="setStars( this.selectedIndex )" >
+			<option>High resolution stars</option>
+			<option>Low resolution stars</option>
+		</select>
+	</p>	
+	
+	<p><small>More maps and skies to be added.  Also toggle spinning globe, adjust refresh rate, airplane scale and altitude scale using sliders.</small></p>
+
+<script>
+//$(function() {
+	selectTheme.selectedIndex = $.elements.thm.select;
+	
+
+	function setTheme( index ) {
+		$.elements.thm.select = index;
+		$.elements.thm.name = selectTheme.value;
+		$.setHash();
+	}
+
+	selectGlobe.selectedIndex = $.elements.thm.mapGlobe;
+
+	function setGlobe( index ) {
+		var globeTextures = ["world.jpg", "earth_atmos_2048.jpg", "world-map.jpg", "ColorMap-World.png", "Elevation.jpg"];
+		updateTexture( "materialGlobe", globeTextures[ index ] );
+		$.elements.thm.mapGlobe = index;
+		$.setHash();
+	}	
+
+	selectStars.selectedIndex = 1;
+
+	function setStars( index ) {
+		var starTextures = ["stars-8192x4096.png","stars-2048x1024.png"];
+		updateTexture( "materialStars", starTextures[ index ] );
+		$.setHash();
+	}		
+		
+	function updateTexture( material, texture ) {		
+		var texture = $.ifr.contentWindow.THREE.ImageUtils.loadTexture( "../textures/" + texture );
+		$.ifr.contentWindow[material].map = texture;	
+	}	
+// });
+</script>
+</body>

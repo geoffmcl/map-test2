@@ -1,0 +1,61 @@
+file : CHANGELOG.txt - started 20131106
+
+2013/12/09 18:34:37 - geoff
+
+	* Change in painting ILS (and navaids). The ils and navaid arrays have been deleted from the ICAO JSON generated files, due to 
+	  this is really redundant information once Apt1000-nav.csv, containing some 23,120 navaids, has been loaded.
+	* Since this loaded navaid search depended on a distance calculation, developed a dist-test.html to seek a faster distance 
+	  caculation algorithm. This led to adding a getDistRect(lat1,lon1,lat2,lon2) service added to geodesic.js. It uses an 
+	  'equirectangular approximation', which is accurate enough for this navaid search, which only has 1 trig and 1 sqrt Math function 
+	  compared to the 7 trig and 2 sqrt used in the getDistance() 'haversine' service and is thus 3 to 4 times faster. The 'dist-test.html'
+	  allows for the input of a 'center' lat,lon, and a distance (Km), and will search the navaids first using the getDistance(),
+	  and then using the getDistRect() sevices, and show the time and the results. Since the getDistRect() proved to be MUCH faster,
+	  even added a sort of an array or arrays, ordering them per the distance, and it remained at least 3 times faster.
+	* The first file 'converted' to load and use this search was circle.html. Originally this 'test' file was to 'understand' how to 
+	  convert real earth units like Km to what they call 'map units', used as the 'radius' in OpenLayers 'circle' service, but this 
+	  was never completely solved. Instead went for drawing my own circles, well a 32 sided regular polygon... given a lat,lon center, 
+	  and a distance in Km. The results are nearly equivalent, except for the 32 'transition' points. I think in my service these 
+	  points are painted twice, thus have a slightly 'darker' shade... I suspect the OpenLayers RegularPolygon function that serves at 
+	  the circle function avoid this duplication of such points thus maintains an even shade.
+	* To reduce the number of map-test files to be converted, moved ALL the 'Previous backup copy' to an out of repo 'archive'
+	  folder. The remaining files to be converted for the now missing ils and navaids arrays are json-load.html, nav.html, and tracker.html.
+	  This includes quite a number of paint/drawing services where previous they were passed a json object, and will now be passed 
+	  a simple array of strings. THe current specification of the CSV nav arrays is -
+          0    1           2             3    4     5   6          7    8    9   10
+          type,lat,        lon,          feet,freq, rng,bear,      id,  icao,rwy,"name"
+          2,   38.08777778,-077.32491667,0,   396,  50, 0.0,       APH, ,    ,   "A P HILL NDB"
+          3,   59.20716700,017.01208300, 0,   11680,80, 3.0,       DKR, ,    ,   "DUNKER VOR"
+          3,   42.49055556,-079.27411111,680, 11620,130,-7.0,      DKK, ,    ,   "DUNKIRK VORTAC"
+          3,   43.82827778,-110.33547222,7720,11720,130,15.0,      DNW, ,    ,   "DUNOIR VOR-DME"
+          4,   49.43206100,007.57322800, 780, 11050,18, 262.262,   IRWL,ETAR,26, "ILS-cat-III"
+          5,   58.22567800,-006.33297500,26,  11090,18, 354.293,   SOY, EGPO,36, "LOC"
+          6,   36.27208600,006.63146400, 2303,10930,10, 300316.215,CT,  DABC,32, "GS"
+          7,   40.00144200,-083.02929400,815, 0,    0,  94.235,    ----,KCMH,10R,"OM"
+          8,   39.79342534,-104.52811126,5512,0,    0,  271.156,   ----,KFTG,26, "MM"
+          9,   47.61215800,-117.54695600,2313,0,    0,  61.968,    ----,KGEG,03, "IM"
+          12,  65.74222222,-019.57750000,16,  10970,18, 0.000,     IKR, BIKR,01, "DME-ILS"
+          13,  51.15472200,000.64805600, 72,  11595,15, 0.0,       LSH, ,    ,   "LASHENDEN NDB-DME"
+          13,  48.19050000,010.85900000, 1838,10880,40, 0.0,       LCH, ,    ,   "LECHFELD TACAN"
+	  NOTE: These are all strings, so code like var lat = parseFloat(nav[1]); must be used.
+	  When these 3 'conversion' are completed, the NEW generation of ICAO JSON can be copied into data...
+	* Conversion of json-load.html. It was only using the ils json object, now converted to using the ils array from a search 
+	  of the loaded Apt1000-nav.csv in FGx.navaids using the icao - new service scan_navaids_icao(icao) to return an 
+	  array of csv lines containing that ICAO. Display looks the SAME as that for ..\archive\json-load-ok3.html.
+	  TODO: FOr some reason the OM, MM, IM and H markers do NOT display. WHY???
+	* Conversion of nav.html. Again, was only using the ils json object, so like json-load.html above added the new 
+	  service scan_navaids_icao(icao) to return an array of csv lines containing that ICAO. Display SAME as that for 
+	  ..\archive/nav-ok9.html. Here the OM, MM, IM and H icon appear fine. What is the difference?
+	* Conversion of tracker.html. Like above, only one service using the icao json ils array, although several mentions of the json navaid 
+	  array, now marked depreciated. 
+
+
+2013/11/06 12:26:08 - geoff
+
+	* Since the json model for the b1900d can be B1900D, added in show-one.html:get_model_source(), a case insensitive search,
+	  and added the display of 'Loaded: 'craft' ('model') to highlight the 'change'... maybe this 'case' should be extended
+          also to the 'fuzzy' search.
+
+
+# eof
+
+

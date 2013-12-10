@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- from : http://workshops.boundlessgeo.com/openlayers-intro/integration/ext-window.html -->
+        <title>My Map</title>
+        <link rel="stylesheet" href="js/theme/default/style.css" type="text/css">
+        <script src="js/OpenLayers.js"></script>
+        <link rel="stylesheet" href="css/ext-all.css" type="text/css">
+        <!-- <script src="ext/adapter/ext/ext-base.js"></script> -->
+        <!-- <script src="js/ext-all.js"></script> -->
+        <script src="js/ext-all-debug.js"></script>
+        <style>
+            #map-id {
+                width: 512px;
+                height: 256px;
+            }
+            #slider-id {
+                width: 492px;
+                margin: 10px;
+                border: 1px solid #ccc;
+
+            }
+            #basic-slider {
+                margin: 10px;
+            }
+            body { background-image:url('images/clds3.jpg'); }
+            
+        </style>
+        
+        <script>
+        
+        var map, mapnik, fromProjection, toProjection, position, markers, slider, vectorLayer, select;
+        var dialog;
+        
+        function init(lat,lon,zoom) {
+            map = new OpenLayers.Map("map-id", {
+                projection: new OpenLayers.Projection("EPSG:3857"),
+                // this sets wgs84/4326 as default for display coords
+                displayProjection: new OpenLayers.Projection("EPSG:4326")
+            });
+            mapnik         = new OpenLayers.Layer.OSM();
+            fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+            toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+            position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+            map.addLayer(mapnik);
+            map.addControl(new OpenLayers.Control.Permalink('permalink'));
+
+            map.addControl(new OpenLayers.Control.MousePosition());
+
+            markers = new OpenLayers.Layer.Markers( "Markers" );
+            map.addLayer(markers);
+            vectorLayer = new OpenLayers.Layer.Vector("Vector Layer");
+            map.addLayer(vectorLayer);
+            //select = new OpenLayers.Control.SelectFeature([buildings]);
+            select = new OpenLayers.Control.SelectFeature([vectorLayer]);
+            map.addControl(select);
+            select.activate();
+            //buildings.events.on({
+            vectorLayer.events.on({
+                featureselected: function(event) {
+                    var feature = event.feature;
+                    var area = feature.geometry.getArea();
+                    var id = feature.attributes.key;
+                    var output = "Building: " + id + " Area: " + area.toFixed(2);
+                    dialog = new Ext.Window({
+                        title: "Feature Info",
+                        layout: "fit",
+                        height: 80, width: 130,
+                        plain: true,
+                        items: [{
+                            border: false,
+                            bodyStyle: {
+                                padding: 5, fontSize: 13
+                            },
+                            html: output
+                        }]
+                    });
+                    dialog.show();
+                },
+                featureunselected: function() {
+                    dialog.destroy();
+                }
+            });
+
+            markers.addMarker(new OpenLayers.Marker(position));
+            map.setCenter(position, zoom );
+            
+       }
+       
+   
+        /* ---------------------------------------------
+            var medford = new OpenLayers.Bounds(
+                4284890, 253985,
+                4288865, 257980
+            );
+            var map = new OpenLayers.Map("map-id", {
+                projection: new OpenLayers.Projection("EPSG:2270"),
+                units: "ft",
+                maxExtent: medford,
+                restrictedExtent: medford,
+                maxResolution: 2.5,
+                numZoomLevels: 5
+            });
+
+            var base = new OpenLayers.Layer.WMS(
+                "Medford Streets & Buildings",
+                "/geoserver/wms",
+                {layers: "medford"}
+            );
+            map.addLayer(base);
+
+            var buildings = new OpenLayers.Layer.Vector("Buildings", {
+                strategies: [new OpenLayers.Strategy.BBOX()],
+                protocol: new OpenLayers.Protocol.WFS({
+                    version: "1.1.0",
+                    url: "/geoserver/wfs",
+                    featureType: "buildings",
+                    featureNS: "http://medford.opengeo.org",
+                    srsName: "EPSG:2270"
+                })
+            });
+            map.addLayer(buildings);
+            
+            var slider = new Ext.Slider({
+                renderTo: "slider-id",
+                value: 100,
+                listeners: {
+                    change: function(el, val) {
+                        //base.setOpacity(val / 100);
+                        mapnik.setOpacity(val / 100);
+                    }
+                }
+            });
+
+            // map.zoomToMaxExtent();
+            =========================================== */
+Ext.require('Ext.slider.*');
+
+Ext.onReady(function(){
+
+    Ext.create('Ext.slider.Single', {
+        renderTo: 'basic-slider',
+        minValue: 0,
+        hideLabel: true,
+        useTips: true,
+        maxValue: 100,
+        width: 492,
+        value: 100,
+        listeners: {
+            change: function(el, val) {
+                mapnik.setOpacity(val / 100);
+            }
+        }
+    });
+});            
+        </script>
+    </head>
+    <body>
+        <h1>My Map</h1>
+        <div id="map-id"></div>
+        <div id="slider-id"></div>
+        <div id="basic-slider"></div>
+        
+    <script type="text/javascript" defer="defer">
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+
+	var lat = gup2('lat',52.52);
+	var lon = gup2('lon',13.41);
+	var zoom = gup2('zoom',15);
+	init(lat,lon,zoom);
+    
+    </script>
+        
+    </body>
+</html>
+

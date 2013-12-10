@@ -1,0 +1,625 @@
+<!DOCTYPE html public "-//W3C//DTD HTML 4.0 Strict//en">
+<html>
+    <head>
+        <title>Crossfeed JSON Test Corner</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <script type="text/javascript" src="http://static.fgx.ch/js/jquery-1.8.3/jquery-1.8.3.min.js"></script>
+<!--
+             ,MMN,    ...................................................................................
+              ,MMM,           CROSSFEED CLIENT MAPPING TESTSUITE: FULL SCREEN MAP
+               JMMN,
+       .gg,      MMMM,         These files are written for testing and develop
+       .MMN  .....jMMMMa.......    the crossfeed client (written by Geoff McLane) of FlightGear
+      .TMMMMMMMMMMMMMMMMMMMMMMM@     Multiplayer Server (written by Oliver Schroeder). 
+       .MMF    `?WMMMM"7??!`       See http://www.fgx.ch for more information.
+       ?""`      dMMM'          (c) 2013 Yves Sablonier, Zurich
+               .MMM'       Licence: GPLv2 or later
+              .MMM'     http://www.gnu.org/licenses/gpl.txt
+             .MMM'     ............................................
+
+      Please do not remove this copyright and license information from this source in any case.
+      For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow this links:
+      http://openlayers.org, http://jquery.org
+      ........................................................................................
+-->
+        <link rel="stylesheet" href="./css/stylesheet.css" type="text/css">
+        <link rel="stylesheet" href="http://static.fgx.ch/js/OpenLayers-2.11/theme/default/style.css" type="text/css">
+        <script src="http://static.fgx.ch/js/OpenLayers-2.11/OpenLayers.js"></script>
+        <script type="text/javascript">
+       
+        // disable ajax caching
+         $.ajaxSetup({cache: false});
+       
+        // ----------------------------------------------------------------------------------------------
+        // Openlayers
+        // ----------------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------------
+        // Creating the map
+        // ----------------------------------------------------------------------------------------------
+       
+       var map;
+       
+       var fromProjection = new OpenLayers.Projection("EPSG:4326");
+       var toProjection   = new OpenLayers.Projection("EPSG:3857");
+       
+       var planeStyle = new OpenLayers.Style(
+             {
+             pointRadius: 1,
+             strokeWidth: 0.0,
+             graphicWidth: "30", graphicHeight: "30", graphicOpacity: 0.99,
+             rotation: "${hdg}",
+             labelAlign: "center",
+             labelXOffset: "0",
+             labelYOffset: "0"
+             }
+             ,{
+           rules: [
+             new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.LESS_THAN,
+                    property: "spd_kts",
+                    value: 10
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_gray_30x30.png"
+                }
+             }),
+             new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.GREATER_THAN,
+                    property: "spd_kts",
+                    value: 9
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_red_30x30.png"
+                }
+            }),
+            new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.GREATER_THAN,
+                    property: "select",
+                    value: 0
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_green_30x30.png"
+                }
+            })
+            ]}
+        );
+
+
+       
+        var labelStyle = new OpenLayers.Style(
+            {
+            externalGraphic: "images/label_background.gif",
+            graphicWidth: "${labelWidth}", graphicHeight: "13", graphicOpacity: 0.99,
+            graphicXOffset: "${labelOffset}", graphicYOffset: 14,
+            fillColor: "#000000",
+            fillOpacity: 0.0,
+            strokeWidth: 0.0,
+            label : "${callsign}",
+            fontColor: "#CCCCCC", fontSize: "11px", fontFamily: "\"DejaVuSansMonoBold\",monospace", fontWeight: "normal",
+            labelAlign: "center",
+            labelXOffset: "0",
+            labelYOffset: "-22"
+            }
+        );
+             
+        var planes = new OpenLayers.Layer.Vector("Planes", {styleMap: planeStyle});
+        var planesLabel = new OpenLayers.Layer.Vector("Callsign", {styleMap: labelStyle});
+       
+       
+
+        function init(){
+        
+            map = new OpenLayers.Map("map", {
+            
+            allOverlays: false,
+  			projection: new OpenLayers.Projection("EPSG:3857"),
+  			// this sets wgs84/4326 as default for display coords
+  			displayProjection: new OpenLayers.Projection("EPSG:4326"),
+  			maxExtent: new OpenLayers.Bounds(-20037508.34,-20037508.34,20037508.34,20037508.34),
+  			zoomLevels: 17,
+  			//maxResolution: 19567.87923828125,
+  			//minResolution: 0.29858214169740677,
+			resolutions: [
+				//156543.03390625, 
+				//78271.516953125, 
+				//39135.7584765625, 
+				19567.87923828125, 
+				9783.939619140625, 
+				4891.9698095703125, 
+				2445.9849047851562, 
+				1222.9924523925781, 
+				611.4962261962891, 
+				305.74811309814453, 
+				152.87405654907226, 
+				76.43702827453613, 
+				38.218514137268066, 
+				19.109257068634033, 
+				9.554628534317017, 
+				4.777314267158508, 
+				2.388657133579254, 
+				1.194328566789627, 
+				0.5971642833948135, 
+				0.29858214169740677
+			]
+			
+			});
+             
+            var osmlayer = new OpenLayers.Layer.OSM( "OSM normal" );
+			osmlayer.setOpacity(1.0);
+            
+         	var osmlayer_light = new OpenLayers.Layer.OSM( "OSM light" );
+			osmlayer_light.setOpacity(0.5);
+			
+			var airport = new OpenLayers.Layer.WMS(
+				"Airport","http://tilecache.fgx.ch/?",
+				{layers: "Airport" , transparent: "True" , format: "image/png"}, 
+				{visibility: true,
+				reproject: false}
+			);
+        
+            map.addLayers([	osmlayer_light,
+            				airport,
+            				planes,
+            				planesLabel]
+            );
+            
+            map.addControl(new OpenLayers.Control.Permalink('permalink'));
+            map.addControl(new OpenLayers.Control.MousePosition());
+            //map.setCenter(new OpenLayers.LonLat(1.0, 50.0), 5);
+            if (zoom.length == 0) { zoom = 5; }  // set default ZOOM
+            var centerpoint;
+            if (lon.length && lat.length) {     // if URL contains lon,lat points
+                centerpoint = new OpenLayers.LonLat(lon,lat); // user center point
+            } else {
+                centerpoint = new OpenLayers.LonLat(1.0,50.0); // get a default center
+            }
+            var repoint = centerpoint.transform( fromProjection, toProjection);
+            map.setCenter(centerpoint,zoom); 
+        }
+       
+        // Planes and Labels are doubled, it’s not possible to set a background for
+        // a label in OpenLayers yet. This is a snag. Because we want rotation we can’t
+        // have a point graphic with label integrated.
+        function addPlanes(mapfid, lon, lat, hdg, spd_kts) {
+            var point =  new OpenLayers.Geometry.Point(lon,lat)
+            var repoint = point.transform( fromProjection, toProjection);
+            var feature = new OpenLayers.Feature.Vector(repoint);
+            // that does the trick, the feature gets the fid
+            // as feature ID
+            feature.id = mapfid;
+            if (selected == mapfid) {
+            feature.attributes.select = 1;
+            }
+          
+            feature.attributes.hdg = hdg;
+            feature.attributes.spd_kts = spd_kts;
+          
+            planes.addFeatures(feature);
+        }
+       
+       function addLabels(mapfid, callsign, lon, lat) {
+          var pointLabel =  new OpenLayers.Geometry.Point(lon,lat) 
+          var repointLabel = pointLabel.transform( fromProjection, toProjection);
+          var labelFeature = new OpenLayers.Feature.Vector(repointLabel);
+          labelFeature.id = "label"+mapfid;
+          labelFeature.attributes.callsign = callsign.toUpperCase();
+          
+          // This calculates label background width and offset
+          labelWidth = 8*callsign.length
+          labelOffset = labelWidth/2*-1.0
+          
+          labelFeature.attributes.labelWidth = labelWidth;
+          labelFeature.attributes.labelOffset = labelOffset;
+          planesLabel.addFeatures(labelFeature);
+       }
+       
+       function removePlanes(fid) {
+          planes.removeFeatures(planes.getFeatureById(fid));
+          planesLabel.removeFeatures(planesLabel.getFeatureById("label"+fid));
+       }
+       
+       function removePlaneOnly(fid) {
+          planes.removeFeatures(planes.getFeatureById(fid));
+       }
+       
+       // now re-drawing of the features, just move what’s already here
+       function updatePlanes(mapfid, lon, lat, hdg, spd_kts) {
+       
+          //planes.getFeatureById(mapfid).move(new OpenLayers.LonLat(lon,lat));
+          removePlaneOnly(mapfid)
+          addPlanes(mapfid, lon, lat, hdg, spd_kts)
+          var movepoint = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+          planesLabel.getFeatureById("label"+mapfid).move(movepoint);
+       }
+       
+        // In case we zoom to one plane we center the map
+        // In case it there are more than one plane selected we zoom to bounds. Hah!
+        function zoomToBoundsSelected(selected) {
+        bounds = new OpenLayers.Bounds();
+        if (selected.length>1) {
+            for (i=0;i<selected.length;i++) {
+                lon = planesLabel.getFeatureById("label"+selected[i]).geometry.x
+                lat = planesLabel.getFeatureById("label"+selected[i]).geometry.y
+                bounds.extend(new OpenLayers.LonLat(lon,lat))
+                bounds.toBBOX();
+            }
+            map.zoomToExtent(bounds);
+        }else{
+            lon = planesLabel.getFeatureById("label"+selected[0]).geometry.x
+            lat = planesLabel.getFeatureById("label"+selected[0]).geometry.y
+            console.log(lon, lat)
+            zoompoint = new OpenLayers.LonLat(lon, lat);
+            map.setCenter(zoompoint,9);
+        }
+       }
+       
+       // ----------------------------------------------------------------------------------------------
+       // jQuery
+       // ----------------------------------------------------------------------------------------------
+       // ----------------------------------------------------------------------------------------------
+       // This is needed to NOT remove the flights from the first load
+       // ----------------------------------------------------------------------------------------------
+       
+       var firstload = 1
+       var isdown = 0
+       
+       // ----------------------------------------------------------------------------------------------
+       // Init vars
+       // ----------------------------------------------------------------------------------------------
+       
+       var datamap = [];
+       var removal = [];
+       var selected = [];
+       
+        // ----------------------------------------------------------------------------------------------
+        // Creating the main table
+        // ----------------------------------------------------------------------------------------------
+        // Some strings to construct the table, and a nodata value just in case ...
+
+                      
+        var tableheader = "<table><tr class='table_header'><td class='fid' style='display: none;'><p>FID</p>'"+
+                    "</td><td><p>Callsign</p></td><td class='lon' style='display: none'><p>Longitude</p></td>"+
+                    "<td class='lat' style='display: none'><p>Latitude</p></td><td><p>Heading</p></td><td><p>Altitude"+
+                    "</p></td><td><p>Speed</p></td></tr>"
+                
+                            
+       var nodata = "<tr class='flightrow'><td class='fid'>FID<td class='callsign'><p>No data ...<td class='lon'><p>\
+                  <td class='lat'><td class='hdg'><p><td class='alt_ft'><p><td class='speed'><p>"
+                  
+       
+       
+       $(document).ready(function() {
+            $(tableheader).appendTo('#header_flights')
+          $("<table cellspacing='0' cellpadding='0' id='flights' />")
+             .appendTo("#content_flights");
+          $('#flights').hide().show(300);
+       });
+       
+       // ----------------------------------------------------------------------------------------------
+       // Adding flights
+       // ----------------------------------------------------------------------------------------------
+       
+       function addFlight(flight) {
+          
+          // Add flight to the map
+          var fid = flight.children('.fid').text()
+          var callsign = flight.children('.callsign').text()
+          var lon = flight.children('.lon').text()
+          var lat = flight.children('.lat').text()
+          var hdg = flight.children('.hdg').text()
+          var spd_kts = flight.children('.spd_kts').text()
+
+          addPlanes(fid, lon, lat, hdg, spd_kts)
+          addLabels(fid, callsign, lon, lat)
+          
+          // Add flight to the table
+          $('#flights').append(flight);
+       }
+       
+       // ----------------------------------------------------------------------------------------------
+       // Removing flights
+       // ----------------------------------------------------------------------------------------------
+       
+       function removeFlights() {
+          // Remove features from table
+          $.each(removal, function(i, val) {
+             $.each($('.flightrow'), function(i, row) {
+                if (($(row).get(0).id) == val) {
+                    $(row).hide(1000, function(){ $(row).remove(); });
+                    }
+             });
+          });
+          
+          // Remove features from the map
+          $.each(removal, function(i, val) {
+             removePlanes(val)
+          });
+          
+       }
+       
+        // ----------------------------------------------------------------------------------------------
+		// Loading the JSON data
+		// ----------------------------------------------------------------------------------------------
+		// Function has a fixed timeout (5 secs)
+		
+		var req = null;
+
+		function workData() {
+	
+			$('.fid').hide()
+			$('.latitude').hide()
+			$('.longitude').hide()
+             
+
+			// reset the arrays
+			var flightshere = [];
+			var flightsdata = [];
+			var datafids = [];
+			removal = [];
+		
+			// we do not care about the "success" label, we check for
+			// request loading state directly
+			if (req.status == "200" && req.readyState == 4) {
+		
+				// JSON parsing the response string
+				var data = JSON.parse(req.responseText);
+		
+				$(data.flights).each(function (i){
+					// Defining the flight row
+					var flightrow = "<tr class='flightrow' id='"+this.fid+"'>"+
+							"<td class='fid' style='display: none'><p>"+this.fid+
+                            "<td class='callsign'><p>"+this.callsign.toUpperCase()+
+                            "<td class='lon' style='display: none'><p>"+this.lon+
+                            "<td class='lat' style='display: none'><p>"+this.lat+
+  	                        "<td class='hdg'><p>"+this.hdg+
+  	                        "<td class='alt_ft'><p>"+this.alt_ft+
+  	                        "<td class='spd_kts'><p>"+this.spd_kts+"</tr>"
+	                  
+	                  flightsdata.push($(flightrow))
+	                  datafids.push(JSON.stringify(this.fid))
+                    
+				}); // END each flight
+				
+			// We start to draw only when document is fully loaded
+			$(document).ready(function() {
+				
+				// Getting all the flights already on screen
+				$('.flightrow').each( function() {
+					flightshere.push($(this).children('.fid').text())
+                });
+                
+                // First load, append all data to the page
+                if (firstload > 0) {
+                    $.each(flightsdata, function () {
+                       addFlight($(this))
+                    });
+                }
+                
+                // ADD OR UPDATE: Not first load, so append only what's not already here
+                else{
+                
+                    $.each(flightsdata, function(i) {
+                    var checkfidel = $(this).children('.fid').text()
+                    	
+                    	if ($.inArray(checkfidel, selected) >= 0) {
+                    		$(this).addClass('back_greenB7F')
+                    	}else{
+                    	    $(this).removeClass('back_greenB7F')
+                    	 }
+                        
+                        // Update vars
+                        var checkfid = $(this).children('.fid').text()
+                    	var lat = $(this).children('.lat').text()
+                        var lon = $(this).children('.lon').text()
+                        var hdg = $(this).children('.hdg').text()
+                        var spd_kts = $(this).children('.spd_kts').text()
+                    	
+                        // Update check
+                        if ($.inArray(checkfidel, flightshere) > -1) {
+                       
+                            // Update table
+                            var checkfid2 = "\[id=\""+checkfid+"\"\]"
+                            if (spd_kts < 10) {$(this).addClass('gray666')}
+                            $(checkfid2).replaceWith($(this))
+ 
+                            // Update the map
+                            // For openlayers we have to change lat/lon order, grmbl
+                            updatePlanes(checkfid, lon, lat, hdg, spd_kts)
+                        }
+                        else{
+                        //console.log("Flight to add: "+flightsdata[i].children('.callsign').text())
+                        if (spd_kts < 10) {$(this).addClass('gray666')}
+                            addFlight($(this))
+                        }
+                    });
+                }
+                
+                
+                // REMOVE: Have a look what needs to be removed and add it to the removal array
+                $('.fid').each( function() {
+                    var fidrem = $(this).children().text()
+                    
+                    if ($.inArray(fidrem, datafids) < 0) {
+                       removal.push(fidrem)
+                    }
+                    if ($.inArray(fidrem, flightsdata) > -1) {
+                    }
+                }); 	
+                
+                removeFlights();
+              
+              
+              // Showing the heading with background image
+              $('.hdg').each( function() {
+               var value = $(this).children('p').text()
+               if (between(value,0,22) || between(value,293,360)) {
+                $(this).addClass('hdg_n')
+                }
+               if (between(value,23,67)) {
+                $(this).addClass('hdg_ne')
+                }
+               if (between(value,68,112)) {
+                $(this).addClass('hdg_e')
+                }
+               if (between(value,113,157)) {
+                $(this).addClass('hdg_se')
+                }
+               if (between(value,158,202)) {
+                $(this).addClass('hdg_s')
+                }
+               if (between(value,203,247)) {
+                $(this).addClass('hdg_sw')
+                }
+               if (between(value,248,292)) {
+                $(this).addClass('hdg_w')
+                }
+              });
+              
+             $('.flightrow').hover(
+              function() {
+               $(this).addClass('back_grayCCC')
+              },
+              function() {
+               $(this).removeClass('back_grayCCC')
+              }
+             );
+             
+             // Select a flight in the list
+             $('.flightrow').click(
+              function() {
+              	var check = $(this).children('.fid').text()
+              	if ($.inArray(check, selected) < 0) {
+              		$(this).addClass('back_greenB7F')
+              		selected.push(check)
+                    zoomToBoundsSelected(selected)
+              	}else{
+                    $(this).removeClass('back_greenB7F')
+                    var index = selected.indexOf($(this).children('.fid').text());
+                    selected.splice(index,1);
+                    $(this).removeClass('back_greenB7F')
+                }
+
+              });
+              
+              }); // END document ready
+	
+	// Reload data around 2 sec (1800 ms, cf-client updates 1000)
+	setTimeout("sendRequest('http://crossfeed.fgx.ch/data')", 1800)
+	
+	} // END if req.readyState
+} // END workData()
+
+
+
+       
+       // ----------------------------------------------------------------------------------------------
+       // initial loading in document body now, but we set first load flag here
+       // ----------------------------------------------------------------------------------------------
+       
+       firstload = 0 // means it’s not the first load anymore ;-)
+       
+       // ----------------------------------------------------------------------------------------------
+       // Helpers
+       // ----------------------------------------------------------------------------------------------
+       
+       // XMLHttpRequest handling
+       function getXMLHttpRequest() {
+			var httpReq = null;
+			if (window.XMLHttpRequest) {
+				httpReq = new XMLHttpRequest();
+			} 
+			else if (typeof ActiveXObject != "undefined") {	
+				httpReq = new ActiveXObject("Microsoft.XMLHTTP")
+			}
+		return httpReq;
+		}
+		
+		function sendRequest(url) {
+			req = getXMLHttpRequest()
+			req.onreadystatechange = workData;
+			req.open("GET", url)
+			req.send(null);
+		}
+       
+       // Check number between
+       function between(x, min, max) {
+          return x >= min && x <= max;
+       }
+       
+       // Array IE workaround from Mozilla, fastest implementation
+       if (!Array.prototype.indexOf) {
+    	Array.prototype.indexOf = function (searchElement /*, fromIndex */ ) {
+       "use strict";
+       if (this == null) {
+          throw new TypeError();
+       }
+       var t = Object(this);
+       var len = t.length >>> 0;
+       if (len === 0) {
+          return -1;
+       }
+       var n = 0;
+       if (arguments.length > 1) {
+          n = Number(arguments[1]);
+          if (n != n) { // shortcut for verifying if it's NaN
+             n = 0;
+          } else if (n != 0 && n != Infinity && n != -Infinity) {
+             n = (n > 0 || -1) * Math.floor(Math.abs(n));
+          }
+       }
+       if (n >= len) {
+          return -1;
+       }
+       var k = n >= 0 ? n : Math.max(len - Math.abs(n), 0);
+       for (; k < len; k++) {
+          if (k in t && t[k] === searchElement) {
+             return k;
+          }
+       }
+       return -1;
+    	}
+		}
+        
+        // The good old GUP function by Geoff McLane
+        function gup( name ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return "";
+        else
+            return results[1];
+        }
+        
+       </script> 
+
+        <style type="text/css">
+        
+
+       </style>
+    </head>
+    
+    <body>
+        <div id="wrapper">
+
+            <div id="header_flights"></div>
+            <div id="content_flights"></div>
+        </div>
+        <div id="map"></div>        
+    <!-- This gives IE compatibility with the OpenLayers map init function -->
+    <script type="text/javascript" defer="defer">
+        var lat = gup('lat');
+        var lon = gup('lon');
+        var zoom = gup('zoom');
+        init(lon,lat,zoom);
+		sendRequest("http://crossfeed.fgx.ch/data")
+    </script>
+
+    </body>
+</html>

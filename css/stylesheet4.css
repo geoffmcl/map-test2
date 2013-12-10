@@ -1,0 +1,45 @@
+/* stylesheet4.css - 20131205 */
+
+html, body {
+   margin: 0;
+   width: 100%;
+   height: 100%;
+}
+
+#header_flights {
+   color: #ffffff;
+   background: #999999;
+}
+
+.mono {
+  font-family: "Courier New", monospace;
+}
+     
+.fid,.hdg,.lat,.lon,.alt,.spd,.dist {
+    text-align:right;
+}
+
+.lat,.lon,.callsign {
+    width: 8em;
+}
+
+.model {
+    width: 12em;
+}
+
+.red {
+color: #ff0000;
+ }
+.gray666 {
+color: #666666;
+ }
+.grayCCC {
+color: #CCCCCC;
+ }
+.bot {
+   position: absolute;
+   bottom: 1em;
+   left: 1em;
+}
+ 
+/* eof */

@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Up-Down 1</title>
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+<script type="text/javascript" src="js/jquery-2.0.3.js"></script>
+ <script type="text/javascript">
+ $(document).ready(function(){
+        $('#add').on("click", function(){
+            $('#one tbody input:checked').parent().parent().clone().appendTo("#two tbody");
+            return false;
+        });
+
+        $('#remove').on("click", function(){
+            $('#two tbody input:checked').parent().parent().remove();
+            return false;
+        });
+
+        $(".up,.down").click(function(){
+            var row = $('#two tbody input:checked').parents("tr:first");
+            if ($('#two tbody input:checked').is(".up")) {
+                row.insertBefore(row.prev());
+            } else {
+                row.insertAfter(row.next());
+            }
+
+            //return false;
+        });
+    });
+ </script>
+</head>
+<body>
+<table id="one" style="border:1px solid red;">
+    <caption>Table 1</caption>
+<thead>
+<tr>
+<th></th>
+<th >ID</th>
+<th> Name</th>
+<th>System</th>
+</tr>
+</thead>
+    <tbody>
+      <tr>
+        <td><input type="checkbox" /></td>
+        <td>12</td>
+        <td>Sam</td>
+        <td>FSS</td>
+     </tr>
+
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>87</td>
+        <td>Harry</td>
+        <td>MSS</td>
+     </tr>
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>23</td>
+        <td>Rita</td>
+        <td>MVV</td>
+     </tr>
+     <tr>
+        <td><input type="checkbox" /></td>
+        <td>65</td>
+        <td>Tom</td>
+        <td>RDD</td>
+     </tr>   
+   </tbody>
+</table>
+
+<table id="two" style="border:1px solid green;">
+    <caption>Table 2</caption>
+<thead>
+<tr>
+<th></th>
+<th >ID</th>
+<th>Sequence No</th>
+<th>Name</th>
+<th>System</th>
+</tr>
+</thead>
+    <tbody>
+
+    </tbody>
+
+</table>
+<br><hr><br>
+<button id="add">Add</button>
+<button id="remove">Remove</button>
+<button class="up">UP</button>
+<button class="down">DOWN</button>
+</body>
+</html>

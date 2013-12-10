@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   circle
+  </title>
+  <!-- <script src="http://www.openlayers.org/api/OpenLayers.js" -->
+  <script src="js/OpenLayers.js"
+        type="text/javascript">
+</script>
+  <style type="text/css">
+#mapdiv {
+        border: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+  }
+  </style>
+  <script type="text/javascript">
+        var map, epsg4326, projectTo, vectorLayer; 
+        var add_vector_layer = false;
+        function init() {
+            map = new OpenLayers.Map("mapdiv", {
+                projection: new OpenLayers.Projection("EPSG:3857"),
+                // this sets wgs84/4326 as default for display coords
+                displayProjection: new OpenLayers.Projection("EPSG:4326")
+                }
+            );
+            // map = new OpenLayers.Map("mapdiv");
+            // map.addLayer(new OpenLayers.Layer.OSM());
+            var mapnik  = new OpenLayers.Layer.OSM();
+            map.addLayer(mapnik);
+            epsg4326 = new OpenLayers.Projection("EPSG:4326"); //WGS 1984 projection
+            projectTo = map.getProjectionObject(); //The map projection (Spherical Mercator)
+            var lonLat = new OpenLayers.LonLat(-0.1279688, 51.5077286).transform(epsg4326, projectTo);
+            var zoom = 6;
+            map.setCenter(lonLat, zoom);
+            if (add_vector_layer) {
+                var vectorLayer = new OpenLayers.Layer.Vector("Overlay");
+                var point = new OpenLayers.Geometry.Point(lonLat.lon, lonLat.lat);
+                var mycircle = OpenLayers.Geometry.Polygon.createRegularPolygon
+                     ( point,
+                       50000,
+                       40,
+                       0
+                     );
+
+                var featurecircle = new OpenLayers.Feature.Vector(mycircle);
+                var featurePoint = new OpenLayers.Feature.Vector(
+                     point,
+                    { description: 'info' },
+                    { externalGraphic: 'js/img/marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset: -12, graphicYOffset: -25 }
+                );
+                vectorLayer.addFeatures([featurePoint, featurecircle]);
+                map.addLayer(vectorLayer);
+            }
+        }
+  </script>
+ </head>
+ <body>
+  <div id="mapdiv">
+  </div>
+  <script type="text/javascript"
+        defer="defer">
+        init();
+   </script>  
+ </body>
+</html>

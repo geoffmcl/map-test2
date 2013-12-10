@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <title>OpenLayers Demo with Custom Tooltips and External Data | TechSlides</title>        
+        <style type="text/css">
+            html, body, #map {
+                margin: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+            #text {
+                position: absolute;
+                bottom: 1em;
+                left: 1em;
+                width: 512px;
+                z-index: 20000;
+                background-color: white;
+                padding: 0 0.5em 0.5em 0.5em;
+            }
+
+            #tooltip{
+                position:absolute; 
+                z-index:10000; 
+                background-color:#FFFFFF;
+                display:none;
+                padding:5px;
+            }
+        </style>
+        <script src="js/OpenLayers.js"></script>
+    </head>
+    <body>
+        <div id="map"><div id="tooltip"></div></div>
+
+          <div id="text">
+              <h1 id="title">OpenLayers Demo with Custom ToolTips and Multiple Layers</h1>
+
+              <p id="shortdesc">
+                This example uses OpenLayers to plot different types of external data on a world map.
+                There are multiple overlays that can be toggled and tooltips have been implemented using 
+                some custom JavaScript functions.  
+                <a href="http://techslides.com/openlayers-map-with-tooltips/">Back to Article</a>
+            </p>
+
+
+        <script type="text/javascript">
+        var urls = [
+            "http://a.tile.openstreetmap.org/${z}/${x}/${y}.png",
+            "http://b.tile.openstreetmap.org/${z}/${x}/${y}.png",
+            "http://c.tile.openstreetmap.org/${z}/${x}/${y}.png"
+        ];
+
+        var map, layer;
+
+        function init(){
+
+            map = new OpenLayers.Map('map', {maxResolution:'auto'});
+
+            layer = new OpenLayers.Layer.XYZ("OSM (with buffer)", urls, {
+                transitionEffect: "resize", buffer: 2, sphericalMercator: true, layers: 'basic'
+            });
+
+
+            map.addLayer(layer);
+            map.setCenter(new OpenLayers.LonLat(0, 0), 3); //number 3 here is for zoom
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+            map.addControl(new OpenLayers.Control.Navigation({
+                    dragPanOptions: {
+                        enableKinetic: true
+                    }
+                })
+            );
+
+            //callback for moveend event - fix tooltips
+            map.events.register("moveend", map, function() {
+                tooltip();
+            });
+
+            //callback for moveend event - fix tooltips
+            map.events.register("zoomend", map, function() {
+                tooltip();
+            });
+                
+        }
+
+
+        function addUrl(url,name,visibility,style) {      
+
+            var styleMap = new OpenLayers.StyleMap(style);
+
+            var kml = new OpenLayers.Layer.Vector(name, {
+                projection: map.displayProjection,
+                visibility: visibility,
+                styleMap: styleMap,
+                strategies: [new OpenLayers.Strategy.Fixed()],
+                protocol: new OpenLayers.Protocol.HTTP({
+                    url: url,
+                    format: new OpenLayers.Format.KML({
+                        extractAttributes: true
+                    })
+                })
+            });
+            
+            
+            //callback after a layer has been loaded in openlayers
+            kml.events.register("loadend", kml, function() { 
+                tooltip();
+            });
+
+            map.addLayer(kml);
+
+        }
+
+        init();
+
+        //create layers with options
+        addUrl('data/IUCN_cat_1a.kml','IUCN - Category 1a',false,{pointRadius: 5, 'fillColor': '#ff9900', 'strokeColor': '#222222', title:'${name}'});
+
+        addUrl('data/IUCN_cat_1b.kml','IUCN - Category 1b',false,{pointRadius: 5, 'fillColor': '#6699ff', 'strokeColor': '#222222', title:'${name}'});
+
+        addUrl('data/IUCN_cat_2.kml','Category II National Park',true,{pointRadius: 5, 'fillColor': '#339900', 'strokeColor': '#222222', title:'${name}'});
+
+        //addUrl('data/IUCN_cat_3.kml','Category III Natural Monument or Feature',false,{pointRadius: 5, 'fillColor': '#CC0000', 'strokeColor': '#222222', title:'${name}'});
+
+        //addUrl('data/IUCN_cat_4.kml','IUCN - Category 4',false,{pointRadius: 5, 'fillColor': '#9933cc', 'strokeColor': '#222222', title:'${name}'});
+
+        //addUrl('data/IUCN_cat_5.kml','IUCN - Category 5',false,{pointRadius: 5, 'fillColor': '#003366', 'strokeColor': '#222222', title:'${name}'});
+
+        //addUrl('data/IUCN_cat_6.kml','IUCN - Category 6',false,{pointRadius: 5, 'fillColor': '#996600', 'strokeColor': '#222222', title:'${name}'});
+
+
+        function tooltip(){
+            
+            var tooltips = document.getElementsByTagName("title");
+            var tooltip = document.getElementById("tooltip");
+
+          for (var i = 0; i < tooltips.length; i++) {
+            tooltips.item(i).parentNode.addEventListener('mouseover', function(e) {
+              showTip(this,xy(e));
+            }, true);
+            tooltips.item(i).parentNode.addEventListener('mouseout', function() {
+              hideTip(this);
+            }, true);
+          }
+
+          function showTip(element,pos) {
+            
+            var title = element.attributes.title.value; //many different ways to grab this
+            var offset = 7;
+            var top = pos[1]+offset+'px';
+            var left = pos[0]+offset+'px';
+            tooltip.style.top = top;
+            tooltip.style.left = left;
+            tooltip.textContent = title;
+            tooltip.style.display = 'block';
+          }
+
+          function hideTip(element) {
+            tooltip.style.display = 'none';
+          }
+
+          function xy(e) {
+            if (!e) var e = window.event;
+            if (e.pageX || e.pageY) {
+              return [e.pageX,e.pageY]
+            } else if (e.clientX || e.clientY) {
+              return [e.clientX + document.body.scrollLeft + document.documentElement.scrollLeft,e.clientY + document.body.scrollTop + document.documentElement.scrollTop];
+            }
+            return [0,0]
+          }
+
+        }
+
+        </script>
+
+        </div>
+    </body>
+</html>
+
