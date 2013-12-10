@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEGR","name":"El Gora","lat":31.078782,"lon":34.13675,"rwys":2,"ils":0,"index":3513920,"path":"e030n30/e034n31"
+,"runways":[
+{"len_m":2399,"wid_m":29.87,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":31.07048300,"lon1":34.13714200,"rwy2":"26","lat2":31.07591700,"lon2":34.16148300},
+{"len_m":2400,"wid_m":45.11,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":31.09484200,"lon1":34.12102800,"rwy2":"35","lat2":31.07388600,"lon2":34.12734700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"}
+]
+}

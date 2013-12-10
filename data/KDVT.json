@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDVT","name":"Phoenix Deer Valley","lat":33.688604,"lon":-112.082441,"rwys":2,"ils":0,"index":1105643,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":2501,"wid_m":30.48,"hdg":86,"surf":"Asphalt","rwy1":"07R","lat1":33.68683300,"lon1":-112.09626700,"rwy2":"25L","lat2":33.68840300,"lon2":-112.06935300},
+{"len_m":1371,"wid_m":22.86,"hdg":86,"surf":"Asphalt","rwy1":"07L","lat1":33.68916100,"lon1":-112.08945000,"rwy2":"25R","lat2":33.69001900,"lon2":-112.07469400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"DEER VALLEY TWR"},
+{"type":"TWR","freq":120.2,"desc":"DEER VALLEY TWR"},
+{"type":"APP","freq":120.7,"desc":"APP/DEP"}
+]
+}

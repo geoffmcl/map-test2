@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRRQ","name":"Rock Rapids Muni","lat":43.4522165,"lon":-96.179785,"rwys":1,"ils":0,"index":1368411,"path":"w100n40/w097n43"
+,"runways":[
+{"len_m":943,"wid_m":15.24,"hdg":171,"surf":"Asphalt","rwy1":"16","lat1":43.45641900,"lon1":-96.18063100,"rwy2":"34","lat2":43.44801400,"lon2":-96.17893900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.9,"desc":"SIOUX FALLS APP/DEP"}
+]
+}

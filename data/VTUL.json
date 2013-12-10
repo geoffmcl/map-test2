@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUL","name":"Loei","lat":17.44473300,"lon":101.72696700,"rwys":1,"ils":0,"index":4610781,"path":"e100n10/e101n17"
+,"runways":[
+{"len_m":2104,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":17.43003300,"lon1":101.71919400,"rwy2":"19","lat2":17.44823100,"lon2":101.72493600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":122.55,"desc":"APP"},
+{"type":"APP","freq":126.2,"desc":"APP"}
+]
+}

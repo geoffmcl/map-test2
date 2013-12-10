@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"K88","name":"Allen Co","lat":37.87234375,"lon":-95.38466875,"rwys":2,"ils":0,"index":1384434,"path":"w100n30/w096n37"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":13,"surf":"Concrete","rwy1":"01","lat1":37.86461400,"lon1":-95.38804200,"rwy2":"19","lat2":37.87556700,"lon2":-95.38474400},
+{"len_m":356,"wid_m":15.24,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":37.87619400,"lon1":-95.38315600,"rwy2":"35","lat2":37.87300000,"lon2":-95.38273300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

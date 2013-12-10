@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"X21","name":"Arthur Dunn Air Park","lat":28.62243875,"lon":-80.83563875,"rwys":2,"ils":0,"index":1629600,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":914,"wid_m":21.34,"hdg":155,"surf":"Asphalt","rwy1":"15","lat1":28.62583300,"lon1":-80.83777800,"rwy2":"33","lat2":28.61830600,"lon2":-80.83394400},
+{"len_m":545,"wid_m":30.48,"hdg":36,"surf":"Turf/grass","rwy1":"04","lat1":28.62083300,"lon1":-80.83708300,"rwy2":"22","lat2":28.62478300,"lon2":-80.83375000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYPA","name":"Prince Albert (glass Field)","lat":53.21323100,"lon":-105.68048600,"rwys":2,"ils":1,"index":1221577,"path":"w110n50/w106n53"
+,"runways":[
+{"len_m":1560,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":53.21799900,"lon1":-105.68480758,"rwy2":"26","lat2":53.21799900,"lon2":-105.66144442},
+{"len_m":783,"wid_m":29.87,"hdg":170,"surf":"Turf/grass","rwy1":"16","lat1":53.21771591,"lon1":-105.67372754,"rwy2":"34","lat2":53.21077753,"lon2":-105.67170268}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"MF PRINCE ALBERT RDO"}
+]
+}

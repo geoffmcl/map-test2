@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJNA","name":"Nagoya","lat":35.255493,"lon":136.9243885,"rwys":1,"ils":1,"index":5185363,"path":"e130n30/e136n35"
+,"runways":[
+{"len_m":2740,"wid_m":45.72,"hdg":152,"surf":"Asphalt","rwy1":"16","lat1":35.26643900,"lon1":136.91741900,"rwy2":"34","lat2":35.24454700,"lon2":136.93135800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":121.05,"desc":"CENTRAIR APP"},
+{"type":"APP","freq":119.75,"desc":"CENTRAIR APP"},
+{"type":"APP","freq":119.25,"desc":"CENTRAIR TCA"},
+{"type":"APP","freq":121.75,"desc":"CENTRAIR TCA"},
+{"type":"DEP","freq":121.22,"desc":"CENTRAIR DEP"}
+]
+}

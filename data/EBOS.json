@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBOS","name":"Oostende","lat":51.20396100,"lon":002.86861000,"rwys":1,"ils":2,"index":2990923,"path":"e000n50/e002n51"
+,"runways":[
+{"len_m":3213,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":51.19657229,"lon1":2.85266187,"rwy2":"26","lat2":51.20336087,"lon2":2.89735476}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"OOSTENDE GND"},
+{"type":"TWR","freq":118.17,"desc":"OOSTENDE TWR"},
+{"type":"APP","freq":120.6,"desc":"OOSTENDE APP"}
+]
+}

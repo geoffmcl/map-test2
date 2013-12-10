@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMEM","name":"Memphis Intl","lat":35.04266625,"lon":-89.97662525,"rwys":4,"ils":8,"index":1482560,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":3389,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"18C","lat1":35.05459400,"lon1":-89.97616900,"rwy2":"36C","lat2":35.02405000,"lon2":-89.97552800},
+{"len_m":2841,"wid_m":45.72,"hdg":178,"surf":"Concrete","rwy1":"18R","lat1":35.04948900,"lon1":-89.98744200,"rwy2":"36L","lat2":35.02388300,"lon2":-89.98689200},
+{"len_m":2743,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"18L","lat1":35.04881700,"lon1":-89.97295300,"rwy2":"36R","lat2":35.02409400,"lon2":-89.97243100},
+{"len_m":2726,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":35.05862200,"lon1":-89.98573100,"rwy2":"27","lat2":35.05778100,"lon2":-89.95585600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":128.42,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"APP"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"DEP","freq":124.15,"desc":"DEP"},
+{"type":"DEP","freq":124.65,"desc":"DEP"}
+]
+}

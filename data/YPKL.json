@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPKL","name":"Puckapunyal","lat":-36.99901499,"lon":145.06060542,"rwys":1,"ils":0,"index":5328192,"path":"e140s40/e145s37"
+,"runways":[
+{"len_m":762,"wid_m":29.87,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":-37.00035006,"lon1":145.06134939,"rwy2":"21","lat2":-36.99522873,"lon2":145.06706460}
+]
+,"helipads":[
+{"rwy1":"H11","len_m":11,"wid_m":11.89,"hdg":145,"surf":"Asphalt","lat1":-36.99969209,"lon1":145.06051135}
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF - AFRU"}
+]
+}

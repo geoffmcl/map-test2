@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMSO","name":"Missoula Intl","lat":46.91778300,"lon":-114.08300900,"rwys":2,"ils":1,"index":1073723,"path":"w120n40/w115n46"
+,"runways":[
+{"len_m":2895,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"11","lat1":46.92484400,"lon1":-114.10655800,"rwy2":"29","lat2":46.90794200,"lon2":-114.07763900},
+{"len_m":1405,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":46.91601100,"lon1":-114.09661100,"rwy2":"25","lat2":46.91615600,"lon2":-114.07816100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":124.9,"desc":"SPOKANE APP/DEP"}
+]
+}

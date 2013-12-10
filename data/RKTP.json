@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKTP","name":"Seosan Ab","lat":36.70475325,"lon":126.4860625,"rwys":2,"ils":1,"index":5021609,"path":"e120n30/e126n36"
+,"runways":[
+{"len_m":2728,"wid_m":45.72,"hdg":24,"surf":"Concrete","rwy1":"03L","lat1":36.69397200,"lon1":126.47860800,"rwy2":"21R","lat2":36.71631900,"lon2":126.49133900},
+{"len_m":2732,"wid_m":45.72,"hdg":24,"surf":"Concrete","rwy1":"03R","lat1":36.69316900,"lon1":126.48078100,"rwy2":"21L","lat2":36.71555300,"lon2":126.49352200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.3,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"HAEMI TWR"},
+{"type":"TWR","freq":136.77,"desc":"HAEMI TWR"},
+{"type":"APP","freq":124.6,"desc":"HAEMI APP"},
+{"type":"DEP","freq":124.6,"desc":"DEP"}
+]
+}

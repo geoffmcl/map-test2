@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FSIA","name":"Seychelles Intl","lat":-4.674378,"lon":55.521829,"rwys":1,"ils":1,"index":3855700,"path":"e050s10/e055s05"
+,"runways":[
+{"len_m":2987,"wid_m":46.02,"hdg":125,"surf":"Concrete","rwy1":"13","lat1":-4.66663100,"lon1":55.51080200,"rwy2":"31","lat2":-4.68212500,"lon2":55.53285600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

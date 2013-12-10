@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBBY","name":"Baisy-thy","lat":50.56825506,"lon":4.43491547,"rwys":3,"ils":0,"index":3023649,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":213,"wid_m":29.87,"hdg":46,"surf":"Turf/grass","rwy1":"04","lat1":50.56671341,"lon1":4.43470301,"rwy2":"22","lat2":50.56803559,"lon2":4.43688802},
+{"len_m":307,"wid_m":29.87,"hdg":315,"surf":"Turf/grass","rwy1":"14","lat1":50.56769797,"lon1":4.43592685,"rwy2":"32","lat2":50.56967103,"lon2":4.43288208},
+{"len_m":284,"wid_m":27.13,"hdg":315,"surf":"Turf/grass","rwy1":"5","lat1":50.56779859,"lon1":4.43596079,"rwy2":"23","lat2":50.56961378,"lon2":4.43313208}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.45,"desc":"Baisy-Thy Radio"}
+]
+}

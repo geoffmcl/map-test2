@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YARY","name":"Arrabury","lat":-26.69551534,"lon":141.05115909,"rwys":2,"ils":0,"index":5263312,"path":"e140s30/e141s27"
+,"runways":[
+{"len_m":794,"wid_m":103.94,"hdg":93,"surf":"Dirt","rwy1":"9","lat1":-26.69592979,"lon1":141.04209235,"rwy2":"27","lat2":-26.69641387,"lon2":141.05005358},
+{"len_m":1413,"wid_m":95.10,"hdg":163,"surf":"Dirt","rwy1":"16","lat1":-26.68429248,"lon1":141.04502939,"rwy2":"34","lat2":-26.69653312,"lon2":141.04903836}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

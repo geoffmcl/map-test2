@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCKW","name":"Hengchun","lat":22.0410735,"lon":120.730207,"rwys":1,"ils":0,"index":4922370,"path":"e120n20/e120n22"
+,"runways":[
+{"len_m":1697,"wid_m":29.87,"hdg":138,"surf":"Concrete","rwy1":"14","lat1":22.04682500,"lon1":120.72477200,"rwy2":"32","lat2":22.03532200,"lon2":120.73564200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP"},
+{"type":"APP","freq":124.7,"desc":"APP"}
+]
+}

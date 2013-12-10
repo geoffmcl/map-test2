@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N23","name":"Sidney Muni","lat":42.302579,"lon":-75.415958,"rwys":1,"ils":0,"index":1712402,"path":"w080n40/w076n42"
+,"runways":[
+{"len_m":1284,"wid_m":22.86,"hdg":58,"surf":"Asphalt","rwy1":"07","lat1":42.29952500,"lon1":-75.42256900,"rwy2":"25","lat2":42.30563300,"lon2":-75.40934700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

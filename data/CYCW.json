@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYCW","name":"Chilliwack","lat":49.15449484,"lon":-121.94350539,"rwys":1,"ils":0,"index":959176,"path":"w130n40/w122n49"
+,"runways":[
+{"len_m":1229,"wid_m":22.86,"hdg":81,"surf":"Asphalt","rwy1":"07","lat1":49.15194328,"lon1":-121.94722306,"rwy2":"25","lat2":49.15361227,"lon2":-121.93056640}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-121,"surf":"Concrete","lat1":49.15356566,"lon1":-121.94394284}
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

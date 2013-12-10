@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"06D","name":"Rolla Muni","lat":48.886968,"lon":-99.6218575,"rwys":2,"ils":0,"index":1319609,"path":"w100n40/w100n48"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":48.89236400,"lon1":-99.62659700,"rwy2":"32","lat2":48.88186400,"lon2":-99.61848300},
+{"len_m":731,"wid_m":30.48,"hdg":81,"surf":"Turf/grass","rwy1":"07","lat1":48.88630800,"lon1":-99.62610000,"rwy2":"25","lat2":48.88733600,"lon2":-99.61625000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

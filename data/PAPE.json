@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPE","name":"Perryville","lat":55.9080595,"lon":-159.158579,"rwys":1,"ils":0,"index":337019,"path":"w160n50/w160n55"
+,"runways":[
+{"len_m":751,"wid_m":12.19,"hdg":43,"surf":"Gravel","rwy1":"03","lat1":55.90559400,"lon1":-159.16268600,"rwy2":"21","lat2":55.91052500,"lon2":-159.15447200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.35,"desc":"ANCHORAGE CNTR"}
+]
+}

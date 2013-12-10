@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3K7","name":"Mark Hoard Mem","lat":38.45756975,"lon":-101.3554135,"rwys":2,"ils":0,"index":1286170,"path":"w110n30/w102n38"
+,"runways":[
+{"len_m":1326,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":38.46416900,"lon1":-101.35333100,"rwy2":"35","lat2":38.45222200,"lon2":-101.35333100},
+{"len_m":727,"wid_m":11.58,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":38.45694400,"lon1":-101.36166100,"rwy2":"26","lat2":38.45694400,"lon2":-101.35333100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

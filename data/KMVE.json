@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMVE","name":"Montevideo Chippewa Co","lat":44.96931375,"lon":-95.71040225,"rwys":2,"ils":0,"index":1384889,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":44.97264400,"lon1":-95.71443100,"rwy2":"32","lat2":44.96391700,"lon2":-95.70507800},
+{"len_m":731,"wid_m":50.29,"hdg":39,"surf":"Turf/grass","rwy1":"03","lat1":44.96781900,"lon1":-95.71401900,"rwy2":"21","lat2":44.97287500,"lon2":-95.70808100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

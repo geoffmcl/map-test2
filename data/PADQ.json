@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PADQ","name":"Kodiak","lat":57.7496323333333,"lon":-152.492882,"rwys":3,"ils":1,"index":451818,"path":"w160n50/w153n57"
+,"runways":[
+{"len_m":2298,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"07","lat1":57.75218900,"lon1":-152.51899400,"rwy2":"25","lat2":57.75146400,"lon2":-152.48041100},
+{"len_m":1645,"wid_m":46.02,"hdg":127,"surf":"Asphalt","rwy1":"11","lat1":57.75491900,"lon1":-152.50226700,"rwy2":"29","lat2":57.74602200,"lon2":-152.48020600},
+{"len_m":1527,"wid_m":46.02,"hdg":202,"surf":"Asphalt","rwy1":"18","lat1":57.75294400,"lon1":-152.48283100,"rwy2":"36","lat2":57.74025600,"lon2":-152.49258300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.5,"desc":"ATIS"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"ANCHORAGE CNTR"}
+]
+}

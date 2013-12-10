@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"93Y","name":"David City Muni","lat":41.23239322,"lon":-097.12579042,"rwys":2,"ils":0,"index":1351883,"path":"w100n40/w098n41"
+,"runways":[
+{"len_m":946,"wid_m":14.94,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":41.23388926,"lon1":-97.12546639,"rwy2":"32","lat2":41.22686024,"lon2":-97.11909078},
+{"len_m":655,"wid_m":36.88,"hdg":15,"surf":"Turf/grass","rwy1":"01","lat1":41.22842791,"lon1":-97.12589222,"rwy2":"19","lat2":41.23411883,"lon2":-97.12383627}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

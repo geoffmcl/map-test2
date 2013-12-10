@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDWU","name":"Ashland Rgnl","lat":38.55454686,"lon":-82.73804337,"rwys":1,"ils":1,"index":1597473,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1707,"wid_m":29.87,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":38.55564036,"lon1":-82.74773775,"rwy2":"28","lat2":38.55345336,"lon2":-82.72834900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+}

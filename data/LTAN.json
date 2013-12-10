@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAN","name":"Konya","lat":37.979,"lon":32.561847,"rwys":1,"ils":0,"index":3481594,"path":"e030n30/e032n37"
+,"runways":[
+{"len_m":3349,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":37.96455600,"lon1":32.55633300,"rwy2":"19","lat2":37.99344400,"lon2":32.56736100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.35,"desc":"ATIS"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

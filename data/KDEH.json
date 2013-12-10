@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDEH","name":"Decorah Muni","lat":43.2755095,"lon":-91.7393735,"rwys":1,"ils":0,"index":1450321,"path":"w100n40/w092n43"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":114,"surf":"Concrete","rwy1":"11","lat1":43.27780000,"lon1":-91.74620000,"rwy2":"29","lat2":43.27321900,"lon2":-91.73254700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYXY","name":"Whitehorse Intl","lat":60.7121906666667,"lon":-135.067108333333,"rwys":3,"ils":0,"index":730539,"path":"w140n60/w136n60"
+,"runways":[
+{"len_m":2891,"wid_m":45.72,"hdg":159,"surf":"Asphalt","rwy1":"13R","lat1":60.72166700,"lon1":-135.07666700,"rwy2":"31L","lat2":60.69739700,"lon2":-135.05790000},
+{"len_m":1197,"wid_m":24.38,"hdg":158,"surf":"Asphalt","rwy1":"13L","lat1":60.71861400,"lon1":-135.06860000,"rwy2":"31R","lat2":60.70861100,"lon2":-135.06056100},
+{"len_m":632,"wid_m":22.86,"hdg":32,"surf":"Asphalt","rwy1":"01","lat1":60.71102200,"lon1":-135.07253300,"rwy2":"19","lat2":60.71583300,"lon2":-135.06638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.3,"desc":"MANDATORY FREQ"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+}

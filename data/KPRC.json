@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPRC","name":"Prescott Ernest A. Love Field","lat":34.65181000,"lon":-112.41921200,"rwys":3,"ils":1,"index":1105706,"path":"w120n30/w113n34"
+,"runways":[
+{"len_m":2300,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"03R","lat1":34.64575600,"lon1":-112.42875600,"rwy2":"21L","lat2":34.66134200,"lon2":-112.41220000},
+{"len_m":1476,"wid_m":18.29,"hdg":41,"surf":"Asphalt","rwy1":"03L","lat1":34.65649200,"lon1":-112.42045000,"rwy2":"21R","lat2":34.66649400,"lon2":-112.40982200},
+{"len_m":1343,"wid_m":22.86,"hdg":136,"surf":"Asphalt","rwy1":"12","lat1":34.65273900,"lon1":-112.42796700,"rwy2":"30","lat2":34.64395000,"lon2":-112.41788900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"CTAF","freq":125.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"PRESCOTT TWR"}
+]
+}

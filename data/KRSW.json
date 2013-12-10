@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRSW","name":"Southwest Florida Intl","lat":26.53714800,"lon":-081.75887300,"rwys":1,"ils":1,"index":1613088,"path":"w090n20/w082n26"
+,"runways":[
+{"len_m":3657,"wid_m":45.72,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":26.52648600,"lon1":-81.77001900,"rwy2":"24","lat2":26.54583900,"lon2":-81.74028600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":132.07,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":128.75,"desc":"FORT MYERS TWR"},
+{"type":"APP","freq":119.75,"desc":"FORT MYERS APP/DEP"},
+{"type":"APP","freq":125.15,"desc":"FORT MYERS APP/DEP"},
+{"type":"APP","freq":126.8,"desc":"FORT MYERS APP/DEP"}
+]
+}

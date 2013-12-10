@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I76","name":"Peru Muni","lat":40.786329,"lon":-86.1463585,"rwys":1,"ils":0,"index":1532083,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":40.78085800,"lon1":-86.14694200,"rwy2":"19","lat2":40.79180000,"lon2":-86.14577500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.05,"desc":"GRISSOM APP/DEP"}
+]
+}

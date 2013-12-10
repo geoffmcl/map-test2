@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGLM","name":"White Waltham","lat":51.50051426,"lon":-000.76459982,"rwys":3,"ils":0,"index":2941792,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":1114,"wid_m":45.11,"hdg":64,"surf":"Turf/grass","rwy1":"07","lat1":51.49863600,"lon1":-0.78166100,"rwy2":"25","lat2":51.50293049,"lon2":-0.76716454},
+{"len_m":1029,"wid_m":45.11,"hdg":26,"surf":"Turf/grass","rwy1":"03","lat1":51.49574400,"lon1":-0.77515000,"rwy2":"21","lat2":51.50404400,"lon2":-0.76859700},
+{"len_m":930,"wid_m":29.87,"hdg":109,"surf":"Turf/grass","rwy1":"11","lat1":51.49965800,"lon1":-0.77974700,"rwy2":"29","lat2":51.49681258,"lon2":-0.76715137}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"Waltham Radio"}
+]
+}

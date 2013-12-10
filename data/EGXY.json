@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGXY","name":"Raf Syerston","lat":53.02013444,"lon":-000.91353274,"rwys":3,"ils":0,"index":2941888,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":1810,"wid_m":46.02,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":53.01927950,"lon1":-0.92448057,"rwy2":"25","lat2":53.02680091,"lon2":-0.90055266},
+{"len_m":1350,"wid_m":46.02,"hdg":150,"surf":"Asphalt","rwy1":"16","lat1":53.02909516,"lon1":-0.91128077,"rwy2":"34","lat2":53.01850283,"lon2":-0.90144655},
+{"len_m":1248,"wid_m":46.02,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":53.02297105,"lon1":-0.92003006,"rwy2":"30","lat2":53.01939856,"lon2":-0.90239638}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.42,"desc":"Syerston Radio"}
+]
+}

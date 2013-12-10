@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSPH","name":"Springhill","lat":32.983447,"lon":-93.409172,"rwys":1,"ils":0,"index":1416890,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":32.98894400,"lon1":-93.40918300,"rwy2":"36","lat2":32.97795000,"lon2":-93.40916100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"SHREVEPORT APP/DEP"},
+{"type":"APP","freq":121.4,"desc":"SHREVEPORT APP/DEP"}
+]
+}

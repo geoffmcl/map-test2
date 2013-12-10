@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEWN","name":"Craven Co Rgnl","lat":35.07672900,"lon":-077.04354100,"rwys":2,"ils":1,"index":1679171,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":30,"surf":"Asphalt","rwy1":"04","lat1":35.06544200,"lon1":-77.04828600,"rwy2":"22","lat2":35.07961400,"lon2":-77.03804400},
+{"len_m":1219,"wid_m":45.72,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":35.07704400,"lon1":-77.04786700,"rwy2":"31","lat2":35.07028600,"lon2":-77.03732500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":124.25,"desc":"CTAF"},
+{"type":"CLD","freq":120.52,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.25,"desc":"NEW BERN TWR"},
+{"type":"APP","freq":119.35,"desc":"CHERRY POINT APP/DEP"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJYO","name":"Leesburg Executive","lat":39.07896800,"lon":-077.55749500,"rwys":1,"ils":1,"index":1679425,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":39.08511900,"lon1":-77.56060600,"rwy2":"35","lat2":39.07081900,"lon2":-77.55439200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"POTOMAC CLNC DEL"},
+{"type":"CLD","freq":135.07,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":126.1,"desc":"POTOMAC APP/DEP"}
+]
+}

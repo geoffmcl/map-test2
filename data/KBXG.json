@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBXG","name":"Burke Co","lat":33.041289,"lon":-82.00269,"rwys":1,"ils":0,"index":1597123,"path":"w090n30/w083n33"
+,"runways":[
+{"len_m":1230,"wid_m":22.86,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":33.03949200,"lon1":-82.00891900,"rwy2":"26","lat2":33.04308600,"lon2":-81.99646100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":126.8,"desc":"AUGUSTA APP/DEP"}
+]
+}

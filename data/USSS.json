@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"USSS","name":"Koltsovo","lat":56.74310775,"lon":60.802727,"rwys":2,"ils":3,"index":3941547,"path":"e060n50/e060n56"
+,"runways":[
+{"len_m":3015,"wid_m":53.04,"hdg":94,"surf":"Concrete","rwy1":"08R","lat1":56.74240600,"lon1":60.77906100,"rwy2":"26L","lat2":56.74046700,"lon2":60.82820800},
+{"len_m":2498,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"08L","lat1":56.74480800,"lon1":60.78140000,"rwy2":"26R","lat2":56.74475000,"lon2":60.82223900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":120,"desc":"TWR"},
+{"type":"APP","freq":125.9,"desc":"APP"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCHA","name":"Lovell Field","lat":35.02961674,"lon":-085.20047839,"rwys":2,"ils":2,"index":1548099,"path":"w090n30/w086n35"
+,"runways":[
+{"len_m":2255,"wid_m":46.02,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":35.02265300,"lon1":-85.20750300,"rwy2":"20","lat2":35.04212500,"lon2":-85.20040000},
+{"len_m":1699,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":35.04522744,"lon1":-85.20830629,"rwy2":"33","lat2":35.03260909,"lon2":-85.19775475}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"CHATTANOOGA TWR"},
+{"type":"TWR","freq":122.5,"desc":"CHATTANOOGA TWR"},
+{"type":"APP","freq":119.2,"desc":"CHATTANOOGA APP"},
+{"type":"APP","freq":125.1,"desc":"CHATTANOOGA APP"},
+{"type":"APP","freq":126.5,"desc":"CHATTANOOGA APP"},
+{"type":"DEP","freq":119.2,"desc":"CHATTANOOGA DEP"},
+{"type":"DEP","freq":125.1,"desc":"CHATTANOOGA DEP"}
+]
+}

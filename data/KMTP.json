@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMTP","name":"Montauk","lat":41.0764585,"lon":-71.9207695,"rwys":1,"ils":0,"index":1777856,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":1060,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"06","lat1":41.07320300,"lon1":-71.92538900,"rwy2":"24","lat2":41.07971400,"lon2":-71.91615000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.95,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":125.75,"desc":"PROVIDENCE DEP"}
+]
+}

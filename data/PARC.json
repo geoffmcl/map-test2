@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PARC","name":"Arctic_village","lat":68.11505343,"lon":-145.57395725,"rwys":1,"ils":0,"index":567168,"path":"w150n60/w146n68"
+,"runways":[
+{"len_m":1377,"wid_m":22.86,"hdg":45,"surf":"Gravel","rwy1":"02","lat1":68.11147361,"lon1":-145.58629680,"rwy2":"20","lat2":68.12020189,"lon2":-145.56287690}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"AWOS"},
+{"type":"CTAF","freq":122.9,"desc":"ARCTIC_VILLAGE MULT"}
+]
+}

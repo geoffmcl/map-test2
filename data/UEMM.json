@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UEMM","name":"Magam","lat":62.10518200,"lon":129.53994245,"rwys":1,"ils":0,"index":5072385,"path":"e120n60/e129n62"
+,"runways":[
+{"len_m":3095,"wid_m":70.10,"hdg":210,"surf":"Turf/grass","rwy1":"05","lat1":62.12146208,"lon1":129.58082529,"rwy2":"23","lat2":62.09741392,"lon2":129.55114448}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Magan Tower"},
+{"type":"APP","freq":128.69,"desc":"Magan Podhod"}
+]
+}

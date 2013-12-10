@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBFD","name":"Bradford Rgnl","lat":41.79944591,"lon":-078.63954429,"rwys":2,"ils":1,"index":1663217,"path":"w080n40/w079n41"
+,"runways":[
+{"len_m":1925,"wid_m":46.02,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":41.80932252,"lon1":-78.64881785,"rwy2":"32","lat2":41.79730848,"lon2":-78.63210872},
+{"len_m":1373,"wid_m":29.87,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":41.79799338,"lon1":-78.64498951,"rwy2":"23","lat2":41.80690662,"lon2":-78.63353469}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.82,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HSFS","name":"El Fashir","lat":13.61511725,"lon":25.32964025,"rwys":2,"ils":0,"index":3365346,"path":"e020n10/e025n13"
+,"runways":[
+{"len_m":2978,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":13.60673900,"lon1":25.31395800,"rwy2":"23","lat2":13.62338600,"lon2":25.33559200},
+{"len_m":1526,"wid_m":45.11,"hdg":183,"surf":"Gravel","rwy1":"18","lat1":13.62205800,"lon1":25.33493600,"rwy2":"36","lat2":13.60828600,"lon2":25.33407500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.3,"desc":"TWR/APP"}
+]
+}

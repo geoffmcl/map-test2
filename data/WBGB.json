@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WBGB","name":"Bintulu","lat":3.1238375,"lon":113.0204725,"rwys":1,"ils":1,"index":4806464,"path":"e110n00/e113n03"
+,"runways":[
+{"len_m":2740,"wid_m":44.81,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":3.13595000,"lon1":113.01786700,"rwy2":"35","lat2":3.11172500,"lon2":113.02307800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.25,"desc":"TWR"},
+{"type":"TWR","freq":122.3,"desc":"TWR"}
+]
+}

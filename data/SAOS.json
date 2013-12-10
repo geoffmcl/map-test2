@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAOS","name":"Sta. Rosa De Conlara","lat":-32.37987000,"lon":-065.17997100,"rwys":1,"ils":0,"index":1871459,"path":"w070s40/w066s33"
+,"runways":[
+{"len_m":2550,"wid_m":45.11,"hdg":17,"surf":"Concrete","rwy1":"02","lat1":-32.39544123,"lon1":-65.18982636,"rwy2":"20","lat2":-32.37349579,"lon2":-65.18169823}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.85,"desc":"CONLARA TWR"},
+{"type":"APP","freq":119.9,"desc":"CONLARA APP"}
+]
+}

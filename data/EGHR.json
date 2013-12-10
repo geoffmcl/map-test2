@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGHR","name":"Chichester Goodwood","lat":50.85980614,"lon":-000.75649059,"rwys":4,"ils":0,"index":2941744,"path":"w010n50/w001n50"
+,"runways":[
+{"len_m":1296,"wid_m":46.02,"hdg":139,"surf":"Turf/grass","rwy1":"14R","lat1":50.86376886,"lon1":-0.76523745,"rwy2":"32L","lat2":50.85493942,"lon2":-0.75320919},
+{"len_m":725,"wid_m":29.87,"hdg":139,"surf":"Turf/grass","rwy1":"14L","lat1":50.86153300,"lon1":-0.76148100,"rwy2":"32R","lat2":50.85660600,"lon2":-0.75473300},
+{"len_m":855,"wid_m":43.89,"hdg":56,"surf":"Turf/grass","rwy1":"06","lat1":50.85826661,"lon1":-0.76432603,"rwy2":"24","lat2":50.86247200,"lon2":-0.75415300},
+{"len_m":613,"wid_m":35.97,"hdg":98,"surf":"Turf/grass","rwy1":"10","lat1":50.86250000,"lon1":-0.76264700,"rwy2":"28","lat2":50.86167800,"lon2":-0.75403100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":0,"surf":"Turf/grass","lat1":50.86036375,"lon1":-0.75628408},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":0,"surf":"Turf/grass","lat1":50.86049859,"lon1":-0.75584959}
+]
+,"radios":[
+]
+}

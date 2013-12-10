@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYEN","name":"Estevan Regional","lat":49.20508314,"lon":-102.96567308,"rwys":2,"ils":0,"index":1270472,"path":"w110n40/w103n49"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":49.20792698,"lon1":-102.97622169,"rwy2":"26","lat2":49.20798902,"lon2":-102.95529631},
+{"len_m":915,"wid_m":22.86,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":49.21402503,"lon1":-102.96329377,"rwy2":"33","lat2":49.20631737,"lon2":-102.95888258}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+}

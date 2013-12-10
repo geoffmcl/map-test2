@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"11R","name":"Brenham Muni","lat":30.2189875,"lon":-96.37428062,"rwys":1,"ils":0,"index":1367562,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":1825,"wid_m":22.86,"hdg":171,"surf":"Asphalt","rwy1":"16","lat1":30.22712744,"lon1":-96.37570953,"rwy2":"34","lat2":30.21084756,"lon2":-96.37285170}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.3,"desc":"Houston Apch"},
+{"type":"DEP","freq":134.3,"desc":"Houston Dptr"}
+]
+}

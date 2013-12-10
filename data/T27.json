@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"T27","name":"Horizon","lat":31.719833,"lon":-106.2369195,"rwys":1,"ils":0,"index":1203819,"path":"w110n30/w107n31"
+,"runways":[
+{"len_m":2098,"wid_m":15.24,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":31.71959700,"lon1":-106.24798600,"rwy2":"26","lat2":31.72006900,"lon2":-106.22585300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.15,"desc":"EL PASO APP/DEP"}
+]
+}

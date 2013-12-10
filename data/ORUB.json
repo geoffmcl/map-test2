@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ORUB","name":"Ubaydah Bin Al Jarrah","lat":32.4821035,"lon":45.75704975,"rwys":2,"ils":0,"index":3694235,"path":"e040n30/e045n32"
+,"runways":[
+{"len_m":3555,"wid_m":45.11,"hdg":108,"surf":"Asphalt","rwy1":"11R","lat1":32.48559700,"lon1":45.74003600,"rwy2":"29L","lat2":32.47535600,"lon2":45.77588300},
+{"len_m":3101,"wid_m":45.11,"hdg":108,"surf":"Concrete","rwy1":"11L","lat1":32.48819700,"lon1":45.74050800,"rwy2":"29R","lat2":32.47926400,"lon2":45.77177200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.5,"desc":"BLAIR TWR"}
+]
+}

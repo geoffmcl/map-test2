@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O22","name":"Columbia","lat":38.03045675,"lon":-120.4151505,"rwys":2,"ils":0,"index":974850,"path":"w130n30/w121n38"
+,"runways":[
+{"len_m":1423,"wid_m":22.86,"hdg":190,"surf":"Asphalt","rwy1":"17","lat1":38.03666700,"lon1":-120.41162200,"rwy2":"35","lat2":38.02404400,"lon2":-120.41448300},
+{"len_m":792,"wid_m":30.48,"hdg":133,"surf":"Turf/grass","rwy1":"11","lat1":38.03302200,"lon1":-120.42051400,"rwy2":"29","lat2":38.02809400,"lon2":-120.41398300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKTB","name":"Turany","lat":49.15447983,"lon":016.68997579,"rwys":2,"ils":1,"index":3220170,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":2650,"wid_m":60.05,"hdg":97,"surf":"Concrete","rwy1":"10","lat1":49.15287200,"lon1":16.67586900,"rwy2":"28","lat2":49.14975600,"lon2":16.71189700},
+{"len_m":1000,"wid_m":29.87,"hdg":97,"surf":"Turf/grass","rwy1":"09","lat1":49.15130406,"lon1":16.68566298,"rwy2":"27","lat2":49.15013258,"lon2":16.69925409}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":22.86,"hdg":16,"surf":"Transparent","lat1":49.15314002,"lon1":16.68508139},
+{"rwy1":"H2","len_m":21,"wid_m":21.95,"hdg":16,"surf":"Transparent","lat1":49.15251023,"lon1":16.69234703},
+{"rwy1":"H3","len_m":17,"wid_m":17.98,"hdg":16,"surf":"Transparent","lat1":49.15382857,"lon1":16.68691816}
+]
+,"radios":[
+{"type":"ATIS","freq":132.45,"desc":"ATIS"},
+{"type":"GND","freq":125.43,"desc":"GROUND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"BRNO APP"},
+{"type":"APP","freq":120.55,"desc":"APP"}
+]
+}

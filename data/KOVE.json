@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOVE","name":"Oroville Muni","lat":39.48677800,"lon":-121.62599900,"rwys":2,"ils":0,"index":958553,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":1834,"wid_m":30.48,"hdg":32,"surf":"Asphalt","rwy1":"01","lat1":39.47884700,"lon1":-121.63180600,"rwy2":"19","lat2":39.49271100,"lon2":-121.62019700},
+{"len_m":1078,"wid_m":30.48,"hdg":143,"surf":"Asphalt","rwy1":"12","lat1":39.49520300,"lon1":-121.61886100,"rwy2":"30","lat2":39.48736400,"lon2":-121.61144700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+}

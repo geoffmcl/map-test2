@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESNY","name":"Soderhamn","lat":61.261082,"lon":17.0978805,"rwys":2,"ils":1,"index":3237328,"path":"e010n60/e017n61"
+,"runways":[
+{"len_m":2524,"wid_m":39.93,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":61.26870000,"lon1":17.08092500,"rwy2":"30","lat2":61.25426100,"lon2":17.11717200},
+{"len_m":812,"wid_m":17.07,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":61.25756100,"lon1":17.09281100,"rwy2":"21","lat2":61.26380600,"lon2":17.10061400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.35,"desc":"AFIS"}
+]
+}

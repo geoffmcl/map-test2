@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHJR","name":"Kalaeloa","lat":21.31053751,"lon":-158.07050845,"rwys":3,"ils":0,"index":351191,"path":"w160n20/w159n21"
+,"runways":[
+{"len_m":2543,"wid_m":60.96,"hdg":54,"surf":"Asphalt","rwy1":"04R","lat1":21.29936901,"lon1":-158.08025033,"rwy2":"22L","lat2":21.31255213,"lon2":-158.06017622},
+{"len_m":2588,"wid_m":60.96,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":21.31186565,"lon1":-158.08389385,"rwy2":"29","lat2":21.30078693,"lon2":-158.06192848},
+{"len_m":1584,"wid_m":60.96,"hdg":55,"surf":"Asphalt","rwy1":"04L","lat1":21.30573980,"lon1":-158.07374969,"rwy2":"22R","lat2":21.31394700,"lon2":-158.06123601}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.69,"hdg":-158,"surf":"Turf/grass","lat1":21.30277061,"lon1":-158.06358067}
+]
+,"radios":[
+{"type":"ATIS","freq":119.8,"desc":"ATIS"},
+{"type":"CTAF","freq":132.6,"desc":"CTAF"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.8,"desc":"GND"},
+{"type":"TWR","freq":132.6,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"HONOLULU APP/DEP"}
+]
+}

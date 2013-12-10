@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBTA","name":"Blair Municipal","lat":41.41793143,"lon":-096.10975512,"rwys":1,"ils":0,"index":1368283,"path":"w100n40/w097n41"
+,"runways":[
+{"len_m":1281,"wid_m":29.87,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":41.42298507,"lon1":-96.11695008,"rwy2":"31","lat2":41.41451680,"lon2":-96.10652943}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

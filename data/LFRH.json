@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRH","name":"Lorient Lann-bihoue","lat":47.76853600,"lon":-003.44425900,"rwys":2,"ils":1,"index":2892402,"path":"w010n40/w004n47"
+,"runways":[
+{"len_m":2407,"wid_m":45.11,"hdg":71,"surf":"Concrete","rwy1":"07","lat1":47.75624800,"lon1":-3.45918800,"rwy2":"25","lat2":47.76302400,"lon2":-3.42869400},
+{"len_m":2101,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":47.75622000,"lon1":-3.44177400,"rwy2":"20","lat2":47.77437200,"lon2":-3.43397200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-3,"surf":"Asphalt","lat1":47.75488600,"lon1":-3.43854500}
+]
+,"radios":[
+{"type":"ATIS","freq":129.12,"desc":"LFRH ATIS"},
+{"type":"TWR","freq":119.7,"desc":"LORIENT TWR"},
+{"type":"TWR","freq":122.7,"desc":"LORIENT TWR"},
+{"type":"APP","freq":119.8,"desc":"LORIENT_GCA APP"},
+{"type":"APP","freq":119.7,"desc":"LORIENT APP"},
+{"type":"APP","freq":122.1,"desc":"LORIENT APP"},
+{"type":"APP","freq":123,"desc":"LORIENT APP"},
+{"type":"APP","freq":122.3,"desc":"LORIENT APP"}
+]
+}

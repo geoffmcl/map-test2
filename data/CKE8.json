@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CKE8","name":"Unity","lat":52.445040175,"lon":-109.18427334,"rwys":2,"ils":0,"index":1155995,"path":"w110n50/w110n52"
+,"runways":[
+{"len_m":917,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"11","lat1":52.44819396,"lon1":-109.19051886,"rwy2":"29","lat2":52.44340604,"lon2":-109.17953974},
+{"len_m":325,"wid_m":17.98,"hdg":37,"surf":"Dirt","rwy1":"02","lat1":52.44312078,"lon1":-109.18497096,"rwy2":"20","lat2":52.44543992,"lon2":-109.18206380}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

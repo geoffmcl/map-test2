@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KILG","name":"New Castle","lat":39.67742100,"lon":-075.60002300,"rwys":3,"ils":1,"index":1712233,"path":"w080n30/w076n39"
+,"runways":[
+{"len_m":2183,"wid_m":45.72,"hdg":77,"surf":"Asphalt","rwy1":"09","lat1":39.67813600,"lon1":-75.62013900,"rwy2":"27","lat2":39.68231100,"lon2":-75.59526700},
+{"len_m":2133,"wid_m":45.72,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":39.66929700,"lon1":-75.60382800,"rwy2":"19","lat2":39.68844200,"lon2":-75.60163100},
+{"len_m":1399,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":39.68023600,"lon1":-75.61667500,"rwy2":"32","lat2":39.67198900,"lon2":-75.60433300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.95,"desc":"ATIS"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"WILMINGTON TWR"},
+{"type":"APP","freq":118.35,"desc":"PHILADELPHIA APP/DEP"}
+]
+}

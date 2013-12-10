@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LDZD","name":"Zadar","lat":44.09539030,"lon":015.35381980,"rwys":2,"ils":1,"index":3203457,"path":"e010n40/e015n44"
+,"runways":[
+{"len_m":2488,"wid_m":44.81,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":44.11638600,"lon1":15.33569400,"rwy2":"32","lat2":44.10035600,"lon2":15.35740300},
+{"len_m":1988,"wid_m":44.81,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":44.07939200,"lon1":15.34116400,"rwy2":"22","lat2":44.09276700,"lon2":15.35765300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+}

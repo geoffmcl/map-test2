@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WZ10","name":"Illaga Ii/kago (dgac)","lat":-4.016667,"lon":137.650009,"rwys":1,"ils":0,"index":5199229,"path":"e130s10/e137s05"
+,"runways":[
+{"len_m":658,"wid_m":29.87,"hdg":40,"surf":"Turf/grass","rwy1":"04","lat1":-4.01894055,"lon1":137.64809657,"rwy2":"22","lat2":-4.01439345,"lon2":137.65192143}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":235.7,"dist_nm":55,"freq":300,"lat":-4.53534400,"lon":136.89021900,"rng_nm":50,"alt_fmsl":103,"id":"ZF","desc":"TIMIKA NDB"},
+{"type":"VOR","hdg_t":237.4,"dist_nm":55.6,"freq":112.7,"lat":-4.51700300,"lon":136.86697200,"rng_nm":130,"alt_fmsl":103,"id":"TMK","desc":"TIMIKA VOR-DME"},
+{"type":"NDB","hdg_t":93.7,"dist_nm":78.4,"freq":222,"lat":-4.10047800,"lon":138.95646900,"rng_nm":50,"alt_fmsl":5085,"id":"ZW","desc":"WAMENA NDB"},
+{"type":"NDB","hdg_t":268.8,"dist_nm":82.4,"freq":375,"lat":-4.04358300,"lon":136.27538900,"rng_nm":50,"alt_fmsl":5906,"id":"ZG","desc":"WAGHETE NDB"},
+{"type":"VOR","hdg_t":286.3,"dist_nm":134.3,"freq":117.3,"lat":-3.38195800,"lon":135.50112200,"rng_nm":130,"alt_fmsl":20,"id":"NBR","desc":"NABIRE VOR-DME"},
+{"type":"NDB","hdg_t":286.7,"dist_nm":135,"freq":242,"lat":-3.36166700,"lon":135.49500000,"rng_nm":50,"alt_fmsl":20,"id":"ZR","desc":"NABIRE NDB"},
+{"type":"NDB","hdg_t":105.8,"dist_nm":182.3,"freq":342,"lat":-4.84500000,"lon":140.57833300,"rng_nm":60,"alt_fmsl":4330,"id":"ZX","desc":"OKSIBIL NDB"},
+{"type":"NDB","hdg_t":63.3,"dist_nm":192,"freq":395,"lat":-2.56824400,"lon":140.50746100,"rng_nm":50,"alt_fmsl":289,"id":"ZN","desc":"JAYAPURA NDB"},
+{"type":"VOR","hdg_t":63.8,"dist_nm":192.7,"freq":116.2,"lat":-2.58769444,"lon":140.53083333,"rng_nm":130,"alt_fmsl":252,"id":"JPA","desc":"JAYAPURA VOR-DME"},
+{"type":"NDB","hdg_t":331,"dist_nm":193.2,"freq":230,"lat":-1.18204200,"lon":136.09485300,"rng_nm":50,"alt_fmsl":46,"id":"ZM","desc":"BIAK NDB"}
+]
+}

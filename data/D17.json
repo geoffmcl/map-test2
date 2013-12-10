@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"D17","name":"Westwinds","lat":38.7578495,"lon":-108.15008675,"rwys":2,"ils":0,"index":1171507,"path":"w110n30/w109n38"
+,"runways":[
+{"len_m":1249,"wid_m":12.19,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":38.75399200,"lon1":-108.15348600,"rwy2":"22","lat2":38.76097800,"lon2":-108.14221400},
+{"len_m":609,"wid_m":21.34,"hdg":141,"surf":"Gravel","rwy1":"13","lat1":38.76036700,"lon1":-108.15450000,"rwy2":"31","lat2":38.75606100,"lon2":-108.15014700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

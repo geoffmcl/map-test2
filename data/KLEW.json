@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLEW","name":"Auburn Lewiston Muni","lat":44.04846525,"lon":-70.28325,"rwys":2,"ils":1,"index":1794434,"path":"w080n40/w071n44"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":24,"surf":"Asphalt","rwy1":"04","lat1":44.04223900,"lon1":-70.28805800,"rwy2":"22","lat2":44.05473300,"lon2":-70.28020600},
+{"len_m":838,"wid_m":22.86,"hdg":147,"surf":"Asphalt","rwy1":"17","lat1":44.05163900,"lon1":-70.28515000,"rwy2":"35","lat2":44.04525000,"lon2":-70.27958600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.05,"desc":"PORTLAND CLNC DEL"},
+{"type":"APP","freq":124.05,"desc":"PORTLAND APP"},
+{"type":"APP","freq":125.5,"desc":"PORTLAND APP"},
+{"type":"DEP","freq":125.5,"desc":"PORTLAND DEP"}
+]
+}

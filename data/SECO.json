@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SECO","name":"Francisco De Orellana","lat":-0.4609265,"lon":-76.987829,"rwys":1,"ils":0,"index":1693280,"path":"w080s10/w077s01"
+,"runways":[
+{"len_m":2060,"wid_m":27.43,"hdg":153,"surf":"Asphalt","rwy1":"15","lat1":-0.45257800,"lon1":-76.99193900,"rwy2":"33","lat2":-0.46927500,"lon2":-76.98371900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"COCA TWR"},
+{"type":"APP","freq":119.7,"desc":"QUITO APP"},
+{"type":"APP","freq":121.2,"desc":"QUITO APP"}
+]
+}

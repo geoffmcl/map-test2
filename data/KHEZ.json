@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHEZ","name":"Hardy Anders Fld Natchez Adams Co","lat":31.6135925,"lon":-91.297134,"rwys":2,"ils":1,"index":1449570,"path":"w100n30/w092n31"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":31.62057800,"lon1":-91.30590000,"rwy2":"31","lat2":31.60765600,"lon2":-91.29148100},
+{"len_m":1523,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":31.61993900,"lon1":-91.29545800,"rwy2":"36","lat2":31.60619700,"lon2":-91.29569700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KALI","name":"Alice Intl","lat":27.741133,"lon":-98.0268925,"rwys":3,"ils":1,"index":1334635,"path":"w100n20/w099n27"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":27.74531700,"lon1":-98.03389400,"rwy2":"31","lat2":27.73375600,"lon2":-98.02066700},
+{"len_m":1368,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":27.74511400,"lon1":-98.02682500,"rwy2":"35","lat2":27.73276400,"lon2":-98.02668600},
+{"len_m":1271,"wid_m":39.62,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":27.74486900,"lon1":-98.03308900,"rwy2":"26","lat2":27.74497800,"lon2":-98.02019400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"KINGSVILLE APP"},
+{"type":"DEP","freq":119.9,"desc":"KINGSVILLE DEP"}
+]
+}

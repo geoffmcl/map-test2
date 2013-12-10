@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENRY","name":"Rygge","lat":59.378793,"lon":10.7854265,"rwys":1,"ils":1,"index":3122523,"path":"e010n50/e010n59"
+,"runways":[
+{"len_m":2442,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":59.38373600,"lon1":10.76625000,"rwy2":"30","lat2":59.37385000,"lon2":10.80460300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.17,"desc":"ATIS"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":120.3,"desc":"ARRIVAL"}
+]
+}

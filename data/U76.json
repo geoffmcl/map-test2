@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"U76","name":"Mountain Home Muni","lat":43.1312525,"lon":-115.7295945,"rwys":1,"ils":0,"index":1057097,"path":"w120n40/w116n43"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":116,"surf":"Asphalt","rwy1":"10","lat1":43.13431100,"lon1":-115.73797500,"rwy2":"28","lat2":43.12819400,"lon2":-115.72121400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.8,"desc":"APP/DEP"},
+{"type":"APP","freq":118.05,"desc":"APP/DEP"}
+]
+}

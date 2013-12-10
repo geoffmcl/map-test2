@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OKAS","name":"Ali Al Salem Ab","lat":29.34674,"lon":47.5207515,"rwys":2,"ils":2,"index":3726802,"path":"e040n20/e047n29"
+,"runways":[
+{"len_m":2988,"wid_m":40.23,"hdg":120,"surf":"Asphalt","rwy1":"12L","lat1":29.35449400,"lon1":47.50809700,"rwy2":"30R","lat2":29.34093600,"lon2":47.53470000},
+{"len_m":2988,"wid_m":44.50,"hdg":120,"surf":"Asphalt","rwy1":"12R","lat1":29.35254400,"lon1":47.50680300,"rwy2":"30L","lat2":29.33898600,"lon2":47.53340600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":128.3,"desc":"MOHALAB APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAKK","name":"Koyuk Alfred Adams","lat":64.93439387,"lon":-161.16336480,"rwys":1,"ils":0,"index":304825,"path":"w170n60/w162n64"
+,"runways":[
+{"len_m":917,"wid_m":17.98,"hdg":23,"surf":"Gravel","rwy1":"01","lat1":64.93530853,"lon1":-161.15867992,"rwy2":"19","lat2":64.94282940,"lon2":-161.15079594}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.95,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.35,"desc":"FSS Nome"},
+{"type":"APP","freq":135.7,"desc":"Anchorage ARTCC"}
+]
+}

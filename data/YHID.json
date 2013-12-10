@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHID","name":"Horn Island","lat":-10.59073982,"lon":142.29478401,"rwys":2,"ils":0,"index":5280730,"path":"e140s20/e142s11"
+,"runways":[
+{"len_m":1240,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":-10.58097223,"lon1":142.28873767,"rwy2":"32","lat2":-10.58952977,"lon2":142.29606854},
+{"len_m":1392,"wid_m":31.09,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":-10.58663526,"lon1":142.28119668,"rwy2":"26","lat2":-10.58550133,"lon2":142.29387217}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58921284,"lon1":142.29471890},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58903954,"lon1":142.29456059},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58887685,"lon1":142.29442386},
+{"rwy1":"H4","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58870886,"lon1":142.29429074},
+{"rwy1":"H5","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58854970,"lon1":142.29415581},
+{"rwy1":"H6","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58870962,"lon1":142.29392814},
+{"rwy1":"H7","len_m":20,"wid_m":20.12,"hdg":142,"surf":"Asphalt","lat1":-10.58884348,"lon1":142.29377458}
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":120.3,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.5,"desc":"Horn Island MULT"}
+]
+}

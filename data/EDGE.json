@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDGE","name":"Eisenach Kindel","lat":50.9922015,"lon":10.4762915,"rwys":1,"ils":0,"index":3121977,"path":"e010n50/e010n50"
+,"runways":[
+{"len_m":1720,"wid_m":54.86,"hdg":104,"surf":"Concrete","rwy1":"10","lat1":50.99416700,"lon1":10.46444400,"rwy2":"28","lat2":50.99023600,"lon2":10.48813900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":119.75,"desc":"INFO"}
+]
+}

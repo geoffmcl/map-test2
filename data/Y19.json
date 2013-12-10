@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"Y19","name":"Mandan Muni","lat":46.76797475,"lon":-100.89427225,"rwys":2,"ils":0,"index":1303088,"path":"w110n40/w101n46"
+,"runways":[
+{"len_m":1340,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"13","lat1":46.77368300,"lon1":-100.89910000,"rwy2":"31","lat2":46.76377200,"lon2":-100.88910000},
+{"len_m":874,"wid_m":36.58,"hdg":55,"surf":"Turf/grass","rwy1":"04","lat1":46.76500000,"lon1":-100.89916700,"rwy2":"22","lat2":46.76944400,"lon2":-100.88972200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.2,"desc":"BISMARCK APP/DEP"}
+]
+}

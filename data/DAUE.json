@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DAUE","name":"El Golea","lat":30.5772915,"lon":2.86423625,"rwys":2,"ils":0,"index":2989603,"path":"e000n30/e002n30"
+,"runways":[
+{"len_m":2987,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.59944400,"lon1":2.86138900,"rwy2":"36","lat2":30.57250000,"lon2":2.86166700},
+{"len_m":1797,"wid_m":45.11,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":30.57027800,"lon1":2.85777800,"rwy2":"28","lat2":30.56694400,"lon2":2.87611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+}

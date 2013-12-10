@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYZR","name":"Sarnia - Chris Hadfield","lat":42.9993055,"lon":-82.307848,"rwys":2,"ils":1,"index":1597754,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":1561,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":43.00444400,"lon1":-82.31527800,"rwy2":"32","lat2":42.99416700,"lon2":-82.30222200},
+{"len_m":897,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":42.99666700,"lon1":-82.31111100,"rwy2":"23","lat2":43.00194400,"lon2":-82.30278100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+}

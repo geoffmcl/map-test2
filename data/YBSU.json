@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBSU","name":"Sunshine Coast","lat":-26.60512445,"lon":153.08755161,"rwys":2,"ils":0,"index":5459928,"path":"e150s30/e153s27"
+,"runways":[
+{"len_m":1797,"wid_m":29.87,"hdg":193,"surf":"Asphalt","rwy1":"18","lat1":-26.59436950,"lon1":153.09430781,"rwy2":"36","lat2":-26.61011000,"lon2":153.08995000},
+{"len_m":650,"wid_m":17.98,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":-26.60054700,"lon1":153.08627300,"rwy2":"30","lat2":-26.60418700,"lon2":153.09139900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":153,"surf":"Transparent","lat1":-26.60822200,"lon1":153.08941600},
+{"rwy1":"H2","len_m":14,"wid_m":14.02,"hdg":153,"surf":"Concrete","lat1":-26.60424005,"lon1":153.08884399}
+]
+,"radios":[
+{"type":"ATIS","freq":119.85,"desc":"YBSU ATIS"},
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.4,"desc":"Sunshine Coast MULT"},
+{"type":"GND","freq":121.1,"desc":"MAROOCHY GND"},
+{"type":"TWR","freq":124.4,"desc":"Sunshine Coast TWR"},
+{"type":"TWR","freq":123,"desc":"BRISBANE CNTR"},
+{"type":"TWR","freq":129,"desc":"BRISBANE CNTR"}
+]
+}

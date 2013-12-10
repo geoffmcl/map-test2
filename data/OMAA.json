@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMAA","name":"Abu Dhabi Intl","lat":24.42416570,"lon":054.65343860,"rwys":1,"ils":2,"index":3841178,"path":"e050n20/e054n24"
+,"runways":[
+{"len_m":4100,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":24.44438900,"lon1":54.63520600,"rwy2":"31","lat2":24.42170800,"lon2":54.66715800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.1,"desc":"ATIS"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"TWR","freq":121.75,"desc":"TWR"},
+{"type":"APP","freq":124.4,"desc":"RDR"},
+{"type":"APP","freq":128.1,"desc":"RDR"}
+]
+}

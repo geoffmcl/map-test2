@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMSY","name":"Louis Armstrong New Orleans Intl","lat":29.98414812,"lon":-090.25900207,"rwys":2,"ils":2,"index":1465850,"path":"w100n20/w091n29"
+,"runways":[
+{"len_m":3079,"wid_m":45.72,"hdg":105,"surf":"Concrete","rwy1":"10","lat1":29.99662800,"lon1":-90.28172800,"rwy2":"28","lat2":29.98921100,"lon2":-90.25097200},
+{"len_m":2133,"wid_m":45.72,"hdg":15,"surf":"Concrete","rwy1":"01","lat1":29.98450300,"lon1":-90.25141400,"rwy2":"19","lat2":30.00305300,"lon2":-90.24551100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.55,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"NEW ORLEANS APP/DEP"},
+{"type":"APP","freq":123.85,"desc":"NEW ORLEANS APP/DEP"},
+{"type":"APP","freq":125.5,"desc":"NEW ORLEANS APP/DEP"},
+{"type":"APP","freq":133.15,"desc":"NEW ORLEANS APP/DEP"}
+]
+}

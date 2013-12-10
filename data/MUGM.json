@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MUGM","name":"Guantanamo Bay Ns","lat":19.90968800,"lon":-075.21030900,"rwys":1,"ils":0,"index":1710974,"path":"w080n10/w076n19"
+,"runways":[
+{"len_m":2437,"wid_m":60.96,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":19.90666700,"lon1":-75.21869400,"rwy2":"28","lat2":19.90625000,"lon2":-75.19541700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.17,"desc":"ASOS"},
+{"type":"CTAF","freq":134.1,"desc":"CTAF"},
+{"type":"GND","freq":118.45,"desc":"GND"},
+{"type":"TWR","freq":134.1,"desc":"LEEWARD TWR"}
+]
+}

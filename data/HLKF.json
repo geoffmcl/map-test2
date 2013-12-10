@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HLKF","name":"Kufra","lat":24.1788145,"lon":23.3139875,"rwys":2,"ils":0,"index":3333257,"path":"e020n20/e023n24"
+,"runways":[
+{"len_m":3649,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"02L","lat1":24.16318300,"lon1":23.30816700,"rwy2":"20R","lat2":24.19499200,"lon2":23.31755000},
+{"len_m":3649,"wid_m":45.11,"hdg":15,"surf":"Asphalt","rwy1":"02R","lat1":24.16264400,"lon1":23.31041400,"rwy2":"20L","lat2":24.19443900,"lon2":23.31981900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"}
+]
+}

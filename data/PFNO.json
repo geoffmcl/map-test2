@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PFNO","name":"Noorvik Robert Bob Curtis","lat":66.81749263,"lon":-161.03076293,"rwys":2,"ils":0,"index":304945,"path":"w170n60/w162n66"
+,"runways":[
+{"len_m":1235,"wid_m":29.87,"hdg":72,"surf":"Gravel","rwy1":"06","lat1":66.81610502,"lon1":-161.03564186,"rwy2":"24","lat2":66.81946998,"lon2":-161.00884830},
+{"len_m":673,"wid_m":14.94,"hdg":40,"surf":"Dirt","rwy1":"3","lat1":66.82621500,"lon1":-161.03272000,"rwy2":"21","lat2":66.83083800,"lon2":-161.02286200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"APP","freq":119.2,"desc":"Anchorage ARTCC"}
+]
+}

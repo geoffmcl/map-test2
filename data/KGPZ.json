@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGPZ","name":"Grand Rapids Itasca Co Gordon Newstrom","lat":47.2125223333333,"lon":-93.5091296666667,"rwys":3,"ils":0,"index":1417801,"path":"w100n40/w094n47"
+,"runways":[
+{"len_m":1754,"wid_m":30.48,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":47.21468100,"lon1":-93.51319200,"rwy2":"34","lat2":47.19939700,"lon2":-93.50744200},
+{"len_m":904,"wid_m":45.72,"hdg":45,"surf":"Turf/grass","rwy1":"04","lat1":47.21196400,"lon1":-93.51190300,"rwy2":"22","lat2":47.21764700,"lon2":-93.50335600},
+{"len_m":441,"wid_m":45.72,"hdg":104,"surf":"Turf/grass","rwy1":"10","lat1":47.21621700,"lon1":-93.51226800,"rwy2":"28","lat2":47.21522800,"lon2":-93.50661700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

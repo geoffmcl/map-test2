@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UTTT","name":"Yuzhny","lat":41.26169000,"lon":069.26932400,"rwys":2,"ils":3,"index":4088017,"path":"e060n40/e069n41"
+,"runways":[
+{"len_m":4012,"wid_m":60.05,"hdg":77,"surf":"Concrete","rwy1":"08L","lat1":41.25243932,"lon1":69.25808553,"rwy2":"26R","lat2":41.26053668,"lon2":69.30474047},
+{"len_m":3917,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":41.25059327,"lon1":69.25910504,"rwy2":"26L","lat2":41.25849873,"lon2":69.30465296}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"CLD","freq":129.4,"desc":"TASHKENT DELIVERY"},
+{"type":"GND","freq":121.7,"desc":"TASHKENT GND"},
+{"type":"TWR","freq":120.4,"desc":"TASHKENT TWR"},
+{"type":"TWR","freq":129,"desc":"TASHKENT TWR"},
+{"type":"APP","freq":119.4,"desc":"TASHKENT KRUG"},
+{"type":"APP","freq":125.2,"desc":"TASHKENT APP"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOQU","name":"Quonset State","lat":41.5970861883333,"lon":-71.4107014383333,"rwys":4,"ils":1,"index":1777890,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":1234,"wid_m":30.48,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":41.59055600,"lon1":-71.40555600,"rwy2":"19","lat2":41.60166700,"lon2":-71.40555600},
+{"len_m":903,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":41.60138900,"lon1":-71.41527800,"rwy2":"28","lat2":41.60138900,"lon2":-71.40444400},
+{"len_m":2433,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"16","lat1":41.60770479,"lon1":-71.42164232,"rwy2":"34","lat2":41.58976396,"lon2":-71.40489466},
+{"len_m":1219,"wid_m":22.86,"hdg":34,"surf":"Asphalt","rwy1":"05","lat1":41.58859400,"lon1":-71.41318600,"rwy2":"23","lat2":41.59764400,"lon2":-71.40490800}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":-71,"surf":"Asphalt","lat1":41.59747170,"lon1":-71.41406761},
+{"rwy1":"H2","len_m":21,"wid_m":21.03,"hdg":-71,"surf":"Asphalt","lat1":41.59569156,"lon1":-71.41240853}
+]
+,"radios":[
+{"type":"ATIS","freq":118.6,"desc":"ATIS"},
+{"type":"CTAF","freq":126.35,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":134.5,"desc":"GND"},
+{"type":"TWR","freq":126.35,"desc":"TWR"},
+{"type":"APP","freq":135.4,"desc":"PROVIDENCE APP/DEP"}
+]
+}

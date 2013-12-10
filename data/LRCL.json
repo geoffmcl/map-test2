@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRCL","name":"Cluj Napoca","lat":46.7851095,"lon":23.6861665,"rwys":1,"ils":1,"index":3334706,"path":"e020n40/e023n46"
+,"runways":[
+{"len_m":1847,"wid_m":29.87,"hdg":78,"surf":"Concrete","rwy1":"08","lat1":46.78352500,"lon1":23.67429400,"rwy2":"26","lat2":46.78669400,"lon2":23.69803900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.4,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":118.7,"desc":"PRECISION"}
+]
+}

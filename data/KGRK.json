@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGRK","name":"Robert Gray Aaf","lat":31.067239,"lon":-97.828928,"rwys":1,"ils":1,"index":1351232,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":3047,"wid_m":60.96,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":31.07992200,"lon1":-97.83507800,"rwy2":"33","lat2":31.05455600,"lon2":-97.82277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.2,"desc":"GRAY GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+}

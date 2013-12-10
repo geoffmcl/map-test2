@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVIH","name":"Rolla National","lat":38.1274343333333,"lon":-91.7695165,"rwys":3,"ils":0,"index":1449992,"path":"w100n30/w092n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":38.12481100,"lon1":-91.77666100,"rwy2":"22","lat2":38.13519400,"lon2":-91.76277800},
+{"len_m":1676,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":38.13034700,"lon1":-91.77588300,"rwy2":"31","lat2":38.11938600,"lon2":-91.76273300},
+{"len_m":1522,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":38.13429064,"lon1":-91.76938781,"rwy2":"36","lat2":38.12057736,"lon2":-91.76965619}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

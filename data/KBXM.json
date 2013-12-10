@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBXM","name":"Brunswick Executive","lat":43.89851182,"lon":-069.94727308,"rwys":2,"ils":1,"index":1810808,"path":"w070n40/w070n43"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":354,"surf":"Asphalt","rwy1":"1L","lat1":43.88134940,"lon1":-69.93878720,"rwy2":"19R","lat2":43.90320530,"lon2":-69.94151830},
+{"len_m":2438,"wid_m":60.96,"hdg":354,"surf":"Asphalt","rwy1":"1R","lat1":43.88152200,"lon1":-69.93614250,"rwy2":"19L","lat2":43.90337800,"lon2":-69.93887330}
+]
+,"helipads":[
+{"rwy1":"H4","len_m":17,"wid_m":17.98,"hdg":-69,"surf":"Concrete","lat1":43.89793728,"lon1":-69.93555712}
+]
+,"radios":[
+{"type":"ATIS","freq":120.55,"desc":"ATIS"},
+{"type":"CLD","freq":134.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":134.55,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"APP/DEP"}
+]
+}

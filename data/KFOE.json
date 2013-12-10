@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFOE","name":"Forbes Fld","lat":38.950229,"lon":-95.663985735,"rwys":2,"ils":1,"index":1384505,"path":"w100n30/w096n38"
+,"runways":[
+{"len_m":3905,"wid_m":60.96,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":38.96557102,"lon1":-95.67806552,"rwy2":"31","lat2":38.93981798,"lon2":-95.64736806},
+{"len_m":2135,"wid_m":46.02,"hdg":39,"surf":"Concrete","rwy1":"03","lat1":38.94037794,"lon1":-95.67314140,"rwy2":"21","lat2":38.95514906,"lon2":-95.65736795}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.25,"desc":"ATIS"},
+{"type":"CTAF","freq":120.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"KANSAS CITY CNTR"}
+]
+}

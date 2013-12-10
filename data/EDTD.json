@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDTD","name":"Donaueschingen Villingen","lat":47.9740655,"lon":8.522186,"rwys":1,"ils":0,"index":3089018,"path":"e000n40/e008n47"
+,"runways":[
+{"len_m":1289,"wid_m":29.87,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":47.97986400,"lon1":8.52195800,"rwy2":"36","lat2":47.96826700,"lon2":8.52241400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"INFO"},
+{"type":"TWR","freq":124.25,"desc":"INFO"},
+{"type":"TWR","freq":120.7,"desc":"ZURICH INFO"}
+]
+}

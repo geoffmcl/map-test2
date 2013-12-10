@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VYME","name":"Myeik","lat":12.439797,"lon":98.621478,"rwys":1,"ils":0,"index":4561308,"path":"e090n10/e098n12"
+,"runways":[
+{"len_m":2701,"wid_m":54.86,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":12.45199700,"lon1":98.62202800,"rwy2":"36","lat2":12.42759700,"lon2":98.62092800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

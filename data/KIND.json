@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIND","name":"Indianapolis Intl","lat":39.70898284,"lon":-086.30441087,"rwys":3,"ils":3,"index":1532010,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":3413,"wid_m":46.02,"hdg":44,"surf":"Concrete","rwy1":"05L","lat1":39.70639657,"lon1":-86.32081620,"rwy2":"23R","lat2":39.72830943,"lon2":-86.29288980},
+{"len_m":3048,"wid_m":46.02,"hdg":44,"surf":"Concrete","rwy1":"05R","lat1":39.70024155,"lon1":-86.30443079,"rwy2":"23L","lat2":39.71980445,"lon2":-86.27949321},
+{"len_m":2317,"wid_m":46.02,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":39.73422501,"lon1":-86.28883586,"rwy2":"32","lat2":39.71957899,"lon2":-86.26957214}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.4,"desc":"ATIS"},
+{"type":"ATIS","freq":134.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"INDY TWR"},
+{"type":"TWR","freq":127.82,"desc":"INDY TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"},
+{"type":"APP","freq":124.65,"desc":"APP"},
+{"type":"APP","freq":127.15,"desc":"APP"},
+{"type":"DEP","freq":119.05,"desc":"DEP"},
+{"type":"DEP","freq":124.95,"desc":"DEP"}
+]
+}

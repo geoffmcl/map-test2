@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AYMD","name":"Madang","lat":-05.21079901,"lon":145.78697216,"rwys":1,"ils":0,"index":5330230,"path":"e140s10/e145s06"
+,"runways":[
+{"len_m":1438,"wid_m":32.00,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":-5.21038022,"lon1":145.78158093,"rwy2":"25","lat2":-5.20705641,"lon2":145.79412454}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"AYMD ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"MADANG MULTICOM"},
+{"type":"CTAF","freq":126.7,"desc":"MADANG MULTICOM"},
+{"type":"CTAF","freq":126.9,"desc":"MADANG MULTICOM"},
+{"type":"GND","freq":123.25,"desc":"MADANG GND"},
+{"type":"TWR","freq":118.1,"desc":"MADANG TWR"}
+]
+}

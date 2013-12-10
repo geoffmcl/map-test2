@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"H34","name":"Huntsville Muni","lat":36.07830075,"lon":-93.7537695,"rwys":2,"ils":0,"index":1417088,"path":"w100n30/w094n36"
+,"runways":[
+{"len_m":1111,"wid_m":18.29,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":36.08063100,"lon1":-93.75880300,"rwy2":"30","lat2":36.07479700,"lon2":-93.74877500},
+{"len_m":381,"wid_m":18.29,"hdg":36,"surf":"Dirt","rwy1":"03","lat1":36.07750000,"lon1":-93.75499700,"rwy2":"21","lat2":36.08027500,"lon2":-93.75250300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.6,"desc":"RAZORBACK APP/DEP"}
+]
+}

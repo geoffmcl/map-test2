@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGLR","name":"Gaylord Rgnl","lat":45.013007,"lon":-84.70316325,"rwys":2,"ils":0,"index":1565121,"path":"w090n40/w085n45"
+,"runways":[
+{"len_m":2005,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.01450300,"lon1":-84.71701400,"rwy2":"27","lat2":45.01446400,"lon2":-84.69157800},
+{"len_m":914,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":45.01564400,"lon1":-84.70201900,"rwy2":"36","lat2":45.00741700,"lon2":-84.70204200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

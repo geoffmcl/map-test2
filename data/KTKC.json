@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTKC","name":"Tracy Muni","lat":44.249076,"lon":-95.6073715,"rwys":3,"ils":0,"index":1384841,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":945,"wid_m":22.86,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":44.25083100,"lon1":-95.61133300,"rwy2":"29","lat2":44.24675000,"lon2":-95.60094400},
+{"len_m":767,"wid_m":60.96,"hdg":51,"surf":"Turf/grass","rwy1":"06","lat1":44.24777800,"lon1":-95.61138900,"rwy2":"24","lat2":44.25209700,"lon2":-95.60389700},
+{"len_m":580,"wid_m":60.96,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":44.25111100,"lon1":-95.60833300,"rwy2":"35","lat2":44.24588900,"lon2":-95.60833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

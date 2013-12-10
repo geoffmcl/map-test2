@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIAH","name":"Gachsaran","lat":30.3375665,"lon":50.8279625,"rwys":1,"ils":0,"index":3776019,"path":"e050n30/e050n30"
+,"runways":[
+{"len_m":1848,"wid_m":45.11,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":30.34230000,"lon1":50.82004700,"rwy2":"30","lat2":30.33283300,"lon2":50.83587800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129,"desc":"INFO"},
+{"type":"TWR","freq":122.1,"desc":"INFO"}
+]
+}

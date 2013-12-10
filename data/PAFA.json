@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAFA","name":"Fairbanks Intl","lat":64.81154630,"lon":-147.84844970,"rwys":3,"ils":2,"index":534192,"path":"w150n60/w148n64"
+,"runways":[
+{"len_m":3596,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"01L","lat1":64.80263100,"lon1":-147.88588900,"rwy2":"19R","lat2":64.82803300,"lon2":-147.83921400},
+{"len_m":1981,"wid_m":30.48,"hdg":38,"surf":"Asphalt","rwy1":"01R","lat1":64.80022200,"lon1":-147.87565600,"rwy2":"19L","lat2":64.81421400,"lon2":-147.84995000},
+{"len_m":883,"wid_m":22.86,"hdg":38,"surf":"Gravel","rwy1":"01","lat1":64.81605600,"lon1":-147.84656100,"rwy2":"19","lat2":64.82229700,"lon2":-147.83508300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"ATIS","freq":124.4,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"APP"},
+{"type":"APP","freq":118.6,"desc":"APP"},
+{"type":"DEP","freq":126.5,"desc":"DEP"},
+{"type":"DEP","freq":125.35,"desc":"DEP"}
+]
+}

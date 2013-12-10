@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYQI","name":"Yarmouth","lat":43.8280555,"lon":-66.0879875,"rwys":2,"ils":1,"index":1859955,"path":"w070n40/w067n43"
+,"runways":[
+{"len_m":1831,"wid_m":46.02,"hdg":42,"surf":"Concrete","rwy1":"06","lat1":43.81750000,"lon1":-66.09750300,"rwy2":"24","lat2":43.82972200,"lon2":-66.08222200},
+{"len_m":1532,"wid_m":46.02,"hdg":133,"surf":"Concrete","rwy1":"15","lat1":43.83722200,"lon1":-66.09305600,"rwy2":"33","lat2":43.82777800,"lon2":-66.07916900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"MF"}
+]
+}

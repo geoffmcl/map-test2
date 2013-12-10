@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIWA","name":"Williams Gateway","lat":33.30436838,"lon":-111.66701991,"rwys":3,"ils":1,"index":1122001,"path":"w120n30/w112n33"
+,"runways":[
+{"len_m":3170,"wid_m":46.02,"hdg":138,"surf":"Concrete","rwy1":"12R","lat1":33.31767121,"lon1":-111.67286680,"rwy2":"30L","lat2":33.29632195,"lon2":-111.65022270},
+{"len_m":3109,"wid_m":46.02,"hdg":138,"surf":"Concrete","rwy1":"12C","lat1":33.31764234,"lon1":-111.66591776,"rwy2":"30C","lat2":33.29670598,"lon2":-111.64370561},
+{"len_m":2835,"wid_m":46.02,"hdg":138,"surf":"Concrete","rwy1":"12L","lat1":33.31759358,"lon1":-111.66131301,"rwy2":"30R","lat2":33.29850622,"lon2":-111.64105755}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.5,"desc":"ATIS"},
+{"type":"GND","freq":128.25,"desc":"GROUND"},
+{"type":"TWR","freq":124.75,"desc":"TOWER EAST"},
+{"type":"TWR","freq":120.6,"desc":"TOWER WEST"}
+]
+}

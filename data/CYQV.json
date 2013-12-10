@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYQV","name":"Yorkton Muni","lat":51.25907146,"lon":-102.46436096,"rwys":3,"ils":0,"index":1270610,"path":"w110n50/w103n51"
+,"runways":[
+{"len_m":1455,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":51.26066170,"lon1":-102.46961030,"rwy2":"21","lat2":51.26990230,"lon2":-102.45484223},
+{"len_m":184,"wid_m":29.87,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":51.26615390,"lon1":-102.46236673,"rwy2":"30","lat2":51.26498240,"lon2":-102.46049445},
+{"len_m":735,"wid_m":35.97,"hdg":134,"surf":"Gravel","rwy1":"11","lat1":51.26499892,"lon1":-102.46052099,"rwy2":"29","lat2":51.26033298,"lon2":-102.45306436}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF EDMONTON RDO"}
+]
+}

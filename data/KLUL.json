@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLUL","name":"Hesler Noble Fld","lat":31.673046,"lon":-89.172775,"rwys":1,"ils":0,"index":1482347,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":1680,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":31.67840300,"lon1":-89.17903900,"rwy2":"31","lat2":31.66768900,"lon2":-89.16651100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

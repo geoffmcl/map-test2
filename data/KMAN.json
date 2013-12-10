@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMAN","name":"Nampa Muni","lat":43.5813415,"lon":-116.5230625,"rwys":1,"ils":0,"index":1040737,"path":"w120n40/w117n43"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"11","lat1":43.58533900,"lon1":-116.53072800,"rwy2":"29","lat2":43.57734400,"lon2":-116.51539700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"BOISE APP/DEP"}
+]
+}

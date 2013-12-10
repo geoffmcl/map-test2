@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBEC","name":"Beech Factory","lat":37.69523232,"lon":-097.21679186,"rwys":1,"ils":0,"index":1351659,"path":"w100n30/w098n37"
+,"runways":[
+{"len_m":2438,"wid_m":29.87,"hdg":190,"surf":"Concrete","rwy1":"18","lat1":37.70527500,"lon1":-97.21246400,"rwy2":"36","lat2":37.68367500,"lon2":-97.21751100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125,"desc":"WICHITA CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.8,"desc":"TWR"},
+{"type":"APP","freq":134.8,"desc":"WICHITA APP/DEP"}
+]
+}

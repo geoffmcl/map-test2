@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGSU","name":"Duxford","lat":52.09410579,"lon":000.13140603,"rwys":2,"ils":0,"index":2958208,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":1448,"wid_m":46.94,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":52.08707500,"lon1":0.12254400,"rwy2":"24","lat2":52.09396519,"lon2":0.14046688},
+{"len_m":881,"wid_m":24.99,"hdg":58,"surf":"Turf/grass","rwy1":"06L","lat1":52.08929676,"lon1":0.12418319,"rwy2":"24R","lat2":52.09348924,"lon2":0.13510332}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.07,"desc":"Duxford Information"}
+]
+}

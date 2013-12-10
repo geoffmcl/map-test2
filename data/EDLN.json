@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDLN","name":"Monchengladbach","lat":51.22936200,"lon":006.49986400,"rwys":1,"ils":2,"index":3056457,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":1199,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":51.23372200,"lon1":6.49778600,"rwy2":"31","lat2":51.22698900,"lon2":6.51120600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":118.12,"desc":"TOWER"},
+{"type":"APP","freq":133.77,"desc":"LANGEN RADAR"}
+]
+}

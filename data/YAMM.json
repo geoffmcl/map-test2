@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YAMM","name":"Ammaroo","lat":-21.74341200,"lon":135.24395800,"rwys":2,"ils":0,"index":5165329,"path":"e130s30/e135s22"
+,"runways":[
+{"len_m":1104,"wid_m":102.11,"hdg":3,"surf":"Dirt","rwy1":"1","lat1":-21.74434553,"lon1":135.24276529,"rwy2":"19","lat2":-21.73439211,"lon2":135.24345798},
+{"len_m":1115,"wid_m":82.91,"hdg":126,"surf":"Dirt","rwy1":"12","lat1":-21.73483714,"lon1":135.24304609,"rwy2":"30","lat2":-21.74088141,"lon2":135.25167294}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

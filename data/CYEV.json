@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYEV","name":"Inuvik Mike Zubko","lat":68.3037915,"lon":-133.483167,"rwys":1,"ils":0,"index":763793,"path":"w140n60/w134n68"
+,"runways":[
+{"len_m":1830,"wid_m":45.72,"hdg":85,"surf":"Asphalt","rwy1":"06","lat1":68.30319400,"lon1":-133.50527800,"rwy2":"24","lat2":68.30438900,"lon2":-133.46105600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ATIS"},
+{"type":"CTAF","freq":122.3,"desc":"MANDATORY FREQ"}
+]
+}

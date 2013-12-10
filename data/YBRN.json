@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBRN","name":"Balranald","lat":-34.62383392,"lon":143.57572775,"rwys":2,"ils":0,"index":5295578,"path":"e140s40/e143s35"
+,"runways":[
+{"len_m":1186,"wid_m":17.98,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":-34.61948254,"lon1":143.57780093,"rwy2":"36","lat2":-34.63012600,"lon2":143.57653700},
+{"len_m":732,"wid_m":29.87,"hdg":88,"surf":"Dirt","rwy1":"08","lat1":-34.62187857,"lon1":143.57540110,"rwy2":"26","lat2":-34.62172000,"lon2":143.58338600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

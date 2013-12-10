@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3I3","name":"Sky King","lat":39.54742175,"lon":-87.37771475,"rwys":2,"ils":0,"index":1515618,"path":"w090n30/w088n39"
+,"runways":[
+{"len_m":1084,"wid_m":15.24,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":39.54821700,"lon1":-87.38275600,"rwy2":"26","lat2":39.54927800,"lon2":-87.37021400},
+{"len_m":602,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":39.54881100,"lon1":-87.37897800,"rwy2":"36","lat2":39.54338100,"lon2":-87.37891100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.3,"desc":"HULMAN APP/DEP"},
+{"type":"APP","freq":125.45,"desc":"HULMAN APP/DEP"}
+]
+}

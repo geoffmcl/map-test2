@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBDV","name":"Birdsville","lat":-25.89776328,"lon":139.35084288,"rwys":2,"ils":0,"index":5230593,"path":"e130s30/e139s26"
+,"runways":[
+{"len_m":1731,"wid_m":29.87,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":-25.88519444,"lon1":139.34050809,"rwy2":"32","lat2":-25.89856000,"lon2":139.34947300},
+{"len_m":1260,"wid_m":39.93,"hdg":39,"surf":"Dirt","rwy1":"03","lat1":-25.90403492,"lon1":139.34305068,"rwy2":"21","lat2":-25.89529026,"lon2":139.35109916}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,36 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFPG","name":"Paris Charles De Gaulle","lat":49.00989400,"lon":002.54738900,"rwys":4,"ils":8,"index":2990786,"path":"e000n40/e002n49"
+,"runways":[
+{"len_m":4290,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"08L","lat1":48.99566392,"lon1":2.55215505,"rwy2":"26R","lat2":48.99875734,"lon2":2.61060285},
+{"len_m":2700,"wid_m":60.05,"hdg":85,"surf":"Asphalt","rwy1":"09L","lat1":49.02473614,"lon1":2.52489020,"rwy2":"27R","lat2":49.02667786,"lon2":2.56169447},
+{"len_m":2688,"wid_m":60.05,"hdg":85,"surf":"Asphalt","rwy1":"08R","lat1":48.99292932,"lon1":2.56581580,"rwy2":"26L","lat2":48.99486268,"lon2":2.60243818},
+{"len_m":4200,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"09R","lat1":49.02064475,"lon1":2.51305527,"rwy2":"27L","lat2":49.02366525,"lon2":2.57030334}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.12,"desc":"DE GAULLE ATIS"},
+{"type":"GND","freq":121.97,"desc":"DE GAULLE GND"},
+{"type":"GND","freq":121.6,"desc":"DE GAULLE GND"},
+{"type":"GND","freq":121.77,"desc":"DE GAULLE GND"},
+{"type":"GND","freq":121.8,"desc":"DE GAULLE GND"},
+{"type":"GND","freq":121.92,"desc":"DE GAULLE TRAFFIC"},
+{"type":"GND","freq":118.1,"desc":"DE GAULLE TRAFFIC"},
+{"type":"GND","freq":119.55,"desc":"DE GAULLE TRAFFIC"},
+{"type":"GND","freq":131.6,"desc":"DE GAULLE TRAFFIC"},
+{"type":"TWR","freq":118.65,"desc":"DE GAULLE TWR"},
+{"type":"TWR","freq":119.25,"desc":"DE GAULLE TWR"},
+{"type":"TWR","freq":120.9,"desc":"DE GAULLE TWR"},
+{"type":"TWR","freq":123.6,"desc":"DE GAULLE TWR"},
+{"type":"TWR","freq":125.32,"desc":"DE GAULLE TWR"},
+{"type":"APP","freq":118.15,"desc":"DE GAULLE APP"},
+{"type":"APP","freq":119.85,"desc":"DE GAULLE APP"},
+{"type":"APP","freq":121.15,"desc":"DE GAULLE APP"},
+{"type":"APP","freq":125.82,"desc":"DE GAULLE APP"},
+{"type":"APP","freq":126.42,"desc":"DE GAULLE APP"},
+{"type":"DEP","freq":124.35,"desc":"DE GAULLE DEP"},
+{"type":"DEP","freq":126.57,"desc":"DE GAULLE DEP"},
+{"type":"DEP","freq":131.2,"desc":"DE GAULLE DEP"},
+{"type":"DEP","freq":133.37,"desc":"DE GAULLE DEP"}
+]
+}

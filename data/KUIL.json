@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUIL","name":"Quillayute","lat":47.93382133,"lon":-124.56199071,"rwys":2,"ils":0,"index":909945,"path":"w130n40/w125n47"
+,"runways":[
+{"len_m":1283,"wid_m":29.87,"hdg":58,"surf":"Concrete","rwy1":"04","lat1":47.93355762,"lon1":-124.56994550,"rwy2":"22","lat2":47.93960938,"lon2":-124.55531965},
+{"len_m":1426,"wid_m":53.04,"hdg":142,"surf":"Concrete","rwy1":"14","lat1":47.94678865,"lon1":-124.56547853,"rwy2":"32","lat2":47.93655512,"lon2":-124.55396685}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"ATIS","freq":135.23,"desc":"UIL"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

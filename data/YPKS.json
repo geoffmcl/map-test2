@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPKS","name":"Parkes","lat":-33.13838104,"lon":148.23312535,"rwys":2,"ils":0,"index":5377584,"path":"e140s40/e148s34"
+,"runways":[
+{"len_m":1683,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":-33.13723209,"lon1":148.23058820,"rwy2":"22","lat2":-33.12848955,"lon2":148.24533319},
+{"len_m":1619,"wid_m":24.08,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":-33.12485732,"lon1":148.23040628,"rwy2":"30","lat2":-33.13319926,"lon2":148.24464659}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

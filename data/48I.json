@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"48I","name":"Braxton Co","lat":38.686946,"lon":-80.651943,"rwys":1,"ils":0,"index":1630249,"path":"w090n30/w081n38"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":38.68153900,"lon1":-80.65316100,"rwy2":"19","lat2":38.69235300,"lon2":-80.65072500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":121.15,"desc":"APP/DEP"}
+]
+}

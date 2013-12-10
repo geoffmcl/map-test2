@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGDH","name":"Gunnedah","lat":-30.95872591,"lon":150.25410412,"rwys":2,"ils":0,"index":5410497,"path":"e150s40/e150s31"
+,"runways":[
+{"len_m":1648,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":-30.95356227,"lon1":150.24058614,"rwy2":"29","lat2":-30.96160600,"lon2":150.25509700},
+{"len_m":717,"wid_m":29.87,"hdg":2,"surf":"Dirt","rwy1":"1","lat1":-30.96110783,"lon1":150.25062501,"rwy2":"19","lat2":-30.95464023,"lon2":150.25096626}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.4,"desc":"CTAF"}
+]
+}

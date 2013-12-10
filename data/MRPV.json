@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MRPV","name":"Tobias Bolanos Intl","lat":9.9570515,"lon":-84.139797,"rwys":1,"ils":0,"index":1562878,"path":"w090n00/w085n09"
+,"runways":[
+{"len_m":1618,"wid_m":18.29,"hdg":95,"surf":"Asphalt","rwy1":"09","lat1":9.95769700,"lon1":-84.14714700,"rwy2":"27","lat2":9.95640600,"lon2":-84.13244700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"PAVAS TWR"}
+]
+}

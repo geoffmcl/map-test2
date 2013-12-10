@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1M5","name":"Portland Muni","lat":36.5928705,"lon":-86.4769135,"rwys":1,"ils":0,"index":1531810,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":36.58613200,"lon1":-86.47855400,"rwy2":"19","lat2":36.59960900,"lon2":-86.47527300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"NASHVILLE APP/DEP"}
+]
+}

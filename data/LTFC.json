@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTFC","name":"Suleyman Demirel","lat":37.855415,"lon":30.3683985,"rwys":1,"ils":0,"index":3448817,"path":"e030n30/e030n37"
+,"runways":[
+{"len_m":3005,"wid_m":45.11,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":37.84664700,"lon1":30.35538900,"rwy2":"23","lat2":37.86418300,"lon2":30.38140800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"ISPARTA GND"},
+{"type":"TWR","freq":119.2,"desc":"ISPARTA TWR"}
+]
+}

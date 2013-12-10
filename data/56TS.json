@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"56TS","name":"Elgin Intracontinental","lat":30.33770888,"lon":-97.35027251,"rwys":3,"ils":0,"index":1351186,"path":"w100n30/w098n30"
+,"runways":[
+{"len_m":320,"wid_m":12.19,"hdg":116,"surf":"Turf/grass","rwy1":"11","lat1":30.33836266,"lon1":-97.35175920,"rwy2":"29","lat2":30.33705510,"lon2":-97.34878582},
+{"len_m":258,"wid_m":12.19,"hdg":176,"surf":"Turf/grass","rwy1":"17","lat1":30.33887305,"lon1":-97.35034320,"rwy2":"35","lat2":30.33654471,"lon2":-97.35020182},
+{"len_m":197,"wid_m":7.62,"hdg":27,"surf":"Turf/grass","rwy1":"02","lat1":30.33691458,"lon1":-97.35074144,"rwy2":"20","lat2":30.33850318,"lon2":-97.34980358}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":22.86,"hdg":-97,"surf":"Turf/grass","lat1":30.33770888,"lon1":-97.35027251}
+]
+,"radios":[
+]
+}

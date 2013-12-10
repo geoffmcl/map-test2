@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOJA","name":"Thomas P Stafford","lat":35.5448375,"lon":-98.6685015,"rwys":1,"ils":0,"index":1335137,"path":"w100n30/w099n35"
+,"runways":[
+{"len_m":1341,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":35.55088100,"lon1":-98.66851700,"rwy2":"35","lat2":35.53879400,"lon2":-98.66848600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

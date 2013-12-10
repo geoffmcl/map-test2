@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNJK","name":"Knjk El Centro Naf","lat":32.82425114,"lon":-115.67232675,"rwys":2,"ils":0,"index":1056433,"path":"w120n30/w116n32"
+,"runways":[
+{"len_m":2913,"wid_m":60.96,"hdg":89,"surf":"Concrete","rwy1":"8","lat1":32.82913567,"lon1":-115.68728348,"rwy2":"26","lat2":32.82915830,"lon2":-115.65616600},
+{"len_m":2115,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.82990216,"lon1":-115.67227773,"rwy2":"30","lat2":32.81641165,"lon2":-115.65630920}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"El Centro ground"},
+{"type":"TWR","freq":119,"desc":"El Centro Tower"},
+{"type":"APP","freq":119.1,"desc":"El Centro approach"}
+]
+}

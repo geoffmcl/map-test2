@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEDU","name":"University","lat":38.53146100,"lon":-121.78648900,"rwys":1,"ils":0,"index":958496,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":968,"wid_m":14.94,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":38.53582200,"lon1":-121.78640300,"rwy2":"34","lat2":38.52709800,"lon2":-121.78655300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"UNIVERSITY UNIC"},
+{"type":"APP","freq":126.6,"desc":"TRAVIS APP"},
+{"type":"DEP","freq":126.6,"desc":"TRAVIS DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKLT","name":"Letnany","lat":50.12904870,"lon":014.52548398,"rwys":2,"ils":0,"index":3187466,"path":"e010n50/e014n50"
+,"runways":[
+{"len_m":849,"wid_m":24.99,"hdg":51,"surf":"Turf/grass","rwy1":"05L","lat1":50.12928821,"lon1":14.52027250,"rwy2":"23R","lat2":50.13408577,"lon2":14.52951792},
+{"len_m":791,"wid_m":24.99,"hdg":51,"surf":"Turf/grass","rwy1":"05R","lat1":50.12931157,"lon1":14.52309056,"rwy2":"23L","lat2":50.13378546,"lon2":14.53169576}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":11.89,"hdg":14,"surf":"Asphalt","lat1":50.12863517,"lon1":14.52356890}
+]
+,"radios":[
+{"type":"TWR","freq":128.8,"desc":"INFO"}
+]
+}

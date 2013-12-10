@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FZNA","name":"Goma","lat":-1.6708155,"lon":29.2384625,"rwys":1,"ils":0,"index":3429905,"path":"e020s10/e029s02"
+,"runways":[
+{"len_m":1994,"wid_m":45.11,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":-1.66183900,"lon1":29.23757500,"rwy2":"36","lat2":-1.67979200,"lon2":29.23935000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.9,"desc":"UNICOM"},
+{"type":"GND","freq":124.5,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"APP"}
+]
+}

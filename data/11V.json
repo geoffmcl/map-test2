@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"11V","name":"Easton Valley View","lat":40.330614,"lon":-104.6115735,"rwys":2,"ils":0,"index":1237137,"path":"w110n40/w105n40"
+,"runways":[
+{"len_m":1251,"wid_m":7.62,"hdg":91,"surf":"Dirt","rwy1":"08","lat1":40.33055600,"lon1":-104.61388900,"rwy2":"26","lat2":40.33027500,"lon2":-104.59916900},
+{"len_m":769,"wid_m":198.12,"hdg":159,"surf":"Dirt","rwy1":"14","lat1":40.33405000,"lon1":-104.61823300,"rwy2":"32","lat2":40.32757500,"lon2":-104.61500300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

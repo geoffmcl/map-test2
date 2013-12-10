@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAPA","name":"Centennial","lat":39.5701161666667,"lon":-104.848131833333,"rwys":3,"ils":1,"index":1237088,"path":"w110n30/w105n39"
+,"runways":[
+{"len_m":3047,"wid_m":30.48,"hdg":177,"surf":"Asphalt","rwy1":"17L","lat1":39.58414200,"lon1":-104.85147500,"rwy2":"35R","lat2":39.55670800,"lon2":-104.85021100},
+{"len_m":2133,"wid_m":23.47,"hdg":177,"surf":"Asphalt","rwy1":"17R","lat1":39.57898600,"lon1":-104.85372200,"rwy2":"35L","lat2":39.55977800,"lon2":-104.85283600},
+{"len_m":1462,"wid_m":22.86,"hdg":110,"surf":"Asphalt","rwy1":"10","lat1":39.57289700,"lon1":-104.84822200,"rwy2":"28","lat2":39.56818600,"lon2":-104.83232500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":132.75,"desc":"DENVER APP/DEP"}
+]
+}

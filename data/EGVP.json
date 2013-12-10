@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGVP","name":"Aac Middle Wallop","lat":51.14938708,"lon":-001.56963679,"rwys":3,"ils":0,"index":2925385,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":1100,"wid_m":45.11,"hdg":84,"surf":"Turf/grass","rwy1":"08","lat1":51.14572521,"lon1":-1.57607623,"rwy2":"26","lat2":51.14675798,"lon2":-1.56043752},
+{"len_m":295,"wid_m":25.91,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":51.14857157,"lon1":-1.55992723,"rwy2":"22","lat2":51.15058613,"lon2":-1.55717579},
+{"len_m":1187,"wid_m":45.11,"hdg":173,"surf":"Turf/grass","rwy1":"17","lat1":51.14630063,"lon1":-1.57379444,"rwy2":"35","lat2":51.13569684,"lon2":-1.57187185}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Asphalt","lat1":51.15054480,"lon1":-1.57031284},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Asphalt","lat1":51.15028319,"lon1":-1.57026734},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Asphalt","lat1":51.15054718,"lon1":-1.56989580},
+{"rwy1":"H4","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Asphalt","lat1":51.15012934,"lon1":-1.57088989}
+]
+,"radios":[
+{"type":"TWR","freq":118.27,"desc":"Middle Wallop Tower"},
+{"type":"APP","freq":123.3,"desc":"Middle Wallop Approach"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBRY","name":"Samuels Fld","lat":37.8143225,"lon":-85.4996375,"rwys":1,"ils":0,"index":1548274,"path":"w090n30/w086n37"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":37.80793100,"lon1":-85.50281400,"rwy2":"20","lat2":37.82071400,"lon2":-85.49646100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.67,"desc":"LOUISVILLE APP/DEP"},
+{"type":"APP","freq":132.07,"desc":"LOUISVILLE APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMGE","name":"Dobbins Arb","lat":33.915275,"lon":-84.516347,"rwys":1,"ils":2,"index":1564409,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":3048,"wid_m":91.44,"hdg":106,"surf":"Concrete","rwy1":"11","lat1":33.91911700,"lon1":-84.53217200,"rwy2":"29","lat2":33.91143300,"lon2":-84.50052200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.3,"desc":"GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"ATLANTA APP/DEP"}
+]
+}

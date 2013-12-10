@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2F5","name":"Lamesa Muni","lat":32.75660275,"lon":-101.92072925,"rwys":2,"ils":0,"index":1285808,"path":"w110n30/w102n32"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":32.76048100,"lon1":-101.91829200,"rwy2":"34","lat2":32.74718600,"lon2":-101.91417500},
+{"len_m":1219,"wid_m":15.24,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":32.75799400,"lon1":-101.93152200,"rwy2":"25","lat2":32.76075000,"lon2":-101.91892800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

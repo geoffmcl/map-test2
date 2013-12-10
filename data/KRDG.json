@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRDG","name":"Reading Rgnl Carl A Spaatz Fld","lat":40.37565800,"lon":-075.96572700,"rwys":2,"ils":2,"index":1712280,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":1935,"wid_m":45.72,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":40.38357200,"lon1":-75.97810300,"rwy2":"31","lat2":40.37452500,"lon2":-75.95862200},
+{"len_m":1569,"wid_m":45.72,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":40.38482200,"lon1":-75.96266700,"rwy2":"36","lat2":40.37081700,"lon2":-75.96014700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.1,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":125.15,"desc":"APP/DEP"}
+]
+}

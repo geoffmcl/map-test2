@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBXK","name":"Buckeye Muni","lat":33.4209843333333,"lon":-112.685719166667,"rwys":3,"ils":0,"index":1105625,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":33.43008900,"lon1":-112.68586100,"rwy2":"35","lat2":33.41498600,"lon2":-112.68650000},
+{"len_m":1044,"wid_m":82.30,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":33.42027800,"lon1":-112.69028100,"rwy2":"29","lat2":33.41555300,"lon2":-112.68056100},
+{"len_m":1007,"wid_m":91.44,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":33.42027800,"lon1":-112.69028100,"rwy2":"23","lat2":33.42472200,"lon2":-112.68083100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

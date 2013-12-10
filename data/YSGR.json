@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSGR","name":"South Grafton","lat":-29.70948400,"lon":152.92955000,"rwys":1,"ils":0,"index":5443347,"path":"e150s30/e152s30"
+,"runways":[
+{"len_m":925,"wid_m":6.10,"hdg":265,"surf":"Asphalt","rwy1":"08","lat1":-29.70899200,"lon1":152.92770100,"rwy2":"26","lat2":-29.70966000,"lon2":152.91816500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"South Grafton MULT"},
+{"type":"TWR","freq":122.6,"desc":"BRISBANE CENTRE CNTR"}
+]
+}

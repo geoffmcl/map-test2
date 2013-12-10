@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKLI","name":"Ivano Frankivsk Intl","lat":48.884167,"lon":24.6866665,"rwys":1,"ils":2,"index":3351226,"path":"e020n40/e024n48"
+,"runways":[
+{"len_m":2507,"wid_m":43.89,"hdg":102,"surf":"Concrete","rwy1":"10","lat1":48.88666700,"lon1":24.67000000,"rwy2":"28","lat2":48.88166700,"lon2":24.70333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124,"desc":"FRANKO START"},
+{"type":"TWR","freq":118.3,"desc":"FRANKO TWR"},
+{"type":"APP","freq":127.3,"desc":"FRANKO APP"},
+{"type":"APP","freq":128.5,"desc":"FRANKO START"}
+]
+}

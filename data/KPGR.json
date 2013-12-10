@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPGR","name":"Kirk Fld","lat":36.0641555,"lon":-90.509638,"rwys":2,"ils":0,"index":1466241,"path":"w100n30/w091n36"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":36.05863300,"lon1":-90.51329400,"rwy2":"22","lat2":36.06715600,"lon2":-90.50226700},
+{"len_m":851,"wid_m":30.48,"hdg":91,"surf":"Turf/grass","rwy1":"08","lat1":36.06548600,"lon1":-90.51621900,"rwy2":"26","lat2":36.06534700,"lon2":-90.50677200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

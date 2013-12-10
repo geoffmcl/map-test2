@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAIL","name":"Iliamna","lat":59.753866,"lon":-154.9109795,"rwys":2,"ils":0,"index":419184,"path":"w160n50/w155n59"
+,"runways":[
+{"len_m":1550,"wid_m":30.48,"hdg":92,"surf":"Asphalt","rwy1":"07","lat1":59.75188600,"lon1":-154.92406900,"rwy2":"25","lat2":59.75130300,"lon2":-154.89651100},
+{"len_m":1463,"wid_m":30.48,"hdg":189,"surf":"Asphalt","rwy1":"17","lat1":59.76262200,"lon1":-154.90961900,"rwy2":"35","lat2":59.74965300,"lon2":-154.91371900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.95,"desc":"ASOS"},
+{"type":"ATIS","freq":134.95,"desc":"ATIS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+}

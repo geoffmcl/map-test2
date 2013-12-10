@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UTSB","name":"Bukhara","lat":39.775,"lon":64.4833335,"rwys":1,"ils":1,"index":4006001,"path":"e060n30/e064n39"
+,"runways":[
+{"len_m":3015,"wid_m":44.81,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":39.76166700,"lon1":64.48000000,"rwy2":"19","lat2":39.78833300,"lon2":64.48666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"}
+]
+}

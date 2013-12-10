@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDWH","name":"Oldenburg Hatten","lat":53.06823572,"lon":008.31372229,"rwys":1,"ils":0,"index":3089345,"path":"e000n50/e008n53"
+,"runways":[
+{"len_m":780,"wid_m":29.87,"hdg":60,"surf":"Turf/grass","rwy1":"6","lat1":53.06691192,"lon1":8.30749687,"rwy2":"24","lat2":53.07039208,"lon2":8.31761023}
+]
+,"helipads":[
+{"rwy1":"H","len_m":14,"wid_m":14.94,"hdg":8,"surf":"Turf/grass","lat1":53.06697963,"lon1":8.31568265}
+]
+,"radios":[
+{"type":"TWR","freq":118.17,"desc":"Oldenburg Info"}
+]
+}

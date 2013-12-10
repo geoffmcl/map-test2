@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAKN","name":"King Salmon","lat":58.677088,"lon":-156.64992025,"rwys":2,"ils":1,"index":386345,"path":"w160n50/w157n58"
+,"runways":[
+{"len_m":2591,"wid_m":45.72,"hdg":131,"surf":"Asphalt","rwy1":"11","lat1":58.68393900,"lon1":-156.66472800,"rwy2":"29","lat2":58.66841900,"lon2":-156.63146100},
+{"len_m":1224,"wid_m":30.48,"hdg":196,"surf":"Asphalt","rwy1":"18","lat1":58.68327200,"lon1":-156.64878100,"rwy2":"36","lat2":58.67272200,"lon2":-156.65471100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":121.9,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+}

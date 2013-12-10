@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBLU","name":"Blue Canyon Nyack","lat":39.274958,"lon":-120.709761,"rwys":1,"ils":0,"index":974929,"path":"w130n30/w121n39"
+,"runways":[
+{"len_m":1005,"wid_m":15.24,"hdg":167,"surf":"Asphalt","rwy1":"15","lat1":39.27938300,"lon1":-120.71100800,"rwy2":"33","lat2":39.27053300,"lon2":-120.70851400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLXN","name":"Jim Kelly Fld","lat":40.78870628,"lon":-099.77168777,"rwys":2,"ils":0,"index":1319088,"path":"w100n40/w100n40"
+,"runways":[
+{"len_m":1677,"wid_m":29.87,"hdg":143,"surf":"Concrete","rwy1":"14","lat1":40.79705247,"lon1":-99.78325193,"rwy2":"32","lat2":40.78497353,"lon2":-99.77131661},
+{"len_m":948,"wid_m":63.09,"hdg":20,"surf":"Turf/grass","rwy1":"01","lat1":40.78513386,"lon1":-99.77568470,"rwy2":"19","lat2":40.79313348,"lon2":-99.77175413}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGTN","name":"Georgetown","lat":-18.30381000,"lon":143.53223213,"rwys":1,"ils":0,"index":5296620,"path":"e140s20/e143s19"
+,"runways":[
+{"len_m":1161,"wid_m":17.98,"hdg":63,"surf":"Asphalt","rwy1":"06","lat1":-18.30504332,"lon1":143.52589636,"rwy2":"24","lat2":-18.30037424,"lon2":143.53572999}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.19,"hdg":143,"surf":"Asphalt","lat1":-18.30350653,"lon1":143.53206555}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

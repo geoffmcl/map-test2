@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFAY","name":"Fayetteville Rgnl Grannis Fld","lat":34.99157700,"lon":-078.88547500,"rwys":2,"ils":1,"index":1662776,"path":"w080n30/w079n34"
+,"runways":[
+{"len_m":2350,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":34.98435000,"lon1":-78.88700800,"rwy2":"22","lat2":35.00247500,"lon2":-78.87367800},
+{"len_m":1463,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":34.98782200,"lon1":-78.88816900,"rwy2":"28","lat2":34.98755600,"lon2":-78.87214400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.7,"desc":"GND"},
+{"type":"APP","freq":133,"desc":"APP/DEP"},
+{"type":"APP","freq":127.8,"desc":"APP/DEP"},
+{"type":"APP","freq":125.17,"desc":"APP/DEP"}
+]
+}

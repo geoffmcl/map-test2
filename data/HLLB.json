@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HLLB","name":"Benina","lat":32.09441760,"lon":020.26035880,"rwys":2,"ils":1,"index":3284609,"path":"e020n30/e020n32"
+,"runways":[
+{"len_m":3576,"wid_m":45.11,"hdg":150,"surf":"Asphalt","rwy1":"15L","lat1":32.11158100,"lon1":20.26149400,"rwy2":"33R","lat2":32.08351700,"lon2":20.28015800},
+{"len_m":3575,"wid_m":45.11,"hdg":150,"surf":"Asphalt","rwy1":"15R","lat1":32.11019400,"lon1":20.25870300,"rwy2":"33L","lat2":32.08214700,"lon2":20.27739700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.3,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127,"desc":"ARR"},
+{"type":"APP","freq":126.5,"desc":"BENGHAZI APP"},
+{"type":"APP","freq":129.2,"desc":"BENGHAZI APP"},
+{"type":"DEP","freq":127,"desc":"DEP"}
+]
+}

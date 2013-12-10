@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KXLL","name":"Allentown Queen City Muni","lat":40.570396815,"lon":-75.4883057,"rwys":2,"ils":0,"index":1712290,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":1202,"wid_m":22.86,"hdg":58,"surf":"Asphalt","rwy1":"07","lat1":40.56657739,"lon1":-75.49426846,"rwy2":"25","lat2":40.57226975,"lon2":-75.48219108},
+{"len_m":960,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":40.57442262,"lon1":-75.49239793,"rwy2":"33","lat2":40.56831751,"lon2":-75.48436533}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"APP/DEP"},
+{"type":"APP","freq":119.65,"desc":"APP/DEP"},
+{"type":"APP","freq":124.45,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKMT","name":"Ostrava Mosnov","lat":49.69660353,"lon":18.115077,"rwys":1,"ils":1,"index":3252968,"path":"e010n40/e018n49"
+,"runways":[
+{"len_m":3520,"wid_m":63.09,"hdg":46,"surf":"Concrete","rwy1":"04","lat1":49.68529998,"lon1":18.09319357,"rwy2":"22","lat2":49.70713416,"lon2":18.12851631}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":18,"surf":"Concrete","lat1":49.69698999,"lon1":18.11929906}
+]
+,"radios":[
+{"type":"TWR","freq":120.8,"desc":"TOWER"},
+{"type":"TWR","freq":121.5,"desc":"TOWER"}
+]
+}

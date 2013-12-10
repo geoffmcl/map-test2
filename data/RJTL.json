@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJTL","name":"Shimofusa","lat":35.7989445,"lon":140.0122085,"rwys":1,"ils":1,"index":5250928,"path":"e140n30/e140n35"
+,"runways":[
+{"len_m":2250,"wid_m":45.72,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":35.78880600,"lon1":140.01241700,"rwy2":"19","lat2":35.80908300,"lon2":140.01200000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":122,"desc":"PAR"},
+{"type":"APP","freq":126,"desc":"TOKYO APP"},
+{"type":"DEP","freq":126,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":120.8,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":127.6,"desc":"TOKYO DEP"}
+]
+}

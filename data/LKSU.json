@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKSU","name":"Sumperk","lat":49.96299701,"lon":017.01909360,"rwys":2,"ils":0,"index":3236600,"path":"e010n40/e017n49"
+,"runways":[
+{"len_m":698,"wid_m":89.92,"hdg":57,"surf":"Turf/grass","rwy1":"06","lat1":49.95791315,"lon1":17.01298554,"rwy2":"24","lat2":49.96131175,"lon2":17.02117733},
+{"len_m":703,"wid_m":114.91,"hdg":2,"surf":"Turf/grass","rwy1":"18","lat1":49.95706839,"lon1":17.01681279,"rwy2":"36","lat2":49.96338681,"lon2":17.01726515}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"INFO"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCOF","name":"Patrick Afb","lat":28.22902500,"lon":-080.60819200,"rwys":2,"ils":2,"index":1629577,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":2750,"wid_m":60.96,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":28.22112200,"lon1":-80.61503600,"rwy2":"20","lat2":28.24445300,"lon2":-80.60548900},
+{"len_m":1220,"wid_m":60.96,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":28.24140000,"lon1":-80.61533100,"rwy2":"29","lat2":28.23834400,"lon2":-80.60338600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"ATIS"},
+{"type":"CLD","freq":118.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":124.35,"desc":"GND"},
+{"type":"TWR","freq":133.75,"desc":"TWR"},
+{"type":"APP","freq":132.65,"desc":"ORLANDO APP/DEP"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+}

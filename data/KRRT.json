@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRRT","name":"Warroad Intl Swede Carlson Field","lat":48.94090925,"lon":-95.347582,"rwys":2,"ils":0,"index":1385146,"path":"w100n40/w096n48"
+,"runways":[
+{"len_m":1646,"wid_m":30.48,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":48.94598100,"lon1":-95.35420600,"rwy2":"31","lat2":48.93487800,"lon2":-95.33934400},
+{"len_m":913,"wid_m":45.72,"hdg":43,"surf":"Turf/grass","rwy1":"04","lat1":48.93842800,"lon1":-95.35271400,"rwy2":"22","lat2":48.94435000,"lon2":-95.34406400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

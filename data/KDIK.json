@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDIK","name":"Dickinson Theodore Roosevelt Rgnl","lat":46.79734725,"lon":-102.80194725,"rwys":2,"ils":1,"index":1270320,"path":"w110n40/w103n46"
+,"runways":[
+{"len_m":1950,"wid_m":30.48,"hdg":150,"surf":"Asphalt","rwy1":"14","lat1":46.80492800,"lon1":-102.80776900,"rwy2":"32","lat2":46.78967200,"lon2":-102.79514700},
+{"len_m":1432,"wid_m":22.86,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":46.79624700,"lon1":-102.81166700,"rwy2":"25","lat2":46.79854200,"lon2":-102.79320600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

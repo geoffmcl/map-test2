@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGZS","name":"Abernathy Fld","lat":35.153707,"lon":-87.056815,"rwys":1,"ils":0,"index":1515339,"path":"w090n30/w088n35"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":152,"surf":"Asphalt","rwy1":"16","lat1":35.15982500,"lon1":-87.06061100,"rwy2":"34","lat2":35.14758900,"lon2":-87.05301900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

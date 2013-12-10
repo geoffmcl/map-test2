@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPO","name":"Point Hope","lat":68.348835,"lon":-166.799347,"rwys":1,"ils":0,"index":223120,"path":"w170n60/w167n68"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":68.34377800,"lon1":-166.80496100,"rwy2":"19","lat2":68.35389200,"lon2":-166.79373300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

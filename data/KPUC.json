@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPUC","name":"Carbon Co","lat":39.6135046666667,"lon":-110.7516285,"rwys":3,"ils":1,"index":1138784,"path":"w120n30/w111n39"
+,"runways":[
+{"len_m":2532,"wid_m":30.48,"hdg":198,"surf":"Asphalt","rwy1":"18","lat1":39.62658300,"lon1":-110.74591900,"rwy2":"36","lat2":39.60493300,"lon2":-110.75520800},
+{"len_m":1375,"wid_m":22.86,"hdg":158,"surf":"Asphalt","rwy1":"14","lat1":39.61538600,"lon1":-110.75673900,"rwy2":"32","lat2":39.60384200,"lon2":-110.75091900},
+{"len_m":1079,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":39.61513100,"lon1":-110.75677800,"rwy2":"25","lat2":39.61515300,"lon2":-110.74420800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

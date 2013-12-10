@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KELY","name":"Ely Arpt Yelland Fld","lat":39.29834530,"lon":-114.83510208,"rwys":2,"ils":0,"index":1073232,"path":"w120n30/w115n39"
+,"runways":[
+{"len_m":1833,"wid_m":46.02,"hdg":193,"surf":"Asphalt","rwy1":"18","lat1":39.30881975,"lon1":-114.83562305,"rwy2":"36","lat2":39.29278625,"lon2":-114.84069695},
+{"len_m":1468,"wid_m":17.98,"hdg":140,"surf":"Asphalt","rwy1":"12","lat1":39.30347836,"lon1":-114.85194738,"rwy2":"30","lat2":39.29325564,"lon2":-114.84114662}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

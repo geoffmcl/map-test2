@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCDU","name":"Ceduna","lat":-32.12394250,"lon":133.70177957,"rwys":2,"ils":0,"index":5131898,"path":"e130s40/e133s33"
+,"runways":[
+{"len_m":1739,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":-32.12782746,"lon1":133.69789435,"rwy2":"29","lat2":-32.13340104,"lon2":133.71512994},
+{"len_m":1161,"wid_m":34.14,"hdg":173,"surf":"Transparent","rwy1":"17","lat1":-32.12537384,"lon1":133.71232512,"rwy2":"35","lat2":-32.13577969,"lon2":133.71374688}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"CEDUNA MULT"},
+{"type":"CTAF","freq":122.1,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

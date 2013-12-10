@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDEW","name":"Deer Park","lat":47.966403,"lon":-117.4273055,"rwys":2,"ils":0,"index":1024634,"path":"w120n40/w118n47"
+,"runways":[
+{"len_m":1859,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":47.97691700,"lon1":-117.43120600,"rwy2":"34","lat2":47.96019700,"lon2":-117.43112200},
+{"len_m":975,"wid_m":18.29,"hdg":61,"surf":"Asphalt","rwy1":"04","lat1":47.96214200,"lon1":-117.42917500,"rwy2":"22","lat2":47.96635600,"lon2":-117.41771900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.75,"desc":"SPOKANE APP/DEP"}
+]
+}

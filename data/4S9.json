@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4S9","name":"Portland Mulino","lat":45.21813339,"lon":-122.58847911,"rwys":1,"ils":0,"index":942537,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":1111,"wid_m":29.87,"hdg":159,"surf":"Asphalt","rwy1":"14","lat1":45.22106452,"lon1":-122.59261405,"rwy2":"32","lat2":45.21170242,"lon2":-122.58763612}
+]
+,"helipads":[
+{"rwy1":"H27","len_m":14,"wid_m":17.98,"hdg":-122,"surf":"Concrete","lat1":45.21980125,"lon1":-122.58764809}
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.95,"desc":"CLD"}
+]
+}

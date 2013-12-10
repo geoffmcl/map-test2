@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WICB","name":"Tangeran Budiarto","lat":-6.28982083333333,"lon":106.571212833333,"rwys":3,"ils":0,"index":4691180,"path":"e100s10/e106s07"
+,"runways":[
+{"len_m":1823,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":-6.28803900,"lon1":106.56086400,"rwy2":"30","lat2":-6.29618300,"lon2":106.57519400},
+{"len_m":1598,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"04R","lat1":-6.29529700,"lon1":106.56787200,"rwy2":"22L","lat2":-6.28483600,"lon2":106.57783600},
+{"len_m":1097,"wid_m":12.19,"hdg":43,"surf":"Dirt","rwy1":"04L","lat1":-6.29086700,"lon1":106.56932500,"rwy2":"22R","lat2":-6.28370300,"lon2":106.57618600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"BUDI TWR"},
+{"type":"TWR","freq":119.7,"desc":"BUDI TWR"}
+]
+}

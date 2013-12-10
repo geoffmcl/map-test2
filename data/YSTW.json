@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSTW","name":"Tamworth","lat":-31.08133211,"lon":150.84316825,"rwys":4,"ils":1,"index":5410491,"path":"e150s40/e150s32"
+,"runways":[
+{"len_m":1108,"wid_m":21.95,"hdg":132,"surf":"Asphalt","rwy1":"12R","lat1":-31.08132193,"lon1":150.83282285,"rwy2":"30L","lat2":-31.08812523,"lon2":150.84133002},
+{"len_m":2199,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"12L","lat1":-31.07103754,"lon1":150.83694678,"rwy2":"30R","lat2":-31.08453500,"lon2":150.85384100},
+{"len_m":842,"wid_m":31.09,"hdg":73,"surf":"Transparent","rwy1":"06","lat1":-31.08311754,"lon1":150.84284277,"rwy2":"24","lat2":-31.08093057,"lon2":150.85130067},
+{"len_m":986,"wid_m":31.09,"hdg":8,"surf":"Transparent","rwy1":"18","lat1":-31.08623774,"lon1":150.84509971,"rwy2":"36","lat2":-31.07742557,"lon2":150.84654580}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Concrete","lat1":-31.08336584,"lon1":150.84829990},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Concrete","lat1":-31.08334931,"lon1":150.84872681}
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"Tower"}
+]
+}

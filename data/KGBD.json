@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGBD","name":"Great Bend Muni","lat":38.343307,"lon":-98.85983825,"rwys":2,"ils":1,"index":1335312,"path":"w100n30/w099n38"
+,"runways":[
+{"len_m":2392,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":38.35785800,"lon1":-98.85736100,"rwy2":"35","lat2":38.33630300,"lon2":-98.85716400},
+{"len_m":1431,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":38.34271700,"lon1":-98.86953600,"rwy2":"29","lat2":38.33635000,"lon2":-98.85529200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

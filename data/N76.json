@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N76","name":"Millard","lat":40.317103,"lon":-76.536682,"rwys":1,"ils":0,"index":1695889,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":874,"wid_m":15.24,"hdg":100,"surf":"Asphalt","rwy1":"11","lat1":40.31781400,"lon1":-76.54173900,"rwy2":"29","lat2":40.31639200,"lon2":-76.53162500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"HARRISBURG APP/DEP"}
+]
+}

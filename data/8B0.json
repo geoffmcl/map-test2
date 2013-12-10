@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"8B0","name":"Steven A Bean Muni","lat":44.9918945,"lon":-70.6646195,"rwys":1,"ils":0,"index":1794489,"path":"w080n40/w071n44"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":120,"surf":"Asphalt","rwy1":"14","lat1":44.99408900,"lon1":-70.66997500,"rwy2":"32","lat2":44.98970000,"lon2":-70.65926400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

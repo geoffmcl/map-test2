@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSME","name":"Somerset Pulaski Co J T Wilson Fld","lat":37.054808,"lon":-84.6142505,"rwys":1,"ils":0,"index":1564609,"path":"w090n30/w085n37"
+,"runways":[
+{"len_m":1767,"wid_m":30.48,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":37.04898300,"lon1":-84.62102900,"rwy2":"23","lat2":37.06063300,"lon2":-84.60747200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

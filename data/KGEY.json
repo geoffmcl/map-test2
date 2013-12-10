@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGEY","name":"South Big Horn Co","lat":44.51219839,"lon":-108.08083235,"rwys":2,"ils":0,"index":1171875,"path":"w110n40/w109n44"
+,"runways":[
+{"len_m":2079,"wid_m":46.02,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":44.52924211,"lon1":-108.08120593,"rwy2":"34","lat2":44.51084878,"lon2":-108.07639163},
+{"len_m":1202,"wid_m":22.86,"hdg":86,"surf":"Asphalt","rwy1":"07","lat1":44.51342906,"lon1":-108.09786943,"rwy2":"25","lat2":44.51410633,"lon2":-108.08277321}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"8D3","name":"Sisseton Muni","lat":45.66971275,"lon":-96.99351175,"rwys":2,"ils":0,"index":1368552,"path":"w100n40/w097n45"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":167,"surf":"Asphalt","rwy1":"16","lat1":45.67329200,"lon1":-96.99535800,"rwy2":"34","lat2":45.66420600,"lon2":-96.99236700},
+{"len_m":589,"wid_m":45.72,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":45.66878600,"lon1":-96.99581400,"rwy2":"22","lat2":45.67256700,"lon2":-96.99050800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

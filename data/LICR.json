@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LICR","name":"Reggio Calabria","lat":38.07315563,"lon":015.65394454,"rwys":2,"ils":1,"index":3203074,"path":"e010n30/e015n38"
+,"runways":[
+{"len_m":2021,"wid_m":45.11,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":38.08080007,"lon1":15.64516812,"rwy2":"33","lat2":38.06474825,"lon2":15.65605553},
+{"len_m":1869,"wid_m":45.11,"hdg":111,"surf":"Asphalt","rwy1":"11","lat1":38.07548302,"lon1":15.63812516,"rwy2":"29","lat2":38.06926157,"lon2":15.65792080}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":15,"surf":"Concrete","lat1":38.07100214,"lon1":15.65610315},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":15,"surf":"Concrete","lat1":38.07088934,"lon1":15.65643575},
+{"rwy1":"H3","len_m":7,"wid_m":7.92,"hdg":15,"surf":"Concrete","lat1":38.07083577,"lon1":15.65674547}
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":120.27,"desc":"APP"}
+]
+}

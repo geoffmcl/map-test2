@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMBD","name":"Murray Bridge","lat":-35.06396798,"lon":139.22534033,"rwys":2,"ils":0,"index":5230008,"path":"e130s40/e139s36"
+,"runways":[
+{"len_m":1072,"wid_m":15.85,"hdg":26,"surf":"Dirt","rwy1":"02","lat1":-35.06843152,"lon1":139.22399747,"rwy2":"20","lat2":-35.05979416,"lon2":139.22928179},
+{"len_m":800,"wid_m":46.94,"hdg":95,"surf":"Turf/grass","rwy1":"09","lat1":-35.06738256,"lon1":139.22464602,"rwy2":"27","lat2":-35.06804811,"lon2":139.23338005}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.5,"desc":"CTAF"}
+]
+}

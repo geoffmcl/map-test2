@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSFD","name":"Bob Wiley Fld","lat":43.39035075,"lon":-99.8423055,"rwys":2,"ils":0,"index":1319256,"path":"w100n40/w100n43"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":43.39409700,"lon1":-99.84728100,"rwy2":"31","lat2":43.38536100,"lon2":-99.83531900},
+{"len_m":883,"wid_m":45.72,"hdg":38,"surf":"Turf/grass","rwy1":"03","lat1":43.38785600,"lon1":-99.84670000,"rwy2":"21","lat2":43.39408900,"lon2":-99.83992200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

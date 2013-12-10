@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZGHA","name":"Huanghua","lat":28.1891585,"lon":113.219632,"rwys":1,"ils":2,"index":4808072,"path":"e110n20/e113n28"
+,"runways":[
+{"len_m":2600,"wid_m":45.11,"hdg":176,"surf":"Concrete","rwy1":"18","lat1":28.20087500,"lon1":113.21893300,"rwy2":"36","lat2":28.17744200,"lon2":113.22033100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"CHANGSHU"},
+{"type":"APP","freq":120.6,"desc":"CHANGSHU"}
+]
+}

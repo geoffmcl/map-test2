@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAFR","name":"Bryant Ahp","lat":61.266382,"lon":-149.653119,"rwys":1,"ils":0,"index":501201,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1272,"wid_m":30.48,"hdg":187,"surf":"Asphalt","rwy1":"16","lat1":61.27204900,"lon1":-149.65167400,"rwy2":"34","lat2":61.26071500,"lon2":-149.65456400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125,"desc":"CTAF"},
+{"type":"CLD","freq":128.65,"desc":"ANCHORAGE CLNC DEL"},
+{"type":"CLD","freq":119.4,"desc":"ANCHORAGE CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"ANCHORAGE APP/DEP"}
+]
+}

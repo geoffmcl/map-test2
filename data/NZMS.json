@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZMS","name":"Hood_aerodrome","lat":-40.97775300,"lon":175.63813000,"rwys":4,"ils":0,"index":5819458,"path":"e170s50/e175s41"
+,"runways":[
+{"len_m":1206,"wid_m":22.86,"hdg":77,"surf":"Asphalt","rwy1":"06","lat1":-40.97603800,"lon1":175.62783900,"rwy2":"24","lat2":-40.97369200,"lon2":175.64183700},
+{"len_m":1042,"wid_m":29.87,"hdg":124,"surf":"Turf/grass","rwy1":"10","lat1":-40.97230300,"lon1":175.62680600,"rwy2":"28","lat2":-40.97768100,"lon2":175.63696200},
+{"len_m":450,"wid_m":20.12,"hdg":77,"surf":"Turf/grass","rwy1":"06L","lat1":-40.97546100,"lon1":175.62729700,"rwy2":"24R","lat2":-40.97458500,"lon2":175.63252500},
+{"len_m":1061,"wid_m":29.87,"hdg":77,"surf":"Turf/grass","rwy1":"06R","lat1":-40.97676300,"lon1":175.62909500,"rwy2":"24L","lat2":-40.97469900,"lon2":175.64140900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.2,"desc":"CHRISTCHURCH FSS"},
+{"type":"ATIS","freq":132.8,"desc":"MASTERTON AWOS"},
+{"type":"CTAF","freq":119.1,"desc":"MASTERTON MULT"},
+{"type":"APP","freq":126.7,"desc":"OHAKEA APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSCD","name":"Merkel Fld Sylacauga Muni","lat":33.171835,"lon":-86.3055385,"rwys":1,"ils":0,"index":1531594,"path":"w090n30/w087n33"
+,"runways":[
+{"len_m":1642,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":33.17190600,"lon1":-86.31434400,"rwy2":"27","lat2":33.17176400,"lon2":-86.29673300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.8,"desc":"BIRMINGHAM APP/DEP"}
+]
+}

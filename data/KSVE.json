@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSVE","name":"Susanville Muni","lat":40.37543,"lon":-120.57306725,"rwys":2,"ils":0,"index":975001,"path":"w130n40/w121n40"
+,"runways":[
+{"len_m":1233,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"11","lat1":40.37979200,"lon1":-120.57748300,"rwy2":"29","lat2":40.37280000,"lon2":-120.56618900},
+{"len_m":664,"wid_m":18.29,"hdg":89,"surf":"Dirt","rwy1":"07","lat1":40.37453600,"lon1":-120.57820800,"rwy2":"25","lat2":40.37459200,"lon2":-120.57038900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.8,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

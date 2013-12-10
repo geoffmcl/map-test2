@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBCG","name":"Gold Coast International","lat":-28.16366800,"lon":153.50896300,"rwys":2,"ils":0,"index":5459826,"path":"e150s30/e153s29"
+,"runways":[
+{"len_m":580,"wid_m":17.98,"hdg":184,"surf":"Asphalt","rwy1":"17","lat1":-28.16411900,"lon1":153.50639100,"rwy2":"35","lat2":-28.16934300,"lon2":153.50597700},
+{"len_m":2337,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":-28.15621400,"lon1":153.50016000,"rwy2":"32","lat2":-28.17446400,"lon2":153.51209200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":153,"surf":"Asphalt","lat1":-28.16607800,"lon1":153.50820800},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":153,"surf":"Concrete","lat1":-28.16172800,"lon1":153.50776300}
+]
+,"radios":[
+{"type":"ATIS","freq":134.5,"desc":"YBCG ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"COOLY MULT"},
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CLD","freq":121.8,"desc":"COOLY GROUND CLD"},
+{"type":"GND","freq":121.8,"desc":"COOLY GND"},
+{"type":"TWR","freq":118.7,"desc":"COOLY TWR"},
+{"type":"APP","freq":123.5,"desc":"BRISBANE APP"},
+{"type":"APP","freq":119.5,"desc":"BRISBANE APP"}
+]
+}

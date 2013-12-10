@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDSN","name":"Neuhausen Ob Eck","lat":47.9768335,"lon":8.9051665,"rwys":1,"ils":0,"index":3089019,"path":"e000n40/e008n47"
+,"runways":[
+{"len_m":1247,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":47.97688900,"lon1":8.89681100,"rwy2":"27","lat2":47.97677800,"lon2":8.91352200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.5,"desc":"INFO"},
+{"type":"TWR","freq":124.7,"desc":"ZURICH INFO"}
+]
+}

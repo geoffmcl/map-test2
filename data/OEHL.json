@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEHL","name":"Hail","lat":27.437917,"lon":41.6862915,"rwys":1,"ils":1,"index":3628378,"path":"e040n20/e041n27"
+,"runways":[
+{"len_m":3719,"wid_m":45.11,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":27.45466700,"lon1":41.68750000,"rwy2":"36","lat2":27.42116700,"lon2":41.68508300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"TWR","freq":118.7,"desc":"INFO"},
+{"type":"TWR","freq":131.5,"desc":"SAUDIA RDO"}
+]
+}

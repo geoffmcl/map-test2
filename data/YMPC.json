@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMPC","name":"Point Cook","lat":-37.93134500,"lon":144.74774700,"rwys":3,"ils":0,"index":5311746,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1372,"wid_m":45.11,"hdg":163,"surf":"Asphalt","rwy1":"17","lat1":-37.92440200,"lon1":144.75189000,"rwy2":"35","lat2":-37.93628600,"lon2":144.75620400},
+{"len_m":1136,"wid_m":45.11,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":-37.93684400,"lon1":144.74760100,"rwy2":"22","lat2":-37.92867200,"lon2":144.75539500},
+{"len_m":1067,"wid_m":45.11,"hdg":259,"surf":"Dry_Lakebed","rwy1":"08","lat1":-37.93268100,"lon1":144.76005200,"rwy2":"26","lat2":-37.93451100,"lon2":144.74813400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.35,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.2,"desc":"POINT COOK MULT"},
+{"type":"TWR","freq":135.69,"desc":"MELBOURNE CNTR"}
+]
+}

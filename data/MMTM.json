@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMTM","name":"General Francisco Javier Mina Intl","lat":22.28953400,"lon":-097.86989600,"rwys":3,"ils":1,"index":1350672,"path":"w100n20/w098n22"
+,"runways":[
+{"len_m":2546,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":22.30198100,"lon1":-97.87411100,"rwy2":"31","lat2":22.28317200,"lon2":-97.85988600},
+{"len_m":1227,"wid_m":29.87,"hdg":190,"surf":"Asphalt","rwy1":"18","lat1":22.30063600,"lon1":-97.86227500,"rwy2":"36","lat2":22.28972800,"lon2":-97.86440000},
+{"len_m":1193,"wid_m":29.87,"hdg":99,"surf":"Asphalt","rwy1":"09","lat1":22.30248900,"lon1":-97.87316100,"rwy2":"27","lat2":22.30068300,"lon2":-97.86174400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TAMPICO TWR"},
+{"type":"APP","freq":120.3,"desc":"TAMPICO APP"}
+]
+}

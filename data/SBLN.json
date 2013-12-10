@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"SBLN","name":"Lins","lat":-21.6640385,"lon":-49.7305195,"rwys":1,"ils":0,"index":2134290,"path":"w050s30/w050s22"
+,"runways":[
+{"len_m":1720,"wid_m":32.00,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":-21.65939400,"lon1":-49.73718100,"rwy2":"32","lat2":-21.66868300,"lon2":-49.72385800}
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"RDO"}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":280.3,"dist_nm":0.1,"freq":400,"lat":-21.66350000,"lon":-49.73366700,"rng_nm":50,"alt_fmsl":1559,"id":"LNS","desc":"LINS NDB"},
+{"type":"NDB","hdg_t":199.2,"dist_nm":33.6,"freq":415,"lat":-22.19483300,"lon":-49.92933300,"rng_nm":54,"alt_fmsl":2122,"id":"MRA","desc":"MARILIA NDB"},
+{"type":"NDB","hdg_t":252.1,"dist_nm":45.2,"freq":345,"lat":-21.89383300,"lon":-50.50216700,"rng_nm":25,"alt_fmsl":1805,"id":"TUP","desc":"TUPA NDB"},
+{"type":"NDB","hdg_t":308.7,"dist_nm":50,"freq":265,"lat":-21.13933300,"lon":-50.42666700,"rng_nm":75,"alt_fmsl":1361,"id":"ARA","desc":"ARACATUBA NDB"},
+{"type":"NDB","hdg_t":138.3,"dist_nm":52.1,"freq":380,"lat":-22.31400000,"lon":-49.10716700,"rng_nm":50,"alt_fmsl":0,"id":"BRU","desc":"BAURU NDB"},
+{"type":"NDB","hdg_t":19.7,"dist_nm":54,"freq":420,"lat":-20.81324700,"lon":-49.40601400,"rng_nm":100,"alt_fmsl":1782,"id":"JRP","desc":"RIO PRETO NDB"},
+{"type":"NDB","hdg_t":214.3,"dist_nm":71.1,"freq":275,"lat":-22.64483300,"lon":-50.45300000,"rng_nm":25,"alt_fmsl":1850,"id":"ASS","desc":"ASSIS NDB"},
+{"type":"NDB","hdg_t":187.3,"dist_nm":78.9,"freq":315,"lat":-22.97350000,"lon":-49.91233300,"rng_nm":50,"alt_fmsl":1531,"id":"ORH","desc":"OURINHOS NDB"},
+{"type":"NDB","hdg_t":20.2,"dist_nm":88.3,"freq":220,"lat":-20.27695300,"lon":-49.18959400,"rng_nm":50,"alt_fmsl":1599,"id":"FTR","desc":"FRONTEIRA NDB"},
+{"type":"NDB","hdg_t":96,"dist_nm":89.3,"freq":205,"lat":-21.81300000,"lon":-48.13950000,"rng_nm":50,"alt_fmsl":2514,"id":"AAQ","desc":"ARARAQUARA NDB"},
+{"type":"NDB","hdg_t":44.7,"dist_nm":90.7,"freq":360,"lat":-20.58216700,"lon":-48.59666700,"rng_nm":50,"alt_fmsl":1898,"id":"BRT","desc":"BARRETOS NDB"},
+{"type":"NDB","hdg_t":250.9,"dist_nm":96.8,"freq":225,"lat":-22.18333300,"lon":-51.37516700,"rng_nm":50,"alt_fmsl":0,"id":"PRR","desc":"PRUDENTE NDB"},
+{"type":"VOR","hdg_t":251.8,"dist_nm":99.3,"freq":113.5,"lat":-22.17305600,"lon":-51.42635300,"rng_nm":200,"alt_fmsl":1477,"id":"PRR","desc":"PRUDENTE VOR-DME"}
+]
+}

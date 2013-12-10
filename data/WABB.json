@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WABB","name":"Biak Frans Kaisiepo","lat":-01.19208836,"lon":136.10766025,"rwys":1,"ils":1,"index":5183024,"path":"e130s10/e136s02"
+,"runways":[
+{"len_m":3565,"wid_m":46.02,"hdg":109,"surf":"Concrete","rwy1":"11","lat1":-1.18472500,"lon1":136.09285800,"rwy2":"29","lat2":-1.19531900,"lon2":136.12311700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"BIAK APP"},
+{"type":"APP","freq":121.2,"desc":"BIAK APP"}
+]
+}

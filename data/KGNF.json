@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGNF","name":"Grenada Muni","lat":33.8319315,"lon":-89.79781875,"rwys":2,"ils":1,"index":1482480,"path":"w090n30/w090n33"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":33.84143100,"lon1":-89.80852200,"rwy2":"31","lat2":33.82860300,"lon2":-89.79135000},
+{"len_m":1523,"wid_m":30.48,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":33.82460300,"lon1":-89.80217500,"rwy2":"22","lat2":33.83308900,"lon2":-89.78922800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

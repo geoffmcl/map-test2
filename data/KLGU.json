@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLGU","name":"Logan Cache","lat":41.78889702,"lon":-111.854622956667,"rwys":3,"ils":0,"index":1122544,"path":"w120n40/w112n41"
+,"runways":[
+{"len_m":2771,"wid_m":29.87,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":41.80584400,"lon1":-111.84763900,"rwy2":"35","lat2":41.78091900,"lon2":-111.84922200},
+{"len_m":1523,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"10","lat1":41.79096100,"lon1":-111.86510000,"rwy2":"28","lat2":41.78363567,"lon2":-111.84960566},
+{"len_m":1411,"wid_m":46.02,"hdg":64,"surf":"Gravel","rwy1":"05","lat1":41.78325000,"lon1":-111.86573301,"rwy2":"23","lat2":41.78877244,"lon2":-111.85043806}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZUUU","name":"Shuangliu","lat":30.578528,"lon":103.947086,"rwys":1,"ils":2,"index":4644387,"path":"e100n30/e103n30"
+,"runways":[
+{"len_m":3597,"wid_m":60.05,"hdg":21,"surf":"Concrete","rwy1":"02","lat1":30.56347800,"lon1":103.94007800,"rwy2":"20","lat2":30.59357800,"lon2":103.95409400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"GND","freq":121.85,"desc":"CHENGDU GND"},
+{"type":"TWR","freq":123,"desc":"CHENGDU TWR"},
+{"type":"TWR","freq":118.85,"desc":"CHENGDU TWR"},
+{"type":"APP","freq":125.6,"desc":"CHENGDU APP AREA 1"},
+{"type":"APP","freq":120.2,"desc":"CHENGDU APP AREA 1"},
+{"type":"APP","freq":119.7,"desc":"CHENGDU APP AREA 2"}
+]
+}

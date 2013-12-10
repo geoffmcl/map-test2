@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLVJ","name":"Pearland Rgnl","lat":29.5212875,"lon":-95.2421515,"rwys":1,"ils":0,"index":1383907,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":1314,"wid_m":22.86,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":29.52612500,"lon1":-95.24607200,"rwy2":"32","lat2":29.51645000,"lon2":-95.23823100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP/DEP"}
+]
+}

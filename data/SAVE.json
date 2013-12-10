@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAVE","name":"Esquel","lat":-42.90794725,"lon":-71.13947,"rwys":2,"ils":1,"index":1772483,"path":"w080s50/w072s43"
+,"runways":[
+{"len_m":2402,"wid_m":39.93,"hdg":57,"surf":"Concrete","rwy1":"04","lat1":-42.90978600,"lon1":-71.14801900,"rwy2":"22","lat2":-42.89800600,"lon2":-71.12334200},
+{"len_m":1296,"wid_m":29.87,"hdg":90,"surf":"Dirt","rwy1":"08","lat1":-42.91197500,"lon1":-71.15120000,"rwy2":"26","lat2":-42.91202200,"lon2":-71.13531900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":118.1,"desc":"APP/TWR"},
+{"type":"APP","freq":118.8,"desc":"APP/TWR"}
+]
+}

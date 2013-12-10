@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLTT","name":"Lady Elliot Island","lat":-24.11325436,"lon":152.71506561,"rwys":1,"ils":0,"index":5443706,"path":"e150s30/e152s25"
+,"runways":[
+{"len_m":612,"wid_m":49.07,"hdg":4,"surf":"Turf/grass","rwy1":"17","lat1":-24.11564668,"lon1":152.71532805,"rwy2":"35","lat2":-24.11013282,"lon2":152.71580348}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.9,"desc":"LADY ELLIOTT ISLAND MULT"},
+{"type":"TWR","freq":124.1,"desc":"BRISBANE CENTRE CNTR"}
+]
+}

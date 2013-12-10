@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UASK","name":"Ust Kamenogorsk","lat":50.0341535,"lon":82.49941225,"rwys":2,"ils":2,"index":4301569,"path":"e080n50/e082n50"
+,"runways":[
+{"len_m":2510,"wid_m":42.06,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":50.04393900,"lon1":82.48088600,"rwy2":"30","lat2":50.02925000,"lon2":82.50749400},
+{"len_m":1855,"wid_m":60.96,"hdg":130,"surf":"Turf/grass","rwy1":"12L","lat1":50.03715300,"lon1":82.49481900,"rwy2":"30R","lat2":50.02627200,"lon2":82.51445000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.5,"desc":"TWR"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGXU","name":"Raf Linton On Ouse","lat":54.04507417,"lon":-001.25072858,"rwys":2,"ils":1,"index":2925570,"path":"w010n50/w002n54"
+,"runways":[
+{"len_m":1831,"wid_m":46.02,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":54.04238335,"lon1":-1.26041641,"rwy2":"21","lat2":54.05641265,"lon2":-1.24579559},
+{"len_m":1338,"wid_m":46.02,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":54.04947763,"lon1":-1.26266531,"rwy2":"28","lat2":54.04819437,"lon2":-1.24234669}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"Linton Ground"},
+{"type":"TWR","freq":122.1,"desc":"Linton Tower"},
+{"type":"APP","freq":118.55,"desc":"Linton Approach"},
+{"type":"DEP","freq":118.55,"desc":"Linton Departure"}
+]
+}

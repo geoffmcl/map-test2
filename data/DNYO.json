@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DNYO","name":"Yola","lat":9.263721,"lon":12.43125325,"rwys":2,"ils":1,"index":3152083,"path":"e010n00/e012n09"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":9.27105300,"lon1":12.42818600,"rwy2":"35","lat2":9.24430600,"lon2":12.43268600},
+{"len_m":1573,"wid_m":29.87,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":9.27396900,"lon1":12.42629700,"rwy2":"31","lat2":9.26555600,"lon2":12.43784400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"}
+]
+}

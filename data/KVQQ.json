@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVQQ","name":"Cecil Fld","lat":30.22251100,"lon":-081.88554400,"rwys":4,"ils":1,"index":1613320,"path":"w090n30/w082n30"
+,"runways":[
+{"len_m":3811,"wid_m":60.96,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":30.23502200,"lon1":-81.87410600,"rwy2":"36R","lat2":30.20064400,"lon2":-81.87379700},
+{"len_m":2439,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"09R","lat1":30.21565000,"lon1":-81.89166400,"rwy2":"27L","lat2":30.21582200,"lon2":-81.86632800},
+{"len_m":2439,"wid_m":60.96,"hdg":179,"surf":"Asphalt","rwy1":"18R","lat1":30.23500800,"lon1":-81.87632200,"rwy2":"36L","lat2":30.21300600,"lon2":-81.87612200},
+{"len_m":2439,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"09L","lat1":30.21757500,"lon1":-81.89168300,"rwy2":"27R","lat2":30.21774700,"lon2":-81.86635000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.27,"desc":"ATIS"},
+{"type":"CTAF","freq":126.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.62,"desc":"GND"},
+{"type":"TWR","freq":126.1,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"JACKSONVILLE APP/DEP"}
+]
+}

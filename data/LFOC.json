@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOC","name":"Chateaudun Ab","lat":48.0581415,"lon":1.376625,"rwys":1,"ils":0,"index":2974337,"path":"e000n40/e001n48"
+,"runways":[
+{"len_m":2301,"wid_m":45.11,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":48.05958600,"lon1":1.36133600,"rwy2":"28","lat2":48.05669700,"lon2":1.39191400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":125.62,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"BRICY APP"},
+{"type":"APP","freq":123.3,"desc":"GCA"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBKL","name":"Burke Lakefront","lat":41.51208900,"lon":-081.68890400,"rwys":2,"ils":1,"index":1614049,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1889,"wid_m":45.72,"hdg":57,"surf":"Asphalt","rwy1":"06L","lat1":41.51385000,"lon1":-81.69265600,"rwy2":"24R","lat2":41.52288600,"lon2":-81.67348300},
+{"len_m":1584,"wid_m":30.48,"hdg":57,"surf":"Asphalt","rwy1":"06R","lat1":41.51268900,"lon1":-81.69168600,"rwy2":"24L","lat2":41.52026400,"lon2":-81.67560800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.25,"desc":"ASOS"},
+{"type":"ATIS","freq":125.25,"desc":"ATIS"},
+{"type":"CTAF","freq":124.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"LAKEFRONT TWR"},
+{"type":"APP","freq":125.35,"desc":"CLEVELAND APP/DEP"}
+]
+}

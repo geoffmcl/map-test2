@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKPD","name":"Pardubice","lat":50.01611009,"lon":015.73979661,"rwys":1,"ils":1,"index":3203842,"path":"e010n50/e015n50"
+,"runways":[
+{"len_m":2498,"wid_m":74.98,"hdg":92,"surf":"Concrete","rwy1":"09","lat1":50.01400976,"lon1":15.72116417,"rwy2":"27","lat2":50.01291555,"lon2":15.75597983}
+]
+,"helipads":[
+{"rwy1":"H01","len_m":14,"wid_m":14.02,"hdg":15,"surf":"Concrete","lat1":50.01515571,"lon1":15.74518579},
+{"rwy1":"H02","len_m":14,"wid_m":14.02,"hdg":15,"surf":"Concrete","lat1":50.01512380,"lon1":15.74617271}
+]
+,"radios":[
+{"type":"TWR","freq":120.15,"desc":"MTWR"}
+]
+}

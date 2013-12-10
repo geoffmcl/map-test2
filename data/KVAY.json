@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVAY","name":"South Jersey Rgnl","lat":39.942889,"lon":-74.845718,"rwys":1,"ils":0,"index":1728632,"path":"w080n30/w075n39"
+,"runways":[
+{"len_m":1191,"wid_m":15.24,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":39.94103900,"lon1":-74.85226400,"rwy2":"26","lat2":39.94473900,"lon2":-74.83917200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"ASOS"},
+{"type":"CTAF","freq":121.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+}

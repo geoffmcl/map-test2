@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIFP","name":"Badr Air Base","lat":32.620084,"lon":51.691995,"rwys":2,"ils":0,"index":3792546,"path":"e050n30/e051n32"
+,"runways":[
+{"len_m":3327,"wid_m":42.67,"hdg":85,"surf":"Asphalt","rwy1":"08L","lat1":32.61986100,"lon1":51.67935000,"rwy2":"26R","lat2":32.62235800,"lon2":51.71468300},
+{"len_m":447,"wid_m":29.57,"hdg":85,"surf":"Asphalt","rwy1":"08R","lat1":32.61891400,"lon1":51.68459700,"rwy2":"26L","lat2":32.61920300,"lon2":51.68935000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

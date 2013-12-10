@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMCF","name":"Macdill Afb","lat":27.849339,"lon":-82.5212135,"rwys":1,"ils":2,"index":1596785,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":3480,"wid_m":46.02,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":27.83739200,"lon1":-82.53268300,"rwy2":"22","lat2":27.86128600,"lon2":-82.50974400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.82,"desc":"ATIS"},
+{"type":"GND","freq":118.57,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":124.95,"desc":"TAMPA APP"},
+{"type":"DEP","freq":119.65,"desc":"TAMPA DEP"},
+{"type":"DEP","freq":119.9,"desc":"TAMPA DEP"}
+]
+}

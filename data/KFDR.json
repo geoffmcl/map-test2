@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFDR","name":"Frederick Muni","lat":34.3503346,"lon":-98.9827509,"rwys":5,"ils":0,"index":1335056,"path":"w100n30/w099n34"
+,"runways":[
+{"len_m":1827,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":34.36027800,"lon1":-98.98933600,"rwy2":"35L","lat2":34.34380000,"lon2":-98.98935000},
+{"len_m":1445,"wid_m":18.29,"hdg":43,"surf":"Concrete","rwy1":"03","lat1":34.34633300,"lon1":-98.98805600,"rwy2":"21","lat2":34.35572200,"lon2":-98.97715800},
+{"len_m":1386,"wid_m":22.86,"hdg":135,"surf":"Concrete","rwy1":"12","lat1":34.35828900,"lon1":-98.98781700,"rwy2":"30","lat2":34.34944400,"lon2":-98.97716400},
+{"len_m":1316,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":34.34380000,"lon1":-98.98930600,"rwy2":"26","lat2":34.34380000,"lon2":-98.97499700},
+{"len_m":969,"wid_m":15.24,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":34.35530800,"lon1":-98.97715800,"rwy2":"35R","lat2":34.34657200,"lon2":-98.97716700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"ALTUS APP/DEP"}
+]
+}

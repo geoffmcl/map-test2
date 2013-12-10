@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KANB","name":"Anniston Metropolitan","lat":33.58916900,"lon":-085.85810900,"rwys":1,"ils":1,"index":1548000,"path":"w090n30/w086n33"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":33.58179181,"lon1":-85.86671660,"rwy2":"23","lat2":33.59454819,"lon2":-85.84951140}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"APP","freq":125.45,"desc":"BIRMINGHAM APP/DEP"}
+]
+}

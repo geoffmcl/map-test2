@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTUP","name":"Tupelo Rgnl","lat":34.268111,"lon":-88.769894,"rwys":1,"ils":1,"index":1498896,"path":"w090n30/w089n34"
+,"runways":[
+{"len_m":1980,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":34.27703900,"lon1":-88.76991900,"rwy2":"36","lat2":34.25918300,"lon2":-88.76986900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"ASOS"},
+{"type":"CTAF","freq":118.77,"desc":"CTAF"},
+{"type":"GND","freq":121.82,"desc":"GND"},
+{"type":"TWR","freq":118.77,"desc":"TWR"}
+]
+}

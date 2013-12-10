@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAZ","name":"Kapadokya","lat":38.771865,"lon":34.5345485,"rwys":1,"ils":1,"index":3514418,"path":"e030n30/e034n38"
+,"runways":[
+{"len_m":2987,"wid_m":45.11,"hdg":117,"surf":"Concrete","rwy1":"11","lat1":38.77802200,"lon1":34.51926400,"rwy2":"29","lat2":38.76570800,"lon2":34.54983300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.35,"desc":"TWR"},
+{"type":"TWR","freq":128.45,"desc":"TWR"},
+{"type":"TWR","freq":128.8,"desc":"TWR"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":119.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":120.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":122.1,"desc":"ESENBOGA APP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GCLB","name":"El Berriel","lat":27.78313528,"lon":-015.51016475,"rwys":1,"ils":0,"index":2694513,"path":"w020n20/w016n27"
+,"runways":[
+{"len_m":821,"wid_m":21.03,"hdg":68,"surf":"Asphalt","rwy1":"7","lat1":27.78105791,"lon1":-15.51118500,"rwy2":"25","lat2":27.78377925,"lon2":-15.50343636}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":-15,"surf":"Asphalt","lat1":27.78256387,"lon1":-15.51006444},
+{"rwy1":"H2","len_m":4,"wid_m":4.57,"hdg":-15,"surf":"Asphalt","lat1":27.78247406,"lon1":-15.51006480},
+{"rwy1":"H3","len_m":4,"wid_m":4.57,"hdg":-15,"surf":"Asphalt","lat1":27.78262773,"lon1":-15.50997664},
+{"rwy1":"H4","len_m":4,"wid_m":4.57,"hdg":-15,"surf":"Asphalt","lat1":27.78251364,"lon1":-15.50993759},
+{"rwy1":"H5","len_m":10,"wid_m":10.06,"hdg":-15,"surf":"Concrete","lat1":27.78334301,"lon1":-15.51053541}
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"TWR"}
+]
+}

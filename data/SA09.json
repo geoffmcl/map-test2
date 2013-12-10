@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SA09","name":"Base Aeronaval Punta Indio","lat":-35.35194227,"lon":-057.29345820,"rwys":3,"ils":0,"index":2002346,"path":"w060s40/w058s36"
+,"runways":[
+{"len_m":2126,"wid_m":42.98,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":-35.35914871,"lon1":-57.29786957,"rwy2":"23","lat2":-35.34605245,"lon2":-57.28077987},
+{"len_m":1399,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":-35.34895916,"lon1":-57.30542087,"rwy2":"25","lat2":-35.34370453,"lon2":-57.29143017},
+{"len_m":1200,"wid_m":21.03,"hdg":111,"surf":"Asphalt","rwy1":"12","lat1":-35.34271292,"lon1":-57.30190153,"rwy2":"30","lat2":-35.34673752,"lon2":-57.28964234}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.8,"desc":"Punta Indio TWR"}
+]
+}

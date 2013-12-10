@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEQA","name":"Captain Jack Thomas El Dorado","lat":37.774222,"lon":-96.8175985,"rwys":2,"ils":0,"index":1368048,"path":"w100n30/w097n37"
+,"runways":[
+{"len_m":1279,"wid_m":22.86,"hdg":158,"surf":"Concrete","rwy1":"15","lat1":37.77928259,"lon1":-96.81985553,"rwy2":"33","lat2":37.76853941,"lon2":-96.81459247},
+{"len_m":1282,"wid_m":22.86,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":37.77033092,"lon1":-96.82296770,"rwy2":"22","lat2":37.77873508,"lon2":-96.81297830}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.8,"desc":"WICHITA APP/DEP"}
+]
+}

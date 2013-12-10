@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NTTH","name":"Huahine","lat":-16.68945500,"lon":-151.02826200,"rwys":1,"ils":0,"index":463447,"path":"w160s20/w152s17"
+,"runways":[
+{"len_m":1512,"wid_m":20.12,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":-16.68848600,"lon1":-151.02863900,"rwy2":"25","lat2":-16.68599400,"lon2":-151.01469700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.3,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":134.7,"desc":"TAHITI CON"}
+]
+}

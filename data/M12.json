@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M12","name":"Steele Muni","lat":36.0950715,"lon":-89.86097275,"rwys":2,"ils":0,"index":1482624,"path":"w090n30/w090n36"
+,"runways":[
+{"len_m":1202,"wid_m":14.63,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":36.09972500,"lon1":-89.85861100,"rwy2":"36","lat2":36.08888900,"lon2":-89.85861100},
+{"len_m":1211,"wid_m":27.43,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":36.09194700,"lon1":-89.86805800,"rwy2":"22","lat2":36.09972500,"lon2":-89.85861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRYV","name":"Watertown Muni","lat":43.169845,"lon":-88.7229465,"rwys":2,"ils":0,"index":1499465,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1350,"wid_m":22.86,"hdg":53,"surf":"Asphalt","rwy1":"05","lat1":43.16521900,"lon1":-88.73076900,"rwy2":"23","lat2":43.17250000,"lon2":-88.71747500},
+{"len_m":860,"wid_m":22.86,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":43.17235800,"lon1":-88.72663100,"rwy2":"29","lat2":43.16930300,"lon2":-88.71691100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.15,"desc":"MADISON APP/DEP"}
+]
+}

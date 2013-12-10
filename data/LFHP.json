@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFHP","name":"Le Puy Loudes","lat":45.07535904,"lon":003.76304358,"rwys":2,"ils":1,"index":3006915,"path":"e000n40/e003n45"
+,"runways":[
+{"len_m":1448,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":45.08629315,"lon1":3.75826038,"rwy2":"33","lat2":45.07489315,"lon2":3.76718038},
+{"len_m":753,"wid_m":57.91,"hdg":150,"surf":"Turf/grass","rwy1":"15R","lat1":45.08348184,"lon1":3.75908819,"rwy2":"33L","lat2":45.07755544,"lon2":3.76373939}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"LE PUY INFO"}
+]
+}

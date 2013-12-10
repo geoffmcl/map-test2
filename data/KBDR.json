@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBDR","name":"Igor I Sikorsky Mem","lat":41.16361620,"lon":-073.12770080,"rwys":3,"ils":1,"index":1745099,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":1450,"wid_m":45.72,"hdg":97,"surf":"Asphalt","rwy1":"11","lat1":41.16623900,"lon1":-73.13496100,"rwy2":"29","lat2":41.16445800,"lon2":-73.11783900},
+{"len_m":1425,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":41.15704400,"lon1":-73.13195600,"rwy2":"24","lat2":41.16611900,"lon2":-73.11994400},
+{"len_m":1032,"wid_m":45.72,"hdg":162,"surf":"Asphalt","rwy1":"17","lat1":41.17055600,"lon1":-73.12805300,"rwy2":"35","lat2":41.16166700,"lon2":-73.12444200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.15,"desc":"ATIS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"BRIDGEPORT TWR"},
+{"type":"APP","freq":124.07,"desc":"NEW YORK APP/DEP"}
+]
+}

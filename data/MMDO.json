@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMDO","name":"Durango Intl","lat":24.12698900,"lon":-104.53191400,"rwys":1,"ils":0,"index":1236105,"path":"w110n20/w105n24"
+,"runways":[
+{"len_m":2905,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"03","lat1":24.11389400,"lon1":-104.53686100,"rwy2":"21","lat2":24.13449200,"lon2":-104.51916400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.1,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

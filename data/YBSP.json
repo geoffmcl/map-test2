@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBSP","name":"Bond Springs","lat":-23.51247087,"lon":133.84442422,"rwys":2,"ils":0,"index":5132443,"path":"e130s30/e133s24"
+,"runways":[
+{"len_m":822,"wid_m":25.91,"hdg":28,"surf":"Dirt","rwy1":"2","lat1":-23.52371333,"lon1":133.85276000,"rwy2":"20","lat2":-23.51721659,"lon2":133.85665256},
+{"len_m":1993,"wid_m":75.90,"hdg":118,"surf":"Dirt","rwy1":"12","lat1":-23.51237123,"lon1":133.84083426,"rwy2":"30","lat2":-23.52108164,"lon2":133.85791382}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

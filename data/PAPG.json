@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPG","name":"Petersburg James A Johnson","lat":56.801651,"lon":-132.9452885,"rwys":1,"ils":1,"index":779440,"path":"w140n50/w133n56"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":70,"surf":"Asphalt","rwy1":"04","lat1":56.79894400,"lon1":-132.95941900,"rwy2":"22","lat2":56.80435800,"lon2":-132.93115800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMJD","name":"Picayune Muni","lat":30.487485,"lon":-89.651193,"rwys":1,"ils":0,"index":1482265,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.49435600,"lon1":-89.65118300,"rwy2":"36","lat2":30.48061400,"lon2":-89.65120300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"GULFPORT"}
+]
+}

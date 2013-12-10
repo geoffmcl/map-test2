@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EYKS","name":"S Dariaus","lat":54.880035,"lon":23.88172775,"rwys":2,"ils":0,"index":3335227,"path":"e020n50/e023n54"
+,"runways":[
+{"len_m":1142,"wid_m":49.99,"hdg":93,"surf":"Asphalt","rwy1":"09R","lat1":54.88055600,"lon1":23.87305600,"rwy2":"27L","lat2":54.88000000,"lon2":23.89083300},
+{"len_m":843,"wid_m":60.05,"hdg":95,"surf":"Turf/grass","rwy1":"09L","lat1":54.88015809,"lon1":23.87497163,"rwy2":"27R","lat2":54.87942591,"lon2":23.88805037}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.6,"desc":"KAUNAS INFO"},
+{"type":"TWR","freq":118.5,"desc":"KAUNAS TWR"},
+{"type":"APP","freq":124.2,"desc":"KAUNAS APCH"}
+]
+}

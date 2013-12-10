@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMNN","name":"Marion Muni","lat":40.6165645,"lon":-83.0634645,"rwys":2,"ils":1,"index":1581219,"path":"w090n40/w084n40"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":40.61142200,"lon1":-83.07133100,"rwy2":"25","lat2":40.61829400,"lon2":-83.05574400},
+{"len_m":1066,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"13","lat1":40.62066700,"lon1":-83.06885000,"rwy2":"31","lat2":40.61587500,"lon2":-83.05793300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.2,"desc":"MANSFIELD APP/DEP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRYN","name":"Ryan Fld","lat":32.13949541,"lon":-111.17405444,"rwys":3,"ils":1,"index":1121931,"path":"w120n30/w112n32"
+,"runways":[
+{"len_m":1680,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"06R","lat1":32.14014416,"lon1":-111.17932217,"rwy2":"24L","lat2":32.14524784,"lon2":-111.16255536},
+{"len_m":1496,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"06L","lat1":32.14121660,"lon1":-111.18251175,"rwy2":"24R","lat2":32.14576340,"lon2":-111.16757387},
+{"len_m":1227,"wid_m":22.86,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":32.14536219,"lon1":-111.18037013,"rwy2":"33","lat2":32.13453017,"lon2":-111.17770878}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.35,"desc":"AWOS 3"},
+{"type":"CTAF","freq":125.8,"desc":"CTAF"},
+{"type":"GND","freq":118.2,"desc":"GND"},
+{"type":"TWR","freq":125.8,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"TUCSON APP/DEP"}
+]
+}

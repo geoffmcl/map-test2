@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFMK","name":"Salvaza","lat":43.21401400,"lon":002.30963100,"rwys":1,"ils":1,"index":2990409,"path":"e000n40/e002n43"
+,"runways":[
+{"len_m":2098,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":43.21714000,"lon1":2.29265700,"rwy2":"28","lat2":43.21510400,"lon2":2.31833500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"LFMK ATIS"},
+{"type":"CTAF","freq":121,"desc":"CARCASSONNE MULT"},
+{"type":"TWR","freq":121,"desc":"CARCASSONNE TWR"}
+]
+}

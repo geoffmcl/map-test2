@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YEVD","name":"Evans Head","lat":-29.10264721,"lon":153.42052599,"rwys":1,"ils":0,"index":5459769,"path":"e150s30/e153s30"
+,"runways":[
+{"len_m":1148,"wid_m":17.98,"hdg":186,"surf":"Asphalt","rwy1":"18","lat1":-29.09426094,"lon1":153.42025720,"rwy2":"36","lat2":-29.10455306,"lon2":153.41885266}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"BRISBANE CNTR FSS"},
+{"type":"ATIS","freq":124.2,"desc":"CTAF FSS"},
+{"type":"CTAF","freq":124.2,"desc":"CTAF CTAF"}
+]
+}

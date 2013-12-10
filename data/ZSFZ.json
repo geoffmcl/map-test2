@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSFZ","name":"Changle","lat":25.935064,"lon":119.663272,"rwys":1,"ils":2,"index":4906234,"path":"e110n20/e119n25"
+,"runways":[
+{"len_m":3609,"wid_m":45.72,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":25.92051400,"lon1":119.65517500,"rwy2":"21","lat2":25.94961400,"lon2":119.67136900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"FUZHOU GND"},
+{"type":"TWR","freq":118.45,"desc":"FUZHOU TWR"},
+{"type":"TWR","freq":124.35,"desc":"FUZHOU TWR"},
+{"type":"APP","freq":119.45,"desc":"FUZHOU APP"},
+{"type":"APP","freq":133.05,"desc":"FUZHOU APP"}
+]
+}

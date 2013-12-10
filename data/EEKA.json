@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EEKA","name":"Kardla","lat":58.9907895,"lon":22.830869,"rwys":1,"ils":0,"index":3319099,"path":"e020n50/e022n58"
+,"runways":[
+{"len_m":1520,"wid_m":29.87,"hdg":147,"surf":"Asphalt","rwy1":"14","lat1":58.99653600,"lon1":22.82374200,"rwy2":"32","lat2":58.98504300,"lon2":22.83799600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.3,"desc":"AFIS"},
+{"type":"TWR","freq":130.3,"desc":"TWR"}
+]
+}

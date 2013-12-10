@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"W90","name":"New London","lat":37.271804,"lon":-79.335835,"rwys":1,"ils":0,"index":1646546,"path":"w080n30/w080n37"
+,"runways":[
+{"len_m":941,"wid_m":12.19,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":37.27583300,"lon1":-79.33750300,"rwy2":"35","lat2":37.26777500,"lon2":-79.33416700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135,"desc":"ROANOKE APP/DEP"}
+]
+}

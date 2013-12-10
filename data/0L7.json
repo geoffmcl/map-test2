@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"0L7","name":"Jean","lat":35.76822225,"lon":-115.329611,"rwys":2,"ils":0,"index":1056626,"path":"w120n30/w116n35"
+,"runways":[
+{"len_m":1404,"wid_m":22.86,"hdg":31,"surf":"Asphalt","rwy1":"02L","lat1":35.76336100,"lon1":-115.33391700,"rwy2":"20R","lat2":35.77411100,"lon2":-115.32572200},
+{"len_m":1128,"wid_m":18.29,"hdg":31,"surf":"Asphalt","rwy1":"02R","lat1":35.76338900,"lon1":-115.33269400,"rwy2":"20L","lat2":35.77202800,"lon2":-115.32611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

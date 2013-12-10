@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDRM","name":"Drummond Island","lat":46.009525,"lon":-83.74339225,"rwys":2,"ils":0,"index":1581569,"path":"w090n40/w084n46"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":46.00695000,"lon1":-83.75386100,"rwy2":"26","lat2":46.01031900,"lon2":-83.73887500},
+{"len_m":779,"wid_m":45.72,"hdg":172,"surf":"Turf/grass","rwy1":"18","lat1":46.01388900,"lon1":-83.74111100,"rwy2":"36","lat2":46.00694200,"lon2":-83.73972200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

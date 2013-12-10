@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHML","name":"Hamilton","lat":-37.64923903,"lon":142.05898424,"rwys":2,"ils":0,"index":5278992,"path":"e140s40/e142s38"
+,"runways":[
+{"len_m":1407,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":-37.64135949,"lon1":142.06196522,"rwy2":"35","lat2":-37.65403801,"lon2":142.06193728},
+{"len_m":1239,"wid_m":25.91,"hdg":113,"surf":"Dirt","rwy1":"10","lat1":-37.64598632,"lon1":142.05931565,"rwy2":"28","lat2":-37.65042187,"lon2":142.07219943}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.2,"desc":"HAMILTON AERO MULT"},
+{"type":"CTAF","freq":125.8,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

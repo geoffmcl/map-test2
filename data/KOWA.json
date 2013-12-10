@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOWA","name":"Owatonna Degner Rgnl","lat":44.1234,"lon":-93.260618,"rwys":1,"ils":1,"index":1417602,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":123,"surf":"Concrete","rwy1":"12","lat1":44.12761700,"lon1":-93.26930000,"rwy2":"30","lat2":44.11918300,"lon2":-93.25193600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+}

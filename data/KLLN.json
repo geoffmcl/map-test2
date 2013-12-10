@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLLN","name":"Levelland Muni","lat":33.55514025,"lon":-102.37226825,"rwys":2,"ils":0,"index":1269474,"path":"w110n30/w103n33"
+,"runways":[
+{"len_m":1862,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":33.55820000,"lon1":-102.37246100,"rwy2":"35","lat2":33.54141700,"lon2":-102.37300600},
+{"len_m":631,"wid_m":16.76,"hdg":91,"surf":"Asphalt","rwy1":"08","lat1":33.56055000,"lon1":-102.37520300,"rwy2":"26","lat2":33.56039400,"lon2":-102.36840300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"LUBBOCK APP/DEP"}
+]
+}

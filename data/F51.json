@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F51","name":"Winnsboro Muni","lat":32.938828,"lon":-95.278868,"rwys":1,"ils":0,"index":1384122,"path":"w100n30/w096n32"
+,"runways":[
+{"len_m":979,"wid_m":15.24,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":32.93462800,"lon1":-95.28048300,"rwy2":"19","lat2":32.94302800,"lon2":-95.27725300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":128.75,"desc":"LONGVIEW APP/DEP"}
+]
+}

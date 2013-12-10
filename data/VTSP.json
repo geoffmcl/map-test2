@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTSP","name":"Phuket Intl","lat":08.11051463,"lon":098.32320381,"rwys":1,"ils":1,"index":4561026,"path":"e090n00/e098n08"
+,"runways":[
+{"len_m":3010,"wid_m":45.11,"hdg":84,"surf":"Asphalt","rwy1":"09","lat1":8.11189200,"lon1":98.30327500,"rwy2":"27","lat2":8.11450600,"lon2":98.33046700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124.7,"desc":"APP"}
+]
+}

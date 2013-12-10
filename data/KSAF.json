@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAF","name":"Santa Fe Muni","lat":35.61835100,"lon":-106.08460200,"rwys":3,"ils":1,"index":1204067,"path":"w110n30/w107n35"
+,"runways":[
+{"len_m":2541,"wid_m":45.72,"hdg":35,"surf":"Asphalt","rwy1":"02","lat1":35.60840000,"lon1":-106.09612800,"rwy2":"20","lat2":35.62713900,"lon2":-106.07999200},
+{"len_m":1921,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"15","lat1":35.62440800,"lon1":-106.09155300,"rwy2":"33","lat2":35.60755300,"lon2":-106.08667200},
+{"len_m":1920,"wid_m":22.86,"hdg":111,"surf":"Asphalt","rwy1":"10","lat1":35.62056100,"lon1":-106.10138600,"rwy2":"28","lat2":35.61416700,"lon2":-106.08168900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.55,"desc":"ATIS"},
+{"type":"CTAF","freq":119.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"}
+]
+}

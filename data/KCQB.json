@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCQB","name":"Chandler Rgnl","lat":35.724082,"lon":-96.820278,"rwys":1,"ils":0,"index":1367912,"path":"w100n30/w097n35"
+,"runways":[
+{"len_m":1218,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.72957500,"lon1":-96.82025000,"rwy2":"35","lat2":35.71858900,"lon2":-96.82030600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKSG","name":"A 511","lat":36.9622125,"lon":127.0310705,"rwys":1,"ils":1,"index":5038008,"path":"e120n30/e127n36"
+,"runways":[
+{"len_m":2504,"wid_m":45.72,"hdg":131,"surf":"Asphalt","rwy1":"14","lat1":36.96967500,"lon1":127.02052200,"rwy2":"32","lat2":36.95475000,"lon2":127.04161900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.5,"desc":"DESIDERIO GND"},
+{"type":"TWR","freq":122.5,"desc":"DESIDERIO TWR"},
+{"type":"APP","freq":127.9,"desc":"OSAN APP/DEP"}
+]
+}

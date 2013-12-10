@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HLLQ","name":"El Beida","lat":32.7894555,"lon":21.95835825,"rwys":2,"ils":1,"index":3301043,"path":"e020n30/e021n32"
+,"runways":[
+{"len_m":3604,"wid_m":45.11,"hdg":102,"surf":"Asphalt","rwy1":"10","lat1":32.79447800,"lon1":21.93411100,"rwy2":"28","lat2":32.78731400,"lon2":21.97163900},
+{"len_m":1894,"wid_m":57.91,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":32.78058300,"lon1":21.95886100,"rwy2":"21","lat2":32.79544700,"lon2":21.96882200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"BENGHAZI APP"},
+{"type":"APP","freq":129.2,"desc":"BENGHAZI APP"}
+]
+}

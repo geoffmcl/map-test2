@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGLM","name":"Limnos","lat":39.92419000,"lon":025.23313300,"rwys":1,"ils":0,"index":3367032,"path":"e020n30/e025n39"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":43,"surf":"Asphalt","rwy1":"04R","lat1":39.90717200,"lon1":25.22434700,"rwy2":"22L","lat2":39.92688300,"lon2":25.24835000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.5,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"APP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBD","name":"Bordeaux Merignac","lat":44.83243235,"lon":-000.70212293,"rwys":2,"ils":2,"index":2941361,"path":"w010n40/w001n44"
+,"runways":[
+{"len_m":3100,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":44.81921870,"lon1":-0.72896149,"rwy2":"23","lat2":44.83874314,"lon2":-0.70095469},
+{"len_m":2422,"wid_m":45.11,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":44.83162304,"lon1":-0.72924702,"rwy2":"29","lat2":44.82546392,"lon2":-0.69985752}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":28.04,"hdg":0,"surf":"Asphalt","lat1":44.83837287,"lon1":-0.69648097}
+]
+,"radios":[
+{"type":"ATIS","freq":131.15,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"Ground"},
+{"type":"TWR","freq":118.3,"desc":"Tower"},
+{"type":"APP","freq":118.6,"desc":"Approach"}
+]
+}

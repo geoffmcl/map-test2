@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPAG","name":"Port Augusta","lat":-32.50903602,"lon":137.71824785,"rwys":1,"ils":0,"index":5197402,"path":"e130s40/e137s33"
+,"runways":[
+{"len_m":1649,"wid_m":29.87,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":-32.49796653,"lon1":137.71101863,"rwy2":"33","lat2":-32.51188120,"lon2":137.71722034}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"ACTIVATE LIGHTS ONLY MULTICOM"},
+{"type":"CTAF","freq":123.9,"desc":"MELBOURNE CENTRE MULTICOM"},
+{"type":"CTAF","freq":126.7,"desc":"PORT AUGUSTA CTAF"}
+]
+}

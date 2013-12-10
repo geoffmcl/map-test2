@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDBP","name":"Pinnow","lat":53.61526910,"lon":011.55789632,"rwys":2,"ils":0,"index":3138530,"path":"e010n50/e011n53"
+,"runways":[
+{"len_m":801,"wid_m":39.93,"hdg":15,"surf":"Turf/grass","rwy1":"9","lat1":53.61239094,"lon1":11.56163458,"rwy2":"27","lat2":53.61934525,"lon2":11.56477611},
+{"len_m":501,"wid_m":39.93,"hdg":125,"surf":"Turf/grass","rwy1":"11","lat1":53.61525881,"lon1":11.56002002,"rwy2":"29","lat2":53.61266722,"lon2":11.56622030}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"Pinnow Info"}
+]
+}

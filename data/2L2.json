@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"2L2","name":"Sandhill Ranch","lat":36.93193,"lon":-111.96962139,"rwys":1,"ils":0,"index":1122232,"path":"w120n30/w112n36"
+,"runways":[
+{"len_m":804,"wid_m":30.48,"hdg":327,"surf":"Dirt","rwy1":"32","lat1":36.92885944,"lon1":-111.96722107,"rwy2":"14","lat2":36.93500056,"lon2":-111.97202171}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":89.9,"dist_nm":25.1,"freq":117.6,"lat":36.93105556,"lon":-111.44744444,"rng_nm":40,"alt_fmsl":4277,"id":"PGA","desc":"PAGE VOR-DME"},
+{"type":"VOR","hdg_t":340.6,"dist_nm":48.1,"freq":112.8,"lat":37.68919444,"lon":-112.30388889,"rng_nm":130,"alt_fmsl":9040,"id":"BCE","desc":"BRYCE CANYON VORTAC"},
+{"type":"NDB","hdg_t":272.2,"dist_nm":50,"freq":403,"lat":36.96005556,"lon":-113.00916667,"rng_nm":50,"alt_fmsl":0,"id":"AZC","desc":"COLORADO CITY NDB"},
+{"type":"VOR","hdg_t":188.3,"dist_nm":58.8,"freq":113.1,"lat":35.96033333,"lon":-112.14605556,"rng_nm":40,"alt_fmsl":6670,"id":"GCN","desc":"GRAND CANYON VOR-DME"},
+{"type":"VOR","hdg_t":144.9,"dist_nm":59.2,"freq":113.5,"lat":36.12133333,"lon":-111.26958333,"rng_nm":130,"alt_fmsl":5045,"id":"TBC","desc":"TUBA CITY VORTAC"},
+{"type":"NDB","hdg_t":315.9,"dist_nm":71.9,"freq":217,"lat":37.79122222,"lon":-113.02144444,"rng_nm":50,"alt_fmsl":0,"id":"EC","desc":"MEGGI NDB"},
+{"type":"VOR","hdg_t":314.6,"dist_nm":73.4,"freq":117.3,"lat":37.78733333,"lon":-113.06822222,"rng_nm":130,"alt_fmsl":5464,"id":"CDC","desc":"CEDAR CITY VOR-DME"},
+{"type":"VOR","hdg_t":274.4,"dist_nm":74.6,"freq":108.6,"lat":37.01761111,"lon":-113.51788889,"rng_nm":40,"alt_fmsl":2848,"id":"UTI","desc":"ST GEORGE VOR-DME"},
+{"type":"VOR","hdg_t":330.1,"dist_nm":99,"freq":112.1,"lat":38.36036111,"lon":-113.01322222,"rng_nm":130,"alt_fmsl":4980,"id":"MLF","desc":"MILFORD VORTAC"},
+{"type":"VOR","hdg_t":33.8,"dist_nm":107.5,"freq":115.9,"lat":38.41680556,"lon":-110.69972222,"rng_nm":130,"alt_fmsl":4430,"id":"HVE","desc":"HANKSVILLE VORTAC"}
+]
+}

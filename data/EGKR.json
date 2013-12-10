@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGKR","name":"Redhill","lat":51.21601240,"lon":-000.13836905,"rwys":4,"ils":0,"index":2941771,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":896,"wid_m":29.87,"hdg":74,"surf":"Turf/grass","rwy1":"08R","lat1":51.21251700,"lon1":-0.14485800,"rwy2":"26L","lat2":51.21465600,"lon2":-0.13248300},
+{"len_m":850,"wid_m":24.99,"hdg":1,"surf":"Turf/grass","rwy1":"01","lat1":51.21131100,"lon1":-0.14084400,"rwy2":"19","lat2":51.21895294,"lon2":-0.14062877},
+{"len_m":682,"wid_m":22.86,"hdg":74,"surf":"Turf/grass","rwy1":"08L","lat1":51.21356400,"lon1":-0.14324700,"rwy2":"26R","lat2":51.21521100,"lon2":-0.13383100},
+{"len_m":162,"wid_m":17.98,"hdg":175,"surf":"Turf/grass","rwy1":"17","lat1":51.21326162,"lon1":-0.14587934,"rwy2":"35","lat2":51.21180179,"lon2":-0.14571154}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":0,"surf":"Concrete","lat1":51.21616698,"lon1":-0.14287373},
+{"rwy1":"H2","len_m":39,"wid_m":39.93,"hdg":0,"surf":"Turf/grass","lat1":51.21174878,"lon1":-0.13818374},
+{"rwy1":"H3","len_m":39,"wid_m":39.93,"hdg":0,"surf":"Turf/grass","lat1":51.21072315,"lon1":-0.14350112}
+]
+,"radios":[
+{"type":"ATIS","freq":125.3,"desc":"Redhill Information"},
+{"type":"TWR","freq":119.6,"desc":"Redhill Tower"}
+]
+}

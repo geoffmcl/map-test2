@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"H71","name":"Mid America Industrial","lat":36.2253945,"lon":-95.330064,"rwys":1,"ils":0,"index":1384330,"path":"w100n30/w096n36"
+,"runways":[
+{"len_m":1522,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":36.23225600,"lon1":-95.33006100,"rwy2":"36","lat2":36.21853300,"lon2":-95.33006700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.1,"desc":"TULSA APP/DEP"}
+]
+}

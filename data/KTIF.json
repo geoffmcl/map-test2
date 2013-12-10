@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTIF","name":"Thomas County","lat":41.96271089,"lon":-100.57031308,"rwys":1,"ils":0,"index":1302777,"path":"w110n40/w101n41"
+,"runways":[
+{"len_m":1345,"wid_m":17.98,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":41.96559216,"lon1":-100.57744969,"rwy2":"29","lat2":41.95982962,"lon2":-100.56317646}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

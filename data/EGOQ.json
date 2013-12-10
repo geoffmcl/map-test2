@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGOQ","name":"Mona","lat":53.25931974,"lon":-4.37402911,"rwys":1,"ils":0,"index":2876370,"path":"w010n50/w005n53"
+,"runways":[
+{"len_m":1665,"wid_m":46.02,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":53.25337169,"lon1":-4.38160383,"rwy2":"22","lat2":53.26526779,"lon2":-4.36645439}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.75,"desc":"TWR"},
+{"type":"APP","freq":122.22,"desc":"VALLEY APP"},
+{"type":"APP","freq":125.22,"desc":"RDR"}
+]
+}

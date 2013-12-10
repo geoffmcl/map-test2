@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESVF","name":"Frolunda","lat":59.46153600,"lon":017.72657000,"rwys":2,"ils":0,"index":3237210,"path":"e010n50/e017n59"
+,"runways":[
+{"len_m":611,"wid_m":38.10,"hdg":159,"surf":"Turf/grass","rwy1":"16","lat1":59.46147456,"lon1":17.72870681,"rwy2":"34","lat2":59.45631944,"lon2":17.73239919},
+{"len_m":336,"wid_m":22.86,"hdg":70,"surf":"Turf/grass","rwy1":"07","lat1":59.45576401,"lon1":17.71929641,"rwy2":"25","lat2":59.45679599,"lon2":17.72487559}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"FROLUNDA ULTRAFLYG"}
+]
+}

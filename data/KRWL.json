@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRWL","name":"Rawlins Muni Harvey Fld","lat":41.79898404,"lon":-107.20716861,"rwys":2,"ils":0,"index":1188083,"path":"w110n40/w108n41"
+,"runways":[
+{"len_m":2132,"wid_m":29.87,"hdg":53,"surf":"Asphalt","rwy1":"04","lat1":41.80007932,"lon1":-107.21016639,"rwy2":"22","lat2":41.81136568,"lon2":-107.18940270},
+{"len_m":1307,"wid_m":17.98,"hdg":115,"surf":"Asphalt","rwy1":"10","lat1":41.80816451,"lon1":-107.20842705,"rwy2":"28","lat2":41.80318262,"lon2":-107.19417013}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":22.86,"hdg":-107,"surf":"Asphalt","lat1":41.79945238,"lon1":-107.20677346}
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

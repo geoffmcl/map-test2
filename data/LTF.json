@@ -1,0 +1,11 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTF","name":"Leitre","lat":-02.83441270,"lon":141.62792933,"rwys":1,"ils":0,"index":5264845,"path":"e140s10/e141s03"
+,"runways":[
+{"len_m":864,"wid_m":52.12,"hdg":113,"surf":"Turf/grass","rwy1":"11","lat1":-2.83186624,"lon1":141.62147479,"rwy2":"29","lat2":-2.83500514,"lon2":141.62859442}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"LTF AWOS"}
+]
+}

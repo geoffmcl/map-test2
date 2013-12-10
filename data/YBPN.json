@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBPN","name":"Proserpine Whitsunday Coast","lat":-20.48973705,"lon":148.55082405,"rwys":2,"ils":0,"index":5378404,"path":"e140s30/e148s21"
+,"runways":[
+{"len_m":2073,"wid_m":45.11,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":-20.49114431,"lon1":148.54411785,"rwy2":"29","lat2":-20.49890332,"lon2":148.56221019},
+{"len_m":1251,"wid_m":29.87,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":-20.49383111,"lon1":148.55532616,"rwy2":"24","lat2":-20.48944900,"lon2":148.56638500}
+]
+,"helipads":[
+{"rwy1":"H4","len_m":15,"wid_m":15.85,"hdg":148,"surf":"Asphalt","lat1":-20.48980481,"lon1":148.55835637}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

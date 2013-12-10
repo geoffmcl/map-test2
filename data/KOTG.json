@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOTG","name":"Worthington Muni","lat":43.65515775,"lon":-95.57971375,"rwys":2,"ils":0,"index":1384809,"path":"w100n40/w096n43"
+,"runways":[
+{"len_m":1678,"wid_m":30.48,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":43.65763600,"lon1":-95.58540800,"rwy2":"29","lat2":43.65131700,"lon2":-95.56651100},
+{"len_m":1280,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":43.66160000,"lon1":-95.58347200,"rwy2":"35","lat2":43.65007800,"lon2":-95.58346400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

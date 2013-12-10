@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSEN","name":"Serpentine","lat":-32.39327000,"lon":115.87138900,"rwys":2,"ils":0,"index":4836963,"path":"e110s40/e115s33"
+,"runways":[
+{"len_m":907,"wid_m":14.94,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":-32.39763000,"lon1":115.86763400,"rwy2":"23","lat2":-32.39190200,"lon2":115.87452600},
+{"len_m":686,"wid_m":17.98,"hdg":268,"surf":"Turf/grass","rwy1":"09","lat1":-32.39733400,"lon1":115.87529200,"rwy2":"27","lat2":-32.39750600,"lon2":115.86799800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

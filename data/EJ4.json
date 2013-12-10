@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EJ4","name":"Claresholm Indus","lat":50.0037123333333,"lon":-113.628612166667,"rwys":3,"ils":0,"index":1090305,"path":"w120n50/w114n50"
+,"runways":[
+{"len_m":948,"wid_m":30.48,"hdg":47,"surf":"Asphalt","rwy1":"03","lat1":50.00286400,"lon1":-113.63658300,"rwy2":"21","lat2":50.00856900,"lon2":-113.62675600},
+{"len_m":919,"wid_m":30.48,"hdg":107,"surf":"Asphalt","rwy1":"09","lat1":50.00222500,"lon1":-113.63583100,"rwy2":"27","lat2":49.99972200,"lon2":-113.62361100},
+{"len_m":897,"wid_m":30.48,"hdg":164,"surf":"Asphalt","rwy1":"14","lat1":50.00833600,"lon1":-113.62611100,"rwy2":"32","lat2":50.00055800,"lon2":-113.62278100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

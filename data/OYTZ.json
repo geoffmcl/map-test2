@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OYTZ","name":"Taiz Intl","lat":13.6859625,"lon":44.139057,"rwys":1,"ils":0,"index":3676649,"path":"e040n10/e044n13"
+,"runways":[
+{"len_m":3060,"wid_m":45.11,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":13.67225300,"lon1":44.13717800,"rwy2":"19","lat2":13.69967200,"lon2":44.14093600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"TAIZ GND"},
+{"type":"TWR","freq":118.5,"desc":"TAIZ TWR"}
+]
+}

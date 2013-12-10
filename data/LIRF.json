@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIRF","name":"Roma Fiumicino Leonardo Da Vinci","lat":41.79351700,"lon":012.25160500,"rwys":3,"ils":5,"index":3154161,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":3904,"wid_m":60.05,"hdg":162,"surf":"Asphalt","rwy1":"16R","lat1":41.81551700,"lon1":12.22636100,"rwy2":"34L","lat2":41.78197500,"lon2":12.24040600},
+{"len_m":3907,"wid_m":60.05,"hdg":162,"surf":"Asphalt","rwy1":"16L","lat1":41.84599200,"lon1":12.26148300,"rwy2":"34R","lat2":41.81242200,"lon2":12.27553600},
+{"len_m":3308,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":41.79931900,"lon1":12.23212200,"rwy2":"25","lat2":41.80962800,"lon2":12.26947500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.85,"desc":"ATIS"},
+{"type":"CLD","freq":121.72,"desc":"FIUME RAMP"},
+{"type":"GND","freq":121.8,"desc":"FIUME GND/APRON"},
+{"type":"GND","freq":121.9,"desc":"FIUME GND/APRON"},
+{"type":"GND","freq":122.12,"desc":"FIUME GND/APRON"},
+{"type":"TWR","freq":118.7,"desc":"FIUME TWR"},
+{"type":"TWR","freq":127.62,"desc":"FIUME TWR"},
+{"type":"APP","freq":119.2,"desc":"ROMA DIRECTOR ARR"}
+]
+}

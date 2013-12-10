@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOUN","name":"University Of Oklahoma Westheimer","lat":35.24539232,"lon":-97.472102655,"rwys":2,"ils":2,"index":1351498,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1441,"wid_m":29.87,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":35.23626345,"lon1":-97.47580785,"rwy2":"21","lat2":35.24673804,"lon2":-97.46643583},
+{"len_m":1585,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.25642938,"lon1":-97.47311700,"rwy2":"35","lat2":35.24213843,"lon2":-97.47304994}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"WESTHEIMER TWR"},
+{"type":"APP","freq":120.45,"desc":"OKE CITY APP/DEP"}
+]
+}

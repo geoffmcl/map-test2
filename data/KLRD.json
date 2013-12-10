@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLRD","name":"Laredo Intl","lat":27.54079118,"lon":-099.46876196,"rwys":3,"ils":1,"index":1318242,"path":"w100n20/w100n27"
+,"runways":[
+{"len_m":2509,"wid_m":45.72,"hdg":182,"surf":"Concrete","rwy1":"17L","lat1":27.55636900,"lon1":-99.45933300,"rwy2":"35R","lat2":27.53374200,"lon2":-99.46047000},
+{"len_m":2664,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17R","lat1":27.55649100,"lon1":-99.46242000,"rwy2":"35L","lat2":27.53246700,"lon2":-99.46362400},
+{"len_m":1806,"wid_m":45.72,"hdg":147,"surf":"Concrete","rwy1":"14","lat1":27.54945100,"lon1":-99.46672800,"rwy2":"32","lat2":27.53573100,"lon2":-99.45685000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.77,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFMP","name":"Rivesaltes","lat":42.74098200,"lon":002.86968300,"rwys":2,"ils":1,"index":2990379,"path":"e000n40/e002n42"
+,"runways":[
+{"len_m":2495,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"15","lat1":42.75416500,"lon1":2.86173200,"rwy2":"33","lat2":42.73505500,"lon2":2.87775000},
+{"len_m":1291,"wid_m":20.12,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":42.73989800,"lon1":2.86518800,"rwy2":"31","lat2":42.73283200,"lon2":2.87770600}
+]
+,"helipads":[
+{"rwy1":"H26","len_m":24,"wid_m":24.99,"hdg":2,"surf":"Turf/grass","lat1":42.73986100,"lon1":2.86719300},
+{"rwy1":"H27","len_m":24,"wid_m":24.99,"hdg":2,"surf":"Turf/grass","lat1":42.74003300,"lon1":2.86706400},
+{"rwy1":"H28","len_m":24,"wid_m":24.99,"hdg":2,"surf":"Turf/grass","lat1":42.74011000,"lon1":2.86681700},
+{"rwy1":"H29","len_m":14,"wid_m":14.94,"hdg":2,"surf":"Asphalt","lat1":42.73275000,"lon1":2.87504400}
+]
+,"radios":[
+{"type":"ATIS","freq":127.87,"desc":"LFMP ATIS"},
+{"type":"TWR","freq":118.3,"desc":"PERPIGNAN TWR"},
+{"type":"TWR","freq":121.9,"desc":"PERPIGNAN TWR"},
+{"type":"APP","freq":120.75,"desc":"PERPIGNAN APP"}
+]
+}

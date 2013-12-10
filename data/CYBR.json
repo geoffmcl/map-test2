@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYBR","name":"Brandon Muni","lat":49.9092828333333,"lon":-99.9495163333333,"rwys":3,"ils":1,"index":1319672,"path":"w100n40/w100n49"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":49.90710600,"lon1":-99.96591700,"rwy2":"26","lat2":49.90750000,"lon2":-99.93834200},
+{"len_m":914,"wid_m":18.29,"hdg":148,"surf":"Gravel","rwy1":"14","lat1":49.91353300,"lon1":-99.94888300,"rwy2":"32","lat2":49.90652200,"lon2":-99.94223300},
+{"len_m":829,"wid_m":30.48,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":49.90702500,"lon1":-99.95288100,"rwy2":"20","lat2":49.91401100,"lon2":-99.94884200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"MF"}
+]
+}

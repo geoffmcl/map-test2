@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MYEF","name":"Exuma Intl","lat":23.56264300,"lon":-075.87220000,"rwys":1,"ils":0,"index":1711200,"path":"w080n20/w076n23"
+,"runways":[
+{"len_m":2149,"wid_m":45.72,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":23.56693900,"lon1":-75.88693900,"rwy2":"30","lat2":23.55798100,"lon2":-75.86826400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"AFIS"},
+{"type":"APP","freq":127.6,"desc":"NASSAU APP"}
+]
+}

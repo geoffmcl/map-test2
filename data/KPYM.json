@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPYM","name":"Plymouth Muni","lat":41.90859200,"lon":-070.73487900,"rwys":2,"ils":1,"index":1794297,"path":"w080n40/w071n41"
+,"runways":[
+{"len_m":1325,"wid_m":22.86,"hdg":39,"surf":"Asphalt","rwy1":"06","lat1":41.90423600,"lon1":-70.73651900,"rwy2":"24","lat2":41.91343600,"lon2":-70.72634400},
+{"len_m":1021,"wid_m":22.86,"hdg":129,"surf":"Asphalt","rwy1":"15","lat1":41.91220300,"lon1":-70.73009700,"rwy2":"33","lat2":41.90634200,"lon2":-70.72061400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.75,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"CAPE APP/DEP"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRBD","name":"Dallas Executive","lat":32.67779677,"lon":-096.87161739,"rwys":2,"ils":1,"index":1367720,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1966,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":32.68731900,"lon1":-96.87643100,"rwy2":"31","lat2":32.67476700,"lon2":-96.86162800},
+{"len_m":1158,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.68580000,"lon1":-96.86679200,"rwy2":"35","lat2":32.67535800,"lon2":-96.86681900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.35,"desc":"ATIS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.62,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.3,"desc":"EXECUTIVE TWR"},
+{"type":"APP","freq":125.2,"desc":"RGNL APP/DEP"}
+]
+}

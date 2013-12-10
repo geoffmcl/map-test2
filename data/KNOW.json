@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNOW","name":"Port Angeles Cgas","lat":48.14081139,"lon":-123.411191655,"rwys":1,"ils":0,"index":926346,"path":"w130n40/w124n48"
+,"runways":[
+{"len_m":1371,"wid_m":46.02,"hdg":93,"surf":"Asphalt","rwy1":"07","lat1":48.14167500,"lon1":-123.42315300,"rwy2":"25","lat2":48.14091100,"lon2":-123.40475600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":31,"wid_m":31.09,"hdg":-123,"surf":"Asphalt","lat1":48.14032978,"lon1":-123.40842881}
+]
+,"radios":[
+{"type":"CTAF","freq":122.98,"desc":"CTAF"},
+{"type":"APP","freq":118.2,"desc":"WHIDBEY APP"}
+]
+}

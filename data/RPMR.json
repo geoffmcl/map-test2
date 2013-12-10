@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPMR","name":"Tambler","lat":6.0581235,"lon":125.096199,"rwys":1,"ils":1,"index":5003264,"path":"e120n00/e125n06"
+,"runways":[
+{"len_m":3227,"wid_m":45.11,"hdg":173,"surf":"Concrete","rwy1":"17","lat1":6.07260800,"lon1":125.09443100,"rwy2":"35","lat2":6.04363900,"lon2":125.09796700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+}

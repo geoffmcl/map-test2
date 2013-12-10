@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZTU","name":"Timaru","lat":-44.299949,"lon":171.227566166667,"rwys":3,"ils":0,"index":5753704,"path":"e170s50/e171s45"
+,"runways":[
+{"len_m":1259,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"02R","lat1":-44.30309700,"lon1":171.22095000,"rwy2":"20L","lat2":-44.29448600,"lon2":171.23121900},
+{"len_m":1170,"wid_m":60.05,"hdg":40,"surf":"Turf/grass","rwy1":"02L","lat1":-44.30143100,"lon1":171.22150000,"rwy2":"20R","lat2":-44.29337200,"lon2":171.23093900},
+{"len_m":1089,"wid_m":89.92,"hdg":132,"surf":"Turf/grass","rwy1":"11","lat1":-44.30031900,"lon1":171.22538900,"rwy2":"29","lat2":-44.30698900,"lon2":171.23540000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.5,"desc":"CTAF"}
+]
+}

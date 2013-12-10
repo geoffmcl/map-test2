@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZKT","name":"Kaitaia","lat":-35.06534600,"lon":173.28456100,"rwys":2,"ils":0,"index":5787065,"path":"e170s40/e173s36"
+,"runways":[
+{"len_m":1431,"wid_m":29.87,"hdg":142,"surf":"Asphalt","rwy1":"12","lat1":-35.06425000,"lon1":173.28121900,"rwy2":"30","lat2":-35.07452800,"lon2":173.29070000},
+{"len_m":1283,"wid_m":29.87,"hdg":196,"surf":"Gravel","rwy1":"18","lat1":-35.06944200,"lon1":173.28778100,"rwy2":"36","lat2":-35.08055600,"lon2":173.28388900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":127.1,"desc":"CHRISTCHURCH FIS"}
+]
+}

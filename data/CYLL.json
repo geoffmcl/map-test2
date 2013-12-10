@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYLL","name":"Lloydminster","lat":53.30971125,"lon":-110.0802025,"rwys":2,"ils":0,"index":1139667,"path":"w120n50/w111n53"
+,"runways":[
+{"len_m":1666,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":53.30916700,"lon1":-110.08471900,"rwy2":"26","lat2":53.30916700,"lon2":-110.05971900},
+{"len_m":457,"wid_m":30.48,"hdg":122,"surf":"Turf/grass","rwy1":"11","lat1":53.31134400,"lon1":-110.09109400,"rwy2":"29","lat2":53.30916700,"lon2":-110.08527800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF LLOYDMINSTER RDO"}
+]
+}

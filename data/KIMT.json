@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIMT","name":"Ford","lat":45.81800375,"lon":-88.11493325,"rwys":2,"ils":1,"index":1499635,"path":"w090n40/w089n45"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":45.81051700,"lon1":-88.11513900,"rwy2":"19","lat2":45.82818100,"lon2":-88.11173600},
+{"len_m":1161,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":45.82015300,"lon1":-88.12198600,"rwy2":"31","lat2":45.81316400,"lon2":-88.11087200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

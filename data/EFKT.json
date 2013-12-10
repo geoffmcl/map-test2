@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFKT","name":"Kittila","lat":67.69566300,"lon":024.85803600,"rwys":1,"ils":1,"index":3352425,"path":"e020n60/e024n67"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"16","lat1":67.71190300,"lon1":24.83976400,"rwy2":"34","lat2":67.69014200,"lon2":24.85393300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.85,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"},
+{"type":"TWR","freq":118.95,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+}

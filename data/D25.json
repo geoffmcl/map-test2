@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"D25","name":"Manitowish Waters","lat":46.120078,"lon":-89.88213275,"rwys":2,"ils":0,"index":1483264,"path":"w090n40/w090n46"
+,"runways":[
+{"len_m":1066,"wid_m":18.29,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":46.12533600,"lon1":-89.88856400,"rwy2":"32","lat2":46.11785300,"lon2":-89.87993100},
+{"len_m":1005,"wid_m":36.58,"hdg":43,"surf":"Turf/grass","rwy1":"04","lat1":46.11529200,"lon1":-89.88451400,"rwy2":"22","lat2":46.12183100,"lon2":-89.87552200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

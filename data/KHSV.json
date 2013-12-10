@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHSV","name":"Huntsville Intl Carl T Jones Fld","lat":34.64682000,"lon":-086.77239200,"rwys":2,"ils":4,"index":1531688,"path":"w090n30/w087n34"
+,"runways":[
+{"len_m":3840,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":34.65278600,"lon1":-86.78210000,"rwy2":"36L","lat2":34.61817200,"lon2":-86.78279200},
+{"len_m":3049,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18L","lat1":34.65310000,"lon1":-86.76546400,"rwy2":"36R","lat2":34.62561100,"lon2":-86.76601700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"ATIS"},
+{"type":"CTAF","freq":127.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.6,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"APP"},
+{"type":"APP","freq":118.75,"desc":"APP"},
+{"type":"APP","freq":118.05,"desc":"APP"},
+{"type":"DEP","freq":118.05,"desc":"DEP"},
+{"type":"DEP","freq":125.6,"desc":"DEP"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KROW","name":"Roswell Intl Air Center","lat":33.3022826666667,"lon":-104.531742666667,"rwys":3,"ils":1,"index":1236689,"path":"w110n30/w105n33"
+,"runways":[
+{"len_m":3961,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":33.28609400,"lon1":-104.53690300,"rwy2":"21","lat2":33.31129400,"lon2":-104.50675600},
+{"len_m":3046,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.31513300,"lon1":-104.53920300,"rwy2":"35","lat2":33.28766100,"lon2":-104.53927200},
+{"len_m":2262,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":33.31398600,"lon1":-104.54273300,"rwy2":"30","lat2":33.29952800,"lon2":-104.52558900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.87,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":120.35,"desc":"APP/DEP"},
+{"type":"APP","freq":119.6,"desc":"APP/DEP"}
+]
+}

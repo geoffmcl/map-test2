@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DXXX","name":"Gnassingbe Eyadema Intl","lat":06.16907140,"lon":001.25265009,"rwys":1,"ils":1,"index":2971658,"path":"e000n00/e001n06"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":6.15512800,"lon1":1.24568600,"rwy2":"22","lat2":6.17634400,"lon2":1.26259700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"A/G VOICE RDO"},
+{"type":"TWR","freq":120.7,"desc":"TWR"}
+]
+}

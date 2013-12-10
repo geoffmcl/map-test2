@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSCN","name":"Changbei Intl","lat":28.865,"lon":115.900001,"rwys":1,"ils":2,"index":4840883,"path":"e110n20/e115n28"
+,"runways":[
+{"len_m":2800,"wid_m":45.11,"hdg":22,"surf":"Concrete","rwy1":"03","lat1":28.85337200,"lon1":115.89439400,"rwy2":"21","lat2":28.87662800,"lon2":115.90560800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"NANCHANG GND"},
+{"type":"TWR","freq":118.65,"desc":"NANCHANG TWR"},
+{"type":"TWR","freq":130,"desc":"NANCHANG TWR"}
+]
+}

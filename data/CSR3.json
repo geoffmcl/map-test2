@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CSR3","name":"Victoriaville","lat":46.112778,"lon":-71.9288885,"rwys":1,"ils":0,"index":1778176,"path":"w080n40/w072n46"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":46.10888900,"lon1":-71.93444400,"rwy2":"24","lat2":46.11666700,"lon2":-71.92333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.35,"desc":"MONTREAL CNTR"}
+]
+}

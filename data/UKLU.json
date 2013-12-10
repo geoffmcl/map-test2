@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKLU","name":"Uzhhorod Intl","lat":48.6342775,"lon":22.2633555,"rwys":1,"ils":0,"index":3318441,"path":"e020n40/e022n48"
+,"runways":[
+{"len_m":2041,"wid_m":39.93,"hdg":103,"surf":"Concrete","rwy1":"10","lat1":48.63639700,"lon1":22.24987800,"rwy2":"28","lat2":48.63215800,"lon2":22.27683300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.5,"desc":"TWR"},
+{"type":"APP","freq":121.9,"desc":"APP"}
+]
+}

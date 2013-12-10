@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UEMT","name":"Ust-nera","lat":64.55057901,"lon":143.12197273,"rwys":2,"ils":0,"index":5301920,"path":"e140n60/e143n64"
+,"runways":[
+{"len_m":2023,"wid_m":49.99,"hdg":69,"surf":"Gravel","rwy1":"08","lat1":64.54620775,"lon1":143.08933266,"rwy2":"26","lat2":64.55266829,"lon2":143.12876348},
+{"len_m":1562,"wid_m":49.99,"hdg":61,"surf":"Gravel","rwy1":"07","lat1":64.54642461,"lon1":143.09920237,"rwy2":"25","lat2":64.55321139,"lon2":143.12769418}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124,"desc":"Ust-Nera Tower"}
+]
+}

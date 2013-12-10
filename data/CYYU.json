@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYU","name":"Kapuskasing","lat":49.41416625,"lon":-82.4674305,"rwys":2,"ils":0,"index":1598170,"path":"w090n40/w083n49"
+,"runways":[
+{"len_m":1689,"wid_m":30.48,"hdg":156,"surf":"Asphalt","rwy1":"17","lat1":49.42083300,"lon1":-82.47222200,"rwy2":"35","lat2":49.40694400,"lon2":-82.46277800},
+{"len_m":1148,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":49.41444400,"lon1":-82.47527800,"rwy2":"28","lat2":49.41444400,"lon2":-82.45944400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSWF","name":"Stewart","lat":41.51034661,"lon":-074.09469021,"rwys":2,"ils":2,"index":1728739,"path":"w080n40/w075n41"
+,"runways":[
+{"len_m":3633,"wid_m":46.02,"hdg":78,"surf":"Asphalt","rwy1":"09","lat1":41.50080535,"lon1":-74.13071630,"rwy2":"27","lat2":41.50740030,"lon2":-74.08809105},
+{"len_m":1832,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":41.51110630,"lon1":-74.10129048,"rwy2":"34","lat2":41.49687728,"lon2":-74.09019007}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-74,"surf":"Concrete","lat1":41.50146278,"lon1":-74.09718340},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":-74,"surf":"Concrete","lat1":41.49380195,"lon1":-74.09217144}
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"Stewart ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"Stewart Unicom"},
+{"type":"GND","freq":121.9,"desc":"Stewart Ground"},
+{"type":"TWR","freq":121,"desc":"Stewart Tower"},
+{"type":"APP","freq":132.75,"desc":"New York Departure"}
+]
+}

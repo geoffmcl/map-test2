@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UESS","name":"Chersky","lat":68.74486954,"lon":161.33092676,"rwys":1,"ils":0,"index":5597096,"path":"e160n60/e161n68"
+,"runways":[
+{"len_m":1472,"wid_m":35.05,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":68.74463166,"lon1":161.32406809,"rwy2":"31","lat2":68.73779734,"lon2":161.35519160}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":25,"wid_m":24.08,"hdg":161,"surf":"Concrete","lat1":68.74318885,"lon1":161.33348230}
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"Chersky Meteo"},
+{"type":"GND","freq":131.8,"desc":"Chersky Transit"},
+{"type":"TWR","freq":124,"desc":"Chersky Start"}
+]
+}

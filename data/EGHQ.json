@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGHQ","name":"Newquay","lat":50.44075878,"lon":-4.99533419,"rwys":1,"ils":1,"index":2876184,"path":"w010n50/w005n50"
+,"runways":[
+{"len_m":2751,"wid_m":45.11,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":50.44703900,"lon1":-5.01201400,"rwy2":"30","lat2":50.43447856,"lon2":-4.97865439}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"Newquay Information"},
+{"type":"GND","freq":121.95,"desc":"Newquay Ground"},
+{"type":"TWR","freq":127.92,"desc":"Newquay Radar"},
+{"type":"TWR","freq":134.37,"desc":"Newquay Tower"},
+{"type":"APP","freq":133.4,"desc":"Newquay Approach"}
+]
+}

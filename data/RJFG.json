@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJFG","name":"New Tanegashima","lat":30.60509,"lon":130.991605,"rwys":1,"ils":1,"index":5086755,"path":"e130n30/e130n30"
+,"runways":[
+{"len_m":2000,"wid_m":44.81,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":30.60999800,"lon1":130.98285100,"rwy2":"31","lat2":30.60018200,"lon2":131.00035900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.75,"desc":"TANEGASHIMA"},
+{"type":"TWR","freq":126.2,"desc":"TANEGASHIMA"},
+{"type":"APP","freq":133.85,"desc":"FUKUOKA"},
+{"type":"APP","freq":132.6,"desc":"FUKUOKA"}
+]
+}

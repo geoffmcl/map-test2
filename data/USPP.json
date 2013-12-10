@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"USPP","name":"Bolshoye Savino","lat":57.914517,"lon":56.021214,"rwys":1,"ils":1,"index":3876088,"path":"e050n50/e056n57"
+,"runways":[
+{"len_m":3205,"wid_m":49.07,"hdg":45,"surf":"Concrete","rwy1":"03","lat1":57.90451700,"lon1":56.00176700,"rwy2":"21","lat2":57.92451700,"lon2":56.04066100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"PERM ATIS"},
+{"type":"GND","freq":121.7,"desc":"PERM TAXIING"},
+{"type":"TWR","freq":124,"desc":"PREM START"},
+{"type":"APP","freq":127.1,"desc":"PERM APP"}
+]
+}

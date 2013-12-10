@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLUG","name":"Ellington","lat":35.5068985,"lon":-86.803886,"rwys":1,"ils":0,"index":1531744,"path":"w090n30/w087n35"
+,"runways":[
+{"len_m":1540,"wid_m":22.86,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":35.50029400,"lon1":-86.80650300,"rwy2":"20","lat2":35.51350300,"lon2":-86.80126900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

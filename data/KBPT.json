@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBPT","name":"Southeast Texas Rgnl","lat":29.95088118,"lon":-94.0210364,"rwys":2,"ils":1,"index":1400315,"path":"w100n20/w095n29"
+,"runways":[
+{"len_m":2054,"wid_m":46.02,"hdg":120,"surf":"Concrete","rwy1":"12","lat1":29.95529168,"lon1":-94.02777943,"rwy2":"30","lat2":29.94577177,"lon2":-94.00952232},
+{"len_m":1546,"wid_m":46.02,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":29.95799459,"lon1":-94.02536999,"rwy2":"34","lat2":29.94446668,"lon2":-94.02147387}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.3,"desc":"ATIS"},
+{"type":"CTAF","freq":119.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"BEAUMONT TWR"},
+{"type":"APP","freq":121.3,"desc":"BEAUMONT APP/DEP"},
+{"type":"APP","freq":124.85,"desc":"BEAUMONT APP/DEP"}
+]
+}

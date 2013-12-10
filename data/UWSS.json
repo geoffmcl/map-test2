@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UWSS","name":"Tsentralny","lat":51.5658335,"lon":46.0466665,"rwys":1,"ils":2,"index":3711840,"path":"e040n50/e046n51"
+,"runways":[
+{"len_m":2259,"wid_m":42.06,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":51.57166700,"lon1":46.03333300,"rwy2":"30","lat2":51.56000000,"lon2":46.06000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.1,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":128,"desc":"TWR"}
+]
+}

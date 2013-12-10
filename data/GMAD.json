@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GMAD","name":"Agadir Al Massira","lat":30.33001285,"lon":-009.40693951,"rwys":1,"ils":1,"index":2792978,"path":"w010n30/w010n30"
+,"runways":[
+{"len_m":3208,"wid_m":45.11,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":30.32302311,"lon1":-9.42820249,"rwy2":"28","lat2":30.32222389,"lon2":-9.39485364}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.5,"desc":"AGADIR TWR"},
+{"type":"APP","freq":120.9,"desc":"AGADIR APP"}
+]
+}

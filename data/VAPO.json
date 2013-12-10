@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VAPO","name":"Pune","lat":18.5807605,"lon":73.92041975,"rwys":2,"ils":0,"index":4152103,"path":"e070n10/e073n18"
+,"runways":[
+{"len_m":2538,"wid_m":45.72,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":18.58288600,"lon1":73.90626900,"rwy2":"28","lat2":18.58140600,"lon2":73.93026900},
+{"len_m":1796,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":18.58498300,"lon1":73.91642200,"rwy2":"32","lat2":18.57376700,"lon2":73.92871900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"POONA TWR"}
+]
+}

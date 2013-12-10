@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OITL","name":"Ardabil","lat":38.3256775,"lon":48.4243525,"rwys":1,"ils":1,"index":3743761,"path":"e040n30/e048n38"
+,"runways":[
+{"len_m":3299,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":38.33853600,"lon1":48.41489700,"rwy2":"33","lat2":38.31281900,"lon2":48.43380800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"INFO"},
+{"type":"TWR","freq":118.15,"desc":"INFO"}
+]
+}

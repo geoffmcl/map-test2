@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EKCH","name":"Kastrup","lat":55.61180300,"lon":012.65762757,"rwys":3,"ils":6,"index":3155042,"path":"e010n50/e012n55"
+,"runways":[
+{"len_m":3302,"wid_m":45.11,"hdg":41,"surf":"Asphalt","rwy1":"04R","lat1":55.60309915,"lon1":12.63304283,"rwy2":"22L","lat2":55.62541071,"lon2":12.66757916},
+{"len_m":3618,"wid_m":45.11,"hdg":41,"surf":"Asphalt","rwy1":"04L","lat1":55.59219876,"lon1":12.60353493,"rwy2":"22R","lat2":55.61664301,"lon2":12.64136621},
+{"len_m":3070,"wid_m":45.11,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":55.62761327,"lon1":12.62972864,"rwy2":"30","lat2":55.61252458,"lon2":12.67051579}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.75,"desc":"ATIS"},
+{"type":"ATIS","freq":122.85,"desc":"ATIS"},
+{"type":"CLD","freq":119.9,"desc":"CLD"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":118.57,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":119.35,"desc":"TWR"},
+{"type":"TWR","freq":127.07,"desc":"COPENHAGEN INFO"},
+{"type":"APP","freq":119.1,"desc":"FINAL"},
+{"type":"APP","freq":119.8,"desc":"COPENHAGEN APP"},
+{"type":"DEP","freq":120.25,"desc":"DEP"},
+{"type":"DEP","freq":124.97,"desc":"DEP"}
+]
+}

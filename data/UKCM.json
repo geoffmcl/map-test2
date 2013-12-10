@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKCM","name":"Mariupol Intl","lat":47.07563325,"lon":37.45575775,"rwys":2,"ils":0,"index":3564097,"path":"e030n40/e037n47"
+,"runways":[
+{"len_m":2570,"wid_m":49.99,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":47.06534400,"lon1":37.44347500,"rwy2":"20","lat2":47.08691100,"lon2":37.45566700},
+{"len_m":1409,"wid_m":85.34,"hdg":111,"surf":"Dirt","rwy1":"11","lat1":47.07750000,"lon1":37.45333300,"rwy2":"29","lat2":47.07277800,"lon2":37.47055600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131.5,"desc":"TWR"}
+]
+}

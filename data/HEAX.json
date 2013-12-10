@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEAX","name":"Alexandria Intl","lat":31.18941310,"lon":029.94991680,"rwys":2,"ils":0,"index":3432011,"path":"e020n30/e029n31"
+,"runways":[
+{"len_m":2200,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":31.17466400,"lon1":29.93813100,"rwy2":"22","lat2":31.18868300,"lon2":29.95447500},
+{"len_m":1800,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":31.19387800,"lon1":29.94890000,"rwy2":"36","lat2":31.17763600,"lon2":29.94890300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+}

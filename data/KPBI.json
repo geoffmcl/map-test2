@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPBI","name":"Palm Beach Intl","lat":26.67948000,"lon":-080.09986900,"rwys":3,"ils":1,"index":1629483,"path":"w090n20/w081n26"
+,"runways":[
+{"len_m":3050,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"10L","lat1":26.68320800,"lon1":-80.10837800,"rwy2":"28R","lat2":26.68187200,"lon2":-80.07776700},
+{"len_m":2112,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":26.69183300,"lon1":-80.10402200,"rwy2":"32","lat2":26.67830800,"lon2":-80.08906100},
+{"len_m":979,"wid_m":22.86,"hdg":92,"surf":"Asphalt","rwy1":"10R","lat1":26.68118900,"lon1":-80.10628900,"rwy2":"28L","lat2":26.68076100,"lon2":-80.09646100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"ASOS"},
+{"type":"ATIS","freq":123.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.75,"desc":"TWR"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":125.2,"desc":"APP"},
+{"type":"APP","freq":125,"desc":"APP"},
+{"type":"APP","freq":124.6,"desc":"APP"},
+{"type":"DEP","freq":127.35,"desc":"DEP"},
+{"type":"DEP","freq":128.3,"desc":"DEP"}
+]
+}

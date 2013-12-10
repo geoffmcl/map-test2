@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIKB","name":"Bandar Abbass Intl","lat":27.21831575,"lon":56.377852,"rwys":2,"ils":1,"index":3874121,"path":"e050n20/e056n27"
+,"runways":[
+{"len_m":3660,"wid_m":45.11,"hdg":27,"surf":"Asphalt","rwy1":"03R","lat1":27.20316900,"lon1":56.37035600,"rwy2":"21L","lat2":27.23239700,"lon2":56.38756900},
+{"len_m":3456,"wid_m":29.87,"hdg":27,"surf":"Asphalt","rwy1":"03L","lat1":27.20504700,"lon1":56.36861400,"rwy2":"21R","lat2":27.23265000,"lon2":56.38486900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"}
+]
+}

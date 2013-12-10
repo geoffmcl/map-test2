@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ED5","name":"Taber","lat":49.826806,"lon":-112.1845145,"rwys":2,"ils":0,"index":1106675,"path":"w120n40/w113n49"
+,"runways":[
+{"len_m":912,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":49.82472200,"lon1":-112.19055000,"rwy2":"23","lat2":49.82833600,"lon2":-112.17916900},
+{"len_m":614,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"13","lat1":49.82944400,"lon1":-112.18638900,"rwy2":"31","lat2":49.82472200,"lon2":-112.18195000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

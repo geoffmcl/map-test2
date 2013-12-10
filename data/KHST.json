@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHST","name":"Homestead Arb","lat":25.49146800,"lon":-080.38828300,"rwys":1,"ils":1,"index":1629402,"path":"w090n20/w081n25"
+,"runways":[
+{"len_m":3414,"wid_m":91.44,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":25.47850800,"lon1":-80.39644200,"rwy2":"23","lat2":25.49859400,"lon2":-80.37068900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.27,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":133.45,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"GCA"},
+{"type":"APP","freq":123.8,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"EP63","name":"Spala Glinnik Nowy","lat":51.584543,"lon":20.097411,"rwys":1,"ils":0,"index":3285856,"path":"e020n50/e020n51"
+,"runways":[
+{"len_m":2003,"wid_m":62.48,"hdg":115,"surf":"Asphalt","rwy1":"11","lat1":51.58842200,"lon1":20.08436900,"rwy2":"29","lat2":51.58066400,"lon2":20.11045300}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":308.3,"dist_nm":20.9,"freq":112.4,"lat":51.80011700,"lon":19.65614700,"rng_nm":130,"alt_fmsl":787,"id":"LDZ","desc":"LODZ VOR-DME"},
+{"type":"VOR","hdg_t":30.6,"dist_nm":25.2,"freq":117.8,"lat":51.94623900,"lon":20.44461700,"rng_nm":130,"alt_fmsl":591,"id":"KRN","desc":"KARNICE VOR-DME"},
+{"type":"NDB","hdg_t":265.3,"dist_nm":31.8,"freq":322,"lat":51.53826900,"lon":19.25038300,"rng_nm":25,"alt_fmsl":0,"id":"TZ","desc":"LASK NDB"},
+{"type":"NDB","hdg_t":266.2,"dist_nm":33.2,"freq":664,"lat":51.54527200,"lon":19.21178100,"rng_nm":25,"alt_fmsl":0,"id":"T","desc":"LASK NDB"},
+{"type":"VOR","hdg_t":61.7,"dist_nm":44.7,"freq":113.1,"lat":51.93288600,"lon":21.15852800,"rng_nm":130,"alt_fmsl":394,"id":"LIN","desc":"LININ VOR-DME"},
+{"type":"VOR","hdg_t":26.9,"dist_nm":45.5,"freq":114.9,"lat":52.25914200,"lon":20.65709700,"rng_nm":130,"alt_fmsl":295,"id":"WAR","desc":"ZABOROWEK VOR-DME"},
+{"type":"NDB","hdg_t":51.5,"dist_nm":45.6,"freq":330,"lat":52.05345000,"lon":21.06270000,"rng_nm":50,"alt_fmsl":0,"id":"PNO","desc":"PIASECZNO NDB"},
+{"type":"NDB","hdg_t":34.7,"dist_nm":45.9,"freq":336,"lat":52.21056900,"lon":20.80662200,"rng_nm":25,"alt_fmsl":0,"id":"WAG","desc":"WARSZAWA NDB"},
+{"type":"NDB","hdg_t":47.9,"dist_nm":46.3,"freq":412,"lat":52.09770000,"lon":21.02656900,"rng_nm":25,"alt_fmsl":0,"id":"WAO","desc":"WARSZAWA NDB"},
+{"type":"NDB","hdg_t":44.3,"dist_nm":47,"freq":361,"lat":52.14162200,"lon":20.98822500,"rng_nm":25,"alt_fmsl":0,"id":"W","desc":"WARSZAWA NDB"},
+{"type":"NDB","hdg_t":40.8,"dist_nm":47.1,"freq":375,"lat":52.17543900,"lon":20.93254700,"rng_nm":25,"alt_fmsl":0,"id":"AY","desc":"WARSZAWA NDB"},
+{"type":"VOR","hdg_t":42,"dist_nm":47.5,"freq":113.4,"lat":52.16975800,"lon":20.96005300,"rng_nm":25,"alt_fmsl":394,"id":"OKE","desc":"OKECIE VOR-DME"},
+{"type":"VOR","hdg_t":174,"dist_nm":56.5,"freq":115.6,"lat":50.64731900,"lon":20.25120600,"rng_nm":130,"alt_fmsl":984,"id":"JED","desc":"JEDOW VOR-DME"},
+{"type":"NDB","hdg_t":208.6,"dist_nm":75.7,"freq":285,"lat":50.47407500,"lon":19.15033600,"rng_nm":75,"alt_fmsl":0,"id":"KTC","desc":"KATOWICE NDB"},
+{"type":"NDB","hdg_t":209.7,"dist_nm":76.5,"freq":326,"lat":50.47348200,"lon":19.10665000,"rng_nm":25,"alt_fmsl":0,"id":"KTW","desc":"PYRZOWICE NDB"},
+{"type":"VOR","hdg_t":65.5,"dist_nm":85.4,"freq":114.7,"lat":52.15537800,"lon":22.20079200,"rng_nm":130,"alt_fmsl":591,"id":"SIE","desc":"SIEDLCE VOR-DME"},
+{"type":"NDB","hdg_t":184.5,"dist_nm":89.7,"freq":353,"lat":50.09565000,"lon":19.91280600,"rng_nm":75,"alt_fmsl":0,"id":"KRW","desc":"KRAKOW NDB"},
+{"type":"NDB","hdg_t":186.9,"dist_nm":90.8,"freq":379,"lat":50.08187800,"lon":19.81460600,"rng_nm":50,"alt_fmsl":0,"id":"KRA","desc":"KRAKOW NDB"},
+{"type":"NDB","hdg_t":144.3,"dist_nm":92.6,"freq":296,"lat":50.32216900,"lon":21.50106400,"rng_nm":25,"alt_fmsl":0,"id":"SA","desc":"MIELEC NDB"}
+]
+}

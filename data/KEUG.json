@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEUG","name":"Mahlon Sweet Fld","lat":44.11771000,"lon":-123.21257800,"rwys":3,"ils":2,"index":926083,"path":"w130n40/w124n44"
+,"runways":[
+{"len_m":2441,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"16R","lat1":44.13544700,"lon1":-123.21915000,"rwy2":"34L","lat2":44.11347800,"lon2":-123.21881700},
+{"len_m":1828,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"16L","lat1":44.13297200,"lon1":-123.20273100,"rwy2":"34R","lat2":44.11651700,"lon2":-123.20248600},
+{"len_m":1593,"wid_m":45.72,"hdg":46,"surf":"Asphalt","rwy1":"03","lat1":44.11650600,"lon1":-123.22545800,"rwy2":"21","lat2":44.12630800,"lon2":-123.21092800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.22,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CLD","freq":121.7,"desc":"EUGENE CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"EUGENE TWR"},
+{"type":"TWR","freq":124.15,"desc":"EUGENE TWR"},
+{"type":"APP","freq":119.6,"desc":"CASCADE APP/DEP"},
+{"type":"APP","freq":120.25,"desc":"CASCADE APP/DEP"}
+]
+}

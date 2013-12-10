@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTLR","name":"Mefford Fld","lat":36.1560625,"lon":-119.3265045,"rwys":1,"ils":0,"index":991114,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":1192,"wid_m":22.86,"hdg":146,"surf":"Asphalt","rwy1":"13","lat1":36.16056900,"lon1":-119.33011700,"rwy2":"31","lat2":36.15155600,"lon2":-119.32289200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.5,"desc":"FRESNO APP/DEP"}
+]
+}

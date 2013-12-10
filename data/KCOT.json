@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCOT","name":"Cotulla Lasalle Co","lat":28.456694,"lon":-99.218335,"rwys":1,"ils":0,"index":1318299,"path":"w100n20/w100n28"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":28.46151900,"lon1":-99.22388900,"rwy2":"31","lat2":28.45186900,"lon2":-99.21278100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

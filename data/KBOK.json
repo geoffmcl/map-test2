@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBOK","name":"Brookings State","lat":42.07524900,"lon":-124.29009200,"rwys":1,"ils":0,"index":909570,"path":"w130n40/w125n42"
+,"runways":[
+{"len_m":884,"wid_m":17.98,"hdg":143,"surf":"Asphalt","rwy1":"12","lat1":42.07705947,"lon1":-124.29296651,"rwy2":"30","lat2":42.07066908,"lon2":-124.28658475}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"WX ASOS"},
+{"type":"ATIS","freq":119.92,"desc":"WX ASOS @ CEC"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

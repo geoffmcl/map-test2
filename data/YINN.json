@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YINN","name":"Innamincka","lat":-27.70397553,"lon":140.73776525,"rwys":2,"ils":0,"index":5246866,"path":"e140s30/e140s28"
+,"runways":[
+{"len_m":831,"wid_m":49.99,"hdg":135,"surf":"Dirt","rwy1":"13","lat1":-27.69796351,"lon1":140.73325353,"rwy2":"31","lat2":-27.70332600,"lon2":140.73915200},
+{"len_m":1402,"wid_m":78.94,"hdg":211,"surf":"Dirt","rwy1":"02","lat1":-27.69178355,"lon1":140.74362407,"rwy2":"20","lat2":-27.70260077,"lon2":140.73624060}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

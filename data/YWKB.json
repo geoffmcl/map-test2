@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWKB","name":"Warracknabeal","lat":-36.32078000,"lon":142.41321400,"rwys":2,"ils":0,"index":5279081,"path":"e140s40/e142s37"
+,"runways":[
+{"len_m":1371,"wid_m":29.87,"hdg":86,"surf":"Asphalt","rwy1":"08","lat1":-36.32213111,"lon1":142.41262725,"rwy2":"26","lat2":-36.32127276,"lon2":142.42786233},
+{"len_m":1130,"wid_m":93.88,"hdg":175,"surf":"Turf/grass","rwy1":"17","lat1":-36.31572625,"lon1":142.41773695,"rwy2":"35","lat2":-36.32587554,"lon2":142.41878433}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

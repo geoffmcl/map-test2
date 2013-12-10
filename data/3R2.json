@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3R2","name":"Le Gros Mem","lat":30.16103875,"lon":-92.4848595,"rwys":2,"ils":0,"index":1433098,"path":"w100n30/w093n30"
+,"runways":[
+{"len_m":1310,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":30.15685800,"lon1":-92.48966900,"rwy2":"22","lat2":30.16521900,"lon2":-92.48005000},
+{"len_m":1219,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":30.16492800,"lon1":-92.48933300,"rwy2":"31","lat2":30.15715000,"lon2":-92.48038600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

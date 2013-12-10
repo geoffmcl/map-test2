@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"38D","name":"Salem Airpark Inc","lat":40.9480465,"lon":-80.86200075,"rwys":2,"ils":0,"index":1630392,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1037,"wid_m":15.24,"hdg":90,"surf":"Asphalt","rwy1":"10L","lat1":40.94823100,"lon1":-80.86885600,"rwy2":"28R","lat2":40.94821900,"lon2":-80.85653600},
+{"len_m":790,"wid_m":25.91,"hdg":90,"surf":"Dirt","rwy1":"10R","lat1":40.94789700,"lon1":-80.86599700,"rwy2":"28L","lat2":40.94783900,"lon2":-80.85661400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"AKRON CANTON APP/DEP"}
+]
+}

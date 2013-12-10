@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWUD","name":"Wudinna","lat":-33.04429137,"lon":135.45282062,"rwys":2,"ils":0,"index":5164601,"path":"e130s40/e135s34"
+,"runways":[
+{"len_m":1509,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":-33.03444700,"lon1":135.44060000,"rwy2":"32","lat2":-33.04550800,"lon2":135.45001700},
+{"len_m":1024,"wid_m":29.87,"hdg":74,"surf":"Dirt","rwy1":"07","lat1":-33.04439427,"lon1":135.43960836,"rwy2":"25","lat2":-33.04193099,"lon2":135.45017469}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

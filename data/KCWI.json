@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCWI","name":"Clinton Muni","lat":41.83080475,"lon":-90.32930175,"rwys":2,"ils":1,"index":1466610,"path":"w100n40/w091n41"
+,"runways":[
+{"len_m":1586,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":41.82633600,"lon1":-90.33303100,"rwy2":"21","lat2":41.83874700,"lon2":-90.32358100},
+{"len_m":1127,"wid_m":30.48,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":41.83320000,"lon1":-90.33423900,"rwy2":"32","lat2":41.82493600,"lon2":-90.32635600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.5,"desc":"QUAD CITY CLNC DEL"},
+{"type":"APP","freq":125.95,"desc":"QUAD CITY APP/DEP"}
+]
+}

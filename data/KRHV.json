@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRHV","name":"Reid Hillview Of Santa Clara Co","lat":37.332871,"lon":-121.81979675,"rwys":2,"ils":0,"index":958416,"path":"w130n30/w122n37"
+,"runways":[
+{"len_m":945,"wid_m":22.86,"hdg":142,"surf":"Asphalt","rwy1":"13L","lat1":37.33651400,"lon1":-121.82260300,"rwy2":"31R","lat2":37.32972500,"lon2":-121.81616700},
+{"len_m":944,"wid_m":22.86,"hdg":142,"surf":"Asphalt","rwy1":"13R","lat1":37.33601400,"lon1":-121.82342500,"rwy2":"31L","lat2":37.32923100,"lon2":-121.81699200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.2,"desc":"ATIS"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":126.1,"desc":"TWR"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"NORCAL APP"},
+{"type":"APP","freq":133.95,"desc":"NORCAL APP"},
+{"type":"APP","freq":134.5,"desc":"NORCAL APP"},
+{"type":"DEP","freq":121.3,"desc":"NORCAL DEP"}
+]
+}

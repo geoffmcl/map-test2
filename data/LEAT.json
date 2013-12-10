@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEAT","name":"Alfes","lat":41.5485333725,"lon":0.6518152875,"rwys":3,"ils":0,"index":2957538,"path":"e000n40/e000n41"
+,"runways":[
+{"len_m":527,"wid_m":35.05,"hdg":178,"surf":"Dirt","rwy1":"01","lat1":41.55023738,"lon1":0.65272512,"rwy2":"19","lat2":41.54549049,"lon2":0.65291036},
+{"len_m":530,"wid_m":29.87,"hdg":61,"surf":"Dirt","rwy1":"07","lat1":41.54626698,"lon1":0.64998175,"rwy2":"25","lat2":41.54856450,"lon2":0.65555670},
+{"len_m":1002,"wid_m":29.87,"hdg":111,"surf":"Dirt","rwy1":"12","lat1":41.55036428,"lon1":0.64535664,"rwy2":"30","lat2":41.54706716,"lon2":0.65654092}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":0,"surf":"Concrete","lat1":41.55013810,"lon1":0.65072540}
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"}
+]
+}

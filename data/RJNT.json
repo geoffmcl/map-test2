@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJNT","name":"Toyama","lat":36.6484235,"lon":137.1874125,"rwys":1,"ils":1,"index":5201832,"path":"e130n30/e137n36"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":36.63966400,"lon1":137.18478600,"rwy2":"20","lat2":36.65718300,"lon2":137.19003900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"}
+]
+}

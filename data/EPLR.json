@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPLR","name":"Radawiec","lat":51.21766527,"lon":022.39623834,"rwys":6,"ils":0,"index":3318601,"path":"e020n50/e022n51"
+,"runways":[
+{"len_m":702,"wid_m":99.97,"hdg":87,"surf":"Turf/grass","rwy1":"08R","lat1":51.22082387,"lon1":22.39056002,"rwy2":"26L","lat2":51.22115357,"lon2":22.40060413},
+{"len_m":702,"wid_m":99.97,"hdg":87,"surf":"Turf/grass","rwy1":"08L","lat1":51.22169213,"lon1":22.39048836,"rwy2":"26R","lat2":51.22202185,"lon2":22.40053342},
+{"len_m":702,"wid_m":99.97,"hdg":120,"surf":"Turf/grass","rwy1":"12R","lat1":51.22371026,"lon1":22.39131700,"rwy2":"30L","lat2":51.22046600,"lon2":22.39993733},
+{"len_m":702,"wid_m":99.97,"hdg":120,"surf":"Turf/grass","rwy1":"12L","lat1":51.22447109,"lon1":22.39207013,"rwy2":"30R","lat2":51.22122669,"lon2":22.40069162},
+{"len_m":700,"wid_m":99.97,"hdg":11,"surf":"Turf/grass","rwy1":"01","lat1":51.21882200,"lon1":22.39120341,"rwy2":"19","lat2":51.22500556,"lon2":22.39312260},
+{"len_m":953,"wid_m":99.97,"hdg":112,"surf":"Turf/grass","rwy1":"11","lat1":51.22445621,"lon1":22.38855561,"rwy2":"29","lat2":51.22111617,"lon2":22.40111932}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"RADAWIEC RADIO"}
+]
+}

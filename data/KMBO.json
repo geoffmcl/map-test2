@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMBO","name":"Bruce Campbell Fld","lat":32.438722,"lon":-90.1031045,"rwys":1,"ils":0,"index":1466011,"path":"w100n30/w091n32"
+,"runways":[
+{"len_m":1354,"wid_m":22.86,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":32.44480800,"lon1":-90.10369200,"rwy2":"35","lat2":32.43263600,"lon2":-90.10251700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.9,"desc":"JACKSON APP/DEP"},
+{"type":"APP","freq":125.25,"desc":"JACKSON APP/DEP"}
+]
+}

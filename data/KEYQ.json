@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEYQ","name":"Weiser Air Park","lat":29.93573275,"lon":-95.63954325,"rwys":2,"ils":0,"index":1383929,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":1052,"wid_m":12.19,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":29.93522500,"lon1":-95.64505800,"rwy2":"27","lat2":29.93519700,"lon2":-95.63415300},
+{"len_m":609,"wid_m":10.06,"hdg":164,"surf":"Turf/grass","rwy1":"16","lat1":29.93889800,"lon1":-95.64035100,"rwy2":"34","lat2":29.93361100,"lon2":-95.63861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.8,"desc":"HOUSTON APP/DEP"}
+]
+}

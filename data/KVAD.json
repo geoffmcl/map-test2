@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVAD","name":"Moody Afb","lat":30.96866275,"lon":-83.19310975,"rwys":2,"ils":2,"index":1580603,"path":"w090n30/w084n30"
+,"runways":[
+{"len_m":2834,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"18L","lat1":30.98183100,"lon1":-83.19080600,"rwy2":"36R","lat2":30.95626400,"lon2":-83.19105600},
+{"len_m":2439,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":30.97927800,"lon1":-83.19521900,"rwy2":"36L","lat2":30.95727800,"lon2":-83.19535800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":120.62,"desc":"GND"},
+{"type":"TWR","freq":128.45,"desc":"TWR"},
+{"type":"APP","freq":119.52,"desc":"VALDOSTA APP"},
+{"type":"APP","freq":126.6,"desc":"VALDOSTA APP"},
+{"type":"APP","freq":127.92,"desc":"VALDOSTA APP"},
+{"type":"DEP","freq":126.6,"desc":"VALDOSTA DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJFS","name":"Saga","lat":33.15343335,"lon":130.30197045,"rwys":1,"ils":1,"index":5086921,"path":"e130n30/e130n33"
+,"runways":[
+{"len_m":1999,"wid_m":45.11,"hdg":99,"surf":"Asphalt","rwy1":"11","lat1":33.15116700,"lon1":130.29164200,"rwy2":"29","lat2":33.14826900,"lon2":130.31280000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.05,"desc":"REMOTE"},
+{"type":"DEP","freq":119.7,"desc":"FUKUOKA DEP"}
+]
+}

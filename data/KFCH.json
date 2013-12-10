@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFCH","name":"Fresno Chandler Executive","lat":36.73170694,"lon":-119.82272261,"rwys":3,"ils":0,"index":991144,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"12R","lat1":36.73472500,"lon1":-119.82484400,"rwy2":"30L","lat2":36.72960000,"lon2":-119.81596700},
+{"len_m":1105,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":36.73502906,"lon1":-119.82536205,"rwy2":"30","lat2":36.72921870,"lon2":-119.81530470},
+{"len_m":789,"wid_m":21.34,"hdg":125,"surf":"Concrete","rwy1":"12L","lat1":36.73496106,"lon1":-119.82348635,"rwy2":"30R","lat2":36.73081279,"lon2":-119.81631022}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"AWOS"},
+{"type":"CTAF","freq":123,"desc":"Chandler CTAF"}
+]
+}

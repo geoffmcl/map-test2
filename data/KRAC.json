@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRAC","name":"John H Batten","lat":42.76116475,"lon":-87.8140305,"rwys":2,"ils":1,"index":1515824,"path":"w090n40/w088n42"
+,"runways":[
+{"len_m":1998,"wid_m":30.48,"hdg":36,"surf":"Concrete","rwy1":"04","lat1":42.75439200,"lon1":-87.82034200,"rwy2":"22","lat2":42.76876700,"lon2":-87.80566900},
+{"len_m":1347,"wid_m":30.48,"hdg":131,"surf":"Asphalt","rwy1":"14","lat1":42.76477800,"lon1":-87.82121100,"rwy2":"32","lat2":42.75672200,"lon2":-87.80890000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.15,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.15,"desc":"MILWAUKEE APP/DEP"}
+]
+}

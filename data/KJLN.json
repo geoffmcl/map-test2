@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJLN","name":"Joplin Rgnl","lat":37.1510818333333,"lon":-94.4979818333333,"rwys":3,"ils":2,"index":1400778,"path":"w100n30/w095n37"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":37.15781100,"lon1":-94.50729700,"rwy2":"31","lat2":37.14454700,"lon2":-94.49236100},
+{"len_m":1981,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":37.16408600,"lon1":-94.49740000,"rwy2":"36","lat2":37.14624400,"lon2":-94.49816700},
+{"len_m":1098,"wid_m":22.86,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":37.14374700,"lon1":-94.50109700,"rwy2":"23","lat2":37.15005600,"lon2":-94.49156900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.85,"desc":"ATIS"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"}
+]
+}

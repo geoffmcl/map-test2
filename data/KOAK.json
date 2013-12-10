@@ -1,0 +1,39 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOAK","name":"Metro Oakland Intl","lat":37.71255495,"lon":-122.21441137,"rwys":4,"ils":3,"index":942059,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":3048,"wid_m":46.02,"hdg":129,"surf":"Asphalt","rwy1":"11","lat1":37.71915142,"lon1":-122.24071982,"rwy2":"29","lat2":37.70149942,"lon2":-122.21423982},
+{"len_m":1893,"wid_m":46.02,"hdg":112,"surf":"Asphalt","rwy1":"09R","lat1":37.72871542,"lon1":-122.22588582,"rwy2":"27L","lat2":37.72228042,"lon2":-122.20599482},
+{"len_m":1662,"wid_m":46.02,"hdg":112,"surf":"Asphalt","rwy1":"09L","lat1":37.73046942,"lon1":-122.22215182,"rwy2":"27R","lat2":37.72482042,"lon2":-122.20468882},
+{"len_m":1027,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"15","lat1":37.74028942,"lon1":-122.22278882,"rwy2":"33","lat2":37.73136942,"lon2":-122.21965882}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.97,"hdg":-122,"surf":"Concrete","lat1":37.73597907,"lon1":-122.22535320},
+{"rwy1":"H2","len_m":10,"wid_m":10.97,"hdg":-122,"surf":"Asphalt","lat1":37.73421948,"lon1":-122.21712776},
+{"rwy1":"H3","len_m":10,"wid_m":10.97,"hdg":-122,"surf":"Asphalt","lat1":37.73174487,"lon1":-122.21814660},
+{"rwy1":"H4","len_m":10,"wid_m":10.97,"hdg":-122,"surf":"Asphalt","lat1":37.73189418,"lon1":-122.21747324},
+{"rwy1":"H5","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.72830128,"lon1":-122.21203336},
+{"rwy1":"H6","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.72739209,"lon1":-122.20923332},
+{"rwy1":"H7","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.72580471,"lon1":-122.20374452},
+{"rwy1":"H8","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.72557820,"lon1":-122.20300031}
+]
+,"radios":[
+{"type":"ATIS","freq":133.77,"desc":"KOAK ATIS"},
+{"type":"ATIS","freq":122.2,"desc":"OAKLAND FSS"},
+{"type":"ATIS","freq":122.5,"desc":"OAKLAND FSS"},
+{"type":"ATIS","freq":122,"desc":"OAKLAND FSS EFAS"},
+{"type":"CTAF","freq":122.95,"desc":"METRO OAKLAND INTL UNIC"},
+{"type":"CLD","freq":121.1,"desc":"OAKLAND CLD"},
+{"type":"GND","freq":121.9,"desc":"OAKLAND GND NORTH"},
+{"type":"GND","freq":121.75,"desc":"OAKLAND GND SOUTH"},
+{"type":"TWR","freq":118.3,"desc":"OAKLAND TWR NORTH"},
+{"type":"TWR","freq":127.2,"desc":"OAKLAND TWR SOUTH"},
+{"type":"APP","freq":135.65,"desc":"CLASS C SOUTH"},
+{"type":"APP","freq":133.95,"desc":"NORCAL APP"},
+{"type":"APP","freq":134.5,"desc":"NORCAL APP"},
+{"type":"APP","freq":125.35,"desc":"NORCAL APP EAST"},
+{"type":"APP","freq":135.1,"desc":"NORCAL APP WEST"},
+{"type":"DEP","freq":120.9,"desc":"NORCAL DEP NW"},
+{"type":"DEP","freq":135.1,"desc":"NORCAL DEP WEST"},
+{"type":"DEP","freq":127,"desc":"CLASS C NORTH"}
+]
+}

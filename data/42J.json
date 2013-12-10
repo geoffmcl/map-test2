@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"42J","name":"Keystone Airpark","lat":29.8441188333333,"lon":-82.0501768333333,"rwys":3,"ils":0,"index":1596915,"path":"w090n20/w083n29"
+,"runways":[
+{"len_m":1537,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":29.83656900,"lon1":-82.05206400,"rwy2":"22","lat2":29.84637500,"lon2":-82.04081100},
+{"len_m":1493,"wid_m":22.86,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":29.84985300,"lon1":-82.05613900,"rwy2":"28","lat2":29.84636100,"lon2":-82.04121400},
+{"len_m":1339,"wid_m":45.72,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":29.84861100,"lon1":-82.05722200,"rwy2":"34","lat2":29.83694400,"lon2":-82.05361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.17,"desc":"JACKSONVILLE APP/DEP"}
+]
+}

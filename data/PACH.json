@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PACH","name":"Chuathbaluk","lat":61.58292157,"lon":-159.23601403,"rwys":2,"ils":0,"index":337379,"path":"w160n60/w160n61"
+,"runways":[
+{"len_m":476,"wid_m":13.72,"hdg":160,"surf":"Gravel","rwy1":"14","lat1":61.58519601,"lon1":-159.23743039,"rwy2":"32","lat2":61.58115009,"lon2":-159.23450295},
+{"len_m":1041,"wid_m":17.98,"hdg":105,"surf":"Gravel","rwy1":"09","lat1":61.58445877,"lon1":-159.24538919,"rwy2":"27","lat2":61.58188733,"lon2":-159.22654530}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"AWOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

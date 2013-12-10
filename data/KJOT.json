@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJOT","name":"Joliet Rgnl","lat":41.51778425,"lon":-88.17551675,"rwys":2,"ils":0,"index":1499363,"path":"w090n40/w089n41"
+,"runways":[
+{"len_m":983,"wid_m":42.67,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":41.51485600,"lon1":-88.17976700,"rwy2":"22","lat2":41.52120600,"lon2":-88.17154700},
+{"len_m":895,"wid_m":30.48,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":41.51994200,"lon1":-88.17968100,"rwy2":"30","lat2":41.51513300,"lon2":-88.17107200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"CHICAGO APP/DEP"}
+]
+}

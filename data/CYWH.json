@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:37 UTC"
+,"type":16,"icao":"CYWH","name":"[s] Victoria Harbour","lat":48.4240595,"lon":-123.3884805,"rwys":0,"ils":0,"index":926362,"path":"w130n40/w124n48"
+,"runways":[]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":983,"wid_m":76,"hdg_t":34,"buoys":false,"rwy1":"01","lat1":48.41941581,"lon1":-123.39512024,"rwy2":"19","lat2":48.42673819,"lon2":-123.38767776},
+{"len_m":985,"wid_m":76,"hdg_t":89,"buoys":false,"rwy1":"07","lat1":48.42504200,"lon1":-123.39221692,"rwy2":"25","lat2":48.42504200,"lon2":-123.37890708}
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"RDO"},
+{"type":"CTAF","freq":126.7,"desc":"RDO"}
+]
+}

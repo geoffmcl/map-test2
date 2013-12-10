@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETHF","name":"Fritzlar","lat":51.1144645,"lon":9.28596,"rwys":1,"ils":0,"index":3105601,"path":"e000n50/e009n51"
+,"runways":[
+{"len_m":1048,"wid_m":29.87,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":51.11676200,"lon1":9.27942000,"rwy2":"30","lat2":51.11216700,"lon2":9.29250000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":124.42,"desc":"LANGEN CON"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":135.6,"desc":"RADAR"}
+]
+}

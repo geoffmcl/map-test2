@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAME","name":"El Plumerillo","lat":-32.83354399,"lon":-68.796002545,"rwys":1,"ils":1,"index":1822280,"path":"w070s40/w069s33"
+,"runways":[
+{"len_m":3013,"wid_m":53.95,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":-32.81816900,"lon1":-68.79270700,"rwy2":"36","lat2":-32.84533800,"lon2":-68.79317500}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-68,"surf":"Concrete","lat1":-32.83533448,"lon1":-68.79906409}
+]
+,"radios":[
+{"type":"ATIS","freq":118.9,"desc":"MENDOZA ATIS"},
+{"type":"GND","freq":121.95,"desc":"MENDOZA GND"},
+{"type":"TWR","freq":118.65,"desc":"MENDOZA TWR"},
+{"type":"TWR","freq":126.6,"desc":"MENDOZA CTR"},
+{"type":"APP","freq":118.65,"desc":"MENDOZA APP"}
+]
+}

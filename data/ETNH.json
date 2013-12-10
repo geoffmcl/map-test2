@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETNH","name":"Hohn","lat":54.3121655,"lon":9.538168,"rwys":1,"ils":1,"index":3105810,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":2439,"wid_m":29.87,"hdg":79,"surf":"Concrete","rwy1":"08","lat1":54.31015300,"lon1":9.51974200,"rwy2":"26","lat2":54.31417800,"lon2":9.55659400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"}
+]
+}

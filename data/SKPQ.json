@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKPQ","name":"German Olano Ab","lat":5.483611,"lon":-74.657361,"rwys":1,"ils":0,"index":1726426,"path":"w080n00/w075n05"
+,"runways":[
+{"len_m":3044,"wid_m":49.99,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":5.49736100,"lon1":-74.65672200,"rwy2":"36","lat2":5.46986100,"lon2":-74.65800000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":120,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"PALANQUERO APP"},
+{"type":"APP","freq":124.4,"desc":"PALANQUERO APP"}
+]
+}

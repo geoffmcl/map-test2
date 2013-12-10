@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPVG","name":"Hampton Roads Executive","lat":36.78025343,"lon":-76.448946435,"rwys":2,"ils":0,"index":1695666,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":1194,"wid_m":21.03,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":36.77953366,"lon1":-76.45593034,"rwy2":"28","lat2":36.77908147,"lon2":-76.44255733},
+{"len_m":784,"wid_m":21.03,"hdg":8,"surf":"Asphalt","rwy1":"02","lat1":36.77770514,"lon1":-76.44931441,"rwy2":"20","lat2":36.78469345,"lon2":-76.44798365}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.9,"desc":"NORFOLK APP/DEP"}
+]
+}

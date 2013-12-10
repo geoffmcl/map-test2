@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GMMN","name":"Casablanca Mohammed V Intl","lat":33.36489870,"lon":-007.57978920,"rwys":2,"ils":2,"index":2825937,"path":"w010n30/w008n33"
+,"runways":[
+{"len_m":3716,"wid_m":45.11,"hdg":163,"surf":"Asphalt","rwy1":"17L","lat1":33.38404400,"lon1":-7.59351700,"rwy2":"35R","lat2":33.35183600,"lon2":-7.58248600},
+{"len_m":3708,"wid_m":45.11,"hdg":163,"surf":"Asphalt","rwy1":"17R","lat1":33.38305800,"lon1":-7.59743100,"rwy2":"35L","lat2":33.35092500,"lon2":-7.58642200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.3,"desc":"ATIS"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"}
+]
+}

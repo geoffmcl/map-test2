@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"U00","name":"Leadore","lat":44.67291675,"lon":-113.3524305,"rwys":2,"ils":0,"index":1089962,"path":"w120n40/w114n44"
+,"runways":[
+{"len_m":1060,"wid_m":42.67,"hdg":129,"surf":"Asphalt","rwy1":"11","lat1":44.67611100,"lon1":-113.35694400,"rwy2":"29","lat2":44.67000000,"lon2":-113.34666700},
+{"len_m":868,"wid_m":27.43,"hdg":174,"surf":"Turf/grass","rwy1":"16","lat1":44.67666700,"lon1":-113.35361100,"rwy2":"34","lat2":44.66888900,"lon2":-113.35250000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

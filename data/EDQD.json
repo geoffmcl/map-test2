@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDQD","name":"Bayreuth","lat":49.98368200,"lon":011.64019300,"rwys":1,"ils":0,"index":3138298,"path":"e010n40/e011n49"
+,"runways":[
+{"len_m":1082,"wid_m":29.87,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":49.98247800,"lon1":11.63391100,"rwy2":"24","lat2":49.98736100,"lon2":11.64696100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"},
+{"type":"APP","freq":118.97,"desc":"MUENCHEN RADAR"}
+]
+}

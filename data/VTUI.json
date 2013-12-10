@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUI","name":"Sakon Nakhon Aero","lat":17.19586200,"lon":104.11640200,"rwys":1,"ils":1,"index":4659912,"path":"e100n10/e104n17"
+,"runways":[
+{"len_m":2604,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":17.18682200,"lon1":104.10996900,"rwy2":"23","lat2":17.20345800,"lon2":104.12728300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":123.35,"desc":"APP"}
+]
+}

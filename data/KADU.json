@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KADU","name":"Audubon Co","lat":41.701315,"lon":-94.920367,"rwys":1,"ils":0,"index":1401064,"path":"w100n40/w095n41"
+,"runways":[
+{"len_m":1076,"wid_m":18.29,"hdg":147,"surf":"Concrete","rwy1":"14","lat1":41.70542200,"lon1":-94.92380300,"rwy2":"32","lat2":41.69720800,"lon2":-94.91693100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

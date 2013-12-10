@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTBK","name":"Nakhon Pathom Kamphaeng Saen Rtaf","lat":14.09996500,"lon":099.92250100,"rwys":1,"ils":1,"index":4577799,"path":"e090n10/e099n14"
+,"runways":[
+{"len_m":2746,"wid_m":45.11,"hdg":29,"surf":"Concrete","rwy1":"03","lat1":14.09117800,"lon1":99.91095000,"rwy2":"21","lat2":14.11277200,"lon2":99.92348900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":123.3,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":127.75,"desc":"APP"},
+{"type":"DEP","freq":134.1,"desc":"DEP"}
+]
+}

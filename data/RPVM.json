@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPVM","name":"Mactan Cebu Intl","lat":10.307564,"lon":123.9794385,"rwys":1,"ils":2,"index":4970775,"path":"e120n10/e123n10"
+,"runways":[
+{"len_m":3310,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":10.29695300,"lon1":123.96878300,"rwy2":"22","lat2":10.31817500,"lon2":123.99009400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"CLD","freq":125.1,"desc":"CLNC"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124.7,"desc":"APP"},
+{"type":"APP","freq":121.2,"desc":"APP"}
+]
+}

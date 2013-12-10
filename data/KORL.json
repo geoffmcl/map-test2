@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KORL","name":"Orando Executive","lat":28.54385600,"lon":-081.32892623,"rwys":2,"ils":1,"index":1613218,"path":"w090n20/w082n28"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":28.54282800,"lon1":-81.33926424,"rwy2":"25","lat2":28.54936100,"lon2":-81.32209224},
+{"len_m":1413,"wid_m":30.48,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":28.54881900,"lon1":-81.34130623,"rwy2":"31","lat2":28.54047800,"lon2":-81.33038123}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.19,"hdg":-81,"surf":"Concrete","lat1":28.54958967,"lon1":-81.33194773}
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CLD","freq":128.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"ORLANDO APP/DEP"},
+{"type":"APP","freq":120.15,"desc":"ORLANDO APP/DEP"},
+{"type":"APP","freq":121.1,"desc":"ORLANDO APP/DEP"},
+{"type":"APP","freq":124.8,"desc":"ORLANDO APP/DEP"}
+]
+}

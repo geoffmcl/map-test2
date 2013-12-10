@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGAD","name":"Northeast Alabama Rgnl","lat":33.97311525,"lon":-86.088625,"rwys":2,"ils":0,"index":1531643,"path":"w090n30/w087n33"
+,"runways":[
+{"len_m":2073,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":33.96583900,"lon1":-86.10107500,"rwy2":"24","lat2":33.97497200,"lon2":-86.08150000},
+{"len_m":1464,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":33.98242800,"lon1":-86.08592800,"rwy2":"36","lat2":33.96922200,"lon2":-86.08599700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.05,"desc":"BIRMINGHAM APP/DEP"}
+]
+}

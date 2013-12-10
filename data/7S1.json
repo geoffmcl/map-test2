@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7S1","name":"Twin Bridges","lat":45.53341175,"lon":-112.31087825,"rwys":2,"ils":0,"index":1106402,"path":"w120n40/w113n45"
+,"runways":[
+{"len_m":1296,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":45.53916400,"lon1":-112.30916900,"rwy2":"35","lat2":45.52750000,"lon2":-112.30916900},
+{"len_m":1032,"wid_m":33.53,"hdg":82,"surf":"Gravel","rwy1":"07","lat1":45.53286400,"lon1":-112.31913300,"rwy2":"25","lat2":45.53411900,"lon2":-112.30604200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

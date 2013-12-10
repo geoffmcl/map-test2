@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJCW","name":"Wakkanai","lat":45.404111,"lon":141.800926,"rwys":1,"ils":1,"index":5267931,"path":"e140n40/e141n45"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":45.40087200,"lon1":141.78900800,"rwy2":"26","lat2":45.40735000,"lon2":141.81284400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"RDO"},
+{"type":"TWR","freq":118.3,"desc":"RDO"}
+]
+}

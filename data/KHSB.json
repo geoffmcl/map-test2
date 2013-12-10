@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHSB","name":"Harrisburg Raleigh","lat":37.810922,"lon":-88.54964375,"rwys":2,"ils":0,"index":1499121,"path":"w090n30/w089n37"
+,"runways":[
+{"len_m":1533,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"06","lat1":37.80896400,"lon1":-88.55946900,"rwy2":"24","lat2":37.81519400,"lon2":-88.54392800},
+{"len_m":842,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":37.81271100,"lon1":-88.55060600,"rwy2":"32","lat2":37.80681900,"lon2":-88.54457200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

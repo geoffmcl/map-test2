@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YKDL","name":"Kondoolka","lat":-32.02023315,"lon":134.86175250,"rwys":2,"ils":0,"index":5148283,"path":"e130s40/e134s33"
+,"runways":[
+{"len_m":1321,"wid_m":24.08,"hdg":172,"surf":"Dirt","rwy1":"18","lat1":-32.02015476,"lon1":134.86193768,"rwy2":"36","lat2":-32.03198501,"lon2":134.86365101},
+{"len_m":992,"wid_m":21.95,"hdg":44,"surf":"Dirt","rwy1":"4","lat1":-32.03117681,"lon1":134.85529278,"rwy2":"22","lat2":-32.02476241,"lon2":134.86262590}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

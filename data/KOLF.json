@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOLF","name":"L M Clayton","lat":48.0945055,"lon":-105.57505,"rwys":1,"ils":0,"index":1221249,"path":"w110n40/w106n48"
+,"runways":[
+{"len_m":1551,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":48.09799200,"lon1":-105.58406900,"rwy2":"29","lat2":48.09101900,"lon2":-105.56603100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PACK","name":"Chefornak","lat":60.15754660,"lon":-164.28336509,"rwys":2,"ils":0,"index":255370,"path":"w170n60/w165n60"
+,"runways":[
+{"len_m":777,"wid_m":9.14,"hdg":180,"surf":"Dirt","rwy1":"16","lat1":60.15708900,"lon1":-164.28450800,"rwy2":"34","lat2":60.15011300,"lon2":-164.28470000},
+{"len_m":764,"wid_m":22.86,"hdg":185,"surf":"Dirt","rwy1":"17","lat1":60.14073346,"lon1":-164.27611362,"rwy2":"35","lat2":60.13390210,"lon2":-164.27731393}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":15,"wid_m":14,"hdg_t":70,"buoys":false,"rwy1":"05","lat1":60.16065395,"lon1":-164.27919519,"rwy2":"23","lat2":60.16070086,"lon2":-164.27893617}
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+}

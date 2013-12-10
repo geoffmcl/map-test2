@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KECS","name":"Mondell Fld","lat":43.88822323,"lon":-104.31532812,"rwys":3,"ils":0,"index":1237370,"path":"w110n40/w105n43"
+,"runways":[
+{"len_m":1612,"wid_m":22.86,"hdg":143,"surf":"Concrete","rwy1":"13","lat1":43.89121107,"lon1":-104.32153167,"rwy2":"31","lat2":43.87948446,"lon2":-104.30971046},
+{"len_m":804,"wid_m":11.89,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":43.88883675,"lon1":-104.31946903,"rwy2":"35","lat2":43.88159400,"lon2":-104.31947200},
+{"len_m":692,"wid_m":14.94,"hdg":59,"surf":"Turf/grass","rwy1":"05","lat1":43.88443600,"lon1":-104.32523300,"rwy2":"23","lat2":43.88755944,"lon2":-104.31777890}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

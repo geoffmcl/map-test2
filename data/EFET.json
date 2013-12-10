@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFET","name":"Enontekio","lat":68.35937500,"lon":023.42659800,"rwys":1,"ils":1,"index":3336080,"path":"e020n60/e023n68"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":68.35521100,"lon1":23.41049700,"rwy2":"21","lat2":68.36996100,"lon2":23.43815800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.82,"desc":"ATIS"},
+{"type":"TWR","freq":122.45,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+}

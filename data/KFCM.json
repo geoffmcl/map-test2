@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFCM","name":"Minneapolis Flying Cloud","lat":44.82172737,"lon":-093.45830476,"rwys":3,"ils":1,"index":1417650,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":100,"surf":"Asphalt","rwy1":"10R","lat1":44.82904900,"lon1":-93.47071900,"rwy2":"28L","lat2":44.82643000,"lon2":-93.45179400},
+{"len_m":1188,"wid_m":22.86,"hdg":101,"surf":"Asphalt","rwy1":"10L","lat1":44.82966700,"lon1":-93.46506300,"rwy2":"28R","lat2":44.82762200,"lon2":-93.45030600},
+{"len_m":822,"wid_m":22.86,"hdg":186,"surf":"Asphalt","rwy1":"18","lat1":44.82894866,"lon1":-93.45435500,"rwy2":"36","lat2":44.82158900,"lon2":-93.45544400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.9,"desc":"ATIS"},
+{"type":"CTAF","freq":119.15,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"MINNEAPOLIS CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"FLYING CLOUD GND"},
+{"type":"TWR","freq":119.15,"desc":"FLYING CLOUD TWR"},
+{"type":"APP","freq":134.7,"desc":"MINNEAPOLIS APP"},
+{"type":"DEP","freq":134.7,"desc":"MINNEAPOLIS DEP"}
+]
+}

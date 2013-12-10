@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSM","name":"Fort Smith","lat":60.0228105,"lon":-111.9591695,"rwys":2,"ils":0,"index":1123712,"path":"w120n60/w112n60"
+,"runways":[
+{"len_m":1831,"wid_m":60.96,"hdg":131,"surf":"Asphalt","rwy1":"11","lat1":60.02750000,"lon1":-111.97250000,"rwy2":"29","lat2":60.01666700,"lon2":-111.94779700},
+{"len_m":548,"wid_m":30.48,"hdg":40,"surf":"Dirt","rwy1":"02","lat1":60.02166700,"lon1":-111.96138900,"rwy2":"20","lat2":60.02540800,"lon2":-111.95499200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"AIRPORT RDO"},
+{"type":"APP","freq":123.55,"desc":"YELOWKNIFE RDO"}
+]
+}

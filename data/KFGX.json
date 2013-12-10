@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFGX","name":"Fleming Mason","lat":38.541817,"lon":-83.743375,"rwys":1,"ils":0,"index":1581089,"path":"w090n30/w084n38"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":38.53915600,"lon1":-83.75143300,"rwy2":"25","lat2":38.54447800,"lon2":-83.73531700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

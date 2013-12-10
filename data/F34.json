@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F34","name":"Firebaugh","lat":36.8599885,"lon":-120.464468,"rwys":1,"ils":0,"index":974770,"path":"w130n30/w121n36"
+,"runways":[
+{"len_m":945,"wid_m":18.29,"hdg":139,"surf":"Asphalt","rwy1":"12","lat1":36.86323300,"lon1":-120.46790300,"rwy2":"30","lat2":36.85674400,"lon2":-120.46103300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+}

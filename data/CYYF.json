@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYF","name":"Penticton","lat":49.46125,"lon":-119.601385,"rwys":1,"ils":1,"index":991961,"path":"w120n40/w120n49"
+,"runways":[
+{"len_m":1824,"wid_m":45.11,"hdg":182,"surf":"Asphalt","rwy1":"16","lat1":49.46944400,"lon1":-119.60083100,"rwy2":"34","lat2":49.45305600,"lon2":-119.60193900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"MF"},
+{"type":"APP","freq":133.5,"desc":"VANCOUVER APP/DEP"}
+]
+}

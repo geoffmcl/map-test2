@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KINL","name":"Falls Intl","lat":48.56560557,"lon":-93.402295095,"rwys":2,"ils":2,"index":1417890,"path":"w100n40/w094n48"
+,"runways":[
+{"len_m":2255,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":48.57284583,"lon1":-93.41265500,"rwy2":"31","lat2":48.55827945,"lon2":-93.39139138},
+{"len_m":914,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":48.56258900,"lon1":-93.40670300,"rwy2":"22","lat2":48.56870800,"lon2":-93.39843100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

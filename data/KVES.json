@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVES","name":"Darke Co","lat":40.2044195,"lon":-84.531907,"rwys":1,"ils":0,"index":1564809,"path":"w090n40/w085n40"
+,"runways":[
+{"len_m":1375,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":40.20426100,"lon1":-84.53998100,"rwy2":"27","lat2":40.20457800,"lon2":-84.52383300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+}

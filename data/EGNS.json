@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGNS","name":"Isle Of Man Ronaldsway","lat":54.08635299,"lon":-004.63331679,"rwys":2,"ils":1,"index":2876417,"path":"w010n50/w005n54"
+,"runways":[
+{"len_m":1838,"wid_m":46.02,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":54.08162612,"lon1":-4.63707741,"rwy2":"26","lat2":54.08507063,"lon2":-4.60959562},
+{"len_m":1255,"wid_m":46.02,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":54.07733789,"lon1":-4.63211076,"rwy2":"21","lat2":54.08729700,"lon2":-4.62311700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"Ronaldsway Information"},
+{"type":"TWR","freq":118.9,"desc":"Ronaldsway Tower"},
+{"type":"APP","freq":120.85,"desc":"Ronaldsway Approach"}
+]
+}

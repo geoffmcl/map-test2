@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGRB","name":"Austin Straubel Intl","lat":44.49177600,"lon":-088.12747200,"rwys":3,"ils":2,"index":1499547,"path":"w090n40/w089n44"
+,"runways":[
+{"len_m":2499,"wid_m":46.02,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":44.49381784,"lon1":-88.13365701,"rwy2":"36","lat2":44.47132816,"lon2":-88.13361299},
+{"len_m":2346,"wid_m":46.02,"hdg":59,"surf":"Concrete","rwy1":"06","lat1":44.48244444,"lon1":-88.13804553,"rwy2":"24","lat2":44.49303156,"lon2":-88.11251648},
+{"len_m":974,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":44.49215585,"lon1":-88.13408419,"rwy2":"30","lat2":44.48777815,"lon2":-88.12346381}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.1,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"GREEN BAY TWR"},
+{"type":"APP","freq":119.4,"desc":"GREEN BAY APP"},
+{"type":"DEP","freq":126.55,"desc":"GREEN BAY DEP"}
+]
+}

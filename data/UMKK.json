@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UMKK","name":"Khrabrovo","lat":54.890049,"lon":20.592635,"rwys":1,"ils":1,"index":3286074,"path":"e020n50/e020n54"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":65,"surf":"Concrete","rwy1":"06","lat1":54.88548100,"lon1":20.57483900,"rwy2":"24","lat2":54.89461700,"lon2":20.61043100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126,"desc":"KALININGRAD GND"},
+{"type":"TWR","freq":129.42,"desc":"KALININGRAD TWR"},
+{"type":"APP","freq":126,"desc":"KALININGRAD RADAR"}
+]
+}

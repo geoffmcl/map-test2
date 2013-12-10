@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJTY","name":"Yokota Ab","lat":35.748493,"lon":139.348482,"rwys":1,"ils":2,"index":5234537,"path":"e130n30/e139n35"
+,"runways":[
+{"len_m":3353,"wid_m":60.96,"hdg":170,"surf":"Concrete","rwy1":"18","lat1":35.76338900,"lon1":139.34535600,"rwy2":"36","lat2":35.73359700,"lon2":139.35160800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"CLD","freq":131.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":133.2,"desc":"GND"},
+{"type":"TWR","freq":134.3,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"},
+{"type":"APP","freq":123.8,"desc":"APP"},
+{"type":"DEP","freq":122.1,"desc":"DEP"}
+]
+}

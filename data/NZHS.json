@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZHS","name":"Hastings","lat":-39.6458381666667,"lon":176.766929333333,"rwys":3,"ils":0,"index":5835923,"path":"e170s40/e176s40"
+,"runways":[
+{"len_m":1086,"wid_m":14.02,"hdg":31,"surf":"Asphalt","rwy1":"01L","lat1":-39.64836100,"lon1":176.76361100,"rwy2":"19R","lat2":-39.64000000,"lon2":176.77018900},
+{"len_m":885,"wid_m":60.05,"hdg":131,"surf":"Turf/grass","rwy1":"11","lat1":-39.64404577,"lon1":176.76305908,"rwy2":"29","lat2":-39.64928823,"lon2":176.77082892},
+{"len_m":879,"wid_m":60.05,"hdg":31,"surf":"Turf/grass","rwy1":"01R","lat1":-39.65005167,"lon1":176.76427903,"rwy2":"19L","lat2":-39.64328233,"lon2":176.76960897}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.8,"desc":"NAPIER ATIS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":129.9,"desc":"NAPIER TWR"},
+{"type":"TWR","freq":124.8,"desc":"NAPIER TWR"},
+{"type":"TWR","freq":118.1,"desc":"NAPIER TWR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCIN","name":"Arthur N Neu","lat":42.0462095,"lon":-94.789178,"rwys":2,"ils":0,"index":1401088,"path":"w100n40/w095n42"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":136,"surf":"Concrete","rwy1":"13","lat1":42.05166900,"lon1":-94.79560300,"rwy2":"31","lat2":42.04069700,"lon2":-94.78170300},
+{"len_m":794,"wid_m":38.10,"hdg":35,"surf":"Turf/grass","rwy1":"03","lat1":42.04331900,"lon1":-94.79248100,"rwy2":"21","lat2":42.04915300,"lon2":-94.78692500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

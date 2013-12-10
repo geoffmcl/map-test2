@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LPPD","name":"Ponta Delgada","lat":37.7420775,"lon":-25.697736,"rwys":1,"ils":1,"index":2531305,"path":"w030n30/w026n37"
+,"runways":[
+{"len_m":2496,"wid_m":45.11,"hdg":111,"surf":"Asphalt","rwy1":"12","lat1":37.74623600,"lon1":-25.71089700,"rwy2":"30","lat2":37.73791900,"lon2":-25.68457500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"APP"}
+]
+}

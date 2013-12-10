@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESNX","name":"Arvidsjaur","lat":65.59101900,"lon":019.26797700,"rwys":1,"ils":2,"index":3270368,"path":"e010n60/e019n65"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":65.59855600,"lon1":19.25617500,"rwy2":"30","lat2":65.58468900,"lon2":19.29875600}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":612,"wid_m":30,"hdg_t":129,"buoys":false,"rwy1":"13","lat1":65.60938315,"lon1":19.21304003,"rwy2":"31","lat2":65.60585685,"lon2":19.22321597}
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"AFIS"},
+{"type":"TWR","freq":123,"desc":"TWR"}
+]
+}

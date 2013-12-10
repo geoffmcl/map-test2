@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YECH","name":"Echuca","lat":-36.16370821,"lon":144.76398732,"rwys":2,"ils":0,"index":5311859,"path":"e140s40/e144s37"
+,"runways":[
+{"len_m":574,"wid_m":49.99,"hdg":58,"surf":"Dirt","rwy1":"5","lat1":-36.15762584,"lon1":144.75852892,"rwy2":"23","lat2":-36.15493444,"lon2":144.76397964},
+{"len_m":1100,"wid_m":17.98,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":-36.15740944,"lon1":144.76205274,"rwy2":"35","lat2":-36.16732604,"lon2":144.76235292}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KWST","name":"Westerly State","lat":41.3496785,"lon":-71.803368,"rwys":2,"ils":0,"index":1777872,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":1221,"wid_m":30.48,"hdg":53,"surf":"Asphalt","rwy1":"07","lat1":41.34559700,"lon1":-71.81059200,"rwy2":"25","lat2":41.35218300,"lon2":-71.79889700},
+{"len_m":1207,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":41.35396700,"lon1":-71.80750800,"rwy2":"32","lat2":41.34696700,"lon2":-71.79647500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.45,"desc":"PROVIDENCE APP/DEP"}
+]
+}

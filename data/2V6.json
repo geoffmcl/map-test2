@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2V6","name":"Yuma Muni","lat":40.1022985,"lon":-102.71186875,"rwys":2,"ils":0,"index":1269889,"path":"w110n40/w103n40"
+,"runways":[
+{"len_m":1286,"wid_m":22.86,"hdg":169,"surf":"Concrete","rwy1":"16","lat1":40.10694400,"lon1":-102.71361100,"rwy2":"34","lat2":40.09555300,"lon2":-102.71083100},
+{"len_m":883,"wid_m":12.19,"hdg":129,"surf":"Gravel","rwy1":"12","lat1":40.10586400,"lon1":-102.71553300,"rwy2":"30","lat2":40.10083300,"lon2":-102.70750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETNU","name":"Neubrandenburg","lat":53.60668900,"lon":013.30014400,"rwys":1,"ils":1,"index":3171297,"path":"e010n50/e013n53"
+,"runways":[
+{"len_m":2292,"wid_m":45.11,"hdg":88,"surf":"Concrete","rwy1":"09","lat1":53.60196700,"lon1":13.28868300,"rwy2":"27","lat2":53.60236100,"lon2":13.32331100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.05,"desc":"INFO"},
+{"type":"TWR","freq":119.17,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129,"desc":"RADAR"}
+]
+}

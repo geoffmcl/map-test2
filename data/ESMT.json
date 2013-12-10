@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESMT","name":"Halmstad","lat":56.69054000,"lon":012.82535400,"rwys":1,"ils":1,"index":3155115,"path":"e010n50/e012n56"
+,"runways":[
+{"len_m":2261,"wid_m":39.93,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":56.68100300,"lon1":12.81820800,"rwy2":"19","lat2":56.70119200,"lon2":12.82219700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.05,"desc":"TWR"},
+{"type":"TWR","freq":130.1,"desc":"TWR"}
+]
+}

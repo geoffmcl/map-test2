@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M02","name":"Dickson Muni","lat":36.1279545,"lon":-87.429843,"rwys":1,"ils":0,"index":1515402,"path":"w090n30/w088n36"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":36.13476700,"lon1":-87.43099200,"rwy2":"35","lat2":36.12114200,"lon2":-87.42869400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

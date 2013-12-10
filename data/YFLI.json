@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YFLI","name":"Flinders Island (tas)","lat":-40.09123877,"lon":148.00545329,"rwys":2,"ils":0,"index":5377144,"path":"e140s50/e148s41"
+,"runways":[
+{"len_m":1074,"wid_m":29.87,"hdg":61,"surf":"Asphalt","rwy1":"05","lat1":-40.09443448,"lon1":147.99312540,"rwy2":"23","lat2":-40.08978644,"lon2":148.00417725},
+{"len_m":1787,"wid_m":29.87,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":-40.08233400,"lon1":147.98230992,"rwy2":"32","lat2":-40.09531300,"lon2":147.99470000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.2,"desc":"FLINDERS IS MULT"},
+{"type":"TWR","freq":126.5,"desc":"MELBOURNE CNTR"}
+]
+}

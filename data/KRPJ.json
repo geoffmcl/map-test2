@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRPJ","name":"Rochelle Muni Koritz Field","lat":41.8930055,"lon":-89.078278,"rwys":1,"ils":0,"index":1483003,"path":"w090n40/w090n41"
+,"runways":[
+{"len_m":1287,"wid_m":22.86,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":41.89101900,"lon1":-89.08556700,"rwy2":"25","lat2":41.89499200,"lon2":-89.07098900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+}

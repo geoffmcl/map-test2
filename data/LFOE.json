@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOE","name":"Fauville","lat":49.0286695,"lon":1.2198665,"rwys":1,"ils":2,"index":2974400,"path":"e000n40/e001n49"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":49.01831400,"lon1":1.20671100,"rwy2":"22","lat2":49.03902500,"lon2":1.23302200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"EVREUX GND"},
+{"type":"TWR","freq":119.7,"desc":"EVREUX TWR"},
+{"type":"TWR","freq":122.1,"desc":"EVREUX TWR"},
+{"type":"TWR","freq":125.37,"desc":"EVREUX TWR"},
+{"type":"APP","freq":118.12,"desc":"EVREUX APP"}
+]
+}

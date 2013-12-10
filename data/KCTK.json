@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCTK","name":"Ingersoll","lat":40.5692065,"lon":-90.07491525,"rwys":2,"ils":0,"index":1466531,"path":"w100n40/w091n40"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":40.57307800,"lon1":-90.07387500,"rwy2":"36","lat2":40.56237800,"lon2":-90.07415800},
+{"len_m":1003,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":40.57065300,"lon1":-90.08174200,"rwy2":"27","lat2":40.57071700,"lon2":-90.06988600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.67,"desc":"PEORIA APP/DEP"}
+]
+}

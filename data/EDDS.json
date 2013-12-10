@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDS","name":"Stuttgart","lat":48.68462203,"lon":009.22023699,"rwys":1,"ils":3,"index":3105448,"path":"e000n40/e009n48"
+,"runways":[
+{"len_m":3345,"wid_m":45.11,"hdg":74,"surf":"Concrete","rwy1":"07","lat1":48.68573500,"lon1":9.20011700,"rwy2":"25","lat2":48.69401700,"lon2":9.24380600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":9,"surf":"Concrete","lat1":48.68324090,"lon1":9.19702618},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":9,"surf":"Concrete","lat1":48.69053970,"lon1":9.21986106}
+]
+,"radios":[
+{"type":"ATIS","freq":126.12,"desc":"STUTTGART ATIS"},
+{"type":"CTAF","freq":125.05,"desc":"LANGEN RADAR"},
+{"type":"CTAF","freq":119.2,"desc":"LANGEN RADAR"},
+{"type":"CTAF","freq":121.5,"desc":"STUTTGART EMERGENCY"},
+{"type":"CLD","freq":121.9,"desc":"STUTTGART DELIVERY"},
+{"type":"GND","freq":118.6,"desc":"STUTTGART GROUND"},
+{"type":"TWR","freq":119.05,"desc":"STUTTGART TOWER"},
+{"type":"TWR","freq":118.8,"desc":"STUTTGART TOWER"},
+{"type":"APP","freq":119.85,"desc":"STUTTGART DIRECTOR"}
+]
+}

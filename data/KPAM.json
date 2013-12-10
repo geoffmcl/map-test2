@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPAM","name":"Tyndall Afb","lat":30.06861300,"lon":-085.58278700,"rwys":2,"ils":2,"index":1547777,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":3049,"wid_m":60.96,"hdg":134,"surf":"Concrete","rwy1":"13L","lat1":30.08004400,"lon1":-85.58441100,"rwy2":"31R","lat2":30.06077500,"lon2":-85.56183900},
+{"len_m":2784,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":30.07744400,"lon1":-85.58822800,"rwy2":"31L","lat2":30.05984700,"lon2":-85.56762200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":133.95,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP/DEP"},
+{"type":"APP","freq":124.15,"desc":"APP/DEP"},
+{"type":"APP","freq":125.2,"desc":"APP/DEP"}
+]
+}

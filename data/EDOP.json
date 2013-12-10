@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDOP","name":"Schwerin Parchim","lat":53.43247964,"lon":011.78417164,"rwys":1,"ils":1,"index":3138523,"path":"e010n50/e011n53"
+,"runways":[
+{"len_m":2997,"wid_m":54.86,"hdg":65,"surf":"Concrete","rwy1":"06","lat1":53.42132361,"lon1":11.76300720,"rwy2":"24","lat2":53.43268600,"lon2":11.80389400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.80,"hdg":11,"surf":"Concrete","lat1":53.43315168,"lon1":11.78821403}
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"ATIS","freq":128.9,"desc":"PARCHIM INFO"},
+{"type":"TWR","freq":128.9,"desc":"PARCHIM TWR"},
+{"type":"APP","freq":126.17,"desc":"BERLIN RADAR"}
+]
+}

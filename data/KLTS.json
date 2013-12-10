@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLTS","name":"Altus Afb","lat":34.6706,"lon":-99.2662953333333,"rwys":3,"ils":3,"index":1318698,"path":"w100n30/w100n34"
+,"runways":[
+{"len_m":4096,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":34.68247500,"lon1":-99.27382200,"rwy2":"35L","lat2":34.64555000,"lon2":-99.27382200},
+{"len_m":2743,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17L","lat1":34.68248300,"lon1":-99.25955000,"rwy2":"35R","lat2":34.65775300,"lon2":-99.25953100},
+{"len_m":1071,"wid_m":28.65,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.68249700,"lon1":-99.26552800,"rwy2":"35","lat2":34.67284200,"lon2":-99.26551900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"DEP","freq":125.1,"desc":"DEP"}
+]
+}

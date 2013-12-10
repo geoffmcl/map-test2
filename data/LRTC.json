@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRTC","name":"Cataloi","lat":45.0624865,"lon":28.7143125,"rwys":1,"ils":0,"index":3416514,"path":"e020n40/e028n45"
+,"runways":[
+{"len_m":1986,"wid_m":29.87,"hdg":167,"surf":"Concrete","rwy1":"16","lat1":45.07120600,"lon1":28.71154400,"rwy2":"34","lat2":45.05376700,"lon2":28.71708100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"TULCEA TWR"},
+{"type":"APP","freq":120.3,"desc":"TULCEA APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFCH","name":"Arcachon","lat":44.59734853,"lon":-001.11419744,"rwys":2,"ils":0,"index":2924963,"path":"w010n40/w002n44"
+,"runways":[
+{"len_m":1405,"wid_m":20.12,"hdg":72,"surf":"Asphalt","rwy1":"7","lat1":44.59447627,"lon1":-1.12059610,"rwy2":"25","lat2":44.59828593,"lon2":-1.10371992},
+{"len_m":1183,"wid_m":79.86,"hdg":72,"surf":"Turf/grass","rwy1":"7R","lat1":44.59438666,"lon1":-1.11884175,"rwy2":"25L","lat2":44.59759766,"lon2":-1.10462649}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.6,"desc":"CAZAUX APP"}
+]
+}

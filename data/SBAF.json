@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBAF","name":"Campo Delio Jardim De Mattos","lat":-22.875083,"lon":-43.384709,"rwys":1,"ils":1,"index":2232514,"path":"w050s30/w044s23"
+,"runways":[
+{"len_m":1989,"wid_m":52.12,"hdg":61,"surf":"Concrete","rwy1":"08","lat1":-22.87933262,"lon1":-43.39325007,"rwy2":"26","lat2":-22.87083338,"lon2":-43.37616793}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"AFONSOS"},
+{"type":"TWR","freq":118.9,"desc":"AFONSOS TWR"},
+{"type":"APP","freq":119.35,"desc":"RIO APP"}
+]
+}

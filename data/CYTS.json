@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYTS","name":"Timmins","lat":48.5701395,"lon":-81.375487,"rwys":2,"ils":1,"index":1614498,"path":"w090n40/w082n48"
+,"runways":[
+{"len_m":1821,"wid_m":45.72,"hdg":21,"surf":"Asphalt","rwy1":"03","lat1":48.56305800,"lon1":-81.37889200,"rwy2":"21","lat2":48.57833600,"lon2":-81.37000300},
+{"len_m":1496,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":48.56972200,"lon1":-81.38666400,"rwy2":"28","lat2":48.56944200,"lon2":-81.36638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.95,"desc":"ATIS"},
+{"type":"TWR","freq":122.3,"desc":"MF"}
+]
+}

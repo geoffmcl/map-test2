@@ -1,0 +1,11 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GMI","name":"Gasmata Island","lat":-06.27133245,"lon":150.33314881,"rwys":1,"ils":0,"index":5412074,"path":"e150s10/e150s07"
+,"runways":[
+{"len_m":800,"wid_m":25.91,"hdg":99,"surf":"Turf/grass","rwy1":"10","lat1":-6.27009102,"lon1":150.32847389,"rwy2":"28","lat2":-6.27130297,"lon2":150.33560677}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"GMI AWOS"}
+]
+}

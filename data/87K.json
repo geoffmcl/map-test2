@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"87K","name":"El Dorado Springs Mem","lat":37.8551005,"lon":-94.00102775,"rwys":2,"ils":0,"index":1400819,"path":"w100n30/w095n37"
+,"runways":[
+{"len_m":1004,"wid_m":15.24,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":37.85084700,"lon1":-94.00714400,"rwy2":"22","lat2":37.85733300,"lon2":-93.99918900},
+{"len_m":741,"wid_m":15.24,"hdg":183,"surf":"Dirt","rwy1":"18","lat1":37.85944400,"lon1":-93.99861100,"rwy2":"36","lat2":37.85277800,"lon2":-93.99916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

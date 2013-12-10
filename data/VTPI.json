@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTPI","name":"Nakhon Sawan Takhli Rtaf","lat":15.27756900,"lon":100.29258700,"rwys":1,"ils":1,"index":4594258,"path":"e100n10/e100n15"
+,"runways":[
+{"len_m":3014,"wid_m":45.11,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":15.29091900,"lon1":100.29617500,"rwy2":"36","lat2":15.26368600,"lon2":100.29552200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":133.25,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"DEP","freq":134.1,"desc":"DEP"}
+]
+}

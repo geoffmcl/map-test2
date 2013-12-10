@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRWF","name":"Redwood Falls Muni","lat":44.54696375,"lon":-95.0820785,"rwys":2,"ils":0,"index":1384867,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":127,"surf":"Asphalt","rwy1":"12","lat1":44.55106100,"lon1":-95.08870300,"rwy2":"30","lat2":44.54435800,"lon2":-95.07655000},
+{"len_m":624,"wid_m":60.96,"hdg":55,"surf":"Turf/grass","rwy1":"05","lat1":44.54464200,"lon1":-95.08478600,"rwy2":"23","lat2":44.54779400,"lon2":-95.07827500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.57,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

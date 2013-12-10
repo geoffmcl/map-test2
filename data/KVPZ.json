@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVPZ","name":"Porter Co Muni","lat":41.45459175,"lon":-87.0049665,"rwys":2,"ils":1,"index":1515739,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":41.45241100,"lon1":-87.01624400,"rwy2":"27","lat2":41.45252200,"lon2":-86.99071700},
+{"len_m":1221,"wid_m":22.86,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":41.46220600,"lon1":-87.00597200,"rwy2":"36","lat2":41.45122800,"lon2":-87.00693300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF"},
+{"type":"CTAF","freq":122.72,"desc":"UNICOM"},
+{"type":"CLD","freq":135.2,"desc":"SOUTH BEND CLNC DEL"},
+{"type":"APP","freq":132.05,"desc":"SOUTH BEND APP/DEP"}
+]
+}

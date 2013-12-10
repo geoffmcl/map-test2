@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRTM","name":"Transilvania Targu Mures","lat":46.467778,"lon":24.4125,"rwys":1,"ils":1,"index":3351065,"path":"e020n40/e024n46"
+,"runways":[
+{"len_m":1999,"wid_m":29.87,"hdg":73,"surf":"Concrete","rwy1":"07","lat1":46.46527800,"lon1":24.40000000,"rwy2":"25","lat2":46.47027800,"lon2":24.42500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"TARGU MURES TWR"},
+{"type":"APP","freq":121.9,"desc":"TARGU MURES APP"}
+]
+}

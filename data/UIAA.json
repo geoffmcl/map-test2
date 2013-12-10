@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UIAA","name":"Kadala","lat":52.02111166,"lon":113.30473729,"rwys":2,"ils":1,"index":4809601,"path":"e110n50/e113n52"
+,"runways":[
+{"len_m":1786,"wid_m":74.98,"hdg":101,"surf":"Turf/grass","rwy1":"11L","lat1":52.03034700,"lon1":113.28553600,"rwy2":"29R","lat2":52.02722800,"lon2":113.31106900},
+{"len_m":2800,"wid_m":56.08,"hdg":100,"surf":"Concrete","rwy1":"11","lat1":52.02867800,"lon1":113.28496900,"rwy2":"29","lat2":52.02408600,"lon2":113.32508100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"Chita Ground"},
+{"type":"TWR","freq":118.1,"desc":"Chita Tower"},
+{"type":"APP","freq":122,"desc":"Chita Radar"}
+]
+}

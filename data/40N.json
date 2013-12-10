@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"40N","name":"Chester Co G O Carlson","lat":39.978961,"lon":-75.8654665,"rwys":1,"ils":1,"index":1712248,"path":"w080n30/w076n39"
+,"runways":[
+{"len_m":1645,"wid_m":30.48,"hdg":101,"surf":"Asphalt","rwy1":"11","lat1":39.98045800,"lon1":-75.87490000,"rwy2":"29","lat2":39.97746400,"lon2":-75.85603300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.35,"desc":"PHILADELPHIA APP/DEP"}
+]
+}

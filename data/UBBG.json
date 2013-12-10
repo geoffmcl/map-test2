@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UBBG","name":"Ganja","lat":40.7376765,"lon":46.317582,"rwys":1,"ils":0,"index":3711145,"path":"e040n40/e046n40"
+,"runways":[
+{"len_m":2504,"wid_m":43.89,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":40.74464200,"lon1":46.30592200,"rwy2":"30","lat2":40.73071100,"lon2":46.32924200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.25,"desc":"ATIS"},
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+}

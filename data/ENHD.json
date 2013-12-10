@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENHD","name":"Haugesund Lufthavn Karmoy","lat":59.34486629,"lon":005.21580003,"rwys":1,"ils":1,"index":3040592,"path":"e000n50/e005n59"
+,"runways":[
+{"len_m":2120,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":59.35066400,"lon1":5.19753900,"rwy2":"32","lat2":59.33736700,"lon2":5.22420300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"ATIS"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"TWR","freq":121.1,"desc":"TWR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OAIX","name":"Bagram","lat":34.946139,"lon":69.264972,"rwys":1,"ils":0,"index":4087609,"path":"e060n30/e069n34"
+,"runways":[
+{"len_m":3002,"wid_m":54.86,"hdg":29,"surf":"Concrete","rwy1":"03","lat1":34.93430600,"lon1":69.25700000,"rwy2":"21","lat2":34.95797200,"lon2":69.27294400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.25,"desc":"ATIS"},
+{"type":"GND","freq":125.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":133.35,"desc":"APP"}
+]
+}

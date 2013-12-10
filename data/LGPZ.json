@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGPZ","name":"Aktio","lat":38.92454530,"lon":020.76838110,"rwys":1,"ils":0,"index":3285051,"path":"e020n30/e020n38"
+,"runways":[
+{"len_m":2871,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"07L","lat1":38.92059700,"lon1":20.74997500,"rwy2":"25R","lat2":38.93033300,"lon2":20.78064700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.45,"desc":"TWR"},
+{"type":"APP","freq":120.45,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

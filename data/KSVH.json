@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSVH","name":"Statesville Rgnl","lat":35.76754400,"lon":-080.94870800,"rwys":1,"ils":1,"index":1630064,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":2135,"wid_m":29.87,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":35.76614208,"lon1":-80.96561918,"rwy2":"28","lat2":35.76384992,"lon2":-80.94217282}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF"}
+]
+}

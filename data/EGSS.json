@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGSS","name":"London Stansted","lat":51.88530868,"lon":000.25441800,"rwys":1,"ils":1,"index":2958201,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":3056,"wid_m":46.02,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":51.87503185,"lon1":0.21986204,"rwy2":"22","lat2":51.89516180,"lon2":0.25006184}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.17,"desc":"Stansted Information"},
+{"type":"CLD","freq":121.95,"desc":"Stansted Delivery"},
+{"type":"GND","freq":121.72,"desc":"Stansted Ground"},
+{"type":"TWR","freq":123.8,"desc":"Stansted Tower"},
+{"type":"TWR","freq":125.55,"desc":"Stansted Tower"},
+{"type":"APP","freq":120.62,"desc":"Essex Radar"}
+]
+}

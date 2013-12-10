@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAGM","name":"Gambell","lat":63.7666135,"lon":-171.7327915,"rwys":1,"ils":0,"index":140912,"path":"w180n60/w172n63"
+,"runways":[
+{"len_m":1371,"wid_m":28.96,"hdg":172,"surf":"Asphalt","rwy1":"16","lat1":63.77270800,"lon1":-171.73471400,"rwy2":"34","lat2":63.76051900,"lon2":-171.73086900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.9,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+}

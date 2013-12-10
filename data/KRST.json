@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRST","name":"Rochester Intl","lat":43.907861665,"lon":-92.50008493,"rwys":2,"ils":2,"index":1433977,"path":"w100n40/w093n43"
+,"runways":[
+{"len_m":2225,"wid_m":46.02,"hdg":26,"surf":"Concrete","rwy1":"2","lat1":43.89492208,"lon1":-92.50692545,"rwy2":"20","lat2":43.91285000,"lon2":-92.49457800},
+{"len_m":2753,"wid_m":46.02,"hdg":132,"surf":"Concrete","rwy1":"13","lat1":43.92014958,"lon1":-92.51212827,"rwy2":"31","lat2":43.90352500,"lon2":-92.48670800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.5,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":119.8,"desc":"APP/DEP"}
+]
+}

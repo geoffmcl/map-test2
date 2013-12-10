@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKCC","name":"Camilo Daza","lat":7.9288125,"lon":-72.51292025,"rwys":2,"ils":1,"index":1759355,"path":"w080n00/w073n07"
+,"runways":[
+{"len_m":2345,"wid_m":45.11,"hdg":147,"surf":"Asphalt","rwy1":"16","lat1":7.94034400,"lon1":-72.51957800,"rwy2":"34","lat2":7.92241700,"lon2":-72.50821400},
+{"len_m":1932,"wid_m":45.11,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":7.91789200,"lon1":-72.51450800,"rwy2":"20","lat2":7.93459700,"lon2":-72.50938100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"CUCUTA APP"}
+]
+}

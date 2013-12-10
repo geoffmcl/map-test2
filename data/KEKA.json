@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEKA","name":"Murray Fld","lat":40.80388600,"lon":-124.11723300,"rwys":2,"ils":0,"index":909491,"path":"w130n40/w125n40"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"11","lat1":40.80628600,"lon1":-124.11665300,"rwy2":"29","lat2":40.80049500,"lon2":-124.10895000},
+{"len_m":617,"wid_m":15.24,"hdg":78,"surf":"Asphalt","rwy1":"07","lat1":40.80517500,"lon1":-124.12170000,"rwy2":"25","lat2":40.80630600,"lon2":-124.11453100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.85,"desc":"SEATTLE CNTR"}
+]
+}

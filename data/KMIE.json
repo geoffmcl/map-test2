@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMIE","name":"Delaware Co Johnson Fld","lat":40.2423005,"lon":-85.3968615,"rwys":2,"ils":1,"index":1548426,"path":"w090n40/w086n40"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":40.24868300,"lon1":-85.40593100,"rwy2":"32","lat2":40.23582500,"lon2":-85.38979200},
+{"len_m":1523,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":40.23574400,"lon1":-85.39829200,"rwy2":"20","lat2":40.24895000,"lon2":-85.39343100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.25,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"MUNCIE GND"},
+{"type":"TWR","freq":120.1,"desc":"MUNCIE TWR"}
+]
+}

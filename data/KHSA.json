@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHSA","name":"Stennis Intl","lat":30.36958709,"lon":-089.45132193,"rwys":1,"ils":1,"index":1482258,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.37949101,"lon1":-89.45456900,"rwy2":"36","lat2":30.35612401,"lon2":-89.45465000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.32,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"TWR","freq":127.15,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"GULFPORT APP/DEP"},
+{"type":"APP","freq":127.5,"desc":"GULFPORT APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMHE","name":"Mitchell Muni","lat":43.774855,"lon":-98.038202,"rwys":2,"ils":1,"index":1335667,"path":"w100n40/w099n43"
+,"runways":[
+{"len_m":2042,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":43.78094621,"lon1":-98.05151432,"rwy2":"30","lat2":43.76808379,"lon2":-98.03339368},
+{"len_m":1680,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":43.78275580,"lon1":-98.03403041,"rwy2":"35","lat2":43.76763420,"lon2":-98.03386959}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

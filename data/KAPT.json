@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAPT","name":"Marion Co. Brown Fld","lat":35.0606795,"lon":-85.5853195,"rwys":1,"ils":0,"index":1548097,"path":"w090n30/w086n35"
+,"runways":[
+{"len_m":1066,"wid_m":22.86,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":35.05689200,"lon1":-85.58892200,"rwy2":"22","lat2":35.06446700,"lon2":-85.58171700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"CHATTANOOGA APP/DEP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGRI","name":"Central Nebraska Rgnl","lat":40.97089168,"lon":-098.31831723,"rwys":2,"ils":1,"index":1335482,"path":"w100n40/w099n40"
+,"runways":[
+{"len_m":2753,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":40.97991882,"lon1":-98.31476003,"rwy2":"35","lat2":40.95512735,"lon2":-98.31493194},
+{"len_m":2016,"wid_m":29.87,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":40.97839258,"lon1":-98.31177071,"rwy2":"31","lat2":40.96548942,"lon2":-98.29491811}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"GRAND ISLAND TWR"}
+]
+}

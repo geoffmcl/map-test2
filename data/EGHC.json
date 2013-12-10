@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGHC","name":"Lands End St Just","lat":50.10233325,"lon":-005.66811468,"rwys":4,"ils":0,"index":2859777,"path":"w010n50/w006n50"
+,"runways":[
+{"len_m":801,"wid_m":35.97,"hdg":158,"surf":"Turf/grass","rwy1":"17","lat1":50.10614733,"lon1":-5.67258241,"rwy2":"35","lat2":50.09945800,"lon2":-5.66843300},
+{"len_m":701,"wid_m":35.97,"hdg":64,"surf":"Turf/grass","rwy1":"07","lat1":50.10146400,"lon1":-5.67862500,"rwy2":"25","lat2":50.10415567,"lon2":-5.66975465},
+{"len_m":590,"wid_m":17.98,"hdg":19,"surf":"Turf/grass","rwy1":"03","lat1":50.10112200,"lon1":-5.67426700,"rwy2":"21","lat2":50.10612010,"lon2":-5.67149425},
+{"len_m":483,"wid_m":17.98,"hdg":112,"surf":"Turf/grass","rwy1":"12","lat1":50.10272398,"lon1":-5.67535564,"rwy2":"30","lat2":50.10104400,"lon2":-5.66912488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":120.25,"desc":"Lands End Radio"},
+{"type":"TWR","freq":120.25,"desc":"Lands End Tower"}
+]
+}

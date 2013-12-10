@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFSX","name":"Luxeuil St Sauveur Ab","lat":47.79198200,"lon":006.35439900,"rwys":2,"ils":2,"index":3056241,"path":"e000n40/e006n47"
+,"runways":[
+{"len_m":2433,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":47.79159200,"lon1":6.33453600,"rwy2":"29","lat2":47.78301400,"lon2":6.36440800},
+{"len_m":2325,"wid_m":35.97,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":47.77718300,"lon1":6.35716400,"rwy2":"22","lat2":47.79369200,"lon2":6.37621900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"LUXEUIL TWR"},
+{"type":"APP","freq":129.92,"desc":"LUXEUIL APP"},
+{"type":"APP","freq":119.7,"desc":"LUXEUIL APP"},
+{"type":"APP","freq":123.3,"desc":"LUXEUIL GCA APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJOM","name":"Matsuyama","lat":33.827257,"lon":132.6996305,"rwys":1,"ils":0,"index":5119730,"path":"e130n30/e132n33"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":33.83458300,"lon1":132.68936900,"rwy2":"32","lat2":33.81993100,"lon2":132.70989200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"APP","freq":128,"desc":"IWAKUNI APP"}
+]
+}

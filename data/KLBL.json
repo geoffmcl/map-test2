@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLBL","name":"Liberal Muni","lat":37.04501700,"lon":-100.95178200,"rwys":2,"ils":1,"index":1302464,"path":"w110n30/w101n37"
+,"runways":[
+{"len_m":2165,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.05394400,"lon1":-100.95643900,"rwy2":"35","lat2":37.03443300,"lon2":-100.95639200},
+{"len_m":1743,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"03","lat1":37.03867500,"lon1":-100.97104700,"rwy2":"21","lat2":37.04980300,"lon2":-100.95721700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

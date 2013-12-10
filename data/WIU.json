@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WIU","name":"Witu","lat":-5.55225255,"lon":149.18891524,"rwys":1,"ils":0,"index":5395737,"path":"e140s10/e149s06"
+,"runways":[
+{"len_m":1091,"wid_m":53.95,"hdg":155,"surf":"Turf/grass","rwy1":"15","lat1":-5.54775350,"lon1":149.18689323,"rwy2":"33","lat2":-5.55675159,"lon2":149.19093724}
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"WIU AWOS"}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":85.7,"dist_nm":73.5,"freq":251,"lat":-5.45903300,"lon":150.41428300,"rng_nm":40,"alt_fmsl":66,"id":"HKN","desc":"HOSKINS NDB-DME"},
+{"type":"SDME","hdg_t":85.6,"dist_nm":73.5,"freq":114,"lat":-5.45816700,"lon":150.41433300,"rng_nm":40,"alt_fmsl":66,"id":"HKN","desc":"HOSKINS NDB-DME"},
+{"type":"SDME","hdg_t":231.3,"dist_nm":101.7,"freq":116.7,"lat":-6.61566700,"lon":147.85850000,"rng_nm":25,"alt_fmsl":112,"id":"FIN","desc":"FINSCHHAFEN NDB-DME"},
+{"type":"NDB","hdg_t":231.3,"dist_nm":101.7,"freq":232,"lat":-6.61498300,"lon":147.85793300,"rng_nm":25,"alt_fmsl":112,"id":"FIN","desc":"FINSCHHAFEN NDB-DME"},
+{"type":"NDB","hdg_t":241.4,"dist_nm":148.8,"freq":388,"lat":-6.73726700,"lon":146.99806700,"rng_nm":30,"alt_fmsl":0,"id":"LAE","desc":"LAE NDB"},
+{"type":"VOR","hdg_t":247.6,"dist_nm":160.1,"freq":113.9,"lat":-6.56833333,"lon":146.70894444,"rng_nm":130,"alt_fmsl":267,"id":"NZ","desc":"NADZAB VOR-DME"},
+{"type":"NDB","hdg_t":247.5,"dist_nm":160.2,"freq":1615,"lat":-6.57000000,"lon":146.70833300,"rng_nm":50,"alt_fmsl":0,"id":"NZ","desc":"NADZAB NDB"},
+{"type":"NDB","hdg_t":196.2,"dist_nm":198.1,"freq":224,"lat":-8.73611100,"lon":148.25416700,"rng_nm":30,"alt_fmsl":232,"id":"GUA","desc":"GIRUA NDB-DME"},
+{"type":"SDME","hdg_t":196.2,"dist_nm":198.6,"freq":116.5,"lat":-8.74500000,"lon":148.25366700,"rng_nm":30,"alt_fmsl":232,"id":"GUA","desc":"GIRUA NDB-DME"},
+{"type":"VOR","hdg_t":29.3,"dist_nm":201.8,"freq":116.4,"lat":-2.60383333,"lon":150.83683333,"rng_nm":130,"alt_fmsl":13,"id":"KAV","desc":"KAVIENG VOR-DME"}
+]
+}

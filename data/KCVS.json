@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCVS","name":"Cannon Afb","lat":34.3823715,"lon":-103.322363,"rwys":2,"ils":3,"index":1253146,"path":"w110n30/w104n34"
+,"runways":[
+{"len_m":3049,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":34.37672800,"lon1":-103.33190800,"rwy2":"22","lat2":34.39616400,"lon2":-103.30845300},
+{"len_m":2497,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":34.38625800,"lon1":-103.33414400,"rwy2":"31","lat2":34.37033600,"lon2":-103.31494700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.1,"desc":"ATIS"},
+{"type":"CLD","freq":120.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.4,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"DEP","freq":125.5,"desc":"DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCRE","name":"Grand Strand","lat":33.80865767,"lon":-078.72468219,"rwys":1,"ils":1,"index":1662705,"path":"w080n30/w079n33"
+,"runways":[
+{"len_m":1827,"wid_m":29.87,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":33.80603300,"lon1":-78.73105000,"rwy2":"23","lat2":33.81746400,"lon2":-78.71683300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.62,"desc":"ATIS"},
+{"type":"CTAF","freq":124.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"STRAND GND"},
+{"type":"TWR","freq":124.6,"desc":"STRAND TWR"},
+{"type":"APP","freq":119.2,"desc":"MYRTLE BEACH APP/DEP"}
+]
+}

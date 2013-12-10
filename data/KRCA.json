@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRCA","name":"Ellsworth Afb","lat":44.1453985,"lon":-103.1039345,"rwys":1,"ils":2,"index":1253771,"path":"w110n40/w104n44"
+,"runways":[
+{"len_m":4113,"wid_m":91.44,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":44.15915800,"lon1":-103.12113300,"rwy2":"31","lat2":44.13163900,"lon2":-103.08673600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.05,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP/DEP"}
+]
+}

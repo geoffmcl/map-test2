@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOT","name":"Tours Val De Loire Ab","lat":47.42591300,"lon":000.71985100,"rwys":2,"ils":1,"index":2957914,"path":"e000n40/e000n47"
+,"runways":[
+{"len_m":2404,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"02","lat1":47.42178600,"lon1":0.72340800,"rwy2":"20","lat2":47.44265300,"lon2":0.73180000},
+{"len_m":1500,"wid_m":60.05,"hdg":15,"surf":"Turf/grass","rwy1":"02R","lat1":47.42721756,"lon1":0.72657786,"rwy2":"20L","lat2":47.44023844,"lon2":0.73182214}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.3,"desc":"TOURS FSS"},
+{"type":"GND","freq":122.1,"desc":"TOURS GND"},
+{"type":"TWR","freq":118.3,"desc":"TOURS INFO"},
+{"type":"TWR","freq":118.3,"desc":"TOURS TWR"},
+{"type":"TWR","freq":122.1,"desc":"TOURS TWR"},
+{"type":"APP","freq":119.95,"desc":"TOURS GCA APP"},
+{"type":"APP","freq":123.3,"desc":"TOURS GCA APP"},
+{"type":"APP","freq":121,"desc":"TOURS APP"}
+]
+}

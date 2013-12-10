@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N59","name":"Rosaschi Air Park","lat":38.8428546666667,"lon":-119.341659,"rwys":3,"ils":0,"index":991282,"path":"w120n30/w120n38"
+,"runways":[
+{"len_m":1462,"wid_m":9.75,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":38.83935600,"lon1":-119.35422800,"rwy2":"25","lat2":38.83935600,"lon2":-119.33737800},
+{"len_m":1280,"wid_m":18.29,"hdg":35,"surf":"Dirt","rwy1":"02","lat1":38.84009400,"lon1":-119.34575300,"rwy2":"20","lat2":38.84948300,"lon2":-119.33719200},
+{"len_m":1127,"wid_m":19.51,"hdg":184,"surf":"Dirt","rwy1":"17","lat1":38.84948300,"lon1":-119.33719200,"rwy2":"35","lat2":38.83935600,"lon2":-119.33821100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGRL","name":"Great Lakes Airfield","lat":-37.84154158,"lon":147.99749541,"rwys":2,"ils":0,"index":5360907,"path":"e140s40/e147s38"
+,"runways":[
+{"len_m":1178,"wid_m":17.98,"hdg":94,"surf":"Asphalt","rwy1":"08","lat1":-37.84201947,"lon1":147.99656161,"rwy2":"26","lat2":-37.84281245,"lon2":148.00991631},
+{"len_m":677,"wid_m":21.03,"hdg":143,"surf":"Dirt","rwy1":"14","lat1":-37.84074263,"lon1":147.99862296,"rwy2":"32","lat2":-37.84565698,"lon2":148.00318684}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

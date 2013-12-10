@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2B3","name":"Parlin Fld","lat":43.39824325,"lon":-72.19460075,"rwys":2,"ils":0,"index":1761627,"path":"w080n40/w073n43"
+,"runways":[
+{"len_m":1045,"wid_m":15.24,"hdg":148,"surf":"Asphalt","rwy1":"18","lat1":43.40055600,"lon1":-72.19777800,"rwy2":"36","lat2":43.39250000,"lon2":-72.19111100},
+{"len_m":594,"wid_m":24.38,"hdg":102,"surf":"Turf/grass","rwy1":"12","lat1":43.40055600,"lon1":-72.19833300,"rwy2":"30","lat2":43.39936100,"lon2":-72.19118100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

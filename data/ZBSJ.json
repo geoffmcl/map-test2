@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZBSJ","name":"Zhengding","lat":38.2806865,"lon":114.6972985,"rwys":1,"ils":2,"index":4825106,"path":"e110n30/e114n38"
+,"runways":[
+{"len_m":3402,"wid_m":45.11,"hdg":147,"surf":"Concrete","rwy1":"15","lat1":38.29359200,"lon1":114.68681100,"rwy2":"33","lat2":38.26778100,"lon2":114.70778600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.35,"desc":"SHIJIAZHUANG TWR"},
+{"type":"TWR","freq":130,"desc":"SHIJIAZHUANG TWR"}
+]
+}

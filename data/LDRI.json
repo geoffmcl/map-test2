@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LDRI","name":"Rijeka","lat":45.21889880,"lon":014.57238100,"rwys":1,"ils":1,"index":3187146,"path":"e010n40/e014n45"
+,"runways":[
+{"len_m":2488,"wid_m":45.11,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":45.22565600,"lon1":14.56143300,"rwy2":"32","lat2":45.20761400,"lon2":14.58019400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAGK","name":"Gulkana","lat":62.154953,"lon":-145.4543335,"rwys":1,"ils":0,"index":566793,"path":"w150n60/w146n62"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":171,"surf":"Asphalt","rwy1":"14","lat1":62.16170600,"lon1":-145.45661100,"rwy2":"32","lat2":62.14820000,"lon2":-145.45205600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.85,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

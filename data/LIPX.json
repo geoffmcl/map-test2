@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIPX","name":"Villafranca","lat":45.39439770,"lon":010.88878920,"rwys":1,"ils":1,"index":3121627,"path":"e010n40/e010n45"
+,"runways":[
+{"len_m":3072,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":45.38732000,"lon1":10.87632800,"rwy2":"22","lat2":45.40656400,"lon2":10.90450800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":123.25,"desc":"PADOVA INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"APP","freq":124.45,"desc":"GARDA APP"},
+{"type":"APP","freq":124.25,"desc":"GARDA APP"},
+{"type":"APP","freq":118.55,"desc":"GARDA APP"}
+]
+}

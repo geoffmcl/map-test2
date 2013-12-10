@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSUX","name":"Sioux Gateway Col Bud Day Fld","lat":42.4030125,"lon":-96.3840625,"rwys":2,"ils":2,"index":1368346,"path":"w100n40/w097n42"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":42.40918600,"lon1":-96.39770300,"rwy2":"31","lat2":42.39151400,"lon2":-96.37442200},
+{"len_m":2011,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":42.41472800,"lon1":-96.38191900,"rwy2":"35","lat2":42.39662200,"lon2":-96.38220600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.45,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"SIOUX CITY TWR"},
+{"type":"APP","freq":124.6,"desc":"SIOUX CITY APP/DEP"}
+]
+}

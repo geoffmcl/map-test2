@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHZL","name":"Hazleton Muni","lat":40.986782,"lon":-75.994893,"rwys":1,"ils":1,"index":1712312,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":1492,"wid_m":30.48,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":40.98726400,"lon1":-76.00373900,"rwy2":"28","lat2":40.98630000,"lon2":-75.98604700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.3,"desc":"WILKES BARRE APP/DEP"}
+]
+}

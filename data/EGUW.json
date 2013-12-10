@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGUW","name":"Raf Wattisham","lat":52.12361247,"lon":000.95816881,"rwys":1,"ils":1,"index":2958211,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":2418,"wid_m":46.02,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":52.11973655,"lon1":0.94232453,"rwy2":"23","lat2":52.13431100,"lon2":0.96853100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Wattisham Tower"},
+{"type":"APP","freq":123.3,"desc":"Wattisham Approach"}
+]
+}

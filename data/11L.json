@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"11L","name":"Camino Airstrip","lat":34.83500055,"lon":-114.95719473,"rwys":1,"ils":0,"index":1072944,"path":"w120n30/w115n34"
+,"runways":[
+{"len_m":915,"wid_m":9.14,"hdg":133,"surf":"Dirt","rwy1":"12","lat1":34.83785870,"lon1":-114.96080060,"rwy2":"30","lat2":34.83214240,"lon2":-114.95358886}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":328.7,"dist_nm":20.7,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"VOR","hdg_t":99.6,"dist_nm":24.2,"freq":115.2,"lat":34.76600000,"lon":-114.47411111,"rng_nm":130,"alt_fmsl":620,"id":"EED","desc":"NEEDLES VORTAC"},
+{"type":"VOR","hdg_t":162.6,"dist_nm":45.9,"freq":117.9,"lat":34.10200000,"lon":-114.68208333,"rng_nm":130,"alt_fmsl":1000,"id":"PKE","desc":"PARKER VORTAC"},
+{"type":"VOR","hdg_t":62.8,"dist_nm":56.4,"freq":108.8,"lat":35.26052778,"lon":-113.93408333,"rng_nm":40,"alt_fmsl":3410,"id":"IGM","desc":"KINGMAN VOR-DME"},
+{"type":"VOR","hdg_t":223.1,"dist_nm":59.1,"freq":114.2,"lat":34.11222222,"lon":-115.76991667,"rng_nm":40,"alt_fmsl":1374,"id":"TNP","desc":"TWENTYNINE PALMS VORTAC"},
+{"type":"VOR","hdg_t":3.7,"dist_nm":69.6,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":268.6,"dist_nm":74.4,"freq":112.7,"lat":34.79702778,"lon":-116.46291667,"rng_nm":130,"alt_fmsl":1853,"id":"HEC","desc":"HECTOR VORTAC"},
+{"type":"VOR","hdg_t":172.4,"dist_nm":74.8,"freq":117.4,"lat":33.59605556,"lon":-114.76127778,"rng_nm":130,"alt_fmsl":410,"id":"BLH","desc":"BLYTHE VORTAC"},
+{"type":"VOR","hdg_t":352.4,"dist_nm":75.2,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"},
+{"type":"VOR","hdg_t":275.9,"dist_nm":80.3,"freq":113.2,"lat":34.96244444,"lon":-116.57816667,"rng_nm":40,"alt_fmsl":1760,"id":"DAG","desc":"DAGGETT VORTAC"},
+{"type":"VOR","hdg_t":55.3,"dist_nm":84,"freq":112,"lat":35.62472222,"lon":-113.54447222,"rng_nm":130,"alt_fmsl":4760,"id":"PGS","desc":"PEACH SPRINGS VORTAC"},
+{"type":"VOR","hdg_t":232.1,"dist_nm":93.2,"freq":115.5,"lat":33.87002778,"lon":-116.42977778,"rng_nm":40,"alt_fmsl":1600,"id":"PSP","desc":"PALM SPRINGS VORTAC"},
+{"type":"VOR","hdg_t":219.9,"dist_nm":93.8,"freq":116.2,"lat":33.62808333,"lon":-116.16019444,"rng_nm":130,"alt_fmsl":-87,"id":"TRM","desc":"THERMAL VORTAC"}
+]
+}

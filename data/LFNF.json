@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFNF","name":"Vinon Sur Verdon","lat":43.73627722,"lon":005.78635559,"rwys":4,"ils":0,"index":3039595,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":550,"wid_m":14.94,"hdg":280,"surf":"Asphalt","rwy1":"10R","lat1":43.73389572,"lon1":5.78926213,"rwy2":"28L","lat2":43.73483929,"lon2":5.78254839},
+{"len_m":571,"wid_m":99.97,"hdg":100,"surf":"Turf/grass","rwy1":"10L","lat1":43.74010141,"lon1":5.78345833,"rwy2":"28R","lat2":43.73912265,"lon2":5.79042798},
+{"len_m":1258,"wid_m":130.15,"hdg":23,"surf":"Turf/grass","rwy1":"02","lat1":43.73423315,"lon1":5.78020615,"rwy2":"20","lat2":43.74463410,"lon2":5.78638951},
+{"len_m":780,"wid_m":111.86,"hdg":159,"surf":"Turf/grass","rwy1":"16","lat1":43.74306846,"lon1":5.78091596,"rwy2":"34","lat2":43.73648109,"lon2":5.78428060}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"VINON TWR"}
+]
+}

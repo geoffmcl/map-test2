@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMRH","name":"Michael J Smith Fld","lat":34.7335226666667,"lon":-76.6605805,"rwys":3,"ils":1,"index":1695529,"path":"w080n30/w077n34"
+,"runways":[
+{"len_m":1295,"wid_m":30.48,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":34.73323300,"lon1":-76.66875300,"rwy2":"26","lat2":34.73760300,"lon2":-76.65563600},
+{"len_m":1277,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":34.72746900,"lon1":-76.66191100,"rwy2":"21","lat2":34.73788100,"lon2":-76.65595300},
+{"len_m":1219,"wid_m":30.48,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":34.73619200,"lon1":-76.66551900,"rwy2":"32","lat2":34.72875800,"lon2":-76.65571100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.65,"desc":"CHERRY POINT CLNC"},
+{"type":"APP","freq":124.1,"desc":"CHERRY POINT APP/DEP"},
+{"type":"APP","freq":132.57,"desc":"CHERRY POINT APP/DEP"}
+]
+}

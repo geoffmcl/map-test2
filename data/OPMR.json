@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPMR","name":"Masroor","lat":24.89351475,"lon":66.94008,"rwys":2,"ils":0,"index":4037819,"path":"e060n20/e066n24"
+,"runways":[
+{"len_m":2744,"wid_m":60.96,"hdg":89,"surf":"Concrete","rwy1":"09","lat1":24.89848100,"lon1":66.92633900,"rwy2":"27","lat2":24.89850600,"lon2":66.95350000},
+{"len_m":2603,"wid_m":36.58,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":24.88023900,"lon1":66.93111400,"rwy2":"22","lat2":24.89683300,"lon2":66.94936700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+}

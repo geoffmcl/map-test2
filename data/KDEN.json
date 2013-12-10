@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDEN","name":"Denver Intl","lat":39.86244900,"lon":-104.67367100,"rwys":6,"ils":6,"index":1237105,"path":"w110n30/w105n39"
+,"runways":[
+{"len_m":4875,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"16R","lat1":39.89579732,"lon1":-104.69608135,"rwy2":"34L","lat2":39.85188668,"lon2":-104.69659065},
+{"len_m":3656,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16L","lat1":39.89703646,"lon1":-104.68680701,"rwy2":"34R","lat2":39.86410554,"lon2":-104.68718899},
+{"len_m":3656,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":39.86124441,"lon1":-104.66015662,"rwy2":"35L","lat2":39.82831359,"lon2":-104.66055338},
+{"len_m":3656,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":39.86495275,"lon1":-104.64130685,"rwy2":"35R","lat2":39.83201925,"lon2":-104.64171115},
+{"len_m":3656,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"07","lat1":39.84094313,"lon1":-104.72665730,"rwy2":"25","lat2":39.84065687,"lon2":-104.68393670},
+{"len_m":3656,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":39.87755459,"lon1":-104.66223235,"rwy2":"26","lat2":39.87724541,"lon2":-104.61948565}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.6,"desc":"ATIS"},
+{"type":"ATIS","freq":134.02,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"GND","freq":127.5,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"TWR","freq":132.35,"desc":"TWR"},
+{"type":"TWR","freq":133.3,"desc":"TWR"},
+{"type":"TWR","freq":135.3,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"},
+{"type":"APP","freq":120.35,"desc":"APP"},
+{"type":"DEP","freq":126.1,"desc":"DEP"},
+{"type":"DEP","freq":127.05,"desc":"DEP"},
+{"type":"DEP","freq":128.25,"desc":"DEP"},
+{"type":"DEP","freq":128.45,"desc":"DEP"}
+]
+}

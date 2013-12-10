@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPWD","name":"Sher Wood","lat":48.7894353333333,"lon":-104.526012166667,"rwys":3,"ils":0,"index":1237681,"path":"w110n40/w105n48"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":48.79222200,"lon1":-104.52916700,"rwy2":"30","lat2":48.78504400,"lon2":-104.51718100},
+{"len_m":891,"wid_m":18.29,"hdg":86,"surf":"Turf/grass","rwy1":"08","lat1":48.79271900,"lon1":-104.52881700,"rwy2":"26","lat2":48.79319400,"lon2":-104.51670800},
+{"len_m":607,"wid_m":25.30,"hdg":180,"surf":"Turf/grass","rwy1":"16","lat1":48.78945000,"lon1":-104.53210000,"rwy2":"34","lat2":48.78398300,"lon2":-104.53210000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

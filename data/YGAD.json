@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGAD","name":"Garden Is","lat":-32.23925600,"lon":115.68578200,"rwys":1,"ils":0,"index":4836978,"path":"e110s40/e115s33"
+,"runways":[
+{"len_m":450,"wid_m":34.14,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":-32.24224900,"lon1":115.68322100,"rwy2":"23","lat2":-32.23940148,"lon2":115.68663585}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":28,"wid_m":28.04,"hdg":115,"surf":"Concrete","lat1":-32.23988040,"lon1":115.68488433},
+{"rwy1":"H2","len_m":28,"wid_m":28.04,"hdg":115,"surf":"Concrete","lat1":-32.23964360,"lon1":115.68461494},
+{"rwy1":"H3","len_m":28,"wid_m":28.04,"hdg":115,"surf":"Concrete","lat1":-32.23942021,"lon1":115.68545216},
+{"rwy1":"H4","len_m":28,"wid_m":28.04,"hdg":115,"surf":"Concrete","lat1":-32.23918185,"lon1":115.68516745}
+]
+,"radios":[
+{"type":"CTAF","freq":121,"desc":"CTAF"}
+]
+}

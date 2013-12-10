@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1J0","name":"Tri Co","lat":30.8457835,"lon":-85.601375,"rwys":1,"ils":0,"index":1547825,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":30.84036100,"lon1":-85.60244400,"rwy2":"19","lat2":30.85120600,"lon2":-85.60030600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.75,"desc":"CAIRNS APP/DEP"}
+]
+}

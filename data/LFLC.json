@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFLC","name":"Clermont-ferrand_auvergne","lat":45.79035900,"lon":003.15818700,"rwys":1,"ils":1,"index":3006960,"path":"e000n40/e003n45"
+,"runways":[
+{"len_m":3018,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":45.78482100,"lon1":3.15074800,"rwy2":"26","lat2":45.78860300,"lon2":3.18918600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":23,"wid_m":28.04,"hdg":3,"surf":"Asphalt","lat1":45.78001000,"lon1":3.15314800}
+]
+,"radios":[
+{"type":"ATIS","freq":128.62,"desc":"CLERMONT FSS"},
+{"type":"ATIS","freq":136.4,"desc":"LFLC ATIS"},
+{"type":"GND","freq":121.95,"desc":"CLERMONT GND"},
+{"type":"TWR","freq":118.62,"desc":"CLERMONT TWR"},
+{"type":"APP","freq":120.32,"desc":"CLERMONT APP"},
+{"type":"APP","freq":128.62,"desc":"CLERMONT APP"}
+]
+}

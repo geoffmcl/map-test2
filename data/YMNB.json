@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMNB","name":"Mount Barry","lat":-28.23771796,"lon":134.97995755,"rwys":2,"ils":0,"index":5148531,"path":"e130s30/e134s29"
+,"runways":[
+{"len_m":1235,"wid_m":32.00,"hdg":116,"surf":"Dirt","rwy1":"11","lat1":-28.23290486,"lon1":134.96853883,"rwy2":"29","lat2":-28.23784766,"lon2":134.97982522},
+{"len_m":770,"wid_m":21.03,"hdg":170,"surf":"Dirt","rwy1":"17","lat1":-28.23234837,"lon1":134.97524930,"rwy2":"35","lat2":-28.23921589,"lon2":134.97649679}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

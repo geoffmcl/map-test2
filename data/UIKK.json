@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UIKK","name":"Kirensk","lat":57.76769980,"lon":108.04782461,"rwys":1,"ils":0,"index":4728048,"path":"e100n50/e108n57"
+,"runways":[
+{"len_m":1566,"wid_m":39.93,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":57.77007550,"lon1":108.04205742,"rwy2":"27","lat2":57.77032050,"lon2":108.06837658}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"Kirensk Meteo"},
+{"type":"TWR","freq":119.3,"desc":"Kirensk Tower"},
+{"type":"APP","freq":131.8,"desc":"Keirensk Transit"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHEE","name":"Thompson Robbins","lat":34.57565225,"lon":-90.6752945,"rwys":2,"ils":0,"index":1466145,"path":"w100n30/w091n34"
+,"runways":[
+{"len_m":1523,"wid_m":29.26,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.58587800,"lon1":-90.67761700,"rwy2":"35","lat2":34.57214200,"lon2":-90.67775000},
+{"len_m":917,"wid_m":18.29,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":34.57230000,"lon1":-90.67790300,"rwy2":"26","lat2":34.57228900,"lon2":-90.66790800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

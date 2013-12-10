@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDBK","name":"Kyritz","lat":52.918662,"lon":12.4249875,"rwys":2,"ils":0,"index":3154873,"path":"e010n50/e012n52"
+,"runways":[
+{"len_m":999,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":52.92230600,"lon1":12.42061700,"rwy2":"32","lat2":52.91536100,"lon2":12.43004700},
+{"len_m":1000,"wid_m":29.87,"hdg":140,"surf":"Turf/grass","rwy1":"14R","lat1":52.92196400,"lon1":12.41992800,"rwy2":"32L","lat2":52.91501700,"lon2":12.42935800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.72,"desc":"INFO"}
+]
+}

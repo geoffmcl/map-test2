@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDOV","name":"Stendal Borstel","lat":52.62896575,"lon":11.81737425,"rwys":2,"ils":0,"index":3138475,"path":"e010n50/e011n52"
+,"runways":[
+{"len_m":1997,"wid_m":52.12,"hdg":83,"surf":"Concrete","rwy1":"08","lat1":52.62781400,"lon1":11.80535000,"rwy2":"26","lat2":52.62984700,"lon2":11.83465300},
+{"len_m":700,"wid_m":39.93,"hdg":83,"surf":"Turf/grass","rwy1":"08L","lat1":52.62874400,"lon1":11.80961100,"rwy2":"26R","lat2":52.62945800,"lon2":11.81988300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.4,"desc":"INFO"}
+]
+}

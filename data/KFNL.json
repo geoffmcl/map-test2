@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFNL","name":"Fort Collins Loveland Muni","lat":40.452576315,"lon":-105.009980655,"rwys":2,"ils":1,"index":1220763,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":2590,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":40.46229710,"lon1":-105.01739585,"rwy2":"33","lat2":40.44031610,"lon2":-105.00716485},
+{"len_m":694,"wid_m":11.89,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":40.45280840,"lon1":-105.01154419,"rwy2":"24","lat2":40.45488367,"lon2":-105.00381774}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.85,"desc":"DENVER APP/DEP"}
+]
+}

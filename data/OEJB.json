@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEJB","name":"Jubail","lat":27.0390335,"lon":49.4050805,"rwys":1,"ils":1,"index":3759425,"path":"e040n20/e049n27"
+,"runways":[
+{"len_m":3996,"wid_m":45.11,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":27.05661700,"lon1":49.40059700,"rwy2":"35","lat2":27.02145000,"lon2":49.40956400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":130.5,"desc":"DHAHRAN APP"},
+{"type":"APP","freq":125.1,"desc":"DHAHRAN APP"}
+]
+}

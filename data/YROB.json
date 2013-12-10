@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YROB","name":"Robinhood","lat":-18.84393047,"lon":143.71056957,"rwys":2,"ils":0,"index":5296589,"path":"e140s20/e143s19"
+,"runways":[
+{"len_m":534,"wid_m":49.99,"hdg":62,"surf":"Dirt","rwy1":"6","lat1":-18.84750797,"lon1":143.70589770,"rwy2":"24","lat2":-18.84531200,"lon2":143.71041700},
+{"len_m":1290,"wid_m":70.10,"hdg":163,"surf":"Dirt","rwy1":"16","lat1":-18.84361826,"lon1":143.70945856,"rwy2":"34","lat2":-18.85477483,"lon2":143.71301661}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

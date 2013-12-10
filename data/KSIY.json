@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSIY","name":"Siskiyou Co","lat":41.78169600,"lon":-122.47021500,"rwys":1,"ils":0,"index":942322,"path":"w130n40/w123n41"
+,"runways":[
+{"len_m":2281,"wid_m":45.72,"hdg":191,"surf":"Asphalt","rwy1":"17","lat1":41.79151900,"lon1":-122.46547500,"rwy2":"35","lat2":41.77136400,"lon2":-122.47074400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

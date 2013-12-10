@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMTO","name":"Toluca Lic. Adolfo Lopez Mateos","lat":19.34057242,"lon":-099.56116080,"rwys":1,"ils":1,"index":1317715,"path":"w100n10/w100n19"
+,"runways":[
+{"len_m":4197,"wid_m":45.11,"hdg":156,"surf":"Asphalt","rwy1":"15","lat1":19.35449703,"lon1":-99.57388100,"rwy2":"33","lat2":19.31964700,"lon2":-99.55813300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-99,"surf":"Asphalt","lat1":19.33766051,"lon1":-99.56850573}
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"Toluca ATIS"},
+{"type":"CLD","freq":134,"desc":"Toluca Clearence"},
+{"type":"GND","freq":134,"desc":"Toluca Ground"},
+{"type":"TWR","freq":118,"desc":"Toluca Tower"},
+{"type":"APP","freq":128.9,"desc":"Toluca Approach"}
+]
+}

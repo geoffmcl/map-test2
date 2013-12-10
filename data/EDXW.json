@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDXW","name":"Westerland Sylt","lat":54.91383446,"lon":008.33043848,"rwys":2,"ils":1,"index":3089465,"path":"e000n50/e008n54"
+,"runways":[
+{"len_m":2119,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":54.91934700,"lon1":8.33288302,"rwy2":"32","lat2":54.90385000,"lon2":8.35209402},
+{"len_m":1696,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":54.90941700,"lon1":8.32917198,"rwy2":"24","lat2":54.91711700,"lon2":8.35199398}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.4,"desc":"SYLT ATIS"},
+{"type":"TWR","freq":119.75,"desc":"SYLT TWR"},
+{"type":"APP","freq":120.23,"desc":"BREMEN RADAR"}
+]
+}

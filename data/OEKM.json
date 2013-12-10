@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEKM","name":"King Khaled Ab","lat":18.29722225,"lon":42.80348525,"rwys":2,"ils":1,"index":3644182,"path":"e040n10/e042n18"
+,"runways":[
+{"len_m":3815,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":18.28769400,"lon1":42.77336100,"rwy2":"24","lat2":18.30475000,"lon2":42.80472200},
+{"len_m":3806,"wid_m":45.11,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":18.31152800,"lon1":42.80652500,"rwy2":"32","lat2":18.28491700,"lon2":42.82933300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127.7,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":131,"desc":"APP"},
+{"type":"APP","freq":124.5,"desc":"APP"},
+{"type":"APP","freq":120.9,"desc":"APP"},
+{"type":"APP","freq":130.5,"desc":"APP"},
+{"type":"DEP","freq":125.8,"desc":"DEP"}
+]
+}

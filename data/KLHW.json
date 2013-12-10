@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLHW","name":"Wright Aaf","lat":31.888006625,"lon":-81.56154,"rwys":4,"ils":0,"index":1613433,"path":"w090n30/w082n31"
+,"runways":[
+{"len_m":1530,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"06L","lat1":31.88423300,"lon1":-81.57124200,"rwy2":"24R","lat2":31.89300000,"lon2":-81.55875000},
+{"len_m":1524,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"15L","lat1":31.89436700,"lon1":-81.56364700,"rwy2":"33R","lat2":31.88375000,"lon2":-81.55341400},
+{"len_m":811,"wid_m":30.48,"hdg":49,"surf":"Asphalt","rwy1":"06R","lat1":31.88502800,"lon1":-81.56772800,"rwy2":"24L","lat2":31.88982800,"lon2":-81.56124700},
+{"len_m":768,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"15R","lat1":31.88960000,"lon1":-81.56072500,"rwy2":"33L","lat2":31.88424700,"lon2":-81.55556700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.35,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.25,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"SAVANNAH APP"},
+{"type":"APP","freq":125.3,"desc":"SAVANNAH APP"},
+{"type":"DEP","freq":118.4,"desc":"SAVANNAH DEP"},
+{"type":"DEP","freq":125.3,"desc":"SAVANNAH DEP"}
+]
+}

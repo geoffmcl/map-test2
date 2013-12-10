@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEZF","name":"Shannon","lat":38.2674415,"lon":-77.44973675,"rwys":2,"ils":0,"index":1679378,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":886,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":38.26353600,"lon1":-77.45245800,"rwy2":"24","lat2":38.26914700,"lon2":-77.44524400},
+{"len_m":397,"wid_m":45.72,"hdg":144,"surf":"Dirt","rwy1":"15","lat1":38.27000000,"lon1":-77.45194200,"rwy2":"33","lat2":38.26708300,"lon2":-77.44930300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":127.05,"desc":"QUANTICO ARRIVAL"}
+]
+}

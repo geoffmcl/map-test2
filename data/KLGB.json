@@ -1,0 +1,35 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLGB","name":"Long Beach/daugherty Field","lat":33.81191924,"lon":-118.15015243,"rwys":5,"ils":1,"index":1007347,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":3048,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":33.82620300,"lon1":-118.16153600,"rwy2":"30","lat2":33.80686700,"lon2":-118.13814200},
+{"len_m":1886,"wid_m":46.02,"hdg":90,"surf":"Asphalt","rwy1":"07L","lat1":33.82275000,"lon1":-118.16351900,"rwy2":"25R","lat2":33.82269400,"lon2":-118.14313600},
+{"len_m":1653,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"07R","lat1":33.81382500,"lon1":-118.16130300,"rwy2":"25L","lat2":33.81383600,"lon2":-118.14344700},
+{"len_m":1362,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"16R","lat1":33.82486100,"lon1":-118.15578300,"rwy2":"34L","lat2":33.81258100,"lon2":-118.15576900},
+{"len_m":1015,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16L","lat1":33.82184500,"lon1":-118.14795706,"rwy2":"34R","lat2":33.81268610,"lon2":-118.14799351}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.81928611,"lon1":-118.14898452},
+{"rwy1":"H10","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81254378,"lon1":-118.15402607},
+{"rwy1":"H11","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81241700,"lon1":-118.15402584},
+{"rwy1":"H12","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81229204,"lon1":-118.15402475},
+{"rwy1":"H2","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.81986844,"lon1":-118.14996803},
+{"rwy1":"H3","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.82046296,"lon1":-118.15102896},
+{"rwy1":"H4","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.82094256,"lon1":-118.15212588},
+{"rwy1":"H5","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.81573337,"lon1":-118.15251988},
+{"rwy1":"H6","len_m":6,"wid_m":6.10,"hdg":-118,"surf":"Asphalt","lat1":33.81536858,"lon1":-118.15489072},
+{"rwy1":"H7","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81666879,"lon1":-118.14101199},
+{"rwy1":"H8","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81618087,"lon1":-118.14142755},
+{"rwy1":"H9","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":33.81267493,"lon1":-118.15402629}
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":119.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.15,"desc":"DEL"},
+{"type":"GND","freq":133,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":124.65,"desc":"SOCAL APP"},
+{"type":"DEP","freq":127.2,"desc":"SOCAL DEP"}
+]
+}

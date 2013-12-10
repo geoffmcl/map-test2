@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAXN","name":"Chandler Fld","lat":45.8662945,"lon":-95.39456025,"rwys":2,"ils":1,"index":1384946,"path":"w100n40/w096n45"
+,"runways":[
+{"len_m":1554,"wid_m":30.48,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":45.87163300,"lon1":-95.40207500,"rwy2":"31","lat2":45.86103100,"lon2":-95.38902500},
+{"len_m":1249,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":45.86259200,"lon1":-95.39966900,"rwy2":"22","lat2":45.86992200,"lon2":-95.38747200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

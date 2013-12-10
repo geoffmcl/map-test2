@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSA","name":"Stratford Municipal","lat":43.415946,"lon":-80.93667125,"rwys":2,"ils":0,"index":1630552,"path":"w090n40/w081n43"
+,"runways":[
+{"len_m":1522,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":43.41086900,"lon1":-80.93994300,"rwy2":"23","lat2":43.42095500,"lon2":-80.92721800},
+{"len_m":821,"wid_m":15.24,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":43.41956100,"lon1":-80.94101300,"rwy2":"35","lat2":43.41239900,"lon2":-80.93851100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

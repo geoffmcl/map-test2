@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAZS","name":"San Carlos De Bariloche","lat":-41.151172,"lon":-71.1575415,"rwys":1,"ils":1,"index":1772595,"path":"w080s50/w072s42"
+,"runways":[
+{"len_m":2348,"wid_m":47.85,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":-41.14676900,"lon1":-71.17026100,"rwy2":"29","lat2":-41.15557500,"lon2":-71.14482200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"TWR","freq":119.1,"desc":"BARILOCHE TWR/APP"},
+{"type":"TWR","freq":118.65,"desc":"BARILOCHE TWR/APP"}
+]
+}

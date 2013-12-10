@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJCO","name":"Sapporo","lat":43.116139,"lon":141.3802055,"rwys":1,"ils":0,"index":5267777,"path":"e140n40/e141n43"
+,"runways":[
+{"len_m":1389,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":43.12055600,"lon1":141.37416100,"rwy2":"32","lat2":43.11172200,"lon2":141.38625000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+}

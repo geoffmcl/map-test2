@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAWI","name":"Wainwright","lat":70.6379985,"lon":-159.994757,"rwys":1,"ils":0,"index":337960,"path":"w160n70/w160n70"
+,"runways":[
+{"len_m":1369,"wid_m":27.13,"hdg":67,"surf":"Gravel","rwy1":"05","lat1":70.63564700,"lon1":-160.01184700,"rwy2":"23","lat2":70.64035000,"lon2":-159.97766700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.25,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

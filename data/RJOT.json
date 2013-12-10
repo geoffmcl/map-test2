@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJOT","name":"Takamatsu","lat":34.214053,"lon":134.015772,"rwys":1,"ils":1,"index":5152520,"path":"e130n30/e134n34"
+,"runways":[
+{"len_m":2499,"wid_m":60.96,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":34.21073900,"lon1":134.00280800,"rwy2":"26","lat2":34.21736700,"lon2":134.02873600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"TWR","freq":135.9,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.02,"desc":"TCA"},
+{"type":"APP","freq":121.2,"desc":"APP"},
+{"type":"APP","freq":120.4,"desc":"APP"},
+{"type":"DEP","freq":120.4,"desc":"DEP"}
+]
+}

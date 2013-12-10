@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHTL","name":"Roscommon Co","lat":44.35927375,"lon":-84.67318925,"rwys":2,"ils":0,"index":1565073,"path":"w090n40/w085n44"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":44.36120300,"lon1":-84.67625000,"rwy2":"27","lat2":44.36142200,"lon2":-84.66096900},
+{"len_m":670,"wid_m":30.48,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":44.36025300,"lon1":-84.67776900,"rwy2":"36","lat2":44.35421700,"lon2":-84.67776900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

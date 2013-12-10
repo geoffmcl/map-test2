@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"KDRA","name":"Desert Rock","lat":36.619667,"lon":-116.0324165,"rwys":1,"ils":0,"index":1040291,"path":"w120n30/w117n36"
+,"runways":[
+{"len_m":2272,"wid_m":30.48,"hdg":33,"surf":"Asphalt","rwy1":"02","lat1":36.61116700,"lon1":-116.03950000,"rwy2":"20","lat2":36.62816700,"lon2":-116.02533300}
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":287.6,"dist_nm":36.1,"freq":114.7,"lat":36.80058333,"lon":-116.74763889,"rng_nm":130,"alt_fmsl":2928,"id":"BTY","desc":"BEATTY VORTAC"},
+{"type":"VOR","hdg_t":127.1,"dist_nm":53.2,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"},
+{"type":"VOR","hdg_t":123,"dist_nm":67.8,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":333.1,"dist_nm":78.7,"freq":113,"lat":37.79041667,"lon":-116.77927778,"rng_nm":25,"alt_fmsl":5541,"id":"TQQ","desc":"SILVERBOW VORTAC"},
+{"type":"VOR","hdg_t":83.4,"dist_nm":85.1,"freq":114.3,"lat":36.76927778,"lon":-114.27747222,"rng_nm":40,"alt_fmsl":2120,"id":"MMM","desc":"MORMON MESA VORTAC"},
+{"type":"VOR","hdg_t":330.7,"dist_nm":97.1,"freq":117.2,"lat":38.03063889,"lon":-117.03350000,"rng_nm":40,"alt_fmsl":5344,"id":"TPH","desc":"TONOPAH VORTAC"},
+{"type":"SDME","hdg_t":235.7,"dist_nm":98,"freq":111.6,"lat":35.68792800,"lon":-117.69047200,"rng_nm":25,"alt_fmsl":2272,"id":"NID","desc":"CHINA LAKE TACAN"},
+{"type":"VOR","hdg_t":154.6,"dist_nm":98.4,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"VOR","hdg_t":195.1,"dist_nm":102.7,"freq":113.2,"lat":34.96244444,"lon":-116.57816667,"rng_nm":40,"alt_fmsl":1760,"id":"DAG","desc":"DAGGETT VORTAC"},
+{"type":"VOR","hdg_t":191,"dist_nm":111.2,"freq":112.7,"lat":34.79702778,"lon":-116.46291667,"rng_nm":130,"alt_fmsl":1853,"id":"HEC","desc":"HECTOR VORTAC"}
+]
+}

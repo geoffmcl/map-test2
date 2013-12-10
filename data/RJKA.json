@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJKA","name":"Amami","lat":28.4306345,"lon":129.712543,"rwys":1,"ils":1,"index":5070234,"path":"e120n20/e129n28"
+,"runways":[
+{"len_m":1999,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":28.42252500,"lon1":129.70807800,"rwy2":"21","lat2":28.43874400,"lon2":129.71700800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.8,"desc":"NAHA INFO"},
+{"type":"TWR","freq":126.2,"desc":"RDO"},
+{"type":"TWR","freq":118.15,"desc":"RDO"}
+]
+}

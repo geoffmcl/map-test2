@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ED3","name":"Oyen Muni","lat":51.3342365,"lon":-110.49132,"rwys":2,"ils":0,"index":1139538,"path":"w120n50/w111n51"
+,"runways":[
+{"len_m":911,"wid_m":22.86,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":51.33805600,"lon1":-110.49388900,"rwy2":"32","lat2":51.33055600,"lon2":-110.48861100},
+{"len_m":672,"wid_m":22.86,"hdg":54,"surf":"Dirt","rwy1":"04","lat1":51.33241644,"lon1":-110.49532347,"rwy2":"22","lat2":51.33591756,"lon2":-110.48745653}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

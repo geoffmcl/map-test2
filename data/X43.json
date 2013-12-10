@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"X43","name":"Sunray","lat":36.02888875,"lon":-101.83041675,"rwys":2,"ils":0,"index":1286016,"path":"w110n30/w102n36"
+,"runways":[
+{"len_m":1144,"wid_m":15.24,"hdg":27,"surf":"Gravel","rwy1":"02","lat1":36.02416700,"lon1":-101.83500000,"rwy2":"20","lat2":36.03333300,"lon2":-101.82916700},
+{"len_m":1017,"wid_m":15.24,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":36.03361100,"lon1":-101.82888900,"rwy2":"35","lat2":36.02444400,"lon2":-101.82861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

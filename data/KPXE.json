@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPXE","name":"Perry Houston Co","lat":32.510574,"lon":-83.7673455,"rwys":1,"ils":1,"index":1580704,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":32.51744200,"lon1":-83.76741900,"rwy2":"36","lat2":32.50370600,"lon2":-83.76727200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+}

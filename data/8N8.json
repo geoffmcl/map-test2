@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"8N8","name":"Danville","lat":40.9481945,"lon":-76.6444165,"rwys":1,"ils":0,"index":1695929,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":914,"wid_m":18.29,"hdg":74,"surf":"Asphalt","rwy1":"09R","lat1":40.94706700,"lon1":-76.64963900,"rwy2":"27L","lat2":40.94932200,"lon2":-76.63919400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.3,"desc":"WILKES BARRE APP"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCGF","name":"Cuyahoga Co","lat":41.56118376,"lon":-081.48483691,"rwys":1,"ils":1,"index":1614050,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1555,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":41.56057500,"lon1":-81.49344201,"rwy2":"24","lat2":41.56967200,"lon2":-81.47926901}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.85,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.5,"desc":"COUNTY TWR"},
+{"type":"APP","freq":125.35,"desc":"CLEVELAND APP/DEP"}
+]
+}

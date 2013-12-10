@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I16","name":"Kee Fld","lat":37.600457,"lon":-81.5592665,"rwys":1,"ils":0,"index":1613793,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":1127,"wid_m":18.29,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":37.59868100,"lon1":-81.56525000,"rwy2":"26","lat2":37.60223300,"lon2":-81.55328300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

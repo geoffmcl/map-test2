@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UUDD","name":"Moscou Domodedovo","lat":55.41341600,"lon":037.90064400,"rwys":3,"ils":2,"index":3564635,"path":"e030n50/e037n55"
+,"runways":[
+{"len_m":3780,"wid_m":53.04,"hdg":145,"surf":"Concrete","rwy1":"14L","lat1":55.42328300,"lon1":37.90799700,"rwy2":"32R","lat2":55.39528600,"lon2":37.94176400},
+{"len_m":3479,"wid_m":70.10,"hdg":145,"surf":"Concrete","rwy1":"14R","lat1":55.42115000,"lon1":37.87215600,"rwy2":"32L","lat2":55.39542500,"lon2":37.90333900},
+{"len_m":2672,"wid_m":45.11,"hdg":146,"surf":"Concrete","rwy1":"14C","lat1":55.42000000,"lon1":37.88000000,"rwy2":"32C","lat2":55.40000000,"lon2":37.90333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"CLD","freq":123.75,"desc":"DELIVERY"},
+{"type":"GND","freq":119,"desc":"TAXIING"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":127.7,"desc":"RADAR"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"APP","freq":124.4,"desc":"APP"},
+{"type":"APP","freq":129,"desc":"APP"}
+]
+}

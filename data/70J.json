@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"70J","name":"Cairo Grady Co","lat":30.8879765,"lon":-84.1547345,"rwys":1,"ils":0,"index":1564219,"path":"w090n30/w085n30"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":30.89077500,"lon1":-84.16022200,"rwy2":"30","lat2":30.88517800,"lon2":-84.14924700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.7,"desc":"TALLAHASSEE APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UWOO","name":"Orenburg","lat":51.7957875,"lon":55.4567455,"rwys":1,"ils":2,"index":3859313,"path":"e050n50/e055n51"
+,"runways":[
+{"len_m":2504,"wid_m":42.06,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":51.79576400,"lon1":55.43859400,"rwy2":"26","lat2":51.79581100,"lon2":55.47489700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":128,"desc":"TWR"}
+]
+}

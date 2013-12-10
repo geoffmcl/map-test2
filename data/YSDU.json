@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSDU","name":"Dubbo","lat":-32.21872200,"lon":148.57087700,"rwys":2,"ils":0,"index":5377650,"path":"e140s40/e148s33"
+,"runways":[
+{"len_m":1708,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"05","lat1":-32.22282100,"lon1":148.56883800,"rwy2":"23","lat2":-32.21370700,"lon2":148.58345000},
+{"len_m":1066,"wid_m":17.98,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":-32.21437200,"lon1":148.57344800,"rwy2":"29","lat2":-32.21904400,"lon2":148.58334000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":134,"desc":"DUBBO MULT"},
+{"type":"CTAF","freq":123.9,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSDF","name":"Louisville Intl Standiford Fld","lat":38.15931100,"lon":-085.73039400,"rwys":3,"ils":5,"index":1548297,"path":"w090n30/w086n38"
+,"runways":[
+{"len_m":3307,"wid_m":45.72,"hdg":165,"surf":"Concrete","rwy1":"17R","lat1":38.18699700,"lon1":-85.74879200,"rwy2":"35L","lat2":38.15816700,"lon2":-85.73926900},
+{"len_m":2614,"wid_m":45.72,"hdg":164,"surf":"Concrete","rwy1":"17L","lat1":38.18730000,"lon1":-85.73134200,"rwy2":"35R","lat2":38.16455600,"lon2":-85.72357500},
+{"len_m":2209,"wid_m":45.72,"hdg":111,"surf":"Concrete","rwy1":"11","lat1":38.18022800,"lon1":-85.74735000,"rwy2":"29","lat2":38.17305600,"lon2":-85.72382500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.72,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":134.15,"desc":"APP"},
+{"type":"APP","freq":132.07,"desc":"APP"},
+{"type":"APP","freq":123.67,"desc":"APP"},
+{"type":"DEP","freq":123.67,"desc":"DEP"},
+{"type":"DEP","freq":132.07,"desc":"DEP"}
+]
+}

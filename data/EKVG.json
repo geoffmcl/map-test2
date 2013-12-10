@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EKVG","name":"Vagar","lat":62.06544100,"lon":-007.27991500,"rwys":1,"ils":2,"index":2827777,"path":"w010n60/w008n62"
+,"runways":[
+{"len_m":1249,"wid_m":29.87,"hdg":117,"surf":"Asphalt","rwy1":"13","lat1":62.06620800,"lon1":-7.28760600,"rwy2":"31","lat2":62.06096100,"lon2":-7.26648100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.85,"desc":"AFIS"},
+{"type":"TWR","freq":120.2,"desc":"AFIS"}
+]
+}

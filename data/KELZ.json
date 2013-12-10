@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KELZ","name":"Wellsville Muni Tarantine Fld","lat":42.1095235,"lon":-77.9899805,"rwys":1,"ils":1,"index":1679616,"path":"w080n40/w078n42"
+,"runways":[
+{"len_m":1615,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":42.10943300,"lon1":-77.99974700,"rwy2":"28","lat2":42.10961400,"lon2":-77.98021400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

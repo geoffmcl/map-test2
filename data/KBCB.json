@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBCB","name":"Virginia Tech Montgomery Executive","lat":37.20610115,"lon":-080.40761859,"rwys":1,"ils":0,"index":1630154,"path":"w090n30/w081n37"
+,"runways":[
+{"len_m":1386,"wid_m":29.87,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":37.21048947,"lon1":-80.41474583,"rwy2":"30","lat2":37.20478292,"lon2":-80.40085256}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.85,"desc":"ROANOKE CLNC DEL"},
+{"type":"APP","freq":126.9,"desc":"ROANOKE APP/DEP"}
+]
+}

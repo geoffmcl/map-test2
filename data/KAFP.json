@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAFP","name":"Anson Co","lat":35.0206385,"lon":-80.077118,"rwys":1,"ils":1,"index":1630019,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":35.02745800,"lon1":-80.08106400,"rwy2":"34","lat2":35.01381900,"lon2":-80.07317200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.05,"desc":"CHARLOTTE APP/DEP"}
+]
+}

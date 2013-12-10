@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZRT","name":"Rangiora","lat":-43.28783000,"lon":172.54077600,"rwys":3,"ils":0,"index":5770154,"path":"e170s50/e172s44"
+,"runways":[
+{"len_m":515,"wid_m":35.05,"hdg":59,"surf":"Turf/grass","rwy1":"04","lat1":-43.29113000,"lon1":172.54021500,"rwy2":"22","lat2":-43.28874400,"lon2":172.54566300},
+{"len_m":583,"wid_m":60.05,"hdg":122,"surf":"Turf/grass","rwy1":"10","lat1":-43.28798600,"lon1":172.53646800,"rwy2":"28","lat2":-43.29084400,"lon2":172.54250200},
+{"len_m":1181,"wid_m":60.05,"hdg":91,"surf":"Transparent","rwy1":"07","lat1":-43.28889100,"lon1":172.53354500,"rwy2":"25","lat2":-43.28907700,"lon2":172.54810500}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":172,"surf":"Turf/grass","lat1":-43.28776500,"lon1":172.54208500}
+]
+,"radios":[
+{"type":"CTAF","freq":119.2,"desc":"RANGIORA MULT"}
+]
+}

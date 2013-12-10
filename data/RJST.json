@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJST","name":"Matsushima","lat":38.40510425,"lon":141.21324975,"rwys":2,"ils":0,"index":5267480,"path":"e140n30/e141n38"
+,"runways":[
+{"len_m":2710,"wid_m":45.72,"hdg":57,"surf":"Concrete","rwy1":"07","lat1":38.39516700,"lon1":141.19819400,"rwy2":"25","lat2":38.40811100,"lon2":141.22450000},
+{"len_m":1498,"wid_m":45.72,"hdg":139,"surf":"Concrete","rwy1":"15","lat1":38.41372200,"lon1":141.20961100,"rwy2":"33","lat2":38.40341700,"lon2":141.22069400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":134.1,"desc":"RDR"},
+{"type":"APP","freq":123.85,"desc":"TCA"},
+{"type":"DEP","freq":120.1,"desc":"DEP"}
+]
+}

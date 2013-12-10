@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCSS","name":"Sungshan","lat":25.06580800,"lon":121.55378100,"rwys":1,"ils":2,"index":4938946,"path":"e120n20/e121n25"
+,"runways":[
+{"len_m":2614,"wid_m":60.05,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":25.07005000,"lon1":121.53962200,"rwy2":"28","lat2":25.06912200,"lon2":121.56551700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"TAIPEI APP"}
+]
+}

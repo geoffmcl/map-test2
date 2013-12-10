@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUYF","name":"Madison Co","lat":39.93369624,"lon":-083.46381119,"rwys":1,"ils":0,"index":1581178,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":39.93238900,"lon1":-83.46911400,"rwy2":"27","lat2":39.93303600,"lon2":-83.45487200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP"},
+{"type":"DEP","freq":126.5,"desc":"DAYTON DEP"}
+]
+}

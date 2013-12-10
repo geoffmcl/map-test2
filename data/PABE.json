@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PABE","name":"Bethel","lat":60.78148901,"lon":-161.84181432,"rwys":5,"ils":1,"index":304560,"path":"w170n60/w162n60"
+,"runways":[
+{"len_m":1950,"wid_m":45.72,"hdg":203,"surf":"Asphalt","rwy1":"18","lat1":60.78782800,"lon1":-161.82924700,"rwy2":"36","lat2":60.77176900,"lon2":-161.84350600},
+{"len_m":566,"wid_m":22.86,"hdg":128,"surf":"Gravel","rwy1":"11","lat1":60.78131900,"lon1":-161.84768900,"rwy2":"29","lat2":60.77815000,"lon2":-161.83955000},
+{"len_m":2072,"wid_m":46.02,"hdg":23,"surf":"Asphalt","rwy1":"01L","lat1":60.77127500,"lon1":-161.84400400,"rwy2":"19R","lat2":60.78833600,"lon2":-161.82885300},
+{"len_m":1218,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"01R","lat1":60.77101200,"lon1":-161.83995300,"rwy2":"19L","lat2":60.78104500,"lon2":-161.83105400},
+{"len_m":626,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":60.78131900,"lon1":-161.84768900,"rwy2":"30","lat2":60.77780677,"lon2":-161.83871964}
+]
+,"helipads":[
+{"rwy1":"H71","len_m":39,"wid_m":39.01,"hdg":-161,"surf":"Asphalt","lat1":60.78455975,"lon1":-161.83635190}
+]
+,"radios":[
+{"type":"ATIS","freq":119.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF/BETHEL WX"},
+{"type":"CTAF","freq":122,"desc":"CTAF/BETHEL WX"},
+{"type":"GND","freq":121.7,"desc":"Bethel Ground"},
+{"type":"TWR","freq":118.7,"desc":"Bethel Tower"},
+{"type":"APP","freq":125.2,"desc":"Anchorage ARTCC"},
+{"type":"DEP","freq":125.2,"desc":"Anchorage ARTCC"}
+]
+}

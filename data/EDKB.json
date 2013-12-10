@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDKB","name":"Bonn-hangelar","lat":50.76670700,"lon":007.16509400,"rwys":3,"ils":0,"index":3072816,"path":"e000n50/e007n50"
+,"runways":[
+{"len_m":799,"wid_m":29.87,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":50.77012200,"lon1":7.15749000,"rwy2":"29","lat2":50.76780400,"lon2":7.16821447},
+{"len_m":1003,"wid_m":29.87,"hdg":108,"surf":"Turf/grass","rwy1":"11C","lat1":50.77102384,"lon1":7.15723201,"rwy2":"29C","lat2":50.76810873,"lon2":7.17069423},
+{"len_m":1103,"wid_m":60.05,"hdg":108,"surf":"Turf/grass","rwy1":"11L","lat1":50.77164161,"lon1":7.15759929,"rwy2":"29R","lat2":50.76843503,"lon2":7.17240792}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":50.76703718,"lon1":7.16363274},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":50.76716884,"lon1":7.16328493},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":50.76729700,"lon1":7.16294889}
+]
+,"radios":[
+{"type":"TWR","freq":135.15,"desc":"Bonn-Hangelar Info"}
+]
+}

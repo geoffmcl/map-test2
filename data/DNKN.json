@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DNKN","name":"Mallam Aminu Intl","lat":12.04778425,"lon":8.524852,"rwys":2,"ils":3,"index":3086724,"path":"e000n10/e008n12"
+,"runways":[
+{"len_m":3301,"wid_m":60.05,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":12.04161700,"lon1":8.50665000,"rwy2":"24","lat2":12.05602500,"lon2":8.53320300},
+{"len_m":2450,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":12.03886700,"lon1":8.52186900,"rwy2":"23","lat2":12.05462800,"lon2":8.53768600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.6,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"KANO TWR"},
+{"type":"APP","freq":124.1,"desc":"KANO APP"},
+{"type":"APP","freq":118.1,"desc":"KANO APP"},
+{"type":"APP","freq":124.9,"desc":"KANO APP"}
+]
+}

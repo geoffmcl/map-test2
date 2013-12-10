@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"E48","name":"Upton Co","lat":31.1239351666667,"lon":-102.224860666667,"rwys":3,"ils":0,"index":1269315,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":1352,"wid_m":42.67,"hdg":64,"surf":"Turf/grass","rwy1":"06","lat1":31.11916700,"lon1":-102.23111100,"rwy2":"24","lat2":31.12444400,"lon2":-102.21833100},
+{"len_m":1253,"wid_m":22.86,"hdg":111,"surf":"Asphalt","rwy1":"10","lat1":31.12722200,"lon1":-102.23138900,"rwy2":"28","lat2":31.12305600,"lon2":-102.21916700},
+{"len_m":1168,"wid_m":36.58,"hdg":157,"surf":"Turf/grass","rwy1":"15","lat1":31.12972200,"lon1":-102.22694400,"rwy2":"33","lat2":31.12000000,"lon2":-102.22222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

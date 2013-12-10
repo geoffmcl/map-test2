@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPGD","name":"Punta Gorda","lat":26.91944666,"lon":-081.99993955,"rwys":3,"ils":0,"index":1613112,"path":"w090n20/w082n26"
+,"runways":[
+{"len_m":2192,"wid_m":46.02,"hdg":29,"surf":"Asphalt","rwy1":"04","lat1":26.91018000,"lon1":-81.99214400,"rwy2":"22","lat2":26.92745800,"lon2":-81.98138700},
+{"len_m":1735,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":26.92366300,"lon1":-81.99918000,"rwy2":"33","lat2":26.91022560,"lon2":-81.99020700},
+{"len_m":805,"wid_m":17.98,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":26.92349229,"lon1":-81.99814271,"rwy2":"27","lat2":26.92359325,"lon2":-81.99003402}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.67,"desc":"ASOS"},
+{"type":"CTAF","freq":119.55,"desc":"CTAF"},
+{"type":"CTAF","freq":122.97,"desc":"UNICOM"},
+{"type":"CLD","freq":127.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.55,"desc":"GROUND"},
+{"type":"TWR","freq":121,"desc":"TOWER"},
+{"type":"APP","freq":125.15,"desc":"FORT MYERS APP/DEP"}
+]
+}

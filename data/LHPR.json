@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LHPR","name":"Gyor Per","lat":47.62685875,"lon":17.81241325,"rwys":2,"ils":0,"index":3236459,"path":"e010n40/e017n47"
+,"runways":[
+{"len_m":1449,"wid_m":29.87,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":47.63030800,"lon1":17.79995300,"rwy2":"30","lat2":47.62389400,"lon2":17.81675000},
+{"len_m":1137,"wid_m":42.67,"hdg":119,"surf":"Dirt","rwy1":"12L","lat1":47.62911400,"lon1":17.80987200,"rwy2":"30R","lat2":47.62411900,"lon2":17.82307800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.5,"desc":"BUDAPEST INFO"}
+]
+}

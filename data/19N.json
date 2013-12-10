@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"19N","name":"Camden Co","lat":39.778429,"lon":-74.947811,"rwys":1,"ils":0,"index":1728624,"path":"w080n30/w075n39"
+,"runways":[
+{"len_m":945,"wid_m":13.72,"hdg":37,"surf":"Asphalt","rwy1":"05","lat1":39.77506900,"lon1":-74.95120300,"rwy2":"23","lat2":39.78178900,"lon2":-74.94441900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+}

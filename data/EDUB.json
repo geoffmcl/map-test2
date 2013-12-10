@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDUB","name":"Brandenburg Briest","lat":52.438471,"lon":12.4581875,"rwys":1,"ils":0,"index":3154841,"path":"e010n50/e012n52"
+,"runways":[
+{"len_m":1498,"wid_m":29.87,"hdg":72,"surf":"Concrete","rwy1":"07","lat1":52.43646700,"lon1":12.44766900,"rwy2":"25","lat2":52.44047500,"lon2":12.46870600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.35,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":130.12,"desc":"BRIEST INFO"}
+]
+}

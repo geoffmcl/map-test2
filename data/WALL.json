@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WALL","name":"Balikpapan/sepinggan","lat":-01.26373200,"lon":116.89516400,"rwys":1,"ils":1,"index":4855343,"path":"e110s10/e116s02"
+,"runways":[
+{"len_m":2495,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":-1.27266100,"lon1":116.88415000,"rwy2":"25","lat2":-1.26388300,"lon2":116.90480600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"BALIKPAPAN APP"},
+{"type":"APP","freq":121.1,"desc":"BALIKPAPAN APP"}
+]
+}

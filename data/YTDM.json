@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTDM","name":"Todmorden","lat":-27.12612208,"lon":134.77418727,"rwys":2,"ils":0,"index":5148595,"path":"e130s30/e134s28"
+,"runways":[
+{"len_m":990,"wid_m":15.85,"hdg":156,"surf":"Dirt","rwy1":"15","lat1":-27.11822047,"lon1":134.76967977,"rwy2":"33","lat2":-27.12643299,"lon2":134.77361550},
+{"len_m":447,"wid_m":17.98,"hdg":44,"surf":"Dirt","rwy1":"04","lat1":-27.12506374,"lon1":134.76839168,"rwy2":"22","lat2":-27.12219936,"lon2":134.77158000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

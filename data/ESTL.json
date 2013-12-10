@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESTL","name":"Ljungbyhed","lat":56.083992875,"lon":13.2117595,"rwys":4,"ils":1,"index":3171456,"path":"e010n50/e013n56"
+,"runways":[
+{"len_m":2270,"wid_m":39.93,"hdg":113,"surf":"Asphalt","rwy1":"11R","lat1":56.08733900,"lon1":13.17788100,"rwy2":"29L","lat2":56.07928900,"lon2":13.21138900},
+{"len_m":2010,"wid_m":39.93,"hdg":113,"surf":"Asphalt","rwy1":"11L","lat1":56.08852500,"lon1":13.19241700,"rwy2":"29R","lat2":56.08145600,"lon2":13.22213300},
+{"len_m":789,"wid_m":24.99,"hdg":113,"surf":"Asphalt","rwy1":"12R","lat1":56.08452800,"lon1":13.21631700,"rwy2":"30L","lat2":56.08175000,"lon2":13.22798300},
+{"len_m":788,"wid_m":24.99,"hdg":113,"surf":"Asphalt","rwy1":"12L","lat1":56.08591700,"lon1":13.21715000,"rwy2":"30R","lat2":56.08313900,"lon2":13.22880600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.75,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":129.7,"desc":"TWR"},
+{"type":"TWR","freq":130.7,"desc":"TWR"},
+{"type":"APP","freq":129.55,"desc":"APP"}
+]
+}

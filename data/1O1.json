@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1O1","name":"Grandfield Muni","lat":34.241469,"lon":-98.7403085,"rwys":2,"ils":0,"index":1335049,"path":"w100n30/w099n34"
+,"runways":[
+{"len_m":944,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.24365300,"lon1":-98.73859200,"rwy2":"35","lat2":34.23513900,"lon2":-98.73870300},
+{"len_m":469,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.24354200,"lon1":-98.74451700,"rwy2":"26","lat2":34.24354200,"lon2":-98.73942200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

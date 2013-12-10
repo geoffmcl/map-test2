@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMEN","name":"Essendon","lat":-37.72523346,"lon":144.89891556,"rwys":2,"ils":1,"index":5311763,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1327,"wid_m":45.11,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":-37.72030587,"lon1":144.90076151,"rwy2":"35","lat2":-37.73225613,"lon2":144.90131553},
+{"len_m":1922,"wid_m":49.99,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":-37.73140128,"lon1":144.89286592,"rwy2":"26","lat2":-37.73080400,"lon2":144.91465700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":144,"surf":"Asphalt","lat1":-37.71954772,"lon1":144.89420606},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":144,"surf":"Asphalt","lat1":-37.71928104,"lon1":144.89424242},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":144,"surf":"Asphalt","lat1":-37.71876336,"lon1":144.89430191},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":144,"surf":"Asphalt","lat1":-37.71852053,"lon1":144.89433695},
+{"rwy1":"H5","len_m":15,"wid_m":15.85,"hdg":144,"surf":"Asphalt","lat1":-37.71951427,"lon1":144.89510180},
+{"rwy1":"H6","len_m":14,"wid_m":14.94,"hdg":144,"surf":"Asphalt","lat1":-37.72542446,"lon1":144.90002417},
+{"rwy1":"H7","len_m":14,"wid_m":14.94,"hdg":144,"surf":"Concrete","lat1":-37.72900316,"lon1":144.89490619},
+{"rwy1":"H8","len_m":14,"wid_m":14.94,"hdg":144,"surf":"Asphalt","lat1":-37.72898880,"lon1":144.89946165},
+{"rwy1":"H9","len_m":14,"wid_m":14.94,"hdg":144,"surf":"Concrete","lat1":-37.72493301,"lon1":144.89938035}
+]
+,"radios":[
+{"type":"ATIS","freq":119.8,"desc":"YMEN ATIS"},
+{"type":"GND","freq":118.45,"desc":"ESSENDON GND"},
+{"type":"GND","freq":121.9,"desc":"ESSENDON GND"},
+{"type":"TWR","freq":125.1,"desc":"ESSENDON TWR"},
+{"type":"APP","freq":132,"desc":"MELBOURNE APP"},
+{"type":"APP","freq":135.69,"desc":"MELBOURNE APP"},
+{"type":"DEP","freq":118.45,"desc":"MELBOURNE DEP"},
+{"type":"DEP","freq":118.9,"desc":"MELBOURNE DEP"},
+{"type":"DEP","freq":129.4,"desc":"MELBOURNE DEP"}
+]
+}

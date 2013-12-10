@@ -1,0 +1,11 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUP","name":"Kupiano","lat":-10.07433700,"lon":148.21720600,"rwys":1,"ils":0,"index":5379065,"path":"e140s20/e148s11"
+,"runways":[
+{"len_m":976,"wid_m":30.48,"hdg":294,"surf":"Dirt","rwy1":"29","lat1":-10.07565277,"lon1":148.22219486,"rwy2":"11","lat2":-10.07194323,"lon2":148.21411514}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"KUP AWOS"}
+]
+}

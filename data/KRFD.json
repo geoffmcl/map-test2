@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRFD","name":"Chicago Rockford Intl","lat":42.19530275,"lon":-89.09656475,"rwys":2,"ils":2,"index":1483019,"path":"w090n40/w090n42"
+,"runways":[
+{"len_m":3048,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":42.19023100,"lon1":-89.11992500,"rwy2":"25","lat2":42.20164700,"lon2":-89.08635600},
+{"len_m":2498,"wid_m":45.72,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":42.18346900,"lon1":-89.09142200,"rwy2":"19","lat2":42.20586400,"lon2":-89.08855600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"ROCKFORD TWR"},
+{"type":"APP","freq":121,"desc":"ROCKFORD APP/DEP"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+}

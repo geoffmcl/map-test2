@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEBS","name":"Webster City Muni","lat":42.436794,"lon":-93.868713,"rwys":2,"ils":0,"index":1417496,"path":"w100n40/w094n42"
+,"runways":[
+{"len_m":1221,"wid_m":22.86,"hdg":143,"surf":"Concrete","rwy1":"14","lat1":42.44050600,"lon1":-93.87327500,"rwy2":"32","lat2":42.43161400,"lon2":-93.86454700},
+{"len_m":824,"wid_m":27.43,"hdg":47,"surf":"Turf/grass","rwy1":"05","lat1":42.43502800,"lon1":-93.87222200,"rwy2":"23","lat2":42.44002800,"lon2":-93.86480800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

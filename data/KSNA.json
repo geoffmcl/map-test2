@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSNA","name":"Orange County - John Wayne","lat":33.67812213,"lon":-117.86980993,"rwys":2,"ils":2,"index":1023720,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":1737,"wid_m":46.02,"hdg":27,"surf":"Asphalt","rwy1":"01L","lat1":33.66780315,"lon1":-117.87383220,"rwy2":"19R","lat2":33.68164685,"lon2":-117.86505780},
+{"len_m":879,"wid_m":22.86,"hdg":27,"surf":"Asphalt","rwy1":"01R","lat1":33.67399408,"lon1":-117.86804762,"rwy2":"19L","lat2":33.68100392,"lon2":-117.86360638}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":-117,"surf":"Asphalt","lat1":33.67656907,"lon1":-117.87067960},
+{"rwy1":"H2","len_m":13,"wid_m":13.11,"hdg":-117,"surf":"Asphalt","lat1":33.67673590,"lon1":-117.87058183},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":-117,"surf":"Asphalt","lat1":33.67665762,"lon1":-117.87038382},
+{"rwy1":"H4","len_m":13,"wid_m":13.11,"hdg":-117,"surf":"Asphalt","lat1":33.67649252,"lon1":-117.87049023},
+{"rwy1":"H5","len_m":17,"wid_m":17.98,"hdg":-117,"surf":"Asphalt","lat1":33.66812464,"lon1":-117.87196078}
+]
+,"radios":[
+{"type":"ATIS","freq":126,"desc":"ATIS"},
+{"type":"CTAF","freq":126.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.8,"desc":"GND"},
+{"type":"GND","freq":132.25,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"TWR","freq":126.8,"desc":"TWR"},
+{"type":"TWR","freq":128.35,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"SOCAL APP"},
+{"type":"APP","freq":124.65,"desc":"SOCAL APP"},
+{"type":"APP","freq":132.7,"desc":"SOCAL APP"},
+{"type":"DEP","freq":128.1,"desc":"SOCAL DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEFW","name":"Jefferson Muni","lat":42.01032075,"lon":-94.341931,"rwys":2,"ils":0,"index":1401090,"path":"w100n40/w095n42"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":142,"surf":"Concrete","rwy1":"14","lat1":42.01379200,"lon1":-94.34694400,"rwy2":"32","lat2":42.00679400,"lon2":-94.33983100},
+{"len_m":522,"wid_m":45.72,"hdg":191,"surf":"Turf/grass","rwy1":"18","lat1":42.01265800,"lon1":-94.33987100,"rwy2":"36","lat2":42.00803900,"lon2":-94.34107800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

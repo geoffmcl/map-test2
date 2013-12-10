@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFKI","name":"Kajaani","lat":64.2854705,"lon":27.6924165,"rwys":1,"ils":1,"index":3401361,"path":"e020n60/e027n64"
+,"runways":[
+{"len_m":2499,"wid_m":47.85,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":64.28344700,"lon1":27.66703600,"rwy2":"25","lat2":64.28749400,"lon2":27.71779700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+}

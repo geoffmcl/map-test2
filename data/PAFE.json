@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAFE","name":"Kake","lat":56.9613625,"lon":-133.910261,"rwys":1,"ils":0,"index":763064,"path":"w140n50/w134n56"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"10","lat1":56.96487200,"lon1":-133.91795000,"rwy2":"28","lat2":56.95785300,"lon2":-133.90257200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

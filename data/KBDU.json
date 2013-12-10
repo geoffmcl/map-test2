@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBDU","name":"Boulder Muni","lat":40.03874925,"lon":-105.2273655,"rwys":2,"ils":0,"index":1220739,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":1258,"wid_m":7.62,"hdg":92,"surf":"Dirt","rwy1":"08L","lat1":40.03972200,"lon1":-105.23473100,"rwy2":"26R","lat2":40.03916400,"lon2":-105.22000000},
+{"len_m":1258,"wid_m":22.86,"hdg":92,"surf":"Asphalt","rwy1":"08R","lat1":40.03833300,"lon1":-105.23473100,"rwy2":"26L","lat2":40.03777800,"lon2":-105.22000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

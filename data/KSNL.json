@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSNL","name":"Shawnee Rgnl","lat":35.356079,"lon":-96.941968,"rwys":2,"ils":1,"index":1367888,"path":"w100n30/w097n35"
+,"runways":[
+{"len_m":1706,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.36554400,"lon1":-96.94282800,"rwy2":"35","lat2":35.35016100,"lon2":-96.94281900},
+{"len_m":1274,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":35.35833300,"lon1":-96.94611400,"rwy2":"31","lat2":35.35027800,"lon2":-96.93611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.45,"desc":"OKLAHOMA CITY"}
+]
+}

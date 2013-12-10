@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZWSH","name":"Kashi","lat":39.542922,"lon":76.0199565,"rwys":1,"ils":2,"index":4202592,"path":"e070n30/e076n39"
+,"runways":[
+{"len_m":3190,"wid_m":41.15,"hdg":85,"surf":"Concrete","rwy1":"08","lat1":39.54189400,"lon1":76.00144400,"rwy2":"26","lat2":39.54395000,"lon2":76.03846900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"TWR","freq":130,"desc":"TWR"}
+]
+}

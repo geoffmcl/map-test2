@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDBH","name":"Barth","lat":54.3389085,"lon":12.709896,"rwys":2,"ils":0,"index":3154962,"path":"e010n50/e012n54"
+,"runways":[
+{"len_m":1199,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":54.33817500,"lon1":12.70088100,"rwy2":"27","lat2":54.33817300,"lon2":12.71933000},
+{"len_m":900,"wid_m":39.93,"hdg":89,"surf":"Turf/grass","rwy1":"09L","lat1":54.33958300,"lon1":12.70276700,"rwy2":"27R","lat2":54.33970300,"lon2":12.71660600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":118.07,"desc":"INFO"},
+{"type":"APP","freq":126.42,"desc":"BERLIN RADAR"}
+]
+}

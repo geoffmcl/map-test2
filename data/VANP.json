@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VANP","name":"Dr Ambedkar Intl","lat":21.0947675,"lon":79.04484975,"rwys":2,"ils":1,"index":4250560,"path":"e070n20/e079n21"
+,"runways":[
+{"len_m":3210,"wid_m":45.72,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":21.10902200,"lon1":79.03383300,"rwy2":"32","lat2":21.08575300,"lon2":79.05227200},
+{"len_m":1944,"wid_m":45.72,"hdg":84,"surf":"Asphalt","rwy1":"09","lat1":21.09128900,"lon1":79.03733600,"rwy2":"27","lat2":21.09300600,"lon2":79.05595800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+}

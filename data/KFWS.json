@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFWS","name":"Ft. Worth Spinks","lat":32.56572003,"lon":-097.31243213,"rwys":2,"ils":1,"index":1351330,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1829,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":32.57251400,"lon1":-97.30965600,"rwy2":"35L","lat2":32.55601700,"lon2":-97.30969200},
+{"len_m":1219,"wid_m":17.98,"hdg":180,"surf":"Turf/grass","rwy1":"17L","lat1":32.57223986,"lon1":-97.30648676,"rwy2":"35R","lat2":32.56123986,"lon2":-97.30648676}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.62,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"GND","freq":119.47,"desc":"GND"},
+{"type":"TWR","freq":124.62,"desc":"TWR"},
+{"type":"APP","freq":135.97,"desc":"REGIONAL APP/DEP"}
+]
+}

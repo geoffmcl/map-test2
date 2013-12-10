@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAOB","name":"Overberg","lat":-34.56042800,"lon":020.24847100,"rwys":2,"ils":0,"index":3280344,"path":"e020s40/e020s35"
+,"runways":[
+{"len_m":3114,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"17","lat1":-34.55439099,"lon1":20.25028880,"rwy2":"35","lat2":-34.57750501,"lon2":20.26955120},
+{"len_m":2116,"wid_m":39.93,"hdg":75,"surf":"Asphalt","rwy1":"10","lat1":-34.55954583,"lon1":20.22903004,"rwy2":"28","lat2":-34.55472817,"lon2":20.25134396}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.8,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"APP"}
+]
+}

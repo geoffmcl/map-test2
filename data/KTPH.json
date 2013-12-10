@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTPH","name":"Tonopah","lat":38.0605215,"lon":-117.08680425,"rwys":2,"ils":0,"index":1024003,"path":"w120n30/w118n38"
+,"runways":[
+{"len_m":2150,"wid_m":24.38,"hdg":164,"surf":"Asphalt","rwy1":"15","lat1":38.06753300,"lon1":-117.09272200,"rwy2":"33","lat2":38.04881700,"lon2":-117.08636700},
+{"len_m":1665,"wid_m":15.24,"hdg":124,"surf":"Asphalt","rwy1":"11","lat1":38.06716900,"lon1":-117.09183900,"rwy2":"29","lat2":38.05856700,"lon2":-117.07628900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

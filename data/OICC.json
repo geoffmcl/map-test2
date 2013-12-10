@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OICC","name":"Shahid Ashrafi Esfahani","lat":34.3458515,"lon":47.158132,"rwys":1,"ils":1,"index":3727120,"path":"e040n30/e047n34"
+,"runways":[
+{"len_m":3418,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"11","lat1":34.35260600,"lon1":47.14143300,"rwy2":"29","lat2":34.33909700,"lon2":47.17483100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"KERMANSHAH INFO"},
+{"type":"TWR","freq":122.45,"desc":"KERMANSHAH TWR"},
+{"type":"TWR","freq":121.9,"desc":"KERMANSHAH TWR"}
+]
+}

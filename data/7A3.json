@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7A3","name":"Lanett Muni","lat":32.8120485,"lon":-85.2295905,"rwys":1,"ils":0,"index":1547955,"path":"w090n30/w086n32"
+,"runways":[
+{"len_m":960,"wid_m":24.38,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":32.81122800,"lon1":-85.23462800,"rwy2":"26","lat2":32.81286900,"lon2":-85.22455300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":126.55,"desc":"ATLANTA APP/DEP"}
+]
+}

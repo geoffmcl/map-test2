@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YJRX","name":"Jindalee Receiver","lat":-28.32280756,"lon":122.00719619,"rwys":2,"ils":0,"index":4951912,"path":"e120s30/e122s29"
+,"runways":[
+{"len_m":3115,"wid_m":114.91,"hdg":35,"surf":"Dirt","rwy1":"3","lat1":-28.33843622,"lon1":121.98686561,"rwy2":"21","lat2":-28.31550216,"lon2":122.00524462},
+{"len_m":3141,"wid_m":71.93,"hdg":125,"surf":"Dirt","rwy1":"12","lat1":-28.31543670,"lon1":122.00606815,"rwy2":"30","lat2":-28.33180306,"lon2":122.03222465}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

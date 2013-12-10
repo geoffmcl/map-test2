@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNJM","name":"Bogue Mcalf","lat":34.6901345,"lon":-77.029019,"rwys":1,"ils":0,"index":1679147,"path":"w080n30/w078n34"
+,"runways":[
+{"len_m":1218,"wid_m":29.26,"hdg":40,"surf":"Dirt","rwy1":"05","lat1":34.68598300,"lon1":-77.03336900,"rwy2":"23","lat2":34.69428600,"lon2":-77.02466900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.45,"desc":"CTAF"},
+{"type":"TWR","freq":126.45,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"CHERRY POINT APP/DEP"},
+{"type":"APP","freq":124.1,"desc":"CHERRY POINT APP/DEP"}
+]
+}

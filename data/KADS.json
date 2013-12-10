@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KADS","name":"Addison","lat":32.968558,"lon":-96.836454,"rwys":1,"ils":1,"index":1367736,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":2194,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":32.97784400,"lon1":-96.84051100,"rwy2":"33","lat2":32.95927200,"lon2":-96.83239700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.4,"desc":"ATIS"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"RGNL APP/DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DGTK","name":"Takoradi Ab","lat":04.89434626,"lon":-001.77342311,"rwys":1,"ils":0,"index":2922425,"path":"w010n00/w002n04"
+,"runways":[
+{"len_m":1751,"wid_m":45.11,"hdg":29,"surf":"Asphalt","rwy1":"4","lat1":4.88912400,"lon1":-1.77866100,"rwy2":"22","lat2":4.90286000,"lon2":-1.77080200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":-1,"surf":"Concrete","lat1":4.89443535,"lon1":-1.77436297}
+]
+,"radios":[
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":122.8,"desc":"TWR"}
+]
+}

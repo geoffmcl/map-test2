@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F05","name":"Wilbarger Co","lat":34.22567075,"lon":-99.28377575,"rwys":2,"ils":0,"index":1318666,"path":"w100n30/w100n34"
+,"runways":[
+{"len_m":1553,"wid_m":30.48,"hdg":31,"surf":"Asphalt","rwy1":"02","lat1":34.21982800,"lon1":-99.28777800,"rwy2":"20","lat2":34.23172200,"lon2":-99.27886700},
+{"len_m":1311,"wid_m":24.38,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":34.23129700,"lon1":-99.28598300,"rwy2":"34","lat2":34.21983600,"lon2":-99.28247500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"ALTUS APP/DEP"}
+]
+}

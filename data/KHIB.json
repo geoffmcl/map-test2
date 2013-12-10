@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHIB","name":"Chisholm Hibbing","lat":47.3872635,"lon":-92.83978125,"rwys":2,"ils":2,"index":1434200,"path":"w100n40/w093n47"
+,"runways":[
+{"len_m":2059,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":47.39168100,"lon1":-92.84778900,"rwy2":"31","lat2":47.37923100,"lon2":-92.82758900},
+{"len_m":937,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":47.38632500,"lon1":-92.84658300,"rwy2":"22","lat2":47.39181700,"lon2":-92.83716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.4,"desc":"DULUTH CLNC DEL"},
+{"type":"APP","freq":125.45,"desc":"DULUTH APP/DEP"}
+]
+}

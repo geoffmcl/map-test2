@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOJ","name":"Bricy","lat":47.98182300,"lon":001.77676860,"rwys":1,"ils":1,"index":2974331,"path":"e000n40/e001n47"
+,"runways":[
+{"len_m":2403,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":47.98391100,"lon1":1.74556100,"rwy2":"25","lat2":47.99154400,"lon2":1.77568900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGYD","name":"Raf Cranwell","lat":53.03328995,"lon":-000.48665704,"rwys":3,"ils":1,"index":2941890,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":1825,"wid_m":45.11,"hdg":82,"surf":"Asphalt","rwy1":"09","lat1":53.02873329,"lon1":-0.50574016,"rwy2":"27","lat2":53.03081271,"lon2":-0.47874919},
+{"len_m":1460,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":53.02105754,"lon1":-0.48543822,"rwy2":"19","lat2":53.03404646,"lon2":-0.48233378},
+{"len_m":760,"wid_m":39.93,"hdg":82,"surf":"Turf/grass","rwy1":"09R","lat1":53.02851773,"lon1":-0.49810978,"rwy2":"27L","lat2":53.02935581,"lon2":-0.48685468}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.67,"desc":"Cranwell Information"},
+{"type":"GND","freq":122.1,"desc":"Cranwell Departure"},
+{"type":"TWR","freq":125.05,"desc":"Cranwell Tower"},
+{"type":"APP","freq":119.37,"desc":"Cranwell Approach"},
+{"type":"DEP","freq":119.37,"desc":"Cranwell Departure"}
+]
+}

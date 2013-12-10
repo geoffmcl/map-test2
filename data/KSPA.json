@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSPA","name":"Spartanburg Downtown Mem","lat":34.915732,"lon":-81.956493,"rwys":1,"ils":0,"index":1613624,"path":"w090n30/w082n34"
+,"runways":[
+{"len_m":1585,"wid_m":30.48,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":34.91038600,"lon1":-81.96225000,"rwy2":"23","lat2":34.92107800,"lon2":-81.95073600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.4,"desc":"GREER APP/DEP"}
+]
+}

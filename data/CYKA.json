@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYKA","name":"Kamloops","lat":50.69917457,"lon":-120.44189468,"rwys":2,"ils":1,"index":975658,"path":"w130n50/w121n50"
+,"runways":[
+{"len_m":1833,"wid_m":45.11,"hdg":103,"surf":"Asphalt","rwy1":"08","lat1":50.70431488,"lon1":-120.45711317,"rwy2":"26","lat2":50.70053537,"lon2":-120.43185329},
+{"len_m":859,"wid_m":14.94,"hdg":61,"surf":"Asphalt","rwy1":"04","lat1":50.69945593,"lon1":-120.44626315,"rwy2":"22","lat2":50.70319300,"lon2":-120.43560816}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"SHELL AERO CNTR"}
+]
+}

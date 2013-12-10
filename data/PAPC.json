@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPC","name":"Port Clarence Cgs","lat":65.2536955,"lon":-166.8583305,"rwys":1,"ils":0,"index":222928,"path":"w170n60/w167n65"
+,"runways":[
+{"len_m":1368,"wid_m":36.88,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":65.25983300,"lon1":-166.85841100,"rwy2":"35","lat2":65.24755800,"lon2":-166.85825000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.85,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

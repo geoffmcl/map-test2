@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SANU","name":"San Juan","lat":-31.571472,"lon":-68.4181805,"rwys":1,"ils":0,"index":1822362,"path":"w070s40/w069s32"
+,"runways":[
+{"len_m":2464,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":-31.56036100,"lon1":-68.41827800,"rwy2":"36","lat2":-31.58258300,"lon2":-68.41808300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.35,"desc":"TWR"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"APP"},
+{"type":"APP","freq":119.3,"desc":"APP"}
+]
+}

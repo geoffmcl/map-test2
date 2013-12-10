@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSHC","name":"Xiaoshan","lat":30.229504,"lon":120.434453,"rwys":1,"ils":2,"index":4922889,"path":"e120n30/e120n30"
+,"runways":[
+{"len_m":3600,"wid_m":45.11,"hdg":62,"surf":"Concrete","rwy1":"07","lat1":30.22211900,"lon1":120.41780000,"rwy2":"25","lat2":30.23688900,"lon2":120.45110600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"HANGZHOU ATIS"},
+{"type":"GND","freq":121.75,"desc":"HANGZHOU GND"},
+{"type":"TWR","freq":118.3,"desc":"HANGZHOU TWR"},
+{"type":"TWR","freq":130,"desc":"HANGZHOU TWR"},
+{"type":"APP","freq":125.55,"desc":"HANGZHOU APP AREA 1"},
+{"type":"APP","freq":126.05,"desc":"HANGZHOU APP AREA 2"},
+{"type":"APP","freq":119.15,"desc":"HANGZHOU APP AREA 2"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPPO","name":"La Porte Muni","lat":41.5726625,"lon":-86.73453525,"rwys":2,"ils":0,"index":1532129,"path":"w090n40/w087n41"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":41.56554700,"lon1":-86.73764700,"rwy2":"20","lat2":41.57843100,"lon2":-86.73136700},
+{"len_m":853,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":41.57601400,"lon1":-86.73823300,"rwy2":"32","lat2":41.57065800,"lon2":-86.73089400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.05,"desc":"SOUTH BEND APP/DEP"}
+]
+}

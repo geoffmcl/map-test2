@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHUL","name":"Houlton Intl","lat":46.123686,"lon":-67.79245125,"rwys":2,"ils":0,"index":1843712,"path":"w070n40/w068n46"
+,"runways":[
+{"len_m":1528,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"05","lat1":46.11718300,"lon1":-67.79719400,"rwy2":"23","lat2":46.12894700,"lon2":-67.78694200},
+{"len_m":1523,"wid_m":45.72,"hdg":351,"surf":"Asphalt","rwy1":"01","lat1":46.11752200,"lon1":-67.79145000,"rwy2":"19","lat2":46.13109200,"lon2":-67.79421900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

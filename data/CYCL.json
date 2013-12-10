@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYCL","name":"Charlo","lat":47.990418,"lon":-66.3313865,"rwys":1,"ils":0,"index":1860218,"path":"w070n40/w067n47"
+,"runways":[
+{"len_m":1842,"wid_m":45.72,"hdg":104,"surf":"Asphalt","rwy1":"12","lat1":47.99250000,"lon1":-66.34333100,"rwy2":"30","lat2":47.98833600,"lon2":-66.31944200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"CTAF"},
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+}

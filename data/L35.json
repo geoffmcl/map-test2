@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"L35","name":"Big Bear City","lat":34.26197700,"lon":-116.85358900,"rwys":1,"ils":0,"index":1040144,"path":"w120n30/w117n34"
+,"runways":[
+{"len_m":1788,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.26376859,"lon1":-116.86579090,"rwy2":"26","lat2":34.26384141,"lon2":-116.84637509}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.92,"desc":"AWOS"},
+{"type":"CTAF","freq":123.05,"desc":"Big Bear Unicom"}
+]
+}

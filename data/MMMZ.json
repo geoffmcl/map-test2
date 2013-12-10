@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMMZ","name":"General Rafael Buelna Intl","lat":23.16672700,"lon":-106.26494600,"rwys":1,"ils":1,"index":1203274,"path":"w110n20/w107n23"
+,"runways":[
+{"len_m":2693,"wid_m":60.05,"hdg":93,"surf":"Asphalt","rwy1":"08","lat1":23.16202500,"lon1":-106.27783100,"rwy2":"26","lat2":23.16068600,"lon2":-106.25156400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"MAZATLAN TWR"},
+{"type":"APP","freq":121.2,"desc":"MAZATLAN APP"}
+]
+}

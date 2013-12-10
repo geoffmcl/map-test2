@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHLR","name":"Hood Aaf","lat":31.1379505,"lon":-97.71420925,"rwys":2,"ils":0,"index":1351241,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":1436,"wid_m":43.89,"hdg":163,"surf":"Asphalt","rwy1":"15","lat1":31.14356110,"lon1":-97.71614216,"rwy2":"33","lat2":31.13114290,"lon2":-97.71186384},
+{"len_m":1159,"wid_m":43.89,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":31.14356100,"lon1":-97.71614200,"rwy2":"34","lat2":31.13353700,"lon2":-97.71268900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":133.85,"desc":"GND"},
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+}

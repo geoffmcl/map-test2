@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTNK","name":"Tennant Creek","lat":-19.64094745,"lon":134.18413657,"rwys":3,"ils":0,"index":5149073,"path":"e130s20/e134s20"
+,"runways":[
+{"len_m":1957,"wid_m":29.87,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":-19.63589237,"lon1":134.16954220,"rwy2":"25","lat2":-19.63113463,"lon2":134.18751318},
+{"len_m":1053,"wid_m":17.98,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":-19.63383181,"lon1":134.17579223,"rwy2":"29","lat2":-19.63848096,"lon2":134.18455258},
+{"len_m":737,"wid_m":11.89,"hdg":23,"surf":"Asphalt","rwy1":"2","lat1":-19.63780860,"lon1":134.18404058,"rwy2":"20","lat2":-19.63169996,"lon2":134.18683776}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

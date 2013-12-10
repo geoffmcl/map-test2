@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"P49","name":"Somerton","lat":32.60088444,"lon":-114.66578667,"rwys":2,"ils":0,"index":1072801,"path":"w120n30/w115n32"
+,"runways":[
+{"len_m":1065,"wid_m":60.96,"hdg":152,"surf":"Dirt","rwy1":"14","lat1":32.60516146,"lon1":-114.66837349,"rwy2":"32","lat2":32.59660742,"lon2":-114.66319985},
+{"len_m":548,"wid_m":45.72,"hdg":43,"surf":"Dirt","rwy1":"03","lat1":32.59907896,"lon1":-114.66778519,"rwy2":"21","lat2":32.60268992,"lon2":-114.66378815}
+]
+,"navaids":[
+{"type":"SDME","hdg_t":43.9,"dist_nm":3.8,"freq":113.7,"lat":32.64682200,"lon":-114.61343600,"rng_nm":40,"alt_fmsl":193,"id":"NYL","desc":"YUMA TACAN"},
+{"type":"VOR","hdg_t":17.6,"dist_nm":10.5,"freq":116.8,"lat":32.76813889,"lon":-114.60283333,"rng_nm":130,"alt_fmsl":130,"id":"BZA","desc":"BARD VORTAC"},
+{"type":"VOR","hdg_t":273.7,"dist_nm":29,"freq":115,"lat":32.63105600,"lon":-115.23759200,"rng_nm":130,"alt_fmsl":74,"id":"MXL","desc":"MEXICALI VOR-DME"},
+{"type":"VOR","hdg_t":281.9,"dist_nm":43.5,"freq":115.9,"lat":32.74886111,"lon":-115.50858333,"rng_nm":130,"alt_fmsl":-20,"id":"IPL","desc":"IMPERIAL VORTAC"},
+{"type":"SDME","hdg_t":285.3,"dist_nm":53.2,"freq":111,"lat":32.83177200,"lon":-115.68113100,"rng_nm":25,"alt_fmsl":-50,"id":"NJK","desc":"EL CENTRO TACAN"},
+{"type":"VOR","hdg_t":355.4,"dist_nm":59.7,"freq":117.4,"lat":33.59605556,"lon":-114.76127778,"rng_nm":130,"alt_fmsl":410,"id":"BLH","desc":"BLYTHE VORTAC"},
+{"type":"VOR","hdg_t":359.4,"dist_nm":89.9,"freq":117.9,"lat":34.10200000,"lon":-114.68208333,"rng_nm":130,"alt_fmsl":1000,"id":"PKE","desc":"PARKER VORTAC"},
+{"type":"VOR","hdg_t":141.6,"dist_nm":94.8,"freq":112.1,"lat":31.35424700,"lon":-113.51938600,"rng_nm":130,"alt_fmsl":30,"id":"PPE","desc":"PENASCO VOR-DME"},
+{"type":"VOR","hdg_t":309.6,"dist_nm":97.2,"freq":116.2,"lat":33.62808333,"lon":-116.16019444,"rng_nm":130,"alt_fmsl":-87,"id":"TRM","desc":"THERMAL VORTAC"},
+{"type":"VOR","hdg_t":288.9,"dist_nm":102.2,"freq":114,"lat":33.14047222,"lon":-116.58594444,"rng_nm":40,"alt_fmsl":5560,"id":"JLI","desc":"JULIAN VORTAC"}
+]
+}

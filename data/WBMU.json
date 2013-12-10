@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WBMU","name":"Mulu","lat":4.0483335,"lon":114.805,"rwys":1,"ils":0,"index":4822918,"path":"e110n00/e114n04"
+,"runways":[
+{"len_m":1499,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":4.04275000,"lon1":114.80116600,"rwy2":"21","lat2":4.05391700,"lon2":114.80883400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":121.7,"desc":"TWR"},
+{"type":"APP","freq":129.2,"desc":"TWR"}
+]
+}

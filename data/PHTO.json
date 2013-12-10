@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHTO","name":"Hilo Intl","lat":19.71616243,"lon":-155.04756982,"rwys":2,"ils":1,"index":400239,"path":"w160n10/w156n19"
+,"runways":[
+{"len_m":2993,"wid_m":46.02,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":19.72138000,"lon1":-155.05785950,"rwy2":"26","lat2":19.72135900,"lon2":-155.02930200},
+{"len_m":1712,"wid_m":46.02,"hdg":40,"surf":"Asphalt","rwy1":"03","lat1":19.71246425,"lon1":-155.06252600,"rwy2":"21","lat2":19.72418375,"lon2":-155.05186627}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":41.15,"hdg":-155,"surf":"Concrete","lat1":19.71723120,"lon1":-155.05567003},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71670882,"lon1":-155.05636976},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71656984,"lon1":-155.05620136},
+{"rwy1":"H4","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71643519,"lon1":-155.05603065},
+{"rwy1":"H5","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71611814,"lon1":-155.05691649},
+{"rwy1":"H6","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71598132,"lon1":-155.05674347},
+{"rwy1":"H7","len_m":20,"wid_m":20.12,"hdg":-155,"surf":"Concrete","lat1":19.71584451,"lon1":-155.05657507}
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP/DEP"}
+]
+}

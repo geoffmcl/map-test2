@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LZTT","name":"Poprad Tatry","lat":49.06855505,"lon":020.24804707,"rwys":2,"ils":1,"index":3285696,"path":"e020n40/e020n49"
+,"runways":[
+{"len_m":2591,"wid_m":45.11,"hdg":94,"surf":"Concrete","rwy1":"09","lat1":49.07440040,"lon1":20.22376414,"rwy2":"27","lat2":49.07269912,"lon2":20.25913547},
+{"len_m":761,"wid_m":81.99,"hdg":73,"surf":"Turf/grass","rwy1":"07","lat1":49.06979992,"lon1":20.23606631,"rwy2":"25","lat2":49.07173499,"lon2":20.24606530}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"TWR","freq":118.62,"desc":"TWR"},
+{"type":"TWR","freq":121.35,"desc":"TWR"},
+{"type":"APP","freq":118.62,"desc":"APP"},
+{"type":"APP","freq":121.35,"desc":"APP"},
+{"type":"APP","freq":118.9,"desc":"APP"}
+]
+}

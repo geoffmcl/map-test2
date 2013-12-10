@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LJLJ","name":"Ljubljana","lat":46.23088895,"lon":014.45424599,"rwys":1,"ils":1,"index":3187209,"path":"e010n40/e014n46"
+,"runways":[
+{"len_m":3300,"wid_m":45.11,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":46.23249200,"lon1":14.44039200,"rwy2":"31","lat2":46.21487800,"lon2":14.47482500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.18,"desc":"LJUBLJANA ATIS"},
+{"type":"GND","freq":121.63,"desc":"LJUBLJANA GROUND"},
+{"type":"TWR","freq":118,"desc":"LJUBLJANA TOWER"},
+{"type":"TWR","freq":118.75,"desc":"LJUBLJANA TOWER"},
+{"type":"APP","freq":135.27,"desc":"LJUBLJANA APP"},
+{"type":"APP","freq":136,"desc":"LJUBLJANA APP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMIV","name":"Millville Muni","lat":39.36787,"lon":-75.07226,"rwys":2,"ils":1,"index":1712211,"path":"w080n30/w076n39"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":39.36703600,"lon1":-75.08240600,"rwy2":"28","lat2":39.36702800,"lon2":-75.06118100},
+{"len_m":1541,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"14","lat1":39.37361900,"lon1":-75.07904700,"rwy2":"32","lat2":39.36379700,"lon2":-75.06640600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123.65,"desc":"CTAF"},
+{"type":"CTAF","freq":131.1,"desc":"UNICOM"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"}
+]
+}

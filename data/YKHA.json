@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YKHA","name":"Khancoban","lat":-36.21556358,"lon":148.11356982,"rwys":1,"ils":0,"index":5377392,"path":"e140s40/e148s37"
+,"runways":[
+{"len_m":502,"wid_m":14.94,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":-36.21262392,"lon1":148.10953725,"rwy2":"32","lat2":-36.21637183,"lon2":148.11268239}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"KHANCOBAN MULT"},
+{"type":"TWR","freq":125.2,"desc":"MELBOURNE CENTRE CNTR"}
+]
+}

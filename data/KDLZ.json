@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDLZ","name":"Delaware Muni","lat":40.2797015,"lon":-83.1148015,"rwys":1,"ils":0,"index":1581203,"path":"w090n40/w084n40"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":40.28069700,"lon1":-83.12366700,"rwy2":"28","lat2":40.27870600,"lon2":-83.10593600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.2,"desc":"COLUMBUS APP/DEP"}
+]
+}

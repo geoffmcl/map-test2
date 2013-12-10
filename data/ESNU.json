@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESNU","name":"Umea","lat":63.79282800,"lon":020.28276100,"rwys":1,"ils":2,"index":3286640,"path":"e020n60/e020n63"
+,"runways":[
+{"len_m":2301,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":63.79854200,"lon1":20.26930800,"rwy2":"32","lat2":63.78308600,"lon2":20.30026400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.07,"desc":"TWR"},
+{"type":"TWR","freq":119.8,"desc":"TWR"}
+]
+}

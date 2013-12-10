@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDXZ","name":"St George Muni","lat":37.03076170,"lon":-113.50963962,"rwys":1,"ils":1,"index":1089473,"path":"w120n30/w114n37"
+,"runways":[
+{"len_m":2833,"wid_m":46.02,"hdg":24,"surf":"Asphalt","rwy1":"1","lat1":37.02500675,"lon1":-113.51727615,"rwy2":"19","lat2":37.04822690,"lon2":-113.50404386}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"WX AWOS-3 at SGU"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/Unicom"},
+{"type":"APP","freq":124.2,"desc":"LA Center APP/DEP Con"}
+]
+}

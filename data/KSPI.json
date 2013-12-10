@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSPI","name":"Capital","lat":39.84610700,"lon":-089.67697900,"rwys":3,"ils":3,"index":1482865,"path":"w090n30/w090n39"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":41,"surf":"Concrete","rwy1":"04","lat1":39.83690000,"lon1":-89.68643600,"rwy2":"22","lat2":39.85331400,"lon2":-89.66751400},
+{"len_m":2133,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":39.84948300,"lon1":-89.68759200,"rwy2":"31","lat2":39.83802500,"lon2":-89.66757800},
+{"len_m":1615,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":39.85031100,"lon1":-89.67946400,"rwy2":"36","lat2":39.83576700,"lon2":-89.67987500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"CTAF","freq":131.41,"desc":"UNICOM"},
+{"type":"CTAF","freq":121.3,"desc":"CTAF"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.3,"desc":"SPRINGFIELD TWR"},
+{"type":"APP","freq":118.6,"desc":"SPRINGFIELD APP/DEP"},
+{"type":"APP","freq":126.15,"desc":"SPRINGFIELD APP/DEP"}
+]
+}

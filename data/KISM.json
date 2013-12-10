@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KISM","name":"Kissimmee Gateway","lat":28.29338100,"lon":-081.43699600,"rwys":2,"ils":1,"index":1613202,"path":"w090n20/w082n28"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":148,"surf":"Asphalt","rwy1":"15","lat1":28.29624700,"lon1":-81.44169700,"rwy2":"33","lat2":28.28224200,"lon2":-81.43184200},
+{"len_m":1524,"wid_m":45.72,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":28.28684400,"lon1":-81.44405000,"rwy2":"24","lat2":28.29411900,"lon2":-81.43086400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.45,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.95,"desc":"ORLANDO CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.45,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"ORLANDO APP/DEP"}
+]
+}

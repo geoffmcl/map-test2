@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSDY","name":"Sidney Richland Muni","lat":47.70728875,"lon":-104.191741,"rwys":2,"ils":0,"index":1237611,"path":"w110n40/w105n47"
+,"runways":[
+{"len_m":1738,"wid_m":30.48,"hdg":23,"surf":"Asphalt","rwy1":"01","lat1":47.69763300,"lon1":-104.20110000,"rwy2":"19","lat2":47.71194700,"lon2":-104.19178100},
+{"len_m":1225,"wid_m":30.48,"hdg":117,"surf":"Asphalt","rwy1":"10","lat1":47.71229700,"lon1":-104.19431400,"rwy2":"28","lat2":47.70727800,"lon2":-104.17976900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

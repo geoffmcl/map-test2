@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWLM","name":"Williamtown","lat":-32.79123700,"lon":151.83940100,"rwys":1,"ils":1,"index":5426763,"path":"e150s40/e151s33"
+,"runways":[
+{"len_m":2438,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":-32.78876700,"lon1":151.82486900,"rwy2":"30","lat2":-32.80298900,"lon2":151.84472200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.7,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CLD","freq":130.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":135.7,"desc":"WILLY APP"}
+]
+}

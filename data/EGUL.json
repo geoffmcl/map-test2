@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGUL","name":"Raf Lakenheath","lat":52.40434611,"lon":000.55806950,"rwys":1,"ils":1,"index":2958234,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":2740,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":52.40246056,"lon1":0.54438686,"rwy2":"24","lat2":52.41635344,"lon2":0.57764838}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Lakenheath Tower"},
+{"type":"APP","freq":136.5,"desc":"Lakenheath Approach"},
+{"type":"APP","freq":128.9,"desc":"Lakenheath Radar"}
+]
+}

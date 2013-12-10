@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAKI","name":"Kipnuk","lat":59.932951,"lon":-164.030514,"rwys":1,"ils":0,"index":255355,"path":"w170n50/w165n59"
+,"runways":[
+{"len_m":647,"wid_m":10.97,"hdg":165,"surf":"Gravel","rwy1":"15","lat1":59.93576900,"lon1":-164.03193100,"rwy2":"33","lat2":59.93013300,"lon2":-164.02909700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+}

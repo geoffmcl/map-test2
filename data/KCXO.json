@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCXO","name":"Lone Star Executive","lat":30.35491934,"lon":-095.41840256,"rwys":2,"ils":1,"index":1383954,"path":"w100n30/w096n30"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":145,"surf":"Concrete","rwy1":"14","lat1":30.35930000,"lon1":-95.41775300,"rwy2":"32","lat2":30.34570800,"lon2":-95.40697500},
+{"len_m":1521,"wid_m":30.48,"hdg":17,"surf":"Concrete","rwy1":"01","lat1":30.34558705,"lon1":-95.41948784,"rwy2":"19","lat2":30.35870122,"lon2":-95.41482693}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":124.12,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.45,"desc":"GROUND"},
+{"type":"TWR","freq":124.12,"desc":"LONE STAR TOWER"},
+{"type":"APP","freq":119.7,"desc":"HOUSTON APP/DEP"}
+]
+}

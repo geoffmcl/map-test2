@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBVS","name":"Skagit Rgnl","lat":48.4698585,"lon":-122.4204575,"rwys":2,"ils":0,"index":942746,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":1669,"wid_m":29.87,"hdg":126,"surf":"Asphalt","rwy1":"10","lat1":48.47784200,"lon1":-122.43092500,"rwy2":"28","lat2":48.46892500,"lon2":-122.41276100},
+{"len_m":914,"wid_m":17.98,"hdg":56,"surf":"Asphalt","rwy1":"04","lat1":48.46406100,"lon1":-122.42422500,"rwy2":"22","lat2":48.46860600,"lon2":-122.41391900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.7,"desc":"WHIDBEY APP/DEP"}
+]
+}

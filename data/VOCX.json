@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VOCX","name":"Carnicobar","lat":9.1525085,"lon":92.8196275,"rwys":1,"ils":0,"index":4462798,"path":"e090n00/e092n09"
+,"runways":[
+{"len_m":2701,"wid_m":42.67,"hdg":20,"surf":"Concrete","rwy1":"02","lat1":9.14106400,"lon1":92.81534400,"rwy2":"20","lat2":9.16395300,"lon2":92.82391100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"TJSJ","name":"San Juan - Luis Munoz Marin Intl","lat":18.43904346,"lon":-066.00393882,"rwys":2,"ils":2,"index":1858335,"path":"w070n10/w067n18"
+,"runways":[
+{"len_m":2981,"wid_m":60.96,"hdg":66,"surf":"Asphalt","rwy1":"08","lat1":18.43875600,"lon1":-66.01486400,"rwy2":"26","lat2":18.44928400,"lon2":-65.98888100},
+{"len_m":2443,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"10","lat1":18.43356100,"lon1":-66.01372800,"rwy2":"28","lat2":18.43350600,"lon2":-65.99060000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"ATIS"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":126.4,"desc":"SAN JUAN CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":132.05,"desc":"SAN JUAN TWR"},
+{"type":"APP","freq":120.9,"desc":"SAN JUAN APP"}
+]
+}

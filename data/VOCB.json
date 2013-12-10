@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VOCB","name":"Coimbatore","lat":11.0300305,"lon":77.0433815,"rwys":1,"ils":1,"index":4217152,"path":"e070n10/e077n11"
+,"runways":[
+{"len_m":2584,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":11.02189400,"lon1":77.03489400,"rwy2":"23","lat2":11.03816700,"lon2":77.05186900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"APP"}
+]
+}

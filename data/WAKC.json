@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WAKC","name":"Bilorai (ama)","lat":-3.739549,"lon":137.031987,"rwys":1,"ils":0,"index":5199248,"path":"e130s10/e137s04"
+,"runways":[
+{"len_m":580,"wid_m":24.08,"hdg":94,"surf":"Turf/grass","rwy1":"09","lat1":-3.73935039,"lon1":137.02938320,"rwy2":"27","lat2":-3.73974761,"lon2":137.03459080}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":192,"dist_nm":47.4,"freq":112.7,"lat":-4.51700300,"lon":136.86697200,"rng_nm":130,"alt_fmsl":103,"id":"TMK","desc":"TIMIKA VOR-DME"},
+{"type":"NDB","hdg_t":190.1,"dist_nm":48.2,"freq":300,"lat":-4.53534400,"lon":136.89021900,"rng_nm":50,"alt_fmsl":103,"id":"ZF","desc":"TIMIKA NDB"},
+{"type":"NDB","hdg_t":248.1,"dist_nm":48.8,"freq":375,"lat":-4.04358300,"lon":136.27538900,"rng_nm":50,"alt_fmsl":5906,"id":"ZG","desc":"WAGHETE NDB"},
+{"type":"VOR","hdg_t":283,"dist_nm":94.2,"freq":117.3,"lat":-3.38195800,"lon":135.50112200,"rng_nm":130,"alt_fmsl":20,"id":"NBR","desc":"NABIRE VOR-DME"},
+{"type":"NDB","hdg_t":283.7,"dist_nm":94.9,"freq":242,"lat":-3.36166700,"lon":135.49500000,"rng_nm":50,"alt_fmsl":20,"id":"ZR","desc":"NABIRE NDB"},
+{"type":"NDB","hdg_t":100.6,"dist_nm":117.4,"freq":222,"lat":-4.10047800,"lon":138.95646900,"rng_nm":50,"alt_fmsl":5085,"id":"ZW","desc":"WAMENA NDB"},
+{"type":"NDB","hdg_t":339.7,"dist_nm":162.7,"freq":230,"lat":-1.18204200,"lon":136.09485300,"rng_nm":50,"alt_fmsl":46,"id":"ZM","desc":"BIAK NDB"},
+{"type":"VOR","hdg_t":339.5,"dist_nm":162.8,"freq":112.5,"lat":-1.18247222,"lon":136.08613889,"rng_nm":130,"alt_fmsl":46,"id":"BIK","desc":"BIAK VOR-DME"},
+{"type":"NDB","hdg_t":271.2,"dist_nm":197.4,"freq":310,"lat":-3.66166700,"lon":133.74166700,"rng_nm":50,"alt_fmsl":0,"id":"ZV","desc":"KAIMANA NDB"},
+{"type":"NDB","hdg_t":234.3,"dist_nm":208.4,"freq":305,"lat":-5.76666700,"lon":134.19833300,"rng_nm":50,"alt_fmsl":23,"id":"DO","desc":"DOBO NDB"}
+]
+}

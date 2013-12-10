@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAT","name":"San Antonio Intl","lat":29.53598400,"lon":-098.47555500,"rwys":3,"ils":2,"index":1334754,"path":"w100n20/w099n29"
+,"runways":[
+{"len_m":2591,"wid_m":45.72,"hdg":131,"surf":"Concrete","rwy1":"12R","lat1":29.54274700,"lon1":-98.48554200,"rwy2":"30L","lat2":29.52722200,"lon2":-98.46555300},
+{"len_m":2287,"wid_m":45.72,"hdg":40,"surf":"Concrete","rwy1":"03","lat1":29.52323300,"lon1":-98.46990600,"rwy2":"21","lat2":29.53886100,"lon2":-98.45449200},
+{"len_m":1682,"wid_m":30.48,"hdg":131,"surf":"Asphalt","rwy1":"12L","lat1":29.54030000,"lon1":-98.47769700,"rwy2":"30R","lat2":29.53021700,"lon2":-98.46472800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.9,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":118.05,"desc":"APP/DEP"},
+{"type":"APP","freq":120.3,"desc":"APP/DEP"},
+{"type":"APP","freq":121.2,"desc":"APP/DEP"},
+{"type":"APP","freq":124.45,"desc":"APP/DEP"}
+]
+}

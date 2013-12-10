@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KZPH","name":"Zephyrhills Muni","lat":28.23010100,"lon":-082.16355100,"rwys":2,"ils":0,"index":1596811,"path":"w090n20/w083n28"
+,"runways":[
+{"len_m":1546,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":28.23416900,"lon1":-82.15328600,"rwy2":"36","lat2":28.22021900,"lon2":-82.15336900},
+{"len_m":1524,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":28.22415300,"lon1":-82.16376400,"rwy2":"22","lat2":28.23426400,"lon2":-82.15323300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"TAMPA APP/DEP"}
+]
+}

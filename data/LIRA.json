@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIRA","name":"Ciampino","lat":41.79773330,"lon":012.59256170,"rwys":1,"ils":1,"index":3154162,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":2207,"wid_m":46.94,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":41.80805800,"lon1":12.58882800,"rwy2":"33","lat2":41.79039700,"lon2":12.60100600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"ROMA ARR"},
+{"type":"APP","freq":119.2,"desc":"ROMA DIRECTOR"}
+]
+}

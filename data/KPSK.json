@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPSK","name":"New River Valley","lat":37.137346,"lon":-80.6784835,"rwys":1,"ils":1,"index":1630153,"path":"w090n30/w081n37"
+,"runways":[
+{"len_m":1890,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":37.13211700,"lon1":-80.68687800,"rwy2":"24","lat2":37.14257500,"lon2":-80.67008900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":126,"desc":"ROANOKE APP/DEP"}
+]
+}

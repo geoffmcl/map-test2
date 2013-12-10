@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMQJ","name":"Mt Comfort","lat":39.84428125,"lon":-85.8963985,"rwys":2,"ils":1,"index":1548400,"path":"w090n30/w086n39"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":70,"surf":"Concrete","rwy1":"07","lat1":39.83707400,"lon1":-85.90949200,"rwy2":"25","lat2":39.84223600,"lon2":-85.89108300},
+{"len_m":1188,"wid_m":22.86,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":39.85393900,"lon1":-85.89488200,"rwy2":"34","lat2":39.84387600,"lon2":-85.89013700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":127.15,"desc":"INDIANAPOLIS APP/DEP"}
+]
+}

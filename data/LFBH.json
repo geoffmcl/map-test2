@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBH","name":"La Rochelle Laleu","lat":46.17540000,"lon":-001.19346700,"rwys":1,"ils":1,"index":2925067,"path":"w010n40/w002n46"
+,"runways":[
+{"len_m":2256,"wid_m":45.11,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":46.17967500,"lon1":-1.21100600,"rwy2":"28","lat2":46.17881400,"lon2":-1.18181400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.72,"desc":"LA ROCHELLE ATIS"},
+{"type":"ATIS","freq":126.87,"desc":"LA ROCHELLE ATIS"},
+{"type":"TWR","freq":118,"desc":"LA ROCHELLE TWR"},
+{"type":"APP","freq":124.2,"desc":"LA ROCHELLE APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSWH","name":"Dashuipo","lat":37.1871845,"lon":122.228921,"rwys":1,"ils":2,"index":4956104,"path":"e120n30/e122n37"
+,"runways":[
+{"len_m":2609,"wid_m":45.11,"hdg":18,"surf":"Concrete","rwy1":"02","lat1":37.17603300,"lon1":122.22426100,"rwy2":"20","lat2":37.19833600,"lon2":122.23358100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"TWR","freq":130,"desc":"WEIHAI TWR"},
+{"type":"TWR","freq":118.65,"desc":"WEIHAI TWR"}
+]
+}

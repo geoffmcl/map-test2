@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFFI","name":"Ancenis","lat":47.408203,"lon":-1.177566,"rwys":1,"ils":0,"index":2925147,"path":"w010n40/w002n47"
+,"runways":[
+{"len_m":1199,"wid_m":24.99,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":47.40663200,"lon1":-1.18516800,"rwy2":"26","lat2":47.40977400,"lon2":-1.16996400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"INFO"},
+{"type":"APP","freq":130.27,"desc":"NANTES APP"}
+]
+}

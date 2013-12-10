@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPKK","name":"Balice","lat":50.07330100,"lon":019.78722700,"rwys":1,"ils":1,"index":3269379,"path":"e010n50/e019n50"
+,"runways":[
+{"len_m":2549,"wid_m":60.05,"hdg":77,"surf":"Concrete","rwy1":"07","lat1":50.07539747,"lon1":19.76809501,"rwy2":"25","lat2":50.08024453,"lon2":19.80291099}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"KRAKOW DELIVERY"},
+{"type":"TWR","freq":123.25,"desc":"KRAKOW TWR"},
+{"type":"APP","freq":124.05,"desc":"KRAKOW DIRECTOR"},
+{"type":"APP","freq":121.07,"desc":"KRAKOW APP"}
+]
+}

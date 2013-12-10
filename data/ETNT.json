@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETNT","name":"Wittmundhafen","lat":53.547917,"lon":7.667333,"rwys":1,"ils":0,"index":3072994,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":2438,"wid_m":29.87,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":53.54566700,"lon1":7.64933300,"rwy2":"26","lat2":53.55016700,"lon2":7.68533300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.72,"desc":"WITTMUND TWR"},
+{"type":"TWR","freq":122.1,"desc":"WITTMUND TWR"},
+{"type":"APP","freq":123.3,"desc":"WITTMUND RADAR"},
+{"type":"APP","freq":123.6,"desc":"WITTMUND RADAR"}
+]
+}

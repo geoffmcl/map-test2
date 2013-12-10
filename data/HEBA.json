@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEBA","name":"Borg El Arab Intl","lat":30.9127531666667,"lon":29.6896888333333,"rwys":3,"ils":1,"index":3431994,"path":"e020n30/e029n30"
+,"runways":[
+{"len_m":3400,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":30.93036700,"lon1":29.68508600,"rwy2":"32","lat2":30.90591900,"lon2":29.70656700},
+{"len_m":406,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14R","lat1":30.91831900,"lon1":29.67916400,"rwy2":"32L","lat2":30.91540300,"lon2":29.68175000},
+{"len_m":411,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14S","lat1":30.90473300,"lon1":29.69148300,"rwy2":"32S","lat2":30.90177800,"lon2":29.69408300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"ALEX RADAR"},
+{"type":"APP","freq":120.97,"desc":"ALEX RADAR"},
+{"type":"APP","freq":122.8,"desc":"APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLAM","name":"Lambina","lat":-26.91317141,"lon":134.05602132,"rwys":2,"ils":0,"index":5148608,"path":"e130s30/e134s27"
+,"runways":[
+{"len_m":1226,"wid_m":29.87,"hdg":23,"surf":"Dirt","rwy1":"02","lat1":-26.92284552,"lon1":134.05174210,"rwy2":"20","lat2":-26.91272246,"lon2":134.05674941},
+{"len_m":730,"wid_m":14.94,"hdg":102,"surf":"Dirt","rwy1":"10","lat1":-26.91551608,"lon1":134.04741817,"rwy2":"28","lat2":-26.91695472,"lon2":134.05459065}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

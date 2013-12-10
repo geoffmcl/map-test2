@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDWB","name":"Bremerhaven","lat":53.50325835,"lon":008.57212034,"rwys":2,"ils":0,"index":3089378,"path":"e000n50/e008n53"
+,"runways":[
+{"len_m":1200,"wid_m":29.87,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":53.51225000,"lon1":8.57030600,"rwy2":"34","lat2":53.50191400,"lon2":8.57545800},
+{"len_m":658,"wid_m":18.90,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":53.50393185,"lon1":8.57046107,"rwy2":"25","lat2":53.50614571,"lon2":8.57965907}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.05,"desc":"Luneort INFO"}
+]
+}

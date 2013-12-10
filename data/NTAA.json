@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NTAA","name":"Faaa","lat":-17.55377100,"lon":-149.61171955,"rwys":1,"ils":1,"index":496155,"path":"w150s20/w150s18"
+,"runways":[
+{"len_m":3448,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":-17.56287817,"lon1":-149.62042540,"rwy2":"22","lat2":-17.54465267,"lon2":-149.59408475}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":-149,"surf":"Asphalt","lat1":-17.55664831,"lon1":-149.61336443}
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"Tahiti Ground"},
+{"type":"TWR","freq":118.1,"desc":"Tahiti Tower"},
+{"type":"APP","freq":121.3,"desc":"Tahiti Approach"}
+]
+}

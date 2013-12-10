@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ORSH","name":"Al Sahra Aaf","lat":34.67422675,"lon":43.544322,"rwys":2,"ils":0,"index":3661610,"path":"e040n30/e043n34"
+,"runways":[
+{"len_m":3116,"wid_m":45.72,"hdg":142,"surf":"Concrete","rwy1":"14R","lat1":34.67928100,"lon1":43.52585800,"rwy2":"32L","lat2":34.65700600,"lon2":43.54657800},
+{"len_m":2237,"wid_m":50.29,"hdg":142,"surf":"Asphalt","rwy1":"14L","lat1":34.68830600,"lon1":43.54498600,"rwy2":"32R","lat2":34.67231400,"lon2":43.55986600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":128.2,"desc":"BAGHDAD ARR"},
+{"type":"APP","freq":129.75,"desc":"KIRKUK APP"},
+{"type":"APP","freq":126.1,"desc":"SPEICHER GCA"}
+]
+}

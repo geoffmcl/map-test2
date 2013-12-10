@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHLS","name":"Hillston","lat":-33.49176554,"lon":145.52447161,"rwys":2,"ils":0,"index":5328418,"path":"e140s40/e145s34"
+,"runways":[
+{"len_m":1304,"wid_m":17.98,"hdg":71,"surf":"Asphalt","rwy1":"06","lat1":-33.49610096,"lon1":145.51707265,"rwy2":"24","lat2":-33.49233200,"lon2":145.53037300},
+{"len_m":996,"wid_m":49.99,"hdg":150,"surf":"Dirt","rwy1":"14","lat1":-33.49360615,"lon1":145.52371000,"rwy2":"32","lat2":-33.50145900,"lon2":145.52892000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

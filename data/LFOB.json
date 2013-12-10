@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOB","name":"Beauvais-tille","lat":49.45825762,"lon":002.11256554,"rwys":2,"ils":2,"index":2990808,"path":"e000n40/e002n49"
+,"runways":[
+{"len_m":2428,"wid_m":45.11,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":49.45831050,"lon1":2.10385000,"rwy2":"30","lat2":49.44620550,"lon2":2.13173256},
+{"len_m":708,"wid_m":24.99,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":49.45735800,"lon1":2.11680000,"rwy2":"22","lat2":49.46212780,"lon2":2.12327200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"BEAUVAIS ATIS"},
+{"type":"TWR","freq":119.9,"desc":"BEAUVAIS TWR"},
+{"type":"TWR","freq":121.4,"desc":"BEAUVAIS TWR"},
+{"type":"APP","freq":119.9,"desc":"BEAUVAIS APP"},
+{"type":"APP","freq":121.4,"desc":"BEAUVAIS APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAOR","name":"Villa Reynolds","lat":-33.72851325,"lon":-65.37692625,"rwys":2,"ils":1,"index":1871378,"path":"w070s40/w066s34"
+,"runways":[
+{"len_m":2398,"wid_m":45.11,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":-33.72977800,"lon1":-65.38845300,"rwy2":"28","lat2":-33.73390800,"lon2":-65.36304700},
+{"len_m":2401,"wid_m":49.99,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":-33.73085000,"lon1":-65.38914400,"rwy2":"24","lat2":-33.71951700,"lon2":-65.36706100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"REYNOLDS APP/TWR"},
+{"type":"TWR","freq":118.5,"desc":"REYNOLDS APP/TWR"}
+]
+}

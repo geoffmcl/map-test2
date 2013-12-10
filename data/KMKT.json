@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMKT","name":"Mankato Rgnl","lat":44.22150148,"lon":-093.92133335,"rwys":2,"ils":1,"index":1417608,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1649,"wid_m":29.87,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":44.23016431,"lon1":-93.92279148,"rwy2":"33","lat2":44.21675569,"lon2":-93.91394693},
+{"len_m":1217,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":44.21526981,"lon1":-93.92500788,"rwy2":"22","lat2":44.22273069,"lon2":-93.91384415}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"}
+]
+}

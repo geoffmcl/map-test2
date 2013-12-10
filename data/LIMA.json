@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIMA","name":"Torino Aeritalia","lat":45.08685600,"lon":007.60952400,"rwys":2,"ils":0,"index":3072450,"path":"e000n40/e007n45"
+,"runways":[
+{"len_m":1073,"wid_m":29.87,"hdg":101,"surf":"Asphalt","rwy1":"10L","lat1":45.08730800,"lon1":7.59668900,"rwy2":"28R","lat2":45.08539700,"lon2":7.61006100},
+{"len_m":749,"wid_m":39.93,"hdg":101,"surf":"Turf/grass","rwy1":"10R","lat1":45.08560000,"lon1":7.60040800,"rwy2":"28L","lat2":45.08425300,"lon2":7.60973300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.8,"desc":"INFO"}
+]
+}

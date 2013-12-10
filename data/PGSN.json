@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PGSN","name":"Francisco C Ada Saipan Intl","lat":15.12352937,"lon":145.72870835,"rwys":1,"ils":1,"index":5331525,"path":"e140n10/e145n15"
+,"runways":[
+{"len_m":2651,"wid_m":60.96,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":15.11447500,"lon1":145.71793600,"rwy2":"25","lat2":15.12352800,"lon2":145.74077500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"TWR"}
+]
+}

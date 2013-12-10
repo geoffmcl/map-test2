@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAGS","name":"Gustavus","lat":58.4246905,"lon":-135.708964,"rwys":2,"ils":0,"index":730393,"path":"w140n50/w136n58"
+,"runways":[
+{"len_m":2048,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":58.43271400,"lon1":-135.71727800,"rwy2":"29","lat2":58.41970600,"lon2":-135.69249700},
+{"len_m":917,"wid_m":18.29,"hdg":41,"surf":"Asphalt","rwy1":"02","lat1":58.42006400,"lon1":-135.71819200,"rwy2":"20","lat2":58.42627800,"lon2":-135.70788900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.9,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"}
+]
+}

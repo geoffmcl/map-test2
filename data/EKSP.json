@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EKSP","name":"Vojens Skrydstrup [mil]","lat":55.2200735,"lon":9.2662615,"rwys":2,"ils":1,"index":3105865,"path":"e000n50/e009n55"
+,"runways":[
+{"len_m":3006,"wid_m":46.02,"hdg":105,"surf":"Asphalt","rwy1":"11L","lat1":55.22460048,"lon1":9.24394289,"rwy2":"29R","lat2":55.21740752,"lon2":9.28947511},
+{"len_m":2972,"wid_m":24.08,"hdg":105,"surf":"Asphalt","rwy1":"11R","lat1":55.22269624,"lon1":9.24330738,"rwy2":"29L","lat2":55.21558976,"lon2":9.28832062}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.32,"desc":"TWR"},
+{"type":"APP","freq":127.47,"desc":"APP"}
+]
+}

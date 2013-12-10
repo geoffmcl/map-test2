@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AYNZ","name":"Nadzab","lat":-06.56559509,"lon":146.72666798,"rwys":1,"ils":0,"index":5346525,"path":"e140s10/e146s07"
+,"runways":[
+{"len_m":2440,"wid_m":29.87,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":-6.56887364,"lon1":146.71516587,"rwy2":"27","lat2":-6.57078476,"lon2":146.73715445}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":146,"surf":"Asphalt","lat1":-6.56660849,"lon1":146.72979049}
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"LAE AWOS"}
+]
+}

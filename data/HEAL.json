@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEAL","name":"Al Alamain Intl","lat":30.9244445,"lon":28.461417,"rwys":1,"ils":0,"index":3415609,"path":"e020n30/e028n30"
+,"runways":[
+{"len_m":3498,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":30.93475000,"lon1":28.44755600,"rwy2":"31","lat2":30.91413900,"lon2":28.47527800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120,"desc":"TWR"},
+{"type":"TWR","freq":123.4,"desc":"TWR"}
+]
+}

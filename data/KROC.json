@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KROC","name":"Greater Rochester Intl","lat":43.11424333,"lon":-077.67001819,"rwys":3,"ils":2,"index":1679681,"path":"w080n40/w078n43"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":43.10687800,"lon1":-77.68771100,"rwy2":"22","lat2":43.12556700,"lon2":-77.67198900},
+{"len_m":1951,"wid_m":45.72,"hdg":87,"surf":"Asphalt","rwy1":"10","lat1":43.12277900,"lon1":-77.67762400,"rwy2":"28","lat2":43.12349600,"lon2":-77.65366600},
+{"len_m":1219,"wid_m":33.53,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":43.11616900,"lon1":-77.67258900,"rwy2":"25","lat2":43.12100800,"lon2":-77.65914200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.24,"hdg":-77,"surf":"Concrete","lat1":43.11438641,"lon1":-77.67485350},
+{"rwy1":"H2","len_m":15,"wid_m":15.24,"hdg":-77,"surf":"Concrete","lat1":43.11413169,"lon1":-77.67500304},
+{"rwy1":"H3","len_m":15,"wid_m":15.24,"hdg":-77,"surf":"Concrete","lat1":43.11388216,"lon1":-77.67516683},
+{"rwy1":"H4","len_m":15,"wid_m":15.24,"hdg":-77,"surf":"Concrete","lat1":43.11364823,"lon1":-77.67528789}
+]
+,"radios":[
+{"type":"ATIS","freq":124.82,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.3,"desc":"CLNC DEL"},
+{"type":"CLD","freq":118.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.55,"desc":"APP/DEP"},
+{"type":"APP","freq":123.7,"desc":"APP/DEP"},
+{"type":"APP","freq":127.32,"desc":"APP/DEP"}
+]
+}

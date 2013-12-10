@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OETB","name":"Tabuk","lat":28.37367725,"lon":36.6204565,"rwys":2,"ils":1,"index":3546514,"path":"e030n20/e036n28"
+,"runways":[
+{"len_m":3350,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":28.36923100,"lon1":36.61989200,"rwy2":"24","lat2":28.38200800,"lon2":36.65086700},
+{"len_m":3091,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":28.38122800,"lon1":36.59398100,"rwy2":"31","lat2":28.36224200,"lon2":36.61708600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":128.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.3,"desc":"GND"},
+{"type":"TWR","freq":125.9,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

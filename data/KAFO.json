@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAFO","name":"Afton Muni","lat":42.7087695,"lon":-110.94216775,"rwys":1,"ils":0,"index":1138984,"path":"w120n40/w111n42"
+,"runways":[
+{"len_m":2140,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":42.71840198,"lon1":-110.94212199,"rwy2":"34","lat2":42.69913702,"lon2":-110.94221350}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

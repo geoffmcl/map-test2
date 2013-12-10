@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HECW","name":"Cairo West","lat":30.11695425,"lon":30.91841325,"rwys":2,"ils":1,"index":3448323,"path":"e030n30/e030n30"
+,"runways":[
+{"len_m":2973,"wid_m":59.74,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":30.13217800,"lon1":30.91072800,"rwy2":"34","lat2":30.10618900,"lon2":30.91837800},
+{"len_m":2790,"wid_m":44.81,"hdg":106,"surf":"Asphalt","rwy1":"10","lat1":30.11823900,"lon1":30.90837200,"rwy2":"28","lat2":30.11121100,"lon2":30.93617500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":130,"desc":"CLNC"},
+{"type":"GND","freq":130,"desc":"GND"},
+{"type":"TWR","freq":131.2,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"APP"}
+]
+}

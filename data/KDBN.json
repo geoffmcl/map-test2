@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDBN","name":"W H Bud Barron","lat":32.5643245,"lon":-82.98557425,"rwys":2,"ils":0,"index":1597088,"path":"w090n30/w083n32"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":32.55729200,"lon1":-82.98491700,"rwy2":"20","lat2":32.57312500,"lon2":-82.97944700},
+{"len_m":1524,"wid_m":45.72,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":32.56841400,"lon1":-82.99457200,"rwy2":"32","lat2":32.55846700,"lon2":-82.98336100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+}

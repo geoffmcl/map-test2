@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBBH","name":"Pampulha","lat":-19.84931600,"lon":-043.96130000,"rwys":1,"ils":0,"index":2232712,"path":"w050s20/w044s20"
+,"runways":[
+{"len_m":2504,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"13","lat1":-19.84721400,"lon1":-43.96182500,"rwy2":"31","lat2":-19.85514400,"lon2":-43.93942800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"BELO HORIZONTE ATIS"},
+{"type":"CLD","freq":121.1,"desc":"BELO HORIZONTE TRAFF"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"BELO HORIZONTE TWR"},
+{"type":"APP","freq":120.2,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.1,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.4,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":119.65,"desc":"BELO HORIZONTE APP"}
+]
+}

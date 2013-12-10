@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVBG","name":"Vandenberg Afb","lat":34.737328,"lon":-120.58429311,"rwys":1,"ils":1,"index":974633,"path":"w130n30/w121n34"
+,"runways":[
+{"len_m":4574,"wid_m":60.96,"hdg":136,"surf":"Concrete","rwy1":"12","lat1":34.75229145,"lon1":-120.60147300,"rwy2":"30","lat2":34.72236455,"lon2":-120.56711322}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.12,"desc":"ATIS"},
+{"type":"CTAF","freq":124.95,"desc":"CTAF"},
+{"type":"GND","freq":121.75,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":124.95,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"SANTA BARB APP/DEP"}
+]
+}

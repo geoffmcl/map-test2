@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHJH","name":"Kapalua","lat":20.96230770,"lon":-156.67513414,"rwys":1,"ils":0,"index":383930,"path":"w160n20/w157n20"
+,"runways":[
+{"len_m":925,"wid_m":30.48,"hdg":28,"surf":"Asphalt","rwy1":"02","lat1":20.95925512,"lon1":-156.67512974,"rwy2":"20","lat2":20.96663802,"lon2":-156.67094893}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MGGT","name":"La Aurora","lat":14.58498000,"lon":-090.52895400,"rwys":1,"ils":1,"index":1464867,"path":"w100n10/w091n14"
+,"runways":[
+{"len_m":2985,"wid_m":59.74,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":14.57039700,"lon1":-90.53161400,"rwy2":"19","lat2":14.59614700,"lon2":-90.52333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"CLD","freq":120.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"GUATEMALA RDO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"CON"}
+]
+}

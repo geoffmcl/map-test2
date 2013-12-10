@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHKA","name":"Blytheville Muni","lat":35.940407,"lon":-89.8308065,"rwys":1,"ils":0,"index":1482616,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":35.94727500,"lon1":-89.83096900,"rwy2":"36","lat2":35.93353900,"lon2":-89.83064400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.65,"desc":"MEMPHIS CNTR"}
+]
+}

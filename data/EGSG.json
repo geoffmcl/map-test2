@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGSG","name":"Stapleford","lat":51.65658676,"lon":000.15560825,"rwys":4,"ils":0,"index":2958184,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":903,"wid_m":29.87,"hdg":35,"surf":"Turf/grass","rwy1":"04L","lat1":51.64873600,"lon1":0.15100800,"rwy2":"22R","lat2":51.65535000,"lon2":0.15859200},
+{"len_m":596,"wid_m":17.98,"hdg":35,"surf":"Asphalt","rwy1":"04C","lat1":51.65200539,"lon1":0.15546336,"rwy2":"22C","lat2":51.65637690,"lon2":0.16045562},
+{"len_m":1115,"wid_m":46.02,"hdg":35,"surf":"Turf/grass","rwy1":"04R","lat1":51.64852800,"lon1":0.15144400,"rwy2":"22L","lat2":51.65669238,"lon2":0.16080146},
+{"len_m":702,"wid_m":46.02,"hdg":98,"surf":"Turf/grass","rwy1":"10","lat1":51.65610331,"lon1":0.15112423,"rwy2":"28","lat2":51.65515012,"lon2":0.16116495}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.8,"desc":"Stapleford Radio"}
+]
+}

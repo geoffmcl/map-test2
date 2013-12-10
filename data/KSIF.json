@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSIF","name":"Rockingham County Nc Shiloh","lat":36.4372195,"lon":-79.851014,"rwys":1,"ils":0,"index":1646488,"path":"w080n30/w080n36"
+,"runways":[
+{"len_m":1584,"wid_m":30.48,"hdg":124,"surf":"Asphalt","rwy1":"13","lat1":36.44127200,"lon1":-79.85828900,"rwy2":"31","lat2":36.43316700,"lon2":-79.84373900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

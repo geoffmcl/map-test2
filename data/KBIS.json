@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBIS","name":"Bismarck Muni","lat":46.77212500,"lon":-100.75218200,"rwys":2,"ils":2,"index":1303088,"path":"w110n40/w101n46"
+,"runways":[
+{"len_m":2680,"wid_m":45.72,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":46.78395300,"lon1":-100.76178600,"rwy2":"31","lat2":46.76615300,"lon2":-100.73811900},
+{"len_m":2011,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":46.76261700,"lon1":-100.74841400,"rwy2":"21","lat2":46.77667200,"lon2":-100.73183100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.35,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+}

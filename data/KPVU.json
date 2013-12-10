@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPVU","name":"Provo Municipal","lat":40.21899875,"lon":-111.72329375,"rwys":2,"ils":1,"index":1122441,"path":"w120n40/w112n40"
+,"runways":[
+{"len_m":2620,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"13","lat1":40.23021100,"lon1":-111.73244200,"rwy2":"31","lat2":40.21069200,"lon2":-111.71513300},
+{"len_m":2015,"wid_m":46.02,"hdg":191,"surf":"Asphalt","rwy1":"18","lat1":40.22643100,"lon1":-111.72038600,"rwy2":"36","lat2":40.20866100,"lon2":-111.72521400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ATIS"},
+{"type":"CTAF","freq":125.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"GND","freq":119.4,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"SALT LAKE CITY APP"},
+{"type":"DEP","freq":118.85,"desc":"SALT LAKE CITY DEP"}
+]
+}

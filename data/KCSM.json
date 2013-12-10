@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCSM","name":"Clinton Sherman","lat":35.338819,"lon":-99.19971875,"rwys":2,"ils":1,"index":1318739,"path":"w100n30/w100n35"
+,"runways":[
+{"len_m":4115,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":35.35966100,"lon1":-99.20144200,"rwy2":"35L","lat2":35.32256700,"lon2":-99.20150800},
+{"len_m":1582,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":35.34365600,"lon1":-99.19795000,"rwy2":"35R","lat2":35.32939200,"lon2":-99.19797500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"CTAF","freq":119.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":128.4,"desc":"FORT WORTH CNTR"}
+]
+}

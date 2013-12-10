@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4I3","name":"Knox Co","lat":40.32871,"lon":-82.5237655,"rwys":1,"ils":0,"index":1597585,"path":"w090n40/w083n40"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":97,"surf":"Asphalt","rwy1":"10","lat1":40.32962800,"lon1":-82.53265300,"rwy2":"28","lat2":40.32779200,"lon2":-82.51487800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.45,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.2,"desc":"COLUMBUS APP/DEP"}
+]
+}

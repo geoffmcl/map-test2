@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UK59","name":"Chuhuiv","lat":49.8390032542857,"lon":36.6463283257143,"rwys":1,"ils":1,"index":3547890,"path":"e030n40/e036n49"
+,"runways":[
+{"len_m":2499,"wid_m":47.24,"hdg":173,"surf":"Concrete","rwy1":"17","lat1":49.84939222,"lon1":36.63905837,"rwy2":"35","lat2":49.82708269,"lon2":36.64328594}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":24.99,"hdg":36,"surf":"Concrete","lat1":49.84035540,"lon1":36.64696176},
+{"rwy1":"H2","len_m":17,"wid_m":24.99,"hdg":36,"surf":"Concrete","lat1":49.83990032,"lon1":36.64704116},
+{"rwy1":"H3","len_m":17,"wid_m":24.99,"hdg":36,"surf":"Concrete","lat1":49.83946473,"lon1":36.64712724},
+{"rwy1":"H4","len_m":17,"wid_m":24.69,"hdg":36,"surf":"Concrete","lat1":49.83885221,"lon1":36.64723924},
+{"rwy1":"H5","len_m":17,"wid_m":24.99,"hdg":36,"surf":"Concrete","lat1":49.83835602,"lon1":36.64732978},
+{"rwy1":"H6","len_m":17,"wid_m":24.99,"hdg":36,"surf":"Concrete","lat1":49.83785665,"lon1":36.64742694}
+]
+,"radios":[
+{"type":"GND","freq":120,"desc":"ROGACH GND"},
+{"type":"TWR","freq":124,"desc":"ROGACH START"},
+{"type":"APP","freq":128.5,"desc":"ROGACH APR"}
+]
+}

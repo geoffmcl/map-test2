@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMKL","name":"Mc Kellar Sipes Rgnl","lat":35.60050225,"lon":-88.915516,"rwys":2,"ils":1,"index":1498976,"path":"w090n30/w089n35"
+,"runways":[
+{"len_m":1830,"wid_m":45.72,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":35.59045600,"lon1":-88.91971700,"rwy2":"20","lat2":35.60572800,"lon2":-88.91207200},
+{"len_m":1078,"wid_m":30.48,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":35.60475600,"lon1":-88.92064400,"rwy2":"29","lat2":35.60106900,"lon2":-88.90963100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"ASOS"},
+{"type":"CTAF","freq":127.15,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.9,"desc":"GND"},
+{"type":"TWR","freq":127.15,"desc":"JACKSON TWR"}
+]
+}

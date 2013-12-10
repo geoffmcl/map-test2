@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJFO","name":"Oita","lat":33.479503,"lon":131.737125,"rwys":1,"ils":1,"index":5103322,"path":"e130n30/e131n33"
+,"runways":[
+{"len_m":2999,"wid_m":45.72,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":33.46598100,"lon1":131.73700600,"rwy2":"19","lat2":33.49302500,"lon2":131.73724400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":127.7,"desc":"APP"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"DEP","freq":119.05,"desc":"DEP"}
+]
+}

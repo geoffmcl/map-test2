@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFSO","name":"Ochey_ab","lat":48.58092400,"lon":005.96056100,"rwys":1,"ils":1,"index":3039907,"path":"e000n40/e005n48"
+,"runways":[
+{"len_m":2477,"wid_m":45.11,"hdg":19,"surf":"Concrete","rwy1":"02","lat1":48.57271200,"lon1":5.94892100,"rwy2":"20","lat2":48.59370200,"lon2":5.96018100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"OCHEY TWR"},
+{"type":"TWR","freq":127.25,"desc":"OCHEY TWR"},
+{"type":"APP","freq":122.1,"desc":"OCHEY APP"},
+{"type":"APP","freq":127.25,"desc":"OCHEY APP"}
+]
+}

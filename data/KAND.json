@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAND","name":"Anderson Rgnl","lat":34.49439200,"lon":-082.71087600,"rwys":2,"ils":1,"index":1597209,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":34.48859200,"lon1":-82.71591400,"rwy2":"23","lat2":34.50006900,"lon2":-82.70161400},
+{"len_m":1522,"wid_m":45.72,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":34.50155000,"lon1":-82.71214200,"rwy2":"35","lat2":34.48823900,"lon2":-82.70810300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"APP","freq":118.8,"desc":"GREER APP/DEP"}
+]
+}

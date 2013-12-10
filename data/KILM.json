@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KILM","name":"Wilmington Intl","lat":34.26592900,"lon":-077.89878600,"rwys":2,"ils":3,"index":1679120,"path":"w080n30/w078n34"
+,"runways":[
+{"len_m":2443,"wid_m":60.96,"hdg":48,"surf":"Concrete","rwy1":"06","lat1":34.26188600,"lon1":-77.91030800,"rwy2":"24","lat2":34.27652200,"lon2":-77.89048100},
+{"len_m":2134,"wid_m":45.72,"hdg":159,"surf":"Asphalt","rwy1":"17","lat1":34.28120000,"lon1":-77.90914400,"rwy2":"35","lat2":34.26320800,"lon2":-77.90092200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.1,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":121.4,"desc":"APP/DEP"},
+{"type":"APP","freq":118.25,"desc":"APP/DEP"},
+{"type":"APP","freq":135.75,"desc":"APP/DEP"}
+]
+}

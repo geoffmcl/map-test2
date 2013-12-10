@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYLW","name":"Kelowna","lat":49.95293300,"lon":-119.38127800,"rwys":1,"ils":1,"index":991994,"path":"w120n40/w120n49"
+,"runways":[
+{"len_m":2224,"wid_m":60.96,"hdg":174,"surf":"Asphalt","rwy1":"16","lat1":49.96607800,"lon1":-119.37914200,"rwy2":"34","lat2":49.94615600,"lon2":-119.37637200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.5,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"}
+]
+}

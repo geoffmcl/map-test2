@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEAZ","name":"Almaza Afb","lat":30.092404,"lon":31.3601705,"rwys":2,"ils":1,"index":3464705,"path":"e030n30/e031n30"
+,"runways":[
+{"len_m":2042,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.10193600,"lon1":31.36004400,"rwy2":"36","lat2":30.08351400,"lon2":31.36008300},
+{"len_m":1193,"wid_m":49.99,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":30.08833300,"lon1":31.35583300,"rwy2":"23","lat2":30.09583300,"lon2":31.36472200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"CAIRO TWR"},
+{"type":"TWR","freq":119.55,"desc":"CAIRO TWR"},
+{"type":"TWR","freq":132.9,"desc":"TWR"},
+{"type":"APP","freq":119.05,"desc":"CAIRO APP"},
+{"type":"APP","freq":119.55,"desc":"CAIRO APP"},
+{"type":"APP","freq":120.7,"desc":"CAIRO APP"}
+]
+}

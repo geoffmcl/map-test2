@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KASD","name":"Slidell","lat":30.34309300,"lon":-089.82276500,"rwys":1,"ils":0,"index":1482256,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":1520,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.35187618,"lon1":-89.82085532,"rwy2":"36","lat2":30.33816181,"lon2":-89.82071523}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":6.40,"hdg":-89,"surf":"Asphalt","lat1":30.34134754,"lon1":-89.82235349}
+]
+,"radios":[
+{"type":"ATIS","freq":132.47,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.15,"desc":"NEW ORLEANS APP/DEP"}
+]
+}

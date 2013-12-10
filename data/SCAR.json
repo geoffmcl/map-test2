@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SCAR","name":"Chacalluta","lat":-18.3485305,"lon":-70.3387415,"rwys":1,"ils":0,"index":1790445,"path":"w080s20/w071s19"
+,"runways":[
+{"len_m":2180,"wid_m":45.11,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":-18.35782800,"lon1":-70.34214700,"rwy2":"20","lat2":-18.33923300,"lon2":-70.33533600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"ARICA TWR"},
+{"type":"APP","freq":119.9,"desc":"ARICA APP"}
+]
+}

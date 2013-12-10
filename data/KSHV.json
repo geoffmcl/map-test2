@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSHV","name":"Shreveport Rgnl","lat":32.4490981475,"lon":-93.8248977125,"rwys":2,"ils":3,"index":1416856,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":2545,"wid_m":60.96,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":32.45384765,"lon1":-93.83488299,"rwy2":"32","lat2":32.43558665,"lon2":-93.81848599},
+{"len_m":1890,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":32.44505865,"lon1":-93.83291700,"rwy2":"23","lat2":32.45334765,"lon2":-93.81535300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":4,"wid_m":4.57,"hdg":-93,"surf":"Asphalt","lat1":32.45016922,"lon1":-93.82781994},
+{"rwy1":"H2","len_m":4,"wid_m":4.57,"hdg":-93,"surf":"Asphalt","lat1":32.45230307,"lon1":-93.82095142}
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":124.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.4,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP/DEP"},
+{"type":"APP","freq":121.4,"desc":"APP/DEP"},
+{"type":"APP","freq":123.75,"desc":"APP/DEP"}
+]
+}

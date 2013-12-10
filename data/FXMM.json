@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FXMM","name":"Moshoeshoe I Intl","lat":-29.45897775,"lon":27.55317275,"rwys":2,"ils":1,"index":3395362,"path":"e020s30/e027s30"
+,"runways":[
+{"len_m":3198,"wid_m":45.11,"hdg":15,"surf":"Asphalt","rwy1":"04","lat1":-29.46953300,"lon1":27.55023600,"rwy2":"22","lat2":-29.44170000,"lon2":27.55893300},
+{"len_m":1001,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"11","lat1":-29.46271700,"lon1":27.54661900,"rwy2":"29","lat2":-29.46196100,"lon2":27.55690300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"MASERU GND"},
+{"type":"TWR","freq":118.5,"desc":"MASERU TWR"},
+{"type":"APP","freq":120.7,"desc":"MASERU APP"}
+]
+}

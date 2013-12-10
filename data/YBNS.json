@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBNS","name":"Bairnsdale","lat":-37.88216575,"lon":147.56734907,"rwys":3,"ils":0,"index":5360898,"path":"e140s40/e147s38"
+,"runways":[
+{"len_m":851,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":-37.88328504,"lon1":147.56549844,"rwy2":"32","lat2":-37.88958007,"lon2":147.57102959},
+{"len_m":537,"wid_m":9.14,"hdg":10,"surf":"Asphalt","rwy1":"1","lat1":-37.89061377,"lon1":147.57293344,"rwy2":"19","lat2":-37.88584505,"lon2":147.57400975},
+{"len_m":1096,"wid_m":20.12,"hdg":55,"surf":"Asphalt","rwy1":"04","lat1":-37.89021667,"lon1":147.56403690,"rwy2":"22","lat2":-37.88457709,"lon2":147.57427378}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

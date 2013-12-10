@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LPMR","name":"Monte Real","lat":39.831239,"lon":-8.8872585,"rwys":1,"ils":1,"index":2809968,"path":"w010n30/w009n39"
+,"runways":[
+{"len_m":2991,"wid_m":45.11,"hdg":1,"surf":"Concrete","rwy1":"01","lat1":39.81777200,"lon1":-8.88778900,"rwy2":"19","lat2":39.84470600,"lon2":-8.88672800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.72,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":121.7,"desc":"APP"},
+{"type":"APP","freq":120.47,"desc":"APP"}
+]
+}

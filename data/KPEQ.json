@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPEQ","name":"Pecos Muni","lat":31.3823265,"lon":-103.510693,"rwys":2,"ils":0,"index":1252953,"path":"w110n30/w104n31"
+,"runways":[
+{"len_m":1900,"wid_m":24.38,"hdg":146,"surf":"Asphalt","rwy1":"14","lat1":31.39153600,"lon1":-103.51704700,"rwy2":"32","lat2":31.37728900,"lon2":-103.50593300},
+{"len_m":1814,"wid_m":24.38,"hdg":101,"surf":"Asphalt","rwy1":"09","lat1":31.38183100,"lon1":-103.51925300,"rwy2":"27","lat2":31.37865000,"lon2":-103.50053900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

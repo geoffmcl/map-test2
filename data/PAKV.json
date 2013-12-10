@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAKV","name":"Kaltag","lat":64.3180415,"lon":-158.7435835,"rwys":1,"ils":0,"index":353936,"path":"w160n60/w159n64"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":46,"surf":"Gravel","rwy1":"03","lat1":64.31336100,"lon1":-158.75505600,"rwy2":"21","lat2":64.32272200,"lon2":-158.73211100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.25,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIGG","name":"Rasht","lat":37.325546,"lon":49.605571,"rwys":1,"ils":1,"index":3760082,"path":"e040n30/e049n37"
+,"runways":[
+{"len_m":2917,"wid_m":45.11,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":37.32642500,"lon1":49.58915000,"rwy2":"27","lat2":37.32466700,"lon2":49.62199200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"INFO"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":122.7,"desc":"TWR"}
+]
+}

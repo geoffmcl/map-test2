@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBWX","name":"Barrow Island","lat":-20.86614406,"lon":115.40595993,"rwys":1,"ils":0,"index":4837707,"path":"e110s30/e115s21"
+,"runways":[
+{"len_m":1898,"wid_m":29.87,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":-20.86898037,"lon1":115.40256280,"rwy2":"21","lat2":-20.85365100,"lon2":115.41073600}
+]
+,"helipads":[
+{"rwy1":"H6","len_m":21,"wid_m":21.03,"hdg":115,"surf":"Asphalt","lat1":-20.86626669,"lon1":115.40554650}
+]
+,"radios":[
+{"type":"CTAF","freq":120.1,"desc":"CTAF"}
+]
+}

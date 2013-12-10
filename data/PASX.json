@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PASX","name":"Soldotna","lat":60.4749585,"lon":-151.0382385,"rwys":1,"ils":0,"index":468379,"path":"w160n60/w152n60"
+,"runways":[
+{"len_m":1524,"wid_m":40.23,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":60.47496100,"lon1":-151.05209400,"rwy2":"25","lat2":60.47495600,"lon2":-151.02438300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"}
+]
+}

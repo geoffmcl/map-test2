@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UITT","name":"Ust-kut","lat":56.85788554,"lon":105.71604142,"rwys":1,"ils":1,"index":4678834,"path":"e100n50/e105n56"
+,"runways":[
+{"len_m":2007,"wid_m":45.11,"hdg":116,"surf":"Concrete","rwy1":"12","lat1":56.86186689,"lon1":105.71502057,"rwy2":"30","lat2":56.85377211,"lon2":105.74442425}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"Ust-Kut Meteo"},
+{"type":"TWR","freq":118.3,"desc":"Ust-Kut Krug"},
+{"type":"APP","freq":120.8,"desc":"Ust-Kut Podhod"}
+]
+}

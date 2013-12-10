@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBRD","name":"Brainerd Lakes Rgnl","lat":46.39339057,"lon":-094.14064391,"rwys":3,"ils":2,"index":1401371,"path":"w100n40/w095n46"
+,"runways":[
+{"len_m":2180,"wid_m":46.02,"hdg":162,"surf":"Concrete","rwy1":"16","lat1":46.41758117,"lon1":-94.13612038,"rwy2":"34","lat2":46.39886510,"lon2":-94.12761672},
+{"len_m":1981,"wid_m":46.02,"hdg":53,"surf":"Concrete","rwy1":"05","lat1":46.39464700,"lon1":-94.14628900,"rwy2":"23","lat2":46.40523600,"lon2":-94.12556900},
+{"len_m":1243,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":46.39896400,"lon1":-94.14807200,"rwy2":"30","lat2":46.39245600,"lon2":-94.13492200}
+]
+,"helipads":[
+{"rwy1":"Hel","len_m":22,"wid_m":21.34,"hdg":-94,"surf":"Concrete","lat1":46.38914791,"lon1":-94.13886158}
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":127.6,"desc":"GND"},
+{"type":"TWR","freq":127.25,"desc":"TWR"},
+{"type":"APP","freq":118.05,"desc":"APP"},
+{"type":"DEP","freq":118.05,"desc":"DEP"}
+]
+}

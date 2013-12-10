@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DIBK","name":"Bouake","lat":7.7388,"lon":-5.0736665,"rwys":1,"ils":0,"index":2857071,"path":"w010n00/w006n07"
+,"runways":[
+{"len_m":3298,"wid_m":45.11,"hdg":24,"surf":"Asphalt","rwy1":"03","lat1":7.72520000,"lon1":-5.07980000,"rwy2":"21","lat2":7.75240000,"lon2":-5.06753300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"APP"}
+]
+}

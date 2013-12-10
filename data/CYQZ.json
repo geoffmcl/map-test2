@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYQZ","name":"Quesnel","lat":53.026076,"lon":-122.5103655,"rwys":1,"ils":0,"index":943041,"path":"w130n50/w123n53"
+,"runways":[
+{"len_m":1676,"wid_m":60.96,"hdg":149,"surf":"Asphalt","rwy1":"13","lat1":53.03256900,"lon1":-122.51670000,"rwy2":"31","lat2":53.01958300,"lon2":-122.50403100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.4,"desc":"AWOS"},
+{"type":"TWR","freq":122.2,"desc":"WILLIAMS LAKE RDO"}
+]
+}

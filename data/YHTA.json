@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHTA","name":"Hiltaba","lat":-32.14191100,"lon":135.09977700,"rwys":2,"ils":0,"index":5164656,"path":"e130s40/e135s33"
+,"runways":[
+{"len_m":1764,"wid_m":17.98,"hdg":241,"surf":"Dirt","rwy1":"06","lat1":-32.13599146,"lon1":135.11011040,"rwy2":"24","lat2":-32.14355654,"lon2":135.09365560},
+{"len_m":1120,"wid_m":17.98,"hdg":286,"surf":"Dirt","rwy1":"10","lat1":-32.14170241,"lon1":135.10493796,"rwy2":"28","lat2":-32.13876159,"lon2":135.09357804}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

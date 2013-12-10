@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSUW","name":"Richard I Bong","lat":46.688993555,"lon":-92.094684035,"rwys":2,"ils":0,"index":1434155,"path":"w100n40/w093n46"
+,"runways":[
+{"len_m":1556,"wid_m":22.86,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":46.68915521,"lon1":-92.10031349,"rwy2":"21","lat2":46.70035639,"lon2":-92.08809509},
+{"len_m":1221,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":46.68744805,"lon1":-92.10027907,"rwy2":"31","lat2":46.67901456,"lon2":-92.09004850}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":125.45,"desc":"DULUTH APP/DEP"}
+]
+}

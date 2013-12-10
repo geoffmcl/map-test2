@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UATE","name":"Aktau","lat":43.85764472,"lon":051.08607708,"rwys":2,"ils":2,"index":3793264,"path":"e050n40/e051n43"
+,"runways":[
+{"len_m":2969,"wid_m":46.02,"hdg":122,"surf":"Dirt","rwy1":"12L","lat1":43.86762114,"lon1":51.07689987,"rwy2":"30R","lat2":43.85307850,"lon2":51.10789245},
+{"len_m":2644,"wid_m":45.11,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":43.86656627,"lon1":51.07683355,"rwy2":"30","lat2":43.85370423,"lon2":51.10451323}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":51,"surf":"Concrete","lat1":43.85994873,"lon1":51.08672934},
+{"rwy1":"H2","len_m":21,"wid_m":24.08,"hdg":51,"surf":"Asphalt","lat1":43.85711830,"lon1":51.09464991}
+]
+,"radios":[
+{"type":"ATIS","freq":130.1,"desc":"ATIS"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"}
+]
+}

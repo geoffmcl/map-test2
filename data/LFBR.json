@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBR","name":"L Herm","lat":43.44917500,"lon":001.26795000,"rwys":1,"ils":0,"index":2974041,"path":"e000n40/e001n43"
+,"runways":[
+{"len_m":1100,"wid_m":32.92,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":43.45143300,"lon1":1.25770600,"rwy2":"30","lat2":43.44694300,"lon2":1.26982400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"LFBR ATIS"},
+{"type":"CTAF","freq":123.2,"desc":"MURET MULT"},
+{"type":"GND","freq":121.75,"desc":"MURET GND"},
+{"type":"TWR","freq":123.2,"desc":"MURET TWR"},
+{"type":"APP","freq":125.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":118.8,"desc":"FRANCAZAL APP"}
+]
+}

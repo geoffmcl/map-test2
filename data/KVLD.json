@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVLD","name":"Valdosta Rgnl","lat":30.7823531666667,"lon":-83.276908,"rwys":3,"ils":1,"index":1580594,"path":"w090n30/w084n30"
+,"runways":[
+{"len_m":1921,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":30.79046400,"lon1":-83.27521700,"rwy2":"35","lat2":30.77335800,"lon2":-83.27201700},
+{"len_m":1706,"wid_m":30.48,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":30.77788600,"lon1":-83.28517200,"rwy2":"22","lat2":30.79036400,"lon2":-83.27474200},
+{"len_m":1108,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":30.78395000,"lon1":-83.28184400,"rwy2":"31","lat2":30.77809700,"lon2":-83.27245600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.22,"desc":"ASOS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":119.52,"desc":"APP/DEP"},
+{"type":"APP","freq":126.6,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEAX","name":"Leoni Benabu","lat":36.80111300,"lon":-004.13361100,"rwys":1,"ils":0,"index":2875315,"path":"w010n30/w005n36"
+,"runways":[
+{"len_m":960,"wid_m":20.12,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":36.80368900,"lon1":-4.13986500,"rwy2":"31","lat2":36.79911100,"lon2":-4.13073100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":-4,"surf":"Concrete","lat1":36.80237900,"lon1":-4.13584200}
+]
+,"radios":[
+{"type":"ATIS","freq":123.7,"desc":"ATIS_MALAGA ATIS"},
+{"type":"CTAF","freq":123.5,"desc":"CONTROL_LEAX MULT"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIBK","name":"Kish Island","lat":26.53063600,"lon":053.96945200,"rwys":3,"ils":0,"index":3824931,"path":"e050n20/e053n26"
+,"runways":[
+{"len_m":3658,"wid_m":65.53,"hdg":94,"surf":"Asphalt","rwy1":"09L","lat1":26.53010600,"lon1":53.96201400,"rwy2":"27R","lat2":26.52730600,"lon2":53.99859200},
+{"len_m":3658,"wid_m":45.11,"hdg":94,"surf":"Asphalt","rwy1":"09R","lat1":26.52755600,"lon1":53.96192200,"rwy2":"27L","lat2":26.52475300,"lon2":53.99850000},
+{"len_m":3658,"wid_m":45.11,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":26.52755785,"lon1":53.96192417,"rwy2":"27","lat2":26.52475215,"lon2":53.99850183}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"TWR","freq":121.67,"desc":"TWR"}
+]
+}

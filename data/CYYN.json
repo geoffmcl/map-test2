@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYN","name":"Swift Current","lat":50.28595040,"lon":-107.68948315,"rwys":2,"ils":0,"index":1188625,"path":"w110n50/w108n50"
+,"runways":[
+{"len_m":1299,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":50.29667627,"lon1":-107.69523910,"rwy2":"30","lat2":50.28834273,"lon2":-107.68246080},
+{"len_m":772,"wid_m":14.94,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":50.28885763,"lon1":-107.69890757,"rwy2":"22","lat2":50.29372122,"lon2":-107.69116096}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.7,"desc":"AWOS"},
+{"type":"TWR","freq":122.3,"desc":"MF"}
+]
+}

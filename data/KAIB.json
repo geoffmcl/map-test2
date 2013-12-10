@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAIB","name":"Hopkins Fld","lat":38.23875125,"lon":-108.5632145,"rwys":2,"ils":0,"index":1171465,"path":"w110n30/w109n38"
+,"runways":[
+{"len_m":1401,"wid_m":22.86,"hdg":58,"surf":"Asphalt","rwy1":"05","lat1":38.23550800,"lon1":-108.57065000,"rwy2":"23","lat2":38.24210000,"lon2":-108.55699400},
+{"len_m":1218,"wid_m":24.38,"hdg":123,"surf":"Dirt","rwy1":"11","lat1":38.24176100,"lon1":-108.56838300,"rwy2":"29","lat2":38.23563600,"lon2":-108.55683100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

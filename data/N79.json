@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N79","name":"Northumberland County Airport","lat":40.836921,"lon":-76.55245538,"rwys":1,"ils":0,"index":1695921,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":1007,"wid_m":22.86,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":40.83555223,"lon1":-76.55815167,"rwy2":"26","lat2":40.83828977,"lon2":-76.54675909}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.25,"desc":"HARRISBURG APP/DEP"}
+]
+}

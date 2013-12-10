@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"94Z","name":"Nome City Field","lat":64.51026949,"lon":-165.40382427,"rwys":1,"ils":0,"index":239265,"path":"w170n60/w166n64"
+,"runways":[
+{"len_m":596,"wid_m":34.14,"hdg":47,"surf":"Gravel","rwy1":"03","lat1":64.51129348,"lon1":-165.40047215,"rwy2":"21","lat2":64.51494136,"lon2":-165.39138121}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.45,"desc":"AWOS-3"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+}

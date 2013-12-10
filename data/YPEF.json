@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPEF","name":"Penfield","lat":-37.51468328,"lon":144.70014712,"rwys":2,"ils":0,"index":5311770,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1362,"wid_m":50.90,"hdg":13,"surf":"Turf/grass","rwy1":"1","lat1":-37.51481846,"lon1":144.69948600,"rwy2":"19","lat2":-37.50289555,"lon2":144.70316337},
+{"len_m":866,"wid_m":41.15,"hdg":160,"surf":"Turf/grass","rwy1":"15","lat1":-37.50702965,"lon1":144.69834582,"rwy2":"33","lat2":-37.51437960,"lon2":144.70166344}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

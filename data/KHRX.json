@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHRX","name":"Hereford Muni","lat":34.85759125,"lon":-102.32733475,"rwys":2,"ils":0,"index":1269554,"path":"w110n30/w103n34"
+,"runways":[
+{"len_m":1641,"wid_m":22.86,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":34.85176400,"lon1":-102.33167200,"rwy2":"21","lat2":34.86375600,"lon2":-102.32115600},
+{"len_m":1160,"wid_m":41.15,"hdg":151,"surf":"Turf/grass","rwy1":"14","lat1":34.86200600,"lon1":-102.33131100,"rwy2":"32","lat2":34.85283900,"lon2":-102.32520000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"AMARILLO APP/DEP"},
+{"type":"APP","freq":121.15,"desc":"AMARILLO APP/DEP"}
+]
+}

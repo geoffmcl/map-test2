@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DNAA","name":"Nnamdi Azikiwe Intl","lat":9.0067905,"lon":7.263171,"rwys":1,"ils":2,"index":3070146,"path":"e000n00/e007n09"
+,"runways":[
+{"len_m":3609,"wid_m":60.05,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":8.99343900,"lon1":7.25373600,"rwy2":"22","lat2":9.02014200,"lon2":7.27260600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"ATIS","freq":123.9,"desc":"ATIS"},
+{"type":"ATIS","freq":127.5,"desc":"ATIS"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"APP"},
+{"type":"APP","freq":119.8,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VOCL","name":"Calicut","lat":11.1368405,"lon":75.9553,"rwys":1,"ils":1,"index":4184399,"path":"e070n10/e075n11"
+,"runways":[
+{"len_m":2862,"wid_m":45.72,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":11.13930600,"lon1":75.94243900,"rwy2":"28","lat2":11.13437500,"lon2":75.96816100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"TWR","freq":122.95,"desc":"TWR"},
+{"type":"TWR","freq":123.35,"desc":"TWR"}
+]
+}

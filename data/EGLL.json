@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGLL","name":"London Heathrow","lat":51.47187295,"lon":-000.46557454,"rwys":2,"ils":2,"index":2941786,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":3915,"wid_m":49.99,"hdg":89,"surf":"Asphalt","rwy1":"09L","lat1":51.47747035,"lon1":-0.48962591,"rwy2":"27R","lat2":51.47767520,"lon2":-0.43326100},
+{"len_m":3674,"wid_m":49.99,"hdg":89,"surf":"Asphalt","rwy1":"09R","lat1":51.46477398,"lon1":-0.48694615,"rwy2":"27L","lat2":51.46495200,"lon2":-0.43407800}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":0,"surf":"Asphalt","lat1":51.46246728,"lon1":-0.45084007}
+]
+,"radios":[
+{"type":"ATIS","freq":128.07,"desc":"Heathrow Information"},
+{"type":"CLD","freq":121.97,"desc":"Heathrow Delivery"},
+{"type":"GND","freq":121.9,"desc":"Heathrow Ground"},
+{"type":"TWR","freq":124.47,"desc":"Heathrow Tower"},
+{"type":"APP","freq":134.97,"desc":"Heathrow Director"}
+]
+}

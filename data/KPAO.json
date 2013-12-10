@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPAO","name":"Palo Alto","lat":37.45851100,"lon":-122.11441000,"rwys":1,"ils":0,"index":942043,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":809,"wid_m":22.86,"hdg":321,"surf":"Asphalt","rwy1":"31","lat1":37.45802600,"lon1":-122.11198500,"rwy2":"xxx","lat2":37.46375200,"lon2":-122.11766050}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ATIS"},
+{"type":"GND","freq":125,"desc":"Ground"},
+{"type":"TWR","freq":118.6,"desc":"Tower"},
+{"type":"APP","freq":121.3,"desc":"NORCAL APP/DEP"}
+]
+}

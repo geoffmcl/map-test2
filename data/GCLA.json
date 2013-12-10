@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GCLA","name":"La Palma","lat":28.62112800,"lon":-017.75346600,"rwys":1,"ils":0,"index":2661792,"path":"w020n20/w018n28"
+,"runways":[
+{"len_m":2198,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":28.61656100,"lon1":-17.75542000,"rwy2":"19","lat2":28.63639900,"lon2":-17.75580700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"GCLA TWR"},
+{"type":"APP","freq":126.1,"desc":"GCLA APP"}
+]
+}

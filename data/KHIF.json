@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHIF","name":"Hill Afb","lat":41.12281851,"lon":-111.97730294,"rwys":1,"ils":1,"index":1122496,"path":"w120n40/w112n41"
+,"runways":[
+{"len_m":4113,"wid_m":60.96,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":41.14042200,"lon1":-111.98421400,"rwy2":"32","lat2":41.10745600,"lon2":-111.96187200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.92,"desc":"ATIS"},
+{"type":"CLD","freq":124.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":127.15,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"SALT LAKE CITY APP"},
+{"type":"APP","freq":124.9,"desc":"SALT LAKE CITY APP"},
+{"type":"APP","freq":126,"desc":"SALT LAKE CITY APP"},
+{"type":"APP","freq":126.8,"desc":"SALT LAKE CITY APP"},
+{"type":"DEP","freq":121.1,"desc":"SALT LAKE CITY DEP"},
+{"type":"DEP","freq":124.9,"desc":"SALT LAKE CITY DEP"},
+{"type":"DEP","freq":126.8,"desc":"SALT LAKE CITY DEP"}
+]
+}

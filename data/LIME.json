@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIME","name":"Bergamo Orio Al Serio","lat":45.66502223,"lon":009.70265070,"rwys":2,"ils":1,"index":3105258,"path":"e000n40/e009n45"
+,"runways":[
+{"len_m":813,"wid_m":17.98,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":45.67822607,"lon1":9.70153005,"rwy2":"30","lat2":45.67441307,"lon2":9.71044405},
+{"len_m":3023,"wid_m":45.11,"hdg":104,"surf":"Asphalt","rwy1":"10","lat1":45.67117515,"lon1":9.68904423,"rwy2":"28","lat2":45.66420099,"lon2":9.72655155}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67571825,"lon1":9.70070502},
+{"rwy1":"H2","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67528744,"lon1":9.69996488},
+{"rwy1":"H3","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67486507,"lon1":9.69924101}
+]
+,"radios":[
+{"type":"GND","freq":120.5,"desc":"ORIO GND"},
+{"type":"TWR","freq":126.5,"desc":"ORIO TWR"},
+{"type":"TWR","freq":120.5,"desc":"ORIO TWR"},
+{"type":"APP","freq":126.75,"desc":"MILANO APP"},
+{"type":"APP","freq":132.7,"desc":"MILANO APP"}
+]
+}

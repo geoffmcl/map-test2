@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGDM","name":"Boscombe Down","lat":51.15623962,"lon":-001.73655308,"rwys":3,"ils":1,"index":2925385,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":3154,"wid_m":45.11,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":51.14413916,"lon1":-1.76855160,"rwy2":"23","lat2":51.16230565,"lon2":-1.73392816},
+{"len_m":802,"wid_m":11.89,"hdg":50,"surf":"Asphalt","rwy1":"05L","lat1":51.15075532,"lon1":-1.75893600,"rwy2":"23R","lat2":51.15536805,"lon2":-1.75012095},
+{"len_m":1873,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":51.16159737,"lon1":-1.73367641,"rwy2":"35","lat2":51.14521982,"lon2":-1.72745353}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":130.75,"desc":"Boscombe Ground"},
+{"type":"TWR","freq":130.75,"desc":"Boscombe Tower"},
+{"type":"APP","freq":126.7,"desc":"Boscombe Zone"},
+{"type":"APP","freq":130,"desc":"Boscombe Approach"}
+]
+}

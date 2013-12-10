@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPIL","name":"Port Isabel Cameron Co","lat":26.166531375,"lon":-97.34670475,"rwys":4,"ils":0,"index":1350922,"path":"w100n20/w098n26"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":26.17300000,"lon1":-97.34987800,"rwy2":"31","lat2":26.15748100,"lon2":-97.33258300},
+{"len_m":1615,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":26.16361700,"lon1":-97.35410300,"rwy2":"26","lat2":26.16363900,"lon2":-97.33794400},
+{"len_m":1523,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":26.16197500,"lon1":-97.35498100,"rwy2":"21","lat2":26.17326100,"lon2":-97.34627200},
+{"len_m":1280,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":26.17541700,"lon1":-97.34895800,"rwy2":"35","lat2":26.16386100,"lon2":-97.34891900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.2,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.5,"desc":"VALLEY APP/DEP"}
+]
+}

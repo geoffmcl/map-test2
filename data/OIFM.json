@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIFM","name":"Esfahan Shahid Beheshti Intl","lat":32.74602130,"lon":051.87280270,"rwys":2,"ils":1,"index":3792555,"path":"e050n30/e051n32"
+,"runways":[
+{"len_m":4396,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08L","lat1":32.74874400,"lon1":51.83783300,"rwy2":"26R","lat2":32.75702500,"lon2":51.88371700},
+{"len_m":4396,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":32.74468900,"lon1":51.83885600,"rwy2":"26L","lat2":32.75296900,"lon2":51.88473600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.25,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"},
+{"type":"APP","freq":122.05,"desc":"APP"},
+{"type":"APP","freq":122.65,"desc":"APP"}
+]
+}

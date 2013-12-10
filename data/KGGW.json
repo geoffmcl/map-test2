@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGGW","name":"Wokal Fld Glasgow Intl","lat":48.21114300,"lon":-106.62921100,"rwys":2,"ils":0,"index":1204873,"path":"w110n40/w107n48"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"12","lat1":48.21640800,"lon1":-106.62181100,"rwy2":"30","lat2":48.20688600,"lon2":-106.60705600},
+{"len_m":1523,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":48.21284000,"lon1":-106.59991200,"rwy2":"26","lat2":48.21284200,"lon2":-106.57940600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEGI","name":"Duke Fld","lat":30.64747125,"lon":-86.5213305,"rwys":2,"ils":1,"index":1531433,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":2437,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.66134400,"lon1":-86.52267500,"rwy2":"36","lat2":30.63935800,"lon2":-86.52309700},
+{"len_m":1066,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"18C","lat1":30.64940000,"lon1":-86.51968300,"rwy2":"36C","lat2":30.63978300,"lon2":-86.51986700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.2,"desc":"TWR"},
+{"type":"APP","freq":133,"desc":"APP"},
+{"type":"APP","freq":132.1,"desc":"APP"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"DEP","freq":120.9,"desc":"DEP"}
+]
+}

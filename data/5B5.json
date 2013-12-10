@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"5B5","name":"Napoleon Muni","lat":46.4941815,"lon":-99.75959,"rwys":2,"ils":0,"index":1319448,"path":"w100n40/w100n46"
+,"runways":[
+{"len_m":975,"wid_m":18.29,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":46.49720300,"lon1":-99.76246900,"rwy2":"30","lat2":46.49165600,"lon2":-99.75262500},
+{"len_m":762,"wid_m":24.38,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":46.49393100,"lon1":-99.76659700,"rwy2":"26","lat2":46.49393600,"lon2":-99.75666900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

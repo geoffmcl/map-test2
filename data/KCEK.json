@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCEK","name":"Crete Muni","lat":40.62202038,"lon":-096.92777302,"rwys":2,"ils":0,"index":1368224,"path":"w100n40/w097n40"
+,"runways":[
+{"len_m":1281,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":40.62367599,"lon1":-96.92485220,"rwy2":"35","lat2":40.61213801,"lon2":-96.92493179},
+{"len_m":1032,"wid_m":46.02,"hdg":135,"surf":"Transparent","rwy1":"13","lat1":40.62227677,"lon1":-96.93102777,"rwy2":"31","lat2":40.61567073,"lon2":-96.92244546}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124,"desc":"LINCOLN APP/DEP"}
+]
+}

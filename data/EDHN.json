@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDHN","name":"Neumuenster","lat":54.07849240,"lon":009.94662362,"rwys":2,"ils":0,"index":3105795,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":602,"wid_m":14.94,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":54.07809056,"lon1":9.93604026,"rwy2":"26","lat2":54.07912084,"lon2":9.94507485},
+{"len_m":485,"wid_m":39.93,"hdg":8,"surf":"Turf/grass","rwy1":"01","lat1":54.07425120,"lon1":9.93468195,"rwy2":"19","lat2":54.07857337,"lon2":9.93571735}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"Bremen Information"},
+{"type":"TWR","freq":123,"desc":"Neumuenster INFO"}
+]
+}

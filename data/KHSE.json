@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHSE","name":"Billy Mitchell","lat":35.232793,"lon":-75.61779,"rwys":1,"ils":0,"index":1711945,"path":"w080n30/w076n35"
+,"runways":[
+{"len_m":913,"wid_m":22.86,"hdg":56,"surf":"Asphalt","rwy1":"07","lat1":35.23053300,"lon1":-75.62198600,"rwy2":"25","lat2":35.23505300,"lon2":-75.61359400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.75,"desc":"CHERRY POINT APP/DEP"}
+]
+}

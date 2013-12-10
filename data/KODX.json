@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KODX","name":"Evelyn Sharp Fld","lat":41.62259891,"lon":-098.94853141,"rwys":2,"ils":0,"index":1335520,"path":"w100n40/w099n41"
+,"runways":[
+{"len_m":1438,"wid_m":22.86,"hdg":136,"surf":"Concrete","rwy1":"13","lat1":41.62910302,"lon1":-98.95866027,"rwy2":"31","lat2":41.61977098,"lon2":-98.94668846},
+{"len_m":635,"wid_m":61.87,"hdg":179,"surf":"Dirt","rwy1":"17","lat1":41.62466440,"lon1":-98.95010603,"rwy2":"35","lat2":41.61894240,"lon2":-98.94999203}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

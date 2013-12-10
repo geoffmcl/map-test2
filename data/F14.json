@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F14","name":"Wichita Valley","lat":33.9477338333333,"lon":-98.6160223333333,"rwys":3,"ils":0,"index":1335033,"path":"w100n30/w099n33"
+,"runways":[
+{"len_m":1011,"wid_m":12.19,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":33.95127500,"lon1":-98.62014200,"rwy2":"31","lat2":33.94418300,"lon2":-98.61325800},
+{"len_m":946,"wid_m":30.48,"hdg":49,"surf":"Turf/grass","rwy1":"04","lat1":33.94398600,"lon1":-98.62005800,"rwy2":"22","lat2":33.94954200,"lon2":-98.61228100},
+{"len_m":620,"wid_m":12.80,"hdg":172,"surf":"Turf/grass","rwy1":"16","lat1":33.95148600,"lon1":-98.61561400,"rwy2":"34","lat2":33.94593100,"lon2":-98.61478100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.2,"desc":"SHEPPARD APP/DEP"}
+]
+}

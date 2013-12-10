@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMDT","name":"Harrisburg Intl","lat":40.1931905,"lon":-76.7626195,"rwys":1,"ils":1,"index":1695880,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":3048,"wid_m":60.96,"hdg":116,"surf":"Asphalt","rwy1":"13","lat1":40.19937500,"lon1":-76.77860000,"rwy2":"31","lat2":40.18700600,"lon2":-76.74663900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.8,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"APP/DEP"},
+{"type":"APP","freq":122.45,"desc":"APP/DEP"},
+{"type":"APP","freq":124.1,"desc":"APP/DEP"},
+{"type":"APP","freq":126.45,"desc":"APP/DEP"}
+]
+}

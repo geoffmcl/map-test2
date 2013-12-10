@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMAM","name":"Al Dhafra","lat":24.23958275,"lon":54.549415,"rwys":2,"ils":0,"index":3841162,"path":"e050n20/e054n24"
+,"runways":[
+{"len_m":3656,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"13L","lat1":24.25816700,"lon1":54.53333300,"rwy2":"31R","lat2":24.23833300,"lon2":54.56211100},
+{"len_m":3657,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"13R","lat1":24.24084200,"lon1":54.53672200,"rwy2":"31L","lat2":24.22098900,"lon2":54.56549400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.4,"desc":"ABU DHABI APP"},
+{"type":"APP","freq":124.5,"desc":"AL DHAFRA ARR/DEP"}
+]
+}

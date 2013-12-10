@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENML","name":"Molde Aro","lat":62.74369292,"lon":007.26678651,"rwys":1,"ils":2,"index":3073576,"path":"e000n60/e007n62"
+,"runways":[
+{"len_m":2105,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":62.74249700,"lon1":7.24800300,"rwy2":"25","lat2":62.74864700,"lon2":7.28696100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.95,"desc":"MOLDE INFO"},
+{"type":"TWR","freq":121.5,"desc":"MOLDE INFO"}
+]
+}

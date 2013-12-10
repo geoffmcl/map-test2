@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHQG","name":"Hugoton Muni","lat":37.16366375,"lon":-101.37033125,"rwys":2,"ils":0,"index":1286090,"path":"w110n30/w102n37"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":24,"surf":"Concrete","rwy1":"02","lat1":37.15554700,"lon1":-101.37453600,"rwy2":"20","lat2":37.16803300,"lon2":-101.36738900},
+{"len_m":800,"wid_m":10.67,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":37.16809400,"lon1":-101.37287800,"rwy2":"31","lat2":37.16298100,"lon2":-101.36652200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.6,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

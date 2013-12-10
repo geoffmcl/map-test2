@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBWI","name":"Baltimore Washington Intl","lat":39.17914650,"lon":-076.66841004,"rwys":4,"ils":3,"index":1695817,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":3323,"wid_m":60.96,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":39.17478703,"lon1":-76.69032530,"rwy2":"28","lat2":39.17259297,"lon2":-76.65196870},
+{"len_m":2896,"wid_m":46.02,"hdg":144,"surf":"Asphalt","rwy1":"15R","lat1":39.18536808,"lon1":-76.68198271,"rwy2":"33L","lat2":39.16420792,"lon2":-76.66238329},
+{"len_m":1829,"wid_m":46.02,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":39.16687783,"lon1":-76.67136824,"rwy2":"22","lat2":39.18066417,"lon2":-76.65977976},
+{"len_m":1523,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"15L","lat1":39.18737158,"lon1":-76.66354254,"rwy2":"33R","lat2":39.17623642,"lon2":-76.65323146}
+]
+,"helipads":[
+{"rwy1":"H8","len_m":49,"wid_m":46.02,"hdg":-76,"surf":"Asphalt","lat1":39.18648352,"lon1":-76.66059928}
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":124.55,"desc":"POTOMAC DEP"}
+]
+}

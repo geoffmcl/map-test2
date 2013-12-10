@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFDK","name":"Frederick Muni","lat":39.41699200,"lon":-077.37846400,"rwys":2,"ils":1,"index":1679450,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1591,"wid_m":30.48,"hdg":40,"surf":"Asphalt","rwy1":"05","lat1":39.40960300,"lon1":-77.38043600,"rwy2":"23","lat2":39.42050300,"lon2":-77.36843300},
+{"len_m":1097,"wid_m":22.86,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":39.42338300,"lon1":-77.37982200,"rwy2":"30","lat2":39.41905600,"lon2":-77.36836700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.9,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":126.75,"desc":"POTOMAC APP/DEP"}
+]
+}

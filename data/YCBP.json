@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCBP","name":"Coober Pedy","lat":-29.03561300,"lon":134.72283843,"rwys":2,"ils":0,"index":5148474,"path":"e130s30/e134s30"
+,"runways":[
+{"len_m":1428,"wid_m":14.94,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":-29.04434692,"lon1":134.71429114,"rwy2":"22","lat2":-29.03590168,"lon2":134.72536421},
+{"len_m":955,"wid_m":49.99,"hdg":149,"surf":"Transparent","rwy1":"14","lat1":-29.03597639,"lon1":134.72058085,"rwy2":"32","lat2":-29.04343462,"lon2":134.72550604}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"COOBER PEDY MULT"},
+{"type":"CTAF","freq":120.7,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

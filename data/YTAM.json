@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTAM","name":"Taroom","lat":-25.80151378,"lon":149.89492455,"rwys":2,"ils":0,"index":5394443,"path":"e140s30/e149s26"
+,"runways":[
+{"len_m":1093,"wid_m":28.96,"hdg":129,"surf":"Dirt","rwy1":"12","lat1":-25.79877622,"lon1":149.89426589,"rwy2":"30","lat2":-25.80511288,"lon2":149.90262421},
+{"len_m":1251,"wid_m":98.15,"hdg":87,"surf":"Dirt","rwy1":"8","lat1":-25.80441807,"lon1":149.89537327,"rwy2":"26","lat2":-25.80394059,"lon2":149.90784148}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

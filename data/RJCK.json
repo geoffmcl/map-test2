@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJCK","name":"Kushiro","lat":43.0409695,"lon":144.192986,"rwys":1,"ils":1,"index":5316928,"path":"e140n40/e144n43"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":43.05147200,"lon1":144.18747800,"rwy2":"35","lat2":43.03046700,"lon2":144.19849400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"}
+]
+}

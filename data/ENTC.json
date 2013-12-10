@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENTC","name":"Tromso Langnes","lat":69.68318437,"lon":018.91068242,"rwys":1,"ils":2,"index":3254249,"path":"e010n60/e018n69"
+,"runways":[
+{"len_m":2366,"wid_m":42.98,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":69.67250117,"lon1":18.91290854,"rwy2":"19","lat2":69.69323145,"lon2":18.92581706}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.75,"desc":"APP"}
+]
+}

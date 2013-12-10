@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIFE","name":"Hesa","lat":32.92171725,"lon":51.55811725,"rwys":2,"ils":0,"index":3792570,"path":"e050n30/e051n32"
+,"runways":[
+{"len_m":2997,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"07","lat1":32.92654400,"lon1":51.54540800,"rwy2":"25","lat2":32.93261900,"lon2":51.57663300},
+{"len_m":330,"wid_m":12.19,"hdg":91,"surf":"Concrete","rwy1":"09","lat1":32.91390300,"lon1":51.55345000,"rwy2":"27","lat2":32.91380300,"lon2":51.55697800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"INFO"}
+]
+}

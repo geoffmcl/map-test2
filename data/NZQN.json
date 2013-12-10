@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZQN","name":"Queenstown","lat":-45.02270100,"lon":168.73864700,"rwys":3,"ils":0,"index":5704506,"path":"e160s50/e168s46"
+,"runways":[
+{"len_m":1850,"wid_m":35.36,"hdg":76,"surf":"Asphalt","rwy1":"05R","lat1":-45.02180538,"lon1":168.73530165,"rwy2":"23L","lat2":-45.01777662,"lon2":168.75807635},
+{"len_m":961,"wid_m":50.90,"hdg":161,"surf":"Turf/grass","rwy1":"14","lat1":-45.01849307,"lon1":168.74018074,"rwy2":"32","lat2":-45.02668093,"lon2":168.74413326},
+{"len_m":768,"wid_m":36.88,"hdg":76,"surf":"Turf/grass","rwy1":"05L","lat1":-45.02009646,"lon1":168.74262797,"rwy2":"23R","lat2":-45.01842354,"lon2":168.75209203}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+}

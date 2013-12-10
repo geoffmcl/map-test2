@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UUDL","name":"Tunoshna","lat":57.560668,"lon":40.1573665,"rwys":1,"ils":1,"index":3613920,"path":"e040n50/e040n57"
+,"runways":[
+{"len_m":3008,"wid_m":43.89,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":57.55461900,"lon1":40.13489700,"rwy2":"23","lat2":57.56671700,"lon2":40.17983600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.35,"desc":"ATIS"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+}

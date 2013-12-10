@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEMM","name":"Mersa Matruh","lat":31.32706825,"lon":27.225097,"rwys":2,"ils":0,"index":3399248,"path":"e020n30/e027n31"
+,"runways":[
+{"len_m":2996,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":31.32201700,"lon1":27.21488900,"rwy2":"24","lat2":31.33552500,"lon2":27.24215800},
+{"len_m":3002,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":31.33705600,"lon1":27.21370800,"rwy2":"33","lat2":31.31367500,"lon2":27.22963300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"MATRUH TWR"},
+{"type":"TWR","freq":121.9,"desc":"MATRUH TWR"}
+]
+}

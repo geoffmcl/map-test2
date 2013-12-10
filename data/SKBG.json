@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKBG","name":"Palonegro","lat":07.12791059,"lon":-073.18249097,"rwys":1,"ils":1,"index":1742926,"path":"w080n00/w074n07"
+,"runways":[
+{"len_m":2260,"wid_m":49.99,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":7.13605600,"lon1":-73.18838900,"rwy2":"34","lat2":7.11694400,"lon2":-73.18113900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":32,"wid_m":32.00,"hdg":-73,"surf":"Transparent","lat1":7.12657594,"lon1":-73.18191163}
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"Tower Frequency"},
+{"type":"APP","freq":119,"desc":"Approach Frequency"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLVT","name":"Laverton (military - Closed)","lat":-37.860977,"lon":144.748001,"rwys":2,"ils":0,"index":5311754,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1547,"wid_m":44.81,"hdg":0,"surf":"Asphalt","rwy1":"35","lat1":-37.86792666,"lon1":144.74800100,"rwy2":"17","lat2":-37.85398134,"lon2":144.74800100},
+{"len_m":1532,"wid_m":49.99,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":-37.86444107,"lon1":144.74045180,"rwy2":"23","lat2":-37.85755893,"lon2":144.75555020}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118,"desc":"UNICOM"}
+]
+}

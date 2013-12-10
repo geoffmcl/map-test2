@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCBM","name":"Columbus Afb","lat":33.6454648333333,"lon":-88.4470746666667,"rwys":3,"ils":2,"index":1498858,"path":"w090n30/w089n33"
+,"runways":[
+{"len_m":3657,"wid_m":91.44,"hdg":133,"surf":"Asphalt","rwy1":"13C","lat1":33.65539400,"lon1":-88.46087500,"rwy2":"31C","lat2":33.63248400,"lon2":-88.43251700},
+{"len_m":2459,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13L","lat1":33.65539400,"lon1":-88.45143100,"rwy2":"31R","lat2":33.63983900,"lon2":-88.43254200},
+{"len_m":1862,"wid_m":53.34,"hdg":133,"surf":"Concrete","rwy1":"13R","lat1":33.65067200,"lon1":-88.45976400,"rwy2":"31L","lat2":33.63900600,"lon2":-88.44531900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":128.65,"desc":"TWR"},
+{"type":"APP","freq":133.25,"desc":"APP"},
+{"type":"APP","freq":135.6,"desc":"APP"},
+{"type":"APP","freq":132.02,"desc":"APP"},
+{"type":"APP","freq":126.07,"desc":"APP"},
+{"type":"DEP","freq":132.02,"desc":"DEP"},
+{"type":"DEP","freq":135.6,"desc":"DEP"}
+]
+}

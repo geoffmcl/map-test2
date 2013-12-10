@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCBB","name":"Coonabarabran","lat":-31.33250224,"lon":149.26967560,"rwys":2,"ils":0,"index":5394089,"path":"e140s40/e149s32"
+,"runways":[
+{"len_m":769,"wid_m":93.88,"hdg":29,"surf":"Turf/grass","rwy1":"01","lat1":-31.33545170,"lon1":149.27001554,"rwy2":"19","lat2":-31.32939692,"lon2":149.27395706},
+{"len_m":1519,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":-31.32714208,"lon1":149.25600720,"rwy2":"29","lat2":-31.33458135,"lon2":149.26941830}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

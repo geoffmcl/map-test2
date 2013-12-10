@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KETH","name":"Wheaton Muni","lat":45.7806285,"lon":-96.5438095,"rwys":2,"ils":0,"index":1368561,"path":"w100n40/w097n45"
+,"runways":[
+{"len_m":1005,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":45.78433900,"lon1":-96.54453900,"rwy2":"34","lat2":45.77564200,"lon2":-96.54098300},
+{"len_m":584,"wid_m":53.34,"hdg":60,"surf":"Turf/grass","rwy1":"04","lat1":45.77996100,"lon1":-96.54812200,"rwy2":"22","lat2":45.78257200,"lon2":-96.54159400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

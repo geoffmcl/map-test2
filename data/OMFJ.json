@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMFJ","name":"Fujairah Intl","lat":25.1121165,"lon":56.324217,"rwys":1,"ils":1,"index":3873985,"path":"e050n20/e056n25"
+,"runways":[
+{"len_m":3750,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":25.11857500,"lon1":56.30703100,"rwy2":"29","lat2":25.10565800,"lon2":56.34140300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.45,"desc":"GND"},
+{"type":"TWR","freq":124.6,"desc":"TWR"},
+{"type":"APP","freq":129.4,"desc":"RADAR"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESDF","name":"Ronneby","lat":56.26171500,"lon":015.27578500,"rwys":2,"ils":1,"index":3204241,"path":"e010n50/e015n56"
+,"runways":[
+{"len_m":2330,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":56.25693100,"lon1":15.26254700,"rwy2":"19","lat2":56.27762500,"lon2":15.26823100},
+{"len_m":763,"wid_m":45.72,"hdg":8,"surf":"Dirt","rwy1":"01L","lat1":56.25857745,"lon1":15.26053739,"rwy2":"19R","lat2":56.26535655,"lon2":15.26239861}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":128.44,"desc":"CON"},
+{"type":"APP","freq":128.45,"desc":"CON"},
+{"type":"APP","freq":129.9,"desc":"CON"}
+]
+}

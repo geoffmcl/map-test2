@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNFL","name":"Fallon Nas","lat":39.4171211666667,"lon":-118.699086833333,"rwys":3,"ils":0,"index":1007705,"path":"w120n30/w119n39"
+,"runways":[
+{"len_m":4268,"wid_m":61.26,"hdg":145,"surf":"Asphalt","rwy1":"13R","lat1":39.43558900,"lon1":-118.71396900,"rwy2":"31L","lat2":39.40403100,"lon2":-118.68566100},
+{"len_m":3377,"wid_m":60.96,"hdg":145,"surf":"Concrete","rwy1":"13L","lat1":39.43056900,"lon1":-118.70515000,"rwy2":"31R","lat2":39.40559700,"lon2":-118.68275800},
+{"len_m":2134,"wid_m":46.94,"hdg":87,"surf":"Asphalt","rwy1":"07","lat1":39.41310800,"lon1":-118.71587500,"rwy2":"25","lat2":39.41383300,"lon2":-118.69110800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.25,"desc":"NAVY FALLON TWR"},
+{"type":"APP","freq":120.85,"desc":"NAVY FALLON APP/DEP"}
+]
+}

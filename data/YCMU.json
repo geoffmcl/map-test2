@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCMU","name":"Cunnamulla","lat":-28.03342195,"lon":145.62433147,"rwys":2,"ils":0,"index":5328762,"path":"e140s30/e145s29"
+,"runways":[
+{"len_m":1733,"wid_m":29.87,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":-28.02669030,"lon1":145.61959726,"rwy2":"30","lat2":-28.03677692,"lon2":145.63307171},
+{"len_m":911,"wid_m":17.98,"hdg":68,"surf":"Asphalt","rwy1":"06","lat1":-28.03326512,"lon1":145.61437743,"rwy2":"24","lat2":-28.03018555,"lon2":145.62297507}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

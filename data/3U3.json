@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3U3","name":"Bowman Fld","lat":46.14773200,"lon":-112.86329700,"rwys":2,"ils":0,"index":1106440,"path":"w120n40/w113n46"
+,"runways":[
+{"len_m":1852,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":46.16388900,"lon1":-112.87111100,"rwy2":"34","lat2":46.14722200,"lon2":-112.87111100},
+{"len_m":1392,"wid_m":18.29,"hdg":56,"surf":"Asphalt","rwy1":"04","lat1":46.14611100,"lon1":-112.87083300,"rwy2":"22","lat2":46.15305600,"lon2":-112.85583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

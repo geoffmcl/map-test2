@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"29G","name":"Portage Co","lat":41.210183,"lon":-81.251625,"rwys":1,"ils":0,"index":1614026,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1066,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"09","lat1":41.20977200,"lon1":-81.25796100,"rwy2":"27","lat2":41.21059400,"lon2":-81.24528900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"AKRON CANTON APP/DEP"}
+]
+}

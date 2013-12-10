@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAKH","name":"Gastonia Muni","lat":35.20362500,"lon":-081.14987200,"rwys":1,"ils":0,"index":1613643,"path":"w090n30/w082n35"
+,"runways":[
+{"len_m":1148,"wid_m":30.48,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":35.19806700,"lon1":-81.15286900,"rwy2":"21","lat2":35.20718100,"lon2":-81.14688100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.75,"desc":"CHARLOTTE APP/DEP"}
+]
+}

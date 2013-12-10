@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M04","name":"Covington Muni","lat":35.583375,"lon":-89.5872335,"rwys":1,"ils":0,"index":1482593,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":35.57658600,"lon1":-89.58855000,"rwy2":"19","lat2":35.59016400,"lon2":-89.58591700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.8,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.15,"desc":"MEMPHIS DEP"}
+]
+}

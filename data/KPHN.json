@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPHN","name":"St Clair Co Intl","lat":42.91006900,"lon":-082.52494600,"rwys":2,"ils":0,"index":1597753,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":1555,"wid_m":30.48,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":42.90463100,"lon1":-82.53532800,"rwy2":"22","lat2":42.91593600,"lon2":-82.52409200},
+{"len_m":1219,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":42.91226900,"lon1":-82.53521700,"rwy2":"28","lat2":42.91136700,"lon2":-82.52033300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"SELFRIDGE APP/DEP"}
+]
+}

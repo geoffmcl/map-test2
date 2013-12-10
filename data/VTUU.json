@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUU","name":"Ubon Ratchathani","lat":15.24679400,"lon":104.87204000,"rwys":1,"ils":1,"index":4659790,"path":"e100n10/e104n15"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":15.24282500,"lon1":104.85929400,"rwy2":"23","lat2":15.25972800,"lon2":104.88116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":123.5,"desc":"APP"}
+]
+}

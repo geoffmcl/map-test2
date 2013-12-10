@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FADN","name":"Durban Intl","lat":-29.96654900,"lon":030.94268000,"rwys":1,"ils":2,"index":3444483,"path":"e030s30/e030s30"
+,"runways":[
+{"len_m":2438,"wid_m":60.05,"hdg":36,"surf":"Asphalt","rwy1":"06","lat1":-29.97893287,"lon1":30.94301634,"rwy2":"24","lat2":-29.96124113,"lon2":30.95802366}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+}

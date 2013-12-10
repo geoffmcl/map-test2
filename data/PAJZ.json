@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAJZ","name":"Koliganek","lat":59.7266415,"lon":-157.2594725,"rwys":1,"ils":0,"index":370026,"path":"w160n50/w158n59"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":105,"surf":"Gravel","rwy1":"09","lat1":59.72776400,"lon1":-157.26728900,"rwy2":"27","lat2":59.72551900,"lon2":-157.25165600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":132.75,"desc":"ANCHORAGE CNTR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHQU","name":"Thomson Mcduffie Co","lat":33.5297135,"lon":-82.516464,"rwys":1,"ils":1,"index":1597153,"path":"w090n30/w083n33"
+,"runways":[
+{"len_m":1584,"wid_m":30.48,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":33.53004400,"lon1":-82.52498600,"rwy2":"28","lat2":33.52938300,"lon2":-82.50794200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.8,"desc":"AUGUSTA APP/DEP"}
+]
+}

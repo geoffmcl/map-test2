@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBIH","name":"Eastern Sierra Rgnl","lat":37.373143,"lon":-118.3635255,"rwys":3,"ils":0,"index":1007570,"path":"w120n30/w119n37"
+,"runways":[
+{"len_m":2285,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":37.38014200,"lon1":-118.37333600,"rwy2":"30","lat2":37.36545800,"lon2":-118.35525300},
+{"len_m":1706,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":37.38073300,"lon1":-118.36163900,"rwy2":"34","lat2":37.36535800,"lon2":-118.36180300},
+{"len_m":1696,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":37.37365000,"lon1":-118.37413600,"rwy2":"25","lat2":37.37351700,"lon2":-118.35498600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.75,"desc":"OAKLAND CNTR"}
+]
+}

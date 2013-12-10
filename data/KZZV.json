@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KZZV","name":"Zanesville Muni","lat":39.94444725,"lon":-81.89209425,"rwys":2,"ils":1,"index":1613944,"path":"w090n30/w082n39"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":39.93905000,"lon1":-81.89585300,"rwy2":"22","lat2":39.95045300,"lon2":-81.88592200},
+{"len_m":1523,"wid_m":45.72,"hdg":152,"surf":"Asphalt","rwy1":"16","lat1":39.95022800,"lon1":-81.89741900,"rwy2":"34","lat2":39.93805800,"lon2":-81.88918300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

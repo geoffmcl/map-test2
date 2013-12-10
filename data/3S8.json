@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3S8","name":"Grants Pass","lat":42.50969700,"lon":-123.38943500,"rwys":1,"ils":0,"index":925986,"path":"w130n40/w124n42"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":141,"surf":"Asphalt","rwy1":"12","lat1":42.51441100,"lon1":-123.39260600,"rwy2":"30","lat2":42.50582200,"lon2":-123.38337500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.3,"desc":"CASCADE APP/DEP"}
+]
+}

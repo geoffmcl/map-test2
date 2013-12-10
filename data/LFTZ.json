@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFTZ","name":"La Mole","lat":43.20406100,"lon":006.47601000,"rwys":1,"ils":0,"index":3055945,"path":"e000n40/e006n43"
+,"runways":[
+{"len_m":1138,"wid_m":29.87,"hdg":61,"surf":"Concrete","rwy1":"06","lat1":43.20301500,"lon1":6.47610800,"rwy2":"24","lat2":43.20783900,"lon2":6.48846400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"LA MOLE FSS"},
+{"type":"APP","freq":126.15,"desc":"MARSEILLE CONTROL APP"}
+]
+}

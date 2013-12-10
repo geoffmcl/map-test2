@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDCM","name":"Kamenz","lat":51.29687775,"lon":14.127875,"rwys":2,"ils":0,"index":3187536,"path":"e010n50/e014n51"
+,"runways":[
+{"len_m":1092,"wid_m":28.04,"hdg":32,"surf":"Concrete","rwy1":"03","lat1":51.29211100,"lon1":14.12478900,"rwy2":"21","lat2":51.30039200,"lon2":14.13321100},
+{"len_m":1100,"wid_m":39.93,"hdg":34,"surf":"Turf/grass","rwy1":"03L","lat1":51.29340800,"lon1":14.12233300,"rwy2":"21R","lat2":51.30160000,"lon2":14.13116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.05,"desc":"INFO"},
+{"type":"APP","freq":126.17,"desc":"BERLIN RADAR"}
+]
+}

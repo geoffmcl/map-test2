@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCEW","name":"Bob Sikes","lat":30.77723900,"lon":-086.52455100,"rwys":1,"ils":1,"index":1531441,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":2440,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":30.78970000,"lon1":-86.52410800,"rwy2":"35","lat2":30.76796100,"lon2":-86.52011900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.05,"desc":"EGLIN APP/DEP"}
+]
+}

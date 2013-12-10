@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"C09","name":"Morris Muni J R Washburn","lat":41.4254315,"lon":-88.4186805,"rwys":1,"ils":0,"index":1499354,"path":"w090n40/w089n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":41.43091900,"lon1":-88.41881100,"rwy2":"36","lat2":41.41994400,"lon2":-88.41855000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"CHICAGO APP/DEP"}
+]
+}

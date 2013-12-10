@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"10C","name":"Galt Fld","lat":42.403039,"lon":-88.37495825,"rwys":2,"ils":0,"index":1499418,"path":"w090n40/w089n42"
+,"runways":[
+{"len_m":854,"wid_m":10.97,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":42.40175000,"lon1":-88.38137200,"rwy2":"27","lat2":42.40200000,"lon2":-88.37100300},
+{"len_m":652,"wid_m":38.10,"hdg":177,"surf":"Turf/grass","rwy1":"18","lat1":42.40713900,"lon1":-88.37387500,"rwy2":"36","lat2":42.40126700,"lon2":-88.37358300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.55,"desc":"CHICAGO APP/DEP"}
+]
+}

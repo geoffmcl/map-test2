@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTDZ","name":"Metcalf Fld","lat":41.56625700,"lon":-083.47655500,"rwys":2,"ils":0,"index":1581282,"path":"w090n40/w084n41"
+,"runways":[
+{"len_m":1776,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":41.57105000,"lon1":-83.49011900,"rwy2":"32","lat2":41.55993900,"lon2":-83.47479400},
+{"len_m":1116,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":41.55996400,"lon1":-83.48614400,"rwy2":"22","lat2":41.56780000,"lon2":-83.47775600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.57,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.1,"desc":"TOLEDO APP/DEP"}
+]
+}

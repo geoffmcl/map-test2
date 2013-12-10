@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHOB","name":"Lea Co Rgnl","lat":32.687685875,"lon":-103.217001875,"rwys":4,"ils":1,"index":1253035,"path":"w110n30/w104n32"
+,"runways":[
+{"len_m":2254,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":32.67868900,"lon1":-103.22587200,"rwy2":"21","lat2":32.69303600,"lon2":-103.20884200},
+{"len_m":1828,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.69391100,"lon1":-103.22130600,"rwy2":"30","lat2":32.68223100,"lon2":-103.20753900},
+{"len_m":1523,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":32.69615000,"lon1":-103.22082800,"rwy2":"35","lat2":32.68241400,"lon2":-103.22085800},
+{"len_m":1070,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":32.68753900,"lon1":-103.22109200,"rwy2":"26","lat2":32.68751700,"lon2":-103.20967800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.75,"desc":"ATIS"},
+{"type":"CTAF","freq":120.65,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.65,"desc":"HOBBS TWR"}
+]
+}

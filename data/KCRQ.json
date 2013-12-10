@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCRQ","name":"Mc Clellan Palomar","lat":33.12714143,"lon":-117.27608228,"rwys":1,"ils":1,"index":1023690,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":1512,"wid_m":46.02,"hdg":79,"surf":"Asphalt","rwy1":"06","lat1":33.12698359,"lon1":-117.28792583,"rwy2":"24","lat2":33.12955313,"lon2":-117.27200892}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":21.03,"hdg":-117,"surf":"Asphalt","lat1":33.12804731,"lon1":-117.27216733}
+]
+,"radios":[
+{"type":"ATIS","freq":120.15,"desc":"ATIS"},
+{"type":"CTAF","freq":118.6,"desc":"CTAF"},
+{"type":"CLD","freq":134.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"SOCAL APP/DEP"}
+]
+}

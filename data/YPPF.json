@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPPF","name":"Adelaide Parafield","lat":-34.79083168,"lon":138.63634956,"rwys":4,"ils":0,"index":5213642,"path":"e130s40/e138s35"
+,"runways":[
+{"len_m":1348,"wid_m":17.98,"hdg":28,"surf":"Asphalt","rwy1":"03L","lat1":-34.80376534,"lon1":138.63063736,"rwy2":"21R","lat2":-34.79305500,"lon2":138.63760200},
+{"len_m":1278,"wid_m":17.98,"hdg":28,"surf":"Asphalt","rwy1":"03R","lat1":-34.80215091,"lon1":138.63433611,"rwy2":"21L","lat2":-34.79199859,"lon2":138.64093739},
+{"len_m":991,"wid_m":17.98,"hdg":84,"surf":"Asphalt","rwy1":"08R","lat1":-34.79558284,"lon1":138.62331155,"rwy2":"26L","lat2":-34.79476500,"lon2":138.63409500},
+{"len_m":957,"wid_m":17.98,"hdg":84,"surf":"Asphalt","rwy1":"08L","lat1":-34.79353672,"lon1":138.62475888,"rwy2":"26R","lat2":-34.79275700,"lon2":138.63518000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":138,"surf":"Asphalt","lat1":-34.78830955,"lon1":138.63081838},
+{"rwy1":"H2","len_m":27,"wid_m":27.13,"hdg":138,"surf":"Dirt","lat1":-34.78968263,"lon1":138.63969241}
+]
+,"radios":[
+{"type":"ATIS","freq":120.9,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"GND","freq":119.9,"desc":"PARAFIELD GND"},
+{"type":"TWR","freq":124.6,"desc":"PARAFIELD TWR"}
+]
+}

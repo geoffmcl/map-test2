@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMVY","name":"Marthas Vineyard","lat":41.38918100,"lon":-070.61294500,"rwys":3,"ils":1,"index":1794265,"path":"w080n40/w071n41"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":40,"surf":"Asphalt","rwy1":"06","lat1":41.38602200,"lon1":-70.62005300,"rwy2":"24","lat2":41.39748900,"lon2":-70.60699700},
+{"len_m":1004,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"15","lat1":41.39809200,"lon1":-70.62024400,"rwy2":"33","lat2":41.39220300,"lon2":-70.61112500},
+{"len_m":968,"wid_m":22.86,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":41.38763300,"lon1":-70.61790600,"rwy2":"19","lat2":41.39632800,"lon2":-70.61878900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":134.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":121.5,"desc":"VINEYARD TWR"},
+{"type":"APP","freq":134.65,"desc":"CAPE APP/DEP"}
+]
+}

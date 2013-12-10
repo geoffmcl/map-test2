@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PASN","name":"St Paul Island","lat":57.1673195,"lon":-170.220444,"rwys":1,"ils":1,"index":156875,"path":"w180n50/w171n57"
+,"runways":[
+{"len_m":1980,"wid_m":45.72,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":57.17608300,"lon1":-170.21769400,"rwy2":"36","lat2":57.15855600,"lon2":-170.22319400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"ASOS"},
+{"type":"CTAF","freq":122.3,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDAL","name":"Dallas Love Fld","lat":32.84517143,"lon":-096.84942893,"rwys":3,"ils":2,"index":1367728,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":2682,"wid_m":46.02,"hdg":135,"surf":"Concrete","rwy1":"13R","lat1":32.85131700,"lon1":-96.86345200,"rwy2":"31L","lat2":32.83402900,"lon2":-96.84341500},
+{"len_m":2362,"wid_m":46.02,"hdg":135,"surf":"Concrete","rwy1":"13L","lat1":32.85727400,"lon1":-96.85680100,"rwy2":"31R","lat2":32.84204300,"lon2":-96.83915200},
+{"len_m":1873,"wid_m":46.02,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":32.85866200,"lon1":-96.85321800,"rwy2":"36","lat2":32.84184700,"lon2":-96.85514600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.15,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"LOVE TWR"},
+{"type":"APP","freq":125.2,"desc":"RGNL APP"},
+{"type":"DEP","freq":125.2,"desc":"RGNL DEP"}
+]
+}

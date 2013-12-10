@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OBBS","name":"Shaikh Isa","lat":25.9183665,"lon":50.59055,"rwys":1,"ils":1,"index":3775738,"path":"e050n20/e050n25"
+,"runways":[
+{"len_m":3799,"wid_m":44.81,"hdg":153,"surf":"Asphalt","rwy1":"15","lat1":25.93373300,"lon1":50.58213300,"rwy2":"33","lat2":25.90300000,"lon2":50.59896700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.95,"desc":"GND"},
+{"type":"TWR","freq":125.45,"desc":"TWR"},
+{"type":"APP","freq":124.95,"desc":"APP"}
+]
+}

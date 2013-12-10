@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPML","name":"Cagayan De Oro","lat":8.4156195,"lon":124.6112195,"rwys":1,"ils":0,"index":4987036,"path":"e120n00/e124n08"
+,"runways":[
+{"len_m":2454,"wid_m":35.97,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":8.40480300,"lon1":124.60872800,"rwy2":"19","lat2":8.42643600,"lon2":124.61371100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.9,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"APP"},
+{"type":"APP","freq":123.6,"desc":"APP"}
+]
+}

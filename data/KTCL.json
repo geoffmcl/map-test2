@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTCL","name":"Tuscaloosa Rgnl","lat":33.221795,"lon":-87.61115075,"rwys":2,"ils":1,"index":1515209,"path":"w090n30/w088n33"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":33.21014700,"lon1":-87.61917500,"rwy2":"22","lat2":33.22362500,"lon2":-87.60522800},
+{"len_m":1219,"wid_m":30.48,"hdg":116,"surf":"Asphalt","rwy1":"11","lat1":33.22915800,"lon1":-87.61595300,"rwy2":"29","lat2":33.22425000,"lon2":-87.60424700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.82,"desc":"ASOS"},
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":120.15,"desc":"BIRMINGHAM APP/DEP"}
+]
+}

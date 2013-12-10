@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F82","name":"Town And Country Airpark","lat":33.48506875,"lon":-101.8115265,"rwys":2,"ils":0,"index":1285848,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":1078,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.49055600,"lon1":-101.81277800,"rwy2":"35","lat2":33.48083300,"lon2":-101.81277800},
+{"len_m":467,"wid_m":33.53,"hdg":82,"surf":"Turf/grass","rwy1":"07","lat1":33.48416400,"lon1":-101.81276900,"rwy2":"25","lat2":33.48472200,"lon2":-101.80778100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KISP","name":"Long Island Mac Arthur","lat":40.78954562,"lon":-073.10223950,"rwys":4,"ils":1,"index":1745075,"path":"w080n40/w074n40"
+,"runways":[
+{"len_m":2135,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":40.78863600,"lon1":-73.11245000,"rwy2":"24","lat2":40.80223300,"lon2":-73.09455800},
+{"len_m":1580,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"15R","lat1":40.80222800,"lon1":-73.10733100,"rwy2":"33L","lat2":40.79215800,"lon2":-73.09409200},
+{"len_m":1534,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":40.79252800,"lon1":-73.10800000,"rwy2":"28","lat2":40.79252500,"lon2":-73.08981900},
+{"len_m":967,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"15L","lat1":40.79903300,"lon1":-73.09838300,"rwy2":"33R","lat2":40.79287200,"lon2":-73.09027500}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.29,"hdg":-73,"surf":"Asphalt","lat1":40.79162193,"lon1":-73.10093566},
+{"rwy1":"H2","len_m":18,"wid_m":18.29,"hdg":-73,"surf":"Asphalt","lat1":40.79883511,"lon1":-73.10717147}
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":135.3,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":120.05,"desc":"NEW YORK APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LSME","name":"Emmen","lat":47.08784600,"lon":008.30851800,"rwys":1,"ils":1,"index":3088961,"path":"e000n40/e008n47"
+,"runways":[
+{"len_m":2501,"wid_m":39.62,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":47.08345300,"lon1":8.29506900,"rwy2":"22","lat2":47.10128600,"lon2":8.31516700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.29,"hdg":8,"surf":"Concrete","lat1":47.08964300,"lon1":8.29860500}
+]
+,"radios":[
+{"type":"TWR","freq":120.42,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"ARR/DEP"}
+]
+}

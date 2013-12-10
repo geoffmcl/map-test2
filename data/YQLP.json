@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YQLP","name":"Quilpie","lat":-26.61194658,"lon":144.25703171,"rwys":2,"ils":0,"index":5312473,"path":"e140s30/e144s27"
+,"runways":[
+{"len_m":1490,"wid_m":29.87,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":-26.60885459,"lon1":144.24993241,"rwy2":"27","lat2":-26.60983441,"lon2":144.26485562},
+{"len_m":1206,"wid_m":95.10,"hdg":15,"surf":"Dirt","rwy1":"18","lat1":-26.61143775,"lon1":144.25283032,"rwy2":"36","lat2":-26.60094072,"lon2":144.25604094}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

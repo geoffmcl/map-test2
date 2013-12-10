@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MPTO","name":"Tocumen Intl","lat":09.08418600,"lon":-079.38108100,"rwys":2,"ils":1,"index":1644740,"path":"w080n00/w080n09"
+,"runways":[
+{"len_m":3038,"wid_m":45.11,"hdg":29,"surf":"Concrete","rwy1":"03R","lat1":9.04758637,"lon1":-79.39263628,"rwy2":"21L","lat2":9.07149763,"lon2":-79.37903172},
+{"len_m":2671,"wid_m":60.96,"hdg":30,"surf":"Asphalt","rwy1":"03L","lat1":9.07281592,"lon1":-79.38730846,"rwy2":"21R","lat2":9.09355408,"lon2":-79.37485354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":129.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"PANAMA APP"}
+]
+}

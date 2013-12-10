@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KASE","name":"Aspen Pitkin Co Sardy Fld","lat":39.22578100,"lon":-106.86809500,"rwys":1,"ils":2,"index":1204296,"path":"w110n30/w107n39"
+,"runways":[
+{"len_m":2134,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":39.23217500,"lon1":-106.87314700,"rwy2":"33","lat2":39.21415300,"lon2":-106.86454700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.85,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLGF","name":"Laguna Aaf","lat":32.8645,"lon":-114.39303075,"rwys":2,"ils":0,"index":1072818,"path":"w120n30/w115n32"
+,"runways":[
+{"len_m":1847,"wid_m":45.72,"hdg":190,"surf":"Asphalt","rwy1":"18","lat1":32.87540000,"lon1":-114.39284200,"rwy2":"36","lat2":32.85903100,"lon2":-114.39650600},
+{"len_m":1829,"wid_m":30.48,"hdg":75,"surf":"Asphalt","rwy1":"06","lat1":32.85978300,"lon1":-114.40086900,"rwy2":"24","lat2":32.86378600,"lon2":-114.38190600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.2,"desc":"CTAF"},
+{"type":"APP","freq":125.55,"desc":"YUMA APP"},
+{"type":"DEP","freq":120,"desc":"YUMA DEP"}
+]
+}

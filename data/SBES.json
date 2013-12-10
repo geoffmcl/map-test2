@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBES","name":"Sao Pedro Da Aldeia","lat":-22.8128725,"lon":-42.0926335,"rwys":1,"ils":0,"index":2248907,"path":"w050s30/w043s23"
+,"runways":[
+{"len_m":2394,"wid_m":28.04,"hdg":43,"surf":"Concrete","rwy1":"07","lat1":-22.82065300,"lon1":-42.10072800,"rwy2":"25","lat2":-22.80509200,"lon2":-42.08453900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"ALDEIA TWR"},
+{"type":"TWR","freq":122.8,"desc":"ALDEIA TWR"},
+{"type":"APP","freq":119.45,"desc":"ALDEIA APP"}
+]
+}

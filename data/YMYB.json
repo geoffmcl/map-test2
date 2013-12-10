@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMYB","name":"Maryborough (qld)","lat":-25.51851217,"lon":152.71238258,"rwys":2,"ils":0,"index":5443610,"path":"e150s30/e152s26"
+,"runways":[
+{"len_m":1585,"wid_m":29.87,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":-25.50642588,"lon1":152.71282815,"rwy2":"35","lat2":-25.52065012,"lon2":152.71459606},
+{"len_m":1008,"wid_m":29.87,"hdg":128,"surf":"Turf/grass","rwy1":"12","lat1":-25.51147500,"lon1":152.71134392,"rwy2":"30","lat2":-25.51712900,"lon2":152.71921000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.55,"desc":"MARYBOROUGH MULT"},
+{"type":"TWR","freq":124.6,"desc":"BRISBANE CNTR"}
+]
+}

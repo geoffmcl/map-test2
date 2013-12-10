@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIBG","name":"Grottaglie","lat":40.52062457,"lon":017.39872678,"rwys":1,"ils":1,"index":3236001,"path":"e010n40/e017n40"
+,"runways":[
+{"len_m":3198,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":40.53163177,"lon1":17.39949688,"rwy2":"35","lat2":40.50339323,"lon2":17.40692556}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":118.7,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

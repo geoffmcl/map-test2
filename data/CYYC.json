@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYC","name":"Calgary Intl","lat":51.1131972666667,"lon":-114.020043853333,"rwys":3,"ils":3,"index":1073987,"path":"w120n50/w115n51"
+,"runways":[
+{"len_m":3872,"wid_m":60.96,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":51.13151261,"lon1":-114.02208303,"rwy2":"34","lat2":51.09670702,"lon2":-114.02111253},
+{"len_m":2576,"wid_m":64.01,"hdg":118,"surf":"Asphalt","rwy1":"10","lat1":51.12697126,"lon1":-114.03790758,"rwy2":"28","lat2":51.11576325,"lon2":-114.00570860},
+{"len_m":2005,"wid_m":43.89,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":51.10423527,"lon1":-114.03104200,"rwy2":"25","lat2":51.10399421,"lon2":-114.00240937}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":123.85,"desc":"ARR"},
+{"type":"APP","freq":125.9,"desc":"ARR"},
+{"type":"DEP","freq":119.8,"desc":"DEP"}
+]
+}

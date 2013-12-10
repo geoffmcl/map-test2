@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAPE","name":"Port Elizabeth","lat":-33.98403900,"lon":025.61154400,"rwys":3,"ils":2,"index":3362306,"path":"e020s40/e025s34"
+,"runways":[
+{"len_m":1983,"wid_m":46.02,"hdg":58,"surf":"Asphalt","rwy1":"08","lat1":-33.99296032,"lon1":25.60104986,"rwy2":"26","lat2":-33.98354968,"lon2":25.61929814},
+{"len_m":1676,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"17","lat1":-33.98401631,"lon1":25.61592135,"rwy2":"35","lat2":-33.99648369,"lon2":25.62617865},
+{"len_m":1190,"wid_m":18.29,"hdg":81,"surf":"Turf/grass","rwy1":"10","lat1":-33.98913511,"lon1":25.60541663,"rwy2":"28","lat2":-33.98750289,"lon2":25.61814737}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCAB","name":"Caboolture","lat":-27.07746893,"lon":152.98594540,"rwys":2,"ils":0,"index":5443515,"path":"e150s30/e152s28"
+,"runways":[
+{"len_m":820,"wid_m":24.08,"hdg":76,"surf":"Turf/grass","rwy1":"06","lat1":-27.07764630,"lon1":152.97987941,"rwy2":"24","lat2":-27.07586384,"lon2":152.98790846},
+{"len_m":1208,"wid_m":49.99,"hdg":124,"surf":"Transparent","rwy1":"12","lat1":-27.07163859,"lon1":152.98042007,"rwy2":"30","lat2":-27.07785839,"lon2":152.99043325}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":128,"desc":"YCAB MULT"},
+{"type":"CTAF","freq":127.4,"desc":"YCAB UNIC"}
+]
+}

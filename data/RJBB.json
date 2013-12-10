@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJBB","name":"Kansai Intl","lat":34.43361925,"lon":135.2335985,"rwys":2,"ils":2,"index":5168920,"path":"e130n30/e135n34"
+,"runways":[
+{"len_m":3999,"wid_m":60.96,"hdg":50,"surf":"Asphalt","rwy1":"06L","lat1":34.42858600,"lon1":135.20621500,"rwy2":"24R","lat2":34.45128000,"lon2":135.24003400},
+{"len_m":3499,"wid_m":60.96,"hdg":50,"surf":"Asphalt","rwy1":"06R","lat1":34.41737800,"lon1":135.22927800,"rwy2":"24L","lat2":34.43723300,"lon2":135.25886700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ATIS"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"CLD","freq":126.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"TCA"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"APP","freq":120.25,"desc":"APP"},
+{"type":"DEP","freq":119.2,"desc":"DEP"}
+]
+}

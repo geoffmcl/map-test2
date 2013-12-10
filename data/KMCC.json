@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMCC","name":"Mc Clellan Afld","lat":38.6676375,"lon":-121.4006,"rwys":1,"ils":1,"index":958506,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":3230,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"16","lat1":38.68218900,"lon1":-121.40057800,"rwy2":"34","lat2":38.65308600,"lon2":-121.40062200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.4,"desc":"NORCAL APP/DEP"}
+]
+}

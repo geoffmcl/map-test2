@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIII","name":"Teheran Mehrabad Intl","lat":35.69555400,"lon":051.31388600,"rwys":3,"ils":1,"index":3792745,"path":"e050n30/e051n35"
+,"runways":[
+{"len_m":474,"wid_m":39.93,"hdg":88,"surf":"Concrete","rwy1":"09","lat1":35.69868100,"lon1":51.32405000,"rwy2":"27","lat2":35.69881100,"lon2":51.32928900},
+{"len_m":4037,"wid_m":60.05,"hdg":109,"surf":"Asphalt","rwy1":"11R","lat1":35.69468900,"lon1":51.29163100,"rwy2":"29L","lat2":35.68243600,"lon2":51.33363300},
+{"len_m":3991,"wid_m":45.11,"hdg":109,"surf":"Asphalt","rwy1":"11L","lat1":35.69662800,"lon1":51.29215600,"rwy2":"29R","lat2":35.68454200,"lon2":51.33369400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"}
+]
+}

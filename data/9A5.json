@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9A5","name":"Barwick Lafayette","lat":34.6885625,"lon":-85.2904475,"rwys":1,"ils":0,"index":1548074,"path":"w090n30/w086n34"
+,"runways":[
+{"len_m":1649,"wid_m":15.24,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":34.68161100,"lon1":-85.29363900,"rwy2":"20","lat2":34.69551400,"lon2":-85.28725600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":125.1,"desc":"CHATTANOOGA APP/DEP"}
+]
+}

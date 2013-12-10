@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPLB","name":"Subic Bay Intl","lat":14.7944485,"lon":120.2713655,"rwys":1,"ils":2,"index":4921906,"path":"e120n10/e120n14"
+,"runways":[
+{"len_m":2745,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":14.78968600,"lon1":120.25959200,"rwy2":"25","lat2":14.79921100,"lon2":120.28313900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.4,"desc":"ATIS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":121.8,"desc":"GND"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+}

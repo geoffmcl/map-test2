@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTBH","name":"Lop Buri Sa Pran Nak","lat":14.94881200,"lon":100.64439400,"rwys":2,"ils":0,"index":4594237,"path":"e100n10/e100n14"
+,"runways":[
+{"len_m":1180,"wid_m":29.87,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":14.94576100,"lon1":100.63689200,"rwy2":"24","lat2":14.95137500,"lon2":100.64621900},
+{"len_m":1013,"wid_m":29.87,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":14.94486700,"lon1":100.64231400,"rwy2":"19","lat2":14.95392800,"lon2":100.64371400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"}
+]
+}

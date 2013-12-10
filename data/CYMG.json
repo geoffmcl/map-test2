@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYMG","name":"Manitouwadge","lat":49.083889,"lon":-85.860556,"rwys":1,"ils":0,"index":1548992,"path":"w090n40/w086n49"
+,"runways":[
+{"len_m":1085,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":49.08027800,"lon1":-85.86555600,"rwy2":"23","lat2":49.08750000,"lon2":-85.85555600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.7,"desc":"LONDON RDO"}
+]
+}

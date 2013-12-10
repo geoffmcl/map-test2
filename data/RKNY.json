@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKNY","name":"Yangyang Intl","lat":38.06131,"lon":128.669161,"rwys":1,"ils":1,"index":5054466,"path":"e120n30/e128n38"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":38.07005600,"lon1":128.66018900,"rwy2":"33","lat2":38.05256400,"lon2":128.67813300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":123.15,"desc":"CLD"},
+{"type":"GND","freq":123.15,"desc":"GND"},
+{"type":"TWR","freq":130.8,"desc":"TWR"},
+{"type":"TWR","freq":123.15,"desc":"TWR"},
+{"type":"TWR","freq":118.85,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"GANGNEUNG APP"},
+{"type":"DEP","freq":124.6,"desc":"GANGNEUNG DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFME","name":"Tipton","lat":39.085251,"lon":-76.759547,"rwys":1,"ils":0,"index":1695808,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":39.08553300,"lon1":-76.76481900,"rwy2":"28","lat2":39.08496900,"lon2":-76.75427500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.7,"desc":"POTOMAC APP DEP"}
+]
+}

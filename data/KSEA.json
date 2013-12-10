@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSEA","name":"Seattle Tacoma Intl","lat":47.45572596,"lon":-122.30139282,"rwys":3,"ils":3,"index":942682,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":3626,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16L","lat1":47.46379733,"lon1":-122.30775222,"rwy2":"34R","lat2":47.43117533,"lon2":-122.30804122},
+{"len_m":2872,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16C","lat1":47.46381133,"lon1":-122.31098822,"rwy2":"34C","lat2":47.43797233,"lon2":-122.31121322},
+{"len_m":2590,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16R","lat1":47.46383763,"lon1":-122.31786263,"rwy2":"34L","lat2":47.44053695,"lon2":-122.31806463}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":120.1,"desc":"APP/DEP"}
+]
+}

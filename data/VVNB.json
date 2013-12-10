@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VVNB","name":"Hanoi Noibai Intl","lat":21.21390300,"lon":105.80692100,"rwys":2,"ils":1,"index":4676558,"path":"e100n20/e105n21"
+,"runways":[
+{"len_m":3799,"wid_m":45.11,"hdg":107,"surf":"Concrete","rwy1":"11R","lat1":21.22469700,"lon1":105.78635300,"rwy2":"29L","lat2":21.21458900,"lon2":105.82132800},
+{"len_m":3798,"wid_m":45.11,"hdg":107,"surf":"Concrete","rwy1":"11L","lat1":21.22489400,"lon1":105.78622500,"rwy2":"29R","lat2":21.21477500,"lon2":105.82118900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"}
+]
+}

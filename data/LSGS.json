@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LSGS","name":"Sion","lat":46.21890369,"lon":007.33436988,"rwys":2,"ils":2,"index":3072521,"path":"e000n40/e007n46"
+,"runways":[
+{"len_m":2017,"wid_m":39.93,"hdg":72,"surf":"Asphalt","rwy1":"07R","lat1":46.21666720,"lon1":7.31449201,"rwy2":"25L","lat2":46.22200470,"lon2":7.33948999},
+{"len_m":662,"wid_m":29.87,"hdg":72,"surf":"Turf/grass","rwy1":"07L","lat1":46.21769588,"lon1":7.31708791,"rwy2":"25R","lat2":46.21944926,"lon2":7.32528971}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":46.22188208,"lon1":7.33657531},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":46.22208600,"lon1":7.33756531},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":46.22198813,"lon1":7.33708226}
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":134.27,"desc":"SWISS MILITARY RADAR"},
+{"type":"TWR","freq":118.27,"desc":"TWR"},
+{"type":"APP","freq":122.35,"desc":"RADAR"},
+{"type":"APP","freq":126.82,"desc":"RADAR"}
+]
+}

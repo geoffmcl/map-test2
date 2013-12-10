@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MO6","name":"Washington Mem","lat":38.5875845,"lon":-90.993806,"rwys":1,"ils":0,"index":1466400,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":38.59375800,"lon1":-90.99763100,"rwy2":"33","lat2":38.58141100,"lon2":-90.98998100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.5,"desc":"ST LOUIS APP/DEP"}
+]
+}

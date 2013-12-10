@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGHE","name":"Scilly Isles St Mary's","lat":49.91426147,"lon":-006.29484651,"rwys":4,"ils":0,"index":2843386,"path":"w010n40/w007n49"
+,"runways":[
+{"len_m":599,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"15","lat1":49.91532200,"lon1":-6.29449400,"rwy2":"33","lat2":49.91123100,"lon2":-6.28906400},
+{"len_m":417,"wid_m":45.11,"hdg":173,"surf":"Turf/grass","rwy1":"18","lat1":49.91568600,"lon1":-6.29342800,"rwy2":"36","lat2":49.91195600,"lon2":-6.29272200},
+{"len_m":251,"wid_m":17.98,"hdg":87,"surf":"Turf/grass","rwy1":"09R","lat1":49.91326700,"lon1":-6.29542200,"rwy2":"27L","lat2":49.91338123,"lon2":-6.29192594},
+{"len_m":250,"wid_m":17.98,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":49.91338123,"lon1":-6.29192594,"rwy2":"27","lat2":49.91349700,"lon2":-6.28844400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.87,"desc":"Scillies Tower"},
+{"type":"APP","freq":124.88,"desc":"Scillies Approach"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9A1","name":"Covington Muni","lat":33.632482,"lon":-83.8495585,"rwys":1,"ils":0,"index":1580776,"path":"w090n30/w084n33"
+,"runways":[
+{"len_m":1281,"wid_m":22.86,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":33.63303300,"lon1":-83.85643100,"rwy2":"28","lat2":33.63193100,"lon2":-83.84268600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.87,"desc":"ATLANTA CLNC DEL"},
+{"type":"APP","freq":126.97,"desc":"ATLANTA APP/DEP"}
+]
+}

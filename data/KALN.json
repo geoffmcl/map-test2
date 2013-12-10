@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KALN","name":"St Louis Rgnl","lat":38.8902235,"lon":-90.04655425,"rwys":2,"ils":1,"index":1466427,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":2469,"wid_m":45.72,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":38.89524400,"lon1":-90.05496900,"rwy2":"29","lat2":38.88642800,"lon2":-90.02884200},
+{"len_m":1981,"wid_m":30.48,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":38.89847500,"lon1":-90.05252500,"rwy2":"35","lat2":38.88074700,"lon2":-90.04988100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"ATIS","freq":128,"desc":"AWOS 3"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.2,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"REGIONAL TWR"},
+{"type":"APP","freq":124.2,"desc":"APP/DEP"}
+]
+}

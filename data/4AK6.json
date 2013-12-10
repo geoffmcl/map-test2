@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4AK6","name":"Wolf Lake","lat":61.6396975,"lon":-149.2847185,"rwys":2,"ils":0,"index":501226,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1158,"wid_m":21.34,"hdg":81,"surf":"Asphalt","rwy1":"06","lat1":61.64096900,"lon1":-149.28875000,"rwy2":"24","lat2":61.64249800,"lon2":-149.26713900},
+{"len_m":792,"wid_m":304.80,"hdg":201,"surf":"Gravel","rwy1":"18","lat1":61.64096900,"lon1":-149.28875000,"rwy2":"36","lat2":61.63435400,"lon2":-149.29423500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

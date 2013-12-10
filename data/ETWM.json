@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETWM","name":"Meppen","lat":52.722439615,"lon":7.328133065,"rwys":1,"ils":0,"index":3072937,"path":"e000n50/e007n52"
+,"runways":[
+{"len_m":183,"wid_m":14.94,"hdg":60,"surf":"Turf/grass","rwy1":"6","lat1":52.72153300,"lon1":7.32631771,"rwy2":"24","lat2":52.72235589,"lon2":7.32867090}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":52.72293478,"lon1":7.32877182}
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Meppen INFO"}
+]
+}

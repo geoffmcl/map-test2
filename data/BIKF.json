@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"BIKF","name":"Keflavik","lat":63.98066273,"lon":-022.59533143,"rwys":2,"ils":4,"index":2582136,"path":"w030n60/w023n63"
+,"runways":[
+{"len_m":3054,"wid_m":60.05,"hdg":0,"surf":"Asphalt","rwy1":"02","lat1":63.96448319,"lon1":-22.60544552,"rwy2":"20","lat2":63.99188019,"lon2":-22.60542552},
+{"len_m":3065,"wid_m":60.05,"hdg":89,"surf":"Asphalt","rwy1":"11","lat1":63.98504094,"lon1":-22.65499831,"rwy2":"29","lat2":63.98504419,"lon2":-22.59238152}
+]
+,"helipads":[
+{"rwy1":"H19","len_m":29,"wid_m":29.87,"hdg":-22,"surf":"Asphalt","lat1":63.98379126,"lon1":-22.58994199},
+{"rwy1":"H20","len_m":49,"wid_m":49.99,"hdg":-22,"surf":"Concrete","lat1":63.97607407,"lon1":-22.64376126}
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":131.9,"desc":"AIR GND"},
+{"type":"APP","freq":119.3,"desc":"APP"},
+{"type":"DEP","freq":119.3,"desc":"DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSGE","name":"St George","lat":-28.04691446,"lon":148.59395355,"rwys":1,"ils":0,"index":5377914,"path":"e140s30/e148s29"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":-28.04689000,"lon1":148.58886200,"rwy2":"29","lat2":-28.05388200,"lon2":148.60220000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"ST GEORGE MULT"}
+]
+}

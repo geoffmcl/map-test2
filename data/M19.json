@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M19","name":"Newport Muni","lat":35.641428875,"lon":-91.17796625,"rwys":4,"ils":0,"index":1449835,"path":"w100n30/w092n35"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":35.62996100,"lon1":-91.18318300,"rwy2":"22","lat2":35.63984400,"lon2":-91.17148900},
+{"len_m":1524,"wid_m":45.72,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":35.64741400,"lon1":-91.17528600,"rwy2":"36","lat2":35.63367500,"lon2":-91.17558300},
+{"len_m":1523,"wid_m":45.72,"hdg":85,"surf":"Concrete","rwy1":"09","lat1":35.64645600,"lon1":-91.19207200,"rwy2":"27","lat2":35.64741400,"lon2":-91.17528600},
+{"len_m":1112,"wid_m":45.72,"hdg":131,"surf":"Concrete","rwy1":"13","lat1":35.64666700,"lon1":-91.18000000,"rwy2":"31","lat2":35.64000000,"lon2":-91.17083100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.15,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

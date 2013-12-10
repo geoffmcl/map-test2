@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SARP","name":"Posadas","lat":-27.3858375,"lon":-55.9707265,"rwys":1,"ils":1,"index":2035616,"path":"w060s30/w056s28"
+,"runways":[
+{"len_m":2257,"wid_m":29.87,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":-27.39602200,"lon1":-55.97059200,"rwy2":"19","lat2":-27.37565300,"lon2":-55.97086100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.1,"desc":"TWR/APP"},
+{"type":"TWR","freq":118.5,"desc":"TWR/APP"}
+]
+}

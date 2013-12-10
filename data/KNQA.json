@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNQA","name":"Millington Muni","lat":35.34988388,"lon":-089.86955767,"rwys":1,"ils":1,"index":1482576,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":35.34808970,"lon1":-89.87885019,"rwy2":"22","lat2":35.36519430,"lon2":-89.86200581}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":120.25,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.37,"desc":"GND"},
+{"type":"TWR","freq":120.25,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"MEMPHIS APP"},
+{"type":"APP","freq":120.07,"desc":"MEMPHIS APP"},
+{"type":"APP","freq":125.8,"desc":"MEMPHIS APP"},
+{"type":"APP","freq":126.7,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.15,"desc":"MEMPHIS DEP"},
+{"type":"DEP","freq":124.65,"desc":"MEMPHIS DEP"}
+]
+}

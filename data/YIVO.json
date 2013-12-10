@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YIVO","name":"Ivanhoe","lat":-32.89357765,"lon":144.31062625,"rwys":2,"ils":0,"index":5312065,"path":"e140s40/e144s33"
+,"runways":[
+{"len_m":1244,"wid_m":17.98,"hdg":173,"surf":"Asphalt","rwy1":"16","lat1":-32.88122795,"lon1":144.31034976,"rwy2":"34","lat2":-32.89237382,"lon2":144.31190897},
+{"len_m":1143,"wid_m":86.87,"hdg":98,"surf":"Dirt","rwy1":"9","lat1":-32.88161139,"lon1":144.30545715,"rwy2":"27","lat2":-32.88313688,"lon2":144.31753763}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

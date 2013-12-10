@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKPS","name":"Sacheon Ab","lat":35.08872525,"lon":128.07090825,"rwys":2,"ils":2,"index":5054272,"path":"e120n30/e128n35"
+,"runways":[
+{"len_m":2726,"wid_m":45.72,"hdg":55,"surf":"Concrete","rwy1":"06L","lat1":35.08216700,"lon1":128.05728300,"rwy2":"24R","lat2":35.09621700,"lon2":128.08181700},
+{"len_m":2756,"wid_m":45.72,"hdg":56,"surf":"Concrete","rwy1":"06R","lat1":35.08131700,"lon1":128.05973300,"rwy2":"24L","lat2":35.09520000,"lon2":128.08480000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.35,"desc":"ATIS"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":130.2,"desc":"TWR"},
+{"type":"APP","freq":119.72,"desc":"APP"},
+{"type":"APP","freq":119.72,"desc":"RAPCON"},
+{"type":"DEP","freq":119.72,"desc":"DEP"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRNO","name":"Reno Tahoe Intl","lat":39.49932242,"lon":-119.76297285,"rwys":3,"ils":2,"index":991320,"path":"w120n30/w120n39"
+,"runways":[
+{"len_m":3352,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16R","lat1":39.51385299,"lon1":-119.76921488,"rwy2":"34L","lat2":39.48365599,"lon2":-119.76929588},
+{"len_m":2742,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16L","lat1":39.51384799,"lon1":-119.76673488,"rwy2":"34R","lat2":39.48914499,"lon2":-119.76679888},
+{"len_m":1859,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"07","lat1":39.49629499,"lon1":-119.77883488,"rwy2":"25","lat2":39.49622299,"lon2":-119.75721488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":124.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+}

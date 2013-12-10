@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFQQ","name":"Lille Lesquin","lat":50.56925000,"lon":003.09909400,"rwys":2,"ils":2,"index":3007264,"path":"e000n50/e003n50"
+,"runways":[
+{"len_m":2826,"wid_m":44.50,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":50.56289700,"lon1":3.08300900,"rwy2":"26","lat2":50.56843900,"lon2":3.12194900},
+{"len_m":1575,"wid_m":29.87,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":50.56015600,"lon1":3.08543500,"rwy2":"20","lat2":50.57384600,"lon2":3.09114100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":3,"surf":"Asphalt","lat1":50.56734600,"lon1":3.09416800},
+{"rwy1":"H2","len_m":19,"wid_m":29.87,"hdg":3,"surf":"Asphalt","lat1":50.57396500,"lon1":3.09414200},
+{"rwy1":"H3","len_m":11,"wid_m":11.89,"hdg":3,"surf":"Asphalt","lat1":50.57265200,"lon1":3.09315200}
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"LFQQ ATIS"},
+{"type":"GND","freq":121.85,"desc":"LILLE GND"},
+{"type":"TWR","freq":118.55,"desc":"LILLE TWR"},
+{"type":"APP","freq":120.27,"desc":"LILLE APP"},
+{"type":"APP","freq":126.47,"desc":"LILLE APP"}
+]
+}

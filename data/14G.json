@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"14G","name":"Fremont","lat":41.33261675,"lon":-83.1617695,"rwys":2,"ils":0,"index":1581267,"path":"w090n40/w084n41"
+,"runways":[
+{"len_m":1260,"wid_m":18.29,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":41.33422500,"lon1":-83.16741100,"rwy2":"27","lat2":41.33417200,"lon2":-83.15235000},
+{"len_m":682,"wid_m":39.62,"hdg":181,"surf":"Turf/grass","rwy1":"18","lat1":41.33410600,"lon1":-83.16358600,"rwy2":"36","lat2":41.32796400,"lon2":-83.16373100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.1,"desc":"TOLEDO APP/DEP"}
+]
+}

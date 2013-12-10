@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHGR","name":"Gilze Rijen","lat":51.56835200,"lon":004.93171800,"rwys":2,"ils":1,"index":3023715,"path":"e000n50/e004n51"
+,"runways":[
+{"len_m":2779,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":51.56953700,"lon1":4.91198500,"rwy2":"28","lat2":51.56517300,"lon2":4.95145000},
+{"len_m":2030,"wid_m":29.87,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":51.55543600,"lon1":4.93324200,"rwy2":"20","lat2":51.57283300,"lon2":4.94209400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.32,"desc":"TWR"},
+{"type":"APP","freq":123.57,"desc":"RAPCON WEST"}
+]
+}

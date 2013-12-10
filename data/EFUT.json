@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFUT","name":"Utti","lat":60.89254400,"lon":026.93498300,"rwys":1,"ils":0,"index":3384763,"path":"e020n60/e026n60"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":78,"surf":"Asphalt","rwy1":"07","lat1":60.89453300,"lon1":26.92033100,"rwy2":"25","lat2":60.89825300,"lon2":26.95637800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.8,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDVO","name":"Gnoss Fld","lat":38.141793235,"lon":-122.553630605,"rwys":1,"ils":0,"index":942089,"path":"w130n30/w123n38"
+,"runways":[
+{"len_m":1006,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"13","lat1":38.14746400,"lon1":-122.55912500,"rwy2":"31","lat2":38.13973900,"lon2":-122.55312200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-122,"surf":"Concrete","lat1":38.13998497,"lon1":-122.55113771}
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"}
+]
+}

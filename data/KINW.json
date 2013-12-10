@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KINW","name":"Winslow Lindbergh Rgnl","lat":35.021593,"lon":-110.724553333333,"rwys":3,"ils":0,"index":1138497,"path":"w120n30/w111n35"
+,"runways":[
+{"len_m":2284,"wid_m":45.72,"hdg":58,"surf":"Asphalt","rwy1":"04","lat1":35.01426900,"lon1":-110.73787800,"rwy2":"22","lat2":35.02499700,"lon2":-110.71650600},
+{"len_m":2163,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":35.02913900,"lon1":-110.72787800,"rwy2":"29","lat2":35.01948600,"lon2":-110.70727800},
+{"len_m":1855,"wid_m":45.72,"hdg":184,"surf":"Asphalt","rwy1":"17","lat1":35.02916700,"lon1":-110.72806100,"rwy2":"35","lat2":35.01250000,"lon2":-110.72971900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

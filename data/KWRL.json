@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KWRL","name":"Worland Muni","lat":43.97256506,"lon":-107.95187520,"rwys":3,"ils":0,"index":1188216,"path":"w110n40/w108n43"
+,"runways":[
+{"len_m":2135,"wid_m":29.87,"hdg":175,"surf":"Asphalt","rwy1":"16","lat1":43.97153960,"lon1":-107.95372068,"rwy2":"34","lat2":43.95239140,"lon2":-107.95144008},
+{"len_m":873,"wid_m":17.98,"hdg":118,"surf":"Dirt","rwy1":"10","lat1":43.96762890,"lon1":-107.95198247,"rwy2":"28","lat2":43.96388910,"lon2":-107.94241272},
+{"len_m":707,"wid_m":17.98,"hdg":56,"surf":"Dirt","rwy1":"04","lat1":43.96069454,"lon1":-107.95098231,"rwy2":"22","lat2":43.96420796,"lon2":-107.94363559}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.47,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

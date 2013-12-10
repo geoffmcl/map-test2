@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIRU","name":"Urbe","lat":41.95353740,"lon":012.50404772,"rwys":1,"ils":0,"index":3154170,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":1083,"wid_m":29.87,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":41.95695972,"lon1":12.50000723,"rwy2":"34","lat2":41.94779276,"lon2":12.50449284}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":39.93,"hdg":12,"surf":"Asphalt","lat1":41.95437926,"lon1":12.50255444}
+]
+,"radios":[
+{"type":"GND","freq":122.7,"desc":"URBE GND"},
+{"type":"TWR","freq":123.8,"desc":"URBE TWR"}
+]
+}

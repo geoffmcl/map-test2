@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIOB","name":"Mt Sterling Montgomery Co","lat":38.058136,"lon":-83.979575,"rwys":1,"ils":0,"index":1581056,"path":"w090n30/w084n38"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":38.05202500,"lon1":-83.98353600,"rwy2":"21","lat2":38.06424700,"lon2":-83.97561400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.15,"desc":"LEXINGTON APP/DEP"}
+]
+}

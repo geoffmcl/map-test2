@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSQD","name":"Liuting","lat":36.266107,"lon":120.3744345,"rwys":1,"ils":2,"index":4923281,"path":"e120n30/e120n36"
+,"runways":[
+{"len_m":3409,"wid_m":45.11,"hdg":165,"surf":"Concrete","rwy1":"17","lat1":36.28098600,"lon1":120.36970000,"rwy2":"35","lat2":36.25122800,"lon2":120.37916900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"QINGDAO GND"},
+{"type":"TWR","freq":118.7,"desc":"QINGDAO TWR"},
+{"type":"TWR","freq":124.3,"desc":"QINGDAO TWR"},
+{"type":"APP","freq":119.4,"desc":"QINGDAO"},
+{"type":"APP","freq":124.6,"desc":"QINGDAO"}
+]
+}

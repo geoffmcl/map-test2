@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDAU","name":"Edau Riesa-göhlis","lat":51.30048659,"lon":013.34893053,"rwys":3,"ils":0,"index":3171153,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":749,"wid_m":29.87,"hdg":95,"surf":"Turf/grass","rwy1":"09","lat1":51.29795300,"lon1":13.34195000,"rwy2":"27","lat2":51.29726700,"lon2":13.35264700},
+{"len_m":601,"wid_m":29.87,"hdg":119,"surf":"Turf/grass","rwy1":"12C","lat1":51.29807617,"lon1":13.34350980,"rwy2":"30C","lat2":51.29537645,"lon2":13.35098800},
+{"len_m":1003,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":51.29537546,"lon1":13.35099190,"rwy2":"30","lat2":51.29087615,"lon2":13.36345405}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"Riesa Info"}
+]
+}

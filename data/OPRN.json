@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPRN","name":"Chaklala","lat":33.616768,"lon":73.0988125,"rwys":1,"ils":1,"index":4153056,"path":"e070n30/e073n33"
+,"runways":[
+{"len_m":3293,"wid_m":45.72,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":33.62377800,"lon1":73.08317200,"rwy2":"30","lat2":33.60975800,"lon2":73.11445300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"CHERAT APP"},
+{"type":"APP","freq":124.9,"desc":"ISLAMABAD APP"}
+]
+}

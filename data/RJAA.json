@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJAA","name":"Narita Intl","lat":35.76442340,"lon":140.38739010,"rwys":2,"ils":4,"index":5250929,"path":"e140n30/e140n35"
+,"runways":[
+{"len_m":4000,"wid_m":59.74,"hdg":149,"surf":"Asphalt","rwy1":"16R","lat1":35.77438900,"lon1":140.36829200,"rwy2":"34L","lat2":35.74332200,"lon2":140.39073900},
+{"len_m":2180,"wid_m":59.74,"hdg":149,"surf":"Asphalt","rwy1":"16L","lat1":35.80271400,"lon1":140.37990600,"rwy2":"34R","lat2":35.78578300,"lon2":140.39214400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.25,"desc":"ATIS"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":119.45,"desc":"TCA"},
+{"type":"APP","freq":124.4,"desc":"APP"},
+{"type":"DEP","freq":124.2,"desc":"DEP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+}

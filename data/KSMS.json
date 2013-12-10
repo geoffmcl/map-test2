@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSMS","name":"Sumter","lat":33.99476125,"lon":-80.36125875,"rwys":2,"ils":0,"index":1629946,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":33.99018900,"lon1":-80.36771100,"rwy2":"23","lat2":34.00121400,"lon2":-80.35529400},
+{"len_m":939,"wid_m":36.58,"hdg":133,"surf":"Turf/grass","rwy1":"14","lat1":33.99676100,"lon1":-80.36467200,"rwy2":"32","lat2":33.99088100,"lon2":-80.35735800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+}

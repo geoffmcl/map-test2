@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRBW","name":"Lowcountry Rgnl","lat":32.9209981666667,"lon":-80.640636,"rwys":3,"ils":0,"index":1629881,"path":"w090n30/w081n32"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":32.91572200,"lon1":-80.64534400,"rwy2":"23","lat2":32.92757800,"lon2":-80.63174400},
+{"len_m":1738,"wid_m":30.48,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":32.92799400,"lon1":-80.64505000,"rwy2":"35","lat2":32.91280600,"lon2":-80.64043100},
+{"len_m":1648,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":32.92076100,"lon1":-80.64943300,"rwy2":"27","lat2":32.92112800,"lon2":-80.63181400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.7,"desc":"CHARLESTON APP/DEP"}
+]
+}

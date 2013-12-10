@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"E26","name":"Lea County Jal","lat":32.1322835,"lon":-103.15474175,"rwys":2,"ils":0,"index":1253003,"path":"w110n30/w104n32"
+,"runways":[
+{"len_m":1433,"wid_m":18.29,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":32.12715300,"lon1":-103.15704200,"rwy2":"19","lat2":32.13948600,"lon2":-103.15247500},
+{"len_m":800,"wid_m":15.24,"hdg":101,"surf":"Asphalt","rwy1":"09","lat1":32.13194200,"lon1":-103.15888900,"rwy2":"27","lat2":32.13055300,"lon2":-103.15056100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

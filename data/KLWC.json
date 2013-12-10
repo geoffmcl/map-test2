@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLWC","name":"Lawrence Muni","lat":39.01099975,"lon":-95.21666175,"rwys":2,"ils":1,"index":1384515,"path":"w100n30/w096n39"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":153,"surf":"Asphalt","rwy1":"15","lat1":39.01865800,"lon1":-95.22008900,"rwy2":"33","lat2":39.00465800,"lon2":-95.21113100},
+{"len_m":1189,"wid_m":22.86,"hdg":19,"surf":"Concrete","rwy1":"01","lat1":39.00528300,"lon1":-95.21996900,"rwy2":"19","lat2":39.01540000,"lon2":-95.21545800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.22,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.82,"desc":"CLNC DEL"}
+]
+}

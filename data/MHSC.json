@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MHSC","name":"Coronel Enrique Soto Cano Ab","lat":14.382368,"lon":-87.6211595,"rwys":1,"ils":0,"index":1514011,"path":"w090n10/w088n14"
+,"runways":[
+{"len_m":2440,"wid_m":45.11,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":14.39321900,"lon1":-87.62319400,"rwy2":"35","lat2":14.37151700,"lon2":-87.61912500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"APP"}
+]
+}

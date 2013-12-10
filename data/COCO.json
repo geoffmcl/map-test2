@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"COCO","name":"Cocoa Point","lat":17.551661,"lon":-61.768333,"rwys":1,"ils":0,"index":1940193,"path":"w070n10/w062n17"
+,"runways":[
+{"len_m":885,"wid_m":45.72,"hdg":105,"surf":"Concrete","rwy1":"12","lat1":17.55275730,"lon1":-61.77234293,"rwy2":"30","lat2":17.55056470,"lon2":-61.76432307}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":183.6,"dist_nm":23.5,"freq":369,"lat":17.15783333,"lon":-61.79466667,"rng_nm":75,"alt_fmsl":0,"id":"ZDX","desc":"V C BIRD NDB"},
+{"type":"NDB","hdg_t":185.4,"dist_nm":25.5,"freq":351,"lat":17.12625000,"lon":-61.81075000,"rng_nm":50,"alt_fmsl":0,"id":"ANU","desc":"V C BIRD NDB"},
+{"type":"VOR","hdg_t":184.1,"dist_nm":25.5,"freq":114.5,"lat":17.12588889,"lon":-61.80016667,"rng_nm":130,"alt_fmsl":400,"id":"ANU","desc":"V C BIRD VOR-DME"},
+{"type":"NDB","hdg_t":208.3,"dist_nm":51.4,"freq":215,"lat":16.79277800,"lon":-62.19305600,"rng_nm":25,"alt_fmsl":550,"id":"MON","desc":"GERALDS NDB"},
+{"type":"SDME","hdg_t":255.1,"dist_nm":56.9,"freq":112,"lat":17.30572740,"lon":-62.72799366,"rng_nm":20,"alt_fmsl":10,"id":"SKB","desc":"Bradhsaw DME"},
+{"type":"NDB","hdg_t":254.8,"dist_nm":57.9,"freq":325,"lat":17.29597222,"lon":-62.74327778,"rng_nm":50,"alt_fmsl":0,"id":"SKB","desc":"BRADSHAW NDB"},
+{"type":"NDB","hdg_t":267,"dist_nm":70.2,"freq":235,"lat":17.48708333,"lon":-62.99166667,"rng_nm":50,"alt_fmsl":0,"id":"PJE","desc":"ST. EUSTATIUS NDB"},
+{"type":"NDB","hdg_t":174,"dist_nm":76,"freq":402,"lat":16.28666700,"lon":-61.63100000,"rng_nm":100,"alt_fmsl":0,"id":"AR","desc":"LE RAIZET NDB"},
+{"type":"NDB","hdg_t":174,"dist_nm":76.1,"freq":385,"lat":16.28358333,"lon":-61.63094444,"rng_nm":50,"alt_fmsl":0,"id":"PTP","desc":"POINTE A PITRE NDB"},
+{"type":"VOR","hdg_t":170.2,"dist_nm":77.9,"freq":112.9,"lat":16.26527778,"lon":-61.54000000,"rng_nm":130,"alt_fmsl":44,"id":"PPR","desc":"POINTE A PITRE VOR-DME"},
+{"type":"NDB","hdg_t":290.8,"dist_nm":82.5,"freq":284,"lat":18.03833333,"lon":-63.11833333,"rng_nm":50,"alt_fmsl":0,"id":"PJD","desc":"ST MAARTEN NDB"},
+{"type":"VOR","hdg_t":290.8,"dist_nm":82.5,"freq":113,"lat":18.03811111,"lon":-63.11827778,"rng_nm":130,"alt_fmsl":13,"id":"PJM","desc":"ST MAARTEN VOR-DME"}
+]
+}

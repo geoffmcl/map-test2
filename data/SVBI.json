@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVBI","name":"Barinas","lat":8.61596725,"lon":-70.21865925,"rwys":2,"ils":0,"index":1792166,"path":"w080n00/w071n08"
+,"runways":[
+{"len_m":1994,"wid_m":41.15,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":8.62016100,"lon1":-70.22184200,"rwy2":"31","lat2":8.61035000,"lon2":-70.20663900},
+{"len_m":1192,"wid_m":39.62,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":8.61216400,"lon1":-70.22604200,"rwy2":"21","lat2":8.62119400,"lon2":-70.22011400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"}
+]
+}

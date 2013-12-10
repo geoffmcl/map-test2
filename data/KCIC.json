@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCIC","name":"Chico Muni","lat":39.795263,"lon":-121.8588715,"rwys":2,"ils":1,"index":958576,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":2049,"wid_m":45.72,"hdg":147,"surf":"Asphalt","rwy1":"13L","lat1":39.80338300,"lon1":-121.86411900,"rwy2":"31R","lat2":39.78782800,"lon2":-121.85123600},
+{"len_m":915,"wid_m":18.29,"hdg":147,"surf":"Asphalt","rwy1":"13R","lat1":39.79839700,"lon1":-121.86294200,"rwy2":"31L","lat2":39.79144400,"lon2":-121.85718900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":121,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"}
+]
+}

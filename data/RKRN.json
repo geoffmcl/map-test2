@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKRN","name":"G 510","lat":37.19692575,"lon":127.4741485,"rwys":2,"ils":0,"index":5038025,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":1618,"wid_m":29.87,"hdg":89,"surf":"Concrete","rwy1":"10L","lat1":37.19738900,"lon1":127.46595800,"rwy2":"28R","lat2":37.19747800,"lon2":127.48418600},
+{"len_m":438,"wid_m":29.87,"hdg":89,"surf":"Concrete","rwy1":"10R","lat1":37.19641700,"lon1":127.47075800,"rwy2":"28L","lat2":37.19641900,"lon2":127.47569200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"OSAN APP"},
+{"type":"DEP","freq":127.9,"desc":"OSAN DEP"}
+]
+}

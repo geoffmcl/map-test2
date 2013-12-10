@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CCC5","name":"Havelock","lat":45.9864865,"lon":-65.30288675,"rwys":2,"ils":0,"index":1876474,"path":"w070n40/w066n45"
+,"runways":[
+{"len_m":867,"wid_m":71.63,"hdg":95,"surf":"Turf/grass","rwy1":"11","lat1":45.98686600,"lon1":-65.30813400,"rwy2":"29","lat2":45.98611900,"lon2":-65.29699300},
+{"len_m":622,"wid_m":79.25,"hdg":52,"surf":"Turf/grass","rwy1":"07","lat1":45.98478400,"lon1":-65.30640500,"rwy2":"25","lat2":45.98817700,"lon2":-65.30001500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2}
+]
+}

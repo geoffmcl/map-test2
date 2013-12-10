@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGDV","name":"Dawson Community","lat":47.13916125,"lon":-104.80790225,"rwys":2,"ils":0,"index":1237576,"path":"w110n40/w105n47"
+,"runways":[
+{"len_m":1738,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"12","lat1":47.14339200,"lon1":-104.81355000,"rwy2":"30","lat2":47.13207500,"lon2":-104.79773100},
+{"len_m":913,"wid_m":18.29,"hdg":36,"surf":"Asphalt","rwy1":"02","lat1":47.13728100,"lon1":-104.81373900,"rwy2":"20","lat2":47.14389700,"lon2":-104.80658900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

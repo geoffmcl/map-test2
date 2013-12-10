@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIZH","name":"Zahedan Intl","lat":29.4756845,"lon":60.90618975,"rwys":2,"ils":0,"index":3939803,"path":"e060n20/e060n29"
+,"runways":[
+{"len_m":4265,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":29.49461900,"lon1":60.90223100,"rwy2":"35","lat2":29.45643900,"lon2":60.90770000},
+{"len_m":4251,"wid_m":29.87,"hdg":172,"surf":"Asphalt","rwy1":"17L","lat1":29.49486900,"lon1":60.90468900,"rwy2":"35R","lat2":29.45681100,"lon2":60.91013900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

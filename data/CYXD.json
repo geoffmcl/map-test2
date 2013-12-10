@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYXD","name":"Edmonton City Centre (blatchford Fld)","lat":53.5720835,"lon":-113.51541775,"rwys":2,"ils":1,"index":1090529,"path":"w120n50/w114n53"
+,"runways":[
+{"len_m":1823,"wid_m":60.96,"hdg":138,"surf":"Asphalt","rwy1":"12","lat1":53.57777800,"lon1":-113.52833300,"rwy2":"30","lat2":53.56555600,"lon2":-113.51000000},
+{"len_m":1793,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":53.58055600,"lon1":-113.51166900,"rwy2":"34","lat2":53.56444400,"lon2":-113.51166900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.4,"desc":"ATIS"},
+{"type":"ATIS","freq":128.62,"desc":"AWOS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"MF RED DEER RDO"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"TWR","freq":122.45,"desc":"AIR AMBULANCE"},
+{"type":"APP","freq":119.5,"desc":"ARR/DEP"}
+]
+}

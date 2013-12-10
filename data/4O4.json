@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4O4","name":"Mc Curtain Co Rgnl","lat":33.9093635,"lon":-94.85936,"rwys":1,"ils":0,"index":1400568,"path":"w100n30/w095n33"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":33.90304400,"lon1":-94.86260300,"rwy2":"20","lat2":33.91568300,"lon2":-94.85611700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.92,"desc":"FORT WORTH CNTR"}
+]
+}

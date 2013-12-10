@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YORG","name":"Orange","lat":-33.38081229,"lon":149.12404528,"rwys":2,"ils":0,"index":5393952,"path":"e140s40/e149s34"
+,"runways":[
+{"len_m":1674,"wid_m":29.87,"hdg":125,"surf":"Asphalt","rwy1":"11","lat1":-33.37750598,"lon1":149.12377186,"rwy2":"29","lat2":-33.38626752,"lon2":149.13842775},
+{"len_m":782,"wid_m":27.13,"hdg":52,"surf":"Turf/grass","rwy1":"04","lat1":-33.37742039,"lon1":149.12253487,"rwy2":"22","lat2":-33.37314937,"lon2":149.12922432}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":135.25,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":119,"desc":"ORANGE MULT"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KATY","name":"Watertown Rgnl","lat":44.91397725,"lon":-97.154718,"rwys":2,"ils":1,"index":1352123,"path":"w100n40/w098n44"
+,"runways":[
+{"len_m":2103,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":44.92221400,"lon1":-97.16929700,"rwy2":"30","lat2":44.91147200,"lon2":-97.14735800},
+{"len_m":2101,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":44.92056700,"lon1":-97.15105000,"rwy2":"35","lat2":44.90165600,"lon2":-97.15116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

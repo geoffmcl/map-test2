@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSMD","name":"Smith Fld","lat":41.1433605,"lon":-85.15277975,"rwys":2,"ils":0,"index":1548491,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":948,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":41.14090800,"lon1":-85.15711100,"rwy2":"23","lat2":41.14631700,"lon2":-85.14836400},
+{"len_m":886,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":41.14557500,"lon1":-85.15697200,"rwy2":"31","lat2":41.14064200,"lon2":-85.14867200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.2,"desc":"FORT WAYNE APP/DEP"},
+{"type":"APP","freq":132.15,"desc":"FORT WAYNE APP/DEP"}
+]
+}

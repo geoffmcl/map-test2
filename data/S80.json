@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"S80","name":"Idaho Co","lat":45.942558,"lon":-116.1234165,"rwys":1,"ils":0,"index":1040891,"path":"w120n40/w117n45"
+,"runways":[
+{"len_m":1554,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":45.94263300,"lon1":-116.13343900,"rwy2":"25","lat2":45.94248300,"lon2":-116.11339400}
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":123.95,"desc":"SEATTLE CNTR"}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":310.5,"dist_nm":40.7,"freq":108.2,"lat":46.38155556,"lon":-116.86950000,"rng_nm":40,"alt_fmsl":1723,"id":"MQG","desc":"NEZ PERCE VOR-DME"},
+{"type":"VOR","hdg_t":314.2,"dist_nm":63.4,"freq":109,"lat":46.67430556,"lon":-117.22350000,"rng_nm":40,"alt_fmsl":2720,"id":"PUW","desc":"PULLMAN VOR-DME"},
+{"type":"VOR","hdg_t":182.8,"dist_nm":70.6,"freq":116.2,"lat":44.76711111,"lon":-116.20627778,"rng_nm":130,"alt_fmsl":7333,"id":"DNJ","desc":"DONNELLY VORTAC"},
+{"type":"NDB","hdg_t":245.7,"dist_nm":85.3,"freq":296,"lat":45.34250000,"lon":-117.96275000,"rng_nm":50,"alt_fmsl":0,"id":"LGD","desc":"LA GRANDE NDB"},
+{"type":"NDB","hdg_t":279.9,"dist_nm":87.7,"freq":353,"lat":46.17555556,"lon":-118.19636111,"rng_nm":50,"alt_fmsl":0,"id":"AL","desc":"TRINA NDB"},
+{"type":"NDB","hdg_t":61.9,"dist_nm":90.6,"freq":275,"lat":46.63609700,"lon":-114.18789400,"rng_nm":50,"alt_fmsl":2936,"id":"PLS","desc":"POLSON NDB"},
+{"type":"VOR","hdg_t":276.2,"dist_nm":91.1,"freq":116.4,"lat":46.08697222,"lon":-118.29252778,"rng_nm":40,"alt_fmsl":1179,"id":"ALW","desc":"WALLA WALLA VOR-DME"},
+{"type":"VOR","hdg_t":12,"dist_nm":93,"freq":117.8,"lat":47.45691667,"lon":-115.64605556,"rng_nm":130,"alt_fmsl":6100,"id":"MLP","desc":"MULLAN PASS VOR-DME"},
+{"type":"VOR","hdg_t":227.7,"dist_nm":97.1,"freq":115.3,"lat":44.84061111,"lon":-117.80786111,"rng_nm":130,"alt_fmsl":3380,"id":"BKE","desc":"BAKER CITY VOR-DME"},
+{"type":"NDB","hdg_t":45.3,"dist_nm":99.4,"freq":521,"lat":47.09436111,"lon":-114.39677778,"rng_nm":50,"alt_fmsl":0,"id":"INE","desc":"KONNA NDB"}
+]
+}

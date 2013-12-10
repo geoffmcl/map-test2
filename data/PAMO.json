@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAMO","name":"Mountain Village","lat":62.094793,"lon":-163.6828445,"rwys":1,"ils":0,"index":271872,"path":"w170n60/w164n62"
+,"runways":[
+{"len_m":1066,"wid_m":22.86,"hdg":32,"surf":"Gravel","rwy1":"02","lat1":62.09075800,"lon1":-163.68833900,"rwy2":"20","lat2":62.09882800,"lon2":-163.67735000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.35,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

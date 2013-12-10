@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEMM","name":"Kemmerer Muni","lat":41.82121737,"lon":-110.55533012,"rwys":3,"ils":0,"index":1138929,"path":"w120n40/w111n41"
+,"runways":[
+{"len_m":2496,"wid_m":22.86,"hdg":173,"surf":"Asphalt","rwy1":"16","lat1":41.83312142,"lon1":-110.55896733,"rwy2":"34","lat2":41.81077499,"lon2":-110.55570977},
+{"len_m":814,"wid_m":17.98,"hdg":54,"surf":"Concrete","rwy1":"04","lat1":41.82326511,"lon1":-110.56057270,"rwy2":"22","lat2":41.82756389,"lon2":-110.55263267},
+{"len_m":1011,"wid_m":17.98,"hdg":120,"surf":"Gravel","rwy1":"10","lat1":41.83067400,"lon1":-110.56138431,"rwy2":"28","lat2":41.82604100,"lon2":-110.55089800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRYY","name":"Cobb Co Mc Collum Fld","lat":34.013193,"lon":-84.597,"rwys":1,"ils":1,"index":1564417,"path":"w090n30/w085n34"
+,"runways":[
+{"len_m":1921,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":34.01300800,"lon1":-84.60740000,"rwy2":"27","lat2":34.01337800,"lon2":-84.58660000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":125.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":125.9,"desc":"MC COLLUM TWR"},
+{"type":"APP","freq":121,"desc":"ATLANTA APP/DEP"}
+]
+}

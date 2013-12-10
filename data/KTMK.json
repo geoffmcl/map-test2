@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTMK","name":"Tillamook","lat":45.41897354,"lon":-123.81881770,"rwys":2,"ils":0,"index":926168,"path":"w130n40/w124n45"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":155,"surf":"Asphalt","rwy1":"13","lat1":45.42430000,"lon1":-123.81893730,"rwy2":"31","lat2":45.41179400,"lon2":-123.81094030},
+{"len_m":886,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"01","lat1":45.41514400,"lon1":-123.81635431,"rwy2":"19","lat2":45.42200800,"lon2":-123.81057331}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.2,"desc":"SEATTLE APP/DEP"}
+]
+}

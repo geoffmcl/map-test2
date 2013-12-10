@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTAD","name":"Perry Stokes","lat":37.259929,"lon":-104.3399845,"rwys":2,"ils":0,"index":1236946,"path":"w110n30/w105n37"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":106,"surf":"Gravel","rwy1":"09","lat1":37.26086100,"lon1":-104.35323600,"rwy2":"27","lat2":37.25667200,"lon2":-104.33509400},
+{"len_m":1676,"wid_m":30.48,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":37.25574400,"lon1":-104.34247500,"rwy2":"21","lat2":37.26643900,"lon2":-104.32913300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPMZ","name":"Plymouth Municipal","lat":35.808428,"lon":-76.759278,"rwys":1,"ils":0,"index":1695600,"path":"w080n30/w077n35"
+,"runways":[
+{"len_m":1126,"wid_m":22.86,"hdg":17,"surf":"Asphalt","rwy1":"03","lat1":35.80358100,"lon1":-76.76113900,"rwy2":"21","lat2":35.81327500,"lon2":-76.75741700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.5,"desc":"WASHINGTON APP/DEP"}
+]
+}

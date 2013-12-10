@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"L48","name":"X-1 Ranch Upper Hq","lat":35.38333194,"lon":-113.30076139,"rwys":1,"ils":0,"index":1089370,"path":"w120n30/w114n35"
+,"runways":[
+{"len_m":1462,"wid_m":13.72,"hdg":327,"surf":"Dirt","rwy1":"32","lat1":35.37774911,"lon1":-113.29648253,"rwy2":"14","lat2":35.38891477,"lon2":-113.30504025}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":320.5,"dist_nm":18.7,"freq":112,"lat":35.62472222,"lon":-113.54447222,"rng_nm":130,"alt_fmsl":4760,"id":"PGS","desc":"PEACH SPRINGS VORTAC"},
+{"type":"VOR","hdg_t":256.8,"dist_nm":31.9,"freq":108.8,"lat":35.26052778,"lon":-113.93408333,"rng_nm":40,"alt_fmsl":3410,"id":"IGM","desc":"KINGMAN VOR-DME"},
+{"type":"VOR","hdg_t":135,"dist_nm":57.4,"freq":114.1,"lat":34.70255556,"lon":-112.48036111,"rng_nm":130,"alt_fmsl":4963,"id":"DRK","desc":"DRAKE VORTAC"},
+{"type":"VOR","hdg_t":58.1,"dist_nm":66.1,"freq":113.1,"lat":35.96033333,"lon":-112.14605556,"rng_nm":40,"alt_fmsl":6670,"id":"GCN","desc":"GRAND CANYON VOR-DME"},
+{"type":"VOR","hdg_t":237.7,"dist_nm":68.6,"freq":115.2,"lat":34.76600000,"lon":-114.47411111,"rng_nm":130,"alt_fmsl":620,"id":"EED","desc":"NEEDLES VORTAC"},
+{"type":"VOR","hdg_t":99.5,"dist_nm":81.1,"freq":113.85,"lat":35.14719444,"lon":-111.67416667,"rng_nm":130,"alt_fmsl":7026,"id":"FLG","desc":"FLAGSTAFF VOR-DME"},
+{"type":"NDB","hdg_t":99.7,"dist_nm":81.3,"freq":379,"lat":35.14187400,"lon":-111.67071600,"rng_nm":25,"alt_fmsl":6994,"id":"PUU","desc":"PULLIAM NDB"},
+{"type":"VOR","hdg_t":296.1,"dist_nm":84.7,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":261.2,"dist_nm":93.3,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"NDB","hdg_t":8.4,"dist_nm":95.5,"freq":403,"lat":36.96005556,"lon":-113.00916667,"rng_nm":50,"alt_fmsl":0,"id":"AZC","desc":"COLORADO CITY NDB"},
+{"type":"VOR","hdg_t":330.5,"dist_nm":95.6,"freq":114.3,"lat":36.76927778,"lon":-114.27747222,"rng_nm":40,"alt_fmsl":2120,"id":"MMM","desc":"MORMON MESA VORTAC"},
+{"type":"VOR","hdg_t":353.9,"dist_nm":98.4,"freq":108.6,"lat":37.01761111,"lon":-113.51788889,"rng_nm":40,"alt_fmsl":2848,"id":"UTI","desc":"ST GEORGE VOR-DME"},
+{"type":"VOR","hdg_t":295.2,"dist_nm":99.9,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"}
+]
+}

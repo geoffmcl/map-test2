@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I19","name":"Greene Co Lewis A Jackson Rgnl","lat":39.6910295,"lon":-83.99199,"rwys":1,"ils":0,"index":1581160,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":39.68823100,"lon1":-83.99911900,"rwy2":"25","lat2":39.69382800,"lon2":-83.98486100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP"},
+{"type":"DEP","freq":126.5,"desc":"DAYTON DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1B0","name":"Dexter Rgnl","lat":45.00365925,"lon":-69.238139,"rwys":2,"ils":0,"index":1810883,"path":"w070n40/w070n45"
+,"runways":[
+{"len_m":916,"wid_m":24.38,"hdg":139,"surf":"Asphalt","rwy1":"16","lat1":45.00766700,"lon1":-69.24035000,"rwy2":"34","lat2":45.00141400,"lon2":-69.23276100},
+{"len_m":466,"wid_m":91.44,"hdg":48,"surf":"Dirt","rwy1":"07","lat1":45.00138900,"lon1":-69.24194200,"rwy2":"25","lat2":45.00416700,"lon2":-69.23750300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.92,"desc":"BANGOR APP/DEP"}
+]
+}

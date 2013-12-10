@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"50D","name":"Iron Co","lat":46.009698,"lon":-88.2736535,"rwys":2,"ils":0,"index":1499650,"path":"w090n40/w089n46"
+,"runways":[
+{"len_m":1127,"wid_m":15.24,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":46.01142800,"lon1":-88.28039400,"rwy2":"30","lat2":46.00683900,"lon2":-88.26740600},
+{"len_m":823,"wid_m":44.20,"hdg":16,"surf":"Turf/grass","rwy1":"02","lat1":46.00671900,"lon1":-88.27495000,"rwy2":"20","lat2":46.01380600,"lon2":-88.27186400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

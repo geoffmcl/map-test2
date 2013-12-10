@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCKU","name":"Chiayi","lat":23.46178475,"lon":120.3928195,"rwys":2,"ils":2,"index":4922457,"path":"e120n20/e120n23"
+,"runways":[
+{"len_m":3039,"wid_m":45.11,"hdg":179,"surf":"Concrete","rwy1":"18R","lat1":23.47733300,"lon1":120.39038900,"rwy2":"36L","lat2":23.44988900,"lon2":120.39072200},
+{"len_m":1615,"wid_m":22.56,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":23.46725000,"lon1":120.39500000,"rwy2":"36R","lat2":23.45266700,"lon2":120.39516700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":126.18,"desc":"TWR"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":120.6,"desc":"TAICHUNG APP"}
+]
+}

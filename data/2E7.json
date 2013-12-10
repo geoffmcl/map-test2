@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2E7","name":"Mc Lean Gray Co","lat":35.24562475,"lon":-100.543403,"rwys":2,"ils":0,"index":1302345,"path":"w110n30/w101n35"
+,"runways":[
+{"len_m":955,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.25111100,"lon1":-100.54388900,"rwy2":"35","lat2":35.24250000,"lon2":-100.54388900},
+{"len_m":935,"wid_m":15.24,"hdg":89,"surf":"Dirt","rwy1":"08","lat1":35.24444400,"lon1":-100.54805600,"rwy2":"26","lat2":35.24444400,"lon2":-100.53777800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

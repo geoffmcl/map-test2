@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2D5","name":"Oakes Muni","lat":46.1726325,"lon":-98.07972725,"rwys":2,"ils":0,"index":1335819,"path":"w100n40/w099n46"
+,"runways":[
+{"len_m":1068,"wid_m":18.29,"hdg":131,"surf":"Asphalt","rwy1":"12","lat1":46.17747500,"lon1":-98.08546900,"rwy2":"30","lat2":46.17111100,"lon2":-98.07510600},
+{"len_m":586,"wid_m":60.96,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":46.17361100,"lon1":-98.07916700,"rwy2":"35","lat2":46.16833300,"lon2":-98.07916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

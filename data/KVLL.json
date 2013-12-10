@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVLL","name":"Oakland Troy","lat":42.542944,"lon":-83.177908,"rwys":1,"ils":0,"index":1581347,"path":"w090n40/w084n42"
+,"runways":[
+{"len_m":1081,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":42.54291859,"lon1":-83.18449386,"rwy2":"27","lat2":42.54296941,"lon2":-83.17132214}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.85,"desc":"DETROIT APP/DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GOOY","name":"Dakar Leopold Sedar Senghor Intl","lat":14.74438900,"lon":-017.48864400,"rwys":2,"ils":1,"index":2660908,"path":"w020n10/w018n14"
+,"runways":[
+{"len_m":3490,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":14.75711400,"lon1":-17.48093900,"rwy2":"36","lat2":14.72583300,"lon2":-17.47672200},
+{"len_m":1493,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":14.73171100,"lon1":-17.50426900,"rwy2":"21","lat2":14.74418600,"lon2":-17.49897500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.5,"desc":"DAKAR INFO"},
+{"type":"TWR","freq":127.3,"desc":"DAKAR INFO"},
+{"type":"TWR","freq":118.1,"desc":"DAKAR TWR"},
+{"type":"APP","freq":120.5,"desc":"DAKAR CON"},
+{"type":"APP","freq":118.1,"desc":"DAKAR CON"}
+]
+}

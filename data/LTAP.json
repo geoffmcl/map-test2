@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAP","name":"Merzifon","lat":40.8293735,"lon":35.52199,"rwys":1,"ils":0,"index":3530930,"path":"e030n40/e035n40"
+,"runways":[
+{"len_m":2925,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":40.82173900,"lon1":35.50785800,"rwy2":"23","lat2":40.83700800,"lon2":35.53612200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.42,"desc":"ATIS"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

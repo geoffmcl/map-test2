@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1M9","name":"Lake Barkley State Park","lat":36.8178135,"lon":-87.907529,"rwys":1,"ils":0,"index":1515440,"path":"w090n30/w088n36"
+,"runways":[
+{"len_m":1461,"wid_m":30.48,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":36.81164400,"lon1":-87.91038900,"rwy2":"20","lat2":36.82398300,"lon2":-87.90466900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

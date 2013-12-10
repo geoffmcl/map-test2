@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7A2","name":"Demopolis Muni","lat":32.4638195,"lon":-87.9540635,"rwys":1,"ils":0,"index":1515160,"path":"w090n30/w088n32"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":32.45877200,"lon1":-87.95956900,"rwy2":"22","lat2":32.46886700,"lon2":-87.94855800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"MERIDIAN APP/DEP"}
+]
+}

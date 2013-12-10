@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMCK","name":"Mc Cook Rgnl","lat":40.20564825,"lon":-100.59238709,"rwys":3,"ils":1,"index":1302665,"path":"w110n40/w101n40"
+,"runways":[
+{"len_m":1970,"wid_m":29.87,"hdg":131,"surf":"Concrete","rwy1":"12","lat1":40.21252618,"lon1":-100.59932731,"rwy2":"30","lat2":40.20076832,"lon2":-100.58198694},
+{"len_m":1220,"wid_m":22.86,"hdg":45,"surf":"Concrete","rwy1":"03","lat1":40.20280450,"lon1":-100.59967579,"rwy2":"21","lat2":40.21044300,"lon2":-100.58936100},
+{"len_m":413,"wid_m":49.07,"hdg":181,"surf":"Turf/grass","rwy1":"17","lat1":40.20553646,"lon1":-100.59190484,"rwy2":"35","lat2":40.20181104,"lon2":-100.59206665}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"27A","name":"Elbert Co Patz Fld","lat":34.095196,"lon":-82.815865,"rwys":1,"ils":0,"index":1597184,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":34.09603100,"lon1":-82.82239400,"rwy2":"28","lat2":34.09436100,"lon2":-82.80933600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.5,"desc":"ATLANTA APP/DEP"}
+]
+}

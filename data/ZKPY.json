@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZKPY","name":"Pyongyang Intl","lat":39.22506175,"lon":125.6732595,"rwys":2,"ils":2,"index":5005386,"path":"e120n30/e125n39"
+,"runways":[
+{"len_m":3793,"wid_m":60.05,"hdg":0,"surf":"Concrete","rwy1":"01","lat1":39.22775000,"lon1":125.67587200,"rwy2":"19","lat2":39.26191700,"lon2":125.67644700},
+{"len_m":3502,"wid_m":70.10,"hdg":162,"surf":"Concrete","rwy1":"17","lat1":39.22037200,"lon1":125.66442500,"rwy2":"35","lat2":39.19020800,"lon2":125.67629400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"}
+]
+}

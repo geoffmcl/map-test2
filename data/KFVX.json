@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFVX","name":"Farmville Rgnl","lat":37.35846300,"lon":-078.43819400,"rwys":1,"ils":0,"index":1662930,"path":"w080n30/w079n37"
+,"runways":[
+{"len_m":1352,"wid_m":22.86,"hdg":19,"surf":"Asphalt","rwy1":"03","lat1":37.35170800,"lon1":-78.44069400,"rwy2":"21","lat2":37.36321900,"lon2":-78.43568600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

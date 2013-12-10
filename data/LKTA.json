@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKTA","name":"Tabor","lat":49.39558091,"lon":014.70306078,"rwys":2,"ils":0,"index":3187418,"path":"e010n40/e014n49"
+,"runways":[
+{"len_m":890,"wid_m":99.97,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":49.39658634,"lon1":14.70525058,"rwy2":"34","lat2":49.38903189,"lon2":14.70930473},
+{"len_m":1118,"wid_m":130.15,"hdg":117,"surf":"Turf/grass","rwy1":"12","lat1":49.39475804,"lon1":14.69712294,"rwy2":"30","lat2":49.39013192,"lon2":14.71079662}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"INFO"}
+]
+}

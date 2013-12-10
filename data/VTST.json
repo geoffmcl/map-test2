@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTST","name":"Trang","lat":07.51133300,"lon":099.61807300,"rwys":1,"ils":1,"index":4577380,"path":"e090n00/e099n07"
+,"runways":[
+{"len_m":2104,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":7.50724200,"lon1":99.60716700,"rwy2":"26","lat2":7.51024700,"lon2":99.62599200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"APP"}
+]
+}

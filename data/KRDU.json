@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRDU","name":"Raleigh Durham Intl","lat":35.88106371,"lon":-078.78587248,"rwys":3,"ils":4,"index":1662840,"path":"w080n30/w079n35"
+,"runways":[
+{"len_m":3047,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"05L","lat1":35.87445000,"lon1":-78.80196400,"rwy2":"23R","lat2":35.89382200,"lon2":-78.77803300},
+{"len_m":2286,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":35.86463100,"lon1":-78.79733900,"rwy2":"23L","lat2":35.87916700,"lon2":-78.77939400},
+{"len_m":1088,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":35.87503100,"lon1":-78.78267800,"rwy2":"32","lat2":35.86807800,"lon2":-78.77418100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.1,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.15,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":127.45,"desc":"TWR"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"HOUSTON APP/DEP"},
+{"type":"APP","freq":128.3,"desc":"APP"},
+{"type":"APP","freq":124.95,"desc":"APP"},
+{"type":"APP","freq":124.8,"desc":"APP"},
+{"type":"DEP","freq":125.3,"desc":"DEP"},
+{"type":"DEP","freq":132.35,"desc":"DEP"}
+]
+}

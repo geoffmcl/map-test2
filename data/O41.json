@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O41","name":"Watts Woodland","lat":38.673872,"lon":-121.872089,"rwys":1,"ils":0,"index":958504,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1145,"wid_m":18.29,"hdg":199,"surf":"Asphalt","rwy1":"18","lat1":38.67874400,"lon1":-121.86992200,"rwy2":"36","lat2":38.66900000,"lon2":-121.87425600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.6,"desc":"TRAVIS APP/DEP"}
+]
+}

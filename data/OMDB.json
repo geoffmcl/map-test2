@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMDB","name":"Dubai Intl","lat":25.2549125,"lon":55.36426025,"rwys":2,"ils":3,"index":3857617,"path":"e050n20/e055n25"
+,"runways":[
+{"len_m":3999,"wid_m":60.05,"hdg":121,"surf":"Asphalt","rwy1":"12L","lat1":25.26649400,"lon1":55.34702200,"rwy2":"30R","lat2":25.24770300,"lon2":55.38092800},
+{"len_m":4004,"wid_m":46.02,"hdg":121,"surf":"Asphalt","rwy1":"12R","lat1":25.26213100,"lon1":55.34757200,"rwy2":"30L","lat2":25.24332200,"lon2":55.38151900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":131.7,"desc":"ATIS"},
+{"type":"GND","freq":118.85,"desc":"GND"},
+{"type":"GND","freq":118.35,"desc":"GND"},
+{"type":"TWR","freq":118.75,"desc":"TWR"},
+{"type":"APP","freq":124.9,"desc":"ARR"},
+{"type":"APP","freq":127.9,"desc":"DIR"},
+{"type":"DEP","freq":124.45,"desc":"DEP"}
+]
+}

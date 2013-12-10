@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1D7","name":"The Sigurd Anderson","lat":45.29337325,"lon":-97.51523825,"rwys":2,"ils":0,"index":1352145,"path":"w100n40/w098n45"
+,"runways":[
+{"len_m":1127,"wid_m":18.29,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":45.29562200,"lon1":-97.51775600,"rwy2":"30","lat2":45.29009400,"lon2":-97.50570000},
+{"len_m":682,"wid_m":45.72,"hdg":5,"surf":"Turf/grass","rwy1":"01","lat1":45.29083300,"lon1":-97.51916400,"rwy2":"19","lat2":45.29694400,"lon2":-97.51833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

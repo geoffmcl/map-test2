@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OISY","name":"Yasouj","lat":30.7004765,"lon":51.545094,"rwys":1,"ils":0,"index":3792426,"path":"e050n30/e051n30"
+,"runways":[
+{"len_m":2597,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":30.70838600,"lon1":51.53509400,"rwy2":"31","lat2":30.69256700,"lon2":51.55509400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.8,"desc":"AFIS"},
+{"type":"TWR","freq":123.75,"desc":"AFIS"}
+]
+}

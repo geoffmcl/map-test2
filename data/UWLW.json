@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UWLW","name":"Vostochny","lat":54.401014,"lon":48.802664,"rwys":1,"ils":1,"index":3744795,"path":"e040n50/e048n54"
+,"runways":[
+{"len_m":5025,"wid_m":104.85,"hdg":31,"surf":"Concrete","rwy1":"02","lat1":54.38176400,"lon1":48.78245000,"rwy2":"20","lat2":54.42026400,"lon2":48.82287800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"ULYANOVSK APP"},
+{"type":"APP","freq":126.1,"desc":"KRUG"}
+]
+}

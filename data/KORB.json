@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KORB","name":"Orr Rgnl","lat":48.0159195,"lon":-92.856047,"rwys":1,"ils":0,"index":1434240,"path":"w100n40/w093n48"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":48.02000300,"lon1":-92.86150000,"rwy2":"31","lat2":48.01183600,"lon2":-92.85059400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

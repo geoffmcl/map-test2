@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTHY","name":"Thylungra","lat":-26.08523614,"lon":143.44885962,"rwys":3,"ils":0,"index":5296121,"path":"e140s30/e143s27"
+,"runways":[
+{"len_m":1245,"wid_m":49.99,"hdg":84,"surf":"Dirt","rwy1":"8","lat1":-26.09550700,"lon1":143.46562552,"rwy2":"26","lat2":-26.09444200,"lon2":143.47801600},
+{"len_m":1772,"wid_m":49.99,"hdg":163,"surf":"Dirt","rwy1":"16","lat1":-26.08841312,"lon1":143.46340930,"rwy2":"34","lat2":-26.10375000,"lon2":143.46845400},
+{"len_m":1153,"wid_m":18.90,"hdg":191,"surf":"Dirt","rwy1":"18","lat1":-26.08764722,"lon1":143.45263020,"rwy2":"36","lat2":-26.09784749,"lon2":143.45033985}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

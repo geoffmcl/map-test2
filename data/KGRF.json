@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGRF","name":"Gray Aaf","lat":47.079218,"lon":-122.580783,"rwys":1,"ils":1,"index":942657,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1866,"wid_m":45.72,"hdg":167,"surf":"Asphalt","rwy1":"15","lat1":47.08740000,"lon1":-122.58353300,"rwy2":"33","lat2":47.07103600,"lon2":-122.57803300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.32,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.32,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKHH","name":"Osnova Intl","lat":49.9244088375,"lon":36.289047675,"rwys":2,"ils":2,"index":3547897,"path":"e030n40/e036n49"
+,"runways":[
+{"len_m":2499,"wid_m":49.99,"hdg":82,"surf":"Concrete","rwy1":"07","lat1":49.92545000,"lon1":36.27349800,"rwy2":"25","lat2":49.92828900,"lon2":36.30802200},
+{"len_m":1204,"wid_m":50.29,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":49.92470964,"lon1":36.28867088,"rwy2":"26","lat2":49.92463100,"lon2":36.30544400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":36,"surf":"Concrete","lat1":49.92309439,"lon1":36.28195894},
+{"rwy1":"H2","len_m":39,"wid_m":39.93,"hdg":36,"surf":"Concrete","lat1":49.92300114,"lon1":36.28641432}
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"KHARKIV ATIS"},
+{"type":"GND","freq":119,"desc":"KHARKIV GND"},
+{"type":"TWR","freq":118.1,"desc":"KHARKIV TWR"},
+{"type":"APP","freq":118.1,"desc":"KHARKIV RADAR"},
+{"type":"APP","freq":123.7,"desc":"KHARKIV RADAR"}
+]
+}

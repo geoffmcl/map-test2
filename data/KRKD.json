@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRKD","name":"Knox Co Rgnl","lat":44.0602665,"lon":-69.099207,"rwys":2,"ils":1,"index":1810819,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1526,"wid_m":30.48,"hdg":110,"surf":"Asphalt","rwy1":"13","lat1":44.06151900,"lon1":-69.10837200,"rwy2":"31","lat2":44.05661400,"lon2":-69.09058100},
+{"len_m":1188,"wid_m":30.48,"hdg":13,"surf":"Asphalt","rwy1":"03","lat1":44.05626400,"lon1":-69.10066100,"rwy2":"21","lat2":44.06666900,"lon2":-69.09721400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.8,"desc":"BRUNSWICK APP/DEP"}
+]
+}

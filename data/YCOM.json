@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCOM","name":"Cooma-snowy Mountains","lat":-36.29268676,"lon":148.97126590,"rwys":2,"ils":0,"index":5377387,"path":"e140s40/e148s37"
+,"runways":[
+{"len_m":2119,"wid_m":45.11,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":-36.29042400,"lon1":148.97512337,"rwy2":"36","lat2":-36.30905282,"lon2":148.96991424},
+{"len_m":744,"wid_m":20.12,"hdg":149,"surf":"Dirt","rwy1":"14","lat1":-36.30428202,"lon1":148.96914659,"rwy2":"32","lat2":-36.31009005,"lon2":148.97329027}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.1,"desc":"COOMA UNIC"},
+{"type":"TWR","freq":118.8,"desc":"MELBOURNE CNTR"},
+{"type":"TWR","freq":119.4,"desc":"MELBOURNE CNTR"}
+]
+}

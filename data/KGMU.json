@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGMU","name":"Greenville Downtown","lat":34.85038765,"lon":-082.35130829,"rwys":2,"ils":1,"index":1597234,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":1643,"wid_m":30.48,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":34.84050000,"lon1":-82.34858600,"rwy2":"19","lat2":34.85531100,"lon2":-82.34821400},
+{"len_m":1218,"wid_m":24.38,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":34.84808600,"lon1":-82.35881100,"rwy2":"28","lat2":34.84782800,"lon2":-82.34549200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.24,"hdg":-82,"surf":"Concrete","lat1":34.85178202,"lon1":-82.34634825},
+{"rwy1":"H2","len_m":15,"wid_m":15.24,"hdg":-82,"surf":"Concrete","lat1":34.85055450,"lon1":-82.34982191}
+]
+,"radios":[
+{"type":"ATIS","freq":127.07,"desc":"ASOS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.25,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":118.8,"desc":"GREER APP/DEP"}
+]
+}

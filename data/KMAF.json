@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMAF","name":"Midland Intl","lat":31.9413665,"lon":-102.2007965,"rwys":4,"ils":1,"index":1269371,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":2895,"wid_m":45.72,"hdg":175,"surf":"Asphalt","rwy1":"16R","lat1":31.95940600,"lon1":-102.20551900,"rwy2":"34L","lat2":31.93338900,"lon2":-102.20286900},
+{"len_m":2529,"wid_m":45.72,"hdg":113,"surf":"Asphalt","rwy1":"10","lat1":31.94764400,"lon1":-102.21635000,"rwy2":"28","lat2":31.93851400,"lon2":-102.19182800},
+{"len_m":1403,"wid_m":22.86,"hdg":53,"surf":"Asphalt","rwy1":"04","lat1":31.93170300,"lon1":-102.20375600,"rwy2":"22","lat2":31.93920300,"lon2":-102.19179400},
+{"len_m":1322,"wid_m":30.48,"hdg":177,"surf":"Asphalt","rwy1":"16L","lat1":31.94649200,"lon1":-102.19747500,"rwy2":"34R","lat2":31.93458100,"lon2":-102.19678100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"}
+]
+}

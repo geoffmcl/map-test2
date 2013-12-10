@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMOT","name":"Minot Intl","lat":48.2576825,"lon":-101.27800775,"rwys":2,"ils":1,"index":1286802,"path":"w110n40/w102n48"
+,"runways":[
+{"len_m":2347,"wid_m":45.72,"hdg":138,"surf":"Concrete","rwy1":"13","lat1":48.26525300,"lon1":-101.28874200,"rwy2":"31","lat2":48.24946900,"lon2":-101.26775600},
+{"len_m":1935,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":48.25804400,"lon1":-101.29080000,"rwy2":"26","lat2":48.25796400,"lon2":-101.26473300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"MAGIC CITY TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBFR","name":"Virgil I Grissom Muni","lat":38.839659,"lon":-86.445078,"rwys":2,"ils":0,"index":1531954,"path":"w090n30/w087n38"
+,"runways":[
+{"len_m":1371,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":38.84558300,"lon1":-86.45273100,"rwy2":"31","lat2":38.83775300,"lon2":-86.44050600},
+{"len_m":941,"wid_m":21.34,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":38.83537200,"lon1":-86.44811100,"rwy2":"24","lat2":38.83992800,"lon2":-86.43896400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHAM","name":"Schiphol","lat":52.30753254,"lon":004.76253725,"rwys":6,"ils":7,"index":3023763,"path":"e000n50/e004n52"
+,"runways":[
+{"len_m":3457,"wid_m":49.99,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":52.31662258,"lon1":4.74629843,"rwy2":"27","lat2":52.31835819,"lon2":4.79692334},
+{"len_m":3398,"wid_m":49.99,"hdg":183,"surf":"Asphalt","rwy1":"18L","lat1":52.32132036,"lon1":4.78019039,"rwy2":"36R","lat2":52.29082345,"lon2":4.77743092},
+{"len_m":3306,"wid_m":49.07,"hdg":183,"surf":"Asphalt","rwy1":"18C","lat1":52.33139702,"lon1":4.74011451,"rwy2":"36C","lat2":52.30173122,"lon2":4.73740403},
+{"len_m":3810,"wid_m":56.08,"hdg":183,"surf":"Asphalt","rwy1":"18R","lat1":52.36265227,"lon1":4.71199426,"rwy2":"36L","lat2":52.32845800,"lon2":4.70890493},
+{"len_m":3494,"wid_m":49.07,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":52.28786840,"lon1":4.73415315,"rwy2":"24","lat2":52.30456490,"lon2":4.77753518},
+{"len_m":2020,"wid_m":45.11,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":52.30037477,"lon1":4.78348374,"rwy2":"22","lat2":52.31402723,"lon2":4.80302426}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.97,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.22,"desc":"TWR"},
+{"type":"TWR","freq":128.8,"desc":"unnamed entity"},
+{"type":"APP","freq":122.2,"desc":"DEP"}
+]
+}

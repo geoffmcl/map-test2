@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OAKN","name":"Kandahar","lat":31.505754,"lon":65.8478235,"rwys":1,"ils":0,"index":4021859,"path":"e060n30/e065n31"
+,"runways":[
+{"len_m":3210,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":31.49751100,"lon1":65.83393300,"rwy2":"23","lat2":31.51399700,"lon2":65.86171400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":133,"desc":"GND"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"APP","freq":122.6,"desc":"GCA"},
+{"type":"APP","freq":123.7,"desc":"APP"},
+{"type":"APP","freq":120.8,"desc":"APP"},
+{"type":"APP","freq":122.6,"desc":"APP"}
+]
+}

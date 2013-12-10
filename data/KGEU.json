@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGEU","name":"Glendale Muni","lat":33.52759400,"lon":-112.29831200,"rwys":1,"ils":0,"index":1105634,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":2163,"wid_m":29.87,"hdg":26,"surf":"Asphalt","rwy1":"01","lat1":33.51806029,"lon1":-112.30027843,"rwy2":"19","lat2":33.53558371,"lon2":-112.29003957}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"ATIS"},
+{"type":"CTAF","freq":121,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":118,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":120.5,"desc":"LUKE APP/DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDNV","name":"Vermilion Co","lat":40.1997325,"lon":-87.5952711666667,"rwys":3,"ils":1,"index":1515657,"path":"w090n40/w088n40"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":40.19378100,"lon1":-87.59962500,"rwy2":"21","lat2":40.20816100,"lon2":-87.58914400},
+{"len_m":1219,"wid_m":30.48,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":40.20306700,"lon1":-87.59918300,"rwy2":"34","lat2":40.19250000,"lon2":-87.59528300},
+{"len_m":777,"wid_m":45.72,"hdg":120,"surf":"Turf/grass","rwy1":"12","lat1":40.20220800,"lon1":-87.59813600,"rwy2":"30","lat2":40.19867800,"lon2":-87.59025600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CHAMPAIGN CLNC DEL"},
+{"type":"APP","freq":121.35,"desc":"CHAMPAIGN APP/DEP"}
+]
+}

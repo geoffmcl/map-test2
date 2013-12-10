@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YKIG","name":"Kingston","lat":-36.82231932,"lon":139.86951919,"rwys":2,"ils":0,"index":5229899,"path":"e130s40/e139s37"
+,"runways":[
+{"len_m":1007,"wid_m":14.02,"hdg":27,"surf":"Asphalt","rwy1":"2","lat1":-36.82423334,"lon1":139.86754318,"rwy2":"20","lat2":-36.81619352,"lon2":139.87279366},
+{"len_m":727,"wid_m":41.15,"hdg":104,"surf":"Turf/grass","rwy1":"10","lat1":-36.81619697,"lon1":139.87364078,"rwy2":"28","lat2":-36.81783531,"lon2":139.88154074}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

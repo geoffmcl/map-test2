@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSEP","name":"Clark Fld Muni","lat":32.21539275,"lon":-98.1791325,"rwys":2,"ils":0,"index":1334923,"path":"w100n30/w099n32"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":32.22028600,"lon1":-98.18115800,"rwy2":"32","lat2":32.21037200,"lon2":-98.17420300},
+{"len_m":762,"wid_m":15.24,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":32.21279400,"lon1":-98.18314400,"rwy2":"21","lat2":32.21811900,"lon2":-98.17802500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"U69","name":"Duchesne Muni","lat":40.19395067,"lon":-110.382733935,"rwys":2,"ils":0,"index":1138826,"path":"w120n40/w111n40"
+,"runways":[
+{"len_m":1714,"wid_m":17.98,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":40.20115397,"lon1":-110.38434973,"rwy2":"35","lat2":40.18571603,"lon2":-110.38434973},
+{"len_m":1338,"wid_m":22.86,"hdg":90,"surf":"Turf/grass","rwy1":"08","lat1":40.19450416,"lon1":-110.38897862,"rwy2":"26","lat2":40.19442851,"lon2":-110.37325766}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,36 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"4R4","name":"H L Sonny Callahan","lat":30.46051,"lon":-87.8774485,"rwys":1,"ils":0,"index":1515032,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":2001,"wid_m":30.48,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":30.45155300,"lon1":-87.87873900,"rwy2":"19","lat2":30.46946700,"lon2":-87.87615800}
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.5,"desc":"MOBILE APP/DEP"}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":73.5,"dist_nm":8.2,"freq":204,"lat":30.49925000,"lon":-87.72566667,"rng_nm":50,"alt_fmsl":0,"id":"ESU","desc":"SUMMERDALE NDB"},
+{"type":"VOR","hdg_t":314.6,"dist_nm":12.9,"freq":112.8,"lat":30.61272222,"lon":-88.05550000,"rng_nm":40,"alt_fmsl":30,"id":"BFM","desc":"BROOKLEY VORTAC"},
+{"type":"VOR","hdg_t":88.4,"dist_nm":28,"freq":108.8,"lat":30.47213889,"lon":-87.33588889,"rng_nm":40,"alt_fmsl":0,"id":"NUN","desc":"SAUFLEY VOR"},
+{"type":"VOR","hdg_t":302.6,"dist_nm":29.5,"freq":115.3,"lat":30.72597222,"lon":-88.35930556,"rng_nm":130,"alt_fmsl":190,"id":"SJI","desc":"SEMMES VORTAC"},
+{"type":"SDME","hdg_t":101.7,"dist_nm":29.7,"freq":117.2,"lat":30.35800000,"lon":-87.31650000,"rng_nm":40,"alt_fmsl":24,"id":"NPA","desc":"PENSACOLA TACAN"},
+{"type":"NDB","hdg_t":278.6,"dist_nm":35.4,"freq":209,"lat":30.54816667,"lon":-88.55316667,"rng_nm":50,"alt_fmsl":0,"id":"PQ","desc":"TLOTT NDB"},
+{"type":"NDB","hdg_t":92,"dist_nm":36.2,"freq":326,"lat":30.43705556,"lon":-87.17836111,"rng_nm":50,"alt_fmsl":0,"id":"PKZ","desc":"PICKENS NDB"},
+{"type":"SDME","hdg_t":70.2,"dist_nm":47.2,"freq":112.3,"lat":30.72400000,"lon":-87.01800000,"rng_nm":40,"alt_fmsl":179,"id":"NSE","desc":"WHITING TACAN"},
+{"type":"VOR","hdg_t":320.6,"dist_nm":49.4,"freq":115.7,"lat":31.09797222,"lon":-88.48613889,"rng_nm":130,"alt_fmsl":300,"id":"GCV","desc":"GREENE CO VORTAC"},
+{"type":"SDME","hdg_t":266.9,"dist_nm":54.6,"freq":111.8,"lat":30.40708600,"lon":-88.92971100,"rng_nm":25,"alt_fmsl":10,"id":"BIX","desc":"KEESLER TACAN"},
+{"type":"SDME","hdg_t":91.5,"dist_nm":61.6,"freq":110.8,"lat":30.42803600,"lon":-86.69028900,"rng_nm":25,"alt_fmsl":35,"id":"HRT","desc":"HURLBURT TACAN"},
+{"type":"VOR","hdg_t":267.3,"dist_nm":62.2,"freq":109,"lat":30.40683333,"lon":-89.07677778,"rng_nm":40,"alt_fmsl":23,"id":"GPT","desc":"GULFPORT VORTAC"},
+{"type":"VOR","hdg_t":24.1,"dist_nm":65.6,"freq":116.8,"lat":31.46044444,"lon":-87.35275000,"rng_nm":40,"alt_fmsl":420,"id":"MVC","desc":"MONROEVILLE VORTAC"},
+{"type":"VOR","hdg_t":70.2,"dist_nm":65.7,"freq":115.9,"lat":30.82616667,"lon":-86.67913889,"rng_nm":130,"alt_fmsl":255,"id":"CEW","desc":"CRESTVIEW VORTAC"},
+{"type":"NDB","hdg_t":271.6,"dist_nm":66.6,"freq":360,"lat":30.48555556,"lon":-89.16225000,"rng_nm":50,"alt_fmsl":0,"id":"GP","desc":"BAYOU NDB"},
+{"type":"NDB","hdg_t":70.9,"dist_nm":73.2,"freq":201,"lat":30.85286111,"lon":-86.53661111,"rng_nm":50,"alt_fmsl":0,"id":"CE","desc":"KOBRA NDB"},
+{"type":"NDB","hdg_t":270,"dist_nm":81.8,"freq":221,"lat":30.45133333,"lon":-89.45552778,"rng_nm":50,"alt_fmsl":0,"id":"HS","desc":"HANCO (OM/NDB) NDB"},
+{"type":"NDB","hdg_t":56.2,"dist_nm":91.9,"freq":264,"lat":31.30508333,"lon":-86.39088889,"rng_nm":50,"alt_fmsl":0,"id":"JUY","desc":"JUDD NDB"},
+{"type":"VOR","hdg_t":56,"dist_nm":91.9,"freq":110.2,"lat":31.30952778,"lon":-86.39213889,"rng_nm":25,"alt_fmsl":0,"id":"UIA","desc":"ANDALUSIA VOR"},
+{"type":"NDB","hdg_t":271.7,"dist_nm":92,"freq":276,"lat":30.49470300,"lon":-89.65314200,"rng_nm":25,"alt_fmsl":54,"id":"MJD","desc":"PICAYUNE NDB"},
+{"type":"VOR","hdg_t":307.6,"dist_nm":94.6,"freq":110.6,"lat":31.41869444,"lon":-89.33761111,"rng_nm":40,"alt_fmsl":290,"id":"LBY","desc":"EATON VORTAC"},
+{"type":"VOR","hdg_t":274,"dist_nm":96.2,"freq":112.2,"lat":30.56116667,"lon":-89.73050000,"rng_nm":40,"alt_fmsl":70,"id":"PCU","desc":"PICAYUNE VOR-DME"},
+{"type":"NDB","hdg_t":352.8,"dist_nm":99.8,"freq":228,"lat":32.11431300,"lon":-88.12140700,"rng_nm":25,"alt_fmsl":115,"id":"BCZ","desc":"CHOCTAW NDB"},
+{"type":"NDB","hdg_t":317.7,"dist_nm":99.8,"freq":346,"lat":31.68750000,"lon":-89.18980556,"rng_nm":50,"alt_fmsl":0,"id":"THJ","desc":"TALLAHALA NDB"}
+]
+}

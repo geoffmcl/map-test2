@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAIZ","name":"Lee C Fine Mem","lat":38.0960335,"lon":-92.5494765,"rwys":1,"ils":1,"index":1433601,"path":"w100n30/w093n38"
+,"runways":[
+{"len_m":1980,"wid_m":30.48,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":38.08891700,"lon1":-92.55628100,"rwy2":"21","lat2":38.10315000,"lon2":-92.54267200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.1,"desc":"MIZZU APP/DEP"}
+]
+}

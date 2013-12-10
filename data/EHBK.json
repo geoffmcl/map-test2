@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHBK","name":"Maastricht","lat":50.91230400,"lon":005.76963900,"rwys":1,"ils":1,"index":3040059,"path":"e000n50/e005n50"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":50.90183600,"lon1":5.76005000,"rwy2":"21","lat2":50.92077500,"lon2":5.77922800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"ATIS"},
+{"type":"GND","freq":121.82,"desc":"BEEK GND"},
+{"type":"TWR","freq":119.47,"desc":"BEEK TWR"},
+{"type":"TWR","freq":119.7,"desc":"BEEK TWR"},
+{"type":"APP","freq":120.2,"desc":"BEEK APP"},
+{"type":"APP","freq":123.97,"desc":"BEEK APP"}
+]
+}

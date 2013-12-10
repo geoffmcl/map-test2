@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYZP","name":"Sandspit","lat":53.25195751,"lon":-131.81592267,"rwys":1,"ils":1,"index":795600,"path":"w140n50/w132n53"
+,"runways":[
+{"len_m":1564,"wid_m":46.02,"hdg":144,"surf":"Asphalt","rwy1":"12","lat1":53.26001603,"lon1":-131.82057651,"rwy2":"30","lat2":53.24858997,"lon2":-131.80692730}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.75,"desc":"AWOS"},
+{"type":"TWR","freq":122.3,"desc":"TERRACE RDO"}
+]
+}

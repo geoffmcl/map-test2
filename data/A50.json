@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"A50","name":"Colorado Springs East","lat":38.8744645,"lon":-104.409988,"rwys":3,"ils":0,"index":1237042,"path":"w110n30/w105n38"
+,"runways":[
+{"len_m":1370,"wid_m":12.19,"hdg":179,"surf":"Gravel","rwy1":"17L","lat1":38.88061001,"lon1":-104.41008299,"rwy2":"35R","lat2":38.86826799,"lon2":-104.40984501},
+{"len_m":1342,"wid_m":12.80,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":38.88056100,"lon1":-104.41000000,"rwy2":"35L","lat2":38.86846400,"lon2":-104.41000000},
+{"len_m":1060,"wid_m":18.29,"hdg":89,"surf":"Gravel","rwy1":"08","lat1":38.87444200,"lon1":-104.41611100,"rwy2":"26","lat2":38.87444200,"lon2":-104.40388900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

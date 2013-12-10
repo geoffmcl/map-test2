@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MPEJ","name":"Enrique Adolfo Jimenez","lat":9.356639,"lon":-79.867414,"rwys":1,"ils":0,"index":1644753,"path":"w080n00/w080n09"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":9.36490300,"lon1":-79.86716400,"rwy2":"36","lat2":9.34837500,"lon2":-79.86766400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"JIMENEZ TWR"},
+{"type":"APP","freq":119.7,"desc":"PANAMA APP"},
+{"type":"APP","freq":123.3,"desc":"PANAMA APP"},
+{"type":"APP","freq":119.2,"desc":"PANAMA APP"},
+{"type":"APP","freq":121.2,"desc":"PANAMA APP"}
+]
+}

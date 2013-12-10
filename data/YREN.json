@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YREN","name":"Renmark","lat":-34.19780976,"lon":140.68229415,"rwys":4,"ils":0,"index":5246450,"path":"e140s40/e140s35"
+,"runways":[
+{"len_m":1735,"wid_m":20.12,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":-34.20036979,"lon1":140.65976421,"rwy2":"25","lat2":-34.19607569,"lon2":140.67787005},
+{"len_m":1166,"wid_m":49.99,"hdg":5,"surf":"Dirt","rwy1":"18","lat1":-34.20587265,"lon1":140.67785494,"rwy2":"36","lat2":-34.19540344,"lon2":140.67902117},
+{"len_m":1830,"wid_m":49.99,"hdg":74,"surf":"Turf/grass","rwy1":"07L","lat1":-34.19946838,"lon1":140.65880013,"rwy2":"25R","lat2":-34.19497561,"lon2":140.67790821},
+{"len_m":1254,"wid_m":91.14,"hdg":129,"surf":"Turf/grass","rwy1":"12","lat1":-34.19403195,"lon1":140.67217222,"rwy2":"30","lat2":-34.20120316,"lon2":140.68269024}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

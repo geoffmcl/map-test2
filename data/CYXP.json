@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYXP","name":"Pangnirtung","lat":66.14437603,"lon":-065.70994210,"rwys":1,"ils":0,"index":1877768,"path":"w070n60/w066n66"
+,"runways":[
+{"len_m":892,"wid_m":29.87,"hdg":60,"surf":"Gravel","rwy1":"06T","lat1":66.14299863,"lon1":-65.72177531,"rwy2":"24T","lat2":66.14688137,"lon2":-65.70448469}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.5,"desc":"AWOS"},
+{"type":"CTAF","freq":122.1,"desc":"MULTICOM"}
+]
+}

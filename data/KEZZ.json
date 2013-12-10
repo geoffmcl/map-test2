@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEZZ","name":"Cameron Mem","lat":39.7275555,"lon":-94.2760955,"rwys":1,"ils":0,"index":1400938,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":1222,"wid_m":22.86,"hdg":174,"surf":"Concrete","rwy1":"17","lat1":39.73303600,"lon1":-94.27677200,"rwy2":"35","lat2":39.72207500,"lon2":-94.27541900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"KANSAS CITY CLNC DEL"},
+{"type":"APP","freq":119,"desc":"KANSAS CITY APP/DEP"}
+]
+}

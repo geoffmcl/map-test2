@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UTSL","name":"Karshi Khanabad","lat":38.833635,"lon":65.9214655,"rwys":1,"ils":0,"index":4022323,"path":"e060n30/e065n38"
+,"runways":[
+{"len_m":2501,"wid_m":40.23,"hdg":76,"surf":"Concrete","rwy1":"07","lat1":38.83106700,"lon1":65.90744200,"rwy2":"25","lat2":38.83620300,"lon2":65.93548900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.17,"desc":"TWR"},
+{"type":"APP","freq":131.6,"desc":"APP"}
+]
+}

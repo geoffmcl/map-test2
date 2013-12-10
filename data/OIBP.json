@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIBP","name":"Persian Gulf Airport","lat":27.379589,"lon":52.7376655,"rwys":1,"ils":0,"index":3808602,"path":"e050n20/e052n27"
+,"runways":[
+{"len_m":3997,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":27.39088900,"lon1":52.72191700,"rwy2":"31","lat2":27.36828900,"lon2":52.75341400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.72,"desc":"INFO"},
+{"type":"TWR","freq":118.12,"desc":"INFO"}
+]
+}

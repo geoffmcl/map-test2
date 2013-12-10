@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOIN","name":"Oberlin Muni","lat":39.833717,"lon":-100.5392565,"rwys":3,"ils":0,"index":1302641,"path":"w110n30/w101n39"
+,"runways":[
+{"len_m":1155,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":39.84009700,"lon1":-100.54010000,"rwy2":"35","lat2":39.82968600,"lon2":-100.54021100},
+{"len_m":868,"wid_m":38.10,"hdg":135,"surf":"Turf/grass","rwy1":"12","lat1":39.83610000,"lon1":-100.54293100,"rwy2":"30","lat2":39.83054400,"lon2":-100.53578900},
+{"len_m":609,"wid_m":57.91,"hdg":42,"surf":"Turf/grass","rwy1":"03","lat1":39.83090600,"lon1":-100.54064700,"rwy2":"21","lat2":39.83496900,"lon2":-100.53586100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

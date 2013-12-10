@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMAU","name":"Mount Augustus","lat":-24.30564795,"lon":116.91052695,"rwys":2,"ils":0,"index":4853867,"path":"e110s30/e116s25"
+,"runways":[
+{"len_m":926,"wid_m":21.03,"hdg":100,"surf":"Dirt","rwy1":"10","lat1":-24.29442107,"lon1":116.89121729,"rwy2":"28","lat2":-24.29599608,"lon2":116.90017746},
+{"len_m":1576,"wid_m":32.92,"hdg":133,"surf":"Dirt","rwy1":"13","lat1":-24.29452899,"lon1":116.89855687,"rwy2":"31","lat2":-24.30440705,"lon2":116.90974107}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPWA","name":"Warszawa Okecie","lat":52.17290000,"lon":020.96977100,"rwys":2,"ils":2,"index":3285899,"path":"e020n50/e020n52"
+,"runways":[
+{"len_m":2799,"wid_m":49.99,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":52.17146740,"lon1":20.94662620,"rwy2":"29","lat2":52.16099086,"lon2":20.98383199},
+{"len_m":3695,"wid_m":60.05,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":52.17858878,"lon1":20.95585875,"rwy2":"33","lat2":52.14931844,"lon2":20.98137670}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.45,"desc":"ATIS"},
+{"type":"CLD","freq":121.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":129.37,"desc":"WARSZAWA DIR"}
+]
+}

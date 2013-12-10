@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGLW","name":"Glasgow Muni","lat":37.031779,"lon":-85.953754,"rwys":1,"ils":1,"index":1548224,"path":"w090n30/w086n37"
+,"runways":[
+{"len_m":1615,"wid_m":30.48,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":37.02945800,"lon1":-85.96236100,"rwy2":"25","lat2":37.03410000,"lon2":-85.94514700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

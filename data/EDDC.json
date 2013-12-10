@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDC","name":"Dresden","lat":51.12841714,"lon":013.76738466,"rwys":1,"ils":2,"index":3171147,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":2853,"wid_m":60.05,"hdg":40,"surf":"Concrete","rwy1":"04","lat1":51.12466300,"lon1":13.75474000,"rwy2":"22","lat2":51.14406833,"lon2":13.78138955}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Transparent","lat1":51.13277778,"lon1":13.77194444}
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":122.92,"desc":"TWR"},
+{"type":"APP","freq":125.62,"desc":"BERLIN RADAR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESKN","name":"Stockholm Skavsta","lat":58.78572100,"lon":016.91843800,"rwys":2,"ils":2,"index":3220787,"path":"e010n50/e016n58"
+,"runways":[
+{"len_m":2877,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":58.78666200,"lon1":16.88036700,"rwy2":"26","lat2":58.78977200,"lon2":16.92977200},
+{"len_m":2039,"wid_m":39.93,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":58.80135600,"lon1":16.90407800,"rwy2":"34","lat2":58.78396700,"lon2":16.91509400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.75,"desc":"ATIS"},
+{"type":"TWR","freq":127.7,"desc":"TWR"}
+]
+}

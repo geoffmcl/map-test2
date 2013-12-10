@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPPA","name":"Perry Lefors Fld","lat":35.61249,"lon":-100.9978005,"rwys":3,"ils":0,"index":1302368,"path":"w110n30/w101n35"
+,"runways":[
+{"len_m":1787,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.61850300,"lon1":-100.99382500,"rwy2":"35","lat2":35.60239200,"lon2":-100.99383300},
+{"len_m":1371,"wid_m":22.86,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":35.61324200,"lon1":-101.00599200,"rwy2":"23","lat2":35.61941400,"lon2":-100.99287500},
+{"len_m":1379,"wid_m":45.72,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":35.61388900,"lon1":-101.00666700,"rwy2":"29","lat2":35.60750000,"lon2":-100.99361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

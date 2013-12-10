@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYTA","name":"Pembroke","lat":45.8644445,"lon":-77.2516655,"rwys":1,"ils":0,"index":1679858,"path":"w080n40/w078n45"
+,"runways":[
+{"len_m":1543,"wid_m":30.48,"hdg":156,"surf":"Asphalt","rwy1":"17","lat1":45.87083300,"lon1":-77.25555300,"rwy2":"35","lat2":45.85805600,"lon2":-77.24777800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":126.4,"desc":"PETAWAWA ADVSY"},
+{"type":"APP","freq":135.2,"desc":"MONTREAL CNTR"}
+]
+}

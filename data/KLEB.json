@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLEB","name":"Lebanon Muni","lat":43.626009,"lon":-72.30422625,"rwys":2,"ils":1,"index":1761642,"path":"w080n40/w073n43"
+,"runways":[
+{"len_m":1674,"wid_m":30.48,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":43.62583900,"lon1":-72.31205800,"rwy2":"25","lat2":43.63353300,"lon2":-72.29421100},
+{"len_m":1584,"wid_m":30.48,"hdg":167,"surf":"Asphalt","rwy1":"18","lat1":43.62930800,"lon1":-72.30736400,"rwy2":"36","lat2":43.61535600,"lon2":-72.30327200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.65,"desc":"ASOS"},
+{"type":"ATIS","freq":118.65,"desc":"ATIS"},
+{"type":"CTAF","freq":125.95,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.95,"desc":"TWR"},
+{"type":"APP","freq":134.7,"desc":"BOSTON APP/DEP"}
+]
+}

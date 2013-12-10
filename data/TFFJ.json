@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"TFFJ","name":"St Barthelemy Is.","lat":17.90352500,"lon":-062.84473800,"rwys":1,"ils":0,"index":1923833,"path":"w070n10/w063n17"
+,"runways":[
+{"len_m":631,"wid_m":14.94,"hdg":88,"surf":"Concrete","rwy1":"10","lat1":17.90436300,"lon1":-62.84663500,"rwy2":"28","lat2":17.90446300,"lon2":-62.84067900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-62,"surf":"Concrete","lat1":17.90401500,"lon1":-62.84358900}
+]
+,"radios":[
+{"type":"CTAF","freq":118.45,"desc":"ST BARTHELEMY I MULT"}
+]
+}

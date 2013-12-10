@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLOZ","name":"London Corbin Arpt Magee Fld","lat":37.0868805,"lon":-84.0773945,"rwys":1,"ils":1,"index":1564611,"path":"w090n30/w085n37"
+,"runways":[
+{"len_m":1753,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":37.08205300,"lon1":-84.08519700,"rwy2":"24","lat2":37.09170800,"lon2":-84.06959200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PADK","name":"Adak","lat":51.87797635,"lon":-176.645741605,"rwys":2,"ils":1,"index":58233,"path":"w180n50/w177n51"
+,"runways":[
+{"len_m":2374,"wid_m":60.96,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":51.87835835,"lon1":-176.65727463,"rwy2":"23","lat2":51.88884435,"lon2":-176.62724163},
+{"len_m":2318,"wid_m":60.96,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":51.88272235,"lon1":-176.64764158,"rwy2":"36","lat2":51.86198035,"lon2":-176.65080858}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.5,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

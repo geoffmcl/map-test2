@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMCV","name":"General Pedro Jose Mendez Intl","lat":23.71090900,"lon":-098.95562700,"rwys":2,"ils":0,"index":1334376,"path":"w100n20/w099n23"
+,"runways":[
+{"len_m":2201,"wid_m":45.11,"hdg":156,"surf":"Asphalt","rwy1":"15","lat1":23.71245300,"lon1":-98.96078600,"rwy2":"33","lat2":23.69421900,"lon2":-98.95218300},
+{"len_m":1418,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":23.71652500,"lon1":-98.96642500,"rwy2":"35","lat2":23.70372200,"lon2":-98.96663100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"VICTORIA TWR"},
+{"type":"APP","freq":124.5,"desc":"MONTERREY CNTR"}
+]
+}

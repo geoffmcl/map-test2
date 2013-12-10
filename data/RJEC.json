@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJEC","name":"Asahikawa","lat":43.67199037,"lon":142.45317138,"rwys":1,"ils":1,"index":5284201,"path":"e140n40/e142n43"
+,"runways":[
+{"len_m":2499,"wid_m":60.96,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":43.68084400,"lon1":142.44083194,"rwy2":"34","lat2":43.66058900,"lon2":142.45433100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.55,"desc":"DAISETSU TWR"},
+{"type":"TWR","freq":126.2,"desc":"DAISETSU TWR"}
+]
+}

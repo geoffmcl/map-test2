@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHUT","name":"Hutchinson Muni","lat":38.06516600,"lon":-097.86601300,"rwys":3,"ils":1,"index":1351680,"path":"w100n30/w098n38"
+,"runways":[
+{"len_m":2134,"wid_m":29.87,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":38.07421100,"lon1":-97.87108600,"rwy2":"31","lat2":38.05985600,"lon2":-97.85489400},
+{"len_m":1828,"wid_m":29.87,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":38.05850300,"lon1":-97.86365300,"rwy2":"22","lat2":38.07066100,"lon2":-97.84959400},
+{"len_m":1295,"wid_m":22.86,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":38.07007500,"lon1":-97.86275800,"rwy2":"35","lat2":38.05841400,"lon2":-97.86205000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.25,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"WICHITA APP DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGCC","name":"Gillette Campbell Co","lat":44.34838179,"lon":-105.53697440,"rwys":2,"ils":1,"index":1221009,"path":"w110n40/w106n44"
+,"runways":[
+{"len_m":2289,"wid_m":46.02,"hdg":169,"surf":"Concrete","rwy1":"16","lat1":44.35704850,"lon1":-105.54389856,"rwy2":"34","lat2":44.33677400,"lon2":-105.53875200},
+{"len_m":1768,"wid_m":22.86,"hdg":38,"surf":"Concrete","rwy1":"03","lat1":44.34524427,"lon1":-105.54368611,"rwy2":"21","lat2":44.35773773,"lon2":-105.52993716}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

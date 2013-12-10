@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCOS","name":"Colorado Springs Municipal","lat":38.79762000,"lon":-104.70095300,"rwys":3,"ils":2,"index":1237041,"path":"w110n30/w105n38"
+,"runways":[
+{"len_m":4113,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":38.81608900,"lon1":-104.68573300,"rwy2":"35R","lat2":38.77903100,"lon2":-104.68579700},
+{"len_m":3358,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":38.82407500,"lon1":-104.71589700,"rwy2":"35L","lat2":38.79382200,"lon2":-104.71593300},
+{"len_m":2519,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":38.82315600,"lon1":-104.71535300,"rwy2":"31","lat2":38.80708100,"lon2":-104.69487200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":134.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":133.15,"desc":"SPRINGS TWR"},
+{"type":"APP","freq":118.5,"desc":"SPRINGS APP"},
+{"type":"DEP","freq":124,"desc":"SPRINGS DEP"}
+]
+}

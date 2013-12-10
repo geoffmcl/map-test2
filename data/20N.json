@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"20N","name":"Kingston Ulster","lat":41.985204,"lon":-73.964164,"rwys":1,"ils":0,"index":1745144,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":980,"wid_m":18.29,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":41.98862200,"lon1":-73.96791100,"rwy2":"33","lat2":41.98178600,"lon2":-73.96041700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.75,"desc":"NEW YORK APP/DEP"}
+]
+}

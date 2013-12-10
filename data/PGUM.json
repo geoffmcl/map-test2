@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PGUM","name":"Guam Intl","lat":13.47843300,"lon":144.79640200,"rwys":2,"ils":2,"index":5315038,"path":"e140n10/e144n13"
+,"runways":[
+{"len_m":3052,"wid_m":45.72,"hdg":64,"surf":"Asphalt","rwy1":"06L","lat1":13.47890800,"lon1":144.78398300,"rwy2":"24R","lat2":13.49058900,"lon2":144.80952500},
+{"len_m":3052,"wid_m":45.72,"hdg":64,"surf":"Asphalt","rwy1":"06R","lat1":13.47716100,"lon1":144.78481700,"rwy2":"24L","lat2":13.48883900,"lon2":144.81035800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119,"desc":"ATIS"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"AGANA TWR"},
+{"type":"APP","freq":118.7,"desc":"APP/DEP"}
+]
+}

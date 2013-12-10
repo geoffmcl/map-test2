@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UEBB","name":"Batagay","lat":67.64956647,"lon":134.68726586,"rwys":2,"ils":0,"index":5154665,"path":"e130n60/e134n67"
+,"runways":[
+{"len_m":659,"wid_m":49.99,"hdg":105,"surf":"Dirt","rwy1":"12","lat1":67.64769963,"lon1":134.69358377,"rwy2":"30","lat2":67.64613840,"lon2":134.70855858},
+{"len_m":2007,"wid_m":49.99,"hdg":27,"surf":"Dirt","rwy1":"05","lat1":67.64030651,"lon1":134.68295253,"rwy2":"23","lat2":67.65624349,"lon2":134.70495435}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"Batagay Tower"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I43","name":"James A Rhodes","lat":38.9813595,"lon":-82.57785,"rwys":1,"ils":0,"index":1597497,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1585,"wid_m":22.86,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":38.97424700,"lon1":-82.57865800,"rwy2":"19","lat2":38.98847200,"lon2":-82.57704200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+}

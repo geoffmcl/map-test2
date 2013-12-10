@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YNYN","name":"Nyngan","lat":-31.55005070,"lon":147.19632762,"rwys":2,"ils":0,"index":5361304,"path":"e140s40/e147s32"
+,"runways":[
+{"len_m":1642,"wid_m":29.87,"hdg":59,"surf":"Asphalt","rwy1":"05","lat1":-31.55425384,"lon1":147.19529944,"rwy2":"23","lat2":-31.54669650,"lon2":147.21017605},
+{"len_m":1119,"wid_m":98.15,"hdg":13,"surf":"Turf/grass","rwy1":"18","lat1":-31.55430084,"lon1":147.19785892,"rwy2":"36","lat2":-31.54448243,"lon2":147.20062488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

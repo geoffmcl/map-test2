@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHZX","name":"Isedor Iverson","lat":46.6187975,"lon":-93.309811,"rwys":1,"ils":0,"index":1417762,"path":"w100n40/w094n46"
+,"runways":[
+{"len_m":1035,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":46.62236700,"lon1":-93.31415300,"rwy2":"32","lat2":46.61522800,"lon2":-93.30546900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

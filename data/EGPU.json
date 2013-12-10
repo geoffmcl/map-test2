@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGPU","name":"Tiree","lat":56.49840363,"lon":-006.87864566,"rwys":3,"ils":0,"index":2843800,"path":"w010n50/w007n56"
+,"runways":[
+{"len_m":1481,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":56.49471088,"lon1":-6.87787145,"rwy2":"23","lat2":56.50376472,"lon2":-6.86025450},
+{"len_m":811,"wid_m":18.90,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":56.50216400,"lon1":-6.87934400,"rwy2":"29","lat2":56.50002500,"lon2":-6.86675000},
+{"len_m":791,"wid_m":17.98,"hdg":167,"surf":"Concrete","rwy1":"17","lat1":56.50702200,"lon1":-6.87751400,"rwy2":"35","lat2":56.50008900,"lon2":-6.87465000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"Tiree Information"}
+]
+}

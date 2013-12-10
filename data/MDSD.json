@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MDSD","name":"Las Americas Intl","lat":18.43034444,"lon":-069.67636884,"rwys":1,"ils":1,"index":1809178,"path":"w070n10/w070n18"
+,"runways":[
+{"len_m":3354,"wid_m":60.96,"hdg":160,"surf":"Asphalt","rwy1":"17","lat1":18.44396100,"lon1":-69.67417800,"rwy2":"35","lat2":18.41536400,"lon2":-69.66367200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"}
+]
+}

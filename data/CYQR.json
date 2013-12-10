@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYQR","name":"Regina Intl","lat":50.43248345,"lon":-104.65463854,"rwys":2,"ils":1,"index":1237785,"path":"w110n50/w105n50"
+,"runways":[
+{"len_m":2404,"wid_m":46.02,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":50.43928102,"lon1":-104.67088884,"rwy2":"31","lat2":50.42321848,"lon2":-104.64824197},
+{"len_m":1886,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":50.42819308,"lon1":-104.68084660,"rwy2":"26","lat2":50.42819592,"lon2":-104.65429177}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"ARR"},
+{"type":"DEP","freq":120.1,"desc":"DEP"}
+]
+}

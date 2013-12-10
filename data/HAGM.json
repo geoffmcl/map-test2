@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HAGM","name":"Gambella","lat":8.1286585,"lon":34.5633,"rwys":1,"ils":0,"index":3512460,"path":"e030n00/e034n08"
+,"runways":[
+{"len_m":2514,"wid_m":45.11,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":8.14002500,"lon1":34.56323900,"rwy2":"36","lat2":8.11729200,"lon2":34.56336100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+}

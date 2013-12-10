@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIPZ","name":"Venezia Tessera","lat":45.50267300,"lon":012.33966400,"rwys":2,"ils":1,"index":3154401,"path":"e010n40/e012n45"
+,"runways":[
+{"len_m":3304,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04R","lat1":45.49412230,"lon1":12.33773103,"rwy2":"22L","lat2":45.51618670,"lon2":12.36607807},
+{"len_m":2779,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04L","lat1":45.49515100,"lon1":12.33555500,"rwy2":"22R","lat2":45.51370300,"lon2":12.35940100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.22,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"}
+]
+}

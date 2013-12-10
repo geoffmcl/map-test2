@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZUGY","name":"Longdongbao","lat":26.538461,"lon":106.800793,"rwys":1,"ils":2,"index":4693283,"path":"e100n20/e106n26"
+,"runways":[
+{"len_m":3201,"wid_m":60.05,"hdg":9,"surf":"Concrete","rwy1":"01","lat1":26.52422800,"lon1":106.79804400,"rwy2":"19","lat2":26.55269400,"lon2":106.80354200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"GUIYANG TWR"},
+{"type":"TWR","freq":130,"desc":"GUIYANG TWR"},
+{"type":"APP","freq":126.05,"desc":"GUIYING APP"},
+{"type":"APP","freq":119.45,"desc":"GUIYING APP"}
+]
+}

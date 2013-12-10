@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIPE","name":"Bologna","lat":44.53022770,"lon":011.29060940,"rwys":1,"ils":2,"index":3137953,"path":"e010n40/e011n44"
+,"runways":[
+{"len_m":2804,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":44.54111900,"lon1":11.27290300,"rwy2":"30","lat2":44.52977200,"lon2":11.30442200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.87,"desc":"ATIS"},
+{"type":"GND","freq":129.92,"desc":"GND"},
+{"type":"TWR","freq":129.9,"desc":"TWR"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":129.9,"desc":"APP"}
+]
+}

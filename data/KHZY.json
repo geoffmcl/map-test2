@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHZY","name":"Ashtabula Co","lat":41.77983123,"lon":-080.70194442,"rwys":1,"ils":0,"index":1630449,"path":"w090n40/w081n41"
+,"runways":[
+{"len_m":1583,"wid_m":29.87,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":41.77656100,"lon1":-80.70484400,"rwy2":"26","lat2":41.77938300,"lon2":-80.68616900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"ERIE APP/DEP"}
+]
+}

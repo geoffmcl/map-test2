@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHDN","name":"Yampa Valley","lat":40.481179,"lon":-107.2176625,"rwys":1,"ils":1,"index":1187995,"path":"w110n40/w108n40"
+,"runways":[
+{"len_m":3046,"wid_m":46.02,"hdg":113,"surf":"Asphalt","rwy1":"10","lat1":40.48670000,"lon1":-107.23411100,"rwy2":"28","lat2":40.47565800,"lon2":-107.20121400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

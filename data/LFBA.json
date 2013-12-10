@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBA","name":"Agen La Garenne","lat":44.174025,"lon":0.592961,"rwys":1,"ils":1,"index":2957706,"path":"e000n40/e000n44"
+,"runways":[
+{"len_m":2164,"wid_m":29.87,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":44.17770300,"lon1":0.58042800,"rwy2":"29","lat2":44.17034700,"lon2":0.60549400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"ATIS"},
+{"type":"TWR","freq":121.3,"desc":"AGEN TWR"},
+{"type":"APP","freq":121.1,"desc":"BLAGNAC APP"},
+{"type":"APP","freq":121.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":124.97,"desc":"TOULOUSE APP"}
+]
+}

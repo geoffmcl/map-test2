@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KALB","name":"Albany Intl","lat":42.75291491,"lon":-073.79977211,"rwys":2,"ils":1,"index":1745200,"path":"w080n40/w074n42"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":42.73756500,"lon1":-73.80425290,"rwy2":"19","lat2":42.76087000,"lon2":-73.80526629},
+{"len_m":2193,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"10","lat1":42.74915600,"lon1":-73.81208600,"rwy2":"28","lat2":42.74983600,"lon2":-73.78530600}
+]
+,"helipads":[
+{"rwy1":"ATC","len_m":30,"wid_m":30.48,"hdg":-73,"surf":"Concrete","lat1":42.74156628,"lon1":-73.82033861}
+]
+,"radios":[
+{"type":"ATIS","freq":120.45,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.5,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":118.05,"desc":"APP/DEP"},
+{"type":"APP","freq":125,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LROD","name":"Oradea","lat":47.0253225,"lon":21.9024095,"rwys":1,"ils":1,"index":3301955,"path":"e020n40/e021n47"
+,"runways":[
+{"len_m":1785,"wid_m":29.87,"hdg":11,"surf":"Concrete","rwy1":"01","lat1":47.01744200,"lon1":21.90013600,"rwy2":"19","lat2":47.03320300,"lon2":21.90468300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP"}
+]
+}

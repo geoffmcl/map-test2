@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFCR","name":"Rodez Marcillac","lat":44.4078885,"lon":2.482646,"rwys":1,"ils":1,"index":2990489,"path":"e000n40/e002n44"
+,"runways":[
+{"len_m":2047,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":44.41368300,"lon1":2.47265600,"rwy2":"31","lat2":44.40209400,"lon2":2.49263600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.12,"desc":"RODEZ TWR"},
+{"type":"APP","freq":125.37,"desc":"RODEZ APP"}
+]
+}

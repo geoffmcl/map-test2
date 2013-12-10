@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJSN","name":"Niigata","lat":37.95480325,"lon":139.11422825,"rwys":2,"ils":1,"index":5234680,"path":"e130n30/e139n37"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":37.95684400,"lon1":139.09561900,"rwy2":"28","lat2":37.95578900,"lon2":139.12403600},
+{"len_m":1315,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":37.94825800,"lon1":139.11467200,"rwy2":"22","lat2":37.95832200,"lon2":139.12258600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":121.4,"desc":"APP"},
+{"type":"DEP","freq":119.05,"desc":"DEP"}
+]
+}

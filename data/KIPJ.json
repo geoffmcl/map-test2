@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIPJ","name":"Lincolnton Lincoln Co Rgnl","lat":35.4833295,"lon":-81.1611905,"rwys":1,"ils":1,"index":1613659,"path":"w090n30/w082n35"
+,"runways":[
+{"len_m":1685,"wid_m":30.48,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":35.47819200,"lon1":-81.16802800,"rwy2":"23","lat2":35.48846700,"lon2":-81.15435300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.75,"desc":"CHARLOTTE APP/DEP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZLXY","name":"Xianyang","lat":34.44697967,"lon":108.75220278,"rwys":1,"ils":2,"index":4726555,"path":"e100n30/e108n34"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":48,"surf":"Concrete","rwy1":"05","lat1":34.43806754,"lon1":108.73990079,"rwy2":"23","lat2":34.45589180,"lon2":108.76450477}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"GND","freq":124.3,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"APP","freq":126.55,"desc":"APP"}
+]
+}

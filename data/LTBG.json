@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTBG","name":"Bandirma","lat":40.3181955,"lon":27.977732,"rwys":1,"ils":0,"index":3399827,"path":"e020n40/e027n40"
+,"runways":[
+{"len_m":3006,"wid_m":44.81,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":40.33173300,"lon1":27.97807500,"rwy2":"36","lat2":40.30465800,"lon2":27.97738900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.35,"desc":"INFO"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPLL","name":"Lodz Lublinek","lat":51.72728343,"lon":019.40390324,"rwys":2,"ils":1,"index":3269481,"path":"e010n50/e019n51"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":70,"surf":"Concrete","rwy1":"07L","lat1":51.71621244,"lon1":19.37208275,"rwy2":"25R","lat2":51.72359630,"lon2":19.40626778},
+{"len_m":702,"wid_m":174.96,"hdg":70,"surf":"Turf/grass","rwy1":"07R","lat1":51.71922171,"lon1":19.39668803,"rwy2":"25L","lat2":51.72129543,"lon2":19.40628993}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.23,"desc":"Lodz TOWER"}
+]
+}

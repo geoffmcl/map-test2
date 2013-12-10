@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFLA","name":"Lahti Vesivehmaa","lat":61.1465281666667,"lon":25.6931893333333,"rwys":3,"ils":0,"index":3368394,"path":"e020n60/e025n61"
+,"runways":[
+{"len_m":1194,"wid_m":29.87,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":61.14218300,"lon1":25.68350300,"rwy2":"25","lat2":61.14623300,"lon2":25.70404200},
+{"len_m":546,"wid_m":22.86,"hdg":185,"surf":"Dirt","rwy1":"18","lat1":61.14967800,"lon1":25.69187200,"rwy2":"36","lat2":61.14479400,"lon2":25.69090800},
+{"len_m":502,"wid_m":22.86,"hdg":129,"surf":"Gravel","rwy1":"12","lat1":61.14957500,"lon1":25.69081100,"rwy2":"30","lat2":61.14670600,"lon2":25.69800000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.42,"desc":"ATIS"}
+]
+}

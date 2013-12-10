@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EETN","name":"Tallinn","lat":59.4132565,"lon":24.832803,"rwys":1,"ils":2,"index":3351899,"path":"e020n50/e024n59"
+,"runways":[
+{"len_m":3065,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":59.41331900,"lon1":24.80581400,"rwy2":"26","lat2":59.41319400,"lon2":24.85979200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"ATIS"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"APP"}
+]
+}

@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
+,"type":17,"icao":"UUME","name":"[h] Pushkino Heliport","lat":56.04257742,"lon":037.97847128,"rwys":1,"ils":0,"index":3564675,"path":"e030n50/e037n56"
+,"runways":[
+{"len_m":129,"wid_m":7.92,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":56.04246300,"lon1":37.97902800,"rwy2":"36","lat2":56.04132200,"lon2":37.97859000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04237246,"lon1":37.97851279},
+{"rwy1":"H10","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04188114,"lon1":37.97840075},
+{"rwy1":"H11","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04179648,"lon1":37.97942492},
+{"rwy1":"H12","len_m":14,"wid_m":14.94,"hdg":37,"surf":"Asphalt","lat1":56.04210779,"lon1":37.97928041},
+{"rwy1":"H13","len_m":14,"wid_m":14.94,"hdg":37,"surf":"Asphalt","lat1":56.04201488,"lon1":37.97949715},
+{"rwy1":"H14","len_m":14,"wid_m":14.94,"hdg":37,"surf":"Asphalt","lat1":56.04146320,"lon1":37.97830773},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04222896,"lon1":37.97832797},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04208649,"lon1":37.97813392},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04194114,"lon1":37.97795501},
+{"rwy1":"H5","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04170329,"lon1":37.97756636},
+{"rwy1":"H6","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04158691,"lon1":37.97779486},
+{"rwy1":"H7","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04147954,"lon1":37.97803327},
+{"rwy1":"H8","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04152084,"lon1":37.97906269},
+{"rwy1":"H9","len_m":10,"wid_m":10.06,"hdg":37,"surf":"Asphalt","lat1":56.04165402,"lon1":37.97923641}
+]
+,"radios":[
+{"type":"TWR","freq":133.1,"desc":"Pushkino Start"},
+{"type":"TWR","freq":124,"desc":"Pushkino Start"}
+]
+}

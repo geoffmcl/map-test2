@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMUL","name":"Spence","lat":31.136471,"lon":-83.7054735,"rwys":3,"ils":0,"index":1580617,"path":"w090n30/w084n31"
+,"runways":[
+{"len_m":1523,"wid_m":91.44,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":31.13355500,"lon1":-83.71903300,"rwy2":"22","lat2":31.14327500,"lon2":-83.70773400},
+{"len_m":1371,"wid_m":22.86,"hdg":134,"surf":"Concrete","rwy1":"14","lat1":31.14206000,"lon1":-83.70914600,"rwy2":"32","lat2":31.13331200,"lon2":-83.69897600},
+{"len_m":883,"wid_m":91.44,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":31.13729800,"lon1":-83.69897600,"rwy2":"36","lat2":31.12932600,"lon2":-83.69897600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

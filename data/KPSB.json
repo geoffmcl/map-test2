@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPSB","name":"Mid State","lat":40.884257,"lon":-78.0873465,"rwys":2,"ils":1,"index":1663163,"path":"w080n40/w079n40"
+,"runways":[
+{"len_m":1740,"wid_m":30.48,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":40.89338900,"lon1":-78.09149200,"rwy2":"34","lat2":40.87906400,"lon2":-78.08311100},
+{"len_m":1525,"wid_m":30.48,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":40.87784400,"lon1":-78.09429400,"rwy2":"24","lat2":40.88673100,"lon2":-78.08048900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

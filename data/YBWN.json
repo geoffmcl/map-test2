@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBWN","name":"Bowen","lat":-20.01592945,"lon":148.21529906,"rwys":2,"ils":0,"index":5378425,"path":"e140s30/e148s21"
+,"runways":[
+{"len_m":1341,"wid_m":17.98,"hdg":48,"surf":"Asphalt","rwy1":"04","lat1":-20.02331911,"lon1":148.20907679,"rwy2":"22","lat2":-20.01523489,"lon2":148.21863261},
+{"len_m":936,"wid_m":38.10,"hdg":125,"surf":"Transparent","rwy1":"12","lat1":-20.01447087,"lon1":148.21024414,"rwy2":"30","lat2":-20.01934214,"lon2":148.21756642}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.25,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"BOWEN MULT"},
+{"type":"TWR","freq":135.5,"desc":"BRISBANE CNTR"}
+]
+}

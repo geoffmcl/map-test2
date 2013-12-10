@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
+,"type":17,"icao":"30LA","name":"[h] Venice Base Heliport & Spb","lat":29.27111111,"lon":-89.35583334,"rwys":0,"ils":0,"index":1482194,"path":"w090n20/w090n29"
+,"runways":[]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.63,"hdg":-89,"surf":"Concrete","lat1":29.27111111,"lon1":-89.35583334},
+{"rwy1":"H2","len_m":14,"wid_m":14.63,"hdg":-89,"surf":"Concrete","lat1":29.27111111,"lon1":-89.35583334},
+{"rwy1":"H3","len_m":14,"wid_m":14.63,"hdg":-89,"surf":"Concrete","lat1":29.27111111,"lon1":-89.35583334}
+]
+,"waterways":[
+{"len_m":914,"wid_m":85,"hdg_t":42,"buoys":false,"rwy1":"04","lat1":29.26805346,"lon1":-89.35898944,"rwy2":"22","lat2":29.27416876,"lon2":-89.35267724},
+{"len_m":1520,"wid_m":243,"hdg_t":161,"buoys":false,"rwy1":"16","lat1":29.27763293,"lon1":-89.35826258,"rwy2":"34","lat2":29.26458929,"lon2":-89.35340410}
+]
+,"radios":[
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SA37","name":"Aeroclub Alta Gracia","lat":-31.65486265,"lon":-064.39602857,"rwys":2,"ils":0,"index":1887890,"path":"w070s40/w065s32"
+,"runways":[
+{"len_m":1060,"wid_m":39.93,"hdg":9,"surf":"Turf/grass","rwy1":"02","lat1":-31.65661673,"lon1":-64.39506893,"rwy2":"20","lat2":-31.64718127,"lon2":-64.39321716},
+{"len_m":1140,"wid_m":29.87,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":-31.64489595,"lon1":-64.36639490,"rwy2":"36","lat2":-31.65518175,"lon2":-64.36644588}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-64,"surf":"Turf/grass","lat1":-31.65493966,"lon1":-64.39548206}
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"ALTA GRACIA TWR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPEZ","name":"Pleasanton Muni","lat":28.9541905,"lon":-98.519985,"rwys":1,"ils":0,"index":1334713,"path":"w100n20/w099n28"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":28.95945300,"lon1":-98.52180300,"rwy2":"34","lat2":28.94892800,"lon2":-98.51816700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.05,"desc":"SAN ANTONIO APP"},
+{"type":"DEP","freq":125.7,"desc":"SAN ANTONIO DEP"}
+]
+}

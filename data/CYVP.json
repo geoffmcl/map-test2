@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYVP","name":"Kuujjuaq","lat":58.096945,"lon":-68.42333325,"rwys":2,"ils":0,"index":1828098,"path":"w070n50/w069n58"
+,"runways":[
+{"len_m":1833,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"07","lat1":58.08444700,"lon1":-68.43805800,"rwy2":"25","lat2":58.09638900,"lon2":-68.41666400},
+{"len_m":1528,"wid_m":45.72,"hdg":102,"surf":"Gravel","rwy1":"13","lat1":58.10500000,"lon1":-68.43194400,"rwy2":"31","lat2":58.10194400,"lon2":-68.40666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"ARPT RDO"},
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+}

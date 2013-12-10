@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSGH","name":"Springfield Beckley Muni","lat":39.8396465,"lon":-83.84072725,"rwys":2,"ils":1,"index":1581168,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":2745,"wid_m":45.72,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":39.83506700,"lon1":-83.85139200,"rwy2":"24","lat2":39.84953900,"lon2":-83.82537800},
+{"len_m":1675,"wid_m":30.48,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":39.84311100,"lon1":-83.84879700,"rwy2":"33","lat2":39.83086900,"lon2":-83.83734200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.97,"desc":"AWSS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP/DEP"}
+]
+}

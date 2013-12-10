@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTBS","name":"Bangkok Suvarnabhumi Intl","lat":13.69623500,"lon":100.74928300,"rwys":2,"ils":4,"index":4594157,"path":"e100n10/e100n13"
+,"runways":[
+{"len_m":3997,"wid_m":60.96,"hdg":14,"surf":"Asphalt","rwy1":"01R","lat1":13.65632979,"lon1":100.75173386,"rwy2":"19L","lat2":13.69134900,"lon2":100.76084429},
+{"len_m":3698,"wid_m":60.96,"hdg":14,"surf":"Asphalt","rwy1":"01L","lat1":13.67087849,"lon1":100.73449980,"rwy2":"19R","lat2":13.70326479,"lon2":100.74297012}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"SUVARNABHUMI AIRPORT"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":124.7,"desc":"SUVARNABHUMI ARR"},
+{"type":"APP","freq":122.35,"desc":"BANGKOK APP CTL"},
+{"type":"APP","freq":124.35,"desc":"BANGKOK APP CTL"}
+]
+}

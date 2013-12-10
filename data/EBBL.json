@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBBL","name":"Kleine Brogel","lat":51.16948871,"lon":005.46652649,"rwys":2,"ils":1,"index":3040073,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":3091,"wid_m":45.11,"hdg":49,"surf":"Asphalt","rwy1":"05L","lat1":51.15961482,"lon1":5.45307285,"rwy2":"23R","lat2":51.17747612,"lon2":5.48693477},
+{"len_m":2400,"wid_m":22.86,"hdg":50,"surf":"Asphalt","rwy1":"05R","lat1":51.16011435,"lon1":5.45863184,"rwy2":"23L","lat2":51.17394235,"lon2":5.48498684}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"TAXI"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+}

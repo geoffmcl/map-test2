@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAR","name":"Sivas","lat":39.8138335,"lon":36.9035,"rwys":1,"ils":0,"index":3547251,"path":"e030n30/e036n39"
+,"runways":[
+{"len_m":3811,"wid_m":29.87,"hdg":17,"surf":"Concrete","rwy1":"01","lat1":39.79750000,"lon1":36.89666700,"rwy2":"19","lat2":39.83016700,"lon2":36.91033300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

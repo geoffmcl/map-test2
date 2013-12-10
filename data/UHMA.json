@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UHMA","name":"Ugolny","lat":64.73495,"lon":177.7414835,"rwys":1,"ils":0,"index":5858985,"path":"e170n60/e177n64"
+,"runways":[
+{"len_m":3495,"wid_m":60.05,"hdg":14,"surf":"Concrete","rwy1":"01","lat1":64.71978600,"lon1":177.73219200,"rwy2":"19","lat2":64.75011400,"lon2":177.75077500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124,"desc":"ANADYR TWR"},
+{"type":"APP","freq":124,"desc":"ANADYR APP"}
+]
+}

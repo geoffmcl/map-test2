@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"AZ05","name":"Pleasant Valley","lat":33.80059111,"lon":-112.25071528,"rwys":2,"ils":0,"index":1105650,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":1236,"wid_m":30.48,"hdg":63,"surf":"Dirt","rwy1":"05","lat1":33.79806940,"lon1":-112.25667106,"rwy2":"23","lat2":33.80311282,"lon2":-112.24475950},
+{"len_m":654,"wid_m":30.48,"hdg":152,"surf":"Dirt","rwy1":"14","lat1":33.80321842,"lon1":-112.25232625,"rwy2":"32","lat2":33.79796380,"lon2":-112.24910431}
+]
+,"navaids":[
+{"type":"SDME","hdg_t":202.4,"dist_nm":17,"freq":113,"lat":33.53768300,"lon":-112.38021100,"rng_nm":40,"alt_fmsl":1076,"id":"LUF","desc":"LUKE TACAN"},
+{"type":"NDB","hdg_t":120.8,"dist_nm":20,"freq":224,"lat":33.62909700,"lon":-111.90782800,"rng_nm":25,"alt_fmsl":1542,"id":"SDL","desc":"SCOTTSDALE NDB"},
+{"type":"VOR","hdg_t":147.3,"dist_nm":26.1,"freq":115.6,"lat":33.43302778,"lon":-111.97019444,"rng_nm":130,"alt_fmsl":1182,"id":"PXR","desc":"PHOENIX VORTAC"},
+{"type":"NDB","hdg_t":127.8,"dist_nm":32.9,"freq":281,"lat":33.46188889,"lon":-111.73308333,"rng_nm":50,"alt_fmsl":0,"id":"FFZ","desc":"FALCON FIELD NDB"},
+{"type":"VOR","hdg_t":234.2,"dist_nm":35.4,"freq":110.6,"lat":33.45344444,"lon":-112.82458333,"rng_nm":40,"alt_fmsl":1060,"id":"BXK","desc":"BUCKEYE VORTAC"},
+{"type":"NDB","hdg_t":145.1,"dist_nm":38.9,"freq":407,"lat":33.26650000,"lon":-111.80791667,"rng_nm":50,"alt_fmsl":0,"id":"CHD","desc":"CHANDLER NDB"},
+{"type":"VOR","hdg_t":134.5,"dist_nm":42.3,"freq":113.3,"lat":33.30316667,"lon":-111.65144444,"rng_nm":40,"alt_fmsl":1366,"id":"IWA","desc":"WILLIE VORTAC"},
+{"type":"VOR","hdg_t":202.9,"dist_nm":54.8,"freq":116.6,"lat":32.95627778,"lon":-112.67427778,"rng_nm":130,"alt_fmsl":790,"id":"GBN","desc":"GILA BEND VORTAC"},
+{"type":"VOR","hdg_t":348.1,"dist_nm":55.2,"freq":114.1,"lat":34.70255556,"lon":-112.48036111,"rng_nm":130,"alt_fmsl":4963,"id":"DRK","desc":"DRAKE VORTAC"},
+{"type":"VOR","hdg_t":162.4,"dist_nm":57.4,"freq":114.8,"lat":32.88586111,"lon":-111.90872222,"rng_nm":130,"alt_fmsl":1316,"id":"TFD","desc":"STANFIELD VORTAC"},
+{"type":"NDB","hdg_t":19.5,"dist_nm":85.3,"freq":379,"lat":35.14187400,"lon":-111.67071600,"rng_nm":25,"alt_fmsl":6994,"id":"PUU","desc":"PULLIAM NDB"},
+{"type":"VOR","hdg_t":19.3,"dist_nm":85.5,"freq":113.85,"lat":35.14719444,"lon":-111.67416667,"rng_nm":130,"alt_fmsl":7026,"id":"FLG","desc":"FLAGSTAFF VOR-DME"},
+{"type":"NDB","hdg_t":147.6,"dist_nm":98.1,"freq":245,"lat":32.41183333,"lon":-111.21558333,"rng_nm":50,"alt_fmsl":0,"id":"AVQ","desc":"MARANA NDB"}
+]
+}

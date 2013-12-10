@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"C20","name":"Andrews Univ Arpk","lat":41.9518945,"lon":-86.3683965,"rwys":2,"ils":0,"index":1532154,"path":"w090n40/w087n41"
+,"runways":[
+{"len_m":1268,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":41.95338900,"lon1":-86.37283300,"rwy2":"31","lat2":41.94586100,"lon2":-86.36133300},
+{"len_m":592,"wid_m":35.05,"hdg":27,"surf":"Turf/grass","rwy1":"03","lat1":41.95180000,"lon1":-86.37136400,"rwy2":"21","lat2":41.95652800,"lon2":-86.36805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.55,"desc":"SOUTH BEND APP/DEP"}
+]
+}

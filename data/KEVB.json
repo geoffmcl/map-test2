@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEVB","name":"New Smyrna Beach Muni","lat":29.0555306666667,"lon":-80.9487718333333,"rwys":3,"ils":0,"index":1629632,"path":"w090n20/w081n29"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":29.05487800,"lon1":-80.95799700,"rwy2":"24","lat2":29.06141700,"lon2":-80.94423100},
+{"len_m":1316,"wid_m":30.48,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":29.05590600,"lon1":-80.95373900,"rwy2":"29","lat2":29.05250800,"lon2":-80.94078600},
+{"len_m":1219,"wid_m":30.48,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":29.04896700,"lon1":-80.94972800,"rwy2":"20","lat2":29.05950800,"lon2":-80.94615000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.62,"desc":"ATIS"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"GND","freq":121.32,"desc":"GND"},
+{"type":"TWR","freq":119.67,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"DAYTONA APP/DEP"}
+]
+}

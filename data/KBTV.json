@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBTV","name":"Burlington Intl","lat":44.47114748,"lon":-073.15563428,"rwys":2,"ils":1,"index":1745307,"path":"w080n40/w074n44"
+,"runways":[
+{"len_m":2535,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"15","lat1":44.48061929,"lon1":-73.16599263,"rwy2":"33","lat2":44.46570159,"lon2":-73.14187567},
+{"len_m":1253,"wid_m":22.86,"hdg":351,"surf":"Asphalt","rwy1":"01","lat1":44.46376826,"lon1":-73.15111690,"rwy2":"19","lat2":44.47491873,"lon2":-73.15346624}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+}

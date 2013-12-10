@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMTC","name":"Selfridge Angb","lat":42.613882,"lon":-82.8369135,"rwys":1,"ils":1,"index":1597728,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":42.60153900,"lon1":-82.83734400,"rwy2":"19","lat2":42.62622500,"lon2":-82.83648300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.32,"desc":"ATIS"},
+{"type":"CLD","freq":119,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.3,"desc":"GND"},
+{"type":"TWR","freq":120.15,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+}

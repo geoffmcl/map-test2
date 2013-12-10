@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJSA","name":"Aomori","lat":40.733272,"lon":140.6885945,"rwys":1,"ils":1,"index":5251242,"path":"e140n40/e140n40"
+,"runways":[
+{"len_m":3001,"wid_m":60.96,"hdg":51,"surf":"Asphalt","rwy1":"06","lat1":40.72493600,"lon1":140.67461400,"rwy2":"24","lat2":40.74160800,"lon2":140.70257500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRSV","name":"Stefan Cel Mare","lat":47.6875,"lon":26.354054,"rwys":1,"ils":0,"index":3383913,"path":"e020n40/e026n47"
+,"runways":[
+{"len_m":1794,"wid_m":29.87,"hdg":163,"surf":"Concrete","rwy1":"16","lat1":47.69521700,"lon1":26.35056100,"rwy2":"34","lat2":47.67978300,"lon2":26.35754700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"PRECISION"}
+]
+}

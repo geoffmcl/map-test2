@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRDK","name":"Red Oak Municipal","lat":41.0109345,"lon":-95.25867039,"rwys":3,"ils":0,"index":1384642,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":1557,"wid_m":22.86,"hdg":57,"surf":"Concrete","rwy1":"05","lat1":41.00702891,"lon1":-95.26673802,"rwy2":"23","lat2":41.01448409,"lon2":-95.25105109},
+{"len_m":883,"wid_m":17.98,"hdg":174,"surf":"Concrete","rwy1":"17","lat1":41.01429591,"lon1":-95.26057373,"rwy2":"35","lat2":41.00637609,"lon2":-95.25955033},
+{"len_m":625,"wid_m":64.01,"hdg":141,"surf":"Turf/grass","rwy1":"13","lat1":41.01391571,"lon1":-95.25936679,"rwy2":"31","lat2":41.00950629,"lon2":-95.25474237}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

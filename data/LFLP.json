@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFLP","name":"Annecy Haute-sovoie Mont Blanc Meythet","lat":45.93071100,"lon":006.10628700,"rwys":2,"ils":1,"index":3056120,"path":"e000n40/e006n45"
+,"runways":[
+{"len_m":1613,"wid_m":29.87,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":45.92345900,"lon1":6.09231400,"rwy2":"22","lat2":45.93480300,"lon2":6.10529200},
+{"len_m":848,"wid_m":70.10,"hdg":38,"surf":"Turf/grass","rwy1":"4C","lat1":45.92552100,"lon1":6.09699400,"rwy2":"22C","lat2":45.93149800,"lon2":6.10380500}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":6,"surf":"Turf/grass","lat1":45.92895500,"lon1":6.10252100}
+]
+,"radios":[
+{"type":"ATIS","freq":118.2,"desc":"ANNECY FSS"},
+{"type":"TWR","freq":118.2,"desc":"ANNECY TWR"},
+{"type":"APP","freq":123.7,"desc":"CHAMBERY APP"}
+]
+}

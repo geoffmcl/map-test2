@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDQH","name":"Douglas Muni","lat":31.4766985,"lon":-82.860529,"rwys":1,"ils":1,"index":1597016,"path":"w090n30/w083n31"
+,"runways":[
+{"len_m":1830,"wid_m":30.48,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":31.47009700,"lon1":-82.86631100,"rwy2":"22","lat2":31.48330000,"lon2":-82.85474700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

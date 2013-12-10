@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"47N","name":"Central Jersey Rgnl","lat":40.5244085,"lon":-74.598389,"rwys":1,"ils":0,"index":1728673,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1055,"wid_m":15.24,"hdg":55,"surf":"Asphalt","rwy1":"07","lat1":40.52173900,"lon1":-74.60353900,"rwy2":"25","lat2":40.52707800,"lon2":-74.59323900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.8,"desc":"NEW YORK APP/DEP"}
+]
+}

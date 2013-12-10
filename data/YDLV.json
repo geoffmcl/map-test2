@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YDLV","name":"Delissaville","lat":-12.54787974,"lon":130.68464541,"rwys":1,"ils":0,"index":5083997,"path":"e130s20/e130s13"
+,"runways":[
+{"len_m":1192,"wid_m":60.05,"hdg":126,"surf":"Turf/grass","rwy1":"12","lat1":-12.54717629,"lon1":130.68252698,"rwy2":"30","lat2":-12.55363515,"lon2":130.69130799}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.15,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"DELISSAVILLE CTAF"}
+]
+}

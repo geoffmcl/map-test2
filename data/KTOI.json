@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTOI","name":"Troy Muni","lat":31.86041525,"lon":-86.01215425,"rwys":2,"ils":1,"index":1531507,"path":"w090n30/w087n31"
+,"runways":[
+{"len_m":1530,"wid_m":30.48,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":31.86517500,"lon1":-86.01485300,"rwy2":"32","lat2":31.85416700,"lon2":-86.00509400},
+{"len_m":1526,"wid_m":30.48,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":31.85874700,"lon1":-86.02188900,"rwy2":"25","lat2":31.86357200,"lon2":-86.00678100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.92,"desc":"ATIS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"CAIRNS APP/DEP"}
+]
+}

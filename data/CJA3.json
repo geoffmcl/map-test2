@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CJA3","name":"Morden","lat":49.21187525,"lon":-98.06194425,"rwys":2,"ils":0,"index":1336011,"path":"w100n40/w099n49"
+,"runways":[
+{"len_m":1203,"wid_m":22.86,"hdg":106,"surf":"Asphalt","rwy1":"10","lat1":49.21166700,"lon1":-98.06694700,"rwy2":"28","lat2":49.20861100,"lon2":-98.05110800},
+{"len_m":679,"wid_m":30.48,"hdg":178,"surf":"Turf/grass","rwy1":"17","lat1":49.21666700,"lon1":-98.06500300,"rwy2":"35","lat2":49.21055600,"lon2":-98.06471900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

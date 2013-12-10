@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAR","name":"Sparta Community Hunter Fld","lat":38.14866175,"lon":-89.69844725,"rwys":2,"ils":0,"index":1482761,"path":"w090n30/w090n38"
+,"runways":[
+{"len_m":1218,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":38.15540000,"lon1":-89.69947200,"rwy2":"36","lat2":38.14442500,"lon2":-89.69953300},
+{"len_m":743,"wid_m":41.15,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":38.14741100,"lon1":-89.70163100,"rwy2":"27","lat2":38.14741100,"lon2":-89.69315300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.2,"desc":"ST LOUIS APP/DEP"}
+]
+}

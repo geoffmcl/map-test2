@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIAP","name":"Aeroporto Dei Parchi","lat":42.37830313,"lon":013.31065691,"rwys":1,"ils":0,"index":3170585,"path":"e010n40/e013n42"
+,"runways":[
+{"len_m":1409,"wid_m":25.91,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":42.38622450,"lon1":13.30893329,"rwy2":"36","lat2":42.37354282,"lon2":13.30950281}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":13,"surf":"Transparent","lat1":42.37244933,"lon1":13.31057914}
+]
+,"radios":[
+{"type":"TWR","freq":122.75,"desc":"L AQUILA MULT"}
+]
+}

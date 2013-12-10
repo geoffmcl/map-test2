@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LLET","name":"Eilat","lat":29.561268,"lon":34.960111,"rwys":1,"ils":0,"index":3513827,"path":"e030n20/e034n29"
+,"runways":[
+{"len_m":1900,"wid_m":27.13,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":29.55370300,"lon1":34.95550000,"rwy2":"21","lat2":29.56883300,"lon2":34.96472200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.55,"desc":"INFO"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"TWR","freq":121.8,"desc":"TWR"}
+]
+}

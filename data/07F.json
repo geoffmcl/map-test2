@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"07F","name":"Gladewater Muni","lat":32.52867475,"lon":-94.97167475,"rwys":2,"ils":0,"index":1400480,"path":"w100n30/w095n32"
+,"runways":[
+{"len_m":1006,"wid_m":22.86,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":32.53321100,"lon1":-94.97532500,"rwy2":"32","lat2":32.52599400,"lon2":-94.96883300},
+{"len_m":701,"wid_m":15.24,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":32.53090800,"lon1":-94.97134700,"rwy2":"35","lat2":32.52458600,"lon2":-94.97119400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":118.25,"desc":"LONGVIEW APP/DEP"}
+]
+}

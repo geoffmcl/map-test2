@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFPK","name":"Fitch H Beach","lat":42.573972,"lon":-84.81224375,"rwys":2,"ils":0,"index":1564960,"path":"w090n40/w085n42"
+,"runways":[
+{"len_m":1069,"wid_m":22.86,"hdg":20,"surf":"Concrete","rwy1":"02","lat1":42.57000600,"lon1":-84.81372500,"rwy2":"20","lat2":42.57901900,"lon2":-84.80913900},
+{"len_m":706,"wid_m":30.48,"hdg":140,"surf":"Turf/grass","rwy1":"14","lat1":42.57586900,"lon1":-84.81581900,"rwy2":"32","lat2":42.57099400,"lon2":-84.81029200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.65,"desc":"LANSING APP/DEP"}
+]
+}

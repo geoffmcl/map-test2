@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KXTA","name":"Homey Airport","lat":37.24050211,"lon":-115.80887718,"rwys":5,"ils":0,"index":1056712,"path":"w120n30/w116n37"
+,"runways":[
+{"len_m":3655,"wid_m":45.72,"hdg":157,"surf":"Concrete","rwy1":"14","lat1":37.24821670,"lon1":-115.80026259,"rwy2":"32","lat2":37.21786391,"lon2":-115.78426848},
+{"len_m":3496,"wid_m":53.34,"hdg":100,"surf":"Dry_Lakebed","rwy1":"09L","lat1":37.26789350,"lon1":-115.81700321,"rwy2":"27R","lat2":37.26222138,"lon2":-115.77822319},
+{"len_m":3496,"wid_m":53.34,"hdg":100,"surf":"Dry_Lakebed","rwy1":"09R","lat1":37.26742137,"lon1":-115.81711211,"rwy2":"27L","lat2":37.26174928,"lon2":-115.77833233},
+{"len_m":3058,"wid_m":32.00,"hdg":40,"surf":"Dry_Lakebed","rwy1":"03L","lat1":37.25443091,"lon1":-115.80903398,"rwy2":"21R","lat2":37.27538471,"lon2":-115.78663204},
+{"len_m":3058,"wid_m":32.00,"hdg":40,"surf":"Dry_Lakebed","rwy1":"03R","lat1":37.25424431,"lon1":-115.80875835,"rwy2":"21L","lat2":37.27519806,"lon2":-115.78635639}
+]
+,"helipads":[
+]
+,"radios":[
+]
+}

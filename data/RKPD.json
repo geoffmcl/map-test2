@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKPD","name":"Jeongseok","lat":33.39591925,"lon":126.712089,"rwys":2,"ils":1,"index":5021402,"path":"e120n30/e126n33"
+,"runways":[
+{"len_m":2313,"wid_m":45.42,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":33.38288900,"lon1":126.71177800,"rwy2":"19","lat2":33.40374400,"lon2":126.71151900},
+{"len_m":1515,"wid_m":24.38,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":33.40391900,"lon1":126.70753100,"rwy2":"33","lat2":33.39312500,"lon2":126.71752800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.25,"desc":"ATIS"},
+{"type":"TWR","freq":131.2,"desc":"TWR"},
+{"type":"TWR","freq":130.5,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"JEJU APP"},
+{"type":"APP","freq":124.05,"desc":"JEJU APP"},
+{"type":"DEP","freq":121.2,"desc":"JEJU DEP"}
+]
+}

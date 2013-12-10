@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGNE","name":"Retford Gamston","lat":53.27915893,"lon":-000.95013982,"rwys":2,"ils":0,"index":2941904,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":1811,"wid_m":29.87,"hdg":24,"surf":"Asphalt","rwy1":"03","lat1":53.27336975,"lon1":-0.95699579,"rwy2":"21","lat2":53.28812469,"lon2":-0.94554465},
+{"len_m":910,"wid_m":17.98,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":53.28252287,"lon1":-0.96730105,"rwy2":"33","lat2":53.27617210,"lon2":-0.95869945}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.48,"desc":"Gamston Radio"}
+]
+}

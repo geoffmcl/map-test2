@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YEUA","name":"Euroa","lat":-36.74468600,"lon":145.51579200,"rwys":2,"ils":0,"index":5328210,"path":"e140s40/e145s37"
+,"runways":[
+{"len_m":1164,"wid_m":29.87,"hdg":21,"surf":"Dirt","rwy1":"17","lat1":-36.74834889,"lon1":145.51032880,"rwy2":"35","lat2":-36.73859091,"lon2":145.51512559},
+{"len_m":1134,"wid_m":84.12,"hdg":148,"surf":"Turf/grass","rwy1":"14","lat1":-36.73915250,"lon1":145.50882078,"rwy2":"32","lat2":-36.74786112,"lon2":145.51546441}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

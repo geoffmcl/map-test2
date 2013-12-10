@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"7KA","name":"Tatitlek","lat":60.86890527,"lon":-146.68646528,"rwys":1,"ils":0,"index":550321,"path":"w150n60/w147n60"
+,"runways":[
+{"len_m":1131,"wid_m":22.86,"hdg":145,"surf":"Gravel","rwy1":"12","lat1":60.87311223,"lon1":-146.69229432,"rwy2":"30","lat2":60.86469831,"lon2":-146.68063624}
+]
+,"waterways":[
+{"len_m":2445,"wid_m":1219,"hdg_t":155,"buoys":false,"rwy1":"13","lat1":60.87892862,"lon1":-146.69563249,"rwy2":"31","lat2":60.85888192,"lon2":-146.67729807}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":32.3,"dist_nm":18.2,"freq":524,"lat":61.12422222,"lon":-146.35222222,"rng_nm":50,"alt_fmsl":0,"id":"MNL","desc":"MINERAL CREEK NDB"},
+{"type":"VOR","hdg_t":173.6,"dist_nm":23.4,"freq":116.7,"lat":60.48094444,"lon":-146.59933333,"rng_nm":130,"alt_fmsl":47,"id":"JOH","desc":"JOHNSTONE POINT VOR-DME"},
+{"type":"NDB","hdg_t":172.8,"dist_nm":23.5,"freq":233,"lat":60.47983333,"lon":-146.58744444,"rng_nm":50,"alt_fmsl":0,"id":"ALJ","desc":"ORCA BAY NDB"},
+{"type":"NDB","hdg_t":121.3,"dist_nm":42.1,"freq":404,"lat":60.49875000,"lon":-145.47444444,"rng_nm":50,"alt_fmsl":0,"id":"GCR","desc":"GLACIER RIVER NDB"},
+{"type":"VOR","hdg_t":24.1,"dist_nm":85.1,"freq":115.6,"lat":62.15375000,"lon":-145.44736111,"rng_nm":130,"alt_fmsl":1549,"id":"GKN","desc":"GULKANA VOR-DME"},
+{"type":"NDB","hdg_t":23.1,"dist_nm":87.1,"freq":248,"lat":62.19555556,"lon":-145.46772222,"rng_nm":50,"alt_fmsl":0,"id":"GLA","desc":"GLENNALLEN NDB"},
+{"type":"VOR","hdg_t":173.2,"dist_nm":87.6,"freq":115.3,"lat":59.42180556,"lon":-146.35002778,"rng_nm":130,"alt_fmsl":121,"id":"MDO","desc":"MIDDLETON ISLAND VOR-DME"},
+{"type":"SDME","hdg_t":285.8,"dist_nm":92.8,"freq":113.4,"lat":61.25500600,"lon":-149.76915000,"rng_nm":130,"alt_fmsl":360,"id":"EDF","desc":"ELMENDORF TACAN"},
+{"type":"SDME","hdg_t":282.2,"dist_nm":96.7,"freq":111.3,"lat":61.16981900,"lon":-149.94239800,"rng_nm":90,"alt_fmsl":140,"id":"MTGN","desc":"Anchorage MLS 6L DME"},
+{"type":"VOR","hdg_t":282,"dist_nm":97.2,"freq":113.15,"lat":61.16786560,"lon":-149.96014330,"rng_nm":130,"alt_fmsl":283,"id":"TED","desc":"ANCHORAGE VOR-DME"},
+{"type":"NDB","hdg_t":281.9,"dist_nm":99.7,"freq":338,"lat":61.17102778,"lon":-150.04766667,"rng_nm":50,"alt_fmsl":0,"id":"CMQ","desc":"CAMPBELL LAKE NDB"}
+]
+}

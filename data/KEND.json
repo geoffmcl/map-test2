@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEND","name":"Vance Afb","lat":36.3397993,"lon":-97.916545,"rwys":5,"ils":2,"index":1351568,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":2804,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17C","lat1":36.35552500,"lon1":-97.91464400,"rwy2":"35C","lat2":36.33025300,"lon2":-97.91466100},
+{"len_m":2804,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":36.34921100,"lon1":-97.92317800,"rwy2":"35L","lat2":36.32393300,"lon2":-97.92319200},
+{"len_m":1531,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":36.34695000,"lon1":-97.91100300,"rwy2":"35R","lat2":36.33314700,"lon2":-97.91101100},
+{"len_m":1524,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":36.33694400,"lon1":-97.92277500,"rwy2":"22","lat2":36.34665800,"lon2":-97.91076700},
+{"len_m":1510,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":36.34250000,"lon1":-97.92305800,"rwy2":"31","lat2":36.33287200,"lon2":-97.91116100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.05,"desc":"TWR"},
+{"type":"APP","freq":120.52,"desc":"APP"},
+{"type":"APP","freq":121.3,"desc":"APP"},
+{"type":"APP","freq":119.77,"desc":"APP"},
+{"type":"APP","freq":118.07,"desc":"APP"},
+{"type":"DEP","freq":120.52,"desc":"DEP"}
+]
+}

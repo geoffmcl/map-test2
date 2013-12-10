@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VAAH","name":"Ahmedabad","lat":23.077196,"lon":72.634632,"rwys":1,"ils":1,"index":4136002,"path":"e070n20/e072n23"
+,"runways":[
+{"len_m":3488,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":23.06600300,"lon1":72.62265300,"rwy2":"23","lat2":23.08838900,"lon2":72.64661100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"RDR"},
+{"type":"APP","freq":123.75,"desc":"RDR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+}

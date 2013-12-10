@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBGB","name":"Grimbergen","lat":50.94833969,"lon":004.39577322,"rwys":2,"ils":0,"index":3023673,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":614,"wid_m":29.87,"hdg":11,"surf":"Turf/grass","rwy1":"01","lat1":50.94588420,"lon1":4.39097591,"rwy2":"19","lat2":50.95130818,"lon2":4.39264991},
+{"len_m":633,"wid_m":39.01,"hdg":10,"surf":"Turf/grass","rwy1":"02","lat1":50.94582907,"lon1":4.39103085,"rwy2":"20","lat2":50.95142388,"lon2":4.39267515}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"Brussels Volmet"},
+{"type":"CTAF","freq":119.5,"desc":"Grimbergen Radio"},
+{"type":"CLD","freq":126.62,"desc":"Brussels Departure"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OJAM","name":"Marka Intl","lat":31.972703,"lon":35.9915725,"rwys":1,"ils":1,"index":3530363,"path":"e030n30/e035n31"
+,"runways":[
+{"len_m":3275,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":31.96626400,"lon1":35.97598100,"rwy2":"24","lat2":31.97914200,"lon2":36.00716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"AMMAN GND"},
+{"type":"TWR","freq":118.1,"desc":"AMMAN TWR"},
+{"type":"APP","freq":128.9,"desc":"AMMAN APP"}
+]
+}

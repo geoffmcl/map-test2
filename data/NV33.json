@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NV33","name":"Farias Wheel","lat":38.8307445,"lon":-119.39808425,"rwys":2,"ils":0,"index":991282,"path":"w120n30/w120n38"
+,"runways":[
+{"len_m":1067,"wid_m":30.48,"hdg":188,"surf":"Asphalt","rwy1":"16","lat1":38.83297800,"lon1":-119.39605000,"rwy2":"34","lat2":38.82346900,"lon2":-119.39786700},
+{"len_m":615,"wid_m":30.48,"hdg":90,"surf":"Dirt","rwy1":"07","lat1":38.83328900,"lon1":-119.40275600,"rwy2":"25","lat2":38.83324200,"lon2":-119.39566400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOPN","name":"Thomaston Upson Co","lat":32.955003,"lon":-84.2641165,"rwys":1,"ils":1,"index":1564346,"path":"w090n30/w085n32"
+,"runways":[
+{"len_m":1935,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":32.95929200,"lon1":-84.27313300,"rwy2":"30","lat2":32.95071400,"lon2":-84.25510000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+}

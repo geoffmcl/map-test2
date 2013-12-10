@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UATG","name":"Atyrau","lat":47.121939,"lon":51.821307,"rwys":1,"ils":2,"index":3793475,"path":"e050n40/e051n47"
+,"runways":[
+{"len_m":2999,"wid_m":43.89,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":47.13361100,"lon1":51.81139200,"rwy2":"32","lat2":47.11026700,"lon2":51.83122200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"APP"}
+]
+}

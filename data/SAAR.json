@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAAR","name":"Rosario (islas Malvinas)","lat":-32.91722044,"lon":-060.78043955,"rwys":1,"ils":1,"index":1953344,"path":"w070s40/w061s33"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":10,"surf":"Concrete","rwy1":"02","lat1":-32.91676746,"lon1":-60.78765063,"rwy2":"20","lat2":-32.89017649,"lon2":-60.78161933}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"CT"},
+{"type":"APP","freq":118.7,"desc":"APP"}
+]
+}

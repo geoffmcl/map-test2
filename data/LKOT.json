@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKOT","name":"Otrokovice","lat":49.19555580,"lon":017.52167068,"rwys":2,"ils":0,"index":3236554,"path":"e010n40/e017n49"
+,"runways":[
+{"len_m":648,"wid_m":24.99,"hdg":171,"surf":"Asphalt","rwy1":"17L","lat1":49.20132514,"lon1":17.51704007,"rwy2":"35R","lat2":49.19556272,"lon2":17.51837453},
+{"len_m":597,"wid_m":39.93,"hdg":171,"surf":"Turf/grass","rwy1":"17R","lat1":49.20101414,"lon1":17.51624526,"rwy2":"35L","lat2":49.19570051,"lon2":17.51747200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"INFO"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOH","name":"Le Havre-octeville","lat":49.53341030,"lon":000.09521086,"rwys":1,"ils":1,"index":2958048,"path":"e000n40/e000n49"
+,"runways":[
+{"len_m":2305,"wid_m":39.93,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":49.52651939,"lon1":0.07756640,"rwy2":"22","lat2":49.54163861,"lon2":0.09934797}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":0,"surf":"Asphalt","lat1":49.53494370,"lon1":0.09638730},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":0,"surf":"Concrete","lat1":49.53595781,"lon1":0.09701167}
+]
+,"radios":[
+{"type":"ATIS","freq":126.17,"desc":"ATIS"},
+{"type":"TWR","freq":135.2,"desc":"LE HAVRE TWR"},
+{"type":"APP","freq":120.35,"desc":"DEAUVILLE APP"}
+]
+}

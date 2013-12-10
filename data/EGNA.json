@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGNA","name":"Hucknall","lat":53.01187319,"lon":-001.21936327,"rwys":2,"ils":0,"index":2925507,"path":"w010n50/w002n53"
+,"runways":[
+{"len_m":784,"wid_m":22.86,"hdg":38,"surf":"Turf/grass","rwy1":"03","lat1":53.01225762,"lon1":-1.22111264,"rwy2":"21","lat2":53.01777621,"lon2":-1.21383859},
+{"len_m":914,"wid_m":24.99,"hdg":104,"surf":"Turf/grass","rwy1":"10","lat1":53.01565745,"lon1":-1.22602627,"rwy2":"28","lat2":53.01354477,"lon2":-1.21285239}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.8,"desc":"Hucknall Radio"}
+]
+}

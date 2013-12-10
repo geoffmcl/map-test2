@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DTTX","name":"Thyna","lat":34.717558,"lon":10.6908305,"rwys":1,"ils":0,"index":3120938,"path":"e010n30/e010n34"
+,"runways":[
+{"len_m":3005,"wid_m":45.11,"hdg":147,"surf":"Concrete","rwy1":"15","lat1":34.72904400,"lon1":10.68213300,"rwy2":"33","lat2":34.70607200,"lon2":10.69952800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.15,"desc":"SFAX TWR"},
+{"type":"APP","freq":123.7,"desc":"SFAX APP"}
+]
+}

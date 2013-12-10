@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ORBS","name":"Baghdad International","lat":33.27280000,"lon":044.22724200,"rwys":2,"ils":0,"index":3677904,"path":"e040n30/e044n33"
+,"runways":[
+{"len_m":4000,"wid_m":60.05,"hdg":150,"surf":"Concrete","rwy1":"15L","lat1":33.28382200,"lon1":44.23117500,"rwy2":"33R","lat2":33.25257500,"lon2":44.25261400},
+{"len_m":3300,"wid_m":45.11,"hdg":150,"surf":"Concrete","rwy1":"15R","lat1":33.26857200,"lon1":44.21686100,"rwy2":"33L","lat2":33.24278900,"lon2":44.23455800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"INFO"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":131.7,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":128.2,"desc":"APP"},
+{"type":"DEP","freq":131.9,"desc":"DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCEC","name":"Crescent City - Jack Mc Namara Fld","lat":41.77838100,"lon":-124.24098200,"rwys":2,"ils":1,"index":909555,"path":"w130n40/w125n41"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"11","lat1":41.78498300,"lon1":-124.24154700,"rwy2":"29","lat2":41.77558900,"lon2":-124.22817200},
+{"len_m":1524,"wid_m":45.72,"hdg":193,"surf":"Asphalt","rwy1":"17","lat1":41.78671100,"lon1":-124.23611700,"rwy2":"35","lat2":41.77334700,"lon2":-124.24030000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

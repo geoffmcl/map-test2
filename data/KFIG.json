@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFIG","name":"Clearfield Lawrence","lat":41.048603,"lon":-78.4130975,"rwys":1,"ils":0,"index":1663170,"path":"w080n40/w079n41"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":41.05060300,"lon1":-78.42081400,"rwy2":"30","lat2":41.04660300,"lon2":-78.40538100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDOV","name":"Dover Afb","lat":39.12478097,"lon":-075.46996141,"rwys":2,"ils":2,"index":1712194,"path":"w080n30/w076n39"
+,"runways":[
+{"len_m":3932,"wid_m":46.02,"hdg":125,"surf":"Asphalt","rwy1":"14","lat1":39.13929964,"lon1":-75.48611419,"rwy2":"32","lat2":39.11856836,"lon2":-75.44923581},
+{"len_m":2926,"wid_m":60.96,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":39.11719466,"lon1":-75.46460442,"rwy2":"19","lat2":39.14351334,"lon2":-75.46270158}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.05,"desc":"ATIS"},
+{"type":"CLD","freq":125.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.87,"desc":"GND"},
+{"type":"TWR","freq":126.35,"desc":"TWR"},
+{"type":"APP","freq":132.42,"desc":"APP"},
+{"type":"APP","freq":135.15,"desc":"APP"}
+]
+}

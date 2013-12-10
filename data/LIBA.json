@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIBA","name":"Amendola","lat":41.53843310,"lon":015.71283720,"rwys":1,"ils":0,"index":3203298,"path":"e010n40/e015n41"
+,"runways":[
+{"len_m":2659,"wid_m":43.89,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":41.54437800,"lon1":15.69928300,"rwy2":"29","lat2":41.53473900,"lon2":15.72846400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":118.85,"desc":"APP"}
+]
+}

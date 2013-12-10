@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLVN","name":"Airlake","lat":44.627858,"lon":-93.228097,"rwys":1,"ils":1,"index":1417643,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":44.63044700,"lon1":-93.23508300,"rwy2":"30","lat2":44.62526900,"lon2":-93.22111100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.95,"desc":"CLNC DEL"},
+{"type":"APP","freq":125,"desc":"MINNEAPOLIS APP/DEP"}
+]
+}

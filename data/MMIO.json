@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMIO","name":"Plan De Guadalupe Intl","lat":25.54929900,"lon":-100.93289200,"rwys":2,"ils":1,"index":1301728,"path":"w110n20/w101n25"
+,"runways":[
+{"len_m":2897,"wid_m":45.11,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":25.55145800,"lon1":-100.92846400,"rwy2":"35","lat2":25.52530300,"lon2":-100.92859700},
+{"len_m":1056,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"03","lat1":25.54223300,"lon1":-100.93547500,"rwy2":"21","lat2":25.54949700,"lon2":-100.92866900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"SALTILLO TWR"},
+{"type":"APP","freq":127.4,"desc":"SALTILLO APP"}
+]
+}

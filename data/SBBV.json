@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBBV","name":"Boa Vista Intl","lat":02.84093200,"lon":-060.69185500,"rwys":1,"ils":1,"index":1955634,"path":"w070n00/w061n02"
+,"runways":[
+{"len_m":2702,"wid_m":45.11,"hdg":63,"surf":"Asphalt","rwy1":"08","lat1":2.84076900,"lon1":-60.70090000,"rwy2":"26","lat2":2.85185300,"lon2":-60.67923600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-60,"surf":"Asphalt","lat1":2.84261500,"lon1":-60.68739200},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-60,"surf":"Concrete","lat1":2.84202500,"lon1":-60.68806800}
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"BOA VISTA GND"},
+{"type":"TWR","freq":118.1,"desc":"BOA VISTA TWR"},
+{"type":"APP","freq":120.1,"desc":"BOA VISTA APP"}
+]
+}

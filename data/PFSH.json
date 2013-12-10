@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PFSH","name":"Shaktoolik New","lat":64.36617211,"lon":-161.21718077,"rwys":2,"ils":0,"index":304785,"path":"w170n60/w162n64"
+,"runways":[
+{"len_m":1223,"wid_m":22.86,"hdg":157,"surf":"Gravel","rwy1":"14","lat1":64.37618431,"lon1":-161.22884406,"rwy2":"32","lat2":64.36603400,"lon2":-161.21918100},
+{"len_m":680,"wid_m":13.11,"hdg":170,"surf":"Dirt","rwy1":"15","lat1":64.36565169,"lon1":-161.20377830,"rwy2":"33","lat2":64.35964178,"lon2":-161.20134296}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.55,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":135.7,"desc":"Anchorage ARTCC"}
+]
+}

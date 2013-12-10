@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTNC","name":"Tuncurry","lat":-32.19990894,"lon":152.48993897,"rwys":2,"ils":0,"index":5443185,"path":"e150s40/e152s33"
+,"runways":[
+{"len_m":1655,"wid_m":110.95,"hdg":60,"surf":"Dirt","rwy1":"05","lat1":-32.20581898,"lon1":152.47384151,"rwy2":"23","lat2":-32.19846730,"lon2":152.48912202},
+{"len_m":1096,"wid_m":34.14,"hdg":150,"surf":"Dirt","rwy1":"15","lat1":-32.19902108,"lon1":152.48281309,"rwy2":"33","lat2":-32.20764123,"lon2":152.48850160}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.5,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCAR","name":"Caribou Muni","lat":46.8713095,"lon":-68.0184305,"rwys":2,"ils":0,"index":1827379,"path":"w070n40/w069n46"
+,"runways":[
+{"len_m":1220,"wid_m":30.48,"hdg":347,"surf":"Asphalt","rwy1":"01","lat1":46.86823900,"lon1":-68.01493900,"rwy2":"19","lat2":46.87894400,"lon2":-68.01846400},
+{"len_m":917,"wid_m":22.86,"hdg":87,"surf":"Asphalt","rwy1":"11","lat1":46.86884700,"lon1":-68.02617200,"rwy2":"29","lat2":46.86920800,"lon2":-68.01414700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

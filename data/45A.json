@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"45A","name":"Cartys Airstrip","lat":60.7025,"lon":-151.29416667,"rwys":1,"ils":0,"index":468394,"path":"w160n60/w152n60"
+,"runways":[
+{"len_m":427,"wid_m":18.29,"hdg":194,"surf":"Gravel","rwy1":"17","lat1":60.70436305,"lon1":-151.29321742,"rwy2":"35","lat2":60.70063695,"lon2":-151.29511592}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":151,"dist_nm":6,"freq":117.6,"lat":60.61469444,"lon":-151.19525000,"rng_nm":130,"alt_fmsl":114,"id":"ENA","desc":"KENAI VOR-DME"},
+{"type":"NDB","hdg_t":158.5,"dist_nm":6.7,"freq":379,"lat":60.59866667,"lon":-151.21119444,"rng_nm":50,"alt_fmsl":0,"id":"IWW","desc":"WILDWOOD NDB"},
+{"type":"NDB","hdg_t":355.7,"dist_nm":15.6,"freq":356,"lat":60.96138889,"lon":-151.33391667,"rng_nm":50,"alt_fmsl":0,"id":"GRP","desc":"GRANITE POINT NDB"},
+{"type":"NDB","hdg_t":137.9,"dist_nm":18.3,"freq":346,"lat":60.47497222,"lon":-150.87888889,"rng_nm":50,"alt_fmsl":0,"id":"OLT","desc":"SOLDOTNA NDB"},
+{"type":"NDB","hdg_t":255.7,"dist_nm":25.8,"freq":368,"lat":60.59386111,"lon":-152.14252778,"rng_nm":50,"alt_fmsl":0,"id":"DRF","desc":"DRIFT RIVER NDB"},
+{"type":"NDB","hdg_t":48.9,"dist_nm":43,"freq":387,"lat":61.16761111,"lon":-150.17727778,"rng_nm":50,"alt_fmsl":0,"id":"BOB","desc":"BRUCK NDB"},
+{"type":"NDB","hdg_t":51.7,"dist_nm":46.1,"freq":338,"lat":61.17102778,"lon":-150.04766667,"rng_nm":50,"alt_fmsl":0,"id":"CMQ","desc":"CAMPBELL LAKE NDB"},
+{"type":"VOR","hdg_t":53.7,"dist_nm":48,"freq":113.15,"lat":61.16786560,"lon":-149.96014330,"rng_nm":130,"alt_fmsl":283,"id":"TED","desc":"ANCHORAGE VOR-DME"},
+{"type":"SDME","hdg_t":54,"dist_nm":48.5,"freq":111.3,"lat":61.16981900,"lon":-149.94239800,"rng_nm":90,"alt_fmsl":140,"id":"MTGN","desc":"Anchorage MLS 6L DME"},
+{"type":"SDME","hdg_t":52.6,"dist_nm":55.6,"freq":113.4,"lat":61.25500600,"lon":-149.76915000,"rng_nm":130,"alt_fmsl":360,"id":"EDF","desc":"ELMENDORF TACAN"},
+{"type":"VOR","hdg_t":184.7,"dist_nm":59.9,"freq":114.6,"lat":59.70941667,"lon":-151.45661111,"rng_nm":130,"alt_fmsl":1626,"id":"HOM","desc":"HOMER VOR-DME"},
+{"type":"NDB","hdg_t":185.6,"dist_nm":64.1,"freq":277,"lat":59.64133333,"lon":-151.50027778,"rng_nm":50,"alt_fmsl":0,"id":"ACE","desc":"KACHEMAK NDB"},
+{"type":"VOR","hdg_t":35.9,"dist_nm":64.8,"freq":112.5,"lat":61.56944444,"lon":-149.96713889,"rng_nm":130,"alt_fmsl":160,"id":"BGQ","desc":"BIG LAKE VORTAC"}
+]
+}

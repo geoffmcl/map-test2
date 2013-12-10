@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKYP","name":"El Yopal","lat":5.3191125,"lon":-72.3839735,"rwys":1,"ils":0,"index":1759188,"path":"w080n00/w073n05"
+,"runways":[
+{"len_m":2576,"wid_m":29.87,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":5.31088100,"lon1":-72.39219700,"rwy2":"23","lat2":5.32734400,"lon2":-72.37575000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.8,"desc":"FIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":126.8,"desc":"APP"}
+]
+}

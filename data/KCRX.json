@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCRX","name":"Roscoe Turner","lat":34.914968,"lon":-88.603485,"rwys":1,"ils":1,"index":1498937,"path":"w090n30/w089n34"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":34.92384200,"lon1":-88.60470300,"rwy2":"35","lat2":34.90609400,"lon2":-88.60226700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

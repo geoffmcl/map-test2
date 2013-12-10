@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKJK","name":"Kunsan Ab","lat":35.9037555,"lon":126.6158935,"rwys":1,"ils":1,"index":5021562,"path":"e120n30/e126n35"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":169,"surf":"Concrete","rwy1":"18","lat1":35.91589200,"lon1":126.61300600,"rwy2":"36","lat2":35.89161900,"lon2":126.61878100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.22,"desc":"ATIS"},
+{"type":"CLD","freq":133.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.5,"desc":"GND"},
+{"type":"TWR","freq":126.5,"desc":"TWR"},
+{"type":"APP","freq":124.1,"desc":"APP"},
+{"type":"DEP","freq":124.1,"desc":"DEP"}
+]
+}

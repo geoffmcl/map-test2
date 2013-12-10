@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTPM","name":"Tak Mae Sot","lat":16.70195000,"lon":098.54234300,"rwys":1,"ils":0,"index":4561580,"path":"e090n10/e098n16"
+,"runways":[
+{"len_m":1511,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":16.69975000,"lon1":98.53796900,"rwy2":"27","lat2":16.69995800,"lon2":98.55214200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"APP","freq":120.65,"desc":"APP"}
+]
+}

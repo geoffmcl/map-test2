@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAEI","name":"Eielson Afb","lat":64.665665,"lon":-147.101511,"rwys":1,"ils":2,"index":534185,"path":"w150n60/w148n64"
+,"runways":[
+{"len_m":4421,"wid_m":45.72,"hdg":157,"surf":"Concrete","rwy1":"13","lat1":64.68402200,"lon1":-147.11902500,"rwy2":"31","lat2":64.64730800,"lon2":-147.08399700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"RANGE CON"},
+{"type":"TWR","freq":127.2,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"FAIRBANKS APP"},
+{"type":"APP","freq":126.5,"desc":"FAIRBANKS APP"},
+{"type":"DEP","freq":126.5,"desc":"FAIRBANKS DEP"}
+]
+}

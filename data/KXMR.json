@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KXMR","name":"Cape Canaveral Afs Skid Strip","lat":28.467586,"lon":-80.566615,"rwys":1,"ils":0,"index":1629593,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":3047,"wid_m":60.96,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":28.47601100,"lon1":-80.57891100,"rwy2":"31","lat2":28.45916100,"lon2":-80.55431900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.62,"desc":"CAPE TWR"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+}

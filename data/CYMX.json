@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYMX","name":"Montreal Mirabel Intl","lat":45.67606000,"lon":-074.03439300,"rwys":2,"ils":3,"index":1729003,"path":"w080n40/w075n45"
+,"runways":[
+{"len_m":3648,"wid_m":60.96,"hdg":45,"surf":"Concrete","rwy1":"06","lat1":45.67111100,"lon1":-74.02166700,"rwy2":"24","lat2":45.69416700,"lon2":-73.98833300},
+{"len_m":3652,"wid_m":60.96,"hdg":98,"surf":"Concrete","rwy1":"11","lat1":45.67083300,"lon1":-74.09000000,"rwy2":"29","lat2":45.66611100,"lon2":-74.04361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.7,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"MIRABEL CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"MIRABEL GND"},
+{"type":"TWR","freq":119.1,"desc":"MIRABEL TWR"},
+{"type":"APP","freq":134.15,"desc":"VFR ADVSY"},
+{"type":"APP","freq":124.65,"desc":"APP"},
+{"type":"DEP","freq":124.65,"desc":"DEP"}
+]
+}

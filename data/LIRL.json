@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIRL","name":"Latina","lat":41.54333880,"lon":012.91688060,"rwys":1,"ils":0,"index":3154147,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":1695,"wid_m":39.93,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":41.54676400,"lon1":12.90065000,"rwy2":"30","lat2":41.53810800,"lon2":12.91738900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":119.15,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":126.55,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PATG","name":"Togiak","lat":59.0542365,"lon":-160.39361,"rwys":2,"ils":0,"index":320834,"path":"w170n50/w161n59"
+,"runways":[
+{"len_m":1288,"wid_m":29.87,"hdg":45,"surf":"Gravel","rwy1":"03","lat1":59.04888900,"lon1":-160.40500000,"rwy2":"21","lat2":59.05694600,"lon2":-160.38889000},
+{"len_m":341,"wid_m":14.94,"hdg":111,"surf":"Gravel","rwy1":"10","lat1":59.05611100,"lon1":-160.39305000,"rwy2":"28","lat2":59.05500000,"lon2":-160.38750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.3,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"}
+]
+}

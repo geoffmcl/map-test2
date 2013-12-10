@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"D50","name":"Crosby Muni","lat":48.928093,"lon":-103.29607975,"rwys":2,"ils":0,"index":1254074,"path":"w110n40/w104n48"
+,"runways":[
+{"len_m":1158,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":48.93219700,"lon1":-103.30283900,"rwy2":"30","lat2":48.92483100,"lon2":-103.29166100},
+{"len_m":818,"wid_m":30.48,"hdg":44,"surf":"Turf/grass","rwy1":"03","lat1":48.92503300,"lon1":-103.29880000,"rwy2":"21","lat2":48.93031100,"lon2":-103.29101900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

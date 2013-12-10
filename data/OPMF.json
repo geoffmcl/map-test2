@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPMF","name":"Muzaffarabad","lat":34.3390225,"lon":73.5086405,"rwys":1,"ils":0,"index":4153106,"path":"e070n30/e073n34"
+,"runways":[
+{"len_m":902,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":34.34170600,"lon1":73.50495600,"rwy2":"31","lat2":34.33633900,"lon2":73.51232500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":123.4,"desc":"TWR"}
+]
+}

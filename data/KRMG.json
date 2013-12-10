@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRMG","name":"Rome - Richard B Russel","lat":34.350523,"lon":-85.1578208333333,"rwys":3,"ils":1,"index":1548051,"path":"w090n30/w086n34"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":34.34277200,"lon1":-85.15945300,"rwy2":"19","lat2":34.35919400,"lon2":-85.15773900},
+{"len_m":1370,"wid_m":30.48,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":34.34839400,"lon1":-85.16576400,"rwy2":"25","lat2":34.35263100,"lon2":-85.15176900},
+{"len_m":1095,"wid_m":22.86,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":34.35347200,"lon1":-85.16042200,"rwy2":"32","lat2":34.34667500,"lon2":-85.15177800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

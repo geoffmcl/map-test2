@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFAM","name":"Farmington Rgnl","lat":37.7612555,"lon":-90.4284985,"rwys":1,"ils":0,"index":1466354,"path":"w100n30/w091n37"
+,"runways":[
+{"len_m":1287,"wid_m":22.86,"hdg":23,"surf":"Concrete","rwy1":"02","lat1":37.75594700,"lon1":-90.43144400,"rwy2":"20","lat2":37.76656400,"lon2":-90.42555300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

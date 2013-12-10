@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKTE","name":"Seongmu","lat":36.5681775,"lon":127.500115,"rwys":1,"ils":0,"index":5037986,"path":"e120n30/e127n36"
+,"runways":[
+{"len_m":1219,"wid_m":36.58,"hdg":156,"surf":"Concrete","rwy1":"16","lat1":36.57321100,"lon1":127.49738600,"rwy2":"34","lat2":36.56314400,"lon2":127.50284400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":134.55,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":131.3,"desc":"TWR"}
+]
+}

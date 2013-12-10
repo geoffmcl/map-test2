@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OERK","name":"Riyadh King Khaled Intl","lat":24.95719500,"lon":046.69745200,"rwys":2,"ils":4,"index":3710138,"path":"e040n20/e046n24"
+,"runways":[
+{"len_m":4205,"wid_m":60.05,"hdg":150,"surf":"Asphalt","rwy1":"15R","lat1":24.97093600,"lon1":46.67488100,"rwy2":"33L","lat2":24.93804700,"lon2":46.69568600},
+{"len_m":4204,"wid_m":60.05,"hdg":150,"surf":"Asphalt","rwy1":"15L","lat1":24.97685000,"lon1":46.70200300,"rwy2":"33R","lat2":24.94396400,"lon2":46.72279700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":124.1,"desc":"RIYADH APP"}
+]
+}

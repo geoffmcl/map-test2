@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAV","name":"Savannah Hilton Head Intl","lat":32.13411700,"lon":-081.20964100,"rwys":2,"ils":2,"index":1613451,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":2850,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"10","lat1":32.12875300,"lon1":-81.21879200,"rwy2":"28","lat2":32.12847500,"lon2":-81.18858900},
+{"len_m":2134,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"19","lat1":32.13581700,"lon1":-81.20013900,"rwy2":"01","lat2":32.11656900,"lon2":-81.19999200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"APP/DEP"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":125.3,"desc":"APP/DEP"}
+]
+}

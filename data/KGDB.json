@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGDB","name":"Granite Falls Muni Lenzen Roe Mem Fld","lat":44.753282,"lon":-95.556018,"rwys":1,"ils":0,"index":1384881,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":1129,"wid_m":22.86,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":44.75796400,"lon1":-95.55879700,"rwy2":"33","lat2":44.74860000,"lon2":-95.55323900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.1,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

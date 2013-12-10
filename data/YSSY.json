@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSSY","name":"Sydney Intl","lat":-33.94414900,"lon":151.18130500,"rwys":3,"ils":6,"index":5426688,"path":"e150s40/e151s34"
+,"runways":[
+{"len_m":3962,"wid_m":45.11,"hdg":167,"surf":"Asphalt","rwy1":"16R","lat1":-33.92935800,"lon1":151.17160300,"rwy2":"34L","lat2":-33.96427500,"lon2":151.18066100},
+{"len_m":2529,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":-33.94375000,"lon1":151.16363300,"rwy2":"25","lat2":-33.93753900,"lon2":151.18995600},
+{"len_m":2437,"wid_m":45.11,"hdg":167,"surf":"Asphalt","rwy1":"16L","lat1":-33.94961900,"lon1":151.18831700,"rwy2":"34R","lat2":-33.97109700,"lon2":151.19391100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CLD","freq":133.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.5,"desc":"GND"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"TWR","freq":124.7,"desc":"TWR"},
+{"type":"APP","freq":135.1,"desc":"APP"},
+{"type":"DEP","freq":123,"desc":"DEP"},
+{"type":"DEP","freq":129.7,"desc":"DEP"},
+{"type":"DEP","freq":118.4,"desc":"DEP"}
+]
+}

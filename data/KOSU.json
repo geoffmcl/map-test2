@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOSU","name":"Ohio State University","lat":40.07510680,"lon":-083.07106500,"rwys":4,"ils":1,"index":1581187,"path":"w090n40/w084n40"
+,"runways":[
+{"len_m":1525,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"09R","lat1":40.07715000,"lon1":-83.08160600,"rwy2":"27L","lat2":40.07785000,"lon2":-83.06374700},
+{"len_m":1083,"wid_m":29.87,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":40.07659138,"lon1":-83.07800402,"rwy2":"23","lat2":40.08302738,"lon2":-83.06845602},
+{"len_m":1047,"wid_m":29.87,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":40.08403600,"lon1":-83.07669700,"rwy2":"32","lat2":40.07722200,"lon2":-83.06820000},
+{"len_m":912,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"09L","lat1":40.08269700,"lon1":-83.07890300,"rwy2":"27R","lat2":40.08311400,"lon2":-83.06821900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":-83,"surf":"Concrete","lat1":40.08486975,"lon1":-83.06859946}
+]
+,"radios":[
+{"type":"ATIS","freq":121.35,"desc":"ATIS"},
+{"type":"CTAF","freq":118.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"COLUMBUS APP/DEP"}
+]
+}

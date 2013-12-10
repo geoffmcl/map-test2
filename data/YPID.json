@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPID","name":"Phillip Island","lat":-38.51998003,"lon":145.32675094,"rwys":2,"ils":0,"index":5328089,"path":"e140s40/e145s39"
+,"runways":[
+{"len_m":1221,"wid_m":17.98,"hdg":51,"surf":"Gravel","rwy1":"04","lat1":-38.52807750,"lon1":145.32189478,"rwy2":"22","lat2":-38.52121200,"lon2":145.33284200},
+{"len_m":596,"wid_m":14.94,"hdg":6,"surf":"Dirt","rwy1":"18","lat1":-38.52770504,"lon1":145.32253319,"rwy2":"36","lat2":-38.52236963,"lon2":145.32333226}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.55,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":120,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":119.1,"desc":"PHILLIP IS MULT"}
+]
+}

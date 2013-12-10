@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MRLB","name":"Daniel Oduber Quiros Intl","lat":10.59822100,"lon":-085.54241900,"rwys":1,"ils":0,"index":1546531,"path":"w090n10/w086n10"
+,"runways":[
+{"len_m":2764,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":10.58905000,"lon1":-85.55629200,"rwy2":"25","lat2":10.59752800,"lon2":-85.53252800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"LIBERIA TWR"},
+{"type":"APP","freq":119.8,"desc":"LIBERIA APP"}
+]
+}

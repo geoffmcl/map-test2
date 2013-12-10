@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFJO","name":"Joensuu","lat":62.65734700,"lon":029.61484900,"rwys":2,"ils":1,"index":3434025,"path":"e020n60/e029n62"
+,"runways":[
+{"len_m":2499,"wid_m":52.12,"hdg":110,"surf":"Asphalt","rwy1":"10","lat1":62.66458900,"lon1":29.59766400,"rwy2":"28","lat2":62.65680000,"lon2":29.64339400},
+{"len_m":1199,"wid_m":29.87,"hdg":180,"surf":"Dirt","rwy1":"17","lat1":62.66217500,"lon1":29.60756100,"rwy2":"35","lat2":62.65141100,"lon2":29.60729200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":120.9,"desc":"TWR"}
+]
+}

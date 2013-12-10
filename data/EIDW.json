@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EIDW","name":"Dublin","lat":53.42843802,"lon":-006.26207848,"rwys":3,"ils":4,"index":2843610,"path":"w010n50/w007n53"
+,"runways":[
+{"len_m":2636,"wid_m":45.11,"hdg":95,"surf":"Concrete","rwy1":"10","lat1":53.42243102,"lon1":-6.29007448,"rwy2":"28","lat2":53.42026102,"lon2":-6.25057848},
+{"len_m":2071,"wid_m":60.96,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":53.43699002,"lon1":-6.26197743,"rwy2":"34","lat2":53.41990602,"lon2":-6.24959343},
+{"len_m":1338,"wid_m":60.96,"hdg":104,"surf":"Asphalt","rwy1":"11","lat1":53.43655302,"lon1":-6.26226844,"rwy2":"29","lat2":53.43344302,"lon2":-6.24280844}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.02,"hdg":-6,"surf":"Asphalt","lat1":53.41921461,"lon1":-6.26379294}
+]
+,"radios":[
+{"type":"ATIS","freq":124.52,"desc":"ATIS"},
+{"type":"CLD","freq":121.87,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.55,"desc":"APP"},
+{"type":"APP","freq":119.92,"desc":"APP"},
+{"type":"APP","freq":121.1,"desc":"APP"}
+]
+}

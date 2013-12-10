@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RODN","name":"Kadena Ab","lat":26.35561025,"lon":127.76763375,"rwys":2,"ils":2,"index":5037331,"path":"e120n20/e127n26"
+,"runways":[
+{"len_m":3688,"wid_m":91.44,"hdg":51,"surf":"Asphalt","rwy1":"05L","lat1":26.34624400,"lon1":127.75149400,"rwy2":"23R","lat2":26.36717200,"lon2":127.78023300},
+{"len_m":3688,"wid_m":60.96,"hdg":51,"surf":"Concrete","rwy1":"05R","lat1":26.34404700,"lon1":127.75503600,"rwy2":"23L","lat2":26.36497800,"lon2":127.78377200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.2,"desc":"ATIS"},
+{"type":"CLD","freq":123.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.5,"desc":"GND CTL"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+}

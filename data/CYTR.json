@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYTR","name":"Trenton","lat":44.11652925,"lon":-77.52972225,"rwys":2,"ils":1,"index":1679745,"path":"w080n40/w078n44"
+,"runways":[
+{"len_m":3055,"wid_m":60.96,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":44.10889200,"lon1":-77.54222200,"rwy2":"24","lat2":44.12638900,"lon2":-77.51277800},
+{"len_m":924,"wid_m":45.72,"hdg":120,"surf":"Asphalt","rwy1":"13","lat1":44.11750000,"lon1":-77.53694200,"rwy2":"31","lat2":44.11333600,"lon2":-77.52694700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"ATIS"},
+{"type":"CLD","freq":124.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":128.7,"desc":"TWR"},
+{"type":"APP","freq":128.4,"desc":"APP/DEP"}
+]
+}

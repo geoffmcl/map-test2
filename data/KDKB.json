@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDKB","name":"De Kalb Taylor Muni","lat":41.93273525,"lon":-88.70682925,"rwys":2,"ils":1,"index":1499385,"path":"w090n40/w089n41"
+,"runways":[
+{"len_m":2202,"wid_m":30.48,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":41.92711400,"lon1":-88.70703300,"rwy2":"20","lat2":41.94580800,"lon2":-88.69816400},
+{"len_m":1280,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":41.92899700,"lon1":-88.71878100,"rwy2":"27","lat2":41.92902200,"lon2":-88.70333900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.5,"desc":"CHICAGO APP/DEP"}
+]
+}

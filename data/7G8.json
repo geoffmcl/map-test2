@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7G8","name":"Geauga Co","lat":41.4495945,"lon":-81.0629345,"rwys":1,"ils":0,"index":1614043,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1066,"wid_m":19.81,"hdg":99,"surf":"Asphalt","rwy1":"11","lat1":41.45042500,"lon1":-81.06922200,"rwy2":"29","lat2":41.44876400,"lon2":-81.05664700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.35,"desc":"CLEVELAND APP/DEP"}
+]
+}

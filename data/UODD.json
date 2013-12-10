@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UODD","name":"Dikson","lat":73.51638374,"lon":080.38272211,"rwys":1,"ils":0,"index":4270304,"path":"e080n70/e080n73"
+,"runways":[
+{"len_m":1508,"wid_m":46.02,"hdg":82,"surf":"Concrete","rwy1":"06","lat1":73.51690227,"lon1":80.35549978,"rwy2":"24","lat2":73.51871273,"lon2":80.40269626}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.19,"desc":"Dikson Ground"},
+{"type":"TWR","freq":128.19,"desc":"Dikson Tower"},
+{"type":"APP","freq":121.7,"desc":"Dikson Approach"}
+]
+}

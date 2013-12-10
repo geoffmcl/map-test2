@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9D4","name":"Deck","lat":40.352368,"lon":-76.3300165,"rwys":1,"ils":0,"index":1695890,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":1095,"wid_m":15.24,"hdg":357,"surf":"Asphalt","rwy1":"01","lat1":40.34743900,"lon1":-76.32971100,"rwy2":"19","lat2":40.35729700,"lon2":-76.33032200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":118.25,"desc":"HARRISBURG APP/DEP"}
+]
+}

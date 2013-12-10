@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHOG","name":"Kahului","lat":20.89630890,"lon":-156.42768860,"rwys":2,"ils":1,"index":383932,"path":"w160n20/w157n20"
+,"runways":[
+{"len_m":2131,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":20.88913900,"lon1":-156.43631900,"rwy2":"20","lat2":20.90491900,"lon2":-156.42457500},
+{"len_m":1520,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"05","lat1":20.89802200,"lon1":-156.43710000,"rwy2":"23","lat2":20.90381900,"lon2":-156.42384700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.6,"desc":"MAUI CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"MAUI TWR"},
+{"type":"APP","freq":119.5,"desc":"MAUI APP/DEP"},
+{"type":"APP","freq":120.2,"desc":"MAUI APP/DEP"}
+]
+}

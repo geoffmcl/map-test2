@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTAN","name":"Taunton Muni King Fld","lat":41.87521975,"lon":-71.01741572,"rwys":2,"ils":0,"index":1777915,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":1065,"wid_m":22.86,"hdg":107,"surf":"Asphalt","rwy1":"12","lat1":41.87413300,"lon1":-71.01980600,"rwy2":"30","lat2":41.87121900,"lon2":-71.00757500},
+{"len_m":578,"wid_m":18.29,"hdg":26,"surf":"Dirt","rwy1":"04","lat1":41.87543300,"lon1":-71.02269950,"rwy2":"22","lat2":41.88009400,"lon2":-71.01958239}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.7,"desc":"PROVIDENCE APP/DEP"}
+]
+}

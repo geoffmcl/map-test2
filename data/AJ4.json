@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AJ4","name":"Anahim Lake","lat":52.454166,"lon":-125.302222,"rwys":2,"ils":0,"index":893850,"path":"w130n50/w126n52"
+,"runways":[
+{"len_m":1204,"wid_m":22.86,"hdg":146,"surf":"Asphalt","rwy1":"13","lat1":52.45703100,"lon1":-125.30817500,"rwy2":"31","lat2":52.44796900,"lon2":-125.29849400},
+{"len_m":839,"wid_m":30.48,"hdg":81,"surf":"Gravel","rwy1":"06","lat1":52.45527500,"lon1":-125.30721900,"rwy2":"24","lat2":52.45638900,"lon2":-125.29500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

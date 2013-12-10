@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRWI","name":"Rocky Mount Wilson Rgnl","lat":35.8562515,"lon":-77.891935,"rwys":1,"ils":1,"index":1679216,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":2164,"wid_m":45.72,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":35.84810000,"lon1":-77.89851400,"rwy2":"22","lat2":35.86440300,"lon2":-77.88535600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":122.3,"desc":"CLNC DEL"}
+]
+}

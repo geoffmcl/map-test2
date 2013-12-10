@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIMN","name":"Cameri","lat":45.53260420,"lon":008.66573810,"rwys":1,"ils":0,"index":3088866,"path":"e000n40/e008n45"
+,"runways":[
+{"len_m":2992,"wid_m":28.65,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":45.54420500,"lon1":8.66492500,"rwy2":"35","lat2":45.51791200,"lon2":8.67317500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.12,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"}
+]
+}

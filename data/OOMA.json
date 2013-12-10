@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OOMA","name":"Masirah","lat":20.673579,"lon":58.891754,"rwys":2,"ils":1,"index":3906479,"path":"e050n20/e058n20"
+,"runways":[
+{"len_m":3032,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":20.68450000,"lon1":58.88820000,"rwy2":"35","lat2":20.65783300,"lon2":58.89483300},
+{"len_m":2554,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":20.67143300,"lon1":58.88073300,"rwy2":"25","lat2":20.68055000,"lon2":58.90325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"}
+]
+}

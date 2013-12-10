@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAUN","name":"Unalakleet","lat":63.88222462,"lon":-160.79587810,"rwys":2,"ils":0,"index":321144,"path":"w170n60/w161n63"
+,"runways":[
+{"len_m":1829,"wid_m":46.02,"hdg":164,"surf":"Asphalt","rwy1":"15","lat1":63.89802200,"lon1":-160.80606400,"rwy2":"33","lat2":63.88223100,"lon2":-160.79588300},
+{"len_m":609,"wid_m":24.08,"hdg":98,"surf":"Asphalt","rwy1":"8","lat1":63.88345300,"lon1":-160.79902500,"rwy2":"26","lat2":63.88265300,"lon2":-160.78675000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.25,"desc":"AWOS"},
+{"type":"ATIS","freq":122.3,"desc":"Nome FSS"},
+{"type":"CTAF","freq":123,"desc":"UNK CTAF"},
+{"type":"TWR","freq":135.69,"desc":"Anchorage ARTCC"}
+]
+}

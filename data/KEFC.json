@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEFC","name":"Belle Fourche Muni","lat":44.734525,"lon":-103.861793,"rwys":2,"ils":0,"index":1253800,"path":"w110n40/w104n44"
+,"runways":[
+{"len_m":1371,"wid_m":18.29,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":44.73966400,"lon1":-103.86602500,"rwy2":"32","lat2":44.72874700,"lon2":-103.85796100},
+{"len_m":1107,"wid_m":36.58,"hdg":192,"surf":"Turf/grass","rwy1":"18","lat1":44.73970600,"lon1":-103.86006400,"rwy2":"36","lat2":44.72998300,"lon2":-103.86312200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

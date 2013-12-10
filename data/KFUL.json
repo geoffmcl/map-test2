@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFUL","name":"Fullerton Muni","lat":33.87049880,"lon":-117.97991100,"rwys":1,"ils":1,"index":1023728,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":951,"wid_m":22.86,"hdg":76,"surf":"Asphalt","rwy1":"06","lat1":33.87105800,"lon1":-117.98480600,"rwy2":"24","lat2":33.87299000,"lon2":-117.97479000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.97,"hdg":-117,"surf":"Concrete","lat1":33.87118646,"lon1":-117.98078889},
+{"rwy1":"H2","len_m":10,"wid_m":10.97,"hdg":-117,"surf":"Concrete","lat1":33.87146685,"lon1":-117.97719780},
+{"rwy1":"H3","len_m":10,"wid_m":10.97,"hdg":-117,"surf":"Concrete","lat1":33.87127181,"lon1":-117.97714197}
+]
+,"radios":[
+{"type":"ATIS","freq":125.05,"desc":"ATIS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":124.65,"desc":"SOCAL APP/DEP"}
+]
+}

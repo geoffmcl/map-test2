@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGHO","name":"Thruxton","lat":51.20623300,"lon":-001.60804937,"rwys":2,"ils":0,"index":2925385,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":971,"wid_m":22.86,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":51.20925334,"lon1":-1.60429059,"rwy2":"25","lat2":51.21267552,"lon2":-1.59149658},
+{"len_m":758,"wid_m":31.09,"hdg":122,"surf":"Turf/grass","rwy1":"13","lat1":51.21200300,"lon1":-1.60374700,"rwy2":"31","lat2":51.20830300,"lon2":-1.59462200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.45,"desc":"Thruxton Radio"}
+]
+}

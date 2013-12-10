@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHRD","name":"Rotterdam The Hague","lat":51.94892942,"lon":004.43408635,"rwys":1,"ils":1,"index":3023737,"path":"e000n50/e004n51"
+,"runways":[
+{"len_m":2199,"wid_m":45.11,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":51.95208600,"lon1":4.42824200,"rwy2":"24","lat2":51.96285000,"lon2":4.45508100}
+]
+,"helipads":[
+{"rwy1":"H3","len_m":24,"wid_m":24.99,"hdg":4,"surf":"Asphalt","lat1":51.95120955,"lon1":4.44197208}
+]
+,"radios":[
+{"type":"GND","freq":122.17,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.05,"desc":"SCHIPHOL"},
+{"type":"APP","freq":121.2,"desc":"SCHIPHOL"},
+{"type":"APP","freq":127.02,"desc":"APP"}
+]
+}

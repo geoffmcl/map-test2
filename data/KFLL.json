@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFLL","name":"Fort Lauderdale Hollywood Intl","lat":26.07055700,"lon":-080.15639500,"rwys":3,"ils":3,"index":1629443,"path":"w090n20/w081n26"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09L","lat1":26.07694700,"lon1":-80.16653600,"rwy2":"27R","lat2":26.07679200,"lon2":-80.13911900},
+{"len_m":2112,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":26.07890300,"lon1":-80.16038900,"rwy2":"31","lat2":26.06533600,"lon2":-80.14555600},
+{"len_m":1608,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"09R","lat1":26.06597500,"lon1":-80.16031700,"rwy2":"27L","lat2":26.06587800,"lon2":-80.14424700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"MIAMI APP"},
+{"type":"APP","freq":119.3,"desc":"MIAMI APP"},
+{"type":"APP","freq":119.7,"desc":"MIAMI APP"},
+{"type":"APP","freq":120.2,"desc":"MIAMI APP"},
+{"type":"DEP","freq":119.7,"desc":"MIAMI DEP"},
+{"type":"DEP","freq":126.05,"desc":"MIAMI DEP"},
+{"type":"DEP","freq":128.6,"desc":"MIAMI DEP"}
+]
+}

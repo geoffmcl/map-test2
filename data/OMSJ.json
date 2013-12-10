@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMSJ","name":"Sharjah Intl","lat":25.3285865,"lon":55.517218,"rwys":1,"ils":1,"index":3857618,"path":"e050n20/e055n25"
+,"runways":[
+{"len_m":4042,"wid_m":45.11,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":25.33834200,"lon1":55.50025000,"rwy2":"30","lat2":25.31883100,"lon2":55.53418600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"DUBAI DIR"},
+{"type":"APP","freq":124.9,"desc":"DUBAI ARR"},
+{"type":"DEP","freq":124.45,"desc":"DUBAI DEP"}
+]
+}

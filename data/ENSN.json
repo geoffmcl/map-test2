@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENSN","name":"Geiteryggen","lat":59.1850275,"lon":9.567075,"rwys":1,"ils":1,"index":3106122,"path":"e000n50/e009n59"
+,"runways":[
+{"len_m":1400,"wid_m":32.00,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":59.17881100,"lon1":9.56523600,"rwy2":"19","lat2":59.19124400,"lon2":9.56891400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"AFIS"},
+{"type":"APP","freq":134.05,"desc":"FARRIS APP"}
+]
+}

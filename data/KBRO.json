@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBRO","name":"Brownsville South Padre Island Intl","lat":25.90486663,"lon":-097.43106230,"rwys":3,"ils":1,"index":1350906,"path":"w100n20/w098n25"
+,"runways":[
+{"len_m":2255,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13R","lat1":25.91282500,"lon1":-97.43130800,"rwy2":"31L","lat2":25.89832800,"lon2":-97.41550000},
+{"len_m":1828,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":25.91507500,"lon1":-97.42885000,"rwy2":"35","lat2":25.89857800,"lon2":-97.42953300},
+{"len_m":914,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13L","lat1":25.91289200,"lon1":-97.42838900,"rwy2":"31R","lat2":25.90701400,"lon2":-97.42197800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.55,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"VALLEY APP/DEP"}
+]
+}

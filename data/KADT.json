@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KADT","name":"Atwood Rawlins Co City Co","lat":39.8395531666667,"lon":-101.041870333333,"rwys":3,"ils":0,"index":1286259,"path":"w110n30/w102n39"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":173,"surf":"Asphalt","rwy1":"16","lat1":39.84824700,"lon1":-101.04432800,"rwy2":"34","lat2":39.83462200,"lon2":-101.04218300},
+{"len_m":743,"wid_m":22.86,"hdg":174,"surf":"Turf/grass","rwy1":"17","lat1":39.84222500,"lon1":-101.04250000,"rwy2":"35","lat2":39.83555600,"lon2":-101.04166100},
+{"len_m":730,"wid_m":30.48,"hdg":40,"surf":"Turf/grass","rwy1":"03","lat1":39.83583600,"lon1":-101.04305000,"rwy2":"21","lat2":39.84083300,"lon2":-101.03750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

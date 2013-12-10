@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WZ56","name":"Kurid (sumber Mas)","lat":3.79394,"lon":115.703383,"rwys":1,"ils":0,"index":4839285,"path":"e110n00/e115n03"
+,"runways":[
+{"len_m":375,"wid_m":15.85,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":3.79394000,"lon1":115.70169236,"rwy2":"27","lat2":3.79394000,"lon2":115.70507364}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":357.8,"dist_nm":5.3,"freq":356,"lat":3.88333300,"lon":115.70000000,"rng_nm":50,"alt_fmsl":3360,"id":"LN","desc":"LONG BAWANG NDB"},
+{"type":"NDB","hdg_t":284.8,"dist_nm":56.1,"freq":505,"lat":4.03388900,"lon":114.79777800,"rng_nm":50,"alt_fmsl":0,"id":"MZU","desc":"MULU NDB"},
+{"type":"VOR","hdg_t":284.7,"dist_nm":56.2,"freq":112.8,"lat":4.03291700,"lon":114.79536100,"rng_nm":25,"alt_fmsl":222,"id":"VZU","desc":"MULU VOR-DME"},
+{"type":"VOR","hdg_t":324.9,"dist_nm":73.1,"freq":113.4,"lat":4.79727800,"lon":115.00233100,"rng_nm":40,"alt_fmsl":14,"id":"VLG","desc":"LIMBANG VOR-DME"},
+{"type":"VOR","hdg_t":322.8,"dist_nm":81,"freq":112,"lat":4.87458900,"lon":114.88549200,"rng_nm":130,"alt_fmsl":229,"id":"BRU","desc":"BRUNEI VOR-DME"},
+{"type":"NDB","hdg_t":323.9,"dist_nm":81.6,"freq":318,"lat":4.89907500,"lon":114.90130000,"rng_nm":50,"alt_fmsl":0,"id":"BR","desc":"BRUNEI NDB"},
+{"type":"NDB","hdg_t":285.3,"dist_nm":86.9,"freq":404,"lat":4.17750000,"lon":114.30527800,"rng_nm":50,"alt_fmsl":0,"id":"MDI","desc":"MARUDI NDB"},
+{"type":"NDB","hdg_t":343.2,"dist_nm":92.9,"freq":260,"lat":5.28472200,"lon":115.25505600,"rng_nm":50,"alt_fmsl":101,"id":"LAB","desc":"LABUAN NDB"},
+{"type":"VOR","hdg_t":343.1,"dist_nm":93.3,"freq":116.3,"lat":5.29000000,"lon":115.25172200,"rng_nm":130,"alt_fmsl":101,"id":"VLB","desc":"LABUAN VOR-DME"},
+{"type":"NDB","hdg_t":302,"dist_nm":94.1,"freq":250,"lat":4.63027800,"lon":114.37166700,"rng_nm":50,"alt_fmsl":59,"id":"AKI","desc":"ANDUKI NDB"}
+]
+}

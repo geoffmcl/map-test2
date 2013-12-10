@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YDLQ","name":"Deniliquin","lat":-35.55428882,"lon":144.94970161,"rwys":2,"ils":0,"index":5311899,"path":"e140s40/e144s36"
+,"runways":[
+{"len_m":1219,"wid_m":29.87,"hdg":66,"surf":"Asphalt","rwy1":"06","lat1":-35.56105138,"lon1":144.94029312,"rwy2":"24","lat2":-35.55661562,"lon2":144.95259754},
+{"len_m":601,"wid_m":29.87,"hdg":141,"surf":"Dirt","rwy1":"12","lat1":-35.55250494,"lon1":144.94276459,"rwy2":"30","lat2":-35.55672194,"lon2":144.94693659}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119,"desc":"CTAF"}
+]
+}

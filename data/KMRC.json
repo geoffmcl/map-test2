@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMRC","name":"Maury Co","lat":35.55384225,"lon":-87.178507,"rwys":2,"ils":1,"index":1515363,"path":"w090n30/w088n35"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":53,"surf":"Asphalt","rwy1":"06","lat1":35.55031400,"lon1":-87.18713300,"rwy2":"24","lat2":35.56007800,"lon2":-87.17086700},
+{"len_m":609,"wid_m":60.96,"hdg":170,"surf":"Turf/grass","rwy1":"17","lat1":35.55519400,"lon1":-87.17859700,"rwy2":"35","lat2":35.54978300,"lon2":-87.17743100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

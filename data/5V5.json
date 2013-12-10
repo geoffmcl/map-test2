@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"5V5","name":"Shiprock Airstrip","lat":36.6972735,"lon":-108.701397,"rwys":1,"ils":0,"index":1171369,"path":"w110n30/w109n36"
+,"runways":[
+{"len_m":1475,"wid_m":22.86,"hdg":32,"surf":"Asphalt","rwy1":"02","lat1":36.69166700,"lon1":-108.70583100,"rwy2":"20","lat2":36.70288000,"lon2":-108.69696300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"MEDEVAC"}
+]
+}

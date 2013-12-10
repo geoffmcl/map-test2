@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O27","name":"Oakdale","lat":37.756353,"lon":-120.8001985,"rwys":1,"ils":0,"index":974832,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":918,"wid_m":20.12,"hdg":111,"surf":"Asphalt","rwy1":"10","lat1":37.75786400,"lon1":-120.80505300,"rwy2":"28","lat2":37.75484200,"lon2":-120.79534400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"NORCAL APP/DEP"}
+]
+}

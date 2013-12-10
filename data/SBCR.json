@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBCR","name":"Corumba Intl","lat":-19.0119305,"lon":-57.6730515,"rwys":1,"ils":0,"index":2003386,"path":"w060s20/w058s20"
+,"runways":[
+{"len_m":2003,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"09","lat1":-19.01431700,"lon1":-57.68222800,"rwy2":"27","lat2":-19.00954400,"lon2":-57.66387500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.5,"desc":"RDO"},
+{"type":"APP","freq":119.5,"desc":"APP"}
+]
+}

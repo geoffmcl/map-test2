@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"0WA0","name":"Lower Granite State","lat":46.67349222,"lon":-117.44268389,"rwys":1,"ils":0,"index":1024554,"path":"w120n40/w118n46"
+,"runways":[
+{"len_m":1037,"wid_m":15.24,"hdg":158,"surf":"Gravel","rwy1":"14","lat1":46.67784557,"lon1":-117.44511934,"rwy2":"32","lat2":46.66913887,"lon2":-117.44024844}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":89.6,"dist_nm":9,"freq":109,"lat":46.67430556,"lon":-117.22350000,"rng_nm":40,"alt_fmsl":2720,"id":"PUW","desc":"PULLMAN VOR-DME"},
+{"type":"VOR","hdg_t":126.2,"dist_nm":29.5,"freq":108.2,"lat":46.38155556,"lon":-116.86950000,"rng_nm":40,"alt_fmsl":1723,"id":"MQG","desc":"NEZ PERCE VOR-DME"},
+{"type":"NDB","hdg_t":226.5,"dist_nm":43.2,"freq":353,"lat":46.17555556,"lon":-118.19636111,"rng_nm":50,"alt_fmsl":0,"id":"AL","desc":"TRINA NDB"},
+{"type":"VOR","hdg_t":225.3,"dist_nm":49.8,"freq":116.4,"lat":46.08697222,"lon":-118.29252778,"rng_nm":40,"alt_fmsl":1179,"id":"ALW","desc":"WALLA WALLA VOR-DME"},
+{"type":"VOR","hdg_t":352,"dist_nm":54,"freq":115.5,"lat":47.56494444,"lon":-117.62688889,"rng_nm":130,"alt_fmsl":2756,"id":"GEG","desc":"SPOKANE VORTAC"},
+{"type":"SDME","hdg_t":350.9,"dist_nm":56.9,"freq":111.4,"lat":47.61069400,"lon":-117.66230300,"rng_nm":40,"alt_fmsl":2460,"id":"SKA","desc":"FAIRCHILD TACAN"},
+{"type":"NDB","hdg_t":359.7,"dist_nm":60.2,"freq":388,"lat":47.67700000,"lon":-117.45019444,"rng_nm":50,"alt_fmsl":0,"id":"CRK","desc":"CANYON NDB"},
+{"type":"NDB","hdg_t":16.8,"dist_nm":67.1,"freq":347,"lat":47.74286111,"lon":-116.96100000,"rng_nm":50,"alt_fmsl":0,"id":"LEN","desc":"POST FALLS NDB"},
+{"type":"NDB","hdg_t":253.3,"dist_nm":68.1,"freq":331,"lat":46.33813889,"lon":-119.01252778,"rng_nm":50,"alt_fmsl":0,"id":"PS","desc":"DUNEZ NDB"},
+{"type":"VOR","hdg_t":20.8,"dist_nm":70.7,"freq":108.8,"lat":47.77369444,"lon":-116.82058333,"rng_nm":25,"alt_fmsl":2320,"id":"COE","desc":"COEUR D'ALENE VOR-DME"},
+{"type":"VOR","hdg_t":251,"dist_nm":73.6,"freq":108.4,"lat":46.26297222,"lon":-119.11572222,"rng_nm":40,"alt_fmsl":404,"id":"PSC","desc":"PASCO VOR-DME"},
+{"type":"NDB","hdg_t":257,"dist_nm":77.4,"freq":260,"lat":46.37047222,"lon":-119.25911111,"rng_nm":50,"alt_fmsl":0,"id":"RL","desc":"RIBOO NDB"},
+{"type":"NDB","hdg_t":0.4,"dist_nm":77.6,"freq":365,"lat":47.96775000,"lon":-117.42633333,"rng_nm":50,"alt_fmsl":0,"id":"DPY","desc":"DEER PARK NDB"},
+{"type":"NDB","hdg_t":290,"dist_nm":79.9,"freq":408,"lat":47.11572222,"lon":-119.27450000,"rng_nm":50,"alt_fmsl":0,"id":"MW","desc":"PELLY NDB"},
+{"type":"NDB","hdg_t":195.4,"dist_nm":82.7,"freq":296,"lat":45.34250000,"lon":-117.96275000,"rng_nm":50,"alt_fmsl":0,"id":"LGD","desc":"LA GRANDE NDB"},
+{"type":"VOR","hdg_t":293.3,"dist_nm":83.5,"freq":115,"lat":47.21086111,"lon":-119.31680556,"rng_nm":130,"alt_fmsl":1194,"id":"MWH","desc":"MOSES LAKE VOR-DME"},
+{"type":"VOR","hdg_t":227.3,"dist_nm":85.5,"freq":114.7,"lat":45.69841667,"lon":-118.93869444,"rng_nm":130,"alt_fmsl":1559,"id":"PDT","desc":"PENDLETON VORTAC"},
+{"type":"VOR","hdg_t":56.8,"dist_nm":87.4,"freq":117.8,"lat":47.45691667,"lon":-115.64605556,"rng_nm":130,"alt_fmsl":6100,"id":"MLP","desc":"MULLAN PASS VOR-DME"},
+{"type":"VOR","hdg_t":298.1,"dist_nm":91.6,"freq":112.6,"lat":47.37791667,"lon":-119.42400000,"rng_nm":130,"alt_fmsl":1250,"id":"EPH","desc":"EPHRATA VORTAC"}
+]
+}

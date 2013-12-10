@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7W5","name":"Henry Co","lat":41.3743555,"lon":-84.068468,"rwys":1,"ils":0,"index":1564883,"path":"w090n40/w085n41"
+,"runways":[
+{"len_m":1205,"wid_m":19.81,"hdg":100,"surf":"Asphalt","rwy1":"11","lat1":41.37537200,"lon1":-84.07554700,"rwy2":"29","lat2":41.37333900,"lon2":-84.06138900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.35,"desc":"TOLEDO APP/DEP"}
+]
+}

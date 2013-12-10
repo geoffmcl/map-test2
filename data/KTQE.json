@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTQE","name":"Tekamah Muni","lat":41.76699463,"lon":-096.17845317,"rwys":1,"ils":0,"index":1368307,"path":"w100n40/w097n41"
+,"runways":[
+{"len_m":1221,"wid_m":22.86,"hdg":153,"surf":"Concrete","rwy1":"14","lat1":41.76845837,"lon1":-96.18119890,"rwy2":"32","lat2":41.75860613,"lon2":-96.17467085}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+}

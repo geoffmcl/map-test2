@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAVC","name":"Comodoro Rivadavia","lat":-45.785349,"lon":-67.465561,"rwys":1,"ils":1,"index":1837834,"path":"w070s50/w068s46"
+,"runways":[
+{"len_m":2832,"wid_m":49.99,"hdg":79,"surf":"Concrete","rwy1":"07","lat1":-45.78778100,"lon1":-67.48343600,"rwy2":"25","lat2":-45.78291700,"lon2":-67.44768600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"COMODORO TWR"},
+{"type":"TWR","freq":120.8,"desc":"COMODORO TWR"},
+{"type":"APP","freq":124.3,"desc":"COMODORO CON"}
+]
+}

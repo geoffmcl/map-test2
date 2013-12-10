@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O53","name":"Medford Muni","lat":36.790585,"lon":-97.7490015,"rwys":1,"ils":0,"index":1351601,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":916,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":36.79471400,"lon1":-97.74898900,"rwy2":"35","lat2":36.78645600,"lon2":-97.74901400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.07,"desc":"VANCE APP/DEP"}
+]
+}

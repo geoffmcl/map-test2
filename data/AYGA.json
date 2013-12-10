@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AYGA","name":"Goroka","lat":-06.08365181,"lon":145.39078409,"rwys":1,"ils":0,"index":5330171,"path":"e140s10/e145s07"
+,"runways":[
+{"len_m":1653,"wid_m":57.91,"hdg":355,"surf":"Asphalt","rwy1":"17","lat1":-6.09025297,"lon1":145.39192991,"rwy2":"35","lat2":-6.07534004,"lon2":145.39082857}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.25,"desc":"AYGA ATIS"},
+{"type":"GND","freq":130.75,"desc":"GOROKA GND"},
+{"type":"TWR","freq":118.7,"desc":"GOROKA TWR"}
+]
+}

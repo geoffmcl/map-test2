@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNUC","name":"San Clemente Island Nalf","lat":33.01987800,"lon":-118.58279400,"rwys":1,"ils":0,"index":1007297,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":2834,"wid_m":60.96,"hdg":67,"surf":"Concrete","rwy1":"05","lat1":33.01781100,"lon1":-118.60248300,"rwy2":"23","lat2":33.02767800,"lon2":-118.57449200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.55,"desc":"GND"},
+{"type":"TWR","freq":126.75,"desc":"TWR"},
+{"type":"TWR","freq":120.85,"desc":"BEAVER CON"}
+]
+}

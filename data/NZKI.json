@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZKI","name":"Kaikoura","lat":-42.42382600,"lon":173.60231400,"rwys":1,"ils":0,"index":5786594,"path":"e170s50/e173s43"
+,"runways":[
+{"len_m":700,"wid_m":10.06,"hdg":66,"surf":"Asphalt","rwy1":"05","lat1":-42.42441200,"lon1":173.60199800,"rwy2":"23","lat2":-42.42185000,"lon2":173.60978200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.4,"desc":"CHRISTCHURCH FSS"},
+{"type":"CTAF","freq":119.1,"desc":"KAIKOURA MULT"}
+]
+}

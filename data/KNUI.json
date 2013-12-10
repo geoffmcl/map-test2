@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNUI","name":"Webster Nolf","lat":38.1461375,"lon":-76.42845675,"rwys":2,"ils":0,"index":1695754,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"08","lat1":38.14241400,"lon1":-76.43446900,"rwy2":"26","lat2":38.14801400,"lon2":-76.41859700},
+{"len_m":1524,"wid_m":45.72,"hdg":141,"surf":"Asphalt","rwy1":"15","lat1":38.15245300,"lon1":-76.43576100,"rwy2":"33","lat2":38.14166900,"lon2":-76.42500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"NAVY WEBSTER TWR"},
+{"type":"APP","freq":120.05,"desc":"PATUXENT APP/DEP"}
+]
+}

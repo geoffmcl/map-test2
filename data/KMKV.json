@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMKV","name":"Marksville Muni","lat":31.0947225,"lon":-92.0691655,"rwys":1,"ils":0,"index":1433155,"path":"w100n30/w093n31"
+,"runways":[
+{"len_m":1152,"wid_m":22.86,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":31.09055600,"lon1":-92.07277800,"rwy2":"22","lat2":31.09888900,"lon2":-92.06555300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":132.05,"desc":"POLK APP/DEP"}
+]
+}

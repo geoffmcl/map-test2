@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOGD","name":"Ogden Hinckley","lat":41.1959197533333,"lon":-112.012476333333,"rwys":3,"ils":1,"index":1106123,"path":"w120n40/w113n41"
+,"runways":[
+{"len_m":2469,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":41.18802500,"lon1":-112.02082200,"rwy2":"21","lat2":41.20379200,"lon2":-112.00006900},
+{"len_m":1706,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":41.19786100,"lon1":-112.02221900,"rwy2":"25","lat2":41.19792500,"lon2":-112.00187500},
+{"len_m":1628,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":41.20129052,"lon1":-112.01496700,"rwy2":"34","lat2":41.18662500,"lon2":-112.01490600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.55,"desc":"ASOS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"}
+]
+}

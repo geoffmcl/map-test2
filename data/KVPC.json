@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVPC","name":"Cartersville","lat":34.123147,"lon":-84.848707,"rwys":1,"ils":1,"index":1564416,"path":"w090n30/w085n34"
+,"runways":[
+{"len_m":1755,"wid_m":30.48,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":34.11524700,"lon1":-84.84928600,"rwy2":"19","lat2":34.13104700,"lon2":-84.84812800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"ATLANTA APP/DEP"}
+]
+}

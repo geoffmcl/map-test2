@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDYS","name":"Dyess Afb","lat":32.4193591666667,"lon":-99.855863,"rwys":3,"ils":1,"index":1318552,"path":"w100n30/w100n32"
+,"runways":[
+{"len_m":4114,"wid_m":91.44,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":32.43895600,"lon1":-99.85883100,"rwy2":"34","lat2":32.40255600,"lon2":-99.85036900},
+{"len_m":1064,"wid_m":18.29,"hdg":166,"surf":"Dirt","rwy1":"16C","lat1":32.42542172,"lon1":-99.85593667,"rwy2":"34C","lat2":32.41609028,"lon2":-99.85326333},
+{"len_m":1085,"wid_m":18.29,"hdg":168,"surf":"Asphalt","rwy1":"16R","lat1":32.42136700,"lon1":-99.85950300,"rwy2":"34L","lat2":32.41176400,"lon2":-99.85727500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.35,"desc":"GND"},
+{"type":"TWR","freq":133,"desc":"TWR"},
+{"type":"APP","freq":125,"desc":"ABILENE APP/DEP"},
+{"type":"APP","freq":127.2,"desc":"ABILENE APP/DEP"}
+]
+}

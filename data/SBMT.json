@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBMT","name":"Marte","lat":-23.5091195,"lon":-46.637754,"rwys":1,"ils":0,"index":2183321,"path":"w050s30/w047s24"
+,"runways":[
+{"len_m":1599,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"12","lat1":-23.50783100,"lon1":-46.64545800,"rwy2":"30","lat2":-23.51040800,"lon2":-46.63005000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"SAO PAULO APP"},
+{"type":"APP","freq":120.05,"desc":"SAO PAULO APP"},
+{"type":"APP","freq":129.5,"desc":"SAO PAULO APP"}
+]
+}

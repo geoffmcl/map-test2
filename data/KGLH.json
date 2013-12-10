@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGLH","name":"Mid Delta Rgnl","lat":33.48520475,"lon":-90.98465425,"rwys":2,"ils":1,"index":1466072,"path":"w100n30/w091n33"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18L","lat1":33.49687200,"lon1":-90.98208900,"rwy2":"36R","lat2":33.47488600,"lon2":-90.98208900},
+{"len_m":2139,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18R","lat1":33.49417500,"lon1":-90.98722200,"rwy2":"36L","lat2":33.47488600,"lon2":-90.98721700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"ASOS"},
+{"type":"CTAF","freq":119,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"GREENVILLE TWR"}
+]
+}

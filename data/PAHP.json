@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAHP","name":"Hooper Bay","lat":61.523872,"lon":-166.146625,"rwys":1,"ils":0,"index":222691,"path":"w170n60/w167n61"
+,"runways":[
+{"len_m":1005,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"13","lat1":61.52772500,"lon1":-166.15154200,"rwy2":"31","lat2":61.52001900,"lon2":-166.14170800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.1,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+}

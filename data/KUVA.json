@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUVA","name":"Garner Fld","lat":29.2103745,"lon":-99.743072,"rwys":2,"ils":0,"index":1318345,"path":"w100n20/w100n29"
+,"runways":[
+{"len_m":1601,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":29.21788100,"lon1":-99.74706900,"rwy2":"33","lat2":29.20479200,"lon2":-99.74010000},
+{"len_m":1005,"wid_m":22.86,"hdg":155,"surf":"Turf/grass","rwy1":"15C","lat1":29.21352500,"lon1":-99.74474400,"rwy2":"33C","lat2":29.20530000,"lon2":-99.74037500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

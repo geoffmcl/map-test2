@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMHV","name":"Mojave","lat":35.05703039,"lon":-118.14937381,"rwys":3,"ils":0,"index":1007427,"path":"w120n30/w119n35"
+,"runways":[
+{"len_m":3811,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":35.06915338,"lon1":-118.16043580,"rwy2":"30","lat2":35.04479647,"lon2":-118.13096548},
+{"len_m":2148,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":35.05921100,"lon1":-118.16610800,"rwy2":"26","lat2":35.05916900,"lon2":-118.14255300},
+{"len_m":1201,"wid_m":14.94,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":35.05962500,"lon1":-118.16446400,"rwy2":"22","lat2":35.06632213,"lon2":-118.15411413}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.23,"desc":"AWOS"},
+{"type":"CTAF","freq":127.6,"desc":"CTAF"},
+{"type":"GND","freq":123.9,"desc":"GND"},
+{"type":"TWR","freq":127.6,"desc":"TWR"},
+{"type":"APP","freq":133.65,"desc":"JOSHUA APP/DEP"}
+]
+}

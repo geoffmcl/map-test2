@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I75","name":"Osceola Muni","lat":41.052358,"lon":-93.689522,"rwys":1,"ils":0,"index":1417409,"path":"w100n40/w094n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":178,"surf":"Concrete","rwy1":"18","lat1":41.05784700,"lon1":-93.68965800,"rwy2":"36","lat2":41.04686900,"lon2":-93.68938600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.2,"desc":"DES MOINES APP/DEP"}
+]
+}

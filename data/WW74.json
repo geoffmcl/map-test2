@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WW74","name":"Ransiki/abresso (dgac)","lat":-1.496771,"lon":134.174946,"rwys":1,"ils":0,"index":5150241,"path":"e130s10/e134s02"
+,"runways":[
+{"len_m":1049,"wid_m":29.87,"hdg":124,"surf":"Turf/grass","rwy1":"12","lat1":-1.49409310,"lon1":134.17105206,"rwy2":"30","lat2":-1.49944890,"lon2":134.17883994}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":348.5,"dist_nm":37.1,"freq":207,"lat":-0.88712500,"lon":134.05178300,"rng_nm":50,"alt_fmsl":15,"id":"ZQ","desc":"MANOKWARI NDB"},
+{"type":"VOR","hdg_t":80.7,"dist_nm":116.3,"freq":112.5,"lat":-1.18247222,"lon":136.08613889,"rng_nm":130,"alt_fmsl":46,"id":"BIK","desc":"BIAK VOR-DME"},
+{"type":"NDB","hdg_t":80.7,"dist_nm":116.8,"freq":230,"lat":-1.18204200,"lon":136.09485300,"rng_nm":50,"alt_fmsl":46,"id":"ZM","desc":"BIAK NDB"},
+{"type":"NDB","hdg_t":191.3,"dist_nm":131.8,"freq":310,"lat":-3.66166700,"lon":133.74166700,"rng_nm":50,"alt_fmsl":0,"id":"ZV","desc":"KAIMANA NDB"},
+{"type":"NDB","hdg_t":144.5,"dist_nm":136.6,"freq":242,"lat":-3.36166700,"lon":135.49500000,"rng_nm":50,"alt_fmsl":20,"id":"ZR","desc":"NABIRE NDB"},
+{"type":"VOR","hdg_t":144.7,"dist_nm":137.8,"freq":117.3,"lat":-3.38195800,"lon":135.50112200,"rng_nm":130,"alt_fmsl":20,"id":"NBR","desc":"NABIRE VOR-DME"},
+{"type":"NDB","hdg_t":232.6,"dist_nm":141.5,"freq":380,"lat":-2.93333300,"lon":132.30000000,"rng_nm":50,"alt_fmsl":462,"id":"FA","desc":"FAK FAK NDB"},
+{"type":"VOR","hdg_t":281.6,"dist_nm":177,"freq":117.1,"lat":-0.89622200,"lon":131.28978300,"rng_nm":130,"alt_fmsl":10,"id":"MIL","desc":"DOMINIQUE EDWARD OSOK VOR-DME"},
+{"type":"NDB","hdg_t":280.5,"dist_nm":186.2,"freq":389,"lat":-0.92111100,"lon":131.12817500,"rng_nm":50,"alt_fmsl":10,"id":"ZO","desc":"SORONG NDB"},
+{"type":"VOR","hdg_t":280.5,"dist_nm":186.7,"freq":114.4,"lat":-0.92312500,"lon":131.12026700,"rng_nm":130,"alt_fmsl":10,"id":"SOG","desc":"SORONG VOR-DME"}
+]
+}

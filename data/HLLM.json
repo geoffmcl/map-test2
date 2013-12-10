@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HLLM","name":"Mitiga","lat":32.89508275,"lon":13.2824165,"rwys":2,"ils":0,"index":3169977,"path":"e010n30/e013n32"
+,"runways":[
+{"len_m":3369,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"11","lat1":32.89522200,"lon1":13.26950000,"rwy2":"29","lat2":32.88716400,"lon2":13.30422200},
+{"len_m":1815,"wid_m":45.11,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":32.89188900,"lon1":13.27311100,"rwy2":"21","lat2":32.90605600,"lon2":13.28283300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"TWR","freq":126.3,"desc":"TWR"}
+]
+}

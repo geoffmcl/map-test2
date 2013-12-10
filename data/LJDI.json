@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LJDI","name":"Divaca","lat":45.68342111,"lon":013.99814173,"rwys":2,"ils":0,"index":3170795,"path":"e010n40/e013n45"
+,"runways":[
+{"len_m":804,"wid_m":20.12,"hdg":116,"surf":"Turf/grass","rwy1":"12","lat1":45.68476089,"lon1":13.99948584,"rwy2":"30","lat2":45.68151263,"lon2":14.00870794},
+{"len_m":808,"wid_m":14.94,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":45.68450466,"lon1":13.99925478,"rwy2":"31","lat2":45.67969466,"lon2":14.00703478}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"Divaca airport frequency"}
+]
+}

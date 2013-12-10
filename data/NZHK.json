@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZHK","name":"Hokitika","lat":-42.71373000,"lon":170.98477200,"rwys":2,"ils":0,"index":5737427,"path":"e170s50/e170s43"
+,"runways":[
+{"len_m":1339,"wid_m":29.87,"hdg":57,"surf":"Asphalt","rwy1":"04","lat1":-42.71361100,"lon1":170.97900000,"rwy2":"22","lat2":-42.70722200,"lon2":170.99286100},
+{"len_m":1213,"wid_m":17.98,"hdg":147,"surf":"Asphalt","rwy1":"13","lat1":-42.71055600,"lon1":170.98425000,"rwy2":"31","lat2":-42.71972200,"lon2":170.99231100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.1,"desc":"ASOS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":118.5,"desc":"CHRISTCHURCH FIS"}
+]
+}

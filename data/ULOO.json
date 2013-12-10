@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ULOO","name":"Pskov","lat":57.78387225,"lon":28.39646825,"rwys":2,"ils":0,"index":3417329,"path":"e020n50/e028n57"
+,"runways":[
+{"len_m":1999,"wid_m":43.89,"hdg":18,"surf":"Concrete","rwy1":"01","lat1":57.77537800,"lon1":28.39041400,"rwy2":"19","lat2":57.79245300,"lon2":28.40081400},
+{"len_m":1726,"wid_m":43.89,"hdg":18,"surf":"Dirt","rwy1":"01R","lat1":57.77647500,"lon1":28.39273900,"rwy2":"19L","lat2":57.79118300,"lon2":28.40190600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122,"desc":"TWR"}
+]
+}

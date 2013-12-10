@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCOQ","name":"Cloquet Carlton Co","lat":46.70127525,"lon":-92.50332525,"rwys":2,"ils":0,"index":1434153,"path":"w100n40/w093n46"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":46.70565600,"lon1":-92.50564200,"rwy2":"35","lat2":46.69468300,"lon2":-92.50541700},
+{"len_m":944,"wid_m":22.86,"hdg":72,"surf":"Asphalt","rwy1":"07","lat1":46.70113100,"lon1":-92.50702500,"rwy2":"25","lat2":46.70363100,"lon2":-92.49521700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":122.15,"desc":"DULUTH CLNC DEL"},
+{"type":"APP","freq":125.45,"desc":"DULUTH APP/DEP"}
+]
+}

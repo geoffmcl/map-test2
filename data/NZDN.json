@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZDN","name":"Dunedin","lat":-45.92446500,"lon":170.19888300,"rwys":1,"ils":2,"index":5737216,"path":"e170s50/e170s46"
+,"runways":[
+{"len_m":1899,"wid_m":45.72,"hdg":56,"surf":"Asphalt","rwy1":"03","lat1":-45.93392500,"lon1":170.18747200,"rwy2":"21","lat2":-45.92437800,"lon2":170.20778600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"TWR","freq":122.4,"desc":"TWR"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"TWR","freq":129.3,"desc":"CHRISTCHURCH CON"},
+{"type":"APP","freq":120.7,"desc":"APP"},
+{"type":"APP","freq":122.4,"desc":"APP"}
+]
+}

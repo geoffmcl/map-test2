@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIDA","name":"Kida","lat":43.51535273,"lon":-112.06766686,"rwys":2,"ils":1,"index":1106275,"path":"w120n40/w113n43"
+,"runways":[
+{"len_m":1234,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"17","lat1":43.51148934,"lon1":-112.06210285,"rwy2":"35","lat2":43.52259284,"lon2":-112.06159267},
+{"len_m":2743,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"2","lat1":43.50251563,"lon1":-112.08521334,"rwy2":"20","lat2":43.52196713,"lon2":-112.06432106}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"ASOS"},
+{"type":"ATIS","freq":135.32,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

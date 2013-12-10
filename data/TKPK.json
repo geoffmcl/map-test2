@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"TKPK","name":"St. Kitts/bradshaw Intl","lat":17.31238909,"lon":-062.72074275,"rwys":1,"ils":0,"index":1923794,"path":"w070n10/w063n17"
+,"runways":[
+{"len_m":2321,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":17.30550000,"lon1":-62.72783300,"rwy2":"25","lat2":17.31688900,"lon2":-62.70950000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+}

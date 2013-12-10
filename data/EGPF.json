@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGPF","name":"Glasgow","lat":55.86977243,"lon":-004.43040165,"rwys":1,"ils":1,"index":2876530,"path":"w010n50/w005n55"
+,"runways":[
+{"len_m":2663,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":55.86348064,"lon1":-4.44906008,"rwy2":"23","lat2":55.87997447,"lon2":-4.41823594}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":55.87097754,"lon1":-4.42522446},
+{"rwy1":"H2","len_m":20,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":55.87108640,"lon1":-4.42567583}
+]
+,"radios":[
+{"type":"ATIS","freq":129.57,"desc":"Glasgow Information"},
+{"type":"GND","freq":121.7,"desc":"Glasgow Ground"},
+{"type":"TWR","freq":118.8,"desc":"Glasgow Tower"},
+{"type":"APP","freq":119.1,"desc":"Glasgow Approach"}
+]
+}

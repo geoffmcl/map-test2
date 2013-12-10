@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMHB","name":"Hobart","lat":-42.83565863,"lon":147.50161902,"rwys":1,"ils":1,"index":5360586,"path":"e140s50/e147s43"
+,"runways":[
+{"len_m":2250,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":-42.82900549,"lon1":147.50206525,"rwy2":"30","lat2":-42.84332901,"lon2":147.52153013}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":22.86,"hdg":147,"surf":"Asphalt","lat1":-42.83864300,"lon1":147.50904994}
+]
+,"radios":[
+{"type":"ATIS","freq":128.44,"desc":"YMHB ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"HOBART MULT"},
+{"type":"TWR","freq":118.1,"desc":"HOBART TWR"}
+]
+}

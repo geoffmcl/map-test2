@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I58","name":"Santa Rosa Route 66","lat":34.93514375,"lon":-104.64340425,"rwys":2,"ils":0,"index":1236793,"path":"w110n30/w105n34"
+,"runways":[
+{"len_m":1905,"wid_m":22.86,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":34.92299200,"lon1":-104.64525300,"rwy2":"19","lat2":34.93898100,"lon2":-104.63763300},
+{"len_m":1343,"wid_m":18.29,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":34.93916900,"lon1":-104.65271700,"rwy2":"26","lat2":34.93943300,"lon2":-104.63801400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

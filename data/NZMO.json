@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZMO","name":"Manapouri-te_anau","lat":-45.53243800,"lon":167.64537800,"rwys":1,"ils":0,"index":5688090,"path":"e160s50/e167s46"
+,"runways":[
+{"len_m":1605,"wid_m":29.87,"hdg":101,"surf":"Asphalt","rwy1":"08","lat1":-45.53139300,"lon1":167.64314000,"rwy2":"26","lat2":-45.53439300,"lon2":167.66325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"QUEENSTOWN FSS"},
+{"type":"GND","freq":128.75,"desc":"MANAPOURI GND"},
+{"type":"TWR","freq":118.5,"desc":"MANAPOURI TWR"}
+]
+}

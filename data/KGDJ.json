@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGDJ","name":"Granbury Muni","lat":32.444418,"lon":-97.816933,"rwys":1,"ils":0,"index":1351320,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1098,"wid_m":18.29,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":32.44869200,"lon1":-97.81988300,"rwy2":"32","lat2":32.44014400,"lon2":-97.81398300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

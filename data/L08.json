@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"L08","name":"Borrego Valley","lat":33.259028,"lon":-116.3209725,"rwys":1,"ils":0,"index":1040082,"path":"w120n30/w117n33"
+,"runways":[
+{"len_m":1527,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":33.25888900,"lon1":-116.32916700,"rwy2":"26","lat2":33.25916700,"lon2":-116.31277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.57,"desc":"AWOS 1"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIEA","name":"Alghero","lat":40.62981030,"lon":008.28584290,"rwys":1,"ils":1,"index":3088553,"path":"e000n40/e008n40"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":24,"surf":"Asphalt","rwy1":"02","lat1":40.61984700,"lon1":8.28339200,"rwy2":"20","lat2":40.64441700,"lon2":8.29815600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.02,"desc":"ATIS"},
+{"type":"TWR","freq":118.85,"desc":"TWR"},
+{"type":"APP","freq":128.55,"desc":"APP"}
+]
+}

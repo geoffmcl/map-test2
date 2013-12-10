@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WMKE","name":"Kerteh","lat":4.5372235,"lon":103.426754,"rwys":1,"ils":1,"index":4642723,"path":"e100n00/e103n04"
+,"runways":[
+{"len_m":1355,"wid_m":29.87,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":4.54306900,"lon1":103.42492500,"rwy2":"34","lat2":4.53137800,"lon2":103.42858300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":123.3,"desc":"TWR"}
+]
+}

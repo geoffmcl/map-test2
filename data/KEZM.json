@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEZM","name":"Heart Of Georgia Rgnl","lat":32.21639,"lon":-83.1286695,"rwys":1,"ils":1,"index":1580683,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":1983,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":32.20776900,"lon1":-83.13146100,"rwy2":"20","lat2":32.22501100,"lon2":-83.12587800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+}

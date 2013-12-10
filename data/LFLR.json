@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFLR","name":"St_rambert_d'albon","lat":45.25368675,"lon":004.82498334,"rwys":2,"ils":0,"index":3023315,"path":"e000n40/e004n45"
+,"runways":[
+{"len_m":899,"wid_m":99.97,"hdg":7,"surf":"Turf/grass","rwy1":"01R","lat1":45.24778296,"lon1":4.82646713,"rwy2":"19L","lat2":45.25580696,"lon2":4.82800513},
+{"len_m":899,"wid_m":99.97,"hdg":7,"surf":"Turf/grass","rwy1":"01L","lat1":45.24791596,"lon1":4.82487913,"rwy2":"19R","lat2":45.25594196,"lon2":4.82638913}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.4,"desc":"SAINT_RAMBERT TWR"}
+]
+}

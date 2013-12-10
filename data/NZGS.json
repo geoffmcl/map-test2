@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZGS","name":"Gisborne","lat":-38.66161500,"lon":177.98262000,"rwys":4,"ils":0,"index":5852371,"path":"e170s40/e177s39"
+,"runways":[
+{"len_m":1316,"wid_m":45.11,"hdg":164,"surf":"Asphalt","rwy1":"14","lat1":-38.65776100,"lon1":177.97555400,"rwy2":"32","lat2":-38.66921300,"lon2":177.97947800},
+{"len_m":1150,"wid_m":60.05,"hdg":51,"surf":"Turf/grass","rwy1":"03","lat1":-38.66587600,"lon1":177.97286700,"rwy2":"21","lat2":-38.65936400,"lon2":177.98314900},
+{"len_m":1171,"wid_m":60.05,"hdg":110,"surf":"Turf/grass","rwy1":"09","lat1":-38.66010700,"lon1":177.97098600,"rwy2":"27","lat2":-38.66387900,"lon2":177.98355200},
+{"len_m":762,"wid_m":60.05,"hdg":164,"surf":"Turf/grass","rwy1":"14L","lat1":-38.65789100,"lon1":177.97887400,"rwy2":"32R","lat2":-38.66452300,"lon2":177.98114600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"GISBORNE ATIS"},
+{"type":"GND","freq":130.9,"desc":"GISBORNE GND"},
+{"type":"TWR","freq":118.2,"desc":"GISBORNE TWR"},
+{"type":"TWR","freq":127.3,"desc":"GISBORNE TWR"},
+{"type":"APP","freq":119.2,"desc":"OHAKEA APP"},
+{"type":"APP","freq":118.2,"desc":"GISBORNE APP"},
+{"type":"APP","freq":127.3,"desc":"GISBORNE APP"}
+]
+}

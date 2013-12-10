@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VCCA","name":"Anuradhapura","lat":8.3014885,"lon":80.4278985,"rwys":1,"ils":0,"index":4266131,"path":"e080n00/e080n08"
+,"runways":[
+{"len_m":1486,"wid_m":45.72,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":8.29684400,"lon1":80.42302200,"rwy2":"23","lat2":8.30613300,"lon2":80.43277500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":126.7,"desc":"APP"}
+]
+}

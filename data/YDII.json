@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YDII","name":"Dum In Mirrie Is","lat":-12.63527282,"lon":130.37233803,"rwys":1,"ils":0,"index":5083986,"path":"e130s20/e130s13"
+,"runways":[
+{"len_m":1313,"wid_m":20.12,"hdg":144,"surf":"Dirt","rwy1":"15","lat1":-12.62756551,"lon1":130.36815248,"rwy2":"33","lat2":-12.63728183,"lon2":130.37509883}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"DUM IN MIRRIE CTAF"},
+{"type":"TWR","freq":118.15,"desc":"BRISBANE CENTRE CNTR"}
+]
+}

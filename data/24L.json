@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"24L","name":"Hart Mine","lat":35.28332333,"lon":-115.19248417,"rwys":2,"ils":0,"index":1056595,"path":"w120n30/w116n35"
+,"runways":[
+{"len_m":916,"wid_m":36.58,"hdg":103,"surf":"Dirt","rwy1":"09","lat1":35.28431871,"lon1":-115.19737480,"rwy2":"27","lat2":35.28232795,"lon2":-115.18759354},
+{"len_m":913,"wid_m":36.58,"hdg":14,"surf":"Dirt","rwy1":"36","lat1":35.27933108,"lon1":-115.19370354,"rwy2":"18","lat2":35.28731558,"lon2":-115.19126480}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":175,"dist_nm":9.1,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"VOR","hdg_t":20.5,"dist_nm":45.6,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":130.9,"dist_nm":47,"freq":115.2,"lat":34.76600000,"lon":-114.47411111,"rng_nm":130,"alt_fmsl":620,"id":"EED","desc":"NEEDLES VORTAC"},
+{"type":"VOR","hdg_t":1.9,"dist_nm":47.7,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"},
+{"type":"VOR","hdg_t":90.9,"dist_nm":61.8,"freq":108.8,"lat":35.26052778,"lon":-113.93408333,"rng_nm":40,"alt_fmsl":3410,"id":"IGM","desc":"KINGMAN VOR-DME"},
+{"type":"VOR","hdg_t":245.4,"dist_nm":69,"freq":112.7,"lat":34.79702778,"lon":-116.46291667,"rng_nm":130,"alt_fmsl":1853,"id":"HEC","desc":"HECTOR VORTAC"},
+{"type":"VOR","hdg_t":254.6,"dist_nm":70.8,"freq":113.2,"lat":34.96244444,"lon":-116.57816667,"rng_nm":40,"alt_fmsl":1760,"id":"DAG","desc":"DAGGETT VORTAC"},
+{"type":"VOR","hdg_t":160.2,"dist_nm":75.1,"freq":117.9,"lat":34.10200000,"lon":-114.68208333,"rng_nm":130,"alt_fmsl":1000,"id":"PKE","desc":"PARKER VORTAC"},
+{"type":"VOR","hdg_t":202.3,"dist_nm":75.7,"freq":114.2,"lat":34.11222222,"lon":-115.76991667,"rng_nm":40,"alt_fmsl":1374,"id":"TNP","desc":"TWENTYNINE PALMS VORTAC"},
+{"type":"VOR","hdg_t":75.3,"dist_nm":83.3,"freq":112,"lat":35.62472222,"lon":-113.54447222,"rng_nm":130,"alt_fmsl":4760,"id":"PGS","desc":"PEACH SPRINGS VORTAC"},
+{"type":"VOR","hdg_t":26.3,"dist_nm":99.5,"freq":114.3,"lat":36.76927778,"lon":-114.27747222,"rng_nm":40,"alt_fmsl":2120,"id":"MMM","desc":"MORMON MESA VORTAC"}
+]
+}

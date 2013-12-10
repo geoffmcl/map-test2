@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAMK","name":"St Michael","lat":63.490049,"lon":-162.110378,"rwys":1,"ils":0,"index":288345,"path":"w170n60/w163n63"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":32,"surf":"Gravel","rwy1":"02","lat1":63.48545600,"lon1":-162.11702500,"rwy2":"20","lat2":63.49464200,"lon2":-162.10373100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

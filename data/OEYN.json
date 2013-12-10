@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEYN","name":"Yenbo","lat":24.1442345,"lon":38.063389,"rwys":1,"ils":1,"index":3579016,"path":"e030n20/e038n24"
+,"runways":[
+{"len_m":3218,"wid_m":45.11,"hdg":103,"surf":"Asphalt","rwy1":"10","lat1":24.14754700,"lon1":38.04797200,"rwy2":"28","lat2":24.14092200,"lon2":38.07880600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"TWR","freq":121.9,"desc":"INFO"},
+{"type":"TWR","freq":118.1,"desc":"INFO"}
+]
+}

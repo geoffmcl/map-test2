@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTW7","name":"River Kwai","lat":14.06732457,"lon":099.35922538,"rwys":1,"ils":0,"index":4577794,"path":"e090n10/e099n14"
+,"runways":[
+{"len_m":1394,"wid_m":24.99,"hdg":6,"surf":"Turf/grass","rwy1":"01","lat1":14.05619729,"lon1":99.35991342,"rwy2":"19","lat2":14.06871471,"lon2":99.36138458}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127,"desc":"GND"},
+{"type":"TWR","freq":122,"desc":"KACHANABURI TWR"},
+{"type":"APP","freq":127.75,"desc":"KAMPAENG SAENG APP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJEF","name":"Jefferson City Mem","lat":38.59451300,"lon":-092.15673800,"rwys":2,"ils":1,"index":1433635,"path":"w100n30/w093n38"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":38.59573600,"lon1":-92.16384400,"rwy2":"30","lat2":38.58687800,"lon2":-92.14614400},
+{"len_m":1036,"wid_m":22.86,"hdg":91,"surf":"Concrete","rwy1":"09","lat1":38.59102800,"lon1":-92.16411900,"rwy2":"27","lat2":38.59085000,"lon2":-92.15222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"TWR"},
+{"type":"APP","freq":124.37,"desc":"MIZZU APP/DEP"}
+]
+}

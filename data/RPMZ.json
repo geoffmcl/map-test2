@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPMZ","name":"Zamboanga Intl","lat":6.9224205,"lon":122.059635,"rwys":1,"ils":1,"index":4954168,"path":"e120n00/e122n06"
+,"runways":[
+{"len_m":2609,"wid_m":43.89,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":6.92320800,"lon1":122.04785600,"rwy2":"27","lat2":6.92163300,"lon2":122.07141400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+}

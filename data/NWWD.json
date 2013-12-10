@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NWWD","name":"Kone","lat":-21.054288,"lon":164.83913,"rwys":1,"ils":0,"index":5640510,"path":"e160s30/e164s22"
+,"runways":[
+{"len_m":1000,"wid_m":22.86,"hdg":99,"surf":"Asphalt","rwy1":"09","lat1":-21.05265600,"lon1":164.83303700,"rwy2":"27","lat2":-21.05421000,"lon2":164.84251900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.02,"hdg":164,"surf":"Asphalt","lat1":-21.05514300,"lon1":164.84048200}
+]
+,"radios":[
+{"type":"ATIS","freq":122.5,"desc":"KONE FSS"},
+{"type":"CTAF","freq":122.5,"desc":"KONE UNIC"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEXX","name":"Davidson Co","lat":35.77928535,"lon":-080.30203499,"rwys":1,"ils":1,"index":1630066,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":35.77678404,"lon1":-80.31030122,"rwy2":"24","lat2":35.78548714,"lon2":-80.29725932}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.82,"desc":"AWOS THREE"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":135.07,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.5,"desc":"GREENSBORO APP/DEP"}
+]
+}

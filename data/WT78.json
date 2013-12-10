@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WT78","name":"Nian Baru (maf)","lat":1.383333,"lon":115.266678,"rwys":1,"ils":0,"index":4839130,"path":"e110n00/e115n01"
+,"runways":[
+{"len_m":518,"wid_m":17.07,"hdg":119,"surf":"Dirt","rwy1":"12","lat1":1.38449877,"lon1":115.26465824,"rwy2":"30","lat2":1.38216723,"lon2":115.26869776}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":317.1,"dist_nm":26.1,"freq":227,"lat":1.70500000,"lon":114.97016700,"rng_nm":50,"alt_fmsl":2400,"id":"LO","desc":"LONG APUNG NDB"},
+{"type":"NDB","hdg_t":232.3,"dist_nm":55.9,"freq":290,"lat":0.81166700,"lon":114.53000000,"rng_nm":50,"alt_fmsl":132,"id":"TG","desc":"TIONG OHONG NDB"},
+{"type":"NDB","hdg_t":201.7,"dist_nm":133.2,"freq":276,"lat":-0.69000000,"lon":114.44500000,"rng_nm":50,"alt_fmsl":443,"id":"KMI","desc":"INDO MURO KENCANA NDB"},
+{"type":"NDB","hdg_t":70.3,"dist_nm":138.2,"freq":232,"lat":2.16061400,"lon":117.43372800,"rng_nm":50,"alt_fmsl":49,"id":"KM","desc":"KALIMARU NDB"},
+{"type":"NDB","hdg_t":189.1,"dist_nm":140.5,"freq":242,"lat":-0.94018900,"lon":114.89394400,"rng_nm":60,"alt_fmsl":125,"id":"MW","desc":"MUARA TEWE NDB"},
+{"type":"NDB","hdg_t":256.8,"dist_nm":143.7,"freq":360,"lat":0.83505600,"lon":112.93733300,"rng_nm":50,"alt_fmsl":297,"id":"PB","desc":"PANGSUMA NDB"},
+{"type":"NDB","hdg_t":9.8,"dist_nm":151.5,"freq":356,"lat":3.88333300,"lon":115.70000000,"rng_nm":50,"alt_fmsl":3360,"id":"LN","desc":"LONG BAWANG NDB"},
+{"type":"NDB","hdg_t":119.7,"dist_nm":152.3,"freq":300,"lat":0.11666700,"lon":117.46666700,"rng_nm":50,"alt_fmsl":62,"id":"BG","desc":"BONTANG NDB"},
+{"type":"NDB","hdg_t":75.9,"dist_nm":153.7,"freq":325,"lat":2.00888900,"lon":117.74933300,"rng_nm":50,"alt_fmsl":47,"id":"BE","desc":"MANGKAJANG NDB"},
+{"type":"NDB","hdg_t":55.1,"dist_nm":154.9,"freq":319,"lat":2.86666700,"lon":117.38333300,"rng_nm":50,"alt_fmsl":10,"id":"GN","desc":"GUNUNG SEKIP NDB"}
+]
+}

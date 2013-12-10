@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YRXB","name":"Roxby Downs","lat":-30.70861653,"lon":136.71127820,"rwys":2,"ils":0,"index":5181138,"path":"e130s40/e136s31"
+,"runways":[
+{"len_m":839,"wid_m":17.98,"hdg":97,"surf":"Dirt","rwy1":"09","lat1":-30.70810515,"lon1":136.70794188,"rwy2":"27","lat2":-30.70903000,"lon2":136.71663500},
+{"len_m":674,"wid_m":18.90,"hdg":19,"surf":"Dirt","rwy1":"1","lat1":-30.71091300,"lon1":136.70967164,"rwy2":"19","lat2":-30.70515717,"lon2":136.71196895}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

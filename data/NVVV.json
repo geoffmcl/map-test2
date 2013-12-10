@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NVVV","name":"Bauerfield","lat":-17.69803600,"lon":168.32106600,"rwys":1,"ils":1,"index":5706258,"path":"e160s20/e168s18"
+,"runways":[
+{"len_m":2599,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"11","lat1":-17.69269300,"lon1":168.30670600,"rwy2":"29","lat2":-17.70367300,"lon2":168.32837200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"VILA TWR"},
+{"type":"TWR","freq":120.7,"desc":"VILA TWR"},
+{"type":"APP","freq":118.3,"desc":"VILA_TOWER APP"},
+{"type":"APP","freq":120.7,"desc":"VILA_TOWER APP"}
+]
+}

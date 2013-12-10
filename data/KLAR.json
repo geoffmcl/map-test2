@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLAR","name":"Laramie Rgnl","lat":41.31893625,"lon":-105.67074287,"rwys":2,"ils":0,"index":1220817,"path":"w110n40/w106n41"
+,"runways":[
+{"len_m":2591,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":41.30269050,"lon1":-105.68738188,"rwy2":"21","lat2":41.31902700,"lon2":-105.66528500},
+{"len_m":1929,"wid_m":29.87,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":41.31983720,"lon1":-105.68129805,"rwy2":"30","lat2":41.30765311,"lon2":-105.66487643}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.47,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

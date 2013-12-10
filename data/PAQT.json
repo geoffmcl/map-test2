@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAQT","name":"Nuiqsut","lat":70.2099445,"lon":-151.00555385,"rwys":1,"ils":0,"index":469001,"path":"w160n70/w152n70"
+,"runways":[
+{"len_m":1329,"wid_m":27.13,"hdg":69,"surf":"Gravel","rwy1":"04","lat1":70.20787868,"lon1":-151.02205440,"rwy2":"22","lat2":70.21201032,"lon2":-150.98905329}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.5,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":119.4,"desc":"ANCHORAGE CNTR"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RORS","name":"Shimojijima","lat":24.82641884,"lon":125.14915695,"rwys":1,"ils":2,"index":5004464,"path":"e120n20/e125n24"
+,"runways":[
+{"len_m":2999,"wid_m":60.96,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":24.84004000,"lon1":125.14135300,"rwy2":"35","lat2":24.81376400,"lon2":125.14853900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"Shimojijima Ground"},
+{"type":"TWR","freq":118.3,"desc":"Shimojijima Tower"},
+{"type":"TWR","freq":126.2,"desc":"Shimojijima Tower"},
+{"type":"APP","freq":120.3,"desc":"Shimojijima Approach"},
+{"type":"APP","freq":121.2,"desc":"Shimojijima Approach"},
+{"type":"DEP","freq":125,"desc":"Shimojijima Departure"}
+]
+}

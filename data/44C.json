@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"44C","name":"Beloit","lat":42.49817100,"lon":-088.96846800,"rwys":1,"ils":0,"index":1499416,"path":"w090n40/w089n42"
+,"runways":[
+{"len_m":1005,"wid_m":15.24,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":42.49580346,"lon1":-88.97311685,"rwy2":"25","lat2":42.49974654,"lon2":-88.96210315}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"ROCKFORD APP/DEP"}
+]
+}

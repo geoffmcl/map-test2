@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSHR","name":"Sheridan Co","lat":44.77380062,"lon":-106.97069752,"rwys":3,"ils":1,"index":1204656,"path":"w110n40/w107n44"
+,"runways":[
+{"len_m":2528,"wid_m":29.87,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":44.77703805,"lon1":-106.98774967,"rwy2":"32","lat2":44.75620095,"lon2":-106.97492749},
+{"len_m":1533,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"05","lat1":44.77088397,"lon1":-106.98752374,"rwy2":"23","lat2":44.77606203,"lon2":-106.96956055},
+{"len_m":818,"wid_m":46.02,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":44.77424260,"lon1":-106.97584167,"rwy2":"31","lat2":44.76853300,"lon2":-106.96929992}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

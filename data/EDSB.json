@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDSB","name":"Karlsruhe Baden Baden","lat":48.77879300,"lon":008.09265900,"rwys":1,"ils":2,"index":3089072,"path":"e000n40/e008n48"
+,"runways":[
+{"len_m":2988,"wid_m":45.11,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":48.76783300,"lon1":8.06993600,"rwy2":"21","lat2":48.79068100,"lon2":8.09134700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.27,"desc":"BADEN ATIS"},
+{"type":"GND","freq":121.82,"desc":"BADEN GND"},
+{"type":"TWR","freq":125.87,"desc":"BADEN TWR"},
+{"type":"TWR","freq":128.95,"desc":"LANGEN INFO"},
+{"type":"APP","freq":119.45,"desc":"STRASSBOURG RADAR"}
+]
+}

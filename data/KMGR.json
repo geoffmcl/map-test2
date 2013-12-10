@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMGR","name":"Moultrie Muni","lat":31.08474725,"lon":-83.80306325,"rwys":2,"ils":0,"index":1580608,"path":"w090n30/w084n31"
+,"runways":[
+{"len_m":1563,"wid_m":30.48,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":31.08049200,"lon1":-83.80949200,"rwy2":"22","lat2":31.09146900,"lon2":-83.79920800},
+{"len_m":1181,"wid_m":22.86,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":31.08850000,"lon1":-83.80396700,"rwy2":"34","lat2":31.07852800,"lon2":-83.79958600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.52,"desc":"VALDOSTA APP/DEP"},
+{"type":"APP","freq":126.6,"desc":"VALDOSTA APP/DEP"}
+]
+}

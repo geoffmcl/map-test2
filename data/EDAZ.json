@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDAZ","name":"Schonhagen","lat":52.20475097,"lon":013.15272680,"rwys":4,"ils":0,"index":3171208,"path":"e010n50/e013n52"
+,"runways":[
+{"len_m":1515,"wid_m":22.86,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":52.20170175,"lon1":13.14964700,"rwy2":"25","lat2":52.20612633,"lon2":13.17061436},
+{"len_m":702,"wid_m":17.98,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":52.20886578,"lon1":13.15512187,"rwy2":"30","lat2":52.20600586,"lon2":13.16427778},
+{"len_m":40,"wid_m":22.86,"hdg":71,"surf":"Asphalt","rwy1":"07C","lat1":52.20612623,"lon1":13.17061353,"rwy2":"25C","lat2":52.20624343,"lon2":13.17116905},
+{"len_m":762,"wid_m":39.93,"hdg":116,"surf":"Turf/grass","rwy1":"12R","lat1":52.20902966,"lon1":13.15266375,"rwy2":"30L","lat2":52.20592473,"lon2":13.16260781}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.7,"desc":"INFO"}
+]
+}

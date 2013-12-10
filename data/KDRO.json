@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDRO","name":"Durango La Plata Co","lat":37.15968700,"lon":-107.75027470,"rwys":1,"ils":1,"index":1187784,"path":"w110n30/w108n37"
+,"runways":[
+{"len_m":2803,"wid_m":45.72,"hdg":37,"surf":"Asphalt","rwy1":"02","lat1":37.14148100,"lon1":-107.76334700,"rwy2":"20","lat2":37.16155300,"lon2":-107.74418900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

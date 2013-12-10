@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LQMO","name":"Mostar","lat":43.2829155,"lon":17.845865,"rwys":1,"ils":0,"index":3236179,"path":"e010n40/e017n43"
+,"runways":[
+{"len_m":2388,"wid_m":48.16,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":43.29286700,"lon1":17.84029400,"rwy2":"34","lat2":43.27296400,"lon2":17.85143600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"},
+{"type":"APP","freq":123.3,"desc":"APP"}
+]
+}

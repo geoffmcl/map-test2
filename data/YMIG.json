@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMIG","name":"Mittagong","lat":-34.44984690,"lon":150.49736642,"rwys":1,"ils":0,"index":5410273,"path":"e150s40/e150s35"
+,"runways":[
+{"len_m":1220,"wid_m":43.89,"hdg":74,"surf":"Transparent","rwy1":"06","lat1":-34.45172903,"lon1":150.49098254,"rwy2":"24","lat2":-34.44880228,"lon2":150.50378065}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.2,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"MITTAGONG CTAF"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPBF","name":"Grider Fld","lat":34.1745155,"lon":-91.9356025,"rwys":1,"ils":1,"index":1449736,"path":"w100n30/w092n34"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":34.18275600,"lon1":-91.93563600,"rwy2":"36","lat2":34.16627500,"lon2":-91.93556900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.85,"desc":"LITTLE ROCK CLNC DEL"},
+{"type":"APP","freq":119.85,"desc":"LITTLE ROCK APP/DEP"}
+]
+}

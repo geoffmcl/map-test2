@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"B19","name":"Biddeford Municipal","lat":43.4641658,"lon":-70.47250334,"rwys":1,"ils":0,"index":1794394,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":919,"wid_m":22.86,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":43.46185207,"lon1":-70.47721116,"rwy2":"24","lat2":43.46647953,"lon2":-70.46779552}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.05,"desc":"PORTLAND CLNC DEL"},
+{"type":"APP","freq":119.75,"desc":"PORTLAND APP/DEP"}
+]
+}

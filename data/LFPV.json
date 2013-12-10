@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFPV","name":"Velizy","lat":48.77213700,"lon":002.20086000,"rwys":1,"ils":2,"index":2990768,"path":"e000n40/e002n48"
+,"runways":[
+{"len_m":1812,"wid_m":45.11,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":48.77412500,"lon1":2.18927800,"rwy2":"27","lat2":48.77460600,"lon2":2.21393300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.87,"desc":"VILLA GND"},
+{"type":"TWR","freq":122.1,"desc":"VILLA TWR"},
+{"type":"TWR","freq":128.95,"desc":"VILLA TWR"},
+{"type":"TWR","freq":121.87,"desc":"VILLA TWR"},
+{"type":"APP","freq":119.42,"desc":"VILLA APP/DEP"},
+{"type":"APP","freq":120.8,"desc":"VILLA APP/DEP"},
+{"type":"APP","freq":123.3,"desc":"VILLA APP/DEP"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LOXT","name":"Tulln","lat":48.31887525,"lon":16.11268425,"rwys":4,"ils":0,"index":3220112,"path":"e010n40/e016n48"
+,"runways":[
+{"len_m":1000,"wid_m":45.11,"hdg":50,"surf":"Turf/grass","rwy1":"05","lat1":48.31519241,"lon1":16.11019417,"rwy2":"23","lat2":48.32094759,"lon2":16.12055583},
+{"len_m":1372,"wid_m":45.11,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":48.32044797,"lon1":16.10263876,"rwy2":"26","lat2":48.32169203,"lon2":16.12105724},
+{"len_m":927,"wid_m":45.11,"hdg":84,"surf":"Turf/grass","rwy1":"08R","lat1":48.31861183,"lon1":16.10666691,"rwy2":"26L","lat2":48.31944217,"lon2":16.11911109},
+{"len_m":686,"wid_m":42.67,"hdg":129,"surf":"Turf/grass","rwy1":"13","lat1":48.31927886,"lon1":16.10702758,"rwy2":"31","lat2":48.31538914,"lon2":16.11422242}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":136.12,"desc":"APP"}
+]
+}

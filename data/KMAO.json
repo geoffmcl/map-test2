@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMAO","name":"Marion Co","lat":34.1811665,"lon":-79.3347165,"rwys":1,"ils":0,"index":1646346,"path":"w080n30/w080n34"
+,"runways":[
+{"len_m":1372,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":34.17607500,"lon1":-79.33894700,"rwy2":"22","lat2":34.18625800,"lon2":-79.33048600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.25,"desc":"FLORENCE APP/DEP"}
+]
+}

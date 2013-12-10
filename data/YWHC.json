@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWHC","name":"White Cliffs","lat":-30.85090444,"lon":143.07374404,"rwys":2,"ils":0,"index":5295816,"path":"e140s40/e143s31"
+,"runways":[
+{"len_m":1080,"wid_m":18.90,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":-30.84912512,"lon1":143.06721136,"rwy2":"30","lat2":-30.85484178,"lon2":143.07635927},
+{"len_m":989,"wid_m":49.99,"hdg":30,"surf":"Dirt","rwy1":"01","lat1":-30.85733728,"lon1":143.06763879,"rwy2":"19","lat2":-30.84962500,"lon2":143.07284300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":124.9,"desc":"Melbourne Centre"}
+]
+}

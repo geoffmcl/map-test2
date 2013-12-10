@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHON","name":"Huron Rgnl","lat":44.3849535,"lon":-98.22809375,"rwys":2,"ils":1,"index":1335707,"path":"w100n40/w099n44"
+,"runways":[
+{"len_m":2194,"wid_m":30.48,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":44.39241100,"lon1":-98.24142200,"rwy2":"30","lat2":44.38023100,"lon2":-98.21974200},
+{"len_m":1524,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":44.39044400,"lon1":-98.22565800,"rwy2":"35","lat2":44.37672800,"lon2":-98.22555300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+}

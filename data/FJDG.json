@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FJDG","name":"Diego Garcia Nsf","lat":-7.313268,"lon":72.41109,"rwys":1,"ils":1,"index":4134059,"path":"e070s10/e072s08"
+,"runways":[
+{"len_m":3658,"wid_m":60.96,"hdg":121,"surf":"Concrete","rwy1":"13","lat1":-7.30457200,"lon1":72.39699700,"rwy2":"31","lat2":-7.32196400,"lon2":72.42518300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":134.1,"desc":"APP"},
+{"type":"APP","freq":118.4,"desc":"GND"}
+]
+}

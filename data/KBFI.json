@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBFI","name":"Boeing Field King Co Intl","lat":47.52915492,"lon":-122.30434900,"rwys":2,"ils":1,"index":942690,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1130,"wid_m":30.48,"hdg":150,"surf":"Asphalt","rwy1":"13L","lat1":47.53799292,"lon1":-122.30746100,"rwy2":"31R","lat2":47.52916792,"lon2":-122.30000000},
+{"len_m":3048,"wid_m":60.96,"hdg":150,"surf":"Asphalt","rwy1":"13R","lat1":47.54051792,"lon1":-122.31135600,"rwy2":"31L","lat2":47.51672592,"lon2":-122.29124200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":-122,"surf":"Asphalt","lat1":47.53915840,"lon1":-122.30722302},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":-122,"surf":"Asphalt","lat1":47.52449785,"lon1":-122.29574268},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":-122,"surf":"Asphalt","lat1":47.52231054,"lon1":-122.29411749},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":-122,"surf":"Asphalt","lat1":47.53220890,"lon1":-122.30082945}
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.42,"desc":"TEST"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":125.9,"desc":"SEATTLE APP/DEP"}
+]
+}

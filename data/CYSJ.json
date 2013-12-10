@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSJ","name":"Saint John","lat":45.31775455,"lon":-065.88711048,"rwys":2,"ils":2,"index":1876432,"path":"w070n40/w066n45"
+,"runways":[
+{"len_m":2135,"wid_m":60.96,"hdg":30,"surf":"Asphalt","rwy1":"05","lat1":45.30252868,"lon1":-65.89484477,"rwy2":"23","lat2":45.31900284,"lon2":-65.88082036},
+{"len_m":1557,"wid_m":60.96,"hdg":120,"surf":"Asphalt","rwy1":"14","lat1":45.33004907,"lon1":-65.89966201,"rwy2":"32","lat2":45.32284710,"lon2":-65.88261374}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"MF"}
+]
+}

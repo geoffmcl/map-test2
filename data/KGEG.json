@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGEG","name":"Spokane Intl","lat":47.61358382,"lon":-117.52700329,"rwys":2,"ils":1,"index":1024609,"path":"w120n40/w118n47"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":47.61392500,"lon1":-117.54429700,"rwy2":"21","lat2":47.63121700,"lon2":-117.51826700},
+{"len_m":2498,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":47.61696400,"lon1":-117.55326700,"rwy2":"25","lat2":47.61676700,"lon2":-117.52002800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.32,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.75,"desc":"APP/DEP"},
+{"type":"APP","freq":126.45,"desc":"APP/DEP"},
+{"type":"APP","freq":133.35,"desc":"APP/DEP"}
+]
+}

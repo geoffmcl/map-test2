@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFLG","name":"Flagstaff Pulliam","lat":35.13945800,"lon":-111.67121900,"rwys":1,"ils":1,"index":1122121,"path":"w120n30/w112n35"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":35.13121700,"lon1":-111.67891900,"rwy2":"21","lat2":35.14569200,"lon2":-111.66351100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"ATIS"},
+{"type":"CTAF","freq":134.55,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":134.55,"desc":"TWR"}
+]
+}

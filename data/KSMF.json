@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSMF","name":"Sacramento Intl","lat":38.69069300,"lon":-121.59104200,"rwys":2,"ils":2,"index":958505,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":2621,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16L","lat1":38.70712964,"lon1":-121.58006878,"rwy2":"34R","lat2":38.68351390,"lon2":-121.58045589},
+{"len_m":2620,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"16R","lat1":38.70734297,"lon1":-121.60107929,"rwy2":"34L","lat2":38.68373795,"lon2":-121.60147387}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"CAPITOL TWR"},
+{"type":"APP","freq":125.25,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":127.4,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":134.8,"desc":"NORCAL APP/DEP"}
+]
+}

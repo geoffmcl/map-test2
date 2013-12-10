@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SUSO","name":"Nueva Hesperides Intl","lat":-31.435375,"lon":-57.98544875,"rwys":2,"ils":0,"index":2002592,"path":"w060s40/w058s32"
+,"runways":[
+{"len_m":1587,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":-31.44405300,"lon1":-57.99053600,"rwy2":"23","lat2":-31.43290800,"lon2":-57.98005300},
+{"len_m":749,"wid_m":49.99,"hdg":116,"surf":"Turf/grass","rwy1":"13","lat1":-31.43077500,"lon1":-57.98913900,"rwy2":"31","lat2":-31.43376400,"lon2":-57.98206700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"SALTO TWR"},
+{"type":"TWR","freq":122.1,"desc":"SALTO TWR"}
+]
+}

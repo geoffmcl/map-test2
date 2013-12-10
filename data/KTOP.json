@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTOP","name":"Philip Billard Muni","lat":39.0685301666667,"lon":-95.6226306666667,"rwys":3,"ils":1,"index":1384513,"path":"w100n30/w096n39"
+,"runways":[
+{"len_m":1554,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":39.07478900,"lon1":-95.62704200,"rwy2":"31","lat2":39.06500600,"lon2":-95.61419700},
+{"len_m":1320,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":39.07350600,"lon1":-95.62421400,"rwy2":"36","lat2":39.06161900,"lon2":-95.62465600},
+{"len_m":914,"wid_m":30.48,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":39.06543300,"lon1":-95.62683300,"rwy2":"22","lat2":39.07082800,"lon2":-95.61884200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.27,"desc":"ASOS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TOPEKA TWR"}
+]
+}

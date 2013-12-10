@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YFRT","name":"Forrest","lat":-30.84670389,"lon":128.11424769,"rwys":2,"ils":0,"index":5050056,"path":"e120s40/e128s31"
+,"runways":[
+{"len_m":1518,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":-30.83266700,"lon1":128.11282900,"rwy2":"36","lat2":-30.84636700,"lon2":128.11294150},
+{"len_m":1366,"wid_m":49.99,"hdg":93,"surf":"Asphalt","rwy1":"9","lat1":-30.83643519,"lon1":128.10961997,"rwy2":"27","lat2":-30.83724931,"lon2":128.12387698}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.69,"desc":"MELBOURNE CNTR FSS"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF UNICOM UNIC"}
+]
+}

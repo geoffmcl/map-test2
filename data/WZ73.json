@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WZ73","name":"Long Aran (sumber Mas)","lat":2.496437,"lon":115.839325,"rwys":1,"ils":0,"index":4839198,"path":"e110n00/e115n02"
+,"runways":[
+{"len_m":288,"wid_m":15.85,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":2.49773992,"lon1":115.83932500,"rwy2":"36","lat2":2.49513408,"lon2":115.83932500}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":227.8,"dist_nm":70.4,"freq":227,"lat":1.70500000,"lon":114.97016700,"rng_nm":50,"alt_fmsl":2400,"id":"LO","desc":"LONG APUNG NDB"},
+{"type":"NDB","hdg_t":354.2,"dist_nm":83.2,"freq":356,"lat":3.88333300,"lon":115.70000000,"rng_nm":50,"alt_fmsl":3360,"id":"LN","desc":"LONG BAWANG NDB"},
+{"type":"NDB","hdg_t":76.5,"dist_nm":95.3,"freq":319,"lat":2.86666700,"lon":117.38333300,"rng_nm":50,"alt_fmsl":10,"id":"GN","desc":"GUNUNG SEKIP NDB"},
+{"type":"NDB","hdg_t":101.7,"dist_nm":97.8,"freq":232,"lat":2.16061400,"lon":117.43372800,"rng_nm":50,"alt_fmsl":49,"id":"KM","desc":"KALIMARU NDB"},
+{"type":"NDB","hdg_t":325.7,"dist_nm":111,"freq":505,"lat":4.03388900,"lon":114.79777800,"rng_nm":50,"alt_fmsl":0,"id":"MZU","desc":"MULU NDB"},
+{"type":"VOR","hdg_t":325.6,"dist_nm":111,"freq":112.8,"lat":4.03291700,"lon":114.79536100,"rng_nm":25,"alt_fmsl":222,"id":"VZU","desc":"MULU VOR-DME"},
+{"type":"VOR","hdg_t":64.3,"dist_nm":114.6,"freq":116.6,"lat":3.32560600,"lon":117.56163300,"rng_nm":100,"alt_fmsl":20,"id":"TRK","desc":"TARAKAN VOR-DME"},
+{"type":"NDB","hdg_t":64.4,"dist_nm":115.1,"freq":398,"lat":3.32694200,"lon":117.57061100,"rng_nm":50,"alt_fmsl":20,"id":"OT","desc":"TARAKAN NDB"},
+{"type":"NDB","hdg_t":104.1,"dist_nm":118.3,"freq":325,"lat":2.00888900,"lon":117.74933300,"rng_nm":50,"alt_fmsl":47,"id":"BE","desc":"MANGKAJANG NDB"},
+{"type":"NDB","hdg_t":218,"dist_nm":127.6,"freq":290,"lat":0.81166700,"lon":114.53000000,"rng_nm":50,"alt_fmsl":132,"id":"TG","desc":"TIONG OHONG NDB"}
+]
+}

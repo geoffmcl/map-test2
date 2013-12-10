@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWCK","name":"Warwick","lat":-28.14820182,"lon":151.94459453,"rwys":2,"ils":0,"index":5427059,"path":"e150s30/e151s29"
+,"runways":[
+{"len_m":1643,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"09","lat1":-28.14828866,"lon1":151.93493004,"rwy2":"27","lat2":-28.15058438,"lon2":151.95145535},
+{"len_m":602,"wid_m":49.99,"hdg":98,"surf":"Turf/grass","rwy1":"09L","lat1":-28.14916583,"lon1":151.94572159,"rwy2":"27R","lat2":-28.14999810,"lon2":151.95178790}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.85,"desc":"CTAF"}
+]
+}

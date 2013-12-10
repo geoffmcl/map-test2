@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDK","name":"Koln Bonn","lat":50.86933700,"lon":007.13296000,"rwys":3,"ils":3,"index":3072816,"path":"e000n50/e007n50"
+,"runways":[
+{"len_m":3814,"wid_m":60.05,"hdg":137,"surf":"Asphalt","rwy1":"14L","lat1":50.88046900,"lon1":7.12907500,"rwy2":"32R","lat2":50.85519400,"lon2":7.16569200},
+{"len_m":2458,"wid_m":45.11,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":50.86012200,"lon1":7.12377800,"rwy2":"24","lat2":50.86966900,"lon2":7.15527200},
+{"len_m":1862,"wid_m":45.11,"hdg":137,"surf":"Asphalt","rwy1":"14R","lat1":50.87084400,"lon1":7.12086100,"rwy2":"32L","lat2":50.85850600,"lon2":7.13874200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ATIS"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"TWR","freq":124.97,"desc":"TWR"},
+{"type":"APP","freq":126.32,"desc":"LANGEN RADAR"}
+]
+}

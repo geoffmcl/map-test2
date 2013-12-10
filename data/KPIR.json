@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPIR","name":"Pierre Rgnl","lat":44.382695,"lon":-100.2859715,"rwys":2,"ils":1,"index":1302938,"path":"w110n40/w101n44"
+,"runways":[
+{"len_m":2103,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":44.38488600,"lon1":-100.29381700,"rwy2":"31","lat2":44.37025000,"lon2":-100.27708600},
+{"len_m":2099,"wid_m":45.72,"hdg":77,"surf":"Asphalt","rwy1":"07","lat1":44.38572200,"lon1":-100.29933300,"rwy2":"25","lat2":44.38992200,"lon2":-100.27365000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+}

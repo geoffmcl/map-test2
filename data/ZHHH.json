@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZHHH","name":"Tianhe","lat":30.7837585,"lon":114.2080985,"rwys":1,"ils":2,"index":4824624,"path":"e110n30/e114n30"
+,"runways":[
+{"len_m":3400,"wid_m":45.11,"hdg":41,"surf":"Concrete","rwy1":"04","lat1":30.77228100,"lon1":114.19631400,"rwy2":"22","lat2":30.79523600,"lon2":114.21988300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"WUHAN GND"},
+{"type":"TWR","freq":122.7,"desc":"WUHAN TWR"},
+{"type":"TWR","freq":130,"desc":"WUHAN TWR"}
+]
+}

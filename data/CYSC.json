@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSC","name":"Sherbrooke","lat":45.438492,"lon":-71.6913695,"rwys":1,"ils":0,"index":1778137,"path":"w080n40/w072n45"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":118,"surf":"Asphalt","rwy1":"13","lat1":45.44245600,"lon1":-71.70160800,"rwy2":"31","lat2":45.43452800,"lon2":-71.68113100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"AWOS"},
+{"type":"CTAF","freq":123.5,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":123.5,"desc":"MF"}
+]
+}

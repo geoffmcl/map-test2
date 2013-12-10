@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"L45","name":"Bakersfield Muni","lat":35.324874,"lon":-118.996017,"rwys":1,"ils":0,"index":1007440,"path":"w120n30/w119n35"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":174,"surf":"Asphalt","rwy1":"16","lat1":35.33034200,"lon1":-118.99665300,"rwy2":"34","lat2":35.31940600,"lon2":-118.99538100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"APP/DEP"}
+]
+}

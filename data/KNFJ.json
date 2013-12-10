@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNFJ","name":"Choctaw Nolf","lat":30.5109258333333,"lon":-86.9548611666667,"rwys":3,"ils":0,"index":1531424,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":2463,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.52083300,"lon1":-86.95777800,"rwy2":"36","lat2":30.49861100,"lon2":-86.95777800},
+{"len_m":1213,"wid_m":53.34,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":30.50694400,"lon1":-86.95972200,"rwy2":"22","lat2":30.51472200,"lon2":-86.95083300},
+{"len_m":1076,"wid_m":53.34,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":30.51416700,"lon1":-86.95666700,"rwy2":"29","lat2":30.51027800,"lon2":-86.94638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.4,"desc":"RDO/TWR"}
+]
+}

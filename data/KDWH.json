@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDWH","name":"David Wayne Hooks Mem","lat":30.06695709,"lon":-095.55594833,"rwys":2,"ils":1,"index":1383937,"path":"w100n30/w096n30"
+,"runways":[
+{"len_m":2136,"wid_m":29.87,"hdg":172,"surf":"Asphalt","rwy1":"17R","lat1":30.07331400,"lon1":-95.55481400,"rwy2":"35L","lat2":30.05419400,"lon2":-95.55201900},
+{"len_m":1212,"wid_m":10.97,"hdg":172,"surf":"Asphalt","rwy1":"17L","lat1":30.06391540,"lon1":-95.55239816,"rwy2":"35R","lat2":30.05306346,"lon2":-95.55083209}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-95,"surf":"Asphalt","lat1":30.06892722,"lon1":-95.55182827},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":-95,"surf":"Asphalt","lat1":30.06862801,"lon1":-95.55182595},
+{"rwy1":"H3","len_m":14,"wid_m":14.94,"hdg":-95,"surf":"Asphalt","lat1":30.06833282,"lon1":-95.55182286},
+{"rwy1":"H4","len_m":14,"wid_m":14.94,"hdg":-95,"surf":"Asphalt","lat1":30.06803428,"lon1":-95.55181977}
+]
+,"waterways":[
+{"len_m":769,"wid_m":34,"hdg_t":179,"buoys":false,"rwy1":"17","lat1":30.06436908,"lon1":-95.55108896,"rwy2":"35","lat2":30.05742960,"lon2":-95.55101899}
+]
+,"radios":[
+{"type":"ATIS","freq":124.95,"desc":"ATIS"},
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":127.4,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"HOUSTON APP/DEP"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KABE","name":"Lehigh Valley Intl","lat":40.65830400,"lon":-075.44156400,"rwys":2,"ils":3,"index":1712298,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":2316,"wid_m":45.72,"hdg":51,"surf":"Asphalt","rwy1":"06","lat1":40.64698300,"lon1":-75.45063100,"rwy2":"24","lat2":40.66003600,"lon2":-75.42926400},
+{"len_m":1766,"wid_m":45.72,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":40.65519200,"lon1":-75.44975600,"rwy2":"31","lat2":40.64652800,"lon2":-75.43223600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.97,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":124.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"APP/DEP"},
+{"type":"APP","freq":124.45,"desc":"APP/DEP"},
+{"type":"APP","freq":118.2,"desc":"APP/DEP"}
+]
+}

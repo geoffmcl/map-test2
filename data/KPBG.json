@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPBG","name":"Plattsburgh Intl","lat":44.6509375,"lon":-73.46811604,"rwys":1,"ils":1,"index":1745322,"path":"w080n40/w074n44"
+,"runways":[
+{"len_m":3583,"wid_m":60.96,"hdg":157,"surf":"Concrete","rwy1":"17","lat1":44.66583300,"lon1":-73.47677054,"rwy2":"35","lat2":44.63604200,"lon2":-73.45946154}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"BURLINGTON APP/DEP"}
+]
+}

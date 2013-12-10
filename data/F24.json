@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F24","name":"Minden Webster","lat":32.6458335,"lon":-93.297917,"rwys":1,"ils":0,"index":1416874,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":1543,"wid_m":22.86,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":32.63916700,"lon1":-93.30027800,"rwy2":"19","lat2":32.65250000,"lon2":-93.29555600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"SHREVEPORT APP/DEP"},
+{"type":"APP","freq":121.4,"desc":"SHREVEPORT APP/DEP"}
+]
+}

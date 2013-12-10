@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAIK","name":"Aiken Muni","lat":33.65114200,"lon":-081.68720200,"rwys":2,"ils":0,"index":1613545,"path":"w090n30/w082n33"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":33.64607200,"lon1":-81.69578100,"rwy2":"24","lat2":33.65355300,"lon2":-81.68007800},
+{"len_m":1157,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":33.65396400,"lon1":-81.68080800,"rwy2":"36","lat2":33.64352500,"lon2":-81.68088900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.15,"desc":"AUGUSTA APP/DEP"}
+]
+}

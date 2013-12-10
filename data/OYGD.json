@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OYGD","name":"Al Ghaidah Intl","lat":16.1932485,"lon":52.1732485,"rwys":1,"ils":0,"index":3807881,"path":"e050n10/e052n16"
+,"runways":[
+{"len_m":2701,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":16.19155000,"lon1":52.16073900,"rwy2":"26","lat2":16.19494700,"lon2":52.18575800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+}

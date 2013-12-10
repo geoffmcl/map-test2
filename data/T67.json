@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"T67","name":"Hicks","lat":32.931236,"lon":-97.411686,"rwys":1,"ils":0,"index":1351354,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1139,"wid_m":18.29,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":32.93523000,"lon1":-97.41552100,"rwy2":"32","lat2":32.92724200,"lon2":-97.40785100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.9,"desc":"REGIONAL CLNC DEL"}
+]
+}

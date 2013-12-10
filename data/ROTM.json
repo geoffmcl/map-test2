@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ROTM","name":"Futenma Mcas","lat":26.274132,"lon":127.7562665,"rwys":1,"ils":0,"index":5037331,"path":"e120n20/e127n26"
+,"runways":[
+{"len_m":2799,"wid_m":45.72,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":26.26688300,"lon1":127.74478900,"rwy2":"24","lat2":26.28138100,"lon2":127.76774400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.8,"desc":"GND"},
+{"type":"TWR","freq":123.6,"desc":"TWR"}
+]
+}

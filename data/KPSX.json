@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPSX","name":"Palacios Muni","lat":28.7275091666667,"lon":-96.2509575,"rwys":3,"ils":0,"index":1367466,"path":"w100n20/w097n28"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":28.73038900,"lon1":-96.26208600,"rwy2":"26","lat2":28.73033600,"lon2":-96.24648300},
+{"len_m":1524,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":28.73072500,"lon1":-96.25735000,"rwy2":"31","lat2":28.72096400,"lon2":-96.24635600},
+{"len_m":1524,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":28.73319700,"lon1":-96.24670600,"rwy2":"35","lat2":28.71944400,"lon2":-96.24676400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

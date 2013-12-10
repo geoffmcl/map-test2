@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESSF","name":"Hultsfred","lat":57.525749,"lon":15.8239475,"rwys":1,"ils":1,"index":3204323,"path":"e010n50/e015n57"
+,"runways":[
+{"len_m":1945,"wid_m":39.93,"hdg":116,"surf":"Concrete","rwy1":"12","lat1":57.52958100,"lon1":15.80935600,"rwy2":"30","lat2":57.52191700,"lon2":15.83853900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.05,"desc":"AFIS"},
+{"type":"TWR","freq":123.3,"desc":"AFIS"}
+]
+}

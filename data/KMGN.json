@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMGN","name":"Harbor Springs","lat":45.4254595,"lon":-84.9136595,"rwys":1,"ils":0,"index":1565144,"path":"w090n40/w085n45"
+,"runways":[
+{"len_m":1267,"wid_m":22.86,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":45.42606100,"lon1":-84.92171100,"rwy2":"28","lat2":45.42485800,"lon2":-84.90560800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

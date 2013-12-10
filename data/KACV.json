@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KACV","name":"Arcata","lat":40.97251102,"lon":-124.10732616,"rwys":2,"ils":1,"index":909499,"path":"w130n40/w125n40"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":40.98565636,"lon1":-124.11337271,"rwy2":"32","lat2":40.97101564,"lon2":-124.10342329},
+{"len_m":1371,"wid_m":46.02,"hdg":29,"surf":"Asphalt","rwy1":"01","lat1":40.97245797,"lon1":-124.11292040,"rwy2":"19","lat2":40.98317803,"lon2":-124.10483760}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

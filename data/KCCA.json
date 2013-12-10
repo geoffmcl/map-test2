@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCCA","name":"Chaffee Aaf","lat":35.30009194,"lon":-94.31687889,"rwys":2,"ils":0,"index":1400658,"path":"w100n30/w095n35"
+,"runways":[
+{"len_m":672,"wid_m":36.58,"hdg":75,"surf":"Gravel","rwy1":"07","lat1":35.29931101,"lon1":-94.32044994,"rwy2":"25","lat2":35.30087287,"lon2":-94.31330784},
+{"len_m":487,"wid_m":36.58,"hdg":35,"surf":"Gravel","rwy1":"03","lat1":35.29829441,"lon1":-94.31842109,"rwy2":"21","lat2":35.30188947,"lon2":-94.31533669}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.32,"hdg":-94,"surf":"Concrete","lat1":35.30009194,"lon1":-94.31687889}
+]
+,"radios":[
+]
+}

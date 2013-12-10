@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"T51","name":"Dan Jones Intl","lat":30.042771,"lon":-95.6672155,"rwys":1,"ils":0,"index":1383937,"path":"w100n30/w096n30"
+,"runways":[
+{"len_m":1048,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":30.04750000,"lon1":-95.66726700,"rwy2":"35","lat2":30.03804200,"lon2":-95.66716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.7,"desc":"HOUSTON APP/DEP"}
+]
+}

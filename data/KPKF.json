@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPKF","name":"Park Falls Muni","lat":45.955024,"lon":-90.424418,"rwys":1,"ils":0,"index":1466874,"path":"w100n40/w091n45"
+,"runways":[
+{"len_m":975,"wid_m":18.29,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":45.95940600,"lon1":-90.42409700,"rwy2":"36","lat2":45.95064200,"lon2":-90.42473900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.65,"desc":"MINNEAPOLIS APP/DEP"}
+]
+}

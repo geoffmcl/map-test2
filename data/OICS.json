@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OICS","name":"Sanandaj","lat":35.2458555,"lon":47.009246,"rwys":1,"ils":0,"index":3727176,"path":"e040n30/e047n35"
+,"runways":[
+{"len_m":2639,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"01","lat1":35.23455300,"lon1":47.00471700,"rwy2":"19","lat2":35.25715800,"lon2":47.01377500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"INFO"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":122.9,"desc":"TWR"}
+]
+}

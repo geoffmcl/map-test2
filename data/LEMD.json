@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEMD","name":"Barajas","lat":40.49187624,"lon":-003.57005477,"rwys":5,"ils":4,"index":2891929,"path":"w010n40/w004n40"
+,"runways":[
+{"len_m":3332,"wid_m":53.04,"hdg":179,"surf":"Concrete","rwy1":"18C","lat1":40.48715200,"lon1":-3.56281200,"rwy2":"36C","lat2":40.45714000,"lon2":-3.56253800},
+{"len_m":4346,"wid_m":60.05,"hdg":179,"surf":"Asphalt","rwy1":"18R","lat1":40.53096676,"lon1":-3.57482082,"rwy2":"36L","lat2":40.49182924,"lon2":-3.57460537},
+{"len_m":4099,"wid_m":60.05,"hdg":142,"surf":"Asphalt","rwy1":"14R","lat1":40.48485554,"lon1":-3.57602505,"rwy2":"32L","lat2":40.45568046,"lon2":-3.54639497},
+{"len_m":3497,"wid_m":60.05,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":40.53181260,"lon1":-3.55929278,"rwy2":"36R","lat2":40.50031540,"lon2":-3.55911936},
+{"len_m":3502,"wid_m":60.05,"hdg":142,"surf":"Asphalt","rwy1":"14L","lat1":40.49482378,"lon1":-3.55792242,"rwy2":"32R","lat2":40.46989222,"lon2":-3.53261162}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"LEMD ARR ATIS"},
+{"type":"ATIS","freq":121.97,"desc":"LEMD DEP ATIS"},
+{"type":"CLD","freq":130.07,"desc":"CLEARANCE DELIVERY CLNC"},
+{"type":"TWR","freq":118.15,"desc":"BARAJAS ARR TWR"},
+{"type":"TWR","freq":118.07,"desc":"BARAJAS DEP TWR"},
+{"type":"TWR","freq":121.5,"desc":"BARAJAS EMERG TWR"},
+{"type":"TWR","freq":121.85,"desc":"BARAJAS GMC NORTH TWR"},
+{"type":"TWR","freq":121.7,"desc":"BARAJAS GMC SOUTH TWR"},
+{"type":"TWR","freq":120.15,"desc":"BARAJAS LOC BACKUP TWR"},
+{"type":"APP","freq":124.02,"desc":"MADRID APPROACH APP"},
+{"type":"APP","freq":127.5,"desc":"MADRID APPROACH APP"}
+]
+}

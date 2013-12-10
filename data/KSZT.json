@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSZT","name":"Sandpoint","lat":48.2995445,"lon":-116.560135,"rwys":1,"ils":1,"index":1041041,"path":"w120n40/w117n48"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":32,"surf":"Asphalt","rwy1":"01","lat1":48.29316100,"lon1":-116.56614200,"rwy2":"19","lat2":48.30592800,"lon2":-116.55412800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

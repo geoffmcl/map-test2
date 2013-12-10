@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAHM","name":"Minchumina","lat":63.885997,"lon":-152.3018735,"rwys":1,"ils":0,"index":452217,"path":"w160n60/w153n63"
+,"runways":[
+{"len_m":1280,"wid_m":30.48,"hdg":44,"surf":"Gravel","rwy1":"02","lat1":63.88193600,"lon1":-152.31108300,"rwy2":"20","lat2":63.89005800,"lon2":-152.29266400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":120.9,"desc":"ANCHORAGE CNTR"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIAD","name":"Dezful","lat":32.434256,"lon":48.39789375,"rwys":2,"ils":0,"index":3743385,"path":"e040n30/e048n32"
+,"runways":[
+{"len_m":3851,"wid_m":35.05,"hdg":140,"surf":"Asphalt","rwy1":"14R","lat1":32.44650800,"lon1":48.38438300,"rwy2":"32L","lat2":32.41965800,"lon2":48.41036700},
+{"len_m":3573,"wid_m":45.11,"hdg":140,"surf":"Asphalt","rwy1":"14L","lat1":32.44788300,"lon1":48.38635800,"rwy2":"32R","lat2":32.42297500,"lon2":48.41046700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"APP"},
+{"type":"APP","freq":131.4,"desc":"APP"}
+]
+}

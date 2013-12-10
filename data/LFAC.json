@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFAC","name":"Calais Dunkerque","lat":50.95900100,"lon":001.95759800,"rwys":1,"ils":2,"index":2974523,"path":"e000n50/e001n50"
+,"runways":[
+{"len_m":1537,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":50.95875100,"lon1":1.94513900,"rwy2":"24","lat2":50.96544500,"lon2":1.96428900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.34,"hdg":1,"surf":"Asphalt","lat1":50.95775400,"lon1":1.95304600}
+]
+,"radios":[
+{"type":"ATIS","freq":135.44,"desc":"LFAC ATIS"},
+{"type":"CTAF","freq":128.92,"desc":"CALAIS-DUNKERQUE MULT"},
+{"type":"TWR","freq":128.92,"desc":"CALAIS TWR"},
+{"type":"APP","freq":120.27,"desc":"LILLE APP"}
+]
+}

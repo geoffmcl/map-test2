@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YRID","name":"Riddell","lat":-37.47558711,"lon":144.72240321,"rwys":2,"ils":0,"index":5311778,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":719,"wid_m":10.97,"hdg":31,"surf":"Asphalt","rwy1":"02","lat1":-37.48106260,"lon1":144.71930031,"rwy2":"20","lat2":-37.47551564,"lon2":144.72350018},
+{"len_m":419,"wid_m":11.89,"hdg":160,"surf":"Turf/grass","rwy1":"16","lat1":-37.47681551,"lon1":144.72252567,"rwy2":"34","lat2":-37.48038057,"lon2":144.72408867}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

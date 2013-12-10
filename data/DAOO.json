@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DAOO","name":"Es Senia","lat":35.6238585,"lon":-0.6211835,"rwys":1,"ils":0,"index":2940769,"path":"w010n30/w001n35"
+,"runways":[
+{"len_m":3053,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":35.61851700,"lon1":-0.63671700,"rwy2":"25","lat2":35.62920000,"lon2":-0.60565000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"ORAN TWR"},
+{"type":"TWR","freq":119.7,"desc":"ORAN TWR"},
+{"type":"APP","freq":128.2,"desc":"ORAN APP"},
+{"type":"APP","freq":121.1,"desc":"ORAN APP"}
+]
+}

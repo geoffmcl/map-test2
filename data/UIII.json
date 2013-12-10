@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UIII","name":"Irkutsk","lat":52.27159711,"lon":104.35875644,"rwys":1,"ils":2,"index":4662161,"path":"e100n50/e104n52"
+,"runways":[
+{"len_m":3180,"wid_m":45.11,"hdg":113,"surf":"Concrete","rwy1":"12","lat1":52.27216930,"lon1":104.37435732,"rwy2":"30","lat2":52.26070543,"lon2":104.41703024}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":104,"surf":"Concrete","lat1":52.26561007,"lon1":104.35939859},
+{"rwy1":"H2","len_m":21,"wid_m":20.12,"hdg":104,"surf":"Concrete","lat1":52.26459939,"lon1":104.36053109}
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"ATIS"},
+{"type":"ATIS","freq":126.9,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"TAXIING"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"APP","freq":125.2,"desc":"APP"}
+]
+}

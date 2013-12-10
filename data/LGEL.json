@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGEL","name":"Elefsis","lat":38.07247920,"lon":023.55202670,"rwys":1,"ils":0,"index":3334146,"path":"e020n30/e023n38"
+,"runways":[
+{"len_m":2719,"wid_m":39.93,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":38.07616700,"lon1":23.55600000,"rwy2":"36","lat2":38.05166700,"lon2":23.55608300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.15,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ATHINAI APP"},
+{"type":"APP","freq":129.55,"desc":"ATHINAI APP"}
+]
+}

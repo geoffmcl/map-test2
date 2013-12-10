@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VEKU","name":"Silchar","lat":24.912928,"lon":92.978742,"rwys":1,"ils":0,"index":4463803,"path":"e090n20/e092n24"
+,"runways":[
+{"len_m":1826,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":24.90844200,"lon1":92.97115600,"rwy2":"24","lat2":24.91741400,"lon2":92.98632800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+}

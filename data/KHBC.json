@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHBC","name":"Mohall Muni","lat":48.768379,"lon":-101.536993,"rwys":1,"ils":0,"index":1286833,"path":"w110n40/w102n48"
+,"runways":[
+{"len_m":951,"wid_m":18.29,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":48.77164700,"lon1":-101.54116700,"rwy2":"31","lat2":48.76511100,"lon2":-101.53281900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"MINOT APP"},
+{"type":"DEP","freq":119.6,"desc":"MINOT DEP"}
+]
+}

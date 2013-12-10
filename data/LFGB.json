@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFGB","name":"Habsheim","lat":47.74462400,"lon":007.43167000,"rwys":1,"ils":0,"index":3072617,"path":"e000n40/e007n47"
+,"runways":[
+{"len_m":1000,"wid_m":20.12,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":47.73717200,"lon1":7.42969500,"rwy2":"20","lat2":47.74550600,"lon2":7.43473100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.25,"desc":"HABSHEIM MULT"},
+{"type":"TWR","freq":125.25,"desc":"MULHOUSE TWR"}
+]
+}

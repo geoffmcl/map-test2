@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VOCI","name":"Cochin Intl","lat":10.151996,"lon":76.4019055,"rwys":1,"ils":1,"index":4200715,"path":"e070n10/e076n10"
+,"runways":[
+{"len_m":3398,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":10.15142800,"lon1":76.38641100,"rwy2":"27","lat2":10.15256400,"lon2":76.41740000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"APP"}
+]
+}

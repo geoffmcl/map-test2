@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEIB","name":"Ibiza","lat":38.87720600,"lon":001.37059700,"rwys":1,"ils":2,"index":2973753,"path":"e000n30/e001n38"
+,"runways":[
+{"len_m":2793,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":38.86695488,"lon1":1.35884036,"rwy2":"24","lat2":38.87878640,"lon2":1.38724900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":118.12,"desc":"APP"},
+{"type":"APP","freq":119.8,"desc":"APP"}
+]
+}

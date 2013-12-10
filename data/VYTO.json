@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VYTO","name":"Taungoo","lat":19.031275,"lon":96.40124,"rwys":1,"ils":0,"index":4528963,"path":"e090n10/e096n19"
+,"runways":[
+{"len_m":3642,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":19.04772800,"lon1":96.40128600,"rwy2":"36","lat2":19.01482200,"lon2":96.40119400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

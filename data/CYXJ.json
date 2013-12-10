@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYXJ","name":"Fort St John","lat":56.23842375,"lon":-120.739988,"rwys":2,"ils":1,"index":976009,"path":"w130n50/w121n56"
+,"runways":[
+{"len_m":2072,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":56.24500000,"lon1":-120.75333300,"rwy2":"29","lat2":56.23166700,"lon2":-120.73000000},
+{"len_m":2042,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"02","lat1":56.23202800,"lon1":-120.74995000,"rwy2":"20","lat2":56.24500000,"lon2":-120.72666900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"MF ST JOHN RDO"}
+]
+}

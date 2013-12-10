@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFQJ","name":"Elesmes","lat":50.30720800,"lon":004.03130000,"rwys":3,"ils":0,"index":3023632,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":1301,"wid_m":33.53,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":50.30647400,"lon1":4.02654300,"rwy2":"23","lat2":50.31424800,"lon2":4.04020700},
+{"len_m":801,"wid_m":91.44,"hdg":48,"surf":"Turf/grass","rwy1":"23C","lat1":50.30929500,"lon1":4.03023500,"rwy2":"05C","lat2":50.31411300,"lon2":4.03859900},
+{"len_m":305,"wid_m":24.38,"hdg":48,"surf":"Turf/grass","rwy1":"23R","lat1":50.31094800,"lon1":4.03054600,"rwy2":"05L","lat2":50.31277000,"lon2":4.03375000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":4,"surf":"Concrete","lat1":50.30832400,"lon1":4.03214600},
+{"rwy1":"H2","len_m":15,"wid_m":15.85,"hdg":4,"surf":"Asphalt","lat1":50.30873900,"lon1":4.03287900}
+]
+,"radios":[
+{"type":"CTAF","freq":121,"desc":"MAUBEUGE MULT"}
+]
+}

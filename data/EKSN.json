@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EKSN","name":"Sindal","lat":57.50456095,"lon":010.22279130,"rwys":1,"ils":1,"index":3122400,"path":"e010n50/e010n57"
+,"runways":[
+{"len_m":1199,"wid_m":29.87,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":57.50317500,"lon1":10.21939167,"rwy2":"27","lat2":57.50387500,"lon2":10.23935019}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.75,"desc":"AFIS"},
+{"type":"APP","freq":123.97,"desc":"AALBORG APP"}
+]
+}

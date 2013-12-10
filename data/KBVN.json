@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBVN","name":"Albion Muni","lat":41.72838715,"lon":-098.05395800,"rwys":1,"ils":0,"index":1335531,"path":"w100n40/w099n41"
+,"runways":[
+{"len_m":1128,"wid_m":17.98,"hdg":153,"surf":"Concrete","rwy1":"15","lat1":41.73313234,"lon1":-98.05874237,"rwy2":"33","lat2":41.72402366,"lon2":-98.05273677}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

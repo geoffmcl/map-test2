@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"C80","name":"New Coalinga Muni","lat":36.16276575,"lon":-120.29626325,"rwys":2,"ils":0,"index":974730,"path":"w130n30/w121n36"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":36.16797500,"lon1":-120.29981900,"rwy2":"30","lat2":36.15829700,"lon2":-120.28780000},
+{"len_m":761,"wid_m":18.29,"hdg":24,"surf":"Gravel","rwy1":"01","lat1":36.15926900,"lon1":-120.30046700,"rwy2":"19","lat2":36.16552200,"lon2":-120.29696700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

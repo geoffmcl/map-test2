@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OSDZ","name":"Deir Zzor","lat":35.28357625,"lon":40.1731695,"rwys":2,"ils":0,"index":3612496,"path":"e040n30/e040n35"
+,"runways":[
+{"len_m":3358,"wid_m":45.11,"hdg":108,"surf":"Dirt","rwy1":"10R","lat1":35.28659700,"lon1":40.15287800,"rwy2":"28L","lat2":35.27695800,"lon2":40.18787800},
+{"len_m":2997,"wid_m":45.11,"hdg":109,"surf":"Asphalt","rwy1":"10L","lat1":35.28995800,"lon1":40.16046100,"rwy2":"28R","lat2":35.28079200,"lon2":40.19146100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

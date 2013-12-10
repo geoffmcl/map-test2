@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LSGL","name":"Lausanne","lat":46.54473207,"lon":006.61740524,"rwys":1,"ils":0,"index":3056162,"path":"e000n40/e006n46"
+,"runways":[
+{"len_m":900,"wid_m":22.86,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":46.54901692,"lon1":6.61706520,"rwy2":"36","lat2":46.54093729,"lon2":6.61624375}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":6,"surf":"Turf/grass","lat1":46.54533664,"lon1":6.61738314},
+{"rwy1":"H11","len_m":11,"wid_m":11.89,"hdg":6,"surf":"Concrete","lat1":46.54402561,"lon1":6.62014135},
+{"rwy1":"H12","len_m":11,"wid_m":11.89,"hdg":6,"surf":"Concrete","lat1":46.54398056,"lon1":6.61982970},
+{"rwy1":"H15","len_m":11,"wid_m":11.89,"hdg":6,"surf":"Concrete","lat1":46.54393550,"lon1":6.61951408},
+{"rwy1":"H2","len_m":15,"wid_m":15.85,"hdg":6,"surf":"Turf/grass","lat1":46.54512799,"lon1":6.61736039},
+{"rwy1":"H3","len_m":15,"wid_m":15.85,"hdg":6,"surf":"Turf/grass","lat1":46.54491208,"lon1":6.61733763}
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"ATIS"},
+{"type":"CTAF","freq":123.2,"desc":"AFIS"}
+]
+}

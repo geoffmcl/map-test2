@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPQS","name":"Qasim","lat":33.560154,"lon":73.0332155,"rwys":1,"ils":0,"index":4153056,"path":"e070n30/e073n33"
+,"runways":[
+{"len_m":2035,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":33.56745000,"lon1":73.02656700,"rwy2":"32","lat2":33.55285800,"lon2":73.03986400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

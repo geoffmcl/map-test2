@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URWW","name":"Gumrak","lat":48.7806301666667,"lon":44.3526963333333,"rwys":3,"ils":2,"index":3678897,"path":"e040n40/e044n48"
+,"runways":[
+{"len_m":2498,"wid_m":49.07,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":48.78809700,"lon1":44.33101400,"rwy2":"29","lat2":48.77681900,"lon2":44.36041700},
+{"len_m":1682,"wid_m":100.58,"hdg":120,"surf":"Turf/grass","rwy1":"11R","lat1":48.78075600,"lon1":44.34704700,"rwy2":"29L","lat2":48.77318900,"lon2":44.36686700},
+{"len_m":477,"wid_m":106.68,"hdg":84,"surf":"Turf/grass","rwy1":"08","lat1":48.78224200,"lon1":44.35218300,"rwy2":"26","lat2":48.78267800,"lon2":44.35865000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.8,"desc":"VOLGOGRAD ATIS"},
+{"type":"GND","freq":119,"desc":"VOLGOGRAD TAXIING"},
+{"type":"TWR","freq":128,"desc":"VOLGOGRAD TWR"},
+{"type":"APP","freq":125.3,"desc":"VOLGOGRAD APP"},
+{"type":"APP","freq":129,"desc":"VOLGOGRAD APP"}
+]
+}

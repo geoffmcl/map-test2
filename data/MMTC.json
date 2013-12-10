@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMTC","name":"Torreon Intl","lat":25.56421100,"lon":-103.39685800,"rwys":2,"ils":0,"index":1252578,"path":"w110n20/w104n25"
+,"runways":[
+{"len_m":2749,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":25.57196400,"lon1":-103.41451100,"rwy2":"30","lat2":25.55417500,"lon2":-103.39543300},
+{"len_m":1736,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":25.56830600,"lon1":-103.41444400,"rwy2":"26","lat2":25.56811100,"lon2":-103.39716700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP"}
+]
+}

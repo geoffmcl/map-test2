@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UUBP","name":"Bryansk","lat":53.214193,"lon":34.176447,"rwys":1,"ils":1,"index":3515336,"path":"e030n50/e034n53"
+,"runways":[
+{"len_m":2398,"wid_m":42.06,"hdg":171,"surf":"Concrete","rwy1":"17","lat1":53.22484700,"lon1":34.17377500,"rwy2":"35","lat2":53.20353900,"lon2":34.17911900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.8,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"KRUG"}
+]
+}

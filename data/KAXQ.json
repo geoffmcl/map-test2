@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAXQ","name":"Clarion County","lat":41.225814,"lon":-79.4410085,"rwys":1,"ils":0,"index":1646794,"path":"w080n40/w080n41"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":41.22181400,"lon1":-79.44625000,"rwy2":"24","lat2":41.22981400,"lon2":-79.43576700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LESL","name":"San Luis","lat":39.863601375,"lon":4.25303823,"rwys":1,"ils":0,"index":3022961,"path":"e000n30/e004n39"
+,"runways":[
+{"len_m":1849,"wid_m":45.11,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":39.85357732,"lon1":4.24794252,"rwy2":"20","lat2":39.86922268,"lon2":4.25536105}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":4,"surf":"Concrete","lat1":39.86580275,"lon1":4.25442467}
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"A/A"},
+{"type":"TWR","freq":118.2,"desc":"TWR"}
+]
+}

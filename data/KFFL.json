@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFFL","name":"Fairfield Muni","lat":41.05353825,"lon":-91.98201575,"rwys":2,"ils":0,"index":1450176,"path":"w100n40/w092n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":41.05901900,"lon1":-91.98163600,"rwy2":"36","lat2":41.04803900,"lon2":-91.98154400},
+{"len_m":746,"wid_m":50.29,"hdg":86,"surf":"Dirt","rwy1":"08","lat1":41.05333900,"lon1":-91.98687500,"rwy2":"26","lat2":41.05375600,"lon2":-91.97800800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

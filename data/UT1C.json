@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"UT1C","name":"Khorog","lat":37.502167,"lon":71.5131797,"rwys":1,"ils":0,"index":4120546,"path":"e070n30/e071n37"
+,"runways":[
+{"len_m":1824,"wid_m":49.07,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":37.50977969,"lon1":71.50928323,"rwy2":"34","lat2":37.49455431,"lon2":71.51707618}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":288.3,"dist_nm":86.1,"freq":298,"lat":37.94166700,"lon":69.79000000,"rng_nm":50,"alt_fmsl":0,"id":"CG","desc":"KULYAB NDB"},
+{"type":"NDB","hdg_t":289.2,"dist_nm":109.3,"freq":1000,"lat":38.08333300,"lon":69.33333300,"rng_nm":50,"alt_fmsl":0,"id":"HU","desc":"DANGARA NDB"},
+{"type":"NDB","hdg_t":301.5,"dist_nm":121.5,"freq":475,"lat":38.54333300,"lon":69.31333300,"rng_nm":50,"alt_fmsl":0,"id":"JD","desc":"FAYZABAD NDB"},
+{"type":"NDB","hdg_t":297.4,"dist_nm":139.3,"freq":420,"lat":38.54333300,"lon":68.88500000,"rng_nm":50,"alt_fmsl":0,"id":"WG","desc":"DUSHANBE NDB"},
+{"type":"VOR","hdg_t":296.7,"dist_nm":142.4,"freq":113.6,"lat":38.54166700,"lon":68.81166700,"rng_nm":130,"alt_fmsl":2589,"id":"DNB","desc":"DUSHANBE VOR-DME"},
+{"type":"NDB","hdg_t":296.3,"dist_nm":144.8,"freq":372,"lat":38.54333300,"lon":68.75500000,"rng_nm":50,"alt_fmsl":0,"id":"FN","desc":"DUSHANBE NDB"},
+{"type":"NDB","hdg_t":303.2,"dist_nm":149.8,"freq":505,"lat":38.84333300,"lon":68.84000000,"rng_nm":50,"alt_fmsl":0,"id":"SX","desc":"PUGUS NDB"},
+{"type":"NDB","hdg_t":293.6,"dist_nm":159.9,"freq":310,"lat":38.53333300,"lon":68.40166700,"rng_nm":50,"alt_fmsl":0,"id":"PR","desc":"OKTYABRSKY NDB"},
+{"type":"NDB","hdg_t":123.9,"dist_nm":165.8,"freq":324,"lat":35.92027800,"lon":74.33508100,"rng_nm":50,"alt_fmsl":4817,"id":"GT","desc":"GILGIT NDB"},
+{"type":"NDB","hdg_t":165.5,"dist_nm":166.4,"freq":357,"lat":34.80895000,"lon":72.35222200,"rng_nm":50,"alt_fmsl":0,"id":"SS","desc":"SAIDU SHARIF NDB"}
+]
+}

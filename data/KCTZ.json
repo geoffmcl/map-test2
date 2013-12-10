@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCTZ","name":"Sampson Co","lat":34.974939,"lon":-78.3656295,"rwys":1,"ils":0,"index":1662778,"path":"w080n30/w079n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":34.97061400,"lon1":-78.37211700,"rwy2":"24","lat2":34.97926400,"lon2":-78.35914200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133,"desc":"FAYETTEVILLE APP/DEP"}
+]
+}

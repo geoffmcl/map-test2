@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAFS","name":"Nikolai","lat":63.01856,"lon":-154.3584345,"rwys":1,"ils":0,"index":419393,"path":"w160n60/w155n63"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":63,"surf":"Gravel","rwy1":"04","lat1":63.01610300,"lon1":-154.36920000,"rwy2":"22","lat2":63.02101700,"lon2":-154.34766900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":128.1,"desc":"ANCHORAGE CNTR"}
+]
+}

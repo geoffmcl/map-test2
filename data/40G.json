@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"40G","name":"Valle","lat":35.65036401,"lon":-112.14126682,"rwys":1,"ils":0,"index":1105771,"path":"w120n30/w113n35"
+,"runways":[
+{"len_m":1279,"wid_m":14.02,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":35.64518300,"lon1":-112.15063300,"rwy2":"19","lat2":35.65594700,"lon2":-112.14555000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.85,"desc":"L.A. CENTER"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSRI","name":"Richmond (nsw)","lat":-33.60120200,"lon":150.78105100,"rwys":3,"ils":1,"index":5410331,"path":"e150s40/e150s34"
+,"runways":[
+{"len_m":2135,"wid_m":46.02,"hdg":107,"surf":"Asphalt","rwy1":"10","lat1":-33.60164800,"lon1":150.77126200,"rwy2":"28","lat2":-33.60731400,"lon2":150.79325400},
+{"len_m":775,"wid_m":39.93,"hdg":14,"surf":"Transparent","rwy1":"18","lat1":-33.60193400,"lon1":150.77921400,"rwy2":"36","lat2":-33.59514800,"lon2":150.78124200},
+{"len_m":610,"wid_m":22.86,"hdg":107,"surf":"Transparent","rwy1":"10R","lat1":-33.60224900,"lon1":150.77054000,"rwy2":"28L","lat2":-33.60386700,"lon2":150.77682200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":135.5,"desc":"RICHMOND MULT"},
+{"type":"GND","freq":121.65,"desc":"RICHMOND GND"},
+{"type":"GND","freq":128.25,"desc":"RICHMOND GND"},
+{"type":"TWR","freq":133.05,"desc":"BRISBANE CNTR"},
+{"type":"TWR","freq":135.5,"desc":"RICHMOND TWR"},
+{"type":"APP","freq":124.55,"desc":"SYDNEY APP"},
+{"type":"APP","freq":135.9,"desc":"SYDNEY APP"}
+]
+}

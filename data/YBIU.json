@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBIU","name":"Ballidu","lat":-30.59532800,"lon":116.77429100,"rwys":3,"ils":0,"index":4853467,"path":"e110s40/e116s31"
+,"runways":[
+{"len_m":820,"wid_m":47.85,"hdg":53,"surf":"Dirt","rwy1":"05","lat1":-30.59534418,"lon1":116.77521064,"rwy2":"23","lat2":-30.59097906,"lon2":116.78212152},
+{"len_m":922,"wid_m":45.11,"hdg":113,"surf":"Dirt","rwy1":"11","lat1":-30.59108794,"lon1":116.77486977,"rwy2":"29","lat2":-30.59441645,"lon2":116.78368182},
+{"len_m":486,"wid_m":39.93,"hdg":0,"surf":"Dirt","rwy1":"18","lat1":-30.59537349,"lon1":116.77499966,"rwy2":"36","lat2":-30.59098473,"lon2":116.77499966}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

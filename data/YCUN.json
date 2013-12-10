@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCUN","name":"Cunderdin","lat":-31.62394201,"lon":117.22366390,"rwys":2,"ils":0,"index":4869784,"path":"e110s40/e117s32"
+,"runways":[
+{"len_m":1849,"wid_m":49.99,"hdg":45,"surf":"Asphalt","rwy1":"4","lat1":-31.62725202,"lon1":117.21135016,"rwy2":"22","lat2":-31.61565632,"lon2":117.22536235},
+{"len_m":1511,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":-31.61739695,"lon1":117.21013183,"rwy2":"32","lat2":-31.62718500,"lon2":117.22121800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

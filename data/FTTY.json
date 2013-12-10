@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FTTY","name":"Faya Largeau","lat":17.917053,"lon":19.111079,"rwys":1,"ils":0,"index":3267320,"path":"e010n10/e019n17"
+,"runways":[
+{"len_m":2801,"wid_m":45.11,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":17.91042500,"lon1":19.09981900,"rwy2":"24","lat2":17.92368100,"lon2":19.12233900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHTS","name":"Tri State Milton J Ferguson Fld","lat":38.36912400,"lon":-082.55576100,"rwys":2,"ils":2,"index":1597457,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1985,"wid_m":45.72,"hdg":112,"surf":"Asphalt","rwy1":"12","lat1":38.37165000,"lon1":-82.57005600,"rwy2":"30","lat2":38.36483900,"lon2":-82.54904200},
+{"len_m":916,"wid_m":18.29,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":38.35942200,"lon1":-82.55668300,"rwy2":"21","lat2":38.36705800,"lon2":-82.55269200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.2,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"HUNTINGTON TWR"},
+{"type":"APP","freq":119.75,"desc":"HUNTINGTON APP/DEP"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+}

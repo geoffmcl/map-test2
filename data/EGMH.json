@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGMH","name":"Manston","lat":51.34354045,"lon":001.35096670,"rwys":1,"ils":1,"index":2974545,"path":"e000n50/e001n51"
+,"runways":[
+{"len_m":2751,"wid_m":60.96,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":51.34455000,"lon1":1.32683100,"rwy2":"28","lat2":51.33972500,"lon2":1.36555800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.67,"desc":"Manston Information"},
+{"type":"TWR","freq":119.92,"desc":"Manston Tower"},
+{"type":"APP","freq":132.45,"desc":"Manston Approach"}
+]
+}

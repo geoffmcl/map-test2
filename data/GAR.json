@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GAR","name":"Garaina","lat":-07.87584700,"lon":147.13932600,"rwys":1,"ils":0,"index":5362817,"path":"e140s10/e147s08"
+,"runways":[
+{"len_m":1978,"wid_m":60.05,"hdg":135,"surf":"Gravel","rwy1":"13","lat1":-7.86885531,"lon1":147.13482738,"rwy2":"31","lat2":-7.88168069,"lon2":147.14733062}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"GNA AWOS"},
+{"type":"TWR","freq":134.9,"desc":"Garaina TWR"}
+]
+}

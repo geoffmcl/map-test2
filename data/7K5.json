@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7K5","name":"Kenmare Muni","lat":48.667778,"lon":-102.05,"rwys":1,"ils":0,"index":1270443,"path":"w110n40/w103n48"
+,"runways":[
+{"len_m":1146,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":48.66777800,"lon1":-102.05778100,"rwy2":"26","lat2":48.66777800,"lon2":-102.04221900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":119.6,"desc":"MINOT APP"},
+{"type":"DEP","freq":119.6,"desc":"MINOT DEP"}
+]
+}

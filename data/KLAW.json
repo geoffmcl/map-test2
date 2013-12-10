@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLAW","name":"Lawton Fort Sill Rgnl","lat":34.57636541,"lon":-098.42138146,"rwys":1,"ils":1,"index":1335074,"path":"w100n30/w099n34"
+,"runways":[
+{"len_m":2620,"wid_m":45.72,"hdg":176,"surf":"Concrete","rwy1":"17","lat1":34.57855300,"lon1":-98.41715300,"rwy2":"35","lat2":34.55496100,"lon2":-98.41561900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.75,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":120.55,"desc":"FORT SILL APP/DEP"}
+]
+}

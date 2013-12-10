@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAUH","name":"Aurora Muni Al Potter Fld","lat":40.89304408,"lon":-097.99620215,"rwys":1,"ils":0,"index":1351864,"path":"w100n40/w098n40"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":40.89991450,"lon1":-97.99604434,"rwy2":"34","lat2":40.88834399,"lon2":-97.99301356}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

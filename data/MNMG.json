@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MNMG","name":"Managua Intl","lat":12.14417900,"lon":-086.17198200,"rwys":1,"ils":1,"index":1530254,"path":"w090n10/w087n12"
+,"runways":[
+{"len_m":2442,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"09","lat1":12.14274400,"lon1":-86.17932800,"rwy2":"27","lat2":12.14024200,"lon2":-86.15702800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"APP"}
+]
+}

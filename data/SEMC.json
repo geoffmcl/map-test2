@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SEMC","name":"Coronel E Carvajal","lat":-2.2991665,"lon":-78.12075,"rwys":1,"ils":0,"index":1660399,"path":"w080s10/w079s03"
+,"runways":[
+{"len_m":2500,"wid_m":29.87,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":-2.31011400,"lon1":-78.12355300,"rwy2":"19","lat2":-2.28821900,"lon2":-78.11794700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"MACAS TWR"},
+{"type":"APP","freq":119.5,"desc":"SHELL APP"}
+]
+}

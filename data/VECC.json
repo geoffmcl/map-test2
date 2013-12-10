@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VECC","name":"Netaji Subhash Chandra Bose Intl","lat":22.64723701,"lon":088.44017794,"rwys":2,"ils":2,"index":4398121,"path":"e080n20/e088n22"
+,"runways":[
+{"len_m":3578,"wid_m":46.02,"hdg":6,"surf":"Asphalt","rwy1":"01R","lat1":22.64218599,"lon1":88.44631411,"rwy2":"19L","lat2":22.67430714,"lon2":88.45009543},
+{"len_m":2831,"wid_m":46.02,"hdg":6,"surf":"Asphalt","rwy1":"01L","lat1":22.64028100,"lon1":88.44401800,"rwy2":"19R","lat2":22.66569700,"lon2":88.44699700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"KOLKATA GND"},
+{"type":"TWR","freq":127.3,"desc":"KOLKATA RDO"},
+{"type":"TWR","freq":118.1,"desc":"KOLKATA TWR"},
+{"type":"APP","freq":127.9,"desc":"KOLKATA APP"}
+]
+}

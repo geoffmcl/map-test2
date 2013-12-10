@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGX","name":"Grayling","lat":62.89463852,"lon":-160.06654859,"rwys":2,"ils":0,"index":321081,"path":"w170n60/w161n62"
+,"runways":[
+{"len_m":707,"wid_m":18.29,"hdg":169,"surf":"Gravel","rwy1":"15","lat1":62.89768596,"lon1":-160.06611369,"rwy2":"33","lat2":62.89143514,"lon2":-160.06369465},
+{"len_m":1218,"wid_m":22.86,"hdg":181,"surf":"Gravel","rwy1":"17","lat1":62.89754702,"lon1":-160.06586200,"rwy2":"35","lat2":62.88662198,"lon2":-160.06669285}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

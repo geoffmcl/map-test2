@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"USRK","name":"Kogalym","lat":62.190417,"lon":74.5338025,"rwys":1,"ils":2,"index":4171273,"path":"e070n60/e074n62"
+,"runways":[
+{"len_m":2508,"wid_m":42.06,"hdg":189,"surf":"Concrete","rwy1":"17","lat1":62.20150300,"lon1":74.53795800,"rwy2":"35","lat2":62.17933100,"lon2":74.52964700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.4,"desc":"ATIS"},
+{"type":"TWR","freq":119.4,"desc":"TWR"}
+]
+}

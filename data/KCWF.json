@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCWF","name":"Chennault Intl","lat":30.21354400,"lon":-093.15192700,"rwys":1,"ils":1,"index":1416715,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":3256,"wid_m":60.96,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":30.22383511,"lon1":-93.15051970,"rwy2":"33","lat2":30.19735289,"lon2":-93.13587030}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"LAKE CHARLES APP/DEP"}
+]
+}

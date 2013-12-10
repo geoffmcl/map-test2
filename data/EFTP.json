@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFTP","name":"Tampere Pirkkala","lat":61.41982300,"lon":023.61186900,"rwys":1,"ils":1,"index":3335642,"path":"e020n60/e023n61"
+,"runways":[
+{"len_m":2700,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":61.40892200,"lon1":23.58158600,"rwy2":"24","lat2":61.41936900,"lon2":23.62720800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.55,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"PIRKKALA TWR"},
+{"type":"TWR","freq":119.7,"desc":"PIRKKALA TWR"},
+{"type":"APP","freq":126.2,"desc":"PIRKKALA APP"},
+{"type":"APP","freq":119.7,"desc":"PIRKKALA APP"}
+]
+}

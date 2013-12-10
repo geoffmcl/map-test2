@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPMH","name":"Greater Portsmouth Rgnl","lat":38.84012096,"lon":-082.85018232,"rwys":1,"ils":0,"index":1597488,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1522,"wid_m":29.87,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":38.84731900,"lon1":-82.84764700,"rwy2":"36","lat2":38.83361100,"lon2":-82.84696900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+}

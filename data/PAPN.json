@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPN","name":"Pilot Point","lat":57.580381,"lon":-157.571957,"rwys":1,"ils":0,"index":369889,"path":"w160n50/w158n57"
+,"runways":[
+{"len_m":999,"wid_m":22.86,"hdg":89,"surf":"Gravel","rwy1":"07","lat1":57.58038100,"lon1":-157.58031400,"rwy2":"25","lat2":57.58038100,"lon2":-157.56360000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

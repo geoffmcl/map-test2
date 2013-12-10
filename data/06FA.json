@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"06FA","name":"William P Gwinn","lat":26.908153,"lon":-80.3284135,"rwys":1,"ils":0,"index":1629498,"path":"w090n20/w081n26"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":26.90815000,"lon1":-80.33915800,"rwy2":"27","lat2":26.90815600,"lon2":-80.31766900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":120.4,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"PALM BEACH APP"}
+]
+}

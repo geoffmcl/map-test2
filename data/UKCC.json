@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKCC","name":"Donetsk Intl","lat":48.06997858,"lon":37.7479976633333,"rwys":1,"ils":2,"index":3564162,"path":"e030n40/e037n48"
+,"runways":[
+{"len_m":3999,"wid_m":60.05,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":48.07479700,"lon1":37.69876400,"rwy2":"26","lat2":48.07530300,"lon2":37.75243300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":80,"wid_m":76.81,"hdg":37,"surf":"Transparent","lat1":48.06899334,"lon1":37.75887809},
+{"rwy1":"H2","len_m":36,"wid_m":36.58,"hdg":37,"surf":"Transparent","lat1":48.06589240,"lon1":37.75951640}
+]
+,"radios":[
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":134,"desc":"APP"}
+]
+}

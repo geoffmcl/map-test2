@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DRRN","name":"Diori Hamani","lat":13.482967,"lon":2.181087,"rwys":2,"ils":1,"index":2988505,"path":"e000n10/e002n13"
+,"runways":[
+{"len_m":3006,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09R","lat1":13.48090300,"lon1":2.16974400,"rwy2":"27L","lat2":13.48219200,"lon2":2.19748100},
+{"len_m":1624,"wid_m":39.93,"hdg":87,"surf":"Gravel","rwy1":"09L","lat1":13.48403100,"lon1":2.17106700,"rwy2":"27R","lat2":13.48474200,"lon2":2.18605600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"NIAMEY TWR"},
+{"type":"TWR","freq":118.1,"desc":"NIAMEY TWR"}
+]
+}

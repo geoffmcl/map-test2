@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIHS","name":"Hamadan Mil","lat":35.2016203333333,"lon":48.6621753333333,"rwys":3,"ils":0,"index":3743562,"path":"e040n30/e048n35"
+,"runways":[
+{"len_m":4474,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":35.21486400,"lon1":48.65630800,"rwy2":"31","lat2":35.18897200,"lon2":48.69397500},
+{"len_m":4358,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13R","lat1":35.21106700,"lon1":48.65425600,"rwy2":"31L","lat2":35.18598600,"lon2":48.69109400},
+{"len_m":3936,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"05","lat1":35.19531100,"lon1":48.62015800,"rwy2":"23","lat2":35.21352200,"lon2":48.65726100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"NOGEH TWR"},
+{"type":"APP","freq":119.1,"desc":"NOGEH APP"},
+{"type":"APP","freq":125.45,"desc":"NOGEH APP"},
+{"type":"APP","freq":134.1,"desc":"NOGEH APP"}
+]
+}

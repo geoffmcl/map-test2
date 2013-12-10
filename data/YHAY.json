@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHAY","name":"Hay","lat":-34.53154032,"lon":144.83291903,"rwys":2,"ils":0,"index":5311963,"path":"e140s40/e144s35"
+,"runways":[
+{"len_m":1459,"wid_m":29.87,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":-34.53742140,"lon1":144.82396556,"rwy2":"22","lat2":-34.52788552,"lon2":144.83491191},
+{"len_m":1257,"wid_m":85.95,"hdg":154,"surf":"Dirt","rwy1":"15","lat1":-34.52338951,"lon1":144.82682322,"rwy2":"33","lat2":-34.53363355,"lon2":144.83269727}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

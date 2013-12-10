@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YAYE","name":"Ayers Rock","lat":-25.19061101,"lon":130.97699816,"rwys":1,"ils":0,"index":5083187,"path":"e130s30/e130s26"
+,"runways":[
+{"len_m":2596,"wid_m":29.87,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-25.17809306,"lon1":130.96670934,"rwy2":"31","lat2":-25.19301794,"lon2":130.98657499}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":130,"surf":"Concrete","lat1":-25.18956488,"lon1":130.97470785},
+{"rwy1":"H2","len_m":9,"wid_m":9.14,"hdg":130,"surf":"Asphalt","lat1":-25.18939963,"lon1":130.97486234},
+{"rwy1":"H3","len_m":9,"wid_m":9.14,"hdg":130,"surf":"Asphalt","lat1":-25.18924020,"lon1":130.97500916},
+{"rwy1":"H4","len_m":9,"wid_m":9.14,"hdg":130,"surf":"Asphalt","lat1":-25.18907634,"lon1":130.97515598},
+{"rwy1":"H5","len_m":9,"wid_m":9.14,"hdg":130,"surf":"Asphalt","lat1":-25.18891101,"lon1":130.97530606},
+{"rwy1":"H6","len_m":9,"wid_m":9.14,"hdg":130,"surf":"Asphalt","lat1":-25.18874364,"lon1":130.97546212},
+{"rwy1":"H7","len_m":28,"wid_m":28.04,"hdg":130,"surf":"Asphalt","lat1":-25.18910938,"lon1":130.97647890}
+]
+,"radios":[
+{"type":"ATIS","freq":126.55,"desc":"YAYE ATIS"},
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.9,"desc":"AYERS ROCK MULT"},
+{"type":"CTAF","freq":121.85,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGQK","name":"Raf Kinloss","lat":57.64485824,"lon":-003.56320638,"rwys":1,"ils":1,"index":2893033,"path":"w010n50/w004n57"
+,"runways":[
+{"len_m":2307,"wid_m":46.02,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":57.64595600,"lon1":-3.57881500,"rwy2":"26","lat2":57.65286400,"lon2":-3.54237900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Kinloss Tower"},
+{"type":"APP","freq":123.3,"desc":"Lossie Director"},
+{"type":"DEP","freq":119.35,"desc":"Lossie Departure"}
+]
+}

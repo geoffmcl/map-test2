@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GEML","name":"Melilla","lat":35.2803735,"lon":-2.9567085,"rwys":1,"ils":0,"index":2907984,"path":"w010n30/w003n35"
+,"runways":[
+{"len_m":1464,"wid_m":45.11,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":35.28586400,"lon1":-2.96117800,"rwy2":"33","lat2":35.27488300,"lon2":-2.95223900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

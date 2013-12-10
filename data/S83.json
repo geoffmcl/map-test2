@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"S83","name":"Shoshone Co","lat":47.54728795,"lon":-116.18749825,"rwys":1,"ils":0,"index":1040995,"path":"w120n40/w117n47"
+,"runways":[
+{"len_m":1861,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"07","lat1":47.54708736,"lon1":-116.19986196,"rwy2":"25","lat2":47.54748853,"lon2":-116.17513454}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.48,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

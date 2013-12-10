@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFFT","name":"Capital City","lat":38.182518,"lon":-84.904724,"rwys":1,"ils":1,"index":1564680,"path":"w090n30/w085n38"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":63,"surf":"Asphalt","rwy1":"06","lat1":38.17949400,"lon1":-84.91254200,"rwy2":"24","lat2":38.18554200,"lon2":-84.89690600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.1,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.75,"desc":"LEXINGTON APP/DEP"}
+]
+}

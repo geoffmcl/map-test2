@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LHSN","name":"Szolnok","lat":47.1228595,"lon":20.2355,"rwys":1,"ils":0,"index":3285568,"path":"e020n40/e020n47"
+,"runways":[
+{"len_m":2000,"wid_m":69.80,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":47.11445800,"lon1":20.23077500,"rwy2":"20","lat2":47.13126100,"lon2":20.24022500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129,"desc":"OPERA TWR"},
+{"type":"TWR","freq":130.25,"desc":"OPERA TWR"}
+]
+}

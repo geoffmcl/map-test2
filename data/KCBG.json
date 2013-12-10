@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCBG","name":"Cambridge Muni","lat":45.5574945,"lon":-93.264185,"rwys":1,"ils":0,"index":1417698,"path":"w100n40/w094n45"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":45.56272500,"lon1":-93.26653100,"rwy2":"34","lat2":45.55226400,"lon2":-93.26183900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

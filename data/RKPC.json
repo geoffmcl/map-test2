@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKPC","name":"Jeju Intl","lat":33.50897975,"lon":126.48939725,"rwys":2,"ils":2,"index":5021409,"path":"e120n30/e126n33"
+,"runways":[
+{"len_m":2998,"wid_m":45.11,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":33.50038300,"lon1":126.46928900,"rwy2":"24","lat2":33.51450800,"lon2":126.49680000},
+{"len_m":1910,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":33.51552800,"lon1":126.48738900,"rwy2":"31","lat2":33.50550000,"lon2":126.50411100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"},
+{"type":"APP","freq":124.05,"desc":"APP"},
+{"type":"DEP","freq":121.2,"desc":"DEP"}
+]
+}

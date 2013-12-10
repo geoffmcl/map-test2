@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIPR","name":"Rimini Mil","lat":44.02289100,"lon":012.61762100,"rwys":1,"ils":1,"index":3154306,"path":"e010n40/e012n44"
+,"runways":[
+{"len_m":2995,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":44.02853100,"lon1":12.59696400,"rwy2":"31","lat2":44.01204200,"lon2":12.62652800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"ROMAGNA APP"}
+]
+}

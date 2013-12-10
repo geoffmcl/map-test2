@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CJR4","name":"Eston","lat":51.1450016033333,"lon":-108.766449413333,"rwys":3,"ils":0,"index":1172296,"path":"w110n50/w109n51"
+,"runways":[
+{"len_m":939,"wid_m":22.86,"hdg":123,"surf":"Asphalt","rwy1":"11","lat1":51.14655243,"lon1":-108.76848601,"rwy2":"29","lat2":51.14186055,"lon2":-108.75733175},
+{"len_m":141,"wid_m":17.07,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":51.14677600,"lon1":-108.76821873,"rwy2":"36","lat2":51.14550063,"lon2":-108.76822000},
+{"len_m":596,"wid_m":20.12,"hdg":179,"surf":"Gravel","rwy1":"16","lat1":51.14734000,"lon1":-108.76822001,"rwy2":"34","lat2":51.14198000,"lon2":-108.76821999}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"}
+]
+}

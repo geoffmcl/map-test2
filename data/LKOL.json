@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKOL","name":"Olomouc","lat":49.59255960,"lon":017.21019471,"rwys":3,"ils":0,"index":3236576,"path":"e010n40/e017n49"
+,"runways":[
+{"len_m":410,"wid_m":39.93,"hdg":96,"surf":"Asphalt","rwy1":"11","lat1":49.58833378,"lon1":17.20536133,"rwy2":"29","lat2":49.58793027,"lon2":17.21099919},
+{"len_m":758,"wid_m":29.87,"hdg":96,"surf":"Turf/grass","rwy1":"10L","lat1":49.58784052,"lon1":17.20472323,"rwy2":"28R","lat2":49.58707754,"lon2":17.21514202},
+{"len_m":758,"wid_m":29.87,"hdg":96,"surf":"Turf/grass","rwy1":"10R","lat1":49.58757195,"lon1":17.20467633,"rwy2":"28L","lat2":49.58680897,"lon2":17.21509524}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"INFO"}
+]
+}

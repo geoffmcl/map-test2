@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDLH","name":"Hamm Lippewiesen","lat":51.68981242,"lon":007.81358690,"rwys":1,"ils":0,"index":3072875,"path":"e000n50/e007n51"
+,"runways":[
+{"len_m":615,"wid_m":20.12,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":51.68906400,"lon1":7.81463812,"rwy2":"24","lat2":51.69188300,"lon2":7.82229000}
+]
+,"helipads":[
+{"rwy1":"H11","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Asphalt","lat1":51.68931970,"lon1":7.81365052}
+]
+,"radios":[
+{"type":"TWR","freq":134.05,"desc":"HAMM INFO"}
+]
+}

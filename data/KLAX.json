@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLAX","name":"Los Angeles Intl","lat":33.94401944,"lon":-118.40377374,"rwys":4,"ils":4,"index":1007354,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":3685,"wid_m":46.02,"hdg":82,"surf":"Concrete","rwy1":"07L","lat1":33.93584845,"lon1":-118.41940189,"rwy2":"25R","lat2":33.93989558,"lon2":-118.37983758},
+{"len_m":3134,"wid_m":46.02,"hdg":82,"surf":"Concrete","rwy1":"06R","lat1":33.94676590,"lon1":-118.43537001,"rwy2":"24L","lat2":33.95021290,"lon2":-118.40171201},
+{"len_m":3383,"wid_m":60.96,"hdg":82,"surf":"Concrete","rwy1":"07R","lat1":33.93366967,"lon1":-118.41907035,"rwy2":"25L","lat2":33.93738367,"lon2":-118.38274515},
+{"len_m":2719,"wid_m":46.02,"hdg":83,"surf":"Concrete","rwy1":"06L","lat1":33.94914368,"lon1":-118.43120335,"rwy2":"24R","lat2":33.95212356,"lon2":-118.40199735}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.90,"hdg":-118,"surf":"Concrete","lat1":33.94294182,"lon1":-118.40650865},
+{"rwy1":"H2","len_m":22,"wid_m":22.86,"hdg":-118,"surf":"Asphalt","lat1":33.93255046,"lon1":-118.39479477}
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":133.9,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"SOCAL APP"},
+{"type":"DEP","freq":125.2,"desc":"SOCAL DEP"}
+]
+}

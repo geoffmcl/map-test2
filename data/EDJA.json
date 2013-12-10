@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDJA","name":"Memmingen Allgau","lat":47.988757,"lon":10.239502,"rwys":1,"ils":1,"index":3121784,"path":"e010n40/e010n47"
+,"runways":[
+{"len_m":2980,"wid_m":29.87,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":47.98165400,"lon1":10.22256800,"rwy2":"24","lat2":47.99586000,"lon2":10.25643600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.6,"desc":"INFO"},
+{"type":"TWR","freq":126.95,"desc":"MUNCHEN INFO"}
+]
+}

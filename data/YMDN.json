@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMDN","name":"Merredin","lat":-31.52270421,"lon":118.31825924,"rwys":2,"ils":0,"index":4886169,"path":"e110s40/e118s32"
+,"runways":[
+{"len_m":1029,"wid_m":17.07,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":-31.52044316,"lon1":118.32207271,"rwy2":"35","lat2":-31.52973201,"lon2":118.32219056},
+{"len_m":1618,"wid_m":17.98,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":-31.52164137,"lon1":118.31772618,"rwy2":"28","lat2":-31.52315650,"lon2":118.33467875}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.1,"desc":"Unicom"}
+]
+}

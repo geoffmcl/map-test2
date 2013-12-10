@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"6G0","name":"Athelone Williams Mem","lat":43.0291435,"lon":-83.529682,"rwys":1,"ils":0,"index":1581377,"path":"w090n40/w084n43"
+,"runways":[
+{"len_m":1057,"wid_m":12.19,"hdg":85,"surf":"Asphalt","rwy1":"08","lat1":43.02875600,"lon1":-83.53614700,"rwy2":"26","lat2":43.02953100,"lon2":-83.52321700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":118.8,"desc":"FLINT APP/DEP"},
+{"type":"APP","freq":128.55,"desc":"FLINT APP/DEP"}
+]
+}

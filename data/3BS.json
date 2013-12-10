@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3BS","name":"Jack Barstow","lat":43.66293825,"lon":-84.26161175,"rwys":2,"ils":0,"index":1565034,"path":"w090n40/w085n43"
+,"runways":[
+{"len_m":1157,"wid_m":22.86,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":43.66021100,"lon1":-84.26533600,"rwy2":"24","lat2":43.66541700,"lon2":-84.25290000},
+{"len_m":913,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":43.66717500,"lon1":-84.26409700,"rwy2":"36","lat2":43.65895000,"lon2":-84.26411400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"SAGINAW APP/DEP"}
+]
+}

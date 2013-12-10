@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"K83","name":"Sabetha Muni","lat":39.9031145,"lon":-95.7781655,"rwys":2,"ils":0,"index":1384568,"path":"w100n30/w096n39"
+,"runways":[
+{"len_m":954,"wid_m":12.19,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":39.90000300,"lon1":-95.78083100,"rwy2":"19","lat2":39.90833300,"lon2":-95.77805300},
+{"len_m":438,"wid_m":21.34,"hdg":124,"surf":"Turf/grass","rwy1":"12","lat1":39.90317200,"lon1":-95.77901100,"rwy2":"30","lat2":39.90095000,"lon2":-95.77476700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

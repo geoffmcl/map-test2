@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJNG","name":"Gifu","lat":35.3940765,"lon":136.8696665,"rwys":1,"ils":0,"index":5185371,"path":"e130n30/e136n35"
+,"runways":[
+{"len_m":2689,"wid_m":45.72,"hdg":92,"surf":"Concrete","rwy1":"10","lat1":35.39455300,"lon1":136.85487500,"rwy2":"28","lat2":35.39360000,"lon2":136.88445800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"TWR","freq":122,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"NAGOYA APP"},
+{"type":"DEP","freq":120.7,"desc":"NAGOYA DEP"}
+]
+}

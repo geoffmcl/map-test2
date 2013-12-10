@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YAMC","name":"Aramac","lat":-22.96090914,"lon":145.25169679,"rwys":2,"ils":0,"index":5329089,"path":"e140s30/e145s23"
+,"runways":[
+{"len_m":1197,"wid_m":17.07,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":-22.95503592,"lon1":145.24412485,"rwy2":"29","lat2":-22.96022286,"lon2":145.25437146},
+{"len_m":834,"wid_m":28.04,"hdg":45,"surf":"Dirt","rwy1":"04","lat1":-22.96138427,"lon1":145.24040361,"rwy2":"22","lat2":-22.95611300,"lon2":145.24621323}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"ARAMAC MULT"},
+{"type":"TWR","freq":122.1,"desc":"BRISBANE CENTRE CNTR"}
+]
+}

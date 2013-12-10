@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1O8","name":"Tipton Muni","lat":34.4586225,"lon":-99.171336,"rwys":1,"ils":0,"index":1318683,"path":"w100n30/w100n34"
+,"runways":[
+{"len_m":933,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.46282800,"lon1":-99.17133900,"rwy2":"35","lat2":34.45441700,"lon2":-99.17133300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.1,"desc":"ALTUS APP"},
+{"type":"DEP","freq":125.1,"desc":"ALTUS DEP"}
+]
+}

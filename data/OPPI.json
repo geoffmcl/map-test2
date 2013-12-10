@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPPI","name":"Pasni","lat":25.2901595,"lon":63.3444235,"rwys":1,"ils":0,"index":3988689,"path":"e060n20/e063n25"
+,"runways":[
+{"len_m":2733,"wid_m":46.02,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":25.28369700,"lon1":63.33286400,"rwy2":"24","lat2":25.29662200,"lon2":63.35598300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"TWR"}
+]
+}

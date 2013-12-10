@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWIS","name":"Williamson (military)","lat":-22.47376589,"lon":150.17968767,"rwys":1,"ils":0,"index":5411040,"path":"e150s30/e150s23"
+,"runways":[
+{"len_m":1799,"wid_m":29.87,"hdg":151,"surf":"Asphalt","rwy1":"14","lat1":-22.46668048,"lon1":150.17470731,"rwy2":"32","lat2":-22.48095252,"lon2":150.18305840}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":150,"surf":"Concrete","lat1":-22.47912843,"lon1":150.18021774},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":150,"surf":"Concrete","lat1":-22.47873218,"lon1":150.17997554},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":150,"surf":"Concrete","lat1":-22.47833478,"lon1":150.17974220},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":150,"surf":"Concrete","lat1":-22.47793625,"lon1":150.17951036}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"WILLIAMSON MULT"},
+{"type":"TWR","freq":119.55,"desc":"BRISBANE CNTR"}
+]
+}

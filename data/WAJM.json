@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WAJM","name":"Mulia (dgac)","lat":-3.702241,"lon":137.956296,"rwys":1,"ils":0,"index":5199255,"path":"e130s10/e137s04"
+,"runways":[
+{"len_m":851,"wid_m":29.87,"hdg":264,"surf":"Gravel","rwy1":"08","lat1":-3.70184975,"lon1":137.96010898,"rwy2":"26","lat2":-3.70263225,"lon2":137.95248302}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":111.6,"dist_nm":64.5,"freq":222,"lat":-4.10047800,"lon":138.95646900,"rng_nm":50,"alt_fmsl":5085,"id":"ZW","desc":"WAMENA NDB"},
+{"type":"NDB","hdg_t":232,"dist_nm":80.9,"freq":300,"lat":-4.53534400,"lon":136.89021900,"rng_nm":50,"alt_fmsl":103,"id":"ZF","desc":"TIMIKA NDB"},
+{"type":"VOR","hdg_t":233.2,"dist_nm":81.4,"freq":112.7,"lat":-4.51700300,"lon":136.86697200,"rng_nm":130,"alt_fmsl":103,"id":"TMK","desc":"TIMIKA VOR-DME"},
+{"type":"NDB","hdg_t":258.5,"dist_nm":102.8,"freq":375,"lat":-4.04358300,"lon":136.27538900,"rng_nm":50,"alt_fmsl":5906,"id":"ZG","desc":"WAGHETE NDB"},
+{"type":"VOR","hdg_t":277.3,"dist_nm":148.5,"freq":117.3,"lat":-3.38195800,"lon":135.50112200,"rng_nm":130,"alt_fmsl":20,"id":"NBR","desc":"NABIRE VOR-DME"},
+{"type":"NDB","hdg_t":277.7,"dist_nm":149,"freq":242,"lat":-3.36166700,"lon":135.49500000,"rng_nm":50,"alt_fmsl":20,"id":"ZR","desc":"NABIRE NDB"},
+{"type":"NDB","hdg_t":66.2,"dist_nm":167.4,"freq":395,"lat":-2.56824400,"lon":140.50746100,"rng_nm":50,"alt_fmsl":289,"id":"ZN","desc":"JAYAPURA NDB"},
+{"type":"VOR","hdg_t":66.7,"dist_nm":168.2,"freq":116.2,"lat":-2.58769444,"lon":140.53083333,"rng_nm":130,"alt_fmsl":252,"id":"JPA","desc":"JAYAPURA VOR-DME"},
+{"type":"NDB","hdg_t":113.5,"dist_nm":171.3,"freq":342,"lat":-4.84500000,"lon":140.57833300,"rng_nm":60,"alt_fmsl":4330,"id":"ZX","desc":"OKSIBIL NDB"},
+{"type":"NDB","hdg_t":323.3,"dist_nm":187.4,"freq":230,"lat":-1.18204200,"lon":136.09485300,"rng_nm":50,"alt_fmsl":46,"id":"ZM","desc":"BIAK NDB"}
+]
+}

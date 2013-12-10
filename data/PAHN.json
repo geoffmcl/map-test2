@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAHN","name":"Haines","lat":59.243829,"lon":-135.5235375,"rwys":1,"ils":0,"index":730441,"path":"w140n50/w136n59"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":110,"surf":"Asphalt","rwy1":"08","lat1":59.24571400,"lon1":-135.53356700,"rwy2":"26","lat2":59.24194400,"lon2":-135.51350800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

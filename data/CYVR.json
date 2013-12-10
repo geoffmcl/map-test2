@@ -1,0 +1,34 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYVR","name":"Vancouver Intl","lat":49.19491700,"lon":-123.17835300,"rwys":4,"ils":5,"index":926411,"path":"w130n40/w124n49"
+,"runways":[
+{"len_m":3511,"wid_m":60.96,"hdg":99,"surf":"Asphalt","rwy1":"08R","lat1":49.19011200,"lon1":-123.20794600,"rwy2":"26L","lat2":49.18466800,"lon2":-123.16049200},
+{"len_m":2224,"wid_m":60.96,"hdg":141,"surf":"Asphalt","rwy1":"12","lat1":49.20032600,"lon1":-123.20138399,"rwy2":"30","lat2":49.18460000,"lon2":-123.18252799},
+{"len_m":1068,"wid_m":22.86,"hdg":99,"surf":"Concrete","rwy1":"08","lat1":49.18752700,"lon1":-123.20218200,"rwy2":"26","lat2":49.18586100,"lon2":-123.18774200},
+{"len_m":3028,"wid_m":60.96,"hdg":99,"surf":"Concrete","rwy1":"08L","lat1":49.20509300,"lon1":-123.20131300,"rwy2":"26R","lat2":49.20046300,"lon2":-123.16035700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-123,"surf":"Concrete","lat1":49.18031500,"lon1":-123.15530800},
+{"rwy1":"H2","len_m":22,"wid_m":22.86,"hdg":-123,"surf":"Asphalt","lat1":49.18287000,"lon1":-123.16691100}
+]
+,"waterways":[
+{"len_m":1526,"wid_m":46,"hdg_t":99,"buoys":false,"rwy1":"07","lat1":49.17828200,"lon1":-123.18241800,"rwy2":"25","lat2":49.17591400,"lon2":-123.16179000}
+]
+,"radios":[
+{"type":"ATIS","freq":123.15,"desc":"VANCOUVER FSS"},
+{"type":"ATIS","freq":126.7,"desc":"VANCOUVER FSS"},
+{"type":"ATIS","freq":124.6,"desc":"CYVR ATIS"},
+{"type":"ATIS","freq":124.75,"desc":"CYVR ATIS"},
+{"type":"CLD","freq":121.4,"desc":"VANCOUVER CLD"},
+{"type":"GND","freq":121.7,"desc":"VANCOUVER GND"},
+{"type":"GND","freq":127.15,"desc":"VANCOUVER GND"},
+{"type":"TWR","freq":118.7,"desc":"VANCOUVER TWR"},
+{"type":"TWR","freq":119.55,"desc":"VANCOUVER TWR"},
+{"type":"TWR","freq":124,"desc":"VANCOUVER TWR"},
+{"type":"TWR","freq":125.65,"desc":"VANCOUVER TWR"},
+{"type":"APP","freq":125.2,"desc":"VANCOUVER APP"},
+{"type":"APP","freq":128.6,"desc":"VANCOUVER APP"},
+{"type":"APP","freq":133.1,"desc":"VANCOUVER APP"},
+{"type":"DEP","freq":126.12,"desc":"VANCOUVER DEP"},
+{"type":"DEP","freq":132.3,"desc":"VANCOUVER DEP"}
+]
+}

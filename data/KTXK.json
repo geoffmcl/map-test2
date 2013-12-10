@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTXK","name":"Texarkana Rgnl Webb Fld","lat":33.45625005,"lon":-093.99412769,"rwys":2,"ils":1,"index":1416920,"path":"w100n30/w094n33"
+,"runways":[
+{"len_m":2012,"wid_m":43.89,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":33.44625300,"lon1":-94.00135600,"rwy2":"22","lat2":33.45908600,"lon2":-93.98605800},
+{"len_m":1584,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":33.46009700,"lon1":-93.99365800,"rwy2":"31","lat2":33.44999400,"lon2":-93.98160300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.29,"hdg":-93,"surf":"Asphalt","lat1":33.45953986,"lon1":-93.99560940},
+{"rwy1":"H2","len_m":15,"wid_m":15.24,"hdg":-93,"surf":"Concrete","lat1":33.45946242,"lon1":-93.99519655},
+{"rwy1":"H3","len_m":15,"wid_m":15.24,"hdg":-93,"surf":"Concrete","lat1":33.45927257,"lon1":-93.99496587},
+{"rwy1":"H4","len_m":11,"wid_m":11.28,"hdg":-93,"surf":"Concrete","lat1":33.45900470,"lon1":-93.99527136}
+]
+,"radios":[
+{"type":"ATIS","freq":120.2,"desc":"ATIS"},
+{"type":"CTAF","freq":125.7,"desc":"CTAF"},
+{"type":"GND","freq":119.22,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"TWR"}
+]
+}

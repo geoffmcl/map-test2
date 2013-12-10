@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"K81","name":"Miami Co","lat":38.5405485,"lon":-94.92060925,"rwys":2,"ils":0,"index":1400864,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":38,"surf":"Asphalt","rwy1":"03","lat1":38.53747800,"lon1":-94.92323100,"rwy2":"21","lat2":38.54482500,"lon2":-94.91589700},
+{"len_m":807,"wid_m":18.29,"hdg":152,"surf":"Turf/grass","rwy1":"15","lat1":38.54318300,"lon1":-94.92376700,"rwy2":"33","lat2":38.53670800,"lon2":-94.91954200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.9,"desc":"KANSAS CITY APP/DEP"}
+]
+}

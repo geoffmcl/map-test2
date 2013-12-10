@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBJJ","name":"Wayne Co","lat":40.87365403,"lon":-081.88035649,"rwys":1,"ils":0,"index":1614000,"path":"w090n40/w082n40"
+,"runways":[
+{"len_m":1582,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":40.87484400,"lon1":-81.89764700,"rwy2":"28","lat2":40.87484200,"lon2":-81.87887800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"AKRON CANTON APP/DEP"}
+]
+}

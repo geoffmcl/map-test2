@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIIY","name":"Washington Wilkes Co","lat":33.779386,"lon":-82.8158125,"rwys":1,"ils":0,"index":1597168,"path":"w090n30/w083n33"
+,"runways":[
+{"len_m":1225,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":33.78263600,"lon1":-82.82116100,"rwy2":"31","lat2":33.77613600,"lon2":-82.81046400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.5,"desc":"ATLANTA APP/DEP"}
+]
+}

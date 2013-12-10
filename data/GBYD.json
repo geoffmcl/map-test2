@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GBYD","name":"Banjul Intl","lat":13.34212300,"lon":-016.65262100,"rwys":1,"ils":0,"index":2677202,"path":"w020n10/w017n13"
+,"runways":[
+{"len_m":3598,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":13.34855300,"lon1":-16.66480600,"rwy2":"32","lat2":13.32736700,"lon2":-16.63960600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":130.6,"desc":"GAMBIA AIRWAYS MULTICOM"},
+{"type":"GND","freq":121.9,"desc":"BANJUL TOWER GND"},
+{"type":"TWR","freq":118.3,"desc":"BANJUL TWR"},
+{"type":"APP","freq":121.3,"desc":"BANJUL TOWER APP"}
+]
+}

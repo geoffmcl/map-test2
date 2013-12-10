@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URMT","name":"Shpakovskoye","lat":45.109257,"lon":42.1128265,"rwys":1,"ils":2,"index":3645888,"path":"e040n40/e042n45"
+,"runways":[
+{"len_m":2635,"wid_m":47.85,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":45.10641400,"lon1":42.09657200,"rwy2":"25","lat2":45.11210000,"lon2":42.12908100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.9,"desc":"STAVROPOL TWR"},
+{"type":"TWR","freq":124,"desc":"STAVROPOL TWR"},
+{"type":"APP","freq":120.3,"desc":"STAVROPOL APP"},
+{"type":"APP","freq":124,"desc":"STAVROPOL APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KERV","name":"Kerrville Muni Louis Schreiner Fld","lat":29.97759925,"lon":-99.08591825,"rwys":2,"ils":1,"index":1318395,"path":"w100n20/w100n29"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":29.97849700,"lon1":-99.09188900,"rwy2":"30","lat2":29.96777800,"lon2":-99.07748900},
+{"len_m":1233,"wid_m":18.29,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":29.97739400,"lon1":-99.09062800,"rwy2":"21","lat2":29.98672800,"lon2":-99.08366700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":134.95,"desc":"CLNC DEL"}
+]
+}

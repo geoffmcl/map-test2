@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZCH","name":"Christchurch Intl","lat":-43.48845917,"lon":172.54027354,"rwys":3,"ils":2,"index":5770146,"path":"e170s50/e172s44"
+,"runways":[
+{"len_m":3287,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"02","lat1":-43.49761050,"lon1":172.52212130,"rwy2":"20","lat2":-43.47496788,"lon2":172.54829329},
+{"len_m":1741,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"11","lat1":-43.48426789,"lon1":172.52441326,"rwy2":"29","lat2":-43.49435989,"lon2":172.54089026},
+{"len_m":544,"wid_m":135.03,"hdg":40,"surf":"Turf/grass","rwy1":"02L","lat1":-43.48618936,"lon1":172.53101906,"rwy2":"20R","lat2":-43.48244559,"lon2":172.53535611}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":14.63,"hdg":172,"surf":"Turf/grass","lat1":-43.48303323,"lon1":172.52770277},
+{"rwy1":"H2","len_m":7,"wid_m":7.32,"hdg":172,"surf":"Asphalt","lat1":-43.49300379,"lon1":172.54766943}
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":125,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":125,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"APP"},
+{"type":"APP","freq":124.1,"desc":"APP"},
+{"type":"APP","freq":126.1,"desc":"APP"}
+]
+}

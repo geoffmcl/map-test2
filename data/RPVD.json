@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPVD","name":"Dumaguete","lat":9.333714,"lon":123.3004735,"rwys":1,"ils":0,"index":4970706,"path":"e120n00/e123n09"
+,"runways":[
+{"len_m":1870,"wid_m":35.97,"hdg":92,"surf":"Asphalt","rwy1":"09","lat1":9.33415000,"lon1":123.29197200,"rwy2":"27","lat2":9.33327800,"lon2":123.30897500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"TWR","freq":129.7,"desc":"TWR"}
+]
+}

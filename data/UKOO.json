@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKOO","name":"Odesa Intl","lat":46.4323371666667,"lon":30.6714208333333,"rwys":3,"ils":2,"index":3449370,"path":"e030n40/e030n46"
+,"runways":[
+{"len_m":2799,"wid_m":56.08,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":46.43877800,"lon1":30.67126100,"rwy2":"34","lat2":46.41465300,"lon2":30.68169200},
+{"len_m":898,"wid_m":57.91,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":46.44675000,"lon1":30.66718900,"rwy2":"36","lat2":46.43866700,"lon2":30.66685800},
+{"len_m":553,"wid_m":60.05,"hdg":75,"surf":"Turf/grass","rwy1":"07","lat1":46.42696100,"lon1":30.66727800,"rwy2":"25","lat2":46.42821400,"lon2":30.67424700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"RADAR"},
+{"type":"APP","freq":127.7,"desc":"RADAR"}
+]
+}

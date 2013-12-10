@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEGE","name":"Girona","lat":41.89924518,"lon":002.76462100,"rwys":1,"ils":1,"index":2990331,"path":"e000n40/e002n41"
+,"runways":[
+{"len_m":2399,"wid_m":45.11,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":41.89479746,"lon1":2.75825569,"rwy2":"20","lat2":41.91560571,"lon2":2.76600932}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"APP"}
+]
+}

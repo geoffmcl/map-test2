@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HLGT","name":"Ghat","lat":25.14174975,"lon":10.14589575,"rwys":2,"ils":0,"index":3120328,"path":"e010n20/e010n25"
+,"runways":[
+{"len_m":3609,"wid_m":45.11,"hdg":171,"surf":"Asphalt","rwy1":"17","lat1":25.15158300,"lon1":10.14166700,"rwy2":"35","lat2":25.11936100,"lon2":10.14697200},
+{"len_m":2015,"wid_m":29.87,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":25.14358300,"lon1":10.13875000,"rwy2":"24","lat2":25.15247200,"lon2":10.15619400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.5,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KWVI","name":"Watsonville Muni","lat":36.9358245,"lon":-121.789511,"rwys":2,"ils":1,"index":958392,"path":"w130n30/w122n36"
+,"runways":[
+{"len_m":1371,"wid_m":45.72,"hdg":32,"surf":"Asphalt","rwy1":"02","lat1":36.92903600,"lon1":-121.79579400,"rwy2":"20","lat2":36.93948100,"lon2":-121.78756100},
+{"len_m":1219,"wid_m":30.48,"hdg":99,"surf":"Asphalt","rwy1":"08","lat1":36.93832800,"lon1":-121.79408600,"rwy2":"26","lat2":36.93645300,"lon2":-121.78060300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.15,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":133,"desc":"NORCAL APP/DEP"}
+]
+}

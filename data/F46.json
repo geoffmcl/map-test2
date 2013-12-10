@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F46","name":"Rockwall Muni","lat":32.9305945,"lon":-96.4354765,"rwys":1,"ils":0,"index":1367738,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1027,"wid_m":13.72,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":32.93518900,"lon1":-96.43619700,"rwy2":"35","lat2":32.92600000,"lon2":-96.43475600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.3,"desc":"RGNL APP/DEP"}
+]
+}

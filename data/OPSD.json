@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPSD","name":"Skardu","lat":35.33483500,"lon":075.53677400,"rwys":2,"ils":0,"index":4185938,"path":"e070n30/e075n35"
+,"runways":[
+{"len_m":3640,"wid_m":30.48,"hdg":146,"surf":"Asphalt","rwy1":"14","lat1":35.35326400,"lon1":75.53047500,"rwy2":"32","lat2":35.32574400,"lon2":75.55228300},
+{"len_m":1981,"wid_m":30.78,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":35.33841100,"lon1":75.52681700,"rwy2":"33","lat2":35.32256100,"lon2":75.53685800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+}

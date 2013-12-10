@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URKK","name":"Pashkovskiy","lat":45.0346445,"lon":39.1704535,"rwys":2,"ils":0,"index":3596736,"path":"e030n40/e039n45"
+,"runways":[
+{"len_m":2997,"wid_m":44.20,"hdg":52,"surf":"Concrete","rwy1":"05R","lat1":45.02602800,"lon1":39.17336700,"rwy2":"23L","lat2":45.04242800,"lon2":39.20356700},
+{"len_m":2190,"wid_m":48.77,"hdg":52,"surf":"Asphalt","rwy1":"05L","lat1":45.02905800,"lon1":39.14141900,"rwy2":"23R","lat2":45.04106400,"lon2":39.16346100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.8,"desc":"KRASNODRA ATIS"},
+{"type":"GND","freq":119,"desc":"KRASNODAR TAXIING"},
+{"type":"TWR","freq":118.2,"desc":"KRASNODAR TWR"},
+{"type":"TWR","freq":120.6,"desc":"KRASNODAR TWR"},
+{"type":"APP","freq":129.6,"desc":"KRASNODAR APP"},
+{"type":"APP","freq":127.7,"desc":"KRASNODAR APP"},
+{"type":"APP","freq":129,"desc":"KRASNODAR APP"},
+{"type":"APP","freq":124,"desc":"KRASNODAR APP"},
+{"type":"APP","freq":121.3,"desc":"KRASNODAR KRUG"}
+]
+}

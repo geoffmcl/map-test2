@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZMBH","name":"Bayankhongor","lat":46.16477825,"lon":100.7026535,"rwys":2,"ils":0,"index":4596234,"path":"e100n40/e100n46"
+,"runways":[
+{"len_m":2770,"wid_m":34.75,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":46.17475800,"lon1":100.69700800,"rwy2":"34","lat2":46.15186100,"lon2":100.71116400},
+{"len_m":2039,"wid_m":49.99,"hdg":156,"surf":"Dirt","rwy1":"16R","lat1":46.17466100,"lon1":100.69595600,"rwy2":"34L","lat2":46.15783300,"lon2":100.70648600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":130,"desc":"APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPLK","name":"M Graham Clark Taney Co","lat":36.6258945,"lon":-93.2288415,"rwys":1,"ils":0,"index":1417131,"path":"w100n30/w094n36"
+,"runways":[
+{"len_m":1139,"wid_m":30.48,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":36.62835600,"lon1":-93.23443300,"rwy2":"29","lat2":36.62343300,"lon2":-93.22325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.35,"desc":"SPRINGFIELD APP/DEP"}
+]
+}

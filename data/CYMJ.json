@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYMJ","name":"Moose Jaw Air Vice Marshal C M Mcewen","lat":50.33645056,"lon":-105.56001773,"rwys":3,"ils":1,"index":1221393,"path":"w110n50/w106n50"
+,"runways":[
+{"len_m":2545,"wid_m":46.02,"hdg":118,"surf":"Asphalt","rwy1":"11L","lat1":50.33813048,"lon1":-105.57547710,"rwy2":"29R","lat2":50.32719401,"lon2":-105.54406764},
+{"len_m":2225,"wid_m":46.02,"hdg":118,"surf":"Asphalt","rwy1":"11R","lat1":50.33242359,"lon1":-105.57523033,"rwy2":"29L","lat2":50.32286548,"lon2":-105.54776972},
+{"len_m":903,"wid_m":29.87,"hdg":43,"surf":"Asphalt","rwy1":"03","lat1":50.32721048,"lon1":-105.55919739,"rwy2":"21","lat2":50.33308498,"lon2":-105.55043828}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":135.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"ARR"},
+{"type":"APP","freq":129.1,"desc":"ARR"},
+{"type":"APP","freq":134.1,"desc":"ARR"},
+{"type":"APP","freq":136.5,"desc":"ARR"},
+{"type":"DEP","freq":119,"desc":"DEP"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMUO","name":"Mountain Home Afb","lat":43.03897475,"lon":-115.8693505,"rwys":2,"ils":2,"index":1057088,"path":"w120n40/w116n43"
+,"runways":[
+{"len_m":4115,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":43.05656100,"lon1":-115.89036900,"rwy2":"30","lat2":43.03045000,"lon2":-115.85453300},
+{"len_m":3056,"wid_m":152.40,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":43.03444400,"lon1":-115.88500000,"rwy2":"25","lat2":43.03444400,"lon2":-115.84750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":127.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.5,"desc":"GND"},
+{"type":"TWR","freq":133.85,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"APP"}
+]
+}

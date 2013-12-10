@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WAKB","name":"Kelila (dgac)","lat":-3.72758,"lon":138.711044,"rwys":1,"ils":0,"index":5215637,"path":"e130s10/e138s04"
+,"runways":[
+{"len_m":728,"wid_m":29.87,"hdg":34,"surf":"Turf/grass","rwy1":"03","lat1":-3.73027771,"lon1":138.70916607,"rwy2":"21","lat2":-3.72488229,"lon2":138.71292193}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":146.5,"dist_nm":26.6,"freq":222,"lat":-4.10047800,"lon":138.95646900,"rng_nm":50,"alt_fmsl":5085,"id":"ZW","desc":"WAMENA NDB"},
+{"type":"NDB","hdg_t":246,"dist_nm":119.3,"freq":300,"lat":-4.53534400,"lon":136.89021900,"rng_nm":50,"alt_fmsl":103,"id":"ZF","desc":"TIMIKA NDB"},
+{"type":"VOR","hdg_t":246.8,"dist_nm":120.1,"freq":112.7,"lat":-4.51700300,"lon":136.86697200,"rng_nm":130,"alt_fmsl":103,"id":"TMK","desc":"TIMIKA VOR-DME"},
+{"type":"NDB","hdg_t":57.3,"dist_nm":128.1,"freq":395,"lat":-2.56824400,"lon":140.50746100,"rng_nm":50,"alt_fmsl":289,"id":"ZN","desc":"JAYAPURA NDB"},
+{"type":"VOR","hdg_t":58.1,"dist_nm":128.6,"freq":116.2,"lat":-2.58769444,"lon":140.53083333,"rng_nm":130,"alt_fmsl":252,"id":"JPA","desc":"JAYAPURA VOR-DME"},
+{"type":"NDB","hdg_t":120.8,"dist_nm":130.3,"freq":342,"lat":-4.84500000,"lon":140.57833300,"rng_nm":60,"alt_fmsl":4330,"id":"ZX","desc":"OKSIBIL NDB"},
+{"type":"NDB","hdg_t":262.5,"dist_nm":147.2,"freq":375,"lat":-4.04358300,"lon":136.27538900,"rng_nm":50,"alt_fmsl":5906,"id":"ZG","desc":"WAGHETE NDB"},
+{"type":"NDB","hdg_t":68.1,"dist_nm":167.6,"freq":257,"lat":-2.67890000,"lon":141.30311700,"rng_nm":25,"alt_fmsl":10,"id":"VNO","desc":"VANIMO NDB-DME"},
+{"type":"SDME","hdg_t":68.1,"dist_nm":167.6,"freq":115.6,"lat":-2.67890000,"lon":141.30311700,"rng_nm":25,"alt_fmsl":10,"id":"VNO","desc":"VANIMO NDB-DME"},
+{"type":"NDB","hdg_t":146.8,"dist_nm":170.1,"freq":295,"lat":-6.11166700,"lon":140.26666700,"rng_nm":50,"alt_fmsl":75,"id":"ZH","desc":"TANAH MERAH NDB"}
+]
+}

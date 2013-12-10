@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EICM","name":"Galway","lat":53.30164919,"lon":-008.94148145,"rwys":1,"ils":2,"index":2810832,"path":"w010n50/w009n53"
+,"runways":[
+{"len_m":1209,"wid_m":29.87,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":53.29878100,"lon1":-8.95052500,"rwy2":"26","lat2":53.30152158,"lon2":-8.93296635}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.82,"desc":"ATIS"},
+{"type":"GND","freq":121.82,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"}
+]
+}

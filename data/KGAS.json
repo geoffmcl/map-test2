@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGAS","name":"Gallia Meigs Rgnl","lat":38.83362092,"lon":-082.16226211,"rwys":1,"ils":0,"index":1597491,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":38.83043100,"lon1":-82.16863600,"rwy2":"23","lat2":38.83779400,"lon2":-82.15822200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":132.95,"desc":"HUNTINGTON APP/DEP"}
+]
+}

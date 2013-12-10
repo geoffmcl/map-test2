@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTGM","name":"Thargomindah","lat":-27.98717024,"lon":143.81534844,"rwys":2,"ils":0,"index":5296003,"path":"e140s30/e143s28"
+,"runways":[
+{"len_m":1462,"wid_m":29.87,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":-27.98138267,"lon1":143.80747862,"rwy2":"31","lat2":-27.99160433,"lon2":143.81688560},
+{"len_m":969,"wid_m":77.11,"hdg":51,"surf":"Dirt","rwy1":"04","lat1":-27.99515150,"lon1":143.80748090,"rwy2":"22","lat2":-27.98969106,"lon2":143.81517851}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

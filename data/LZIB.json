@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LZIB","name":"Bratislava/m.r. Stefanik","lat":48.17107200,"lon":017.20228900,"rwys":2,"ils":2,"index":3236488,"path":"e010n40/e017n48"
+,"runways":[
+{"len_m":2956,"wid_m":45.11,"hdg":133,"surf":"Concrete","rwy1":"13","lat1":48.17573051,"lon1":17.20394636,"rwy2":"31","lat2":48.15727749,"lon2":17.23256243},
+{"len_m":2911,"wid_m":60.05,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":48.16069127,"lon1":17.19937086,"rwy2":"22","lat2":48.17955849,"lon2":17.22650782}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":17,"surf":"Concrete","lat1":48.16788126,"lon1":17.20251009},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":17,"surf":"Concrete","lat1":48.16672759,"lon1":17.20138873}
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":134.93,"desc":"APP"}
+]
+}

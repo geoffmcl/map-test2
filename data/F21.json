@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F21","name":"Memphis Muni","lat":34.73881725,"lon":-100.52927525,"rwys":2,"ils":0,"index":1302313,"path":"w110n30/w101n34"
+,"runways":[
+{"len_m":1423,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.74821700,"lon1":-100.53083100,"rwy2":"35","lat2":34.73538600,"lon2":-100.53099200},
+{"len_m":839,"wid_m":21.34,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":34.73583300,"lon1":-100.53222200,"rwy2":"26","lat2":34.73583300,"lon2":-100.52305600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

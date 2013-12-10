@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSLE","name":"Mcnary Fld","lat":44.90960300,"lon":-123.00756100,"rwys":2,"ils":1,"index":926139,"path":"w130n40/w124n44"
+,"runways":[
+{"len_m":1771,"wid_m":45.72,"hdg":150,"surf":"Asphalt","rwy1":"13","lat1":44.91687200,"lon1":-123.00725600,"rwy2":"31","lat2":44.90305800,"lon2":-122.99607200},
+{"len_m":1567,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":44.91610800,"lon1":-123.00330600,"rwy2":"34","lat2":44.90200000,"lon2":-123.00357200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.55,"desc":"ATIS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"SALEM TWR"}
+]
+}

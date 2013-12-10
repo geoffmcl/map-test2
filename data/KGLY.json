@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGLY","name":"Clinton Mem","lat":38.3565735,"lon":-93.684178,"rwys":1,"ils":0,"index":1417233,"path":"w100n30/w094n38"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":38.35268600,"lon1":-93.68910600,"rwy2":"22","lat2":38.36046100,"lon2":-93.67925000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.45,"desc":"WHITEMAN APP"},
+{"type":"DEP","freq":125.92,"desc":"WHITEMAN DEP"}
+]
+}

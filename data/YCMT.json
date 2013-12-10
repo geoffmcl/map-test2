@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCMT","name":"Clermont","lat":-22.77655021,"lon":147.62308341,"rwys":2,"ils":0,"index":5361866,"path":"e140s30/e147s23"
+,"runways":[
+{"len_m":1310,"wid_m":29.87,"hdg":158,"surf":"Asphalt","rwy1":"15","lat1":-22.76686391,"lon1":147.61650282,"rwy2":"33","lat2":-22.77788529,"lon2":147.62116316},
+{"len_m":1177,"wid_m":60.96,"hdg":27,"surf":"Gravel","rwy1":"01","lat1":-22.77506402,"lon1":147.62085221,"rwy2":"19","lat2":-22.76564200,"lon2":147.62615778}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

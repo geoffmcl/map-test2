@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URWI","name":"Elista","lat":46.37420975,"lon":44.3313875,"rwys":2,"ils":0,"index":3678737,"path":"e040n40/e044n46"
+,"runways":[
+{"len_m":2302,"wid_m":85.34,"hdg":97,"surf":"Dirt","rwy1":"09L","lat1":46.37583300,"lon1":44.31706700,"rwy2":"27R","lat2":46.37314200,"lon2":44.34674200},
+{"len_m":2112,"wid_m":45.11,"hdg":97,"surf":"Asphalt","rwy1":"09","lat1":46.37521700,"lon1":44.31726900,"rwy2":"27","lat2":46.37264700,"lon2":44.34447200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAOM","name":"Nome","lat":64.51214606,"lon":-165.43319729,"rwys":2,"ils":1,"index":239265,"path":"w170n60/w166n64"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":64.51430300,"lon1":-165.46801700,"rwy2":"28","lat2":64.50875800,"lon2":-165.43218900},
+{"len_m":1699,"wid_m":46.02,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":64.50723100,"lon1":-165.45178300,"rwy2":"21","lat2":64.51861700,"lon2":-165.42825800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"APP","freq":133.3,"desc":"Anchorage ARTCC"}
+]
+}

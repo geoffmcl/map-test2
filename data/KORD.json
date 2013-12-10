@@ -1,0 +1,35 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KORD","name":"Chicago Ohare Intl","lat":41.9820702575,"lon":-87.90358304125,"rwys":7,"ils":9,"index":1515768,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":3962,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":41.96899478,"lon1":-87.93153178,"rwy2":"28","lat2":41.96906900,"lon2":-87.88372800},
+{"len_m":2461,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"04R","lat1":41.95332800,"lon1":-87.89941900,"rwy2":"22L","lat2":41.96992200,"lon2":-87.87974400},
+{"len_m":2955,"wid_m":60.96,"hdg":139,"surf":"Asphalt","rwy1":"14R","lat1":41.99043540,"lon1":-87.93314000,"rwy2":"32L","lat2":41.97005669,"lon2":-87.91021480},
+{"len_m":3049,"wid_m":45.72,"hdg":139,"surf":"Asphalt","rwy1":"14L","lat1":42.00243600,"lon1":-87.91536900,"rwy2":"32R","lat2":41.98140600,"lon2":-87.89171400},
+{"len_m":2428,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09R","lat1":41.98389700,"lon1":-87.91835300,"rwy2":"27L","lat2":41.98390000,"lon2":-87.88905000},
+{"len_m":2285,"wid_m":45.72,"hdg":39,"surf":"Asphalt","rwy1":"04L","lat1":41.98165600,"lon1":-87.91391700,"rwy2":"22R","lat2":41.99753600,"lon2":-87.89637200},
+{"len_m":2286,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"09L","lat1":42.00283213,"lon1":-87.92667583,"rwy2":"27R","lat2":42.00283075,"lon2":-87.89908247}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":60,"wid_m":30.48,"hdg":-87,"surf":"Concrete","lat1":41.97741218,"lon1":-87.88450889}
+]
+,"radios":[
+{"type":"ATIS","freq":135.4,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.67,"desc":"GND"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"TWR","freq":126.9,"desc":"TWR"},
+{"type":"TWR","freq":127.92,"desc":"TWR"},
+{"type":"TWR","freq":132.7,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"},
+{"type":"APP","freq":121.15,"desc":"APP"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":124.7,"desc":"APP"},
+{"type":"DEP","freq":125,"desc":"DEP"},
+{"type":"DEP","freq":125.4,"desc":"DEP"},
+{"type":"DEP","freq":127.4,"desc":"DEP"}
+]
+}

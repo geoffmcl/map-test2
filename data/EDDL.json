@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDL","name":"Duesseldorf","lat":51.27879852,"lon":006.77055632,"rwys":2,"ils":4,"index":3056467,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":3010,"wid_m":45.11,"hdg":52,"surf":"Concrete","rwy1":"05R","lat1":51.27960600,"lon1":6.75198600,"rwy2":"23L","lat2":51.29597802,"lon2":6.78634446},
+{"len_m":2716,"wid_m":45.11,"hdg":52,"surf":"Concrete","rwy1":"05L","lat1":51.28366606,"lon1":6.74859955,"rwy2":"23R","lat2":51.29842556,"lon2":6.77961909}
+]
+,"helipads":[
+{"rwy1":"H7","len_m":30,"wid_m":29.57,"hdg":6,"surf":"Concrete","lat1":51.27872427,"lon1":6.75727291}
+]
+,"radios":[
+{"type":"ATIS","freq":123.77,"desc":"ATIS"},
+{"type":"CLD","freq":121.77,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"DIR"}
+]
+}

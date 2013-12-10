@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KASG","name":"Springdale Muni","lat":36.1764,"lon":-94.1192475,"rwys":1,"ils":1,"index":1400715,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1615,"wid_m":22.86,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":36.18362500,"lon1":-94.11813900,"rwy2":"36","lat2":36.16917500,"lon2":-94.12035600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":128.15,"desc":"RAZORBACK APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"36U","name":"Heber City Muni Russ Mcdonald Fld","lat":40.4818015,"lon":-111.4288045,"rwys":1,"ils":0,"index":1122458,"path":"w120n40/w112n40"
+,"runways":[
+{"len_m":2101,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"03","lat1":40.47568900,"lon1":-111.43826700,"rwy2":"21","lat2":40.48791400,"lon2":-111.41934200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

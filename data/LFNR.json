@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFNR","name":"La Fare","lat":43.53944500,"lon":005.18490100,"rwys":2,"ils":0,"index":3039584,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":945,"wid_m":60.05,"hdg":339,"surf":"Turf/grass","rwy1":"16L","lat1":43.53157700,"lon1":5.18012600,"rwy2":"34","lat2":43.53954300,"lon2":5.17602600},
+{"len_m":1081,"wid_m":60.05,"hdg":265,"surf":"Turf/grass","rwy1":"27","lat1":43.53723200,"lon1":5.18634500,"rwy2":"09","lat2":43.53641800,"lon2":5.17300900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.5,"desc":"PROVENCE TWR"},
+{"type":"TWR","freq":135.15,"desc":"SALON TWR"}
+]
+}

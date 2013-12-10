@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DTTJ","name":"Djerba Zarzis","lat":33.87159500,"lon":010.77768000,"rwys":1,"ils":1,"index":3120883,"path":"e010n30/e010n33"
+,"runways":[
+{"len_m":3112,"wid_m":45.11,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":33.87503100,"lon1":10.76034200,"rwy2":"27","lat2":33.87586400,"lon2":10.79396400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"DJERBA AIRPORT TWR"},
+{"type":"APP","freq":120.3,"desc":"DJERBA APP"}
+]
+}

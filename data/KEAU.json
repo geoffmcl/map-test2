@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEAU","name":"Chippewa Valley Rgnl","lat":44.8653875,"lon":-91.48505675,"rwys":2,"ils":1,"index":1450418,"path":"w100n40/w092n44"
+,"runways":[
+{"len_m":2469,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":44.85928600,"lon1":-91.49272200,"rwy2":"22","lat2":44.87500300,"lon2":-91.47063300},
+{"len_m":1523,"wid_m":30.48,"hdg":138,"surf":"Concrete","rwy1":"14","lat1":44.86880300,"lon1":-91.49476400,"rwy2":"32","lat2":44.85845800,"lon2":-91.48210800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":120.92,"desc":"GND"},
+{"type":"TWR","freq":118.57,"desc":"EAU CLAIRE TWR"},
+{"type":"APP","freq":125.3,"desc":"MINNEAPOLIS APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBFF","name":"Western Neb Rgnl William B Heilig Fld","lat":41.874016125,"lon":-103.59565086,"rwys":2,"ils":1,"index":1253617,"path":"w110n40/w104n41"
+,"runways":[
+{"len_m":2531,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":41.88229424,"lon1":-103.60496131,"rwy2":"30","lat2":41.86601376,"lon2":-103.58362477},
+{"len_m":2440,"wid_m":46.02,"hdg":68,"surf":"Asphalt","rwy1":"05","lat1":41.86977850,"lon1":-103.61064737,"rwy2":"23","lat2":41.87797800,"lon2":-103.58337000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LSZC","name":"Buochs","lat":46.97154159,"lon":008.40227164,"rwys":2,"ils":0,"index":3088953,"path":"e000n40/e008n46"
+,"runways":[
+{"len_m":2006,"wid_m":39.93,"hdg":64,"surf":"Asphalt","rwy1":"07L","lat1":46.97048808,"lon1":8.38503725,"rwy2":"25R","lat2":46.97835183,"lon2":8.40877191},
+{"len_m":1474,"wid_m":39.93,"hdg":64,"surf":"Asphalt","rwy1":"07R","lat1":46.96905672,"lon1":8.38910131,"rwy2":"25L","lat2":46.97485407,"lon2":8.40652767}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.62,"desc":"TWR"}
+]
+}

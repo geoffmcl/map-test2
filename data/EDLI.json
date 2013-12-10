@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDLI","name":"Bielefeld Windelsbleiche","lat":51.964832,"lon":8.5448345,"rwys":1,"ils":0,"index":3089274,"path":"e000n50/e008n51"
+,"runways":[
+{"len_m":1256,"wid_m":20.12,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":51.96682100,"lon1":8.53628300,"rwy2":"29","lat2":51.96284300,"lon2":8.55338600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.35,"desc":"INFO"},
+{"type":"TWR","freq":129.87,"desc":"LANGEN INFO"}
+]
+}

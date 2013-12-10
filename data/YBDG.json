@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBDG","name":"Bendigo","lat":-36.73775854,"lon":144.32649323,"rwys":2,"ils":0,"index":5311825,"path":"e140s40/e144s37"
+,"runways":[
+{"len_m":1218,"wid_m":17.98,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":-36.73294000,"lon1":144.32910600,"rwy2":"35","lat2":-36.74391847,"lon2":144.32867810},
+{"len_m":448,"wid_m":17.98,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":-36.74077693,"lon1":144.32509193,"rwy2":"23","lat2":-36.73880724,"lon2":144.32947663}
+]
+,"helipads":[
+{"rwy1":"H50","len_m":11,"wid_m":11.89,"hdg":144,"surf":"Concrete","lat1":-36.74029500,"lon1":144.32476959}
+]
+,"radios":[
+{"type":"CTAF","freq":119.3,"desc":"CTAF"}
+]
+}

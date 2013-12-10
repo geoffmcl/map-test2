@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OOSA","name":"Salalah","lat":17.03661575,"lon":54.096616,"rwys":2,"ils":1,"index":3840704,"path":"e050n10/e054n17"
+,"runways":[
+{"len_m":3342,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":17.03374700,"lon1":54.07646100,"rwy2":"25","lat2":17.04368300,"lon2":54.10610600},
+{"len_m":1278,"wid_m":17.98,"hdg":174,"surf":"Dirt","rwy1":"17","lat1":17.04026400,"lon1":54.10132800,"rwy2":"35","lat2":17.02876900,"lon2":54.10256900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"RDR"}
+]
+}

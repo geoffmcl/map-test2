@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLLJ","name":"Challis","lat":44.522917,"lon":-114.2175,"rwys":1,"ils":0,"index":1073571,"path":"w120n40/w115n44"
+,"runways":[
+{"len_m":1389,"wid_m":18.29,"hdg":181,"surf":"Asphalt","rwy1":"16","lat1":44.52916700,"lon1":-114.21722200,"rwy2":"34","lat2":44.51666700,"lon2":-114.21777800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGTK","name":"Oxford Kidlington","lat":51.83282239,"lon":-001.31585615,"rwys":4,"ils":1,"index":2925426,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":1506,"wid_m":29.87,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":51.83006662,"lon1":-1.32205496,"rwy2":"19","lat2":51.84337183,"lon2":-1.31800116},
+{"len_m":760,"wid_m":28.04,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":51.84104700,"lon1":-1.32419700,"rwy2":"29","lat2":51.83869700,"lon2":-1.31383300},
+{"len_m":1057,"wid_m":46.94,"hdg":23,"surf":"Turf/grass","rwy1":"03","lat1":51.83004865,"lon1":-1.32068164,"rwy2":"21","lat2":51.83874985,"lon2":-1.31451914},
+{"len_m":850,"wid_m":45.11,"hdg":86,"surf":"Turf/grass","rwy1":"09","lat1":51.83501378,"lon1":-1.32668820,"rwy2":"27","lat2":51.83554540,"lon2":-1.31438273}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.22,"desc":"Oxford Information"},
+{"type":"GND","freq":121.95,"desc":"Oxford Ground"},
+{"type":"TWR","freq":133.42,"desc":"Oxford Tower"}
+]
+}

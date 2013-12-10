@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KARG","name":"Walnut Ridge Rgnl","lat":36.1250146666667,"lon":-90.9250078333333,"rwys":3,"ils":0,"index":1466248,"path":"w100n30/w091n36"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":36.11356900,"lon1":-90.93366400,"rwy2":"22","lat2":36.12521400,"lon2":-90.91928600},
+{"len_m":1524,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":36.13464400,"lon1":-90.93125800,"rwy2":"31","lat2":36.12492200,"lon2":-90.91928600},
+{"len_m":1524,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":36.13273900,"lon1":-90.92327200,"rwy2":"36","lat2":36.11900000,"lon2":-90.92328100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

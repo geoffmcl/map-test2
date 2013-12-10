@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKBU","name":"Bubovice","lat":49.97342026,"lon":014.17888591,"rwys":2,"ils":0,"index":3187448,"path":"e010n40/e014n49"
+,"runways":[
+{"len_m":729,"wid_m":22.86,"hdg":102,"surf":"Turf/grass","rwy1":"10R","lat1":49.97506536,"lon1":14.17288545,"rwy2":"28L","lat2":49.97369471,"lon2":14.18282664},
+{"len_m":719,"wid_m":29.87,"hdg":102,"surf":"Turf/grass","rwy1":"10L","lat1":49.97547727,"lon1":14.17301528,"rwy2":"28R","lat2":49.97411318,"lon2":14.18282552}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.3,"desc":"INFO"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDYR","name":"Dyersburg Rgnl","lat":35.9983165,"lon":-89.406368,"rwys":2,"ils":0,"index":1482618,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1736,"wid_m":30.48,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":35.99043900,"lon1":-89.41389400,"rwy2":"22","lat2":36.00233300,"lon2":-89.40137500},
+{"len_m":1219,"wid_m":22.86,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":36.00545800,"lon1":-89.40724200,"rwy2":"34","lat2":35.99503600,"lon2":-89.40296100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

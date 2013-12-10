@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDUC","name":"Halliburton Fld","lat":34.47087296,"lon":-97.95985122,"rwys":1,"ils":1,"index":1351448,"path":"w100n30/w098n34"
+,"runways":[
+{"len_m":2027,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":34.48001100,"lon1":-97.95998333,"rwy2":"35","lat2":34.46173492,"lon2":-97.95971912}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.4,"desc":"FORT SILL CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"FORT SILL APP/DEP"}
+]
+}

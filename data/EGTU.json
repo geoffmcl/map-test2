@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGTU","name":"Dunkeswell","lat":50.86126073,"lon":-3.23377473,"rwys":2,"ils":0,"index":2892595,"path":"w010n50/w004n50"
+,"runways":[
+{"len_m":1246,"wid_m":46.02,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":50.85669995,"lon1":-3.23929785,"rwy2":"22","lat2":50.86514597,"lon2":-3.22765608},
+{"len_m":642,"wid_m":22.86,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":50.86443600,"lon1":-3.23490300,"rwy2":"35","lat2":50.85876100,"lon2":-3.23324200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.47,"desc":"Dunkeswell Radio"}
+]
+}

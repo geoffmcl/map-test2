@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPNH","name":"Nawabshah","lat":26.219439,"lon":68.3900545,"rwys":1,"ils":0,"index":4070665,"path":"e060n20/e068n26"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":20,"surf":"Concrete","rwy1":"02","lat1":26.20784200,"lon1":68.38524200,"rwy2":"20","lat2":26.23103600,"lon2":68.39486700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

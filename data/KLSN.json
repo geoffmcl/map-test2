@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLSN","name":"Los Banos Muni","lat":37.062906,"lon":-120.8692515,"rwys":1,"ils":0,"index":974784,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":916,"wid_m":22.86,"hdg":153,"surf":"Asphalt","rwy1":"14","lat1":37.06659300,"lon1":-120.87156700,"rwy2":"32","lat2":37.05921900,"lon2":-120.86693600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+}

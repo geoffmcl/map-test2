@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LJCE","name":"Cerklje","lat":45.89429621,"lon":015.52310181,"rwys":2,"ils":0,"index":3203578,"path":"e010n40/e015n45"
+,"runways":[
+{"len_m":2417,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":45.89980746,"lon1":15.51460800,"rwy2":"27","lat2":45.90011154,"lon2":15.54575500},
+{"len_m":2020,"wid_m":54.86,"hdg":89,"surf":"Turf/grass","rwy1":"09L","lat1":45.90073847,"lon1":15.51826276,"rwy2":"27R","lat2":45.90100223,"lon2":15.54429672}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.47,"desc":"FIS"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":118.75,"desc":"APP"}
+]
+}

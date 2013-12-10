@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAXS","name":"Altus Quartz Mountain Rgnl","lat":34.698782,"lon":-99.3381,"rwys":1,"ils":0,"index":1318698,"path":"w100n30/w100n34"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":34.70633900,"lon1":-99.33810000,"rwy2":"35","lat2":34.69122500,"lon2":-99.33810000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"APP/DEP"}
+]
+}

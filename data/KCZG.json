@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCZG","name":"Tri Cities","lat":42.078536,"lon":-76.0963315,"rwys":1,"ils":0,"index":1696003,"path":"w080n40/w077n42"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":42.07363600,"lon1":-76.09921900,"rwy2":"21","lat2":42.08343600,"lon2":-76.09344400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"BINGHAMTON APP/DEP"}
+]
+}

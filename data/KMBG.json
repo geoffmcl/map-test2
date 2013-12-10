@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMBG","name":"Mobridge Muni","lat":45.54628275,"lon":-100.405557,"rwys":2,"ils":0,"index":1303010,"path":"w110n40/w101n45"
+,"runways":[
+{"len_m":1344,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":45.55011700,"lon1":-100.41483100,"rwy2":"30","lat2":45.54288900,"lon2":-100.40101900},
+{"len_m":732,"wid_m":76.20,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":45.54935600,"lon1":-100.40318900,"rwy2":"35","lat2":45.54276900,"lon2":-100.40318900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

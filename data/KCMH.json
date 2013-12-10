@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCMH","name":"Port Columbus Intl","lat":39.99818800,"lon":-082.88437650,"rwys":2,"ils":2,"index":1597560,"path":"w090n30/w083n39"
+,"runways":[
+{"len_m":3086,"wid_m":45.72,"hdg":94,"surf":"Asphalt","rwy1":"10R","lat1":39.99556900,"lon1":-82.90893900,"rwy2":"28L","lat2":39.99353100,"lon2":-82.87289700},
+{"len_m":2438,"wid_m":45.72,"hdg":94,"surf":"Asphalt","rwy1":"10L","lat1":40.00320300,"lon1":-82.90763900,"rwy2":"28R","lat2":40.00159200,"lon2":-82.87915800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":132.7,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"COLUMBUS APP/DEP"},
+{"type":"APP","freq":119.15,"desc":"COLUMBUS APP/DEP"},
+{"type":"APP","freq":119.65,"desc":"COLUMBUS APP/DEP"},
+{"type":"APP","freq":125.95,"desc":"COLUMBUS APP/DEP"}
+]
+}

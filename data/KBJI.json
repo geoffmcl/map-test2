@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBJI","name":"Bemidji Rgnl","lat":47.50939575,"lon":-94.933733,"rwys":2,"ils":1,"index":1401440,"path":"w100n40/w095n47"
+,"runways":[
+{"len_m":2011,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":47.51598300,"lon1":-94.94304400,"rwy2":"31","lat2":47.50341700,"lon2":-94.92383600},
+{"len_m":1736,"wid_m":45.72,"hdg":73,"surf":"Asphalt","rwy1":"07","lat1":47.50693900,"lon1":-94.94510800,"rwy2":"25","lat2":47.51124400,"lon2":-94.92294400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

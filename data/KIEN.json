@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIEN","name":"Pine Ridge","lat":43.02292325,"lon":-102.51247725,"rwys":2,"ils":0,"index":1270081,"path":"w110n40/w103n43"
+,"runways":[
+{"len_m":1524,"wid_m":18.29,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":43.02555600,"lon1":-102.51390600,"rwy2":"30","lat2":43.01698900,"lon2":-102.49930300},
+{"len_m":915,"wid_m":15.24,"hdg":76,"surf":"Asphalt","rwy1":"06","lat1":43.02364200,"lon1":-102.52381900,"rwy2":"24","lat2":43.02550600,"lon2":-102.51288100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

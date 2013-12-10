@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEGT","name":"Wellington Muni","lat":37.3236225,"lon":-97.388339,"rwys":1,"ils":0,"index":1351634,"path":"w100n30/w098n37"
+,"runways":[
+{"len_m":1280,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":37.32938900,"lon1":-97.38841100,"rwy2":"35","lat2":37.31785600,"lon2":-97.38826700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.85,"desc":"WICHITA APP/DEP"}
+]
+}

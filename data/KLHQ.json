@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLHQ","name":"Fairfield Co","lat":39.75377992,"lon":-082.66024394,"rwys":1,"ils":1,"index":1597553,"path":"w090n30/w083n39"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":39.75612200,"lon1":-82.66597200,"rwy2":"28","lat2":39.75515600,"lon2":-82.64821900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":132.3,"desc":"COLUMBUS APP/DEP"}
+]
+}

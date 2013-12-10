@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIRS","name":"Kirsch Muni","lat":41.81337175,"lon":-85.4384575,"rwys":2,"ils":0,"index":1548530,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":1585,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":41.82022800,"lon1":-85.44093300,"rwy2":"36","lat2":41.80595600,"lon2":-85.44083300},
+{"len_m":1042,"wid_m":22.86,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":41.81121100,"lon1":-85.44139200,"rwy2":"24","lat2":41.81609200,"lon2":-85.43067200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":133.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":121.2,"desc":"KALAMAZOO APP/DEP"}
+]
+}

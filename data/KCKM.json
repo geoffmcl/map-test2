@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCKM","name":"Fletcher Fld","lat":34.29971,"lon":-90.5123165,"rwys":1,"ils":0,"index":1466129,"path":"w100n30/w091n34"
+,"runways":[
+{"len_m":1647,"wid_m":30.48,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":34.30712800,"lon1":-90.51190800,"rwy2":"36","lat2":34.29229200,"lon2":-90.51272500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

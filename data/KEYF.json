@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEYF","name":"Curtis L Brown Jr Field","lat":34.601804,"lon":-78.5792705,"rwys":1,"ils":0,"index":1662753,"path":"w080n30/w079n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":34.60737500,"lon1":-78.58413300,"rwy2":"33","lat2":34.59623300,"lon2":-78.57440800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

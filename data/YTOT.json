@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTOT","name":"Tottenham","lat":-32.25340430,"lon":147.36969522,"rwys":2,"ils":0,"index":5361257,"path":"e140s40/e147s33"
+,"runways":[
+{"len_m":976,"wid_m":29.87,"hdg":39,"surf":"Dirt","rwy1":"03","lat1":-32.26147975,"lon1":147.36406231,"rwy2":"21","lat2":-32.25468945,"lon2":147.37065796},
+{"len_m":701,"wid_m":32.00,"hdg":118,"surf":"Dirt","rwy1":"11","lat1":-32.25391885,"lon1":147.36467596,"rwy2":"29","lat2":-32.25693812,"lon2":147.37121532}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

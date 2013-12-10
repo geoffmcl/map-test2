@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIXD","name":"New Century Aircenter","lat":38.83614054,"lon":-094.89489608,"rwys":2,"ils":1,"index":1400880,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":2236,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":38.83951100,"lon1":-94.89156900,"rwy2":"36","lat2":38.81936400,"lon2":-94.89158600},
+{"len_m":1563,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":38.82821400,"lon1":-94.89506100,"rwy2":"22","lat2":38.83781100,"lon2":-94.88188100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"ASOS"},
+{"type":"CTAF","freq":133,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":124.3,"desc":"GND"},
+{"type":"TWR","freq":133,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"KANSAS CITY APP/DEP"}
+]
+}

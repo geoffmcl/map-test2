@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSNY","name":"Sidney Muni Lloyd W Carr Fld","lat":41.10303335,"lon":-102.98382146,"rwys":2,"ils":0,"index":1269952,"path":"w110n40/w103n41"
+,"runways":[
+{"len_m":2012,"wid_m":29.87,"hdg":134,"surf":"Concrete","rwy1":"12","lat1":41.10771900,"lon1":-102.99378067,"rwy2":"30","lat2":41.09493300,"lon2":-102.97681000},
+{"len_m":1094,"wid_m":22.86,"hdg":36,"surf":"Transparent","rwy1":"02","lat1":41.09449107,"lon1":-102.98757801,"rwy2":"20","lat2":41.10243393,"lon2":-102.97986378}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

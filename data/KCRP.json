@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCRP","name":"Corpus Christi Intl","lat":27.77044175,"lon":-97.5007375,"rwys":2,"ils":2,"index":1351025,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":2288,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":27.77700000,"lon1":-97.51338900,"rwy2":"31","lat2":27.76219200,"lon2":-97.49720800},
+{"len_m":1852,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":27.77964700,"lon1":-97.49632200,"rwy2":"35","lat2":27.76292800,"lon2":-97.49603100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"APP/DEP"},
+{"type":"APP","freq":120.9,"desc":"APP/DEP"},
+{"type":"APP","freq":125.4,"desc":"APP/DEP"}
+]
+}

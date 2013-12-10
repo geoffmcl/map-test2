@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEMA","name":"Prince Mohammad Bin Abdulaziz","lat":24.55265775,"lon":39.70535975,"rwys":2,"ils":3,"index":3595426,"path":"e030n20/e039n24"
+,"runways":[
+{"len_m":3967,"wid_m":44.81,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":24.57313300,"lon1":39.70394400,"rwy2":"35","lat2":24.53799200,"lon2":39.71153600},
+{"len_m":3046,"wid_m":44.81,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":24.56347800,"lon1":39.70395300,"rwy2":"36","lat2":24.53602800,"lon2":39.70200600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"MADINAH TWR"},
+{"type":"APP","freq":124.2,"desc":"MADINAH APP"}
+]
+}

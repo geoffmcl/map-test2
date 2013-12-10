@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWRN","name":"Warren","lat":-31.73180343,"lon":147.80401306,"rwys":2,"ils":0,"index":5361299,"path":"e140s40/e147s32"
+,"runways":[
+{"len_m":1188,"wid_m":17.98,"hdg":99,"surf":"Asphalt","rwy1":"09","lat1":-31.73332901,"lon1":147.80324738,"rwy2":"27","lat2":-31.73501590,"lon2":147.81563032},
+{"len_m":1288,"wid_m":49.99,"hdg":40,"surf":"Dirt","rwy1":"03","lat1":-31.74138074,"lon1":147.79196369,"rwy2":"21","lat2":-31.73257568,"lon2":147.80083741}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"82V","name":"Pine Bluffs Muni","lat":41.15147407,"lon":-104.12961106,"rwys":1,"ils":0,"index":1237195,"path":"w110n40/w105n41"
+,"runways":[
+{"len_m":1624,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":41.15246875,"lon1":-104.14442058,"rwy2":"26","lat2":41.15246875,"lon2":-104.12506700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

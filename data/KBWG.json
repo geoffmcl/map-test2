@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBWG","name":"Bowling Green Warren Co Rgnl","lat":36.963899,"lon":-86.41973825,"rwys":2,"ils":1,"index":1531834,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":36.95868300,"lon1":-86.42503300,"rwy2":"21","lat2":36.97416100,"lon2":-86.41395000},
+{"len_m":1205,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":36.96408300,"lon1":-86.42585300,"rwy2":"30","lat2":36.95866900,"lon2":-86.41411700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

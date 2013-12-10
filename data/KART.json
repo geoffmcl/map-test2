@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KART","name":"Watertown Intl","lat":43.99192125,"lon":-76.0217385,"rwys":2,"ils":1,"index":1696123,"path":"w080n40/w077n43"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"07","lat1":43.98784400,"lon1":-76.02994200,"rwy2":"25","lat2":43.99601100,"lon2":-76.01468100},
+{"len_m":1524,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":43.99226900,"lon1":-76.03065300,"rwy2":"28","lat2":43.99156100,"lon2":-76.01167800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.25,"desc":"WHEELER SACK APP/DEP"}
+]
+}

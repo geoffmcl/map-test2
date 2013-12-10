@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URMN","name":"Nalchik","lat":43.512854,"lon":43.636583,"rwys":1,"ils":1,"index":3662178,"path":"e040n40/e043n43"
+,"runways":[
+{"len_m":2215,"wid_m":42.06,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":43.50825000,"lon1":43.62443300,"rwy2":"24","lat2":43.51745800,"lon2":43.64873300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":126.9,"desc":"APP"}
+]
+}

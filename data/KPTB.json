@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPTB","name":"Dinwiddie Co","lat":37.183582,"lon":-77.50776525,"rwys":2,"ils":0,"index":1679305,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":37.17927500,"lon1":-77.51202500,"rwy2":"23","lat2":37.18932800,"lon2":-77.50034200},
+{"len_m":932,"wid_m":15.24,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":37.18572500,"lon1":-77.51319400,"rwy2":"32","lat2":37.18000000,"lon2":-77.50550000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.7,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":134.7,"desc":"POTOMAC DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBFN","name":"Koksijde","lat":51.08784510,"lon":002.65035016,"rwys":1,"ils":0,"index":2990914,"path":"e000n50/e002n51"
+,"runways":[
+{"len_m":2675,"wid_m":35.05,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":51.09397605,"lon1":2.63479368,"rwy2":"29","lat2":51.08646322,"lon2":2.67106630}
+]
+,"helipads":[
+{"rwy1":"H02","len_m":41,"wid_m":39.93,"hdg":2,"surf":"Asphalt","lat1":51.08664986,"lon1":2.65556853},
+{"rwy1":"H1","len_m":34,"wid_m":32.00,"hdg":2,"surf":"Asphalt","lat1":51.09760393,"lon1":2.64204295}
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"TAXI"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":129.32,"desc":"BELGA INFO"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+}

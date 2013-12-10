@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEBG","name":"Burgos","lat":42.35775913,"lon":-003.61815785,"rwys":1,"ils":0,"index":2892049,"path":"w010n40/w004n42"
+,"runways":[
+{"len_m":1958,"wid_m":45.11,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":42.35049131,"lon1":-3.62239128,"rwy2":"22","lat2":42.36329847,"lon2":-3.60605039}
+]
+,"helipads":[
+{"rwy1":"H2","len_m":35,"wid_m":35.05,"hdg":-3,"surf":"Asphalt","lat1":42.35474012,"lon1":-3.62112445},
+{"rwy1":"H4","len_m":17,"wid_m":17.98,"hdg":-3,"surf":"Asphalt","lat1":42.35501162,"lon1":-3.63280479}
+]
+,"radios":[
+{"type":"TWR","freq":125.42,"desc":"AFIS"},
+{"type":"APP","freq":118.45,"desc":"GMC"}
+]
+}

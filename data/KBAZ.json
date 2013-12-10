@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBAZ","name":"New Braunfels Muni","lat":29.69861444,"lon":-098.03889813,"rwys":2,"ils":0,"index":1334763,"path":"w100n20/w099n29"
+,"runways":[
+{"len_m":1634,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":29.70951700,"lon1":-98.04363100,"rwy2":"35","lat2":29.69476900,"lon2":-98.04384200},
+{"len_m":1631,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":29.71211100,"lon1":-98.04659400,"rwy2":"31","lat2":29.70157500,"lon2":-98.03482800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":134.75,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.45,"desc":"SAN ANTONIO APP"},
+{"type":"DEP","freq":125.7,"desc":"SAN ANTONIO DEP"}
+]
+}

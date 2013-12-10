@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGBB","name":"Birmingham","lat":52.45016809,"lon":-001.75066171,"rwys":1,"ils":1,"index":2925464,"path":"w010n50/w002n52"
+,"runways":[
+{"len_m":2587,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":52.46558210,"lon1":-1.76106982,"rwy2":"33","lat2":52.44635023,"lon2":-1.73968635}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.02,"desc":"ATIS"},
+{"type":"CLD","freq":121.92,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":131,"desc":"APP"}
+]
+}

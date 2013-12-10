@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEED","name":"Needles","lat":34.76471700,"lon":-114.62636600,"rwys":2,"ils":0,"index":1072945,"path":"w120n30/w115n34"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":34.76705800,"lon1":-114.63364200,"rwy2":"29","lat2":34.76037200,"lon2":-114.61908600},
+{"len_m":1290,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"02","lat1":34.76437500,"lon1":-114.62306900,"rwy2":"20","lat2":34.77453900,"lon2":-114.61620300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.65,"desc":"LOS ANGELES CNTR"}
+]
+}

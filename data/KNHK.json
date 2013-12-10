@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNHK","name":"Patuxent River Nas","lat":38.28763049,"lon":-076.42602315,"rwys":3,"ils":0,"index":1695762,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":3598,"wid_m":60.96,"hdg":49,"surf":"Concrete","rwy1":"06","lat1":38.27690000,"lon1":-76.42162204,"rwy2":"24","lat2":38.29811100,"lon2":-76.39051104},
+{"len_m":2968,"wid_m":60.96,"hdg":125,"surf":"Concrete","rwy1":"14","lat1":38.29428307,"lon1":-76.42333089,"rwy2":"32","lat2":38.27857493,"lon2":-76.39586700},
+{"len_m":1530,"wid_m":22.86,"hdg":8,"surf":"Asphalt","rwy1":"02","lat1":38.27656097,"lon1":-76.42103072,"rwy2":"20","lat2":38.29021103,"lon2":-76.41855582}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":135.19,"desc":"CLNC DEL"},
+{"type":"CLD","freq":135.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":120.6,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":120.05,"desc":"APP/DEP"},
+{"type":"APP","freq":127.95,"desc":"APP/DEP"},
+{"type":"APP","freq":132.85,"desc":"POTOMAC APP/DEP"}
+]
+}

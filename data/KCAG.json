@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCAG","name":"Craig Moffat","lat":40.4952095,"lon":-107.521661,"rwys":1,"ils":0,"index":1187993,"path":"w110n40/w108n40"
+,"runways":[
+{"len_m":1708,"wid_m":30.48,"hdg":82,"surf":"Asphalt","rwy1":"07","lat1":40.49426900,"lon1":-107.53166100,"rwy2":"25","lat2":40.49615000,"lon2":-107.51166100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

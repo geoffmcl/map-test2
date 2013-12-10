@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LZMC","name":"Malacky","lat":48.4020205,"lon":17.1184,"rwys":1,"ils":0,"index":3236504,"path":"e010n40/e017n48"
+,"runways":[
+{"len_m":2492,"wid_m":56.39,"hdg":17,"surf":"Concrete","rwy1":"02","lat1":48.39133300,"lon1":17.11333300,"rwy2":"20","lat2":48.41270800,"lon2":17.12346700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"APP"},
+{"type":"APP","freq":125.75,"desc":"APP"}
+]
+}

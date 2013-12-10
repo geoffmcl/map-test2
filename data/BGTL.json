@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"BGTL","name":"Thule Air Base","lat":76.531203,"lon":-68.7031625,"rwys":1,"ils":1,"index":1829280,"path":"w070n70/w069n76"
+,"runways":[
+{"len_m":3047,"wid_m":42.67,"hdg":84,"surf":"Asphalt","rwy1":"08T","lat1":76.53000600,"lon1":-68.76151100,"rwy2":"26T","lat2":76.53240000,"lon2":-68.64481400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.9,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":134.1,"desc":"APP"}
+]
+}

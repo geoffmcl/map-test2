@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LPEV","name":"Evora","lat":38.53091525,"lon":-7.891852,"rwys":2,"ils":0,"index":2826272,"path":"w010n30/w008n38"
+,"runways":[
+{"len_m":1287,"wid_m":22.86,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":38.52777500,"lon1":-7.89019700,"rwy2":"19","lat2":38.53933900,"lon2":-7.88908100},
+{"len_m":648,"wid_m":29.87,"hdg":72,"surf":"Gravel","rwy1":"08","lat1":38.52738300,"lon1":-7.89760800,"rwy2":"26","lat2":38.52916400,"lon2":-7.89052200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"INFO"}
+]
+}

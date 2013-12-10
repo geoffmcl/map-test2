@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KESF","name":"Esler Rgnl","lat":31.394931,"lon":-92.29575,"rwys":2,"ils":1,"index":1433178,"path":"w100n30/w093n31"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":31.39444400,"lon1":-92.30600000,"rwy2":"26","lat2":31.39419400,"lon2":-92.28677800},
+{"len_m":1707,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":31.40184400,"lon1":-92.30026900,"rwy2":"32","lat2":31.38924200,"lon2":-92.28995300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.05,"desc":"POLK APP/DEP"}
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VHHH","name":"Hong Kong Intl","lat":22.31068477,"lon":113.92136965,"rwys":2,"ils":4,"index":4807699,"path":"e110n20/e113n22"
+,"runways":[
+{"len_m":3799,"wid_m":60.05,"hdg":70,"surf":"Asphalt","rwy1":"07L","lat1":22.31048105,"lon1":113.89638651,"rwy2":"25R","lat2":22.32170905,"lon2":113.93123351},
+{"len_m":3799,"wid_m":60.05,"hdg":70,"surf":"Asphalt","rwy1":"07R","lat1":22.29627905,"lon1":113.89798651,"rwy2":"25L","lat2":22.30750905,"lon2":113.93283351}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"CLD","freq":124.65,"desc":"CLNC DEL"},
+{"type":"CLD","freq":129.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":122.55,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":121,"desc":"FLIGHT SERVICE"},
+{"type":"TWR","freq":122.4,"desc":"FLIGHT SERVICE"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":119.35,"desc":"APP"},
+{"type":"APP","freq":133.7,"desc":"APP"},
+{"type":"APP","freq":120.6,"desc":"ZONE CON"},
+{"type":"DEP","freq":123.8,"desc":"DEP"},
+{"type":"DEP","freq":124.05,"desc":"DEP"}
+]
+}

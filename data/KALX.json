@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KALX","name":"Thomas C Russell Fld","lat":32.914743,"lon":-85.9629555,"rwys":1,"ils":0,"index":1547960,"path":"w090n30/w086n32"
+,"runways":[
+{"len_m":1653,"wid_m":29.26,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":32.92219200,"lon1":-85.96333600,"rwy2":"36","lat2":32.90729400,"lon2":-85.96257500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.2,"desc":"MONTGOMERY APP/DEP"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTOA","name":"Torrance/zamperini Field","lat":33.80112251,"lon":-118.34134126,"rwys":2,"ils":1,"index":1007346,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":1531,"wid_m":46.02,"hdg":128,"surf":"Asphalt","rwy1":"11L","lat1":33.80811176,"lon1":-118.34576553,"rwy2":"29R","lat2":33.79952285,"lon2":-118.33281313},
+{"len_m":918,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"11R","lat1":33.80531644,"lon1":-118.34420638,"rwy2":"29L","lat2":33.80016506,"lon2":-118.33644160}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":7.92,"hdg":-118,"surf":"Asphalt","lat1":33.80100939,"lon1":-118.34005477},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":-118,"surf":"Asphalt","lat1":33.80934768,"lon1":-118.34576320}
+]
+,"radios":[
+{"type":"ATIS","freq":125.6,"desc":"ATIS"},
+{"type":"CTAF","freq":124,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.9,"desc":"GND"},
+{"type":"TWR","freq":135.6,"desc":"TWR (N)"},
+{"type":"TWR","freq":124,"desc":"TWR (S)"},
+{"type":"APP","freq":124.3,"desc":"SOCAL APP/DEP (RWY11)"},
+{"type":"APP","freq":127.2,"desc":"SOCAL APP/DEP (RWY29)"}
+]
+}

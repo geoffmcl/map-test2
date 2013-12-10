@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LL59","name":"Palmahim Ab","lat":31.8998945,"lon":34.6916915,"rwys":2,"ils":0,"index":3513978,"path":"e030n30/e034n31"
+,"runways":[
+{"len_m":2403,"wid_m":29.87,"hdg":24,"surf":"Asphalt","rwy1":"03","lat1":31.89186100,"lon1":34.68746900,"rwy2":"21","lat2":31.91150800,"lon2":34.69819700},
+{"len_m":801,"wid_m":30.48,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":31.90030300,"lon1":34.68718600,"rwy2":"31","lat2":31.89590600,"lon2":34.69391400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV APP"},
+{"type":"APP","freq":121.4,"desc":"TEL AVIV APP"}
+]
+}

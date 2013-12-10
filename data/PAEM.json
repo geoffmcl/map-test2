@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAEM","name":"Emmonak","lat":62.7861475,"lon":-164.4907515,"rwys":1,"ils":0,"index":255537,"path":"w170n60/w165n62"
+,"runways":[
+{"len_m":1402,"wid_m":29.87,"hdg":176,"surf":"Gravel","rwy1":"16","lat1":62.79242800,"lon1":-164.49153600,"rwy2":"34","lat2":62.77986700,"lon2":-164.48996700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.35,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EMI","name":"Emirau","lat":-01.64438937,"lon":149.95965141,"rwys":2,"ils":0,"index":5395991,"path":"e140s10/e149s02"
+,"runways":[
+{"len_m":2131,"wid_m":61.87,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-1.64854139,"lon1":149.95919500,"rwy2":"31","lat2":-1.66072689,"lon2":149.97403606},
+{"len_m":2153,"wid_m":75.90,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":-1.64334365,"lon1":149.95979550,"rwy2":"30","lat2":-1.65339459,"lon2":149.97636920}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"EMI AWOS"}
+]
+}

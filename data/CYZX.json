@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYZX","name":"Greenwood","lat":44.98347051,"lon":-064.91205306,"rwys":2,"ils":1,"index":1892792,"path":"w070n40/w065n44"
+,"runways":[
+{"len_m":2454,"wid_m":60.05,"hdg":105,"surf":"Asphalt","rwy1":"12","lat1":44.98358825,"lon1":-64.93172299,"rwy2":"30","lat2":44.97779187,"lon2":-64.90168794},
+{"len_m":2462,"wid_m":60.05,"hdg":64,"surf":"Asphalt","rwy1":"08","lat1":44.98161850,"lon1":-64.93209300,"rwy2":"26","lat2":44.99112989,"lon2":-64.90389300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":32.92,"hdg":-64,"surf":"Asphalt","lat1":44.98641652,"lon1":-64.91417233},
+{"rwy1":"H2","len_m":35,"wid_m":35.05,"hdg":-64,"surf":"Asphalt","lat1":44.98111496,"lon1":-64.91294024}
+]
+,"radios":[
+{"type":"ATIS","freq":128.85,"desc":"ATIS"},
+{"type":"CLD","freq":128.02,"desc":"CLNC DEL"},
+{"type":"GND","freq":133.75,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"DEP","freq":120.6,"desc":"DEP"}
+]
+}

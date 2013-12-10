@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJYM","name":"Hillsdale Muni","lat":41.921261,"lon":-84.5857625,"rwys":1,"ils":0,"index":1564921,"path":"w090n40/w085n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":41.92160000,"lon1":-84.59309700,"rwy2":"28","lat2":41.92092200,"lon2":-84.57842800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.35,"desc":"TOLEDO APP/DEP"}
+]
+}

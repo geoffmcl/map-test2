@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFWQ","name":"Rostraver","lat":40.2097275,"lon":-79.831457,"rwys":1,"ils":0,"index":1646728,"path":"w080n40/w080n40"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"08","lat1":40.20762200,"lon1":-79.83807200,"rwy2":"26","lat2":40.21183300,"lon2":-79.82484200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"PITTSBURGH APP/DEP"}
+]
+}

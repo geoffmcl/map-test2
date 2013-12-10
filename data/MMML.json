@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMML","name":"General Rodolfo Sanchez Taboada Intl","lat":32.62826900,"lon":-115.24612400,"rwys":1,"ils":0,"index":1056427,"path":"w120n30/w116n32"
+,"runways":[
+{"len_m":2603,"wid_m":45.11,"hdg":118,"surf":"Concrete","rwy1":"10","lat1":32.63621700,"lon1":-115.25466300,"rwy2":"28","lat2":32.62511700,"lon2":-115.23021500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"TWR","freq":123.9,"desc":"MEXICALI INFO"},
+{"type":"APP","freq":118.2,"desc":"MEXICALI APP/TWR"}
+]
+}

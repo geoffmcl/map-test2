@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HRYR","name":"Kigali Intl","lat":-1.968628,"lon":30.13945,"rwys":1,"ils":1,"index":3446273,"path":"e030s10/e030s02"
+,"runways":[
+{"len_m":3502,"wid_m":45.11,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":-1.96590300,"lon1":30.12394200,"rwy2":"28","lat2":-1.97135300,"lon2":30.15495800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+}

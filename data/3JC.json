@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3JC","name":"Freeman Fld","lat":39.0429446666667,"lon":-96.8427361666667,"rwys":3,"ils":0,"index":1368128,"path":"w100n30/w097n39"
+,"runways":[
+{"len_m":1065,"wid_m":22.86,"hdg":193,"surf":"Asphalt","rwy1":"18","lat1":39.04911700,"lon1":-96.84308100,"rwy2":"36","lat2":39.03979200,"lon2":-96.84598600},
+{"len_m":596,"wid_m":60.96,"hdg":56,"surf":"Turf/grass","rwy1":"05","lat1":39.04116700,"lon1":-96.84490300,"rwy2":"23","lat2":39.04411700,"lon2":-96.83915000},
+{"len_m":570,"wid_m":42.67,"hdg":138,"surf":"Turf/grass","rwy1":"13","lat1":39.04367500,"lon1":-96.84381100,"rwy2":"31","lat2":39.03980000,"lon2":-96.83948600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.35,"desc":"KANSAS CITY CNTR"}
+]
+}

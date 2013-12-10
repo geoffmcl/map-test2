@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FVBU","name":"J M Nkomo Intl","lat":-20.01520625,"lon":28.622707,"rwys":2,"ils":1,"index":3412348,"path":"e020s30/e028s21"
+,"runways":[
+{"len_m":2598,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"13","lat1":-20.01621900,"lon1":28.61515600,"rwy2":"31","lat2":-20.02623600,"lon2":28.63761100},
+{"len_m":1350,"wid_m":29.87,"hdg":7,"surf":"Asphalt","rwy1":"02","lat1":-20.01523100,"lon1":28.61817200,"rwy2":"20","lat2":-20.00313900,"lon2":28.61988900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"NKOMO TWR"},
+{"type":"APP","freq":119.7,"desc":"NKOMO APP"}
+]
+}

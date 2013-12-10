@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHKO","name":"Kona Intl At Keahole","lat":19.73408086,"lon":-156.04150651,"rwys":1,"ils":1,"index":383855,"path":"w160n10/w157n19"
+,"runways":[
+{"len_m":3477,"wid_m":45.72,"hdg":184,"surf":"Asphalt","rwy1":"17","lat1":19.75499250,"lon1":-156.04436900,"rwy2":"35","lat2":19.72369350,"lon2":-156.04714373}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"TWR","freq":120.3,"desc":"TWR"}
+]
+}

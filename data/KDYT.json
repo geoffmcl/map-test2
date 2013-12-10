@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDYT","name":"Sky Harbor","lat":46.72186,"lon":-92.043439,"rwys":1,"ils":0,"index":1434155,"path":"w100n40/w093n46"
+,"runways":[
+{"len_m":929,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":46.72497800,"lon1":-92.04748600,"rwy2":"32","lat2":46.71874200,"lon2":-92.03939200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.8,"desc":"DULUTH CLNC DEL"},
+{"type":"APP","freq":125.45,"desc":"DULUTH APP/DEP"}
+]
+}

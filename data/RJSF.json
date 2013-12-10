@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJSF","name":"Fukushima","lat":37.22792400,"lon":140.43191700,"rwys":1,"ils":1,"index":5251017,"path":"e140n30/e140n37"
+,"runways":[
+{"len_m":2499,"wid_m":60.05,"hdg":2,"surf":"Asphalt","rwy1":"01","lat1":37.21617500,"lon1":140.42743300,"rwy2":"19","lat2":37.23868300,"lon2":140.42851400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":140,"surf":"Concrete","lat1":37.22138200,"lon1":140.43044700}
+]
+,"radios":[
+{"type":"TWR","freq":118.05,"desc":"Fukushima TWR"},
+{"type":"TWR","freq":126.2,"desc":"Fukushima TWR"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"S39","name":"Prineville","lat":44.28016360,"lon":-120.90094662,"rwys":2,"ils":0,"index":975248,"path":"w130n40/w121n44"
+,"runways":[
+{"len_m":1524,"wid_m":17.98,"hdg":119,"surf":"Asphalt","rwy1":"10","lat1":44.29199753,"lon1":-120.91172087,"rwy2":"28","lat2":44.28529643,"lon2":-120.89504930},
+{"len_m":1243,"wid_m":11.89,"hdg":171,"surf":"Asphalt","rwy1":"15","lat1":44.29047708,"lon1":-120.90566994,"rwy2":"33","lat2":44.27941474,"lon2":-120.90333509}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFOM","name":"Fillmore Muni","lat":38.9582975,"lon":-112.3632725,"rwys":1,"ils":0,"index":1105978,"path":"w120n30/w113n38"
+,"runways":[
+{"len_m":1539,"wid_m":22.86,"hdg":53,"surf":"Asphalt","rwy1":"04","lat1":38.95415300,"lon1":-112.37038900,"rwy2":"22","lat2":38.96244200,"lon2":-112.35615600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMZJ","name":"Pinal Airpark","lat":32.518375832,"lon":-111.333496978,"rwys":1,"ils":0,"index":1121954,"path":"w120n30/w112n32"
+,"runways":[
+{"len_m":2020,"wid_m":46.02,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":32.51636304,"lon1":-111.33311947,"rwy2":"30","lat2":32.50364491,"lon2":-111.31771677}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-111,"surf":"Asphalt","lat1":32.51957745,"lon1":-111.33442383},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":-111,"surf":"Asphalt","lat1":32.52013617,"lon1":-111.33510471},
+{"rwy1":"H3","len_m":29,"wid_m":29.87,"hdg":-111,"surf":"Asphalt","lat1":32.52067562,"lon1":-111.33577645},
+{"rwy1":"H5","len_m":29,"wid_m":29.87,"hdg":-111,"surf":"Asphalt","lat1":32.52148594,"lon1":-111.33676178}
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"WX-AWOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

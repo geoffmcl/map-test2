@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMHO","name":"General Ignacio P Garcia Intl","lat":29.09327500,"lon":-111.04786700,"rwys":2,"ils":0,"index":1121731,"path":"w120n20/w112n29"
+,"runways":[
+{"len_m":2306,"wid_m":45.11,"hdg":58,"surf":"Asphalt","rwy1":"05","lat1":29.08801700,"lon1":-111.06265600,"rwy2":"23","lat2":29.09876900,"lon2":-111.04237200},
+{"len_m":1097,"wid_m":29.87,"hdg":125,"surf":"Asphalt","rwy1":"11","lat1":29.09993100,"lon1":-111.05435600,"rwy2":"29","lat2":29.09417500,"lon2":-111.04518100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"HERMOSILLO TWR"},
+{"type":"APP","freq":121.4,"desc":"HERMOSILLO APP"}
+]
+}

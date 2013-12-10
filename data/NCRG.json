@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NCRG","name":"Rarotonga Intl","lat":-21.202739,"lon":-159.8055555,"rwys":1,"ils":2,"index":332081,"path":"w160s30/w160s22"
+,"runways":[
+{"len_m":2328,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":-21.20274200,"lon1":-159.81676700,"rwy2":"26","lat2":-21.20273600,"lon2":-159.79434400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"},
+{"type":"APP","freq":121.9,"desc":"APP"}
+]
+}

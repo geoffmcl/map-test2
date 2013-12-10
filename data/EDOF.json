@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDOF","name":"Bad Frankenhausen","lat":51.37285028,"lon":11.14323292,"rwys":1,"ils":0,"index":3138384,"path":"e010n50/e011n51"
+,"runways":[
+{"len_m":652,"wid_m":49.99,"hdg":80,"surf":"Turf/grass","rwy1":"08","lat1":51.37234356,"lon1":11.13861683,"rwy2":"26","lat2":51.37335700,"lon2":11.14784900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"GLD"},
+{"type":"CTAF","freq":122.6,"desc":"INFO"}
+]
+}

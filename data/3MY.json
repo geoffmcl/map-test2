@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3MY","name":"Mt Hawley Auxiliary","lat":40.7952735,"lon":-89.613407,"rwys":1,"ils":0,"index":1482929,"path":"w090n40/w090n40"
+,"runways":[
+{"len_m":1097,"wid_m":18.29,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":40.80019400,"lon1":-89.61397500,"rwy2":"35","lat2":40.79035300,"lon2":-89.61283900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"PEORIA CLNC DEL"},
+{"type":"APP","freq":125.8,"desc":"PEORIA APP/DEP"}
+]
+}

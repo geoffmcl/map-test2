@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAC","name":"Sacramento Executive","lat":38.51377649,"lon":-121.49821853,"rwys":3,"ils":1,"index":958498,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1677,"wid_m":46.02,"hdg":33,"surf":"Asphalt","rwy1":"02","lat1":38.50520000,"lon1":-121.50072800,"rwy2":"20","lat2":38.51785600,"lon2":-121.49022200},
+{"len_m":1168,"wid_m":29.87,"hdg":133,"surf":"Asphalt","rwy1":"12","lat1":38.51835300,"lon1":-121.49507200,"rwy2":"30","lat2":38.51115600,"lon2":-121.48528900},
+{"len_m":1062,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":38.51642800,"lon1":-121.49396400,"rwy2":"34","lat2":38.50685800,"lon2":-121.49388100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-121,"surf":"Asphalt","lat1":38.51028604,"lon1":-121.49905285}
+]
+,"radios":[
+{"type":"ATIS","freq":125.5,"desc":"ATIS"},
+{"type":"CTAF","freq":119.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":125,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":127.4,"desc":"NORCAL APP (N-E)"},
+{"type":"APP","freq":125.25,"desc":"NORCAL APP (SE-NW)"}
+]
+}

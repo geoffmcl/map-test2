@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"USKK","name":"Kirov Pobedilovo","lat":58.598455,"lon":49.7520665,"rwys":2,"ils":0,"index":3761443,"path":"e040n50/e049n58"
+,"runways":[
+{"len_m":2209,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"04","lat1":58.59317141,"lon1":49.74447021,"rwy2":"22","lat2":58.60642859,"lon2":49.77272979},
+{"len_m":687,"wid_m":19.81,"hdg":73,"surf":"Turf/grass","rwy1":"06","lat1":58.59620979,"lon1":49.73988202,"rwy2":"24","lat2":58.59801021,"lon2":49.75118398}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.9,"desc":"ATIS"},
+{"type":"TWR","freq":125.2,"desc":"TWR"},
+{"type":"TWR","freq":132.2,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"DEP","freq":118.6,"desc":"DPT"}
+]
+}

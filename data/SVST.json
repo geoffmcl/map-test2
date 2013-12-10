@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVST","name":"San Tome","lat":8.94856725,"lon":-64.149393,"rwys":2,"ils":0,"index":1890494,"path":"w070n00/w065n08"
+,"runways":[
+{"len_m":1927,"wid_m":45.11,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":8.94192500,"lon1":-64.15922500,"rwy2":"26","lat2":8.94836700,"lon2":-64.14293900},
+{"len_m":543,"wid_m":27.43,"hdg":171,"surf":"Asphalt","rwy1":"18","lat1":8.95441900,"lon1":-64.14807500,"rwy2":"36","lat2":8.94955800,"lon2":-64.14733300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+}

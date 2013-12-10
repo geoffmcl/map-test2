@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"BISS","name":"Sandskeid","lat":64.05719813,"lon":-021.57589783,"rwys":4,"ils":0,"index":2598528,"path":"w030n60/w022n64"
+,"runways":[
+{"len_m":802,"wid_m":45.72,"hdg":177,"surf":"Turf/grass","rwy1":"03","lat1":64.06329763,"lon1":-21.57538697,"rwy2":"21","lat2":64.05610237,"lon2":-21.57481310},
+{"len_m":1028,"wid_m":49.99,"hdg":119,"surf":"Turf/grass","rwy1":"13R","lat1":64.06152058,"lon1":-21.58174057,"rwy2":"31L","lat2":64.05696032,"lon2":-21.56342979},
+{"len_m":803,"wid_m":29.87,"hdg":119,"surf":"Asphalt","rwy1":"13","lat1":64.06180816,"lon1":-21.57488578,"rwy2":"31","lat2":64.05821337,"lon2":-21.56061272},
+{"len_m":802,"wid_m":17.98,"hdg":120,"surf":"Asphalt","rwy1":"15","lat1":64.06175214,"lon1":-21.57455888,"rwy2":"33","lat2":64.05811300,"lon2":-21.56038200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"COM"}
+]
+}

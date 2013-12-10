@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDTL","name":"Lahr","lat":48.3692515,"lon":7.827725,"rwys":1,"ils":2,"index":3072659,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":48.35737500,"lon1":7.81813100,"rwy2":"21","lat2":48.38112800,"lon2":7.83731900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.95,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":125.17,"desc":"TWR"},
+{"type":"APP","freq":119.45,"desc":"STRASSBOURG RADAR"}
+]
+}

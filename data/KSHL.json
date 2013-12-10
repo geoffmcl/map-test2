@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSHL","name":"Sheldon Muni","lat":43.2083875,"lon":-95.8334265,"rwys":1,"ils":0,"index":1384776,"path":"w100n40/w096n43"
+,"runways":[
+{"len_m":1279,"wid_m":22.86,"hdg":155,"surf":"Concrete","rwy1":"15","lat1":43.21362500,"lon1":-95.83670000,"rwy2":"33","lat2":43.20315000,"lon2":-95.83015300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

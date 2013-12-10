@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHCO","name":"Hallock Muni","lat":48.752742,"lon":-96.943003,"rwys":1,"ils":0,"index":1368752,"path":"w100n40/w097n48"
+,"runways":[
+{"len_m":1221,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":48.75694200,"lon1":-96.94835300,"rwy2":"31","lat2":48.74854200,"lon2":-96.93765300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.15,"desc":"MINNEAPOLIS APP/DEP"}
+]
+}

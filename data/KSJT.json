@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSJT","name":"San Angelo Rgnl Mathis Fld","lat":31.357972,"lon":-100.495862166667,"rwys":3,"ils":1,"index":1302098,"path":"w110n30/w101n31"
+,"runways":[
+{"len_m":2452,"wid_m":45.72,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":31.36877500,"lon1":-100.49751400,"rwy2":"36","lat2":31.34683100,"lon2":-100.50079400},
+{"len_m":1810,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"03","lat1":31.34970300,"lon1":-100.49986700,"rwy2":"21","lat2":31.36161400,"lon2":-100.48685600},
+{"len_m":1341,"wid_m":22.86,"hdg":97,"surf":"Asphalt","rwy1":"09","lat1":31.36124200,"lon1":-100.50206100,"rwy2":"27","lat2":31.35966700,"lon2":-100.48808100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"APP/DEP"}
+]
+}

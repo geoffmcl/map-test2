@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PASA","name":"Savoonga","lat":63.685846,"lon":-170.4966915,"rwys":1,"ils":0,"index":157289,"path":"w180n60/w171n63"
+,"runways":[
+{"len_m":1341,"wid_m":29.87,"hdg":59,"surf":"Gravel","rwy1":"05","lat1":63.68280300,"lon1":-170.50838300,"rwy2":"23","lat2":63.68888900,"lon2":-170.48500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.3,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+}

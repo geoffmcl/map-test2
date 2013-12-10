@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVBT","name":"Bentonville Muni Louise M Thaden Fld","lat":36.3457275,"lon":-94.219332,"rwys":1,"ils":0,"index":1400723,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1244,"wid_m":19.81,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":36.35133300,"lon1":-94.21928100,"rwy2":"36","lat2":36.34012200,"lon2":-94.21938300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.05,"desc":"RAZORBACK CLNC DEL"},
+{"type":"APP","freq":121,"desc":"RAZORBACK APP/DEP"}
+]
+}

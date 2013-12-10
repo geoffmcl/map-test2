@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPIT","name":"Pittsburgh Intl","lat":40.49466971,"lon":-080.23783597,"rwys":4,"ils":3,"index":1630363,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":3504,"wid_m":60.96,"hdg":91,"surf":"Concrete","rwy1":"10R","lat1":40.48672914,"lon1":-80.25190760,"rwy2":"28L","lat2":40.48564286,"lon2":-80.21059440},
+{"len_m":3201,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"10L","lat1":40.50233607,"lon1":-80.27118666,"rwy2":"28R","lat2":40.50135393,"lon2":-80.23344334},
+{"len_m":2959,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"10C","lat1":40.48987455,"lon1":-80.24626155,"rwy2":"28C","lat2":40.48895745,"lon2":-80.21138045},
+{"len_m":2469,"wid_m":46.02,"hdg":136,"surf":"Concrete","rwy1":"14","lat1":40.49601528,"lon1":-80.22486847,"rwy2":"32","lat2":40.47991672,"lon2":-80.20478153}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":130.77,"desc":"GND"},
+{"type":"GND","freq":131.37,"desc":"GND"},
+{"type":"TWR","freq":135.02,"desc":"TWR"},
+{"type":"APP","freq":120.87,"desc":"APP"},
+{"type":"APP","freq":123.95,"desc":"APP"},
+{"type":"APP","freq":124.15,"desc":"APP"},
+{"type":"DEP","freq":127.95,"desc":"DEP"}
+]
+}

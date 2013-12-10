@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRAS","name":"Mustang Beach","lat":27.811821,"lon":-97.088757,"rwys":1,"ils":0,"index":1351027,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":1061,"wid_m":21.34,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":27.81459200,"lon1":-97.09315000,"rwy2":"30","lat2":27.80905000,"lon2":-97.08436400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":120.9,"desc":"CORPUS APP/DEP"}
+]
+}

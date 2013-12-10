@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGOD","name":"Llandbehr","lat":52.80972866,"lon":-4.12483467,"rwys":3,"ils":0,"index":2876339,"path":"w010n50/w005n52"
+,"runways":[
+{"len_m":2310,"wid_m":43.89,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":52.81523652,"lon1":-4.13029484,"rwy2":"35","lat2":52.79480315,"lon2":-4.12422732},
+{"len_m":1337,"wid_m":43.89,"hdg":147,"surf":"Asphalt","rwy1":"14","lat1":52.81728670,"lon1":-4.13041048,"rwy2":"32","lat2":52.80710741,"lon2":-4.11985170},
+{"len_m":1380,"wid_m":43.89,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":52.80770172,"lon1":-4.12954531,"rwy2":"23","lat2":52.81623648,"lon2":-4.11467836}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+}

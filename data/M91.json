@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M91","name":"Springfield Robertson Co","lat":36.537183,"lon":-86.920622,"rwys":1,"ils":0,"index":1531808,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":36.53142200,"lon1":-86.92527200,"rwy2":"22","lat2":36.54294400,"lon2":-86.91597200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"NASHVILLE APP/DEP"}
+]
+}

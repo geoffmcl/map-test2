@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSPD","name":"Pudong","lat":31.1434265,"lon":121.80509225,"rwys":2,"ils":4,"index":4939339,"path":"e120n30/e121n31"
+,"runways":[
+{"len_m":3998,"wid_m":60.05,"hdg":162,"surf":"Concrete","rwy1":"17","lat1":31.16128900,"lon1":121.78588900,"rwy2":"35","lat2":31.12698600,"lon2":121.79883900},
+{"len_m":3799,"wid_m":60.05,"hdg":162,"surf":"Concrete","rwy1":"16","lat1":31.15901400,"lon1":121.81166900,"rwy2":"34","lat2":31.12641700,"lon2":121.82397200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ATIS"},
+{"type":"CLD","freq":121.95,"desc":"DEL"},
+{"type":"CLD","freq":121.7,"desc":"DEL"},
+{"type":"GND","freq":121.8,"desc":"GND EAST"},
+{"type":"GND","freq":121.7,"desc":"GND EAST"},
+{"type":"GND","freq":121.65,"desc":"GND WEST"},
+{"type":"TWR","freq":118.4,"desc":"TWR EAST"},
+{"type":"TWR","freq":124.35,"desc":"TWR EAST"},
+{"type":"TWR","freq":118.8,"desc":"TWR WEST"},
+{"type":"APP","freq":121.3,"desc":"SHAINGHAI APP SCTR 3"},
+{"type":"APP","freq":119.2,"desc":"SHAINGHAI APP SCTR 3"},
+{"type":"APP","freq":120.3,"desc":"SHANGHAI APP SCTR 1"},
+{"type":"APP","freq":119.75,"desc":"SHANGHAI APP SCTR 2"},
+{"type":"APP","freq":120.8,"desc":"SHANGHAI APP SCTR 2"},
+{"type":"APP","freq":123.8,"desc":"SHANGHAI APP SCRT 4"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYKZ","name":"Buttonville Muni","lat":43.86048525,"lon":-79.3688215,"rwys":2,"ils":1,"index":1646962,"path":"w080n40/w080n43"
+,"runways":[
+{"len_m":1245,"wid_m":30.48,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":43.86444400,"lon1":-79.37333600,"rwy2":"33","lat2":43.85555600,"lon2":-79.36389200},
+{"len_m":824,"wid_m":24.38,"hdg":20,"surf":"Asphalt","rwy1":"03","lat1":43.85749700,"lon1":-79.37083300,"rwy2":"21","lat2":43.86444400,"lon2":-79.36722500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.1,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.8,"desc":"MF"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":133.4,"desc":"TRML APP"},
+{"type":"DEP","freq":133.4,"desc":"TRML DEP"}
+]
+}

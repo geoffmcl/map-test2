@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"0R0","name":"Columbia Marion Co","lat":31.29650825,"lon":-89.81360625,"rwys":2,"ils":0,"index":1482320,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":1359,"wid_m":21.34,"hdg":53,"surf":"Asphalt","rwy1":"05","lat1":31.29338300,"lon1":-89.81858600,"rwy2":"23","lat2":31.30063300,"lon2":-89.80707200},
+{"len_m":742,"wid_m":45.72,"hdg":131,"surf":"Turf/grass","rwy1":"13","lat1":31.29823100,"lon1":-89.81730000,"rwy2":"31","lat2":31.29378600,"lon2":-89.81146700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

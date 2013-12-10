@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZHN","name":"Hamilton","lat":-37.86509300,"lon":175.32861300,"rwys":4,"ils":0,"index":5819657,"path":"e170s40/e175s38"
+,"runways":[
+{"len_m":1959,"wid_m":45.11,"hdg":196,"surf":"Asphalt","rwy1":"18L","lat1":-37.85816900,"lon1":175.33513300,"rwy2":"36R","lat2":-37.87514000,"lon2":175.32898300},
+{"len_m":875,"wid_m":60.05,"hdg":196,"surf":"Turf/grass","rwy1":"18R","lat1":-37.86282300,"lon1":175.33203100,"rwy2":"36L","lat2":-37.87040200,"lon2":175.32928700},
+{"len_m":719,"wid_m":60.05,"hdg":95,"surf":"Turf/grass","rwy1":"07L","lat1":-37.86235200,"lon1":175.32526100,"rwy2":"25R","lat2":-37.86291900,"lon2":175.33341100},
+{"len_m":715,"wid_m":60.05,"hdg":95,"surf":"Turf/grass","rwy1":"07R","lat1":-37.86288400,"lon1":175.32512400,"rwy2":"25L","lat2":-37.86344700,"lon2":175.33321900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"TWR","freq":125.9,"desc":"TWR"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"TWR","freq":122.9,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"CHRISTCHURCH APP"},
+{"type":"APP","freq":123.8,"desc":"CHRISTCHURCH APP"}
+]
+}

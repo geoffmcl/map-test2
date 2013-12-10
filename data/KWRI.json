@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KWRI","name":"Mcguire Afb","lat":40.015978,"lon":-74.592848995,"rwys":2,"ils":1,"index":1728641,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":3048,"wid_m":60.96,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":40.00451700,"lon1":-74.59726450,"rwy2":"24","lat2":40.02366700,"lon2":-74.57168450},
+{"len_m":2171,"wid_m":45.72,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":40.02756400,"lon1":-74.60282349,"rwy2":"36","lat2":40.00816400,"lon2":-74.59962349}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":135.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"APP/DEP"}
+]
+}

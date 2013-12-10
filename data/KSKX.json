@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSKX","name":"Taos Rgnl","lat":36.46097500,"lon":-105.66997500,"rwys":1,"ils":0,"index":1220505,"path":"w110n30/w106n36"
+,"runways":[
+{"len_m":1767,"wid_m":22.86,"hdg":56,"surf":"Asphalt","rwy1":"04","lat1":36.45374700,"lon1":-105.68061100,"rwy2":"22","lat2":36.46261700,"lon2":-105.66423900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLHM","name":"Lincoln Rgnl Karl Harder Fld","lat":38.9091625,"lon":-121.3513375,"rwys":1,"ils":1,"index":958522,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":165,"surf":"Asphalt","rwy1":"15","lat1":38.91713100,"lon1":-121.35401100,"rwy2":"33","lat2":38.90119400,"lon2":-121.34866400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+}

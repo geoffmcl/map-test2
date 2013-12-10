@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFML","name":"Marseille Provence","lat":43.44291844,"lon":005.22028794,"rwys":2,"ils":3,"index":3039576,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":3501,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"13L","lat1":43.44912530,"lon1":5.19729576,"rwy2":"31R","lat2":43.42727470,"lon2":5.22845736},
+{"len_m":2434,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":43.44130300,"lon1":5.20302200,"rwy2":"31L","lat2":43.42586400,"lon2":5.22435300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":20.12,"hdg":5,"surf":"Asphalt","lat1":43.43723106,"lon1":5.20432332},
+{"rwy1":"H10","len_m":17,"wid_m":17.07,"hdg":5,"surf":"Asphalt","lat1":43.44324896,"lon1":5.21325025},
+{"rwy1":"H11","len_m":24,"wid_m":24.99,"hdg":5,"surf":"Asphalt","lat1":43.44271978,"lon1":5.21073937},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":5,"surf":"Asphalt","lat1":43.43480557,"lon1":5.20780719},
+{"rwy1":"H3","len_m":24,"wid_m":22.86,"hdg":5,"surf":"Asphalt","lat1":43.43400150,"lon1":5.20901683},
+{"rwy1":"H4","len_m":17,"wid_m":15.85,"hdg":5,"surf":"Asphalt","lat1":43.43239208,"lon1":5.22660513},
+{"rwy1":"H5","len_m":31,"wid_m":29.87,"hdg":5,"surf":"Asphalt","lat1":43.43362995,"lon1":5.22730431},
+{"rwy1":"H6","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Asphalt","lat1":43.43403739,"lon1":5.22703604},
+{"rwy1":"H7","len_m":28,"wid_m":27.13,"hdg":5,"surf":"Asphalt","lat1":43.43431758,"lon1":5.22774146},
+{"rwy1":"H8","len_m":31,"wid_m":31.09,"hdg":5,"surf":"Asphalt","lat1":43.43391176,"lon1":5.22802436},
+{"rwy1":"H9","len_m":17,"wid_m":17.07,"hdg":5,"surf":"Asphalt","lat1":43.43755543,"lon1":5.22128360}
+]
+,"radios":[
+{"type":"ATIS","freq":125.35,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.37,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"APP/RADAR"}
+]
+}

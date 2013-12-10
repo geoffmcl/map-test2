@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTDN","name":"Tooradin","lat":-38.21443690,"lon":145.42352158,"rwys":2,"ils":0,"index":5328113,"path":"e140s40/e145s39"
+,"runways":[
+{"len_m":288,"wid_m":10.06,"hdg":151,"surf":"Gravel","rwy1":"14","lat1":-38.21366469,"lon1":145.42791858,"rwy2":"32","lat2":-38.21594610,"lon2":145.42950171},
+{"len_m":953,"wid_m":24.08,"hdg":55,"surf":"Asphalt","rwy1":"04","lat1":-38.21810462,"lon1":145.41874275,"rwy2":"22","lat2":-38.21325084,"lon2":145.42773143}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.2,"desc":"CTAF"}
+]
+}

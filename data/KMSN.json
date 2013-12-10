@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMSN","name":"Dane Co Rgnl Truax Fld","lat":43.13903716,"lon":-089.34637086,"rwys":3,"ils":3,"index":1483082,"path":"w090n40/w090n43"
+,"runways":[
+{"len_m":2744,"wid_m":46.02,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":43.14913663,"lon1":-89.34102794,"rwy2":"36","lat2":43.12444737,"lon2":-89.34216806},
+{"len_m":2194,"wid_m":46.02,"hdg":28,"surf":"Concrete","rwy1":"03","lat1":43.13323333,"lon1":-89.34177556,"rwy2":"21","lat2":43.15051867,"lon2":-89.32871444},
+{"len_m":1781,"wid_m":46.02,"hdg":136,"surf":"Concrete","rwy1":"14","lat1":43.14790579,"lon1":-89.34156804,"rwy2":"32","lat2":43.13628621,"lon2":-89.32647196}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.62,"desc":"MADISON CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"MADISON GND"},
+{"type":"TWR","freq":119.3,"desc":"MADISON TWR"},
+{"type":"APP","freq":120.1,"desc":"MADISON APP"},
+{"type":"APP","freq":135.45,"desc":"MADISON APP"},
+{"type":"DEP","freq":126.85,"desc":"MADISON DEP"}
+]
+}

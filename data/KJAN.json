@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJAN","name":"Jackson Evers Intl","lat":32.3111775,"lon":-90.07589225,"rwys":2,"ils":2,"index":1466003,"path":"w100n30/w091n32"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"16L","lat1":32.32819400,"lon1":-90.07771100,"rwy2":"34R","lat2":32.30653300,"lon2":-90.06739700},
+{"len_m":2590,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"16R","lat1":32.31582200,"lon1":-90.08438600,"rwy2":"34L","lat2":32.29416100,"lon2":-90.07407500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.05,"desc":"ATIS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP/DEP"},
+{"type":"APP","freq":125.25,"desc":"APP/DEP"}
+]
+}

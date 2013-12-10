@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DGAA","name":"Accra_kotoka_intl","lat":05.60376231,"lon":-000.17174180,"rwys":1,"ils":1,"index":2938854,"path":"w010n00/w001n05"
+,"runways":[
+{"len_m":3389,"wid_m":60.96,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":5.58838023,"lon1":-0.17336539,"rwy2":"21","lat2":5.61677577,"lon2":-0.16183777}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"ACCRA GND"},
+{"type":"TWR","freq":118.6,"desc":"ACCRA TWR"},
+{"type":"APP","freq":119.5,"desc":"ACCRA APP"}
+]
+}

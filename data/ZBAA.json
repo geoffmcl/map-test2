@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZBAA","name":"Capital Intl","lat":40.080118,"lon":116.5845625,"rwys":2,"ils":4,"index":4857986,"path":"e110n40/e116n40"
+,"runways":[
+{"len_m":3784,"wid_m":60.05,"hdg":173,"surf":"Asphalt","rwy1":"18L","lat1":40.08936100,"lon1":116.59483300,"rwy2":"36R","lat2":40.05552800,"lon2":116.60016700},
+{"len_m":3196,"wid_m":49.99,"hdg":174,"surf":"Asphalt","rwy1":"18R","lat1":40.10211100,"lon1":116.56969400,"rwy2":"36L","lat2":40.07347200,"lon2":116.57355600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"BEIJING ATIS"},
+{"type":"CLD","freq":121.6,"desc":"BEIJING DEL"},
+{"type":"CLD","freq":121.9,"desc":"BEIJING DEL"},
+{"type":"GND","freq":121.7,"desc":"GND EAST"},
+{"type":"GND","freq":121.9,"desc":"GND WEST"},
+{"type":"TWR","freq":118.5,"desc":"BEIJING EAST TWR"},
+{"type":"TWR","freq":118.3,"desc":"BEIJING EAST TWR"},
+{"type":"TWR","freq":124.3,"desc":"BEIJING WEST TWR"},
+{"type":"APP","freq":119.6,"desc":"BEIJING APP AREA 1"},
+{"type":"APP","freq":125.05,"desc":"BEIJING APP AREA 1"},
+{"type":"APP","freq":126.1,"desc":"BEIJING APP AREA 2"},
+{"type":"APP","freq":129,"desc":"BEIJING APP AREA 2"},
+{"type":"APP","freq":120.6,"desc":"BEIJING APP AREA 3"},
+{"type":"APP","freq":119.7,"desc":"BEIJING APP AREA 4"},
+{"type":"APP","freq":127.75,"desc":"BEIJING APP AREA 5"},
+{"type":"APP","freq":126.5,"desc":"BEIJING APP AREA 5"},
+{"type":"APP","freq":121.1,"desc":"BEIJING APP AREA 6"}
+]
+}

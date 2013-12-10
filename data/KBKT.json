@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBKT","name":"Allen C Perkinson Blackstone Aaf","lat":37.07476064,"lon":-77.957393915,"rwys":2,"ils":0,"index":1679296,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":1626,"wid_m":46.02,"hdg":34,"surf":"Concrete","rwy1":"04","lat1":37.06869143,"lon1":-77.95702529,"rwy2":"22","lat2":37.08076655,"lon2":-77.94666416},
+{"len_m":1229,"wid_m":22.86,"hdg":0,"surf":"Concrete","rwy1":"01","lat1":37.06925158,"lon1":-77.96305012,"rwy2":"19","lat2":37.08033300,"lon2":-77.96283608}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+}

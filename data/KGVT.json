@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGVT","name":"Majors","lat":33.068713,"lon":-96.06349375,"rwys":2,"ils":1,"index":1367747,"path":"w100n30/w097n33"
+,"runways":[
+{"len_m":2447,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.07887500,"lon1":-96.06515600,"rwy2":"35","lat2":33.05680800,"lon2":-96.06548900},
+{"len_m":1532,"wid_m":45.72,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":33.07444400,"lon1":-96.06749700,"rwy2":"31","lat2":33.06472500,"lon2":-96.05583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.65,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"TWR"}
+]
+}

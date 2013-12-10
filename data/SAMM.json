@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAMM","name":"Malargue","lat":-35.48928,"lon":-69.57378425,"rwys":2,"ils":0,"index":1805729,"path":"w070s40/w070s36"
+,"runways":[
+{"len_m":2654,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":-35.48385600,"lon1":-69.58275300,"rwy2":"32","lat2":-35.50334200,"lon2":-69.56578100},
+{"len_m":1746,"wid_m":20.12,"hdg":96,"surf":"Asphalt","rwy1":"09","lat1":-35.48410000,"lon1":-69.58286400,"rwy2":"27","lat2":-35.48582200,"lon2":-69.56373900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":118.25,"desc":"APP/TWR"},
+{"type":"APP","freq":118.1,"desc":"APP/TWR"}
+]
+}

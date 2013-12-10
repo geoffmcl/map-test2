@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMMI","name":"Mc Minn Co","lat":35.3973095,"lon":-84.562583,"rwys":1,"ils":0,"index":1564505,"path":"w090n30/w085n35"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":18,"surf":"Asphalt","rwy1":"02","lat1":35.39080000,"lon1":-84.56525800,"rwy2":"20","lat2":35.40381900,"lon2":-84.55990800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.9,"desc":"KNOXVILLE APP/DEP"}
+]
+}

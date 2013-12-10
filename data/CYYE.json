@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYE","name":"Fort Nelson","lat":58.83625,"lon":-122.59492775,"rwys":2,"ils":1,"index":943409,"path":"w130n50/w123n58"
+,"runways":[
+{"len_m":1945,"wid_m":60.96,"hdg":57,"surf":"Asphalt","rwy1":"03","lat1":58.83083300,"lon1":-122.61583900,"rwy2":"21","lat2":58.84027800,"lon2":-122.58750000},
+{"len_m":1239,"wid_m":23.47,"hdg":104,"surf":"Asphalt","rwy1":"07","lat1":58.83833300,"lon1":-122.59858300,"rwy2":"25","lat2":58.83555600,"lon2":-122.57778900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF NELSON RDO"}
+]
+}

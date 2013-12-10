@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAWN","name":"Noatak","lat":67.56634933,"lon":-162.97201047,"rwys":1,"ils":0,"index":288608,"path":"w170n60/w163n67"
+,"runways":[
+{"len_m":1221,"wid_m":17.98,"hdg":203,"surf":"Gravel","rwy1":"18","lat1":67.56711877,"lon1":-162.96940399,"rwy2":"36","lat2":67.55704723,"lon2":-162.98066261}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.4,"desc":"Kotzebue FSS"},
+{"type":"APP","freq":119.2,"desc":"Anchorage ARTCC"}
+]
+}

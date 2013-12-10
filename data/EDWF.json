@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDWF","name":"Leer-papenburg","lat":53.27126792,"lon":007.44469141,"rwys":1,"ils":0,"index":3072977,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":1193,"wid_m":20.12,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":53.27058100,"lon1":7.43351100,"rwy2":"26","lat2":53.27259700,"lon2":7.45108600}
+]
+,"helipads":[
+{"rwy1":"H","len_m":10,"wid_m":10.06,"hdg":7,"surf":"Concrete","lat1":53.27134735,"lon1":7.44350995}
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"Bremen Information"},
+{"type":"TWR","freq":130.77,"desc":"Leer Info"}
+]
+}

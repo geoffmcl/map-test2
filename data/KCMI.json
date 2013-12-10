@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCMI","name":"Univ Of Illinois Willard","lat":40.038632625,"lon":-88.277996625,"rwys":4,"ils":1,"index":1499266,"path":"w090n40/w089n40"
+,"runways":[
+{"len_m":2469,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"14L","lat1":40.04736400,"lon1":-88.28572800,"rwy2":"32R","lat2":40.03147500,"lon2":-88.26548900},
+{"len_m":1981,"wid_m":45.72,"hdg":41,"surf":"Concrete","rwy1":"04","lat1":40.03183100,"lon1":-88.28540300,"rwy2":"22","lat2":40.04528100,"lon2":-88.27015000},
+{"len_m":1614,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":40.04706900,"lon1":-88.28229400,"rwy2":"36","lat2":40.03252500,"lon2":-88.28209700},
+{"len_m":1164,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"14R","lat1":40.04049855,"lon1":-88.28118696,"rwy2":"32L","lat2":40.03301745,"lon2":-88.27162504}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"ATIS"},
+{"type":"CTAF","freq":120.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"CHAMPAIGN TWR"},
+{"type":"TWR","freq":120.4,"desc":"CHAMPAIGN TWR"},
+{"type":"APP","freq":121.35,"desc":"CHAMPAIGN APP/DEP"},
+{"type":"APP","freq":132.85,"desc":"CHAMPAIGN APP/DEP"}
+]
+}

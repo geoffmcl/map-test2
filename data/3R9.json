@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3R9","name":"Lakeway Airpark","lat":30.357493,"lon":-97.9944685,"rwys":1,"ils":0,"index":1351184,"path":"w100n30/w098n30"
+,"runways":[
+{"len_m":1198,"wid_m":21.03,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":30.36279400,"lon1":-97.99568100,"rwy2":"34","lat2":30.35219200,"lon2":-97.99325600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119,"desc":"AUSTIN APP/DEP"}
+]
+}

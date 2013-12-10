@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FQPB","name":"Pemba","lat":-12.99024775,"lon":40.52272,"rwys":2,"ils":0,"index":3609412,"path":"e040s20/e040s13"
+,"runways":[
+{"len_m":1801,"wid_m":45.11,"hdg":160,"surf":"Asphalt","rwy1":"17","lat1":-12.98562800,"lon1":40.52207800,"rwy2":"35","lat2":-13.00099400,"lon2":40.52758300},
+{"len_m":802,"wid_m":29.87,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":-12.98801900,"lon1":40.51701100,"rwy2":"26","lat2":-12.98635000,"lon2":40.52420800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"}
+]
+}

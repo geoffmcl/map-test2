@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPMD","name":"Francisco Bangoy Intl","lat":7.1255235,"lon":125.645779,"rwys":1,"ils":2,"index":5003341,"path":"e120n00/e125n07"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":7.11667500,"lon1":125.63548900,"rwy2":"23","lat2":7.13437200,"lon2":125.65606900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"DAVAO TWR"},
+{"type":"APP","freq":122.4,"desc":"DAVAO APP"}
+]
+}

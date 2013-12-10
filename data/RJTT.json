@@ -1,0 +1,33 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJTT","name":"Tokyo Haneda Intl","lat":35.55338859,"lon":139.78247372,"rwys":4,"ils":4,"index":5234531,"path":"e130n30/e139n35"
+,"runways":[
+{"len_m":2500,"wid_m":60.05,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":35.52396375,"lon1":139.80348859,"rwy2":"23","lat2":35.54055815,"lon2":139.82213849},
+{"len_m":2999,"wid_m":60.96,"hdg":149,"surf":"Asphalt","rwy1":"16L","lat1":35.56585059,"lon1":139.78658532,"rwy2":"34R","lat2":35.54245959,"lon2":139.80318232},
+{"len_m":3039,"wid_m":60.96,"hdg":149,"surf":"Asphalt","rwy1":"16R","lat1":35.56025366,"lon1":139.76888274,"rwy2":"34L","lat2":35.53655152,"lon2":139.78569410},
+{"len_m":2500,"wid_m":60.96,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":35.54896913,"lon1":139.76131614,"rwy2":"22","lat2":35.56742404,"lon2":139.77714150}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"RJTT ATIS"},
+{"type":"CTAF","freq":126.9,"desc":"TOKYO MULT"},
+{"type":"CLD","freq":121.82,"desc":"TOKYO CLD"},
+{"type":"CLD","freq":121.87,"desc":"TOKYO CLD"},
+{"type":"GND","freq":118.22,"desc":"TOKYO GND"},
+{"type":"GND","freq":121.7,"desc":"TOKYO GND"},
+{"type":"TWR","freq":118.1,"desc":"TOKYO TWR"},
+{"type":"TWR","freq":118.8,"desc":"TOKYO TWR"},
+{"type":"TWR","freq":124.35,"desc":"TOKYO TWR"},
+{"type":"TWR","freq":126.2,"desc":"TOKYO TWR"},
+{"type":"APP","freq":119.1,"desc":"TOKYO APP"},
+{"type":"APP","freq":119.4,"desc":"TOKYO APP"},
+{"type":"APP","freq":119.7,"desc":"TOKYO APP"},
+{"type":"APP","freq":124.75,"desc":"TOKYO APP"},
+{"type":"APP","freq":125.2,"desc":"TOKYO APP"},
+{"type":"APP","freq":125.3,"desc":"TOKYO APP"},
+{"type":"APP","freq":126.5,"desc":"TOKYO APP"},
+{"type":"DEP","freq":120.8,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":126,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":127.6,"desc":"TOKYO DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMWO","name":"Hook Fld Muni","lat":39.52929475,"lon":-084.39305569,"rwys":2,"ils":1,"index":1564770,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1859,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":39.52557200,"lon1":-84.40350300,"rwy2":"23","lat2":39.53646400,"lon2":-84.38707500},
+{"len_m":929,"wid_m":91.14,"hdg":85,"surf":"Dirt","rwy1":"08","lat1":39.53300349,"lon1":-84.40431891,"rwy2":"26","lat2":39.53370151,"lon2":-84.39354504}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.4,"desc":"DAYTON CLNC DEL"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP"},
+{"type":"DEP","freq":126.5,"desc":"DAYTON DEP"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBO","name":"Toulouse Blagnac","lat":43.61769870,"lon":001.35914040,"rwys":2,"ils":4,"index":2974049,"path":"e000n40/e001n43"
+,"runways":[
+{"len_m":3500,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14R","lat1":43.64411400,"lon1":1.34593100,"rwy2":"32L","lat2":43.61898100,"lon2":1.37209700},
+{"len_m":3025,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14L","lat1":43.63736400,"lon1":1.35762200,"rwy2":"32R","lat2":43.61564400,"lon2":1.38022500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.12,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.25,"desc":"TOULOUSE INFO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP"},
+{"type":"APP","freq":125.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":124.97,"desc":"TOULOUSE APP"}
+]
+}

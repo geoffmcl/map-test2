@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SE4","name":"Lachute","lat":45.638889,"lon":-74.369722,"rwys":1,"ils":0,"index":1729002,"path":"w080n40/w075n45"
+,"runways":[
+{"len_m":1226,"wid_m":30.48,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":45.63972200,"lon1":-74.37750000,"rwy2":"28","lat2":45.63805600,"lon2":-74.36194400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"DEP","freq":132.85,"desc":"MONTREAL DEP"}
+]
+}

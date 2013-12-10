@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PADL","name":"Dillingham","lat":59.0446735,"lon":-158.5055125,"rwys":1,"ils":1,"index":353601,"path":"w160n50/w159n59"
+,"runways":[
+{"len_m":1950,"wid_m":46.02,"hdg":26,"surf":"Asphalt","rwy1":"01","lat1":59.03683600,"lon1":-158.51309200,"rwy2":"19","lat2":59.05251100,"lon2":-158.49793300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125,"desc":"ATIS"},
+{"type":"ATIS","freq":135.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+}

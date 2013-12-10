@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKSW","name":"Suwon","lat":37.2354461666667,"lon":127.012826,"rwys":3,"ils":1,"index":5038024,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":2729,"wid_m":45.72,"hdg":142,"surf":"Asphalt","rwy1":"15L","lat1":37.24956900,"lon1":126.99821100,"rwy2":"33R","lat2":37.23008300,"lon2":127.01697500},
+{"len_m":2744,"wid_m":45.72,"hdg":141,"surf":"Asphalt","rwy1":"15R","lat1":37.24872500,"lon1":126.99685000,"rwy2":"33L","lat2":37.22923900,"lon2":127.01588900},
+{"len_m":2297,"wid_m":43.59,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":37.23712800,"lon1":127.01966700,"rwy2":"34","lat2":37.21793300,"lon2":127.02936400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.42,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"OSAN APP/DEP"}
+]
+}

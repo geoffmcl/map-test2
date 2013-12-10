@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAKP","name":"Anaktuvuk Pass","lat":68.133599,"lon":-151.74334,"rwys":1,"ils":0,"index":468872,"path":"w160n60/w152n68"
+,"runways":[
+{"len_m":1463,"wid_m":30.48,"hdg":38,"surf":"Gravel","rwy1":"01","lat1":68.12845600,"lon1":-151.75425800,"rwy2":"19","lat2":68.13874200,"lon2":-151.73242200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

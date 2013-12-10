@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRAW","name":"Warsaw Muni","lat":38.34705,"lon":-93.346064,"rwys":1,"ils":0,"index":1417234,"path":"w100n30/w094n38"
+,"runways":[
+{"len_m":1005,"wid_m":18.29,"hdg":182,"surf":"Concrete","rwy1":"18","lat1":38.35157500,"lon1":-93.34577200,"rwy2":"36","lat2":38.34252500,"lon2":-93.34635600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WMKN","name":"Kuala Terengganu Sultan Mahmud","lat":05.38001160,"lon":103.10645290,"rwys":1,"ils":0,"index":4642776,"path":"e100n00/e103n05"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":5.37619400,"lon1":103.09702800,"rwy2":"22","lat2":5.38908300,"lon2":103.10969400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"TERENGGANU GND"},
+{"type":"TWR","freq":123.6,"desc":"TERENGGANU TWR"}
+]
+}

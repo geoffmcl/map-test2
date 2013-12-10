@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFTT","name":"Elton Hensley Mem","lat":38.8384453333333,"lon":-92.0030056666667,"rwys":3,"ils":0,"index":1433651,"path":"w100n30/w093n38"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":38.84099700,"lon1":-91.99987200,"rwy2":"36","lat2":38.83002200,"lon2":-92.00034200},
+{"len_m":976,"wid_m":14.33,"hdg":57,"surf":"Asphalt","rwy1":"05","lat1":38.83766100,"lon1":-92.00824200,"rwy2":"23","lat2":38.84243600,"lon2":-91.99880000},
+{"len_m":751,"wid_m":30.48,"hdg":122,"surf":"Dirt","rwy1":"12","lat1":38.84158900,"lon1":-92.00904200,"rwy2":"30","lat2":38.83796700,"lon2":-92.00173600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.37,"desc":"MIZZU APP/DEP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSBP","name":"San Luis Co Rgnl","lat":35.23816656,"lon":-120.63914927,"rwys":2,"ils":1,"index":974665,"path":"w130n30/w121n35"
+,"runways":[
+{"len_m":770,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":35.23687522,"lon1":-120.65023366,"rwy2":"25","lat2":35.23689999,"lon2":-120.64177077},
+{"len_m":1861,"wid_m":46.02,"hdg":124,"surf":"Asphalt","rwy1":"11","lat1":35.24217766,"lon1":-120.64932069,"rwy2":"29","lat2":35.23261090,"lon2":-120.63251369}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.6,"desc":"ATIS"},
+{"type":"CTAF","freq":124,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"APP","freq":127.72,"desc":"SANTA BARB APP/DEP"}
+]
+}

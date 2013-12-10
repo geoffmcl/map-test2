@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRB","name":"Brest Bretagne","lat":48.44412700,"lon":-004.41785100,"rwys":2,"ils":1,"index":2876058,"path":"w010n40/w005n48"
+,"runways":[
+{"len_m":3102,"wid_m":45.11,"hdg":71,"surf":"Asphalt","rwy1":"07R","lat1":48.44338700,"lon1":-4.43837200,"rwy2":"25L","lat2":48.45236700,"lon2":-4.39867000},
+{"len_m":769,"wid_m":18.90,"hdg":71,"surf":"Asphalt","rwy1":"07L","lat1":48.44976500,"lon1":-4.42286700,"rwy2":"25R","lat2":48.45198700,"lon2":-4.41301700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.35,"desc":"LFRB ATIS"},
+{"type":"TWR","freq":120.1,"desc":"GUIPAVAS TWR"},
+{"type":"APP","freq":119.57,"desc":"IROISE APP"},
+{"type":"APP","freq":135.82,"desc":"IROISE APP"},
+{"type":"APP","freq":122.4,"desc":"LANDI APP"}
+]
+}

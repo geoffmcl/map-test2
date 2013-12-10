@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZWD","name":"Mcmurdo Station","lat":-77.867358,"lon":167.056572,"rwys":2,"ils":0,"index":5686024,"path":"e160s80/e167s78"
+,"runways":[
+{"len_m":3062,"wid_m":67.06,"hdg":213,"surf":"Snow","rwy1":"07","lat1":-77.85592134,"lon1":167.09258837,"rwy2":"25","lat2":-77.87879466,"lon2":167.02055563},
+{"len_m":3063,"wid_m":67.06,"hdg":293,"surf":"Snow","rwy1":"15","lat1":-77.87282680,"lon1":167.11641430,"rwy2":"33","lat2":-77.86188920,"lon2":166.99672970}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"WILLIAMS FIELD TWR"},
+{"type":"TWR","freq":134.1,"desc":"WILLIAMS FIELD TWR"}
+]
+}

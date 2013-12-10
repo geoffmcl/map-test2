@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPH","name":"Port Heiden","lat":56.95909075,"lon":-158.634728,"rwys":2,"ils":0,"index":353465,"path":"w160n50/w159n56"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":70,"surf":"Gravel","rwy1":"05","lat1":56.95688300,"lon1":-158.63423600,"rwy2":"23","lat2":56.96148300,"lon2":-158.61064200},
+{"len_m":1219,"wid_m":30.48,"hdg":147,"surf":"Gravel","rwy1":"13","lat1":56.96361400,"lon1":-158.65240600,"rwy2":"31","lat2":56.95438300,"lon2":-158.64162800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.4,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

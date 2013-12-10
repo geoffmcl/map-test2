@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBLG","name":"Liege","lat":50.63785800,"lon":005.45442300,"rwys":2,"ils":1,"index":3040041,"path":"e000n50/e005n50"
+,"runways":[
+{"len_m":3294,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":50.62708272,"lon1":5.42795428,"rwy2":"23L","lat2":50.64799528,"lon2":5.46092772},
+{"len_m":2339,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05L","lat1":50.63127632,"lon1":5.43013023,"rwy2":"23R","lat2":50.64612768,"lon2":5.45354739}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Concrete","lat1":50.63931674,"lon1":5.45197753},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Concrete","lat1":50.64200395,"lon1":5.44415826}
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":130.62,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+}

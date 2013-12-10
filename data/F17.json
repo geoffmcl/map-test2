@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"F17","name":"Center Muni","lat":31.830866,"lon":-94.15508775,"rwys":2,"ils":0,"index":1400435,"path":"w100n30/w095n31"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":31.83905000,"lon1":-94.15788100,"rwy2":"35","lat2":31.82413600,"lon2":-94.15496700},
+{"len_m":736,"wid_m":12.19,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":31.83277800,"lon1":-94.15611400,"rwy2":"32","lat2":31.82750000,"lon2":-94.15138900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

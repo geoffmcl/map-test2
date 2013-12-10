@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDKK","name":"Chautauqua Co Dunkirk","lat":42.49395975,"lon":-79.27117775,"rwys":2,"ils":0,"index":1646874,"path":"w080n40/w080n42"
+,"runways":[
+{"len_m":1526,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":42.49007500,"lon1":-79.27731400,"rwy2":"24","lat2":42.49888600,"lon2":-79.26306900},
+{"len_m":1220,"wid_m":30.48,"hdg":138,"surf":"Asphalt","rwy1":"15","lat1":42.49757800,"lon1":-79.27704700,"rwy2":"33","lat2":42.48930000,"lon2":-79.26728100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.5,"desc":"BUFFALO APP/DEP"}
+]
+}

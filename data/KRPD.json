@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRPD","name":"Rice Lake Rgnl Carls Fld","lat":45.41809375,"lon":-91.77362025,"rwys":2,"ils":0,"index":1450456,"path":"w100n40/w092n45"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":45.41401100,"lon1":-91.77565300,"rwy2":"19","lat2":45.42933300,"lon2":-91.77127500},
+{"len_m":1066,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":45.41760300,"lon1":-91.77899200,"rwy2":"31","lat2":45.41142800,"lon2":-91.76856100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

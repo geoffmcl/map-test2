@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVMC","name":"La Chinita Intl","lat":10.558208,"lon":-71.72785775,"rwys":2,"ils":0,"index":1775906,"path":"w080n10/w072n10"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"02L","lat1":10.54591700,"lon1":-71.73410000,"rwy2":"20R","lat2":10.57094200,"lon2":-71.72346700},
+{"len_m":2499,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"02R","lat1":10.54756700,"lon1":-71.73134700,"rwy2":"20L","lat2":10.56840600,"lon2":-71.72251700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"MARACAIBO APP"},
+{"type":"APP","freq":119.7,"desc":"MARACAIBO APP"}
+]
+}

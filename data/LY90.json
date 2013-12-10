@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LY90","name":"Dakovica","lat":42.4344445,"lon":20.4277775,"rwys":1,"ils":1,"index":3285273,"path":"e020n40/e020n42"
+,"runways":[
+{"len_m":1791,"wid_m":29.87,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":42.44250000,"lon1":20.42722200,"rwy2":"36","lat2":42.42638900,"lon2":20.42833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.6,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":125,"desc":"APP"}
+]
+}

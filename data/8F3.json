@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"8F3","name":"Crosbyton Muni","lat":33.6238365,"lon":-101.2408485,"rwys":1,"ils":0,"index":1285859,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":1096,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":33.62878100,"lon1":-101.24085000,"rwy2":"35","lat2":33.61889200,"lon2":-101.24084700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"LUBBOCK APP/DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFCL","name":"Lasbordes","lat":43.586114,"lon":1.4991665,"rwys":1,"ils":0,"index":2974049,"path":"e000n40/e001n43"
+,"runways":[
+{"len_m":948,"wid_m":29.87,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":43.59007300,"lon1":1.49696600,"rwy2":"34","lat2":43.58215500,"lon2":1.50136700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.1,"desc":"ATIS"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"APP","freq":125.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":124.97,"desc":"TOULOUSE APP"}
+]
+}

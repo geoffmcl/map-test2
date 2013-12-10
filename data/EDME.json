@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDME","name":"Eggenfelden","lat":48.395993,"lon":12.721593,"rwys":1,"ils":0,"index":3154586,"path":"e010n40/e012n48"
+,"runways":[
+{"len_m":1160,"wid_m":22.86,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":48.39573600,"lon1":12.71376900,"rwy2":"27","lat2":48.39625000,"lon2":12.72941700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.07,"desc":"ATIS"},
+{"type":"TWR","freq":120.3,"desc":"INFO"},
+{"type":"TWR","freq":120.65,"desc":"MUNCHEN INFO"}
+]
+}

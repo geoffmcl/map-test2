@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMRW","name":"Morawa","lat":-29.20415040,"lon":116.02129814,"rwys":2,"ils":0,"index":4853552,"path":"e110s30/e116s30"
+,"runways":[
+{"len_m":1274,"wid_m":78.03,"hdg":88,"surf":"Dirt","rwy1":"8","lat1":-29.20267324,"lon1":116.01807493,"rwy2":"26","lat2":-29.20241361,"lon2":116.03118193},
+{"len_m":1906,"wid_m":92.05,"hdg":148,"surf":"Dirt","rwy1":"14","lat1":-29.19512504,"lon1":116.01666570,"rwy2":"32","lat2":-29.20975511,"lon2":116.02698299}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

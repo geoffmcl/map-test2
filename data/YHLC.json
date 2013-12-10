@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHLC","name":"Halls Creek","lat":-18.23151701,"lon":127.66815935,"rwys":2,"ils":0,"index":5034485,"path":"e120s20/e127s19"
+,"runways":[
+{"len_m":1474,"wid_m":29.87,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":-18.24091281,"lon1":127.66137777,"rwy2":"22","lat2":-18.23129469,"lon2":127.67102133},
+{"len_m":1134,"wid_m":85.04,"hdg":86,"surf":"Dirt","rwy1":"08","lat1":-18.23561935,"lon1":127.66205754,"rwy2":"26","lat2":-18.23490875,"lon2":127.67275691}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

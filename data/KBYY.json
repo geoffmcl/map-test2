@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBYY","name":"Bay City Muni","lat":28.973246,"lon":-95.863453,"rwys":1,"ils":0,"index":1383864,"path":"w100n20/w096n28"
+,"runways":[
+{"len_m":1556,"wid_m":22.86,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":28.97808600,"lon1":-95.86923900,"rwy2":"31","lat2":28.96840600,"lon2":-95.85766700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

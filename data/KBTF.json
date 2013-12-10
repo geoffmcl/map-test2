@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBTF","name":"Bountiful Skypark","lat":40.86991500,"lon":-111.92802400,"rwys":1,"ils":0,"index":1122480,"path":"w120n40/w112n40"
+,"runways":[
+{"len_m":1416,"wid_m":21.03,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":40.87453597,"lon1":-111.92754851,"rwy2":"34","lat2":40.86178388,"lon2":-111.92743369}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.7,"desc":"SALT LAKE CITY"}
+]
+}

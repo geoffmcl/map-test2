@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PATA","name":"Ralph M Calhoun Mem","lat":65.174403,"lon":-152.109385,"rwys":1,"ils":0,"index":452297,"path":"w160n60/w153n65"
+,"runways":[
+{"len_m":1337,"wid_m":45.72,"hdg":89,"surf":"Gravel","rwy1":"07","lat1":65.17433100,"lon1":-152.12365300,"rwy2":"25","lat2":65.17447500,"lon2":-152.09511700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.1,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

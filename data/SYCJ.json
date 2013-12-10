@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SYCJ","name":"Cheddi Jagan Intl","lat":6.49887425,"lon":-58.25455,"rwys":2,"ils":1,"index":1988637,"path":"w060n00/w059n06"
+,"runways":[
+{"len_m":2270,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":6.49189700,"lon1":-58.26080800,"rwy2":"24","lat2":6.50641900,"lon2":-58.24630300},
+{"len_m":1524,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"11","lat1":6.49858900,"lon1":-58.26243600,"rwy2":"29","lat2":6.49859200,"lon2":-58.24865300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TIMEHRI TWR"},
+{"type":"APP","freq":119.4,"desc":"TIMEHRI APP"}
+]
+}

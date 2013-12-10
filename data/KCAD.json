@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCAD","name":"Wexford Co","lat":44.275132,"lon":-85.4165485,"rwys":2,"ils":0,"index":1548690,"path":"w090n40/w086n44"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":44.27288100,"lon1":-85.43084700,"rwy2":"25","lat2":44.27838100,"lon2":-85.41335800},
+{"len_m":611,"wid_m":45.72,"hdg":179,"surf":"Turf/grass","rwy1":"18","lat1":44.27738300,"lon1":-85.41103300,"rwy2":"36","lat2":44.27188300,"lon2":-85.41095600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

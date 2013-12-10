@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KABY","name":"Southwest Georgia Rgnl","lat":31.535407,"lon":-84.1947245,"rwys":2,"ils":1,"index":1564259,"path":"w090n30/w085n31"
+,"runways":[
+{"len_m":2011,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":31.52958600,"lon1":-84.19971100,"rwy2":"22","lat2":31.54305000,"lon2":-84.18550800},
+{"len_m":1584,"wid_m":45.72,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":31.54128600,"lon1":-84.19944200,"rwy2":"34","lat2":31.52770600,"lon2":-84.19423700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.05,"desc":"ATIS"},
+{"type":"CTAF","freq":120.25,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.25,"desc":"TWR"}
+]
+}

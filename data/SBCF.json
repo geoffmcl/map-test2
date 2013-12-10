@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBCF","name":"Tancredo Neves","lat":-19.62443900,"lon":-043.97363700,"rwys":1,"ils":1,"index":2232728,"path":"w050s20/w044s20"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"16","lat1":-19.62355600,"lon1":-43.97828300,"rwy2":"34","lat2":-19.64396100,"lon2":-43.95942500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"BELO HORIZONTE ATIS"},
+{"type":"CLD","freq":121,"desc":"CONFINS CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"CONFINS TWR"},
+{"type":"APP","freq":120.2,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.1,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.4,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":119.65,"desc":"BELO HORIZONTE APP"}
+]
+}

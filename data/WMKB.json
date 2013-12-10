@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WMKB","name":"Butterworth","lat":5.465917,"lon":100.3911665,"rwys":1,"ils":0,"index":4593627,"path":"e100n00/e100n05"
+,"runways":[
+{"len_m":2437,"wid_m":45.72,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":5.47691700,"lon1":100.39183300,"rwy2":"36","lat2":5.45491700,"lon2":100.39050000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.75,"desc":"ATIS"},
+{"type":"GND","freq":134.6,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.2,"desc":"APP"},
+{"type":"APP","freq":125.8,"desc":"APP"},
+{"type":"APP","freq":128.5,"desc":"APP"},
+{"type":"DEP","freq":128.5,"desc":"DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2W5","name":"Maryland","lat":38.60072925,"lon":-77.072905,"rwys":2,"ils":0,"index":1679395,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":915,"wid_m":15.24,"hdg":167,"surf":"Asphalt","rwy1":"18","lat1":38.60393100,"lon1":-77.07433100,"rwy2":"36","lat2":38.59588600,"lon2":-77.07202800},
+{"len_m":567,"wid_m":30.48,"hdg":8,"surf":"Turf/grass","rwy1":"02","lat1":38.59902200,"lon1":-77.07309400,"rwy2":"20","lat2":38.60407800,"lon2":-77.07216700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.85,"desc":"POTOMAC APP DEP"}
+]
+}

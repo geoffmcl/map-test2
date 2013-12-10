@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYHB","name":"Hudson Bay","lat":52.81726484,"lon":-102.30951478,"rwys":2,"ils":0,"index":1270706,"path":"w110n50/w103n52"
+,"runways":[
+{"len_m":1517,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"05","lat1":52.81490338,"lon1":-102.32166165,"rwy2":"23","lat2":52.82045662,"lon2":-102.30111035},
+{"len_m":623,"wid_m":22.86,"hdg":110,"surf":"Asphalt","rwy1":"10","lat1":52.81782509,"lon1":-102.31197536,"rwy2":"28","lat2":52.81587427,"lon2":-102.30331176}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

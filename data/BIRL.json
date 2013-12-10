@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"BIRL","name":"Reykjahlid","lat":65.65413192,"lon":-016.91985062,"rwys":2,"ils":0,"index":2680552,"path":"w020n60/w017n65"
+,"runways":[
+{"len_m":740,"wid_m":27.43,"hdg":9,"surf":"Gravel","rwy1":"03","lat1":65.65143836,"lon1":-16.92041649,"rwy2":"21","lat2":65.65799464,"lon2":-16.91789751},
+{"len_m":1016,"wid_m":20.12,"hdg":1,"surf":"Asphalt","rwy1":"02","lat1":65.65181874,"lon1":-16.91837356,"rwy2":"20","lat2":65.66093211,"lon2":-16.91791091}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"COM"}
+]
+}

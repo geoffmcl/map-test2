@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBFI","name":"Foz Do Iguacu","lat":-25.60017099,"lon":-054.48516014,"rwys":1,"ils":1,"index":2052122,"path":"w060s30/w055s26"
+,"runways":[
+{"len_m":2202,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":-25.58931200,"lon1":-54.49575600,"rwy2":"32","lat2":-25.60226900,"lon2":-54.47912900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"SBFI_TWR"},
+{"type":"APP","freq":119.15,"desc":"SBFI_APP"}
+]
+}

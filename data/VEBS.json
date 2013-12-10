@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VEBS","name":"Bhubaneshwar","lat":20.24669875,"lon":85.815964,"rwys":2,"ils":1,"index":4348814,"path":"e080n20/e085n20"
+,"runways":[
+{"len_m":2244,"wid_m":45.72,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":20.25723900,"lon1":85.80784200,"rwy2":"32","lat2":20.24086400,"lon2":85.82050300},
+{"len_m":1453,"wid_m":45.72,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":20.24025000,"lon1":85.81231900,"rwy2":"23","lat2":20.24844200,"lon2":85.82319200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"TWR","freq":125.15,"desc":"TWR"},
+{"type":"APP","freq":123.5,"desc":"APP"}
+]
+}

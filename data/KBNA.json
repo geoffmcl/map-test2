@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBNA","name":"Nashville_intl","lat":36.11522125,"lon":-086.67498227,"rwys":4,"ils":6,"index":1531777,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":3361,"wid_m":46.02,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":36.14127800,"lon1":-86.69535200,"rwy2":"31","lat2":36.12049500,"lon2":-86.66817800},
+{"len_m":2438,"wid_m":46.02,"hdg":17,"surf":"Concrete","rwy1":"02C","lat1":36.10333100,"lon1":-86.68796100,"rwy2":"20C","lat2":36.12423300,"lon2":-86.67959700},
+{"len_m":2438,"wid_m":46.02,"hdg":17,"surf":"Concrete","rwy1":"02R","lat1":36.11271350,"lon1":-86.66764300,"rwy2":"20L","lat2":36.13361400,"lon2":-86.65927700},
+{"len_m":2347,"wid_m":46.02,"hdg":17,"surf":"Concrete","rwy1":"02L","lat1":36.11767800,"lon1":-86.68647400,"rwy2":"20R","lat2":36.13784100,"lon2":-86.67856500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.1,"desc":"KBNA ATIS"},
+{"type":"ATIS","freq":135.67,"desc":"KBNA ATIS"},
+{"type":"ATIS","freq":122.1,"desc":"NASHVILLE FSS"},
+{"type":"ATIS","freq":122.2,"desc":"NASHVILLE FSS"},
+{"type":"ATIS","freq":122.55,"desc":"NASHVILLE FSS"},
+{"type":"CTAF","freq":122.95,"desc":"NASHVILLE_INTL UNIC"},
+{"type":"CLD","freq":126.05,"desc":"NASHVILLE CLD"},
+{"type":"GND","freq":121.9,"desc":"NASHVILLE GND"},
+{"type":"TWR","freq":118.6,"desc":"NASHVILLE TWR"},
+{"type":"APP","freq":119.35,"desc":"NASHVILLE_APPROACH APP"},
+{"type":"APP","freq":128.44,"desc":"NASHVILLE_APPROACH APP"},
+{"type":"APP","freq":120.6,"desc":"NASHVILLE APP"},
+{"type":"APP","freq":127.17,"desc":"NASHVILLE APP"},
+{"type":"DEP","freq":118.4,"desc":"NASHVILLE DEP"},
+{"type":"DEP","freq":119.35,"desc":"NASHVILLE DEP"}
+]
+}

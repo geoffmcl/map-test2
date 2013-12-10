@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FQVL","name":"Vilankulo","lat":-22.017786,"lon":35.313465,"rwys":2,"ils":0,"index":3526905,"path":"e030s30/e035s23"
+,"runways":[
+{"len_m":1470,"wid_m":29.87,"hdg":155,"surf":"Asphalt","rwy1":"17","lat1":-22.01110000,"lon1":35.30975800,"rwy2":"35","lat2":-22.02321400,"lon2":35.31560000},
+{"len_m":752,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":-22.01845800,"lon1":35.31060800,"rwy2":"28","lat2":-22.01837200,"lon2":35.31789400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2R5","name":"St Elmo","lat":30.5019085,"lon":-88.275125,"rwys":1,"ils":0,"index":1498658,"path":"w090n30/w089n30"
+,"runways":[
+{"len_m":1219,"wid_m":24.38,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":30.49911100,"lon1":-88.28059200,"rwy2":"24","lat2":30.50470600,"lon2":-88.26965800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":118.5,"desc":"MOBILE APP/DEP"},
+{"type":"APP","freq":121,"desc":"MOBILE APP/DEP"}
+]
+}

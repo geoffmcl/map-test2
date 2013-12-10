@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDXJ","name":"Husum Schwesing","lat":54.50737864,"lon":009.13190515,"rwys":1,"ils":0,"index":3105824,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":1453,"wid_m":29.87,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":54.50457298,"lon1":9.13195871,"rwy2":"21","lat2":54.51535302,"lon2":9.14462396}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"BREMEN Information"},
+{"type":"TWR","freq":122.05,"desc":"Husum Info"}
+]
+}

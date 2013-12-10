@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBVY","name":"Beverly Muni","lat":42.58252000,"lon":-070.91655700,"rwys":2,"ils":1,"index":1794336,"path":"w080n40/w071n42"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":74,"surf":"Asphalt","rwy1":"09","lat1":42.57966100,"lon1":-70.92550000,"rwy2":"27","lat2":42.58337800,"lon2":-70.90762500},
+{"len_m":1412,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"16","lat1":42.59194700,"lon1":-70.92192500,"rwy2":"34","lat2":42.58211400,"lon2":-70.91101100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.2,"desc":"ATIS"},
+{"type":"CTAF","freq":125.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.2,"desc":"TWR"},
+{"type":"APP","freq":124.4,"desc":"BOSTON APP/DEP"}
+]
+}

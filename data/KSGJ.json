@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSGJ","name":"St Augustine","lat":29.95450833,"lon":-081.33565025,"rwys":3,"ils":1,"index":1613306,"path":"w090n20/w082n29"
+,"runways":[
+{"len_m":2437,"wid_m":46.02,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":29.96742005,"lon1":-81.35071200,"rwy2":"31","lat2":29.95440200,"lon2":-81.33036400},
+{"len_m":823,"wid_m":17.98,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":29.95398300,"lon1":-81.34127800,"rwy2":"24","lat2":29.95748300,"lon2":-81.33375800},
+{"len_m":796,"wid_m":22.86,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":29.95445800,"lon1":-81.34105800,"rwy2":"20","lat2":29.96116700,"lon2":-81.33809400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.62,"desc":"ATIS"},
+{"type":"CTAF","freq":127.62,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.17,"desc":"GND"},
+{"type":"TWR","freq":127.62,"desc":"TWR"},
+{"type":"APP","freq":120.75,"desc":"JACKSONVILLE APP/DEP"}
+]
+}

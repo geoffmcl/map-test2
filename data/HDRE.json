@@ -1,0 +1,11 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
+,"type":17,"icao":"HDRE","name":"[h] Dreux Centre Hospitalier","lat":48.7275,"lon":1.384722,"rwys":0,"ils":0,"index":2974377,"path":"e000n40/e001n48"
+,"runways":[]
+,"helipads":[
+{"rwy1":"H1","len_m":30,"wid_m":30.48,"hdg":1,"surf":"Asphalt","lat1":48.72750000,"lon1":1.38472200}
+]
+,"radios":[
+{"type":"CTAF","freq":118.2,"desc":"A/A DREUX VERNOUILLET"},
+{"type":"CTAF","freq":118.32,"desc":"SAMU"}
+]
+}

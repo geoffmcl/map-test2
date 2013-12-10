@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"17J","name":"Donalsonville Muni","lat":31.0069423333333,"lon":-84.8776123333333,"rwys":3,"ils":0,"index":1564224,"path":"w090n30/w085n31"
+,"runways":[
+{"len_m":1580,"wid_m":30.48,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":31.01406100,"lon1":-84.87725800,"rwy2":"36","lat2":30.99981700,"lon2":-84.87797200},
+{"len_m":1222,"wid_m":45.72,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":31.00663299,"lon1":-84.88400128,"rwy2":"27","lat2":31.00725501,"lon2":-84.87122072},
+{"len_m":1220,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":31.01022639,"lon1":-84.88273948,"rwy2":"31","lat2":31.00366161,"lon2":-84.87248252}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"MARIANNA ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.4,"desc":"CAIRNS APP/DEP"}
+]
+}

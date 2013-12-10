@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FZAA","name":"Ndjili Intl","lat":-4.38575,"lon":15.4445695,"rwys":1,"ils":1,"index":3200355,"path":"e010s10/e015s05"
+,"runways":[
+{"len_m":4698,"wid_m":60.05,"hdg":57,"surf":"Concrete","rwy1":"06","lat1":-4.39716700,"lon1":15.42672200,"rwy2":"24","lat2":-4.37433300,"lon2":15.46241700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":128.1,"desc":"A/G"},
+{"type":"TWR","freq":118.1,"desc":"A/G"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":120.5,"desc":"APP"}
+]
+}

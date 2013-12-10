@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDTM","name":"Mengen Hohentengen","lat":48.053832,"lon":9.3728335,"rwys":1,"ils":0,"index":3105409,"path":"e000n40/e009n48"
+,"runways":[
+{"len_m":1601,"wid_m":29.87,"hdg":78,"surf":"Concrete","rwy1":"08","lat1":48.05241100,"lon1":9.36230600,"rwy2":"26","lat2":48.05525300,"lon2":9.38336100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.37,"desc":"INFO"},
+{"type":"TWR","freq":124.7,"desc":"ZURICH INFO"}
+]
+}

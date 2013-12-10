@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SCVL","name":"Las Marias","lat":-39.79693,"lon":-73.2429235,"rwys":2,"ils":0,"index":1739915,"path":"w080s40/w074s40"
+,"runways":[
+{"len_m":1297,"wid_m":16.46,"hdg":183,"surf":"Concrete","rwy1":"17L","lat1":-39.79111100,"lon1":-73.24111200,"rwy2":"35R","lat2":-39.80277600,"lon2":-73.24194300},
+{"len_m":599,"wid_m":25.91,"hdg":182,"surf":"Turf/grass","rwy1":"17R","lat1":-39.79422200,"lon1":-73.24413900,"rwy2":"35L","lat2":-39.79961100,"lon2":-73.24450000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.7,"desc":"VALDIVIA INFO"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLBF","name":"North Platte Regional Airport Lee Bird","lat":41.13235100,"lon":-100.69818900,"rwys":2,"ils":1,"index":1302729,"path":"w110n40/w101n41"
+,"runways":[
+{"len_m":2443,"wid_m":46.02,"hdg":125,"surf":"Concrete","rwy1":"12","lat1":41.13221578,"lon1":-100.69025284,"rwy2":"30","lat2":41.11934728,"lon2":-100.66665280},
+{"len_m":1347,"wid_m":29.87,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":41.13303001,"lon1":-100.69287248,"rwy2":"35","lat2":41.12089447,"lon2":-100.69318182}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ASOS"}
+]
+}

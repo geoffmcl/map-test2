@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYCD","name":"Nanaimo","lat":49.05221200,"lon":-123.87341300,"rwys":1,"ils":0,"index":926400,"path":"w130n40/w124n49"
+,"runways":[
+{"len_m":1529,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":49.05924200,"lon1":-123.86997400,"rwy2":"34","lat2":49.04549200,"lon2":-123.87024800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"CTAF"},
+{"type":"APP","freq":133.95,"desc":"VICTORIA TRML"}
+]
+}

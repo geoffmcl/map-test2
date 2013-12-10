@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZOH","name":"Ohakea","lat":-40.20041436,"lon":175.37967038,"rwys":3,"ils":2,"index":5819505,"path":"e170s50/e175s41"
+,"runways":[
+{"len_m":2444,"wid_m":45.11,"hdg":108,"surf":"Asphalt","rwy1":"09","lat1":-40.20224817,"lon1":175.37260724,"rwy2":"27","lat2":-40.20939183,"lon2":175.39977219},
+{"len_m":2131,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":-40.19841460,"lon1":175.38572438,"rwy2":"33","lat2":-40.21725740,"lon2":175.39052029},
+{"len_m":576,"wid_m":27.13,"hdg":108,"surf":"Transparent","rwy1":"09L","lat1":-40.20113408,"lon1":175.37464436,"rwy2":"27R","lat2":-40.20281873,"lon2":175.38105028}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135,"desc":"ATIS"},
+{"type":"CTAF","freq":134.5,"desc":"CTAF"},
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":134.5,"desc":"TWR"},
+{"type":"APP","freq":123.2,"desc":"APP"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":128.5,"desc":"APP"}
+]
+}

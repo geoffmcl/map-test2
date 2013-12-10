@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCEF","name":"Westover Arb Metropolitan","lat":42.195092235,"lon":-72.534403995,"rwys":2,"ils":1,"index":1761545,"path":"w080n40/w073n42"
+,"runways":[
+{"len_m":3534,"wid_m":49.99,"hdg":34,"surf":"Asphalt","rwy1":"05","lat1":42.17746400,"lon1":-72.54800600,"rwy2":"23","lat2":42.20378300,"lon2":-72.52395600},
+{"len_m":2163,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":42.20644489,"lon1":-72.54208967,"rwy2":"33","lat2":42.19267704,"lon2":-72.52356430}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"GND","freq":118.35,"desc":"GND"},
+{"type":"TWR","freq":134.85,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"BRADLEY APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDXY","name":"Wyk Auf Foehr","lat":54.68368989,"lon":008.53766199,"rwys":2,"ils":0,"index":3089450,"path":"e000n50/e008n54"
+,"runways":[
+{"len_m":761,"wid_m":39.93,"hdg":18,"surf":"Turf/grass","rwy1":"02","lat1":54.68426218,"lon1":8.53106770,"rwy2":"20","lat2":54.69076301,"lon2":8.53474467},
+{"len_m":778,"wid_m":39.93,"hdg":93,"surf":"Turf/grass","rwy1":"10","lat1":54.68533103,"lon1":8.53040051,"rwy2":"28","lat2":54.68494014,"lon2":8.54244661}
+]
+,"helipads":[
+{"rwy1":"H","len_m":14,"wid_m":14.94,"hdg":8,"surf":"Turf/grass","lat1":54.68430384,"lon1":8.53638289}
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"Wyk INFO"}
+]
+}

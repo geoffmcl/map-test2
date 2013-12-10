@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOGS","name":"Ogdensburg Intl","lat":44.6818485,"lon":-75.4654985,"rwys":1,"ils":0,"index":1712554,"path":"w080n40/w076n44"
+,"runways":[
+{"len_m":1584,"wid_m":45.72,"hdg":76,"surf":"Asphalt","rwy1":"09","lat1":44.68012500,"lon1":-75.47519700,"rwy2":"27","lat2":44.68357200,"lon2":-75.45580000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

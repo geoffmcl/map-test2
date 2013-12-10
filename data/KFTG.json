@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFTG","name":"Front Range","lat":39.78420075,"lon":-104.537622275,"rwys":2,"ils":3,"index":1237105,"path":"w110n30/w105n39"
+,"runways":[
+{"len_m":2446,"wid_m":29.87,"hdg":91,"surf":"Asphalt","rwy1":"08","lat1":39.79400676,"lon1":-104.56529088,"rwy2":"26","lat2":39.79356024,"lon2":-104.53673721},
+{"len_m":2436,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":39.78558992,"lon1":-104.52423300,"rwy2":"35","lat2":39.76364608,"lon2":-104.52422800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ATIS"},
+{"type":"CTAF","freq":120.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":124.7,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":128.25,"desc":"DENVER APP/DEP"}
+]
+}

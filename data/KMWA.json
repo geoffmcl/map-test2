@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMWA","name":"Williamson Co Rgnl","lat":37.753878,"lon":-89.010614,"rwys":2,"ils":1,"index":1482739,"path":"w090n30/w090n37"
+,"runways":[
+{"len_m":2441,"wid_m":45.72,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":37.74838900,"lon1":-89.01802800,"rwy2":"20","lat2":37.76869200,"lon2":-89.00735300},
+{"len_m":1523,"wid_m":30.48,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":37.75129200,"lon1":-89.01677800,"rwy2":"29","lat2":37.74713900,"lon2":-89.00029700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":126.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"MARION TWR"}
+]
+}

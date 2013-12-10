@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMER","name":"Castle","lat":37.36981633,"lon":-120.56722150,"rwys":1,"ils":1,"index":974801,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":3597,"wid_m":46.02,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":37.39308300,"lon1":-120.58095800,"rwy2":"31","lat2":37.36787800,"lon2":-120.55541900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.47,"desc":"ATIS"},
+{"type":"CTAF","freq":118.17,"desc":"CTAF"},
+{"type":"GND","freq":133.57,"desc":"GND"},
+{"type":"TWR","freq":118.17,"desc":"TWR"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+}

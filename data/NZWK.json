@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZWK","name":"Whakatane","lat":-37.91981275,"lon":176.91488825,"rwys":2,"ils":0,"index":5836035,"path":"e170s40/e176s38"
+,"runways":[
+{"len_m":1292,"wid_m":30.48,"hdg":114,"surf":"Asphalt","rwy1":"09L","lat1":-37.91661100,"lon1":176.90895000,"rwy2":"27R","lat2":-37.92152800,"lon2":176.92226900},
+{"len_m":751,"wid_m":29.87,"hdg":110,"surf":"Turf/grass","rwy1":"09R","lat1":-37.91939057,"lon1":176.91015340,"rwy2":"27L","lat2":-37.92172143,"lon2":176.91818060}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.6,"desc":"CTAF"},
+{"type":"TWR","freq":125.5,"desc":"CHRISTCHURCH FIS"}
+]
+}

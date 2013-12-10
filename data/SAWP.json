@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAWP","name":"Perito Moreno","lat":-46.5383268333333,"lon":-70.9769213333333,"rwys":3,"ils":0,"index":1788632,"path":"w080s50/w071s47"
+,"runways":[
+{"len_m":1696,"wid_m":29.87,"hdg":111,"surf":"Asphalt","rwy1":"10","lat1":-46.53515300,"lon1":-70.98896100,"rwy2":"28","lat2":-46.54080800,"lon2":-70.96841700},
+{"len_m":1342,"wid_m":30.48,"hdg":127,"surf":"Dirt","rwy1":"11","lat1":-46.53748600,"lon1":-70.98268600,"rwy2":"29","lat2":-46.54476400,"lon2":-70.96871400},
+{"len_m":849,"wid_m":39.62,"hdg":87,"surf":"Dirt","rwy1":"07","lat1":-46.53605800,"lon1":-70.98190800,"rwy2":"25","lat2":-46.53569200,"lon2":-70.97084200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"RDO"}
+]
+}

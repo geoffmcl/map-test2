@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDLL","name":"Baraboo Wisconsin Dells","lat":43.52167075,"lon":-89.771159,"rwys":2,"ils":1,"index":1483104,"path":"w090n40/w090n43"
+,"runways":[
+{"len_m":1462,"wid_m":30.48,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":43.51617500,"lon1":-89.77162800,"rwy2":"19","lat2":43.52918300,"lon2":-89.76886900},
+{"len_m":825,"wid_m":30.48,"hdg":134,"surf":"Turf/grass","rwy1":"14","lat1":43.52328600,"lon1":-89.77568100,"rwy2":"32","lat2":43.51803900,"lon2":-89.76845800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.45,"desc":"MADISON APP/DEP"}
+]
+}

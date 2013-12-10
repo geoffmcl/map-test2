@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHNL","name":"Honolulu Intl","lat":21.31745400,"lon":-157.91603000,"rwys":4,"ils":3,"index":367568,"path":"w160n20/w158n21"
+,"runways":[
+{"len_m":3749,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"08L","lat1":21.32524700,"lon1":-157.94323300,"rwy2":"26R","lat2":21.32524400,"lon2":-157.90709400},
+{"len_m":3657,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"08R","lat1":21.30680300,"lon1":-157.94585000,"rwy2":"26L","lat2":21.30680000,"lon2":-157.91059700},
+{"len_m":2743,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"04R","lat1":21.31391700,"lon1":-157.92713600,"rwy2":"22L","lat2":21.32882200,"lon2":-157.90601100},
+{"len_m":2118,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"04L","lat1":21.31833100,"lon1":-157.92331900,"rwy2":"22R","lat2":21.32984700,"lon2":-157.90700600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"CTAF","freq":123.3,"desc":"UNICOM"},
+{"type":"CLD","freq":121.4,"desc":"CLNC DEL"},
+{"type":"TWR","freq":123.9,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"DEP","freq":124.8,"desc":"DEP"}
+]
+}

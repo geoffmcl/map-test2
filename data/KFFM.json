@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFFM","name":"Fergus Falls Muni Einar Mickelson Fld","lat":46.2845355,"lon":-96.1575895,"rwys":2,"ils":1,"index":1368595,"path":"w100n40/w097n46"
+,"runways":[
+{"len_m":1718,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":46.28928900,"lon1":-96.16226100,"rwy2":"31","lat2":46.27870300,"lon2":-96.14600800},
+{"len_m":1006,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":46.28960000,"lon1":-96.16113100,"rwy2":"35","lat2":46.28055000,"lon2":-96.16095800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

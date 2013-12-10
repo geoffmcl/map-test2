@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URMM","name":"Mineralnyye Vody","lat":44.2250725,"lon":43.0818905,"rwys":1,"ils":0,"index":3662216,"path":"e040n40/e043n44"
+,"runways":[
+{"len_m":3896,"wid_m":60.05,"hdg":122,"surf":"Concrete","rwy1":"12","lat1":44.23441700,"lon1":43.06125600,"rwy2":"30","lat2":44.21572800,"lon2":43.10252500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"TAXIING"},
+{"type":"TWR","freq":128,"desc":"START"},
+{"type":"APP","freq":119.3,"desc":"APP"}
+]
+}

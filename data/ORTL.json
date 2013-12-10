@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ORTL","name":"Ali Base","lat":30.9355685,"lon":46.089993,"rwys":2,"ils":0,"index":3710520,"path":"e040n30/e046n30"
+,"runways":[
+{"len_m":3333,"wid_m":45.11,"hdg":118,"surf":"Concrete","rwy1":"12L","lat1":30.94469400,"lon1":46.07589400,"rwy2":"30R","lat2":30.93036900,"lon2":46.10655800},
+{"len_m":3045,"wid_m":45.11,"hdg":118,"surf":"Concrete","rwy1":"12R","lat1":30.94015000,"lon1":46.07475300,"rwy2":"30L","lat2":30.92706100,"lon2":46.10276700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.7,"desc":"INFO"},
+{"type":"GND","freq":118.87,"desc":"GND"},
+{"type":"TWR","freq":122.12,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP"}
+]
+}

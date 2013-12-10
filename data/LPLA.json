@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LPLA","name":"Lajes","lat":38.76441,"lon":-27.093482,"rwys":1,"ils":2,"index":2498611,"path":"w030n30/w028n38"
+,"runways":[
+{"len_m":3311,"wid_m":60.05,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":38.77595300,"lon1":-27.10555000,"rwy2":"33","lat2":38.75286700,"lon2":-27.08141400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":135,"desc":"APP"}
+]
+}

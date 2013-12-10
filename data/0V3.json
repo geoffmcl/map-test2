@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"0V3","name":"Pioneer Village Fld","lat":40.51633277,"lon":-098.94764461,"rwys":2,"ils":0,"index":1335456,"path":"w100n40/w099n40"
+,"runways":[
+{"len_m":1189,"wid_m":17.98,"hdg":166,"surf":"Concrete","rwy1":"16","lat1":40.51965430,"lon1":-98.94749246,"rwy2":"34","lat2":40.50924320,"lon2":-98.94417942},
+{"len_m":674,"wid_m":92.05,"hdg":58,"surf":"Turf/grass","rwy1":"05","lat1":40.51389932,"lon1":-98.94995461,"rwy2":"23","lat2":40.51703650,"lon2":-98.94313340}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

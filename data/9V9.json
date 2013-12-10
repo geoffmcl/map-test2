@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9V9","name":"Chamberlain Muni","lat":43.76617625,"lon":-99.32134675,"rwys":2,"ils":0,"index":1319282,"path":"w100n40/w100n43"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":43.77028600,"lon1":-99.32641400,"rwy2":"31","lat2":43.76112500,"lon2":-99.31616100},
+{"len_m":1040,"wid_m":45.72,"hdg":186,"surf":"Turf/grass","rwy1":"18","lat1":43.77130000,"lon1":-99.32065600,"rwy2":"36","lat2":43.76199400,"lon2":-99.32215600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

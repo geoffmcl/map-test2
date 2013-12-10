@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGXT","name":"Raf Witerring","lat":52.61056447,"lon":-000.47653442,"rwys":1,"ils":0,"index":2941858,"path":"w010n50/w001n52"
+,"runways":[
+{"len_m":2749,"wid_m":60.96,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":52.60950088,"lon1":-0.49550044,"rwy2":"26","lat2":52.61666612,"lon2":-0.45666020}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.52,"desc":"Wittering Tower"},
+{"type":"APP","freq":130.2,"desc":"Wittering Approach"}
+]
+}

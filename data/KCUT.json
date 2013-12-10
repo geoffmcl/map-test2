@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCUT","name":"Custer County","lat":43.733096,"lon":-103.619235,"rwys":1,"ils":0,"index":1253737,"path":"w110n40/w104n43"
+,"runways":[
+{"len_m":1676,"wid_m":18.29,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":43.73230000,"lon1":-103.62958100,"rwy2":"26","lat2":43.73389200,"lon2":-103.60888900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMCB","name":"Mc Comb Pike Co John E Lewis Fld","lat":31.1784345,"lon":-90.4718585,"rwys":1,"ils":1,"index":1465930,"path":"w100n30/w091n31"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":155,"surf":"Asphalt","rwy1":"15","lat1":31.18469400,"lon1":-90.47515600,"rwy2":"33","lat2":31.17217500,"lon2":-90.46856100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

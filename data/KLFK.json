@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLFK","name":"Angelina Co","lat":31.23189200,"lon":-094.75426500,"rwys":2,"ils":1,"index":1400392,"path":"w100n30/w095n31"
+,"runways":[
+{"len_m":1645,"wid_m":29.87,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":31.23427500,"lon1":-94.75743775,"rwy2":"25","lat2":31.23805300,"lon2":-94.74073775},
+{"len_m":1313,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":31.23690230,"lon1":-94.75345300,"rwy2":"33","lat2":31.22575530,"lon2":-94.74879400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

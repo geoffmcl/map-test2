@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HAJM","name":"Jimma","lat":7.6660945,"lon":36.816639,"rwys":1,"ils":0,"index":3545198,"path":"e030n00/e036n07"
+,"runways":[
+{"len_m":1996,"wid_m":49.68,"hdg":124,"surf":"Asphalt","rwy1":"13","lat1":7.67123100,"lon1":36.80920000,"rwy2":"31","lat2":7.66095800,"lon2":36.82407800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"}
+]
+}

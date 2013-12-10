@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SADS","name":"Aeroclub Argentino","lat":-34.73296004,"lon":-058.60070898,"rwys":2,"ils":0,"index":1986001,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":890,"wid_m":46.02,"hdg":120,"surf":"Turf/grass","rwy1":"12","lat1":-34.73066145,"lon1":-58.59906986,"rwy2":"30","lat2":-34.73468492,"lon2":-58.59065547},
+{"len_m":800,"wid_m":75.90,"hdg":152,"surf":"Turf/grass","rwy1":"16","lat1":-34.73082289,"lon1":-58.59935608,"rwy2":"34","lat2":-34.73723767,"lon2":-58.59534449}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"San Justo"}
+]
+}

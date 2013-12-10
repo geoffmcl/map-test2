@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHWO","name":"North Perry","lat":25.99673800,"lon":-080.24215700,"rwys":4,"ils":0,"index":1629435,"path":"w090n20/w081n25"
+,"runways":[
+{"len_m":1021,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"19R","lat1":26.00704700,"lon1":-80.24401700,"rwy2":"01L","lat2":25.99783100,"lon2":-80.24407800},
+{"len_m":993,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"19L","lat1":26.00650000,"lon1":-80.23960300,"rwy2":"01R","lat2":25.99753100,"lon2":-80.23966400},
+{"len_m":991,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"10R","lat1":25.99823100,"lon1":-80.24422500,"rwy2":"28L","lat2":25.99817800,"lon2":-80.23431700},
+{"len_m":987,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"10L","lat1":26.00226700,"lon1":-80.24478300,"rwy2":"28R","lat2":26.00221400,"lon2":-80.23491700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.47,"desc":"ATIS"},
+{"type":"CTAF","freq":132.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.45,"desc":"GND"},
+{"type":"TWR","freq":134.3,"desc":"TWR"},
+{"type":"TWR","freq":132.1,"desc":"TWR"},
+{"type":"APP","freq":128.6,"desc":"MIAMI APP/DEP"}
+]
+}

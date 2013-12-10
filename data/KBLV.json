@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBLV","name":"Scott Afb Midamerica","lat":38.54671745,"lon":-089.83504724,"rwys":2,"ils":2,"index":1482784,"path":"w090n30/w090n38"
+,"runways":[
+{"len_m":3047,"wid_m":46.02,"hdg":136,"surf":"Concrete","rwy1":"14L","lat1":38.55620300,"lon1":-89.83349700,"rwy2":"32R","lat2":38.53626700,"lon2":-89.80945600},
+{"len_m":2438,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"14R","lat1":38.55183100,"lon1":-89.86193900,"rwy2":"32L","lat2":38.53588600,"lon2":-89.84269700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.7,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.2,"desc":"GND"},
+{"type":"GND","freq":119.87,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"TWR","freq":128.25,"desc":"TWR"},
+{"type":"APP","freq":125.2,"desc":"ST LOUIS APP/DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCNM","name":"Coonamble","lat":-30.97576854,"lon":148.37999418,"rwys":2,"ils":0,"index":5377729,"path":"e140s40/e148s31"
+,"runways":[
+{"len_m":1527,"wid_m":29.87,"hdg":53,"surf":"Asphalt","rwy1":"05","lat1":-30.98626409,"lon1":148.36929743,"rwy2":"23","lat2":-30.97813291,"lon2":148.38220880},
+{"len_m":665,"wid_m":49.99,"hdg":127,"surf":"Turf/grass","rwy1":"12","lat1":-30.97650307,"lon1":148.37340134,"rwy2":"30","lat2":-30.98013627,"lon2":148.37894360}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"COONAMBLE MULT"},
+{"type":"TWR","freq":127.1,"desc":"BRISBANE CNTR"}
+]
+}

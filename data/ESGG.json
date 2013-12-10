@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESGG","name":"Goteborg Landvetter","lat":57.66504711,"lon":012.29633650,"rwys":1,"ils":2,"index":3155177,"path":"e010n50/e012n57"
+,"runways":[
+{"len_m":3298,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":57.64952545,"lon1":12.26770711,"rwy2":"21","lat2":57.67614745,"lon2":12.29193011}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":123.1,"desc":"TWR"},
+{"type":"APP","freq":123.1,"desc":"GOTEBORG APP"},
+{"type":"APP","freq":123.3,"desc":"GOTEBORG APP"},
+{"type":"APP","freq":124.2,"desc":"GOTEBORG APP"},
+{"type":"APP","freq":124.67,"desc":"GOTEBORG APP"}
+]
+}

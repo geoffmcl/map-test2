@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDH","name":"Hamburg","lat":53.62456470,"lon":009.99070294,"rwys":2,"ils":4,"index":3105763,"path":"e000n50/e009n53"
+,"runways":[
+{"len_m":3251,"wid_m":46.02,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":53.61823179,"lon1":9.96371060,"rwy2":"23","lat2":53.63690839,"lon2":10.00151020},
+{"len_m":3665,"wid_m":46.02,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":53.65441320,"lon1":9.97521180,"rwy2":"33","lat2":53.62510683,"lon2":10.00050753}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":9,"surf":"Concrete","lat1":53.62558790,"lon1":9.98460969},
+{"rwy1":"H2","len_m":28,"wid_m":28.04,"hdg":10,"surf":"Asphalt","lat1":53.62692979,"lon1":10.00126195},
+{"rwy1":"H3","len_m":7,"wid_m":7.01,"hdg":9,"surf":"Asphalt","lat1":53.62435115,"lon1":9.99692418},
+{"rwy1":"H4","len_m":7,"wid_m":7.01,"hdg":9,"surf":"Asphalt","lat1":53.62414146,"lon1":9.99698683}
+]
+,"radios":[
+{"type":"ATIS","freq":123.12,"desc":"EDDH ATIS"},
+{"type":"GND","freq":121.8,"desc":"HAMBURG GND"},
+{"type":"TWR","freq":121.27,"desc":"HAMBURG TWR"},
+{"type":"TWR","freq":126.85,"desc":"HAMBURG TWR"},
+{"type":"APP","freq":124.62,"desc":"HAMBURG APP"},
+{"type":"APP","freq":118.2,"desc":"HAMBURG APP"}
+]
+}

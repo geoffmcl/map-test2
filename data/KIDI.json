@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIDI","name":"Indiana Co","lat":40.6322265,"lon":-79.1055305,"rwys":1,"ils":0,"index":1646763,"path":"w080n40/w080n40"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":40.63282800,"lon1":-79.11269400,"rwy2":"28","lat2":40.63162500,"lon2":-79.09836700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

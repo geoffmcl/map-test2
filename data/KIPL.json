@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIPL","name":"Imperial Co","lat":32.83406625,"lon":-115.57906025,"rwys":2,"ils":0,"index":1056433,"path":"w120n30/w116n32"
+,"runways":[
+{"len_m":1616,"wid_m":30.48,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":32.84250600,"lon1":-115.57928600,"rwy2":"32","lat2":32.82955300,"lon2":-115.57136700},
+{"len_m":1371,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":32.83210000,"lon1":-115.59011900,"rwy2":"26","lat2":32.83210600,"lon2":-115.57546900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

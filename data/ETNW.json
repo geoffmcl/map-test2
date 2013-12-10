@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETNW","name":"Wunstorf","lat":52.4549166666667,"lon":9.42802766666667,"rwys":3,"ils":1,"index":3105689,"path":"e000n50/e009n52"
+,"runways":[
+{"len_m":1876,"wid_m":46.63,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":52.45616700,"lon1":9.41350000,"rwy2":"26","lat2":52.45850000,"lon2":9.44083300},
+{"len_m":1704,"wid_m":47.55,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":52.44500000,"lon1":9.42700000,"rwy2":"21","lat2":52.45866700,"lon2":9.43833300},
+{"len_m":1089,"wid_m":40.23,"hdg":81,"surf":"Turf/grass","rwy1":"08R","lat1":52.45483300,"lon1":9.41633300,"rwy2":"26L","lat2":52.45633300,"lon2":9.43216700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":131.32,"desc":"HANNOVER DIR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"}
+]
+}

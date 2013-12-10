@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUW","name":"Nakhon Phanom","lat":17.38683500,"lon":104.64576000,"rwys":1,"ils":1,"index":4659933,"path":"e100n10/e104n17"
+,"runways":[
+{"len_m":2504,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":17.39304200,"lon1":104.63623300,"rwy2":"33","lat2":17.37454700,"lon2":104.64981100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":123.35,"desc":"SAKHON NAKHON APP"}
+]
+}

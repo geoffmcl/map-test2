@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBNL","name":"Barnwell Co","lat":33.25865600,"lon":-081.39222700,"rwys":4,"ils":0,"index":1613522,"path":"w090n30/w082n33"
+,"runways":[
+{"len_m":1601,"wid_m":21.34,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":33.25258600,"lon1":-81.39834200,"rwy2":"23","lat2":33.26272500,"lon2":-81.38610300},
+{"len_m":1601,"wid_m":20.73,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":33.25258672,"lon1":-81.39834659,"rwy2":"22","lat2":33.26272528,"lon2":-81.38610741},
+{"len_m":1559,"wid_m":30.48,"hdg":160,"surf":"Asphalt","rwy1":"16","lat1":33.26455502,"lon1":-81.38716770,"rwy2":"34","lat2":33.25130698,"lon2":-81.38155430},
+{"len_m":1559,"wid_m":30.48,"hdg":160,"surf":"Asphalt","rwy1":"17","lat1":33.26455300,"lon1":-81.38716900,"rwy2":"35","lat2":33.25130600,"lon2":-81.38155600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.5,"desc":"JACKSONVILLE APP/DEP"}
+]
+}

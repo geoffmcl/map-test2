@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMOP","name":"Mount Pleasant Muni","lat":43.621791,"lon":-84.7387925,"rwys":2,"ils":0,"index":1565025,"path":"w090n40/w085n43"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":43.62153600,"lon1":-84.74431700,"rwy2":"27","lat2":43.62130600,"lon2":-84.72543600},
+{"len_m":762,"wid_m":48.77,"hdg":57,"surf":"Turf/grass","rwy1":"05","lat1":43.62030800,"lon1":-84.74668100,"rwy2":"23","lat2":43.62401400,"lon2":-84.73873600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"SAGINAW APP/DEP"}
+]
+}

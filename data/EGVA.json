@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGVA","name":"Raf Fairford","lat":51.68154113,"lon":-001.78257918,"rwys":1,"ils":1,"index":2925416,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":3045,"wid_m":60.96,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":51.68299983,"lon1":-1.81199999,"rwy2":"27","lat2":51.68400017,"lon2":-1.76799904}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.15,"desc":"Fairford Tower"},
+{"type":"APP","freq":133.75,"desc":"Brize Director"},
+{"type":"APP","freq":119,"desc":"Brize Radar"},
+{"type":"APP","freq":122.1,"desc":"Brize Radar"},
+{"type":"APP","freq":127.25,"desc":"Brize Radar"}
+]
+}

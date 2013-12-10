@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDGL","name":"Douglas Muni","lat":31.34136025,"lon":-109.5053905,"rwys":2,"ils":0,"index":1154641,"path":"w110n30/w110n31"
+,"runways":[
+{"len_m":1755,"wid_m":22.86,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":31.33488600,"lon1":-109.50905300,"rwy2":"21","lat2":31.34777800,"lon2":-109.49833900},
+{"len_m":1254,"wid_m":30.48,"hdg":190,"surf":"Dirt","rwy1":"18","lat1":31.34694400,"lon1":-109.50583900,"rwy2":"36","lat2":31.33583300,"lon2":-109.50833100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNRS","name":"Imperial Beach","lat":32.56740905,"lon":-117.10975207,"rwys":2,"ils":0,"index":1023651,"path":"w120n30/w118n32"
+,"runways":[
+{"len_m":1523,"wid_m":103.94,"hdg":105,"surf":"Concrete","rwy1":"09","lat1":32.56793900,"lon1":-117.12276100,"rwy2":"27","lat2":32.56435300,"lon2":-117.10710000},
+{"len_m":684,"wid_m":46.02,"hdg":105,"surf":"Concrete","rwy1":"08","lat1":32.56696900,"lon1":-117.11380189,"rwy2":"26","lat2":32.56535419,"lon2":-117.10676424}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-117,"surf":"Concrete","lat1":32.56103344,"lon1":-117.11810072},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":-117,"surf":"Concrete","lat1":32.56210017,"lon1":-117.11773856},
+{"rwy1":"H3","len_m":29,"wid_m":29.87,"hdg":-117,"surf":"Concrete","lat1":32.56315727,"lon1":-117.11738402},
+{"rwy1":"H4","len_m":29,"wid_m":29.87,"hdg":-117,"surf":"Concrete","lat1":32.56424328,"lon1":-117.11705235},
+{"rwy1":"H5","len_m":29,"wid_m":29.87,"hdg":-117,"surf":"Concrete","lat1":32.56530359,"lon1":-117.11668255}
+]
+,"radios":[
+{"type":"TWR","freq":120.65,"desc":"TWR"}
+]
+}

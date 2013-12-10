@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMAI","name":"Marianna Muni","lat":30.83610300,"lon":-085.18093100,"rwys":8,"ils":0,"index":1547827,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":1522,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":30.83086000,"lon1":-85.18974300,"rwy2":"22","lat2":30.84138200,"lon2":-85.17951200},
+{"len_m":1521,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":30.83159700,"lon1":-85.18902600,"rwy2":"32","lat2":30.82108300,"lon2":-85.17880400},
+{"len_m":1491,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.84076253,"lon1":-85.18566237,"rwy2":"36","lat2":30.82730547,"lon2":-85.18565963},
+{"len_m":1492,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":30.84076400,"lon1":-85.18566400,"rwy2":"36R","lat2":30.82730300,"lon2":-85.18566100},
+{"len_m":1491,"wid_m":30.48,"hdg":81,"surf":"Asphalt","rwy1":"08R","lat1":30.84061700,"lon1":-85.18582200,"rwy2":"26L","lat2":30.84249400,"lon2":-85.17037800},
+{"len_m":1491,"wid_m":30.48,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":30.84061821,"lon1":-85.18581437,"rwy2":"26","lat2":30.84249579,"lon2":-85.17037163},
+{"len_m":950,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":30.84316900,"lon1":-85.19049300,"rwy2":"36L","lat2":30.83459200,"lon2":-85.19049300},
+{"len_m":950,"wid_m":22.86,"hdg":81,"surf":"Asphalt","rwy1":"08L","lat1":30.84316900,"lon1":-85.19049300,"rwy2":"26R","lat2":30.84436200,"lon2":-85.18065800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.75,"desc":"CAIRNS APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I06","name":"City Of Tulia Swisher Co Muni","lat":34.56514875,"lon":-101.779064,"rwys":2,"ils":0,"index":1285920,"path":"w110n30/w102n34"
+,"runways":[
+{"len_m":1486,"wid_m":18.29,"hdg":193,"surf":"Asphalt","rwy1":"18","lat1":34.57333900,"lon1":-101.77957200,"rwy2":"36","lat2":34.56031100,"lon2":-101.78335000},
+{"len_m":1201,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.56888900,"lon1":-101.77666700,"rwy2":"35","lat2":34.55805600,"lon2":-101.77666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

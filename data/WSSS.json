@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WSSS","name":"Singapore Changi Intl. Airport","lat":01.35900285,"lon":103.98970051,"rwys":3,"ils":4,"index":4642519,"path":"e100n00/e103n01"
+,"runways":[
+{"len_m":3055,"wid_m":49.99,"hdg":22,"surf":"Asphalt","rwy1":"02R","lat1":1.33132792,"lon1":104.00399778,"rwy2":"20L","lat2":1.35678326,"lon2":104.01467038},
+{"len_m":4131,"wid_m":49.99,"hdg":22,"surf":"Asphalt","rwy1":"02C","lat1":1.32808099,"lon1":103.98508345,"rwy2":"20C","lat2":1.36248690,"lon2":103.99955036},
+{"len_m":4339,"wid_m":49.99,"hdg":22,"surf":"Asphalt","rwy1":"02L","lat1":1.34832504,"lon1":103.97759211,"rwy2":"20R","lat2":1.38449873,"lon2":103.99272417}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"GND","freq":124.3,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":121.85,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP/DEP"},
+{"type":"APP","freq":119.3,"desc":"ARR"}
+]
+}

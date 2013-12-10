@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UHMM","name":"Magadan Sokol","lat":59.91442600,"lon":150.72958100,"rwys":1,"ils":1,"index":5416314,"path":"e150n50/e150n59"
+,"runways":[
+{"len_m":3455,"wid_m":59.13,"hdg":93,"surf":"Concrete","rwy1":"10","lat1":59.91186100,"lon1":150.68960800,"rwy2":"28","lat2":59.91011700,"lon2":150.75126900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":120.8,"desc":"MAGADAN TWR"},
+{"type":"APP","freq":124,"desc":"MAGADAN APP"},
+{"type":"APP","freq":126.9,"desc":"MAGADAN APP"},
+{"type":"APP","freq":129,"desc":"MAGADAN APP"}
+]
+}

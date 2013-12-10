@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"6K3","name":"Creighton Muni","lat":42.46818407,"lon":-097.88270479,"rwys":2,"ils":0,"index":1351960,"path":"w100n40/w098n42"
+,"runways":[
+{"len_m":1127,"wid_m":17.98,"hdg":130,"surf":"Concrete","rwy1":"12","lat1":42.47501066,"lon1":-97.89012562,"rwy2":"30","lat2":42.46844434,"lon2":-97.87966562},
+{"len_m":639,"wid_m":60.96,"hdg":190,"surf":"Dirt","rwy1":"18","lat1":42.47321189,"lon1":-97.88376184,"rwy2":"36","lat2":42.46754627,"lon2":-97.88517155}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

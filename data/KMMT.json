@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMMT","name":"Mc Entire Angs","lat":33.9241063333333,"lon":-80.8000723333333,"rwys":3,"ils":1,"index":1629944,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":33.92741700,"lon1":-80.81126900,"rwy2":"32","lat2":33.91022200,"lon2":-80.78994200},
+{"len_m":1362,"wid_m":45.72,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":33.93047200,"lon1":-80.79555600,"rwy2":"36","lat2":33.91819400,"lon2":-80.79602800},
+{"len_m":604,"wid_m":27.43,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":33.92722200,"lon1":-80.80611100,"rwy2":"23","lat2":33.93111100,"lon2":-80.80152800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":132.4,"desc":"CTAF"},
+{"type":"GND","freq":127.62,"desc":"GND"},
+{"type":"TWR","freq":132.4,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHPN","name":"Westchester Co","lat":41.06326344,"lon":-073.71004500,"rwys":2,"ils":1,"index":1745089,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":1356,"wid_m":46.02,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":41.06705300,"lon1":-73.71576100,"rwy2":"29","lat2":41.06442800,"lon2":-73.70000000},
+{"len_m":1995,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":41.07555000,"lon1":-73.71330800,"rwy2":"34","lat2":41.06000300,"lon2":-73.70140000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.57,"desc":"CTAF"},
+{"type":"CLD","freq":127.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.82,"desc":"GND"},
+{"type":"TWR","freq":118.57,"desc":"TWR"},
+{"type":"APP","freq":120.8,"desc":"NEW YORK APP"},
+{"type":"APP","freq":124.65,"desc":"NEW YORK APP"},
+{"type":"APP","freq":126.4,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":120.55,"desc":"NEW YORK DEP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPED","name":"Edinburgh","lat":-34.71097795,"lon":138.62514061,"rwys":2,"ils":1,"index":5213650,"path":"e130s40/e138s35"
+,"runways":[
+{"len_m":1843,"wid_m":49.99,"hdg":48,"surf":"Turf/grass","rwy1":"04","lat1":-34.71079974,"lon1":138.61667788,"rwy2":"22","lat2":-34.69968750,"lon2":138.63163748},
+{"len_m":2560,"wid_m":46.02,"hdg":188,"surf":"Asphalt","rwy1":"18","lat1":-34.69454744,"lon1":138.61757798,"rwy2":"36","lat2":-34.71737414,"lon2":138.61342819}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":138,"surf":"Asphalt","lat1":-34.70687196,"lon1":138.62230932}
+]
+,"radios":[
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"GND","freq":134.1,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":128.6,"desc":"ADELAIDE APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKCL","name":"Alfonso Bonilla Aragon Intl","lat":3.543221,"lon":-76.3815875,"rwys":1,"ils":1,"index":1693540,"path":"w080n00/w077n03"
+,"runways":[
+{"len_m":2991,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":3.52990000,"lon1":-76.38391900,"rwy2":"19","lat2":3.55654200,"lon2":-76.37925600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"CALI APP"}
+]
+}

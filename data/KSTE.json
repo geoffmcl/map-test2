@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSTE","name":"Stevens Point Muni","lat":44.544964,"lon":-89.53007625,"rwys":2,"ils":0,"index":1483169,"path":"w090n40/w090n44"
+,"runways":[
+{"len_m":1837,"wid_m":36.58,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":44.53843100,"lon1":-89.53660300,"rwy2":"21","lat2":44.55280000,"lon2":-89.52516900},
+{"len_m":1108,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":44.54678100,"lon1":-89.53532500,"rwy2":"30","lat2":44.54184400,"lon2":-89.52320800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLZZ","name":"Lampasas","lat":31.1061945,"lon":-98.195893,"rwys":1,"ils":0,"index":1334851,"path":"w100n30/w099n31"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":170,"surf":"Asphalt","rwy1":"16","lat1":31.11189200,"lon1":-98.19697500,"rwy2":"34","lat2":31.10049700,"lon2":-98.19481100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+}

@@ -1,0 +1,11 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FIN","name":"Finschhafen","lat":-06.61418771,"lon":147.85402214,"rwys":1,"ils":0,"index":5362910,"path":"e140s10/e147s07"
+,"runways":[
+{"len_m":1582,"wid_m":29.87,"hdg":169,"surf":"Transparent","rwy1":"17","lat1":-6.61473430,"lon1":147.85260492,"rwy2":"35","lat2":-6.62878945,"lon2":147.85527850}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"FIN AWOS"}
+]
+}

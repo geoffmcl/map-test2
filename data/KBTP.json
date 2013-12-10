@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBTP","name":"Butler Co K W Scholter Fld","lat":40.7765915,"lon":-79.951089,"rwys":1,"ils":1,"index":1646768,"path":"w080n40/w080n40"
+,"runways":[
+{"len_m":1463,"wid_m":30.48,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":40.77455000,"lon1":-79.95932800,"rwy2":"26","lat2":40.77863300,"lon2":-79.94285000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":128.7,"desc":"PITTSBURGH CLNC DEL"},
+{"type":"APP","freq":124.75,"desc":"PITTSBURGH APP/DEP"}
+]
+}

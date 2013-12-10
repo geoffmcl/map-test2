@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"21S","name":"Hanes","lat":47.49154277,"lon":-118.25108528,"rwys":1,"ils":0,"index":1008218,"path":"w120n40/w119n47"
+,"runways":[
+{"len_m":611,"wid_m":9.14,"hdg":64,"surf":"Asphalt","rwy1":"05","lat1":47.49034033,"lon1":-118.25473391,"rwy2":"23","lat2":47.49274521,"lon2":-118.24743665}
+]
+,"navaids":[
+{"type":"SDME","hdg_t":73.1,"dist_nm":24.9,"freq":111.4,"lat":47.61069400,"lon":-117.66230300,"rng_nm":40,"alt_fmsl":2460,"id":"SKA","desc":"FAIRCHILD TACAN"},
+{"type":"VOR","hdg_t":79.9,"dist_nm":25.7,"freq":115.5,"lat":47.56494444,"lon":-117.62688889,"rng_nm":130,"alt_fmsl":2756,"id":"GEG","desc":"SPOKANE VORTAC"},
+{"type":"NDB","hdg_t":70.8,"dist_nm":34.3,"freq":388,"lat":47.67700000,"lon":-117.45019444,"rng_nm":50,"alt_fmsl":0,"id":"CRK","desc":"CANYON NDB"},
+{"type":"NDB","hdg_t":49.1,"dist_nm":43.9,"freq":365,"lat":47.96775000,"lon":-117.42633333,"rng_nm":50,"alt_fmsl":0,"id":"DPY","desc":"DEER PARK NDB"},
+{"type":"VOR","hdg_t":249.2,"dist_nm":46.6,"freq":115,"lat":47.21086111,"lon":-119.31680556,"rng_nm":130,"alt_fmsl":1194,"id":"MWH","desc":"MOSES LAKE VOR-DME"},
+{"type":"NDB","hdg_t":242,"dist_nm":47.4,"freq":408,"lat":47.11572222,"lon":-119.27450000,"rng_nm":50,"alt_fmsl":0,"id":"MW","desc":"PELLY NDB"},
+{"type":"VOR","hdg_t":262.3,"dist_nm":48.2,"freq":112.6,"lat":47.37791667,"lon":-119.42400000,"rng_nm":130,"alt_fmsl":1250,"id":"EPH","desc":"EPHRATA VORTAC"},
+{"type":"NDB","hdg_t":73.4,"dist_nm":54.4,"freq":347,"lat":47.74286111,"lon":-116.96100000,"rng_nm":50,"alt_fmsl":0,"id":"LEN","desc":"POST FALLS NDB"},
+{"type":"VOR","hdg_t":73.2,"dist_nm":60.4,"freq":108.8,"lat":47.77369444,"lon":-116.82058333,"rng_nm":25,"alt_fmsl":2320,"id":"COE","desc":"COEUR D'ALENE VOR-DME"},
+{"type":"VOR","hdg_t":138.9,"dist_nm":64.6,"freq":109,"lat":46.67430556,"lon":-117.22350000,"rng_nm":40,"alt_fmsl":2720,"id":"PUW","desc":"PULLMAN VOR-DME"},
+{"type":"NDB","hdg_t":204.6,"dist_nm":75.9,"freq":331,"lat":46.33813889,"lon":-119.01252778,"rng_nm":50,"alt_fmsl":0,"id":"PS","desc":"DUNEZ NDB"},
+{"type":"NDB","hdg_t":318.9,"dist_nm":77,"freq":219,"lat":48.45338889,"lon":-119.51700000,"rng_nm":50,"alt_fmsl":0,"id":"OMK","desc":"OMAK NDB"},
+{"type":"NDB","hdg_t":212,"dist_nm":79,"freq":260,"lat":46.37047222,"lon":-119.25911111,"rng_nm":50,"alt_fmsl":0,"id":"RL","desc":"RIBOO NDB"},
+{"type":"NDB","hdg_t":178.3,"dist_nm":79,"freq":353,"lat":46.17555556,"lon":-118.19636111,"rng_nm":50,"alt_fmsl":0,"id":"AL","desc":"TRINA NDB"},
+{"type":"VOR","hdg_t":266.7,"dist_nm":79.9,"freq":111,"lat":47.39969444,"lon":-120.21086111,"rng_nm":40,"alt_fmsl":1224,"id":"EAT","desc":"WENATCHEE VOR-DME"},
+{"type":"NDB","hdg_t":24.4,"dist_nm":80.5,"freq":379,"lat":48.71019444,"lon":-117.41358333,"rng_nm":50,"alt_fmsl":0,"id":"ION","desc":"IONE NDB"},
+{"type":"VOR","hdg_t":206,"dist_nm":81.8,"freq":108.4,"lat":46.26297222,"lon":-119.11572222,"rng_nm":40,"alt_fmsl":404,"id":"PSC","desc":"PASCO VOR-DME"},
+{"type":"NDB","hdg_t":54.2,"dist_nm":83.3,"freq":264,"lat":48.29063889,"lon":-116.56322222,"rng_nm":50,"alt_fmsl":0,"id":"SZT","desc":"SANDPOE NDB"},
+{"type":"VOR","hdg_t":181.1,"dist_nm":84.3,"freq":116.4,"lat":46.08697222,"lon":-118.29252778,"rng_nm":40,"alt_fmsl":1179,"id":"ALW","desc":"WALLA WALLA VOR-DME"},
+{"type":"VOR","hdg_t":139,"dist_nm":87.5,"freq":108.2,"lat":46.38155556,"lon":-116.86950000,"rng_nm":40,"alt_fmsl":1723,"id":"MQG","desc":"NEZ PERCE VOR-DME"},
+{"type":"NDB","hdg_t":355.7,"dist_nm":91.8,"freq":250,"lat":49.01750000,"lon":-118.42361111,"rng_nm":50,"alt_fmsl":0,"id":"2J","desc":"GRAND FORKS NDB"},
+{"type":"VOR","hdg_t":253.5,"dist_nm":94.4,"freq":117.9,"lat":47.02436111,"lon":-120.45841667,"rng_nm":130,"alt_fmsl":1770,"id":"ELN","desc":"ELLENSBURG VORTAC"}
+]
+}

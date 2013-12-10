@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"W99","name":"Grant Co","lat":38.994939,"lon":-79.1458655,"rwys":1,"ils":0,"index":1646651,"path":"w080n30/w080n38"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":38.99860300,"lon1":-79.15330300,"rwy2":"31","lat2":38.99127500,"lon2":-79.13842800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

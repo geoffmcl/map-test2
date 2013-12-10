@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LDOS","name":"Osijek","lat":45.462353,"lon":18.8113375,"rwys":1,"ils":1,"index":3252699,"path":"e010n40/e018n45"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":45.46630000,"lon1":18.79637800,"rwy2":"29","lat2":45.45840600,"lon2":18.82629700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":118.8,"desc":"APP"},
+{"type":"APP","freq":120.15,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"L66","name":"Pollock Muni","lat":31.4766666666667,"lon":-92.4559728333333,"rwys":3,"ils":0,"index":1433178,"path":"w100n30/w093n31"
+,"runways":[
+{"len_m":1387,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":31.48333300,"lon1":-92.46055600,"rwy2":"31","lat2":31.47444400,"lon2":-92.45027800},
+{"len_m":1347,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":31.47166700,"lon1":-92.45916700,"rwy2":"22","lat2":31.48027800,"lon2":-92.44916400},
+{"len_m":1385,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":31.48138900,"lon1":-92.45833600,"rwy2":"36","lat2":31.46888900,"lon2":-92.45833600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

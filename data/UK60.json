@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UK60","name":"Kharkiv North","lat":50.02591083,"lon":36.26950036,"rwys":1,"ils":1,"index":3547905,"path":"e030n50/e036n50"
+,"runways":[
+{"len_m":1804,"wid_m":60.05,"hdg":32,"surf":"Concrete","rwy1":"02","lat1":50.01831627,"lon1":36.26047357,"rwy2":"20","lat2":50.03196627,"lon2":36.27407657}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":42.06,"hdg":36,"surf":"Concrete","lat1":50.02668039,"lon1":36.27172565}
+]
+,"radios":[
+{"type":"TWR","freq":120.95,"desc":"Sokolniky TWR"},
+{"type":"TWR","freq":126.95,"desc":"Sokolniky TWR"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWEL","name":"Wellington","lat":-32.46342065,"lon":148.99052539,"rwys":2,"ils":0,"index":5377635,"path":"e140s40/e148s33"
+,"runways":[
+{"len_m":1450,"wid_m":15.85,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":-32.45607762,"lon1":148.98371685,"rwy2":"31","lat2":-32.46560821,"lon2":148.99428690},
+{"len_m":962,"wid_m":27.13,"hdg":57,"surf":"Gravel","rwy1":"5","lat1":-32.46487820,"lon1":148.98605210,"rwy2":"23","lat2":-32.46016266,"lon2":148.99464753}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

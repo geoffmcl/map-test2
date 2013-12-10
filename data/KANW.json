@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KANW","name":"Ainsworth Muni","lat":42.57708836,"lon":-100.00063399,"rwys":2,"ils":0,"index":1302819,"path":"w110n40/w101n42"
+,"runways":[
+{"len_m":1977,"wid_m":34.14,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":42.58567342,"lon1":-99.99666295,"rwy2":"35","lat2":42.56787108,"lon2":-99.99636757},
+{"len_m":1681,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":42.58755524,"lon1":-99.99592581,"rwy2":"31","lat2":42.57698490,"lon2":-99.98126605}
+]
+,"helipads":[
+{"rwy1":"H3","len_m":6,"wid_m":6.10,"hdg":-100,"surf":"Asphalt","lat1":42.57669480,"lon1":-100.00039718}
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

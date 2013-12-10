@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CCP2","name":"Exploits Valley Botwood","lat":49.05609,"lon":-55.4480055,"rwys":1,"ils":0,"index":2040514,"path":"w060n40/w056n49"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"07","lat1":49.05196100,"lon1":-55.45348600,"rwy2":"25","lat2":49.06021900,"lon2":-55.44252500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"},
+{"type":"APP","freq":132.1,"desc":"GANDER CNTR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LLHS","name":"Hatzor","lat":31.7606268333333,"lon":34.7306225,"rwys":3,"ils":0,"index":3513970,"path":"e030n30/e034n31"
+,"runways":[
+{"len_m":2476,"wid_m":45.72,"hdg":111,"surf":"Asphalt","rwy1":"11R","lat1":31.76398900,"lon1":34.72072200,"rwy2":"29L","lat2":31.75574700,"lon2":34.74501900},
+{"len_m":2458,"wid_m":35.05,"hdg":111,"surf":"Asphalt","rwy1":"11L","lat1":31.76554700,"lon1":34.72151100,"rwy2":"29R","lat2":31.75737800,"lon2":34.74563900},
+{"len_m":2410,"wid_m":45.72,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":31.75422800,"lon1":34.71507500,"rwy2":"23","lat2":31.76687200,"lon2":34.73576900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV APP"},
+{"type":"APP","freq":121.4,"desc":"TEL AVIV APP"}
+]
+}

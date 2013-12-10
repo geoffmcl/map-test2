@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUO","name":"Burirum","lat":15.22907900,"lon":103.24830600,"rwys":1,"ils":1,"index":4643401,"path":"e100n10/e103n15"
+,"runways":[
+{"len_m":2105,"wid_m":45.11,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":15.22175300,"lon1":103.24759400,"rwy2":"22","lat2":15.23732200,"lon2":103.25886700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"APP"}
+]
+}

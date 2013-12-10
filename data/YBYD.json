@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBYD","name":"Bonney Downs Stn","lat":-22.16347214,"lon":119.92203814,"rwys":2,"ils":0,"index":4903155,"path":"e110s30/e119s23"
+,"runways":[
+{"len_m":1247,"wid_m":22.86,"hdg":310,"surf":"Dirt","rwy1":"13","lat1":-22.17017991,"lon1":119.92850779,"rwy2":"31","lat2":-22.16284547,"lon2":119.91933226},
+{"len_m":963,"wid_m":25.91,"hdg":85,"surf":"Dirt","rwy1":"09","lat1":-22.16459970,"lon1":119.91993155,"rwy2":"27","lat2":-22.16396940,"lon2":119.92925053}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+}

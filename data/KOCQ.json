@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOCQ","name":"J Douglas Bake Mem","lat":44.87442275,"lon":-87.90982425,"rwys":2,"ils":0,"index":1515952,"path":"w090n40/w088n44"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":109,"surf":"Asphalt","rwy1":"11","lat1":44.87504700,"lon1":-87.91486900,"rwy2":"29","lat2":44.87211900,"lon2":-87.90323600},
+{"len_m":562,"wid_m":45.72,"hdg":39,"surf":"Turf/grass","rwy1":"04","lat1":44.87332200,"lon1":-87.91288100,"rwy2":"22","lat2":44.87720300,"lon2":-87.90831100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"GREEN BAY APP/DEP"}
+]
+}

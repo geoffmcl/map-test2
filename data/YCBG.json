@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YCBG","name":"Cambridge","lat":-42.82985500,"lon":147.47540900,"rwys":3,"ils":0,"index":5360585,"path":"e140s50/e147s43"
+,"runways":[
+{"len_m":1131,"wid_m":17.98,"hdg":105,"surf":"Asphalt","rwy1":"08","lat1":-42.82779300,"lon1":147.47100800,"rwy2":"26","lat2":-42.83059500,"lon2":147.48431400},
+{"len_m":1117,"wid_m":17.98,"hdg":104,"surf":"Asphalt","rwy1":"09","lat1":-42.82698700,"lon1":147.46988500,"rwy2":"27","lat2":-42.82958700,"lon2":147.48308900},
+{"len_m":982,"wid_m":17.98,"hdg":154,"surf":"Asphalt","rwy1":"14","lat1":-42.82220200,"lon1":147.47355400,"rwy2":"32","lat2":-42.83020200,"lon2":147.47869000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":147,"surf":"Asphalt","lat1":-42.82950300,"lon1":147.47393600},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":147,"surf":"Asphalt","lat1":-42.82933100,"lon1":147.47398300},
+{"rwy1":"H3","len_m":11,"wid_m":11.89,"hdg":147,"surf":"Asphalt","lat1":-42.82937200,"lon1":147.47374300},
+{"rwy1":"H4","len_m":11,"wid_m":11.89,"hdg":147,"surf":"Asphalt","lat1":-42.82930800,"lon1":147.47448000},
+{"rwy1":"H5","len_m":11,"wid_m":11.89,"hdg":147,"surf":"Asphalt","lat1":-42.82933400,"lon1":147.47420700}
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"YCBG ATIS"},
+{"type":"CTAF","freq":125.55,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":118.1,"desc":"HOBART MULT"},
+{"type":"TWR","freq":118.1,"desc":"HOBART TWR"}
+]
+}

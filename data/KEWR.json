@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEWR","name":"Newark Liberty Intl","lat":40.69213500,"lon":-074.18105300,"rwys":3,"ils":2,"index":1728683,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":3352,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"04L","lat1":40.67538100,"lon1":-74.17945000,"rwy2":"22R","lat2":40.70255800,"lon2":-74.16217500},
+{"len_m":3047,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"04R","lat1":40.67758300,"lon1":-74.17424400,"rwy2":"22L","lat2":40.70228900,"lon2":-74.15853600},
+{"len_m":2072,"wid_m":45.72,"hdg":94,"surf":"Asphalt","rwy1":"11","lat1":40.70280600,"lon1":-74.18070800,"rwy2":"29","lat2":40.70118100,"lon2":-74.15627500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.82,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.15,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":132.8,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":119.2,"desc":"NEW YORK DEP"}
+]
+}

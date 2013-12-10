@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFRG","name":"Republic","lat":40.72882925,"lon":-73.41350625,"rwys":2,"ils":1,"index":1745066,"path":"w080n40/w074n40"
+,"runways":[
+{"len_m":2080,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":40.73462200,"lon1":-73.42172200,"rwy2":"32","lat2":40.72202800,"lon2":-73.40348600},
+{"len_m":1681,"wid_m":45.72,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":40.72176400,"lon1":-73.41426700,"rwy2":"19","lat2":40.73690300,"lon2":-73.41455000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.8,"desc":"CTAF"},
+{"type":"CLD","freq":128.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.2,"desc":"TWR"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"NEW YORK APP"},
+{"type":"APP","freq":123.7,"desc":"NEW YORK APP"},
+{"type":"APP","freq":127.4,"desc":"NEW YORK APP"},
+{"type":"APP","freq":132.4,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":123.7,"desc":"NEW YORK DEP"},
+{"type":"DEP","freq":125.7,"desc":"NEW YORK DEP"},
+{"type":"DEP","freq":134.35,"desc":"NEW YORK DEP"}
+]
+}

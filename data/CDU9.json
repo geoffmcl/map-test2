@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CDU9","name":"Dunnville","lat":42.8711645,"lon":-79.5977955,"rwys":2,"ils":0,"index":1646897,"path":"w080n40/w080n42"
+,"runways":[
+{"len_m":1070,"wid_m":18.29,"hdg":269,"surf":"Asphalt","rwy1":"09","lat1":42.86960470,"lon1":-79.58949442,"rwy2":"27","lat2":42.86959130,"lon2":-79.60259358},
+{"len_m":793,"wid_m":9.14,"hdg":220,"surf":"Turf/grass","rwy1":"05","lat1":42.87544857,"lon1":-79.59639671,"rwy2":"23","lat2":42.87001343,"lon2":-79.60269729}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CATF"}
+]
+}

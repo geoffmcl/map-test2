@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSNJ","name":"Lukou","lat":31.7420405,"lon":118.862024,"rwys":1,"ils":2,"index":4890219,"path":"e110n30/e118n31"
+,"runways":[
+{"len_m":3599,"wid_m":45.11,"hdg":58,"surf":"Concrete","rwy1":"06","lat1":31.73345000,"lon1":118.84590600,"rwy2":"24","lat2":31.75063100,"lon2":118.87814200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"NANJING GND"},
+{"type":"TWR","freq":118.85,"desc":"NANJING TWR"},
+{"type":"TWR","freq":118.15,"desc":"NANJING TWR"},
+{"type":"APP","freq":119.25,"desc":"NANJING APP"},
+{"type":"APP","freq":120.35,"desc":"NANJING APP"}
+]
+}

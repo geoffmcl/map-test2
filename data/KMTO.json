@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMTO","name":"Coles Co Mem","lat":39.4779773333333,"lon":-88.2822671666667,"rwys":3,"ils":1,"index":1499226,"path":"w090n30/w089n39"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":112,"surf":"Concrete","rwy1":"11","lat1":39.48126700,"lon1":-88.28968600,"rwy2":"29","lat2":39.47431700,"lon2":-88.26847500},
+{"len_m":1767,"wid_m":30.48,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":39.47414400,"lon1":-88.28832800,"rwy2":"24","lat2":39.48205600,"lon2":-88.27050000},
+{"len_m":455,"wid_m":76.20,"hdg":175,"surf":"Turf/grass","rwy1":"18","lat1":39.48008600,"lon1":-88.28851400,"rwy2":"36","lat2":39.47599400,"lon2":-88.28810000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.85,"desc":"CHAMPAIGN APP/DEP"}
+]
+}

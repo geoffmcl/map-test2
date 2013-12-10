@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOAR","name":"Marina Municipal Airport","lat":36.681878,"lon":-121.762347,"rwys":1,"ils":0,"index":958376,"path":"w130n30/w122n36"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":36.68410300,"lon1":-121.76665000,"rwy2":"29","lat2":36.67965300,"lon2":-121.75804400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.15,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":133,"desc":"NORCAL APP/DEP"}
+]
+}

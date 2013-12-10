@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKSS","name":"Seoul Gimpo","lat":37.56339260,"lon":126.79906460,"rwys":2,"ils":4,"index":5021667,"path":"e120n30/e126n37"
+,"runways":[
+{"len_m":3599,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"14L","lat1":37.57029700,"lon1":126.77842200,"rwy2":"32R","lat2":37.54735300,"lon2":126.80722200},
+{"len_m":3200,"wid_m":60.05,"hdg":134,"surf":"Asphalt","rwy1":"14R","lat1":37.56798300,"lon1":126.77553300,"rwy2":"32L","lat2":37.54760800,"lon2":126.80115800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"CLD","freq":122.6,"desc":"CLNC DEL"},
+{"type":"CLD","freq":125.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.25,"desc":"GND"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.1,"desc":"SEOUL RDO"},
+{"type":"TWR","freq":118.05,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":120.8,"desc":"SEOUL APP"},
+{"type":"APP","freq":119.75,"desc":"SEOUL APP"},
+{"type":"APP","freq":119.9,"desc":"SEOUL APP"},
+{"type":"APP","freq":125.5,"desc":"SEOUL APP"},
+{"type":"DEP","freq":125.15,"desc":"SEOUL DEP"},
+{"type":"DEP","freq":124.8,"desc":"SEOUL DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O88","name":"Rio Vista Muni","lat":38.19315675,"lon":-121.70425325,"rwys":2,"ils":0,"index":958473,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"07","lat1":38.19344700,"lon1":-121.70955800,"rwy2":"25","lat2":38.19430800,"lon2":-121.69498300},
+{"len_m":670,"wid_m":18.29,"hdg":160,"surf":"Asphalt","rwy1":"14","lat1":38.19527500,"lon1":-121.70754400,"rwy2":"32","lat2":38.18959700,"lon2":-121.70492800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.25,"desc":"NORCAL APP/DEP"},
+{"type":"DEP","freq":119.9,"desc":"TRAVIS DEP"}
+]
+}

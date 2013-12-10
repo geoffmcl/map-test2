@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCTJ","name":"West Georgia Rgnl O V Gray Fld","lat":33.631893,"lon":-85.152332,"rwys":1,"ils":1,"index":1548011,"path":"w090n30/w086n33"
+,"runways":[
+{"len_m":1722,"wid_m":30.48,"hdg":163,"surf":"Asphalt","rwy1":"17","lat1":33.63935300,"lon1":-85.15491700,"rwy2":"35","lat2":33.62443300,"lon2":-85.14974700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"ATLANTA CLNC DEL"},
+{"type":"APP","freq":121,"desc":"ATLANTA APP/DEP"}
+]
+}

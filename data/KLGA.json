@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLGA","name":"La Guardia","lat":40.77555682,"lon":-073.87457894,"rwys":2,"ils":2,"index":1745072,"path":"w080n40/w074n40"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":40.76916537,"lon1":-73.88411972,"rwy2":"22","lat2":40.78542937,"lon2":-73.87067467},
+{"len_m":2132,"wid_m":46.02,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":40.78228496,"lon1":-73.87851875,"rwy2":"31","lat2":40.77206398,"lon2":-73.85712666}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.05,"desc":"TWR"},
+{"type":"APP","freq":128.8,"desc":"NEW YORK APP"}
+]
+}

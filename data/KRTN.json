@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRTN","name":"Raton Muni Crews Fld","lat":36.74155425,"lon":-104.50154175,"rwys":2,"ils":0,"index":1236905,"path":"w110n30/w105n36"
+,"runways":[
+{"len_m":1928,"wid_m":22.86,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":36.73416700,"lon1":-104.51125800,"rwy2":"20","lat2":36.74853900,"lon2":-104.49912800},
+{"len_m":1341,"wid_m":22.86,"hdg":77,"surf":"Asphalt","rwy1":"07","lat1":36.74045800,"lon1":-104.50522800,"rwy2":"25","lat2":36.74305300,"lon2":-104.49055300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

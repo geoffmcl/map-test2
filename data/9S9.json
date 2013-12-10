@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9S9","name":"Lexington","lat":45.45103060,"lon":-119.68405621,"rwys":1,"ils":0,"index":991705,"path":"w120n40/w120n45"
+,"runways":[
+{"len_m":1266,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"08","lat1":45.45503600,"lon1":-119.69826400,"rwy2":"26","lat2":45.45325300,"lon2":-119.68226900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.47,"desc":"AWOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

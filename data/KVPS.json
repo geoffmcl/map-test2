@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVPS","name":"Eglin Afb","lat":30.4834675,"lon":-86.52509725,"rwys":2,"ils":2,"index":1531417,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":3658,"wid_m":91.44,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":30.48879200,"lon1":-86.55220800,"rwy2":"30","lat2":30.47245000,"lon2":-86.51910000},
+{"len_m":3059,"wid_m":91.44,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":30.47282800,"lon1":-86.51790600,"rwy2":"19","lat2":30.49980000,"lon2":-86.51117500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.62,"desc":"ATIS"},
+{"type":"CLD","freq":127.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":132.1,"desc":"APP/DEP"},
+{"type":"APP","freq":125.1,"desc":"APP/DEP"}
+]
+}

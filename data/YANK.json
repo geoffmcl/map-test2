@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YANK","name":"Anna Creek","lat":-28.89687851,"lon":136.17124691,"rwys":2,"ils":0,"index":5181248,"path":"e130s30/e136s29"
+,"runways":[
+{"len_m":460,"wid_m":17.07,"hdg":64,"surf":"Dirt","rwy1":"6","lat1":-28.90039126,"lon1":136.16972822,"rwy2":"24","lat2":-28.89861986,"lon2":136.17399741},
+{"len_m":755,"wid_m":20.12,"hdg":173,"surf":"Dirt","rwy1":"17","lat1":-28.89436049,"lon1":136.17051387,"rwy2":"35","lat2":-28.90113186,"lon2":136.17142665}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

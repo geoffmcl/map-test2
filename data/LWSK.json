@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LWSK","name":"Skopje","lat":41.96974800,"lon":021.62370700,"rwys":1,"ils":1,"index":3301626,"path":"e020n40/e021n41"
+,"runways":[
+{"len_m":2446,"wid_m":42.67,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":41.97227800,"lon1":21.61765600,"rwy2":"34","lat2":41.95096100,"lon2":21.62508900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+}

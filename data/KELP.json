@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KELP","name":"El Paso Intl","lat":31.79824100,"lon":-106.37499200,"rwys":3,"ils":1,"index":1203826,"path":"w110n30/w107n31"
+,"runways":[
+{"len_m":3663,"wid_m":45.72,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":31.80154400,"lon1":-106.39985000,"rwy2":"22","lat2":31.82278100,"lon2":-106.37021700},
+{"len_m":2750,"wid_m":45.72,"hdg":93,"surf":"Asphalt","rwy1":"08R","lat1":31.80221900,"lon1":-106.39221400,"rwy2":"26L","lat2":31.80078600,"lon2":-106.36321900},
+{"len_m":1673,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"08L","lat1":31.80571900,"lon1":-106.36982800,"rwy2":"26R","lat2":31.80615800,"lon2":-106.35215800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.25,"desc":"APP"},
+{"type":"APP","freq":119.15,"desc":"APP"},
+{"type":"DEP","freq":119.15,"desc":"DEP"}
+]
+}

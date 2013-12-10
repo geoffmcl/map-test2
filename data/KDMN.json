@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDMN","name":"Deming Muni","lat":32.262241,"lon":-107.7208855,"rwys":2,"ils":0,"index":1187473,"path":"w110n30/w108n32"
+,"runways":[
+{"len_m":2019,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":32.26302200,"lon1":-107.72842800,"rwy2":"26","lat2":32.26310600,"lon2":-107.70699200},
+{"len_m":1729,"wid_m":18.29,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":32.25657200,"lon1":-107.73125000,"rwy2":"22","lat2":32.26626400,"lon2":-107.71687200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYUL","name":"Montreal Pierre E Trudeau Intl","lat":45.45844700,"lon":-073.75388300,"rwys":3,"ils":4,"index":1745368,"path":"w080n40/w074n45"
+,"runways":[
+{"len_m":3361,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"06L","lat1":45.46111400,"lon1":-73.76583100,"rwy2":"24R","lat2":45.48333300,"lon2":-73.73666400},
+{"len_m":2960,"wid_m":60.96,"hdg":41,"surf":"Asphalt","rwy1":"06R","lat1":45.45666400,"lon1":-73.74166900,"rwy2":"24L","lat2":45.47666400,"lon2":-73.71666700},
+{"len_m":2087,"wid_m":60.96,"hdg":87,"surf":"Asphalt","rwy1":"10","lat1":45.46250300,"lon1":-73.76500000,"rwy2":"28","lat2":45.46333300,"lon2":-73.73833600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.7,"desc":"ATIS"},
+{"type":"CLD","freq":125.6,"desc":"MONTREAL CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"MONTREAL GND"},
+{"type":"TWR","freq":119.9,"desc":"MONTREAL TWR"},
+{"type":"APP","freq":134.15,"desc":"MONTREAL VFR ADVSY"},
+{"type":"DEP","freq":124.65,"desc":"MONTREAL TRML DEP"}
+]
+}

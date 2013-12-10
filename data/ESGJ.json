@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESGJ","name":"Jonkoping","lat":57.75058400,"lon":014.07025600,"rwys":2,"ils":1,"index":3187952,"path":"e010n50/e014n57"
+,"runways":[
+{"len_m":2203,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"01","lat1":57.74818900,"lon1":14.06298900,"rwy2":"19","lat2":57.76699700,"lon2":14.07447200},
+{"len_m":599,"wid_m":24.99,"hdg":114,"surf":"Dirt","rwy1":"11","lat1":57.75361100,"lon1":14.06888900,"rwy2":"29","lat2":57.75138900,"lon2":14.07805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"}
+]
+}

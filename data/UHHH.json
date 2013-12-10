@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UHHH","name":"Novy","lat":48.528043,"lon":135.188359,"rwys":2,"ils":2,"index":5169824,"path":"e130n40/e135n48"
+,"runways":[
+{"len_m":3998,"wid_m":60.05,"hdg":42,"surf":"Concrete","rwy1":"05R","lat1":48.51468300,"lon1":135.17275600,"rwy2":"23L","lat2":48.54132500,"lon2":135.20912200},
+{"len_m":3496,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"05L","lat1":48.51643100,"lon1":135.16988900,"rwy2":"23R","lat2":48.53973300,"lon2":135.20166900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"KHABAROVSK ATIS"},
+{"type":"TWR","freq":119.3,"desc":"KHABAROVSK TWR"},
+{"type":"APP","freq":120.3,"desc":"KHABAROVSK KRUG"},
+{"type":"APP","freq":125.2,"desc":"KHABAROVSK APP"},
+{"type":"APP","freq":129.3,"desc":"KHABAROVSK APP"}
+]
+}

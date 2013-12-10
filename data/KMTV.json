@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMTV","name":"Martinsville - Blue Ridge","lat":36.63202700,"lon":-080.01567800,"rwys":1,"ils":1,"index":1630123,"path":"w090n30/w081n36"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":36.63399984,"lon1":-80.02585076,"rwy2":"30","lat2":36.62750816,"lon2":-80.01082724}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.45,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.35,"desc":"GREENSBORO APP/DEP"}
+]
+}

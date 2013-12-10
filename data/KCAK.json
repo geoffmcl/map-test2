@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCAK","name":"Akron Canton Rgnl","lat":40.91496873,"lon":-081.43668210,"rwys":2,"ils":2,"index":1614010,"path":"w090n40/w082n40"
+,"runways":[
+{"len_m":2316,"wid_m":46.02,"hdg":2,"surf":"Asphalt","rwy1":"01","lat1":40.90716700,"lon1":-81.44135300,"rwy2":"19","lat2":40.92800800,"lon2":-81.44016700},
+{"len_m":2315,"wid_m":46.02,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":40.90750298,"lon1":-81.45374401,"rwy2":"23","lat2":40.92159698,"lon2":-81.43349201}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":41,"wid_m":47.85,"hdg":-81,"surf":"Concrete","lat1":40.92067189,"lon1":-81.45113919}
+]
+,"radios":[
+{"type":"ATIS","freq":121.05,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP/DEP"},
+{"type":"APP","freq":125.5,"desc":"APP/DEP"},
+{"type":"APP","freq":126.4,"desc":"APP/DEP"}
+]
+}

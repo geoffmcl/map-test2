@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLRO","name":"Mt Pleasant Rgnl","lat":32.897972,"lon":-79.7828585,"rwys":1,"ils":0,"index":1646264,"path":"w080n30/w080n32"
+,"runways":[
+{"len_m":1156,"wid_m":22.86,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":32.90306100,"lon1":-79.78421400,"rwy2":"35","lat2":32.89288300,"lon2":-79.78150300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.8,"desc":"CHARLESTON APP/DEP"}
+]
+}

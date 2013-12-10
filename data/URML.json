@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"URML","name":"Uytash","lat":42.816582,"lon":47.65193,"rwys":2,"ils":2,"index":3727666,"path":"e040n40/e047n42"
+,"runways":[
+{"len_m":2648,"wid_m":70.10,"hdg":147,"surf":"Turf/grass","rwy1":"14R","lat1":42.82643100,"lon1":47.64294700,"rwy2":"32L","lat2":42.80625000,"lon2":47.66018100},
+{"len_m":2633,"wid_m":42.06,"hdg":148,"surf":"Concrete","rwy1":"14","lat1":42.82687800,"lon1":47.64376700,"rwy2":"32","lat2":42.80676900,"lon2":47.66082500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.3,"desc":"MAKHACHKALA TWR"},
+{"type":"APP","freq":119.7,"desc":"MAKHACHKALA APP"}
+]
+}

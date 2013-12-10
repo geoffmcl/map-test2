@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTPP","name":"Phitsanulok","lat":16.77481439,"lon":100.28126331,"rwys":1,"ils":1,"index":4594354,"path":"e100n10/e100n16"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":16.79388900,"lon1":100.27083100,"rwy2":"32","lat2":16.77198900,"lon2":100.28741400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBTA","name":"Base De Aviacao De Taubate","lat":-23.0401335,"lon":-45.51601,"rwys":1,"ils":0,"index":2199737,"path":"w050s30/w046s24"
+,"runways":[
+{"len_m":1492,"wid_m":29.87,"hdg":56,"surf":"Asphalt","rwy1":"08","lat1":-23.04386100,"lon1":-45.52207800,"rwy2":"26","lat2":-23.03640600,"lon2":-45.50994200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"}
+]
+}

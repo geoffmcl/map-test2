@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1A6","name":"Middlesboro Bell Co","lat":36.6106375,"lon":-83.7374195,"rwys":1,"ils":0,"index":1580961,"path":"w090n30/w084n36"
+,"runways":[
+{"len_m":1104,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":36.61133300,"lon1":-83.74353100,"rwy2":"28","lat2":36.60994200,"lon2":-83.73130800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

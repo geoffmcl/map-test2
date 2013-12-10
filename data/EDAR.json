@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDAR","name":"Edar Pirna Pratzschwitz","lat":50.97763910,"lon":013.91346323,"rwys":2,"ils":0,"index":3171131,"path":"e010n50/e013n50"
+,"runways":[
+{"len_m":866,"wid_m":49.99,"hdg":117,"surf":"Turf/grass","rwy1":"12L","lat1":50.98156027,"lon1":13.90271984,"rwy2":"30R","lat2":50.97794411,"lon2":13.91365473},
+{"len_m":870,"wid_m":70.10,"hdg":117,"surf":"Turf/grass","rwy1":"12R","lat1":50.98089633,"lon1":13.90212902,"rwy2":"30L","lat2":50.97725982,"lon2":13.91310765}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.63,"desc":"Pirna Info"}
+]
+}

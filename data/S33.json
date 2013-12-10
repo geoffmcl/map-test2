@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"S33","name":"City Co","lat":44.6715265,"lon":-121.15596175,"rwys":2,"ils":0,"index":958891,"path":"w130n40/w122n44"
+,"runways":[
+{"len_m":1550,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":44.67403100,"lon1":-121.15338600,"rwy2":"34","lat2":44.66007800,"lon2":-121.15338900},
+{"len_m":834,"wid_m":15.24,"hdg":54,"surf":"Asphalt","rwy1":"03","lat1":44.67384400,"lon1":-121.16284700,"rwy2":"21","lat2":44.67815300,"lon2":-121.15422500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

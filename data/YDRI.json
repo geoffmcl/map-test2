@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YDRI","name":"Durrie","lat":-25.68444936,"lon":140.22849071,"rwys":2,"ils":0,"index":5246992,"path":"e140s30/e140s26"
+,"runways":[
+{"len_m":733,"wid_m":49.99,"hdg":50,"surf":"Dirt","rwy1":"3","lat1":-25.68817565,"lon1":140.22259083,"rwy2":"21","lat2":-25.68400063,"lon2":140.22825750},
+{"len_m":1184,"wid_m":78.94,"hdg":189,"surf":"Dirt","rwy1":"17","lat1":-25.67773716,"lon1":140.22925187,"rwy2":"35","lat2":-25.68827401,"lon2":140.22723183}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

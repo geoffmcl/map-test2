@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMYV","name":"Yuba Co","lat":39.097957,"lon":-121.56958125,"rwys":2,"ils":1,"index":958529,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":1830,"wid_m":45.72,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":39.10490600,"lon1":-121.57458900,"rwy2":"32","lat2":39.08975300,"lon2":-121.56624200},
+{"len_m":999,"wid_m":18.29,"hdg":66,"surf":"Asphalt","rwy1":"05","lat1":39.09680800,"lon1":-121.57405800,"rwy2":"23","lat2":39.10036100,"lon2":-121.56343600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+}

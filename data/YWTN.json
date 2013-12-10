@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWTN","name":"Winton","lat":-22.36326066,"lon":143.08469982,"rwys":2,"ils":0,"index":5296360,"path":"e140s30/e143s23"
+,"runways":[
+{"len_m":1401,"wid_m":29.87,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":-22.35703044,"lon1":143.08251357,"rwy2":"32","lat2":-22.36787556,"lon2":143.08953206},
+{"len_m":1171,"wid_m":49.99,"hdg":59,"surf":"Dirt","rwy1":"05","lat1":-22.36561403,"lon1":143.07429006,"rwy2":"23","lat2":-22.36018688,"lon2":143.08405645}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBCV","name":"Charleville","lat":-26.41322500,"lon":146.25901700,"rwys":2,"ils":0,"index":5345249,"path":"e140s30/e146s27"
+,"runways":[
+{"len_m":1525,"wid_m":29.87,"hdg":137,"surf":"Asphalt","rwy1":"12","lat1":-26.40792986,"lon1":146.25756512,"rwy2":"30","lat2":-26.41799900,"lon2":146.26798700},
+{"len_m":1066,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":-26.41274356,"lon1":146.26208651,"rwy2":"36","lat2":-26.42236300,"lon2":146.26171900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

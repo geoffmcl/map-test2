@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FVFA","name":"Victoria Falls Intl","lat":-18.0958805,"lon":25.8390045,"rwys":1,"ils":1,"index":3363326,"path":"e020s20/e025s19"
+,"runways":[
+{"len_m":2349,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":-18.09223600,"lon1":25.82858100,"rwy2":"30","lat2":-18.09952500,"lon2":25.84942800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.1,"desc":"FALLS TWR"},
+{"type":"APP","freq":121.1,"desc":"FALLS APP"}
+]
+}

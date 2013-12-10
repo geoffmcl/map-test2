@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBX","name":"Perigueux Bassillac","lat":45.197254,"lon":0.8159775,"rwys":1,"ils":1,"index":2957771,"path":"e000n40/e000n45"
+,"runways":[
+{"len_m":1751,"wid_m":29.87,"hdg":113,"surf":"Asphalt","rwy1":"12","lat1":45.20041100,"lon1":0.80576900,"rwy2":"30","lat2":45.19409700,"lon2":0.82618600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.77,"desc":"PERIGUEUX INFO"},
+{"type":"APP","freq":119.27,"desc":"AQUITAINE APP"}
+]
+}

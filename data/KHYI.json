@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHYI","name":"San Marcos Muni","lat":29.8928156666667,"lon":-97.8626986666667,"rwys":3,"ils":1,"index":1351160,"path":"w100n20/w098n29"
+,"runways":[
+{"len_m":1929,"wid_m":30.48,"hdg":87,"surf":"Asphalt","rwy1":"08","lat1":29.89180600,"lon1":-97.87708100,"rwy2":"26","lat2":29.89245800,"lon2":-97.85712200},
+{"len_m":1707,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":29.89703300,"lon1":-97.87002800,"rwy2":"31","lat2":29.88655300,"lon2":-97.85707200},
+{"len_m":1588,"wid_m":30.48,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":29.90168300,"lon1":-97.85775000,"rwy2":"35","lat2":29.88736100,"lon2":-97.85713900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.35,"desc":"CLNC DEL"},
+{"type":"APP","freq":119,"desc":"AUSTIN APP/DEP"}
+]
+}

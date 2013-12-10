@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SOCA","name":"Cayenne Rochambeau","lat":04.82125400,"lon":-052.36377300,"rwys":1,"ils":0,"index":2086837,"path":"w060n00/w053n04"
+,"runways":[
+{"len_m":3196,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"08","lat1":4.81377800,"lon1":-52.37353900,"rwy2":"26","lat2":4.82583600,"lon2":-52.34735300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.2,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"}
+]
+}

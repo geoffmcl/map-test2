@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGSH","name":"Norwich","lat":52.67916100,"lon":001.27722044,"rwys":2,"ils":1,"index":2974633,"path":"e000n50/e001n52"
+,"runways":[
+{"len_m":1841,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":52.67583268,"lon1":1.26905297,"rwy2":"27","lat2":52.67603432,"lon2":1.29627229},
+{"len_m":1571,"wid_m":42.98,"hdg":36,"surf":"Asphalt","rwy1":"3","lat1":52.67210901,"lon1":1.27941832,"rwy2":"21","lat2":52.68346497,"lon2":1.29322729}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.62,"desc":"Norwich Information"},
+{"type":"TWR","freq":124.25,"desc":"Norwich Tower"},
+{"type":"APP","freq":119.35,"desc":"Norwich Approach"}
+]
+}

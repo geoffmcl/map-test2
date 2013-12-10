@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAUO","name":"Auburn Opelika Robert G Pitts","lat":32.61545625,"lon":-85.43367,"rwys":2,"ils":1,"index":1547938,"path":"w090n30/w086n32"
+,"runways":[
+{"len_m":1604,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":32.62020000,"lon1":-85.43603600,"rwy2":"36","lat2":32.60573600,"lon2":-85.43634400},
+{"len_m":1219,"wid_m":22.86,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":32.61958100,"lon1":-85.43735000,"rwy2":"29","lat2":32.61630800,"lon2":-85.42495000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.7,"desc":"ATLANTA CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":126.55,"desc":"ATLANTA APP/DEP"}
+]
+}

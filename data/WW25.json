@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"WW25","name":"Nanga Merakai (maf)","lat":-0.702212,"lon":111.521405,"rwys":1,"ils":0,"index":4773460,"path":"e110s10/e111s01"
+,"runways":[
+{"len_m":517,"wid_m":24.08,"hdg":139,"surf":"Turf/grass","rwy1":"09","lat1":-0.70042594,"lon1":111.51990621,"rwy2":"27","lat2":-0.70399806,"lon2":111.52290379}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":36.8,"dist_nm":26.2,"freq":233,"lat":-0.35000000,"lon":111.78333300,"rng_nm":60,"alt_fmsl":121,"id":"NH","desc":"NANGA PINOH NDB"},
+{"type":"NDB","hdg_t":357.1,"dist_nm":45.9,"freq":405,"lat":0.06666700,"lon":111.48333300,"rng_nm":50,"alt_fmsl":98,"id":"SG","desc":"SUSILO NDB"},
+{"type":"NDB","hdg_t":235.8,"dist_nm":111.6,"freq":333,"lat":-1.75000000,"lon":109.98333300,"rng_nm":60,"alt_fmsl":46,"id":"KP","desc":"KETAPANG NDB"},
+{"type":"VOR","hdg_t":234.5,"dist_nm":114.7,"freq":116.8,"lat":-1.81649200,"lon":109.96555800,"rng_nm":150,"alt_fmsl":49,"id":"KTP","desc":"KETAPANG VOR-DME"},
+{"type":"NDB","hdg_t":175.8,"dist_nm":119.9,"freq":238,"lat":-2.70623300,"lon":111.66731400,"rng_nm":50,"alt_fmsl":75,"id":"PN","desc":"PANGKALAN BUN NDB"},
+{"type":"VOR","hdg_t":175,"dist_nm":121.3,"freq":117.4,"lat":-2.72648100,"lon":111.69597500,"rng_nm":130,"alt_fmsl":75,"id":"PKN","desc":"PANGKALAN BUN VOR-DME"},
+{"type":"NDB","hdg_t":42.8,"dist_nm":125.1,"freq":360,"lat":0.83505600,"lon":112.93733300,"rng_nm":50,"alt_fmsl":297,"id":"PB","desc":"PANGSUMA NDB"},
+{"type":"NDB","hdg_t":284.7,"dist_nm":131.5,"freq":245,"lat":-0.14257200,"lon":109.40508900,"rng_nm":50,"alt_fmsl":10,"id":"AT","desc":"PONTIANAK NDB"},
+{"type":"VOR","hdg_t":286,"dist_nm":134.2,"freq":113.2,"lat":-0.07915300,"lon":109.37510300,"rng_nm":130,"alt_fmsl":5,"id":"PNK","desc":"PONTIANAK VOR-DME"},
+{"type":"NDB","hdg_t":140.8,"dist_nm":138.7,"freq":305,"lat":-2.50430300,"lon":112.97832200,"rng_nm":60,"alt_fmsl":50,"id":"SP","desc":"SAMPIT NDB"}
+]
+}

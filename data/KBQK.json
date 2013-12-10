@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBQK","name":"Brunswick Golden Isles","lat":31.258808,"lon":-81.4664945,"rwys":1,"ils":1,"index":1613394,"path":"w090n30/w082n31"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":31.25422200,"lon1":-81.47813100,"rwy2":"25","lat2":31.26339400,"lon2":-81.45485800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.75,"desc":"CLNC DEL"}
+]
+}

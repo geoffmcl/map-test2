@@ -1,0 +1,35 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDFW","name":"Dallas Fort Worth Intl","lat":32.89690000,"lon":-097.04040000,"rwys":7,"ils":7,"index":1351355,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":4084,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17C","lat1":32.91572000,"lon1":-97.02597000,"rwy2":"35C","lat2":32.87888956,"lon2":-97.02617144},
+{"len_m":2590,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":32.89833256,"lon1":-97.00977844,"rwy2":"35R","lat2":32.87497056,"lon2":-97.00990844},
+{"len_m":4084,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"18R","lat1":32.91581500,"lon1":-97.05464200,"rwy2":"36L","lat2":32.87898700,"lon2":-97.05483400},
+{"len_m":4084,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":32.91573400,"lon1":-97.02988200,"rwy2":"35L","lat2":32.87890556,"lon2":-97.03008044},
+{"len_m":4084,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"18L","lat1":32.91580000,"lon1":-97.05073600,"rwy2":"36R","lat2":32.87897200,"lon2":-97.05092600},
+{"len_m":2834,"wid_m":46.02,"hdg":139,"surf":"Concrete","rwy1":"13R","lat1":32.90958756,"lon1":-97.08313237,"rwy2":"31L","lat2":32.89028056,"lon2":-97.06327537},
+{"len_m":2743,"wid_m":60.96,"hdg":135,"surf":"Concrete","rwy1":"13L","lat1":32.91256556,"lon1":-97.02148066,"rwy2":"31R","lat2":32.89499256,"lon2":-97.00084666}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.77,"desc":"ATIS Arrival"},
+{"type":"ATIS","freq":135.92,"desc":"ATIS Departure"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.65,"desc":"RGNL GND East 1"},
+{"type":"GND","freq":121.8,"desc":"RGNL GND East 2"},
+{"type":"GND","freq":121.85,"desc":"RGNL GND West"},
+{"type":"TWR","freq":126.55,"desc":"RGNL TWR East 1"},
+{"type":"TWR","freq":127.5,"desc":"RGNL TWR East 2"},
+{"type":"TWR","freq":134.9,"desc":"RGNL TWR West 1"},
+{"type":"TWR","freq":124.15,"desc":"RGNL TWR West 2"},
+{"type":"APP","freq":125.02,"desc":"RGNL APP East 1"},
+{"type":"APP","freq":133.52,"desc":"RGNL APP East 3"},
+{"type":"APP","freq":133.62,"desc":"RGNL APP West 1"},
+{"type":"APP","freq":119.87,"desc":"RGNL APP West 2"},
+{"type":"DEP","freq":118.55,"desc":"RGNL DEP East 1"},
+{"type":"DEP","freq":124.82,"desc":"RGNL DEP North 1"},
+{"type":"DEP","freq":125.12,"desc":"RGNL DEP South 1"},
+{"type":"DEP","freq":126.47,"desc":"RGNL DEP West 1"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYWA","name":"Petawawa","lat":45.951943,"lon":-77.319029,"rwys":1,"ils":0,"index":1679866,"path":"w080n40/w078n45"
+,"runways":[
+{"len_m":1169,"wid_m":22.86,"hdg":147,"surf":"Turf/grass","rwy1":"17","lat1":45.95638900,"lon1":-77.32305800,"rwy2":"35","lat2":45.94749700,"lon2":-77.31500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.4,"desc":"427 OPS"},
+{"type":"TWR","freq":126.2,"desc":"427 OPS"},
+{"type":"TWR","freq":126.4,"desc":"RANGE CON"}
+]
+}

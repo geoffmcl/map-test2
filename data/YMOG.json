@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMOG","name":"Mount Magnet","lat":-28.11630970,"lon":117.84311026,"rwys":2,"ils":0,"index":4870011,"path":"e110s30/e117s29"
+,"runways":[
+{"len_m":1799,"wid_m":29.87,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":-28.10772040,"lon1":117.83702587,"rwy2":"34","lat2":-28.12265410,"lon2":117.84421290},
+{"len_m":1026,"wid_m":84.12,"hdg":35,"surf":"Dirt","rwy1":"04","lat1":-28.11821910,"lon1":117.83470715,"rwy2":"22","lat2":-28.11069971,"lon2":117.84081067}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.8,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"MOUNT MAGNET MULT"}
+]
+}

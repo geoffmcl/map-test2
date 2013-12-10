@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"W40","name":"Mt Olive Muni","lat":35.2225085,"lon":-78.037528,"rwys":1,"ils":0,"index":1662795,"path":"w080n30/w079n35"
+,"runways":[
+{"len_m":1295,"wid_m":22.86,"hdg":40,"surf":"Asphalt","rwy1":"05","lat1":35.21805300,"lon1":-78.04212800,"rwy2":"23","lat2":35.22696400,"lon2":-78.03292800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.7,"desc":"SEYM JOHNSON APP/DEP"}
+]
+}

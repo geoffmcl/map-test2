@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTDW","name":"Tradewind","lat":35.169455,"lon":-101.8256605,"rwys":2,"ils":0,"index":1285960,"path":"w110n30/w102n35"
+,"runways":[
+{"len_m":1553,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.17809400,"lon1":-101.82644200,"rwy2":"35","lat2":35.16409200,"lon2":-101.82640600},
+{"len_m":914,"wid_m":18.29,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":35.16550600,"lon1":-101.82905000,"rwy2":"23","lat2":35.17012800,"lon2":-101.82074400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.4,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.5,"desc":"AMARILLO APP/DEP"}
+]
+}

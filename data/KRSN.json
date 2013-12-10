@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRSN","name":"Ruston Rgnl","lat":32.514583,"lon":-92.588333,"rwys":1,"ils":0,"index":1433249,"path":"w100n30/w093n32"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":32.52145800,"lon1":-92.58833300,"rwy2":"36","lat2":32.50770800,"lon2":-92.58833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"CLD","freq":118.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.9,"desc":"MONROE APP/DEP"}
+]
+}

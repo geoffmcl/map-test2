@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"59II","name":"Posey Patch","lat":37.90393138,"lon":-87.79030028,"rwys":2,"ils":0,"index":1515512,"path":"w090n30/w088n37"
+,"runways":[
+{"len_m":518,"wid_m":15.24,"hdg":50,"surf":"Turf/grass","rwy1":"05","lat1":37.90243270,"lon1":-87.79256386,"rwy2":"23","lat2":37.90543006,"lon2":-87.78803670},
+{"len_m":397,"wid_m":30.48,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":37.90393138,"lon1":-87.79255990,"rwy2":"27","lat2":37.90393138,"lon2":-87.78804066}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":244,"wid_m":12,"hdg_t":99,"buoys":false,"rwy1":"10","lat1":37.90412191,"lon1":-87.79166969,"rwy2":"28","lat2":37.90374085,"lon2":-87.78893087}
+]
+,"radios":[
+]
+}

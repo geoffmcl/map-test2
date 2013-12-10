@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SCSE","name":"La Florida","lat":-29.91697625,"lon":-71.19896175,"rwys":2,"ils":0,"index":1773315,"path":"w080s30/w072s30"
+,"runways":[
+{"len_m":1935,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"11","lat1":-29.91241400,"lon1":-71.20853900,"rwy2":"29","lat2":-29.92004700,"lon2":-71.19051100},
+{"len_m":1357,"wid_m":32.00,"hdg":115,"surf":"Dirt","rwy1":"11R","lat1":-29.91504400,"lon1":-71.20472200,"rwy2":"29L","lat2":-29.92040000,"lon2":-71.19207500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"LA SERENA TWR"},
+{"type":"APP","freq":128.1,"desc":"SANTIAGO APP"}
+]
+}

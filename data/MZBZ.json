@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MZBZ","name":"Philip S W Goldson Intl","lat":17.53609800,"lon":-088.30792200,"rwys":1,"ils":0,"index":1497829,"path":"w090n10/w089n17"
+,"runways":[
+{"len_m":2165,"wid_m":45.72,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":17.53690000,"lon1":-88.31812500,"rwy2":"25","lat2":17.54138900,"lon2":-88.29827800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"BELIZE TWR"},
+{"type":"APP","freq":121,"desc":"BELIZE APP"}
+]
+}

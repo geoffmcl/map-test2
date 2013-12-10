@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPRB","name":"Paso Robles Muni","lat":35.67281325,"lon":-120.62655875,"rwys":2,"ils":0,"index":974697,"path":"w130n30/w121n35"
+,"runways":[
+{"len_m":1831,"wid_m":45.72,"hdg":28,"surf":"Asphalt","rwy1":"01","lat1":35.66610300,"lon1":-120.63556900,"rwy2":"19","lat2":35.68058600,"lon2":-120.62587200},
+{"len_m":1432,"wid_m":30.48,"hdg":143,"surf":"Asphalt","rwy1":"13","lat1":35.67748100,"lon1":-120.62708600,"rwy2":"31","lat2":35.66708300,"lon2":-120.61770800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

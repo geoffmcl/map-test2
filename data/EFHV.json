@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFHV","name":"Hyvinkaa","lat":60.65494519,"lon":24.882175325,"rwys":2,"ils":0,"index":3351979,"path":"e020n60/e024n60"
+,"runways":[
+{"len_m":1269,"wid_m":17.98,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":60.65147556,"lon1":24.87504646,"rwy2":"22","lat2":60.65944899,"lon2":24.89163619},
+{"len_m":860,"wid_m":6.10,"hdg":137,"surf":"Asphalt","rwy1":"12","lat1":60.65727292,"lon1":24.87568831,"rwy2":"30","lat2":60.65158329,"lon2":24.88633032}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.5,"desc":"TRAFFIC"}
+]
+}

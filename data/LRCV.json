@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRCV","name":"Craiova","lat":44.3181525,"lon":23.8885415,"rwys":1,"ils":0,"index":3334547,"path":"e020n40/e023n44"
+,"runways":[
+{"len_m":2489,"wid_m":45.11,"hdg":88,"surf":"Concrete","rwy1":"09","lat1":44.31794400,"lon1":23.87294400,"rwy2":"27","lat2":44.31836100,"lon2":23.90413900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+}

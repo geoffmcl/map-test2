@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVSO","name":"Mayor Buenaventura Vivas","lat":7.5651115,"lon":-72.035125,"rwys":1,"ils":0,"index":1759335,"path":"w080n00/w073n07"
+,"runways":[
+{"len_m":3045,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":7.56991700,"lon1":-72.04805600,"rwy2":"29","lat2":7.56030600,"lon2":-72.02219400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.3,"desc":"VIVAS TWR"}
+]
+}

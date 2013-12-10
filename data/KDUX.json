@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDUX","name":"Moore Co","lat":35.858268,"lon":-102.0129965,"rwys":2,"ils":0,"index":1269619,"path":"w110n30/w103n35"
+,"runways":[
+{"len_m":1667,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"01","lat1":35.85013900,"lon1":-102.01696100,"rwy2":"19","lat2":35.86396100,"lon2":-102.00970300},
+{"len_m":944,"wid_m":18.29,"hdg":151,"surf":"Asphalt","rwy1":"14","lat1":35.86322800,"lon1":-102.01515000,"rwy2":"32","lat2":35.85574400,"lon2":-102.01017200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PABA","name":"Barter Island Kaktovik","lat":70.14145525,"lon":-143.59163509,"rwys":2,"ils":0,"index":600072,"path":"w150n70/w144n70"
+,"runways":[
+{"len_m":1468,"wid_m":30.48,"hdg":92,"surf":"Gravel","rwy1":"06","lat1":70.13432800,"lon1":-143.60119400,"rwy2":"24","lat2":70.13365000,"lon2":-143.56253900},
+{"len_m":1468,"wid_m":29.87,"hdg":92,"surf":"Gravel","rwy1":"07","lat1":70.14058573,"lon1":-143.60017200,"rwy2":"25","lat2":70.13990773,"lon2":-143.56151700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS"},
+{"type":"CTAF","freq":126.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"07/25 REIL"},
+{"type":"TWR","freq":122,"desc":"DeadHorse FSS"},
+{"type":"APP","freq":120.6,"desc":"Anchorage ARTCC"}
+]
+}

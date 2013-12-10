@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESCM","name":"Uppsala","lat":59.89014400,"lon":017.59777600,"rwys":2,"ils":0,"index":3237242,"path":"e010n50/e017n59"
+,"runways":[
+{"len_m":2009,"wid_m":39.93,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":59.89478100,"lon1":17.57000000,"rwy2":"26","lat2":59.89950600,"lon2":17.60464400},
+{"len_m":1904,"wid_m":39.93,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":59.89313900,"lon1":17.58326100,"rwy2":"21","lat2":59.90744700,"lon2":17.60189700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":130.4,"desc":"APP"},
+{"type":"APP","freq":134.2,"desc":"STOCKHOLM TCA"}
+]
+}

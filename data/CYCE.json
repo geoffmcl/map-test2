@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYCE","name":"Huron Airpark","lat":43.28423625,"lon":-81.507014,"rwys":2,"ils":0,"index":1614161,"path":"w090n40/w082n43"
+,"runways":[
+{"len_m":1533,"wid_m":30.48,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":43.28305600,"lon1":-81.51805600,"rwy2":"28","lat2":43.28277800,"lon2":-81.49916700},
+{"len_m":1342,"wid_m":45.72,"hdg":150,"surf":"Asphalt","rwy1":"16","lat1":43.29083300,"lon1":-81.50944400,"rwy2":"34","lat2":43.28027800,"lon2":-81.50138900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

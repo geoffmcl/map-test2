@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCDR","name":"Chadron Muni","lat":42.82898307,"lon":-103.09710204,"rwys":2,"ils":0,"index":1253683,"path":"w110n40/w104n42"
+,"runways":[
+{"len_m":1829,"wid_m":29.87,"hdg":35,"surf":"Concrete","rwy1":"02","lat1":42.83298364,"lon1":-103.10034772,"rwy2":"20","lat2":42.84645936,"lon2":-103.08747941},
+{"len_m":1341,"wid_m":22.86,"hdg":124,"surf":"Concrete","rwy1":"11","lat1":42.83808007,"lon1":-103.10417666,"rwy2":"29","lat2":42.83115243,"lon2":-103.09073497}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.05,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSRB","name":"Upper Cumberland Rgnl","lat":36.055919,"lon":-85.5307235,"rwys":1,"ils":0,"index":1548161,"path":"w090n30/w086n36"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":36.04914400,"lon1":-85.53650000,"rwy2":"22","lat2":36.06269400,"lon2":-85.52494700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

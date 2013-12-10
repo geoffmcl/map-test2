@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAWG","name":"Rio Gallegos","lat":-51.6088735,"lon":-69.312636,"rwys":1,"ils":1,"index":1804698,"path":"w070s60/w070s52"
+,"runways":[
+{"len_m":3547,"wid_m":45.11,"hdg":85,"surf":"Concrete","rwy1":"07","lat1":-51.61010000,"lon1":-69.33816400,"rwy2":"25","lat2":-51.60764700,"lon2":-69.28710800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.1,"desc":"APP/TWR"},
+{"type":"APP","freq":124.7,"desc":"CON"}
+]
+}

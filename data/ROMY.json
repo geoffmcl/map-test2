@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ROMY","name":"Miyako","lat":24.77994604,"lon":125.29802522,"rwys":1,"ils":1,"index":5004465,"path":"e120n20/e125n24"
+,"runways":[
+{"len_m":2000,"wid_m":46.02,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":24.77573600,"lon1":125.28900300,"rwy2":"22","lat2":24.78990600,"lon2":125.30126700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"Miyako Tower"},
+{"type":"TWR","freq":126.2,"desc":"Miyako Tower"},
+{"type":"APP","freq":120.3,"desc":"Shimoji Approach"},
+{"type":"APP","freq":121.2,"desc":"Shimoji Approach"},
+{"type":"APP","freq":125,"desc":"Shimoji Approach"}
+]
+}

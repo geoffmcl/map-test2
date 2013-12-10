@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YABA","name":"Albany","lat":-34.94463296,"lon":117.80442935,"rwys":2,"ils":1,"index":4869571,"path":"e110s40/e117s35"
+,"runways":[
+{"len_m":1796,"wid_m":29.87,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":-34.94016673,"lon1":117.80442621,"rwy2":"32","lat2":-34.95157227,"lon2":117.81838926},
+{"len_m":1093,"wid_m":29.87,"hdg":45,"surf":"Transparent","rwy1":"05","lat1":-34.94700323,"lon1":117.80656781,"rwy2":"23","lat2":-34.94003577,"lon2":117.81503803}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"ALBANY GROUND UNIC"},
+{"type":"CTAF","freq":123.9,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"TWR","freq":121.1,"desc":"ALBANY TWR"}
+]
+}

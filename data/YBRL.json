@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBRL","name":"Borroloola","lat":-16.07157852,"lon":136.30591601,"rwys":1,"ils":0,"index":5182074,"path":"e130s20/e136s17"
+,"runways":[
+{"len_m":1296,"wid_m":17.98,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":-16.08105952,"lon1":136.30037848,"rwy2":"20","lat2":-16.07029755,"lon2":136.30517878}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"BORROLOOLA MULT"},
+{"type":"TWR","freq":134.4,"desc":"BRISBANE CNTR"}
+]
+}

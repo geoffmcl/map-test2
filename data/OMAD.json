@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OMAD","name":"Bateen","lat":24.42354161,"lon":054.45788035,"rwys":1,"ils":0,"index":3841177,"path":"e050n20/e054n24"
+,"runways":[
+{"len_m":3200,"wid_m":46.02,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":24.43743119,"lon1":54.44569242,"rwy2":"31","lat2":24.41976238,"lon2":54.47066977}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":124.4,"desc":"ABU DHABI APP"},
+{"type":"APP","freq":128.1,"desc":"ABU DHABI APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FBKE","name":"Kasane","lat":-17.8328735,"lon":25.1623985,"rwys":1,"ils":0,"index":3363337,"path":"e020s20/e025s18"
+,"runways":[
+{"len_m":2007,"wid_m":29.87,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":-17.83583900,"lon1":25.15345000,"rwy2":"26","lat2":-17.82990800,"lon2":25.17134700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":127.2,"desc":"APP"}
+]
+}

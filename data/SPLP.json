@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SPLP","name":"Las Palmas","lat":-12.1607085,"lon":-76.9989405,"rwys":1,"ils":0,"index":1692528,"path":"w080s20/w077s13"
+,"runways":[
+{"len_m":2444,"wid_m":45.72,"hdg":18,"surf":"Asphalt","rwy1":"02","lat1":-12.17121400,"lon1":-77.00241400,"rwy2":"20","lat2":-12.15020300,"lon2":-76.99546700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.3,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+}

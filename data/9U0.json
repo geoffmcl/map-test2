@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9U0","name":"Turner","lat":48.85426225,"lon":-108.41179325,"rwys":2,"ils":0,"index":1172146,"path":"w110n40/w109n48"
+,"runways":[
+{"len_m":1096,"wid_m":18.29,"hdg":80,"surf":"Asphalt","rwy1":"07","lat1":48.85333300,"lon1":-108.41638900,"rwy2":"25","lat2":48.85500000,"lon2":-108.40166100},
+{"len_m":816,"wid_m":27.43,"hdg":127,"surf":"Turf/grass","rwy1":"10","lat1":48.85656900,"lon1":-108.41900600,"rwy2":"28","lat2":48.85214700,"lon2":-108.41011700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

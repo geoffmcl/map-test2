@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUKI","name":"Ukiah Muni","lat":39.125957,"lon":-123.200856,"rwys":1,"ils":1,"index":925771,"path":"w130n30/w124n39"
+,"runways":[
+{"len_m":1345,"wid_m":45.72,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":39.13189200,"lon1":-123.20243100,"rwy2":"33","lat2":39.12002200,"lon2":-123.19928100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

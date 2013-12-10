@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RK52","name":"G 501","lat":37.286827,"lon":127.22665475,"rwys":2,"ils":0,"index":5038032,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":578,"wid_m":22.86,"hdg":15,"surf":"Asphalt","rwy1":"02R","lat1":37.28241700,"lon1":127.22571900,"rwy2":"20L","lat2":37.28744400,"lon2":127.22745000},
+{"len_m":198,"wid_m":22.86,"hdg":15,"surf":"Asphalt","rwy1":"02L","lat1":37.28786100,"lon1":127.22641900,"rwy2":"20R","lat2":37.28958600,"lon2":127.22703100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"YONGIN TWR"}
+]
+}

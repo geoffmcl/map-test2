@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTOR","name":"Torrington Muni","lat":42.06302819,"lon":-104.15920239,"rwys":2,"ils":0,"index":1237251,"path":"w110n40/w105n42"
+,"runways":[
+{"len_m":1736,"wid_m":22.86,"hdg":115,"surf":"Asphalt","rwy1":"10","lat1":42.06716176,"lon1":-104.16395900,"rwy2":"28","lat2":42.06042724,"lon2":-104.14502578},
+{"len_m":915,"wid_m":17.98,"hdg":28,"surf":"Asphalt","rwy1":"02","lat1":42.06231200,"lon1":-104.15193865,"rwy2":"20","lat2":42.06955200,"lon2":-104.14665800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

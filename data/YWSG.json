@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWSG","name":"Watts Bridge","lat":-27.09613457,"lon":152.45971355,"rwys":3,"ils":0,"index":5443513,"path":"e150s30/e152s28"
+,"runways":[
+{"len_m":969,"wid_m":42.98,"hdg":128,"surf":"Turf/grass","rwy1":"12","lat1":-27.09406872,"lon1":152.45925168,"rwy2":"30","lat2":-27.09956665,"lon2":152.46685099},
+{"len_m":828,"wid_m":49.99,"hdg":129,"surf":"Turf/grass","rwy1":"12L","lat1":-27.09414479,"lon1":152.46102103,"rwy2":"30R","lat2":-27.09888510,"lon2":152.46747838},
+{"len_m":772,"wid_m":49.99,"hdg":40,"surf":"Turf/grass","rwy1":"04","lat1":-27.09942601,"lon1":152.45463761,"rwy2":"22","lat2":-27.09416364,"lon2":152.45974002}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":129,"desc":"YWSG MULT"},
+{"type":"CTAF","freq":127.3,"desc":"YWSG UNIC"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTUJ","name":"Surin","lat":14.86610700,"lon":103.49987000,"rwys":1,"ils":0,"index":4643379,"path":"e100n10/e103n14"
+,"runways":[
+{"len_m":1541,"wid_m":35.05,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":14.86135800,"lon1":103.49731900,"rwy2":"19","lat2":14.87516900,"lon2":103.49919200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"BURI RAM APP"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAJ","name":"Oguzeli","lat":36.9473495,"lon":37.47806425,"rwys":2,"ils":0,"index":3563449,"path":"e030n30/e037n36"
+,"runways":[
+{"len_m":2998,"wid_m":30.48,"hdg":104,"surf":"Concrete","rwy1":"10R","lat1":36.95008100,"lon1":37.46154700,"rwy2":"28L","lat2":36.94309200,"lon2":37.49406900},
+{"len_m":2999,"wid_m":45.11,"hdg":104,"surf":"Concrete","rwy1":"10L","lat1":36.95160600,"lon1":37.46205800,"rwy2":"28R","lat2":36.94461900,"lon2":37.49458300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":121.9,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"}
+]
+}

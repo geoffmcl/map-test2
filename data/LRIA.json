@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRIA","name":"Iasi","lat":47.17849,"lon":27.620632,"rwys":1,"ils":1,"index":3400266,"path":"e020n40/e027n47"
+,"runways":[
+{"len_m":1780,"wid_m":29.87,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":47.18571100,"lon1":27.61555600,"rwy2":"33","lat2":47.17126900,"lon2":27.62570800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"},
+{"type":"APP","freq":118.8,"desc":"PRECISION"}
+]
+}

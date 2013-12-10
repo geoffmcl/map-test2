@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHOU","name":"William P Hobby","lat":29.64533765,"lon":-095.28798033,"rwys":4,"ils":2,"index":1383914,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":2317,"wid_m":46.02,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":29.63911164,"lon1":-95.28532221,"rwy2":"22","lat2":29.65416014,"lon2":-95.26871231},
+{"len_m":2317,"wid_m":46.02,"hdg":133,"surf":"Asphalt","rwy1":"12R","lat1":29.65093639,"lon1":-95.28551086,"rwy2":"30L","lat2":29.63642572,"lon2":-95.26828452},
+{"len_m":1828,"wid_m":46.02,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":29.65236294,"lon1":-95.28466638,"rwy2":"35","lat2":29.63586794,"lon2":-95.28431792},
+{"len_m":1569,"wid_m":29.87,"hdg":133,"surf":"Concrete","rwy1":"12L","lat1":29.65260881,"lon1":-95.28387122,"rwy2":"30R","lat2":29.64278394,"lon2":-95.27220258}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"HOBBY TWR"},
+{"type":"TWR","freq":124.6,"desc":"HOBBY TWR"},
+{"type":"APP","freq":120.05,"desc":"HOUSTON APP"},
+{"type":"APP","freq":124.35,"desc":"HOUSTON APP"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP"},
+{"type":"DEP","freq":119.7,"desc":"HOUSTON DEP"},
+{"type":"DEP","freq":123.8,"desc":"HOUSTON DEP"},
+{"type":"DEP","freq":134.45,"desc":"HOUSTON DEP"}
+]
+}

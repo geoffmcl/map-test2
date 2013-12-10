@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLGC","name":"Lagrange Callaway","lat":33.0089435,"lon":-85.072643,"rwys":2,"ils":1,"index":1547971,"path":"w090n30/w086n33"
+,"runways":[
+{"len_m":1706,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":33.01193300,"lon1":-85.07916100,"rwy2":"31","lat2":33.00273300,"lon2":-85.06451900},
+{"len_m":1523,"wid_m":30.48,"hdg":24,"surf":"Asphalt","rwy1":"03","lat1":33.00429700,"lon1":-85.07681400,"rwy2":"21","lat2":33.01681100,"lon2":-85.07007800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"CLD","freq":120.45,"desc":"CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":126.55,"desc":"ATLANTA APP/DEP"}
+]
+}

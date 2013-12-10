@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJAC","name":"Jackson Hole","lat":43.60790165,"lon":-110.74221227,"rwys":1,"ils":1,"index":1139041,"path":"w120n40/w111n43"
+,"runways":[
+{"len_m":1914,"wid_m":46.02,"hdg":19,"surf":"Asphalt","rwy1":"01","lat1":43.59923409,"lon1":-110.74171232,"rwy2":"19","lat2":43.61547038,"lon2":-110.73377183}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.02,"hdg":-110,"surf":"Concrete","lat1":43.60505651,"lon1":-110.73484504},
+{"rwy1":"H2","len_m":14,"wid_m":14.02,"hdg":-110,"surf":"Concrete","lat1":43.60588152,"lon1":-110.73499001}
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"ATIS","freq":135.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.07,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":124.55,"desc":"GND"},
+{"type":"TWR","freq":118.07,"desc":"TWR"}
+]
+}

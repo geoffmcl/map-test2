@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SACE","name":"Cordoba Escuela De Aviacion Militar","lat":-31.447062865,"lon":-64.277569225,"rwys":2,"ils":0,"index":1887906,"path":"w070s40/w065s32"
+,"runways":[
+{"len_m":1906,"wid_m":47.85,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":-31.45315810,"lon1":-64.28570335,"rwy2":"19","lat2":-31.43639773,"lon2":-64.28120436},
+{"len_m":1858,"wid_m":45.11,"hdg":66,"surf":"Dirt","rwy1":"07","lat1":-31.45273747,"lon1":-64.28062685,"rwy2":"25","lat2":-31.44595816,"lon2":-64.26274233}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.6,"desc":"ESCUELA TWR"}
+]
+}

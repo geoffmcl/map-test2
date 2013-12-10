@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLIC","name":"Limon Muni","lat":39.2747875,"lon":-103.6658735,"rwys":1,"ils":0,"index":1253457,"path":"w110n30/w104n39"
+,"runways":[
+{"len_m":1432,"wid_m":18.29,"hdg":169,"surf":"Concrete","rwy1":"16","lat1":39.28113100,"lon1":-103.66737200,"rwy2":"34","lat2":39.26844400,"lon2":-103.66437500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

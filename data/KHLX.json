@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHLX","name":"Twin County","lat":36.766114,"lon":-80.823567,"rwys":1,"ils":0,"index":1630128,"path":"w090n30/w081n36"
+,"runways":[
+{"len_m":1281,"wid_m":22.86,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":36.76042800,"lon1":-80.82481300,"rwy2":"19","lat2":36.77180000,"lon2":-80.82232100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126,"desc":"ROANOKE APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KVHN","name":"Culberson Co","lat":31.05769925,"lon":-104.78376,"rwys":2,"ils":0,"index":1236544,"path":"w110n30/w105n31"
+,"runways":[
+{"len_m":1828,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":31.05419200,"lon1":-104.79125300,"rwy2":"21","lat2":31.06594700,"lon2":-104.77781700},
+{"len_m":1631,"wid_m":22.86,"hdg":84,"surf":"Asphalt","rwy1":"07","lat1":31.05461400,"lon1":-104.79148900,"rwy2":"25","lat2":31.05604400,"lon2":-104.77448100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":135.87,"desc":"ALBUQUERQUE CNTR"}
+]
+}

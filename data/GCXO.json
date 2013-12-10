@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GCXO","name":"Tenerife Norte - Los Rodeos","lat":28.48568554,"lon":-016.34197110,"rwys":1,"ils":2,"index":2678170,"path":"w020n20/w017n28"
+,"runways":[
+{"len_m":3406,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":28.48805922,"lon1":-16.35782449,"rwy2":"30","lat2":28.47725278,"lon2":-16.32525684}
+]
+,"helipads":[
+{"rwy1":"H29","len_m":17,"wid_m":15.85,"hdg":-16,"surf":"Concrete","lat1":28.48421556,"lon1":-16.35225337},
+{"rwy1":"H30","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48410931,"lon1":-16.35192554},
+{"rwy1":"H31","len_m":17,"wid_m":17.98,"hdg":-16,"surf":"Concrete","lat1":28.48400683,"lon1":-16.35160094},
+{"rwy1":"H33","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48380027,"lon1":-16.35094490},
+{"rwy1":"H34","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48369493,"lon1":-16.35062168},
+{"rwy1":"H35","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48359453,"lon1":-16.35029783},
+{"rwy1":"H36","len_m":17,"wid_m":15.85,"hdg":-16,"surf":"Concrete","lat1":28.48313148,"lon1":-16.35048308},
+{"rwy1":"H37","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48323755,"lon1":-16.35080814},
+{"rwy1":"H38","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48333457,"lon1":-16.35113277},
+{"rwy1":"H39","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48343729,"lon1":-16.35146065},
+{"rwy1":"H40","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48354001,"lon1":-16.35178366},
+{"rwy1":"H41","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48364559,"lon1":-16.35210992},
+{"rwy1":"H42","len_m":17,"wid_m":17.07,"hdg":-16,"surf":"Concrete","lat1":28.48374974,"lon1":-16.35243780}
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"APP"}
+]
+}

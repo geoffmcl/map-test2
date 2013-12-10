@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O26","name":"Lone Pine","lat":36.58885625,"lon":-118.0564055,"rwys":2,"ils":0,"index":1007523,"path":"w120n30/w119n36"
+,"runways":[
+{"len_m":1232,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":36.59388700,"lon1":-118.05194000,"rwy2":"34","lat2":36.58277900,"lon2":-118.05194000},
+{"len_m":731,"wid_m":30.48,"hdg":143,"surf":"Dirt","rwy1":"13","lat1":36.59203000,"lon1":-118.06330100,"rwy2":"31","lat2":36.58672900,"lon2":-118.05844100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

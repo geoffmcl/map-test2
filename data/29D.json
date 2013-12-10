@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"29D","name":"Grove City","lat":41.1460435,"lon":-80.167758,"rwys":1,"ils":0,"index":1630411,"path":"w090n40/w081n41"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":41.14628100,"lon1":-80.17592200,"rwy2":"28","lat2":41.14580600,"lon2":-80.15959400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.95,"desc":"YOUNGSTOWN APP/DEP"}
+]
+}

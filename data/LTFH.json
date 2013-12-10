@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTFH","name":"Carsamba","lat":41.2544805,"lon":36.567103,"rwys":1,"ils":1,"index":3547346,"path":"e030n40/e036n41"
+,"runways":[
+{"len_m":2987,"wid_m":45.11,"hdg":133,"surf":"Concrete","rwy1":"13","lat1":41.26374200,"lon1":36.55417500,"rwy2":"31","lat2":41.24521900,"lon2":36.58003100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.35,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.27,"desc":"TWR"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"APP","freq":118.22,"desc":"APP"},
+{"type":"APP","freq":118.17,"desc":"APP"}
+]
+}

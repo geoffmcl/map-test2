@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGKK","name":"London Gatwick","lat":51.15422185,"lon":-000.18405755,"rwys":2,"ils":1,"index":2941771,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":3160,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":51.14510986,"lon1":-0.21231370,"rwy2":"26L","lat2":51.15119014,"lon2":-0.16819230},
+{"len_m":2560,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08L","lat1":51.14691084,"lon1":-0.21256968,"rwy2":"26R","lat2":51.15180116,"lon2":-0.17681432}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.52,"desc":"Gatwick Information"},
+{"type":"CLD","freq":121.95,"desc":"Gatwick Delivery"},
+{"type":"GND","freq":121.8,"desc":"Gatwick Ground"},
+{"type":"TWR","freq":124.22,"desc":"Gatwick Tower"},
+{"type":"APP","freq":126.82,"desc":"Gatwick Director"},
+{"type":"APP","freq":118.95,"desc":"Gatwick Director"},
+{"type":"APP","freq":129.02,"desc":"Gatwick Director"}
+]
+}

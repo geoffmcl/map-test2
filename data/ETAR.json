@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETAR","name":"Ramstein Ab","lat":49.44398000,"lon":007.59036400,"rwys":2,"ils":3,"index":3072730,"path":"e000n40/e007n49"
+,"runways":[
+{"len_m":3199,"wid_m":45.11,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":49.43256100,"lon1":7.57882800,"rwy2":"26","lat2":49.43640800,"lon2":7.62254400},
+{"len_m":2817,"wid_m":45.11,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":49.43610000,"lon1":7.58092500,"rwy2":"27","lat2":49.43772200,"lon2":7.61969700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.77,"desc":"RAMSTEIN GND"},
+{"type":"TWR","freq":122.1,"desc":"RAMSTEIN TWR"},
+{"type":"TWR","freq":123.55,"desc":"RAMSTEIN TWR"}
+]
+}

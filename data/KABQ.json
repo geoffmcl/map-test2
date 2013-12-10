@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KABQ","name":"Albuquerque International Sunport","lat":35.04871100,"lon":-106.60637500,"rwys":4,"ils":2,"index":1204033,"path":"w110n30/w107n35"
+,"runways":[
+{"len_m":4202,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":35.04435300,"lon1":-106.62158900,"rwy2":"26","lat2":35.04406400,"lon2":-106.57552500},
+{"len_m":3047,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"03","lat1":35.02224700,"lon1":-106.63060300,"rwy2":"21","lat2":35.04174200,"lon2":-106.60707200},
+{"len_m":3047,"wid_m":45.72,"hdg":183,"surf":"Asphalt","rwy1":"17","lat1":35.05773100,"lon1":-106.61100000,"rwy2":"35","lat2":35.03031100,"lon2":-106.61296700},
+{"len_m":1828,"wid_m":45.72,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":35.04353300,"lon1":-106.62075300,"rwy2":"30","lat2":35.03319400,"lon2":-106.60514700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.77,"desc":"TWR"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP/DEP"},
+{"type":"APP","freq":124.4,"desc":"APP/DEP"},
+{"type":"APP","freq":127.4,"desc":"APP/DEP"},
+{"type":"APP","freq":134.8,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFBC","name":"Cazaux","lat":44.534018,"lon":-1.125346,"rwys":1,"ils":2,"index":2924963,"path":"w010n40/w002n44"
+,"runways":[
+{"len_m":2398,"wid_m":45.11,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":44.52806900,"lon1":-1.13793600,"rwy2":"24","lat2":44.53996700,"lon2":-1.11275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+}

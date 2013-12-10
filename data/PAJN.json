@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAJN","name":"Juneau Intl","lat":58.35883300,"lon":-134.57675200,"rwys":1,"ils":1,"index":746769,"path":"w140n50/w135n58"
+,"runways":[
+{"len_m":2577,"wid_m":45.72,"hdg":104,"surf":"Asphalt","rwy1":"08","lat1":58.35793100,"lon1":-134.59755600,"rwy2":"26","lat2":58.35199700,"lon2":-134.55500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.2,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+}

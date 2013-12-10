@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OISR","name":"Lamerd","lat":27.3730865,"lon":53.1885335,"rwys":1,"ils":0,"index":3824976,"path":"e050n20/e053n27"
+,"runways":[
+{"len_m":3058,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":27.37868100,"lon1":53.17440300,"rwy2":"29","lat2":27.36749200,"lon2":53.20266400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"INFO"},
+{"type":"TWR","freq":122.65,"desc":"INFO"}
+]
+}

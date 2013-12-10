@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSOF","name":"Luogang","lat":31.780018,"lon":117.2987135,"rwys":1,"ils":2,"index":4873841,"path":"e110n30/e117n31"
+,"runways":[
+{"len_m":3001,"wid_m":49.99,"hdg":135,"surf":"Concrete","rwy1":"14","lat1":31.78963600,"lon1":117.28756900,"rwy2":"32","lat2":31.77040000,"lon2":117.30985800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.85,"desc":"ATIS"},
+{"type":"TWR","freq":118.75,"desc":"HEFEI TWR"},
+{"type":"TWR","freq":118.1,"desc":"HEFEI TWR"}
+]
+}

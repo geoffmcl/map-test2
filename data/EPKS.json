@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPKS","name":"Krzesiny","lat":52.33108675,"lon":16.96488825,"rwys":2,"ils":0,"index":3220371,"path":"e010n50/e016n52"
+,"runways":[
+{"len_m":2502,"wid_m":59.74,"hdg":117,"surf":"Concrete","rwy1":"12","lat1":52.33697500,"lon1":16.95020300,"rwy2":"30","lat2":52.32646400,"lon2":16.98265000},
+{"len_m":1782,"wid_m":56.39,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":52.32838600,"lon1":16.95072200,"rwy2":"25","lat2":52.33252200,"lon2":16.97597800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.5,"desc":"INFO"}
+]
+}

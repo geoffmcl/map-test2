@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMPR","name":"Licenciado Gustavo Diaz Ordaz Intl","lat":20.68004400,"lon":-105.24870300,"rwys":1,"ils":0,"index":1219502,"path":"w110n20/w106n20"
+,"runways":[
+{"len_m":3110,"wid_m":45.11,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":20.67052800,"lon1":-105.26511100,"rwy2":"22","lat2":20.68961100,"lon2":-105.24319400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.5,"desc":"VALLARTA ATIS"},
+{"type":"TWR","freq":118.5,"desc":"VALLARTA TWR"},
+{"type":"APP","freq":121.3,"desc":"VALLARTA APP"},
+{"type":"APP","freq":119,"desc":"VALLARTA APP"}
+]
+}

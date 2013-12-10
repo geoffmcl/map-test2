@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YHEC","name":"Heck Field","lat":-27.76687849,"lon":153.33981435,"rwys":2,"ils":0,"index":5459849,"path":"e150s30/e153s28"
+,"runways":[
+{"len_m":717,"wid_m":11.89,"hdg":109,"surf":"Transparent","rwy1":"10","lat1":-27.76581957,"lon1":153.33368944,"rwy2":"28","lat2":-27.76801472,"lon2":153.34054259},
+{"len_m":595,"wid_m":10.06,"hdg":9,"surf":"Transparent","rwy1":"18","lat1":-27.76976097,"lon1":153.33900367,"rwy2":"36","lat2":-27.76446192,"lon2":153.34000679}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.1,"desc":"YJCW TWR"}
+]
+}

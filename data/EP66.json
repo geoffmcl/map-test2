@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EP66","name":"Bezmiechowa","lat":49.51283119,"lon":022.40626093,"rwys":2,"ils":0,"index":3318497,"path":"e020n40/e022n49"
+,"runways":[
+{"len_m":630,"wid_m":99.97,"hdg":10,"surf":"Turf/grass","rwy1":"01","lat1":49.51070839,"lon1":22.40687205,"rwy2":"19","lat2":49.51629175,"lon2":22.40838837},
+{"len_m":617,"wid_m":60.05,"hdg":20,"surf":"Turf/grass","rwy1":"02","lat1":49.51645333,"lon1":22.40761605,"rwy2":"20","lat2":49.52166950,"lon2":22.41054049}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.8,"desc":"KWADRAT"}
+]
+}

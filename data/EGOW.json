@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGOW","name":"Raf Woodvale","lat":53.58299812,"lon":-003.05234831,"rwys":3,"ils":0,"index":2892771,"path":"w010n50/w004n53"
+,"runways":[
+{"len_m":1651,"wid_m":46.02,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":53.57530612,"lon1":-3.06387963,"rwy2":"21","lat2":53.58811448,"lon2":-3.05129911},
+{"len_m":1038,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":53.57756611,"lon1":-3.06662188,"rwy2":"26","lat2":53.57911962,"lon2":-3.05116860},
+{"len_m":885,"wid_m":46.02,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":53.58674864,"lon1":-3.05686586,"rwy2":"33","lat2":53.57930414,"lon2":-3.05213260}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121,"desc":"Woodvale Tower"},
+{"type":"APP","freq":119.75,"desc":"Woodvale Approach"}
+]
+}

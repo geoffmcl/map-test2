@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M43","name":"Prentiss Jefferson Davis Co","lat":31.595304,"lon":-89.906432,"rwys":1,"ils":0,"index":1482336,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":975,"wid_m":18.29,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":31.59768900,"lon1":-89.91075000,"rwy2":"30","lat2":31.59291900,"lon2":-89.90211400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTUL","name":"Tulsa Intl","lat":36.19966839,"lon":-095.88736362,"rwys":3,"ils":3,"index":1384328,"path":"w100n30/w096n36"
+,"runways":[
+{"len_m":3047,"wid_m":60.96,"hdg":183,"surf":"Concrete","rwy1":"18L","lat1":36.21394484,"lon1":-95.88130788,"rwy2":"36R","lat2":36.18651666,"lon2":-95.88310315},
+{"len_m":1859,"wid_m":46.02,"hdg":183,"surf":"Asphalt","rwy1":"18R","lat1":36.20722378,"lon1":-95.89908586,"rwy2":"36L","lat2":36.19048822,"lon2":-95.90019814},
+{"len_m":2248,"wid_m":46.02,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":36.19541111,"lon1":-95.89902435,"rwy2":"26","lat2":36.19561179,"lon2":-95.87402965}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.9,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":134.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP/DEP"}
+]
+}

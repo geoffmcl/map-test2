@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETAD","name":"Spangdahlem Ab","lat":49.976542,"lon":6.6985085,"rwys":1,"ils":2,"index":3056378,"path":"e000n40/e006n49"
+,"runways":[
+{"len_m":3050,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":49.96679200,"lon1":6.68356100,"rwy2":"23","lat2":49.98629200,"lon2":6.71345600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"APP","freq":129.47,"desc":"GCA"},
+{"type":"APP","freq":125.6,"desc":"LANGEN RADAR"}
+]
+}

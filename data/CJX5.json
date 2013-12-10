@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CJX5","name":"Souris Glenwood Industrial Air Park","lat":49.6315085,"lon":-100.20126125,"rwys":2,"ils":0,"index":1303275,"path":"w110n40/w101n49"
+,"runways":[
+{"len_m":899,"wid_m":30.48,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":49.63666400,"lon1":-100.20333100,"rwy2":"32","lat2":49.62972200,"lon2":-100.19695000},
+{"len_m":792,"wid_m":24.38,"hdg":87,"surf":"Turf/grass","rwy1":"08","lat1":49.62966700,"lon1":-100.20786100,"rwy2":"26","lat2":49.62998100,"lon2":-100.19690300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"}
+]
+}

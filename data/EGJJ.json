@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGJJ","name":"Jersey","lat":49.20625292,"lon":-002.19559302,"rwys":1,"ils":2,"index":2908875,"path":"w010n40/w003n49"
+,"runways":[
+{"len_m":1709,"wid_m":46.02,"hdg":82,"surf":"Asphalt","rwy1":"09","lat1":49.20699471,"lon1":-2.20692947,"rwy2":"27","lat2":49.20893263,"lon2":-2.18365915}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.72,"desc":"Jersey Information"},
+{"type":"GND","freq":121.9,"desc":"Jersey Ground"},
+{"type":"TWR","freq":119.45,"desc":"Jersey Tower"},
+{"type":"APP","freq":120.3,"desc":"Jersey Approach"}
+]
+}

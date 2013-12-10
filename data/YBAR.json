@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBAR","name":"Barcaldine","lat":-23.56109026,"lon":145.30085699,"rwys":2,"ils":0,"index":5329049,"path":"e140s30/e145s24"
+,"runways":[
+{"len_m":1702,"wid_m":29.87,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":-23.57278564,"lon1":145.29989454,"rwy2":"19","lat2":-23.55803136,"lon2":145.30457106},
+{"len_m":487,"wid_m":28.96,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":-23.55917664,"lon1":145.30242868,"rwy2":"32","lat2":-23.56249965,"lon2":145.30555789}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"BARCALDINE MULT"},
+{"type":"CTAF","freq":122.1,"desc":"BRISBANE CENTRE MULT"}
+]
+}

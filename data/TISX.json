@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"TISX","name":"St Croix - Henry E Rohlsen","lat":17.69887868,"lon":-064.80417572,"rwys":1,"ils":1,"index":1891049,"path":"w070n10/w065n17"
+,"runways":[
+{"len_m":3041,"wid_m":46.02,"hdg":83,"surf":"Asphalt","rwy1":"10","lat1":17.70006100,"lon1":-64.81623300,"rwy2":"28","lat2":17.70295000,"lon2":-64.78771700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ATIS"},
+{"type":"CTAF","freq":118.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"ST CROIX TWR"},
+{"type":"APP","freq":128.65,"desc":"SAN JUAN CNTR"}
+]
+}

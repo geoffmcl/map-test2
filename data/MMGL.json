@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMGL","name":"Don Miguel Hidalgo Y Costilla Intl","lat":20.52501100,"lon":-103.30461100,"rwys":2,"ils":2,"index":1252261,"path":"w110n20/w104n20"
+,"runways":[
+{"len_m":4009,"wid_m":60.05,"hdg":113,"surf":"Concrete","rwy1":"10","lat1":20.52875000,"lon1":-103.32775000,"rwy2":"28","lat2":20.51401700,"lon2":-103.29263300},
+{"len_m":1832,"wid_m":28.65,"hdg":30,"surf":"Asphalt","rwy1":"02","lat1":20.52061700,"lon1":-103.31188300,"rwy2":"20","lat2":20.53491700,"lon2":-103.30303300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"GUADALAJARA TWR"},
+{"type":"APP","freq":119.3,"desc":"GUADALAJARA APP"},
+{"type":"APP","freq":120.8,"desc":"GUADALAJARA APP"}
+]
+}

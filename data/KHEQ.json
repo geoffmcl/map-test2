@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHEQ","name":"Holyoke","lat":40.5694305,"lon":-102.272689,"rwys":1,"ils":0,"index":1269922,"path":"w110n40/w103n40"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":40.57529400,"lon1":-102.27736100,"rwy2":"32","lat2":40.56356700,"lon2":-102.26801700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

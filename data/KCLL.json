@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCLL","name":"Easterwood Field","lat":30.59032141,"lon":-096.35890292,"rwys":3,"ils":1,"index":1367586,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":30.59663900,"lon1":-96.36285600,"rwy2":"34","lat2":30.57775600,"lon2":-96.35856400},
+{"len_m":1572,"wid_m":46.02,"hdg":108,"surf":"Asphalt","rwy1":"10","lat1":30.59147200,"lon1":-96.37279400,"rwy2":"28","lat2":30.58690600,"lon2":-96.35727500},
+{"len_m":1569,"wid_m":46.02,"hdg":49,"surf":"Concrete","rwy1":"04","lat1":30.58529700,"lon1":-96.37309200,"rwy2":"22","lat2":30.59444700,"lon2":-96.36060300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":128.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

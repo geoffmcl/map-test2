@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDMA","name":"Augsburg","lat":48.42408000,"lon":010.93587900,"rwys":2,"ils":1,"index":3121819,"path":"e010n40/e010n48"
+,"runways":[
+{"len_m":1278,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":48.42338600,"lon1":10.92355000,"rwy2":"25","lat2":48.42704700,"lon2":10.93993100},
+{"len_m":1014,"wid_m":30.48,"hdg":71,"surf":"Turf/grass","rwy1":"07L","lat1":48.42182800,"lon1":10.93031400,"rwy2":"25R","lat2":48.42471900,"lon2":10.94331400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"ATIS"},
+{"type":"TWR","freq":120.65,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":126.95,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":124.97,"desc":"TWR"},
+{"type":"APP","freq":128.25,"desc":"MUNCHEN RADAR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PADE","name":"Deering","lat":66.07139673,"lon":-162.76019074,"rwys":2,"ils":0,"index":288512,"path":"w170n60/w163n66"
+,"runways":[
+{"len_m":1015,"wid_m":22.86,"hdg":37,"surf":"Gravel","rwy1":"02","lat1":66.06518344,"lon1":-162.77410125,"rwy2":"20","lat2":66.07236856,"lon2":-162.76030780},
+{"len_m":814,"wid_m":22.86,"hdg":126,"surf":"Gravel","rwy1":"11","lat1":66.07169278,"lon1":-162.77407990,"rwy2":"29","lat2":66.06735222,"lon2":-162.75962133}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.5,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.2,"desc":"ANCHORAGE CNTR"}
+]
+}

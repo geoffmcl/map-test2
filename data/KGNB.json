@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGNB","name":"Granby Grand Co","lat":40.089708,"lon":-105.9172365,"rwys":1,"ils":0,"index":1220736,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":1553,"wid_m":21.34,"hdg":100,"surf":"Asphalt","rwy1":"09","lat1":40.09101900,"lon1":-105.92618100,"rwy2":"27","lat2":40.08839700,"lon2":-105.90829200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 1"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

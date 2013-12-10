@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LUKK","name":"Chisinau Intl","lat":46.93450500,"lon":028.92973700,"rwys":1,"ils":2,"index":3416635,"path":"e020n40/e028n46"
+,"runways":[
+{"len_m":3590,"wid_m":44.20,"hdg":88,"surf":"Concrete","rwy1":"08","lat1":46.92731700,"lon1":28.90736400,"rwy2":"26","lat2":46.92826900,"lon2":28.95448300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.7,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":125.9,"desc":"APP"}
+]
+}

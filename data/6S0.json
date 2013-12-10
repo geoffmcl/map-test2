@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"6S0","name":"Big Timber","lat":45.802847,"lon":-109.9819445,"rwys":2,"ils":0,"index":1155568,"path":"w110n40/w110n45"
+,"runways":[
+{"len_m":1634,"wid_m":22.86,"hdg":74,"surf":"Asphalt","rwy1":"06","lat1":45.80194400,"lon1":-109.99000000,"rwy2":"24","lat2":45.80583300,"lon2":-109.96972200},
+{"len_m":1219,"wid_m":30.48,"hdg":189,"surf":"Turf/grass","rwy1":"17","lat1":45.80722200,"lon1":-109.98277800,"rwy2":"35","lat2":45.79638900,"lon2":-109.98527800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

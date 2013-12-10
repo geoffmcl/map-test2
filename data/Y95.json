@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"Y95","name":"Hillman","lat":45.083371,"lon":-83.93803125,"rwys":2,"ils":0,"index":1581504,"path":"w090n40/w084n45"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":45.07948600,"lon1":-83.93937200,"rwy2":"22","lat2":45.08730600,"lon2":-83.93220300},
+{"len_m":868,"wid_m":45.72,"hdg":173,"surf":"Dirt","rwy1":"18","lat1":45.08722500,"lon1":-83.94094700,"rwy2":"36","lat2":45.07946700,"lon2":-83.93960300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

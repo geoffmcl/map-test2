@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DAUO","name":"Guemar","lat":33.51141725,"lon":6.77676875,"rwys":2,"ils":0,"index":3055331,"path":"e000n30/e006n33"
+,"runways":[
+{"len_m":3007,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":33.52750000,"lon1":6.76194400,"rwy2":"31","lat2":33.51000000,"lon2":6.78666700},
+{"len_m":1999,"wid_m":29.87,"hdg":18,"surf":"Asphalt","rwy1":"02","lat1":33.49551100,"lon1":6.77590600,"rwy2":"20","lat2":33.51265800,"lon2":6.78255800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"EL OUED TWR"}
+]
+}

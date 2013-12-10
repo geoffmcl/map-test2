@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZTG","name":"Tauranga","lat":-37.67346725,"lon":176.195858125,"rwys":4,"ils":0,"index":5836048,"path":"e170s40/e176s38"
+,"runways":[
+{"len_m":1824,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"07R","lat1":-37.67375000,"lon1":176.18805600,"rwy2":"25L","lat2":-37.67555600,"lon2":176.20861100},
+{"len_m":777,"wid_m":60.05,"hdg":96,"surf":"Dirt","rwy1":"07L","lat1":-37.67333300,"lon1":176.19513900,"rwy2":"25R","lat2":-37.67416700,"lon2":176.20388900},
+{"len_m":700,"wid_m":45.11,"hdg":183,"surf":"Dirt","rwy1":"16","lat1":-37.67107100,"lon1":176.19460400,"rwy2":"34","lat2":-37.67736400,"lon2":176.19405800},
+{"len_m":651,"wid_m":60.05,"hdg":52,"surf":"Dirt","rwy1":"04","lat1":-37.67305300,"lon1":176.18833900,"rwy2":"22","lat2":-37.66944400,"lon2":176.19416900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"TWR","freq":123.4,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"CHRISTCHURCH APP"},
+{"type":"APP","freq":123.8,"desc":"CHRISTCHURCH APP"}
+]
+}

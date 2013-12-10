@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTSS","name":"Songkhla Hat Yai Intl","lat":06.93853600,"lon":100.39376100,"rwys":1,"ils":1,"index":4593723,"path":"e100n00/e100n06"
+,"runways":[
+{"len_m":3045,"wid_m":45.11,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":6.93083300,"lon1":100.37930000,"rwy2":"26","lat2":6.93419400,"lon2":100.40665300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":126.7,"desc":"APP"}
+]
+}

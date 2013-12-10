@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAVQ","name":"Marana Rgnl","lat":32.40904925,"lon":-111.2183785,"rwys":2,"ils":0,"index":1121947,"path":"w120n30/w112n32"
+,"runways":[
+{"len_m":2103,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.41766900,"lon1":-111.22621100,"rwy2":"30","lat2":32.40414700,"lon2":-111.21053300},
+{"len_m":1186,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":32.40343900,"lon1":-111.22288100,"rwy2":"21","lat2":32.41094200,"lon2":-111.21388900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.4,"desc":"TUCSON APP/DEP"}
+]
+}

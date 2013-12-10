@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTNX","name":"Tonopah Test Range","lat":37.7988375,"lon":-116.780746,"rwys":1,"ils":0,"index":1040368,"path":"w120n30/w117n37"
+,"runways":[
+{"len_m":3658,"wid_m":45.72,"hdg":157,"surf":"Concrete","rwy1":"14","lat1":37.81403100,"lon1":-116.78879200,"rwy2":"32","lat2":37.78364400,"lon2":-116.77270000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.1,"desc":"SILVERBOW TWR"},
+{"type":"APP","freq":119.35,"desc":"NELLIS APP"}
+]
+}

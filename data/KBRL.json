@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBRL","name":"Southeast Iowa Rgnl","lat":40.7836855,"lon":-91.125716,"rwys":2,"ils":1,"index":1450163,"path":"w100n40/w092n40"
+,"runways":[
+{"len_m":2042,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":40.78878100,"lon1":-91.12394400,"rwy2":"36","lat2":40.77038900,"lon2":-91.12375300},
+{"len_m":1630,"wid_m":30.48,"hdg":119,"surf":"Concrete","rwy1":"12","lat1":40.79140800,"lon1":-91.13598600,"rwy2":"30","lat2":40.78416400,"lon2":-91.11918100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

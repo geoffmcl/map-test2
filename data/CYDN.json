@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYDN","name":"Dauphin Barker","lat":51.1039488333333,"lon":-100.051848166667,"rwys":3,"ils":0,"index":1303363,"path":"w110n50/w101n51"
+,"runways":[
+{"len_m":1503,"wid_m":45.72,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":51.10722500,"lon1":-100.05805000,"rwy2":"32","lat2":51.09555300,"lon2":-100.04723100},
+{"len_m":816,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":51.10666700,"lon1":-100.05833100,"rwy2":"26","lat2":51.10666700,"lon2":-100.04666900},
+{"len_m":609,"wid_m":18.29,"hdg":28,"surf":"Gravel","rwy1":"02","lat1":51.10138900,"lon1":-100.05250000,"rwy2":"20","lat2":51.10619200,"lon2":-100.04830800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"AWOS"},
+{"type":"TWR","freq":122.3,"desc":"MF WINNIPEG RDO"}
+]
+}

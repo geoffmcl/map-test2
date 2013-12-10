@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DFFD","name":"Ouagadougou","lat":12.352189,"lon":-1.5116055,"rwys":2,"ils":1,"index":2922899,"path":"w010n10/w002n12"
+,"runways":[
+{"len_m":3027,"wid_m":45.11,"hdg":33,"surf":"Asphalt","rwy1":"04L","lat1":12.34167800,"lon1":-1.52024700,"rwy2":"22R","lat2":12.36443900,"lon2":-1.50478600},
+{"len_m":1910,"wid_m":29.87,"hdg":35,"surf":"Gravel","rwy1":"04R","lat1":12.34428100,"lon1":-1.51578300,"rwy2":"22L","lat2":12.35835800,"lon2":-1.50560600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"AG VOICE OUAGA RDO"},
+{"type":"TWR","freq":118.1,"desc":"OUAGA TWR"},
+{"type":"APP","freq":118.1,"desc":"OUAGA APP"}
+]
+}

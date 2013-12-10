@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MPDA","name":"Enrique Malek Intl","lat":8.3910015,"lon":-82.434978,"rwys":1,"ils":0,"index":1595548,"path":"w090n00/w083n08"
+,"runways":[
+{"len_m":2103,"wid_m":45.11,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":8.38349700,"lon1":-82.44084200,"rwy2":"22","lat2":8.39850600,"lon2":-82.42911400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"MALEK TWR"},
+{"type":"TWR","freq":122.6,"desc":"MALEK TWR"},
+{"type":"APP","freq":119.7,"desc":"PANAMA APP"},
+{"type":"APP","freq":119.2,"desc":"PANAMA APP"},
+{"type":"APP","freq":123.3,"desc":"PANAMA APP"},
+{"type":"APP","freq":121.2,"desc":"PANAMA APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDLN","name":"Dillon","lat":45.25271600,"lon":-112.55464900,"rwys":2,"ils":0,"index":1106385,"path":"w120n40/w113n45"
+,"runways":[
+{"len_m":1980,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":45.26613300,"lon1":-112.55248900,"rwy2":"34","lat2":45.24831400,"lon2":-112.55186900},
+{"len_m":1096,"wid_m":18.29,"hdg":50,"surf":"Asphalt","rwy1":"03","lat1":45.24882800,"lon1":-112.55843900,"rwy2":"21","lat2":45.25515300,"lon2":-112.54771900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

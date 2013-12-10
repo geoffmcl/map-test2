@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"I40","name":"Richard Downing","lat":40.309178,"lon":-81.8533845,"rwys":1,"ils":0,"index":1613968,"path":"w090n40/w082n40"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":40.30470600,"lon1":-81.85784400,"rwy2":"22","lat2":40.31365000,"lon2":-81.84892500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFSC","name":"Meyenheim Ab","lat":47.92716900,"lon":007.40926700,"rwys":1,"ils":1,"index":3072633,"path":"e000n40/e007n47"
+,"runways":[
+{"len_m":2428,"wid_m":45.11,"hdg":14,"surf":"Concrete","rwy1":"01","lat1":47.91134700,"lon1":7.39566400,"rwy2":"19","lat2":47.93251900,"lon2":7.40365000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":7,"surf":"Concrete","lat1":47.91800300,"lon1":7.40118700}
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"COLMAR TWR"},
+{"type":"APP","freq":123.3,"desc":"COLMAR_GCA APP"},
+{"type":"APP","freq":118.95,"desc":"COLMAR APP"}
+]
+}

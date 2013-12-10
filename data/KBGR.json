@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBGR","name":"Bangor Intl","lat":44.8074375,"lon":-68.8281265,"rwys":1,"ils":1,"index":1827248,"path":"w070n40/w069n44"
+,"runways":[
+{"len_m":3487,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":44.81837200,"lon1":-68.84393100,"rwy2":"33","lat2":44.79650300,"lon2":-68.81232200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ASOS"},
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":135.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP/DEP"},
+{"type":"APP","freq":118.92,"desc":"APP/DEP"}
+]
+}

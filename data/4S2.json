@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4S2","name":"Ken Jernstedt Field","lat":45.67277937,"lon":-121.5361446,"rwys":1,"ils":0,"index":958953,"path":"w130n40/w122n45"
+,"runways":[
+{"len_m":928,"wid_m":22.86,"hdg":89,"surf":"Concrete","rwy1":"7","lat1":45.67277937,"lon1":-121.54210565,"rwy2":"25","lat2":45.67277937,"lon2":-121.53018354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.37,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

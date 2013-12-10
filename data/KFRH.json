@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFRH","name":"French Lick Muni","lat":38.5062235,"lon":-86.6369475,"rwys":1,"ils":0,"index":1531937,"path":"w090n30/w087n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":38.50438300,"lon1":-86.64626700,"rwy2":"26","lat2":38.50806400,"lon2":-86.62762800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.67,"desc":"LOUISVILLE APP/DEP"},
+{"type":"APP","freq":132.07,"desc":"LOUISVILLE APP/DEP"}
+]
+}

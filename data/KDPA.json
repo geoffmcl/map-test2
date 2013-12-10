@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDPA","name":"Du Page","lat":41.9080845,"lon":-88.247508625,"rwys":4,"ils":2,"index":1499387,"path":"w090n40/w089n41"
+,"runways":[
+{"len_m":2307,"wid_m":30.48,"hdg":14,"surf":"Concrete","rwy1":"02L","lat1":41.89403100,"lon1":-88.25355000,"rwy2":"20R","lat2":41.91418600,"lon2":-88.24681400},
+{"len_m":1554,"wid_m":30.48,"hdg":14,"surf":"Concrete","rwy1":"02R","lat1":41.89335600,"lon1":-88.24991900,"rwy2":"20L","lat2":41.90693300,"lon2":-88.24538300},
+{"len_m":1447,"wid_m":22.86,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":41.91347800,"lon1":-88.25849200,"rwy2":"28","lat2":41.91211100,"lon2":-88.24113600},
+{"len_m":1036,"wid_m":30.48,"hdg":147,"surf":"Asphalt","rwy1":"15","lat1":41.91922800,"lon1":-88.24573900,"rwy2":"33","lat2":41.91135300,"lon2":-88.23903600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"ASOS"},
+{"type":"ATIS","freq":124.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":133.5,"desc":"CHICAGO APP/DEP"}
+]
+}

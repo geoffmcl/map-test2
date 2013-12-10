@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"H58","name":"Owen Fld","lat":37.18165175,"lon":-92.73368625,"rwys":2,"ils":0,"index":1433545,"path":"w100n30/w093n37"
+,"runways":[
+{"len_m":853,"wid_m":13.72,"hdg":12,"surf":"Dirt","rwy1":"01","lat1":37.17722200,"lon1":-92.73555800,"rwy2":"19","lat2":37.18473300,"lon2":-92.73349600},
+{"len_m":525,"wid_m":7.62,"hdg":153,"surf":"Turf/grass","rwy1":"15","lat1":37.18444400,"lon1":-92.73416900,"rwy2":"33","lat2":37.18020800,"lon2":-92.73152200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

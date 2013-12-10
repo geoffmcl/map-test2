@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVMT","name":"Maturin","lat":9.749067,"lon":-63.153401,"rwys":1,"ils":0,"index":1906926,"path":"w070n00/w064n09"
+,"runways":[
+{"len_m":2090,"wid_m":45.11,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":9.74281700,"lon1":-63.16054400,"rwy2":"24","lat2":9.75531700,"lon2":-63.14625800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

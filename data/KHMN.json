@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHMN","name":"Holloman Afb","lat":32.8521116666667,"lon":-106.109119166667,"rwys":3,"ils":2,"index":1203891,"path":"w110n30/w107n32"
+,"runways":[
+{"len_m":3937,"wid_m":45.72,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":32.84622800,"lon1":-106.12463900,"rwy2":"25","lat2":32.85271400,"lon2":-106.08328900},
+{"len_m":3697,"wid_m":45.72,"hdg":167,"surf":"Asphalt","rwy1":"16","lat1":32.86659700,"lon1":-106.10768900,"rwy2":"34","lat2":32.83400300,"lon2":-106.09935600},
+{"len_m":3223,"wid_m":91.44,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":32.84680300,"lon1":-106.13262800,"rwy2":"22","lat2":32.86632500,"lon2":-106.10711400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":126.9,"desc":"CHEROKEE MISSION"},
+{"type":"CLD","freq":126.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":127.05,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"DEP","freq":128.1,"desc":"DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAGZ","name":"Wagner Muni","lat":43.0620828333333,"lon":-98.2956495,"rwys":3,"ils":0,"index":1335618,"path":"w100n40/w099n43"
+,"runways":[
+{"len_m":1065,"wid_m":18.29,"hdg":93,"surf":"Asphalt","rwy1":"08","lat1":43.06361100,"lon1":-98.30361100,"rwy2":"26","lat2":43.06305800,"lon2":-98.29055800},
+{"len_m":675,"wid_m":45.72,"hdg":145,"surf":"Turf/grass","rwy1":"14","lat1":43.06388900,"lon1":-98.29694400,"rwy2":"32","lat2":43.05888600,"lon2":-98.29222200},
+{"len_m":586,"wid_m":30.48,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":43.06416700,"lon1":-98.29528100,"rwy2":"35","lat2":43.05888600,"lon2":-98.29528100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

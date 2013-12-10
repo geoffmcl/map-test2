@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GUCY","name":"Conakry","lat":9.576897,"lon":-13.611879,"rwys":1,"ils":0,"index":2726115,"path":"w020n00/w014n09"
+,"runways":[
+{"len_m":3296,"wid_m":45.11,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":9.56720800,"lon1":-13.62328900,"rwy2":"24","lat2":9.58658600,"lon2":-13.60046900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.1,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

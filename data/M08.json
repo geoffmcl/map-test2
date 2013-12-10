@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M08","name":"William L Whitehurst Fld","lat":35.214461,"lon":-89.0433625,"rwys":1,"ils":0,"index":1482571,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":35.20900000,"lon1":-89.04416700,"rwy2":"19","lat2":35.21992200,"lon2":-89.04255800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

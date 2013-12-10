@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHEH","name":"Eindhoven","lat":51.45113800,"lon":005.37451400,"rwys":1,"ils":1,"index":3040089,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":51.43908900,"lon1":5.36213500,"rwy2":"21","lat2":51.46117800,"lon2":5.38689100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":131,"desc":"TWR"},
+{"type":"APP","freq":124.52,"desc":"DIRECTOR"},
+{"type":"APP","freq":122.1,"desc":"DIRECTOR"},
+{"type":"APP","freq":123.17,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

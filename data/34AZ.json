@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"34AZ","name":"Gila River Memorial","lat":33.2429855,"lon":-111.9104875,"rwys":2,"ils":0,"index":1121992,"path":"w120n30/w112n33"
+,"runways":[
+{"len_m":2585,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":33.25277800,"lon1":-111.92833900,"rwy2":"30","lat2":33.23638900,"lon2":-111.90861100},
+{"len_m":1589,"wid_m":60.96,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":33.23638900,"lon1":-111.90861100,"rwy2":"21","lat2":33.24638600,"lon2":-111.89638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

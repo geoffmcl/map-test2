@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRIL","name":"Garfield Co Rgnl","lat":39.52731300,"lon":-107.72694400,"rwys":1,"ils":1,"index":1187937,"path":"w110n30/w108n39"
+,"runways":[
+{"len_m":2133,"wid_m":29.87,"hdg":92,"surf":"Asphalt","rwy1":"08","lat1":39.52679200,"lon1":-107.73933100,"rwy2":"26","lat2":39.52583600,"lon2":-107.71455000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

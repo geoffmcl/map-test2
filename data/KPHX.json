@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPHX","name":"Phoenix Sky Harbor Intl","lat":33.43559000,"lon":-112.00559800,"rwys":3,"ils":3,"index":1105627,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":3501,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":33.44086120,"lon1":-112.02979379,"rwy2":"26","lat2":33.44082280,"lon2":-111.99213621},
+{"len_m":3138,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"07L","lat1":33.43105683,"lon1":-112.02709997,"rwy2":"25R","lat2":33.43103717,"lon2":-111.99334803},
+{"len_m":2377,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"07R","lat1":33.42885845,"lon1":-112.02710296,"rwy2":"25L","lat2":33.42884355,"lon2":-112.00153904}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.57,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.75,"desc":"GND"},
+{"type":"GND","freq":132.55,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":124.1,"desc":"APP/DEP"},
+{"type":"APP","freq":126.8,"desc":"APP/DEP"},
+{"type":"APP","freq":128.65,"desc":"APP/DEP"}
+]
+}

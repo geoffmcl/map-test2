@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETSL","name":"Lechfeld","lat":48.1854985,"lon":10.861168,"rwys":1,"ils":0,"index":3121803,"path":"e010n40/e010n48"
+,"runways":[
+{"len_m":2442,"wid_m":29.87,"hdg":28,"surf":"Concrete","rwy1":"03","lat1":48.17589400,"lon1":10.85320800,"rwy2":"21","lat2":48.19510300,"lon2":10.86912800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":135.15,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129.02,"desc":"RADAR"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPIA","name":"Greater Peoria Rgnl","lat":40.66403675,"lon":-89.6924735,"rwys":2,"ils":2,"index":1482921,"path":"w090n40/w090n40"
+,"runways":[
+{"len_m":3079,"wid_m":45.72,"hdg":126,"surf":"Concrete","rwy1":"13","lat1":40.67370800,"lon1":-89.71386900,"rwy2":"31","lat2":40.65720600,"lon2":-89.68459700},
+{"len_m":2439,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":40.65403600,"lon1":-89.69471700,"rwy2":"22","lat2":40.67119700,"lon2":-89.67671100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.1,"desc":"ASOS"},
+{"type":"ATIS","freq":126.1,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"PEORIA TWR"},
+{"type":"APP","freq":124.67,"desc":"PEORIA APP/DEP"},
+{"type":"APP","freq":125.8,"desc":"PEORIA APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMEY","name":"James G Whiting Mem Fld","lat":42.178307,"lon":-95.7936405,"rwys":1,"ils":0,"index":1384712,"path":"w100n40/w096n42"
+,"runways":[
+{"len_m":853,"wid_m":18.29,"hdg":24,"surf":"Concrete","rwy1":"02","lat1":42.17480000,"lon1":-95.79575300,"rwy2":"20","lat2":42.18181400,"lon2":-95.79152800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"SIOUX CITY APP/DEP"}
+]
+}

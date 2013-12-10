@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UWKD","name":"Kazan","lat":55.6065445,"lon":49.27968875,"rwys":2,"ils":0,"index":3761249,"path":"e040n50/e049n55"
+,"runways":[
+{"len_m":3723,"wid_m":43.89,"hdg":126,"surf":"Concrete","rwy1":"11L","lat1":55.61873300,"lon1":49.25244700,"rwy2":"29R","lat2":55.59887500,"lon2":49.29999700},
+{"len_m":2497,"wid_m":45.11,"hdg":124,"surf":"Concrete","rwy1":"11R","lat1":55.61062800,"lon1":49.26681400,"rwy2":"29L","lat2":55.59794200,"lon2":49.29949700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"TAXIING"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"RADAR"},
+{"type":"APP","freq":129,"desc":"RADAR"},
+{"type":"APP","freq":124,"desc":"RADAR"}
+]
+}

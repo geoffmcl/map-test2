@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZWU","name":"Wanganui","lat":-39.9626115,"lon":175.025010333333,"rwys":3,"ils":0,"index":5819520,"path":"e170s40/e175s40"
+,"runways":[
+{"len_m":1392,"wid_m":45.11,"hdg":126,"surf":"Asphalt","rwy1":"11C","lat1":-39.95964200,"lon1":175.01793900,"rwy2":"29C","lat2":-39.96713900,"lon2":175.03101100},
+{"len_m":901,"wid_m":60.05,"hdg":161,"surf":"Dirt","rwy1":"14","lat1":-39.95838077,"lon1":175.02357533,"rwy2":"32","lat2":-39.96606323,"lon2":175.02698067},
+{"len_m":841,"wid_m":85.04,"hdg":131,"surf":"Dirt","rwy1":"11R","lat1":-39.95973053,"lon1":175.02156946,"rwy2":"29L","lat2":-39.96471347,"lon2":175.02898654}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.2,"desc":"CTAF"},
+{"type":"TWR","freq":120.4,"desc":"OHAKEA CON"}
+]
+}

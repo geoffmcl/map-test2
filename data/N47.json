@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N47","name":"Pottstown Municipal Airport","lat":40.2603165,"lon":-75.67121941,"rwys":1,"ils":0,"index":1712273,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":826,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"08","lat1":40.25886863,"lon1":-75.67569342,"rwy2":"26","lat2":40.26176437,"lon2":-75.66674539}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.85,"desc":"PHILADELPHIA APP/DEP"}
+]
+}

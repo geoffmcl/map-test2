@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SEQM","name":"Quito - Mariscal Sucre Intl","lat":-00.12703847,"lon":-078.35950469,"rwys":1,"ils":2,"index":1660533,"path":"w080s10/w079s01"
+,"runways":[
+{"len_m":4098,"wid_m":52.12,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":-0.10557448,"lon1":-78.35515431,"rwy2":"36","lat2":-0.14260400,"lon2":-78.35360700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"QUITO Ground Control"},
+{"type":"TWR","freq":118.1,"desc":"QUITO Tower"},
+{"type":"APP","freq":119.7,"desc":"QUITO Approach"},
+{"type":"APP","freq":121.2,"desc":"QUITO Approach"}
+]
+}

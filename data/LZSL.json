@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LZSL","name":"Sliac","lat":48.637839,"lon":19.134108,"rwys":1,"ils":1,"index":3269288,"path":"e010n40/e019n48"
+,"runways":[
+{"len_m":2333,"wid_m":60.05,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":48.64832500,"lon1":19.13464400,"rwy2":"36","lat2":48.62735300,"lon2":19.13357200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"TWR"},
+{"type":"TWR","freq":135,"desc":"TWR"},
+{"type":"TWR","freq":121.3,"desc":"TWR"},
+{"type":"TWR","freq":119.15,"desc":"TWR"},
+{"type":"APP","freq":121.82,"desc":"APP"},
+{"type":"APP","freq":135,"desc":"APP"},
+{"type":"APP","freq":119.15,"desc":"APP"},
+{"type":"APP","freq":122.9,"desc":"APP"}
+]
+}

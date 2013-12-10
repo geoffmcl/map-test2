@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCON","name":"Concord Muni","lat":43.20618800,"lon":-071.51033800,"rwys":2,"ils":1,"index":1777993,"path":"w080n40/w072n43"
+,"runways":[
+{"len_m":1830,"wid_m":29.87,"hdg":155,"surf":"Asphalt","rwy1":"17","lat1":43.20817316,"lon1":-71.50765813,"rwy2":"35","lat2":43.19323284,"lon2":-71.49816187},
+{"len_m":975,"wid_m":22.86,"hdg":105,"surf":"Asphalt","rwy1":"12","lat1":43.20768308,"lon1":-71.50691192,"rwy2":"30","lat2":43.20540292,"lon2":-71.49531808}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":133.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":127.35,"desc":"BOSTON APP/DEP"}
+]
+}

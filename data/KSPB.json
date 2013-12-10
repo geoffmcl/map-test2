@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSPB","name":"Scappoose Industrial Airpark","lat":45.771035,"lon":-122.86182524,"rwys":1,"ils":1,"index":942576,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":1555,"wid_m":29.87,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":45.77789368,"lon1":-122.86379248,"rwy2":"33","lat2":45.76417632,"lon2":-122.85985800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":133,"desc":"PORTLAND APP/DEP"}
+]
+}

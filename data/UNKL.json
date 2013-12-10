@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UNKL","name":"Yemelyanovo","lat":56.172946,"lon":92.493276,"rwys":1,"ils":0,"index":4465801,"path":"e090n50/e092n56"
+,"runways":[
+{"len_m":3702,"wid_m":60.05,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":56.17948100,"lon1":92.46586900,"rwy2":"29","lat2":56.16641100,"lon2":92.52068300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"KRASNOYARSK TAXIING"},
+{"type":"TWR","freq":118.3,"desc":"KRASNOYARSK TWR"},
+{"type":"APP","freq":127.7,"desc":"KRASNOYARSK APP"},
+{"type":"APP","freq":124,"desc":"KRASNOYARSK APP"},
+{"type":"APP","freq":129,"desc":"KRASNOYARSK APP"}
+]
+}

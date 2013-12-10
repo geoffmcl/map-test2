@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"S52","name":"Methow Valley State","lat":48.4249475,"lon":-120.1458865,"rwys":1,"ils":0,"index":975515,"path":"w130n40/w121n48"
+,"runways":[
+{"len_m":1538,"wid_m":22.86,"hdg":146,"surf":"Asphalt","rwy1":"13","lat1":48.43074200,"lon1":-120.15156700,"rwy2":"31","lat2":48.41915300,"lon2":-120.14020600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

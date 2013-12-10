@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"BIHK","name":"Holmavik","lat":65.70117461,"lon":-021.69905175,"rwys":2,"ils":0,"index":2598632,"path":"w030n60/w022n65"
+,"runways":[
+{"len_m":902,"wid_m":29.87,"hdg":10,"surf":"Gravel","rwy1":"03","lat1":65.69877927,"lon1":-21.69615330,"rwy2":"21","lat2":65.70675353,"lon2":-21.69273610},
+{"len_m":1003,"wid_m":29.87,"hdg":5,"surf":"Gravel","rwy1":"02","lat1":65.70024103,"lon1":-21.69722921,"rwy2":"20","lat2":65.70920413,"lon2":-21.69526964}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"Control"}
+]
+}

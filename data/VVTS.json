@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VVTS","name":"Tan Son Nhat Intl","lat":10.81623225,"lon":106.65954405,"rwys":2,"ils":2,"index":4692277,"path":"e100n10/e106n10"
+,"runways":[
+{"len_m":3846,"wid_m":45.11,"hdg":69,"surf":"Concrete","rwy1":"07R","lat1":10.81132524,"lon1":106.63685200,"rwy2":"25L","lat2":10.82377242,"lon2":106.66969319},
+{"len_m":3047,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07L","lat1":10.81504167,"lon1":106.63717620,"rwy2":"25R","lat2":10.82486033,"lon2":106.66321766}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"APP","freq":134.1,"desc":"APP"}
+]
+}

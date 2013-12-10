@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLVD","name":"Lake Everard","lat":-31.72842407,"lon":135.03306086,"rwys":3,"ils":0,"index":5164688,"path":"e130s40/e135s32"
+,"runways":[
+{"len_m":890,"wid_m":21.03,"hdg":35,"surf":"Dirt","rwy1":"3","lat1":-31.73501465,"lon1":135.02700525,"rwy2":"21","lat2":-31.72845053,"lon2":135.03241450},
+{"len_m":979,"wid_m":14.94,"hdg":84,"surf":"Dirt","rwy1":"8","lat1":-31.73266831,"lon1":135.02840656,"rwy2":"26","lat2":-31.73187402,"lon2":135.03869648},
+{"len_m":1136,"wid_m":17.07,"hdg":173,"surf":"Dirt","rwy1":"17","lat1":-31.72828874,"lon1":135.02795732,"rwy2":"35","lat2":-31.73847960,"lon2":135.02926117}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

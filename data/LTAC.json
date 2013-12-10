@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAC","name":"Esenboga","lat":40.12828475,"lon":32.99540325,"rwys":2,"ils":4,"index":3481739,"path":"e030n40/e032n40"
+,"runways":[
+{"len_m":3758,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03L","lat1":40.11516700,"lon1":32.98122500,"rwy2":"21R","lat2":40.14244400,"lon2":33.00733300},
+{"len_m":3734,"wid_m":60.05,"hdg":35,"surf":"Asphalt","rwy1":"03R","lat1":40.11405600,"lon1":32.98383300,"rwy2":"21L","lat2":40.14147200,"lon2":33.00922200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.6,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+}

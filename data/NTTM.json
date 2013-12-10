@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NTTM","name":"Moorea","lat":-17.49055000,"lon":-149.76332500,"rwys":1,"ils":0,"index":496161,"path":"w150s20/w150s18"
+,"runways":[
+{"len_m":1171,"wid_m":20.12,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":-17.48621900,"lon1":-149.76576700,"rwy2":"30","lat2":-17.49372200,"lon2":-149.75798300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"TAHITI"},
+{"type":"TWR","freq":118.1,"desc":"TAHITI TWR"},
+{"type":"APP","freq":121.3,"desc":"TAHITI APP"}
+]
+}

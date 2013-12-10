@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIAD","name":"Washington Dulles Intl","lat":38.94295684,"lon":-077.44776100,"rwys":4,"ils":4,"index":1679418,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":2868,"wid_m":46.02,"hdg":0,"surf":"Concrete","rwy1":"1L","lat1":38.94483275,"lon1":-77.47466700,"rwy2":"19R","lat2":38.97066700,"lon2":-77.47433300},
+{"len_m":3505,"wid_m":46.02,"hdg":0,"surf":"Concrete","rwy1":"01C","lat1":38.93906539,"lon1":-77.45976078,"rwy2":"19C","lat2":38.97064061,"lon2":-77.45930722},
+{"len_m":3505,"wid_m":46.02,"hdg":0,"surf":"Concrete","rwy1":"01R","lat1":38.92375485,"lon1":-77.43644834,"rwy2":"19L","lat2":38.95532715,"lon2":-77.43597366},
+{"len_m":3198,"wid_m":46.02,"hdg":110,"surf":"Concrete","rwy1":"12","lat1":38.94376916,"lon1":-77.49044130,"rwy2":"30","lat2":38.93360284,"lon2":-77.45592470}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.85,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":135.69,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":120.45,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":125.05,"desc":"POTOMAC DEP"}
+]
+}

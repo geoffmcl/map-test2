@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAQR","name":"Atoka Muni","lat":34.398339,"lon":-96.1480615,"rwys":1,"ils":0,"index":1367835,"path":"w100n30/w097n34"
+,"runways":[
+{"len_m":919,"wid_m":12.19,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":34.40248100,"lon1":-96.14795600,"rwy2":"36","lat2":34.39419700,"lon2":-96.14816700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

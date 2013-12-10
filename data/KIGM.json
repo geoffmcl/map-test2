@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIGM","name":"Kingman","lat":35.25911700,"lon":-113.94001800,"rwys":3,"ils":0,"index":1089360,"path":"w120n30/w114n35"
+,"runways":[
+{"len_m":2080,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":35.25148300,"lon1":-113.94810300,"rwy2":"21","lat2":35.26474200,"lon2":-113.93193300},
+{"len_m":2072,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":35.25138900,"lon1":-113.95861100,"rwy2":"26","lat2":35.25138900,"lon2":-113.93583900},
+{"len_m":2049,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.27009700,"lon1":-113.93604400,"rwy2":"35","lat2":35.25162500,"lon2":-113.93605600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIMM","name":"Mashhad Intl","lat":36.23525775,"lon":59.6409755,"rwys":2,"ils":1,"index":3923850,"path":"e050n30/e059n36"
+,"runways":[
+{"len_m":3925,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"14R","lat1":36.24676700,"lon1":59.62436900,"rwy2":"32L","lat2":36.22236700,"lon2":59.65598900},
+{"len_m":3811,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"14L","lat1":36.24779400,"lon1":59.62642200,"rwy2":"32R","lat2":36.22410300,"lon2":59.65712200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"APP"}
+]
+}

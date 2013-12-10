@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SCCF","name":"El Loa","lat":-22.498175,"lon":-68.903575,"rwys":1,"ils":0,"index":1822944,"path":"w070s30/w069s23"
+,"runways":[
+{"len_m":2885,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":-22.49736100,"lon1":-68.91756900,"rwy2":"28","lat2":-22.49898900,"lon2":-68.88958100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"CALAMA TWR"},
+{"type":"APP","freq":120.9,"desc":"CALAMA APP"}
+]
+}

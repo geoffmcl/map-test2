@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFTW","name":"Garons Navy","lat":43.75854900,"lon":004.41158200,"rwys":1,"ils":2,"index":3023217,"path":"e000n40/e004n43"
+,"runways":[
+{"len_m":2635,"wid_m":45.11,"hdg":177,"surf":"Concrete","rwy1":"18","lat1":43.76929100,"lon1":4.41555600,"rwy2":"36","lat2":43.74559700,"lon2":4.41722000}
+]
+,"helipads":[
+{"rwy1":"H33","len_m":24,"wid_m":24.99,"hdg":4,"surf":"Concrete","lat1":43.75862600,"lon1":4.41268400},
+{"rwy1":"H34","len_m":39,"wid_m":39.93,"hdg":4,"surf":"Asphalt","lat1":43.75705500,"lon1":4.41923300},
+{"rwy1":"H35","len_m":34,"wid_m":34.14,"hdg":4,"surf":"Concrete","lat1":43.74771700,"lon1":4.41218700}
+]
+,"radios":[
+{"type":"ATIS","freq":129.35,"desc":"LFTW ATIS"},
+{"type":"ATIS","freq":119.7,"desc":"RHONE FSS"},
+{"type":"ATIS","freq":127.92,"desc":"RHONE FSS"},
+{"type":"GND","freq":121.8,"desc":"GARONS GND"},
+{"type":"TWR","freq":123.2,"desc":"GARONS TWR"},
+{"type":"APP","freq":120.35,"desc":"RHONE APP"},
+{"type":"APP","freq":119.7,"desc":"GARONS APP"},
+{"type":"APP","freq":122.1,"desc":"GARONS APP"},
+{"type":"APP","freq":124.9,"desc":"GARONS APP"},
+{"type":"APP","freq":124.6,"desc":"GARONS APPROACH APP"},
+{"type":"APP","freq":119.9,"desc":"GARONS GCA APP"}
+]
+}

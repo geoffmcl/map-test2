@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"9A4","name":"Lawrence Co","lat":34.65934725,"lon":-87.34883675,"rwys":2,"ils":0,"index":1515306,"path":"w090n30/w088n34"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":130,"surf":"Concrete","rwy1":"13","lat1":34.66145800,"lon1":-87.35360300,"rwy2":"31","lat2":34.65261400,"lon2":-87.34088600},
+{"len_m":1523,"wid_m":45.72,"hdg":175,"surf":"Concrete","rwy1":"17","lat1":34.66850300,"lon1":-87.35111400,"rwy2":"35","lat2":34.65481400,"lon2":-87.34974400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.05,"desc":"HUNTSVILLE APP/DEP"}
+]
+}

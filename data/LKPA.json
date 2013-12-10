@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKPA","name":"Policka","lat":49.73442732,"lon":016.26400809,"rwys":2,"ils":0,"index":3220201,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":703,"wid_m":60.05,"hdg":8,"surf":"Turf/grass","rwy1":"18","lat1":49.73301459,"lon1":16.26205237,"rwy2":"36","lat2":49.73926481,"lon2":16.26351755},
+{"len_m":1505,"wid_m":99.97,"hdg":154,"surf":"Turf/grass","rwy1":"15","lat1":49.74702450,"lon1":16.25229636,"rwy2":"33","lat2":49.73485440,"lon2":16.26144071}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"INFO"}
+]
+}

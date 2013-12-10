@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FKKD","name":"Douala","lat":04.01183200,"lon":009.71690600,"rwys":2,"ils":1,"index":3102597,"path":"e000n00/e009n04"
+,"runways":[
+{"len_m":2852,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":4.01186700,"lon1":9.70804400,"rwy2":"30","lat2":4.00024200,"lon2":9.73097500},
+{"len_m":2491,"wid_m":44.81,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":4.01233810,"lon1":9.70844647,"rwy2":"21","lat2":4.03238390,"lon2":9.71868553}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"DOUALA TWR"}
+]
+}

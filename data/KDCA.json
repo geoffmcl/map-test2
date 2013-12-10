@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDCA","name":"Washington National","lat":38.85462250,"lon":-077.04369939,"rwys":3,"ils":2,"index":1679411,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":2093,"wid_m":46.02,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":38.84239194,"lon1":-77.03682416,"rwy2":"19","lat2":38.86119206,"lon2":-77.03871984},
+{"len_m":1586,"wid_m":46.02,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":38.86169673,"lon1":-77.04381822,"rwy2":"33","lat2":38.85033927,"lon2":-77.03273178},
+{"len_m":1496,"wid_m":46.02,"hdg":25,"surf":"Asphalt","rwy1":"04","lat1":38.84226898,"lon1":-77.04075887,"rwy2":"22","lat2":38.85443302,"lon2":-77.03331913}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"WASHINGTON TWR"},
+{"type":"TWR","freq":120.75,"desc":"WASHINGTON TWR"},
+{"type":"APP","freq":118.3,"desc":"POTOMAC APP"},
+{"type":"APP","freq":119.85,"desc":"POTOMAC APP"},
+{"type":"APP","freq":124.2,"desc":"POTOMAC APP"},
+{"type":"APP","freq":124.7,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":118.95,"desc":"POTOMAC DEP"},
+{"type":"DEP","freq":121.05,"desc":"POTOMAC DEP"},
+{"type":"DEP","freq":125.65,"desc":"POTOMAC DEP"},
+{"type":"DEP","freq":126.55,"desc":"POTOMAC DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDBC","name":"Magdeburg Cochstedt","lat":51.8559265,"lon":11.418004,"rwys":2,"ils":1,"index":3138417,"path":"e010n50/e011n51"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":51.85347500,"lon1":11.40029400,"rwy2":"26","lat2":51.85837500,"lon2":11.43570600},
+{"len_m":802,"wid_m":39.93,"hdg":77,"surf":"Turf/grass","rwy1":"08R","lat1":51.85514123,"lon1":11.41232228,"rwy2":"26L","lat2":51.85671477,"lon2":11.42369372}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131.12,"desc":"COCHSTEDT INFO"}
+]
+}

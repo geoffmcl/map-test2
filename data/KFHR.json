@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFHR","name":"Friday Harbor","lat":48.5219665,"lon":-123.0243681,"rwys":1,"ils":0,"index":926371,"path":"w130n40/w124n48"
+,"runways":[
+{"len_m":1036,"wid_m":22.86,"hdg":177,"surf":"Asphalt","rwy1":"16","lat1":48.52662200,"lon1":-123.02472960,"rwy2":"34","lat2":48.51731100,"lon2":-123.02400660}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.67,"desc":"ASOS"},
+{"type":"CTAF","freq":128.25,"desc":"CTAF"},
+{"type":"APP","freq":118.2,"desc":"WHIDBEY APP/DEP"}
+]
+}

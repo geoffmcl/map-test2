@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFCK","name":"Mazamet","lat":43.55625,"lon":2.289182,"rwys":1,"ils":1,"index":2990433,"path":"e000n40/e002n43"
+,"runways":[
+{"len_m":1827,"wid_m":29.87,"hdg":141,"surf":"Concrete","rwy1":"14","lat1":43.56266100,"lon1":2.28210300,"rwy2":"32","lat2":43.54983900,"lon2":2.29626100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"CASTRES INFO"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"}
+]
+}

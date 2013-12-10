@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPYN","name":"Piedmont Muni","lat":37.1265265,"lon":-90.712639,"rwys":1,"ils":0,"index":1466313,"path":"w100n30/w091n37"
+,"runways":[
+{"len_m":1032,"wid_m":18.29,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":37.12250000,"lon1":-90.71555300,"rwy2":"21","lat2":37.13055300,"lon2":-90.70972500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EYPP","name":"Pajuostis","lat":55.7294445,"lon":24.461389,"rwys":1,"ils":0,"index":3351657,"path":"e020n50/e024n55"
+,"runways":[
+{"len_m":2014,"wid_m":39.93,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":55.73611100,"lon1":24.45055600,"rwy2":"31","lat2":55.72277800,"lon2":24.47222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"TWR","freq":130.1,"desc":"TWR"},
+{"type":"TWR","freq":122.55,"desc":"TWR"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLYH","name":"Lynchburg Rgnl Preston Glenn Fld","lat":37.327326705,"lon":-79.200142945,"rwys":2,"ils":1,"index":1646547,"path":"w080n30/w080n37"
+,"runways":[
+{"len_m":1766,"wid_m":46.02,"hdg":27,"surf":"Asphalt","rwy1":"04","lat1":37.31788100,"lon1":-79.20588600,"rwy2":"22","lat2":37.33195107,"lon2":-79.19656297},
+{"len_m":1106,"wid_m":41.15,"hdg":160,"surf":"Asphalt","rwy1":"17","lat1":37.33444918,"lon1":-79.20109494,"rwy2":"35","lat2":37.32502555,"lon2":-79.19702785}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.8,"desc":"ATIS"},
+{"type":"CTAF","freq":127.65,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.65,"desc":"TWR"},
+{"type":"APP","freq":125.47,"desc":"ROANOKE APP/DEP"},
+{"type":"APP","freq":135,"desc":"ROANOKE APP/DEP"}
+]
+}

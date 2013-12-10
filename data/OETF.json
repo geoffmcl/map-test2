@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OETF","name":"Taif","lat":21.48661125,"lon":40.54061675,"rwys":2,"ils":0,"index":3611612,"path":"e040n20/e040n21"
+,"runways":[
+{"len_m":3746,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":21.47733300,"lon1":40.52063900,"rwy2":"25","lat2":21.48627800,"lon2":40.55550000},
+{"len_m":3353,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":21.50641700,"lon1":40.54094200,"rwy2":"35","lat2":21.47641700,"lon2":40.54538600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":131.5,"desc":"SAUDIA RDO"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

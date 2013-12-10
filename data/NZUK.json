@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZUK","name":"Pukaki","lat":-44.238361,"lon":170.119404,"rwys":1,"ils":0,"index":5737328,"path":"e170s50/e170s45"
+,"runways":[
+{"len_m":1061,"wid_m":15.54,"hdg":171,"surf":"Asphalt","rwy1":"15","lat1":-44.23363900,"lon1":170.11841900,"rwy2":"33","lat2":-44.24308300,"lon2":170.12038900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":123.5,"desc":"CHRISTCHURCH FIS"}
+]
+}

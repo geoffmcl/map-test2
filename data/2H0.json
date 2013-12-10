@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2H0","name":"Shelby Co","lat":39.4101198333333,"lon":-88.8452353333333,"rwys":3,"ils":0,"index":1499224,"path":"w090n30/w089n39"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":39.41826900,"lon1":-88.84755000,"rwy2":"36","lat2":39.40701700,"lon2":-88.84746400},
+{"len_m":976,"wid_m":60.96,"hdg":142,"surf":"Dirt","rwy1":"14","lat1":39.41253900,"lon1":-88.84674200,"rwy2":"32","lat2":39.40559400,"lon2":-88.83978900},
+{"len_m":795,"wid_m":60.96,"hdg":39,"surf":"Dirt","rwy1":"04","lat1":39.40587200,"lon1":-88.84785000,"rwy2":"22","lat2":39.41142800,"lon2":-88.84201700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

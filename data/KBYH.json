@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBYH","name":"Arkansas Intl","lat":35.95948624,"lon":-089.95041877,"rwys":1,"ils":1,"index":1482616,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":3536,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":35.98026525,"lon1":-89.94396335,"rwy2":"36","lat2":35.94839625,"lon2":-89.94396535}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.65,"desc":"MEMPHIS CNTR"}
+]
+}

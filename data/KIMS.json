@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIMS","name":"Madison Muni","lat":38.75847600,"lon":-085.46327200,"rwys":1,"ils":0,"index":1548338,"path":"w090n30/w086n38"
+,"runways":[
+{"len_m":1341,"wid_m":22.86,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":38.75470300,"lon1":-85.46881400,"rwy2":"21","lat2":38.76497500,"lon2":-85.46069400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.67,"desc":"LOUISVILLE APP/DEP"},
+{"type":"APP","freq":132.07,"desc":"LOUISVILLE APP/DEP"}
+]
+}

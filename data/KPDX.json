@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPDX","name":"Portland Intl","lat":45.5888388333333,"lon":-122.597259166667,"rwys":3,"ils":3,"index":942561,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":3352,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"10R","lat1":45.59515000,"lon1":-122.62147200,"rwy2":"28L","lat2":45.58051400,"lon2":-122.58390300},
+{"len_m":2438,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"10L","lat1":45.59480000,"lon1":-122.59560800,"rwy2":"28R","lat2":45.58415000,"lon2":-122.56828900},
+{"len_m":2133,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":45.58242500,"lon1":-122.61681400,"rwy2":"21","lat2":45.59599400,"lon2":-122.59746900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.35,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.12,"desc":"CLNC DEL"},
+{"type":"GND","freq":132.27,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.77,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":126.9,"desc":"APP"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":118.1,"desc":"APP"},
+{"type":"DEP","freq":118.1,"desc":"DEP"},
+{"type":"DEP","freq":124.35,"desc":"DEP"},
+{"type":"DEP","freq":124.9,"desc":"DEP"},
+{"type":"DEP","freq":127.85,"desc":"DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SADL","name":"La Plata","lat":-34.97188075,"lon":-57.895134,"rwys":2,"ils":0,"index":2002368,"path":"w060s40/w058s35"
+,"runways":[
+{"len_m":1436,"wid_m":45.11,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":-34.97554200,"lon1":-57.89501100,"rwy2":"20","lat2":-34.96298100,"lon2":-57.89121100},
+{"len_m":1203,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":-34.97042200,"lon1":-57.90150300,"rwy2":"32","lat2":-34.97857800,"lon2":-57.89281100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.3,"desc":"APP/TWR"}
+]
+}

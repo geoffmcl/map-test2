@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMHK","name":"Manhattan Rgnl","lat":39.141466,"lon":-96.6705985,"rwys":2,"ils":1,"index":1368137,"path":"w100n30/w097n39"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":39,"surf":"Concrete","rwy1":"03","lat1":39.13239200,"lon1":-96.67930000,"rwy2":"21","lat2":39.14713300,"lon2":-96.66346900},
+{"len_m":1158,"wid_m":30.48,"hdg":142,"surf":"Asphalt","rwy1":"13","lat1":39.14729200,"lon1":-96.67391700,"rwy2":"31","lat2":39.13904700,"lon2":-96.66570800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"ASOS"},
+{"type":"CTAF","freq":118.55,"desc":"CTAF"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":127.35,"desc":"KANSAS CITY CNTR"}
+]
+}

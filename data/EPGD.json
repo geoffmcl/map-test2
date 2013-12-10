@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EPGD","name":"Lech Walesa","lat":54.38013800,"lon":018.47843400,"rwys":1,"ils":1,"index":3253273,"path":"e010n50/e018n54"
+,"runways":[
+{"len_m":2798,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":54.38106577,"lon1":18.45205094,"rwy2":"29","lat2":54.37126823,"lon2":18.49171706}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.62,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"GDANSK TWR"},
+{"type":"APP","freq":130.87,"desc":"GDANSK APP"}
+]
+}

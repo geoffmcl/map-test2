@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBGF","name":"Winchester Muni","lat":35.177535,"lon":-86.0661655,"rwys":1,"ils":0,"index":1531723,"path":"w090n30/w087n35"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":35.18440300,"lon1":-86.06591700,"rwy2":"36","lat2":35.17066700,"lon2":-86.06641400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

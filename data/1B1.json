@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1B1","name":"Columbia Co","lat":42.2912945,"lon":-73.7103205,"rwys":1,"ils":0,"index":1745169,"path":"w080n40/w074n42"
+,"runways":[
+{"len_m":1630,"wid_m":30.48,"hdg":11,"surf":"Asphalt","rwy1":"03","lat1":42.28410600,"lon1":-73.71230800,"rwy2":"21","lat2":42.29848300,"lon2":-73.70833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125,"desc":"ALBANY APP/DEP"}
+]
+}

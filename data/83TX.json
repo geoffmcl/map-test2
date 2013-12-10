@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"83TX","name":"Texas A And M Flt Test Station","lat":30.6379446,"lon":-96.4840559,"rwys":5,"ils":0,"index":1367594,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":2124,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":30.64416700,"lon1":-96.48305600,"rwy2":"35R","lat2":30.62500000,"lon2":-96.48305600},
+{"len_m":2124,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":30.64416700,"lon1":-96.48555600,"rwy2":"35L","lat2":30.62500000,"lon2":-96.48555600},
+{"len_m":1366,"wid_m":91.44,"hdg":39,"surf":"Concrete","rwy1":"03","lat1":30.63722200,"lon1":-96.48972200,"rwy2":"21","lat2":30.64666700,"lon2":-96.48055600},
+{"len_m":1369,"wid_m":91.44,"hdg":130,"surf":"Concrete","rwy1":"13","lat1":30.64222200,"lon1":-96.49138900,"rwy2":"31","lat2":30.63416700,"lon2":-96.48055600},
+{"len_m":1385,"wid_m":91.44,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":30.64666700,"lon1":-96.48055600,"rwy2":"35","lat2":30.63416700,"lon2":-96.48055600}
+]
+,"helipads":[
+]
+,"radios":[
+]
+}

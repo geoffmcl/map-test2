@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNUN","name":"Saufley Fld Nolf","lat":30.46972225,"lon":-87.336006875,"rwys":4,"ils":0,"index":1515034,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":1627,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":30.47000000,"lon1":-87.34694400,"rwy2":"27","lat2":30.47000000,"lon2":-87.33000000},
+{"len_m":1602,"wid_m":60.96,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":30.47666700,"lon1":-87.32916700,"rwy2":"36","lat2":30.46222200,"lon2":-87.32972200},
+{"len_m":1213,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":30.46583300,"lon1":-87.34250000,"rwy2":"23","lat2":30.47361100,"lon2":-87.33361100},
+{"len_m":1222,"wid_m":45.72,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":30.47388900,"lon1":-87.34222200,"rwy2":"32","lat2":30.46555600,"lon2":-87.33388900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.2,"desc":"CTAF"}
+]
+}

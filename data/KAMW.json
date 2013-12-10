@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAMW","name":"Ames Muni","lat":41.99262875,"lon":-93.62183325,"rwys":2,"ils":1,"index":1417465,"path":"w100n40/w094n41"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":41.98270300,"lon1":-93.62475800,"rwy2":"19","lat2":41.99769200,"lon2":-93.61876700},
+{"len_m":1065,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":41.99851700,"lon1":-93.62636400,"rwy2":"31","lat2":41.99160300,"lon2":-93.61744400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.9,"desc":"DES MOINES APP/DEP"}
+]
+}

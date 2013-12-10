@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGNJ","name":"Humberside","lat":53.58309540,"lon":-000.34841530,"rwys":2,"ils":1,"index":2941922,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":2198,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":53.56532800,"lon1":-0.35705800,"rwy2":"21","lat2":53.58359262,"lon2":-0.34442593},
+{"len_m":1045,"wid_m":29.87,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":53.57582800,"lon1":-0.35346900,"rwy2":"26","lat2":53.57706178,"lon2":-0.33781517}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.12,"desc":"Humberside Information"},
+{"type":"TWR","freq":119.13,"desc":"Humberside Tower"},
+{"type":"TWR","freq":124.9,"desc":"Humberside Tower"},
+{"type":"APP","freq":119.12,"desc":"Humberside Approach"}
+]
+}

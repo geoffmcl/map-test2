@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAGL","name":"Golovin","lat":64.54846976,"lon":-163.01518457,"rwys":2,"ils":0,"index":272033,"path":"w170n60/w164n64"
+,"runways":[
+{"len_m":1223,"wid_m":22.86,"hdg":35,"surf":"Gravel","rwy1":"02","lat1":64.54601486,"lon1":-163.01466322,"rwy2":"20","lat2":64.55489714,"lon2":-162.99967392},
+{"len_m":453,"wid_m":13.11,"hdg":35,"surf":"Dirt","rwy1":"01","lat1":64.54219215,"lon1":-163.04112485,"rwy2":"19","lat2":64.54552204,"lon2":-163.03569431}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":133.3,"desc":"Anchorage App Dep"}
+]
+}

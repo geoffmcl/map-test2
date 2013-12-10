@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZAA","name":"Auckland International","lat":-37.00640500,"lon":174.78871200,"rwys":2,"ils":4,"index":5803323,"path":"e170s40/e174s38"
+,"runways":[
+{"len_m":3689,"wid_m":46.33,"hdg":71,"surf":"Concrete","rwy1":"05R","lat1":-37.01747887,"lon1":174.76657685,"rwy2":"23L","lat2":-37.00666913,"lon2":174.80578115},
+{"len_m":3310,"wid_m":47.85,"hdg":70,"surf":"Concrete","rwy1":"05L","lat1":-37.01437678,"lon1":174.77090021,"rwy2":"23R","lat2":-37.00465122,"lon2":174.80606579}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"CLD","freq":128.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+}

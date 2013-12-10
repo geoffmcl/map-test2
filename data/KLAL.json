@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLAL","name":"Lakeland Linder Rgnl","lat":27.99232093,"lon":-082.01416650,"rwys":2,"ils":1,"index":1596795,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":2590,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":27.98923600,"lon1":-82.03386900,"rwy2":"27","lat2":27.98929400,"lon2":-82.00753300},
+{"len_m":1523,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":27.98345000,"lon1":-82.02037200,"rwy2":"23","lat2":27.99320000,"lon2":-82.00944700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"}
+]
+}

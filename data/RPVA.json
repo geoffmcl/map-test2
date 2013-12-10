@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RPVA","name":"Tacloban Daniel Z Romualdez","lat":11.22717400,"lon":125.02634900,"rwys":1,"ils":0,"index":5003592,"path":"e120n10/e125n11"
+,"runways":[
+{"len_m":2137,"wid_m":45.11,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":11.23726900,"lon1":125.02840000,"rwy2":"36","lat2":11.21798600,"lon2":125.02711400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TACLOBAN TWR"},
+{"type":"APP","freq":120.8,"desc":"TACLOBAN APP"}
+]
+}

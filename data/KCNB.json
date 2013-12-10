@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCNB","name":"Myers Field","lat":44.7294875,"lon":-96.2660025,"rwys":1,"ils":0,"index":1368490,"path":"w100n40/w097n44"
+,"runways":[
+{"len_m":1417,"wid_m":22.86,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":44.73280000,"lon1":-96.27364700,"rwy2":"30","lat2":44.72617500,"lon2":-96.25835800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":128.5,"desc":"MINNEAPOLIS CNTR"}
+]
+}

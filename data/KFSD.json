@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFSD","name":"Joe Foss Fld","lat":43.5809716666667,"lon":-96.7417971666667,"rwys":3,"ils":2,"index":1368417,"path":"w100n40/w097n43"
+,"runways":[
+{"len_m":2742,"wid_m":45.72,"hdg":34,"surf":"Concrete","rwy1":"03","lat1":43.57261900,"lon1":-96.75369400,"rwy2":"21","lat2":43.59286700,"lon2":-96.73426700},
+{"len_m":2438,"wid_m":45.72,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":43.59312800,"lon1":-96.74606400,"rwy2":"33","lat2":43.57325000,"lon2":-96.73326900},
+{"len_m":960,"wid_m":22.86,"hdg":103,"surf":"Concrete","rwy1":"09","lat1":43.57796900,"lon1":-96.74753600,"rwy2":"27","lat2":43.57599700,"lon2":-96.73595300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"SIOUX FALLS GND"},
+{"type":"TWR","freq":118.3,"desc":"SIOUX FALLS TWR"},
+{"type":"APP","freq":125.8,"desc":"SIOUX FALLS APP/DEP"},
+{"type":"APP","freq":126.9,"desc":"SIOUX FALLS APP/DEP"}
+]
+}

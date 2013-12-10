@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENEV","name":"Evenes","lat":68.4913,"lon":16.6781085,"rwys":1,"ils":1,"index":3221401,"path":"e010n60/e016n68"
+,"runways":[
+{"len_m":2814,"wid_m":45.11,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":68.50390600,"lon1":16.67666700,"rwy2":"35","lat2":68.47869400,"lon2":16.67955000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"TWR","freq":118,"desc":"TWR"}
+]
+}

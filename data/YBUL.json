@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBUL","name":"Bulgunnia","lat":-30.18182537,"lon":134.90535293,"rwys":3,"ils":0,"index":5148403,"path":"e130s40/e134s31"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":162,"surf":"Dirt","rwy1":"16","lat1":-30.18066407,"lon1":134.90563667,"rwy2":"34","lat2":-30.19142118,"lon2":134.90950825},
+{"len_m":950,"wid_m":29.87,"hdg":60,"surf":"Dirt","rwy1":"6","lat1":-30.18642227,"lon1":134.89760458,"rwy2":"24","lat2":-30.18224845,"lon2":134.90622057},
+{"len_m":911,"wid_m":24.99,"hdg":119,"surf":"Dirt","rwy1":"11","lat1":-30.18350780,"lon1":134.90058344,"rwy2":"29","lat2":-30.18752334,"lon2":134.90884486}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

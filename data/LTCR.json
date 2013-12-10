@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTCR","name":"Mardin","lat":37.223335,"lon":40.631668,"rwys":1,"ils":0,"index":3612618,"path":"e040n30/e040n37"
+,"runways":[
+{"len_m":2500,"wid_m":35.97,"hdg":37,"surf":"Concrete","rwy1":"03","lat1":37.21437800,"lon1":40.62312200,"rwy2":"21","lat2":37.23229200,"lon2":40.64021400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.65,"desc":"TWR"}
+]
+}

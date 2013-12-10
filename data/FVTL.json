@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FVTL","name":"Gweru Thornhill","lat":-19.4368895,"lon":29.8616825,"rwys":2,"ils":0,"index":3428774,"path":"e020s20/e029s20"
+,"runways":[
+{"len_m":2671,"wid_m":30.48,"hdg":115,"surf":"Asphalt","rwy1":"13L","lat1":-19.43118300,"lon1":29.85043600,"rwy2":"31R","lat2":-19.44160300,"lon2":29.87338600},
+{"len_m":2385,"wid_m":28.35,"hdg":115,"surf":"Asphalt","rwy1":"13R","lat1":-19.43273300,"lon1":29.85121100,"rwy2":"31L","lat2":-19.44203900,"lon2":29.87169700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"THORNHILL TWR"},
+{"type":"APP","freq":126.5,"desc":"THORNHILL APP"}
+]
+}

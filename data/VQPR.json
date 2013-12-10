@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VQPR","name":"Paro","lat":27.40319,"lon":89.4246055,"rwys":1,"ils":0,"index":4414809,"path":"e080n20/e089n27"
+,"runways":[
+{"len_m":1964,"wid_m":28.96,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":27.41090800,"lon1":89.41971700,"rwy2":"33","lat2":27.39547200,"lon2":89.42949400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"Paro Tower"},
+{"type":"TWR","freq":120.3,"desc":"Paro Tower"},
+{"type":"TWR","freq":122.7,"desc":"Paro Tower"}
+]
+}

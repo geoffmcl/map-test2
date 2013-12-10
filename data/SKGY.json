@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKGY","name":"Guaymaral","lat":4.812333,"lon":-74.0649165,"rwys":1,"ils":0,"index":1726391,"path":"w080n00/w075n04"
+,"runways":[
+{"len_m":1720,"wid_m":20.12,"hdg":103,"surf":"Asphalt","rwy1":"11","lat1":4.81408300,"lon1":-74.07247200,"rwy2":"29","lat2":4.81058300,"lon2":-74.05736100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"BOGOTA APP"}
+]
+}

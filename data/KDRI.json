@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDRI","name":"Beauregard Rgnl","lat":30.83220600,"lon":-093.33435300,"rwys":4,"ils":1,"index":1416754,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":1671,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":30.83798295,"lon1":-93.33780284,"rwy2":"36","lat2":30.82291105,"lon2":-93.33762516},
+{"len_m":1372,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":30.83771626,"lon1":-93.34814067,"rwy2":"27","lat2":30.83782374,"lon2":-93.33379733},
+{"len_m":1295,"wid_m":44.20,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":30.82911058,"lon1":-93.34448596,"rwy2":"22","lat2":30.83742542,"lon2":-93.33497004},
+{"len_m":1286,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":30.83745184,"lon1":-93.34758731,"rwy2":"32","lat2":30.82932416,"lon2":-93.33798869}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.7,"desc":"POLK APP/DEP"}
+]
+}

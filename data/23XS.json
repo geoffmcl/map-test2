@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"23XS","name":"Shorthorn Aux Landing Strip","lat":31.360737,"lon":-97.672836,"rwys":1,"ils":0,"index":1351249,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":670,"wid_m":15.24,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":31.36340700,"lon1":-97.67449000,"rwy2":"33","lat2":31.35806700,"lon2":-97.67118200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.8,"desc":"ATIS"},
+{"type":"TWR","freq":120.75,"desc":"GRAY TWR"}
+]
+}

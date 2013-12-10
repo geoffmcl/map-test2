@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEVD","name":"Valladolid - Villanubla","lat":41.71157100,"lon":-004.85541300,"rwys":2,"ils":1,"index":2875624,"path":"w010n40/w005n41"
+,"runways":[
+{"len_m":3003,"wid_m":60.05,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":41.69700000,"lon1":-4.86475000,"rwy2":"23","lat2":41.71605600,"lon2":-4.83913900},
+{"len_m":906,"wid_m":60.05,"hdg":144,"surf":"Dirt","rwy1":"15","lat1":41.71331700,"lon1":-4.86180800,"rwy2":"33","lat2":41.70670600,"lon2":-4.85541700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+}

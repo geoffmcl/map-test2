@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDCO","name":"Obermehler Schlotheim","lat":51.2676665,"lon":10.634832,"rwys":1,"ils":0,"index":3122002,"path":"e010n50/e010n51"
+,"runways":[
+{"len_m":1449,"wid_m":29.87,"hdg":109,"surf":"Asphalt","rwy1":"11","lat1":51.26986400,"lon1":10.62505300,"rwy2":"29","lat2":51.26546900,"lon2":10.64461100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.9,"desc":"INFO"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAWE","name":"Rio Grande","lat":-53.777667,"lon":-67.749389,"rwys":1,"ils":1,"index":1837321,"path":"w070s60/w068s54"
+,"runways":[
+{"len_m":1997,"wid_m":39.93,"hdg":87,"surf":"Asphalt","rwy1":"07","lat1":-53.77805600,"lon1":-67.76452800,"rwy2":"25","lat2":-53.77727800,"lon2":-67.73425000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"GRANDE TWR/APP"},
+{"type":"TWR","freq":120.2,"desc":"GRANDE TWR/APP"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMLB","name":"Melbourne Intl","lat":28.09898200,"lon":-080.64385200,"rwys":3,"ils":1,"index":1629569,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":3103,"wid_m":45.72,"hdg":86,"surf":"Asphalt","rwy1":"09R","lat1":28.10128100,"lon1":-80.66113300,"rwy2":"27L","lat2":28.10280600,"lon2":-80.62960000},
+{"len_m":1828,"wid_m":45.72,"hdg":86,"surf":"Asphalt","rwy1":"09L","lat1":28.10540600,"lon1":-80.65985800,"rwy2":"27R","lat2":28.10630300,"lon2":-80.64127800},
+{"len_m":914,"wid_m":22.86,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":28.09590300,"lon1":-80.63739200,"rwy2":"23","lat2":28.10202800,"lon2":-80.63115000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.55,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.65,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.05,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":132.65,"desc":"ORLANDO APP/DEP"}
+]
+}

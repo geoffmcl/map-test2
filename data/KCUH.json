@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCUH","name":"Cushing Muni","lat":35.95008325,"lon":-96.7740715,"rwys":4,"ils":0,"index":1367928,"path":"w100n30/w097n35"
+,"runways":[
+{"len_m":1585,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":35.95725600,"lon1":-96.76928600,"rwy2":"36","lat2":35.94296900,"lon2":-96.76913900},
+{"len_m":841,"wid_m":24.38,"hdg":28,"surf":"Dirt","rwy1":"02","lat1":35.94728600,"lon1":-96.77474700,"rwy2":"20","lat2":35.95395300,"lon2":-96.77030300},
+{"len_m":823,"wid_m":16.76,"hdg":89,"surf":"Dirt","rwy1":"08","lat1":35.95061100,"lon1":-96.78166700,"rwy2":"26","lat2":35.95061100,"lon2":-96.77254400},
+{"len_m":789,"wid_m":22.86,"hdg":122,"surf":"Dirt","rwy1":"11","lat1":35.95089700,"lon1":-96.78113600,"rwy2":"29","lat2":35.94708300,"lon2":-96.77375000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

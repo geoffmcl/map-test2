@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OKBK","name":"Kuwait Intl","lat":29.23497580,"lon":047.97438810,"rwys":2,"ils":4,"index":3726795,"path":"e040n20/e047n29"
+,"runways":[
+{"len_m":3500,"wid_m":45.11,"hdg":155,"surf":"Asphalt","rwy1":"15L","lat1":29.24118300,"lon1":47.98340600,"rwy2":"33R","lat2":29.21255300,"lon2":47.99861100},
+{"len_m":3401,"wid_m":45.11,"hdg":155,"surf":"Concrete","rwy1":"15R","lat1":29.24047200,"lon1":47.96153900,"rwy2":"33L","lat2":29.21265800,"lon2":47.97631700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.22,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"},
+{"type":"APP","freq":124.8,"desc":"APP"}
+]
+}

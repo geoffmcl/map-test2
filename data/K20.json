@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"K20","name":"Wendell H Ford","lat":37.388521,"lon":-83.26257025,"rwys":2,"ils":0,"index":1581018,"path":"w090n30/w084n37"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":37.39048100,"lon1":-83.26582500,"rwy2":"32","lat2":37.38013900,"lon2":-83.25450600},
+{"len_m":989,"wid_m":18.29,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":37.38945600,"lon1":-83.26978100,"rwy2":"24","lat2":37.39400800,"lon2":-83.26016900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

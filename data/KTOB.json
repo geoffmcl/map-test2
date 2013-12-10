@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTOB","name":"Dodge Center","lat":44.01805775,"lon":-92.83279425,"rwys":2,"ils":0,"index":1433984,"path":"w100n40/w093n44"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":165,"surf":"Concrete","rwy1":"16","lat1":44.02320600,"lon1":-92.83243300,"rwy2":"34","lat2":44.01124700,"lon2":-92.82818900},
+{"len_m":695,"wid_m":60.96,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":44.01666700,"lon1":-92.83833300,"rwy2":"22","lat2":44.02111100,"lon2":-92.83222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+}

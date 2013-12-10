@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LESU","name":"Seo De Urgel","lat":42.33773608,"lon":001.40595924,"rwys":1,"ils":0,"index":2973969,"path":"e000n40/e001n42"
+,"runways":[
+{"len_m":1339,"wid_m":29.87,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":42.33596527,"lon1":1.40651531,"rwy2":"21","lat2":42.34634445,"lon2":1.41478677}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":1,"surf":"Concrete","lat1":42.33722903,"lon1":1.40201844}
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDTF","name":"Freiburg","lat":48.02256630,"lon":007.83570153,"rwys":1,"ils":0,"index":3072643,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":1241,"wid_m":29.87,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":48.02788900,"lon1":7.82969400,"rwy2":"34","lat2":48.01741700,"lon2":7.83547200}
+]
+,"helipads":[
+{"rwy1":"H","len_m":6,"wid_m":6.10,"hdg":7,"surf":"Asphalt","lat1":48.02042924,"lon1":7.83651048}
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"Freiburg INFO"},
+{"type":"TWR","freq":128.95,"desc":"LANGEN Information"}
+]
+}

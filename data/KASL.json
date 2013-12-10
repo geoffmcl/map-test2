@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KASL","name":"Harrison Co","lat":32.5207295,"lon":-94.30777975,"rwys":2,"ils":0,"index":1400482,"path":"w100n30/w095n32"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":156,"surf":"Asphalt","rwy1":"15","lat1":32.52590300,"lon1":-94.31096100,"rwy2":"33","lat2":32.51328100,"lon2":-94.30454700},
+{"len_m":1005,"wid_m":18.29,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":32.51765600,"lon1":-94.30978600,"rwy2":"19","lat2":32.52607800,"lon2":-94.30582500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"SHREVEPORT APP/DEP"}
+]
+}

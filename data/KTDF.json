@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTDF","name":"Person Co","lat":36.2846155,"lon":-78.984226,"rwys":1,"ils":1,"index":1662864,"path":"w080n30/w079n36"
+,"runways":[
+{"len_m":1775,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":36.27953100,"lon1":-78.99185800,"rwy2":"24","lat2":36.28970000,"lon2":-78.97659400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.35,"desc":"RALEIGH APP/DEP"}
+]
+}

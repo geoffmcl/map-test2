@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYYQ","name":"Churchill","lat":58.743971,"lon":-94.06386375,"rwys":2,"ils":0,"index":1402155,"path":"w100n50/w095n58"
+,"runways":[
+{"len_m":2802,"wid_m":48.77,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":58.74566400,"lon1":-94.07770800,"rwy2":"33","lat2":58.72332500,"lon2":-94.05544200},
+{"len_m":1219,"wid_m":30.48,"hdg":71,"surf":"Gravel","rwy1":"07","lat1":58.75166700,"lon1":-94.07111100,"rwy2":"25","lat2":58.75522800,"lon2":-94.05119400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.9,"desc":"INTL AIR"},
+{"type":"TWR","freq":122.2,"desc":"MF CHURCHILL RDO"}
+]
+}

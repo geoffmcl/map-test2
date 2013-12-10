@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNBG","name":"New Orleans Nas Jrb","lat":29.8250625,"lon":-90.02670075,"rwys":2,"ils":1,"index":1465843,"path":"w100n20/w091n29"
+,"runways":[
+{"len_m":3046,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":29.82350800,"lon1":-90.03729700,"rwy2":"22","lat2":29.84319400,"lon2":-90.01530600},
+{"len_m":1828,"wid_m":60.96,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":29.82314200,"lon1":-90.03311100,"rwy2":"32","lat2":29.81040600,"lon2":-90.02108900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"NAVY NEW ORLEANS GND"},
+{"type":"TWR","freq":123.8,"desc":"NAVY NEW ORLEANS TWR"},
+{"type":"APP","freq":123.85,"desc":"APP/DEP"}
+]
+}

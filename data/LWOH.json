@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LWOH","name":"Ohrid","lat":41.1799265,"lon":20.742314,"rwys":1,"ils":1,"index":3285194,"path":"e020n40/e020n41"
+,"runways":[
+{"len_m":2536,"wid_m":42.67,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":41.16904700,"lon1":20.73772500,"rwy2":"20","lat2":41.19080600,"lon2":20.74690300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"}
+]
+}

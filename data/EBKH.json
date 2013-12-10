@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EBKH","name":"Balen Keiheuvel","lat":51.18061253,"lon":005.21542511,"rwys":1,"ils":0,"index":3040072,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":1000,"wid_m":35.97,"hdg":65,"surf":"Turf/grass","rwy1":"07","lat1":51.17920361,"lon1":5.21332092,"rwy2":"25","lat2":51.18292101,"lon2":5.22634836}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.2,"desc":"Balen Radio"},
+{"type":"CLD","freq":123.5,"desc":"Balen Radio (gliders)"},
+{"type":"GND","freq":122.5,"desc":"Kleine Brogel Approach"},
+{"type":"TWR","freq":122.1,"desc":"Kleine Brogel Tower"},
+{"type":"TWR","freq":123.8,"desc":"Zoersel Radio"},
+{"type":"APP","freq":129.32,"desc":"Brussels Radio"}
+]
+}

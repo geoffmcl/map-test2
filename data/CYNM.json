@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYNM","name":"Matagami","lat":49.7616905,"lon":-77.8025045,"rwys":1,"ils":0,"index":1680112,"path":"w080n40/w078n49"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":49.76646400,"lon1":-77.81009200,"rwy2":"33","lat2":49.75691700,"lon2":-77.79491700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

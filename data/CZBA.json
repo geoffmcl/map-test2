@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CZBA","name":"Burlington Airpark","lat":43.4415315,"lon":-79.84986875,"rwys":2,"ils":0,"index":1646936,"path":"w080n40/w080n43"
+,"runways":[
+{"len_m":1127,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":43.44500000,"lon1":-79.85472200,"rwy2":"32","lat2":43.43834900,"lon2":-79.84419800},
+{"len_m":686,"wid_m":30.48,"hdg":79,"surf":"Turf/grass","rwy1":"09","lat1":43.44083300,"lon1":-79.85444700,"rwy2":"27","lat2":43.44194400,"lon2":-79.84610800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"CTAF/UNICOM"},
+{"type":"DEP","freq":119.3,"desc":"TORONTO CNTR"}
+]
+}

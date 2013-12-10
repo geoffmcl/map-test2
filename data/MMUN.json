@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMUN","name":"Cancun International","lat":21.04064273,"lon":-086.87074179,"rwys":2,"ils":2,"index":1530817,"path":"w090n20/w087n21"
+,"runways":[
+{"len_m":3490,"wid_m":57.91,"hdg":123,"surf":"Asphalt","rwy1":"12R","lat1":21.04529800,"lon1":-86.89098800,"rwy2":"30L","lat2":21.02780800,"lon2":-86.86304400},
+{"len_m":2787,"wid_m":45.11,"hdg":123,"surf":"Asphalt","rwy1":"12L","lat1":21.05496400,"lon1":-86.88083500,"rwy2":"30R","lat2":21.04107800,"lon2":-86.85846300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ATIS"},
+{"type":"GND","freq":123.2,"desc":"Radio Ground Control"},
+{"type":"TWR","freq":118.6,"desc":"Radio Tower"},
+{"type":"APP","freq":121.1,"desc":"Radio Approach"},
+{"type":"DEP","freq":128.3,"desc":"Radio Departure Merida Center"}
+]
+}

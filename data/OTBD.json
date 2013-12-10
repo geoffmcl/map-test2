@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OTBD","name":"Doha Intl","lat":25.2610555,"lon":51.5649985,"rwys":1,"ils":1,"index":3792082,"path":"e050n20/e051n25"
+,"runways":[
+{"len_m":4576,"wid_m":46.02,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":25.28022200,"lon1":51.55652500,"rwy2":"34","lat2":25.24188900,"lon2":51.57347200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"GND","freq":118.27,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP"},
+{"type":"APP","freq":119.4,"desc":"APP"}
+]
+}

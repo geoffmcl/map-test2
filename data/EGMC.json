@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGMC","name":"Southend","lat":51.56772709,"lon":000.70078198,"rwys":1,"ils":1,"index":2958178,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":1597,"wid_m":36.88,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":51.56724102,"lon1":0.68624247,"rwy2":"24","lat2":51.57564445,"lon2":0.70492311}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.05,"desc":"Southend Information"},
+{"type":"TWR","freq":127.72,"desc":"Southend Tower"},
+{"type":"APP","freq":130.77,"desc":"Southend Approach"},
+{"type":"APP","freq":128.95,"desc":"Southend Radar"}
+]
+}

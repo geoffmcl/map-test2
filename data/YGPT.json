@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGPT","name":"Garden Point","lat":-11.40311871,"lon":130.42108538,"rwys":1,"ils":0,"index":5084067,"path":"e130s20/e130s12"
+,"runways":[
+{"len_m":1263,"wid_m":28.96,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":-11.40379048,"lon1":130.42205307,"rwy2":"22","lat2":-11.39526543,"lon2":130.42975358}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.15,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"GARDEN POINT MULT"}
+]
+}

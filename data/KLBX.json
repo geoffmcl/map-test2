@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLBX","name":"Brazoria Co","lat":29.10873545,"lon":-95.46218632,"rwys":1,"ils":1,"index":1383874,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":2133,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":29.11835995,"lon1":-95.46219932,"rwy2":"35","lat2":29.09911095,"lon2":-95.46217332}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.2,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP/DEP"}
+]
+}

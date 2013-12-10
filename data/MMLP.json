@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMLP","name":"General Manuel Marquez De Leon Intl","lat":24.07579600,"lon":-110.36779800,"rwys":1,"ils":1,"index":1137794,"path":"w120n20/w111n24"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":187,"surf":"Concrete","rwy1":"18","lat1":24.08389200,"lon1":-110.36087800,"rwy2":"36","lat2":24.06149700,"lon2":-110.36406900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"LA PAZ TWR"},
+{"type":"APP","freq":120.6,"desc":"LA PAZ APP"}
+]
+}

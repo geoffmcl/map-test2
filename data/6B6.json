@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"6B6","name":"Minute Man Air Field","lat":42.46200198,"lon":-071.51728675,"rwys":2,"ils":0,"index":1777945,"path":"w080n40/w072n42"
+,"runways":[
+{"len_m":842,"wid_m":14.94,"hdg":16,"surf":"Asphalt","rwy1":"03","lat1":42.45754400,"lon1":-71.52015900,"rwy2":"21","lat2":42.46481000,"lon2":-71.51723600},
+{"len_m":467,"wid_m":21.03,"hdg":106,"surf":"Dirt","rwy1":"12","lat1":42.46031800,"lon1":-71.51896800,"rwy2":"30","lat2":42.45911900,"lon2":-71.51352100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/Unicom"}
+]
+}

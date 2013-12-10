@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFCI","name":"Chesterfield Co","lat":37.406435,"lon":-77.5248365,"rwys":1,"ils":1,"index":1679321,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":141,"surf":"Asphalt","rwy1":"15","lat1":37.41231400,"lon1":-77.53078100,"rwy2":"33","lat2":37.40055600,"lon2":-77.51889200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.6,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":134.7,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":134.7,"desc":"POTOMAC DEP"}
+]
+}

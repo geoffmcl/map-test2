@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRZR","name":"Cleveland Regional Jetport","lat":35.211502,"lon":-84.79978464,"rwys":1,"ils":0,"index":1564488,"path":"w090n30/w085n35"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":29,"surf":"Concrete","rwy1":"03","lat1":35.20489812,"lon1":-84.80427054,"rwy2":"21","lat2":35.21810588,"lon2":-84.79529873}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.47,"desc":"AWOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"APP","freq":125.1,"desc":"Chattanooga APCH/DEP"},
+{"type":"DEP","freq":125.1,"desc":"Chattanooga APCH/DEP"}
+]
+}

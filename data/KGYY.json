@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGYY","name":"Gary Chicago Intl","lat":41.6164215,"lon":-87.4135725,"rwys":2,"ils":1,"index":1515746,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":41.62134400,"lon1":-87.42170600,"rwy2":"30","lat2":41.61055600,"lon2":-87.40051400},
+{"len_m":1098,"wid_m":30.48,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":41.61228300,"lon1":-87.41841700,"rwy2":"20","lat2":41.62150300,"lon2":-87.41365300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"CTAF","freq":125.6,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"TWR"},
+{"type":"APP","freq":133.1,"desc":"CHICAGO APP/DEP"}
+]
+}

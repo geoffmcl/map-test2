@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VOMM","name":"Chennai Intl","lat":12.99014760,"lon":080.17636110,"rwys":2,"ils":1,"index":4266425,"path":"e080n10/e080n12"
+,"runways":[
+{"len_m":3659,"wid_m":45.11,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":12.98413900,"lon1":80.15295300,"rwy2":"25","lat2":12.99599200,"lon2":80.18444200},
+{"len_m":2044,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":13.00193900,"lon1":80.16583600,"rwy2":"30","lat2":12.99336900,"lon2":80.18253600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"APP"},
+{"type":"APP","freq":119.5,"desc":"APP"},
+{"type":"APP","freq":125.7,"desc":"SCHENNAI RADARS"},
+{"type":"APP","freq":127.9,"desc":"SCHENNAI RADARS"}
+]
+}

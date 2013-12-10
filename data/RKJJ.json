@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKJJ","name":"Gwangju","lat":35.12617225,"lon":126.80913675,"rwys":2,"ils":1,"index":5021515,"path":"e120n30/e126n35"
+,"runways":[
+{"len_m":2835,"wid_m":45.72,"hdg":32,"surf":"Concrete","rwy1":"04L","lat1":35.11572200,"lon1":126.80011100,"rwy2":"22R","lat2":35.13730600,"lon2":126.81677800},
+{"len_m":2835,"wid_m":45.72,"hdg":29,"surf":"Concrete","rwy1":"04R","lat1":35.11475300,"lon1":126.80206900,"rwy2":"22L","lat2":35.13690800,"lon2":126.81758900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.87,"desc":"ATIS"},
+{"type":"GND","freq":118.05,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"},
+{"type":"APP","freq":132.25,"desc":"GWANJU ARRIVAL"},
+{"type":"APP","freq":132.5,"desc":"GWANJU ARRIVAL"},
+{"type":"DEP","freq":124,"desc":"DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCDC","name":"Cedar City Rgnl","lat":37.70118275,"lon":-113.09862575,"rwys":2,"ils":1,"index":1089515,"path":"w120n30/w114n37"
+,"runways":[
+{"len_m":2636,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":37.69060800,"lon1":-113.10781400,"rwy2":"20","lat2":37.71024200,"lon2":-113.09098600},
+{"len_m":1469,"wid_m":18.29,"hdg":96,"surf":"Asphalt","rwy1":"08","lat1":37.70272500,"lon1":-113.10612500,"rwy2":"26","lat2":37.70115600,"lon2":-113.08957800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+}

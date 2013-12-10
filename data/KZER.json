@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KZER","name":"Schuylkill Co","lat":40.7069195,"lon":-76.371945,"rwys":2,"ils":0,"index":1695914,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":1400,"wid_m":22.86,"hdg":97,"surf":"Asphalt","rwy1":"11","lat1":40.70641100,"lon1":-76.38367200,"rwy2":"29","lat2":40.70470000,"lon2":-76.36725800},
+{"len_m":691,"wid_m":42.67,"hdg":31,"surf":"Turf/grass","rwy1":"04","lat1":40.70561400,"lon1":-76.37053300,"rwy2":"22","lat2":40.71095300,"lon2":-76.36631700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.25,"desc":"HARRISBURG APP/DEP"}
+]
+}

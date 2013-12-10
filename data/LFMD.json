@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFMD","name":"Mandelieu","lat":43.54652383,"lon":006.95398428,"rwys":3,"ils":1,"index":3055971,"path":"e000n40/e006n43"
+,"runways":[
+{"len_m":1609,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":43.55443098,"lon1":6.94952802,"rwy2":"35","lat2":43.54006498,"lon2":6.95210802},
+{"len_m":741,"wid_m":29.87,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":43.54361840,"lon1":6.95332555,"rwy2":"23","lat2":43.54830407,"lon2":6.95985422},
+{"len_m":569,"wid_m":49.99,"hdg":172,"surf":"Turf/grass","rwy1":"17L","lat1":43.54953639,"lon1":6.95142592,"rwy2":"35R","lat2":43.54444952,"lon2":6.95233739}
+]
+,"helipads":[
+{"rwy1":"H3","len_m":13,"wid_m":14.02,"hdg":6,"surf":"Concrete","lat1":43.54664431,"lon1":6.95752851}
+]
+,"radios":[
+{"type":"ATIS","freq":127.47,"desc":"LFMD ATIS"},
+{"type":"GND","freq":121.8,"desc":"CANNES GND"},
+{"type":"TWR","freq":118.62,"desc":"CANNES TWR"}
+]
+}

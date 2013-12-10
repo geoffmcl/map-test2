@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNFW","name":"Fort Worth Nas Jrb","lat":32.769186,"lon":-97.4415335,"rwys":1,"ils":2,"index":1351346,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":3657,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.78567500,"lon1":-97.44135600,"rwy2":"35","lat2":32.75269700,"lon2":-97.44171100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.4,"desc":"NAVY FORT WORTH GND"},
+{"type":"TWR","freq":120.95,"desc":"NAVY FORT WORTH TWR"},
+{"type":"APP","freq":125.8,"desc":"RGNL APP/DEP"},
+{"type":"APP","freq":128.77,"desc":"NAVY FORT WORTH ARR"}
+]
+}

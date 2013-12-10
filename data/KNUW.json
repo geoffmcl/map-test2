@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNUW","name":"Whidbey Island Nas","lat":48.35180275,"lon":-122.65590725,"rwys":2,"ils":1,"index":942737,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":86,"surf":"Concrete","rwy1":"07","lat1":48.35126900,"lon1":-122.67282800,"rwy2":"25","lat2":48.35242800,"lon2":-122.63997800},
+{"len_m":2438,"wid_m":60.96,"hdg":154,"surf":"Concrete","rwy1":"13","lat1":48.36166700,"lon1":-122.66245600,"rwy2":"31","lat2":48.34184700,"lon2":-122.64836700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.15,"desc":"ATIS"},
+{"type":"CLD","freq":124.15,"desc":"CLNC DEL"},
+{"type":"CLD","freq":135.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":127.9,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP/DEP"},
+{"type":"APP","freq":120.7,"desc":"APP/DEP"}
+]
+}

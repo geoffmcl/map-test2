@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBKX","name":"Brookings Rgnl","lat":44.3047385,"lon":-96.8176235,"rwys":2,"ils":1,"index":1368464,"path":"w100n40/w097n44"
+,"runways":[
+{"len_m":1594,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":44.30973100,"lon1":-96.82171900,"rwy2":"30","lat2":44.30071700,"lon2":-96.80616900},
+{"len_m":1096,"wid_m":18.29,"hdg":176,"surf":"Asphalt","rwy1":"17","lat1":44.30918100,"lon1":-96.82167800,"rwy2":"35","lat2":44.29932500,"lon2":-96.82092800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

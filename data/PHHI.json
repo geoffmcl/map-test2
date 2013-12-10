@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHHI","name":"Wheeler Aaf","lat":21.47671805,"lon":-158.03351586,"rwys":1,"ils":0,"index":351199,"path":"w160n20/w159n21"
+,"runways":[
+{"len_m":1690,"wid_m":89.92,"hdg":68,"surf":"Asphalt","rwy1":"06","lat1":21.47867318,"lon1":-158.04539675,"rwy2":"24","lat2":21.48420540,"lon2":-158.03019516}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":28,"wid_m":27.74,"hdg":-158,"surf":"Concrete","lat1":21.47901201,"lon1":-158.03716829}
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ATIS"},
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"VFR ADVSY SVC"},
+{"type":"TWR","freq":120.9,"desc":"VFR ADVSY SVC"},
+{"type":"APP","freq":118.3,"desc":"HONOLULU APP"},
+{"type":"APP","freq":119.1,"desc":"HONOLULU APP"},
+{"type":"DEP","freq":118.3,"desc":"DEP"},
+{"type":"DEP","freq":119.1,"desc":"DEP"},
+{"type":"DEP","freq":124.8,"desc":"DEP"}
+]
+}

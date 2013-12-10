@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1R7","name":"Brookhaven Lincoln Co","lat":31.6058475,"lon":-90.4093165,"rwys":1,"ils":0,"index":1465954,"path":"w100n30/w091n31"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":31.60121700,"lon1":-90.41525000,"rwy2":"22","lat2":31.61047800,"lon2":-90.40338300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCKH","name":"Kaohsiung Intl","lat":22.577093,"lon":120.350006,"rwys":1,"ils":2,"index":4922401,"path":"e120n20/e120n22"
+,"runways":[
+{"len_m":3148,"wid_m":60.05,"hdg":91,"surf":"Concrete","rwy1":"09","lat1":22.57756700,"lon1":120.33470600,"rwy2":"27","lat2":22.57661900,"lon2":120.36530600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":125.7,"desc":"APP"},
+{"type":"APP","freq":124.7,"desc":"APP"},
+{"type":"APP","freq":121.1,"desc":"APP"}
+]
+}

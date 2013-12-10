@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMLC","name":"Mc Alester Rgnl","lat":34.8824,"lon":-95.7834735,"rwys":1,"ils":1,"index":1384248,"path":"w100n30/w096n34"
+,"runways":[
+{"len_m":1707,"wid_m":30.48,"hdg":20,"surf":"Concrete","rwy1":"01","lat1":34.87518600,"lon1":-95.78672500,"rwy2":"19","lat2":34.88961400,"lon2":-95.78022200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"T65","name":"Mid Valley","lat":26.177625,"lon":-97.973054,"rwys":1,"ils":0,"index":1350920,"path":"w100n20/w098n26"
+,"runways":[
+{"len_m":1523,"wid_m":21.34,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":26.18301100,"lon1":-97.97778900,"rwy2":"31","lat2":26.17223900,"lon2":-97.96831900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.95,"desc":"VALLEY APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDUO","name":"Oberrissdorf","lat":51.542987125,"lon":11.595337585,"rwys":1,"ils":0,"index":3138402,"path":"e010n50/e011n51"
+,"runways":[
+{"len_m":601,"wid_m":24.99,"hdg":134,"surf":"Turf/grass","rwy1":"14","lat1":51.54536007,"lon1":11.59170191,"rwy2":"32","lat2":51.54158843,"lon2":11.59791642}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":11,"surf":"Concrete","lat1":51.54250000,"lon1":11.59586600}
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"START"}
+]
+}

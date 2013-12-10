@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFVA","name":"Vaasa","lat":63.05065,"lon":21.7621735,"rwys":1,"ils":1,"index":3302977,"path":"e020n60/e021n63"
+,"runways":[
+{"len_m":2659,"wid_m":47.85,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":63.06206100,"lon1":21.75448900,"rwy2":"34","lat2":63.03923900,"lon2":21.76985800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+}

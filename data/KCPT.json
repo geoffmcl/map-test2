@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCPT","name":"Cleburne Muni","lat":32.3537515,"lon":-97.433743,"rwys":1,"ils":0,"index":1351314,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":32.36107500,"lon1":-97.43701900,"rwy2":"33","lat2":32.34642800,"lon2":-97.43046700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.97,"desc":"RGNL APP/DEP"}
+]
+}

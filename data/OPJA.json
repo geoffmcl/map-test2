@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPJA","name":"Shahbaz Ab","lat":28.2842625,"lon":68.45048325,"rwys":2,"ils":1,"index":4070801,"path":"e060n20/e068n28"
+,"runways":[
+{"len_m":3074,"wid_m":24.38,"hdg":147,"surf":"Asphalt","rwy1":"15L","lat1":28.29602500,"lon1":68.44278300,"rwy2":"33R","lat2":28.27268900,"lon2":68.45972500},
+{"len_m":3033,"wid_m":45.11,"hdg":147,"surf":"Asphalt","rwy1":"15","lat1":28.29567800,"lon1":68.44135000,"rwy2":"33","lat2":28.27265800,"lon2":68.45807500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.52,"desc":"GND"},
+{"type":"TWR","freq":124.62,"desc":"JACOBABAD TWR"}
+]
+}

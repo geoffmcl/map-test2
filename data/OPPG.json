@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OPPG","name":"Panjgur","lat":26.954546,"lon":64.1325165,"rwys":1,"ils":0,"index":4005176,"path":"e060n20/e064n26"
+,"runways":[
+{"len_m":1512,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":26.95910000,"lon1":64.12684400,"rwy2":"31","lat2":26.94999200,"lon2":64.13818900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

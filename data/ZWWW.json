@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZWWW","name":"Diwopu","lat":43.9071055,"lon":87.474243,"rwys":1,"ils":2,"index":4383097,"path":"e080n40/e087n43"
+,"runways":[
+{"len_m":3603,"wid_m":45.11,"hdg":73,"surf":"Concrete","rwy1":"07","lat1":43.90253300,"lon1":87.45272500,"rwy2":"25","lat2":43.91167800,"lon2":87.49576100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":125,"desc":"TWR"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSAA","name":"Shively Fld","lat":41.44554785,"lon":-106.80817487,"rwys":1,"ils":0,"index":1204440,"path":"w110n40/w107n41"
+,"runways":[
+{"len_m":2789,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"05","lat1":41.43843859,"lon1":-106.84269656,"rwy2":"23","lat2":41.44865509,"lon2":-106.81220718}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

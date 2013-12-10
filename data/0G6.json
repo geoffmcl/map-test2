@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"0G6","name":"Williams Co","lat":41.4672945,"lon":-84.5067655,"rwys":1,"ils":0,"index":1564889,"path":"w090n40/w085n41"
+,"runways":[
+{"len_m":1457,"wid_m":22.86,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":41.46486100,"lon1":-84.51486700,"rwy2":"25","lat2":41.46972800,"lon2":-84.49866400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.35,"desc":"TOLEDO APP/DEP"}
+]
+}

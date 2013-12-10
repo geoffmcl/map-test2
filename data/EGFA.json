@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGFA","name":"West Wales Aberporth","lat":52.11604196,"lon":-004.55968407,"rwys":2,"ils":0,"index":2876289,"path":"w010n50/w005n52"
+,"runways":[
+{"len_m":548,"wid_m":35.05,"hdg":36,"surf":"Turf/grass","rwy1":"3","lat1":52.11516638,"lon1":-4.55933699,"rwy2":"21","lat2":52.11913647,"lon2":-4.55458923},
+{"len_m":1259,"wid_m":29.87,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":52.11300887,"lon1":-4.56818437,"rwy2":"26","lat2":52.11641808,"lon2":-4.55065916}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.15,"desc":"West Wales Information"}
+]
+}

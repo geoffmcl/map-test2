@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAKZ","name":"Kleinsee","lat":-29.68974,"lon":17.094006,"rwys":2,"ils":0,"index":3231504,"path":"e010s30/e017s30"
+,"runways":[
+{"len_m":1495,"wid_m":29.87,"hdg":5,"surf":"Asphalt","rwy1":"02","lat1":-29.69512205,"lon1":17.09332903,"rwy2":"20","lat2":-29.68167795,"lon2":17.09468297},
+{"len_m":1500,"wid_m":30.48,"hdg":50,"surf":"Gravel","rwy1":"08","lat1":-29.69541736,"lon1":17.08805572,"rwy2":"26","lat2":-29.68674264,"lon2":17.09995628}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"CTAF"}
+]
+}

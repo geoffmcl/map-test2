@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJSK","name":"Akita","lat":39.6156445,"lon":140.2186655,"rwys":1,"ils":1,"index":5251168,"path":"e140n30/e140n39"
+,"runways":[
+{"len_m":2499,"wid_m":60.96,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":39.61693900,"lon1":140.20420600,"rwy2":"28","lat2":39.61435000,"lon2":140.23312500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.1,"desc":"SAPPORO INFO"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.6,"desc":"TWR"}
+]
+}

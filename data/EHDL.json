@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EHDL","name":"Deelen","lat":52.06066900,"lon":005.87200200,"rwys":1,"ils":0,"index":3040131,"path":"e000n50/e005n52"
+,"runways":[
+{"len_m":2949,"wid_m":49.99,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":52.04702800,"lon1":5.86552500,"rwy2":"20","lat2":52.07230600,"lon2":5.87847800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":123.57,"desc":"RAPCON WEST MIL ATCC"}
+]
+}

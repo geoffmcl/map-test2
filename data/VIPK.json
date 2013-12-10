@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VIPK","name":"Pathankot","lat":32.233621,"lon":75.6345865,"rwys":1,"ils":0,"index":4185738,"path":"e070n30/e075n32"
+,"runways":[
+{"len_m":2733,"wid_m":45.72,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":32.22145600,"lon1":75.63225600,"rwy2":"19","lat2":32.24578600,"lon2":75.63691700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+}

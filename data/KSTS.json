@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSTS","name":"Charles M. Schulz - Sonoma Co","lat":38.50987320,"lon":-122.80541647,"rwys":2,"ils":1,"index":942112,"path":"w130n30/w123n38"
+,"runways":[
+{"len_m":1559,"wid_m":46.02,"hdg":157,"surf":"Asphalt","rwy1":"14","lat1":38.51527500,"lon1":-122.81261100,"rwy2":"32","lat2":38.50232800,"lon2":-122.80568300},
+{"len_m":1525,"wid_m":29.87,"hdg":29,"surf":"Asphalt","rwy1":"01","lat1":38.50315800,"lon1":-122.82095600,"rwy2":"19","lat2":38.51515600,"lon2":-122.81243900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-122,"surf":"Asphalt","lat1":38.51062776,"lon1":-122.80735658}
+]
+,"radios":[
+{"type":"ATIS","freq":120.55,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":127.8,"desc":"Oakland ARTCC"}
+]
+}

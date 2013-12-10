@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDPL","name":"Duplin Co","lat":35.0000625,"lon":-77.9816945,"rwys":1,"ils":0,"index":1679168,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":1829,"wid_m":22.86,"hdg":36,"surf":"Asphalt","rwy1":"05","lat1":34.99342200,"lon1":-77.98763300,"rwy2":"23","lat2":35.00670300,"lon2":-77.97575600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.7,"desc":"SEYMOUR JOHNSON APP"}
+]
+}

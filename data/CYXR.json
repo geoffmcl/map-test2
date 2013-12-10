@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYXR","name":"Timiskaming Rgnl","lat":47.694986,"lon":-79.85256525,"rwys":2,"ils":0,"index":1647208,"path":"w080n40/w080n47"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":63,"surf":"Asphalt","rwy1":"08","lat1":47.69391900,"lon1":-79.85795800,"rwy2":"26","lat2":47.70130000,"lon2":-79.83618600},
+{"len_m":898,"wid_m":45.72,"hdg":149,"surf":"Gravel","rwy1":"16","lat1":47.69583600,"lon1":-79.86111400,"rwy2":"34","lat2":47.68888900,"lon2":-79.85500300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122,"desc":"MF"}
+]
+}

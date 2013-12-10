@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AU02","name":"Adelaide Uni. Lochiel","lat":-33.89171200,"lon":138.09834300,"rwys":2,"ils":0,"index":5213696,"path":"e130s40/e138s34"
+,"runways":[
+{"len_m":1400,"wid_m":49.99,"hdg":153,"surf":"Turf/grass","rwy1":"15","lat1":-33.88199451,"lon1":138.10077334,"rwy2":"33","lat2":-33.89326551,"lon2":138.10759696},
+{"len_m":1301,"wid_m":49.99,"hdg":29,"surf":"Turf/grass","rwy1":"2","lat1":-33.89184970,"lon1":138.09965674,"rwy2":"20","lat2":-33.88160700,"lon2":138.10651800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

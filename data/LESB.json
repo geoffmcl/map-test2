@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LESB","name":"Son Bonet","lat":39.60256072,"lon":002.70538265,"rwys":1,"ils":0,"index":2990178,"path":"e000n30/e002n39"
+,"runways":[
+{"len_m":999,"wid_m":21.95,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":39.59640319,"lon1":2.69914861,"rwy2":"24","lat2":39.60229732,"lon2":2.70794841}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"PALMA TWR"},
+{"type":"APP","freq":119.4,"desc":"PALMA APP"}
+]
+}

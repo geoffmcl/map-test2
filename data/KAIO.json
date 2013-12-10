@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAIO","name":"Atlantic Muni","lat":41.40762925,"lon":-95.0477145,"rwys":2,"ils":0,"index":1384667,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":1192,"wid_m":22.86,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":41.41100300,"lon1":-95.05281100,"rwy2":"30","lat2":41.40515000,"lon2":-95.04085600},
+{"len_m":579,"wid_m":56.39,"hdg":179,"surf":"Turf/grass","rwy1":"17","lat1":41.40978900,"lon1":-95.04862200,"rwy2":"35","lat2":41.40457500,"lon2":-95.04856900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

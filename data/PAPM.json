@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAPM","name":"Platinum","lat":59.01129775,"lon":-161.8197565,"rwys":2,"ils":0,"index":304448,"path":"w170n50/w162n59"
+,"runways":[
+{"len_m":1006,"wid_m":15.24,"hdg":154,"surf":"Gravel","rwy1":"13","lat1":59.01560800,"lon1":-161.82313900,"rwy2":"31","lat2":59.00742800,"lon2":-161.81569200},
+{"len_m":585,"wid_m":15.24,"hdg":108,"surf":"Gravel","rwy1":"09","lat1":59.01189700,"lon1":-161.82493900,"rwy2":"27","lat2":59.01025800,"lon2":-161.81525600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS THREE"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":127.6,"desc":"ANCHORAGE ARTCC"}
+]
+}

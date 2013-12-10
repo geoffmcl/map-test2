@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSN","name":"Niagara District","lat":43.1912963333333,"lon":-79.174269,"rwys":3,"ils":0,"index":1646923,"path":"w080n40/w080n43"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":43.18792200,"lon1":-79.17860000,"rwy2":"24","lat2":43.19623900,"lon2":-79.16368300},
+{"len_m":772,"wid_m":22.86,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":43.18583300,"lon1":-79.17722200,"rwy2":"19","lat2":43.19278100,"lon2":-79.17749700},
+{"len_m":612,"wid_m":22.86,"hdg":95,"surf":"Asphalt","rwy1":"11","lat1":43.19278100,"lon1":-79.17805600,"rwy2":"29","lat2":43.19222200,"lon2":-79.17055600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.52,"desc":"ATIS"},
+{"type":"CTAF","freq":123.25,"desc":"CTAF"},
+{"type":"TWR","freq":123.25,"desc":"MF"},
+{"type":"APP","freq":133.4,"desc":"TORONTO TRML"}
+]
+}

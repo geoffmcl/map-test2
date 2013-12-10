@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRC","name":"Cherbourg Maupertus","lat":49.64737400,"lon":-001.47705700,"rwys":1,"ils":1,"index":2925290,"path":"w010n40/w002n49"
+,"runways":[
+{"len_m":2440,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":49.65220000,"lon1":-1.48686400,"rwy2":"28","lat2":49.64810300,"lon2":-1.45366400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.62,"desc":"CHERBOURG TWR"},
+{"type":"APP","freq":119.35,"desc":"DEAUVILLE APP"}
+]
+}

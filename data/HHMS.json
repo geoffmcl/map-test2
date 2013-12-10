@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HHMS","name":"Massawa Intl","lat":15.670011,"lon":39.370021,"rwys":1,"ils":1,"index":3594858,"path":"e030n10/e039n15"
+,"runways":[
+{"len_m":3496,"wid_m":45.11,"hdg":75,"surf":"Concrete","rwy1":"07","lat1":15.66593300,"lon1":39.35426700,"rwy2":"25","lat2":15.67408900,"lon2":39.38577500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP"}
+]
+}

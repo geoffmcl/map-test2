@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PASM","name":"St Marys","lat":62.05672414,"lon":-163.29740332,"rwys":2,"ils":1,"index":271873,"path":"w170n60/w164n62"
+,"runways":[
+{"len_m":1836,"wid_m":46.02,"hdg":182,"surf":"Gravel","rwy1":"17","lat1":62.07089041,"lon1":-163.29988004,"rwy2":"35","lat2":62.05442559,"lon2":-163.30138055},
+{"len_m":465,"wid_m":17.98,"hdg":77,"surf":"Gravel","rwy1":"06","lat1":62.05324415,"lon1":-163.30993355,"rwy2":"24","lat2":62.05415704,"lon2":-163.30125286}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.7,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.3,"desc":"CTAF"}
+]
+}

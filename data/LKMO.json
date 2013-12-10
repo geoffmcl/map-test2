@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKMO","name":"Most","lat":50.52489343,"lon":013.67988117,"rwys":2,"ils":0,"index":3171106,"path":"e010n50/e013n50"
+,"runways":[
+{"len_m":1150,"wid_m":70.10,"hdg":19,"surf":"Turf/grass","rwy1":"02R","lat1":50.51999587,"lon1":13.68120695,"rwy2":"20L","lat2":50.52977607,"lon2":13.68650404},
+{"len_m":1150,"wid_m":29.87,"hdg":19,"surf":"Turf/grass","rwy1":"02L","lat1":50.52014924,"lon1":13.68051117,"rwy2":"20R","lat2":50.52992969,"lon2":13.68580574}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"INFO"}
+]
+}

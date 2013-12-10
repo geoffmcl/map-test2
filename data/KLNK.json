@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLNK","name":"Lincoln","lat":40.8522658333333,"lon":-96.7577695,"rwys":3,"ils":2,"index":1368240,"path":"w100n40/w097n40"
+,"runways":[
+{"len_m":3932,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":40.86299200,"lon1":-96.76167500,"rwy2":"36","lat2":40.82758300,"lon2":-96.76190600},
+{"len_m":2636,"wid_m":45.72,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":40.86730600,"lon1":-96.76967500,"rwy2":"32","lat2":40.84785000,"lon2":-96.75175800},
+{"len_m":1645,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":40.86134200,"lon1":-96.75075300,"rwy2":"35","lat2":40.84652200,"lon2":-96.75085000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.05,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"TWR"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP/DEP"},
+{"type":"APP","freq":124.8,"desc":"APP/DEP"}
+]
+}

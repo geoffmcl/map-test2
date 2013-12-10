@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMZP","name":"Zapopan","lat":20.755909,"lon":-103.46517375,"rwys":2,"ils":0,"index":1252276,"path":"w110n20/w104n20"
+,"runways":[
+{"len_m":2698,"wid_m":41.45,"hdg":92,"surf":"Asphalt","rwy1":"08R","lat1":20.75129700,"lon1":-103.47630600,"rwy2":"26L","lat2":20.75005000,"lon2":-103.45042500},
+{"len_m":1200,"wid_m":28.96,"hdg":93,"surf":"Asphalt","rwy1":"08L","lat1":20.76151700,"lon1":-103.47273100,"rwy2":"26R","lat2":20.76077200,"lon2":-103.46123300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+}

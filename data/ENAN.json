@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENAN","name":"Andoya","lat":69.29200339,"lon":016.13457310,"rwys":2,"ils":1,"index":3221456,"path":"e010n60/e016n69"
+,"runways":[
+{"len_m":3005,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":69.30909200,"lon1":16.11646100,"rwy2":"32","lat2":69.28581900,"lon2":16.15482800},
+{"len_m":1671,"wid_m":45.11,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":69.28285720,"lon1":16.12881075,"rwy2":"21","lat2":69.29564320,"lon2":16.15089975}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"GCA"},
+{"type":"APP","freq":121.1,"desc":"GCA"},
+{"type":"APP","freq":123.3,"desc":"GCA"}
+]
+}

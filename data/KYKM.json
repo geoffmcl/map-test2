@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KYKM","name":"Yakima Air Terminal Mc Allister Fld","lat":46.56776625,"lon":-120.5434345,"rwys":2,"ils":1,"index":975393,"path":"w130n40/w121n46"
+,"runways":[
+{"len_m":2317,"wid_m":46.02,"hdg":109,"surf":"Asphalt","rwy1":"09","lat1":46.57255600,"lon1":-120.55953300,"rwy2":"27","lat2":46.56542800,"lon2":-120.53112800},
+{"len_m":1168,"wid_m":46.02,"hdg":59,"surf":"Asphalt","rwy1":"04","lat1":46.56390300,"lon1":-120.54813300,"rwy2":"22","lat2":46.56917800,"lon2":-120.53494400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.25,"desc":"ATIS"},
+{"type":"CTAF","freq":133.25,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":133.25,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"CHINOOK APP/DEP"}
+]
+}

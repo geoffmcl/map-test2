@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MROC","name":"San Jose Juan Santamaria Intl","lat":09.99683500,"lon":-084.20763400,"rwys":1,"ils":1,"index":1562878,"path":"w090n00/w085n09"
+,"runways":[
+{"len_m":3046,"wid_m":46.02,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":9.98900000,"lon1":-84.22185800,"rwy2":"25","lat2":9.99885300,"lon2":-84.19591100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.3,"desc":"CLNC"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"COCO TWR"},
+{"type":"APP","freq":120.5,"desc":"COCO APP"}
+]
+}

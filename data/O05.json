@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O05","name":"Rogers Fld","lat":40.28505975,"lon":-121.239802,"rwys":2,"ils":0,"index":958611,"path":"w130n40/w122n40"
+,"runways":[
+{"len_m":1621,"wid_m":36.58,"hdg":70,"surf":"Gravel","rwy1":"05","lat1":40.28542200,"lon1":-121.24746400,"rwy2":"23","lat2":40.29037200,"lon2":-121.22952200},
+{"len_m":1553,"wid_m":30.48,"hdg":173,"surf":"Asphalt","rwy1":"16","lat1":40.28916700,"lon1":-121.24222200,"rwy2":"34","lat2":40.27527800,"lon2":-121.24000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

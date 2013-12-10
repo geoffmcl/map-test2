@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAVX","name":"Catalina","lat":33.40465554,"lon":-118.41588032,"rwys":1,"ils":0,"index":1007322,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":953,"wid_m":17.98,"hdg":55,"surf":"Asphalt","rwy1":"04","lat1":33.40219386,"lon1":-118.42008032,"rwy2":"22","lat2":33.40711721,"lon2":-118.41168033}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.4,"desc":"SOCAL APP/DEP"}
+]
+}

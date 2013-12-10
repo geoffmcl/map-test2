@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJAH","name":"Hyakuri","lat":36.1810695,"lon":140.415431,"rwys":1,"ils":1,"index":5250953,"path":"e140n30/e140n36"
+,"runways":[
+{"len_m":2704,"wid_m":45.72,"hdg":19,"surf":"Concrete","rwy1":"03","lat1":36.16961100,"lon1":140.41030600,"rwy2":"21","lat2":36.19252800,"lon2":140.42055600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.5,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"TCA"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"DEP","freq":120.1,"desc":"DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBOM","name":"Bombala","lat":-36.90657192,"lon":149.18387197,"rwys":2,"ils":0,"index":5393728,"path":"e140s40/e149s37"
+,"runways":[
+{"len_m":846,"wid_m":64.01,"hdg":105,"surf":"Turf/grass","rwy1":"10","lat1":-36.90462259,"lon1":149.18022887,"rwy2":"28","lat2":-36.90666365,"lon2":149.18937693},
+{"len_m":694,"wid_m":79.86,"hdg":166,"surf":"Turf/grass","rwy1":"18","lat1":-36.90036407,"lon1":149.18054872,"rwy2":"36","lat2":-36.90645507,"lon2":149.18236160}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

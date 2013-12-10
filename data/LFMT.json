@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFMT","name":"Montpellier/mediterranee","lat":43.57799700,"lon":003.96113300,"rwys":2,"ils":1,"index":3006819,"path":"e000n40/e003n43"
+,"runways":[
+{"len_m":2601,"wid_m":49.99,"hdg":124,"surf":"Asphalt","rwy1":"13L","lat1":43.58614900,"lon1":3.95574600,"rwy2":"31R","lat2":43.57281900,"lon2":3.98222800},
+{"len_m":1101,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"13R","lat1":43.57586400,"lon1":3.95192700,"rwy2":"31L","lat2":43.57021600,"lon2":3.96314100}
+]
+,"helipads":[
+{"rwy1":"H30","len_m":10,"wid_m":10.06,"hdg":3,"surf":"Concrete","lat1":43.57398300,"lon1":3.96017300},
+{"rwy1":"H31","len_m":14,"wid_m":14.94,"hdg":3,"surf":"Asphalt","lat1":43.57624900,"lon1":3.96835500}
+]
+,"radios":[
+{"type":"ATIS","freq":124.12,"desc":"LFMT ATIS"},
+{"type":"GND","freq":121.95,"desc":"MONTPELLIER GND"},
+{"type":"TWR","freq":118.2,"desc":"MONTPELLIER TWR"},
+{"type":"TWR","freq":118.77,"desc":"MONTPELLIER TWR"},
+{"type":"APP","freq":120.37,"desc":"MONTPELLIER APP"},
+{"type":"APP","freq":130.85,"desc":"MONTPELLIER APP"},
+{"type":"APP","freq":133.77,"desc":"MONTPELLIER APP"}
+]
+}

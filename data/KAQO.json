@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAQO","name":"Llano Muni","lat":30.784617,"lon":-98.6599875,"rwys":2,"ils":0,"index":1334833,"path":"w100n30/w099n30"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":30.78950600,"lon1":-98.66212200,"rwy2":"35","lat2":30.77795600,"lon2":-98.66193900},
+{"len_m":987,"wid_m":45.72,"hdg":137,"surf":"Turf/grass","rwy1":"13","lat1":30.78878900,"lon1":-98.66142800,"rwy2":"31","lat2":30.78221700,"lon2":-98.65446100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

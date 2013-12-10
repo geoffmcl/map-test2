@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYQQ","name":"Comox","lat":49.70962400,"lon":-124.89241300,"rwys":2,"ils":1,"index":910056,"path":"w130n40/w125n49"
+,"runways":[
+{"len_m":3052,"wid_m":60.96,"hdg":134,"surf":"Concrete","rwy1":"12","lat1":49.72074400,"lon1":-124.90157100,"rwy2":"30","lat2":49.70135000,"lon2":-124.87163100},
+{"len_m":1498,"wid_m":60.96,"hdg":202,"surf":"Asphalt","rwy1":"18","lat1":49.72035000,"lon1":-124.89254900,"rwy2":"36","lat2":49.70794200,"lon2":-124.90066100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-124,"surf":"Concrete","lat1":49.71347900,"lon1":-124.89944900},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":-124,"surf":"Asphalt","lat1":49.70773600,"lon1":-124.90334900},
+{"rwy1":"H3","len_m":17,"wid_m":17.98,"hdg":-124,"surf":"Concrete","lat1":49.71931600,"lon1":-124.90096400}
+]
+,"radios":[
+{"type":"ATIS","freq":118.6,"desc":"CYQQ ATIS"},
+{"type":"CLD","freq":123.7,"desc":"COMOX CLD"},
+{"type":"GND","freq":119.75,"desc":"COMOX GND"},
+{"type":"TWR","freq":126.2,"desc":"COMOX TWR"},
+{"type":"APP","freq":123.7,"desc":"COMOX APP"},
+{"type":"APP","freq":128.1,"desc":"COMOX APP"},
+{"type":"APP","freq":134.1,"desc":"COMOX APP"},
+{"type":"APP","freq":127,"desc":"COMOX APP"},
+{"type":"DEP","freq":123.7,"desc":"COMOX DEP"}
+]
+}

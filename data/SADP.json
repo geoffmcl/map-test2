@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SADP","name":"El Palomar","lat":-34.6095225666667,"lon":-58.60568503,"rwys":1,"ils":1,"index":1986009,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":2106,"wid_m":49.07,"hdg":156,"surf":"Concrete","rwy1":"16","lat1":-34.60119451,"lon1":-58.61715117,"rwy2":"34","lat2":-34.61863283,"lon2":-58.60807214}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":-58,"surf":"Concrete","lat1":-34.61262313,"lon1":-58.60372013},
+{"rwy1":"H2","len_m":21,"wid_m":21.03,"hdg":-58,"surf":"Concrete","lat1":-34.60603090,"lon1":-58.60072331}
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"Palomar TWR"},
+{"type":"TWR","freq":118.9,"desc":"Palomar TWR AUX"}
+]
+}

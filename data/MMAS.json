@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMAS","name":"Jesus Teran Intl","lat":21.70020500,"lon":-102.31379700,"rwys":2,"ils":0,"index":1268717,"path":"w110n20/w103n21"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":21.71462200,"lon1":-102.31741700,"rwy2":"35","lat2":21.68752200,"lon2":-102.31875300},
+{"len_m":1060,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":21.70377200,"lon1":-102.32008300,"rwy2":"22","lat2":21.71004200,"lon2":-102.31233900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"AGUASCALIENTES TWR"},
+{"type":"APP","freq":119.05,"desc":"LEON APP"}
+]
+}

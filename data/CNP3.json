@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CNP3","name":"Arnprior South Renfrew Muni","lat":45.41125,"lon":-76.366991,"rwys":3,"ils":0,"index":1696218,"path":"w080n40/w077n45"
+,"runways":[
+{"len_m":1200,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"10","lat1":45.40888900,"lon1":-76.37278100,"rwy2":"28","lat2":45.40972200,"lon2":-76.35749700},
+{"len_m":800,"wid_m":45.72,"hdg":27,"surf":"Asphalt","rwy1":"04","lat1":45.40888900,"lon1":-76.37277800,"rwy2":"22","lat2":45.41527800,"lon2":-76.36805600},
+{"len_m":768,"wid_m":15.24,"hdg":147,"surf":"Gravel","rwy1":"16","lat1":45.41527800,"lon1":-76.36805600,"rwy2":"34","lat2":45.40944400,"lon2":-76.36277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.27,"desc":"OTTAWA TRML"},
+{"type":"APP","freq":135.15,"desc":"OTTAWA TRML"}
+]
+}

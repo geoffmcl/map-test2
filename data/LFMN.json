@@ -1,0 +1,39 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFMN","name":"Nice/cote D'azur","lat":43.66562283,"lon":007.21486596,"rwys":2,"ils":2,"index":3072360,"path":"e000n40/e007n43"
+,"runways":[
+{"len_m":2964,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04R","lat1":43.64658511,"lon1":7.20258040,"rwy2":"22L","lat2":43.66554901,"lon2":7.22843657},
+{"len_m":2570,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04L","lat1":43.65171156,"lon1":7.20395740,"rwy2":"22R","lat2":43.66807997,"lon2":7.22647422}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.64994137,"lon1":7.21061612},
+{"rwy1":"H10","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65128666,"lon1":7.21245945},
+{"rwy1":"H11","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65141316,"lon1":7.21263958},
+{"rwy1":"H12","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.65154465,"lon1":7.21284203},
+{"rwy1":"H13","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.65170190,"lon1":7.21307952},
+{"rwy1":"H14","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.65185425,"lon1":7.21328631},
+{"rwy1":"H15","len_m":34,"wid_m":34.14,"hdg":7,"surf":"Concrete","lat1":43.64913836,"lon1":7.21094820},
+{"rwy1":"H16","len_m":34,"wid_m":34.14,"hdg":7,"surf":"Concrete","lat1":43.65113101,"lon1":7.21451944},
+{"rwy1":"H2","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.65010941,"lon1":7.21083616},
+{"rwy1":"H3","len_m":14,"wid_m":14.02,"hdg":7,"surf":"Asphalt","lat1":43.65029882,"lon1":7.21109542},
+{"rwy1":"H4","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65048468,"lon1":7.21133713},
+{"rwy1":"H5","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65061988,"lon1":7.21152419},
+{"rwy1":"H6","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65076233,"lon1":7.21172219},
+{"rwy1":"H7","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65089778,"lon1":7.21191219},
+{"rwy1":"H8","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65103262,"lon1":7.21210548},
+{"rwy1":"H9","len_m":10,"wid_m":10.97,"hdg":7,"surf":"Asphalt","lat1":43.65116047,"lon1":7.21228477}
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"LFMN ATIS"},
+{"type":"CLD","freq":121.7,"desc":"NICE CLD"},
+{"type":"GND","freq":121.77,"desc":"NICE GND"},
+{"type":"TWR","freq":118.7,"desc":"NICE TWR"},
+{"type":"TWR","freq":121.27,"desc":"NICE TWR"},
+{"type":"TWR","freq":121.87,"desc":"NICE TWR"},
+{"type":"APP","freq":120.85,"desc":"NICE APP"},
+{"type":"APP","freq":122.92,"desc":"NICE APP"},
+{"type":"APP","freq":124.17,"desc":"NICE APP"},
+{"type":"APP","freq":125.57,"desc":"NICE APP"},
+{"type":"APP","freq":130.82,"desc":"NICE APP"},
+{"type":"APP","freq":134.47,"desc":"NICE APP"}
+]
+}

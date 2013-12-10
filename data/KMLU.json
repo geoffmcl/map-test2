@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMLU","name":"Monroe Rgnl","lat":32.5106811666667,"lon":-92.03765,"rwys":3,"ils":1,"index":1433251,"path":"w100n30/w093n32"
+,"runways":[
+{"len_m":2288,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":32.50370300,"lon1":-92.04552500,"rwy2":"22","lat2":32.51828900,"lon2":-92.02829700},
+{"len_m":1524,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":32.51683100,"lon1":-92.03975800,"rwy2":"36","lat2":32.50308600,"lon2":-92.03976400},
+{"len_m":1523,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":32.51635300,"lon1":-92.04148900,"rwy2":"32","lat2":32.50582500,"lon2":-92.03106700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.05,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":126.9,"desc":"APP/DEP"},
+{"type":"APP","freq":118.15,"desc":"APP/DEP"}
+]
+}

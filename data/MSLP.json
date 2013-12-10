@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MSLP","name":"El Salvador Intl","lat":13.44493600,"lon":-089.06048200,"rwys":2,"ils":1,"index":1481183,"path":"w090n10/w090n13"
+,"runways":[
+{"len_m":3203,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":13.43599200,"lon1":-89.06962500,"rwy2":"25","lat2":13.44590300,"lon2":-89.04183100},
+{"len_m":799,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":13.45400000,"lon1":-89.04775000,"rwy2":"36","lat2":13.44676900,"lon2":-89.04775000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"CLD","freq":121.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZGSZ","name":"Baoan Intl","lat":22.6392585,"lon":113.8106625,"rwys":1,"ils":2,"index":4807723,"path":"e110n20/e113n22"
+,"runways":[
+{"len_m":3405,"wid_m":45.11,"hdg":153,"surf":"Concrete","rwy1":"15","lat1":22.65296100,"lon1":113.80314700,"rwy2":"33","lat2":22.62555600,"lon2":113.81817800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"CLD","freq":127.95,"desc":"CLD"},
+{"type":"GND","freq":121.87,"desc":"GND"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.45,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"},
+{"type":"APP","freq":120.35,"desc":"ZHUHAI APP"},
+{"type":"APP","freq":124.25,"desc":"ZHUHAI APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KWLW","name":"Willows Glenn Co","lat":39.5164755,"lon":-122.2176,"rwys":2,"ils":0,"index":942179,"path":"w130n30/w123n39"
+,"runways":[
+{"len_m":1373,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":39.52266700,"lon1":-122.21997800,"rwy2":"34","lat2":39.51030300,"lon2":-122.21947200},
+{"len_m":1285,"wid_m":30.48,"hdg":145,"surf":"Asphalt","rwy1":"13","lat1":39.52121700,"lon1":-122.21975000,"rwy2":"31","lat2":39.51171500,"lon2":-122.21120000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

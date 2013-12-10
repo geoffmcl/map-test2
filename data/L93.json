@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"L93","name":"Valley View","lat":36.25551666,"lon":-115.99252778,"rwys":1,"ils":0,"index":1056656,"path":"w120n30/w116n36"
+,"runways":[
+{"len_m":913,"wid_m":15.24,"hdg":194,"surf":"Gravel","rwy1":"18","lat1":36.25950891,"lon1":-115.99129341,"rwy2":"36","lat2":36.25152441,"lon2":-115.99376215}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":104.3,"dist_nm":41.8,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"},
+{"type":"VOR","hdg_t":312,"dist_nm":48.9,"freq":114.7,"lat":36.80058333,"lon":-116.74763889,"rng_nm":130,"alt_fmsl":2928,"id":"BTY","desc":"BEATTY VORTAC"},
+{"type":"VOR","hdg_t":105.4,"dist_nm":57,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":149.1,"dist_nm":78.2,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"VOR","hdg_t":200.4,"dist_nm":82.5,"freq":113.2,"lat":34.96244444,"lon":-116.57816667,"rng_nm":40,"alt_fmsl":1760,"id":"DAG","desc":"DAGGETT VORTAC"},
+{"type":"VOR","hdg_t":69.1,"dist_nm":88.4,"freq":114.3,"lat":36.76927778,"lon":-114.27747222,"rng_nm":40,"alt_fmsl":2120,"id":"MMM","desc":"MORMON MESA VORTAC"},
+{"type":"SDME","hdg_t":248.1,"dist_nm":89.4,"freq":111.6,"lat":35.68792800,"lon":-117.69047200,"rng_nm":25,"alt_fmsl":2272,"id":"NID","desc":"CHINA LAKE TACAN"},
+{"type":"VOR","hdg_t":194.9,"dist_nm":90.3,"freq":112.7,"lat":34.79702778,"lon":-116.46291667,"rng_nm":130,"alt_fmsl":1853,"id":"HEC","desc":"HECTOR VORTAC"},
+{"type":"VOR","hdg_t":337.8,"dist_nm":99.4,"freq":113,"lat":37.79041667,"lon":-116.77927778,"rng_nm":25,"alt_fmsl":5541,"id":"TQQ","desc":"SILVERBOW VORTAC"},
+{"type":"VOR","hdg_t":228.6,"dist_nm":114.2,"freq":116.4,"lat":34.98236111,"lon":-117.73261111,"rng_nm":40,"alt_fmsl":2354,"id":"EDW","desc":"EDWARDS VORTAC"}
+]
+}

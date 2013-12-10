@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KELN","name":"Bowers Fld","lat":47.03324025,"lon":-120.5304835,"rwys":2,"ils":0,"index":975425,"path":"w130n40/w121n47"
+,"runways":[
+{"len_m":1703,"wid_m":45.72,"hdg":87,"surf":"Asphalt","rwy1":"07","lat1":47.03136100,"lon1":-120.54330600,"rwy2":"25","lat2":47.03191100,"lon2":-120.52090800},
+{"len_m":1310,"wid_m":45.72,"hdg":132,"surf":"Concrete","rwy1":"11","lat1":47.03886400,"lon1":-120.53516700,"rwy2":"29","lat2":47.03082500,"lon2":-120.52255300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

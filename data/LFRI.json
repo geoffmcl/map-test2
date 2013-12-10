@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRI","name":"La Roche Sur Yon Les Ajoncs","lat":46.701944,"lon":-1.378625,"rwys":1,"ils":1,"index":2925098,"path":"w010n40/w002n46"
+,"runways":[
+{"len_m":1550,"wid_m":29.87,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":46.70331900,"lon1":-1.38856100,"rwy2":"28","lat2":46.70056900,"lon2":-1.36868900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"LA ROCHE INFO"},
+{"type":"APP","freq":130.27,"desc":"NANTES APP"}
+]
+}

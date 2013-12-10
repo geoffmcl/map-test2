@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMTN","name":"Martin State","lat":39.32920800,"lon":-076.42114300,"rwys":1,"ils":1,"index":1695826,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":2132,"wid_m":54.86,"hdg":135,"surf":"Concrete","rwy1":"15","lat1":39.33246900,"lon1":-76.42248600,"rwy2":"33","lat2":39.31884700,"lon2":-76.40505000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.92,"desc":"ATIS"},
+{"type":"ATIS","freq":124.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":121.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.8,"desc":"POTOMAC CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":121.3,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"POTOMAC APP/DEP"}
+]
+}

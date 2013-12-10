@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEFK","name":"Newport State","lat":44.88858184,"lon":-72.2277593866667,"rwys":2,"ils":0,"index":1761723,"path":"w080n40/w073n44"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"05","lat1":44.88471100,"lon1":-72.23486400,"rwy2":"23","lat2":44.89425800,"lon2":-72.22726400},
+{"len_m":1217,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"18","lat1":44.89323300,"lon1":-72.22997200,"rwy2":"36","lat2":44.88296400,"lon2":-72.22458600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":14.02,"hdg":-72,"surf":"Concrete","lat1":44.88816252,"lon1":-72.22493516}
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

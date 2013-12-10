@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MHRO","name":"Roatan","lat":16.31615400,"lon":-086.51858500,"rwys":1,"ils":0,"index":1530515,"path":"w090n10/w087n16"
+,"runways":[
+{"len_m":2241,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":16.31256700,"lon1":-86.53248100,"rwy2":"25","lat2":16.32106400,"lon2":-86.51344200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"ROATAN TWR"}
+]
+}

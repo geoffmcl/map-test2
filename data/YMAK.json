@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMAK","name":"Mabel Creek Station","lat":-28.92829593,"lon":134.32678330,"rwys":2,"ils":0,"index":5148481,"path":"e130s30/e134s29"
+,"runways":[
+{"len_m":1110,"wid_m":46.02,"hdg":28,"surf":"Dirt","rwy1":"03","lat1":-28.93018951,"lon1":134.32776719,"rwy2":"21","lat2":-28.92135000,"lon2":134.33312000},
+{"len_m":772,"wid_m":49.99,"hdg":72,"surf":"Dirt","rwy1":"7","lat1":-28.92985436,"lon1":134.32667753,"rwy2":"25","lat2":-28.92774045,"lon2":134.33422243}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

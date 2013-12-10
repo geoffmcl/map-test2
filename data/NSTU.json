@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NSTU","name":"Pago Pago","lat":-14.32885720,"lon":-170.71294794,"rwys":2,"ils":1,"index":152298,"path":"w180s20/w171s15"
+,"runways":[
+{"len_m":3048,"wid_m":46.02,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":-14.34052764,"lon1":-170.72526723,"rwy2":"23","lat2":-14.32681586,"lon2":-170.70075467},
+{"len_m":1191,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":-14.32645432,"lon1":-170.71300155,"rwy2":"26","lat2":-14.32644070,"lon2":-170.70195260}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"CTAF","freq":118.3,"desc":"UNICOM"},
+{"type":"APP","freq":126.9,"desc":"FALEOLO APP/DEP"}
+]
+}

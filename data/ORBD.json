@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ORBD","name":"Balad Southeast","lat":33.94018725,"lon":44.36154175,"rwys":2,"ils":1,"index":3677945,"path":"e040n30/e044n33"
+,"runways":[
+{"len_m":3503,"wid_m":45.42,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":33.94562500,"lon1":44.34153900,"rwy2":"30","lat2":33.92720800,"lon2":44.37232800},
+{"len_m":3502,"wid_m":60.05,"hdg":145,"surf":"Concrete","rwy1":"14","lat1":33.95699400,"lon1":44.35546700,"rwy2":"32","lat2":33.93092200,"lon2":44.37683300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":128.75,"desc":"GND"},
+{"type":"TWR","freq":119.87,"desc":"TWR"},
+{"type":"APP","freq":131.9,"desc":"APP"}
+]
+}

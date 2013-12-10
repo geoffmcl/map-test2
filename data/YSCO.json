@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSCO","name":"Scone","lat":-32.03727300,"lon":150.83314200,"rwys":1,"ils":0,"index":5410427,"path":"e150s40/e150s33"
+,"runways":[
+{"len_m":1399,"wid_m":29.87,"hdg":121,"surf":"Asphalt","rwy1":"11","lat1":-32.03484200,"lon1":150.82593100,"rwy2":"29","lat2":-32.04147400,"lon2":150.83853700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.8,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":118.8,"desc":"SCONE MULT"}
+]
+}

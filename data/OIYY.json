@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIYY","name":"Yazd Shahid Sadooghi","lat":31.904908,"lon":54.2765,"rwys":1,"ils":0,"index":3841657,"path":"e050n30/e054n31"
+,"runways":[
+{"len_m":4098,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":31.91751900,"lon1":54.26066400,"rwy2":"31","lat2":31.89229700,"lon2":54.29233600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":121.9,"desc":"TWR"}
+]
+}

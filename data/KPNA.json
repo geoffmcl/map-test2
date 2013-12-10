@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPNA","name":"Ralph Wenz Fld","lat":42.79792424,"lon":-109.80448876,"rwys":1,"ils":0,"index":1155376,"path":"w110n40/w110n42"
+,"runways":[
+{"len_m":2709,"wid_m":29.87,"hdg":123,"surf":"Asphalt","rwy1":"11","lat1":42.80413892,"lon1":-109.82482790,"rwy2":"29","lat2":42.79064058,"lon2":-109.79724411}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

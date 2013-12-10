@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZFF","name":"Forest_field","lat":-43.38583300,"lon":172.36055600,"rwys":3,"ils":0,"index":5770145,"path":"e170s50/e172s44"
+,"runways":[
+{"len_m":999,"wid_m":29.87,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":-43.38126100,"lon1":172.36059700,"rwy2":"36","lat2":-43.39025900,"lon2":172.36059700},
+{"len_m":730,"wid_m":49.99,"hdg":59,"surf":"Turf/grass","rwy1":"05","lat1":-43.39030800,"lon1":172.35745400,"rwy2":"23","lat2":-43.38692400,"lon2":172.36518800},
+{"len_m":751,"wid_m":49.99,"hdg":99,"surf":"Turf/grass","rwy1":"10","lat1":-43.38864700,"lon1":172.35615100,"rwy2":"28","lat2":-43.38981900,"lon2":172.36528100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.2,"desc":"FOREST_FIELD MULT"}
+]
+}

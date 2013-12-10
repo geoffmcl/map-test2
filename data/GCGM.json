@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GCGM","name":"La Gomera","lat":28.03146100,"lon":-017.21192300,"rwys":1,"ils":0,"index":2661763,"path":"w020n20/w018n28"
+,"runways":[
+{"len_m":1499,"wid_m":29.87,"hdg":81,"surf":"Asphalt","rwy1":"09","lat1":28.02859408,"lon1":-17.22214013,"rwy2":"27","lat2":28.03066008,"lon2":-17.20706513}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"GCGM TWR"},
+{"type":"APP","freq":127.7,"desc":"GCGM APP"}
+]
+}

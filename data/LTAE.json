@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTAE","name":"Akinci","lat":40.078918,"lon":32.565625,"rwys":1,"ils":0,"index":3481730,"path":"e030n40/e032n40"
+,"runways":[
+{"len_m":3350,"wid_m":44.81,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":40.06623300,"lon1":32.55499400,"rwy2":"21","lat2":40.09160300,"lon2":32.57625600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":119.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":122.1,"desc":"ESENBOGA APP"}
+]
+}

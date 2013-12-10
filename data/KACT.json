@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KACT","name":"Waco Rgnl","lat":31.60944078,"lon":-097.22316235,"rwys":2,"ils":1,"index":1351267,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":2010,"wid_m":46.02,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":31.60353300,"lon1":-97.22995600,"rwy2":"19","lat2":31.62110800,"lon2":-97.22474700},
+{"len_m":1553,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":31.61710688,"lon1":-97.23891896,"rwy2":"32","lat2":31.60506517,"lon2":-97.23054271}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.85,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":135.2,"desc":"APP"},
+{"type":"DEP","freq":126.12,"desc":"DEP"}
+]
+}

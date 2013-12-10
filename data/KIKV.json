@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KIKV","name":"Ankeny Rgnl","lat":41.69153875,"lon":-93.5664305,"rwys":2,"ils":1,"index":1417449,"path":"w100n40/w094n41"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":41.69765300,"lon1":-93.56582200,"rwy2":"36","lat2":41.68255800,"lon2":-93.56582800},
+{"len_m":1280,"wid_m":22.86,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":41.68889700,"lon1":-93.57247200,"rwy2":"22","lat2":41.69704700,"lon2":-93.56160000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.9,"desc":"DES MOINES APP/DEP"}
+]
+}

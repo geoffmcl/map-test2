@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"YBR1","name":"R10","lat":-23.3608,"lon":150.528931,"rwys":1,"ils":0,"index":5410986,"path":"e150s30/e150s24"
+,"runways":[
+{"len_m":4556,"wid_m":45.72,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":-23.34030593,"lon1":150.52697790,"rwy2":"35","lat2":-23.38129407,"lon2":150.53088410}
+]
+,"navaids":[
+{"type":"NDB","hdg_t":258.5,"dist_nm":3,"freq":257,"lat":-23.37083300,"lon":150.47527800,"rng_nm":65,"alt_fmsl":34,"id":"RK","desc":"ROCKHAMPTON NDB"},
+{"type":"VOR","hdg_t":247.4,"dist_nm":3.4,"freq":116.9,"lat":-23.38277778,"lon":150.47166667,"rng_nm":130,"alt_fmsl":57,"id":"RK","desc":"ROCKHAMPTON VOR-DME"},
+{"type":"VOR","hdg_t":129.1,"dist_nm":47.9,"freq":116.3,"lat":-23.86527800,"lon":151.20444400,"rng_nm":130,"alt_fmsl":0,"id":"GLA","desc":"GLADSTONE VOR"},
+{"type":"NDB","hdg_t":128.6,"dist_nm":49,"freq":236,"lat":-23.87194400,"lon":151.22555600,"rng_nm":60,"alt_fmsl":64,"id":"GLA","desc":"GLADSTONE NDB"},
+{"type":"NDB","hdg_t":178.1,"dist_nm":67.8,"freq":446,"lat":-24.49416700,"lon":150.57000000,"rng_nm":50,"alt_fmsl":709,"id":"TNG","desc":"THANGOOL NDB-DME"},
+{"type":"SDME","hdg_t":178.1,"dist_nm":67.8,"freq":113.8,"lat":-24.49416700,"lon":150.57000000,"rng_nm":50,"alt_fmsl":709,"id":"TNG","desc":"THANGOOL NDB-DME"},
+{"type":"NDB","hdg_t":290.3,"dist_nm":128.9,"freq":227,"lat":-22.59750000,"lon":148.35111100,"rng_nm":80,"alt_fmsl":0,"id":"DYS","desc":"DYSART NDB"},
+{"type":"NDB","hdg_t":264.1,"dist_nm":130.6,"freq":324,"lat":-23.56750000,"lon":148.17111100,"rng_nm":60,"alt_fmsl":624,"id":"EML","desc":"EMERALD NDB"},
+{"type":"NDB","hdg_t":133.4,"dist_nm":134.5,"freq":266,"lat":-24.89666700,"lon":152.32055600,"rng_nm":60,"alt_fmsl":107,"id":"BUD","desc":"BUNDABERG NDB"},
+{"type":"NDB","hdg_t":155.1,"dist_nm":147.5,"freq":284,"lat":-25.59500000,"lon":151.67305600,"rng_nm":60,"alt_fmsl":0,"id":"GAY","desc":"GAYNDAH NDB"}
+]
+}

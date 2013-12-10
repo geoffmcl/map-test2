@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHLG","name":"Wheeling Ohio Co","lat":40.175028,"lon":-80.64620625,"rwys":2,"ils":1,"index":1630345,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":40.16856700,"lon1":-80.65131100,"rwy2":"21","lat2":40.18090600,"lon2":-80.64346100},
+{"len_m":1371,"wid_m":45.72,"hdg":151,"surf":"Asphalt","rwy1":"16","lat1":40.18072200,"lon1":-80.64892500,"rwy2":"34","lat2":40.16991700,"lon2":-80.64112800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.37,"desc":"ASOS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.65,"desc":"PITTSBURG APP/DEP"}
+]
+}

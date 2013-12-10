@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAWM","name":"White Mountain","lat":64.68789125,"lon":-163.40998455,"rwys":1,"ils":0,"index":272041,"path":"w170n60/w164n64"
+,"runways":[
+{"len_m":917,"wid_m":17.98,"hdg":163,"surf":"Gravel","rwy1":"15","lat1":64.69314950,"lon1":-163.41520862,"rwy2":"33","lat2":64.68523938,"lon2":-163.40990327}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.45,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYKF","name":"Waterloo","lat":43.4600835,"lon":-80.38261275,"rwys":2,"ils":1,"index":1630554,"path":"w090n40/w081n43"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":64,"surf":"Asphalt","rwy1":"08","lat1":43.45694400,"lon1":-80.39055600,"rwy2":"26","lat2":43.46533100,"lon2":-80.36683900},
+{"len_m":1237,"wid_m":45.72,"hdg":128,"surf":"Asphalt","rwy1":"14","lat1":43.46250300,"lon1":-80.39250300,"rwy2":"32","lat2":43.45555600,"lon2":-80.38055300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.1,"desc":"ATIS"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"TWR"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":128.27,"desc":"TORONTO TRML"}
+]
+}

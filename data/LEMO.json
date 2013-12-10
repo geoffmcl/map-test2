@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEMO","name":"Moron Ab","lat":37.17489,"lon":-5.616018,"rwys":1,"ils":1,"index":2858953,"path":"w010n30/w006n37"
+,"runways":[
+{"len_m":3596,"wid_m":60.96,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":37.15964700,"lon1":-5.62288900,"rwy2":"20","lat2":37.19013300,"lon2":-5.60914700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"SEVILLA APP"},
+{"type":"APP","freq":120.8,"desc":"SEVILLA APP"},
+{"type":"APP","freq":128.5,"desc":"SEVILLA APP"}
+]
+}

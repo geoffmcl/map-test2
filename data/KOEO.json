@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOEO","name":"L O Simenstad Muni","lat":45.31048875,"lon":-92.692443,"rwys":2,"ils":0,"index":1434065,"path":"w100n40/w093n45"
+,"runways":[
+{"len_m":1158,"wid_m":22.86,"hdg":103,"surf":"Asphalt","rwy1":"10","lat1":45.30985000,"lon1":-92.69737200,"rwy2":"28","lat2":45.30736900,"lon2":-92.68302500},
+{"len_m":692,"wid_m":45.72,"hdg":45,"surf":"Turf/grass","rwy1":"04","lat1":45.31016900,"lon1":-92.69781100,"rwy2":"22","lat2":45.31456700,"lon2":-92.69156400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":121.2,"desc":"MINNEAPOLIS APP"},
+{"type":"DEP","freq":121.2,"desc":"MINNEAPOLIS DEP"}
+]
+}

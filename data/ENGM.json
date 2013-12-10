@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENGM","name":"Oslo Gardermoen","lat":60.19286148,"lon":011.09803992,"rwys":2,"ils":4,"index":3138952,"path":"e010n60/e011n60"
+,"runways":[
+{"len_m":3708,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"01L","lat1":60.18474752,"lon1":11.07368747,"rwy2":"19R","lat2":60.21675432,"lon2":11.09203368},
+{"len_m":3057,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"01R","lat1":60.17506763,"lon1":11.10757469,"rwy2":"19L","lat2":60.20145933,"lon2":11.12269658}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":11,"surf":"Concrete","lat1":60.21130349,"lon1":11.10103625},
+{"rwy1":"H2","len_m":34,"wid_m":32.00,"hdg":11,"surf":"Transparent","lat1":60.20778518,"lon1":11.08156107}
+]
+,"radios":[
+{"type":"ATIS","freq":127.15,"desc":"Gardermoen Departure Information"},
+{"type":"ATIS","freq":126.13,"desc":"Gardermoen Arrival Information"},
+{"type":"CLD","freq":121.6,"desc":"Gardermoen Delivery"},
+{"type":"GND","freq":121.67,"desc":"Gardermoen Ground"},
+{"type":"GND","freq":121.72,"desc":"Gardermoen Ground"},
+{"type":"GND","freq":121.92,"desc":"Gardermoen Ground"},
+{"type":"TWR","freq":118.3,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":118.7,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":120.1,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":123.32,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":121.5,"desc":"Gardermoen Tower"},
+{"type":"APP","freq":119.97,"desc":"Gardermoen APP Sector East"},
+{"type":"APP","freq":120.45,"desc":"Gardermoen APP Sector West"},
+{"type":"DEP","freq":131.35,"desc":"Gardermoen APP"}
+]
+}

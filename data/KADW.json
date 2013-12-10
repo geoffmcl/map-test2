@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KADW","name":"Andrews Afb","lat":38.8108095,"lon":-76.86712225,"rwys":2,"ils":2,"index":1695792,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":2973,"wid_m":45.72,"hdg":359,"surf":"Asphalt","rwy1":"01R","lat1":38.79773600,"lon1":-76.86357500,"rwy2":"19L","lat2":38.82452200,"lon2":-76.86365300},
+{"len_m":2834,"wid_m":60.96,"hdg":359,"surf":"Concrete","rwy1":"01L","lat1":38.79772200,"lon1":-76.87059200,"rwy2":"19R","lat2":38.82325800,"lon2":-76.87066900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":125.65,"desc":"POTOMAC DEP"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJGG","name":"Chubu Centrair Intl","lat":34.858414,"lon":136.8054085,"rwys":1,"ils":2,"index":5185331,"path":"e130n30/e136n34"
+,"runways":[
+{"len_m":3500,"wid_m":60.05,"hdg":168,"surf":"Asphalt","rwy1":"18","lat1":34.87388600,"lon1":136.80167800,"rwy2":"36","lat2":34.84294200,"lon2":136.80913900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.07,"desc":"ATIS"},
+{"type":"CLD","freq":121.85,"desc":"CLD"},
+{"type":"CLD","freq":126.2,"desc":"CLD"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.85,"desc":"TWR"},
+{"type":"APP","freq":121.05,"desc":"APP"},
+{"type":"APP","freq":119.17,"desc":"APP"},
+{"type":"APP","freq":125.5,"desc":"RDR"},
+{"type":"APP","freq":119.25,"desc":"TCA"},
+{"type":"APP","freq":121.17,"desc":"TCA"},
+{"type":"DEP","freq":120,"desc":"DEP"}
+]
+}

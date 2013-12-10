@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMCE","name":"Merced Muni Macready Fld","lat":37.2847275,"lon":-120.51388708,"rwys":1,"ils":1,"index":974801,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":1800,"wid_m":46.02,"hdg":138,"surf":"Asphalt","rwy1":"12","lat1":37.29080012,"lon1":-120.52061596,"rwy2":"30","lat2":37.27865488,"lon2":-120.50715821}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+}

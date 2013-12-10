@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LJSG","name":"Slovenj Gradec","lat":46.471886115,"lon":15.116834435,"rwys":2,"ils":0,"index":3203608,"path":"e010n40/e015n46"
+,"runways":[
+{"len_m":1214,"wid_m":22.86,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":46.47627194,"lon1":15.11211204,"rwy2":"32","lat2":46.46767500,"lon2":15.12188100},
+{"len_m":1214,"wid_m":39.93,"hdg":141,"surf":"Turf/grass","rwy1":"14R","lat1":46.47609723,"lon1":15.11178787,"rwy2":"32L","lat2":46.46750029,"lon2":15.12155683}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"AFIS"}
+]
+}

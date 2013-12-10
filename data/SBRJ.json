@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBRJ","name":"Santos-dumont","lat":-22.90957400,"lon":-043.16698600,"rwys":2,"ils":1,"index":2232515,"path":"w050s30/w044s23"
+,"runways":[
+{"len_m":1323,"wid_m":42.06,"hdg":358,"surf":"Asphalt","rwy1":"02R","lat1":-22.91655300,"lon1":-43.16254700,"rwy2":"20L","lat2":-22.90460800,"lon2":-43.16299700},
+{"len_m":1260,"wid_m":29.87,"hdg":358,"surf":"Asphalt","rwy1":"02L","lat1":-22.91602800,"lon1":-43.16328100,"rwy2":"20R","lat2":-22.90465000,"lon2":-43.16370800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"ATIS"},
+{"type":"CLD","freq":121.05,"desc":"TFC"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"RIO TWR"},
+{"type":"APP","freq":119.35,"desc":"RIO CON"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJSS","name":"Sendai","lat":38.13873375,"lon":140.918248,"rwys":2,"ils":1,"index":5251083,"path":"e140n30/e140n38"
+,"runways":[
+{"len_m":3000,"wid_m":45.72,"hdg":82,"surf":"Asphalt","rwy1":"09","lat1":38.13877200,"lon1":140.89872200,"rwy2":"27","lat2":38.14227200,"lon2":140.93265600},
+{"len_m":1200,"wid_m":45.72,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":38.13945800,"lon1":140.91474700,"rwy2":"30","lat2":38.13443300,"lon2":140.92686700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"APP"},
+{"type":"APP","freq":121.02,"desc":"TCA"},
+{"type":"DEP","freq":120,"desc":"DEP"}
+]
+}

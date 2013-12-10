@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKTU","name":"Cheongju Intl","lat":36.7165645,"lon":127.49916525,"rwys":2,"ils":1,"index":5037993,"path":"e120n30/e127n36"
+,"runways":[
+{"len_m":2730,"wid_m":60.96,"hdg":51,"surf":"Concrete","rwy1":"06L","lat1":36.71013300,"lon1":127.48683900,"rwy2":"24R","lat2":36.72533300,"lon2":127.51087200},
+{"len_m":2713,"wid_m":45.72,"hdg":52,"surf":"Concrete","rwy1":"06R","lat1":36.70787500,"lon1":127.48750000,"rwy2":"24L","lat2":36.72291700,"lon2":127.51145000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.85,"desc":"ATIS"},
+{"type":"GND","freq":120.65,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":134,"desc":"JUNGWON APP"},
+{"type":"APP","freq":134.4,"desc":"JUNGWON APP"},
+{"type":"DEP","freq":134,"desc":"JUNGWON DEP"},
+{"type":"DEP","freq":134.4,"desc":"JUNGWON DEP"},
+{"type":"DEP","freq":134.1,"desc":"JUNGWON DEP"}
+]
+}

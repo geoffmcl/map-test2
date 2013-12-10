@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3CK","name":"Lake In The Hills","lat":42.2068015,"lon":-88.3230015,"rwys":1,"ils":0,"index":1499402,"path":"w090n40/w089n42"
+,"runways":[
+{"len_m":914,"wid_m":15.24,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":42.20608600,"lon1":-88.32845300,"rwy2":"26","lat2":42.20751700,"lon2":-88.31755000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.55,"desc":"CHICAGO APP/DEP"}
+]
+}

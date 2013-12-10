@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTCM","name":"Mc Chord Afb","lat":47.1404675,"lon":-122.47692225,"rwys":2,"ils":2,"index":942666,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":3078,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":47.15150600,"lon1":-122.47655000,"rwy2":"34","lat2":47.12381400,"lon2":-122.47638100},
+{"len_m":1007,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"16R","lat1":47.14780800,"lon1":-122.47741100,"rwy2":"34L","lat2":47.13874200,"lon2":-122.47734700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.15,"desc":"GND"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"SEATTLE APP/DEP"}
+]
+}

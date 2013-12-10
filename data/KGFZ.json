@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGFZ","name":"Greenfield Muni","lat":41.3270215,"lon":-94.446023,"rwys":2,"ils":0,"index":1401042,"path":"w100n40/w095n41"
+,"runways":[
+{"len_m":1041,"wid_m":18.29,"hdg":78,"surf":"Concrete","rwy1":"07","lat1":41.32611100,"lon1":-94.45033300,"rwy2":"25","lat2":41.32805600,"lon2":-94.43816700},
+{"len_m":762,"wid_m":15.24,"hdg":142,"surf":"Concrete","rwy1":"14","lat1":41.32967500,"lon1":-94.45057800,"rwy2":"32","lat2":41.32424400,"lon2":-94.44501400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.65,"desc":"MINNEAPOLIS CNTR"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSRR","name":"Sierra Blanca Rgnl","lat":33.4605605,"lon":-105.52864225,"rwys":2,"ils":0,"index":1220313,"path":"w110n30/w106n33"
+,"runways":[
+{"len_m":2468,"wid_m":30.48,"hdg":71,"surf":"Asphalt","rwy1":"06","lat1":33.45930000,"lon1":-105.54733300,"rwy2":"24","lat2":33.46640000,"lon2":-105.52217200},
+{"len_m":1981,"wid_m":22.86,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":33.46398900,"lon1":-105.53071700,"rwy2":"30","lat2":33.45255300,"lon2":-105.51434700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

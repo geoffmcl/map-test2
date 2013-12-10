@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"E16","name":"South Co Arpt Of Santa Clara Co","lat":37.08289000,"lon":-121.59687800,"rwys":1,"ils":0,"index":958401,"path":"w130n30/w122n37"
+,"runways":[
+{"len_m":945,"wid_m":22.86,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":37.08548100,"lon1":-121.59894700,"rwy2":"32","lat2":37.07768900,"lon2":-121.59466100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.1,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":124.52,"desc":"NORCAL APP/DEP"}
+]
+}

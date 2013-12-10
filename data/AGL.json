@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"AGL","name":"Wanigela","lat":-09.33683042,"lon":149.15509724,"rwys":1,"ils":0,"index":5395497,"path":"e140s10/e149s10"
+,"runways":[
+{"len_m":920,"wid_m":63.09,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":-9.33744395,"lon1":149.15126942,"rwy2":"26","lat2":-9.33735733,"lon2":149.15965208}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"WGL ATIS"},
+{"type":"GND","freq":125.7,"desc":"Wanigela GND"},
+{"type":"TWR","freq":132.5,"desc":"Wanigela TWR"}
+]
+}

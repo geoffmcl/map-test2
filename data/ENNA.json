@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENNA","name":"Banak","lat":70.0688125,"lon":24.973489,"rwys":1,"ils":2,"index":3352577,"path":"e020n70/e024n70"
+,"runways":[
+{"len_m":2783,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":70.08124700,"lon1":24.97057500,"rwy2":"35","lat2":70.05637800,"lon2":24.97640300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"}
+]
+}

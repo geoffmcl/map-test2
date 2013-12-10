@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPSM","name":"Portsmouth Intl At Pease","lat":43.08431223,"lon":-070.81881091,"rwys":1,"ils":1,"index":1794368,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":3453,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":43.09131994,"lon1":-70.83410034,"rwy2":"34","lat2":43.06462206,"lon2":-70.81238739}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.05,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.95,"desc":"GND"},
+{"type":"TWR","freq":128.4,"desc":"TWR"},
+{"type":"APP","freq":127.05,"desc":"GCA"},
+{"type":"APP","freq":125.05,"desc":"BOSTON APP"},
+{"type":"APP","freq":125.82,"desc":"BOSTON APP"},
+{"type":"DEP","freq":125.05,"desc":"DEP"}
+]
+}

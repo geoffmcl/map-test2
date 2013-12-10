@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MDST","name":"Santiago Cibao Intl","lat":19.40230599,"lon":-070.60159365,"rwys":1,"ils":1,"index":1792859,"path":"w080n10/w071n19"
+,"runways":[
+{"len_m":2629,"wid_m":45.11,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":19.40876400,"lon1":-70.61688600,"rwy2":"29","lat2":19.40341900,"lon2":-70.59249200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"SANTIAGO GND"},
+{"type":"TWR","freq":118.3,"desc":"SANTIAGO TWR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEIK","name":"Erie Municipal","lat":40.01022025,"lon":-105.047918,"rwys":2,"ils":0,"index":1220739,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":1432,"wid_m":18.29,"hdg":167,"surf":"Concrete","rwy1":"15","lat1":40.01652500,"lon1":-105.04991900,"rwy2":"33","lat2":40.00394200,"lon2":-105.04623600},
+{"len_m":685,"wid_m":15.24,"hdg":105,"surf":"Asphalt","rwy1":"09","lat1":40.01102800,"lon1":-105.05163100,"rwy2":"27","lat2":40.00938600,"lon2":-105.04388600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.1,"desc":"DENVER APP/DEP"}
+]
+}

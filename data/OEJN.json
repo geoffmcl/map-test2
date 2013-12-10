@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEJN","name":"Jeddah King Abdulaziz Intl","lat":21.67442700,"lon":039.14891300,"rwys":3,"ils":6,"index":3595241,"path":"e030n20/e039n21"
+,"runways":[
+{"len_m":3799,"wid_m":60.05,"hdg":159,"surf":"Concrete","rwy1":"16R","lat1":21.70274400,"lon1":39.12687200,"rwy2":"34L","lat2":21.67054700,"lon2":39.13958100},
+{"len_m":3689,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"16L","lat1":21.69779700,"lon1":39.16815600,"rwy2":"34R","lat2":21.66653300,"lon2":39.18048600},
+{"len_m":3299,"wid_m":60.05,"hdg":159,"surf":"Concrete","rwy1":"16C","lat1":21.68912500,"lon1":39.15387800,"rwy2":"34C","lat2":21.66116700,"lon2":39.16490800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"JEDDAH CLNC"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"JEDDAH TWR"},
+{"type":"TWR","freq":124.3,"desc":"JEDDAH TWR"},
+{"type":"APP","freq":119.1,"desc":"JEDDAH APP"},
+{"type":"APP","freq":123.8,"desc":"JEDDAH APP"},
+{"type":"APP","freq":124,"desc":"JEDDAH APP"}
+]
+}

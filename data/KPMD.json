@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPMD","name":"Palmdale Rgnl Usaf Plt 42","lat":34.62938675,"lon":-118.0845505,"rwys":2,"ils":1,"index":1007403,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":3656,"wid_m":45.72,"hdg":86,"surf":"Concrete","rwy1":"07","lat1":34.63058600,"lon1":-118.11306100,"rwy2":"25","lat2":34.63277500,"lon2":-118.07326900},
+{"len_m":3657,"wid_m":45.72,"hdg":51,"surf":"Concrete","rwy1":"04","lat1":34.61690000,"lon1":-118.09161100,"rwy2":"22","lat2":34.63728600,"lon2":-118.06026100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123.7,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":124.55,"desc":"JOSHUA APP/DEP"}
+]
+}

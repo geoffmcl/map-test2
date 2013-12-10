@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSHD","name":"Shenandoah Valley Regional","lat":38.26336361,"lon":-078.89994409,"rwys":1,"ils":1,"index":1662992,"path":"w080n30/w079n38"
+,"runways":[
+{"len_m":1826,"wid_m":46.02,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":38.25737227,"lon1":-78.90291873,"rwy2":"23","lat2":38.27030848,"lon2":-78.89002354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.85,"desc":"POTOMAC APP/DEP"}
+]
+}

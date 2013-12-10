@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBHM","name":"Hamilton I.","lat":-20.35202700,"lon":148.95193100,"rwys":1,"ils":0,"index":5378415,"path":"e140s30/e148s21"
+,"runways":[
+{"len_m":1760,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":-20.35114000,"lon1":148.94654900,"rwy2":"32","lat2":-20.36382200,"lon2":148.95672900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":148,"surf":"Concrete","lat1":-20.35559200,"lon1":148.95137300},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":148,"surf":"Concrete","lat1":-20.35572100,"lon1":148.95148300},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":148,"surf":"Concrete","lat1":-20.35586500,"lon1":148.95159900},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":148,"surf":"Concrete","lat1":-20.35601100,"lon1":148.95173500}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"WHITSUNDAY MULT"},
+{"type":"TWR","freq":135.5,"desc":"BRISBANE CNTR"},
+{"type":"TWR","freq":118.7,"desc":"HAMILTON IS TWR"}
+]
+}

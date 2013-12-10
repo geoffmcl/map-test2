@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZGKL","name":"Liangjiang","lat":25.2181055,"lon":110.039196,"rwys":1,"ils":2,"index":4758728,"path":"e110n20/e110n25"
+,"runways":[
+{"len_m":2800,"wid_m":44.81,"hdg":4,"surf":"Concrete","rwy1":"01","lat1":25.20551400,"lon1":110.03799200,"rwy2":"19","lat2":25.23069700,"lon2":110.04040000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"TWR","freq":130,"desc":"TWR"}
+]
+}

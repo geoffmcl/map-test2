@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKPN","name":"Podhorany","lat":49.94089433,"lon":015.55181072,"rwys":2,"ils":0,"index":3203834,"path":"e010n40/e015n49"
+,"runways":[
+{"len_m":637,"wid_m":92.05,"hdg":131,"surf":"Turf/grass","rwy1":"13","lat1":49.94024206,"lon1":15.54859233,"rwy2":"31","lat2":49.93643884,"lon2":15.55522733},
+{"len_m":728,"wid_m":74.98,"hdg":73,"surf":"Turf/grass","rwy1":"07","lat1":49.93802497,"lon1":15.54196751,"rwy2":"25","lat2":49.93989139,"lon2":15.55169653}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"INFO"}
+]
+}

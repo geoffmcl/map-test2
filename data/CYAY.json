@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYAY","name":"St Anthony","lat":51.3919,"lon":-56.083147,"rwys":1,"ils":0,"index":2024283,"path":"w060n50/w057n51"
+,"runways":[
+{"len_m":1220,"wid_m":30.48,"hdg":79,"surf":"Asphalt","rwy1":"10","lat1":51.39093100,"lon1":-56.09177500,"rwy2":"28","lat2":51.39286900,"lon2":-56.07451900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.65,"desc":"AWOS1"},
+{"type":"CTAF","freq":122.3,"desc":"CTAF"}
+]
+}

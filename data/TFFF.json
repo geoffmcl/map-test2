@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"TFFF","name":"Martinique/aime Cesaire Intl","lat":14.59423014,"lon":-061.00298546,"rwys":1,"ils":1,"index":1940007,"path":"w070n10/w062n14"
+,"runways":[
+{"len_m":3005,"wid_m":45.11,"hdg":79,"surf":"Asphalt","rwy1":"09","lat1":14.58867207,"lon1":-61.01690802,"rwy2":"27","lat2":14.59339193,"lon2":-60.98943869}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"FORT DE FRANCE TWR"},
+{"type":"APP","freq":121,"desc":"FORT DE FRANCE APP"},
+{"type":"APP","freq":129.05,"desc":"FORT DE FRANCE APP"}
+]
+}

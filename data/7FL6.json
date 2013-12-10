@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"7FL6","name":"Spruce Creek","lat":29.07893200,"lon":-081.04496000,"rwys":1,"ils":0,"index":1613251,"path":"w090n20/w082n29"
+,"runways":[
+{"len_m":1219,"wid_m":53.95,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":29.07663113,"lon1":-81.05146385,"rwy2":"23","lat2":29.08370287,"lon2":-81.04186860}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.97,"desc":"UNICOM"},
+{"type":"CLD","freq":121.72,"desc":"DAYTONA"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHLC","name":"Hill City Muni","lat":39.3802065,"lon":-99.83146,"rwys":1,"ils":0,"index":1319000,"path":"w100n30/w100n39"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":181,"surf":"Concrete","rwy1":"17","lat1":39.38706900,"lon1":-99.83127800,"rwy2":"35","lat2":39.37334400,"lon2":-99.83164200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

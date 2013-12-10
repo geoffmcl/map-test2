@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNQI","name":"Kingsville Nas","lat":27.504495,"lon":-97.80830175,"rwys":4,"ils":1,"index":1351008,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13L","lat1":27.51393900,"lon1":-97.81525300,"rwy2":"31R","lat2":27.49855000,"lon2":-97.79760800},
+{"len_m":2438,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":27.51256100,"lon1":-97.81676400,"rwy2":"31L","lat2":27.49717200,"lon2":-97.79911700},
+{"len_m":2438,"wid_m":60.96,"hdg":179,"surf":"Asphalt","rwy1":"17L","lat1":27.51444700,"lon1":-97.80847200,"rwy2":"35R","lat2":27.49244400,"lon2":-97.80819700},
+{"len_m":2438,"wid_m":60.96,"hdg":179,"surf":"Asphalt","rwy1":"17R","lat1":27.51442500,"lon1":-97.81063900,"rwy2":"35L","lat2":27.49242200,"lon2":-97.81036400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.1,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"}
+]
+}

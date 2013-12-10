@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPIB","name":"Hattiesburg Laurel Rgnl","lat":31.4671455,"lon":-89.337058,"rwys":1,"ils":1,"index":1482330,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":31.47608300,"lon1":-89.33706900,"rwy2":"36","lat2":31.45820800,"lon2":-89.33704700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

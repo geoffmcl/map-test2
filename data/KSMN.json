@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSMN","name":"Lemhi Co","lat":45.1237805,"lon":-113.881332,"rwys":1,"ils":0,"index":1089984,"path":"w120n40/w114n45"
+,"runways":[
+{"len_m":1569,"wid_m":18.29,"hdg":187,"surf":"Asphalt","rwy1":"17","lat1":45.13077500,"lon1":-113.87998100,"rwy2":"35","lat2":45.11678600,"lon2":-113.88268300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

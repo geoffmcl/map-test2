@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGTR","name":"Golden Triangle Rgnl","lat":33.45089991,"lon":-088.58841351,"rwys":1,"ils":1,"index":1498841,"path":"w090n30/w089n33"
+,"runways":[
+{"len_m":2434,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":33.45928866,"lon1":-88.59129441,"rwy2":"36","lat2":33.43733732,"lon2":-88.59150948}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":12.19,"hdg":-88,"surf":"Asphalt","lat1":33.45695274,"lon1":-88.58957312}
+]
+,"radios":[
+{"type":"ATIS","freq":126.37,"desc":"ATIS"},
+{"type":"CTAF","freq":120.02,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"CLD","freq":126.25,"desc":"COLUMBUS CLNC DEL"},
+{"type":"GND","freq":135.37,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":120.02,"desc":"TWR"},
+{"type":"APP","freq":135.6,"desc":"COLUMBUS APP/DEP"}
+]
+}

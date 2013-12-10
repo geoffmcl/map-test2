@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGCM","name":"Claremore Rgnl","lat":36.2927165,"lon":-95.479615,"rwys":1,"ils":0,"index":1384338,"path":"w100n30/w096n36"
+,"runways":[
+{"len_m":1584,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":36.29985800,"lon1":-95.47959700,"rwy2":"35","lat2":36.28557500,"lon2":-95.47963300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.1,"desc":"TULSA APP/DEP"}
+]
+}

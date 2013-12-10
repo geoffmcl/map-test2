@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KABI","name":"Abilene Rgnl","lat":32.4131733333333,"lon":-99.6832326666667,"rwys":3,"ils":1,"index":1318553,"path":"w100n30/w100n32"
+,"runways":[
+{"len_m":2194,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17R","lat1":32.42808100,"lon1":-99.68491900,"rwy2":"35L","lat2":32.40828900,"lon2":-99.68481900},
+{"len_m":2193,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17L","lat1":32.40853100,"lon1":-99.67478100,"rwy2":"35R","lat2":32.38874700,"lon2":-99.67468300},
+{"len_m":1121,"wid_m":30.48,"hdg":52,"surf":"Asphalt","rwy1":"04","lat1":32.41960300,"lon1":-99.69481100,"rwy2":"22","lat2":32.42578900,"lon2":-99.68538300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":127.2,"desc":"APP/DEP"},
+{"type":"APP","freq":125,"desc":"APP/DEP"}
+]
+}

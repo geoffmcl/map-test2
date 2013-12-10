@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FQTT","name":"Tete Chingodzi","lat":-16.1048155,"lon":33.640179,"rwys":1,"ils":0,"index":3494525,"path":"e030s20/e033s17"
+,"runways":[
+{"len_m":2507,"wid_m":45.11,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":-16.11613900,"lon1":33.63986400,"rwy2":"19","lat2":-16.09349200,"lon2":33.64049400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"INFO"},
+{"type":"TWR","freq":127.9,"desc":"INFO"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":125.9,"desc":"TWR"}
+]
+}

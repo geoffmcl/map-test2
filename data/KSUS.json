@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSUS","name":"Spirit Of St Louis","lat":38.6626895,"lon":-90.65331675,"rwys":2,"ils":1,"index":1466409,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":2281,"wid_m":45.72,"hdg":78,"surf":"Concrete","rwy1":"08R","lat1":38.65769700,"lon1":-90.65974200,"rwy2":"26L","lat2":38.66194400,"lon2":-90.63409700},
+{"len_m":1524,"wid_m":22.86,"hdg":78,"surf":"Asphalt","rwy1":"08L","lat1":38.66414200,"lon1":-90.66828100,"rwy2":"26R","lat2":38.66697500,"lon2":-90.65114700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.8,"desc":"ATIS"},
+{"type":"CTAF","freq":124.75,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"CLD","freq":133.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.75,"desc":"TWR"},
+{"type":"TWR","freq":122.6,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"ST LOUIS APP/DEP"}
+]
+}

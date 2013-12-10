@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIKP","name":"Havadarya","lat":27.158279,"lon":56.1721125,"rwys":1,"ils":0,"index":3874120,"path":"e050n20/e056n27"
+,"runways":[
+{"len_m":2598,"wid_m":35.05,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":27.15600800,"lon1":56.15925300,"rwy2":"26","lat2":27.16055000,"lon2":56.18497200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.85,"desc":"TWR"},
+{"type":"TWR","freq":122.15,"desc":"TWR"},
+{"type":"TWR","freq":123.15,"desc":"TWR"}
+]
+}

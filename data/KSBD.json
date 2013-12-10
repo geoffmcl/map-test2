@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSBD","name":"San Bernardino Intl","lat":34.09726500,"lon":-117.24283100,"rwys":1,"ils":1,"index":1023747,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":3040,"wid_m":54.86,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":34.09073300,"lon1":-117.25038500,"rwy2":"24","lat2":34.09995200,"lon2":-117.21935300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10547800,"lon1":-117.24249700},
+{"rwy1":"H2","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10557100,"lon1":-117.24149300},
+{"rwy1":"H3","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10556800,"lon1":-117.24064100},
+{"rwy1":"H4","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10521500,"lon1":-117.24017100},
+{"rwy1":"H5","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10487400,"lon1":-117.24064400},
+{"rwy1":"H6","len_m":30,"wid_m":30.48,"hdg":-117,"surf":"Concrete","lat1":34.10487200,"lon1":-117.24156200}
+]
+,"radios":[
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.65,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":125.5,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":127.25,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":134,"desc":"SOCAL APP/DEP"}
+]
+}

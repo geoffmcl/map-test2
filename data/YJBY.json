@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YJBY","name":"Jervis Bay","lat":-35.14503545,"lon":150.69936242,"rwys":2,"ils":0,"index":5410226,"path":"e150s40/e150s36"
+,"runways":[
+{"len_m":1528,"wid_m":49.99,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":-35.14166642,"lon1":150.69498483,"rwy2":"34","lat2":-35.15490972,"lon2":150.69959852},
+{"len_m":1464,"wid_m":46.02,"hdg":94,"surf":"Asphalt","rwy1":"08","lat1":-35.14515504,"lon1":150.68825178,"rwy2":"26","lat2":-35.14629800,"lon2":150.70426400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.85,"desc":"CTAF"},
+{"type":"APP","freq":118.35,"desc":"NOWRA APP"},
+{"type":"APP","freq":123.5,"desc":"NOWRA APP"}
+]
+}

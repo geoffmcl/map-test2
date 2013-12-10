@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSEE","name":"Gillespie Field","lat":32.82522087,"lon":-116.97408827,"rwys":3,"ils":1,"index":1040048,"path":"w120n30/w117n32"
+,"runways":[
+{"len_m":1628,"wid_m":29.87,"hdg":102,"surf":"Asphalt","rwy1":"09L","lat1":32.82945985,"lon1":-116.98124560,"rwy2":"27R","lat2":32.82638785,"lon2":-116.96424260},
+{"len_m":1263,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":32.82951585,"lon1":-116.97247860,"rwy2":"35","lat2":32.81812385,"lon2":-116.97238960},
+{"len_m":834,"wid_m":17.98,"hdg":102,"surf":"Asphalt","rwy1":"09R","lat1":32.82738285,"lon1":-116.97623160,"rwy2":"27L","lat2":32.82580785,"lon2":-116.96751760}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-116,"surf":"Asphalt","lat1":32.82508433,"lon1":-116.97123757},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":-116,"surf":"Asphalt","lat1":32.82529282,"lon1":-116.97101941}
+]
+,"radios":[
+{"type":"ATIS","freq":125.45,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":123.05,"desc":"UNICOM"},
+{"type":"CLD","freq":125.1,"desc":"DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":124.35,"desc":"SOCAL APP/DEP"}
+]
+}

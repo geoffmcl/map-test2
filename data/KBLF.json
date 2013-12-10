@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBLF","name":"Mercer Co","lat":37.295794,"lon":-81.2076905,"rwys":1,"ils":1,"index":1613779,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":1445,"wid_m":30.48,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":37.29094400,"lon1":-81.21313100,"rwy2":"23","lat2":37.30064400,"lon2":-81.20225000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

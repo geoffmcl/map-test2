@@ -1,0 +1,33 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KJFK","name":"John F Kennedy Intl","lat":40.64244691,"lon":-073.78112251,"rwys":4,"ils":4,"index":1745064,"path":"w080n40/w074n40"
+,"runways":[
+{"len_m":4441,"wid_m":46.02,"hdg":120,"surf":"Asphalt","rwy1":"13R","lat1":40.64836167,"lon1":-73.81671471,"rwy2":"31L","lat2":40.62791100,"lon2":-73.77159416},
+{"len_m":3459,"wid_m":46.02,"hdg":30,"surf":"Asphalt","rwy1":"04L","lat1":40.62201778,"lon1":-73.78558529,"rwy2":"22R","lat2":40.64879083,"lon2":-73.76466723},
+{"len_m":3047,"wid_m":46.02,"hdg":120,"surf":"Asphalt","rwy1":"13L","lat1":40.65776480,"lon1":-73.79023952,"rwy2":"31R","lat2":40.64372612,"lon2":-73.75927694},
+{"len_m":2560,"wid_m":60.96,"hdg":30,"surf":"Asphalt","rwy1":"04R","lat1":40.62542555,"lon1":-73.77034723,"rwy2":"22L","lat2":40.64523583,"lon2":-73.75486363}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-73,"surf":"Asphalt","lat1":40.65449557,"lon1":-73.79829261},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":-73,"surf":"Asphalt","lat1":40.64572572,"lon1":-73.77040456},
+{"rwy1":"H3","len_m":17,"wid_m":17.98,"hdg":-73,"surf":"Asphalt","lat1":40.66039844,"lon1":-73.78553873},
+{"rwy1":"H4","len_m":17,"wid_m":17.98,"hdg":-73,"surf":"Asphalt","lat1":40.64963185,"lon1":-73.81048930}
+]
+,"radios":[
+{"type":"ATIS","freq":128.72,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":135.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":125.05,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"KENNEDY TWR"},
+{"type":"TWR","freq":123.9,"desc":"KENNEDY TWR"},
+{"type":"APP","freq":123.7,"desc":"NEW YORK APP"},
+{"type":"APP","freq":126.8,"desc":"NEW YORK APP"},
+{"type":"APP","freq":127.4,"desc":"NEW YORK APP"},
+{"type":"APP","freq":132.4,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":123.7,"desc":"NEW YORK DEP"},
+{"type":"DEP","freq":124.75,"desc":"NEW YORK DEP"},
+{"type":"DEP","freq":134.35,"desc":"NEW YORK DEP"},
+{"type":"DEP","freq":135.9,"desc":"NEW YORK DEP"}
+]
+}

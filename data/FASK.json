@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FASK","name":"Swartkop","lat":-25.80812300,"lon":028.16081300,"rwys":2,"ils":0,"index":3411976,"path":"e020s30/e028s26"
+,"runways":[
+{"len_m":1985,"wid_m":29.87,"hdg":5,"surf":"Asphalt","rwy1":"02","lat1":-25.81821453,"lon1":28.16381632,"rwy2":"20","lat2":-25.80038747,"lon2":28.16586968},
+{"len_m":1432,"wid_m":18.29,"hdg":48,"surf":"Dirt","rwy1":"06","lat1":-25.81241615,"lon1":28.16448414,"rwy2":"24","lat2":-25.80386185,"lon2":28.17519786}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":123.2,"desc":"TWR"},
+{"type":"TWR","freq":124.1,"desc":"TWR"},
+{"type":"APP","freq":134.4,"desc":"WATERKLOOF APP"},
+{"type":"APP","freq":124.5,"desc":"WATERKLOOF APP"}
+]
+}

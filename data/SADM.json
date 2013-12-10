@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SADM","name":"Moron","lat":-34.67161891,"lon":-058.63678468,"rwys":1,"ils":0,"index":1986001,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":2884,"wid_m":42.98,"hdg":13,"surf":"Concrete","rwy1":"01","lat1":-34.68886896,"lon1":-58.64645906,"rwy2":"19","lat2":-34.66359322,"lon2":-58.63908027}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"Moron TWR"},
+{"type":"TWR","freq":119.25,"desc":"Moron TWR AUX"}
+]
+}

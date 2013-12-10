@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHLM","name":"Park Township","lat":42.79581025,"lon":-86.16203625,"rwys":2,"ils":0,"index":1532211,"path":"w090n40/w087n42"
+,"runways":[
+{"len_m":914,"wid_m":15.24,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":42.79366700,"lon1":-86.16605600,"rwy2":"23","lat2":42.79895800,"lon2":-86.15750000},
+{"len_m":684,"wid_m":27.43,"hdg":112,"surf":"Turf/grass","rwy1":"12","lat1":42.79649400,"lon1":-86.16615300,"rwy2":"30","lat2":42.79412200,"lon2":-86.15843600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":123.95,"desc":"MUSKEGON CLNC DEL"},
+{"type":"APP","freq":119.8,"desc":"MUSKEGON APP/DEP"}
+]
+}

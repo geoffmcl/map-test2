@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOYM","name":"St Marys Muni","lat":41.4124845,"lon":-78.502643,"rwys":1,"ils":0,"index":1663193,"path":"w080n40/w079n41"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":41.41248300,"lon1":-78.51048300,"rwy2":"28","lat2":41.41248600,"lon2":-78.49480300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.05,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.3,"desc":"ALTOONA RDO CLNC DEL"}
+]
+}

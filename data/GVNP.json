@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"GVNP","name":"Praia International","lat":14.9325805,"lon":-23.48919425,"rwys":2,"ils":0,"index":2562620,"path":"w030n10/w024n14"
+,"runways":[
+{"len_m":2095,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03R","lat1":14.93188600,"lon1":-23.48850000,"rwy2":"21L","lat2":14.94946100,"lon2":-23.48123300},
+{"len_m":1271,"wid_m":29.87,"hdg":21,"surf":"Asphalt","rwy1":"03L","lat1":14.91916100,"lon1":-23.49573300,"rwy2":"21R","lat2":14.92981400,"lon2":-23.49131100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"PRAIA TWR"},
+{"type":"APP","freq":118.2,"desc":"PRAIA APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSNB","name":"Lishe","lat":29.8266815,"lon":121.4619055,"rwys":1,"ils":2,"index":4939249,"path":"e120n20/e121n29"
+,"runways":[
+{"len_m":3202,"wid_m":45.11,"hdg":123,"surf":"Concrete","rwy1":"13","lat1":29.83459400,"lon1":121.44804400,"rwy2":"31","lat2":29.81876900,"lon2":121.47576700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"NINGBO GND"},
+{"type":"TWR","freq":118.35,"desc":"NINGBO TWR"},
+{"type":"TWR","freq":130,"desc":"NINGBO TWR"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEOC","name":"Ocana","lat":39.93665775,"lon":-3.50238825,"rwys":2,"ils":0,"index":2891897,"path":"w010n30/w004n39"
+,"runways":[
+{"len_m":1259,"wid_m":17.68,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":39.93798300,"lon1":-3.50790800,"rwy2":"29","lat2":39.93460600,"lon2":-3.49383600},
+{"len_m":894,"wid_m":99.97,"hdg":167,"surf":"Dirt","rwy1":"17","lat1":39.94095300,"lon1":-3.50505300,"rwy2":"35","lat2":39.93308900,"lon2":-3.50275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.6,"desc":"RUNWAY INFO SVC"}
+]
+}

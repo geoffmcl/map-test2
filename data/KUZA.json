@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KUZA","name":"Rock Hill York Co Bryant","lat":34.987825,"lon":-81.0571735,"rwys":1,"ils":1,"index":1613627,"path":"w090n30/w082n34"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":11,"surf":"Asphalt","rwy1":"02","lat1":34.98041400,"lon1":-81.05896100,"rwy2":"20","lat2":34.99523600,"lon2":-81.05538600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.05,"desc":"CHARLOTTE APP/DEP"}
+]
+}

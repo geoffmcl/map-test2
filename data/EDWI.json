@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDWI","name":"Wilhelmshaven Mariensiel","lat":53.50883510,"lon":008.05251338,"rwys":2,"ils":0,"index":3089376,"path":"e000n50/e008n53"
+,"runways":[
+{"len_m":1461,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":53.49772365,"lon1":8.04829416,"rwy2":"20","lat2":53.50990057,"lon2":8.05655118},
+{"len_m":602,"wid_m":14.94,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":53.50699686,"lon1":8.05013612,"rwy2":"34","lat2":53.50209501,"lon2":8.05397848}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"Bremen Information"},
+{"type":"TWR","freq":129.25,"desc":"Wilhelmshaven Info"}
+]
+}

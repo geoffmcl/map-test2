@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"TCT","name":"Takotna","lat":62.99270416,"lon":-156.06819028,"rwys":1,"ils":0,"index":386617,"path":"w160n60/w157n62"
+,"runways":[
+{"len_m":525,"wid_m":19.81,"hdg":82,"surf":"Gravel","rwy1":"06","lat1":62.99237662,"lon1":-156.07332253,"rwy2":"24","lat2":62.99303170,"lon2":-156.06305803}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":101.1,"dist_nm":12.7,"freq":115.5,"lat":62.95102778,"lon":-155.61138889,"rng_nm":130,"alt_fmsl":350,"id":"MCG","desc":"MC GRATH VORTAC"},
+{"type":"NDB","hdg_t":100.9,"dist_nm":14.2,"freq":350,"lat":62.94683333,"lon":-155.55725000,"rng_nm":50,"alt_fmsl":0,"id":"VTR","desc":"TAKOTNA RIVER NDB"},
+{"type":"VOR","hdg_t":350.1,"dist_nm":106.7,"freq":114.8,"lat":64.73813889,"lon":-156.77713889,"rng_nm":130,"alt_fmsl":150,"id":"GAL","desc":"GALENA VOR-DME"},
+{"type":"NDB","hdg_t":60.3,"dist_nm":114.4,"freq":227,"lat":63.88388889,"lon":-152.31650000,"rng_nm":50,"alt_fmsl":0,"id":"MHM","desc":"MINCHUMINA NDB"},
+{"type":"VOR","hdg_t":173.6,"dist_nm":114.6,"freq":117.2,"lat":61.09858333,"lon":-155.63458333,"rng_nm":130,"alt_fmsl":2501,"id":"SQA","desc":"SPARREVOHN VOR-DME"},
+{"type":"NDB","hdg_t":172.7,"dist_nm":114.6,"freq":281,"lat":61.10175000,"lon":-155.56861111,"rng_nm":50,"alt_fmsl":0,"id":"CRN","desc":"CAIRN MOUNTAIN NDB"},
+{"type":"NDB","hdg_t":261.2,"dist_nm":115.4,"freq":365,"lat":62.64141667,"lon":-160.19002778,"rng_nm":50,"alt_fmsl":0,"id":"ANV","desc":"ANVIK NDB"},
+{"type":"NDB","hdg_t":231,"dist_nm":129.9,"freq":359,"lat":61.59016667,"lon":-159.59791667,"rng_nm":50,"alt_fmsl":0,"id":"ANI","desc":"ANIAK NDB"},
+{"type":"VOR","hdg_t":295.5,"dist_nm":135.6,"freq":116.9,"lat":63.89194444,"lon":-160.68433333,"rng_nm":130,"alt_fmsl":430,"id":"UNK","desc":"UNALAKLEET VOR-DME"},
+{"type":"NDB","hdg_t":295.4,"dist_nm":139.1,"freq":382,"lat":63.90772222,"lon":-160.81194444,"rng_nm":50,"alt_fmsl":0,"id":"JNR","desc":"NORTH RIVER NDB"}
+]
+}

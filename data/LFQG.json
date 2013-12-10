@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFQG","name":"Nevers Fourchambault","lat":46.99885500,"lon":003.11077900,"rwys":2,"ils":0,"index":3007032,"path":"e000n40/e003n46"
+,"runways":[
+{"len_m":1628,"wid_m":29.87,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":47.00650300,"lon1":3.10425000,"rwy2":"30","lat2":46.99875000,"lon2":3.12241700},
+{"len_m":932,"wid_m":60.05,"hdg":121,"surf":"Turf/grass","rwy1":"12L","lat1":47.00538515,"lon1":3.10843645,"rwy2":"30R","lat2":47.00094685,"lon2":3.11883555}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.6,"desc":"NEVERS INFO"}
+]
+}

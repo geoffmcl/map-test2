@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMCL","name":"Culiacan Intl","lat":24.76500900,"lon":-107.47192400,"rwys":1,"ils":0,"index":1186994,"path":"w110n20/w108n24"
+,"runways":[
+{"len_m":2300,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"02","lat1":24.75694700,"lon1":-107.48230100,"rwy2":"20","lat2":24.77436900,"lon2":-107.46991100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"APP"}
+]
+}

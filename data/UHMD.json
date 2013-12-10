@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UHMD","name":"Provideniya Bay","lat":64.38450103,"lon":-173.23136177,"rwys":2,"ils":0,"index":108185,"path":"w180n60/w174n64"
+,"runways":[
+{"len_m":1221,"wid_m":64.92,"hdg":32,"surf":"Gravel","rwy1":"03","lat1":64.34746229,"lon1":-173.24201769,"rwy2":"21","lat2":64.35674218,"lon2":-173.22856554},
+{"len_m":2487,"wid_m":91.14,"hdg":21,"surf":"Gravel","rwy1":"01","lat1":64.36846900,"lon1":-173.25219200,"rwy2":"19","lat2":64.38922800,"lon2":-173.23331400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+}

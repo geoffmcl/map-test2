@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFNH","name":"Carpentras","lat":44.02257844,"lon":005.08922979,"rwys":2,"ils":0,"index":3039616,"path":"e000n40/e005n44"
+,"runways":[
+{"len_m":1205,"wid_m":29.87,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":44.03171606,"lon1":5.07828477,"rwy2":"31","lat2":44.02447557,"lon2":5.08948424},
+{"len_m":842,"wid_m":55.47,"hdg":132,"surf":"Turf/grass","rwy1":"13R","lat1":44.02901046,"lon1":5.08139737,"rwy2":"31L","lat2":44.02393326,"lon2":5.08920514}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.17,"desc":"Frequency"}
+]
+}

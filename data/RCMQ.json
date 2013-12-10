@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCMQ","name":"Ching Chuan Kang Ab","lat":24.26496,"lon":120.6208045,"rwys":1,"ils":2,"index":4922514,"path":"e120n20/e120n24"
+,"runways":[
+{"len_m":3660,"wid_m":45.11,"hdg":176,"surf":"Concrete","rwy1":"18","lat1":24.28145300,"lon1":120.61970300,"rwy2":"36","lat2":24.24846700,"lon2":120.62190600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.25,"desc":"TWR"},
+{"type":"TWR","freq":118.75,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"TAICHUNG APP"},
+{"type":"APP","freq":120.6,"desc":"TAICHUNG APP"},
+{"type":"APP","freq":129.6,"desc":"TAICHUNG APP"},
+{"type":"APP","freq":130.1,"desc":"TAICHUNG APP"}
+]
+}

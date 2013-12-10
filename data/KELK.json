@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KELK","name":"Elk City Rgnl Business","lat":35.430793,"lon":-99.3942665,"rwys":1,"ils":0,"index":1318746,"path":"w100n30/w100n35"
+,"runways":[
+{"len_m":1646,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":35.43821100,"lon1":-99.39424700,"rwy2":"35","lat2":35.42337500,"lon2":-99.39428600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"FORT WORTH CNTR"}
+]
+}

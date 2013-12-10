@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OITR","name":"Uromiyeh","lat":37.6681205,"lon":45.0687055,"rwys":1,"ils":1,"index":3694568,"path":"e040n30/e045n37"
+,"runways":[
+{"len_m":3248,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":37.65584700,"lon1":45.05867800,"rwy2":"21","lat2":37.68039400,"lon2":45.07873300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.25,"desc":"TWR"}
+]
+}

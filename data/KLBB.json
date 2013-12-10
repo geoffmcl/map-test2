@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLBB","name":"Lubbock Preston Smith Intl","lat":33.6615568333333,"lon":-101.8206835,"rwys":3,"ils":2,"index":1285864,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":3504,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"17R","lat1":33.68236100,"lon1":-101.82903600,"rwy2":"35L","lat2":33.65076400,"lon2":-101.82881700},
+{"len_m":2438,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":33.66219700,"lon1":-101.82914200,"rwy2":"26","lat2":33.66232500,"lon2":-101.80285300},
+{"len_m":881,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17L","lat1":33.65981900,"lon1":-101.81715600,"rwy2":"35R","lat2":33.65187500,"lon2":-101.81709700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.3,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"},
+{"type":"APP","freq":119.2,"desc":"APP"},
+{"type":"DEP","freq":119.2,"desc":"DEP"},
+{"type":"DEP","freq":119.9,"desc":"DEP"},
+{"type":"DEP","freq":124.45,"desc":"DEP"}
+]
+}

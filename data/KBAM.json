@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBAM","name":"Battle Mountain","lat":40.6028379275,"lon":-116.8737062025,"rwys":2,"ils":0,"index":1040544,"path":"w120n40/w117n40"
+,"runways":[
+{"len_m":2225,"wid_m":29.87,"hdg":139,"surf":"Asphalt","rwy1":"12","lat1":40.60528803,"lon1":-116.88222052,"rwy2":"30","lat2":40.59012500,"lon2":-116.86502500},
+{"len_m":2224,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"03","lat1":40.59383600,"lon1":-116.88496900,"rwy2":"21","lat2":40.60695600,"lon2":-116.86511100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-116,"surf":"Concrete","lat1":40.60660593,"lon1":-116.87329886},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":-116,"surf":"Concrete","lat1":40.60664327,"lon1":-116.87286319}
+]
+,"radios":[
+{"type":"ATIS","freq":119.45,"desc":"AWOS THREE"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

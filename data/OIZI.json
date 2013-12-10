@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIZI","name":"Iran Shahr","lat":27.2361165,"lon":60.720039,"rwys":1,"ils":0,"index":3939658,"path":"e060n20/e060n27"
+,"runways":[
+{"len_m":2350,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":27.24658900,"lon1":60.71816700,"rwy2":"35","lat2":27.22564400,"lon2":60.72191100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"INFO"},
+{"type":"TWR","freq":122.7,"desc":"INFO"},
+{"type":"TWR","freq":121.7,"desc":"INFO"}
+]
+}

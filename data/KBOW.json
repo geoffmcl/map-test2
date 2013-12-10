@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBOW","name":"Bartow Muni","lat":27.94904800,"lon":-081.78315400,"rwys":3,"ils":0,"index":1613176,"path":"w090n20/w082n27"
+,"runways":[
+{"len_m":2091,"wid_m":54.86,"hdg":87,"surf":"Asphalt","rwy1":"9L","lat1":27.94475370,"lon1":-81.79345604,"rwy2":"27R","lat2":27.94573325,"lon2":-81.77223416},
+{"len_m":1855,"wid_m":54.86,"hdg":87,"surf":"Asphalt","rwy1":"9R","lat1":27.94095753,"lon1":-81.79340220,"rwy2":"27L","lat2":27.94182858,"lon2":-81.77457653},
+{"len_m":2090,"wid_m":29.87,"hdg":46,"surf":"Asphalt","rwy1":"5","lat1":27.93601266,"lon1":-81.79182803,"rwy2":"23","lat2":27.94909169,"lon2":-81.77652423}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":-81,"surf":"Concrete","lat1":27.94897312,"lon1":-81.78252468}
+]
+,"radios":[
+{"type":"ATIS","freq":123.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":121.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"TWR","freq":121.5,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"}
+]
+}

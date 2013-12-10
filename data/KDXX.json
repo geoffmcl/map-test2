@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDXX","name":"Lac Qui Parle Co","lat":44.98622225,"lon":-96.17769325,"rwys":2,"ils":0,"index":1368507,"path":"w100n40/w097n44"
+,"runways":[
+{"len_m":1006,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":44.98998100,"lon1":-96.18305600,"rwy2":"31","lat2":44.98304200,"lon2":-96.17485600},
+{"len_m":920,"wid_m":41.15,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":44.98593300,"lon1":-96.18226400,"rwy2":"26","lat2":44.98593300,"lon2":-96.17059700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

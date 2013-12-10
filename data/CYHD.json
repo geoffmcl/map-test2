@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYHD","name":"Dryden Rgnl","lat":49.83020825,"lon":-92.74111025,"rwys":2,"ils":1,"index":1434353,"path":"w100n40/w093n49"
+,"runways":[
+{"len_m":1853,"wid_m":45.72,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":49.83500000,"lon1":-92.75555300,"rwy2":"29","lat2":49.82833300,"lon2":-92.73194400},
+{"len_m":604,"wid_m":22.86,"hdg":55,"surf":"Dirt","rwy1":"05","lat1":49.82722200,"lon1":-92.74194400,"rwy2":"23","lat2":49.83027800,"lon2":-92.73500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"MIN NATL RESOURCES"}
+]
+}

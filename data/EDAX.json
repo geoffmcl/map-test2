@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDAX","name":"Rechlin Larz","lat":53.3064155,"lon":12.7531405,"rwys":1,"ils":0,"index":3154899,"path":"e010n50/e012n53"
+,"runways":[
+{"len_m":2386,"wid_m":49.99,"hdg":74,"surf":"Concrete","rwy1":"08","lat1":53.30364200,"lon1":12.73585300,"rwy2":"26","lat2":53.30918900,"lon2":12.77042800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":129.97,"desc":"LARZ INFO"}
+]
+}

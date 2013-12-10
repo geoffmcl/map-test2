@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCMR","name":"H A Clark Mem Fld","lat":35.3022335,"lon":-112.1940585,"rwys":1,"ils":0,"index":1105747,"path":"w120n30/w113n35"
+,"runways":[
+{"len_m":1826,"wid_m":30.48,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":35.31027800,"lon1":-112.19192800,"rwy2":"36","lat2":35.29418900,"lon2":-112.19618900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

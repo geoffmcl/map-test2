@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RCYU","name":"Hualien","lat":24.02709925,"lon":121.61644,"rwys":2,"ils":2,"index":4938882,"path":"e120n20/e121n24"
+,"runways":[
+{"len_m":2735,"wid_m":45.11,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":24.01261100,"lon1":121.61096900,"rwy2":"21","lat2":24.03475000,"lon2":121.62288900},
+{"len_m":344,"wid_m":19.81,"hdg":26,"surf":"Asphalt","rwy1":"03L","lat1":24.02911900,"lon1":121.61520800,"rwy2":"21R","lat2":24.03191700,"lon2":121.61669400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.18,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+}

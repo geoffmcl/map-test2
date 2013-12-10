@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJCM","name":"Memanbetsu","lat":43.8806055,"lon":144.164053,"rwys":1,"ils":1,"index":5316984,"path":"e140n40/e144n43"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":43.89180800,"lon1":144.16260600,"rwy2":"36","lat2":43.86940300,"lon2":144.16550000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+}

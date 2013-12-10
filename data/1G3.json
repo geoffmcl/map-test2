@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"1G3","name":"Kent State University","lat":41.15721480,"lon":-081.41649013,"rwys":1,"ils":0,"index":1614026,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1219,"wid_m":17.98,"hdg":8,"surf":"Concrete","rwy1":"01","lat1":41.14595000,"lon1":-81.41620300,"rwy2":"19","lat2":41.15680600,"lon2":-81.41403600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.6,"desc":"AKRON CANTON APP/DEP"}
+]
+}

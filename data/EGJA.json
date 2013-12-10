@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGJA","name":"Alderney","lat":49.70874059,"lon":-002.21469423,"rwys":3,"ils":0,"index":2908907,"path":"w010n40/w003n49"
+,"runways":[
+{"len_m":881,"wid_m":17.98,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":49.70599200,"lon1":-2.22085300,"rwy2":"26","lat2":49.70744200,"lon2":-2.20883900},
+{"len_m":733,"wid_m":36.88,"hdg":133,"surf":"Turf/grass","rwy1":"14","lat1":49.70894400,"lon1":-2.22133900,"rwy2":"32","lat2":49.70442500,"lon2":-2.21393600},
+{"len_m":496,"wid_m":36.88,"hdg":25,"surf":"Turf/grass","rwy1":"03","lat1":49.70426900,"lon1":-2.21455000,"rwy2":"21","lat2":49.70828900,"lon2":-2.21154200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":130.5,"desc":"Alderney Ground"},
+{"type":"TWR","freq":125.35,"desc":"Alderney Tower"},
+{"type":"APP","freq":128.65,"desc":"Guernsey Approach"}
+]
+}

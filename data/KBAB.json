@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBAB","name":"Beale Afb","lat":39.13613731,"lon":-121.4366286,"rwys":1,"ils":1,"index":958538,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":3657,"wid_m":91.14,"hdg":161,"surf":"Concrete","rwy1":"15","lat1":39.15174531,"lon1":-121.44339210,"rwy2":"33","lat2":39.12052931,"lon2":-121.42986510}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP"},
+{"type":"DEP","freq":125.4,"desc":"NORCAL DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"6S2","name":"Florence Muni","lat":43.98479100,"lon":-124.11032900,"rwys":1,"ils":0,"index":909691,"path":"w130n40/w125n43"
+,"runways":[
+{"len_m":888,"wid_m":18.29,"hdg":166,"surf":"Asphalt","rwy1":"15","lat1":43.98671600,"lon1":-124.11261600,"rwy2":"33","lat2":43.97892200,"lon2":-124.11012300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGAW","name":"Gawler","lat":-34.60313656,"lon":138.72050926,"rwys":2,"ils":0,"index":5213658,"path":"e130s40/e138s35"
+,"runways":[
+{"len_m":1215,"wid_m":42.06,"hdg":53,"surf":"Dirt","rwy1":"5","lat1":-34.60205800,"lon1":138.71542416,"rwy2":"23","lat2":-34.59554404,"lon2":138.72607893},
+{"len_m":1183,"wid_m":42.06,"hdg":138,"surf":"Dirt","rwy1":"13","lat1":-34.59500594,"lon1":138.71350096,"rwy2":"31","lat2":-34.60301786,"lon2":138.72202182}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

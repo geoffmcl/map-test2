@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPVD","name":"Theodore Francis Green State","lat":41.72086381,"lon":-071.42431041,"rwys":2,"ils":2,"index":1777898,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":2184,"wid_m":45.72,"hdg":32,"surf":"Asphalt","rwy1":"05","lat1":41.71383989,"lon1":-71.43494148,"rwy2":"23","lat2":41.73048689,"lon2":-71.42096648},
+{"len_m":1853,"wid_m":45.72,"hdg":141,"surf":"Asphalt","rwy1":"16","lat1":41.73168332,"lon1":-71.43216860,"rwy2":"34","lat2":41.71860832,"lon2":-71.41832460}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.2,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CLD","freq":126.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"PROVIDENCE GND"},
+{"type":"TWR","freq":120.7,"desc":"PROVIDENCE TWR"},
+{"type":"APP","freq":135.4,"desc":"PROVIDENCE APP/DEP"}
+]
+}

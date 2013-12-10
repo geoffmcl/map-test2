@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHIO","name":"Portland Hillsboro","lat":45.540082,"lon":-122.94967977,"rwys":2,"ils":1,"index":942560,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":1983,"wid_m":46.02,"hdg":143,"surf":"Asphalt","rwy1":"12","lat1":45.54950762,"lon1":-122.95940060,"rwy2":"30","lat2":45.53514238,"lon2":-122.94432224},
+{"len_m":1236,"wid_m":29.87,"hdg":39,"surf":"Asphalt","rwy1":"02","lat1":45.53355304,"lon1":-122.95254237,"rwy2":"20","lat2":45.54212496,"lon2":-122.94245386}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"HILLSBORO TWR"},
+{"type":"APP","freq":126,"desc":"APP/DEP"}
+]
+}

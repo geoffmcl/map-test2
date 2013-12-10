@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MKJS","name":"Sangster Intl","lat":18.49627600,"lon":-077.91966500,"rwys":1,"ils":1,"index":1678104,"path":"w080n10/w078n18"
+,"runways":[
+{"len_m":2589,"wid_m":49.07,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":18.49869800,"lon1":-77.92485600,"rwy2":"25","lat2":18.50840000,"lon2":-77.90254000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"MKJS ATIS"},
+{"type":"GND","freq":121.7,"desc":"SANGSTER GND"},
+{"type":"TWR","freq":120.8,"desc":"SANGSTER TWR"},
+{"type":"APP","freq":120.8,"desc":"SANGSTER APP"}
+]
+}

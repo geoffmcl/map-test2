@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMNM","name":"Menominee Marinette Twin Co","lat":45.12637125,"lon":-87.6385515,"rwys":2,"ils":1,"index":1515977,"path":"w090n40/w088n45"
+,"runways":[
+{"len_m":1828,"wid_m":29.87,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":45.12321900,"lon1":-87.64441700,"rwy2":"21","lat2":45.13733900,"lon2":-87.63248600},
+{"len_m":1554,"wid_m":29.87,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":45.12780800,"lon1":-87.64502200,"rwy2":"32","lat2":45.11711900,"lon2":-87.63228100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"GREEN BAY APP/DEP"}
+]
+}

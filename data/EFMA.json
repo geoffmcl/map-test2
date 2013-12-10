@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFMA","name":"Mariehamn","lat":60.12208200,"lon":019.90752400,"rwys":1,"ils":1,"index":3270019,"path":"e010n60/e019n60"
+,"runways":[
+{"len_m":1902,"wid_m":60.05,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":60.11436400,"lon1":19.89136700,"rwy2":"21","lat2":60.13004200,"lon2":19.90494700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":119.6,"desc":"TWR"}
+]
+}

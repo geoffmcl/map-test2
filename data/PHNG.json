@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PHNG","name":"Kaneohe Bay Mcaf","lat":21.44540056,"lon":-157.77101822,"rwys":1,"ils":0,"index":367577,"path":"w160n20/w158n21"
+,"runways":[
+{"len_m":2370,"wid_m":60.96,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":21.44380654,"lon1":-157.77688840,"rwy2":"22","lat2":21.45708246,"lon2":-157.75894976}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":44,"wid_m":45.11,"hdg":-157,"surf":"Asphalt","lat1":21.44764080,"lon1":-157.77492448},
+{"rwy1":"H2","len_m":49,"wid_m":49.99,"hdg":-157,"surf":"Asphalt","lat1":21.44700706,"lon1":-157.77449807},
+{"rwy1":"H3","len_m":36,"wid_m":36.58,"hdg":-157,"surf":"Concrete","lat1":21.45236078,"lon1":-157.77380246}
+]
+,"radios":[
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":125,"desc":"APP/DEP"}
+]
+}

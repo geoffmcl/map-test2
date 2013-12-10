@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMRN","name":"Foothills Rgnl","lat":35.8202335,"lon":-81.611411,"rwys":1,"ils":1,"index":1613681,"path":"w090n30/w082n35"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":35.81331100,"lon1":-81.61512500,"rwy2":"21","lat2":35.82715600,"lon2":-81.60769700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

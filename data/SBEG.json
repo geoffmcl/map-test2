@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBEG","name":"Eduardo Gomes","lat":-03.03324400,"lon":-060.04072200,"rwys":1,"ils":1,"index":1955263,"path":"w070s10/w061s04"
+,"runways":[
+{"len_m":2704,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":-3.03858300,"lon1":-60.06188900,"rwy2":"28","lat2":-3.03863900,"lon2":-60.03755600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"MANAUS APP"},
+{"type":"APP","freq":119.7,"desc":"MANAUS APP"},
+{"type":"APP","freq":120.4,"desc":"MANAUS APP"},
+{"type":"APP","freq":122.8,"desc":"MANAUS APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLLA","name":"Mobella","lat":-29.80256473,"lon":133.35197680,"rwys":2,"ils":0,"index":5132041,"path":"e130s30/e133s30"
+,"runways":[
+{"len_m":1087,"wid_m":21.03,"hdg":148,"surf":"Dirt","rwy1":"15","lat1":-29.79406853,"lon1":133.34551362,"rwy2":"33","lat2":-29.80247486,"lon2":133.35130707},
+{"len_m":1063,"wid_m":21.95,"hdg":51,"surf":"Dirt","rwy1":"05","lat1":-29.79977960,"lon1":133.34508593,"rwy2":"23","lat2":-29.79382832,"lon2":133.35370919}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

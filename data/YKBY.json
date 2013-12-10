@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YKBY","name":"Streaky Bay","lat":-32.84138810,"lon":134.29441771,"rwys":2,"ils":0,"index":5148233,"path":"e130s40/e134s33"
+,"runways":[
+{"len_m":1349,"wid_m":17.98,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-32.83249342,"lon1":134.28716198,"rwy2":"31","lat2":-32.84025799,"lon2":134.29825347},
+{"len_m":908,"wid_m":82.91,"hdg":51,"surf":"Dirt","rwy1":"05","lat1":-32.84482531,"lon1":134.29312357,"rwy2":"23","lat2":-32.83975372,"lon2":134.30074608}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

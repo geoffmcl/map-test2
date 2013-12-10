@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PAWS","name":"Wasilla","lat":61.5716595,"lon":-149.5402955,"rwys":1,"ils":0,"index":501217,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1127,"wid_m":22.86,"hdg":56,"surf":"Asphalt","rwy1":"03","lat1":61.56884700,"lon1":-149.54911900,"rwy2":"21","lat2":61.57447200,"lon2":-149.53147200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.25,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":119.1,"desc":"ANCHORAGE APP/DEP"}
+]
+}

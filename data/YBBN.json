@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBBN","name":"Brisbane Intl","lat":-27.38811200,"lon":153.11458000,"rwys":2,"ils":2,"index":5459872,"path":"e150s30/e153s28"
+,"runways":[
+{"len_m":3588,"wid_m":45.11,"hdg":27,"surf":"Asphalt","rwy1":"01","lat1":-27.40330800,"lon1":153.11795500,"rwy2":"19","lat2":-27.37446400,"lon2":153.13445100},
+{"len_m":1760,"wid_m":29.87,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":-27.35599500,"lon1":153.12418100,"rwy2":"32","lat2":-27.36908900,"lon2":153.13425300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.5,"desc":"YBBN ATIS"},
+{"type":"CLD","freq":118.6,"desc":"BRISBANE CLD"},
+{"type":"GND","freq":121.7,"desc":"BRISBANE GND"},
+{"type":"TWR","freq":120.5,"desc":"BRISBANE TWR"},
+{"type":"APP","freq":123.5,"desc":"BRISBANE APP"},
+{"type":"APP","freq":124.7,"desc":"BRISBANE APP"},
+{"type":"APP","freq":125.6,"desc":"BRISBANE APP"},
+{"type":"APP","freq":119.5,"desc":"BRISBANE APP"},
+{"type":"APP","freq":125.7,"desc":"BRISBANE APP"},
+{"type":"DEP","freq":124.35,"desc":"BRISBANE DEP"},
+{"type":"DEP","freq":124.7,"desc":"BRISBANE DEP"},
+{"type":"DEP","freq":125.6,"desc":"BRISBANE DEP"}
+]
+}

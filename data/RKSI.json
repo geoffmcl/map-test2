@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKSI","name":"Incheon Intl","lat":37.44562800,"lon":126.45324300,"rwys":2,"ils":4,"index":5021657,"path":"e120n30/e126n37"
+,"runways":[
+{"len_m":3750,"wid_m":60.05,"hdg":144,"surf":"Asphalt","rwy1":"15R","lat1":37.48178900,"lon1":126.43633900,"rwy2":"33L","lat2":37.45422500,"lon2":126.46085600},
+{"len_m":3749,"wid_m":60.05,"hdg":144,"surf":"Asphalt","rwy1":"15L","lat1":37.48394400,"lon1":126.44015600,"rwy2":"33R","lat2":37.45638100,"lon2":126.46467200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"CLD","freq":121.62,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.77,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":120.8,"desc":"SEOUL APP"},
+{"type":"DEP","freq":125.15,"desc":"SEOUL DEP"}
+]
+}

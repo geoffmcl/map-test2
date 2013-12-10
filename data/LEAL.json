@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEAL","name":"Alicante","lat":38.28735000,"lon":-000.56139500,"rwys":1,"ils":1,"index":2940945,"path":"w010n30/w001n38"
+,"runways":[
+{"len_m":2992,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":38.28451902,"lon1":-0.57499796,"rwy2":"28","lat2":38.27981898,"lon2":-0.54131604}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"APP","freq":124.75,"desc":"VALENCIA APP"}
+]
+}

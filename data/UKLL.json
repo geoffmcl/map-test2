@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UKLL","name":"Lviv Intl","lat":49.8126385,"lon":23.956111,"rwys":1,"ils":2,"index":3334899,"path":"e020n40/e023n49"
+,"runways":[
+{"len_m":2533,"wid_m":45.11,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":49.82083300,"lon1":23.94388900,"rwy2":"31","lat2":49.80444400,"lon2":23.96833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.7,"desc":"ATIS"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":126,"desc":"RADAR"}
+]
+}

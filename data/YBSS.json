@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBSS","name":"Bacchus Marsh","lat":-37.73138390,"lon":144.43066465,"rwys":2,"ils":0,"index":5311761,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1562,"wid_m":20.12,"hdg":19,"surf":"Asphalt","rwy1":"01","lat1":-37.73970669,"lon1":144.41880622,"rwy2":"19","lat2":-37.72644081,"lon2":144.42474612},
+{"len_m":969,"wid_m":21.95,"hdg":104,"surf":"Asphalt","rwy1":"09","lat1":-37.73094479,"lon1":144.42282627,"rwy2":"27","lat2":-37.73311963,"lon2":144.43348112}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.8,"desc":"Bacchus Marsh CTAF MULT"}
+]
+}

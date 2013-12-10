@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"27K","name":"Georgetown Scott Co Marshall Fld","lat":38.2344335,"lon":-84.434693,"rwys":1,"ils":0,"index":1564682,"path":"w090n30/w085n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":38.22762800,"lon1":-84.43884700,"rwy2":"21","lat2":38.24123900,"lon2":-84.43053900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.15,"desc":"LEXINGTON APP/DEP"},
+{"type":"APP","freq":120.75,"desc":"LEXINGTON APP/DEP"}
+]
+}

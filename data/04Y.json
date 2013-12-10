@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"04Y","name":"Hawley Muni","lat":46.8838205,"lon":-96.35026,"rwys":1,"ils":0,"index":1368634,"path":"w100n40/w097n46"
+,"runways":[
+{"len_m":1037,"wid_m":22.86,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":46.88824400,"lon1":-96.35242800,"rwy2":"34","lat2":46.87939700,"lon2":-96.34809200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.4,"desc":"FARGO APP/DEP"}
+]
+}

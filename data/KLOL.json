@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLOL","name":"Derby Fld","lat":40.06362900,"lon":-118.56912200,"rwys":2,"ils":0,"index":1007745,"path":"w120n40/w119n40"
+,"runways":[
+{"len_m":1684,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"01","lat1":40.06191555,"lon1":-118.57284250,"rwy2":"19","lat2":40.07500038,"lon2":-118.56284192},
+{"len_m":1516,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":40.06427822,"lon1":-118.57096452,"rwy2":"25","lat2":40.06417853,"lon2":-118.55318607}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

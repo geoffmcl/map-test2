@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MWCR","name":"Owen Roberts Intl","lat":19.29396628,"lon":-081.36188630,"rwys":1,"ils":0,"index":1612629,"path":"w090n10/w082n19"
+,"runways":[
+{"len_m":2140,"wid_m":45.11,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":19.29042500,"lon1":-81.36763600,"rwy2":"26","lat2":19.29512800,"lon2":-81.34788300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.35,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"GRAND CAYMAN APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"69V","name":"Huntington Muni","lat":39.361484,"lon":-110.918603166667,"rwys":3,"ils":0,"index":1138768,"path":"w120n30/w111n39"
+,"runways":[
+{"len_m":1234,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":39.36105300,"lon1":-110.92377500,"rwy2":"25","lat2":39.36107200,"lon2":-110.90945600},
+{"len_m":1110,"wid_m":24.38,"hdg":139,"surf":"Turf/grass","rwy1":"12","lat1":39.36511900,"lon1":-110.92072200,"rwy2":"30","lat2":39.35749400,"lon2":-110.91238600},
+{"len_m":609,"wid_m":17.07,"hdg":195,"surf":"Turf/grass","rwy1":"18","lat1":39.36472200,"lon1":-110.92166900,"rwy2":"36","lat2":39.35944400,"lon2":-110.92361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

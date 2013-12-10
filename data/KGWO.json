@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGWO","name":"Greenwood Leflore","lat":33.4955003333333,"lon":-90.083048,"rwys":3,"ils":1,"index":1466075,"path":"w100n30/w091n33"
+,"runways":[
+{"len_m":1982,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":33.49913300,"lon1":-90.08801700,"rwy2":"36","lat2":33.48126700,"lon2":-90.08854400},
+{"len_m":1525,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":33.49315800,"lon1":-90.09109700,"rwy2":"23","lat2":33.50153300,"lon2":-90.07807500},
+{"len_m":820,"wid_m":18.29,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":33.49877800,"lon1":-90.08068600,"rwy2":"27","lat2":33.49913300,"lon2":-90.07186900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"ASOS"},
+{"type":"CTAF","freq":118.35,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":125.55,"desc":"GND"},
+{"type":"TWR","freq":118.35,"desc":"TWR"}
+]
+}

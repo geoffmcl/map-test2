@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGFK","name":"Grand Forks Int'l","lat":47.946388125,"lon":-97.1716267275,"rwys":4,"ils":1,"index":1352315,"path":"w100n40/w098n47"
+,"runways":[
+{"len_m":2239,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":47.95924600,"lon1":-97.18118580,"rwy2":"35L","lat2":47.93910100,"lon2":-97.18119580},
+{"len_m":1188,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":47.95134700,"lon1":-97.16617051,"rwy2":"35R","lat2":47.94065700,"lon2":-97.16618451},
+{"len_m":1281,"wid_m":29.87,"hdg":89,"surf":"Concrete","rwy1":"9L","lat1":47.95238700,"lon1":-97.18488551,"rwy2":"27R","lat2":47.95238700,"lon2":-97.16772351},
+{"len_m":1005,"wid_m":17.98,"hdg":90,"surf":"Concrete","rwy1":"9R","lat1":47.93799347,"lon1":-97.16956551,"rwy2":"27L","lat2":47.93798653,"lon2":-97.15610267}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.8,"desc":"unnamed entity"}
+]
+}

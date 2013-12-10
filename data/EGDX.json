@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGDX","name":"Raf St Athan","lat":51.405195,"lon":-3.433466,"rwys":1,"ils":0,"index":2892634,"path":"w010n50/w004n51"
+,"runways":[
+{"len_m":1823,"wid_m":41.15,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":51.40280706,"lon1":-3.44600249,"rwy2":"26","lat2":51.40758294,"lon2":-3.42092951}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.12,"desc":"TWR"},
+{"type":"APP","freq":126.62,"desc":"APP"},
+{"type":"APP","freq":125.85,"desc":"CARDIFF APP"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ETSH","name":"Holzdorf","lat":51.76561700,"lon":013.18029500,"rwys":1,"ils":1,"index":3171184,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":2420,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":51.76850000,"lon1":13.15016700,"rwy2":"27","lat2":51.76716700,"lon2":13.18516700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":130.5,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129.85,"desc":"RADAR"},
+{"type":"APP","freq":126.42,"desc":"BERLIN ARR"}
+]
+}

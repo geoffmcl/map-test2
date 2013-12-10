@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KORE","name":"Orange Muni","lat":42.570039,"lon":-72.28846125,"rwys":2,"ils":0,"index":1761570,"path":"w080n40/w073n42"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":42.56123600,"lon1":-72.29029400,"rwy2":"19","lat2":42.57495600,"lon2":-72.29010600},
+{"len_m":1463,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":42.57595600,"lon1":-72.29383100,"rwy2":"32","lat2":42.56800800,"lon2":-72.27961400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/Unicom"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SCEL","name":"Arturo Merino Benitez Intl","lat":-33.39232300,"lon":-070.79366400,"rwys":2,"ils":2,"index":1789472,"path":"w080s40/w071s34"
+,"runways":[
+{"len_m":3800,"wid_m":45.11,"hdg":177,"surf":"Asphalt","rwy1":"17R","lat1":-33.37195000,"lon1":-70.80371667,"rwy2":"35L","lat2":-33.40618056,"lon2":-70.80188056},
+{"len_m":3198,"wid_m":54.86,"hdg":177,"surf":"Asphalt","rwy1":"17L","lat1":-33.37608056,"lon1":-70.78670833,"rwy2":"35R","lat2":-33.40488889,"lon2":-70.78515833}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.1,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":122.2,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"SANTIAGO TWR"}
+]
+}

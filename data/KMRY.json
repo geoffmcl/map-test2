@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMRY","name":"Monterey Peninsula","lat":36.58746335,"lon":-121.85313484,"rwys":2,"ils":1,"index":958368,"path":"w130n30/w122n36"
+,"runways":[
+{"len_m":2321,"wid_m":46.02,"hdg":112,"surf":"Asphalt","rwy1":"10R","lat1":36.59115591,"lon1":-121.85666517,"rwy2":"28L","lat2":36.58306400,"lon2":-121.83274700},
+{"len_m":1070,"wid_m":17.98,"hdg":112,"surf":"Asphalt","rwy1":"10L","lat1":36.58858900,"lon1":-121.84466400,"rwy2":"28R","lat2":36.58485600,"lon2":-121.83363100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"CLD","freq":135.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":127.15,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":133,"desc":"NORCAL APP/DEP"}
+]
+}

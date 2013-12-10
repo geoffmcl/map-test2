@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSJC","name":"San Jose Norman Y Mineta Intl","lat":37.35953800,"lon":-121.93193400,"rwys":3,"ils":1,"index":958416,"path":"w130n30/w122n37"
+,"runways":[
+{"len_m":3352,"wid_m":46.02,"hdg":138,"surf":"Concrete","rwy1":"12R","lat1":37.37372824,"lon1":-121.94198675,"rwy2":"30L","lat2":37.35099176,"lon2":-121.91706725},
+{"len_m":3352,"wid_m":46.02,"hdg":138,"surf":"Concrete","rwy1":"12L","lat1":37.37499220,"lon1":-121.94017482,"rwy2":"30R","lat2":37.35225780,"lon2":-121.91525717},
+{"len_m":1401,"wid_m":29.87,"hdg":138,"surf":"Asphalt","rwy1":"11","lat1":37.36589188,"lon1":-121.93659714,"rwy2":"29","lat2":37.35638612,"lon2":-121.92617886}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.95,"desc":"ATIS"},
+{"type":"CTAF","freq":124,"desc":"CTAF"},
+{"type":"CLD","freq":118,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"NORCAL APP"},
+{"type":"APP","freq":125.35,"desc":"NORCAL APP"},
+{"type":"APP","freq":134.5,"desc":"NORCAL APP"},
+{"type":"DEP","freq":121.3,"desc":"NORCAL DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LLOV","name":"Ovda","lat":29.94025075,"lon":34.93584875,"rwys":2,"ils":0,"index":3513851,"path":"e030n20/e034n29"
+,"runways":[
+{"len_m":2987,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"02R","lat1":29.92716400,"lon1":34.93173100,"rwy2":"20L","lat2":29.95215000,"lon2":34.94334200},
+{"len_m":2588,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"02L","lat1":29.93002800,"lon1":34.92911900,"rwy2":"20R","lat2":29.95166100,"lon2":34.93920300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.9,"desc":"TWR"}
+]
+}

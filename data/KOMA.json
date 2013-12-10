@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOMA","name":"Eppley Airfield","lat":41.30067335,"lon":-095.89883572,"rwys":3,"ils":6,"index":1384656,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":2898,"wid_m":46.02,"hdg":144,"surf":"Concrete","rwy1":"14R","lat1":41.31384024,"lon1":-95.90608398,"rwy2":"32L","lat2":41.29262061,"lon2":-95.88593779},
+{"len_m":2592,"wid_m":46.02,"hdg":144,"surf":"Concrete","rwy1":"14L","lat1":41.31352781,"lon1":-95.90041461,"rwy2":"32R","lat2":41.29454604,"lon2":-95.88239222},
+{"len_m":2483,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":41.31333210,"lon1":-95.89449965,"rwy2":"36","lat2":41.29096875,"lon2":-95.89461456}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.4,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":132.1,"desc":"OMAHA TWR"},
+{"type":"APP","freq":120.1,"desc":"OMAHA APP/DEP"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+}

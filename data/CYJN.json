@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYJN","name":"St Jean","lat":45.2939351666667,"lon":-73.2794883333333,"rwys":3,"ils":0,"index":1745362,"path":"w080n40/w074n45"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"11","lat1":45.29250000,"lon1":-73.28943100,"rwy2":"29","lat2":45.29250000,"lon2":-73.27388900},
+{"len_m":830,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":45.29250000,"lon1":-73.28472200,"rwy2":"24","lat2":45.29777800,"lon2":-73.27722200},
+{"len_m":740,"wid_m":30.48,"hdg":0,"surf":"Asphalt","rwy1":"02","lat1":45.29083300,"lon1":-73.27583300,"rwy2":"20","lat2":45.29750000,"lon2":-73.27583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":134.15,"desc":"VFR ADVSY"},
+{"type":"APP","freq":125.15,"desc":"MONTREAL APP DEP"}
+]
+}

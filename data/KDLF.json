@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KDLF","name":"Laughlin Afb","lat":29.35755500,"lon":-100.78643000,"rwys":3,"ils":2,"index":1301968,"path":"w110n20/w101n29"
+,"runways":[
+{"len_m":2698,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13C","lat1":29.36745300,"lon1":-100.78790800,"rwy2":"31C","lat2":29.35010800,"lon2":-100.76841100},
+{"len_m":2534,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13L","lat1":29.36822200,"lon1":-100.78436900,"rwy2":"31R","lat2":29.35192800,"lon2":-100.76605300},
+{"len_m":1900,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13R","lat1":29.36581700,"lon1":-100.78826900,"rwy2":"31L","lat2":29.35360000,"lon2":-100.77453600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120.5,"desc":"CLNC DEL"},
+{"type":"TWR","freq":125.2,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"DEL RIO APP"},
+{"type":"DEP","freq":119.6,"desc":"DEL RIO DEP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OINZ","name":"Sari Dasht E Naz","lat":36.6446,"lon":53.188683,"rwys":1,"ils":0,"index":3825576,"path":"e050n30/e053n36"
+,"runways":[
+{"len_m":2645,"wid_m":45.11,"hdg":160,"surf":"Asphalt","rwy1":"16","lat1":36.65585600,"lon1":53.18382200,"rwy2":"34","lat2":36.63334400,"lon2":53.19354400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"DASHT E NAZ INFO"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.45,"desc":"TWR"}
+]
+}

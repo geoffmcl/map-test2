@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FASC","name":"Secunda","lat":-26.52308500,"lon":029.17014900,"rwys":1,"ils":0,"index":3428312,"path":"e020s30/e029s27"
+,"runways":[
+{"len_m":1102,"wid_m":17.98,"hdg":90,"surf":"Asphalt","rwy1":"11","lat1":-26.52403277,"lon1":29.16461884,"rwy2":"29","lat2":-26.52413123,"lon2":29.17567916}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121,"desc":"ATIS"},
+{"type":"CTAF","freq":122,"desc":"CTAF"}
+]
+}

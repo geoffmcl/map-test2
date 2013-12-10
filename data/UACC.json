@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UACC","name":"Astana Intl","lat":51.02179869,"lon":071.45310559,"rwys":1,"ils":2,"index":4121409,"path":"e070n50/e071n51"
+,"runways":[
+{"len_m":3500,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":51.01096700,"lon1":71.44956700,"rwy2":"22","lat2":51.03339400,"lon2":71.48455800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"}
+]
+}

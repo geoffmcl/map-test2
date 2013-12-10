@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRTR","name":"Traian Vuia","lat":45.8098335,"lon":21.3378725,"rwys":1,"ils":1,"index":3301873,"path":"e020n40/e021n45"
+,"runways":[
+{"len_m":3488,"wid_m":45.11,"hdg":109,"surf":"Concrete","rwy1":"11","lat1":45.81513900,"lon1":21.31675600,"rwy2":"29","lat2":45.80452800,"lon2":21.35898900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"TIMISOARA GND"},
+{"type":"TWR","freq":120.1,"desc":"TIMISOARA TWR"},
+{"type":"APP","freq":120.1,"desc":"TIMISOARA APP"}
+]
+}

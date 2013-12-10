@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEKK","name":"King Khaled Military City","lat":27.900903,"lon":45.5281945,"rwys":1,"ils":1,"index":3693946,"path":"e040n20/e045n27"
+,"runways":[
+{"len_m":3663,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":27.91150000,"lon1":45.51391700,"rwy2":"31","lat2":27.89030600,"lon2":45.54247200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"TWR","freq":120.7,"desc":"INFO"}
+]
+}

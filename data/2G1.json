@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2G1","name":"Concord Airpark","lat":41.66464770,"lon":-081.19963044,"rwys":1,"ils":0,"index":1614059,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":665,"wid_m":11.89,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":41.66425401,"lon1":-81.19862638,"rwy2":"20","lat2":41.66981801,"lon2":-81.19567638}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.35,"desc":"CLEVELAND APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LQSA","name":"Sarajevo","lat":43.82684400,"lon":018.33590700,"rwys":1,"ils":1,"index":3252593,"path":"e010n40/e018n43"
+,"runways":[
+{"len_m":2600,"wid_m":45.72,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":43.82997200,"lon1":18.31713900,"rwy2":"30","lat2":43.81922200,"lon2":18.34586100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"GCA"}
+]
+}

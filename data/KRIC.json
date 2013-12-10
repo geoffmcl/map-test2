@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRIC","name":"Richmond Intl","lat":37.51349300,"lon":-077.33246600,"rwys":3,"ils":2,"index":1679330,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":2748,"wid_m":46.02,"hdg":147,"surf":"Asphalt","rwy1":"16","lat1":37.51663951,"lon1":-77.32357755,"rwy2":"34","lat2":37.49574249,"lon2":-77.30689245},
+{"len_m":2013,"wid_m":46.02,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":37.49887588,"lon1":-77.32965869,"rwy2":"20","lat2":37.51652212,"lon2":-77.32436331},
+{"len_m":1620,"wid_m":29.87,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":37.49636728,"lon1":-77.32581453,"rwy2":"25","lat2":37.50421872,"lon2":-77.31036347}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.15,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.1,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":126.4,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":126.8,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":134.7,"desc":"POTOMAC APP/DEP"}
+]
+}

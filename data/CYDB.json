@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYDB","name":"Burwash","lat":61.371111,"lon":-139.040558,"rwys":1,"ils":0,"index":665043,"path":"w140n60/w140n61"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":127,"surf":"Gravel","rwy1":"10","lat1":61.37530000,"lon1":-139.05182200,"rwy2":"28","lat2":61.36692200,"lon2":-139.02929400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.7,"desc":"AWOS"},
+{"type":"CTAF","freq":122.1,"desc":"MANDTORY FREQUENCY"}
+]
+}

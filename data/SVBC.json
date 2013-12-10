@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SVBC","name":"General Jose Antonio Anzoategui Intl","lat":10.10975975,"lon":-64.6905445,"rwys":2,"ils":1,"index":1890562,"path":"w070n10/w065n10"
+,"runways":[
+{"len_m":2993,"wid_m":39.62,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":10.12181900,"lon1":-64.70052800,"rwy2":"33","lat2":10.10032800,"lon2":-64.68392200},
+{"len_m":2502,"wid_m":39.62,"hdg":12,"surf":"Asphalt","rwy1":"02","lat1":10.09740600,"lon1":-64.69135000,"rwy2":"20","lat2":10.11948600,"lon2":-64.68637800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"BARCELONA TWR"},
+{"type":"APP","freq":119.1,"desc":"BARCELONA APP"},
+{"type":"APP","freq":121.1,"desc":"BARCELONA APP"}
+]
+}

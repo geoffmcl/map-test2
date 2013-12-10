@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"E57","name":"Denver City","lat":32.97333325,"lon":-102.84451375,"rwys":2,"ils":0,"index":1269432,"path":"w110n30/w103n32"
+,"runways":[
+{"len_m":1778,"wid_m":15.24,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":32.96583300,"lon1":-102.85222200,"rwy2":"22","lat2":32.97750000,"lon2":-102.83916700},
+{"len_m":1194,"wid_m":13.72,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":32.97500000,"lon1":-102.84972200,"rwy2":"26","lat2":32.97500000,"lon2":-102.83694400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

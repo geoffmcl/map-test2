@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJFA","name":"Ashiya","lat":33.8826905,"lon":130.654146,"rwys":1,"ils":0,"index":5086970,"path":"e130n30/e130n33"
+,"runways":[
+{"len_m":1643,"wid_m":45.72,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":33.88590300,"lon1":130.64614200,"rwy2":"30","lat2":33.87947800,"lon2":130.66215000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":134.1,"desc":"GCA"}
+]
+}

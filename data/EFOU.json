@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFOU","name":"Oulu","lat":64.92979400,"lon":025.37160500,"rwys":1,"ils":1,"index":3368632,"path":"e020n60/e025n64"
+,"runways":[
+{"len_m":2501,"wid_m":60.05,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":64.93583600,"lon1":25.33189400,"rwy2":"30","lat2":64.92428100,"lon2":25.37722500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.44,"desc":"ATIS"},
+{"type":"ATIS","freq":135.45,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":124.4,"desc":"TWR"}
+]
+}

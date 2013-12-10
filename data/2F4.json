@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"2F4","name":"T Bar","lat":33.17958325,"lon":-101.81777775,"rwys":2,"ils":0,"index":1285832,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":985,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.18138900,"lon1":-101.81972200,"rwy2":"35","lat2":33.17250000,"lon2":-101.81972200},
+{"len_m":777,"wid_m":10.06,"hdg":89,"surf":"Gravel","rwy1":"08","lat1":33.18222200,"lon1":-101.82000000,"rwy2":"26","lat2":33.18222200,"lon2":-101.81166700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

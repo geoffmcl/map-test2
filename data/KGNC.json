@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGNC","name":"Gaines Co","lat":32.67521525,"lon":-102.6525145,"rwys":2,"ils":0,"index":1269417,"path":"w110n30/w103n32"
+,"runways":[
+{"len_m":1638,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":32.67852800,"lon1":-102.66531400,"rwy2":"26","lat2":32.67860000,"lon2":-102.64784400},
+{"len_m":1523,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":32.67873300,"lon1":-102.64853900,"rwy2":"35","lat2":32.66500000,"lon2":-102.64836100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.6,"desc":"FORT WORTH CNTR"}
+]
+}

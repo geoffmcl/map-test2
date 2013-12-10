@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"P08","name":"Coolidge Muni","lat":32.9337675,"lon":-111.4267825,"rwys":3,"ils":0,"index":1121978,"path":"w120n30/w112n32"
+,"runways":[
+{"len_m":1675,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":32.93361400,"lon1":-111.43555000,"rwy2":"29","lat2":32.92610800,"lon2":-111.42000000},
+{"len_m":1684,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":32.93364400,"lon1":-111.43534200,"rwy2":"23","lat2":32.94122800,"lon2":-111.41973100},
+{"len_m":1176,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":32.93931100,"lon1":-111.42503600,"rwy2":"35","lat2":32.92870000,"lon2":-111.42503600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"}
+]
+}

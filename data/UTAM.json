@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UTAM","name":"Mary","lat":37.619514,"lon":61.89680575,"rwys":2,"ils":0,"index":3956707,"path":"e060n30/e061n37"
+,"runways":[
+{"len_m":2775,"wid_m":44.81,"hdg":178,"surf":"Concrete","rwy1":"18L","lat1":37.63277800,"lon1":61.89722200,"rwy2":"36R","lat2":37.60777800,"lon2":61.89805600},
+{"len_m":2436,"wid_m":29.87,"hdg":178,"surf":"Concrete","rwy1":"18R","lat1":37.62972200,"lon1":61.89555600,"rwy2":"36L","lat2":37.60777800,"lon2":61.89638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"RADAR"}
+]
+}

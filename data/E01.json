@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"E01","name":"Roy Hurd Mem","lat":31.58247575,"lon":-102.90912075,"rwys":2,"ils":0,"index":1269344,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":1300,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":31.58600800,"lon1":-102.91414700,"rwy2":"30","lat2":31.57898100,"lon2":-102.90317500},
+{"len_m":890,"wid_m":22.86,"hdg":19,"surf":"Asphalt","rwy1":"01","lat1":31.57867500,"lon1":-102.91115800,"rwy2":"19","lat2":31.58623900,"lon2":-102.90800300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

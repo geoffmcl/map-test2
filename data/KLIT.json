@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLIT","name":"Little Rock Adams Field","lat":34.7294151666667,"lon":-92.2254815,"rwys":3,"ils":3,"index":1433387,"path":"w100n30/w093n34"
+,"runways":[
+{"len_m":2521,"wid_m":45.72,"hdg":46,"surf":"Concrete","rwy1":"04L","lat1":34.72251400,"lon1":-92.23802200,"rwy2":"22R","lat2":34.73815600,"lon2":-92.21805000},
+{"len_m":2194,"wid_m":45.72,"hdg":46,"surf":"Concrete","rwy1":"04R","lat1":34.72137200,"lon1":-92.21868600,"rwy2":"22L","lat2":34.73498300,"lon2":-92.20130000},
+{"len_m":1561,"wid_m":45.72,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":34.73676900,"lon1":-92.23819200,"rwy2":"36","lat2":34.72269700,"lon2":-92.23863900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"LITTLE ROCK APP/DEP"},
+{"type":"APP","freq":135.4,"desc":"LITTLE ROCK APP/DEP"}
+]
+}

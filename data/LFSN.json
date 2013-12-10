@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFSN","name":"Nancy Essey","lat":48.692079,"lon":6.230454,"rwys":1,"ils":1,"index":3056296,"path":"e000n40/e006n48"
+,"runways":[
+{"len_m":1397,"wid_m":39.93,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":48.68657500,"lon1":6.22586900,"rwy2":"21","lat2":48.69758300,"lon2":6.23503900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"AFIS"},
+{"type":"APP","freq":127.25,"desc":"LORRAINE APP"}
+]
+}

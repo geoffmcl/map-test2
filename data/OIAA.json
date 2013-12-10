@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OIAA","name":"Abadan","lat":30.365179,"lon":48.2331695,"rwys":2,"ils":0,"index":3743248,"path":"e040n30/e048n30"
+,"runways":[
+{"len_m":3101,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"14R","lat1":30.37875000,"lon1":48.22120000,"rwy2":"32L","lat2":30.35595000,"lon2":48.23989200},
+{"len_m":2264,"wid_m":35.05,"hdg":144,"surf":"Asphalt","rwy1":"14L","lat1":30.37133300,"lon1":48.22896900,"rwy2":"32R","lat2":30.35468300,"lon2":48.24261700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"TWR","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

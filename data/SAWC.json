@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SAWC","name":"El Calafate","lat":-50.28357891,"lon":-072.05096702,"rwys":1,"ils":0,"index":1755627,"path":"w080s60/w073s51"
+,"runways":[
+{"len_m":2555,"wid_m":45.11,"hdg":83,"surf":"Concrete","rwy1":"07","lat1":-50.28144700,"lon1":-72.07104000,"rwy2":"25","lat2":-50.27902500,"lon2":-72.03539400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.5,"desc":"EL CALAFATE MULT"},
+{"type":"GND","freq":121.8,"desc":"EL CALAFATE GND"},
+{"type":"TWR","freq":118.2,"desc":"EL CALAFATE TWR"},
+{"type":"TWR","freq":119.95,"desc":"EL CALAFATE TWR"},
+{"type":"APP","freq":118.2,"desc":"EL CALAFATE APP"},
+{"type":"APP","freq":119.95,"desc":"EL CALAFATE APP"}
+]
+}

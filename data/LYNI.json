@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LYNI","name":"Nis","lat":43.3367475,"lon":21.8554165,"rwys":1,"ils":0,"index":3301715,"path":"e020n40/e021n43"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":43.34124200,"lon1":21.84128600,"rwy2":"29","lat2":43.33225300,"lon2":21.86954700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.32,"desc":"TWR"},
+{"type":"APP","freq":129.32,"desc":"APP"}
+]
+}

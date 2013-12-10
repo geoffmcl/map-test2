@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHHF","name":"Hemphill Co","lat":35.89512975,"lon":-100.40367975,"rwys":2,"ils":0,"index":1302394,"path":"w110n30/w101n35"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":35.89008300,"lon1":-100.41021900,"rwy2":"22","lat2":35.89996400,"lon2":-100.39849400},
+{"len_m":914,"wid_m":9.14,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":35.89933900,"lon1":-100.40253900,"rwy2":"36","lat2":35.89113300,"lon2":-100.40346700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":122.1,"desc":"FORT WORTH RDO"}
+]
+}

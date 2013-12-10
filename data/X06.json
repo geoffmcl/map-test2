@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"X06","name":"Arcadia Muni","lat":27.19291675,"lon":-81.8365275,"rwys":2,"ils":0,"index":1613128,"path":"w090n20/w082n27"
+,"runways":[
+{"len_m":1130,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":27.19027800,"lon1":-81.83972200,"rwy2":"23","lat2":27.19666700,"lon2":-81.83083300},
+{"len_m":882,"wid_m":42.67,"hdg":131,"surf":"Turf/grass","rwy1":"13","lat1":27.19500000,"lon1":-81.84111100,"rwy2":"31","lat2":27.18972200,"lon2":-81.83444400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KFFA","name":"First Flight","lat":36.01933700,"lon":-075.67139400,"rwys":2,"ils":0,"index":1712001,"path":"w080n30/w076n36"
+,"runways":[
+{"len_m":914,"wid_m":18.29,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":36.01456700,"lon1":-75.67345300,"rwy2":"20","lat2":36.02210000,"lon2":-75.66932800},
+{"len_m":263,"wid_m":6.10,"hdg":8,"surf":"Asphalt","rwy1":"01R","lat1":36.02057885,"lon1":-75.66842538,"rwy2":"19L","lat2":36.02293115,"lon2":-75.66801662}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

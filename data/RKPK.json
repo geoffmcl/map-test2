@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RKPK","name":"Gimhae Intl","lat":35.180657,"lon":128.9379815,"rwys":2,"ils":2,"index":5054283,"path":"e120n30/e128n35"
+,"runways":[
+{"len_m":3200,"wid_m":60.05,"hdg":173,"surf":"Concrete","rwy1":"18R","lat1":35.19387200,"lon1":128.93512800,"rwy2":"36L","lat2":35.16518900,"lon2":128.93883100},
+{"len_m":2745,"wid_m":45.72,"hdg":174,"surf":"Asphalt","rwy1":"18L","lat1":35.19408900,"lon1":128.93741100,"rwy2":"36R","lat2":35.16947800,"lon2":128.94055600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":135.7,"desc":"APP"},
+{"type":"APP","freq":119.2,"desc":"ARR"},
+{"type":"APP","freq":134.4,"desc":"ARR"},
+{"type":"DEP","freq":125.5,"desc":"DEP"}
+]
+}

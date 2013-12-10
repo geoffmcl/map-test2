@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGLE","name":"Gainesville Muni","lat":33.649429875,"lon":-97.19500775,"rwys":4,"ils":0,"index":1351403,"path":"w100n30/w098n33"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":33.66124200,"lon1":-97.19948100,"rwy2":"35","lat2":33.64475800,"lon2":-97.19986400},
+{"len_m":1429,"wid_m":45.72,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":33.64459700,"lon1":-97.19904200,"rwy2":"22","lat2":33.65305000,"lon2":-97.18740800},
+{"len_m":1309,"wid_m":24.38,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":33.65507800,"lon1":-97.19910600,"rwy2":"30","lat2":33.64706900,"lon2":-97.18873300},
+{"len_m":1194,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"08","lat1":33.64492800,"lon1":-97.19965300,"rwy2":"26","lat2":33.64471700,"lon2":-97.18677500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

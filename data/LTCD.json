@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTCD","name":"Erzincan","lat":39.71070475,"lon":39.52113975,"rwys":2,"ils":0,"index":3596394,"path":"e030n30/e039n39"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":110,"surf":"Concrete","rwy1":"11","lat1":39.71582500,"lon1":39.51064700,"rwy2":"29","lat2":39.70624400,"lon2":39.54335600},
+{"len_m":1796,"wid_m":41.76,"hdg":127,"surf":"Concrete","rwy1":"13","lat1":39.71525000,"lon1":39.50691700,"rwy2":"31","lat2":39.70550000,"lon2":39.52363900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+}

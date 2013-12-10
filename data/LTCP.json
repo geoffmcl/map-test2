@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LTCP","name":"Adiyaman","lat":37.7313695,"lon":38.468936,"rwys":1,"ils":0,"index":3579881,"path":"e030n30/e038n37"
+,"runways":[
+{"len_m":2502,"wid_m":29.87,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":37.72403100,"lon1":38.45815800,"rwy2":"23","lat2":37.73870800,"lon2":38.47971400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.85,"desc":"TWR"},
+{"type":"TWR","freq":119.05,"desc":"TWR"}
+]
+}

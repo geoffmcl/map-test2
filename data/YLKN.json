@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YLKN","name":"Lake Nash","lat":-20.97873352,"lon":137.91756967,"rwys":2,"ils":0,"index":5198151,"path":"e130s30/e137s21"
+,"runways":[
+{"len_m":1227,"wid_m":86.87,"hdg":149,"surf":"Dirt","rwy1":"14","lat1":-20.97592829,"lon1":137.91461283,"rwy2":"32","lat2":-20.98543639,"lon2":137.92068647},
+{"len_m":812,"wid_m":93.88,"hdg":113,"surf":"Dirt","rwy1":"11","lat1":-20.98041056,"lon1":137.91612497,"rwy2":"29","lat2":-20.98331170,"lon2":137.92330281}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

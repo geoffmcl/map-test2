@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N52","name":"Jaars Townsend","lat":34.86482200,"lon":-080.74798600,"rwys":1,"ils":0,"index":1630001,"path":"w090n30/w081n34"
+,"runways":[
+{"len_m":1008,"wid_m":12.19,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":34.86023900,"lon1":-80.75137800,"rwy2":"22","lat2":34.86740600,"lon2":-80.74458900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.05,"desc":"CHARLOTTE APP/DEP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FVMV","name":"Masvingo Intl","lat":-20.05880975,"lon":30.85917925,"rwys":2,"ils":0,"index":3445118,"path":"e030s30/e030s21"
+,"runways":[
+{"len_m":1725,"wid_m":17.98,"hdg":162,"surf":"Asphalt","rwy1":"17","lat1":-20.05480300,"lon1":30.85893100,"rwy2":"35","lat2":-20.06963600,"lon2":30.86401100},
+{"len_m":1200,"wid_m":17.98,"hdg":87,"surf":"Turf/grass","rwy1":"10","lat1":-20.05561900,"lon1":30.85115300,"rwy2":"28","lat2":-20.05518100,"lon2":30.86262200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+}

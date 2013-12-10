@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HAAB","name":"Bole Intl","lat":08.97854900,"lon":038.78914260,"rwys":2,"ils":1,"index":3578046,"path":"e030n00/e038n08"
+,"runways":[
+{"len_m":3799,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"07R","lat1":8.97225600,"lon1":38.78350600,"rwy2":"25L","lat2":8.98193600,"lon2":38.81665600},
+{"len_m":3700,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"07L","lat1":8.97398100,"lon1":38.78241400,"rwy2":"25R","lat2":8.98339400,"lon2":38.81470800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KYIP","name":"Willow Run","lat":42.23419944,"lon":-083.52272181,"rwys":5,"ils":1,"index":1581321,"path":"w090n40/w084n42"
+,"runways":[
+{"len_m":2293,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"05R","lat1":42.23062500,"lon1":-83.53985300,"rwy2":"23L","lat2":42.24478300,"lon2":-83.51962500},
+{"len_m":2222,"wid_m":49.07,"hdg":88,"surf":"Asphalt","rwy1":"09L","lat1":42.24395600,"lon1":-83.54332200,"rwy2":"27R","lat2":42.24445800,"lon2":-83.51639700},
+{"len_m":1926,"wid_m":49.07,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":42.24318945,"lon1":-83.53932544,"rwy2":"32","lat2":42.23070430,"lon2":-83.52311992},
+{"len_m":2028,"wid_m":49.07,"hdg":46,"surf":"Asphalt","rwy1":"05L","lat1":42.23218300,"lon1":-83.54168100,"rwy2":"23R","lat2":42.24470300,"lon2":-83.52378900},
+{"len_m":1984,"wid_m":49.07,"hdg":88,"surf":"Asphalt","rwy1":"09R","lat1":42.23077200,"lon1":-83.53982200,"rwy2":"27L","lat2":42.23121700,"lon2":-83.51579200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":125.27,"desc":"TWR"},
+{"type":"APP","freq":118.95,"desc":"DETROIT APP/DEP"}
+]
+}

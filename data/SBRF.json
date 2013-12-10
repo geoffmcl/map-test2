@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SBRF","name":"Recife Intl","lat":-08.13535800,"lon":-034.92364100,"rwys":2,"ils":1,"index":2380912,"path":"w040s10/w035s09"
+,"runways":[
+{"len_m":3006,"wid_m":45.11,"hdg":161,"surf":"Asphalt","rwy1":"18","lat1":-8.11388100,"lon1":-34.92730000,"rwy2":"36","lat2":-8.13970800,"lon2":-34.91877800},
+{"len_m":1515,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"19","lat1":-8.12516358,"lon1":-34.92862244,"rwy2":"01","lat2":-8.13283242,"lon2":-34.91722356}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.02,"hdg":-34,"surf":"Asphalt","lat1":-8.13426200,"lon1":-34.92212000},
+{"rwy1":"H2","len_m":14,"wid_m":14.02,"hdg":-34,"surf":"Asphalt","lat1":-8.13506600,"lon1":-34.92184600},
+{"rwy1":"H3","len_m":14,"wid_m":14.02,"hdg":-34,"surf":"Asphalt","lat1":-8.13586000,"lon1":-34.92157000},
+{"rwy1":"H4","len_m":14,"wid_m":14.02,"hdg":-34,"surf":"Asphalt","lat1":-8.13347500,"lon1":-34.92241200},
+{"rwy1":"H5","len_m":14,"wid_m":14.02,"hdg":-34,"surf":"Asphalt","lat1":-8.13170100,"lon1":-34.92301400}
+]
+,"radios":[
+{"type":"GND","freq":118.35,"desc":"RECIFE GND"},
+{"type":"TWR","freq":118.35,"desc":"RECIFE TWR"},
+{"type":"TWR","freq":125.35,"desc":"RECIFE CTR"},
+{"type":"APP","freq":119.5,"desc":"RECIFE APP"},
+{"type":"DEP","freq":119.5,"desc":"RECIFE DEP"}
+]
+}

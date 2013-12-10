@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"MMVR","name":"General Heriberto Jara Intl","lat":19.14021100,"lon":-096.18458600,"rwys":2,"ils":0,"index":1366862,"path":"w100n10/w097n19"
+,"runways":[
+{"len_m":2405,"wid_m":45.11,"hdg":191,"surf":"Asphalt","rwy1":"18","lat1":19.14945600,"lon1":-96.18627800,"rwy2":"36","lat2":19.12813100,"lon2":-96.19069700},
+{"len_m":1531,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"09","lat1":19.14643600,"lon1":-96.19192200,"rwy2":"27","lat2":19.14381400,"lon2":-96.17762800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"VERACRUZ TWR"},
+{"type":"APP","freq":120.4,"desc":"VERACRUZ APP"}
+]
+}

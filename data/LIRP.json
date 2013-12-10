@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LIRP","name":"Pisa","lat":43.68420030,"lon":010.39687630,"rwys":2,"ils":1,"index":3121513,"path":"e010n40/e010n43"
+,"runways":[
+{"len_m":2993,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"04R","lat1":43.67308300,"lon1":10.38323300,"rwy2":"22L","lat2":43.69465000,"lon2":10.40548100},
+{"len_m":2791,"wid_m":42.98,"hdg":36,"surf":"Asphalt","rwy1":"04L","lat1":43.67383900,"lon1":10.38071800,"rwy2":"22R","lat2":43.69395800,"lon2":10.40146400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":124.27,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":126.07,"desc":"APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBKE","name":"Baker City Muni","lat":44.8373245,"lon":-117.809115666667,"rwys":3,"ils":0,"index":1024432,"path":"w120n40/w118n44"
+,"runways":[
+{"len_m":1552,"wid_m":30.48,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":44.84226900,"lon1":-117.81341100,"rwy2":"31","lat2":44.83133100,"lon2":-117.80119400},
+{"len_m":1328,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":44.84482500,"lon1":-117.81271400,"rwy2":"35","lat2":44.83287200,"lon2":-117.81306400},
+{"len_m":1218,"wid_m":42.67,"hdg":96,"surf":"Asphalt","rwy1":"08","lat1":44.83697500,"lon1":-117.81480800,"rwy2":"26","lat2":44.83567500,"lon2":-117.79950300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

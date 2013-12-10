@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UTAK","name":"Turkmenbashi","lat":40.063472,"lon":53.0072225,"rwys":1,"ils":0,"index":3825792,"path":"e050n40/e053n40"
+,"runways":[
+{"len_m":2502,"wid_m":43.89,"hdg":166,"surf":"Concrete","rwy1":"16","lat1":40.07444400,"lon1":53.00388900,"rwy2":"34","lat2":40.05250000,"lon2":53.01055600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"APP"}
+]
+}

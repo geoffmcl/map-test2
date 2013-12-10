@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFJY","name":"Jyvaskyla","lat":62.40500400,"lon":025.67541900,"rwys":1,"ils":1,"index":3368473,"path":"e020n60/e025n62"
+,"runways":[
+{"len_m":2601,"wid_m":60.05,"hdg":133,"surf":"Asphalt","rwy1":"12","lat1":62.40755000,"lon1":25.66013900,"rwy2":"30","lat2":62.39135300,"lon2":25.69636100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.15,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":127,"desc":"APP"}
+]
+}

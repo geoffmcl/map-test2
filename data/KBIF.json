@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBIF","name":"Biggs Aaf","lat":31.849525,"lon":-106.380039,"rwys":1,"ils":0,"index":1203826,"path":"w110n30/w107n31"
+,"runways":[
+{"len_m":4131,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"03","lat1":31.83609700,"lon1":-106.39516700,"rwy2":"21","lat2":31.86295300,"lon2":-106.36491100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":125,"desc":"EL PASO CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":127.9,"desc":"TWR"},
+{"type":"APP","freq":119.15,"desc":"EL PASO APP"},
+{"type":"APP","freq":124.25,"desc":"EL PASO APP"},
+{"type":"DEP","freq":121.3,"desc":"EL PASO DEP"}
+]
+}

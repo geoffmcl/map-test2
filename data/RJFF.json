@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJFF","name":"Fukuoka","lat":33.59378606,"lon":130.44986323,"rwys":1,"ils":2,"index":5086945,"path":"e130n30/e130n33"
+,"runways":[
+{"len_m":2804,"wid_m":60.05,"hdg":150,"surf":"Asphalt","rwy1":"16","lat1":33.59691900,"lon1":130.44318600,"rwy2":"34","lat2":33.57496700,"lon2":130.45818600}
+]
+,"helipads":[
+{"rwy1":"H0","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.59178988,"lon1":130.44889783},
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.59338312,"lon1":130.44325864},
+{"rwy1":"H2","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.59222264,"lon1":130.44403696},
+{"rwy1":"H3","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.58274601,"lon1":130.45050353},
+{"rwy1":"H4","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.58048423,"lon1":130.45204121},
+{"rwy1":"H5","len_m":49,"wid_m":49.99,"hdg":130,"surf":"Transparent","lat1":33.57913614,"lon1":130.45295856}
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.92,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":121.27,"desc":"TCA"},
+{"type":"APP","freq":121.12,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":120.7,"desc":"APP"},
+{"type":"DEP","freq":119.7,"desc":"DEP"}
+]
+}

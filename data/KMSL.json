@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMSL","name":"Northwest Alabama Rgnl","lat":34.74534125,"lon":-87.611372,"rwys":2,"ils":1,"index":1515305,"path":"w090n30/w088n34"
+,"runways":[
+{"len_m":2040,"wid_m":45.72,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":34.74901700,"lon1":-87.61701900,"rwy2":"29","lat2":34.74150000,"lon2":-87.59668600},
+{"len_m":1219,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":34.75091700,"lon1":-87.61573300,"rwy2":"36","lat2":34.73993100,"lon2":-87.61605000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+}

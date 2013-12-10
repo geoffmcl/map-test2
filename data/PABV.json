@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"PABV","name":"Birchwood","lat":61.414798,"lon":-149.509082,"rwys":2,"ils":0,"index":501209,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1222,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"01L","lat1":61.41175600,"lon1":-149.51617500,"rwy2":"19R","lat2":61.42023300,"lon2":-149.50165000},
+{"len_m":670,"wid_m":15.24,"hdg":24,"surf":"Dirt","rwy1":"01R","lat1":61.41085300,"lon1":-149.51180600,"rwy2":"19L","lat2":61.41635000,"lon2":-149.50669700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+}

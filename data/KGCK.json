@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGCK","name":"Garden City Rgnl","lat":37.92645277,"lon":-100.71996344,"rwys":2,"ils":1,"index":1302521,"path":"w110n30/w101n37"
+,"runways":[
+{"len_m":2224,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":37.93924684,"lon1":-100.72281988,"rwy2":"35","lat2":37.91920716,"lon2":-100.72300612},
+{"len_m":1737,"wid_m":29.87,"hdg":135,"surf":"Concrete","rwy1":"12","lat1":37.93089178,"lon1":-100.73327709,"rwy2":"30","lat2":37.91974422,"lon2":-100.71940891}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.32,"desc":"ASOS"},
+{"type":"CTAF","freq":118.15,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"}
+]
+}

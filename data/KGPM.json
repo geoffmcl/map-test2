@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGPM","name":"Grand Prairie Muni","lat":32.70224734,"lon":-097.04948036,"rwys":1,"ils":0,"index":1351339,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.70428100,"lon1":-97.04687800,"rwy2":"35","lat2":32.69328300,"lon2":-97.04695600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.24,"hdg":-97,"surf":"Concrete","lat1":32.70215974,"lon1":-97.04780721}
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":128.55,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":121.15,"desc":"GND"},
+{"type":"TWR","freq":128.55,"desc":"TWR"},
+{"type":"APP","freq":135.97,"desc":"RGNL APP/DEP"}
+]
+}

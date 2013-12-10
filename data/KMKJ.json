@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMKJ","name":"Mountain Empire","lat":36.894849,"lon":-81.349946,"rwys":1,"ils":1,"index":1613754,"path":"w090n30/w082n36"
+,"runways":[
+{"len_m":1600,"wid_m":22.86,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":36.89276700,"lon1":-81.35854200,"rwy2":"26","lat2":36.89693100,"lon2":-81.34135000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

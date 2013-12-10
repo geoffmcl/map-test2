@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGZH","name":"Middleton Fld","lat":31.41580175,"lon":-87.04407075,"rwys":2,"ils":0,"index":1515099,"path":"w090n30/w088n31"
+,"runways":[
+{"len_m":1219,"wid_m":45.72,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":31.40928100,"lon1":-87.04746700,"rwy2":"19","lat2":31.42023100,"lon2":-87.04627200},
+{"len_m":1219,"wid_m":45.72,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":31.41775600,"lon1":-87.04759400,"rwy2":"28","lat2":31.41593900,"lon2":-87.03495000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

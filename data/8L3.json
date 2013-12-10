@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/11/08 14:53:21 UTC"
+,"icao":"8L3","name":"Amargosa","lat":36.29578916,"lon":-116.42587473,"rwys":1,"ils":0,"index":1040274,"path":"w120n30/w117n36"
+,"runways":[
+{"len_m":494,"wid_m":15.24,"hdg":184,"surf":"Dirt","rwy1":"17","lat1":36.29801103,"lon1":-116.42568196,"rwy2":"35","lat2":36.29356729,"lon2":-116.42606750}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.19,"hdg":-116,"surf":"Concrete","lat1":36.29578916,"lon1":-116.42587473}
+]
+,"navaids":[
+{"type":"VOR","hdg_t":332.8,"dist_nm":34,"freq":114.7,"lat":36.80058333,"lon":-116.74763889,"rng_nm":130,"alt_fmsl":2928,"id":"BTY","desc":"BEATTY VORTAC"},
+{"type":"VOR","hdg_t":101.5,"dist_nm":62.8,"freq":116.9,"lat":36.07969444,"lon":-115.15980556,"rng_nm":130,"alt_fmsl":2141,"id":"LAS","desc":"LAS VEGAS VORTAC"},
+{"type":"SDME","hdg_t":239.7,"dist_nm":71.5,"freq":111.6,"lat":35.68792800,"lon":-117.69047200,"rng_nm":25,"alt_fmsl":2272,"id":"NID","desc":"CHINA LAKE TACAN"},
+{"type":"VOR","hdg_t":102.8,"dist_nm":78,"freq":116.7,"lat":35.99577778,"lon":-114.86358333,"rng_nm":130,"alt_fmsl":3650,"id":"BLD","desc":"BOULDER CITY VORTAC"},
+{"type":"VOR","hdg_t":185.3,"dist_nm":80.2,"freq":113.2,"lat":34.96244444,"lon":-116.57816667,"rng_nm":40,"alt_fmsl":1760,"id":"DAG","desc":"DAGGETT VORTAC"},
+{"type":"VOR","hdg_t":181.1,"dist_nm":89.8,"freq":112.7,"lat":34.79702778,"lon":-116.46291667,"rng_nm":130,"alt_fmsl":1853,"id":"HEC","desc":"HECTOR VORTAC"},
+{"type":"VOR","hdg_t":349.3,"dist_nm":91.1,"freq":113,"lat":37.79041667,"lon":-116.77927778,"rng_nm":25,"alt_fmsl":5541,"id":"TQQ","desc":"SILVERBOW VORTAC"},
+{"type":"VOR","hdg_t":138.4,"dist_nm":92.7,"freq":114.4,"lat":35.13113889,"lon":-115.17644444,"rng_nm":40,"alt_fmsl":4000,"id":"GFS","desc":"GOFFS VORTAC"},
+{"type":"VOR","hdg_t":219.4,"dist_nm":101.3,"freq":116.4,"lat":34.98236111,"lon":-117.73261111,"rng_nm":40,"alt_fmsl":2354,"id":"EDW","desc":"EDWARDS VORTAC"},
+{"type":"VOR","hdg_t":74,"dist_nm":107.6,"freq":114.3,"lat":36.76927778,"lon":-114.27747222,"rng_nm":40,"alt_fmsl":2120,"id":"MMM","desc":"MORMON MESA VORTAC"}
+]
+}

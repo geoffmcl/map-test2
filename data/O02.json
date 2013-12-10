@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"O02","name":"Nervino","lat":39.8185195,"lon":-120.3528125,"rwys":1,"ils":0,"index":974962,"path":"w130n30/w121n39"
+,"runways":[
+{"len_m":1417,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":39.81853600,"lon1":-120.36108900,"rwy2":"25","lat2":39.81850300,"lon2":-120.34453600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.3,"desc":"RENO APP/DEP"}
+]
+}

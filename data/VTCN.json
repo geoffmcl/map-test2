@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"VTCN","name":"Nan","lat":18.80583600,"lon":100.78524000,"rwys":1,"ils":1,"index":4594486,"path":"e100n10/e100n18"
+,"runways":[
+{"len_m":1988,"wid_m":45.11,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":18.79951100,"lon1":100.78008600,"rwy2":"20","lat2":18.81631700,"lon2":100.78675300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":120.25,"desc":"APP"}
+]
+}

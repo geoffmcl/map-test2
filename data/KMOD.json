@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KMOD","name":"Modesto City-co-harry Sham Field","lat":37.62841504,"lon":-120.95439635,"rwys":2,"ils":1,"index":974824,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":1799,"wid_m":46.02,"hdg":124,"surf":"Asphalt","rwy1":"10L","lat1":37.62973900,"lon1":-120.96010300,"rwy2":"28R","lat2":37.62064500,"lon2":-120.94322800},
+{"len_m":1055,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"10R","lat1":37.62956496,"lon1":-120.96409675,"rwy2":"28L","lat2":37.62423304,"lon2":-120.95419061}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ATIS"},
+{"type":"CTAF","freq":125.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"TWR"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":123.85,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":125.1,"desc":"NORCAL APP/DEP"}
+]
+}

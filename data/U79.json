@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"U79","name":"Chamberlain Usfs","lat":45.38083325,"lon":-115.197639,"rwys":2,"ils":0,"index":1057243,"path":"w120n40/w116n45"
+,"runways":[
+{"len_m":1241,"wid_m":60.96,"hdg":92,"surf":"Turf/grass","rwy1":"07","lat1":45.37944400,"lon1":-115.20472200,"rwy2":"25","lat2":45.37888900,"lon2":-115.18888900},
+{"len_m":851,"wid_m":42.67,"hdg":160,"surf":"Turf/grass","rwy1":"15","lat1":45.38611100,"lon1":-115.20027800,"rwy2":"33","lat2":45.37888900,"lon2":-115.19666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

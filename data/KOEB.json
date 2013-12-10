@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KOEB","name":"Branch Co Mem","lat":41.933676,"lon":-85.0516935,"rwys":3,"ils":0,"index":1548539,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":1630,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":41.92953600,"lon1":-85.06412800,"rwy2":"25","lat2":41.93600600,"lon2":-85.04647800},
+{"len_m":1066,"wid_m":22.86,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":41.93101100,"lon1":-85.05169400,"rwy2":"22","lat2":41.93901700,"lon2":-85.04459200},
+{"len_m":731,"wid_m":57.91,"hdg":162,"surf":"Turf/grass","rwy1":"16","lat1":41.93637500,"lon1":-85.05299700,"rwy2":"34","lat2":41.93011100,"lon2":-85.05027200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.2,"desc":"KALAMAZOO APP/DEP"}
+]
+}

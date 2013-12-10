@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"D68","name":"Town Of Springerville Muni","lat":34.13143125,"lon":-109.30803225,"rwys":2,"ils":0,"index":1154826,"path":"w110n30/w110n34"
+,"runways":[
+{"len_m":2565,"wid_m":22.86,"hdg":43,"surf":"Asphalt","rwy1":"03","lat1":34.12198100,"lon1":-109.32075800,"rwy2":"21","lat2":34.13867200,"lon2":-109.30150800},
+{"len_m":1398,"wid_m":18.29,"hdg":127,"surf":"Asphalt","rwy1":"11","lat1":34.13637800,"lon1":-109.31094400,"rwy2":"29","lat2":34.12869400,"lon2":-109.29891900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

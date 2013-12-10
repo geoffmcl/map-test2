@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:37 UTC"
+,"type":16,"icao":"CYHC","name":"[s] Vancouver Harbour Water Airport","lat":49.28638900,"lon":-123.11222200,"rwys":0,"ils":0,"index":926419,"path":"w130n40/w124n49"
+,"runways":[]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":917,"wid_m":304,"hdg_t":89,"buoys":false,"rwy1":"07","lat1":49.29494600,"lon1":-123.11880194,"rwy2":"25","lat2":49.29494600,"lon2":-123.10618406}
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"CTAF","freq":123.15,"desc":"RDO"},
+{"type":"CTAF","freq":126.7,"desc":"RDO"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":125.35,"desc":"TWR"}
+]
+}

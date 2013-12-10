@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KEVY","name":"Summit","lat":39.52111125,"lon":-75.72407275,"rwys":2,"ils":0,"index":1712225,"path":"w080n30/w076n39"
+,"runways":[
+{"len_m":1367,"wid_m":19.81,"hdg":164,"surf":"Asphalt","rwy1":"17","lat1":39.52633900,"lon1":-75.72249400,"rwy2":"35","lat2":39.51444200,"lon2":-75.71836900},
+{"len_m":1097,"wid_m":60.96,"hdg":97,"surf":"Dirt","rwy1":"11","lat1":39.52249700,"lon1":-75.73403900,"rwy2":"29","lat2":39.52116700,"lon2":-75.72138900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.3,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.35,"desc":"PHILADELPHIA APP/DEP"}
+]
+}

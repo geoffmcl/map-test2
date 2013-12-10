@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"Z41","name":"Lake Hood Strip","lat":61.18619600,"lon":-149.96688900,"rwys":1,"ils":0,"index":501192,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":672,"wid_m":22.86,"hdg":153,"surf":"Gravel","rwy1":"14","lat1":61.18927800,"lon1":-149.96843000,"rwy2":"32","lat2":61.18390200,"lon2":-149.96275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.6,"desc":"Z41 ATIS"},
+{"type":"TWR","freq":126.8,"desc":"LAKE_HOOD TWR"},
+{"type":"APP","freq":119.1,"desc":"ANCHORAGE APP"},
+{"type":"DEP","freq":119.1,"desc":"ANCHORAGE DEP"}
+]
+}

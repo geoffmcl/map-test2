@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRMN","name":"Stafford Rgnl","lat":38.398096,"lon":-77.455465,"rwys":1,"ils":1,"index":1679386,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":139,"surf":"Asphalt","rwy1":"15","lat1":38.40328900,"lon1":-77.46116900,"rwy2":"33","lat2":38.39290300,"lon2":-77.44976100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":127.05,"desc":"QUANTICO ARRIVAL"}
+]
+}

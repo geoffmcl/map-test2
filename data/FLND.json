@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FLND","name":"Ndola","lat":-12.99814175,"lon":28.66493125,"rwys":2,"ils":0,"index":3412805,"path":"e020s20/e028s13"
+,"runways":[
+{"len_m":2518,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"10L","lat1":-12.99735000,"lon1":28.65404400,"rwy2":"28R","lat2":-12.99761700,"lon2":28.67725300},
+{"len_m":1218,"wid_m":22.86,"hdg":90,"surf":"Concrete","rwy1":"10R","lat1":-12.99870800,"lon1":28.65860000,"rwy2":"28L","lat2":-12.99889200,"lon2":28.66982800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+}

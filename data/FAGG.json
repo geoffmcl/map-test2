@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAGG","name":"George","lat":-34.00453200,"lon":022.37851500,"rwys":1,"ils":2,"index":3313145,"path":"e020s40/e022s35"
+,"runways":[
+{"len_m":2005,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"11","lat1":-34.00587177,"lon1":22.36766646,"rwy2":"29","lat2":-34.00519023,"lon2":22.38936354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"}
+]
+}

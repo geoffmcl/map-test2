@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRHP","name":"Andrews Murphy","lat":35.1952295,"lon":-83.8630375,"rwys":1,"ils":0,"index":1580872,"path":"w090n30/w084n35"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":35.19280600,"lon1":-83.87175800,"rwy2":"26","lat2":35.19765300,"lon2":-83.85431700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SEGU","name":"Guayauqiil - Simon Bolivar Intl","lat":-2.157419,"lon":-79.8835585,"rwys":1,"ils":1,"index":1644016,"path":"w080s10/w080s03"
+,"runways":[
+{"len_m":2787,"wid_m":46.02,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":-2.16826900,"lon1":-79.88993600,"rwy2":"21","lat2":-2.14656900,"lon2":-79.87718100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"GUAYAQUIL TWR"},
+{"type":"APP","freq":119.3,"desc":"GUAYAQUIL APP"},
+{"type":"APP","freq":123.9,"desc":"GUAYAQUIL APP"}
+]
+}

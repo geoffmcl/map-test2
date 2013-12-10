@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ESPE","name":"Vidsel","lat":65.875322,"lon":20.1499125,"rwys":1,"ils":0,"index":3286776,"path":"e020n60/e020n65"
+,"runways":[
+{"len_m":2228,"wid_m":35.05,"hdg":116,"surf":"Asphalt","rwy1":"11","lat1":65.87980000,"lon1":20.12807500,"rwy2":"29","lat2":65.87084400,"lon2":20.17175000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.15,"desc":"TWR"},
+{"type":"TWR","freq":130.4,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"TCA"},
+{"type":"APP","freq":119.2,"desc":"TCA"}
+]
+}

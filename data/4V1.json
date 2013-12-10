@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4V1","name":"Spanish Peaks","lat":37.69676875,"lon":-104.78573,"rwys":2,"ils":0,"index":1236968,"path":"w110n30/w105n37"
+,"runways":[
+{"len_m":1492,"wid_m":18.29,"hdg":93,"surf":"Asphalt","rwy1":"08","lat1":37.69707200,"lon1":-104.79225300,"rwy2":"26","lat2":37.69618600,"lon2":-104.77537200},
+{"len_m":761,"wid_m":12.19,"hdg":30,"surf":"Turf/grass","rwy1":"03","lat1":37.69393900,"lon1":-104.78981400,"rwy2":"21","lat2":37.69987800,"lon2":-104.78548100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

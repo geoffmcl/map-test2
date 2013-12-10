@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HAMK","name":"Makale","lat":13.467367,"lon":39.533465,"rwys":1,"ils":0,"index":3594716,"path":"e030n10/e039n13"
+,"runways":[
+{"len_m":3609,"wid_m":43.28,"hdg":111,"surf":"Asphalt","rwy1":"11","lat1":13.47340600,"lon1":39.51798300,"rwy2":"29","lat2":13.46132800,"lon2":39.54894700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+}

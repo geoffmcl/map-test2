@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRTS","name":"Reno Stead","lat":39.66050000,"lon":-119.87064400,"rwys":2,"ils":0,"index":991336,"path":"w120n30/w120n39"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":153,"surf":"Asphalt","rwy1":"14","lat1":39.68339400,"lon1":-119.88160000,"rwy2":"32","lat2":39.66126400,"lon2":-119.86738100},
+{"len_m":2318,"wid_m":45.72,"hdg":95,"surf":"Asphalt","rwy1":"08","lat1":39.66434400,"lon1":-119.89218900,"rwy2":"26","lat2":39.66219700,"lon2":-119.86531700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KYNG","name":"Youngstown Warren Rgnl","lat":41.261256,"lon":-80.6807881666667,"rwys":3,"ils":1,"index":1630417,"path":"w090n40/w081n41"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":41.27288300,"lon1":-80.69235000,"rwy2":"32","lat2":41.25542500,"lon2":-80.66918100},
+{"len_m":1524,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":41.24972200,"lon1":-80.68248900,"rwy2":"23","lat2":41.25943600,"lon2":-80.66963100},
+{"len_m":1063,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"14R","lat1":41.26840600,"lon1":-80.69004700,"rwy2":"32L","lat2":41.26166400,"lon2":-80.68103100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":127.15,"desc":"APP/DEP"}
+]
+}

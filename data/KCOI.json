@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCOI","name":"Merritt Island","lat":28.3415985,"lon":-80.685485,"rwys":1,"ils":0,"index":1629585,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":1097,"wid_m":22.86,"hdg":109,"surf":"Asphalt","rwy1":"11","lat1":28.34323900,"lon1":-80.69076700,"rwy2":"29","lat2":28.33995800,"lon2":-80.68020300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+}

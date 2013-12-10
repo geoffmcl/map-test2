@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTVL","name":"South Lake Tahoe","lat":38.89526700,"lon":-119.99816100,"rwys":1,"ils":1,"index":991288,"path":"w120n30/w120n38"
+,"runways":[
+{"len_m":2603,"wid_m":45.72,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":38.90531100,"lon1":-119.99197800,"rwy2":"36","lat2":38.88245300,"lon2":-119.99869200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+}

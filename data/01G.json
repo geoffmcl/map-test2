@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"01G","name":"Perry Warsaw","lat":42.74184575,"lon":-78.0499425,"rwys":2,"ils":0,"index":1663275,"path":"w080n40/w079n42"
+,"runways":[
+{"len_m":1070,"wid_m":18.29,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":42.74182200,"lon1":-78.05690000,"rwy2":"28","lat2":42.74165300,"lon2":-78.04383100},
+{"len_m":557,"wid_m":18.29,"hdg":34,"surf":"Turf/grass","rwy1":"04","lat1":42.73987500,"lon1":-78.05143100,"rwy2":"22","lat2":42.74403300,"lon2":-78.04760800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+}

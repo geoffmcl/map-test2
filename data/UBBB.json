@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"UBBB","name":"Heydar Aliyev","lat":40.46054460,"lon":050.05084990,"rwys":2,"ils":4,"index":3776664,"path":"e050n40/e050n40"
+,"runways":[
+{"len_m":3331,"wid_m":50.90,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":40.48666700,"lon1":50.06333300,"rwy2":"36","lat2":40.45666700,"lon2":50.06333300},
+{"len_m":2773,"wid_m":60.05,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":40.48000000,"lon1":50.03500000,"rwy2":"34","lat2":40.45666700,"lon2":50.04666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"BAKU ATIS"},
+{"type":"ATIS","freq":126.4,"desc":"BAKU ATIS"},
+{"type":"GND","freq":121.7,"desc":"BAKU GND"},
+{"type":"TWR","freq":119.2,"desc":"BAKU TWR"},
+{"type":"APP","freq":129.3,"desc":"BAKU APP"},
+{"type":"APP","freq":123.9,"desc":"BAKU APP"},
+{"type":"APP","freq":119.2,"desc":"BAKU PRECISION"},
+{"type":"APP","freq":120.8,"desc":"BAKU RADAR"},
+{"type":"APP","freq":128,"desc":"BAKU RADAR"}
+]
+}

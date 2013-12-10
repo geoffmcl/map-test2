@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KBKW","name":"Raleigh Co Mem","lat":37.78643075,"lon":-81.12414875,"rwys":2,"ils":1,"index":1613811,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":2057,"wid_m":45.72,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":37.78206700,"lon1":-81.12577800,"rwy2":"19","lat2":37.80044200,"lon2":-81.12273300},
+{"len_m":1514,"wid_m":30.48,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":37.78208900,"lon1":-81.13261700,"rwy2":"28","lat2":37.78112500,"lon2":-81.11546700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.55,"desc":"ASOS"},
+{"type":"ATIS","freq":124.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.95,"desc":"CHARLESTON APP/DEP"}
+]
+}

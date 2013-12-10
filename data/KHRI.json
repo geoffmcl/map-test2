@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KHRI","name":"Hermiston Muni","lat":45.828217,"lon":-119.259164,"rwys":1,"ils":0,"index":991730,"path":"w120n40/w120n45"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":62,"surf":"Asphalt","rwy1":"04","lat1":45.82535300,"lon1":-119.26698100,"rwy2":"22","lat2":45.83108100,"lon2":-119.25134700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.15,"desc":"CHINOOK APP/DEP"}
+]
+}

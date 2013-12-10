@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBAF","name":"Archerfield","lat":-27.57487400,"lon":153.00421800,"rwys":4,"ils":0,"index":5459864,"path":"e150s30/e153s28"
+,"runways":[
+{"len_m":1480,"wid_m":29.87,"hdg":107,"surf":"Asphalt","rwy1":"10L","lat1":-27.57032200,"lon1":152.99717200,"rwy2":"28R","lat2":-27.57439400,"lon2":153.01145600},
+{"len_m":1100,"wid_m":29.87,"hdg":107,"surf":"Asphalt","rwy1":"10R","lat1":-27.57215600,"lon1":152.99811200,"rwy2":"28L","lat2":-27.57518400,"lon2":153.00872200},
+{"len_m":1244,"wid_m":29.87,"hdg":51,"surf":"Dirt","rwy1":"04L","lat1":-27.57094000,"lon1":153.00191600,"rwy2":"22R","lat2":-27.56396000,"lon2":153.01179000},
+{"len_m":1099,"wid_m":29.87,"hdg":51,"surf":"Dirt","rwy1":"04R","lat1":-27.57164200,"lon1":153.00441500,"rwy2":"22L","lat2":-27.56547400,"lon2":153.01314100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":153,"surf":"Concrete","lat1":-27.57479800,"lon1":153.00357400},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":153,"surf":"Concrete","lat1":-27.57578800,"lon1":153.01081400},
+{"rwy1":"H3","len_m":34,"wid_m":34.14,"hdg":153,"surf":"Concrete","lat1":-27.56542900,"lon1":153.01375600}
+]
+,"radios":[
+{"type":"ATIS","freq":120.9,"desc":"YBAF ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"ACHERFIELD MULT"},
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"GND","freq":119.9,"desc":"ARCHER GND"},
+{"type":"TWR","freq":118.1,"desc":"ARCHER TWR"},
+{"type":"TWR","freq":123.6,"desc":"ARCHER TWR"},
+{"type":"APP","freq":125.6,"desc":"BRISBANE APP"},
+{"type":"APP","freq":125.7,"desc":"BRISBANE APP"}
+]
+}

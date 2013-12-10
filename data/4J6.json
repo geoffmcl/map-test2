@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"4J6","name":"St Marys","lat":30.75284025,"lon":-81.55896825,"rwys":2,"ils":0,"index":1613361,"path":"w090n30/w082n30"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":30.74863900,"lon1":-81.56216700,"rwy2":"22","lat2":30.76010300,"lon2":-81.55338100},
+{"len_m":1219,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":30.75458300,"lon1":-81.56527800,"rwy2":"31","lat2":30.74803600,"lon2":-81.55504700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127,"desc":"JACKSONVILLE APP/DEP"}
+]
+}

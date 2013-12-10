@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KNKT","name":"Cherry Point Mcas","lat":34.90284000,"lon":-076.88636000,"rwys":4,"ils":1,"index":1695544,"path":"w080n30/w077n34"
+,"runways":[
+{"len_m":2738,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"14L","lat1":34.91968100,"lon1":-76.89998300,"rwy2":"32R","lat2":34.90206700,"lon2":-76.87899400},
+{"len_m":2559,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"14R","lat1":34.90303900,"lon1":-76.88248300,"rwy2":"32L","lat2":34.88658100,"lon2":-76.86285600},
+{"len_m":2495,"wid_m":59.74,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":34.88803100,"lon1":-76.89771700,"rwy2":"23L","lat2":34.90379700,"lon2":-76.87823900},
+{"len_m":2302,"wid_m":60.96,"hdg":45,"surf":"Asphalt","rwy1":"05L","lat1":34.90390800,"lon1":-76.88047800,"rwy2":"23R","lat2":34.91845800,"lon2":-76.86251400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":125.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.62,"desc":"GND"},
+{"type":"TWR","freq":121.3,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"APP/DEP"},
+{"type":"APP","freq":119.75,"desc":"APP/DEP"},
+{"type":"APP","freq":124.1,"desc":"APP/DEP"},
+{"type":"APP","freq":132.57,"desc":"APP/DEP"}
+]
+}

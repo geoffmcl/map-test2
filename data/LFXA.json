@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFXA","name":"Amberieu","lat":45.98367925,"lon":5.3325445,"rwys":2,"ils":0,"index":3039737,"path":"e000n40/e005n45"
+,"runways":[
+{"len_m":1998,"wid_m":29.87,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":45.97841700,"lon1":5.32677800,"rwy2":"19","lat2":45.99625000,"lon2":5.33011100},
+{"len_m":801,"wid_m":99.97,"hdg":14,"surf":"Turf/grass","rwy1":"02","lat1":45.97653600,"lon1":5.33535000,"rwy2":"20","lat2":45.98351400,"lon2":5.33793900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":120.22,"desc":"LYON APP"},
+{"type":"APP","freq":125.42,"desc":"LYON APP"},
+{"type":"APP","freq":125.8,"desc":"LYON APP"},
+{"type":"APP","freq":133.15,"desc":"LYON APP"}
+]
+}

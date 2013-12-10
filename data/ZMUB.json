@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZMUB","name":"Chinggis Khaan Intl","lat":47.84262034,"lon":106.76290625,"rwys":2,"ils":1,"index":4694643,"path":"e100n40/e106n47"
+,"runways":[
+{"len_m":3099,"wid_m":60.05,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":47.85297500,"lon1":106.75328600,"rwy2":"32","lat2":47.83221700,"lon2":106.78092200},
+{"len_m":1902,"wid_m":39.93,"hdg":146,"surf":"Dirt","rwy1":"15","lat1":47.84978171,"lon1":106.75169906,"rwy2":"33","lat2":47.83550765,"lon2":106.76571795}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126,"desc":"ATIS"},
+{"type":"APP","freq":120,"desc":"ULAANBAATAR APP"}
+]
+}

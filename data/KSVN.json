@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSVN","name":"Hunter Aaf","lat":32.010018,"lon":-81.1459875,"rwys":1,"ils":1,"index":1613443,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":3467,"wid_m":60.96,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":32.01061400,"lon1":-81.16432200,"rwy2":"28","lat2":32.00942200,"lon2":-81.12765300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":133.55,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":133.55,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"SAVANNAH APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"SAVANNAH APP/DEP"},
+{"type":"APP","freq":125.3,"desc":"SAVANNAH APP/DEP"}
+]
+}

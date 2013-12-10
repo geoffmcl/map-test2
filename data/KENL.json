@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KENL","name":"Centralia Muni","lat":38.51515,"lon":-89.09099025,"rwys":2,"ils":0,"index":1482787,"path":"w090n30/w090n38"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":38.52173300,"lon1":-89.09160000,"rwy2":"36","lat2":38.50800300,"lon2":-89.09179700},
+{"len_m":1005,"wid_m":18.29,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":38.51520800,"lon1":-89.09604200,"rwy2":"27","lat2":38.51565600,"lon2":-89.08452200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

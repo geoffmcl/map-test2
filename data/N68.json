@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N68","name":"Franklin Co Rgnl","lat":39.9729615,"lon":-77.643261,"rwys":1,"ils":0,"index":1679481,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1005,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":39.96994000,"lon1":-77.64764400,"rwy2":"24","lat2":39.97598300,"lon2":-77.63887800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.1,"desc":"HARRISBURG APP/DEP"}
+]
+}

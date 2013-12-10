@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRL","name":"Lanveoc Poulmic Navy","lat":48.27898900,"lon":-004.44040600,"rwys":2,"ils":0,"index":2876050,"path":"w010n40/w005n48"
+,"runways":[
+{"len_m":1121,"wid_m":39.93,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":48.27860300,"lon1":-4.45091400,"rwy2":"23","lat2":48.28493500,"lon2":-4.43915200},
+{"len_m":650,"wid_m":53.95,"hdg":128,"surf":"Turf/grass","rwy1":"13","lat1":48.28386100,"lon1":-4.44623300,"rwy2":"31","lat2":48.28024300,"lon2":-4.43933700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28123900,"lon1":-4.43555500},
+{"rwy1":"H10","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28098400,"lon1":-4.43575900},
+{"rwy1":"H11","len_m":34,"wid_m":34.14,"hdg":-4,"surf":"Concrete","lat1":48.27891600,"lon1":-4.44279000},
+{"rwy1":"H12","len_m":34,"wid_m":34.14,"hdg":-4,"surf":"Concrete","lat1":48.27924300,"lon1":-4.44209600},
+{"rwy1":"H13","len_m":24,"wid_m":24.08,"hdg":-4,"surf":"Asphalt","lat1":48.27952900,"lon1":-4.43989600},
+{"rwy1":"H14","len_m":34,"wid_m":34.14,"hdg":-4,"surf":"Concrete","lat1":48.28018300,"lon1":-4.44372400},
+{"rwy1":"H15","len_m":34,"wid_m":34.14,"hdg":-4,"surf":"Concrete","lat1":48.28059800,"lon1":-4.44422700},
+{"rwy1":"H2","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28123300,"lon1":-4.43510000},
+{"rwy1":"H3","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28122800,"lon1":-4.43465500},
+{"rwy1":"H4","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28122300,"lon1":-4.43421500},
+{"rwy1":"H5","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28097400,"lon1":-4.43406100},
+{"rwy1":"H6","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28069200,"lon1":-4.43405600},
+{"rwy1":"H7","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28089600,"lon1":-4.43521100},
+{"rwy1":"H8","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28088300,"lon1":-4.43462000},
+{"rwy1":"H9","len_m":24,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":48.28069500,"lon1":-4.43576900}
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"LANVEOC GND"},
+{"type":"TWR","freq":119.7,"desc":"LANVEOC TWR"},
+{"type":"TWR","freq":122.1,"desc":"LANVEOC TWR"},
+{"type":"TWR","freq":123.2,"desc":"LANVEOC TWR"},
+{"type":"APP","freq":119.3,"desc":"LANVEOC APP"},
+{"type":"APP","freq":120.6,"desc":"LANVEOC APP"}
+]
+}

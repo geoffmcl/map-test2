@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EGVN","name":"Raf Brize Norton","lat":51.74717584,"lon":-001.58617234,"rwys":1,"ils":1,"index":2925417,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":3061,"wid_m":56.08,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":51.74606774,"lon1":-1.60420700,"rwy2":"26","lat2":51.75389026,"lon2":-1.56170978}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.72,"desc":"Brize Ground"},
+{"type":"TWR","freq":123.72,"desc":"Brize Tower"},
+{"type":"APP","freq":127.25,"desc":"Brize Approach"},
+{"type":"APP","freq":133.75,"desc":"Brize Director"}
+]
+}

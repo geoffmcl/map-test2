@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"L71","name":"California City Muni","lat":35.15125,"lon":-118.0166595,"rwys":1,"ils":0,"index":1007435,"path":"w120n30/w119n35"
+,"runways":[
+{"len_m":1836,"wid_m":18.29,"hdg":75,"surf":"Asphalt","rwy1":"06","lat1":35.14918300,"lon1":-118.02641900,"rwy2":"24","lat2":35.15331700,"lon2":-118.00690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.87,"desc":"AWOS 1"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.65,"desc":"JOSHUA APP/DEP"}
+]
+}

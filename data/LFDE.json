@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFDE","name":"Egletons","lat":45.41968956,"lon":002.06864467,"rwys":2,"ils":0,"index":2990552,"path":"e000n40/e002n45"
+,"runways":[
+{"len_m":815,"wid_m":17.98,"hdg":70,"surf":"Asphalt","rwy1":"7","lat1":45.41943833,"lon1":2.06275871,"rwy2":"25","lat2":45.42189956,"lon2":2.07257710},
+{"len_m":626,"wid_m":45.11,"hdg":70,"surf":"Turf/grass","rwy1":"7R","lat1":45.41959770,"lon1":2.06471876,"rwy2":"25L","lat2":45.42148928,"lon2":2.07225591}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":2,"surf":"Asphalt","lat1":45.42056616,"lon1":2.07104015}
+]
+,"radios":[
+]
+}

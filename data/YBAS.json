@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBAS","name":"Alice Springs","lat":-23.80150200,"lon":133.89992400,"rwys":2,"ils":1,"index":5132427,"path":"e130s30/e133s24"
+,"runways":[
+{"len_m":2437,"wid_m":45.11,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":-23.80100776,"lon1":133.89338018,"rwy2":"30","lat2":-23.81209674,"lon2":133.91403865},
+{"len_m":1131,"wid_m":17.98,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":-23.79724350,"lon1":133.88655900,"rwy2":"35","lat2":-23.80745850,"lon2":133.88690301}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":133,"surf":"Transparent","lat1":-23.79979378,"lon1":133.89435468}
+]
+,"radios":[
+{"type":"CTAF","freq":118.3,"desc":"ALICE SPRINGS MULT"},
+{"type":"TWR","freq":118.3,"desc":"ALICE SPRINGS TWR"},
+{"type":"TWR","freq":119.8,"desc":"MELBOURNE CNTR"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KRSV","name":"Robinson Muni","lat":39.01593675,"lon":-87.64922425,"rwys":2,"ils":0,"index":1515585,"path":"w090n30/w088n39"
+,"runways":[
+{"len_m":1556,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":39.01664400,"lon1":-87.66098900,"rwy2":"27","lat2":39.01620000,"lon2":-87.64302200},
+{"len_m":1036,"wid_m":22.86,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":39.01997500,"lon1":-87.64791100,"rwy2":"35","lat2":39.01092800,"lon2":-87.64497500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.5,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.25,"desc":"HULMAN APP/DEP"},
+{"type":"APP","freq":125.6,"desc":"HULMAN APP/DEP"}
+]
+}

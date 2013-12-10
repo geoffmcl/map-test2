@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"WSAG","name":"Sembawang","lat":1.42517625,"lon":103.812789,"rwys":2,"ils":0,"index":4642526,"path":"e100n00/e103n01"
+,"runways":[
+{"len_m":1906,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":1.41749400,"lon1":103.80367800,"rwy2":"22","lat2":1.43013900,"lon2":103.81532800},
+{"len_m":1032,"wid_m":30.48,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":1.42334400,"lon1":103.81268900,"rwy2":"23","lat2":1.42972800,"lon2":103.81946100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.8,"desc":"GND"},
+{"type":"TWR","freq":129.7,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"SINGAPORE APP/DEP"},
+{"type":"APP","freq":124.6,"desc":"SINGAPORE APP/DEP"}
+]
+}

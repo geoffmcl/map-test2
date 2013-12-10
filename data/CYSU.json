@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYSU","name":"Summerside","lat":46.4400918333333,"lon":-63.8337995,"rwys":3,"ils":0,"index":1909272,"path":"w070n40/w064n46"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":35,"surf":"Asphalt","rwy1":"06","lat1":46.43138900,"lon1":-63.84277800,"rwy2":"24","lat2":46.44916700,"lon2":-63.82418300},
+{"len_m":1671,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"18","lat1":46.44333300,"lon1":-63.84111100,"rwy2":"36","lat2":46.42944200,"lon2":-63.83277800},
+{"len_m":1562,"wid_m":45.72,"hdg":94,"surf":"Asphalt","rwy1":"12","lat1":46.44416700,"lon1":-63.84111100,"rwy2":"30","lat2":46.44305300,"lon2":-63.82083600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.55,"desc":"AWOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+}

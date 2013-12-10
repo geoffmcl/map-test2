@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YRSY","name":"Romsey","lat":-37.39180679,"lon":144.73848863,"rwys":2,"ils":0,"index":5311778,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":692,"wid_m":14.94,"hdg":162,"surf":"Turf/grass","rwy1":"16","lat1":-37.38982330,"lon1":144.73670147,"rwy2":"34","lat2":-37.39576791,"lon2":144.73908937},
+{"len_m":635,"wid_m":14.94,"hdg":40,"surf":"Turf/grass","rwy1":"03","lat1":-37.39628863,"lon1":144.73342820,"rwy2":"21","lat2":-37.39194849,"lon2":144.73811046}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

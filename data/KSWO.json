@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSWO","name":"Stillwater Rgnl","lat":36.1612156666667,"lon":-97.0856891666667,"rwys":3,"ils":1,"index":1351563,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":2255,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":36.17231100,"lon1":-97.08685800,"rwy2":"35","lat2":36.15198900,"lon2":-97.08663600},
+{"len_m":1525,"wid_m":45.72,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":36.16605550,"lon1":-97.09172380,"rwy2":"31","lat2":36.15638850,"lon2":-97.07966420},
+{"len_m":1524,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":36.15537500,"lon1":-97.09056400,"rwy2":"22","lat2":36.16517500,"lon2":-97.07868900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":125.35,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.35,"desc":"TWR"}
+]
+}

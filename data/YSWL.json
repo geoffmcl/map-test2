@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YSWL","name":"Stawell","lat":-37.06830534,"lon":142.74161091,"rwys":2,"ils":0,"index":5279034,"path":"e140s40/e142s38"
+,"runways":[
+{"len_m":854,"wid_m":21.95,"hdg":5,"surf":"Asphalt","rwy1":"1","lat1":-37.07896786,"lon1":142.74051634,"rwy2":"19","lat2":-37.07129814,"lon2":142.74141162},
+{"len_m":1403,"wid_m":17.07,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":-37.06560463,"lon1":142.72681811,"rwy2":"29","lat2":-37.07089930,"lon2":142.74114966}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"}
+]
+}

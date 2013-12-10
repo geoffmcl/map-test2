@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"34A","name":"Laurens County","lat":34.5070445,"lon":-81.9471875,"rwys":1,"ils":0,"index":1613600,"path":"w090n30/w082n34"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":34.50542500,"lon1":-81.95335300,"rwy2":"26","lat2":34.50866400,"lon2":-81.94102200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.6,"desc":"GREER APP/DEP"}
+]
+}

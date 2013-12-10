@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPSP","name":"Palm Springs Intl","lat":33.82670750,"lon":-116.50818151,"rwys":2,"ils":0,"index":1040113,"path":"w120n30/w117n33"
+,"runways":[
+{"len_m":3048,"wid_m":46.02,"hdg":143,"surf":"Asphalt","rwy1":"13R","lat1":33.84068100,"lon1":-116.51744700,"rwy2":"31L","lat2":33.81861900,"lon2":-116.49781400},
+{"len_m":1509,"wid_m":22.86,"hdg":143,"surf":"Asphalt","rwy1":"13L","lat1":33.83516700,"lon1":-116.50966700,"rwy2":"31R","lat2":33.82424200,"lon2":-116.49994400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":135.27,"desc":"APP/DEP (NE-SW)"},
+{"type":"APP","freq":126.7,"desc":"SOCAL APP/DEP (W-N)"}
+]
+}

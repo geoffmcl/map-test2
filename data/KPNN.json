@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPNN","name":"Princeton Muni","lat":45.2006605,"lon":-67.564395,"rwys":2,"ils":0,"index":1843657,"path":"w070n40/w068n45"
+,"runways":[
+{"len_m":1220,"wid_m":30.48,"hdg":132,"surf":"Asphalt","rwy1":"15","lat1":45.20409400,"lon1":-67.57340800,"rwy2":"33","lat2":45.19666700,"lon2":-67.56196400},
+{"len_m":1219,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"06","lat1":45.19665000,"lon1":-67.56593600,"rwy2":"24","lat2":45.20523100,"lon2":-67.55627200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

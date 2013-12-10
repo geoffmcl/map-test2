@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KGPI","name":"Glacier Park Intl","lat":48.311132466,"lon":-114.253188746,"rwys":2,"ils":1,"index":1073810,"path":"w120n40/w115n48"
+,"runways":[
+{"len_m":2752,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":48.29881100,"lon1":-114.26766793,"rwy2":"20","lat2":48.31910993,"lon2":-114.24643972},
+{"len_m":1070,"wid_m":22.86,"hdg":136,"surf":"Asphalt","rwy1":"12","lat1":48.31795152,"lon1":-114.25817861,"rwy2":"30","lat2":48.31100048,"lon2":-114.24819739}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":13.41,"hdg":-114,"surf":"Asphalt","lat1":48.31058426,"lon1":-114.25206520},
+{"rwy1":"H2","len_m":12,"wid_m":13.41,"hdg":-114,"surf":"Asphalt","lat1":48.31073988,"lon1":-114.25189907},
+{"rwy1":"H3","len_m":12,"wid_m":13.41,"hdg":-114,"surf":"Asphalt","lat1":48.31090173,"lon1":-114.25173763}
+]
+,"radios":[
+{"type":"ATIS","freq":132.62,"desc":"ATIS"},
+{"type":"CTAF","freq":124.55,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":124.55,"desc":"TWR"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ENBO","name":"Bodo","lat":67.268487,"lon":14.356773,"rwys":1,"ils":2,"index":3188560,"path":"e010n60/e014n67"
+,"runways":[
+{"len_m":3394,"wid_m":45.11,"hdg":77,"surf":"Concrete","rwy1":"07","lat1":67.26529200,"lon1":14.31830700,"rwy2":"25","lat2":67.27168200,"lon2":14.39523900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.9,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP/DEP"},
+{"type":"APP","freq":119.7,"desc":"APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KSNH","name":"Savannah Hardin Co","lat":35.1702525,"lon":-88.216726,"rwys":1,"ils":1,"index":1498955,"path":"w090n30/w089n35"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":7,"surf":"Concrete","rwy1":"01","lat1":35.16344400,"lon1":-88.21781900,"rwy2":"19","lat2":35.17706100,"lon2":-88.21563300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

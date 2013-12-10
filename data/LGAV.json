@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGAV","name":"Athens Intl Airport Elefterios Venizel","lat":37.93553000,"lon":023.94053900,"rwys":2,"ils":2,"index":3334139,"path":"e020n30/e023n37"
+,"runways":[
+{"len_m":4000,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03R","lat1":37.92351100,"lon1":23.94326100,"rwy2":"21L","lat2":37.95242500,"lon2":23.97042200},
+{"len_m":3799,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03L","lat1":37.92101100,"lon1":23.91920300,"rwy2":"21R","lat2":37.94848300,"lon2":23.94499400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.12,"desc":"ATIS"},
+{"type":"CLD","freq":118.67,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":136.02,"desc":"INFO"},
+{"type":"TWR","freq":118.62,"desc":"TWR"},
+{"type":"TWR","freq":136.27,"desc":"TWR"},
+{"type":"APP","freq":126.57,"desc":"ATHINAI APP"},
+{"type":"APP","freq":124.02,"desc":"ATHINAI APP"},
+{"type":"APP","freq":131.17,"desc":"ATHINAI APP"},
+{"type":"APP","freq":132.97,"desc":"ATHINAI ARR"},
+{"type":"APP","freq":126.57,"desc":"ATHINAI ARR"},
+{"type":"APP","freq":121.4,"desc":"ATHINAI DIR"},
+{"type":"DEP","freq":118.3,"desc":"DEPATURE RADAR DEP"},
+{"type":"DEP","freq":128.95,"desc":"ATHINAI DEP"}
+]
+}

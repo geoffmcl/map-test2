@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
+,"type":17,"icao":"UUEX","name":"[h] Zalesye","lat":56.77677363,"lon":35.100101685,"rwys":1,"ils":0,"index":3531952,"path":"e030n50/e035n56"
+,"runways":[
+{"len_m":50,"wid_m":49.99,"hdg":65,"surf":"Transparent","rwy1":"06","lat1":56.77667809,"lon1":35.09973112,"rwy2":"24","lat2":56.77686811,"lon2":35.10047373}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":35,"surf":"Concrete","lat1":56.77677416,"lon1":35.10010094}
+]
+,"radios":[
+{"type":"TWR","freq":133,"desc":"Zalesye"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"ZSSS","name":"Hongqiao Intl","lat":31.197875,"lon":121.336319,"rwys":1,"ils":2,"index":4939337,"path":"e120n30/e121n31"
+,"runways":[
+{"len_m":3413,"wid_m":57.91,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":31.21325000,"lon1":121.33544400,"rwy2":"36","lat2":31.18250000,"lon2":121.33719400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.25,"desc":"ATIS"},
+{"type":"CLD","freq":121.75,"desc":"DELIVERY"},
+{"type":"GND","freq":118.1,"desc":"GND"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"SHANGHAI APP SCTR 1"},
+{"type":"APP","freq":119.75,"desc":"SHANGHAI APP SCTR 2"},
+{"type":"APP","freq":120.8,"desc":"SHANGHAI APP SCTR 2"},
+{"type":"APP","freq":121.3,"desc":"SHANGHAI APP SCTR 3"},
+{"type":"APP","freq":119.2,"desc":"SHANGHAI APP SCTR 3"},
+{"type":"APP","freq":123.8,"desc":"SHANGHAI APP SCTR 4"}
+]
+}

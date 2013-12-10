@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OAKB","name":"Kabul Intl","lat":34.56098593,"lon":069.21198700,"rwys":1,"ils":1,"index":4087584,"path":"e060n30/e069n34"
+,"runways":[
+{"len_m":3505,"wid_m":49.99,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":34.57058025,"lon1":69.19405600,"rwy2":"29","lat2":34.56116970,"lon2":69.23052232}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56074018,"lon1":69.22505671},
+{"rwy1":"H2","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56229765,"lon1":69.21343692},
+{"rwy1":"H3","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56371713,"lon1":69.20902296},
+{"rwy1":"H4","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56549361,"lon1":69.20346657},
+{"rwy1":"H5","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56684899,"lon1":69.19921649},
+{"rwy1":"H6","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56576813,"lon1":69.21966211},
+{"rwy1":"H7","len_m":21,"wid_m":21.03,"hdg":69,"surf":"Asphalt","lat1":34.56667900,"lon1":69.21614868}
+]
+,"radios":[
+{"type":"GND","freq":120.32,"desc":"Ground Control"},
+{"type":"TWR","freq":118.1,"desc":"Kabul Tower"},
+{"type":"APP","freq":133.35,"desc":"Bagram Approach Control"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAWG","name":"Washington Muni","lat":41.27512425,"lon":-91.67506525,"rwys":2,"ils":0,"index":1450193,"path":"w100n40/w092n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":183,"surf":"Concrete","rwy1":"18","lat1":41.27959700,"lon1":-91.67628300,"rwy2":"36","lat2":41.26863300,"lon2":-91.67706400},
+{"len_m":1036,"wid_m":15.24,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":41.27941700,"lon1":-91.67785000,"rwy2":"31","lat2":41.27285000,"lon2":-91.66906400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+}

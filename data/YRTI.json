@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YRTI","name":"Rottnest I","lat":-32.00493298,"lon":115.54264784,"rwys":1,"ils":0,"index":4836986,"path":"e110s40/e115s33"
+,"runways":[
+{"len_m":1291,"wid_m":18.90,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":-32.00626752,"lon1":115.53285155,"rwy2":"27","lat2":-32.00632821,"lon2":115.54651901}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126,"desc":"ROTTNEST I MULT"},
+{"type":"APP","freq":128.1,"desc":"PERTH APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LRCS","name":"Caransebes","lat":45.4206945,"lon":22.2540275,"rwys":1,"ils":0,"index":3318233,"path":"e020n40/e022n45"
+,"runways":[
+{"len_m":1999,"wid_m":45.11,"hdg":108,"surf":"Concrete","rwy1":"11","lat1":45.42361100,"lon1":22.24194400,"rwy2":"29","lat2":45.41777800,"lon2":22.26611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.85,"desc":"TWR"},
+{"type":"APP","freq":125.85,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPRO","name":"Perry Muni","lat":41.82792875,"lon":-94.15958825,"rwys":2,"ils":0,"index":1401075,"path":"w100n40/w095n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":140,"surf":"Concrete","rwy1":"14","lat1":41.83247800,"lon1":-94.16525300,"rwy2":"32","lat2":41.82398600,"lon2":-94.15595300},
+{"len_m":646,"wid_m":71.63,"hdg":51,"surf":"Turf/grass","rwy1":"04","lat1":41.82582100,"lon1":-94.16162900,"rwy2":"22","lat2":41.82943000,"lon2":-94.15551800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.2,"desc":"DES MOINES APP/DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMNP","name":"Murnpeowie","lat":-29.58967619,"lon":139.05122862,"rwys":2,"ils":0,"index":5230360,"path":"e130s30/e139s30"
+,"runways":[
+{"len_m":925,"wid_m":35.05,"hdg":197,"surf":"Dirt","rwy1":"01","lat1":-29.59057985,"lon1":139.05241204,"rwy2":"19","lat2":-29.59856390,"lon2":139.04960484},
+{"len_m":763,"wid_m":42.06,"hdg":103,"surf":"Dirt","rwy1":"10","lat1":-29.59126195,"lon1":139.04972741,"rwy2":"28","lat2":-29.59285882,"lon2":139.05739567}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

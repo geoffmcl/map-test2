@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMMB","name":"Melbourne Moorabbin","lat":-37.97662700,"lon":145.09468100,"rwys":5,"ils":0,"index":5328128,"path":"e140s40/e145s38"
+,"runways":[
+{"len_m":1335,"wid_m":29.87,"hdg":176,"surf":"Asphalt","rwy1":"17L","lat1":-37.97176812,"lon1":145.09929840,"rwy2":"35R","lat2":-37.98377588,"lon2":145.10034760},
+{"len_m":1240,"wid_m":17.98,"hdg":176,"surf":"Asphalt","rwy1":"17R","lat1":-37.97198512,"lon1":145.09703206,"rwy2":"35L","lat2":-37.98313088,"lon2":145.09800594},
+{"len_m":1152,"wid_m":29.87,"hdg":142,"surf":"Asphalt","rwy1":"13L","lat1":-37.97178645,"lon1":145.09802767,"rwy2":"31R","lat2":-37.97997355,"lon2":145.10610433},
+{"len_m":1060,"wid_m":17.98,"hdg":142,"surf":"Asphalt","rwy1":"13R","lat1":-37.97435509,"lon1":145.09722241,"rwy2":"31L","lat2":-37.98188290,"lon2":145.10465159},
+{"len_m":813,"wid_m":17.98,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":-37.97971503,"lon1":145.09799006,"rwy2":"22","lat2":-37.97475297,"lon2":145.10479994}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":145,"surf":"Concrete","lat1":-37.97120910,"lon1":145.09447938}
+]
+,"radios":[
+{"type":"ATIS","freq":120.9,"desc":"ATIS"},
+{"type":"GND","freq":119.9,"desc":"GND"},
+{"type":"TWR","freq":123,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+}

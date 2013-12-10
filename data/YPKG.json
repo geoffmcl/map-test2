@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YPKG","name":"Kalgoorlie-boulder","lat":-30.78554881,"lon":121.45736240,"rwys":2,"ils":0,"index":4935369,"path":"e120s40/e121s31"
+,"runways":[
+{"len_m":1998,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":-30.78827859,"lon1":121.45446304,"rwy2":"29","lat2":-30.79459441,"lon2":121.47402328},
+{"len_m":1199,"wid_m":17.98,"hdg":5,"surf":"Asphalt","rwy1":"18","lat1":-30.79218507,"lon1":121.46075450,"rwy2":"36","lat2":-30.78141300,"lon2":121.46196900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.6,"desc":"AIR BP UNIC"},
+{"type":"CTAF","freq":122.1,"desc":"MELBOURNE CENTRE MULT"}
+]
+}

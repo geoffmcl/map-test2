@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LEBB","name":"Bilbao","lat":43.29795922,"lon":-002.91241654,"rwys":2,"ils":2,"index":2908496,"path":"w010n40/w003n43"
+,"runways":[
+{"len_m":2607,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":43.30634758,"lon1":-2.92494345,"rwy2":"30","lat2":43.29581990,"lon2":-2.89622820},
+{"len_m":2006,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":43.30334512,"lon1":-2.93702664,"rwy2":"28","lat2":43.30125456,"lon2":-2.91245863}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":4,"wid_m":4.88,"hdg":-2,"surf":"Transparent","lat1":43.30115817,"lon1":-2.93472692},
+{"rwy1":"H3","len_m":4,"wid_m":4.88,"hdg":-2,"surf":"Transparent","lat1":43.30125605,"lon1":-2.93579033},
+{"rwy1":"H7","len_m":6,"wid_m":6.10,"hdg":-2,"surf":"Transparent","lat1":43.30101363,"lon1":-2.92242398}
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"BILBAO ATIS"},
+{"type":"CLD","freq":121.7,"desc":"BILBAO CLR"},
+{"type":"GND","freq":121.7,"desc":"BILBAO GND"},
+{"type":"TWR","freq":118.5,"desc":"BILBAO TWR"},
+{"type":"TWR","freq":121.5,"desc":"BILBAO EMG"},
+{"type":"APP","freq":120.7,"desc":"BILBAO APP"},
+{"type":"DEP","freq":121.7,"desc":"BILBAO DEP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMGI","name":"Mungindi","lat":-28.96439482,"lon":149.05313792,"rwys":2,"ils":0,"index":5394240,"path":"e140s30/e149s29"
+,"runways":[
+{"len_m":1397,"wid_m":14.02,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":-28.96324805,"lon1":149.04763416,"rwy2":"30","lat2":-28.97061581,"lon2":149.05926769},
+{"len_m":649,"wid_m":86.87,"hdg":16,"surf":"Dirt","rwy1":"01","lat1":-28.97080153,"lon1":149.05337818,"rwy2":"19","lat2":-28.96519641,"lon2":149.05530724}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

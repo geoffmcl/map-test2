@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KENV","name":"Wendover","lat":40.71944400,"lon":-114.03278400,"rwys":2,"ils":0,"index":1073323,"path":"w120n40/w115n40"
+,"runways":[
+{"len_m":2438,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":40.72620300,"lon1":-114.04299200,"rwy2":"30","lat2":40.71068600,"lon2":-114.02257200},
+{"len_m":2437,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":40.71894200,"lon1":-114.04342500,"rwy2":"26","lat2":40.71895300,"lon2":-114.01457200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

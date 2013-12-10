@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EFRY","name":"Rayskala","lat":60.744027625,"lon":24.1129165,"rwys":4,"ils":0,"index":3351976,"path":"e020n60/e024n60"
+,"runways":[
+{"len_m":1269,"wid_m":17.98,"hdg":128,"surf":"Asphalt","rwy1":"12L","lat1":60.74691700,"lon1":24.10900600,"rwy2":"30R","lat2":60.73974700,"lon2":24.12710300},
+{"len_m":1019,"wid_m":17.98,"hdg":82,"surf":"Asphalt","rwy1":"08R","lat1":60.74270000,"lon1":24.10879700,"rwy2":"26L","lat2":60.74396900,"lon2":24.12731400},
+{"len_m":873,"wid_m":10.06,"hdg":86,"surf":"Asphalt","rwy1":"08L","lat1":60.74451203,"lon1":24.09978008,"rwy2":"26R","lat2":60.74493197,"lon2":24.11577592},
+{"len_m":481,"wid_m":10.06,"hdg":126,"surf":"Asphalt","rwy1":"12R","lat1":60.74601890,"lon1":24.10424674,"rwy2":"30L","lat2":60.74342510,"lon2":24.11130926}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.62,"desc":"ATIS"}
+]
+}

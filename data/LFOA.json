@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFOA","name":"Avord","lat":47.0557375,"lon":2.6318065,"rwys":1,"ils":1,"index":2990658,"path":"e000n40/e002n47"
+,"runways":[
+{"len_m":3503,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":47.04794700,"lon1":2.61176900,"rwy2":"24","lat2":47.06352800,"lon2":2.65184400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"3R7","name":"Jennings","lat":30.2423138333333,"lon":-92.671807,"rwys":3,"ils":0,"index":1433097,"path":"w100n30/w093n30"
+,"runways":[
+{"len_m":1501,"wid_m":22.86,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":30.24194400,"lon1":-92.68499700,"rwy2":"26","lat2":30.24472200,"lon2":-92.66972500},
+{"len_m":1092,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":30.24472200,"lon1":-92.67444700,"rwy2":"31","lat2":30.23777800,"lon2":-92.66638900},
+{"len_m":569,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":30.24492800,"lon1":-92.66764200,"rwy2":"35","lat2":30.23978900,"lon2":-92.66764200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.8,"desc":"LAKE CHARLES APP/DEP"}
+]
+}

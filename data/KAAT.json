@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAAT","name":"Alturas Muni","lat":41.48614526,"lon":-120.56313509,"rwys":2,"ils":0,"index":975065,"path":"w130n40/w121n41"
+,"runways":[
+{"len_m":1311,"wid_m":14.94,"hdg":148,"surf":"Asphalt","rwy1":"13","lat1":41.48781862,"lon1":-120.56981840,"rwy2":"31","lat2":41.47776538,"lon2":-120.56157624},
+{"len_m":958,"wid_m":17.98,"hdg":46,"surf":"Asphalt","rwy1":"03","lat1":41.48021578,"lon1":-120.56915725,"rwy2":"21","lat2":41.48617398,"lon2":-120.56086106}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":-120,"surf":"Asphalt","lat1":41.48559846,"lon1":-120.56375560}
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

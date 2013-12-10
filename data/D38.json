@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"D38","name":"Canandaigua","lat":42.912564,"lon":-77.3205415,"rwys":1,"ils":0,"index":1679674,"path":"w080n40/w078n42"
+,"runways":[
+{"len_m":977,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":42.91526400,"lon1":-77.32526400,"rwy2":"31","lat2":42.90986400,"lon2":-77.31581900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.55,"desc":"ROCHESTER APP/DEP"}
+]
+}

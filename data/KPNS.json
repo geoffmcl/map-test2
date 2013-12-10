@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KPNS","name":"Pensacola Rgnl","lat":30.47452700,"lon":-087.18816400,"rwys":2,"ils":2,"index":1515035,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":30.48290800,"lon1":-87.19065800,"rwy2":"35","lat2":30.46414700,"lon2":-87.18565300},
+{"len_m":2133,"wid_m":45.72,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":30.47133300,"lon1":-87.19593900,"rwy2":"26","lat2":30.47531400,"lon2":-87.17419700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.72,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP/DEP"},
+{"type":"APP","freq":119,"desc":"APP/DEP"},
+{"type":"APP","freq":120.05,"desc":"APP/DEP"}
+]
+}

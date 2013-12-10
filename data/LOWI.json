@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LOWI","name":"Innsbruck Kranebitten","lat":47.25782232,"lon":011.35269721,"rwys":1,"ils":2,"index":3138129,"path":"e010n40/e011n47"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":47.25882780,"lon1":11.33091400,"rwy2":"26","lat2":47.26162380,"lon2":11.35702000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":11,"surf":"Transparent","lat1":47.25504341,"lon1":11.34549130}
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":119.27,"desc":"APP"}
+]
+}

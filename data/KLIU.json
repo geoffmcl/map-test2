@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KLIU","name":"Littlefield Muni","lat":33.92354675,"lon":-102.38672925,"rwys":2,"ils":0,"index":1269498,"path":"w110n30/w103n33"
+,"runways":[
+{"len_m":1225,"wid_m":18.29,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":33.91999200,"lon1":-102.38845600,"rwy2":"19","lat2":33.93054200,"lon2":-102.38452500},
+{"len_m":765,"wid_m":12.19,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":33.92429200,"lon1":-102.38986700,"rwy2":"31","lat2":33.91936100,"lon2":-102.38406900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"LUBBOCK APP/DEP"}
+]
+}

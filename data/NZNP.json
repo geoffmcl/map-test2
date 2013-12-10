@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NZNP","name":"New Plymouth","lat":-39.0081591666667,"lon":174.177783333333,"rwys":3,"ils":0,"index":5803192,"path":"e170s40/e174s40"
+,"runways":[
+{"len_m":1346,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"05L","lat1":-39.01044400,"lon1":174.16986100,"rwy2":"23R","lat2":-39.00544400,"lon2":174.18401900},
+{"len_m":1191,"wid_m":39.93,"hdg":158,"surf":"Turf/grass","rwy1":"14","lat1":-39.00027800,"lon1":174.17916700,"rwy2":"32","lat2":-39.01027800,"lon2":174.18416700},
+{"len_m":999,"wid_m":29.87,"hdg":66,"surf":"Turf/grass","rwy1":"05R","lat1":-39.01305300,"lon1":174.16945000,"rwy2":"23L","lat2":-39.00945800,"lon2":174.18003600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"CTAF","freq":124.7,"desc":"CTAF"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":124.7,"desc":"TWR"},
+{"type":"TWR","freq":123.7,"desc":"CHRISTCHURCH CON"},
+{"type":"APP","freq":124.7,"desc":"APP"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+}

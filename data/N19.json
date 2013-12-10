@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"N19","name":"Aztec Muni","lat":36.833889,"lon":-108.029375,"rwys":2,"ils":0,"index":1171379,"path":"w110n30/w109n36"
+,"runways":[
+{"len_m":1316,"wid_m":15.24,"hdg":94,"surf":"Asphalt","rwy1":"08","lat1":36.83500000,"lon1":-108.03555600,"rwy2":"26","lat2":36.83416700,"lon2":-108.02083300},
+{"len_m":869,"wid_m":12.19,"hdg":52,"surf":"Asphalt","rwy1":"04","lat1":36.83083300,"lon1":-108.03444400,"rwy2":"22","lat2":36.83555600,"lon2":-108.02666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

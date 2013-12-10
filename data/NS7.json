@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"NS7","name":"Kincardine","lat":44.20208325,"lon":-81.60354175,"rwys":2,"ils":0,"index":1614217,"path":"w090n40/w082n44"
+,"runways":[
+{"len_m":1247,"wid_m":22.86,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":44.20444400,"lon1":-81.61333300,"rwy2":"31","lat2":44.19861100,"lon2":-81.60000000},
+{"len_m":626,"wid_m":15.24,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":44.20055600,"lon1":-81.60305600,"rwy2":"23","lat2":44.20472200,"lon2":-81.59777800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

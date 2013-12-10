@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DNZA","name":"Zaria","lat":11.130222,"lon":7.6857135,"rwys":1,"ils":0,"index":3070285,"path":"e000n10/e007n11"
+,"runways":[
+{"len_m":1664,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":11.12534700,"lon1":7.67990800,"rwy2":"24","lat2":11.13509700,"lon2":7.69151900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"TWR","freq":123.3,"desc":"TWR"}
+]
+}

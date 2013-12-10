@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YDRH","name":"Durham Downs","lat":-27.07881680,"lon":141.90516377,"rwys":2,"ils":0,"index":5263291,"path":"e140s30/e141s28"
+,"runways":[
+{"len_m":1066,"wid_m":66.14,"hdg":21,"surf":"Dirt","rwy1":"2","lat1":-27.07844550,"lon1":141.89747405,"rwy2":"20","lat2":-27.06950954,"lon2":141.90146861},
+{"len_m":1007,"wid_m":61.87,"hdg":81,"surf":"Dirt","rwy1":"07","lat1":-27.07700114,"lon1":141.89487671,"rwy2":"25","lat2":-27.07562239,"lon2":141.90491380}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

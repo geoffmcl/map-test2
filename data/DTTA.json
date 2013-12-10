@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"DTTA","name":"Carthage","lat":36.84470750,"lon":010.21733470,"rwys":2,"ils":3,"index":3121072,"path":"e010n30/e010n36"
+,"runways":[
+{"len_m":3194,"wid_m":45.11,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":36.83913100,"lon1":10.22375600,"rwy2":"19","lat2":36.86725000,"lon2":10.23141100},
+{"len_m":2852,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":36.85425600,"lon1":10.21769400,"rwy2":"29","lat2":36.84443300,"lon2":10.24724700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"TUNIS ATIS"},
+{"type":"GND","freq":121.9,"desc":"TUNIS GND"},
+{"type":"TWR","freq":118.1,"desc":"TUNIS TWR"},
+{"type":"APP","freq":121.2,"desc":"TUNIS APP"},
+{"type":"APP","freq":119.5,"desc":"TUNIS APP"}
+]
+}

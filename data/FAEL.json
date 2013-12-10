@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAEL","name":"East London","lat":-33.03791400,"lon":027.82828100,"rwys":2,"ils":2,"index":3395131,"path":"e020s40/e027s34"
+,"runways":[
+{"len_m":1940,"wid_m":45.72,"hdg":81,"surf":"Asphalt","rwy1":"11","lat1":-33.03725077,"lon1":27.81192800,"rwy2":"29","lat2":-33.03475523,"lon2":27.83248400},
+{"len_m":1588,"wid_m":45.72,"hdg":36,"surf":"Asphalt","rwy1":"06","lat1":-33.04205098,"lon1":27.82018915,"rwy2":"24","lat2":-33.03058102,"lon2":27.83036885}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"}
+]
+}

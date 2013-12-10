@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTPL","name":"Draughon Miller Central Texas Rgnl","lat":31.15262025,"lon":-97.40755475,"rwys":2,"ils":1,"index":1351242,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":1920,"wid_m":45.72,"hdg":162,"surf":"Asphalt","rwy1":"15","lat1":31.15999200,"lon1":-97.41216100,"rwy2":"33","lat2":31.14346100,"lon2":-97.40614200},
+{"len_m":1445,"wid_m":30.48,"hdg":27,"surf":"Asphalt","rwy1":"02","lat1":31.14773900,"lon1":-97.40946900,"rwy2":"20","lat2":31.15928900,"lon2":-97.40244700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+}

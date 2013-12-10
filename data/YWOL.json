@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YWOL","name":"Wollongong","lat":-34.56028832,"lon":150.79014824,"rwys":2,"ils":0,"index":5410267,"path":"e150s40/e150s35"
+,"runways":[
+{"len_m":1818,"wid_m":29.87,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":-34.55150777,"lon1":150.78537683,"rwy2":"34","lat2":-34.56762038,"lon2":150.78903831},
+{"len_m":1353,"wid_m":29.87,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":-34.56229034,"lon1":150.78172715,"rwy2":"27","lat2":-34.56317958,"lon2":150.79643375}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":127.3,"desc":"WOLLONGONG MULT"},
+{"type":"APP","freq":124.55,"desc":"SYDNEY APP"}
+]
+}

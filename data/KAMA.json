@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KAMA","name":"Rick Husband Amarillo Intl","lat":35.23172255,"lon":-101.70634669,"rwys":2,"ils":2,"index":1285961,"path":"w110n30/w102n35"
+,"runways":[
+{"len_m":4114,"wid_m":60.96,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":35.20512032,"lon1":-101.73270087,"rwy2":"22","lat2":35.23088768,"lon2":-101.70019913},
+{"len_m":2408,"wid_m":46.02,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":35.22969368,"lon1":-101.69689048,"rwy2":"31","lat2":35.21370032,"lon2":-101.67900752}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.15,"desc":"APP/DEP"}
+]
+}

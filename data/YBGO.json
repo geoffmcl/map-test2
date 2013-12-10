@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBGO","name":"Balgo Hill","lat":-20.14802879,"lon":127.97494460,"rwys":2,"ils":0,"index":5034359,"path":"e120s30/e127s21"
+,"runways":[
+{"len_m":1723,"wid_m":81.99,"hdg":146,"surf":"Dirt","rwy1":"15","lat1":-20.14663109,"lon1":127.97231148,"rwy2":"33","lat2":-20.15966465,"lon2":127.98132759},
+{"len_m":873,"wid_m":81.08,"hdg":40,"surf":"Dirt","rwy1":"4","lat1":-20.14799399,"lon1":127.97325502,"rwy2":"22","lat2":-20.14200814,"lon2":127.97870055}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+}

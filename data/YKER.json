@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YKER","name":"Kerang","lat":-35.74673594,"lon":143.93441062,"rwys":2,"ils":0,"index":5295507,"path":"e140s40/e143s36"
+,"runways":[
+{"len_m":1066,"wid_m":17.98,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":-35.74787200,"lon1":143.93418534,"rwy2":"32","lat2":-35.75611600,"lon2":143.94025400},
+{"len_m":787,"wid_m":24.99,"hdg":59,"surf":"Dirt","rwy1":"05","lat1":-35.75310502,"lon1":143.93821260,"rwy2":"23","lat2":-35.74949115,"lon2":143.94570050}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

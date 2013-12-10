@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDAC","name":"Altenburg Nobitz","lat":50.97969100,"lon":012.51478400,"rwys":1,"ils":1,"index":3154746,"path":"e010n50/e012n50"
+,"runways":[
+{"len_m":2185,"wid_m":45.11,"hdg":40,"surf":"Concrete","rwy1":"04","lat1":50.97436900,"lon1":12.49622100,"rwy2":"22","lat2":50.98926200,"lon2":12.51650600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":123.57,"desc":"TWR"},
+{"type":"APP","freq":132.3,"desc":"MUNCHEN RADAR"},
+{"type":"APP","freq":126.17,"desc":"MUNCHEN RADAR"}
+]
+}

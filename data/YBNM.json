@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YBNM","name":"Benmara","lat":-17.91382800,"lon":136.90252700,"rwys":2,"ils":0,"index":5181959,"path":"e130s20/e136s18"
+,"runways":[
+{"len_m":1325,"wid_m":67.97,"hdg":93,"surf":"Dirt","rwy1":"09","lat1":-17.91820916,"lon1":136.89086775,"rwy2":"27","lat2":-17.91903411,"lon2":136.90335271},
+{"len_m":1314,"wid_m":46.94,"hdg":3,"surf":"Dirt","rwy1":"18","lat1":-17.93049798,"lon1":136.89743661,"rwy2":"36","lat2":-17.91864317,"lon2":136.89824831}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

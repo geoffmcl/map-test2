@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YTRE","name":"Taree","lat":-31.89056082,"lon":152.50910224,"rwys":2,"ils":0,"index":5443202,"path":"e150s40/e152s32"
+,"runways":[
+{"len_m":1506,"wid_m":29.87,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":-31.89283072,"lon1":152.50964627,"rwy2":"22","lat2":-31.88322942,"lon2":152.52091473},
+{"len_m":684,"wid_m":49.99,"hdg":138,"surf":"Turf/grass","rwy1":"12","lat1":-31.88404169,"lon1":152.50763083,"rwy2":"30","lat2":-31.88863500,"lon2":152.51247000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.1,"desc":"TAREE MULT"},
+{"type":"TWR","freq":120.55,"desc":"BRISBANE CNTR"}
+]
+}

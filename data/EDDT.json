@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDDT","name":"Berlin Tegel","lat":52.55463000,"lon":013.29331000,"rwys":2,"ils":4,"index":3171233,"path":"e010n50/e013n52"
+,"runways":[
+{"len_m":3021,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08L","lat1":52.55764000,"lon1":13.26576000,"rwy2":"26R","lat2":52.56195000,"lon2":13.30975000},
+{"len_m":2421,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08R","lat1":52.55668000,"lon1":13.27499000,"rwy2":"26L","lat2":52.56013000,"lon2":13.31025000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Concrete","lat1":52.56144400,"lon1":13.27527300},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Concrete","lat1":52.55670700,"lon1":13.29304300}
+]
+,"radios":[
+{"type":"ATIS","freq":125.9,"desc":"Berlin Tegel ATIS"},
+{"type":"GND","freq":121.92,"desc":"Tegel Delivery"},
+{"type":"GND","freq":121.75,"desc":"Tegel Ground (when Delivery is in use)"},
+{"type":"TWR","freq":124.52,"desc":"Tegel Tower"},
+{"type":"APP","freq":121.12,"desc":"Berlin Director"},
+{"type":"APP","freq":126.42,"desc":"Bremen Radar (Berlin Arrival South)"},
+{"type":"APP","freq":119.7,"desc":"Bremen Radar (Berlin Arrival)"},
+{"type":"DEP","freq":120.62,"desc":"Bremen Radar (Berlin Departure)"}
+]
+}

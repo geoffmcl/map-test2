@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"EDLD","name":"Dinslaken Schwarze Heide","lat":51.61502000,"lon":006.86292100,"rwys":3,"ils":0,"index":3056483,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":1004,"wid_m":54.86,"hdg":85,"surf":"Turf/grass","rwy1":"8C","lat1":51.61661661,"lon1":6.85833136,"rwy2":"26C","lat2":51.61739598,"lon2":6.87277287},
+{"len_m":1505,"wid_m":29.87,"hdg":85,"surf":"Asphalt","rwy1":"8","lat1":51.61556278,"lon1":6.85044096,"rwy2":"26","lat2":51.61673922,"lon2":6.87209704},
+{"len_m":1003,"wid_m":54.86,"hdg":85,"surf":"Turf/grass","rwy1":"8L","lat1":51.61710802,"lon1":6.85826344,"rwy2":"26R","lat2":51.61789237,"lon2":6.87270214}
+]
+,"helipads":[
+{"rwy1":"H","len_m":24,"wid_m":24.99,"hdg":6,"surf":"Concrete","lat1":51.61536543,"lon1":6.86107601}
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"Dinslaken info"}
+]
+}

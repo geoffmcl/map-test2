@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"Y23","name":"Chetek Muni Southworth","lat":45.30696825,"lon":-91.63700275,"rwys":2,"ils":0,"index":1450449,"path":"w100n40/w092n45"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":45.31015000,"lon1":-91.63600000,"rwy2":"35","lat2":45.30086400,"lon2":-91.63475000},
+{"len_m":335,"wid_m":21.34,"hdg":74,"surf":"Turf/grass","rwy1":"07","lat1":45.30803100,"lon1":-91.64069200,"rwy2":"25","lat2":45.30882800,"lon2":-91.63656900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CJY3","name":"Tisdale","lat":52.83752800,"lon":-104.06652800,"rwys":3,"ils":0,"index":1237939,"path":"w110n50/w105n52"
+,"runways":[
+{"len_m":910,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":52.83991731,"lon1":-104.07031128,"rwy2":"32","lat2":52.83314069,"lon2":-104.06274472},
+{"len_m":673,"wid_m":49.07,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":52.83462500,"lon1":-104.07221752,"rwy2":"26","lat2":52.83462500,"lon2":-104.06222848},
+{"len_m":606,"wid_m":60.96,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":52.84024841,"lon1":-104.07176360,"rwy2":"35","lat2":52.83479852,"lon2":-104.07176360}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+}

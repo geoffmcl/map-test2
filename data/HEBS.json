@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"HEBS","name":"Beni Suef","lat":29.20832225,"lon":31.0165555,"rwys":2,"ils":0,"index":3464648,"path":"e030n20/e031n29"
+,"runways":[
+{"len_m":3539,"wid_m":46.33,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":29.18200000,"lon1":31.01627800,"rwy2":"19","lat2":29.21358300,"lon2":31.02168300},
+{"len_m":2979,"wid_m":39.93,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":29.21129200,"lon1":31.00146100,"rwy2":"24","lat2":29.22641400,"lon2":31.02680000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127.1,"desc":"GND"},
+{"type":"TWR","freq":127.1,"desc":"TWR"}
+]
+}

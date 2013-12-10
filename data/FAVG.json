@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"FAVG","name":"Virginia","lat":-29.77027300,"lon":031.05727000,"rwys":1,"ils":0,"index":3460872,"path":"e030s30/e031s30"
+,"runways":[
+{"len_m":928,"wid_m":34.14,"hdg":27,"surf":"Asphalt","rwy1":"05","lat1":-29.77437296,"lon1":31.05629041,"rwy2":"23","lat2":-29.76696704,"lon2":31.06077359}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"DURBAN APP"}
+]
+}

@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGKP","name":"Karpathos","lat":35.42352680,"lon":027.14740370,"rwys":1,"ils":0,"index":3399512,"path":"e020n30/e027n35"
+,"runways":[
+{"len_m":2398,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":35.42751100,"lon1":27.13510600,"rwy2":"30","lat2":35.41530300,"lon2":27.15690800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.2,"desc":"INFO"},
+{"type":"TWR","freq":122.1,"desc":"INFO"}
+]
+}

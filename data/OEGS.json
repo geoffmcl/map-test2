@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OEGS","name":"Gassim","lat":26.3028235,"lon":43.773911,"rwys":1,"ils":1,"index":3661075,"path":"e040n20/e043n26"
+,"runways":[
+{"len_m":2996,"wid_m":44.81,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":26.31483300,"lon1":43.76701400,"rwy2":"33","lat2":26.29081400,"lon2":43.78080800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":131.5,"desc":"SAUDIA RDO"},
+{"type":"TWR","freq":118,"desc":"TWR"}
+]
+}

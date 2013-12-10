@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SKRG","name":"Jose Maria Cordova","lat":6.16728470333333,"lon":-75.4249882166667,"rwys":1,"ils":1,"index":1710092,"path":"w080n00/w076n06"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":6.18035419,"lon1":-75.42322500,"rwy2":"36","lat2":6.14871019,"lon2":-75.42301400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":-75,"surf":"Concrete","lat1":6.16875653,"lon1":-75.42995946},
+{"rwy1":"H2","len_m":35,"wid_m":35.05,"hdg":-75,"surf":"Concrete","lat1":6.16856539,"lon1":-75.42188569}
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.2,"desc":"MEDELLIN FIS"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"MEDELLIN APP"}
+]
+}

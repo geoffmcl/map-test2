@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"CYPW","name":"Powell River","lat":49.83403200,"lon":-124.49741100,"rwys":1,"ils":0,"index":910066,"path":"w130n40/w125n49"
+,"runways":[
+{"len_m":1092,"wid_m":46.02,"hdg":118,"surf":"Asphalt","rwy1":"09","lat1":49.83472200,"lon1":-124.50555000,"rwy2":"27","lat2":49.83000400,"lon2":-124.49223200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"MF"},
+{"type":"APP","freq":123.7,"desc":"COMOX TERMINAL"}
+]
+}

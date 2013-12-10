@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LFRO","name":"Lannion","lat":48.75667600,"lon":-003.47077200,"rwys":1,"ils":2,"index":2892466,"path":"w010n40/w004n48"
+,"runways":[
+{"len_m":1694,"wid_m":45.11,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":48.75660900,"lon1":-3.48273500,"rwy2":"29","lat2":48.75200900,"lon2":-3.46075900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.4,"desc":"LANNION MULT"},
+{"type":"TWR","freq":118.4,"desc":"LANNION TWR"},
+{"type":"APP","freq":125.5,"desc":"BREST_CONTROL APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KCKP","name":"Cherokee Muni","lat":42.73212225,"lon":-95.556098,"rwys":2,"ils":0,"index":1384745,"path":"w100n40/w096n42"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":182,"surf":"Concrete","rwy1":"18","lat1":42.73633600,"lon1":-95.55530600,"rwy2":"36","lat2":42.72537500,"lon2":-95.55601400},
+{"len_m":603,"wid_m":30.48,"hdg":10,"surf":"Turf/grass","rwy1":"01","lat1":42.73072200,"lon1":-95.55723900,"rwy2":"19","lat2":42.73605600,"lon2":-95.55583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

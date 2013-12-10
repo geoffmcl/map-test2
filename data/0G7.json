@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"0G7","name":"Finger Lakes Rgnl","lat":42.88368825,"lon":-76.78051475,"rwys":2,"ils":0,"index":1696056,"path":"w080n40/w077n42"
+,"runways":[
+{"len_m":1153,"wid_m":22.86,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":42.87792500,"lon1":-76.78159200,"rwy2":"19","lat2":42.88827800,"lon2":-76.78272800},
+{"len_m":564,"wid_m":18.29,"hdg":94,"surf":"Turf/grass","rwy1":"10","lat1":42.88445600,"lon1":-76.78231400,"rwy2":"28","lat2":42.88409400,"lon2":-76.77542500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.55,"desc":"ROCHESTER APP"},
+{"type":"APP","freq":126.12,"desc":"SYRACUSE APP DEP"}
+]
+}

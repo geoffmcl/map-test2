@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMER","name":"Merimbula","lat":-36.90952087,"lon":149.90191244,"rwys":1,"ils":0,"index":5393731,"path":"e140s40/e149s37"
+,"runways":[
+{"len_m":1599,"wid_m":29.87,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":-36.91285489,"lon1":149.89661935,"rwy2":"21","lat2":-36.90089561,"lon2":149.90663175}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.8,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"MERIMBULA MULT"}
+]
+}

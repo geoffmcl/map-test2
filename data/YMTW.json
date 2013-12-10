@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YMTW","name":"Martins Well","lat":-31.47539758,"lon":139.11305096,"rwys":2,"ils":0,"index":5230240,"path":"e130s40/e139s32"
+,"runways":[
+{"len_m":1169,"wid_m":38.10,"hdg":156,"surf":"Dirt","rwy1":"15","lat1":-31.46575253,"lon1":139.10710752,"rwy2":"33","lat2":-31.47544833,"lon2":139.11194688},
+{"len_m":721,"wid_m":17.98,"hdg":111,"surf":"Dirt","rwy1":"11","lat1":-31.47142964,"lon1":139.10425048,"rwy2":"29","lat2":-31.47383825,"lon2":139.11130185}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

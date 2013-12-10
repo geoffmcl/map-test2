@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LGKL","name":"Kalamata","lat":37.07015990,"lon":022.02193640,"rwys":1,"ils":0,"index":3317696,"path":"e020n30/e022n37"
+,"runways":[
+{"len_m":2820,"wid_m":45.11,"hdg":169,"surf":"Asphalt","rwy1":"17R","lat1":37.08081400,"lon1":22.02262500,"rwy2":"35L","lat2":37.05582500,"lon2":22.02842200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":120.75,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+}

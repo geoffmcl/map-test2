@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"KTMA","name":"Henry Tift Myers","lat":31.429231,"lon":-83.4877783333333,"rwys":3,"ils":1,"index":1580634,"path":"w090n30/w084n31"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":31.43369400,"lon1":-83.49471900,"rwy2":"33","lat2":31.42067800,"lon2":-83.48571900},
+{"len_m":1159,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":31.43198300,"lon1":-83.49220300,"rwy2":"28","lat2":31.43117500,"lon2":-83.48004200},
+{"len_m":1033,"wid_m":22.86,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":31.42494200,"lon1":-83.48980600,"rwy2":"21","lat2":31.43291400,"lon2":-83.48418100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.52,"desc":"VALDOSTA APP/DEP"},
+{"type":"APP","freq":126.6,"desc":"VALDOSTA APP/DEP"}
+]
+}

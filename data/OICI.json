@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"OICI","name":"Ilam","lat":33.586607,"lon":46.4047805,"rwys":1,"ils":0,"index":3710689,"path":"e040n30/e046n33"
+,"runways":[
+{"len_m":2800,"wid_m":45.11,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":33.59655300,"lon1":46.39549400,"rwy2":"32","lat2":33.57666100,"lon2":46.41406700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.6,"desc":"INFO"},
+{"type":"TWR","freq":118.8,"desc":"INFO"}
+]
+}

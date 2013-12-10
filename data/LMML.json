@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LMML","name":"La Valette Luqa","lat":35.85359814,"lon":014.47736448,"rwys":2,"ils":2,"index":3186545,"path":"e010n30/e014n35"
+,"runways":[
+{"len_m":3545,"wid_m":60.05,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":35.85645167,"lon1":14.47886019,"rwy2":"32","lat2":35.83396873,"lon2":14.50675119},
+{"len_m":2375,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"6","lat1":35.84752481,"lon1":14.46016449,"rwy2":"24","lat2":35.85996298,"lon2":14.48156742}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CLD","freq":133.9,"desc":"APRON"},
+{"type":"TWR","freq":135.1,"desc":"TWR"},
+{"type":"APP","freq":128.15,"desc":"APP"}
+]
+}

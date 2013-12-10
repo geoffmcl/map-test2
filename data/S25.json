@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"S25","name":"Watford City Muni","lat":47.79576675,"lon":-103.2536555,"rwys":2,"ils":0,"index":1254002,"path":"w110n40/w104n47"
+,"runways":[
+{"len_m":1332,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":47.80000000,"lon1":-103.26000000,"rwy2":"30","lat2":47.79166700,"lon2":-103.24722200},
+{"len_m":707,"wid_m":45.72,"hdg":189,"surf":"Turf/grass","rwy1":"18","lat1":47.79884011,"lon1":-103.25293522,"rwy2":"36","lat2":47.79255989,"lon2":-103.25446478}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+}

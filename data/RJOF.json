@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"RJOF","name":"Hofu","lat":34.03428475,"lon":131.54697925,"rwys":2,"ils":0,"index":5103362,"path":"e130n30/e131n34"
+,"runways":[
+{"len_m":1483,"wid_m":45.11,"hdg":108,"surf":"Concrete","rwy1":"12","lat1":34.03802800,"lon1":131.53713900,"rwy2":"30","lat2":34.03375000,"lon2":131.55236100},
+{"len_m":1173,"wid_m":60.05,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":34.02738900,"lon1":131.54927800,"rwy2":"19","lat2":34.03797200,"lon2":131.54913900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":133,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+}

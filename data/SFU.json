@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"SFU","name":"Safia","lat":-09.59400010,"lon":148.63876719,"rwys":1,"ils":0,"index":5379101,"path":"e140s10/e148s10"
+,"runways":[
+{"len_m":886,"wid_m":49.99,"hdg":119,"surf":"Turf/grass","rwy1":"11","lat1":-9.59086285,"lon1":148.63226197,"rwy2":"29","lat2":-9.59475313,"lon2":148.63932153}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.75,"desc":"SFA ATIS"},
+{"type":"GND","freq":119.5,"desc":"Safia GND"},
+{"type":"TWR","freq":124.6,"desc":"Safia TWR"}
+]
+}

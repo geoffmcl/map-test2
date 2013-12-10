@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"YGDI","name":"Goondiwindi","lat":-28.51997583,"lon":150.32564052,"rwys":2,"ils":0,"index":5410649,"path":"e150s30/e150s29"
+,"runways":[
+{"len_m":1337,"wid_m":18.90,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":-28.52696899,"lon1":150.31553039,"rwy2":"22","lat2":-28.51800300,"lon2":150.32468400},
+{"len_m":912,"wid_m":85.04,"hdg":131,"surf":"Dirt","rwy1":"12","lat1":-28.52039378,"lon1":150.31738766,"rwy2":"30","lat2":-28.52584355,"lon2":150.32437673}
+]
+,"helipads":[
+{"rwy1":"H15","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Concrete","lat1":-28.52025787,"lon1":150.32402779}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+}

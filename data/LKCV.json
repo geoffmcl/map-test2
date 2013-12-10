@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LKCV","name":"Caslav","lat":49.94179227,"lon":015.38566543,"rwys":2,"ils":0,"index":3203833,"path":"e010n40/e015n49"
+,"runways":[
+{"len_m":1600,"wid_m":49.99,"hdg":137,"surf":"Turf/grass","rwy1":"13R","lat1":49.94430215,"lon1":15.37360125,"rwy2":"31L","lat2":49.93370974,"lon2":15.38869746},
+{"len_m":2404,"wid_m":60.05,"hdg":137,"surf":"Concrete","rwy1":"13L","lat1":49.94751235,"lon1":15.37056589,"rwy2":"31R","lat2":49.93163179,"lon2":15.39328837}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"TWR","freq":133,"desc":"TWR"},
+{"type":"APP","freq":123.67,"desc":"APP"}
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"LHSA","name":"Szentkiralyszabadja","lat":47.076168,"lon":17.9672585,"rwys":2,"ils":0,"index":3236419,"path":"e010n40/e017n47"
+,"runways":[
+{"len_m":1986,"wid_m":60.05,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":47.08619400,"lon1":17.96377800,"rwy2":"34","lat2":47.06950000,"lon2":17.97311100},
+{"len_m":1636,"wid_m":60.96,"hdg":159,"surf":"Dirt","rwy1":"16R","lat1":47.08138600,"lon1":17.96231400,"rwy2":"34L","lat2":47.06759200,"lon2":17.96983100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129,"desc":"TWR"},
+{"type":"TWR","freq":127,"desc":"TWR"}
+]
+}

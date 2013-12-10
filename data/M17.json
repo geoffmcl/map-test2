@@ -1,0 +1,12 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
+,"type":1,"icao":"M17","name":"Bolivar Muni","lat":37.5961065,"lon":-93.3476985,"rwys":1,"ils":0,"index":1417186,"path":"w100n30/w094n37"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":37.60159400,"lon1":-93.34736900,"rwy2":"36","lat2":37.59061900,"lon2":-93.34802800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.95,"desc":"SPRINGFIELD APP/DEP"}
+]
+}
