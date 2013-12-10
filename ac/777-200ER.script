@@ -1,0 +1,62 @@
+# script temp777-200ER.script 2013-07-25 14:54:13 UTC
+# 42 deletions
+
+LOAD C:\FG\fgdata\Aircraft\777\Models\777-200ER.ac
+
+# lights
+DELETE LHLND.spot 0 0
+DELETE CTRLND.spot 0 0
+DELETE RHLND.spot 0 0
+DELETE CTRLND.flare 0 0
+DELETE LHLND.flare 0 0
+DELETE RHLND.flare 0 0
+
+# front wheels
+DELETE FLdamper 0 0
+DELETE FUdamper 0 0
+DELETE FrtGear 0 0
+DELETE FrtGear.lines 0 0
+DELETE FrtStrut 0 0
+DELETE FrtWheel 0 0
+
+# left wheels
+DELETE LBdamper 0 0
+DELETE LBsupport 0 0
+DELETE LHwheel.1 0 0
+DELETE LHwheel.2 0 0
+DELETE LHwheel.3 0 0
+DELETE LUdamper 0 0
+DELETE LUsupport 0 0
+DELETE Laxle 0 0
+DELETE Lgear 0 0
+DELETE Lgear.tubing 0 0
+DELETE Llbrace 0 0
+DELETE Llbrace1 0 0
+DELETE Llockbrace 0 0
+DELETE Llockbrace.1 0 0
+DELETE Lstrut 0 0
+
+# right wheels
+DELETE RBdamper 0 0
+DELETE RBsupport 0 0
+DELETE RHwheel.1 0 0
+DELETE RHwheel.2 0 0
+DELETE RHwheel.3 0 0
+DELETE RUdamper 0 0
+DELETE RUsupport 0 0
+DELETE Raxle 0 0
+DELETE Rgear 0 0
+DELETE Rgear.tubing 0 0
+DELETE Rlbrace 0 0
+DELETE Rlbrace1 0 0
+DELETE Rlockbrace 0 0
+DELETE Rlockbrace.1 0 0
+DELETE Rstrut 0 0
+
+WRITE 777-200ER.ac
+
+RUN assimp export 777-200ER.ac 777-200ER.js -fjs -ptv -gn -l -v -lo -tri
+
+# EXIT
+
+# eof

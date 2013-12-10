@@ -1,0 +1,18 @@
+# script tempa261.script 2013-07-25 14:25:26 UTC
+# 9 deletions
+
+LOAD C:\FG\fgdata\Aircraft\A-26-Invader\Models\a26.ac
+
+DELETE roueA 0 0
+DELETE roueD 0 0
+DELETE roueG 0 0
+DELETE axeAB 0 0
+DELETE axeAH 0 0
+DELETE axeDB 0 0
+DELETE axeDH 0 0
+DELETE axeGB 0 0
+DELETE axeGH 0 0
+
+RUN assimp export c:\FG\18\build-assimp\data\a26.ac a26.js -fjs -ptv -gn -l -v -lo -tri
+
+# eof
