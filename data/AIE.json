@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AIE","name":"Aiome","lat":-05.14088800,"lon":144.73158100,"rwys":1,"ils":0,"index":5313845,"path":"e140s10/e144s06"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AIE","name":"Aiome","lat":-5.14088800,"lon":144.73158100,"rwys":1,"ils":0,"index":5313845,"path":"e140s10/e144s06"
 ,"runways":[
 {"len_m":995,"wid_m":60.05,"hdg":15,"surf":"Dirt","rwy1":"15","lat1":-5.14585421,"lon1":144.73087100,"rwy2":"33","lat2":-5.13716379,"lon2":144.73320900}
 ]

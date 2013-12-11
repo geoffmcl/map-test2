@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LOWZ","name":"Zell Am See","lat":47.29222913,"lon":012.78768883,"rwys":3,"ils":0,"index":3154515,"path":"e010n40/e012n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LOWZ","name":"Zell Am See","lat":47.29222913,"lon":12.78768883,"rwys":3,"ils":0,"index":3154515,"path":"e010n40/e012n47"
 ,"runways":[
 {"len_m":356,"wid_m":49.99,"hdg":255,"surf":"Turf/grass","rwy1":"26R","lat1":47.29489002,"lon1":12.79028247,"rwy2":"08L","lat2":47.29410998,"lon2":12.78571753},
 {"len_m":301,"wid_m":49.99,"hdg":75,"surf":"Turf/grass","rwy1":"08R","lat1":47.28996627,"lon1":12.79119075,"rwy2":"26L","lat2":47.29062855,"lon2":12.79504947},

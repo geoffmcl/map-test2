@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KSLK","name":"Adirondack Rgnl","lat":44.38027200,"lon":-074.20412400,"rwys":2,"ils":1,"index":1728923,"path":"w080n40/w075n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KSLK","name":"Adirondack Rgnl","lat":44.38027200,"lon":-74.20412400,"rwys":2,"ils":1,"index":1728923,"path":"w080n40/w075n44"
 ,"runways":[
 {"len_m":2003,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"05","lat1":44.38020800,"lon1":-74.21327500,"rwy2":"23","lat2":44.39499400,"lon2":-74.19889200},
 {"len_m":1218,"wid_m":30.48,"hdg":79,"surf":"Asphalt","rwy1":"09","lat1":44.38050300,"lon1":-74.21385000,"rwy2":"27","lat2":44.38257200,"lon2":-74.19883100}

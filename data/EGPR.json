@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGPR","name":"Barra","lat":57.02538563,"lon":-007.44950997,"rwys":3,"ils":0,"index":2827458,"path":"w010n50/w008n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGPR","name":"Barra","lat":57.02538563,"lon":-7.44950997,"rwys":3,"ils":0,"index":2827458,"path":"w010n50/w008n57"
 ,"runways":[
 {"len_m":726,"wid_m":46.02,"hdg":139,"surf":"Dirt","rwy1":"15","lat1":57.02532800,"lon1":-7.44707988,"rwy2":"33","lat2":57.02036700,"lon2":-7.43930488},
 {"len_m":798,"wid_m":60.05,"hdg":66,"surf":"Dirt","rwy1":"07","lat1":57.02472500,"lon1":-7.44681589,"rwy2":"25","lat2":57.02763300,"lon2":-7.43479889},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EHBK","name":"Maastricht","lat":50.91230400,"lon":005.76963900,"rwys":1,"ils":1,"index":3040059,"path":"e000n50/e005n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EHBK","name":"Maastricht","lat":50.91230400,"lon":5.76963900,"rwys":1,"ils":1,"index":3040059,"path":"e000n50/e005n50"
 ,"runways":[
 {"len_m":2501,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":50.90183600,"lon1":5.76005000,"rwy2":"21","lat2":50.92077500,"lon2":5.77922800}
 ]

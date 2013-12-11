@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIRK","name":"Reykjavik","lat":64.13058123,"lon":-021.93379856,"rwys":3,"ils":2,"index":2598536,"path":"w030n60/w022n64"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIRK","name":"Reykjavik","lat":64.13058123,"lon":-21.93379856,"rwys":3,"ils":2,"index":2598536,"path":"w030n60/w022n64"
 ,"runways":[
 {"len_m":1567,"wid_m":45.11,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":64.12195850,"lon1":-21.93619700,"rwy2":"19","lat2":64.13596750,"lon2":-21.93885367},
 {"len_m":855,"wid_m":29.87,"hdg":46,"surf":"Asphalt","rwy1":"06","lat1":64.12724050,"lon1":-21.94663000,"rwy2":"24","lat2":64.13253550,"lon2":-21.93390479},

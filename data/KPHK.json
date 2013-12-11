@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPHK","name":"Palm Beach Co Glades","lat":26.78466200,"lon":-080.69166600,"rwys":2,"ils":0,"index":1629489,"path":"w090n20/w081n26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPHK","name":"Palm Beach Co Glades","lat":26.78466200,"lon":-80.69166600,"rwys":2,"ils":0,"index":1629489,"path":"w090n20/w081n26"
 ,"runways":[
 {"len_m":1255,"wid_m":22.86,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":26.79066400,"lon1":-80.69406100,"rwy2":"35","lat2":26.77940800,"lon2":-80.69265300},
 {"len_m":491,"wid_m":30.48,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":26.78500000,"lon1":-80.69527800,"rwy2":"25","lat2":26.78694400,"lon2":-80.69083300}

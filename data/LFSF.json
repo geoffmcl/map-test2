@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFSF","name":"Metz Frescaty","lat":49.07881550,"lon":006.12459610,"rwys":1,"ils":2,"index":3056320,"path":"e000n40/e006n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFSF","name":"Metz Frescaty","lat":49.07881550,"lon":6.12459610,"rwys":1,"ils":2,"index":3056320,"path":"e000n40/e006n49"
 ,"runways":[
 {"len_m":2400,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":49.06166400,"lon1":6.12996900,"rwy2":"19","lat2":49.08293300,"lon2":6.13555000}
 ]

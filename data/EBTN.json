@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBTN","name":"Goetsenhoven","lat":50.76600300,"lon":004.95777700,"rwys":2,"ils":0,"index":3023667,"path":"e000n50/e004n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBTN","name":"Goetsenhoven","lat":50.76600300,"lon":4.95777700,"rwys":2,"ils":0,"index":3023667,"path":"e000n50/e004n50"
 ,"runways":[
 {"len_m":781,"wid_m":29.87,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":50.76846067,"lon1":4.95681308,"rwy2":"35","lat2":50.76154533,"lon2":4.95874092},
 {"len_m":722,"wid_m":29.87,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":50.76338327,"lon1":4.95334152,"rwy2":"24","lat2":50.76662273,"lon2":4.96221248}

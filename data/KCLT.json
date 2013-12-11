@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCLT","name":"Charlotte Douglas Intl","lat":35.22351211,"lon":-080.94423128,"rwys":4,"ils":7,"index":1630024,"path":"w090n30/w081n35"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCLT","name":"Charlotte Douglas Intl","lat":35.22351211,"lon":-80.94423128,"rwys":4,"ils":7,"index":1630024,"path":"w090n30/w081n35"
 ,"runways":[
 {"len_m":2743,"wid_m":46.02,"hdg":175,"surf":"Concrete","rwy1":"18R","lat1":35.22537349,"lon1":-80.96749241,"rwy2":"36L","lat2":35.20070963,"lon2":-80.96537061},
 {"len_m":3048,"wid_m":46.02,"hdg":175,"surf":"Concrete","rwy1":"18C","lat1":35.22748763,"lon1":-80.95324341,"rwy2":"36C","lat2":35.20008263,"lon2":-80.95088542},

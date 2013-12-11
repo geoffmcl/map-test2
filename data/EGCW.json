@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGCW","name":"Welshpool","lat":52.63206707,"lon":-003.15044670,"rwys":1,"ils":0,"index":2892715,"path":"w010n50/w004n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGCW","name":"Welshpool","lat":52.63206707,"lon":-3.15044670,"rwys":1,"ils":0,"index":2892715,"path":"w010n50/w004n52"
 ,"runways":[
 {"len_m":1019,"wid_m":17.98,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":52.62486583,"lon1":-3.15760384,"rwy2":"22","lat2":52.63238349,"lon2":-3.14900048}
 ]

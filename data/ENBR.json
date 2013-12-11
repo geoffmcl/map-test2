@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENBR","name":"Bergen Lufthavn Flesland","lat":60.29248751,"lon":005.22707297,"rwys":1,"ils":2,"index":3040656,"path":"e000n60/e005n60"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENBR","name":"Bergen Lufthavn Flesland","lat":60.29248751,"lon":5.22707297,"rwys":1,"ils":2,"index":3040656,"path":"e000n60/e005n60"
 ,"runways":[
 {"len_m":2990,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":60.30662494,"lon1":5.21370074,"rwy2":"35","lat2":60.28015100,"lon2":5.22257900}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WT84","name":"Calang (local Gov)","lat":04.61427182,"lon":095.62012276,"rwys":1,"ils":0,"index":4511652,"path":"e090n00/e095n04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WT84","name":"Calang (local Gov)","lat":4.61427182,"lon":95.62012276,"rwys":1,"ils":0,"index":4511652,"path":"e090n00/e095n04"
 ,"runways":[
 {"len_m":799,"wid_m":24.99,"hdg":129,"surf":"Gravel","rwy1":"13","lat1":4.61675854,"lon1":95.61778875,"rwy2":"31","lat2":4.61213026,"lon2":95.62332245}
 ]

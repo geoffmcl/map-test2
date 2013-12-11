@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ42","name":"Kerapak (maf)","lat":00.09373590,"lon":111.90821356,"rwys":1,"ils":0,"index":4773511,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ42","name":"Kerapak (maf)","lat":0.09373590,"lon":111.90821356,"rwys":1,"ils":0,"index":4773511,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":426,"wid_m":20.12,"hdg":129,"surf":"Turf/grass","rwy1":"13","lat1":0.09503021,"lon1":111.90701313,"rwy2":"31","lat2":0.09256179,"lon2":111.90995487}
 ]

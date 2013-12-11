@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KFLL","name":"Fort Lauderdale Hollywood Intl","lat":26.07055700,"lon":-080.15639500,"rwys":3,"ils":3,"index":1629443,"path":"w090n20/w081n26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KFLL","name":"Fort Lauderdale Hollywood Intl","lat":26.07055700,"lon":-80.15639500,"rwys":3,"ils":3,"index":1629443,"path":"w090n20/w081n26"
 ,"runways":[
 {"len_m":2743,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09L","lat1":26.07694700,"lon1":-80.16653600,"rwy2":"27R","lat2":26.07679200,"lon2":-80.13911900},
 {"len_m":2112,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":26.07890300,"lon1":-80.16038900,"rwy2":"31","lat2":26.06533600,"lon2":-80.14555600},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LTBA","name":"Istanbul Ataturk","lat":40.98111600,"lon":028.81795100,"rwys":3,"ils":5,"index":3416251,"path":"e020n40/e028n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LTBA","name":"Istanbul Ataturk","lat":40.98111600,"lon":28.81795100,"rwys":3,"ils":5,"index":3416251,"path":"e020n40/e028n40"
 ,"runways":[
 {"len_m":3000,"wid_m":45.11,"hdg":178,"surf":"Concrete","rwy1":"17R","lat1":40.99635600,"lon1":28.80603100,"rwy2":"35L","lat2":40.96935000,"lon2":28.80697500},
 {"len_m":2988,"wid_m":45.11,"hdg":178,"surf":"Concrete","rwy1":"17L","lat1":40.99635800,"lon1":28.80852500,"rwy2":"35R","lat2":40.96945600,"lon2":28.80946900},

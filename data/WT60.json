@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WT60","name":"Wamariri (sda)","lat":-02.04988246,"lon":138.58602274,"rwys":1,"ils":0,"index":5215740,"path":"e130s10/e138s03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WT60","name":"Wamariri (sda)","lat":-2.04988246,"lon":138.58602274,"rwys":1,"ils":0,"index":5215740,"path":"e130s10/e138s03"
 ,"runways":[
 {"len_m":548,"wid_m":29.87,"hdg":30,"surf":"Turf/grass","rwy1":"03","lat1":-2.05216569,"lon1":138.58506612,"rwy2":"21","lat2":-2.04788031,"lon2":138.58754188}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EHGG","name":"Eelde","lat":53.12864731,"lon":006.58791630,"rwys":2,"ils":1,"index":3056586,"path":"e000n50/e006n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EHGG","name":"Eelde","lat":53.12864731,"lon":6.58791630,"rwys":2,"ils":1,"index":3056586,"path":"e000n50/e006n53"
 ,"runways":[
 {"len_m":2500,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":53.11108300,"lon1":6.56089700,"rwy2":"23","lat2":53.12495600,"lon2":6.59026700},
 {"len_m":1499,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":53.11738600,"lon1":6.57685800,"rwy2":"19","lat2":53.13070600,"lon2":6.58026900}

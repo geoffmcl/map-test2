@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OLBA","name":"Beyrouth Rafic Hariri Intl","lat":33.82891800,"lon":035.49400700,"rwys":3,"ils":3,"index":3530481,"path":"e030n30/e035n33"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OLBA","name":"Beyrouth Rafic Hariri Intl","lat":33.82891800,"lon":35.49400700,"rwys":3,"ils":3,"index":3530481,"path":"e030n30/e035n33"
 ,"runways":[
 {"len_m":3796,"wid_m":45.11,"hdg":32,"surf":"Concrete","rwy1":"03","lat1":33.79818600,"lon1":35.48085800,"rwy2":"21","lat2":33.82693600,"lon2":35.50311700},
 {"len_m":3381,"wid_m":45.11,"hdg":165,"surf":"Concrete","rwy1":"16","lat1":33.84005800,"lon1":35.47889700,"rwy2":"34","lat2":33.81050000,"lon2":35.48783300},

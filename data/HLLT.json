@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HLLT","name":"Tripoli Intl","lat":32.66849140,"lon":013.14443780,"rwys":2,"ils":1,"index":3169960,"path":"e010n30/e013n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HLLT","name":"Tripoli Intl","lat":32.66849140,"lon":13.14443780,"rwys":2,"ils":1,"index":3169960,"path":"e010n30/e013n32"
 ,"runways":[
 {"len_m":3602,"wid_m":44.20,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":32.66309200,"lon1":13.12875800,"rwy2":"27","lat2":32.66366700,"lon2":13.16715800},
 {"len_m":2635,"wid_m":44.20,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":32.67980600,"lon1":13.15809200,"rwy2":"36","lat2":32.65606900,"lon2":13.15941700}

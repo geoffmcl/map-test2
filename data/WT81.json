@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WT81","name":"Kuala Kurun (dgca)","lat":-01.12650295,"lon":113.87548526,"rwys":1,"ils":0,"index":4806199,"path":"e110s10/e113s02"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WT81","name":"Kuala Kurun (dgca)","lat":-1.12650295,"lon":113.87548526,"rwys":1,"ils":0,"index":4806199,"path":"e110s10/e113s02"
 ,"runways":[
 {"len_m":749,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":-1.12879081,"lon1":113.87320974,"rwy2":"23","lat2":-1.12454259,"lon2":113.87845686}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDFN","name":"Marburg Schoenstadt","lat":50.87714000,"lon":008.81327700,"rwys":2,"ils":0,"index":3089211,"path":"e000n50/e008n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDFN","name":"Marburg Schoenstadt","lat":50.87714000,"lon":8.81327700,"rwys":2,"ils":0,"index":3089211,"path":"e000n50/e008n50"
 ,"runways":[
 {"len_m":751,"wid_m":30.48,"hdg":32,"surf":"Turf/grass","rwy1":"04R","lat1":50.87146190,"lon1":8.81046574,"rwy2":"22L","lat2":50.87717410,"lon2":8.81616626},
 {"len_m":873,"wid_m":30.48,"hdg":32,"surf":"Turf/grass","rwy1":"04L","lat1":50.87085468,"lon1":8.80895848,"rwy2":"22R","lat2":50.87749532,"lon2":8.81558552}

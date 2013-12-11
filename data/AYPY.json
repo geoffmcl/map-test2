@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AYPY","name":"Port Moresby Jacksons Intl","lat":-09.44212500,"lon":147.21687300,"rwys":2,"ils":2,"index":5362721,"path":"e140s10/e147s10"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AYPY","name":"Port Moresby Jacksons Intl","lat":-9.44212500,"lon":147.21687300,"rwys":2,"ils":2,"index":5362721,"path":"e140s10/e147s10"
 ,"runways":[
 {"len_m":2756,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"14L","lat1":-9.43086754,"lon1":147.21389227,"rwy2":"32R","lat2":-9.45210046,"lon2":147.22702573},
 {"len_m":2065,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"14R","lat1":-9.43471412,"lon1":147.21302519,"rwy2":"32L","lat2":-9.45063388,"lon2":147.22285681}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SBSJ","name":"Sao Jose Dos Campos","lat":-23.22427600,"lon":-045.86290400,"rwys":1,"ils":1,"index":2199728,"path":"w050s30/w046s24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SBSJ","name":"Sao Jose Dos Campos","lat":-23.22427600,"lon":-45.86290400,"rwys":1,"ils":1,"index":2199728,"path":"w050s30/w046s24"
 ,"runways":[
 {"len_m":2660,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":-23.21968300,"lon1":-45.87193300,"rwy2":"33","lat2":-23.23665800,"lon2":-45.85354200}
 ]

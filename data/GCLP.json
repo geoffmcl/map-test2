@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"GCLP","name":"Gran Canaria","lat":27.93578100,"lon":-015.39082200,"rwys":2,"ils":2,"index":2694522,"path":"w020n20/w016n27"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"GCLP","name":"Gran Canaria","lat":27.93578100,"lon":-15.39082200,"rwys":2,"ils":2,"index":2694522,"path":"w020n20/w016n27"
 ,"runways":[
 {"len_m":3100,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03L","lat1":27.91886600,"lon1":-15.39234200,"rwy2":"21R","lat2":27.94491000,"lon2":-15.38083000},
 {"len_m":3099,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03R","lat1":27.91818100,"lon1":-15.39035100,"rwy2":"21L","lat2":27.94421900,"lon2":-15.37884600}

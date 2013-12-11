@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX09","name":"Andong (maf)","lat":-00.33342500,"lon":111.11614900,"rwys":1,"ils":0,"index":4773480,"path":"e110s10/e111s01"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX09","name":"Andong (maf)","lat":-0.33342500,"lon":111.11614900,"rwys":1,"ils":0,"index":4773480,"path":"e110s10/e111s01"
 ,"runways":[
 {"len_m":373,"wid_m":20.12,"hdg":169,"surf":"Turf/grass","rwy1":"17","lat1":-0.33167170,"lon1":111.11637606,"rwy2":"35","lat2":-0.33499430,"lon2":111.11696194}
 ]

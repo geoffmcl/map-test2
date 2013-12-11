@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBRO","name":"Brownsville South Padre Island Intl","lat":25.90486663,"lon":-097.43106230,"rwys":3,"ils":1,"index":1350906,"path":"w100n20/w098n25"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBRO","name":"Brownsville South Padre Island Intl","lat":25.90486663,"lon":-97.43106230,"rwys":3,"ils":1,"index":1350906,"path":"w100n20/w098n25"
 ,"runways":[
 {"len_m":2255,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13R","lat1":25.91282500,"lon1":-97.43130800,"rwy2":"31L","lat2":25.89832800,"lon2":-97.41550000},
 {"len_m":1828,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":25.91507500,"lon1":-97.42885000,"rwy2":"35","lat2":25.89857800,"lon2":-97.42953300},

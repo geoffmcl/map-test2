@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPHF","name":"Newport News Williamsburg Intl","lat":37.13168500,"lon":-076.50079000,"rwys":2,"ils":1,"index":1695689,"path":"w080n30/w077n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPHF","name":"Newport News Williamsburg Intl","lat":37.13168500,"lon":-76.50079000,"rwys":2,"ils":1,"index":1695689,"path":"w080n30/w077n37"
 ,"runways":[
 {"len_m":2439,"wid_m":46.02,"hdg":57,"surf":"Concrete","rwy1":"07","lat1":37.12500257,"lon1":-76.50138926,"rwy2":"25","lat2":37.13671543,"lon2":-76.47815874},
 {"len_m":1989,"wid_m":46.02,"hdg":12,"surf":"Concrete","rwy1":"02","lat1":37.12442764,"lon1":-76.49940646,"rwy2":"20","lat2":37.14190636,"lon2":-76.49444954}

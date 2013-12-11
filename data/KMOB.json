@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMOB","name":"Mobile Rgnl","lat":30.69380800,"lon":-088.24607100,"rwys":2,"ils":2,"index":1498667,"path":"w090n30/w089n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMOB","name":"Mobile Rgnl","lat":30.69380800,"lon":-88.24607100,"rwys":2,"ils":2,"index":1498667,"path":"w090n30/w089n30"
 ,"runways":[
 {"len_m":2597,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":30.70230800,"lon1":-88.25400300,"rwy2":"32","lat2":30.68330600,"lon2":-88.23814700},
 {"len_m":1330,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.69455800,"lon1":-88.23651400,"rwy2":"36","lat2":30.68255600,"lon2":-88.23650800}

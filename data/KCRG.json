@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCRG","name":"Craig Muni","lat":30.33685100,"lon":-081.51439700,"rwys":2,"ils":1,"index":1613329,"path":"w090n30/w082n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCRG","name":"Craig Muni","lat":30.33685100,"lon":-81.51439700,"rwys":2,"ils":1,"index":1613329,"path":"w090n30/w082n30"
 ,"runways":[
 {"len_m":1220,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":30.32889200,"lon1":-81.51893600,"rwy2":"23","lat2":30.33667500,"lon2":-81.50996100},
 {"len_m":1218,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":30.34377200,"lon1":-81.51894400,"rwy2":"32","lat2":30.33599700,"lon2":-81.50998600}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYCS","name":"Chesterfield Inlet","lat":63.34635104,"lon":-090.73084055,"rwys":1,"ils":0,"index":1467984,"path":"w100n60/w091n63"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYCS","name":"Chesterfield Inlet","lat":63.34635104,"lon":-90.73084055,"rwys":1,"ils":0,"index":1467984,"path":"w100n60/w091n63"
 ,"runways":[
 {"len_m":1219,"wid_m":49.99,"hdg":124,"surf":"Gravel","rwy1":"12","lat1":63.35024000,"lon1":-90.74115300,"rwy2":"30","lat2":63.34409400,"lon2":-90.72099800}
 ]

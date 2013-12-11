@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBOS","name":"Boston Logan Intl","lat":42.36577472,"lon":-071.01847370,"rwys":6,"ils":3,"index":1777939,"path":"w080n40/w072n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBOS","name":"Boston Logan Intl","lat":42.36577472,"lon":-71.01847370,"rwys":6,"ils":3,"index":1777939,"path":"w080n40/w072n42"
 ,"runways":[
 {"len_m":3073,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"15R","lat1":42.37428432,"lon1":-71.01792575,"rwy2":"33L","lat2":42.35466419,"lon2":-70.99162135},
 {"len_m":2396,"wid_m":46.02,"hdg":19,"surf":"Asphalt","rwy1":"04L","lat1":42.35800046,"lon1":-71.01437574,"rwy2":"22R","lat2":42.37830380,"lon2":-71.00455234},

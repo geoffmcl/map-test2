@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEVS","name":"Cuatro Vientos","lat":40.36839400,"lon":-003.78150000,"rwys":2,"ils":0,"index":2891920,"path":"w010n40/w004n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEVS","name":"Cuatro Vientos","lat":40.36839400,"lon":-3.78150000,"rwys":2,"ils":0,"index":2891920,"path":"w010n40/w004n40"
 ,"runways":[
 {"len_m":1495,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":40.37112200,"lon1":-3.79392800,"rwy2":"28","lat2":40.37023300,"lon2":-3.77635300},
 {"len_m":1116,"wid_m":45.11,"hdg":94,"surf":"Dirt","rwy1":"10L","lat1":40.37234200,"lon1":-3.79070600,"rwy2":"28R","lat2":40.37162200,"lon2":-3.77758900}

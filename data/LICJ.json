@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LICJ","name":"Palermo","lat":38.18496320,"lon":013.10239510,"rwys":2,"ils":2,"index":3170312,"path":"e010n30/e013n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LICJ","name":"Palermo","lat":38.18496320,"lon":13.10239510,"rwys":2,"ils":2,"index":3170312,"path":"e010n30/e013n38"
 ,"runways":[
 {"len_m":3261,"wid_m":60.05,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":38.17431400,"lon1":13.08653100,"rwy2":"25","lat2":38.18583300,"lon2":13.12077800},
 {"len_m":2073,"wid_m":45.11,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":38.16613900,"lon1":13.08562200,"rwy2":"20","lat2":38.18322100,"lon2":13.09521000}

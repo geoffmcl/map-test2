@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFLB","name":"Aix-les-bains","lat":45.63717891,"lon":005.88364090,"rwys":2,"ils":1,"index":3039723,"path":"e000n40/e005n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFLB","name":"Aix-les-bains","lat":45.63717891,"lon":5.88364090,"rwys":2,"ils":1,"index":3039723,"path":"e000n40/e005n45"
 ,"runways":[
 {"len_m":1660,"wid_m":45.11,"hdg":176,"surf":"Asphalt","rwy1":"18","lat1":45.64504575,"lon1":5.87971068,"rwy2":"36","lat2":45.63012950,"lon2":5.88093496},
 {"len_m":703,"wid_m":60.05,"hdg":176,"surf":"Turf/grass","rwy1":"18L","lat1":45.63803914,"lon1":5.88121204,"rwy2":"36R","lat2":45.63172344,"lon2":5.88173284}

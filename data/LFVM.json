@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFVM","name":"Miquelon","lat":47.09723400,"lon":-056.38430400,"rwys":1,"ils":0,"index":2024002,"path":"w060n40/w057n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFVM","name":"Miquelon","lat":47.09723400,"lon":-56.38430400,"rwys":1,"ils":0,"index":2024002,"path":"w060n40/w057n47"
 ,"runways":[
 {"len_m":1001,"wid_m":19.81,"hdg":97,"surf":"Asphalt","rwy1":"12","lat1":47.09610800,"lon1":-56.38679700,"rwy2":"30","lat2":47.09485600,"lon2":-56.37373900}
 ]

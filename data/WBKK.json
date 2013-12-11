@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WBKK","name":"Kota Kinabalu Intl","lat":05.92578500,"lon":116.05173500,"rwys":1,"ils":1,"index":4855800,"path":"e110n00/e116n05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WBKK","name":"Kota Kinabalu Intl","lat":5.92578500,"lon":116.05173500,"rwys":1,"ils":1,"index":4855800,"path":"e110n00/e116n05"
 ,"runways":[
 {"len_m":2983,"wid_m":45.72,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":5.92477800,"lon1":116.04594400,"rwy2":"20","lat2":5.94963900,"lon2":116.05641700}
 ]

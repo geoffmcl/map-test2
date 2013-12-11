@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX42","name":"Bime (ufm)","lat":-04.48814006,"lon":140.21957620,"rwys":1,"ils":0,"index":5248353,"path":"e140s10/e140s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX42","name":"Bime (ufm)","lat":-4.48814006,"lon":140.21957620,"rwys":1,"ils":0,"index":5248353,"path":"e140s10/e140s05"
 ,"runways":[
 {"len_m":495,"wid_m":32.00,"hdg":179,"surf":"Turf/grass","rwy1":"18","lat1":-4.48381761,"lon1":140.21976571,"rwy2":"36","lat2":-4.48830039,"lon2":140.21979629}
 ]

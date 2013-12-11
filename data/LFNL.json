@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFNL","name":"Saint Martin De Londres","lat":43.79833900,"lon":003.78191200,"rwys":3,"ils":0,"index":3006835,"path":"e000n40/e003n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFNL","name":"Saint Martin De Londres","lat":43.79833900,"lon":3.78191200,"rwys":3,"ils":0,"index":3006835,"path":"e000n40/e003n43"
 ,"runways":[
 {"len_m":426,"wid_m":10.06,"hdg":297,"surf":"Asphalt","rwy1":"30L","lat1":43.79941444,"lon1":3.78575384,"rwy2":"12R","lat2":43.80120956,"lon2":3.78107616},
 {"len_m":520,"wid_m":79.86,"hdg":299,"surf":"Turf/grass","rwy1":"30","lat1":43.79919000,"lon1":3.78450400,"rwy2":"12","lat2":43.80150800,"lon2":3.77888200},

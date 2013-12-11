@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDFB","name":"Reichelsheim","lat":50.33597793,"lon":008.87712435,"rwys":2,"ils":0,"index":3089171,"path":"e000n50/e008n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDFB","name":"Reichelsheim","lat":50.33597793,"lon":8.87712435,"rwys":2,"ils":0,"index":3089171,"path":"e000n50/e008n50"
 ,"runways":[
 {"len_m":1301,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":50.34465353,"lon1":8.87852412,"rwy2":"36","lat2":50.33295847,"lon2":8.87900376},
 {"len_m":391,"wid_m":29.87,"hdg":85,"surf":"Turf/grass","rwy1":"09","lat1":50.33309674,"lon1":8.87913901,"rwy2":"27","lat2":50.33340263,"lon2":8.88461641}

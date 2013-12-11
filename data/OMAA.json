@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OMAA","name":"Abu Dhabi Intl","lat":24.42416570,"lon":054.65343860,"rwys":1,"ils":2,"index":3841178,"path":"e050n20/e054n24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OMAA","name":"Abu Dhabi Intl","lat":24.42416570,"lon":54.65343860,"rwys":1,"ils":2,"index":3841178,"path":"e050n20/e054n24"
 ,"runways":[
 {"len_m":4100,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":24.44438900,"lon1":54.63520600,"rwy2":"31","lat2":24.42170800,"lon2":54.66715800}
 ]

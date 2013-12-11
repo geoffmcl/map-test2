@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KLNS","name":"Lancaster","lat":40.12491700,"lon":-076.29716900,"rwys":2,"ils":1,"index":1695874,"path":"w080n40/w077n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KLNS","name":"Lancaster","lat":40.12491700,"lon":-76.29716900,"rwys":2,"ils":1,"index":1695874,"path":"w080n40/w077n40"
 ,"runways":[
 {"len_m":2113,"wid_m":45.72,"hdg":67,"surf":"Asphalt","rwy1":"08","lat1":40.11992800,"lon1":-76.30405300,"rwy2":"26","lat2":40.12706400,"lon2":-76.28106900},
 {"len_m":1250,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"13","lat1":40.12315800,"lon1":-76.30380000,"rwy2":"31","lat2":40.11766400,"lon2":-76.29100000}

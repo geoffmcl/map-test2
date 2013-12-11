@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPHD","name":"Harry Clever Fld","lat":40.47087869,"lon":-081.41785105,"rwys":2,"ils":0,"index":1613978,"path":"w090n40/w082n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPHD","name":"Harry Clever Fld","lat":40.47087869,"lon":-81.41785105,"rwys":2,"ils":0,"index":1613978,"path":"w090n40/w082n40"
 ,"runways":[
 {"len_m":1204,"wid_m":29.87,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":40.47501400,"lon1":-81.42437800,"rwy2":"32","lat2":40.46679400,"lon2":-81.41511900},
 {"len_m":626,"wid_m":29.87,"hdg":108,"surf":"Turf/grass","rwy1":"11","lat1":40.46951099,"lon1":-81.42393257,"rwy2":"29","lat2":40.46774126,"lon2":-81.41691677}

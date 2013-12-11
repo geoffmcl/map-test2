@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDFQ","name":"Allendorf Eder","lat":51.03582300,"lon":008.67560300,"rwys":1,"ils":0,"index":3089218,"path":"e000n50/e008n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDFQ","name":"Allendorf Eder","lat":51.03582300,"lon":8.67560300,"rwys":1,"ils":0,"index":3089218,"path":"e000n50/e008n51"
 ,"runways":[
 {"len_m":1243,"wid_m":29.87,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":51.03761402,"lon1":8.67269901,"rwy2":"29","lat2":51.03316600,"lon2":8.68896500}
 ]

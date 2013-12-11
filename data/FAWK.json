@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAWK","name":"Waterkloof Afb","lat":-25.82485400,"lon":028.21676300,"rwys":2,"ils":1,"index":3411976,"path":"e020s30/e028s26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAWK","name":"Waterkloof Afb","lat":-25.82485400,"lon":28.21676300,"rwys":2,"ils":1,"index":3411976,"path":"e020s30/e028s26"
 ,"runways":[
 {"len_m":3343,"wid_m":45.11,"hdg":351,"surf":"Asphalt","rwy1":"01","lat1":-25.84384257,"lon1":28.22479465,"rwy2":"19","lat2":-25.81396343,"lon2":28.22012935},
 {"len_m":1919,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":-25.83351374,"lon1":28.21862446,"rwy2":"24","lat2":-25.82129826,"lon2":28.23219554}

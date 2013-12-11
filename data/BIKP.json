@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIKP","name":"Kopasker","lat":66.30718828,"lon":-016.46153111,"rwys":4,"ils":0,"index":2680593,"path":"w020n60/w017n66"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIKP","name":"Kopasker","lat":66.30718828,"lon":-16.46153111,"rwys":4,"ils":0,"index":2680593,"path":"w020n60/w017n66"
 ,"runways":[
 {"len_m":877,"wid_m":29.87,"hdg":10,"surf":"Gravel","rwy1":"03","lat1":66.30721222,"lon1":-16.46899974,"rwy2":"21","lat2":66.31496498,"lon2":-16.46559726},
 {"len_m":803,"wid_m":28.04,"hdg":119,"surf":"Gravel","rwy1":"13","lat1":66.31789280,"lon1":-16.47839902,"rwy2":"31","lat2":66.31429400,"lon2":-16.46288138},

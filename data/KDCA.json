@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDCA","name":"Washington National","lat":38.85462250,"lon":-077.04369939,"rwys":3,"ils":2,"index":1679411,"path":"w080n30/w078n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDCA","name":"Washington National","lat":38.85462250,"lon":-77.04369939,"rwys":3,"ils":2,"index":1679411,"path":"w080n30/w078n38"
 ,"runways":[
 {"len_m":2093,"wid_m":46.02,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":38.84239194,"lon1":-77.03682416,"rwy2":"19","lat2":38.86119206,"lon2":-77.03871984},
 {"len_m":1586,"wid_m":46.02,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":38.86169673,"lon1":-77.04381822,"rwy2":"33","lat2":38.85033927,"lon2":-77.03273178},

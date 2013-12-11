@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KRCZ","name":"Richmond County","lat":34.89262000,"lon":-079.75756800,"rwys":2,"ils":0,"index":1646392,"path":"w080n30/w080n34"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KRCZ","name":"Richmond County","lat":34.89262000,"lon":-79.75756800,"rwys":2,"ils":0,"index":1646392,"path":"w080n30/w080n34"
 ,"runways":[
 {"len_m":1525,"wid_m":29.87,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":34.89604772,"lon1":-79.76394838,"rwy2":"32","lat2":34.88719328,"lon2":-79.75117930},
 {"len_m":913,"wid_m":152.10,"hdg":40,"surf":"Turf/grass","rwy1":"04","lat1":34.88828592,"lon1":-79.76856987,"rwy2":"22","lat2":34.89453292,"lon2":-79.76206687}

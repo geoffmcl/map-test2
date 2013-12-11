@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMFD","name":"Mansfield Lahm Rgnl","lat":40.81563523,"lon":-082.51430781,"rwys":2,"ils":1,"index":1597617,"path":"w090n40/w083n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMFD","name":"Mansfield Lahm Rgnl","lat":40.81563523,"lon":-82.51430781,"rwys":2,"ils":1,"index":1597617,"path":"w090n40/w083n40"
 ,"runways":[
 {"len_m":2743,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":40.83308917,"lon1":-82.52832649,"rwy2":"32","lat2":40.81503883,"lon2":-82.50612951},
 {"len_m":2071,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":40.81154446,"lon1":-82.52480586,"rwy2":"23","lat2":40.82427754,"lon2":-82.50687014}

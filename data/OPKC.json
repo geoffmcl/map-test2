@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OPKC","name":"Karachi Jinnah Intl","lat":24.89909200,"lon":067.16767200,"rwys":2,"ils":1,"index":4054200,"path":"e060n20/e067n24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OPKC","name":"Karachi Jinnah Intl","lat":24.89909200,"lon":67.16767200,"rwys":2,"ils":1,"index":4054200,"path":"e060n20/e067n24"
 ,"runways":[
 {"len_m":3400,"wid_m":46.02,"hdg":74,"surf":"Concrete","rwy1":"07R","lat1":24.90038600,"lon1":67.14263100,"rwy2":"25L","lat2":24.90868600,"lon2":67.17503600},
 {"len_m":3188,"wid_m":46.02,"hdg":74,"surf":"Concrete","rwy1":"07L","lat1":24.90470800,"lon1":67.14755300,"rwy2":"25R","lat2":24.91240600,"lon2":67.17796900}

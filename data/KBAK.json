@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBAK","name":"Columbus Muni","lat":39.25553200,"lon":-085.89722300,"rwys":2,"ils":1,"index":1548368,"path":"w090n30/w086n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBAK","name":"Columbus Muni","lat":39.25553200,"lon":-85.89722300,"rwys":2,"ils":1,"index":1548368,"path":"w090n30/w086n39"
 ,"runways":[
 {"len_m":1950,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":39.25523900,"lon1":-85.90488300,"rwy2":"23","lat2":39.26765600,"lon2":-85.88888900},
 {"len_m":1523,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":39.26736900,"lon1":-85.90187800,"rwy2":"32","lat2":39.25765600,"lon2":-85.88940000}

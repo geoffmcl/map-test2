@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIRV","name":"Viterbo","lat":42.43901440,"lon":012.05682180,"rwys":3,"ils":0,"index":3154200,"path":"e010n40/e012n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIRV","name":"Viterbo","lat":42.43901440,"lon":12.05682180,"rwys":3,"ils":0,"index":3154200,"path":"e010n40/e012n42"
 ,"runways":[
 {"len_m":1287,"wid_m":49.99,"hdg":38,"surf":"Turf/grass","rwy1":"04C","lat1":42.43144200,"lon1":12.05725800,"rwy2":"22C","lat2":42.44051400,"lon2":12.06698900},
 {"len_m":1004,"wid_m":24.99,"hdg":38,"surf":"Asphalt","rwy1":"04L","lat1":42.43222800,"lon1":12.05608900,"rwy2":"22R","lat2":42.43929700,"lon2":12.06370300},

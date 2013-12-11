@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UKBB","name":"Boryspil","lat":50.34073158,"lon":030.89714579,"rwys":2,"ils":4,"index":3449619,"path":"e030n50/e030n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UKBB","name":"Boryspil","lat":50.34073158,"lon":30.89714579,"rwys":2,"ils":4,"index":3449619,"path":"e030n50/e030n50"
 ,"runways":[
 {"len_m":3496,"wid_m":63.09,"hdg":182,"surf":"Concrete","rwy1":"18R","lat1":50.35208720,"lon1":30.88167562,"rwy2":"36L","lat2":50.32068720,"lon2":30.87942562},
 {"len_m":4009,"wid_m":60.05,"hdg":182,"surf":"Concrete","rwy1":"18L","lat1":50.36055720,"lon1":30.90659562,"rwy2":"36R","lat2":50.32455720,"lon2":30.90391562}

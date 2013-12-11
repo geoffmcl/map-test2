@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFKS","name":"Kuusamo","lat":65.99611600,"lon":029.22538900,"rwys":1,"ils":1,"index":3434232,"path":"e020n60/e029n65"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFKS","name":"Kuusamo","lat":65.99611600,"lon":29.22538900,"rwys":1,"ils":1,"index":3434232,"path":"e020n60/e029n65"
 ,"runways":[
 {"len_m":2460,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":65.99481400,"lon1":29.21973900,"rwy2":"30","lat2":65.97999400,"lon2":29.25985600}
 ]

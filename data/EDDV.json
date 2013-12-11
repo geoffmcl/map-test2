@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDV","name":"Hannover","lat":52.46093797,"lon":009.68178867,"rwys":3,"ils":4,"index":3105690,"path":"e000n50/e009n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDV","name":"Hannover","lat":52.46093797,"lon":9.68178867,"rwys":3,"ils":4,"index":3105690,"path":"e000n50/e009n52"
 ,"runways":[
 {"len_m":2339,"wid_m":45.11,"hdg":92,"surf":"Concrete","rwy1":"09R","lat1":52.45482105,"lon1":9.67702104,"rwy2":"27L","lat2":52.45386605,"lon2":9.71140204},
 {"len_m":774,"wid_m":22.86,"hdg":92,"surf":"Asphalt","rwy1":"09C","lat1":52.46466605,"lon1":9.68401904,"rwy2":"27C","lat2":52.46435705,"lon2":9.69539604},

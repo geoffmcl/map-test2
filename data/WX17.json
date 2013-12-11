@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX17","name":"Asmat/ewer (local Gov)","lat":-05.49299536,"lon":138.08541509,"rwys":1,"ils":0,"index":5215520,"path":"e130s10/e138s06"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX17","name":"Asmat/ewer (local Gov)","lat":-5.49299536,"lon":138.08541509,"rwys":1,"ils":0,"index":5215520,"path":"e130s10/e138s06"
 ,"runways":[
 {"len_m":637,"wid_m":17.98,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":-5.49530694,"lon1":138.08067700,"rwy2":"24","lat2":-5.49266896,"lon2":138.08579131}
 ]

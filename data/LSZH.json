@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LSZH","name":"Zurich","lat":47.45381900,"lon":008.55691100,"rwys":3,"ils":4,"index":3088986,"path":"e000n40/e008n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LSZH","name":"Zurich","lat":47.45381900,"lon":8.55691100,"rwys":3,"ils":4,"index":3088986,"path":"e000n40/e008n47"
 ,"runways":[
 {"len_m":3699,"wid_m":60.05,"hdg":154,"surf":"Concrete","rwy1":"16","lat1":47.47558100,"lon1":8.53594700,"rwy2":"34","lat2":47.44543600,"lon2":8.55673300},
 {"len_m":3300,"wid_m":60.05,"hdg":137,"surf":"Concrete","rwy1":"14","lat1":47.48308100,"lon1":8.53472500,"rwy2":"32","lat2":47.46129400,"lon2":8.56445600},

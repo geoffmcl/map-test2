@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGCK","name":"Caernarfon","lat":53.10076426,"lon":-004.33693593,"rwys":2,"ils":0,"index":2876354,"path":"w010n50/w005n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGCK","name":"Caernarfon","lat":53.10076426,"lon":-4.33693593,"rwys":2,"ils":0,"index":2876354,"path":"w010n50/w005n53"
 ,"runways":[
 {"len_m":1067,"wid_m":22.86,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":53.09956170,"lon1":-4.34217499,"rwy2":"20","lat2":53.10889700,"lon2":-4.33853300},
 {"len_m":915,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":53.10058173,"lon1":-4.34353273,"rwy2":"26","lat2":53.10328348,"lon2":-4.33062577}

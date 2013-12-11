@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ93","name":"Lumar (maf)","lat":00.93853109,"lon":109.46637171,"rwys":1,"ils":0,"index":4740795,"path":"e100n00/e109n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ93","name":"Lumar (maf)","lat":0.93853109,"lon":109.46637171,"rwys":1,"ils":0,"index":4740795,"path":"e100n00/e109n00"
 ,"runways":[
 {"len_m":425,"wid_m":24.99,"hdg":80,"surf":"Turf/grass","rwy1":"08","lat1":0.93842301,"lon1":109.46444694,"rwy2":"26","lat2":0.93908699,"lon2":109.46821306}
 ]

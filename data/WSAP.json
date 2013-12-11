@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WSAP","name":"Singapore Paya Lebar Aero","lat":01.35556070,"lon":103.90063480,"rwys":1,"ils":2,"index":4642519,"path":"e100n00/e103n01"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WSAP","name":"Singapore Paya Lebar Aero","lat":1.35556070,"lon":103.90063480,"rwys":1,"ils":2,"index":4642519,"path":"e100n00/e103n01"
 ,"runways":[
 {"len_m":3788,"wid_m":60.96,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":1.34463900,"lon1":103.90286100,"rwy2":"20","lat2":1.37616700,"lon2":103.91618900}
 ]

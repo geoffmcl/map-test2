@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LSZB","name":"Bern-belp","lat":46.91281400,"lon":007.50169200,"rwys":3,"ils":1,"index":3072570,"path":"e000n40/e007n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LSZB","name":"Bern-belp","lat":46.91281400,"lon":7.50169200,"rwys":3,"ils":1,"index":3072570,"path":"e000n40/e007n46"
 ,"runways":[
 {"len_m":1731,"wid_m":29.87,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":46.91941290,"lon1":7.49067710,"rwy2":"32","lat2":46.90745490,"lon2":7.50524310},
 {"len_m":648,"wid_m":29.87,"hdg":139,"surf":"Turf/grass","rwy1":"14L","lat1":46.91451180,"lon1":7.49509679,"rwy2":"32R","lat2":46.91005020,"lon2":7.50057521},

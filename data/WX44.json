@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX44","name":"Binuang (maf)","lat":03.77348583,"lon":115.85601806,"rwys":2,"ils":0,"index":4839286,"path":"e110n00/e115n03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX44","name":"Binuang (maf)","lat":3.77348583,"lon":115.85601806,"rwys":2,"ils":0,"index":4839286,"path":"e110n00/e115n03"
 ,"runways":[
 {"len_m":396,"wid_m":20.12,"hdg":245,"surf":"Dirt","rwy1":"07","lat1":3.71552609,"lon1":115.85224981,"rwy2":"25","lat2":3.71402991,"lon2":115.84900619},
 {"len_m":394,"wid_m":20.12,"hdg":174,"surf":"Dirt","rwy1":"17","lat1":3.77509449,"lon1":115.85611198,"rwy2":"35","lat2":3.77154218,"lon2":115.85642344}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KIAB","name":"Mc Connell Afb","lat":37.62707500,"lon":-097.27169800,"rwys":2,"ils":2,"index":1351658,"path":"w100n30/w098n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KIAB","name":"Mc Connell Afb","lat":37.62707500,"lon":-97.27169800,"rwys":2,"ils":2,"index":1351658,"path":"w100n30/w098n37"
 ,"runways":[
 {"len_m":3657,"wid_m":60.96,"hdg":12,"surf":"Concrete","rwy1":"01L","lat1":37.60727200,"lon1":-97.27349400,"rwy2":"19R","lat2":37.63945000,"lon2":-97.26454700},
 {"len_m":3658,"wid_m":91.44,"hdg":12,"surf":"Asphalt","rwy1":"01R","lat1":37.60678300,"lon1":-97.27071100,"rwy2":"19L","lat2":37.63896900,"lon2":-97.26175800}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFRM","name":"Le Mans Arnage","lat":47.94624710,"lon":000.19661590,"rwys":1,"ils":1,"index":2957944,"path":"e000n40/e000n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFRM","name":"Le Mans Arnage","lat":47.94624710,"lon":0.19661590,"rwys":1,"ils":1,"index":2957944,"path":"e000n40/e000n47"
 ,"runways":[
 {"len_m":1419,"wid_m":29.87,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":47.94185300,"lon1":0.19798900,"rwy2":"20","lat2":47.95382500,"lon2":0.20459200}
 ]

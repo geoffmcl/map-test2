@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPNT","name":"Nowy Targ","lat":49.46722500,"lon":020.04802600,"rwys":2,"ils":0,"index":3285720,"path":"e020n40/e020n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPNT","name":"Nowy Targ","lat":49.46722500,"lon":20.04802600,"rwys":2,"ils":0,"index":3285720,"path":"e020n40/e020n49"
 ,"runways":[
 {"len_m":1684,"wid_m":120.09,"hdg":121,"surf":"Turf/grass","rwy1":"12","lat1":49.46572601,"lon1":20.04232833,"rwy2":"30","lat2":49.45771399,"lon2":20.06205567},
 {"len_m":680,"wid_m":199.95,"hdg":19,"surf":"Turf/grass","rwy1":"02","lat1":49.46061320,"lon1":20.04926796,"rwy2":"20","lat2":49.46639680,"lon2":20.05233204}

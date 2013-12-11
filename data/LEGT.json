@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEGT","name":"Getafe","lat":40.29975200,"lon":-003.72591700,"rwys":2,"ils":1,"index":2891921,"path":"w010n40/w004n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEGT","name":"Getafe","lat":40.29975200,"lon":-3.72591700,"rwys":2,"ils":1,"index":2891921,"path":"w010n40/w004n40"
 ,"runways":[
 {"len_m":2478,"wid_m":60.05,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":40.28620000,"lon1":-3.73407200,"rwy2":"23","lat2":40.30192800,"lon2":-3.71338600},
 {"len_m":943,"wid_m":29.87,"hdg":44,"surf":"Dirt","rwy1":"05R","lat1":40.28923100,"lon1":-3.72514700,"rwy2":"23L","lat2":40.29524700,"lon2":-3.71731900}

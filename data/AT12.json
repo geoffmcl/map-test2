@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AT12","name":"Kohnen Station Skiway","lat":-75.00091263,"lon":000.06672654,"rwys":1,"ils":0,"index":2950072,"path":"e000s80/e000s76"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AT12","name":"Kohnen Station Skiway","lat":-75.00091263,"lon":0.06672654,"rwys":1,"ils":0,"index":2950072,"path":"e000s80/e000s76"
 ,"runways":[
 {"len_m":904,"wid_m":49.99,"hdg":176,"surf":"Snow","rwy1":"17","lat1":-74.99714320,"lon1":0.06789804,"rwy2":"35","lat2":-75.00522900,"lon2":0.06972244}
 ]

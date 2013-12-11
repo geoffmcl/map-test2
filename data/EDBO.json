@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDBO","name":"Edbo Oehna","lat":51.90117738,"lon":013.06012157,"rwys":2,"ils":0,"index":3171192,"path":"e010n50/e013n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDBO","name":"Edbo Oehna","lat":51.90117738,"lon":13.06012157,"rwys":2,"ils":0,"index":3171192,"path":"e010n50/e013n51"
 ,"runways":[
 {"len_m":601,"wid_m":30.48,"hdg":83,"surf":"Turf/grass","rwy1":"08R","lat1":51.89913353,"lon1":13.05162691,"rwy2":"26L","lat2":51.89972976,"lon2":13.06030981},
 {"len_m":850,"wid_m":17.98,"hdg":83,"surf":"Asphalt","rwy1":"08L","lat1":51.89931073,"lon1":13.04664906,"rwy2":"26R","lat2":51.90015387,"lon2":13.05892317}

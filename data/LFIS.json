@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFIS","name":"St Inglevert","lat":50.87915197,"lon":001.73451179,"rwys":1,"ils":0,"index":2974522,"path":"e000n50/e001n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFIS","name":"St Inglevert","lat":50.87915197,"lon":1.73451179,"rwys":1,"ils":0,"index":2974522,"path":"e000n50/e001n50"
 ,"runways":[
 {"len_m":601,"wid_m":39.93,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":50.88023791,"lon1":1.73383199,"rwy2":"21","lat2":50.88492865,"lon2":1.73809303}
 ]

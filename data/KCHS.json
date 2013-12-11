@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCHS","name":"Charleston Afb Intl","lat":32.89490900,"lon":-080.02703100,"rwys":2,"ils":2,"index":1629883,"path":"w090n30/w081n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCHS","name":"Charleston Afb Intl","lat":32.89490900,"lon":-80.02703100,"rwys":2,"ils":2,"index":1629883,"path":"w090n30/w081n32"
 ,"runways":[
 {"len_m":2743,"wid_m":60.96,"hdg":147,"surf":"Concrete","rwy1":"15","lat1":32.91302200,"lon1":-80.04811900,"rwy2":"33","lat2":32.89217800,"lon2":-80.03232800},
 {"len_m":2134,"wid_m":45.72,"hdg":24,"surf":"Asphalt","rwy1":"03","lat1":32.88479400,"lon1":-80.04560300,"rwy2":"21","lat2":32.90232500,"lon2":-80.03617500}

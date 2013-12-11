@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OBBI","name":"Bahrain Intl","lat":26.26667020,"lon":050.63337330,"rwys":2,"ils":2,"index":3775762,"path":"e050n20/e050n26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OBBI","name":"Bahrain Intl","lat":26.26667020,"lon":50.63337330,"rwys":2,"ils":2,"index":3775762,"path":"e050n20/e050n26"
 ,"runways":[
 {"len_m":3929,"wid_m":60.05,"hdg":122,"surf":"Asphalt","rwy1":"12L","lat1":26.28038900,"lon1":50.61702800,"rwy2":"30R","lat2":26.26127800,"lon2":50.65016700},
 {"len_m":2530,"wid_m":45.11,"hdg":122,"surf":"Asphalt","rwy1":"12R","lat1":26.27099700,"lon1":50.62992500,"rwy2":"30L","lat2":26.25868300,"lon2":50.65126100}

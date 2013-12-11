@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBWI","name":"Baltimore Washington Intl","lat":39.17914650,"lon":-076.66841004,"rwys":4,"ils":3,"index":1695817,"path":"w080n30/w077n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBWI","name":"Baltimore Washington Intl","lat":39.17914650,"lon":-76.66841004,"rwys":4,"ils":3,"index":1695817,"path":"w080n30/w077n39"
 ,"runways":[
 {"len_m":3323,"wid_m":60.96,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":39.17478703,"lon1":-76.69032530,"rwy2":"28","lat2":39.17259297,"lon2":-76.65196870},
 {"len_m":2896,"wid_m":46.02,"hdg":144,"surf":"Asphalt","rwy1":"15R","lat1":39.18536808,"lon1":-76.68198271,"rwy2":"33L","lat2":39.16420792,"lon2":-76.66238329},

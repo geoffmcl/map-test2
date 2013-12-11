@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"USTR","name":"Roschino","lat":57.18226432,"lon":065.34782588,"rwys":3,"ils":2,"index":4023497,"path":"e060n50/e065n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"USTR","name":"Roschino","lat":57.18226432,"lon":65.34782588,"rwys":3,"ils":2,"index":4023497,"path":"e060n50/e065n57"
 ,"runways":[
 {"len_m":3002,"wid_m":45.11,"hdg":47,"surf":"Asphalt","rwy1":"03","lat1":57.16920300,"lon1":65.28125199,"rwy2":"21","lat2":57.18733011,"lon2":65.31799486},
 {"len_m":2694,"wid_m":49.99,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":57.18979192,"lon1":65.32407969,"rwy2":"30","lat2":57.17276108,"lon2":65.35572304},

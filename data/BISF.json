@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BISF","name":"Selfoss","lat":63.92845224,"lon":-021.03349697,"rwys":2,"ils":0,"index":2598521,"path":"w030n60/w022n63"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BISF","name":"Selfoss","lat":63.92845224,"lon":-21.03349697,"rwys":2,"ils":0,"index":2598521,"path":"w030n60/w022n63"
 ,"runways":[
 {"len_m":1019,"wid_m":29.87,"hdg":33,"surf":"Gravel","rwy1":"05","lat1":63.92468307,"lon1":-21.04456295,"rwy2":"23","lat2":63.93226709,"lon2":-21.03295729},
 {"len_m":1064,"wid_m":29.87,"hdg":130,"surf":"Gravel","rwy1":"15","lat1":63.93372248,"lon1":-21.05005267,"rwy2":"33","lat2":63.92754386,"lon2":-21.03350643}

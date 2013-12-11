@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WSAC","name":"Singapore Changi Rsaf","lat":01.34096900,"lon":104.01068100,"rwys":1,"ils":0,"index":4658896,"path":"e100n00/e104n01"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WSAC","name":"Singapore Changi Rsaf","lat":1.34096900,"lon":104.01068100,"rwys":1,"ils":0,"index":4658896,"path":"e100n00/e104n01"
 ,"runways":[
 {"len_m":2748,"wid_m":59.13,"hdg":23,"surf":"Asphalt","rwy1":"01","lat1":1.33270189,"lon1":104.00421780,"rwy2":"19","lat2":1.35557611,"lon2":104.01387820}
 ]

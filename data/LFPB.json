@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFPB","name":"Paris Le Bourget","lat":48.96127145,"lon":002.44269170,"rwys":3,"ils":3,"index":2990777,"path":"e000n40/e002n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFPB","name":"Paris Le Bourget","lat":48.96127145,"lon":2.44269170,"rwys":3,"ils":3,"index":2990777,"path":"e000n40/e002n48"
 ,"runways":[
 {"len_m":1851,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"09","lat1":48.96360785,"lon1":2.42034514,"rwy2":"27","lat2":48.96502618,"lon2":2.44554448},
 {"len_m":3010,"wid_m":54.86,"hdg":67,"surf":"Concrete","rwy1":"07","lat1":48.96381399,"lon1":2.42016423,"rwy2":"25","lat2":48.97410257,"lon2":2.45818985},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UWWW","name":"Kurumoch","lat":53.50859070,"lon":050.15446470,"rwys":2,"ils":3,"index":3777504,"path":"e050n50/e050n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UWWW","name":"Kurumoch","lat":53.50859070,"lon":50.15446470,"rwys":2,"ils":3,"index":3777504,"path":"e050n50/e050n53"
 ,"runways":[
 {"len_m":3003,"wid_m":45.11,"hdg":159,"surf":"Concrete","rwy1":"15","lat1":53.51857200,"lon1":50.16902200,"rwy2":"33","lat2":53.49321900,"lon2":50.18453300},
 {"len_m":2592,"wid_m":60.05,"hdg":61,"surf":"Asphalt","rwy1":"05","lat1":53.49840600,"lon1":50.13488100,"rwy2":"23","lat2":53.50942200,"lon2":50.16930000}

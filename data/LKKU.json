@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKKU","name":"Kunovice","lat":49.04154548,"lon":017.44175151,"rwys":3,"ils":0,"index":3236545,"path":"e010n40/e017n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKKU","name":"Kunovice","lat":49.04154548,"lon":17.44175151,"rwys":3,"ils":0,"index":3236545,"path":"e010n40/e017n49"
 ,"runways":[
 {"len_m":1479,"wid_m":79.86,"hdg":25,"surf":"Turf/grass","rwy1":"03L","lat1":49.02163219,"lon1":17.43292904,"rwy2":"21R","lat2":49.03365457,"lon2":17.44159637},
 {"len_m":2000,"wid_m":29.87,"hdg":25,"surf":"Concrete","rwy1":"03C","lat1":49.02129931,"lon1":17.43400657,"rwy2":"21C","lat2":49.03755185,"lon2":17.44572363},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OEJN","name":"Jeddah King Abdulaziz Intl","lat":21.67442700,"lon":039.14891300,"rwys":3,"ils":6,"index":3595241,"path":"e030n20/e039n21"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OEJN","name":"Jeddah King Abdulaziz Intl","lat":21.67442700,"lon":39.14891300,"rwys":3,"ils":6,"index":3595241,"path":"e030n20/e039n21"
 ,"runways":[
 {"len_m":3799,"wid_m":60.05,"hdg":159,"surf":"Concrete","rwy1":"16R","lat1":21.70274400,"lon1":39.12687200,"rwy2":"34L","lat2":21.67054700,"lon2":39.13958100},
 {"len_m":3689,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"16L","lat1":21.69779700,"lon1":39.16815600,"rwy2":"34R","lat2":21.66653300,"lon2":39.18048600},

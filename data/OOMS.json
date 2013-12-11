@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OOMS","name":"Seeb Intl","lat":23.58912850,"lon":058.28822710,"rwys":2,"ils":2,"index":3906657,"path":"e050n20/e058n23"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OOMS","name":"Seeb Intl","lat":23.58912850,"lon":58.28822710,"rwys":2,"ils":2,"index":3906657,"path":"e050n20/e058n23"
 ,"runways":[
 {"len_m":3588,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"08","lat1":23.59165800,"lon1":58.26689400,"rwy2":"26","lat2":23.59447500,"lon2":58.30192200},
 {"len_m":758,"wid_m":29.87,"hdg":19,"surf":"Dirt","rwy1":"02","lat1":23.59476700,"lon1":58.30194200,"rwy2":"20","lat2":23.60124200,"lon2":58.30436700}

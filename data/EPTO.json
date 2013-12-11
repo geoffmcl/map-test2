@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPTO","name":"Torun","lat":53.02769959,"lon":018.55985850,"rwys":4,"ils":0,"index":3253186,"path":"e010n50/e018n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPTO","name":"Torun","lat":53.02769959,"lon":18.55985850,"rwys":4,"ils":0,"index":3253186,"path":"e010n50/e018n53"
 ,"runways":[
 {"len_m":1180,"wid_m":57.00,"hdg":104,"surf":"Concrete","rwy1":"11R","lat1":53.03048900,"lon1":18.53779200,"rwy2":"29L","lat2":53.02780300,"lon2":18.55481900},
 {"len_m":850,"wid_m":99.97,"hdg":105,"surf":"Turf/grass","rwy1":"11L","lat1":53.03083300,"lon1":18.54444400,"rwy2":"29R","lat2":53.02885000,"lon2":18.55669200},

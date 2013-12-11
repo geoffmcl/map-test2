@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WIOB","name":"Bengkayang (maf)","lat":00.83157800,"lon":109.48316900,"rwys":1,"ils":0,"index":4740787,"path":"e100n00/e109n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WIOB","name":"Bengkayang (maf)","lat":0.83157800,"lon":109.48316900,"rwys":1,"ils":0,"index":4740787,"path":"e100n00/e109n00"
 ,"runways":[
 {"len_m":439,"wid_m":24.99,"hdg":40,"surf":"Turf/grass","rwy1":"04","lat1":0.83048290,"lon1":109.48139287,"rwy2":"22","lat2":0.83351710,"lon2":109.48393913}
 ]

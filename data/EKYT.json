@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EKYT","name":"Aalborg","lat":57.09020100,"lon":009.86495300,"rwys":2,"ils":1,"index":3105987,"path":"e000n50/e009n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EKYT","name":"Aalborg","lat":57.09020100,"lon":9.86495300,"rwys":2,"ils":1,"index":3105987,"path":"e000n50/e009n57"
 ,"runways":[
 {"len_m":2654,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08L","lat1":57.09371474,"lon1":9.83338123,"rwy2":"26R","lat2":57.09652392,"lon2":9.87687477},
 {"len_m":2549,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"08R","lat1":57.09190815,"lon1":9.83547587,"rwy2":"26L","lat2":57.09459624,"lon2":9.87724413}

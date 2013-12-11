@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KELM","name":"Elmira Corning Rgnl","lat":42.16358600,"lon":-076.89446300,"rwys":3,"ils":1,"index":1696008,"path":"w080n40/w077n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KELM","name":"Elmira Corning Rgnl","lat":42.16358600,"lon":-76.89446300,"rwys":3,"ils":1,"index":1696008,"path":"w080n40/w077n42"
 ,"runways":[
 {"len_m":2133,"wid_m":46.02,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":42.15466078,"lon1":-76.90165030,"rwy2":"24","lat2":42.16690722,"lon2":-76.88175770},
 {"len_m":1647,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":42.15779747,"lon1":-76.90294998,"rwy2":"28","lat2":42.15798053,"lon2":-76.88302202},

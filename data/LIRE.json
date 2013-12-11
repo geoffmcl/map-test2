@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIRE","name":"Pratica Di Mare","lat":41.65671200,"lon":012.45514300,"rwys":2,"ils":1,"index":3154153,"path":"e010n40/e012n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIRE","name":"Pratica Di Mare","lat":41.65671200,"lon":12.45514300,"rwys":2,"ils":1,"index":3154153,"path":"e010n40/e012n41"
 ,"runways":[
 {"len_m":2543,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":41.66114700,"lon1":12.43275600,"rwy2":"31","lat2":41.64643900,"lon2":12.45616700},
 {"len_m":2481,"wid_m":29.87,"hdg":129,"surf":"Asphalt","rwy1":"13L","lat1":41.66242200,"lon1":12.43448300,"rwy2":"31R","lat2":41.64808600,"lon2":12.45733100}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGPE","name":"Inverness","lat":57.53946867,"lon":-004.04434196,"rwys":2,"ils":1,"index":2876643,"path":"w010n50/w005n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGPE","name":"Inverness","lat":57.53946867,"lon":-4.04434196,"rwys":2,"ils":1,"index":2876643,"path":"w010n50/w005n57"
 ,"runways":[
 {"len_m":1887,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":57.53698443,"lon1":-4.05952689,"rwy2":"23","lat2":57.54800300,"lon2":-4.03556900},
 {"len_m":702,"wid_m":17.98,"hdg":109,"surf":"Asphalt","rwy1":"12","lat1":57.54464200,"lon1":-4.05986900,"rwy2":"30","lat2":57.54252500,"lon2":-4.04881100}

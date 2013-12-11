@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIMC","name":"Milano Malpensa","lat":45.62541400,"lon":008.71393900,"rwys":2,"ils":3,"index":3088874,"path":"e000n40/e008n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIMC","name":"Milano Malpensa","lat":45.62541400,"lon":8.71393900,"rwys":2,"ils":3,"index":3088874,"path":"e000n40/e008n45"
 ,"runways":[
 {"len_m":3920,"wid_m":60.05,"hdg":169,"surf":"Asphalt","rwy1":"17R","lat1":45.64546100,"lon1":8.71872500,"rwy2":"35L","lat2":45.61077200,"lon2":8.72781100},
 {"len_m":3920,"wid_m":60.05,"hdg":169,"surf":"Asphalt","rwy1":"17L","lat1":45.65043900,"lon1":8.72841100,"rwy2":"35R","lat2":45.61575000,"lon2":8.73749700}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LSGG","name":"Geneva","lat":46.22886836,"lon":006.10362784,"rwys":2,"ils":2,"index":3056136,"path":"e000n40/e006n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LSGG","name":"Geneva","lat":46.22886836,"lon":6.10362784,"rwys":2,"ils":2,"index":3056136,"path":"e000n40/e006n46"
 ,"runways":[
 {"len_m":3904,"wid_m":54.86,"hdg":45,"surf":"Concrete","rwy1":"05","lat1":46.22579381,"lon1":6.09093933,"rwy2":"23","lat2":46.25039752,"lon2":6.12706146},
 {"len_m":824,"wid_m":29.87,"hdg":45,"surf":"Turf/grass","rwy1":"05L","lat1":46.23481646,"lon1":6.09953181,"rwy2":"23R","lat2":46.24001038,"lon2":6.10715805}

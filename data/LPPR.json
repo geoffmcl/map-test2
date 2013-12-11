@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LPPR","name":"Porto","lat":41.24013700,"lon":-008.67142600,"rwys":1,"ils":1,"index":2810057,"path":"w010n40/w009n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LPPR","name":"Porto","lat":41.24013700,"lon":-8.67142600,"rwys":1,"ils":1,"index":2810057,"path":"w010n40/w009n41"
 ,"runways":[
 {"len_m":3485,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":41.26332800,"lon1":-8.68524400,"rwy2":"35","lat2":41.23253600,"lon2":-8.67719700}
 ]

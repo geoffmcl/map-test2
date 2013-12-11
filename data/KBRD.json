@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBRD","name":"Brainerd Lakes Rgnl","lat":46.39339057,"lon":-094.14064391,"rwys":3,"ils":2,"index":1401371,"path":"w100n40/w095n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBRD","name":"Brainerd Lakes Rgnl","lat":46.39339057,"lon":-94.14064391,"rwys":3,"ils":2,"index":1401371,"path":"w100n40/w095n46"
 ,"runways":[
 {"len_m":2180,"wid_m":46.02,"hdg":162,"surf":"Concrete","rwy1":"16","lat1":46.41758117,"lon1":-94.13612038,"rwy2":"34","lat2":46.39886510,"lon2":-94.12761672},
 {"len_m":1981,"wid_m":46.02,"hdg":53,"surf":"Concrete","rwy1":"05","lat1":46.39464700,"lon1":-94.14628900,"rwy2":"23","lat2":46.40523600,"lon2":-94.12556900},

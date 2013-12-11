@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMI","name":"Istres Le Tube Ba","lat":43.52458200,"lon":004.92977800,"rwys":2,"ils":1,"index":3023203,"path":"e000n40/e004n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMI","name":"Istres Le Tube Ba","lat":43.52458200,"lon":4.92977800,"rwys":2,"ils":1,"index":3023203,"path":"e000n40/e004n43"
 ,"runways":[
 {"len_m":3750,"wid_m":60.05,"hdg":152,"surf":"Concrete","rwy1":"15","lat1":43.53777100,"lon1":4.91330200,"rwy2":"33","lat2":43.50778900,"lon2":4.93462600},
 {"len_m":900,"wid_m":24.99,"hdg":152,"surf":"Concrete","rwy1":"15R","lat1":43.52330300,"lon1":4.91811600,"rwy2":"33L","lat2":43.51610700,"lon2":4.92323400}

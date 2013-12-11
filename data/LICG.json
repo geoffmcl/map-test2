@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LICG","name":"Pantelleria","lat":36.81519320,"lon":011.96984480,"rwys":2,"ils":1,"index":3137459,"path":"e010n30/e011n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LICG","name":"Pantelleria","lat":36.81519320,"lon":11.96984480,"rwys":2,"ils":1,"index":3137459,"path":"e010n30/e011n36"
 ,"runways":[
 {"len_m":1663,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":36.81412800,"lon1":11.95690000,"rwy2":"26","lat2":36.81765800,"lon2":11.97502500},
 {"len_m":1231,"wid_m":29.87,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":36.80795600,"lon1":11.96327500,"rwy2":"21","lat2":36.81776900,"lon2":11.96970800}

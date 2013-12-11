@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KRIC","name":"Richmond Intl","lat":37.51349300,"lon":-077.33246600,"rwys":3,"ils":2,"index":1679330,"path":"w080n30/w078n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KRIC","name":"Richmond Intl","lat":37.51349300,"lon":-77.33246600,"rwys":3,"ils":2,"index":1679330,"path":"w080n30/w078n37"
 ,"runways":[
 {"len_m":2748,"wid_m":46.02,"hdg":147,"surf":"Asphalt","rwy1":"16","lat1":37.51663951,"lon1":-77.32357755,"rwy2":"34","lat2":37.49574249,"lon2":-77.30689245},
 {"len_m":2013,"wid_m":46.02,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":37.49887588,"lon1":-77.32965869,"rwy2":"20","lat2":37.51652212,"lon2":-77.32436331},

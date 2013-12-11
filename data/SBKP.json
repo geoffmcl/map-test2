@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SBKP","name":"Sao Paulo Viracopos","lat":-23.00748800,"lon":-047.14446600,"rwys":1,"ils":1,"index":2166971,"path":"w050s30/w048s24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SBKP","name":"Sao Paulo Viracopos","lat":-23.00748800,"lon":-47.14446600,"rwys":1,"ils":1,"index":2166971,"path":"w050s30/w048s24"
 ,"runways":[
 {"len_m":3240,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"15","lat1":-22.99842800,"lon1":-47.14701900,"rwy2":"33","lat2":-23.01633900,"lon2":-47.12202500}
 ]

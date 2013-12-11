@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KUTS","name":"Huntsville Muni","lat":30.74350400,"lon":-095.58546400,"rwys":1,"ils":0,"index":1383977,"path":"w100n30/w096n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KUTS","name":"Huntsville Muni","lat":30.74350400,"lon":-95.58546400,"rwys":1,"ils":0,"index":1383977,"path":"w100n30/w096n30"
 ,"runways":[
 {"len_m":1526,"wid_m":29.87,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":30.75373100,"lon1":-95.58635000,"rwy2":"36","lat2":30.74003600,"lon2":-95.58795800}
 ]

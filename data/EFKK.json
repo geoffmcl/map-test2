@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFKK","name":"Kruunupyy","lat":63.71908800,"lon":023.13401600,"rwys":2,"ils":1,"index":3335784,"path":"e020n60/e023n63"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFKK","name":"Kruunupyy","lat":63.71908800,"lon":23.13401600,"rwys":2,"ils":1,"index":3335784,"path":"e020n60/e023n63"
 ,"runways":[
 {"len_m":2499,"wid_m":60.05,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":63.70784700,"lon1":23.13815800,"rwy2":"19","lat2":63.72988600,"lon2":23.14750000},
 {"len_m":699,"wid_m":20.12,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":63.72363900,"lon1":23.13008100,"rwy2":"29","lat2":63.72118600,"lon2":23.14311400}

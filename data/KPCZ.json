@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPCZ","name":"Waupaca Muni","lat":44.33057500,"lon":-089.01502400,"rwys":3,"ils":0,"index":1483155,"path":"w090n40/w090n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPCZ","name":"Waupaca Muni","lat":44.33057500,"lon":-89.01502400,"rwys":3,"ils":0,"index":1483155,"path":"w090n40/w090n44"
 ,"runways":[
 {"len_m":1584,"wid_m":30.48,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":44.33336400,"lon1":-89.03289200,"rwy2":"28","lat2":44.33250800,"lon2":-89.01305600},
 {"len_m":1188,"wid_m":22.86,"hdg":123,"surf":"Asphalt","rwy1":"13","lat1":44.33666700,"lon1":-89.02168900,"rwy2":"31","lat2":44.33071100,"lon2":-89.00930800},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LYPG","name":"Podgorica","lat":42.35997400,"lon":019.24651400,"rwys":2,"ils":1,"index":3268880,"path":"e010n40/e019n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LYPG","name":"Podgorica","lat":42.35997400,"lon":19.24651400,"rwys":2,"ils":1,"index":3268880,"path":"e010n40/e019n42"
 ,"runways":[
 {"len_m":2500,"wid_m":45.11,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":42.37061700,"lon1":19.25302200,"rwy2":"36","lat2":42.34817200,"lon2":19.25073600},
 {"len_m":2178,"wid_m":15.24,"hdg":85,"surf":"Asphalt","rwy1":"08","lat1":42.37578100,"lon1":19.28637500,"rwy2":"26","lat2":42.37721700,"lon2":19.31275300}

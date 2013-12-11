@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFSM","name":"Monbeliard Courcelles","lat":47.49239827,"lon":006.79042080,"rwys":2,"ils":0,"index":3056219,"path":"e000n40/e006n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFSM","name":"Monbeliard Courcelles","lat":47.49239827,"lon":6.79042080,"rwys":2,"ils":0,"index":3056219,"path":"e000n40/e006n47"
 ,"runways":[
 {"len_m":1706,"wid_m":20.12,"hdg":79,"surf":"Asphalt","rwy1":"8","lat1":47.48527257,"lon1":6.78025961,"rwy2":"26","lat2":47.48806077,"lon2":6.80252150},
 {"len_m":863,"wid_m":49.99,"hdg":79,"surf":"Turf/grass","rwy1":"8R","lat1":47.48632247,"lon1":6.78551576,"rwy2":"26L","lat2":47.48773293,"lon2":6.79677748}

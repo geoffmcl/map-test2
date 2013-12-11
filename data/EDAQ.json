@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDAQ","name":"Halle-oppin","lat":51.54798708,"lon":012.05843444,"rwys":2,"ils":0,"index":3154784,"path":"e010n50/e012n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDAQ","name":"Halle-oppin","lat":51.54798708,"lon":12.05843444,"rwys":2,"ils":0,"index":3154784,"path":"e010n50/e012n51"
 ,"runways":[
 {"len_m":1117,"wid_m":29.87,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":51.55439686,"lon1":12.04662386,"rwy2":"29","lat2":51.55025085,"lon2":12.06129717},
 {"len_m":1010,"wid_m":149.96,"hdg":113,"surf":"Turf/grass","rwy1":"11L","lat1":51.55695306,"lon1":12.04814529,"rwy2":"29R","lat2":51.55339331,"lon2":12.06155176}

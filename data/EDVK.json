@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDVK","name":"Kassel Calden","lat":51.40488941,"lon":009.37814754,"rwys":3,"ils":1,"index":3105625,"path":"e000n50/e009n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDVK","name":"Kassel Calden","lat":51.40488941,"lon":9.37814754,"rwys":3,"ils":1,"index":3105625,"path":"e000n50/e009n51"
 ,"runways":[
 {"len_m":1682,"wid_m":29.87,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":51.40226057,"lon1":9.36907850,"rwy2":"22","lat2":51.41366352,"lon2":9.38495618},
 {"len_m":724,"wid_m":29.87,"hdg":40,"surf":"Turf/grass","rwy1":"04L","lat1":51.40528645,"lon1":9.37035350,"rwy2":"22R","lat2":51.41019801,"lon2":9.37717990},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HHAS","name":"Asmara_intl","lat":15.29299000,"lon":038.90542200,"rwys":2,"ils":1,"index":3578455,"path":"e030n10/e038n15"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HHAS","name":"Asmara_intl","lat":15.29299000,"lon":38.90542200,"rwys":2,"ils":1,"index":3578455,"path":"e030n10/e038n15"
 ,"runways":[
 {"len_m":2999,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":15.28359500,"lon1":38.89403400,"rwy2":"25","lat2":15.29093300,"lon2":38.92092200},
 {"len_m":1949,"wid_m":45.11,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":15.29993100,"lon1":38.90514800,"rwy2":"30","lat2":15.29131300,"lon2":38.92097600}

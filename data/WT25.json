@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WT25","name":"Sungai Kunyit (maf)","lat":00.36183000,"lon":108.94375100,"rwys":1,"ils":0,"index":4724375,"path":"e100n00/e108n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WT25","name":"Sungai Kunyit (maf)","lat":0.36183000,"lon":108.94375100,"rwys":1,"ils":0,"index":4724375,"path":"e100n00/e108n00"
 ,"runways":[
 {"len_m":399,"wid_m":24.99,"hdg":50,"surf":"Turf/grass","rwy1":"05","lat1":0.36117637,"lon1":108.94195056,"rwy2":"23","lat2":0.36348963,"lon2":108.94470744}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX69","name":"Dimba (maf)","lat":-03.86680200,"lon":138.54923100,"rwys":1,"ils":0,"index":5215628,"path":"e130s10/e138s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX69","name":"Dimba (maf)","lat":-3.86680200,"lon":138.54923100,"rwys":1,"ils":0,"index":5215628,"path":"e130s10/e138s04"
 ,"runways":[
 {"len_m":398,"wid_m":29.87,"hdg":169,"surf":"Turf/grass","rwy1":"17","lat1":-3.86489394,"lon1":138.54968983,"rwy2":"35","lat2":-3.86843806,"lon2":138.55031617}
 ]

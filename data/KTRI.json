@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KTRI","name":"Tri Cities Rgnl Tn Va","lat":36.47620348,"lon":-082.41098996,"rwys":2,"ils":2,"index":1597338,"path":"w090n30/w083n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KTRI","name":"Tri Cities Rgnl Tn Va","lat":36.47620348,"lon":-82.41098996,"rwys":2,"ils":2,"index":1597338,"path":"w090n30/w083n36"
 ,"runways":[
 {"len_m":2438,"wid_m":46.02,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":36.46534200,"lon1":-82.41911230,"rwy2":"23","lat2":36.48152500,"lon2":-82.40070930},
 {"len_m":1353,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":36.47830300,"lon1":-82.41046900,"rwy2":"27","lat2":36.47850800,"lon2":-82.39536400}

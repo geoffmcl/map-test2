@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LECN","name":"Pinar De Castellon","lat":39.99494023,"lon":000.02473667,"rwys":2,"ils":0,"index":2957432,"path":"e000n30/e000n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LECN","name":"Pinar De Castellon","lat":39.99494023,"lon":0.02473667,"rwys":2,"ils":0,"index":2957432,"path":"e000n30/e000n39"
 ,"runways":[
 {"len_m":887,"wid_m":25.91,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":40.00232043,"lon1":0.02648762,"rwy2":"36","lat2":39.99433450,"lon2":0.02619644},
 {"len_m":809,"wid_m":64.92,"hdg":29,"surf":"Dirt","rwy1":"03","lat1":39.99568762,"lon1":0.02354431,"rwy2":"21","lat2":40.00200909,"lon2":0.02826720}

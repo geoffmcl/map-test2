@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEMG","name":"Malaga","lat":36.67738300,"lon":-004.49162800,"rwys":2,"ils":3,"index":2875306,"path":"w010n30/w005n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEMG","name":"Malaga","lat":36.67738300,"lon":-4.49162800,"rwys":2,"ils":3,"index":2875306,"path":"w010n30/w005n36"
 ,"runways":[
 {"len_m":3068,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":36.69099987,"lon1":-4.50778186,"rwy2":"30","lat2":36.67816088,"lon2":-4.47737335},
 {"len_m":3203,"wid_m":45.11,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":36.68455734,"lon1":-4.51262530,"rwy2":"31","lat2":36.66540266,"lon2":-4.48581403}

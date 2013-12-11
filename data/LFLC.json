@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFLC","name":"Clermont-ferrand_auvergne","lat":45.79035900,"lon":003.15818700,"rwys":1,"ils":1,"index":3006960,"path":"e000n40/e003n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFLC","name":"Clermont-ferrand_auvergne","lat":45.79035900,"lon":3.15818700,"rwys":1,"ils":1,"index":3006960,"path":"e000n40/e003n45"
 ,"runways":[
 {"len_m":3018,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":45.78482100,"lon1":3.15074800,"rwy2":"26","lat2":45.78860300,"lon2":3.18918600}
 ]

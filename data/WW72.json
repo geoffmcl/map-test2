@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW72","name":"Pulau Sapi (maf)","lat":03.52282300,"lon":116.54356800,"rwys":1,"ils":0,"index":4855652,"path":"e110n00/e116n03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW72","name":"Pulau Sapi (maf)","lat":3.52282300,"lon":116.54356800,"rwys":1,"ils":0,"index":4855652,"path":"e110n00/e116n03"
 ,"runways":[
 {"len_m":599,"wid_m":20.12,"hdg":299,"surf":"Dirt","rwy1":"30","lat1":3.52101645,"lon1":116.54564591,"rwy2":"12","lat2":3.52371555,"lon2":116.54096209}
 ]

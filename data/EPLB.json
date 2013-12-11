@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPLB","name":"Lublin","lat":51.23557955,"lon":022.71068412,"rwys":2,"ils":0,"index":3318602,"path":"e020n50/e022n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPLB","name":"Lublin","lat":51.23557955,"lon":22.71068412,"rwys":2,"ils":0,"index":3318602,"path":"e020n50/e022n51"
 ,"runways":[
 {"len_m":2529,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"07","lat1":51.23774100,"lon1":22.69595587,"rwy2":"25","lat2":51.24281500,"lon2":22.73126807},
 {"len_m":1052,"wid_m":67.67,"hdg":62,"surf":"Turf/grass","rwy1":"06","lat1":51.23021424,"lon1":22.68473198,"rwy2":"24","lat2":51.23460851,"lon2":22.69807443}

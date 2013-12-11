@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"XDOR","name":"Dornoch","lat":57.86773014,"lon":-004.02698446,"rwys":1,"ils":0,"index":2876659,"path":"w010n50/w005n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"XDOR","name":"Dornoch","lat":57.86773014,"lon":-4.02698446,"rwys":1,"ils":0,"index":2876659,"path":"w010n50/w005n57"
 ,"runways":[
 {"len_m":848,"wid_m":22.86,"hdg":88,"surf":"Turf/grass","rwy1":"10","lat1":57.86892244,"lon1":-4.03067870,"rwy2":"28","lat2":57.86916450,"lon2":-4.01639060}
 ]

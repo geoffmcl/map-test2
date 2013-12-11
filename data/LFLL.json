@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFLL","name":"Lyon Saint Exupery","lat":45.72556663,"lon":005.08106234,"rwys":2,"ils":3,"index":3039720,"path":"e000n40/e005n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFLL","name":"Lyon Saint Exupery","lat":45.72556663,"lon":5.08106234,"rwys":2,"ils":3,"index":3039720,"path":"e000n40/e005n45"
 ,"runways":[
 {"len_m":4005,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"18R","lat1":45.74659384,"lon1":5.08596244,"rwy2":"36L","lat2":45.71068847,"lon2":5.09033087},
 {"len_m":2679,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"18L","lat1":45.73499521,"lon1":5.09188409,"rwy2":"36R","lat2":45.71097123,"lon2":5.09481484}

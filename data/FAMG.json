@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAMG","name":"Margate","lat":-30.85993900,"lon":030.34315900,"rwys":1,"ils":0,"index":3444425,"path":"e030s40/e030s31"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAMG","name":"Margate","lat":-30.85993900,"lon":30.34315900,"rwys":1,"ils":0,"index":3444425,"path":"e030s40/e030s31"
 ,"runways":[
 {"len_m":1368,"wid_m":30.48,"hdg":22,"surf":"Asphalt","rwy1":"04","lat1":-30.86301899,"lon1":30.34013520,"rwy2":"22","lat2":-30.85164101,"lon2":30.34567680}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFRF","name":"Granville","lat":48.88112000,"lon":-001.56395400,"rwys":2,"ils":0,"index":2925241,"path":"w010n40/w002n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFRF","name":"Granville","lat":48.88112000,"lon":-1.56395400,"rwys":2,"ils":0,"index":2925241,"path":"w010n40/w002n48"
 ,"runways":[
 {"len_m":964,"wid_m":28.96,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":48.88027000,"lon1":-1.57146500,"rwy2":"25","lat2":48.88399400,"lon2":-1.55958900},
 {"len_m":304,"wid_m":46.02,"hdg":164,"surf":"Turf/grass","rwy1":"17","lat1":48.87995200,"lon1":-1.56175100,"rwy2":"35","lat2":48.87731000,"lon2":-1.56063900}

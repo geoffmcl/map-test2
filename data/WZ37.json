@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ37","name":"Keder (gki)","lat":-02.01749600,"lon":139.05697800,"rwys":1,"ils":0,"index":5232120,"path":"e130s10/e139s03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ37","name":"Keder (gki)","lat":-2.01749600,"lon":139.05697800,"rwys":1,"ils":0,"index":5232120,"path":"e130s10/e139s03"
 ,"runways":[
 {"len_m":549,"wid_m":20.12,"hdg":109,"surf":"Turf/grass","rwy1":"11","lat1":-2.01615566,"lon1":139.05483776,"rwy2":"29","lat2":-2.01784434,"lon2":139.05948024}
 ]

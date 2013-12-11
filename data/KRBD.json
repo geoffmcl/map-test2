@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KRBD","name":"Dallas Executive","lat":32.67779677,"lon":-096.87161739,"rwys":2,"ils":1,"index":1367720,"path":"w100n30/w097n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KRBD","name":"Dallas Executive","lat":32.67779677,"lon":-96.87161739,"rwys":2,"ils":1,"index":1367720,"path":"w100n30/w097n32"
 ,"runways":[
 {"len_m":1966,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":32.68731900,"lon1":-96.87643100,"rwy2":"31","lat2":32.67476700,"lon2":-96.86162800},
 {"len_m":1158,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.68580000,"lon1":-96.86679200,"rwy2":"35","lat2":32.67535800,"lon2":-96.86681900}

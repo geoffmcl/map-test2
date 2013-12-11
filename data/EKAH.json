@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EKAH","name":"Aarhus","lat":56.30088400,"lon":010.61697000,"rwys":2,"ils":2,"index":3122322,"path":"e010n50/e010n56"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EKAH","name":"Aarhus","lat":56.30088400,"lon":10.61697000,"rwys":2,"ils":2,"index":3122322,"path":"e010n50/e010n56"
 ,"runways":[
 {"len_m":2776,"wid_m":22.86,"hdg":100,"surf":"Asphalt","rwy1":"10L","lat1":56.30743300,"lon1":10.59779700,"rwy2":"28R","lat2":56.30297500,"lon2":10.64193100},
 {"len_m":2701,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10R","lat1":56.30549200,"lon1":10.59756700,"rwy2":"28L","lat2":56.30115800,"lon2":10.64051100}

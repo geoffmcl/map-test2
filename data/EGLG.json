@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGLG","name":"Panshanger","lat":51.79965416,"lon":-000.15209100,"rwys":1,"ils":0,"index":2941811,"path":"w010n50/w001n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGLG","name":"Panshanger","lat":51.79965416,"lon":-0.15209100,"rwys":1,"ils":0,"index":2941811,"path":"w010n50/w001n51"
 ,"runways":[
 {"len_m":978,"wid_m":25.91,"hdg":110,"surf":"Turf/grass","rwy1":"11","lat1":51.80347279,"lon1":-0.16433696,"rwy2":"29","lat2":51.80032634,"lon2":-0.15109626}
 ]

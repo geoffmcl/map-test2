@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENBS","name":"Batsfjord","lat":70.60292797,"lon":029.69624167,"rwys":1,"ils":1,"index":3434529,"path":"e020n70/e029n70"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENBS","name":"Batsfjord","lat":70.60292797,"lon":29.69624167,"rwys":1,"ils":1,"index":3434529,"path":"e020n70/e029n70"
 ,"runways":[
 {"len_m":1099,"wid_m":29.87,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":70.59600600,"lon1":29.68810500,"rwy2":"21","lat2":70.60426300,"lon2":29.70430600}
 ]

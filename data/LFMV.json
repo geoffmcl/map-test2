@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMV","name":"Caumont","lat":43.90445041,"lon":004.89880582,"rwys":3,"ils":1,"index":3023227,"path":"e000n40/e004n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMV","name":"Caumont","lat":43.90445041,"lon":4.89880582,"rwys":3,"ils":1,"index":3023227,"path":"e000n40/e004n43"
 ,"runways":[
 {"len_m":472,"wid_m":29.87,"hdg":169,"surf":"Turf/grass","rwy1":"16","lat1":43.91080605,"lon1":4.90321905,"rwy2":"34","lat2":43.90662331,"lon2":4.90428974},
 {"len_m":1879,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":43.91556441,"lon1":4.89936384,"rwy2":"35","lat2":43.89895841,"lon2":4.90384384},

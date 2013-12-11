@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGAA","name":"Belfast Aldergrove","lat":54.65351500,"lon":-006.22281000,"rwys":2,"ils":2,"index":2843691,"path":"w010n50/w007n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGAA","name":"Belfast Aldergrove","lat":54.65351500,"lon":-6.22281000,"rwys":2,"ils":2,"index":2843691,"path":"w010n50/w007n54"
 ,"runways":[
 {"len_m":2779,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":54.65225600,"lon1":-6.23523900,"rwy2":"25","lat2":54.66277800,"lon2":-6.19617800},
 {"len_m":1799,"wid_m":45.11,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":54.65792200,"lon1":-6.22862200,"rwy2":"35","lat2":54.64255600,"lon2":-6.21998600}

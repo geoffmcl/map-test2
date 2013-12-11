@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFRQ","name":"Quimper Pluguffan","lat":47.97224600,"lon":-004.17456100,"rwys":2,"ils":1,"index":2876027,"path":"w010n40/w005n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFRQ","name":"Quimper Pluguffan","lat":47.97224600,"lon":-4.17456100,"rwys":2,"ils":1,"index":2876027,"path":"w010n40/w005n47"
 ,"runways":[
 {"len_m":1107,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":47.96629100,"lon1":-4.17613200,"rwy2":"22","lat2":47.97468500,"lon2":-4.16814000},
 {"len_m":2150,"wid_m":45.11,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":47.97565600,"lon1":-4.18535500,"rwy2":"28","lat2":47.97447800,"lon2":-4.15661100}

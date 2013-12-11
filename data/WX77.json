@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX77","name":"Emdomen (ufm)","lat":-04.22501287,"lon":139.88020923,"rwys":1,"ils":0,"index":5231991,"path":"e130s10/e139s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX77","name":"Emdomen (ufm)","lat":-4.22501287,"lon":139.88020923,"rwys":1,"ils":0,"index":5231991,"path":"e130s10/e139s05"
 ,"runways":[
 {"len_m":399,"wid_m":17.98,"hdg":50,"surf":"Turf/grass","rwy1":"05","lat1":-4.22518607,"lon1":139.88024458,"rwy2":"23","lat2":-4.22287281,"lon2":139.88300880}
 ]

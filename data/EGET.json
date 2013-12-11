@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGET","name":"Lerwick Tingwall","lat":60.18890664,"lon":-001.24643744,"rwys":1,"ils":0,"index":2925963,"path":"w010n60/w002n60"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGET","name":"Lerwick Tingwall","lat":60.18890664,"lon":-1.24643744,"rwys":1,"ils":0,"index":2925963,"path":"w010n60/w002n60"
 ,"runways":[
 {"len_m":754,"wid_m":17.98,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":60.18878053,"lon1":-1.24508124,"rwy2":"20","lat2":60.19537800,"lon2":-1.24197500}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"XPLO","name":"Plockton","lat":57.33493708,"lon":-005.67212023,"rwys":1,"ils":0,"index":2860241,"path":"w010n50/w006n57"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"XPLO","name":"Plockton","lat":57.33493708,"lon":-5.67212023,"rwys":1,"ils":0,"index":2860241,"path":"w010n50/w006n57"
 ,"runways":[
 {"len_m":590,"wid_m":17.98,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":57.33280093,"lon1":-5.67429591,"rwy2":"20","lat2":57.33794751,"lon2":-5.67192132}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKPC","name":"Panensky Tynec","lat":50.30474701,"lon":013.92215420,"rwys":1,"ils":0,"index":3171091,"path":"e010n50/e013n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKPC","name":"Panensky Tynec","lat":50.30474701,"lon":13.92215420,"rwys":1,"ils":0,"index":3171091,"path":"e010n50/e013n50"
 ,"runways":[
 {"len_m":2504,"wid_m":29.87,"hdg":85,"surf":"Concrete","rwy1":"8","lat1":50.30539217,"lon1":13.91732506,"rwy2":"26","lat2":50.30708766,"lon2":13.95238563}
 ]

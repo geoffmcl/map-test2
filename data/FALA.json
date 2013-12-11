@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FALA","name":"Lanseria","lat":-25.93526500,"lon":027.92481400,"rwys":2,"ils":1,"index":3395587,"path":"e020s30/e027s26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FALA","name":"Lanseria","lat":-25.93526500,"lon":27.92481400,"rwys":2,"ils":1,"index":3395587,"path":"e020s30/e027s26"
 ,"runways":[
 {"len_m":3043,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"06L","lat1":-25.94781892,"lon1":27.91495575,"rwy2":"24R","lat2":-25.92921508,"lon2":27.93731225},
 {"len_m":2114,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"06R","lat1":-25.94803872,"lon1":27.91681546,"rwy2":"24L","lat2":-25.93511328,"lon2":27.93234854}

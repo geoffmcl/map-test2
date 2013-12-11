@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KSCB","name":"Scribner State","lat":41.61159024,"lon":-096.62326372,"rwys":2,"ils":0,"index":1368289,"path":"w100n40/w097n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KSCB","name":"Scribner State","lat":41.61159024,"lon":-96.62326372,"rwys":2,"ils":0,"index":1368289,"path":"w100n40/w097n41"
 ,"runways":[
 {"len_m":1507,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":41.62020102,"lon1":-96.62594608,"rwy2":"35","lat2":41.60662598,"lon2":-96.62575593},
 {"len_m":1071,"wid_m":17.98,"hdg":134,"surf":"Concrete","rwy1":"12","lat1":41.60975500,"lon1":-96.64011026,"rwy2":"30","lat2":41.60300800,"lon2":-96.63091500}

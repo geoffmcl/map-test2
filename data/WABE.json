@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WABE","name":"Ilu (dgac)","lat":-03.70538248,"lon":138.20081967,"rwys":1,"ils":0,"index":5215633,"path":"e130s10/e138s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WABE","name":"Ilu (dgac)","lat":-3.70538248,"lon":138.20081967,"rwys":1,"ils":0,"index":5215633,"path":"e130s10/e138s04"
 ,"runways":[
 {"len_m":788,"wid_m":29.87,"hdg":352,"surf":"Turf/grass","rwy1":"35","lat1":-3.70906409,"lon1":138.20087914,"rwy2":"17","lat2":-3.70198991,"lon2":138.19997286}
 ]

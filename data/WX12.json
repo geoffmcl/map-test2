@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX12","name":"Apa Uping (pertamina)","lat":03.07327300,"lon":115.83400600,"rwys":1,"ils":0,"index":4839238,"path":"e110n00/e115n03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX12","name":"Apa Uping (pertamina)","lat":3.07327300,"lon":115.83400600,"rwys":1,"ils":0,"index":4839238,"path":"e110n00/e115n03"
 ,"runways":[
 {"len_m":333,"wid_m":17.98,"hdg":159,"surf":"Dirt","rwy1":"16","lat1":3.07484908,"lon1":115.83393421,"rwy2":"34","lat2":3.07201892,"lon2":115.83496579}
 ]

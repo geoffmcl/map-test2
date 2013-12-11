@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KFBY","name":"Fairbury Muni","lat":40.17651397,"lon":-097.16695518,"rwys":2,"ils":0,"index":1351819,"path":"w100n40/w098n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KFBY","name":"Fairbury Muni","lat":40.17651397,"lon":-97.16695518,"rwys":2,"ils":0,"index":1351819,"path":"w100n40/w098n40"
 ,"runways":[
 {"len_m":1128,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":40.18804600,"lon1":-97.16920000,"rwy2":"35","lat2":40.17788400,"lon2":-97.16930600},
 {"len_m":766,"wid_m":46.02,"hdg":120,"surf":"Transparent","rwy1":"11","lat1":40.18221681,"lon1":-97.16974154,"rwy2":"29","lat2":40.17872519,"lon2":-97.16198306}

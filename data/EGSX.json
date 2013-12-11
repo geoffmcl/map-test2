@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGSX","name":"North Weald","lat":51.72102882,"lon":000.15112087,"rwys":2,"ils":0,"index":2958184,"path":"e000n50/e000n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGSX","name":"North Weald","lat":51.72102882,"lon":0.15112087,"rwys":2,"ils":0,"index":2958184,"path":"e000n50/e000n51"
 ,"runways":[
 {"len_m":1873,"wid_m":45.11,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":51.71387406,"lon1":0.15076001,"rwy2":"20","lat2":51.73007752,"lon2":0.15812736},
 {"len_m":671,"wid_m":35.05,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":51.72236567,"lon1":0.14398851,"rwy2":"31","lat2":51.71921179,"lon2":0.15227157}

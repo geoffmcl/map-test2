@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAHQ","name":"Wahoo Muni","lat":41.23858852,"lon":-096.59763595,"rwys":2,"ils":0,"index":1368265,"path":"w100n40/w097n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAHQ","name":"Wahoo Muni","lat":41.23858852,"lon":-96.59763595,"rwys":2,"ils":0,"index":1368265,"path":"w100n40/w097n41"
 ,"runways":[
 {"len_m":1250,"wid_m":22.86,"hdg":23,"surf":"Concrete","rwy1":"02","lat1":41.23668406,"lon1":-96.59674640,"rwy2":"20","lat2":41.24697544,"lon2":-96.59068136},
 {"len_m":1180,"wid_m":46.02,"hdg":140,"surf":"Transparent","rwy1":"13","lat1":41.24303492,"lon1":-96.59984130,"rwy2":"31","lat2":41.23478358,"lon2":-96.59095553}

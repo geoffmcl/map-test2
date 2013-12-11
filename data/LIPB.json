@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIPB","name":"Bolzano","lat":46.46378330,"lon":011.32984640,"rwys":2,"ils":1,"index":3138073,"path":"e010n40/e011n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIPB","name":"Bolzano","lat":46.46378330,"lon":11.32984640,"rwys":2,"ils":1,"index":3138073,"path":"e010n40/e011n46"
 ,"runways":[
 {"len_m":1296,"wid_m":29.87,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":46.45435300,"lon1":11.32485300,"rwy2":"19","lat2":46.46583300,"lon2":11.32785600},
 {"len_m":698,"wid_m":20.12,"hdg":10,"surf":"Turf/grass","rwy1":"01R","lat1":46.45463300,"lon1":11.32653300,"rwy2":"19L","lat2":46.46080600,"lon2":11.32820600}

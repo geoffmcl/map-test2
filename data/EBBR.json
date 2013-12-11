@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBBR","name":"Brussels Airport","lat":50.90729000,"lon":004.50873800,"rwys":3,"ils":4,"index":3023674,"path":"e000n50/e004n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBBR","name":"Brussels Airport","lat":50.90729000,"lon":4.50873800,"rwys":3,"ils":4,"index":3023674,"path":"e000n50/e004n50"
 ,"runways":[
 {"len_m":3698,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07L","lat1":50.89886682,"lon1":4.45563939,"rwy2":"25R","lat2":50.91279104,"lon2":4.50339081},
 {"len_m":3270,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07R","lat1":50.88903977,"lon1":4.48039286,"rwy2":"25L","lat2":50.89911322,"lon2":4.52406473},

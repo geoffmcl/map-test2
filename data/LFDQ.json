@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFDQ","name":"Castelnau Magnoac","lat":43.28008100,"lon":000.52180100,"rwys":1,"ils":0,"index":2957650,"path":"e000n40/e000n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFDQ","name":"Castelnau Magnoac","lat":43.28008100,"lon":0.52180100,"rwys":1,"ils":0,"index":2957650,"path":"e000n40/e000n43"
 ,"runways":[
 {"len_m":560,"wid_m":39.93,"hdg":217,"surf":"Turf/grass","rwy1":"22","lat1":43.28167901,"lon1":0.52405555,"rwy2":"04","lat2":43.27765699,"lon2":0.51989245}
 ]

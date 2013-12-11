@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SUMU","name":"Montevideo Carrasco Intl","lat":-34.84123600,"lon":-056.02592300,"rwys":3,"ils":2,"index":2018763,"path":"w060s40/w057s35"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SUMU","name":"Montevideo Carrasco Intl","lat":-34.84123600,"lon":-56.02592300,"rwys":3,"ils":2,"index":2018763,"path":"w060s40/w057s35"
 ,"runways":[
 {"len_m":3200,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"06","lat1":-34.84403600,"lon1":-56.03999200,"rwy2":"24","lat2":-34.82681900,"lon2":-56.01191700},
 {"len_m":2251,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":-34.84186400,"lon1":-56.03064400,"rwy2":"19","lat2":-34.82157200,"lon2":-56.03099200},

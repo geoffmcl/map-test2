@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KGGG","name":"East Texas Rgnl","lat":32.37993510,"lon":-094.71249031,"rwys":2,"ils":1,"index":1400473,"path":"w100n30/w095n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KGGG","name":"East Texas Rgnl","lat":32.37993510,"lon":-94.71249031,"rwys":2,"ils":1,"index":1400473,"path":"w100n30/w095n32"
 ,"runways":[
 {"len_m":3047,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":32.39254400,"lon1":-94.72012200,"rwy2":"31","lat2":32.37352800,"lon2":-94.69673900},
 {"len_m":1861,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":32.39400800,"lon1":-94.71669700,"rwy2":"36","lat2":32.37722200,"lon2":-94.71628100}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMDW","name":"Chicago Midway Intl","lat":41.77993800,"lon":-087.75277700,"rwys":5,"ils":2,"index":1515760,"path":"w090n40/w088n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMDW","name":"Chicago Midway Intl","lat":41.77993800,"lon":-87.75277700,"rwys":5,"ils":2,"index":1515760,"path":"w090n40/w088n41"
 ,"runways":[
 {"len_m":1987,"wid_m":45.72,"hdg":133,"surf":"Concrete","rwy1":"13C","lat1":41.79157200,"lon1":-87.76106700,"rwy2":"31C","lat2":41.77923900,"lon2":-87.74373900},
 {"len_m":1964,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"04R","lat1":41.77916100,"lon1":-87.75931700,"rwy2":"22L","lat2":41.79199700,"lon2":-87.74305600},

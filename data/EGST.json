@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGST","name":"Elmsett","lat":52.07819938,"lon":000.97755147,"rwys":1,"ils":0,"index":2958211,"path":"e000n50/e000n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGST","name":"Elmsett","lat":52.07819938,"lon":0.97755147,"rwys":1,"ils":0,"index":2958211,"path":"e000n50/e000n52"
 ,"runways":[
 {"len_m":888,"wid_m":25.91,"hdg":47,"surf":"Turf/grass","rwy1":"05","lat1":52.07283185,"lon1":0.97309678,"rwy2":"23","lat2":52.07823070,"lon2":0.98263726}
 ]

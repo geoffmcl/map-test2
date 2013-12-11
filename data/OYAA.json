@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OYAA","name":"Aden Intl","lat":12.82765300,"lon":045.03710700,"rwys":1,"ils":2,"index":3692976,"path":"e040n10/e045n12"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OYAA","name":"Aden Intl","lat":12.82765300,"lon":45.03710700,"rwys":1,"ils":2,"index":3692976,"path":"e040n10/e045n12"
 ,"runways":[
 {"len_m":3126,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":12.82641700,"lon1":45.01475000,"rwy2":"26","lat2":12.83266700,"lon2":45.04283600}
 ]

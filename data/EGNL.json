@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGNL","name":"Barrow Walney Island","lat":54.12576401,"lon":-003.26182918,"rwys":3,"ils":1,"index":2892810,"path":"w010n50/w004n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGNL","name":"Barrow Walney Island","lat":54.12576401,"lon":-3.26182918,"rwys":3,"ils":1,"index":2892810,"path":"w010n50/w004n54"
 ,"runways":[
 {"len_m":1050,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":54.12399972,"lon1":-3.26758115,"rwy2":"23","lat2":54.13017914,"lon2":-3.25542925},
 {"len_m":1011,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":54.13312500,"lon1":-3.26929400,"rwy2":"35","lat2":54.12430600,"lon2":-3.26557500},

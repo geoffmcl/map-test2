@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIKF","name":"Keflavik","lat":63.98066273,"lon":-022.59533143,"rwys":2,"ils":4,"index":2582136,"path":"w030n60/w023n63"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIKF","name":"Keflavik","lat":63.98066273,"lon":-22.59533143,"rwys":2,"ils":4,"index":2582136,"path":"w030n60/w023n63"
 ,"runways":[
 {"len_m":3054,"wid_m":60.05,"hdg":0,"surf":"Asphalt","rwy1":"02","lat1":63.96448319,"lon1":-22.60544552,"rwy2":"20","lat2":63.99188019,"lon2":-22.60542552},
 {"len_m":3065,"wid_m":60.05,"hdg":89,"surf":"Asphalt","rwy1":"11","lat1":63.98504094,"lon1":-22.65499831,"rwy2":"29","lat2":63.98504419,"lon2":-22.59238152}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SBBE","name":"Val De Caes Intl","lat":-01.38836300,"lon":-048.48056400,"rwys":2,"ils":1,"index":2151972,"path":"w050s10/w049s02"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SBBE","name":"Val De Caes Intl","lat":-1.38836300,"lon":-48.48056400,"rwys":2,"ils":1,"index":2151972,"path":"w050s10/w049s02"
 ,"runways":[
 {"len_m":2801,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":-1.38808300,"lon1":-48.48496900,"rwy2":"24","lat2":-1.37032200,"lon2":-48.46701400},
 {"len_m":1825,"wid_m":45.11,"hdg":4,"surf":"Asphalt","rwy1":"02","lat1":-1.39057800,"lon1":-48.47703100,"rwy2":"20","lat2":-1.37412200,"lon2":-48.47574200}

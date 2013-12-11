@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LMI","name":"Lumi","lat":-03.47470300,"lon":142.04314000,"rwys":1,"ils":0,"index":5281184,"path":"e140s10/e142s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LMI","name":"Lumi","lat":-3.47470300,"lon":142.04314000,"rwys":1,"ils":0,"index":5281184,"path":"e140s10/e142s04"
 ,"runways":[
 {"len_m":766,"wid_m":30.48,"hdg":268,"surf":"Dirt","rwy1":"27","lat1":-3.47544186,"lon1":142.04350068,"rwy2":"09","lat2":-3.47568214,"lon2":142.03660732}
 ]

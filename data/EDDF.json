@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDF","name":"Frankfurt Am Main","lat":50.04511800,"lon":008.55821800,"rwys":4,"ils":6,"index":3089154,"path":"e000n50/e008n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDF","name":"Frankfurt Am Main","lat":50.04511800,"lon":8.55821800,"rwys":4,"ils":6,"index":3089154,"path":"e000n50/e008n50"
 ,"runways":[
 {"len_m":4000,"wid_m":60.05,"hdg":69,"surf":"Asphalt","rwy1":"07C","lat1":50.03261700,"lon1":8.53463099,"rwy2":"25C","lat2":50.04512800,"lon2":8.58698099},
 {"len_m":2799,"wid_m":45.11,"hdg":69,"surf":"Concrete","rwy1":"07L","lat1":50.03705400,"lon1":8.49707800,"rwy2":"25R","lat2":50.04582500,"lon2":8.53371600},

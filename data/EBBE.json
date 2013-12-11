@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBBE","name":"Beauvechain","lat":50.75734806,"lon":004.77850833,"rwys":2,"ils":1,"index":3023667,"path":"e000n50/e004n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBBE","name":"Beauvechain","lat":50.75734806,"lon":4.77850833,"rwys":2,"ils":1,"index":3023667,"path":"e000n50/e004n50"
 ,"runways":[
 {"len_m":2793,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"04L","lat1":50.74894664,"lon1":4.75582607,"rwy2":"22R","lat2":50.76849203,"lon2":4.78068638},
 {"len_m":2319,"wid_m":22.86,"hdg":38,"surf":"Asphalt","rwy1":"04R","lat1":50.74707287,"lon1":4.76013650,"rwy2":"22L","lat2":50.76329036,"lon2":4.78078794}

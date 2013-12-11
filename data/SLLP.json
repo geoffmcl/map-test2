@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SLLP","name":"La Paz","lat":-16.50833100,"lon":-068.17757300,"rwys":2,"ils":1,"index":1823326,"path":"w070s20/w069s17"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SLLP","name":"La Paz","lat":-16.50833100,"lon":-68.17757300,"rwys":2,"ils":1,"index":1823326,"path":"w070s20/w069s17"
 ,"runways":[
 {"len_m":3999,"wid_m":46.02,"hdg":91,"surf":"Concrete","rwy1":"10","lat1":-16.51274400,"lon1":-68.21097500,"rwy2":"28","lat2":-16.51393100,"lon2":-68.17353600},
 {"len_m":2049,"wid_m":91.44,"hdg":97,"surf":"Dirt","rwy1":"10L","lat1":-16.50413900,"lon1":-68.19836100,"rwy2":"28R","lat2":-16.50661100,"lon2":-68.17933300}

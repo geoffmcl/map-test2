@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBKT","name":"Wevelgem","lat":50.82042566,"lon":003.21792233,"rwys":1,"ils":1,"index":3007280,"path":"e000n50/e003n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBKT","name":"Wevelgem","lat":50.82042566,"lon":3.21792233,"rwys":1,"ils":1,"index":3007280,"path":"e000n50/e003n50"
 ,"runways":[
 {"len_m":1899,"wid_m":45.11,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":50.81476951,"lon1":3.19707342,"rwy2":"24","lat2":50.82278009,"lon2":3.22088232}
 ]

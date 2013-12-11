@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAPF","name":"Naples Muni","lat":26.14920200,"lon":-081.77629900,"rwys":3,"ils":0,"index":1613064,"path":"w090n20/w082n26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAPF","name":"Naples Muni","lat":26.14920200,"lon":-81.77629900,"rwys":3,"ils":0,"index":1613064,"path":"w090n20/w082n26"
 ,"runways":[
 {"len_m":1612,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":26.14721700,"lon1":-81.78139400,"rwy2":"23","lat2":26.15764400,"lon2":-81.77014700},
 {"len_m":1524,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":26.15761900,"lon1":-81.78025300,"rwy2":"32","lat2":26.14802200,"lon2":-81.76933100},

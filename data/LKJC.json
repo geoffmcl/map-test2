@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKJC","name":"Jicin","lat":50.42877183,"lon":015.32373629,"rwys":1,"ils":0,"index":3203865,"path":"e010n50/e015n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKJC","name":"Jicin","lat":50.42877183,"lon":15.32373629,"rwys":1,"ils":0,"index":3203865,"path":"e010n50/e015n50"
 ,"runways":[
 {"len_m":1000,"wid_m":99.97,"hdg":124,"surf":"Turf/grass","rwy1":"12","lat1":50.43265839,"lon1":15.32715052,"rwy2":"30","lat2":50.42751981,"lon2":15.33871372}
 ]

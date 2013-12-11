@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WAPO","name":"Larat (local Gov)","lat":-07.12809008,"lon":131.76349691,"rwys":1,"ils":0,"index":5100726,"path":"e130s10/e131s08"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WAPO","name":"Larat (local Gov)","lat":-7.12809008,"lon":131.76349691,"rwys":1,"ils":0,"index":5100726,"path":"e130s10/e131s08"
 ,"runways":[
 {"len_m":824,"wid_m":22.86,"hdg":95,"surf":"Gravel","rwy1":"10","lat1":-7.12773703,"lon1":131.76316562,"rwy2":"28","lat2":-7.12841097,"lon2":131.77059838}
 ]

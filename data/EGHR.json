@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGHR","name":"Chichester Goodwood","lat":50.85980614,"lon":-000.75649059,"rwys":4,"ils":0,"index":2941744,"path":"w010n50/w001n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGHR","name":"Chichester Goodwood","lat":50.85980614,"lon":-0.75649059,"rwys":4,"ils":0,"index":2941744,"path":"w010n50/w001n50"
 ,"runways":[
 {"len_m":1296,"wid_m":46.02,"hdg":139,"surf":"Turf/grass","rwy1":"14R","lat1":50.86376886,"lon1":-0.76523745,"rwy2":"32L","lat2":50.85493942,"lon2":-0.75320919},
 {"len_m":725,"wid_m":29.87,"hdg":139,"surf":"Turf/grass","rwy1":"14L","lat1":50.86153300,"lon1":-0.76148100,"rwy2":"32R","lat2":50.85660600,"lon2":-0.75473300},

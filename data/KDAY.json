@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDAY","name":"James M Cox Dayton Intl","lat":39.89870766,"lon":-084.22119933,"rwys":3,"ils":4,"index":1564795,"path":"w090n30/w085n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDAY","name":"James M Cox Dayton Intl","lat":39.89870766,"lon":-84.22119933,"rwys":3,"ils":4,"index":1564795,"path":"w090n30/w085n39"
 ,"runways":[
 {"len_m":3322,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06L","lat1":39.89511100,"lon1":-84.24601700,"rwy2":"24R","lat2":39.91212500,"lon2":-84.21405800},
 {"len_m":2590,"wid_m":46.02,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":39.91732500,"lon1":-84.21205000,"rwy2":"36","lat2":39.89400000,"lon2":-84.21126900},

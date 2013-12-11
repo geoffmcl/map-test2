@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ESIB","name":"Satenas","lat":58.44054400,"lon":012.70262100,"rwys":2,"ils":1,"index":3155226,"path":"e010n50/e012n58"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ESIB","name":"Satenas","lat":58.44054400,"lon":12.70262100,"rwys":2,"ils":1,"index":3155226,"path":"e010n50/e012n58"
 ,"runways":[
 {"len_m":2264,"wid_m":39.93,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":58.41816400,"lon1":12.70966700,"rwy2":"19","lat2":58.43842500,"lon2":12.71276100},
 {"len_m":1933,"wid_m":39.93,"hdg":111,"surf":"Asphalt","rwy1":"11","lat1":58.43311100,"lon1":12.69472200,"rwy2":"29","lat2":58.42663900,"lon2":12.72542200}

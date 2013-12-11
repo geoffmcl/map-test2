@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ46","name":"Kono (ufm)","lat":-04.33460737,"lon":139.81737436,"rwys":1,"ils":0,"index":5231982,"path":"e130s10/e139s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ46","name":"Kono (ufm)","lat":-4.33460737,"lon":139.81737436,"rwys":1,"ils":0,"index":5231982,"path":"e130s10/e139s05"
 ,"runways":[
 {"len_m":365,"wid_m":17.98,"hdg":55,"surf":"Turf/grass","rwy1":"05","lat1":-4.33486534,"lon1":139.81736798,"rwy2":"23","lat2":-4.33301445,"lon2":139.82009755}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBKH","name":"Balen Keiheuvel","lat":51.18061253,"lon":005.21542511,"rwys":1,"ils":0,"index":3040072,"path":"e000n50/e005n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBKH","name":"Balen Keiheuvel","lat":51.18061253,"lon":5.21542511,"rwys":1,"ils":0,"index":3040072,"path":"e000n50/e005n51"
 ,"runways":[
 {"len_m":1000,"wid_m":35.97,"hdg":65,"surf":"Turf/grass","rwy1":"07","lat1":51.17920361,"lon1":5.21332092,"rwy2":"25","lat2":51.18292101,"lon2":5.22634836}
 ]

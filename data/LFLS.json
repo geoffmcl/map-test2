@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFLS","name":"St Geoirs","lat":45.36021200,"lon":005.33079800,"rwys":3,"ils":1,"index":3039697,"path":"e000n40/e005n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFLS","name":"St Geoirs","lat":45.36021200,"lon":5.33079800,"rwys":3,"ils":1,"index":3039697,"path":"e000n40/e005n45"
 ,"runways":[
 {"len_m":3049,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.36278200,"lon1":5.30983100,"rwy2":"27","lat2":45.36267200,"lon2":5.34875300},
 {"len_m":901,"wid_m":31.09,"hdg":90,"surf":"Turf/grass","rwy1":"09R","lat1":45.36208216,"lon1":5.31764233,"rwy2":"27L","lat2":45.36205393,"lon2":5.32915163},

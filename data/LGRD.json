@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LGRD","name":"Maritsa","lat":36.38154600,"lon":028.11100580,"rwys":2,"ils":0,"index":3415960,"path":"e020n30/e028n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LGRD","name":"Maritsa","lat":36.38154600,"lon":28.11100580,"rwys":2,"ils":0,"index":3415960,"path":"e020n30/e028n36"
 ,"runways":[
 {"len_m":2431,"wid_m":45.11,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":36.38111100,"lon1":28.09555600,"rwy2":"26","lat2":36.38499700,"lon2":28.12222200},
 {"len_m":1213,"wid_m":60.05,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":36.38861100,"lon1":28.11361100,"rwy2":"32","lat2":36.38000000,"lon2":28.12194400}

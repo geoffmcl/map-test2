@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ESOK","name":"Karlstad","lat":59.44250500,"lon":013.34113900,"rwys":2,"ils":2,"index":3171673,"path":"e010n50/e013n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ESOK","name":"Karlstad","lat":59.44250500,"lon":13.34113900,"rwys":2,"ils":2,"index":3171673,"path":"e010n50/e013n59"
 ,"runways":[
 {"len_m":2516,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":59.43453300,"lon1":13.32776400,"rwy2":"21","lat2":59.45489200,"lon2":13.34696700},
 {"len_m":559,"wid_m":51.82,"hdg":26,"surf":"Dirt","rwy1":"03L","lat1":59.45028300,"lon1":13.33753100,"rwy2":"21R","lat2":59.45479400,"lon2":13.34188300}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMN","name":"Nice/cote D'azur","lat":43.66562283,"lon":007.21486596,"rwys":2,"ils":2,"index":3072360,"path":"e000n40/e007n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMN","name":"Nice/cote D'azur","lat":43.66562283,"lon":7.21486596,"rwys":2,"ils":2,"index":3072360,"path":"e000n40/e007n43"
 ,"runways":[
 {"len_m":2964,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04R","lat1":43.64658511,"lon1":7.20258040,"rwy2":"22L","lat2":43.66554901,"lon2":7.22843657},
 {"len_m":2570,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04L","lat1":43.65171156,"lon1":7.20395740,"rwy2":"22R","lat2":43.66807997,"lon2":7.22647422}

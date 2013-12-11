@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX36","name":"Bentiang (maf)","lat":00.92127143,"lon":109.91713487,"rwys":1,"ils":0,"index":4740799,"path":"e100n00/e109n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX36","name":"Bentiang (maf)","lat":0.92127143,"lon":109.91713487,"rwys":1,"ils":0,"index":4740799,"path":"e100n00/e109n00"
 ,"runways":[
 {"len_m":425,"wid_m":24.99,"hdg":220,"surf":"Turf/grass","rwy1":"22","lat1":0.92182587,"lon1":109.91716737,"rwy2":"04","lat2":0.91888413,"lon2":109.91469863}
 ]

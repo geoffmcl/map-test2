@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KSWT","name":"Seward Muni","lat":40.86349809,"lon":-097.10625279,"rwys":2,"ils":0,"index":1351859,"path":"w100n40/w098n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KSWT","name":"Seward Muni","lat":40.86349809,"lon":-97.10625279,"rwys":2,"ils":0,"index":1351859,"path":"w100n40/w098n40"
 ,"runways":[
 {"len_m":1282,"wid_m":22.86,"hdg":174,"surf":"Concrete","rwy1":"16","lat1":40.86928010,"lon1":-97.10956036,"rwy2":"34","lat2":40.85779040,"lon2":-97.10807071},
 {"len_m":1041,"wid_m":46.02,"hdg":47,"surf":"Transparent","rwy1":"04","lat1":40.86302690,"lon1":-97.11426013,"rwy2":"22","lat2":40.86941110,"lon2":-97.10520715}

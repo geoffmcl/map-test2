@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENHF","name":"Hammerfest","lat":70.68007863,"lon":023.67538886,"rwys":1,"ils":2,"index":3336233,"path":"e020n70/e023n70"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENHF","name":"Hammerfest","lat":70.68007863,"lon":23.67538886,"rwys":1,"ils":2,"index":3336233,"path":"e020n70/e023n70"
 ,"runways":[
 {"len_m":886,"wid_m":29.87,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":70.67735636,"lon1":23.65827557,"rwy2":"23","lat2":70.68180564,"lon2":23.67816807}
 ]

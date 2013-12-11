@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGFE","name":"Haverfordwest","lat":51.83167431,"lon":-004.96867967,"rwys":2,"ils":0,"index":2876272,"path":"w010n50/w005n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGFE","name":"Haverfordwest","lat":51.83167431,"lon":-4.96867967,"rwys":2,"ils":0,"index":2876272,"path":"w010n50/w005n51"
 ,"runways":[
 {"len_m":1516,"wid_m":45.11,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":51.82738585,"lon1":-4.96630092,"rwy2":"21","lat2":51.83922720,"lon2":-4.95539859},
 {"len_m":1086,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":51.83409451,"lon1":-4.97064962,"rwy2":"27","lat2":51.83451493,"lon2":-4.95490673}

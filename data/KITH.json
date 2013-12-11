@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KITH","name":"Ithaca Tompkins Rgnl","lat":42.49102707,"lon":-076.46197394,"rwys":2,"ils":1,"index":1696026,"path":"w080n40/w077n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KITH","name":"Ithaca Tompkins Rgnl","lat":42.49102707,"lon":-76.46197394,"rwys":2,"ils":1,"index":1696026,"path":"w080n40/w077n42"
 ,"runways":[
 {"len_m":2015,"wid_m":46.02,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":42.49718578,"lon1":-76.46756033,"rwy2":"32","lat2":42.48493129,"lon2":-76.44948742},
 {"len_m":616,"wid_m":14.94,"hdg":132,"surf":"Turf/grass","rwy1":"15","lat1":42.49330555,"lon1":-76.46079906,"rwy2":"33","lat2":42.48955887,"lon2":-76.45527348}

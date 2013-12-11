@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGTB","name":"Wycombe Air Park","lat":51.61061703,"lon":-000.80251845,"rwys":3,"ils":0,"index":2941792,"path":"w010n50/w001n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGTB","name":"Wycombe Air Park","lat":51.61061703,"lon":-0.80251845,"rwys":3,"ils":0,"index":2941792,"path":"w010n50/w001n51"
 ,"runways":[
 {"len_m":730,"wid_m":22.86,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":51.61020600,"lon1":-0.81289400,"rwy2":"25","lat2":51.61325800,"lon2":-0.80356400},
 {"len_m":704,"wid_m":29.87,"hdg":167,"surf":"Turf/grass","rwy1":"17","lat1":51.61330702,"lon1":-0.80881126,"rwy2":"35","lat2":51.60712800,"lon2":-0.80661900},

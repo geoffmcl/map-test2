@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGTC","name":"Cranfield","lat":52.07027717,"lon":-000.62670345,"rwys":4,"ils":1,"index":2941825,"path":"w010n50/w001n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGTC","name":"Cranfield","lat":52.07027717,"lon":-0.62670345,"rwys":4,"ils":1,"index":2941825,"path":"w010n50/w001n52"
 ,"runways":[
 {"len_m":1796,"wid_m":46.02,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":52.06524804,"lon1":-0.62357864,"rwy2":"21","lat2":52.07897800,"lon2":-0.60979700},
 {"len_m":617,"wid_m":17.98,"hdg":175,"surf":"Asphalt","rwy1":"18","lat1":52.07322499,"lon1":-0.62093323,"rwy2":"36","lat2":52.06769201,"lon2":-0.62022482},

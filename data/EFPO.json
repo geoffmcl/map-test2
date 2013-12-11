@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFPO","name":"Pori","lat":61.46792300,"lon":021.79422700,"rwys":2,"ils":1,"index":3302875,"path":"e020n60/e021n61"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFPO","name":"Pori","lat":61.46792300,"lon":21.79422700,"rwys":2,"ils":1,"index":3302875,"path":"e020n60/e021n61"
 ,"runways":[
 {"len_m":2351,"wid_m":60.05,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":61.46811400,"lon1":21.78134400,"rwy2":"30","lat2":61.45577500,"lon2":21.81711900},
 {"len_m":800,"wid_m":29.87,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":61.46397800,"lon1":21.79847800,"rwy2":"35","lat2":61.45683100,"lon2":21.80007800}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FARS","name":"Robertson","lat":-33.81299900,"lon":019.90201000,"rwys":2,"ils":0,"index":3264011,"path":"e010s40/e019s34"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FARS","name":"Robertson","lat":-33.81299900,"lon":19.90201000,"rwys":2,"ils":0,"index":3264011,"path":"e010s40/e019s34"
 ,"runways":[
 {"len_m":1503,"wid_m":14.94,"hdg":80,"surf":"Asphalt","rwy1":"10","lat1":-33.81233979,"lon1":19.90168421,"rwy2":"28","lat2":-33.81008221,"lon2":19.91769779},
 {"len_m":730,"wid_m":17.98,"hdg":112,"surf":"Gravel","rwy1":"14","lat1":-33.81074482,"lon1":19.89929570,"rwy2":"32","lat2":-33.81330318,"lon2":19.90656030}

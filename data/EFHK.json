@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFHK","name":"Helsinki Vantaa","lat":60.32041900,"lon":024.96772400,"rwys":3,"ils":5,"index":3351955,"path":"e020n60/e024n60"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFHK","name":"Helsinki Vantaa","lat":60.32041900,"lon":24.96772400,"rwys":3,"ils":5,"index":3351955,"path":"e020n60/e024n60"
 ,"runways":[
 {"len_m":3200,"wid_m":60.05,"hdg":47,"surf":"Asphalt","rwy1":"04R","lat1":60.31129200,"lon1":24.93637200,"rwy2":"22L","lat2":60.33068900,"lon2":24.97908900},
 {"len_m":3000,"wid_m":60.05,"hdg":47,"surf":"Asphalt","rwy1":"04L","lat1":60.31294700,"lon1":24.90386900,"rwy2":"22R","lat2":60.33114200,"lon2":24.94389200},

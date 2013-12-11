@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAUG","name":"Augusta State","lat":44.31816500,"lon":-069.79374700,"rwys":2,"ils":1,"index":1810832,"path":"w070n40/w070n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAUG","name":"Augusta State","lat":44.31816500,"lon":-69.79374700,"rwys":2,"ils":1,"index":1810832,"path":"w070n40/w070n44"
 ,"runways":[
 {"len_m":1524,"wid_m":45.72,"hdg":153,"surf":"Asphalt","rwy1":"17","lat1":44.32766100,"lon1":-69.80368100,"rwy2":"35","lat2":44.31542500,"lon2":-69.79503600},
 {"len_m":824,"wid_m":22.86,"hdg":62,"surf":"Asphalt","rwy1":"08","lat1":44.31726100,"lon1":-69.79811100,"rwy2":"26","lat2":44.32073600,"lon2":-69.78898600}

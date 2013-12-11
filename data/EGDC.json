@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGDC","name":"Royal Marines Base Chivenor","lat":51.08947839,"lon":-004.14879145,"rwys":3,"ils":1,"index":2876227,"path":"w010n50/w005n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGDC","name":"Royal Marines Base Chivenor","lat":51.08947839,"lon":-4.14879145,"rwys":3,"ils":1,"index":2876227,"path":"w010n50/w005n51"
 ,"runways":[
 {"len_m":1826,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":51.08717474,"lon1":-4.16339693,"rwy2":"27","lat2":51.08723078,"lon2":-4.13732528},
 {"len_m":1221,"wid_m":45.11,"hdg":330,"surf":"Asphalt","rwy1":"15","lat1":51.08553720,"lon1":-4.14823029,"rwy2":"33","lat2":51.09508320,"lon2":-4.15684829},

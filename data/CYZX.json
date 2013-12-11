@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYZX","name":"Greenwood","lat":44.98347051,"lon":-064.91205306,"rwys":2,"ils":1,"index":1892792,"path":"w070n40/w065n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYZX","name":"Greenwood","lat":44.98347051,"lon":-64.91205306,"rwys":2,"ils":1,"index":1892792,"path":"w070n40/w065n44"
 ,"runways":[
 {"len_m":2454,"wid_m":60.05,"hdg":105,"surf":"Asphalt","rwy1":"12","lat1":44.98358825,"lon1":-64.93172299,"rwy2":"30","lat2":44.97779187,"lon2":-64.90168794},
 {"len_m":2462,"wid_m":60.05,"hdg":64,"surf":"Asphalt","rwy1":"08","lat1":44.98161850,"lon1":-64.93209300,"rwy2":"26","lat2":44.99112989,"lon2":-64.90389300}

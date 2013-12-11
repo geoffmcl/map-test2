@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGYM","name":"Raf Marham","lat":52.64820766,"lon":000.56659090,"rwys":2,"ils":1,"index":2958250,"path":"e000n50/e000n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGYM","name":"Raf Marham","lat":52.64820766,"lon":0.56659090,"rwys":2,"ils":1,"index":2958250,"path":"e000n50/e000n52"
 ,"runways":[
 {"len_m":2782,"wid_m":60.96,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":52.64120726,"lon1":0.53351168,"rwy2":"24","lat2":52.65539874,"lon2":0.56736832},
 {"len_m":1797,"wid_m":91.14,"hdg":8,"surf":"Concrete","rwy1":"01","lat1":52.63902333,"lon1":0.55567164,"rwy2":"19","lat2":52.65499867,"lon2":0.55964436}

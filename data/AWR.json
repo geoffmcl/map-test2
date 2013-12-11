@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AWR","name":"Awar","lat":-04.14064500,"lon":144.84400800,"rwys":1,"ils":0,"index":5313910,"path":"e140s10/e144s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AWR","name":"Awar","lat":-4.14064500,"lon":144.84400800,"rwys":1,"ils":0,"index":5313910,"path":"e140s10/e144s05"
 ,"runways":[
 {"len_m":399,"wid_m":30.48,"hdg":240,"surf":"Dirt","rwy1":"24","lat1":-4.13958467,"lon1":144.84699102,"rwy2":"06","lat2":-4.14138133,"lon2":144.84387098}
 ]

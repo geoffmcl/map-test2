@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFSD","name":"Dijon Longvic Ab","lat":47.27375400,"lon":005.08050900,"rwys":2,"ils":1,"index":3039824,"path":"e000n40/e005n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFSD","name":"Dijon Longvic Ab","lat":47.27375400,"lon":5.08050900,"rwys":2,"ils":1,"index":3039824,"path":"e000n40/e005n47"
 ,"runways":[
 {"len_m":2399,"wid_m":45.11,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":47.27657200,"lon1":5.09359400,"rwy2":"36","lat2":47.25506900,"lon2":5.09636700},
 {"len_m":1844,"wid_m":35.97,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":47.26419700,"lon1":5.08204700,"rwy2":"20","lat2":47.28020600,"lon2":5.08845800}

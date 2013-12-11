@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBCV","name":"Chievres Ab","lat":50.57683900,"lon":003.83107700,"rwys":1,"ils":1,"index":3007267,"path":"e000n50/e003n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBCV","name":"Chievres Ab","lat":50.57683900,"lon":3.83107700,"rwys":1,"ils":1,"index":3007267,"path":"e000n50/e003n50"
 ,"runways":[
 {"len_m":1921,"wid_m":49.99,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":50.57431900,"lon1":3.81772200,"rwy2":"26","lat2":50.57736100,"lon2":3.84443100}
 ]

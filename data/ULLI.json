@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ULLI","name":"Saint Petersburg Pulkovo","lat":59.79999900,"lon":030.26568700,"rwys":2,"ils":4,"index":3450225,"path":"e030n50/e030n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ULLI","name":"Saint Petersburg Pulkovo","lat":59.79999900,"lon":30.26568700,"rwys":2,"ils":4,"index":3450225,"path":"e030n50/e030n59"
 ,"runways":[
 {"len_m":3780,"wid_m":60.05,"hdg":106,"surf":"Concrete","rwy1":"10R","lat1":59.79994494,"lon1":30.21828840,"rwy2":"28L","lat2":59.79036106,"lon2":30.28288960},
 {"len_m":3398,"wid_m":60.05,"hdg":106,"surf":"Concrete","rwy1":"10L","lat1":59.80973272,"lon1":30.24536873,"rwy2":"28R","lat2":59.80112728,"lon2":30.30346727}

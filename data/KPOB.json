@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPOB","name":"Pope Afb","lat":35.17057400,"lon":-079.00940700,"rwys":2,"ils":1,"index":1646411,"path":"w080n30/w080n35"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPOB","name":"Pope Afb","lat":35.17057400,"lon":-79.00940700,"rwys":2,"ils":1,"index":1646411,"path":"w080n30/w080n35"
 ,"runways":[
 {"len_m":2285,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":35.16315800,"lon1":-79.02278900,"rwy2":"23","lat2":35.17860300,"lon2":-79.00618100},
 {"len_m":914,"wid_m":18.29,"hdg":41,"surf":"Asphalt","rwy1":"05R","lat1":35.16730800,"lon1":-79.01742200,"rwy2":"23L","lat2":35.17345000,"lon2":-79.01073300}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAPE","name":"Port Elizabeth","lat":-33.98403900,"lon":025.61154400,"rwys":3,"ils":2,"index":3362306,"path":"e020s40/e025s34"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAPE","name":"Port Elizabeth","lat":-33.98403900,"lon":25.61154400,"rwys":3,"ils":2,"index":3362306,"path":"e020s40/e025s34"
 ,"runways":[
 {"len_m":1983,"wid_m":46.02,"hdg":58,"surf":"Asphalt","rwy1":"08","lat1":-33.99296032,"lon1":25.60104986,"rwy2":"26","lat2":-33.98354968,"lon2":25.61929814},
 {"len_m":1676,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"17","lat1":-33.98401631,"lon1":25.61592135,"rwy2":"35","lat2":-33.99648369,"lon2":25.62617865},

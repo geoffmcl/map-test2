@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX95","name":"Guay (dgac)","lat":-02.70277800,"lon":139.76363200,"rwys":1,"ils":0,"index":5232086,"path":"e130s10/e139s03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX95","name":"Guay (dgac)","lat":-2.70277800,"lon":139.76363200,"rwys":1,"ils":0,"index":5232086,"path":"e130s10/e139s03"
 ,"runways":[
 {"len_m":394,"wid_m":20.12,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":-2.70099506,"lon1":139.76416000,"rwy2":"36","lat2":-2.70456094,"lon2":139.76416000}
 ]

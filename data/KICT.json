@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KICT","name":"Wichita Mid Continent","lat":37.65323448,"lon":-097.42734039,"rwys":3,"ils":4,"index":1351658,"path":"w100n30/w098n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KICT","name":"Wichita Mid Continent","lat":37.65323448,"lon":-97.42734039,"rwys":3,"ils":4,"index":1351658,"path":"w100n30/w098n37"
 ,"runways":[
 {"len_m":3139,"wid_m":46.02,"hdg":19,"surf":"Concrete","rwy1":"01L","lat1":37.63501900,"lon1":-97.44599700,"rwy2":"19R","lat2":37.66160000,"lon2":-97.43383100},
 {"len_m":2225,"wid_m":46.02,"hdg":20,"surf":"Concrete","rwy1":"01R","lat1":37.64276400,"lon1":-97.42628600,"rwy2":"19L","lat2":37.66160300,"lon2":-97.41765600},

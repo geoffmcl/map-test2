@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW21","name":"Muting (dgac)","lat":-07.30398806,"lon":140.56152275,"rwys":1,"ils":0,"index":5248172,"path":"e140s10/e140s08"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW21","name":"Muting (dgac)","lat":-7.30398806,"lon":140.56152275,"rwys":1,"ils":0,"index":5248172,"path":"e140s10/e140s08"
 ,"runways":[
 {"len_m":701,"wid_m":20.12,"hdg":80,"surf":"Turf/grass","rwy1":"08","lat1":-7.30491305,"lon1":140.55850116,"rwy2":"26","lat2":-7.30381895,"lon2":140.56475684}
 ]

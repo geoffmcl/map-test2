@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UACP","name":"Petropavlovsk","lat":54.77844108,"lon":069.18003160,"rwys":3,"ils":0,"index":4088880,"path":"e060n50/e069n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UACP","name":"Petropavlovsk","lat":54.77844108,"lon":69.18003160,"rwys":3,"ils":0,"index":4088880,"path":"e060n50/e069n54"
 ,"runways":[
 {"len_m":2505,"wid_m":42.06,"hdg":65,"surf":"Asphalt","rwy1":"05","lat1":54.77024200,"lon1":69.16635100,"rwy2":"23","lat2":54.77953800,"lon2":69.20180700},
 {"len_m":601,"wid_m":149.96,"hdg":334,"surf":"Turf/grass","rwy1":"14","lat1":54.77988596,"lon1":69.19494791,"rwy2":"32","lat2":54.78478085,"lon2":69.19099534},

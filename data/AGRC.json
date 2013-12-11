@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AGRC","name":"Ringi Cove","lat":-08.12309755,"lon":157.14269498,"rwys":1,"ils":0,"index":5526649,"path":"e150s10/e157s09"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AGRC","name":"Ringi Cove","lat":-8.12309755,"lon":157.14269498,"rwys":1,"ils":0,"index":5526649,"path":"e150s10/e157s09"
 ,"runways":[
 {"len_m":1255,"wid_m":103.02,"hdg":16,"surf":"Turf/grass","rwy1":"01","lat1":-8.13072941,"lon1":157.14152757,"rwy2":"19","lat2":-8.11985535,"lon2":157.14480214}
 ]

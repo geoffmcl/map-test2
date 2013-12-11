@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPIT","name":"Pittsburgh Intl","lat":40.49466971,"lon":-080.23783597,"rwys":4,"ils":3,"index":1630363,"path":"w090n40/w081n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPIT","name":"Pittsburgh Intl","lat":40.49466971,"lon":-80.23783597,"rwys":4,"ils":3,"index":1630363,"path":"w090n40/w081n40"
 ,"runways":[
 {"len_m":3504,"wid_m":60.96,"hdg":91,"surf":"Concrete","rwy1":"10R","lat1":40.48672914,"lon1":-80.25190760,"rwy2":"28L","lat2":40.48564286,"lon2":-80.21059440},
 {"len_m":3201,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"10L","lat1":40.50233607,"lon1":-80.27118666,"rwy2":"28R","lat2":40.50135393,"lon2":-80.23344334},

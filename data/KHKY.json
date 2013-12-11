@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KHKY","name":"Hickory Rgnl","lat":35.74330902,"lon":-081.38847314,"rwys":2,"ils":1,"index":1613674,"path":"w090n30/w082n35"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KHKY","name":"Hickory Rgnl","lat":35.74330902,"lon":-81.38847314,"rwys":2,"ils":1,"index":1613674,"path":"w090n30/w082n35"
 ,"runways":[
 {"len_m":1950,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":35.73499472,"lon1":-81.39724206,"rwy2":"24","lat2":35.74498542,"lon2":-81.37949910},
 {"len_m":1340,"wid_m":46.02,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":35.73688267,"lon1":-81.39215377,"rwy2":"19","lat2":35.74884526,"lon2":-81.39005857}

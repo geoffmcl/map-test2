@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WBGR","name":"Miri","lat":04.32950740,"lon":113.98840330,"rwys":1,"ils":1,"index":4806551,"path":"e110n00/e113n04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WBGR","name":"Miri","lat":4.32950740,"lon":113.98840330,"rwys":1,"ils":1,"index":4806551,"path":"e110n00/e113n04"
 ,"runways":[
 {"len_m":2742,"wid_m":60.05,"hdg":24,"surf":"Asphalt","rwy1":"02","lat1":4.31082800,"lon1":113.98158600,"rwy2":"20","lat2":4.33330800,"lon2":113.99202500}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIRF","name":"Rif","lat":64.91223720,"lon":-023.81954637,"rwys":3,"ils":0,"index":2565816,"path":"w030n60/w024n64"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIRF","name":"Rif","lat":64.91223720,"lon":-23.81954637,"rwys":3,"ils":0,"index":2565816,"path":"w030n60/w024n64"
 ,"runways":[
 {"len_m":825,"wid_m":29.87,"hdg":276,"surf":"Gravel","rwy1":"30","lat1":64.90908310,"lon1":-23.80286498,"rwy2":"12","lat2":64.90985610,"lon2":-23.82020862},
 {"len_m":982,"wid_m":27.13,"hdg":39,"surf":"Asphalt","rwy1":"06","lat1":64.90830775,"lon1":-23.82400900,"rwy2":"24","lat2":64.91513025,"lon2":-23.81085865},

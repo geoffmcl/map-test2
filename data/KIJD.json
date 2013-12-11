@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KIJD","name":"Windham","lat":41.74154922,"lon":-072.18096132,"rwys":3,"ils":1,"index":1761515,"path":"w080n40/w073n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KIJD","name":"Windham","lat":41.74154922,"lon":-72.18096132,"rwys":3,"ils":1,"index":1761515,"path":"w080n40/w073n41"
 ,"runways":[
 {"len_m":1232,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":41.73777800,"lon1":-72.18333400,"rwy2":"22","lat2":41.74722300,"lon2":-72.17555200},
 {"len_m":1303,"wid_m":30.48,"hdg":74,"surf":"Asphalt","rwy1":"09","lat1":41.74340300,"lon1":-72.18518900,"rwy2":"27","lat2":41.74655800,"lon2":-72.17008900},

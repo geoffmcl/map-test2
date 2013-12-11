@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KGNV","name":"Gainesville Rgnl","lat":29.68663200,"lon":-082.27225500,"rwys":2,"ils":1,"index":1596906,"path":"w090n20/w083n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KGNV","name":"Gainesville Rgnl","lat":29.68663200,"lon":-82.27225500,"rwys":2,"ils":1,"index":1596906,"path":"w090n20/w083n29"
 ,"runways":[
 {"len_m":2287,"wid_m":45.72,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":29.69055800,"lon1":-82.28060000,"rwy2":"29","lat2":29.68616900,"lon2":-82.25750800},
 {"len_m":1267,"wid_m":30.48,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":29.69030600,"lon1":-82.28239200,"rwy2":"25","lat2":29.69584400,"lon2":-82.27093600}

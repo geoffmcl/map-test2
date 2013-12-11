@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCVG","name":"Cincinnati Northern Kentucky Intl","lat":39.04087838,"lon":-084.65839809,"rwys":4,"ils":7,"index":1564737,"path":"w090n30/w085n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCVG","name":"Cincinnati Northern Kentucky Intl","lat":39.04087838,"lon":-84.65839809,"rwys":4,"ils":7,"index":1564737,"path":"w090n30/w085n39"
 ,"runways":[
 {"len_m":2438,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"18R","lat1":39.07088300,"lon1":-84.68373900,"rwy2":"36L","lat2":39.04891900,"lon2":-84.68382200},
 {"len_m":3352,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18C","lat1":39.06474200,"lon1":-84.66861700,"rwy2":"36C","lat2":39.03454400,"lon2":-84.66874200},

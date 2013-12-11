@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEVC","name":"Valencia","lat":39.49128647,"lon":-000.47114732,"rwys":2,"ils":2,"index":2941018,"path":"w010n30/w001n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEVC","name":"Valencia","lat":39.49128647,"lon":-0.47114732,"rwys":2,"ils":2,"index":2941018,"path":"w010n30/w001n39"
 ,"runways":[
 {"len_m":3221,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":39.49644021,"lon1":-0.50026127,"rwy2":"30","lat2":39.48364200,"lon2":-0.46665109},
 {"len_m":1166,"wid_m":46.94,"hdg":38,"surf":"Asphalt","rwy1":"4","lat1":39.48229684,"lon1":-0.48851040,"rwy2":"22","lat2":39.49056589,"lon2":-0.48014355}

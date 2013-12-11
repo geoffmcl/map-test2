@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDHF","name":"Hungriger Wolf","lat":53.98894765,"lon":009.58133125,"rwys":3,"ils":0,"index":3105786,"path":"e000n50/e009n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDHF","name":"Hungriger Wolf","lat":53.98894765,"lon":9.58133125,"rwys":3,"ils":0,"index":3105786,"path":"e000n50/e009n53"
 ,"runways":[
 {"len_m":501,"wid_m":29.87,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":53.99248645,"lon1":9.57679250,"rwy2":"21","lat2":53.99651355,"lon2":9.58020799},
 {"len_m":501,"wid_m":29.87,"hdg":26,"surf":"Turf/grass","rwy1":"02","lat1":53.98801341,"lon1":9.57300352,"rwy2":"20","lat2":53.99204018,"lon2":9.57641886},

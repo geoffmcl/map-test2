@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KEWR","name":"Newark Liberty Intl","lat":40.69213500,"lon":-074.18105300,"rwys":3,"ils":2,"index":1728683,"path":"w080n40/w075n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KEWR","name":"Newark Liberty Intl","lat":40.69213500,"lon":-74.18105300,"rwys":3,"ils":2,"index":1728683,"path":"w080n40/w075n40"
 ,"runways":[
 {"len_m":3352,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"04L","lat1":40.67538100,"lon1":-74.17945000,"rwy2":"22R","lat2":40.70255800,"lon2":-74.16217500},
 {"len_m":3047,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"04R","lat1":40.67758300,"lon1":-74.17424400,"rwy2":"22L","lat2":40.70228900,"lon2":-74.15853600},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SDCC","name":"Country Club Orgabil","lat":-21.21980138,"lon":-050.40494762,"rwys":1,"ils":0,"index":2117940,"path":"w060s30/w051s22"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SDCC","name":"Country Club Orgabil","lat":-21.21980138,"lon":-50.40494762,"rwys":1,"ils":0,"index":2117940,"path":"w060s30/w051s22"
 ,"runways":[
 {"len_m":850,"wid_m":20.12,"hdg":107,"surf":"Asphalt","rwy1":"12","lat1":-21.21720972,"lon1":-50.41110839,"rwy2":"30","lat2":-21.21948186,"lon2":-50.40327816}
 ]

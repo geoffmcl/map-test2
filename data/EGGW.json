@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGGW","name":"London Luton","lat":51.87785888,"lon":-000.37570190,"rwys":1,"ils":1,"index":2941818,"path":"w010n50/w001n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGGW","name":"London Luton","lat":51.87785888,"lon":-0.37570190,"rwys":1,"ils":1,"index":2941818,"path":"w010n50/w001n51"
 ,"runways":[
 {"len_m":2159,"wid_m":46.02,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":51.87201894,"lon1":-0.38355240,"rwy2":"26","lat2":51.87723832,"lon2":-0.35334812}
 ]

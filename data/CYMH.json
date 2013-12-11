@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYMH","name":"Marys Harbour","lat":52.30475873,"lon":-055.83903302,"rwys":1,"ils":0,"index":2040720,"path":"w060n50/w056n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYMH","name":"Marys Harbour","lat":52.30475873,"lon":-55.83903302,"rwys":1,"ils":0,"index":2040720,"path":"w060n50/w056n52"
 ,"runways":[
 {"len_m":779,"wid_m":29.87,"hdg":85,"surf":"Gravel","rwy1":"11","lat1":52.30194581,"lon1":-55.85111203,"rwy2":"29","lat2":52.30255419,"lon2":-55.83973389}
 ]

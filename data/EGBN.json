@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGBN","name":"Nottingham","lat":52.91858890,"lon":-001.08071656,"rwys":2,"ils":0,"index":2925499,"path":"w010n50/w002n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGBN","name":"Nottingham","lat":52.91858890,"lon":-1.08071656,"rwys":2,"ils":0,"index":2925499,"path":"w010n50/w002n52"
 ,"runways":[
 {"len_m":868,"wid_m":29.87,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":52.92061210,"lon1":-1.08578384,"rwy2":"27","lat2":52.92083622,"lon2":-1.07287893},
 {"len_m":841,"wid_m":22.86,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":52.91648842,"lon1":-1.07973865,"rwy2":"21","lat2":52.92312378,"lon2":-1.07375201}

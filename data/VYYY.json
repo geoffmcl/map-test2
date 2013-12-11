@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"VYYY","name":"Yangon Intl","lat":16.90567332,"lon":096.13769222,"rwys":1,"ils":1,"index":4528825,"path":"e090n10/e096n16"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"VYYY","name":"Yangon Intl","lat":16.90567332,"lon":96.13769222,"rwys":1,"ils":1,"index":4528825,"path":"e090n10/e096n16"
 ,"runways":[
 {"len_m":3418,"wid_m":60.96,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":16.89792613,"lon1":96.12688037,"rwy2":"21","lat2":16.92375537,"lon2":96.14447924}
 ]

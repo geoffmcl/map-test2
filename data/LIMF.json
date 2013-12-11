@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIMF","name":"Torino Caselle","lat":45.19542500,"lon":007.64319800,"rwys":1,"ils":1,"index":3072458,"path":"e000n40/e007n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIMF","name":"Torino Caselle","lat":45.19542500,"lon":7.64319800,"rwys":1,"ils":1,"index":3072458,"path":"e000n40/e007n45"
 ,"runways":[
 {"len_m":3299,"wid_m":60.05,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":45.21559400,"lon1":7.65057200,"rwy2":"36","lat2":45.18593100,"lon2":7.64868900}
 ]

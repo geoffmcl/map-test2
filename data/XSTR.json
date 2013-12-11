@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"XSTR","name":"Strathallan","lat":56.32554927,"lon":-003.75156049,"rwys":1,"ils":0,"index":2892944,"path":"w010n50/w004n56"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"XSTR","name":"Strathallan","lat":56.32554927,"lon":-3.75156049,"rwys":1,"ils":0,"index":2892944,"path":"w010n50/w004n56"
 ,"runways":[
 {"len_m":661,"wid_m":14.94,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":56.32501717,"lon1":-3.75175409,"rwy2":"28","lat2":56.32468738,"lon2":-3.74108352}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKMH","name":"Mnichovo Hradiste","lat":50.53511084,"lon":014.99256969,"rwys":2,"ils":0,"index":3187491,"path":"e010n50/e014n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKMH","name":"Mnichovo Hradiste","lat":50.53511084,"lon":14.99256969,"rwys":2,"ils":0,"index":3187491,"path":"e010n50/e014n50"
 ,"runways":[
 {"len_m":979,"wid_m":60.05,"hdg":66,"surf":"Turf/grass","rwy1":"07L","lat1":50.53833639,"lon1":14.99775539,"rwy2":"25R","lat2":50.54183407,"lon2":15.01043544},
 {"len_m":1552,"wid_m":29.87,"hdg":66,"surf":"Concrete","rwy1":"07R","lat1":50.53721115,"lon1":14.99619360,"rwy2":"25L","lat2":50.54276214,"lon2":15.01628109}

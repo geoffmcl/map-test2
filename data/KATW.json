@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KATW","name":"Outagamie Co Rgnl","lat":44.25907200,"lon":-088.51127900,"rwys":2,"ils":2,"index":1499537,"path":"w090n40/w089n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KATW","name":"Outagamie Co Rgnl","lat":44.25907200,"lon":-88.51127900,"rwys":2,"ils":2,"index":1499537,"path":"w090n40/w089n44"
 ,"runways":[
 {"len_m":2439,"wid_m":45.72,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":44.24893100,"lon1":-88.52618100,"rwy2":"21","lat2":44.26863900,"lon2":-88.51273300},
 {"len_m":1981,"wid_m":45.72,"hdg":116,"surf":"Concrete","rwy1":"11","lat1":44.26117800,"lon1":-88.52972800,"rwy2":"29","lat2":44.25332800,"lon2":-88.50745000}

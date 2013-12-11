@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UINN","name":"Nizhneudinsk","lat":54.89352982,"lon":099.06383200,"rwys":1,"ils":0,"index":4580408,"path":"e090n50/e099n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UINN","name":"Nizhneudinsk","lat":54.89352982,"lon":99.06383200,"rwys":1,"ils":0,"index":4580408,"path":"e090n50/e099n54"
 ,"runways":[
 {"len_m":902,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":54.89296795,"lon1":99.06090619,"rwy2":"31","lat2":54.88720005,"lon2":99.07079569}
 ]

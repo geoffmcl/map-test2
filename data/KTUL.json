@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KTUL","name":"Tulsa Intl","lat":36.19966839,"lon":-095.88736362,"rwys":3,"ils":3,"index":1384328,"path":"w100n30/w096n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KTUL","name":"Tulsa Intl","lat":36.19966839,"lon":-95.88736362,"rwys":3,"ils":3,"index":1384328,"path":"w100n30/w096n36"
 ,"runways":[
 {"len_m":3047,"wid_m":60.96,"hdg":183,"surf":"Concrete","rwy1":"18L","lat1":36.21394484,"lon1":-95.88130788,"rwy2":"36R","lat2":36.18651666,"lon2":-95.88310315},
 {"len_m":1859,"wid_m":46.02,"hdg":183,"surf":"Asphalt","rwy1":"18R","lat1":36.20722378,"lon1":-95.89908586,"rwy2":"36L","lat2":36.19048822,"lon2":-95.90019814},

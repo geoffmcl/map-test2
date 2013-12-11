@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMT","name":"Montpellier/mediterranee","lat":43.57799700,"lon":003.96113300,"rwys":2,"ils":1,"index":3006819,"path":"e000n40/e003n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMT","name":"Montpellier/mediterranee","lat":43.57799700,"lon":3.96113300,"rwys":2,"ils":1,"index":3006819,"path":"e000n40/e003n43"
 ,"runways":[
 {"len_m":2601,"wid_m":49.99,"hdg":124,"surf":"Asphalt","rwy1":"13L","lat1":43.58614900,"lon1":3.95574600,"rwy2":"31R","lat2":43.57281900,"lon2":3.98222800},
 {"len_m":1101,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"13R","lat1":43.57586400,"lon1":3.95192700,"rwy2":"31L","lat2":43.57021600,"lon2":3.96314100}

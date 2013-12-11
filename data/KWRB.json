@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KWRB","name":"Robins Afb","lat":32.63519060,"lon":-083.59535910,"rwys":1,"ils":2,"index":1580713,"path":"w090n30/w084n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KWRB","name":"Robins Afb","lat":32.63519060,"lon":-83.59535910,"rwys":1,"ils":2,"index":1580713,"path":"w090n30/w084n32"
 ,"runways":[
 {"len_m":3656,"wid_m":91.14,"hdg":144,"surf":"Concrete","rwy1":"15","lat1":32.65352500,"lon1":-83.60336638,"rwy2":"33","lat2":32.62682288,"lon2":-83.58050363}
 ]

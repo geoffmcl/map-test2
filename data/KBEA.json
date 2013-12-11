@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBEA","name":"Beeville Muni","lat":28.36796200,"lon":-097.79614400,"rwys":2,"ils":0,"index":1351056,"path":"w100n20/w098n28"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBEA","name":"Beeville Muni","lat":28.36796200,"lon":-97.79614400,"rwys":2,"ils":0,"index":1351056,"path":"w100n20/w098n28"
 ,"runways":[
 {"len_m":1386,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":28.36597213,"lon1":-97.79637092,"rwy2":"30","lat2":28.35776787,"lon2":-97.78568708},
 {"len_m":771,"wid_m":18.29,"hdg":189,"surf":"Turf/grass","rwy1":"18","lat1":28.37251352,"lon1":-97.79316019,"rwy2":"36","lat2":28.36564448,"lon2":-97.79440781}

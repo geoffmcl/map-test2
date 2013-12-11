@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDT","name":"Berlin Tegel","lat":52.55463000,"lon":013.29331000,"rwys":2,"ils":4,"index":3171233,"path":"e010n50/e013n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDT","name":"Berlin Tegel","lat":52.55463000,"lon":13.29331000,"rwys":2,"ils":4,"index":3171233,"path":"e010n50/e013n52"
 ,"runways":[
 {"len_m":3021,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08L","lat1":52.55764000,"lon1":13.26576000,"rwy2":"26R","lat2":52.56195000,"lon2":13.30975000},
 {"len_m":2421,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08R","lat1":52.55668000,"lon1":13.27499000,"rwy2":"26L","lat2":52.56013000,"lon2":13.31025000}

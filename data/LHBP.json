@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LHBP","name":"Ferihegy (budapest)","lat":47.43458000,"lon":019.26065400,"rwys":3,"ils":4,"index":3269209,"path":"e010n40/e019n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LHBP","name":"Ferihegy (budapest)","lat":47.43458000,"lon":19.26065400,"rwys":3,"ils":4,"index":3269209,"path":"e010n40/e019n47"
 ,"runways":[
 {"len_m":3096,"wid_m":59.74,"hdg":132,"surf":"Asphalt","rwy1":"13R","lat1":47.44944900,"lon1":19.21980500,"rwy2":"31L","lat2":47.43066700,"lon2":19.25011100},
 {"len_m":3810,"wid_m":59.74,"hdg":132,"surf":"Asphalt","rwy1":"13L","lat1":47.44607600,"lon1":19.25767500,"rwy2":"31R","lat2":47.42293600,"lon2":19.29494300},

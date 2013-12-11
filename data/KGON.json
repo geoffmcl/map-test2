@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KGON","name":"Groton New London","lat":41.33233544,"lon":-072.04584963,"rwys":2,"ils":1,"index":1761491,"path":"w080n40/w073n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KGON","name":"Groton New London","lat":41.33233544,"lon":-72.04584963,"rwys":2,"ils":1,"index":1761491,"path":"w080n40/w073n41"
 ,"runways":[
 {"len_m":1524,"wid_m":45.72,"hdg":33,"surf":"Asphalt","rwy1":"05","lat1":41.32503300,"lon1":-72.04802800,"rwy2":"23","lat2":41.33641400,"lon2":-72.03785300},
 {"len_m":1219,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"15","lat1":41.33311700,"lon1":-72.05301400,"rwy2":"33","lat2":41.32534700,"lon2":-72.04272500}

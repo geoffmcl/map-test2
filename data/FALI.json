@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FALI","name":"Lichtenburg","lat":-26.16904800,"lon":026.18537500,"rwys":2,"ils":0,"index":3379184,"path":"e020s30/e026s27"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FALI","name":"Lichtenburg","lat":-26.16904800,"lon":26.18537500,"rwys":2,"ils":0,"index":3379184,"path":"e020s30/e026s27"
 ,"runways":[
 {"len_m":1262,"wid_m":14.94,"hdg":166,"surf":"Asphalt","rwy1":"18","lat1":-26.17013957,"lon1":26.18306497,"rwy2":"36","lat2":-26.18120643,"lon2":26.18608703},
 {"len_m":790,"wid_m":20.12,"hdg":48,"surf":"Dirt","rwy1":"06","lat1":-26.17495523,"lon1":26.18445107,"rwy2":"24","lat2":-26.17024877,"lon2":26.19038893}

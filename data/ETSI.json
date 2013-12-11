@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ETSI","name":"Ingolstadt Manching","lat":48.71429400,"lon":011.53226000,"rwys":2,"ils":1,"index":3138218,"path":"e010n40/e011n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ETSI","name":"Ingolstadt Manching","lat":48.71429400,"lon":11.53226000,"rwys":2,"ils":1,"index":3138218,"path":"e010n40/e011n48"
 ,"runways":[
 {"len_m":2945,"wid_m":60.05,"hdg":68,"surf":"Asphalt","rwy1":"07R","lat1":48.70450000,"lon1":11.51866700,"rwy2":"25L","lat2":48.71433300,"lon2":11.55583300},
 {"len_m":2439,"wid_m":29.87,"hdg":68,"surf":"Concrete","rwy1":"07L","lat1":48.71666700,"lon1":11.51550000,"rwy2":"25R","lat2":48.72487900,"lon2":11.54623700}

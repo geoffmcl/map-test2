@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LGAV","name":"Athens Intl Airport Elefterios Venizel","lat":37.93553000,"lon":023.94053900,"rwys":2,"ils":2,"index":3334139,"path":"e020n30/e023n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LGAV","name":"Athens Intl Airport Elefterios Venizel","lat":37.93553000,"lon":23.94053900,"rwys":2,"ils":2,"index":3334139,"path":"e020n30/e023n37"
 ,"runways":[
 {"len_m":4000,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03R","lat1":37.92351100,"lon1":23.94326100,"rwy2":"21L","lat2":37.95242500,"lon2":23.97042200},
 {"len_m":3799,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03L","lat1":37.92101100,"lon1":23.91920300,"rwy2":"21R","lat2":37.94848300,"lon2":23.94499400}

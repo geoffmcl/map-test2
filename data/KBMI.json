@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBMI","name":"Central Illinois Rgnl","lat":40.47374000,"lon":-088.90708900,"rwys":3,"ils":2,"index":1499288,"path":"w090n40/w089n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBMI","name":"Central Illinois Rgnl","lat":40.47374000,"lon":-88.90708900,"rwys":3,"ils":2,"index":1499288,"path":"w090n40/w089n40"
 ,"runways":[
 {"len_m":2438,"wid_m":45.72,"hdg":17,"surf":"Concrete","rwy1":"02","lat1":40.46405300,"lon1":-88.91602500,"rwy2":"20","lat2":40.48494700,"lon2":-88.90718300},
 {"len_m":1988,"wid_m":45.72,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":40.48307500,"lon1":-88.93234200,"rwy2":"29","lat2":40.47757200,"lon2":-88.91002200},

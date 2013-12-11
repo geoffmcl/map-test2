@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYQB","name":"Quebec Jean Lesage Intl","lat":46.79149600,"lon":-071.38351400,"rwys":2,"ils":1,"index":1778226,"path":"w080n40/w072n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYQB","name":"Quebec Jean Lesage Intl","lat":46.79149600,"lon":-71.38351400,"rwys":2,"ils":1,"index":1778226,"path":"w080n40/w072n46"
 ,"runways":[
 {"len_m":2752,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":46.78222200,"lon1":-71.40638900,"rwy2":"24","lat2":46.80000000,"lon2":-71.38130600},
 {"len_m":1735,"wid_m":45.72,"hdg":97,"surf":"Asphalt","rwy1":"12","lat1":46.78883300,"lon1":-71.40294400,"rwy2":"30","lat2":46.78677800,"lon2":-71.38041700}

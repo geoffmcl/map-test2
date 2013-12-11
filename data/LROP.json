@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LROP","name":"Bucarest Otopeni Intl","lat":44.57038000,"lon":026.08088500,"rwys":2,"ils":4,"index":3383712,"path":"e020n40/e026n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LROP","name":"Bucarest Otopeni Intl","lat":44.57038000,"lon":26.08088500,"rwys":2,"ils":4,"index":3383712,"path":"e020n40/e026n44"
 ,"runways":[
 {"len_m":3499,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08R","lat1":44.56451700,"lon1":26.07660800,"rwy2":"26L","lat2":44.56785000,"lon2":26.12041900},
 {"len_m":3500,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08L","lat1":44.57647500,"lon1":26.08392500,"rwy2":"26R","lat2":44.57980000,"lon2":26.12775600}

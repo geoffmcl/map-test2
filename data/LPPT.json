@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LPPT","name":"Lisboa","lat":38.78112200,"lon":-009.13252000,"rwys":2,"ils":2,"index":2793523,"path":"w010n30/w010n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LPPT","name":"Lisboa","lat":38.78112200,"lon":-9.13252000,"rwys":2,"ils":2,"index":2793523,"path":"w010n30/w010n38"
 ,"runways":[
 {"len_m":3810,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":38.76568900,"lon1":-9.14438300,"rwy2":"21","lat2":38.79733300,"lon2":-9.12739400},
 {"len_m":2410,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":38.78623900,"lon1":-9.13720800,"rwy2":"35","lat2":38.76497500,"lon2":-9.13160000}

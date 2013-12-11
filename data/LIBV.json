@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIBV","name":"Gioia Del Colle","lat":40.76700590,"lon":016.93442730,"rwys":2,"ils":1,"index":3219635,"path":"e010n40/e016n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIBV","name":"Gioia Del Colle","lat":40.76700590,"lon":16.93442730,"rwys":2,"ils":1,"index":3219635,"path":"e010n40/e016n40"
 ,"runways":[
 {"len_m":3022,"wid_m":45.11,"hdg":141,"surf":"Asphalt","rwy1":"14R","lat1":40.77500000,"lon1":16.92216700,"rwy2":"32L","lat2":40.75383300,"lon2":16.94466700},
 {"len_m":3007,"wid_m":29.87,"hdg":140,"surf":"Asphalt","rwy1":"14L","lat1":40.78166700,"lon1":16.92216700,"rwy2":"32R","lat2":40.76066700,"lon2":16.94466700}

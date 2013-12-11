@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KHXD","name":"Hilton Head","lat":32.22640007,"lon":-080.69477182,"rwys":1,"ils":1,"index":1629833,"path":"w090n30/w081n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KHXD","name":"Hilton Head","lat":32.22640007,"lon":-80.69477182,"rwys":1,"ils":1,"index":1629833,"path":"w090n30/w081n32"
 ,"runways":[
 {"len_m":1310,"wid_m":29.87,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":32.21905300,"lon1":-80.70053100,"rwy2":"21","lat2":32.22966900,"lon2":-80.69441900}
 ]

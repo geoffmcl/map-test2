@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BISI","name":"Siglufjordur","lat":66.13429686,"lon":-018.91835327,"rwys":1,"ils":0,"index":2647816,"path":"w020n60/w019n66"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BISI","name":"Siglufjordur","lat":66.13429686,"lon":-18.91835327,"rwys":1,"ils":0,"index":2647816,"path":"w020n60/w019n66"
 ,"runways":[
 {"len_m":1085,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"07","lat1":66.13375550,"lon1":-18.91708200,"rwy2":"25","lat2":66.14100650,"lon2":-18.90103771}
 ]

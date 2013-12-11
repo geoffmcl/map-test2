@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"X6MU","name":"Glenforsa","lat":56.51649672,"lon":-005.91356567,"rwys":1,"ils":0,"index":2860192,"path":"w010n50/w006n56"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"X6MU","name":"Glenforsa","lat":56.51649672,"lon":-5.91356567,"rwys":1,"ils":0,"index":2860192,"path":"w010n50/w006n56"
 ,"runways":[
 {"len_m":793,"wid_m":28.04,"hdg":63,"surf":"Turf/grass","rwy1":"07","lat1":56.51580488,"lon1":-5.91908892,"rwy2":"25","lat2":56.51900138,"lon2":-5.90756635}
 ]

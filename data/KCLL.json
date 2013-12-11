@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCLL","name":"Easterwood Field","lat":30.59032141,"lon":-096.35890292,"rwys":3,"ils":1,"index":1367586,"path":"w100n30/w097n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCLL","name":"Easterwood Field","lat":30.59032141,"lon":-96.35890292,"rwys":3,"ils":1,"index":1367586,"path":"w100n30/w097n30"
 ,"runways":[
 {"len_m":2133,"wid_m":46.02,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":30.59663900,"lon1":-96.36285600,"rwy2":"34","lat2":30.57775600,"lon2":-96.35856400},
 {"len_m":1572,"wid_m":46.02,"hdg":108,"surf":"Asphalt","rwy1":"10","lat1":30.59147200,"lon1":-96.37279400,"rwy2":"28","lat2":30.58690600,"lon2":-96.35727500},

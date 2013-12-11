@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"DAAT","name":"Tamanrasset","lat":22.81472400,"lon":005.44965310,"rwys":2,"ils":0,"index":3038257,"path":"e000n20/e005n22"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"DAAT","name":"Tamanrasset","lat":22.81472400,"lon":5.44965310,"rwys":2,"ils":0,"index":3038257,"path":"e000n20/e005n22"
 ,"runways":[
 {"len_m":3609,"wid_m":45.11,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":22.79638600,"lon1":5.44439400,"rwy2":"20","lat2":22.82653600,"lon2":5.45775300},
 {"len_m":3103,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":22.80730600,"lon1":5.42277500,"rwy2":"26","lat2":22.81130600,"lon2":5.45269200}

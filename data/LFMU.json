@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMU","name":"Beziers Vias","lat":43.32082500,"lon":003.35238700,"rwys":1,"ils":1,"index":3006801,"path":"e000n40/e003n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMU","name":"Beziers Vias","lat":43.32082500,"lon":3.35238700,"rwys":1,"ils":1,"index":3006801,"path":"e000n40/e003n43"
 ,"runways":[
 {"len_m":1819,"wid_m":35.05,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":43.32402100,"lon1":3.34238700,"rwy2":"28","lat2":43.32282300,"lon2":3.36475900}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCBE","name":"Greater Cumberland Rgnl","lat":39.61744700,"lon":-078.75910900,"rwys":2,"ils":0,"index":1663072,"path":"w080n30/w079n39"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCBE","name":"Greater Cumberland Rgnl","lat":39.61744700,"lon":-78.75910900,"rwys":2,"ils":0,"index":1663072,"path":"w080n30/w079n39"
 ,"runways":[
 {"len_m":1538,"wid_m":45.72,"hdg":39,"surf":"Asphalt","rwy1":"05","lat1":39.61106900,"lon1":-78.76476100,"rwy2":"23","lat2":39.62182800,"lon2":-78.75346900},
 {"len_m":744,"wid_m":45.72,"hdg":96,"surf":"Asphalt","rwy1":"11","lat1":39.61369700,"lon1":-78.76877200,"rwy2":"29","lat2":39.61288300,"lon2":-78.76016900}

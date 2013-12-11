@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGKB","name":"Biggin Hill","lat":51.33196700,"lon":000.02918000,"rwys":2,"ils":1,"index":2958160,"path":"e000n50/e000n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGKB","name":"Biggin Hill","lat":51.33196700,"lon":0.02918000,"rwys":2,"ils":1,"index":2958160,"path":"e000n50/e000n51"
 ,"runways":[
 {"len_m":1804,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":51.32360828,"lon1":0.02685702,"rwy2":"21","lat2":51.33823399,"lon2":0.03803716},
 {"len_m":788,"wid_m":17.98,"hdg":105,"surf":"Asphalt","rwy1":"11","lat1":51.32344130,"lon1":0.02785565,"rwy2":"29","lat2":51.32155619,"lon2":0.03875348}

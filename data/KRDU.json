@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KRDU","name":"Raleigh Durham Intl","lat":35.88106371,"lon":-078.78587248,"rwys":3,"ils":4,"index":1662840,"path":"w080n30/w079n35"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KRDU","name":"Raleigh Durham Intl","lat":35.88106371,"lon":-78.78587248,"rwys":3,"ils":4,"index":1662840,"path":"w080n30/w079n35"
 ,"runways":[
 {"len_m":3047,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"05L","lat1":35.87445000,"lon1":-78.80196400,"rwy2":"23R","lat2":35.89382200,"lon2":-78.77803300},
 {"len_m":2286,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":35.86463100,"lon1":-78.79733900,"rwy2":"23L","lat2":35.87916700,"lon2":-78.77939400},

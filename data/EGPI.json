@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGPI","name":"Islay","lat":55.68324772,"lon":-006.24862443,"rwys":2,"ils":0,"index":2843755,"path":"w010n50/w007n55"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGPI","name":"Islay","lat":55.68324772,"lon":-6.24862443,"rwys":2,"ils":0,"index":2843755,"path":"w010n50/w007n55"
 ,"runways":[
 {"len_m":1548,"wid_m":46.02,"hdg":120,"surf":"Asphalt","rwy1":"13","lat1":55.68699493,"lon1":-6.27026096,"rwy2":"31","lat2":55.67985498,"lon2":-6.24913087},
 {"len_m":634,"wid_m":17.98,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":55.68246100,"lon1":-6.25881100,"rwy2":"26","lat2":55.68436490,"lon2":-6.24929608}

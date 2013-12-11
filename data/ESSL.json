@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ESSL","name":"Linkoping Saab","lat":58.40399600,"lon":015.67871100,"rwys":1,"ils":2,"index":3204378,"path":"e010n50/e015n58"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ESSL","name":"Linkoping Saab","lat":58.40399600,"lon":15.67871100,"rwys":1,"ils":2,"index":3204378,"path":"e010n50/e015n58"
 ,"runways":[
 {"len_m":2130,"wid_m":39.93,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":58.40990000,"lon1":15.66336900,"rwy2":"29","lat2":58.40268100,"lon2":15.69711100}
 ]

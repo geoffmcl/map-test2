@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBUF","name":"Buffalo Niagara Intl","lat":42.93418000,"lon":-078.73047600,"rwys":2,"ils":3,"index":1663289,"path":"w080n40/w079n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBUF","name":"Buffalo Niagara Intl","lat":42.93418000,"lon":-78.73047600,"rwys":2,"ils":3,"index":1663289,"path":"w080n40/w079n42"
 ,"runways":[
 {"len_m":2691,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":42.93120000,"lon1":-78.74168300,"rwy2":"23","lat2":42.94864400,"lon2":-78.71880600},
 {"len_m":2182,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":42.94691700,"lon1":-78.74169400,"rwy2":"32","lat2":42.93518600,"lon2":-78.72024200}

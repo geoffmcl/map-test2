@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFRO","name":"Rovaniemi","lat":66.56268300,"lon":025.83678400,"rwys":1,"ils":1,"index":3368737,"path":"e020n60/e025n66"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFRO","name":"Rovaniemi","lat":66.56268300,"lon":25.83678400,"rwys":1,"ils":1,"index":3368737,"path":"e020n60/e025n66"
 ,"runways":[
 {"len_m":3001,"wid_m":60.05,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":66.55410000,"lon1":25.80998600,"rwy2":"21","lat2":66.57554400,"lon2":25.85085300}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KRND","name":"Randolph Afb","lat":29.52302700,"lon":-098.28172300,"rwys":2,"ils":4,"index":1334754,"path":"w100n20/w099n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KRND","name":"Randolph Afb","lat":29.52302700,"lon":-98.28172300,"rwys":2,"ils":4,"index":1334754,"path":"w100n20/w099n29"
 ,"runways":[
 {"len_m":2545,"wid_m":60.96,"hdg":150,"surf":"Asphalt","rwy1":"14R","lat1":29.53495000,"lon1":-98.29320800,"rwy2":"32L","lat2":29.51505600,"lon2":-98.28009200},
 {"len_m":2544,"wid_m":60.96,"hdg":150,"surf":"Concrete","rwy1":"14L","lat1":29.54274700,"lon1":-98.27595000,"rwy2":"32R","lat2":29.52285300,"lon2":-98.26286100}

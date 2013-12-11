@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFMF","name":"Fayence","lat":43.61220000,"lon":006.70152200,"rwys":2,"ils":0,"index":3055970,"path":"e000n40/e006n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFMF","name":"Fayence","lat":43.61220000,"lon":6.70152200,"rwys":2,"ils":0,"index":3055970,"path":"e000n40/e006n43"
 ,"runways":[
 {"len_m":250,"wid_m":7.92,"hdg":100,"surf":"Concrete","rwy1":"18L","lat1":43.61085000,"lon1":6.69247100,"rwy2":"36R","lat2":43.61045000,"lon2":6.69552300},
 {"len_m":350,"wid_m":7.92,"hdg":101,"surf":"Concrete","rwy1":"18R","lat1":43.61016600,"lon1":6.69233400,"rwy2":"36L","lat2":43.60956000,"lon2":6.69659600}

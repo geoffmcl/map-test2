@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPNC","name":"Ponca City Rgnl","lat":36.72979700,"lon":-097.10177600,"rwys":2,"ils":1,"index":1351595,"path":"w100n30/w098n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPNC","name":"Ponca City Rgnl","lat":36.72979700,"lon":-97.10177600,"rwys":2,"ils":1,"index":1351595,"path":"w100n30/w098n36"
 ,"runways":[
 {"len_m":38,"wid_m":2.13,"hdg":179,"surf":"Asphalt","rwy1":"13","lat1":36.74150416,"lon1":-97.09987024,"rwy2":"31","lat2":36.74116130,"lon2":-97.09986726},
 {"len_m":2194,"wid_m":46.02,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":36.74184761,"lon1":-97.09985869,"rwy2":"35","lat2":36.72206839,"lon2":-97.09969931}

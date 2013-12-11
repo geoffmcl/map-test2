@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AYMH","name":"Mount Hagen","lat":-05.82853645,"lon":144.29612111,"rwys":2,"ils":0,"index":5313802,"path":"e140s10/e144s06"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AYMH","name":"Mount Hagen","lat":-5.82853645,"lon":144.29612111,"rwys":2,"ils":0,"index":5313802,"path":"e140s10/e144s06"
 ,"runways":[
 {"len_m":2189,"wid_m":29.87,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":-5.82306219,"lon1":144.29089791,"rwy2":"30","lat2":-5.83341419,"lon2":144.30774632},
 {"len_m":1095,"wid_m":17.98,"hdg":85,"surf":"Asphalt","rwy1":"08","lat1":-5.82641001,"lon1":144.29288150,"rwy2":"26","lat2":-5.82558688,"lon2":144.30273483}

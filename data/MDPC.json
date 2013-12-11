@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"MDPC","name":"Punta Cana Intl","lat":18.57065559,"lon":-068.36628704,"rwys":2,"ils":0,"index":1825573,"path":"w070n10/w069n18"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"MDPC","name":"Punta Cana Intl","lat":18.57065559,"lon":-68.36628704,"rwys":2,"ils":0,"index":1825573,"path":"w070n10/w069n18"
 ,"runways":[
 {"len_m":3083,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":18.57000946,"lon1":-68.38289375,"rwy2":"26","lat2":18.57755281,"lon2":-68.35477011},
 {"len_m":3101,"wid_m":45.11,"hdg":84,"surf":"Asphalt","rwy1":"09","lat1":18.56610300,"lon1":-68.37805800,"rwy2":"27","lat2":18.56863100,"lon2":-68.34880000}

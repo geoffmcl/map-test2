@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ES08","name":"Enkoping Langtora","lat":59.74622300,"lon":017.15138400,"rwys":2,"ils":0,"index":3237224,"path":"e010n50/e017n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ES08","name":"Enkoping Langtora","lat":59.74622300,"lon":17.15138400,"rwys":2,"ils":0,"index":3237224,"path":"e010n50/e017n59"
 ,"runways":[
 {"len_m":765,"wid_m":152.40,"hdg":80,"surf":"Turf/grass","rwy1":"07","lat1":59.74592161,"lon1":17.13424502,"rwy2":"25","lat2":59.74711239,"lon2":17.14764898},
 {"len_m":764,"wid_m":152.40,"hdg":119,"surf":"Turf/grass","rwy1":"12","lat1":59.74786136,"lon1":17.14162044,"rwy2":"30","lat2":59.74443264,"lon2":17.15340756}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KEAR","name":"Kearney Muni","lat":40.72773717,"lon":-099.01214757,"rwys":2,"ils":1,"index":1319083,"path":"w100n40/w100n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KEAR","name":"Kearney Muni","lat":40.72773717,"lon":-99.01214757,"rwys":2,"ils":1,"index":1319083,"path":"w100n40/w100n40"
 ,"runways":[
 {"len_m":2162,"wid_m":46.02,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":40.73639890,"lon1":-99.00711101,"rwy2":"36","lat2":40.71708510,"lon2":-99.01042103},
 {"len_m":1370,"wid_m":22.86,"hdg":141,"surf":"Concrete","rwy1":"13","lat1":40.73230596,"lon1":-99.00878014,"rwy2":"31","lat2":40.72269104,"lon2":-98.99861546}

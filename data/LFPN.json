@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFPN","name":"Toussus-le-noble","lat":48.75055700,"lon":002.11275200,"rwys":2,"ils":2,"index":2990768,"path":"e000n40/e002n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFPN","name":"Toussus-le-noble","lat":48.75055700,"lon":2.11275200,"rwys":2,"ils":2,"index":2990768,"path":"e000n40/e002n48"
 ,"runways":[
 {"len_m":1121,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07L","lat1":48.75115000,"lon1":2.09846100,"rwy2":"25R","lat2":48.75439400,"lon2":2.11289900},
 {"len_m":1043,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07R","lat1":48.74953600,"lon1":2.09974300,"rwy2":"25L","lat2":48.75255800,"lon2":2.11318300}

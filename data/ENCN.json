@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENCN","name":"Kristiansand Lufthavn Kjevik","lat":58.20190933,"lon":008.07393575,"rwys":1,"ils":2,"index":3089672,"path":"e000n50/e008n58"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENCN","name":"Kristiansand Lufthavn Kjevik","lat":58.20190933,"lon":8.07393575,"rwys":1,"ils":2,"index":3089672,"path":"e000n50/e008n58"
 ,"runways":[
 {"len_m":2036,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":58.19670300,"lon1":8.07540600,"rwy2":"22","lat2":58.21167800,"lon2":8.09526900}
 ]

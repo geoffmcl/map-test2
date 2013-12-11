@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ13","name":"Imanuel (maf)","lat":00.60152328,"lon":111.16375358,"rwys":1,"ils":0,"index":4773537,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ13","name":"Imanuel (maf)","lat":0.60152328,"lon":111.16375358,"rwys":1,"ils":0,"index":4773537,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":395,"wid_m":24.08,"hdg":219,"surf":"Turf/grass","rwy1":"22","lat1":0.60279960,"lon1":111.16511910,"rwy2":"04","lat2":0.60002840,"lon2":111.16287490}
 ]

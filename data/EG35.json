@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EG35","name":"Fadmoor","lat":54.30849442,"lon":-000.97052339,"rwys":2,"ils":0,"index":2941968,"path":"w010n50/w001n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EG35","name":"Fadmoor","lat":54.30849442,"lon":-0.97052339,"rwys":2,"ils":0,"index":2941968,"path":"w010n50/w001n54"
 ,"runways":[
 {"len_m":597,"wid_m":24.08,"hdg":10,"surf":"Turf/grass","rwy1":"01","lat1":54.30580253,"lon1":-0.97574475,"rwy2":"19","lat2":54.31108105,"lon2":-0.97404797},
 {"len_m":568,"wid_m":24.08,"hdg":132,"surf":"Turf/grass","rwy1":"13","lat1":54.31059640,"lon1":-0.97643747,"rwy2":"31","lat2":54.30717334,"lon2":-0.96994968}

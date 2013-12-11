@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX23","name":"Balai Agas (maf)","lat":-00.56110270,"lon":111.31739618,"rwys":1,"ils":0,"index":4773466,"path":"e110s10/e111s01"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX23","name":"Balai Agas (maf)","lat":-0.56110270,"lon":111.31739618,"rwys":1,"ils":0,"index":4773466,"path":"e110s10/e111s01"
 ,"runways":[
 {"len_m":396,"wid_m":25.91,"hdg":262,"surf":"Turf/grass","rwy1":"26","lat1":-0.56137233,"lon1":111.31780778,"rwy2":"08","lat2":-0.56183767,"lon2":111.31427222}
 ]

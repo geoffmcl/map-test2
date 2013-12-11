@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KVDF","name":"Vandenberg","lat":28.01820000,"lon":-082.34248400,"rwys":2,"ils":1,"index":1596802,"path":"w090n20/w083n28"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KVDF","name":"Vandenberg","lat":28.01820000,"lon":-82.34248400,"rwys":2,"ils":1,"index":1596802,"path":"w090n20/w083n28"
 ,"runways":[
 {"len_m":1523,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":28.01212200,"lon1":-82.34770300,"rwy2":"23","lat2":28.02227500,"lon2":-82.33725300},
 {"len_m":993,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":28.01353600,"lon1":-82.34956400,"rwy2":"36","lat2":28.00457200,"lon2":-82.34959700}

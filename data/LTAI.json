@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LTAI","name":"Antalya","lat":36.89653600,"lon":030.80146600,"rwys":3,"ils":3,"index":3448763,"path":"e030n30/e030n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LTAI","name":"Antalya","lat":36.89653600,"lon":30.80146600,"rwys":3,"ils":3,"index":3448763,"path":"e030n30/e030n36"
 ,"runways":[
 {"len_m":3387,"wid_m":45.11,"hdg":186,"surf":"Concrete","rwy1":"18C","lat1":36.91548100,"lon1":30.79474700,"rwy2":"36C","lat2":36.88514400,"lon2":30.79058900},
 {"len_m":3400,"wid_m":45.11,"hdg":186,"surf":"Concrete","rwy1":"18L","lat1":36.91135000,"lon1":30.81140600,"rwy2":"36R","lat2":36.88089700,"lon2":30.80721400},

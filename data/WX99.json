@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX99","name":"Herbon (maf)","lat":00.44932100,"lon":111.38372300,"rwys":1,"ils":0,"index":4773531,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX99","name":"Herbon (maf)","lat":0.44932100,"lon":111.38372300,"rwys":1,"ils":0,"index":4773531,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":324,"wid_m":29.87,"hdg":60,"surf":"Turf/grass","rwy1":"06","lat1":0.44926900,"lon1":111.38206482,"rwy2":"24","lat2":0.45073100,"lon2":111.38459718}
 ]

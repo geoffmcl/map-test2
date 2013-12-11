@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EFKU","name":"Kuopio","lat":63.00859900,"lon":027.79010200,"rwys":2,"ils":1,"index":3401281,"path":"e020n60/e027n63"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EFKU","name":"Kuopio","lat":63.00859900,"lon":27.79010200,"rwys":2,"ils":1,"index":3401281,"path":"e020n60/e027n63"
 ,"runways":[
 {"len_m":2799,"wid_m":60.05,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":63.01808100,"lon1":27.78764400,"rwy2":"33","lat2":62.99492800,"lon2":27.80907500},
 {"len_m":1499,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":63.00480000,"lon1":27.78537200,"rwy2":"24","lat2":63.00997200,"lon2":27.81270600}

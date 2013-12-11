@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPRP","name":"Piastow","lat":51.48511056,"lon":021.11334521,"rwys":2,"ils":0,"index":3302232,"path":"e020n50/e021n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPRP","name":"Piastow","lat":51.48511056,"lon":21.11334521,"rwys":2,"ils":0,"index":3302232,"path":"e020n50/e021n51"
 ,"runways":[
 {"len_m":882,"wid_m":199.95,"hdg":53,"surf":"Turf/grass","rwy1":"05","lat1":51.47648961,"lon1":21.10344602,"rwy2":"23","lat2":51.48125541,"lon2":21.11360146},
 {"len_m":720,"wid_m":199.95,"hdg":171,"surf":"Turf/grass","rwy1":"17","lat1":51.48234726,"lon1":21.10747947,"rwy2":"35","lat2":51.47593083,"lon2":21.10892732}

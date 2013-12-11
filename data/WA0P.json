@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WA0P","name":"Okhika","lat":-04.66654608,"lon":140.67642260,"rwys":2,"ils":0,"index":5248341,"path":"e140s10/e140s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WA0P","name":"Okhika","lat":-4.66654608,"lon":140.67642260,"rwys":2,"ils":0,"index":5248341,"path":"e140s10/e140s05"
 ,"runways":[
 {"len_m":532,"wid_m":32.00,"hdg":13,"surf":"Turf/grass","rwy1":"1","lat1":-4.66672854,"lon1":140.67617277,"rwy2":"19","lat2":-4.66205746,"lon2":140.67732923},
 {"len_m":540,"wid_m":28.04,"hdg":279,"surf":"Gravel","rwy1":"10","lat1":-4.64909336,"lon1":140.68542304,"rwy2":"28","lat2":-4.64824934,"lon2":140.68062041}

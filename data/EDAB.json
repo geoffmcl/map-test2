@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDAB","name":"Bautzen","lat":51.19423577,"lon":014.53086433,"rwys":2,"ils":0,"index":3187530,"path":"e010n50/e014n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDAB","name":"Bautzen","lat":51.19423577,"lon":14.53086433,"rwys":2,"ils":0,"index":3187530,"path":"e010n50/e014n51"
 ,"runways":[
 {"len_m":2207,"wid_m":49.99,"hdg":73,"surf":"Concrete","rwy1":"07","lat1":51.19063758,"lon1":14.50464748,"rwy2":"25","lat2":51.19642442,"lon2":14.53485031},
 {"len_m":1003,"wid_m":49.99,"hdg":73,"surf":"Turf/grass","rwy1":"07L","lat1":51.19193808,"lon1":14.50751598,"rwy2":"25R","lat2":51.19456914,"lon2":14.52124841}

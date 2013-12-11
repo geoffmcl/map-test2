@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFTN","name":"La Grand Combe","lat":44.24754100,"lon":004.01258000,"rwys":1,"ils":0,"index":3023240,"path":"e000n40/e004n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFTN","name":"La Grand Combe","lat":44.24754100,"lon":4.01258000,"rwys":1,"ils":0,"index":3023240,"path":"e000n40/e004n44"
 ,"runways":[
 {"len_m":650,"wid_m":10.06,"hdg":349,"surf":"Turf/grass","rwy1":"17","lat1":44.24027800,"lon1":4.01201100,"rwy2":"35","lat2":44.24603000,"lon2":4.01052500}
 ]

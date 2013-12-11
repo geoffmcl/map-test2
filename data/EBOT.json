@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBOT","name":"Oud Turnhout","lat":51.31893900,"lon":005.01900200,"rwys":2,"ils":0,"index":3040080,"path":"e000n50/e005n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBOT","name":"Oud Turnhout","lat":51.31893900,"lon":5.01900200,"rwys":2,"ils":0,"index":3040080,"path":"e000n50/e005n51"
 ,"runways":[
 {"len_m":611,"wid_m":18.29,"hdg":50,"surf":"Concrete","rwy1":"05","lat1":51.31490285,"lon1":5.01330309,"rwy2":"23","lat2":51.31842915,"lon2":5.02002691},
 {"len_m":458,"wid_m":30.48,"hdg":99,"surf":"Turf/grass","rwy1":"10","lat1":51.31927324,"lon1":5.01359635,"rwy2":"28","lat2":51.31855876,"lon2":5.02007965}

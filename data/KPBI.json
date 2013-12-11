@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPBI","name":"Palm Beach Intl","lat":26.67948000,"lon":-080.09986900,"rwys":3,"ils":1,"index":1629483,"path":"w090n20/w081n26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPBI","name":"Palm Beach Intl","lat":26.67948000,"lon":-80.09986900,"rwys":3,"ils":1,"index":1629483,"path":"w090n20/w081n26"
 ,"runways":[
 {"len_m":3050,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"10L","lat1":26.68320800,"lon1":-80.10837800,"rwy2":"28R","lat2":26.68187200,"lon2":-80.07776700},
 {"len_m":2112,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":26.69183300,"lon1":-80.10402200,"rwy2":"32","lat2":26.67830800,"lon2":-80.08906100},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SJRG","name":"Rio Grande Airport","lat":-32.08145692,"lon":-052.16300910,"rwys":1,"ils":0,"index":2084475,"path":"w060s40/w053s33"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SJRG","name":"Rio Grande Airport","lat":-32.08145692,"lon":-52.16300910,"rwys":1,"ils":0,"index":2084475,"path":"w060s40/w053s33"
 ,"runways":[
 {"len_m":1900,"wid_m":29.87,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":-32.08938236,"lon1":-52.17434865,"rwy2":"24","lat2":-32.07710866,"lon2":-52.16030108}
 ]

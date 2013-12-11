@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KROA","name":"Roanoke Rgnl Woodrum Field","lat":37.32424104,"lon":-079.97903477,"rwys":2,"ils":2,"index":1646544,"path":"w080n30/w080n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KROA","name":"Roanoke Rgnl Woodrum Field","lat":37.32424104,"lon":-79.97903477,"rwys":2,"ils":2,"index":1646544,"path":"w080n30/w080n37"
 ,"runways":[
 {"len_m":1830,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":37.32223600,"lon1":-79.98400000,"rwy2":"24","lat2":37.33288563,"lon2":-79.96823624},
 {"len_m":1770,"wid_m":46.02,"hdg":147,"surf":"Asphalt","rwy1":"15","lat1":37.32895600,"lon1":-79.98112800,"rwy2":"33","lat2":37.31543600,"lon2":-79.97051700}

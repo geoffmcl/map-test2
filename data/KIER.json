@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KIER","name":"Natchitoches Rgnl","lat":31.73553700,"lon":-093.09540600,"rwys":2,"ils":1,"index":1416811,"path":"w100n30/w094n31"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KIER","name":"Natchitoches Rgnl","lat":31.73553700,"lon":-93.09540600,"rwys":2,"ils":1,"index":1416811,"path":"w100n30/w094n31"
 ,"runways":[
 {"len_m":1524,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":31.73966700,"lon1":-93.09945800,"rwy2":"35","lat2":31.72629700,"lon2":-93.09568900},
 {"len_m":1218,"wid_m":30.48,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":31.73783100,"lon1":-93.10736700,"rwy2":"25","lat2":31.74040300,"lon2":-93.09486400}

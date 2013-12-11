@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW92","name":"Sebah (maf)","lat":00.43266700,"lon":109.67030300,"rwys":1,"ils":0,"index":4740765,"path":"e100n00/e109n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW92","name":"Sebah (maf)","lat":0.43266700,"lon":109.67030300,"rwys":1,"ils":0,"index":4740765,"path":"e100n00/e109n00"
 ,"runways":[
 {"len_m":397,"wid_m":24.99,"hdg":0,"surf":"Turf/grass","rwy1":"36","lat1":0.43086760,"lon1":109.66964700,"rwy2":"18","lat2":0.43446640,"lon2":109.66964700}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SCGA","name":"Punta Galera","lat":-40.00731079,"lon":-073.69752857,"rwys":1,"ils":0,"index":1739897,"path":"w080s50/w074s41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SCGA","name":"Punta Galera","lat":-40.00731079,"lon":-73.69752857,"rwys":1,"ils":0,"index":1739897,"path":"w080s50/w074s41"
 ,"runways":[
 {"len_m":499,"wid_m":15.85,"hdg":10,"surf":"Turf/grass","rwy1":"18","lat1":-40.00668549,"lon1":-73.69803860,"rwy2":"36","lat2":-40.00225348,"lon2":-73.69701203}
 ]

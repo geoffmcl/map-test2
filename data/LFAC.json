@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFAC","name":"Calais Dunkerque","lat":50.95900100,"lon":001.95759800,"rwys":1,"ils":2,"index":2974523,"path":"e000n50/e001n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFAC","name":"Calais Dunkerque","lat":50.95900100,"lon":1.95759800,"rwys":1,"ils":2,"index":2974523,"path":"e000n50/e001n50"
 ,"runways":[
 {"len_m":1537,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":50.95875100,"lon1":1.94513900,"rwy2":"24","lat2":50.96544500,"lon2":1.96428900}
 ]

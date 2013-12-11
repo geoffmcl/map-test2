@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EIKY","name":"Kerry","lat":52.18130811,"lon":-009.53690243,"rwys":2,"ils":1,"index":2794377,"path":"w010n50/w010n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EIKY","name":"Kerry","lat":52.18130811,"lon":-9.53690243,"rwys":2,"ils":1,"index":2794377,"path":"w010n50/w010n52"
 ,"runways":[
 {"len_m":2000,"wid_m":45.11,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":52.17798600,"lon1":-9.53762800,"rwy2":"26","lat2":52.18376700,"lon2":-9.50993900},
 {"len_m":1241,"wid_m":30.48,"hdg":58,"surf":"Concrete","rwy1":"05","lat1":52.17882795,"lon1":-9.53912783,"rwy2":"23","lat2":52.18470851,"lon2":-9.52370605}

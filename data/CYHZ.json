@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYHZ","name":"Halifax Intl","lat":44.88112674,"lon":-063.50210080,"rwys":2,"ils":2,"index":1909177,"path":"w070n40/w064n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYHZ","name":"Halifax Intl","lat":44.88112674,"lon":-63.50210080,"rwys":2,"ils":2,"index":1909177,"path":"w070n40/w064n44"
 ,"runways":[
 {"len_m":2624,"wid_m":60.96,"hdg":35,"surf":"Asphalt","rwy1":"05","lat1":44.86901216,"lon1":-63.52460593,"rwy2":"23","lat2":44.88834488,"lon2":-63.50553002},
 {"len_m":2310,"wid_m":60.96,"hdg":125,"surf":"Asphalt","rwy1":"14","lat1":44.89361724,"lon1":-63.51800392,"rwy2":"32","lat2":44.88165755,"lon2":-63.49407432}

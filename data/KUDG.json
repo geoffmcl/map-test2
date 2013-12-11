@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KUDG","name":"Darlington Co Jetport","lat":34.44459200,"lon":-079.88462100,"rwys":3,"ils":0,"index":1646360,"path":"w080n30/w080n34"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KUDG","name":"Darlington Co Jetport","lat":34.44459200,"lon":-79.88462100,"rwys":3,"ils":0,"index":1646360,"path":"w080n30/w080n34"
 ,"runways":[
 {"len_m":1677,"wid_m":29.87,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":34.44234476,"lon1":-79.89286345,"rwy2":"23","lat2":34.45307341,"lon2":-79.88000173},
 {"len_m":1523,"wid_m":46.02,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":34.45385988,"lon1":-79.89790949,"rwy2":"28","lat2":34.45190212,"lon2":-79.88149451},

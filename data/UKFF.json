@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UKFF","name":"Simferopol","lat":45.02036530,"lon":033.99651028,"rwys":2,"ils":2,"index":3498435,"path":"e030n40/e033n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UKFF","name":"Simferopol","lat":45.02036530,"lon":33.99651028,"rwys":2,"ils":2,"index":3498435,"path":"e030n40/e033n45"
 ,"runways":[
 {"len_m":3647,"wid_m":59.13,"hdg":13,"surf":"Concrete","rwy1":"01","lat1":45.03621490,"lon1":33.96795444,"rwy2":"19","lat2":45.06814582,"lon2":33.97863887},
 {"len_m":2656,"wid_m":54.86,"hdg":9,"surf":"Concrete","rwy1":"01R","lat1":45.01380881,"lon1":33.98568488,"rwy2":"19L","lat2":45.03738861,"lon2":33.99121446}

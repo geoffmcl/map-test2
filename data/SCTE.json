@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SCTE","name":"El Tepual","lat":-41.43585629,"lon":-073.09806690,"rwys":1,"ils":2,"index":1739811,"path":"w080s50/w074s42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SCTE","name":"El Tepual","lat":-41.43585629,"lon":-73.09806690,"rwys":1,"ils":2,"index":1739811,"path":"w080s50/w074s42"
 ,"runways":[
 {"len_m":2648,"wid_m":45.11,"hdg":171,"surf":"Concrete","rwy1":"17","lat1":-41.42707678,"lon1":-73.09616792,"rwy2":"35","lat2":-41.45069218,"lon2":-73.09174069}
 ]

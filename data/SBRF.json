@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SBRF","name":"Recife Intl","lat":-08.13535800,"lon":-034.92364100,"rwys":2,"ils":1,"index":2380912,"path":"w040s10/w035s09"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SBRF","name":"Recife Intl","lat":-8.13535800,"lon":-34.92364100,"rwys":2,"ils":1,"index":2380912,"path":"w040s10/w035s09"
 ,"runways":[
 {"len_m":3006,"wid_m":45.11,"hdg":161,"surf":"Asphalt","rwy1":"18","lat1":-8.11388100,"lon1":-34.92730000,"rwy2":"36","lat2":-8.13970800,"lon2":-34.91877800},
 {"len_m":1515,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"19","lat1":-8.12516358,"lon1":-34.92862244,"rwy2":"01","lat2":-8.13283242,"lon2":-34.91722356}

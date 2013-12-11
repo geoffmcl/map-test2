@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LPFR","name":"Faro","lat":37.02105000,"lon":-007.96834500,"rwys":1,"ils":1,"index":2826176,"path":"w010n30/w008n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LPFR","name":"Faro","lat":37.02105000,"lon":-7.96834500,"rwys":1,"ils":1,"index":2826176,"path":"w010n30/w008n37"
 ,"runways":[
 {"len_m":2488,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":37.01729200,"lon1":-7.98609400,"rwy2":"28","lat2":37.01338100,"lon2":-7.95856100}
 ]

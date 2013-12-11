@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KGLS","name":"Scholes Intl At Galveston","lat":29.26316745,"lon":-094.85623564,"rwys":2,"ils":1,"index":1400272,"path":"w100n20/w095n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KGLS","name":"Scholes Intl At Galveston","lat":29.26316745,"lon":-94.85623564,"rwys":2,"ils":1,"index":1400272,"path":"w100n20/w095n29"
 ,"runways":[
 {"len_m":1829,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":29.27350600,"lon1":-94.85906900,"rwy2":"35","lat2":29.25700300,"lon2":-94.85935300},
 {"len_m":1828,"wid_m":46.02,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":29.27171700,"lon1":-94.86764700,"rwy2":"31","lat2":29.25905600,"lon2":-94.85558100}

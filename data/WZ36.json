@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WZ36","name":"Kedembak (maf)","lat":00.59175907,"lon":111.30174297,"rwys":1,"ils":0,"index":4773538,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WZ36","name":"Kedembak (maf)","lat":0.59175907,"lon":111.30174297,"rwys":1,"ils":0,"index":4773538,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":424,"wid_m":24.99,"hdg":200,"surf":"Dirt","rwy1":"20","lat1":0.59368929,"lon1":111.30214574,"rwy2":"02","lat2":0.59008071,"lon2":111.30083226}
 ]

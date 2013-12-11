@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LOWK","name":"Klagenfurt Woerthersee","lat":46.64986192,"lon":014.32387607,"rwys":2,"ils":1,"index":3187241,"path":"e010n40/e014n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LOWK","name":"Klagenfurt Woerthersee","lat":46.64986192,"lon":14.32387607,"rwys":2,"ils":1,"index":3187241,"path":"e010n40/e014n46"
 ,"runways":[
 {"len_m":2720,"wid_m":45.11,"hdg":106,"surf":"Concrete","rwy1":"10L","lat1":46.64594400,"lon1":14.32068600,"rwy2":"28R","lat2":46.63908300,"lon2":14.35478900},
 {"len_m":711,"wid_m":27.13,"hdg":106,"surf":"Turf/grass","rwy1":"10R","lat1":46.64409029,"lon1":14.32014113,"rwy2":"28L","lat2":46.64228529,"lon2":14.32905813}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EHAL","name":"Ameland","lat":53.44847707,"lon":005.68500276,"rwys":1,"ils":0,"index":3040218,"path":"e000n50/e005n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EHAL","name":"Ameland","lat":53.44847707,"lon":5.68500276,"rwys":1,"ils":0,"index":3040218,"path":"e000n50/e005n53"
 ,"runways":[
 {"len_m":803,"wid_m":29.87,"hdg":87,"surf":"Turf/grass","rwy1":"08","lat1":53.45344927,"lon1":5.67265432,"rwy2":"26","lat2":53.45377400,"lon2":5.68473225}
 ]

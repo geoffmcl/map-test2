@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ED02","name":"Fuessen","lat":47.58381479,"lon":010.68676862,"rwys":2,"ils":0,"index":3121762,"path":"e010n40/e010n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ED02","name":"Fuessen","lat":47.58381479,"lon":10.68676862,"rwys":2,"ils":0,"index":3121762,"path":"e010n40/e010n47"
 ,"runways":[
 {"len_m":1003,"wid_m":4.27,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":47.58243267,"lon1":10.68413128,"rwy2":"26","lat2":47.58360733,"lon2":10.69735906},
 {"len_m":832,"wid_m":29.87,"hdg":82,"surf":"Turf/grass","rwy1":"08C","lat1":47.58241620,"lon1":10.68414004,"rwy2":"26C","lat2":47.58339118,"lon2":10.69511932}

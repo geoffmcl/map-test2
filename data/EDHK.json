@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDHK","name":"Kiel Holtenau","lat":54.38307249,"lon":010.14395598,"rwys":2,"ils":1,"index":3122200,"path":"e010n50/e010n54"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDHK","name":"Kiel Holtenau","lat":54.38307249,"lon":10.14395598,"rwys":2,"ils":1,"index":3122200,"path":"e010n50/e010n54"
 ,"runways":[
 {"len_m":1265,"wid_m":29.87,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":54.37870786,"lon1":10.13552874,"rwy2":"26","lat2":54.38028914,"lon2":10.15480763},
 {"len_m":451,"wid_m":29.87,"hdg":80,"surf":"Turf/grass","rwy1":"08L","lat1":54.38105217,"lon1":10.14121006,"rwy2":"26R","lat2":54.38171020,"lon2":10.14807122}

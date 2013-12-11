@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EHLE","name":"Lelystad Airport","lat":52.45593600,"lon":005.51780700,"rwys":2,"ils":1,"index":3040154,"path":"e000n50/e005n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EHLE","name":"Lelystad Airport","lat":52.45593600,"lon":5.51780700,"rwys":2,"ils":1,"index":3040154,"path":"e000n50/e005n52"
 ,"runways":[
 {"len_m":1250,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":52.45116000,"lon1":5.51101000,"rwy2":"23","lat2":52.45874000,"lon2":5.52459117},
 {"len_m":431,"wid_m":49.99,"hdg":48,"surf":"Turf/grass","rwy1":"05L","lat1":52.46250929,"lon1":5.51956220,"rwy2":"23R","lat2":52.46509866,"lon2":5.52428231}

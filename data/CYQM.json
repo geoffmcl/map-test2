@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYQM","name":"Greater Moncton Intl","lat":46.10477833,"lon":-064.68226799,"rwys":2,"ils":2,"index":1892865,"path":"w070n40/w065n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYQM","name":"Greater Moncton Intl","lat":46.10477833,"lon":-64.68226799,"rwys":2,"ils":2,"index":1892865,"path":"w070n40/w065n46"
 ,"runways":[
 {"len_m":2447,"wid_m":60.96,"hdg":87,"surf":"Asphalt","rwy1":"11","lat1":46.10664553,"lon1":-64.69495023,"rwy2":"29","lat2":46.10760266,"lon2":-64.66332961},
 {"len_m":1877,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"06","lat1":46.10579962,"lon1":-64.69495394,"rwy2":"24","lat2":46.11823403,"lon2":-64.67850970}

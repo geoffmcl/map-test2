@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDP","name":"Leipzig-halle","lat":51.42159200,"lon":012.23447300,"rwys":2,"ils":4,"index":3154776,"path":"e010n50/e012n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDP","name":"Leipzig-halle","lat":51.42159200,"lon":12.23447300,"rwys":2,"ils":4,"index":3154776,"path":"e010n50/e012n51"
 ,"runways":[
 {"len_m":3599,"wid_m":45.11,"hdg":85,"surf":"Concrete","rwy1":"08L","lat1":51.43124100,"lon1":12.21582600,"rwy2":"26R","lat2":51.43364800,"lon2":12.26744500},
 {"len_m":3599,"wid_m":60.05,"hdg":85,"surf":"Concrete","rwy1":"08R","lat1":51.41160800,"lon1":12.20464800,"rwy2":"26L","lat2":51.41402600,"lon2":12.25624700}

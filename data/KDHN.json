@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDHN","name":"Dothan Rgnl","lat":31.31853900,"lon":-085.45274500,"rwys":2,"ils":1,"index":1547858,"path":"w090n30/w086n31"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDHN","name":"Dothan Rgnl","lat":31.31853900,"lon":-85.45274500,"rwys":2,"ils":1,"index":1547858,"path":"w090n30/w086n31"
 ,"runways":[
 {"len_m":2590,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":31.33059200,"lon1":-85.46164700,"rwy2":"32","lat2":31.31408900,"lon2":-85.44238600},
 {"len_m":1524,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":31.32654400,"lon1":-85.44555800,"rwy2":"36","lat2":31.31279700,"lon2":-85.44555600}

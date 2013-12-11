@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FALM","name":"Makhado Afb","lat":-23.15855100,"lon":029.69655800,"rwys":2,"ils":0,"index":3428530,"path":"e020s30/e029s24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FALM","name":"Makhado Afb","lat":-23.15855100,"lon":29.69655800,"rwys":2,"ils":0,"index":3428530,"path":"e020s30/e029s24"
 ,"runways":[
 {"len_m":4057,"wid_m":27.43,"hdg":89,"surf":"Asphalt","rwy1":"10L","lat1":-23.15753643,"lon1":29.67941454,"rwy2":"28R","lat2":-23.15748557,"lon2":29.71903946},
 {"len_m":4029,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":-23.16025110,"lon1":29.67687235,"rwy2":"28","lat2":-23.16020690,"lon2":29.71621765}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGMD","name":"Lydd","lat":50.95696464,"lon":000.93643037,"rwys":1,"ils":1,"index":2958139,"path":"e000n50/e000n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGMD","name":"Lydd","lat":50.95696464,"lon":0.93643037,"rwys":1,"ils":1,"index":2958139,"path":"e000n50/e000n50"
 ,"runways":[
 {"len_m":1503,"wid_m":32.00,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":50.95048600,"lon1":0.93336400,"rwy2":"21","lat2":50.96185685,"lon2":0.94492976}
 ]

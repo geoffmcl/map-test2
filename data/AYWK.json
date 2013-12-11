@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"AYWK","name":"Wewak","lat":-03.58052500,"lon":143.66870200,"rwys":1,"ils":0,"index":5297565,"path":"e140s10/e143s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"AYWK","name":"Wewak","lat":-3.58052500,"lon":143.66870200,"rwys":1,"ils":0,"index":5297565,"path":"e140s10/e143s04"
 ,"runways":[
 {"len_m":1566,"wid_m":29.87,"hdg":103,"surf":"Asphalt","rwy1":"10","lat1":-3.58207408,"lon1":143.66222772,"rwy2":"28","lat2":-3.58545545,"lon2":143.67591797}
 ]

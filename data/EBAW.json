@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EBAW","name":"Antwerp Deurne","lat":51.18829300,"lon":004.45152800,"rwys":2,"ils":1,"index":3023689,"path":"e000n50/e004n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EBAW","name":"Antwerp Deurne","lat":51.18829300,"lon":4.45152800,"rwys":2,"ils":1,"index":3023689,"path":"e000n50/e004n51"
 ,"runways":[
 {"len_m":1506,"wid_m":45.11,"hdg":109,"surf":"Asphalt","rwy1":"11","lat1":51.19237886,"lon1":4.45276224,"rwy2":"29","lat2":51.18779298,"lon2":4.47304168},
 {"len_m":1013,"wid_m":49.99,"hdg":109,"surf":"Turf/grass","rwy1":"11L","lat1":51.19276395,"lon1":4.45782914,"rwy2":"29R","lat2":51.18967877,"lon2":4.47147264}

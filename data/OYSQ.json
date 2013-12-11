@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OYSQ","name":"Moori","lat":12.62824300,"lon":053.90917800,"rwys":3,"ils":0,"index":3824047,"path":"e050n10/e053n12"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OYSQ","name":"Moori","lat":12.62824300,"lon":53.90917800,"rwys":3,"ils":0,"index":3824047,"path":"e050n10/e053n12"
 ,"runways":[
 {"len_m":398,"wid_m":46.94,"hdg":206,"surf":"Concrete","rwy1":"03R","lat1":12.64545200,"lon1":53.91306200,"rwy2":"21L","lat2":12.64221600,"lon2":53.91145000},
 {"len_m":398,"wid_m":46.94,"hdg":26,"surf":"Concrete","rwy1":"03L","lat1":12.61861300,"lon1":53.89969300,"rwy2":"21R","lat2":12.62184900,"lon2":53.90130500},

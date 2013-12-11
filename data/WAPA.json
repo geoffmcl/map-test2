@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WAPA","name":"Amahai (local Gov)","lat":-03.34650754,"lon":128.92603849,"rwys":1,"ils":0,"index":5051823,"path":"e120s10/e128s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WAPA","name":"Amahai (local Gov)","lat":-3.34650754,"lon":128.92603849,"rwys":1,"ils":0,"index":5051823,"path":"e120s10/e128s04"
 ,"runways":[
 {"len_m":749,"wid_m":22.86,"hdg":134,"surf":"Gravel","rwy1":"13","lat1":-3.34450815,"lon1":128.92341272,"rwy2":"31","lat2":-3.34922785,"lon2":128.92824728}
 ]

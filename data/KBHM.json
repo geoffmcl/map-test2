@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBHM","name":"Birmingham International","lat":33.55983400,"lon":-086.75158100,"rwys":2,"ils":3,"index":1531616,"path":"w090n30/w087n33"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBHM","name":"Birmingham International","lat":33.55983400,"lon":-86.75158100,"rwys":2,"ils":3,"index":1531616,"path":"w090n30/w087n33"
 ,"runways":[
 {"len_m":3657,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":33.55480000,"lon1":-86.77154600,"rwy2":"24","lat2":33.57349800,"lon2":-86.73909600},
 {"len_m":2163,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":33.57321400,"lon1":-86.74720000,"rwy2":"36","lat2":33.55370800,"lon2":-86.74721200}

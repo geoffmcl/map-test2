@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LECS","name":"Castellon-costa Azahar","lat":40.21231431,"lon":000.07776428,"rwys":1,"ils":0,"index":2957448,"path":"e000n40/e000n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LECS","name":"Castellon-costa Azahar","lat":40.21231431,"lon":0.07776428,"rwys":1,"ils":0,"index":2957448,"path":"e000n40/e000n40"
 ,"runways":[
 {"len_m":2644,"wid_m":49.99,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":40.20747552,"lon1":0.06018489,"rwy2":"24","lat2":40.22068280,"lon2":0.08603530}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OITT","name":"Tabriz Intl","lat":38.13078310,"lon":046.24367900,"rwys":2,"ils":1,"index":3710984,"path":"e040n30/e046n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OITT","name":"Tabriz Intl","lat":38.13078310,"lon":46.24367900,"rwys":2,"ils":1,"index":3710984,"path":"e040n30/e046n38"
 ,"runways":[
 {"len_m":3603,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"12L","lat1":38.14385600,"lon1":46.21957200,"rwy2":"30R","lat2":38.12345000,"lon2":46.25154200},
 {"len_m":3516,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"12R","lat1":38.14226700,"lon1":46.21870300,"rwy2":"30L","lat2":38.12238900,"lon2":46.24993100}

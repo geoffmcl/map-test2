@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WBKL","name":"Labuan","lat":05.29998490,"lon":115.24937440,"rwys":1,"ils":1,"index":4839377,"path":"e110n00/e115n05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WBKL","name":"Labuan","lat":5.29998490,"lon":115.24937440,"rwys":1,"ils":1,"index":4839377,"path":"e110n00/e115n05"
 ,"runways":[
 {"len_m":2283,"wid_m":45.11,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":5.30920600,"lon1":115.24436900,"rwy2":"32","lat2":5.29216400,"lon2":115.25599700}
 ]

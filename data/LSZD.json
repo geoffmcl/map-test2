@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LSZD","name":"Ascona","lat":46.15752196,"lon":008.78068459,"rwys":1,"ils":0,"index":3088907,"path":"e000n40/e008n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LSZD","name":"Ascona","lat":46.15752196,"lon":8.78068459,"rwys":1,"ils":0,"index":3088907,"path":"e000n40/e008n46"
 ,"runways":[
 {"len_m":625,"wid_m":39.93,"hdg":170,"surf":"Concrete","rwy1":"17","lat1":46.16049800,"lon1":8.78139200,"rwy2":"35","lat2":46.15494500,"lon2":8.78271800}
 ]

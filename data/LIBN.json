@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIBN","name":"Lecce","lat":40.24223710,"lon":018.14270210,"rwys":1,"ils":1,"index":3252360,"path":"e010n40/e018n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIBN","name":"Lecce","lat":40.24223710,"lon":18.14270210,"rwys":1,"ils":1,"index":3252360,"path":"e010n40/e018n40"
 ,"runways":[
 {"len_m":2067,"wid_m":60.05,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":40.24667900,"lon1":18.12625600,"rwy2":"32","lat2":40.23128500,"lon2":18.13992500}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"UAAA","name":"Almaty Intl","lat":43.34831293,"lon":077.03926752,"rwys":2,"ils":2,"index":4219216,"path":"e070n40/e077n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"UAAA","name":"Almaty Intl","lat":43.34831293,"lon":77.03926752,"rwys":2,"ils":2,"index":4219216,"path":"e070n40/e077n43"
 ,"runways":[
 {"len_m":4397,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"05R","lat1":43.34095600,"lon1":77.01806700,"rwy2":"23L","lat2":43.36318600,"lon2":77.06294200},
 {"len_m":4510,"wid_m":60.96,"hdg":55,"surf":"Concrete","rwy1":"05L","lat1":43.34700013,"lon1":77.02561625,"rwy2":"23R","lat2":43.36979613,"lon2":77.07165279}

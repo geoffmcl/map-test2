@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFPG","name":"Paris Charles De Gaulle","lat":49.00989400,"lon":002.54738900,"rwys":4,"ils":8,"index":2990786,"path":"e000n40/e002n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFPG","name":"Paris Charles De Gaulle","lat":49.00989400,"lon":2.54738900,"rwys":4,"ils":8,"index":2990786,"path":"e000n40/e002n49"
 ,"runways":[
 {"len_m":4290,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"08L","lat1":48.99566392,"lon1":2.55215505,"rwy2":"26R","lat2":48.99875734,"lon2":2.61060285},
 {"len_m":2700,"wid_m":60.05,"hdg":85,"surf":"Asphalt","rwy1":"09L","lat1":49.02473614,"lon1":2.52489020,"rwy2":"27R","lat2":49.02667786,"lon2":2.56169447},

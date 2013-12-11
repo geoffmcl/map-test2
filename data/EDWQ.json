@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDWQ","name":"Ganderkesee Atlas Airfield","lat":53.03692416,"lon":008.50858905,"rwys":1,"ils":0,"index":3089346,"path":"e000n50/e008n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDWQ","name":"Ganderkesee Atlas Airfield","lat":53.03692416,"lon":8.50858905,"rwys":1,"ils":0,"index":3089346,"path":"e000n50/e008n53"
 ,"runways":[
 {"len_m":838,"wid_m":21.95,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":53.03690684,"lon1":8.49993647,"rwy2":"26","lat2":53.03808256,"lon2":8.51228193}
 ]

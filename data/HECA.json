@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HECA","name":"Cairo Intl","lat":30.12389400,"lon":031.40022300,"rwys":3,"ils":4,"index":3464705,"path":"e030n30/e031n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HECA","name":"Cairo Intl","lat":30.12389400,"lon":31.40022300,"rwys":3,"ils":4,"index":3464705,"path":"e030n30/e031n30"
 ,"runways":[
 {"len_m":3999,"wid_m":60.05,"hdg":49,"surf":"Asphalt","rwy1":"05R","lat1":30.09968900,"lon1":31.39823300,"rwy2":"23L","lat2":30.12326900,"lon2":31.42963600},
 {"len_m":3300,"wid_m":60.05,"hdg":49,"surf":"Asphalt","rwy1":"05L","lat1":30.11973100,"lon1":31.38024400,"rwy2":"23R","lat2":30.13909200,"lon2":31.40626400},

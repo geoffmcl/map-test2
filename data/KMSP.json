@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMSP","name":"Minneapolis St Paul Intl","lat":44.88727600,"lon":-093.22206900,"rwys":4,"ils":5,"index":1417659,"path":"w100n40/w094n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMSP","name":"Minneapolis St Paul Intl","lat":44.88727600,"lon":-93.22206900,"rwys":4,"ils":5,"index":1417659,"path":"w100n40/w094n44"
 ,"runways":[
 {"len_m":3354,"wid_m":46.02,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":44.87226416,"lon1":-93.23831186,"rwy2":"22","lat2":44.89360584,"lon2":-93.20828614},
 {"len_m":3048,"wid_m":60.96,"hdg":121,"surf":"Asphalt","rwy1":"12R","lat1":44.88778988,"lon1":-93.23412760,"rwy2":"30L","lat2":44.87351812,"lon2":-93.20118240},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGNW","name":"Wickenby","lat":53.31620047,"lon":-000.34679478,"rwys":2,"ils":0,"index":2941906,"path":"w010n50/w001n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGNW","name":"Wickenby","lat":53.31620047,"lon":-0.34679478,"rwys":2,"ils":0,"index":2941906,"path":"w010n50/w001n53"
 ,"runways":[
 {"len_m":633,"wid_m":17.98,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":53.31393226,"lon1":-0.35119523,"rwy2":"21","lat2":53.31908100,"lon2":-0.34713788},
 {"len_m":618,"wid_m":17.98,"hdg":150,"surf":"Asphalt","rwy1":"16","lat1":53.31918599,"lon1":-0.35209666,"rwy2":"34","lat2":53.31436382,"lon2":-0.34748562}

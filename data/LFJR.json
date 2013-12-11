@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFJR","name":"Angers Marce","lat":47.56334100,"lon":-000.31394300,"rwys":3,"ils":1,"index":2941538,"path":"w010n40/w001n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFJR","name":"Angers Marce","lat":47.56334100,"lon":-0.31394300,"rwys":3,"ils":1,"index":2941538,"path":"w010n40/w001n47"
 ,"runways":[
 {"len_m":1651,"wid_m":41.15,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":47.55905644,"lon1":-0.32334481,"rwy2":"26","lat2":47.56137356,"lon2":-0.30166519},
 {"len_m":1009,"wid_m":91.44,"hdg":81,"surf":"Turf/grass","rwy1":"08R","lat1":47.55836299,"lon1":-0.31378918,"rwy2":"26L","lat2":47.55977901,"lon2":-0.30054082},

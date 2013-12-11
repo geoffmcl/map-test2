@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAFK","name":"Nebraska City Muni","lat":40.60483942,"lon":-095.86153764,"rwys":2,"ils":0,"index":1384608,"path":"w100n40/w096n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAFK","name":"Nebraska City Muni","lat":40.60483942,"lon":-95.86153764,"rwys":2,"ils":0,"index":1384608,"path":"w100n40/w096n40"
 ,"runways":[
 {"len_m":1373,"wid_m":22.86,"hdg":151,"surf":"Concrete","rwy1":"15","lat1":40.61232483,"lon1":-95.86960638,"rwy2":"33","lat2":40.60145667,"lon2":-95.86186606},
 {"len_m":743,"wid_m":46.02,"hdg":46,"surf":"Turf/grass","rwy1":"05","lat1":40.60349200,"lon1":-95.87176312,"rwy2":"23","lat2":40.60807900,"lon2":-95.86536100}

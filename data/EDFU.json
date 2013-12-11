@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDFU","name":"Mainbullau","lat":49.69268000,"lon":009.17987600,"rwys":2,"ils":0,"index":3105512,"path":"e000n40/e009n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDFU","name":"Mainbullau","lat":49.69268000,"lon":9.17987600,"rwys":2,"ils":0,"index":3105512,"path":"e000n40/e009n49"
 ,"runways":[
 {"len_m":843,"wid_m":24.99,"hdg":53,"surf":"Turf/grass","rwy1":"05C","lat1":49.69378022,"lon1":9.17927626,"rwy2":"23C","lat2":49.69832578,"lon2":9.18863574},
 {"len_m":704,"wid_m":10.36,"hdg":53,"surf":"Asphalt","rwy1":"05","lat1":49.69322967,"lon1":9.17883724,"rwy2":"23","lat2":49.69703633,"lon2":9.18664676}

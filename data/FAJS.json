@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAJS","name":"Johannesburg Or Thambo Intl","lat":-26.13263800,"lon":028.23224700,"rwys":2,"ils":3,"index":3411952,"path":"e020s30/e028s27"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAJS","name":"Johannesburg Or Thambo Intl","lat":-26.13263800,"lon":28.23224700,"rwys":2,"ils":3,"index":3411952,"path":"e020s30/e028s27"
 ,"runways":[
 {"len_m":4406,"wid_m":60.96,"hdg":15,"surf":"Asphalt","rwy1":"03L","lat1":-26.14631923,"lon1":28.23434267,"rwy2":"21R","lat2":-26.10801877,"lon2":28.24622933},
 {"len_m":3391,"wid_m":60.96,"hdg":15,"surf":"Asphalt","rwy1":"03R","lat1":-26.16465140,"lon1":28.24818467,"rwy2":"21L","lat2":-26.13518060,"lon2":28.25735133}

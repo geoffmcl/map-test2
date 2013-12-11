@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KIAD","name":"Washington Dulles Intl","lat":38.94295684,"lon":-077.44776100,"rwys":4,"ils":4,"index":1679418,"path":"w080n30/w078n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KIAD","name":"Washington Dulles Intl","lat":38.94295684,"lon":-77.44776100,"rwys":4,"ils":4,"index":1679418,"path":"w080n30/w078n38"
 ,"runways":[
 {"len_m":2868,"wid_m":46.02,"hdg":0,"surf":"Concrete","rwy1":"1L","lat1":38.94483275,"lon1":-77.47466700,"rwy2":"19R","lat2":38.97066700,"lon2":-77.47433300},
 {"len_m":3505,"wid_m":46.02,"hdg":0,"surf":"Concrete","rwy1":"01C","lat1":38.93906539,"lon1":-77.45976078,"rwy2":"19C","lat2":38.97064061,"lon2":-77.45930722},

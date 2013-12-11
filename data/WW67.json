@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW67","name":"Poga (abms)","lat":-03.80159342,"lon":138.58626445,"rwys":1,"ils":0,"index":5215628,"path":"e130s10/e138s04"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW67","name":"Poga (abms)","lat":-3.80159342,"lon":138.58626445,"rwys":1,"ils":0,"index":5215628,"path":"e130s10/e138s04"
 ,"runways":[
 {"len_m":458,"wid_m":17.07,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":-3.80137000,"lon1":138.58426223,"rwy2":"27","lat2":-3.80137000,"lon2":138.58838577}
 ]

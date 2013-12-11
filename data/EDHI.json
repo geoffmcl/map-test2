@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDHI","name":"Hamburg Finkenwerder","lat":53.53059600,"lon":009.84078900,"rwys":1,"ils":2,"index":3105763,"path":"e000n50/e009n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDHI","name":"Hamburg Finkenwerder","lat":53.53059600,"lon":9.84078900,"rwys":1,"ils":2,"index":3105763,"path":"e000n50/e009n53"
 ,"runways":[
 {"len_m":2635,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":53.52856400,"lon1":9.82148600,"rwy2":"23","lat2":53.54325600,"lon2":9.85265600}
 ]

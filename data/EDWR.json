@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDWR","name":"Borkum","lat":53.59605429,"lon":006.70146143,"rwys":3,"ils":0,"index":3056610,"path":"e000n50/e006n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDWR","name":"Borkum","lat":53.59605429,"lon":6.70146143,"rwys":3,"ils":0,"index":3056610,"path":"e000n50/e006n53"
 ,"runways":[
 {"len_m":999,"wid_m":20.12,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":53.59498756,"lon1":6.70981918,"rwy2":"31","lat2":53.58922044,"lon2":6.72139903},
 {"len_m":872,"wid_m":39.93,"hdg":117,"surf":"Turf/grass","rwy1":"12","lat1":53.59522067,"lon1":6.70146422,"rwy2":"30","lat2":53.59160559,"lon2":6.71316491},

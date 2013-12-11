@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HESH","name":"Sharm El Sheikh Intl","lat":27.98111340,"lon":034.39117810,"rwys":2,"ils":1,"index":3513721,"path":"e030n20/e034n27"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HESH","name":"Sharm El Sheikh Intl","lat":27.98111340,"lon":34.39117810,"rwys":2,"ils":1,"index":3513721,"path":"e030n20/e034n27"
 ,"runways":[
 {"len_m":3080,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04L","lat1":27.96850000,"lon1":34.38262800,"rwy2":"22R","lat2":27.98889700,"lon2":34.40390600},
 {"len_m":3081,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04R","lat1":27.96573900,"lon1":34.38598300,"rwy2":"22L","lat2":27.98613600,"lon2":34.40726400}

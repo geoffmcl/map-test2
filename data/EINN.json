@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EINN","name":"Shannon","lat":52.69544916,"lon":-008.92810746,"rwys":5,"ils":1,"index":2810792,"path":"w010n50/w009n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EINN","name":"Shannon","lat":52.69544916,"lon":-8.92810746,"rwys":5,"ils":1,"index":2810792,"path":"w010n50/w009n52"
 ,"runways":[
 {"len_m":3199,"wid_m":45.11,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":52.69317200,"lon1":-8.94351900,"rwy2":"24","lat2":52.71077800,"lon2":-8.90610300},
 {"len_m":1969,"wid_m":60.05,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":52.69514400,"lon1":-8.92145600,"rwy2":"22","lat2":52.70963100,"lon2":-8.90473100},

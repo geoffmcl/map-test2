@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HUJI","name":"Jinja","lat":00.45045896,"lon":033.19373505,"rwys":1,"ils":0,"index":3495577,"path":"e030n00/e033n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HUJI","name":"Jinja","lat":0.45045896,"lon":33.19373505,"rwys":1,"ils":0,"index":3495577,"path":"e030n00/e033n00"
 ,"runways":[
 {"len_m":1688,"wid_m":49.99,"hdg":130,"surf":"Turf/grass","rwy1":"13","lat1":0.45753770,"lon1":33.18774992,"rwy2":"31","lat2":0.44755864,"lon2":33.19923502}
 ]

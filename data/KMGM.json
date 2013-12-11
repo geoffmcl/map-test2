@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMGM","name":"Montgomery Rgnl","lat":32.29524637,"lon":-086.39795822,"rwys":2,"ils":2,"index":1531538,"path":"w090n30/w087n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMGM","name":"Montgomery Rgnl","lat":32.29524637,"lon":-86.39795822,"rwys":2,"ils":2,"index":1531538,"path":"w090n30/w087n32"
 ,"runways":[
 {"len_m":2746,"wid_m":46.02,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":32.30240000,"lon1":-86.40997800,"rwy2":"28","lat2":32.29980600,"lon2":-86.38097800},
 {"len_m":1222,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":32.29499400,"lon1":-86.39413600,"rwy2":"21","lat2":32.30423900,"lon2":-86.38707500}

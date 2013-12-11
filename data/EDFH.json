@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDFH","name":"Frankfurt Hahn","lat":49.95278900,"lon":007.28046000,"rwys":1,"ils":2,"index":3072761,"path":"e000n40/e007n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDFH","name":"Frankfurt Hahn","lat":49.95278900,"lon":7.28046000,"rwys":1,"ils":2,"index":3072761,"path":"e000n40/e007n49"
 ,"runways":[
 {"len_m":3799,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":49.93139400,"lon1":7.24687700,"rwy2":"21","lat2":49.96022200,"lon2":7.27528600}
 ]

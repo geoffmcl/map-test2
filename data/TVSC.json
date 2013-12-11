@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"TVSC","name":"Canouan Jetport","lat":12.69954728,"lon":-061.34779409,"rwys":1,"ils":0,"index":1939885,"path":"w070n10/w062n12"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"TVSC","name":"Canouan Jetport","lat":12.69954728,"lon":-61.34779409,"rwys":1,"ils":0,"index":1939885,"path":"w070n10/w062n12"
 ,"runways":[
 {"len_m":1791,"wid_m":43.89,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":12.70330240,"lon1":-61.34944114,"rwy2":"31","lat2":12.69478160,"lon2":-61.33542010}
 ]

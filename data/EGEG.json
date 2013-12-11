@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
-,"type":17,"icao":"EGEG","name":"[h] Glasgow City Heliport [h]","lat":55.86151901,"lon":-004.29629338,"rwys":0,"ils":0,"index":2876530,"path":"w010n50/w005n55"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:58:07 UTC"
+,"type":17,"icao":"EGEG","name":"[h] Glasgow City Heliport [h]","lat":55.86151901,"lon":-4.29629338,"rwys":0,"ils":0,"index":2876530,"path":"w010n50/w005n55"
 ,"runways":[]
 ,"helipads":[
 {"rwy1":"H0","len_m":20,"wid_m":20.12,"hdg":-4,"surf":"Turf/grass","lat1":55.86159700,"lon1":-4.29695500},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFSB","name":"Bale-mulhouse","lat":47.59962100,"lon":007.53161100,"rwys":2,"ils":2,"index":3072610,"path":"e000n40/e007n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFSB","name":"Bale-mulhouse","lat":47.59962100,"lon":7.53161100,"rwys":2,"ils":2,"index":3072610,"path":"e000n40/e007n47"
 ,"runways":[
 {"len_m":3902,"wid_m":60.05,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":47.61770400,"lon1":7.50985600,"rwy2":"33","lat2":47.58594200,"lon2":7.53195400},
 {"len_m":1820,"wid_m":58.83,"hdg":76,"surf":"Concrete","rwy1":"08","lat1":47.58795100,"lon1":7.51691900,"rwy2":"26","lat2":47.59164500,"lon2":7.54049300}

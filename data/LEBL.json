@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEBL","name":"Barcelona - El Prat","lat":41.29564423,"lon":002.09511082,"rwys":3,"ils":5,"index":2990288,"path":"e000n40/e002n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEBL","name":"Barcelona - El Prat","lat":41.29564423,"lon":2.09511082,"rwys":3,"ils":5,"index":2990288,"path":"e000n40/e002n41"
 ,"runways":[
 {"len_m":2540,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"02","lat1":41.28775900,"lon1":2.08483610,"rwy2":"20","lat2":41.30938568,"lon2":2.09470900},
 {"len_m":2661,"wid_m":60.05,"hdg":65,"surf":"Asphalt","rwy1":"07R","lat1":41.28231220,"lon1":2.07434999,"rwy2":"25L","lat2":41.29222053,"lon2":2.10328100},

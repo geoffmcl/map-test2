@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAKR","name":"Akron Fulton Intl","lat":41.03922141,"lon":-081.45749016,"rwys":2,"ils":1,"index":1614018,"path":"w090n40/w082n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAKR","name":"Akron Fulton Intl","lat":41.03922141,"lon":-81.45749016,"rwys":2,"ils":1,"index":1614018,"path":"w090n40/w082n41"
 ,"runways":[
 {"len_m":1931,"wid_m":46.02,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":41.03333600,"lon1":-81.47781900,"rwy2":"25","lat2":41.04150800,"lon2":-81.45754700},
 {"len_m":712,"wid_m":29.87,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":41.03454200,"lon1":-81.46493100,"rwy2":"19","lat2":41.04095300,"lon2":-81.46480000}

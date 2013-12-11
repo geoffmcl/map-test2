@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW29","name":"Nanga Raun (ymmp)","lat":00.62694300,"lon":113.17767300,"rwys":1,"ils":0,"index":4806313,"path":"e110n00/e113n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW29","name":"Nanga Raun (ymmp)","lat":0.62694300,"lon":113.17767300,"rwys":1,"ils":0,"index":4806313,"path":"e110n00/e113n00"
 ,"runways":[
 {"len_m":487,"wid_m":24.99,"hdg":119,"surf":"Turf/grass","rwy1":"12","lat1":0.62860819,"lon1":113.17610049,"rwy2":"30","lat2":0.62641381,"lon2":113.17990151}
 ]

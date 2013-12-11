@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENSO","name":"Stord Sorstokken","lat":59.79257578,"lon":005.34250971,"rwys":1,"ils":1,"index":3040625,"path":"e000n50/e005n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENSO","name":"Stord Sorstokken","lat":59.79257578,"lon":5.34250971,"rwys":1,"ils":1,"index":3040625,"path":"e000n50/e005n59"
 ,"runways":[
 {"len_m":1459,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":59.79727800,"lon1":5.33335300,"rwy2":"32","lat2":59.78657200,"lon2":5.34834700}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW80","name":"Ribang Rabing (maf)","lat":00.76624500,"lon":111.58284100,"rwys":1,"ils":0,"index":4773556,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW80","name":"Ribang Rabing (maf)","lat":0.76624500,"lon":111.58284100,"rwys":1,"ils":0,"index":4773556,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":395,"wid_m":24.99,"hdg":139,"surf":"Turf/grass","rwy1":"14","lat1":0.76803281,"lon1":111.58219785,"rwy2":"32","lat2":0.76530119,"lon2":111.58449015}
 ]

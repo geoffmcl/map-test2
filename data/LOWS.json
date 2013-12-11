@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LOWS","name":"Salzburg Maxglan","lat":47.79081600,"lon":012.99893200,"rwys":1,"ils":1,"index":3154547,"path":"e010n40/e012n47"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LOWS","name":"Salzburg Maxglan","lat":47.79081600,"lon":12.99893200,"rwys":1,"ils":1,"index":3154547,"path":"e010n40/e012n47"
 ,"runways":[
 {"len_m":2750,"wid_m":45.11,"hdg":157,"surf":"Concrete","rwy1":"16","lat1":47.80472200,"lon1":12.99716700,"rwy2":"34","lat2":47.78194400,"lon2":13.01150000}
 ]

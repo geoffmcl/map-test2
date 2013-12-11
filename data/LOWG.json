@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LOWG","name":"Graz Thalerhof","lat":46.99603989,"lon":015.44564108,"rwys":3,"ils":1,"index":3203641,"path":"e010n40/e015n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LOWG","name":"Graz Thalerhof","lat":46.99603989,"lon":15.44564108,"rwys":3,"ils":1,"index":3203641,"path":"e010n40/e015n46"
 ,"runways":[
 {"len_m":3001,"wid_m":45.11,"hdg":169,"surf":"Asphalt","rwy1":"17C","lat1":47.00433384,"lon1":15.43597562,"rwy2":"35C","lat2":46.97779916,"lon2":15.44327557},
 {"len_m":760,"wid_m":24.99,"hdg":169,"surf":"Turf/grass","rwy1":"17R","lat1":46.99542927,"lon1":15.43509694,"rwy2":"35L","lat2":46.98870661,"lon2":15.43694205},

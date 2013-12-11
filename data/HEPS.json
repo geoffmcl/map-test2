@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"HEPS","name":"Port Said","lat":31.28019140,"lon":032.24531170,"rwys":1,"ils":0,"index":3481168,"path":"e030n30/e032n31"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"HEPS","name":"Port Said","lat":31.28019140,"lon":32.24531170,"rwys":1,"ils":0,"index":3481168,"path":"e030n30/e032n31"
 ,"runways":[
 {"len_m":2349,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":31.28227800,"lon1":32.22819400,"rwy2":"28","lat2":31.27650800,"lon2":32.25193300}
 ]

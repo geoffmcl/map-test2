@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KLRD","name":"Laredo Intl","lat":27.54079118,"lon":-099.46876196,"rwys":3,"ils":1,"index":1318242,"path":"w100n20/w100n27"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KLRD","name":"Laredo Intl","lat":27.54079118,"lon":-99.46876196,"rwys":3,"ils":1,"index":1318242,"path":"w100n20/w100n27"
 ,"runways":[
 {"len_m":2509,"wid_m":45.72,"hdg":182,"surf":"Concrete","rwy1":"17L","lat1":27.55636900,"lon1":-99.45933300,"rwy2":"35R","lat2":27.53374200,"lon2":-99.46047000},
 {"len_m":2664,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17R","lat1":27.55649100,"lon1":-99.46242000,"rwy2":"35L","lat2":27.53246700,"lon2":-99.46362400},

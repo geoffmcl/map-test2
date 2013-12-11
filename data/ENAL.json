@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENAL","name":"Alesund Lufthavn - Vigra","lat":62.55816871,"lon":006.11434582,"rwys":1,"ils":1,"index":3057184,"path":"e000n60/e006n62"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENAL","name":"Alesund Lufthavn - Vigra","lat":62.55816871,"lon":6.11434582,"rwys":1,"ils":1,"index":3057184,"path":"e000n60/e006n62"
 ,"runways":[
 {"len_m":2312,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":62.55593100,"lon1":6.08984400,"rwy2":"25","lat2":62.56481100,"lon2":6.13048600}
 ]

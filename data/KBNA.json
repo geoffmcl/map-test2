@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBNA","name":"Nashville_intl","lat":36.11522125,"lon":-086.67498227,"rwys":4,"ils":6,"index":1531777,"path":"w090n30/w087n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBNA","name":"Nashville_intl","lat":36.11522125,"lon":-86.67498227,"rwys":4,"ils":6,"index":1531777,"path":"w090n30/w087n36"
 ,"runways":[
 {"len_m":3361,"wid_m":46.02,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":36.14127800,"lon1":-86.69535200,"rwy2":"31","lat2":36.12049500,"lon2":-86.66817800},
 {"len_m":2438,"wid_m":46.02,"hdg":17,"surf":"Concrete","rwy1":"02C","lat1":36.10333100,"lon1":-86.68796100,"rwy2":"20C","lat2":36.12423300,"lon2":-86.67959700},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KMFI","name":"Marshfield Muni","lat":44.64034000,"lon":-090.18883200,"rwys":2,"ils":0,"index":1466795,"path":"w100n40/w091n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KMFI","name":"Marshfield Muni","lat":44.64034000,"lon":-90.18883200,"rwys":2,"ils":0,"index":1466795,"path":"w100n40/w091n44"
 ,"runways":[
 {"len_m":1524,"wid_m":30.48,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":44.64433300,"lon1":-90.19414400,"rwy2":"34","lat2":44.63156400,"lon2":-90.18712500},
 {"len_m":1097,"wid_m":30.48,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":44.63202800,"lon1":-90.19252800,"rwy2":"22","lat2":44.63876100,"lon2":-90.18241100}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGYP","name":"Mount Pleasant","lat":-51.81994125,"lon":-058.44779778,"rwys":2,"ils":1,"index":1984906,"path":"w060s60/w059s52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGYP","name":"Mount Pleasant","lat":-51.81994125,"lon":-58.44779778,"rwys":2,"ils":1,"index":1984906,"path":"w060s60/w059s52"
 ,"runways":[
 {"len_m":2595,"wid_m":46.02,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":-51.81769502,"lon1":-58.47514471,"rwy2":"28","lat2":-51.82380520,"lon2":-58.43881708},
 {"len_m":1519,"wid_m":24.99,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":-51.82428975,"lon1":-58.44982149,"rwy2":"23","lat2":-51.81650472,"lon2":-58.43172080}

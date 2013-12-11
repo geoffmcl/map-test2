@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCLE","name":"Cleveland Hopkins Intl","lat":41.41085900,"lon":-081.83874300,"rwys":4,"ils":4,"index":1614040,"path":"w090n40/w082n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCLE","name":"Cleveland Hopkins Intl","lat":41.41085900,"lon":-81.83874300,"rwys":4,"ils":4,"index":1614040,"path":"w090n40/w082n41"
 ,"runways":[
 {"len_m":2743,"wid_m":46.02,"hdg":49,"surf":"Concrete","rwy1":"06L","lat1":41.39986970,"lon1":-81.87348757,"rwy2":"24R","lat2":41.41576430,"lon2":-81.84837443},
 {"len_m":2742,"wid_m":46.02,"hdg":49,"surf":"Concrete","rwy1":"06R","lat1":41.40113923,"lon1":-81.86445326,"rwy2":"24L","lat2":41.41702877,"lon2":-81.83933874},

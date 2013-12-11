@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDLK","name":"Krefeld Egelsberg","lat":51.38646000,"lon":006.59359200,"rwys":1,"ils":0,"index":3056474,"path":"e000n50/e006n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDLK","name":"Krefeld Egelsberg","lat":51.38646000,"lon":6.59359200,"rwys":1,"ils":0,"index":3056474,"path":"e000n50/e006n51"
 ,"runways":[
 {"len_m":642,"wid_m":29.87,"hdg":62,"surf":"Turf/grass","rwy1":"06","lat1":51.38475886,"lon1":6.58648112,"rwy2":"24","lat2":51.38746314,"lon2":6.59463088}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCGX","name":"Chicago Meigs","lat":41.85975800,"lon":-087.60984200,"rwys":1,"ils":0,"index":1515761,"path":"w090n40/w088n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCGX","name":"Chicago Meigs","lat":41.85975800,"lon":-87.60984200,"rwys":1,"ils":0,"index":1515761,"path":"w090n40/w088n41"
 ,"runways":[
 {"len_m":1186,"wid_m":45.72,"hdg":176,"surf":"Concrete","rwy1":"18","lat1":41.86424619,"lon1":-87.60835463,"rwy2":"36","lat2":41.85357781,"lon2":-87.60758137}
 ]

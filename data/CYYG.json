@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYYG","name":"Charlottetown","lat":46.28749988,"lon":-063.13079336,"rwys":2,"ils":1,"index":1909267,"path":"w070n40/w064n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYYG","name":"Charlottetown","lat":46.28749988,"lon":-63.13079336,"rwys":2,"ils":1,"index":1909267,"path":"w070n40/w064n46"
 ,"runways":[
 {"len_m":2134,"wid_m":46.02,"hdg":9,"surf":"Asphalt","rwy1":"03","lat1":46.28003494,"lon1":-63.12751553,"rwy2":"21","lat2":46.29899906,"lon2":-63.12316554},
 {"len_m":1529,"wid_m":60.96,"hdg":78,"surf":"Asphalt","rwy1":"10","lat1":46.29433131,"lon1":-63.12894977,"rwy2":"28","lat2":46.29697871,"lon2":-63.10947354}

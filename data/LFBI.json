@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFBI","name":"Poitiers Biard","lat":46.58529300,"lon":000.31088600,"rwys":1,"ils":1,"index":2957857,"path":"e000n40/e000n46"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFBI","name":"Poitiers Biard","lat":46.58529300,"lon":0.31088600,"rwys":1,"ils":1,"index":2957857,"path":"e000n40/e000n46"
 ,"runways":[
 {"len_m":2355,"wid_m":45.11,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":46.57962039,"lon1":0.30011694,"rwy2":"21","lat2":46.59785761,"lon2":0.31576106}
 ]

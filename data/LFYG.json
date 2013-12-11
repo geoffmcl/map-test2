@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFYG","name":"Niergnies Ba","lat":50.14331200,"lon":003.26286000,"rwys":2,"ils":0,"index":3007241,"path":"e000n50/e003n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFYG","name":"Niergnies Ba","lat":50.14331200,"lon":3.26286000,"rwys":2,"ils":0,"index":3007241,"path":"e000n50/e003n50"
 ,"runways":[
 {"len_m":865,"wid_m":19.81,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":50.14046100,"lon1":3.25754800,"rwy2":"26","lat2":50.14256900,"lon2":3.26920400},
 {"len_m":796,"wid_m":99.97,"hdg":74,"surf":"Transparent","rwy1":"26L","lat1":50.13889200,"lon1":3.25898100,"rwy2":"08R","lat2":50.14080800,"lon2":3.26971700}

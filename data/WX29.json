@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX29","name":"Basiem (ama)","lat":-06.05983942,"lon":138.38477587,"rwys":1,"ils":0,"index":5215483,"path":"e130s10/e138s07"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX29","name":"Basiem (ama)","lat":-6.05983942,"lon":138.38477587,"rwys":1,"ils":0,"index":5215483,"path":"e130s10/e138s07"
 ,"runways":[
 {"len_m":523,"wid_m":21.03,"hdg":140,"surf":"Turf/grass","rwy1":"14","lat1":-6.05675402,"lon1":138.38207065,"rwy2":"32","lat2":-6.06042561,"lon2":138.38506109}
 ]

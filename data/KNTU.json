@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KNTU","name":"Oceana Naval Air Station","lat":36.81829500,"lon":-076.02784000,"rwys":4,"ils":0,"index":1695667,"path":"w080n30/w077n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KNTU","name":"Oceana Naval Air Station","lat":36.81829500,"lon":-76.02784000,"rwys":4,"ils":0,"index":1695667,"path":"w080n30/w077n36"
 ,"runways":[
 {"len_m":3656,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"05R","lat1":36.80545054,"lon1":-76.04994426,"rwy2":"23L","lat2":36.82988546,"lon2":-76.02245176},
 {"len_m":2456,"wid_m":46.02,"hdg":42,"surf":"Concrete","rwy1":"05L","lat1":36.81492853,"lon1":-76.04258850,"rwy2":"23R","lat2":36.83133778,"lon2":-76.02410142},

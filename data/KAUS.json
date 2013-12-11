@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAUS","name":"Austin Bergstrom Intl","lat":30.19610225,"lon":-097.66553764,"rwys":2,"ils":2,"index":1351177,"path":"w100n30/w098n30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAUS","name":"Austin Bergstrom Intl","lat":30.19610225,"lon":-97.66553764,"rwys":2,"ils":2,"index":1351177,"path":"w100n30/w098n30"
 ,"runways":[
 {"len_m":3733,"wid_m":46.02,"hdg":178,"surf":"Concrete","rwy1":"17R","lat1":30.21361400,"lon1":-97.67936400,"rwy2":"35L","lat2":30.17994700,"lon2":-97.67847500},
 {"len_m":2743,"wid_m":46.02,"hdg":178,"surf":"Concrete","rwy1":"17L","lat1":30.20383100,"lon1":-97.65789200,"rwy2":"35R","lat2":30.17909200,"lon2":-97.65724400}

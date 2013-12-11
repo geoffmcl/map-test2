@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGED","name":"Eday","lat":59.19235664,"lon":-002.76833264,"rwys":2,"ils":0,"index":2909512,"path":"w010n50/w003n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGED","name":"Eday","lat":59.19235664,"lon":-2.76833264,"rwys":2,"ils":0,"index":2909512,"path":"w010n50/w003n59"
 ,"runways":[
 {"len_m":469,"wid_m":17.98,"hdg":64,"surf":"Asphalt","rwy1":"6","lat1":59.18943366,"lon1":-2.77624912,"rwy2":"24","lat2":59.19126499,"lon2":-2.76885142},
 {"len_m":532,"wid_m":29.87,"hdg":178,"surf":"Turf/grass","rwy1":"18","lat1":59.19420770,"lon1":-2.77061940,"rwy2":"36","lat2":59.18942972,"lon2":-2.77035935}

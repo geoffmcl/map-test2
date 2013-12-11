@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDS","name":"Stuttgart","lat":48.68462203,"lon":009.22023699,"rwys":1,"ils":3,"index":3105448,"path":"e000n40/e009n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDS","name":"Stuttgart","lat":48.68462203,"lon":9.22023699,"rwys":1,"ils":3,"index":3105448,"path":"e000n40/e009n48"
 ,"runways":[
 {"len_m":3345,"wid_m":45.11,"hdg":74,"surf":"Concrete","rwy1":"07","lat1":48.68573500,"lon1":9.20011700,"rwy2":"25","lat2":48.69401700,"lon2":9.24380600}
 ]

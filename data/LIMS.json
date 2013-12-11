@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LIMS","name":"Piacenza","lat":44.91130830,"lon":009.71921350,"rwys":1,"ils":0,"index":3105210,"path":"e000n40/e009n44"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LIMS","name":"Piacenza","lat":44.91130830,"lon":9.71921350,"rwys":1,"ils":0,"index":3105210,"path":"e000n40/e009n44"
 ,"runways":[
 {"len_m":2992,"wid_m":45.11,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":44.92082800,"lon1":9.70545300,"rwy2":"30","lat2":44.90802800,"lon2":9.73879700}
 ]

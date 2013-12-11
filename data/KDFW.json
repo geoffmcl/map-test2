@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDFW","name":"Dallas Fort Worth Intl","lat":32.89690000,"lon":-097.04040000,"rwys":7,"ils":7,"index":1351355,"path":"w100n30/w098n32"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDFW","name":"Dallas Fort Worth Intl","lat":32.89690000,"lon":-97.04040000,"rwys":7,"ils":7,"index":1351355,"path":"w100n30/w098n32"
 ,"runways":[
 {"len_m":4084,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17C","lat1":32.91572000,"lon1":-97.02597000,"rwy2":"35C","lat2":32.87888956,"lon2":-97.02617144},
 {"len_m":2590,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":32.89833256,"lon1":-97.00977844,"rwy2":"35R","lat2":32.87497056,"lon2":-97.00990844},

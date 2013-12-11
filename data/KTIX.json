@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KTIX","name":"Space Coast Rgnl","lat":28.51184300,"lon":-080.79393000,"rwys":2,"ils":1,"index":1629600,"path":"w090n20/w081n28"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KTIX","name":"Space Coast Rgnl","lat":28.51184300,"lon":-80.79393000,"rwys":2,"ils":1,"index":1629600,"path":"w090n20/w081n28"
 ,"runways":[
 {"len_m":2231,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":28.52461900,"lon1":-80.79690300,"rwy2":"36","lat2":28.50448900,"lon2":-80.79655300},
 {"len_m":1523,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":28.51505300,"lon1":-80.81066900,"rwy2":"27","lat2":28.51526400,"lon2":-80.79510600}

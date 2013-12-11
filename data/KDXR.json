@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDXR","name":"Danbury","lat":41.37257532,"lon":-073.48497801,"rwys":2,"ils":1,"index":1745106,"path":"w080n40/w074n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDXR","name":"Danbury","lat":41.37257532,"lon":-73.48497801,"rwys":2,"ils":1,"index":1745106,"path":"w080n40/w074n41"
 ,"runways":[
 {"len_m":1347,"wid_m":46.02,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":41.36869420,"lon1":-73.49076102,"rwy2":"26","lat2":41.37289400,"lon2":-73.47564701},
 {"len_m":955,"wid_m":29.87,"hdg":153,"surf":"Asphalt","rwy1":"17","lat1":41.37641127,"lon1":-73.48334439,"rwy2":"35","lat2":41.36873900,"lon2":-73.47817200}

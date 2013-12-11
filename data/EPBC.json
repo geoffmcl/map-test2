@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPBC","name":"Babice","lat":52.26759078,"lon":020.89622070,"rwys":2,"ils":0,"index":3285907,"path":"e020n50/e020n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPBC","name":"Babice","lat":52.26759078,"lon":20.89622070,"rwys":2,"ils":0,"index":3285907,"path":"e020n50/e020n52"
 ,"runways":[
 {"len_m":994,"wid_m":149.96,"hdg":102,"surf":"Turf/grass","rwy1":"10L","lat1":52.27124803,"lon1":20.90245353,"rwy2":"28R","lat2":52.26929397,"lon2":20.91667553},
 {"len_m":1816,"wid_m":89.92,"hdg":102,"surf":"Concrete","rwy1":"10R","lat1":52.27051015,"lon1":20.89799831,"rwy2":"28L","lat2":52.26695985,"lon2":20.92397314}

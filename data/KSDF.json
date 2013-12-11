@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KSDF","name":"Louisville Intl Standiford Fld","lat":38.15931100,"lon":-085.73039400,"rwys":3,"ils":5,"index":1548297,"path":"w090n30/w086n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KSDF","name":"Louisville Intl Standiford Fld","lat":38.15931100,"lon":-85.73039400,"rwys":3,"ils":5,"index":1548297,"path":"w090n30/w086n38"
 ,"runways":[
 {"len_m":3307,"wid_m":45.72,"hdg":165,"surf":"Concrete","rwy1":"17R","lat1":38.18699700,"lon1":-85.74879200,"rwy2":"35L","lat2":38.15816700,"lon2":-85.73926900},
 {"len_m":2614,"wid_m":45.72,"hdg":164,"surf":"Concrete","rwy1":"17L","lat1":38.18730000,"lon1":-85.73134200,"rwy2":"35R","lat2":38.16455600,"lon2":-85.72357500},

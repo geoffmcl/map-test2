@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKNM","name":"Nove Mesto","lat":50.36248197,"lon":016.11638876,"rwys":2,"ils":0,"index":3220240,"path":"e010n50/e016n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKNM","name":"Nove Mesto","lat":50.36248197,"lon":16.11638876,"rwys":2,"ils":0,"index":3220240,"path":"e010n50/e016n50"
 ,"runways":[
 {"len_m":891,"wid_m":29.87,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":50.36807550,"lon1":16.11366921,"rwy2":"36","lat2":50.36006413,"lon2":16.11346703},
 {"len_m":932,"wid_m":28.04,"hdg":80,"surf":"Turf/grass","rwy1":"08","lat1":50.36311670,"lon1":16.10458152,"rwy2":"26","lat2":50.36448262,"lon2":16.11751572}

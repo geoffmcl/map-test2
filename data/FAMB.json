@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAMB","name":"Middelburg","lat":-25.68356400,"lon":029.44491600,"rwys":2,"ils":0,"index":3428369,"path":"e020s30/e029s26"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAMB","name":"Middelburg","lat":-25.68356400,"lon":29.44491600,"rwys":2,"ils":0,"index":3428369,"path":"e020s30/e029s26"
 ,"runways":[
 {"len_m":1800,"wid_m":15.24,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":-25.67984221,"lon1":29.43303448,"rwy2":"32","lat2":-25.68970979,"lon2":29.44728352},
 {"len_m":1340,"wid_m":24.99,"hdg":359,"surf":"Gravel","rwy1":"02","lat1":-25.68777291,"lon1":29.44183779,"rwy2":"20","lat2":-25.67567709,"lon2":29.44169021}

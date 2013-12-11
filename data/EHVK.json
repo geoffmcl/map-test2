@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EHVK","name":"Volkel","lat":51.66124828,"lon":005.70533437,"rwys":3,"ils":1,"index":3040106,"path":"e000n50/e005n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EHVK","name":"Volkel","lat":51.66124828,"lon":5.70533437,"rwys":3,"ils":1,"index":3040106,"path":"e000n50/e005n51"
 ,"runways":[
 {"len_m":3029,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"6L","lat1":51.64997302,"lon1":5.68928018,"rwy2":"24R","lat2":51.66442342,"lon2":5.72637968},
 {"len_m":3027,"wid_m":22.86,"hdg":57,"surf":"Concrete","rwy1":"6R","lat1":51.64837642,"lon1":5.69090017,"rwy2":"24L","lat2":51.66281842,"lon2":5.72797174},

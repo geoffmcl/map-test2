@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WMKL","name":"Langkawi Intl","lat":06.34063800,"lon":099.73017900,"rwys":1,"ils":1,"index":4577301,"path":"e090n00/e099n06"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WMKL","name":"Langkawi Intl","lat":6.34063800,"lon":99.73017900,"rwys":1,"ils":1,"index":4577301,"path":"e090n00/e099n06"
 ,"runways":[
 {"len_m":3809,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":6.31551100,"lon1":99.71894700,"rwy2":"21","lat2":6.34394200,"lon2":99.73838300}
 ]

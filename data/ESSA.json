@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ESSA","name":"Stockholm Arlanda","lat":59.64925243,"lon":017.93358576,"rwys":3,"ils":6,"index":3237227,"path":"e010n50/e017n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ESSA","name":"Stockholm Arlanda","lat":59.64925243,"lon":17.93358576,"rwys":3,"ils":6,"index":3237227,"path":"e010n50/e017n59"
 ,"runways":[
 {"len_m":3301,"wid_m":45.11,"hdg":10,"surf":"Concrete","rwy1":"01L","lat1":59.63725600,"lon1":17.91322498,"rwy2":"19R","lat2":59.66640300,"lon2":17.92376698},
 {"len_m":2500,"wid_m":45.11,"hdg":75,"surf":"Concrete","rwy1":"08","lat1":59.65841857,"lon1":17.93613308,"rwy2":"26","lat2":59.66389700,"lon2":17.97915298},

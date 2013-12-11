@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LICZ","name":"Sigonella","lat":37.40585330,"lon":014.92308240,"rwys":2,"ils":0,"index":3186651,"path":"e010n30/e014n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LICZ","name":"Sigonella","lat":37.40585330,"lon":14.92308240,"rwys":2,"ils":0,"index":3186651,"path":"e010n30/e014n37"
 ,"runways":[
 {"len_m":2461,"wid_m":45.11,"hdg":98,"surf":"Asphalt","rwy1":"10R","lat1":37.40321900,"lon1":14.90854700,"rwy2":"28L","lat2":37.40003900,"lon2":14.93606200},
 {"len_m":2442,"wid_m":29.87,"hdg":98,"surf":"Asphalt","rwy1":"10L","lat1":37.40514500,"lon1":14.90901100,"rwy2":"28R","lat2":37.40194700,"lon2":14.93630300}

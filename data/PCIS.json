@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"PCIS","name":"Canton Island - Closed","lat":-02.76903455,"lon":-171.71800479,"rwys":1,"ils":0,"index":136650,"path":"w180s10/w172s03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"PCIS","name":"Canton Island - Closed","lat":-2.76903455,"lon":-171.71800479,"rwys":1,"ils":0,"index":136650,"path":"w180s10/w172s03"
 ,"runways":[
 {"len_m":1945,"wid_m":45.11,"hdg":101,"surf":"Asphalt","rwy1":"09","lat1":-2.76632475,"lon1":-171.71897981,"rwy2":"27","lat2":-2.76993628,"lon2":-171.70185375}
 ]

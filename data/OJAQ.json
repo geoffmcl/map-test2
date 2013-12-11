@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"OJAQ","name":"Aqaba King Hussein Intl","lat":29.61382100,"lon":035.02187730,"rwys":1,"ils":1,"index":3530208,"path":"e030n20/e035n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"OJAQ","name":"Aqaba King Hussein Intl","lat":29.61382100,"lon":35.02187730,"rwys":1,"ils":1,"index":3530208,"path":"e030n20/e035n29"
 ,"runways":[
 {"len_m":3003,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":29.59804700,"lon1":35.01331900,"rwy2":"19","lat2":29.62396400,"lon2":35.02238300}
 ]

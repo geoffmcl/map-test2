@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LFML","name":"Marseille Provence","lat":43.44291844,"lon":005.22028794,"rwys":2,"ils":3,"index":3039576,"path":"e000n40/e005n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LFML","name":"Marseille Provence","lat":43.44291844,"lon":5.22028794,"rwys":2,"ils":3,"index":3039576,"path":"e000n40/e005n43"
 ,"runways":[
 {"len_m":3501,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"13L","lat1":43.44912530,"lon1":5.19729576,"rwy2":"31R","lat2":43.42727470,"lon2":5.22845736},
 {"len_m":2434,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":43.44130300,"lon1":5.20302200,"rwy2":"31L","lat2":43.42586400,"lon2":5.22435300}

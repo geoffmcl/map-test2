@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WAME","name":"Buli/halmahera Island","lat":00.91660300,"lon":128.38327700,"rwys":1,"ils":0,"index":5052091,"path":"e120n00/e128n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WAME","name":"Buli/halmahera Island","lat":0.91660300,"lon":128.38327700,"rwys":1,"ils":0,"index":5052091,"path":"e120n00/e128n00"
 ,"runways":[
 {"len_m":900,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":0.91578228,"lon1":128.37926704,"rwy2":"25","lat2":0.91855172,"lon2":128.38687696}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KBTL","name":"W K Kellogg","lat":42.31356000,"lon":-085.23821300,"rwys":3,"ils":1,"index":1548563,"path":"w090n40/w086n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KBTL","name":"W K Kellogg","lat":42.31356000,"lon":-85.23821300,"rwys":3,"ils":1,"index":1548563,"path":"w090n40/w086n42"
 ,"runways":[
 {"len_m":3048,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":42.29573300,"lon1":-85.26597800,"rwy2":"23","lat2":42.31593600,"lon2":-85.24095000},
 {"len_m":1472,"wid_m":30.48,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":42.31416900,"lon1":-85.25459200,"rwy2":"31","lat2":42.30635300,"lon2":-85.24016100},

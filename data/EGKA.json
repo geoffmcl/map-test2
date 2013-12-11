@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGKA","name":"Shoreham","lat":50.83354679,"lon":-000.29061651,"rwys":4,"ils":0,"index":2941746,"path":"w010n50/w001n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGKA","name":"Shoreham","lat":50.83354679,"lon":-0.29061651,"rwys":4,"ils":0,"index":2941746,"path":"w010n50/w001n50"
 ,"runways":[
 {"len_m":1039,"wid_m":17.98,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":50.83133847,"lon1":-0.29994016,"rwy2":"20","lat2":50.84002477,"lon2":-0.29450617},
 {"len_m":868,"wid_m":17.98,"hdg":21,"surf":"Turf/grass","rwy1":"02R","lat1":50.83251910,"lon1":-0.29836310,"rwy2":"20L","lat2":50.83977924,"lon2":-0.29382097},

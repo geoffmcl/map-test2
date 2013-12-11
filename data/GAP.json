@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"GAP","name":"Gusap","lat":-06.05837620,"lon":145.96437116,"rwys":1,"ils":0,"index":5330175,"path":"e140s10/e145s07"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"GAP","name":"Gusap","lat":-6.05837620,"lon":145.96437116,"rwys":1,"ils":0,"index":5330175,"path":"e140s10/e145s07"
 ,"runways":[
 {"len_m":1873,"wid_m":57.91,"hdg":129,"surf":"Turf/grass","rwy1":"14","lat1":-6.04771980,"lon1":145.95233333,"rwy2":"32","lat2":-6.05843253,"lon2":145.96544834}
 ]

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDKB","name":"Bonn-hangelar","lat":50.76670700,"lon":007.16509400,"rwys":3,"ils":0,"index":3072816,"path":"e000n50/e007n50"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDKB","name":"Bonn-hangelar","lat":50.76670700,"lon":7.16509400,"rwys":3,"ils":0,"index":3072816,"path":"e000n50/e007n50"
 ,"runways":[
 {"len_m":799,"wid_m":29.87,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":50.77012200,"lon1":7.15749000,"rwy2":"29","lat2":50.76780400,"lon2":7.16821447},
 {"len_m":1003,"wid_m":29.87,"hdg":108,"surf":"Turf/grass","rwy1":"11C","lat1":50.77102384,"lon1":7.15723201,"rwy2":"29C","lat2":50.76810873,"lon2":7.17069423},

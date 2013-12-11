@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEST","name":"Santiago","lat":42.89630100,"lon":-008.41952000,"rwys":1,"ils":2,"index":2810170,"path":"w010n40/w009n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEST","name":"Santiago","lat":42.89630100,"lon":-8.41952000,"rwys":1,"ils":2,"index":2810170,"path":"w010n40/w009n42"
 ,"runways":[
 {"len_m":3200,"wid_m":45.11,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":42.91177200,"lon1":-8.42043100,"rwy2":"35","lat2":42.88382200,"lon2":-8.41095000}
 ]

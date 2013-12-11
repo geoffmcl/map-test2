@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KDAB","name":"Daytona Beach Intl","lat":29.17886264,"lon":-081.05581445,"rwys":3,"ils":1,"index":1613259,"path":"w090n20/w082n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KDAB","name":"Daytona Beach Intl","lat":29.17886264,"lon":-81.05581445,"rwys":3,"ils":1,"index":1613259,"path":"w090n20/w082n29"
 ,"runways":[
 {"len_m":3200,"wid_m":46.02,"hdg":65,"surf":"Asphalt","rwy1":"07L","lat1":29.17254856,"lon1":-81.07779385,"rwy2":"25R","lat2":29.18464960,"lon2":-81.04792185},
 {"len_m":1829,"wid_m":46.02,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":29.19088003,"lon1":-81.05633014,"rwy2":"34","lat2":29.17566997,"lon2":-81.04903186},

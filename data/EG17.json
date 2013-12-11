@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EG17","name":"Chatteris","lat":52.48539744,"lon":000.08992172,"rwys":5,"ils":0,"index":2958232,"path":"e000n50/e000n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EG17","name":"Chatteris","lat":52.48539744,"lon":0.08992172,"rwys":5,"ils":0,"index":2958232,"path":"e000n50/e000n52"
 ,"runways":[
 {"len_m":609,"wid_m":17.98,"hdg":6,"surf":"Turf/grass","rwy1":"01","lat1":52.48513791,"lon1":0.08903532,"rwy2":"19","lat2":52.49058394,"lon2":0.09005357},
 {"len_m":445,"wid_m":38.10,"hdg":60,"surf":"Turf/grass","rwy1":"6","lat1":52.48765635,"lon1":0.08643041,"rwy2":"24","lat2":52.48963988,"lon2":0.09212346},

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX83","name":"Eri (rbmu)","lat":-02.63118229,"lon":138.10981263,"rwys":1,"ils":0,"index":5215696,"path":"e130s10/e138s03"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX83","name":"Eri (rbmu)","lat":-2.63118229,"lon":138.10981263,"rwys":1,"ils":0,"index":5215696,"path":"e130s10/e138s03"
 ,"runways":[
 {"len_m":488,"wid_m":22.86,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":-2.63142600,"lon1":138.10766793,"rwy2":"27","lat2":-2.63142600,"lon2":138.11206407}
 ]

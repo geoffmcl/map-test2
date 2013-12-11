@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KPWM","name":"Portland Intl Jetport","lat":43.64740531,"lon":-070.30821576,"rwys":2,"ils":1,"index":1794410,"path":"w080n40/w071n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KPWM","name":"Portland Intl Jetport","lat":43.64740531,"lon":-70.30821576,"rwys":2,"ils":1,"index":1794410,"path":"w080n40/w071n43"
 ,"runways":[
 {"len_m":2194,"wid_m":46.02,"hdg":95,"surf":"Asphalt","rwy1":"11","lat1":43.64586100,"lon1":-70.32607800,"rwy2":"29","lat2":43.64403300,"lon2":-70.29899400},
 {"len_m":1524,"wid_m":46.02,"hdg":163,"surf":"Asphalt","rwy1":"18","lat1":43.65447200,"lon1":-70.30731700,"rwy2":"36","lat2":43.64133900,"lon2":-70.30186400}

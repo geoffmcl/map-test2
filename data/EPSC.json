@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EPSC","name":"Goleniow","lat":53.58739000,"lon":014.90696000,"rwys":1,"ils":1,"index":3187683,"path":"e010n50/e014n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EPSC","name":"Goleniow","lat":53.58739000,"lon":14.90696000,"rwys":1,"ils":1,"index":3187683,"path":"e010n50/e014n53"
 ,"runways":[
 {"len_m":2500,"wid_m":60.05,"hdg":130,"surf":"Concrete","rwy1":"13","lat1":53.59208290,"lon1":14.88792304,"rwy2":"31","lat2":53.57737910,"lon2":14.91646696}
 ]

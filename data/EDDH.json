@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EDDH","name":"Hamburg","lat":53.62456470,"lon":009.99070294,"rwys":2,"ils":4,"index":3105763,"path":"e000n50/e009n53"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EDDH","name":"Hamburg","lat":53.62456470,"lon":9.99070294,"rwys":2,"ils":4,"index":3105763,"path":"e000n50/e009n53"
 ,"runways":[
 {"len_m":3251,"wid_m":46.02,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":53.61823179,"lon1":9.96371060,"rwy2":"23","lat2":53.63690839,"lon2":10.00151020},
 {"len_m":3665,"wid_m":46.02,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":53.65441320,"lon1":9.97521180,"rwy2":"33","lat2":53.62510683,"lon2":10.00050753}

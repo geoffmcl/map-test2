@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KHEF","name":"Manassas Rgnl","lat":38.72101600,"lon":-077.51930200,"rwys":2,"ils":1,"index":1679401,"path":"w080n30/w078n38"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KHEF","name":"Manassas Rgnl","lat":38.72101600,"lon":-77.51930200,"rwys":2,"ils":1,"index":1679401,"path":"w080n30/w078n38"
 ,"runways":[
 {"len_m":1737,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"16L","lat1":38.72770000,"lon1":-77.51877200,"rwy2":"34R","lat2":38.71406100,"lon2":-77.50896900},
 {"len_m":1128,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"16R","lat1":38.72669237,"lon1":-77.52106400,"rwy2":"34L","lat2":38.71783637,"lon2":-77.51469400}

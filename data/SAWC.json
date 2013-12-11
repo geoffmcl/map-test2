@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SAWC","name":"El Calafate","lat":-50.28357891,"lon":-072.05096702,"rwys":1,"ils":0,"index":1755627,"path":"w080s60/w073s51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SAWC","name":"El Calafate","lat":-50.28357891,"lon":-72.05096702,"rwys":1,"ils":0,"index":1755627,"path":"w080s60/w073s51"
 ,"runways":[
 {"len_m":2555,"wid_m":45.11,"hdg":83,"surf":"Concrete","rwy1":"07","lat1":-50.28144700,"lon1":-72.07104000,"rwy2":"25","lat2":-50.27902500,"lon2":-72.03539400}
 ]

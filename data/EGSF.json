@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGSF","name":"Peterborough Conington","lat":52.46854149,"lon":-000.24314731,"rwys":1,"ils":0,"index":2941851,"path":"w010n50/w001n52"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGSF","name":"Peterborough Conington","lat":52.46854149,"lon":-0.24314731,"rwys":1,"ils":0,"index":2941851,"path":"w010n50/w001n52"
 ,"runways":[
 {"len_m":974,"wid_m":22.86,"hdg":274,"surf":"Asphalt","rwy1":"10","lat1":52.46773811,"lon1":-0.24393011,"rwy2":"28","lat2":52.46841700,"lon2":-0.25822200}
 ]

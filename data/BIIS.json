@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIIS","name":"Isafjordur","lat":66.05533884,"lon":-023.14250263,"rwys":1,"ils":1,"index":2565889,"path":"w030n60/w024n66"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIIS","name":"Isafjordur","lat":66.05533884,"lon":-23.14250263,"rwys":1,"ils":1,"index":2565889,"path":"w030n60/w024n66"
 ,"runways":[
 {"len_m":1406,"wid_m":42.37,"hdg":61,"surf":"Asphalt","rwy1":"08","lat1":66.05512774,"lon1":-23.14888893,"rwy2":"26","lat2":66.06107226,"lon2":-23.12151224}
 ]

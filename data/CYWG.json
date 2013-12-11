@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYWG","name":"Winnipeg Intl","lat":49.90311351,"lon":-097.22508775,"rwys":2,"ils":3,"index":1352443,"path":"w100n40/w098n49"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYWG","name":"Winnipeg Intl","lat":49.90311351,"lon":-97.22508775,"rwys":2,"ils":3,"index":1352443,"path":"w100n40/w098n49"
 ,"runways":[
 {"len_m":3349,"wid_m":60.96,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":49.92527800,"lon1":-97.23416900,"rwy2":"36","lat2":49.89555800,"lon2":-97.24166900},
 {"len_m":2648,"wid_m":60.96,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":49.91277800,"lon1":-97.25221900,"rwy2":"31","lat2":49.89527800,"lon2":-97.22721900}

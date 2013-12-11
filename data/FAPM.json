@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"FAPM","name":"Pietermaritzburg","lat":-29.64317300,"lon":030.39529400,"rwys":1,"ils":0,"index":3444497,"path":"e030s30/e030s30"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"FAPM","name":"Pietermaritzburg","lat":-29.64317300,"lon":30.39529400,"rwys":1,"ils":0,"index":3444497,"path":"e030s30/e030s30"
 ,"runways":[
 {"len_m":1535,"wid_m":29.87,"hdg":141,"surf":"Asphalt","rwy1":"16","lat1":-29.64316786,"lon1":30.39424031,"rwy2":"34","lat2":-29.65406614,"lon2":30.40403769}
 ]

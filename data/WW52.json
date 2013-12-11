@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW52","name":"Nanga Merakai (maf)","lat":00.70260062,"lon":111.52138890,"rwys":1,"ils":0,"index":4773548,"path":"e110n00/e111n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW52","name":"Nanga Merakai (maf)","lat":0.70260062,"lon":111.52138890,"rwys":1,"ils":0,"index":4773548,"path":"e110n00/e111n00"
 ,"runways":[
 {"len_m":522,"wid_m":24.08,"hdg":139,"surf":"Dirt","rwy1":"14","lat1":0.70402822,"lon1":111.51987336,"rwy2":"32","lat2":0.70041618,"lon2":111.52290444}
 ]

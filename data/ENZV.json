@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"ENZV","name":"Stavanger Lufthavn Sola","lat":58.88662035,"lon":005.63091020,"rwys":2,"ils":3,"index":3040570,"path":"e000n50/e005n58"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"ENZV","name":"Stavanger Lufthavn Sola","lat":58.88662035,"lon":5.63091020,"rwys":2,"ils":3,"index":3040570,"path":"e000n50/e005n58"
 ,"runways":[
 {"len_m":2555,"wid_m":60.05,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":58.89370000,"lon1":5.63732800,"rwy2":"36","lat2":58.87076000,"lon2":5.63801000},
 {"len_m":2451,"wid_m":45.11,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":58.88178900,"lon1":5.60479200,"rwy2":"29","lat2":58.87560800,"lon2":5.64558900}

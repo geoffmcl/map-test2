@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIMS","name":"Mosfellssveit","lat":64.18222554,"lon":-021.70664240,"rwys":2,"ils":0,"index":2598536,"path":"w030n60/w022n64"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIMS","name":"Mosfellssveit","lat":64.18222554,"lon":-21.70664240,"rwys":2,"ils":0,"index":2598536,"path":"w030n60/w022n64"
 ,"runways":[
 {"len_m":542,"wid_m":24.99,"hdg":53,"surf":"Turf/grass","rwy1":"07","lat1":64.18010400,"lon1":-21.71090760,"rwy2":"25","lat2":64.18302800,"lon2":-21.70199393},
 {"len_m":371,"wid_m":49.99,"hdg":87,"surf":"Turf/grass","rwy1":"11","lat1":64.18115122,"lon1":-21.71365919,"rwy2":"29","lat2":64.18127006,"lon2":-21.70602039}

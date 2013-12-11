@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"GCFV","name":"Fuerteventura","lat":28.45451200,"lon":-013.86755800,"rwys":2,"ils":1,"index":2727320,"path":"w020n20/w014n28"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"GCFV","name":"Fuerteventura","lat":28.45451200,"lon":-13.86755800,"rwys":2,"ils":1,"index":2727320,"path":"w020n20/w014n28"
 ,"runways":[
 {"len_m":2400,"wid_m":45.11,"hdg":1,"surf":"Asphalt","rwy1":"01R","lat1":28.44188900,"lon1":-13.86411900,"rwy2":"19L","lat2":28.46354200,"lon2":-13.86340600},
 {"len_m":1649,"wid_m":45.11,"hdg":1,"surf":"Asphalt","rwy1":"01L","lat1":28.43560800,"lon1":-13.86626900,"rwy2":"19R","lat2":28.45048900,"lon2":-13.86577500}

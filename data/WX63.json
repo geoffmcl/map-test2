@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX63","name":"Darit (maf)","lat":00.59643200,"lon":109.64234200,"rwys":1,"ils":0,"index":4740773,"path":"e100n00/e109n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX63","name":"Darit (maf)","lat":0.59643200,"lon":109.64234200,"rwys":1,"ils":0,"index":4740773,"path":"e100n00/e109n00"
 ,"runways":[
 {"len_m":449,"wid_m":24.99,"hdg":119,"surf":"Turf/grass","rwy1":"12","lat1":0.59801216,"lon1":109.64091679,"rwy2":"30","lat2":0.59598784,"lon2":109.64442321}
 ]

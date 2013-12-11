@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX45","name":"Bireun/teupin Mane (local Gov)","lat":05.20051466,"lon":096.69965595,"rwys":1,"ils":0,"index":4528077,"path":"e090n00/e096n05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX45","name":"Bireun/teupin Mane (local Gov)","lat":5.20051466,"lon":96.69965595,"rwys":1,"ils":0,"index":4528077,"path":"e090n00/e096n05"
 ,"runways":[
 {"len_m":600,"wid_m":45.11,"hdg":80,"surf":"Turf/grass","rwy1":"08","lat1":5.19955231,"lon1":96.69728493,"rwy2":"26","lat2":5.20048969,"lon2":96.70262307}
 ]

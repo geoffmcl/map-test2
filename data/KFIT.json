@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KFIT","name":"Fitchburg Muni","lat":42.55487800,"lon":-071.75888100,"rwys":2,"ils":0,"index":1777952,"path":"w080n40/w072n42"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KFIT","name":"Fitchburg Muni","lat":42.55487800,"lon":-71.75888100,"rwys":2,"ils":0,"index":1777952,"path":"w080n40/w072n42"
 ,"runways":[
 {"len_m":1374,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"14","lat1":42.55773100,"lon1":-71.76543300,"rwy2":"32","lat2":42.55002800,"lon2":-71.75233300},
 {"len_m":1068,"wid_m":22.86,"hdg":8,"surf":"Asphalt","rwy1":"02","lat1":42.54966900,"lon1":-71.75996400,"rwy2":"20","lat2":42.55919200,"lon2":-71.75814700}

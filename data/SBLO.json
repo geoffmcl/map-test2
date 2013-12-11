@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"SBLO","name":"Londrina","lat":-23.32783500,"lon":-051.13861500,"rwys":1,"ils":0,"index":2101419,"path":"w060s30/w052s24"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"SBLO","name":"Londrina","lat":-23.32783500,"lon":-51.13861500,"rwys":1,"ils":0,"index":2101419,"path":"w060s30/w052s24"
 ,"runways":[
 {"len_m":2112,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"13","lat1":-23.33033300,"lon1":-51.13976700,"rwy2":"31","lat2":-23.33691400,"lon2":-51.12037800}
 ]

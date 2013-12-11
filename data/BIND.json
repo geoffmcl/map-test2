@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIND","name":"Nyidalur","lat":64.72071466,"lon":-018.06791588,"rwys":1,"ils":0,"index":2647721,"path":"w020n60/w019n64"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIND","name":"Nyidalur","lat":64.72071466,"lon":-18.06791588,"rwys":1,"ils":0,"index":2647721,"path":"w020n60/w019n64"
 ,"runways":[
 {"len_m":893,"wid_m":45.72,"hdg":16,"surf":"Gravel","rwy1":"04","lat1":64.71590200,"lon1":-18.06993375,"rwy2":"22","lat2":64.72360300,"lon2":-18.06475500}
 ]

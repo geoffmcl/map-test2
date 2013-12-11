@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KLFI","name":"Langley Afb","lat":37.07842084,"lon":-076.35760694,"rwys":1,"ils":1,"index":1695682,"path":"w080n30/w077n37"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KLFI","name":"Langley Afb","lat":37.07842084,"lon":-76.35760694,"rwys":1,"ils":1,"index":1695682,"path":"w080n30/w077n37"
 ,"runways":[
 {"len_m":3056,"wid_m":46.02,"hdg":67,"surf":"Concrete","rwy1":"08","lat1":37.07763065,"lon1":-76.37639913,"rwy2":"26","lat2":37.08813575,"lon2":-76.34462686}
 ]

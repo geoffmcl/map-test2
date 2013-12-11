@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KAVP","name":"Wilkes Barre Scranton Intl","lat":41.33616479,"lon":-075.72866131,"rwys":2,"ils":1,"index":1712337,"path":"w080n40/w076n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KAVP","name":"Wilkes Barre Scranton Intl","lat":41.33616479,"lon":-75.72866131,"rwys":2,"ils":1,"index":1712337,"path":"w080n40/w076n41"
 ,"runways":[
 {"len_m":2286,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":41.32870001,"lon1":-75.73153005,"rwy2":"22","lat2":41.34602199,"lon2":-75.71677595},
 {"len_m":1310,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":41.34060341,"lon1":-75.72988579,"rwy2":"28","lat2":41.34025259,"lon2":-75.71423421}

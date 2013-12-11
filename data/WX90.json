@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WX90","name":"Galelea (maf)","lat":00.37286800,"lon":110.07173000,"rwys":1,"ils":0,"index":4757136,"path":"e110n00/e110n00"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WX90","name":"Galelea (maf)","lat":0.37286800,"lon":110.07173000,"rwys":1,"ils":0,"index":4757136,"path":"e110n00/e110n00"
 ,"runways":[
 {"len_m":424,"wid_m":24.99,"hdg":339,"surf":"Turf/grass","rwy1":"34","lat1":0.37083971,"lon1":110.07177072,"rwy2":"16","lat2":0.37444829,"lon2":110.07045728}
 ]

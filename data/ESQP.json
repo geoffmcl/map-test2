@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:10:01 UTC"
-,"type":17,"icao":"ESQP","name":"[h] No Name","lat":59.07127400,"lon":018.11694700,"rwys":2,"ils":0,"index":3253568,"path":"e010n50/e018n59"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:58:07 UTC"
+,"type":17,"icao":"ESQP","name":"[h] No Name","lat":59.07127400,"lon":18.11694700,"rwys":2,"ils":0,"index":3253568,"path":"e010n50/e018n59"
 ,"runways":[
 {"len_m":118,"wid_m":15.24,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":59.07000630,"lon1":18.11605501,"rwy2":"24","lat2":59.07053570,"lon2":18.11783899},
 {"len_m":70,"wid_m":15.24,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":59.06995281,"lon1":18.11694700,"rwy2":"19","lat2":59.07058919,"lon2":18.11694700}

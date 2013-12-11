@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KLEE","name":"Leesburg Rgnl","lat":28.82728600,"lon":-081.80882300,"rwys":2,"ils":0,"index":1613232,"path":"w090n20/w082n28"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KLEE","name":"Leesburg Rgnl","lat":28.82728600,"lon":-81.80882300,"rwys":2,"ils":0,"index":1613232,"path":"w090n20/w082n28"
 ,"runways":[
 {"len_m":1524,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":28.82882800,"lon1":-81.81609200,"rwy2":"31","lat2":28.82002200,"lon2":-81.80409700},
 {"len_m":1510,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":28.81615800,"lon1":-81.81178900,"rwy2":"21","lat2":28.82732500,"lon2":-81.80291400}

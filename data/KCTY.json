@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KCTY","name":"Cross City","lat":29.63061100,"lon":-083.10907000,"rwys":2,"ils":0,"index":1580523,"path":"w090n20/w084n29"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KCTY","name":"Cross City","lat":29.63061100,"lon":-83.10907000,"rwys":2,"ils":0,"index":1580523,"path":"w090n20/w084n29"
 ,"runways":[
 {"len_m":1525,"wid_m":22.86,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":29.63403300,"lon1":-83.10788900,"rwy2":"22","lat2":29.64399700,"lon2":-83.09701900},
 {"len_m":1524,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":29.63676100,"lon1":-83.11274400,"rwy2":"31","lat2":29.62727500,"lon2":-83.10134700}

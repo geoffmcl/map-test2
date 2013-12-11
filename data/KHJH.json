@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KHJH","name":"Hebron Muni","lat":40.15007739,"lon":-097.58672879,"rwys":2,"ils":0,"index":1351817,"path":"w100n40/w098n40"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KHJH","name":"Hebron Muni","lat":40.15007739,"lon":-97.58672879,"rwys":2,"ils":0,"index":1351817,"path":"w100n40/w098n40"
 ,"runways":[
 {"len_m":1104,"wid_m":17.98,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":40.15533701,"lon1":-97.59211825,"rwy2":"30","lat2":40.14917399,"lon2":-97.58194494},
 {"len_m":771,"wid_m":46.02,"hdg":41,"surf":"Turf/grass","rwy1":"03","lat1":40.14895100,"lon1":-97.58400161,"rwy2":"21","lat2":40.15412600,"lon2":-97.57796500}

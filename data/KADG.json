@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"KADG","name":"Lenawee Co","lat":41.87323800,"lon":-084.07798800,"rwys":2,"ils":0,"index":1564915,"path":"w090n40/w085n41"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"KADG","name":"Lenawee Co","lat":41.87323800,"lon":-84.07798800,"rwys":2,"ils":0,"index":1564915,"path":"w090n40/w085n41"
 ,"runways":[
 {"len_m":1524,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":41.86161100,"lon1":-84.08472500,"rwy2":"23","lat2":41.87092800,"lon2":-84.07124400},
 {"len_m":551,"wid_m":46.02,"hdg":106,"surf":"Turf/grass","rwy1":"11","lat1":41.87128954,"lon1":-84.08019066,"rwy2":"29","lat2":41.86984446,"lon2":-84.07383134}

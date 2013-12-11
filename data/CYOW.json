@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYOW","name":"Ottawa Macdonald Cartier Intl","lat":45.32170400,"lon":-075.66503300,"rwys":3,"ils":2,"index":1712593,"path":"w080n40/w076n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYOW","name":"Ottawa Macdonald Cartier Intl","lat":45.32170400,"lon":-75.66503300,"rwys":3,"ils":2,"index":1712593,"path":"w080n40/w076n45"
 ,"runways":[
 {"len_m":3045,"wid_m":60.96,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":45.32708900,"lon1":-75.68582200,"rwy2":"32","lat2":45.31084400,"lon2":-75.65454200},
 {"len_m":2445,"wid_m":60.96,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":45.31333300,"lon1":-75.67099200,"rwy2":"25","lat2":45.32523600,"lon2":-75.64475800},

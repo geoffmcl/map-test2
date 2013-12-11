@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"EGMT","name":"Thurrock","lat":51.53542827,"lon":000.36428800,"rwys":3,"ils":0,"index":2958177,"path":"e000n50/e000n51"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"EGMT","name":"Thurrock","lat":51.53542827,"lon":0.36428800,"rwys":3,"ils":0,"index":2958177,"path":"e000n50/e000n51"
 ,"runways":[
 {"len_m":694,"wid_m":29.87,"hdg":70,"surf":"Turf/grass","rwy1":"07C","lat1":51.53652472,"lon1":0.36356046,"rwy2":"25C","lat2":51.53861620,"lon2":0.37299654},
 {"len_m":686,"wid_m":29.87,"hdg":70,"surf":"Turf/grass","rwy1":"07R","lat1":51.53627035,"lon1":0.36370628,"rwy2":"25L","lat2":51.53833434,"lon2":0.37302939},

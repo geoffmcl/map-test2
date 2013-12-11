@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIHI","name":"Hveravellir","lat":64.88337650,"lon":-019.49179347,"rwys":2,"ils":0,"index":2631353,"path":"w020n60/w020n64"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIHI","name":"Hveravellir","lat":64.88337650,"lon":-19.49179347,"rwys":2,"ils":0,"index":2631353,"path":"w020n60/w020n64"
 ,"runways":[
 {"len_m":469,"wid_m":36.58,"hdg":79,"surf":"Gravel","rwy1":"10","lat1":64.88297619,"lon1":-19.48850364,"rwy2":"28","lat2":64.88377801,"lon2":-19.47878536},
 {"len_m":822,"wid_m":38.10,"hdg":154,"surf":"Gravel","rwy1":"18","lat1":64.88678036,"lon1":-19.49299700,"rwy2":"36","lat2":64.88012164,"lon2":-19.48550993}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEJR","name":"Jerez","lat":36.74527700,"lon":-006.06529900,"rwys":2,"ils":1,"index":2842539,"path":"w010n30/w007n36"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEJR","name":"Jerez","lat":36.74527700,"lon":-6.06529900,"rwys":2,"ils":1,"index":2842539,"path":"w010n30/w007n36"
 ,"runways":[
 {"len_m":2300,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03","lat1":36.73497464,"lon1":-6.06481368,"rwy2":"21","lat2":36.75426936,"lon2":-6.05540632},
 {"len_m":2300,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":36.73497500,"lon1":-6.06481400,"rwy2":"20","lat2":36.75426900,"lon2":-6.05540600}

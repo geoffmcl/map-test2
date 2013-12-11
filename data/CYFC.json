@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"CYFC","name":"Fredericton","lat":45.87240787,"lon":-066.52837011,"rwys":2,"ils":2,"index":1860081,"path":"w070n40/w067n45"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"CYFC","name":"Fredericton","lat":45.87240787,"lon":-66.52837011,"rwys":2,"ils":2,"index":1860081,"path":"w070n40/w067n45"
 ,"runways":[
 {"len_m":2408,"wid_m":60.96,"hdg":69,"surf":"Asphalt","rwy1":"09","lat1":45.86297635,"lon1":-66.55100056,"rwy2":"27","lat2":45.87041626,"lon2":-66.52187326},
 {"len_m":1799,"wid_m":60.96,"hdg":130,"surf":"Asphalt","rwy1":"15","lat1":45.87456739,"lon1":-66.53894736,"rwy2":"33","lat2":45.86409269,"lon2":-66.52127144}

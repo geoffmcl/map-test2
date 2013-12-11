@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LKZN","name":"Znojmo","lat":48.81860461,"lon":016.06728243,"rwys":1,"ils":0,"index":3220144,"path":"e010n40/e016n48"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LKZN","name":"Znojmo","lat":48.81860461,"lon":16.06728243,"rwys":1,"ils":0,"index":3220144,"path":"e010n40/e016n48"
 ,"runways":[
 {"len_m":847,"wid_m":17.98,"hdg":81,"surf":"Turf/grass","rwy1":"08","lat1":48.81718367,"lon1":16.06005576,"rwy2":"26","lat2":48.81835495,"lon2":16.07146018}
 ]

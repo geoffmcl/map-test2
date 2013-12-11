@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"LEBB","name":"Bilbao","lat":43.29795922,"lon":-002.91241654,"rwys":2,"ils":2,"index":2908496,"path":"w010n40/w003n43"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"LEBB","name":"Bilbao","lat":43.29795922,"lon":-2.91241654,"rwys":2,"ils":2,"index":2908496,"path":"w010n40/w003n43"
 ,"runways":[
 {"len_m":2607,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":43.30634758,"lon1":-2.92494345,"rwy2":"30","lat2":43.29581990,"lon2":-2.89622820},
 {"len_m":2006,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":43.30334512,"lon1":-2.93702664,"rwy2":"28","lat2":43.30125456,"lon2":-2.91245863}

@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"BIRS","name":"Reykjanes","lat":65.91235773,"lon":-022.42090231,"rwys":1,"ils":0,"index":2582265,"path":"w030n60/w023n65"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"BIRS","name":"Reykjanes","lat":65.91235773,"lon":-22.42090231,"rwys":1,"ils":0,"index":2582265,"path":"w030n60/w023n65"
 ,"runways":[
 {"len_m":779,"wid_m":17.98,"hdg":0,"surf":"Gravel","rwy1":"03","lat1":65.91089053,"lon1":-22.42172560,"rwy2":"21","lat2":65.91788300,"lon2":-22.42151900}
 ]

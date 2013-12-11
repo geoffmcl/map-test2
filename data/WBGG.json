@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WBGG","name":"Kuching Intl","lat":01.48793800,"lon":110.34368100,"rwys":1,"ils":1,"index":4757210,"path":"e110n00/e110n01"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WBGG","name":"Kuching Intl","lat":1.48793800,"lon":110.34368100,"rwys":1,"ils":1,"index":4757210,"path":"e110n00/e110n01"
 ,"runways":[
 {"len_m":2442,"wid_m":46.02,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":1.48063100,"lon1":110.33673100,"rwy2":"25","lat2":1.48876400,"lon2":110.35713300}
 ]

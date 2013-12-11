@@ -1,5 +1,5 @@
-{"success":true,"source":"xp2csv.pl","last_updated":"2013/12/07 11:07:17 UTC"
-,"type":1,"icao":"WW93","name":"Sela (rbmu)","lat":-04.55136362,"lon":139.73416539,"rwys":1,"ils":0,"index":5231965,"path":"e130s10/e139s05"
+{"success":true,"source":"xp2json.pl","last_updated":"2013/12/11 18:57:44 UTC"
+,"type":1,"icao":"WW93","name":"Sela (rbmu)","lat":-4.55136362,"lon":139.73416539,"rwys":1,"ils":0,"index":5231965,"path":"e130s10/e139s05"
 ,"runways":[
 {"len_m":486,"wid_m":20.12,"hdg":20,"surf":"Turf/grass","rwy1":"02","lat1":-4.55339834,"lon1":139.73314163,"rwy2":"20","lat2":-4.54927166,"lon2":139.73464837}
 ]
