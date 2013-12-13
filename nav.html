@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
 <html>
  <head>
   <title>
    Nav display test 9
-  </title>
-<!--
+  </title><!--
              ,MMN,    ...................................................................................
               ,MMM,           CROSSFEED CLIENT MAPPING TESTSUITE: FULL SCREEN MAP
                JMMN,
@@ -30,22 +30,23 @@
         type="text/javascript">
 </script>
 -->
+
   <script src="js/OpenLayers-2.14-dev.js"
         type="text/javascript">
 </script>
   <script src="js/OpenStreetMap.js"
         type="text/javascript">
 </script>
-<script src='js/three.min.js'
+  <script src='js/three.min.js'
         type="text/javascript">
 </script>
-<script  src="js/jquery-2.0.3.js"
+  <script src="js/jquery-2.0.3.js"
         type="text/javascript">
 </script>
-<script  src="js/geodesic.js"
+  <script src="js/geodesic.js"
         type="text/javascript">
 </script>
-<script  src="js/label.js"
+  <script src="js/label.js"
         type="text/javascript">
 </script>
   <style type="text/css">
@@ -53,8 +54,8 @@ html, body, #map {
   margin: 0;
   width: 100%;
   height: 100%;
-}
-#status_line {
+  }
+  #status_line {
     position: absolute;
     font-size: 12px;
     bottom: 1em;
@@ -64,29 +65,29 @@ html, body, #map {
     vertical-align: middle;
     border: 1px solid #000000;
     background-color: white;
-}
-.nob {
+  }
+  .nob {
     border: 0;
     padding: 0;
-}
+  }
 
-.olMarkerLabel { 
-font-size: small; 
-color: black; 
-background-color: #FFFFCC; 
-width: 150px; 
-padding: 1px; 
-border: 1px black solid; 
-z-index: 1000; 
-}       
+  .olMarkerLabel { 
+  font-size: small; 
+  color: black; 
+  background-color: #FFFFCC; 
+  width: 150px; 
+  padding: 1px; 
+  border: 1px black solid; 
+  z-index: 1000; 
+  }       
 
   </style>
   <script type="text/javascript">
-    // CONSTANTS
+// CONSTANTS
     var NM2KM = 1.852;
     
     var startTime = new Date();
-  	var FGx = FGx || {};
+    var FGx = FGx || {};
     // Start position for the map (hardcoded here for simplicity,
     // but maybe get this from the URL params)
     // IN this case Orly (LFPO)
@@ -340,7 +341,7 @@ z-index: 1000;
 
         markerLayer = new OpenLayers.Layer.Markers( "Markers" );
         // markerLayer.setOpacity(0.5);    // guestimate only
-    	map.addLayer(markerLayer);
+        map.addLayer(markerLayer);
         
         // for circle drawing
         vectorLayer = new OpenLayers.Layer.Vector("Overlay");
@@ -623,12 +624,12 @@ z-index: 1000;
      * @param (function) Callback funtion on state change
      * ========== load data files ========
      */
-	function requestFile( fname, callback ) {
-		var xmlhttp = new XMLHttpRequest();
-		xmlhttp.open( 'GET', fname, true );
-		xmlhttp.onreadystatechange = callback;
-		xmlhttp.send( null );
-	}	
+    function requestFile( fname, callback ) {
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }  
     /** 
      * function searchNavAids( lat1, lon1, lat2, lon2, type );
      * @param (Float) Degrees of hightest (N) latitude
@@ -656,7 +657,7 @@ z-index: 1000;
         return newFound; // return the found
     }
     
-  
+
     /**
      * function searchAirports( lat1, lon1, lat2, lon2 );
      * Top Left corner
@@ -1365,7 +1366,7 @@ z-index: 1000;
     
     function CB_AirJson() {
         var data, ind, air, icao, file;
-		if ( this.readyState == 4  ) {
+       if ( this.readyState == 4  ) {
             if (this.status == "200") {
                 data = JSON.parse(this.responseText);
                 icao = data.icao;
@@ -1381,7 +1382,7 @@ z-index: 1000;
                 paintJson();
             }
         } else {
-			FGx.callbackCount++;
+         FGx.callbackCount++;
             if (show_waiting) console.log(FGx.callbackCount+': Waiting for icao json load... ');
         }
     }
@@ -1492,72 +1493,72 @@ z-index: 1000;
     // 8,52.55628600,013.25196700,111,0,0,80.854,----,EDDT,08L,"MM"
     // 9 Inner markers (IM) for an ILS
     // 9,34.41591900,135.22710600,26,0,0,50.883,----,RJBB,06R,"IM"
-    // 12 DME, including the DME component of an ILS, VORTAC or VOR-DME Frequency display suppressed on X-Plane’s charts
+    // 12 DME, including the DME component of an ILS, VORTAC or VOR-DME Frequency display suppressed on X-Plane charts
     // 12,-09.43270300,147.21644400,128,11010,18,0.200,IWG,AYPY,14L,"DME-ILS"
-    // 13 Stand-alone DME, or the DME component of an NDB-DME Frequency will displayed on X-Plane’s charts
+    // 13 Stand-alone DME, or the DME component of an NDB-DME Frequency will displayed on X-Plane charts
     // 13,53.39298100,-001.38314200,273,11135,25,0.0,SFH,,,"SHEFFIELD CITY DME"
     // With ICAO 4,5,6,7,8,9,12
-	function callbackNavaids() {
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			navLength = dataLines.length;
-			var separator = ',';
-			FGx.navaids = [];
-			for ( var i = 1; i < navLength; i++ ) {
-				FGx.navaids.push( dataLines[i].split( separator ) );
-			}
+    function callbackNavaids() {
+       if ( this.readyState == 4  ) {
+         var dataLines = this.responseText;
+         dataLines = dataLines.split(/\r\n|\n/);
+         navLength = dataLines.length;
+         var separator = ',';
+         FGx.navaids = [];
+         for ( var i = 1; i < navLength; i++ ) {
+          FGx.navaids.push( dataLines[i].split( separator ) );
+         }
             navLength = FGx.navaids.length;
             doneNavs = true;
             showStatus();
             checkLoad2();
-		} else {
-			FGx.callbackCount++;
+       } else {
+         FGx.callbackCount++;
             if (show_waiting) console.log(FGx.callbackCount+': Waiting for navaid load... ');
         }
-	}	
+    }  
     
-	function callbackHelipads() {
-		var hp;
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			helipadLength = dataLines.length;
-			var separator = ',';
-			for ( var i = 1; i < helipadLength; i++ ) {
-				hp = dataLines[i].split( separator );
-				FGx.helipads.push(hp);
-			}
+    function callbackHelipads() {
+       var hp;
+       if ( this.readyState == 4  ) {
+         var dataLines = this.responseText;
+         dataLines = dataLines.split(/\r\n|\n/);
+         helipadLength = dataLines.length;
+         var separator = ',';
+         for ( var i = 1; i < helipadLength; i++ ) {
+          hp = dataLines[i].split( separator );
+          FGx.helipads.push(hp);
+         }
             helipadLength = FGx.helipads.length;
             doneHeli = true;
             showStatus();
             checkLoad2();
-		} else {
-			FGx.callbackCount++;
+       } else {
+         FGx.callbackCount++;
             if (show_waiting) console.log(FGx.callbackCount+': Waiting for helipad load... ');
-		}
-	}
+       }
+    }
     
-	function callbackAirports() {
-		var airport, ap;
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			airportLength = dataLines.length;
-			var separator = ',';
-			for ( var i = 1; i < airportLength; i++ ) {
-				ap = dataLines[i].split( separator );
-				FGx.airports.push(ap);
-			}
+    function callbackAirports() {
+        var airport, ap;
+        if ( this.readyState == 4  ) {
+            var dataLines = this.responseText;
+            dataLines = dataLines.split(/\r\n|\n/);
+            airportLength = dataLines.length;
+            var separator = ',';
+            for ( var i = 1; i < airportLength; i++ ) {
+                ap = dataLines[i].split( separator );
+                FGx.airports.push(ap);
+            }
             airportLength = FGx.airports.length;
             doneAir = true;
             showStatus();
             checkLoad2();
-		} else {
-			FGx.callbackCount++;
+        } else {
+            FGx.callbackCount++;
             if (show_waiting) console.log(FGx.callbackCount+': Waiting for airports load... ');
-		}
-	}
+        }
+    }
     
     function checkLoad2() {
         if (doneAir && doneHeli && doneNavs) {
@@ -1572,14 +1573,14 @@ z-index: 1000;
     
     function getAirports() {
         FGx.callbackCount = 0;
-		FGx.airports = [];
+        FGx.airports = [];
         FGx.helipads = [];
         FGx.navaids = [];
         doneAir = false;
         doneHeli = false;
         doneNavs = false;
         requestFile( 'data/apt1000-icao.csv', callbackAirports ); // airports CSV
-		requestFile( 'data/apt1000-heli.csv', callbackHelipads ); // heliport CSV
+        requestFile( 'data/apt1000-heli.csv', callbackHelipads ); // heliport CSV
         requestFile( 'data/apt1000-nav.csv', callbackNavaids );
     }
     // ========== end load data ====
@@ -1592,11 +1593,13 @@ z-index: 1000;
 
   <div id="map">
   </div>
-  <div id="status_line">Status:
+
+  <div id="status_line">
+   Status:
   </div>
   <script type="text/javascript"
         defer="defer">
-    function gup( name ) {
+function gup( name ) {
         name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
         var regexS = "[\\?&]"+name+"=([^&#]*)";
         var regex = new RegExp( regexS );
