@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
  <head>
+  <meta charset="utf-8">
   <title>
    2D Tracker 6
-  </title>
-<!--
+  </title><!--
              ,MMN,    ...................................................................................
               ,MMM,           CROSSFEED CLIENT MAPPING TESTSUITE: FULL SCREEN MAP
                JMMN,
@@ -21,18 +21,19 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow these links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
-      20131215 - 0.0.6 - Add Hazuki mpserver15 previous track of the callsign - 
+      20131215 - 0.0.6 - Add Hazuki mpserver15 previous track of the callsign
       20131210 - 0.0.5 - switch to using ils/navaid loaded CSV search - depreciate json ils/navaid array
       20131126 - 0.0.4 - do all xmlhttp together, add red aircraft, add blue aircraft
       20131116 - Version 0.0.1 - starting to look good ;=))
 -->
+
   <style type="text/css">
 html, body, #basicMap {
   margin: 0;
   width: 100%;
   height: 100%;
   }
-#status_flights {
+  #status_flights {
     position: absolute;
     font-size: 12px;
     bottom: 1em;
@@ -41,30 +42,30 @@ html, body, #basicMap {
     z-index: 1000;
     vertical-align: middle;
     border: 1px solid #000000;
-}
-.p.nob {
+  }
+  .p.nob {
     border: 0;
     padding: 0;
-}
-#centerAir {
+  }
+  #centerAir {
   position: absolute;
   bottom: 3em;
   left: 1em;
   z-index: 1000;
   <!-- border: 2px solid #FF0000; -->
-}  
+  }  
   </style>
   <script src="js/OpenLayers.js"
         type="text/javascript">
 </script>
-<script  src="js/jquery-2.0.3.js"
+  <script src="js/jquery-2.0.3.js"
         type="text/javascript">
 </script>
-<script  src="js/geodesic.js"
+  <script src="js/geodesic.js"
         type="text/javascript">
 </script>
   <script type="text/javascript">
-    // CONSTANTS
+// CONSTANTS
     // 1 knot (kt) = 1.85200 kilometer per hour (kph)
     var KTS2KPH = 1.85200;
     var NM2KM = 1.852;
@@ -488,9 +489,9 @@ html, body, #basicMap {
                 if (fid == m_fid) {
                     lon = this.lon;
                     lat = this.lat;
-  	                hdg = this.hdg;
-  	                alt = this.alt_ft;
-  	                spd = this.spd_kts;
+                    hdg = this.hdg;
+                    alt = this.alt_ft;
+                    spd = this.spd_kts;
                     found = true;
                     return false; // out of here - found ourselves
                 }
@@ -515,7 +516,7 @@ html, body, #basicMap {
                 // no longer in the data - flight ended - what to do - close window???
                 update_msg = "Update: fid="+m_fid+":"+m_callsign+":"+m_model+": NO LONGER IN DATA! flight ended.";
                 console.log(update_msg);
-                $("#status_flights").html("<strong>"+update_msg+"</strong>");
+                $("#status_flights").html("<strong>"+update_msg+"<\/strong>");
                 // TODO: Decide whether to CLOSE the window... maybe not
                 // alert(update_msg+"\r\nSuggest window be CLOSED!\r\nNo further updates will be added.");
             }
@@ -659,7 +660,7 @@ html, body, #basicMap {
         if (window.XMLHttpRequest) {
             httpReq = new XMLHttpRequest();
         } 
-        else if (typeof ActiveXObject != "undefined") {	
+        else if (typeof ActiveXObject != "undefined") { 
             httpReq = new ActiveXObject("Microsoft.XMLHTTP");
         }
         return httpReq;
@@ -740,12 +741,12 @@ html, body, #basicMap {
      * @param (function) Callback funtion on state change
      * ========== load data files ========
      */
-	function requestFile( fname, callback ) {
-		var xmlhttp = new XMLHttpRequest();
-		xmlhttp.open( 'GET', fname, true );
-		xmlhttp.onreadystatechange = callback;
-		xmlhttp.send( null );
-	}	
+    function requestFile( fname, callback ) {
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }  
     
     /**
      * Object.size = function(obj)
@@ -1077,15 +1078,15 @@ html, body, #basicMap {
         return newFound; // return the found
     }
     
-	function callbackNavaids() {
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			var max = dataLines.length;
-			var separator = ',';
-			for ( var i = 1; i < max; i++ ) {
-				FGx.navaids.push( dataLines[i].split( separator ) );
-			}
+    function callbackNavaids() {
+       if ( this.readyState == 4  ) {
+         var dataLines = this.responseText;
+         dataLines = dataLines.split(/\r\n|\n/);
+         var max = dataLines.length;
+         var separator = ',';
+         for ( var i = 1; i < max; i++ ) {
+          FGx.navaids.push( dataLines[i].split( separator ) );
+         }
             max = FGx.navaids.length;
             var nava = searchNavAids( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
             var d = new Date();
@@ -1094,12 +1095,12 @@ html, body, #basicMap {
             showStatus();
             doneNav = true;
             checkStage2();
-		} else {
-			FGx.callbackCount++;
+       } else {
+         FGx.callbackCount++;
             if (show_waiting)
                 console.log(FGx.callbackCount+': Waiting for navaid load... ');
         }
-	}	
+    }  
     
     
     /**
@@ -1211,17 +1212,17 @@ html, body, #basicMap {
         }
         return newFound; // return the found
     }
-	function callbackHelipads() {
-		var hp;
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			var max = dataLines.length;
-			var separator = ',';
-			for ( var i = 1; i < max; i++ ) {
-				hp = dataLines[i].split( separator );
-				FGx.helipads.push(hp);
-			}
+    function callbackHelipads() {
+       var hp;
+       if ( this.readyState == 4  ) {
+         var dataLines = this.responseText;
+         dataLines = dataLines.split(/\r\n|\n/);
+         var max = dataLines.length;
+         var separator = ',';
+         for ( var i = 1; i < max; i++ ) {
+          hp = dataLines[i].split( separator );
+          FGx.helipads.push(hp);
+         }
             max = FGx.helipads.length;
             var helia = searchHelipads( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
             var d = new Date();
@@ -1230,12 +1231,12 @@ html, body, #basicMap {
             showStatus();
             doneHeli = true;    // maybe time for json
             checkStage2();
-		} else {
-			FGx.callbackCount++;
+       } else {
+         FGx.callbackCount++;
             if (show_waiting)
                 console.log(FGx.callbackCount+': Waiting for helipad load... ');
-		}
-	}
+       }
+    }
     
     function paintRunway(rwy) {
         var rwy_style = { 
@@ -1363,18 +1364,18 @@ html, body, #basicMap {
         return newFound; // return and NEW the found
     }
     
-	function callbackAirports() {
-		var airport, ap;
-		if ( this.readyState == 4  ) {
-			var dataLines = this.responseText;
-			dataLines = dataLines.split(/\r\n|\n/);
-			var max = dataLines.length;
-			var separator = ',';
+    function callbackAirports() {
+       var airport, ap;
+       if ( this.readyState == 4  ) {
+         var dataLines = this.responseText;
+         dataLines = dataLines.split(/\r\n|\n/);
+         var max = dataLines.length;
+         var separator = ',';
             var i;
-			for (i = 1; i < max; i++ ) {
-				ap = dataLines[i].split( separator );
-				FGx.airports.push(ap);
-			}
+         for (i = 1; i < max; i++ ) {
+          ap = dataLines[i].split( separator );
+          FGx.airports.push(ap);
+         }
             var airs = searchAirports( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
             var cnt = FGx.airports.length;
             var d = new Date();
@@ -1383,12 +1384,12 @@ html, body, #basicMap {
             showStatus();
             doneAir = true;
             checkStage2();
-		} else {
-			FGx.callbackCount++;
+       } else {
+         FGx.callbackCount++;
             if (show_waiting)
                 console.log(FGx.callbackCount+': Waiting for airports load... ');
-		}
-	}
+       }
+    }
     
     /**
      * function drawILS( lat, lon, hdg, rng );
@@ -1725,7 +1726,7 @@ html, body, #basicMap {
     
     function CB_AirJson() {
         var data, ind, air, icao, file;
-		if ( this.readyState == 4  ) {
+       if ( this.readyState == 4  ) {
             if (this.status == "200") {
                 data = JSON.parse(this.responseText);
                 icao = data.icao;
@@ -1741,7 +1742,7 @@ html, body, #basicMap {
                 paintJson();
             }
         } else {
-			FGx.callbackCount++;
+         FGx.callbackCount++;
             if (show_waiting) console.log(FGx.callbackCount+': Waiting for icao json load... ');
         }
     }
@@ -1787,7 +1788,7 @@ html, body, #basicMap {
     
     function getAirports() {
         FGx.callbackCount = 0;
-		FGx.airports = [];
+       FGx.airports = [];
         FGx.helipads = [];
         FGx.navaids = [];
         doneAir = false;
@@ -1795,11 +1796,11 @@ html, body, #basicMap {
         doneHeli = false;
         airFound = [];  // index of airports found in bounds
         //console.log("Getting navaids...");
-		requestFile( 'data/apt1000-nav.csv', callbackNavaids );
+       requestFile( 'data/apt1000-nav.csv', callbackNavaids );
         //console.log("Getting airports...");
         requestFile( 'data/apt1000-icao.csv', callbackAirports ); // first in chain, last is getJson
         //console.log("Getting heliports...");
-		requestFile( 'data/apt1000-heli.csv', callbackHelipads );
+       requestFile( 'data/apt1000-heli.csv', callbackHelipads );
     }
 
     // === end get airports === */     
@@ -1852,7 +1853,7 @@ html, body, #basicMap {
             " km u "+uwid.toFixed(1)+","+uht.toFixed(1)+
             " z="+curr_zoom);
     }
-  
+
     function processChange(evt) {
         setGlobalBounds();  // establish BOUND of current map
         var newNavs = searchNavAids( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
@@ -1880,14 +1881,19 @@ html, body, #basicMap {
  <body>
   <div id="basicMap">
   </div>
-  <div id="status_flights">Status:
+
+  <div id="status_flights">
+   Status:
   </div>
+
   <div id="centerAir">
-  <input type="checkbox" onclick="centAir(this.checked);" checked>Center on aircraft
+   <input type="checkbox"
+        onclick="centAir(this.checked);"
+        checked>Center on aircraft
   </div>
   <script type="text/javascript"
         defer="defer">
-    // The good old GUP function by Geoff McLane
+// The good old GUP function by Geoff McLane
     function gup( name ) {
         name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
         var regexS = "[\\?&]"+name+"=([^&#]*)";
