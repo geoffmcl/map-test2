@@ -1549,13 +1549,20 @@ html, body, #basicMap {
             if (this.status == "200") {
                 var text = this.responseText;
                 var msg; // = "<p>"+text+"<\/p>"
-                var data = JSON.parse(text);
-                //if ( data.header && data.data && data.data.pilot ) {
-                if ( data.data && data.data.pilot ) {
-                    tr_paintFlight(data);
-                    //getGlobalBounds();
-                } else {
-                    msg = "Received data does not seem valid!";
+                try {
+                    var data = JSON.parse(text);
+                    //if ( data.header && data.data && data.data.pilot ) {
+                    if ( data.data && data.data.pilot ) {
+                        tr_paintFlight(data);
+                        //getGlobalBounds();
+                    } else {
+                        msg = "Received data does not seem valid!";
+                        console.log(msg);
+                        $("#status_flights").html('<b>'+msg+'<\/b>');
+                        console.log(text);
+                    }
+                } catch (err) {
+                    msg = "JSON.parse error: "+err.message;
                     console.log(msg);
                     $("#status_flights").html('<b>'+msg+'<\/b>');
                     console.log(text);
