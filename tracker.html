@@ -2,7 +2,7 @@
 <html>
  <head>
   <title>
-   2D Tracker 5
+   2D Tracker 6
   </title>
 <!--
              ,MMN,    ...................................................................................
@@ -21,7 +21,8 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow these links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
-      20131210 - 0.0.5 - switch to using ils/navaid loaded CSV search - depreciate json ils/navaid arrary
+      20131215 - 0.0.6 - Add Hazuki mpserver15 previous track of the callsign - 
+      20131210 - 0.0.5 - switch to using ils/navaid loaded CSV search - depreciate json ils/navaid array
       20131126 - 0.0.4 - do all xmlhttp together, add red aircraft, add blue aircraft
       20131116 - Version 0.0.1 - starting to look good ;=))
 -->
@@ -54,9 +55,6 @@ html, body, #basicMap {
 }  
   </style>
   <script src="js/OpenLayers.js"
-        type="text/javascript">
-</script>
-<script src='js/three.min.js'
         type="text/javascript">
 </script>
 <script  src="js/jquery-2.0.3.js"
@@ -95,6 +93,7 @@ html, body, #basicMap {
     var p_lat, p_lon, p_hdg, p_spd, p_alt, p_date;
     var calc_dist = 0;
     var fromProjection, toProjection, markerLayer, lineLayer, circleLayer, vectorLayer;
+    var pointLayer, trackLayer; // for historic track
     var ILSLayer;
     var m_ilat, m_ilon, dest_lat, dest_lon, curr_zoom;
     var lineFeat2 = null;
@@ -173,6 +172,8 @@ html, body, #basicMap {
     var plane, air_icon, close_icon;
     var center_aircraft = true;
     var done_flights_json = false;
+    var done_tracker_json = false;
+    var tr_start;   // start time to get FGTracker flight data
     
     function valInArray(s,a ) {
         var i, t;
@@ -321,6 +322,11 @@ html, body, #basicMap {
         // to add line drawing
         lineLayer = new OpenLayers.Layer.Vector("Line Layer"); 
         map.addLayer(lineLayer);
+        // for historic tacker info
+        pointLayer = new OpenLayers.Layer.Vector("Point Layer"); 
+        map.addLayer(pointLayer);
+        trackLayer = new OpenLayers.Layer.Vector("Track Layer"); 
+        map.addLayer(trackLayer);
 
         map.setCenter(position, zoom );
         // add the predicted path
@@ -498,7 +504,7 @@ html, body, #basicMap {
                 var ms = d.valueOf() - startTime.valueOf();
                 var elap = ms2hhmmss(ms);
                 var ccnt = paintedPlanes.length;    // planes 'close' to the tracker
-                update_msg = m_callsign+':'+m_model+':Update: lon='+lon+',lat='+lat+',alt='+alt+',hdg='+hdg+',spd='+spd;
+                update_msg = m_callsign+':'+m_model+': llahs='+lon+','+lat+','+alt+','+hdg+','+spd;
                 if (ccnt)
                     update_msg += ',c='+ccnt;
                 update_msg += ',z='+curr_zoom+' '+elap; 
@@ -515,6 +521,138 @@ html, body, #basicMap {
             }
         }
     }
+
+    function paintFlight(data) {
+        var hdr, rt, msg, i, obj;
+        if (data.header) {
+            hdr = data.header;
+            if (hdr.request_time)
+                rt = hdr.request_time;
+            else
+                rt = 'not-defined';
+        } else {
+            rt = 'unknown';
+        }
+        var dat = data.data;
+        var pilot = dat.pilot;
+        var cs = pilot[0].callsign;
+        var fid = pilot[0].flight_id;
+        var mod = pilot[0].model;
+        //curr_cs = cs;
+        curr_fid = fid;
+        curr_model = mod;
+        var wpta = pilot[0].wpt;
+        var max = wpta.length;
+        msg = "Pilot "+cs+" mod "+mod+" fid "+fid+" Got "+max+" wpts "+" rt "+rt;
+        var time, lat, lon, alt, dist, llat, llon, pos;
+        //var min_dist = 0.03;   // 30 meters
+        var min_dist = 0.1;   // 100 meters
+        var min_dist2 = 0.5;   // 500 meters
+        var cumm_dist = 0;
+        var clat = 0;
+        var clon = 0;
+        var pcnt = 0;
+        var minlat,minlon,maxlat,maxlon;
+        var mindist, maxdist;
+        bounds = new OpenLayers.Bounds();
+        for (i = 0; i < max; i++) {
+            obj = wpta[i];
+            time = obj.time;
+            lat  = parseFloat(obj.lat);
+            lon  = parseFloat(obj.lon);
+            alt  = parseFloat(obj.alt);
+            if (alt == -9999)
+                continue;
+            pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
+            if (i) {
+                dist = getDistRect(llat,llon,lat,lon);
+                if (dist > min_dist) {
+                    cumm_dist += dist;
+                    putDotatPos(pos);    // paint DOT
+                    if (dist > min_dist2) {
+                        putLine(llat,llon,lat,lon);
+                    }
+                    llat = lat;
+                    llon = lon;
+                    clat += lat;
+                    clon += lon;
+                    if (pcnt > 1) {
+                        if (dist > maxdist)
+                            maxdist = dist;
+                        if (dist < mindist)
+                            mindist = dist;
+                    } else {
+                        mindist = dist;
+                        maxdist = dist;
+                    }
+                    pcnt++;
+                    if (lat > maxlat)
+                        maxlat = lat;
+                    if (lat < minlat)
+                        minlat = lat;
+                    if (lon > maxlon)
+                        maxlon = lon;
+                    if (lon < minlon)
+                        minlon = lon;
+                    bounds.extend(pos);
+                    bounds.toBBOX();
+                }
+            } else {
+                putDotatPos(pos);    // paint FIRST DOT
+                llat = lat;
+                llon = lon;
+                clat += lat;
+                clon += lon;
+                pcnt++;
+                minlat = lat;
+                minlon = lon;
+                maxlat = lat;
+                maxlon = lon;
+                bounds.extend(pos);
+                bounds.toBBOX();
+            }
+        }
+        if (pcnt) {
+            if (pcnt > 1) {
+                lat = (maxlat + minlat) / 2;
+                lon = (maxlon + minlon) / 2;
+                //map.zoomToExtent(bounds);
+                msg += " dist "+mindist.toFixed(4)+","+maxdist.toFixed(2);
+            } else {
+                lat = clat / pcnt;
+                lon = clon / pcnt;
+                pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+                //map.setCenter( pos, curr_zoom );
+            }
+            // getGlobalBounds();
+        }
+        msg += " points "+pcnt;
+        msg += " dist "+cumm_dist.toFixed(1);
+        console.log(msg);
+        $("#status_flights").html(msg);
+    }
+    
+    // get the history of this flight
+    function CB_Flight() {
+        if ( this.readyState == 4  ) {
+            if (this.status == "200") {
+                var text = this.responseText;
+                var msg; // = "<p>"+text+"<\/p>"
+                var data = JSON.parse(text);
+                //if ( data.header && data.data && data.data.pilot ) {
+                if ( data.data && data.data.pilot ) {
+                    paintFlight(data);
+                    //getGlobalBounds();
+                } else {
+                    msg = "Received data does not seem valid!";
+                    console.log(msg);
+                    $("#status_flights").html('<b>'+msg+'<\/b>');
+                    console.log(text);
+                }
+            }
+        }
+    }
+    
     // XMLHttpRequest handling
     function getXMLHttpRequest() {
         var httpReq = null;
@@ -527,11 +665,15 @@ html, body, #basicMap {
         return httpReq;
     }
     
-    function sendRequest(url) {
+    function sendRequest2( url, callback ) {
         var req = getXMLHttpRequest();
-        req.onreadystatechange = workData;
+        req.onreadystatechange = callback;
         req.open("GET", url)
         req.send(null);
+    }
+    
+    function sendRequest(url) {
+        sendRequest2( url, workData );
     }
        
     // *** end jason data *************************************************************************
@@ -654,7 +796,7 @@ html, body, #basicMap {
         msg += ", z="+z;    
         msg += ' '+elap;
         $("#status_flights").html(msg);
-        console.log(msg);
+        // console.log(msg);
     
     }
     
@@ -1367,6 +1509,199 @@ html, body, #basicMap {
             }
         }
     }
+
+    // ##########################################################################
+    // Add historic tracker path
+    var dot_style = { 
+      strokeColor: '#008000', 
+      strokeOpacity: 0.5,
+      strokeWidth: 2,
+      fill: false
+    };
+    
+    function tr_putDotatPos(pos) {
+        var radius = 50;  // TODO: what SIZE should the DOT be? probably should DEPEND on zoom???
+        // distance to vertex, in map units
+        var sides = 20;     // docs say '20 approximates a circle'... so ...
+        var point = new OpenLayers.Geometry.Point(pos.lon, pos.lat);
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+            point,
+            radius,
+            sides,
+            0 );
+        var featurecircle = new OpenLayers.Feature.Vector(circle, null, dot_style);
+        pointLayer.addFeatures([featurecircle]);
+    }
+    function tr_putDot(lat,lon) {
+        var pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        tr_putDotatPos(pos);
+    }
+    function tr_paintLine( lat1, lon1, lat2, lon2, style ) {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        var lineFeature = new OpenLayers.Feature.Vector(line, null, style);
+        trackLayer.addFeatures([lineFeature]);
+    }
+    function tr_putLine( lat1, lon1, lat2, lon2 ) {
+        var red_style = { 
+            strokeColor: '#008000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 2,
+            fill: false
+        };
+        tr_paintLine( lat1, lon1, lat2, lon2, red_style );
+    }
+
+    /* ==================================================================
+       Example json
+        {"header":
+            {"request_time_raw":1387105903,"request_time":"2013-12-15 19:11:43+0800"},
+         "data":
+            {"pilot":[
+                {"callsign":"ECHO1","flight_id":"5095014","model":"C-5","start_time":"2013-12-15 16:09:05+08","start_time_raw":"1387094945",
+             "wpt":[
+                {"time":"2013-12-15 19:12:00+08","time_raw":"1387094945","lat":"43.631467","lon":"-23.42679","alt":"43.631467"},
+                {"time":"2013-12-15 19:11:50+08","time_raw":"1387094945","lat":"43.631347","lon":"-23.395632","alt":"43.631347"},
+                ... etc ...
+        NOTE: can be zero, and have seen "alt":"-9999"
+       ================================================================== */
+    function tr_paintFlight(data) {
+        var hdr, msg, i, obj;
+        var dat = data.data;
+        var pilot = dat.pilot;
+        var cs = pilot[0].callsign;
+        var fid = pilot[0].flight_id;
+        var mod = pilot[0].model;
+        //curr_cs = cs;
+        //curr_tid = fid;
+        //curr_model = mod;
+        var wpta = pilot[0].wpt;
+        var max = wpta.length;
+        msg = "Pilot "+cs+" mod "+mod+" fid "+fid+" Got "+max+" wpts ";
+        var time, lat, lon, alt, dist, llat, llon, pos;
+        //var min_dist = 0.03;   // 30 meters
+        var min_dist = 0.1;   // 100 meters
+        var min_dist2 = 0.5;   // 500 meters
+        var cumm_dist = 0;
+        var clat = 0;
+        var clon = 0;
+        var pcnt = 0;
+        var minlat,minlon,maxlat,maxlon;
+        var mindist, maxdist;
+        var bounds = new OpenLayers.Bounds();
+        for (i = 0; i < max; i++) {
+            obj = wpta[i];
+            time = obj.time;
+            lat  = parseFloat(obj.lat);
+            lon  = parseFloat(obj.lon);
+            alt  = parseFloat(obj.alt);
+            if (alt == -9999)
+                continue;
+            pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
+            if (i) {
+                dist = getDistRect(llat,llon,lat,lon);
+                if (dist > min_dist) {
+                    cumm_dist += dist;
+                    tr_putDotatPos(pos);    // paint DOT
+                    if (dist > min_dist2) {
+                        tr_putLine(llat,llon,lat,lon);
+                    }
+                    llat = lat;
+                    llon = lon;
+                    clat += lat;
+                    clon += lon;
+                    if (pcnt > 1) {
+                        if (dist > maxdist)
+                            maxdist = dist;
+                        if (dist < mindist)
+                            mindist = dist;
+                    } else {
+                        mindist = dist;
+                        maxdist = dist;
+                    }
+                    pcnt++;
+                    if (lat > maxlat)
+                        maxlat = lat;
+                    if (lat < minlat)
+                        minlat = lat;
+                    if (lon > maxlon)
+                        maxlon = lon;
+                    if (lon < minlon)
+                        minlon = lon;
+                    bounds.extend(pos);
+                    bounds.toBBOX();
+                }
+            } else {
+                tr_putDotatPos(pos);    // paint FIRST DOT
+                llat = lat;
+                llon = lon;
+                clat += lat;
+                clon += lon;
+                pcnt++;
+                minlat = lat;
+                minlon = lon;
+                maxlat = lat;
+                maxlon = lon;
+                bounds.extend(pos);
+                bounds.toBBOX();
+            }
+        }
+        if (pcnt) {
+            if (pcnt > 1) {
+                lat = (maxlat + minlat) / 2;
+                lon = (maxlon + minlon) / 2;
+                //map.zoomToExtent(bounds);
+                msg += " dist "+mindist.toFixed(4)+","+maxdist.toFixed(2);
+            } else {
+                lat = clat / pcnt;
+                lon = clon / pcnt;
+                pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+                //map.setCenter( pos, curr_zoom );
+            }
+            //getGlobalBounds();
+        }
+        msg += " points "+pcnt;
+        msg += " dist "+cumm_dist.toFixed(1);
+        var d = new Date();
+        var ms = d.valueOf() - tr_start.valueOf();
+        msg += " in "+ms+" ms.";
+        console.log(msg);
+        $("#status_flights").html(msg);
+    }
+        
+    function tr_CB_Flight() {
+        if ( this.readyState == 4  ) {
+            if (this.status == "200") {
+                var text = this.responseText;
+                var msg; // = "<p>"+text+"<\/p>"
+                var data = JSON.parse(text);
+                //if ( data.header && data.data && data.data.pilot ) {
+                if ( data.data && data.data.pilot ) {
+                    tr_paintFlight(data);
+                    //getGlobalBounds();
+                } else {
+                    msg = "Received data does not seem valid!";
+                    console.log(msg);
+                    $("#status_flights").html('<b>'+msg+'<\/b>');
+                    console.log(text);
+                }
+            }
+        }
+    }
+    function tr_getFGTracker() {
+        var cs = m_callsign;
+        var url = 'proxy/livepilots.php?cs='+cs;
+        if (cs.length) {
+            msg = "Getting pilot "+cs+"... moment... using url "+url;
+            console.log(msg);
+            $("#status_flights").html('<b>&nbsp;'+msg+'<\/b>');
+            tr_start = new Date();
+            requestFile( url, tr_CB_Flight );
+        }
+    }
     
     function paintJson() {
         //console.log("Doing painting... z="+curr_zoom);
@@ -1375,9 +1710,15 @@ html, body, #basicMap {
         paintHelipads( heliFound );
         paintAirports( airFound );
         showStatus();
+        if (!done_tracker_json) {
+            done_tracker_json = true;
+            console.log("Get FGTracker data...");
+            tr_getFGTracker();
+        }
         if (!done_flights_json) {
             // time to start crossfeed json
             done_flights_json = true;
+            console.log("Starting crossfeed json feed...");
             sendRequest('http://crossfeed.fgx.ch/flights.json');
         }
     }
@@ -1463,10 +1804,10 @@ html, body, #basicMap {
 
     // === end get airports === */     
     /**
-      * function setGLobalBounds()
+      * function setGlobalBounds()
       * Get current 'extent' of the map
       */
-    function setGLobalBounds() {
+    function setGlobalBounds() {
         curr_zoom = map.getZoom();
         var ext = map.getExtent();
         //var stg = ext.toBBOX();
@@ -1507,11 +1848,13 @@ html, body, #basicMap {
         height = getDistance( lat1, mlon, lat2, mlon );
         console.log("Bounds: TL="+lat1.toFixed(2)+","+lon1.toFixed(2)+
             " BR="+lat2.toFixed(2)+","+lon2.toFixed(2)+
-            " w="+width+" h="+height+" km u "+uwid+","+uht);
+            " w="+width.toFixed(1)+" h="+height.toFixed(1)+
+            " km u "+uwid.toFixed(1)+","+uht.toFixed(1)+
+            " z="+curr_zoom);
     }
   
     function processChange(evt) {
-        setGLobalBounds();  // establish BOUND of current map
+        setGlobalBounds();  // establish BOUND of current map
         var newNavs = searchNavAids( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
         var newAirs = searchAirports( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
         var newHeli = searchHelipads( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
@@ -1566,7 +1909,7 @@ html, body, #basicMap {
     var zoom = gup('zoom'); // how to set this?
     console.log("Init:fid="+fid+",cs="+callsign+",model="+model+",lon="+lon+",lat="+lat+",alt="+alt+",hdg="+hdg+",spd="+spd);
     init(fid,callsign,model,lon,lat,alt,hdg,spd,zoom);
-    setGLobalBounds();  // establish BOUND of current map
+    setGlobalBounds();  // establish BOUND of current map
     getAirports();  // start load airports, helipads, navaids, then ICAO.json, THEN get crossfeed
   </script>
  </body>
