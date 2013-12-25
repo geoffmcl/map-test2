@@ -1,7 +1,7 @@
 <!DOCTYPE html public "-//W3C//DTD HTML 4.0 Strict//en">
 <html>
     <head>
-        <title>Crossfeed JSON Test 4</title>
+        <title>Crossfeed JSON Test 5</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,7 +23,8 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow this links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
-      20131127 - Flight selection opens two new windows. One to view the model, the other tracker.html
+      20131217 - Get the FGTracker livewaypoints, and only mark callsign in BOLD if present in tracker
+      20131127 - Flight selection opens one new window - tracker.html
       20131104 - Implement a column sort - geoff
       20130927 - Modified to run in local context only - copied files from static.fgx.ch - geoff
 -->
@@ -34,7 +35,14 @@
        
         // disable ajax caching
          $.ajaxSetup({cache: false});
-       
+
+        var cf_url = 'http://crossfeed.fgx.ch/flights.json';
+        var cf_to = 1800;   // about each 2 seconds
+        var fids = [];
+        var callsigns = [];
+        var live_to = 60000;  // refresh each 60 seconds
+        var tr_url = 'proxy/livedata.php';
+
         // ----------------------------------------------------------------------------------------------
         // Openlayers
         // ----------------------------------------------------------------------------------------------
@@ -527,13 +535,17 @@
           
        }
        
+        function inTracker(cs) {
+            var max = callsigns.length;
+            if (max && !valInArray(cs,callsigns)) {
+                return '*';
+            }
+            return '';
+        }
         // ----------------------------------------------------------------------------------------------
 		// Loading the JSON data
 		// ----------------------------------------------------------------------------------------------
 		// Function has a fixed timeout (5 secs)
-		
-		var req = null;
-
 		function workData() {
 	
 			$('.fid').hide()
@@ -549,18 +561,19 @@
 		
 			// we do not care about the "success" label, we check for
 			// request loading state directly
-			if ((req.readyState == 4)&&(req.status == "200")) {
+			if ((this.readyState == 4)&&(this.status == "200")) {
 		
 				// JSON parsing the response string
-				var data = JSON.parse(req.responseText);
+				var data = JSON.parse(this.responseText);
 		
 				$(data.flights).each(function (i){
 					// Defining the flight row
                     //        "<td class='callsign'><p>"+this.callsign.toUpperCase()+
                     var model = get_model(this.model);
+                    var cs = inTracker(this.callsign);
 					var flightrow = "<tr class='flightrow' id='"+this.fid+"'>"+
 							"<td class='fid' style='display: none'><p>"+this.fid+
-                            "<td class='callsign'><p>"+this.callsign+
+                            "<td class='callsign'><p>"+this.callsign+cs+
                             "<td class='lon' style='display: none'><p>"+this.lon+
                             "<td class='lat' style='display: none'><p>"+this.lat+
   	                        "<td class='hdg'><p>"+this.hdg+
@@ -712,8 +725,8 @@
                     var lat = $(this).children('.lat').text();
                     var alt = $(this).children('.alt_ft').text();
                     var hdg = $(this).children('.hdg').text();
-                    var url = "show-one.html?fid="+fid+"&callsign="+callsign+"&model="+model+
-                        "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                    //var url = "show-one.html?fid="+fid+"&callsign="+callsign+"&model="+model+
+                    //    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
                     var url2 = "tracker.html?fid="+fid+"&callsign="+callsign+"&model="+model+
                         "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
                     //var spec = 'width=1024,height=768'; // should it be a fixed size, or
@@ -751,9 +764,9 @@
            }); // END document ready
 	
             // Reload data around 2 sec (1800 ms, cf-client updates 1000)
-            setTimeout("sendRequest('http://crossfeed.fgx.ch/flights.json')", 1800)
+            setTimeout("sendRequest('"+cf_url+"')", cf_to);
        } // END workData()
-    } // END if req.readyState
+    } // END if this.readyState
 
 
 
@@ -779,13 +792,75 @@
 			}
             return httpReq;
 		}
-		
+		function sendRequestCB(url,callback) {
+			var req = getXMLHttpRequest();
+            if (req !== null) {
+                req.onreadystatechange = callback;
+                req.open("GET", url);
+                req.send(null);
+            } else {
+                alert("Your browser does not support an XMLHttpRequest object. No updates will happen!");
+            }
+        }
 		function sendRequest(url) {
-			req = getXMLHttpRequest();
-			req.onreadystatechange = workData;
-			req.open("GET", url);
-			req.send(null);
+            sendRequestCB(url,workData);
 		}
+        
+        function valInArray(s,a) {
+            var i, t;
+            var max = a.length;
+            for (i = 0; i < max; i++) {
+                t = a[i];
+                if ( s == t ) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        
+        function collectData(data) {
+            var dato = data.data;
+            var wpta = dato.wpt;
+            var max = wpta.length;
+            var i,obj,fid,model,cs,stat;
+            fids = [];  // clear previous list
+            callsigns = []; // and callsigns
+            for (i = 0; i < max; i++) {
+                obj = wpta[i];
+                fid = obj.flight_id;
+                if (!valInArray(fid,fids)) {
+                    cs = obj.callsign;
+                    stat = obj.current_status;
+                    if (stat == 'CLOSED') {
+                        continue;
+                    }
+                    model = obj.model;
+                    fids.push(fid);
+                    callsigns.push(cs);
+                }
+            }
+        }
+        function CB_JsonLive() {
+            if ( this.readyState == 4  ) {
+                if (this.status == "200") {
+                    var text = this.responseText;
+                    var data = JSON.parse(text);
+                    if (data.data && data.data.wpt) {
+                        collectData(data);
+                    } else {
+                        var msg = "Data received appears invalid";
+                        $("#status_flights").html('<p><b>'+msg+'<\/b><\/p>');
+                        console.log(msg);
+                        console.log(text);
+                    }
+                    setTimeout("sendRequest2('"+tr_url+"')", live_to)
+                }
+            }
+        }
+        
+        function sendRequest2(url) {
+            sendRequestCB( url, CB_JsonLive );
+        }
        
        // Check number between
        function between(x, min, max) {
@@ -869,11 +944,12 @@
         <div id="status_flights">Status:</div>
     <!-- This gives IE compatibility with the OpenLayers map init function -->
     <script type="text/javascript" defer="defer">
+        sendRequest2(tr_url);   // get the FGTracker livewaypoints
         var lat = gup('lat');
         var lon = gup('lon');
         var zoom = gup('zoom');
-        init(lon,lat,zoom);
-		sendRequest("http://crossfeed.fgx.ch/flights.json")
+        init(lon,lat,zoom);     // init the map, etc
+		sendRequest(cf_url);    // start up crossfeed fetch
     </script>
 
     </body>
