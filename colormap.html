@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   Color Height Mapping 4
+  </title>
+  <meta charset="utf-8">
+  <style type="text/css">
+body { 
+  margin : 0 1cm 0 1cm;
+  font-family: Courier, sans-serif; 
+  }
+  table, tr, td {
+    margin: 0;
+    text-align: center;
+  }
+  </style>
+ </head>
+ <body>
+  <h1 align="center">
+   Color Height Mapping
+  </h1>
+
+  <p>
+   After looking at cookbook/un-flatland/unicam I started to think about a suitable height map
+   color scheme. I know some prefer a grayscale, and that is ok, but I wanted to explore colors. I
+   wanted a way I could use a math algorithm on an elevation value, and set a color. Yes, it could
+   be a table look-up with ranges, but here I generated a 17 x 16 grid of colors, where I go from
+   0x00ff00, increasing the red component and reducing the green, to 0xff0000, then one extra 17th
+   line where the red is reduced. This give me 272 colors to use, athough the last at least 4 are
+   too close to back, so say 268 colors or so, all in the red/green range.
+  </p>
+  <script type="text/javascript">
+function tohex(num,len) {
+    var str = num.toString(16);
+    while (str.length < len) {
+       str = '0'+str;
+    }
+    return str;
+  }
+  function tohexcolor(num) {
+    return tohex(num,6);
+  }
+
+  function init() {
+    var i, j, clr2;
+    var clr = 0x00ff00;
+    var color, html;
+
+    html = '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='1' cellpadding='0'>";
+    html += "<caption>Height Gradients<\/caption>";
+    for (i = 0; i < 16; i++) {
+        html += "<tr>";
+    color = tohexcolor(clr)
+    html += "<td>"+color+"<\/td>";
+    html += "<td>&nbsp;<\/td>";
+    clr2 = clr + 0x100 - 0x10000;
+    for (j = 0; j < 16; j++) {
+       clr2 -= 0x100;     // reduce green
+       clr2 += 0x10000; // add red
+       color = tohexcolor(clr2);
+            html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+       //clr2 += 0x02;
+    }
+    color = tohexcolor(clr2);
+    html += "<td>&nbsp;<\/td>";
+    html += "<td>"+color+"<\/td>";
+        html += "<\/tr>";
+    clr += 0x100000;   // add red
+    clr -= 0x1000;
+
+    }
+    // one more row, reducing the red
+    clr = 0xff0000;
+        html += "<tr>";
+    color = tohexcolor(clr)
+    html += "<td>"+color+"<\/td>";
+    html += "<td>&nbsp;<\/td>";
+    clr2 = clr + 0x100000;
+    for (j = 0; j < 16; j++) {
+       clr2 -= 0x100000; // add red
+       color = tohexcolor(clr2);
+            html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+       //clr2 += 0x02;
+    }
+    color = tohexcolor(clr2);
+    html += "<td>&nbsp;<\/td>";
+    html += "<td>"+color+"<\/td>";
+        html += "<\/tr>";
+
+    html += "<\/table>";
+    html += "<\/div>";
+    document.write(html);
+    
+    html = "<p>And a smaller blue range for the sea, and below mean sea level.<\/p>";
+    html += '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='1' cellpadding='0'>";
+    html += "<caption>Sea Color<\/caption>";
+    clr = 0xff;
+    //for (i = 0; i < 16; i++) {
+        html += "<tr>";
+    color = tohexcolor(clr)
+    html += "<td>"+color+"<\/td>";
+    html += "<td>&nbsp;<\/td>";
+        clr2 = clr - 0x1000;
+    for (j = 0; j < 16; j++) {
+                clr2 += 0x1000; // add green
+       color = tohexcolor(clr2);
+            html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+    }
+    html += "<td>&nbsp;<\/td>";
+    html += "<td>"+color+"<\/td>";
+        html += "<\/tr>";
+    //}
+    html += "<\/table>";
+    html += '<\/div>';
+    document.write(html);
+
+    // another scheme
+    html = '<p>Then I started to search the web a bit for other ideas. '+
+        'Here are color samples from <a target="_blank" href="http://colorbrewer2.org/">http://colorbrewer2.org/<\/a><\/p>';
+    html += '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='4' cellpadding='0'>";
+    html += "<tr>";
+    html += "<td>fff7ec<\/td>";
+    html += "<td>&nbsp;<\/td>";
+    html += "<td style=background-color:#fff7ec;>fff7ec<\/td>";
+    html += "<td style=background-color:#fee8c8;>fee8c8<\/td>";
+    html += "<td style=background-color:#fdd49e;>fdd49e<\/td>";
+    html += "<td style=background-color:#fdbb84;>fdbb84<\/td>";
+    html += "<td style=background-color:#fc8d59;>fc8d59<\/td>";
+    html += "<td style=background-color:#ef6548;>ef6548<\/td>";
+    html += "<td style=background-color:#d7301f;>d7301f<\/td>";
+    html += "<td style=background-color:#b30000;>b30000<\/td>";
+    html += "<td style=background-color:#7f0000;>7f0000<\/td>";
+    html += "<td>&nbsp;<\/td>";
+    html += "<td>7f0000<\/td>";
+    html += "<\/tr>";
+    html += "<\/table>";
+    html += '<\/div>';
+    html += "<p>Or the browns<\/p>";
+    var colors = new Array( 0xffffe5, 0xfff7bc, 0xfee391, 0xfec44f, 0xfe9929, 0xec7014, 0xcc4c02, 0x993404, 0x662506 );
+    var max = colors.length;
+    html += '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='4' cellpadding='0'>";
+    html += "<tr>";
+    clr = colors[0];
+    color = tohexcolor(clr);
+    html += "<td>"+color+"<\/td>";
+    html += "<td>&nbsp;<\/td>";
+    for (i = 0; i < max; i++) {
+        clr = colors[i];
+        color = tohexcolor(clr);
+        html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+    }
+    html += "<td>&nbsp;<\/td>";
+    clr = colors[max-1];
+    color = tohexcolor(clr);
+    html += "<td>"+color+"<\/td>";
+    html += "<\/tr>";
+    html += "<\/table>";
+    html += '<\/div>';
+    document.write(html);
+    
+    html = "<p>Then taken from my <a target=\"_blank\" href=\"https://gitorious.org/fgtools/atlas-g/\">fork<\/a> "+
+        "of flightgear Atlas/Map default palette, which seems to lack any 'linear' quality,"+
+        " but then Altas 'concentrates' on coloring land use classes, and only when a 'feature' "+
+        "is 'undefined', this elevation color will be used...<\/p>";
+    var atlas_palette = new Array(
+        new Array(0.647, 0.729, 0.647, "E_-250" ),
+        new Array(0.859, 0.906, 0.804, "E_0"    ),
+        new Array(0.753, 0.831, 0.682, "E_250"  ),
+        new Array(0.949, 0.933, 0.757, "E_500"  ),
+        new Array(0.941, 0.871, 0.608, "E_1000" ), 
+        new Array(0.878, 0.725, 0.486, "E_2500" ), 
+        new Array(0.816, 0.616, 0.443, "E_5000" ),
+        new Array(0.776, 0.529, 0.341, "E_7500" ),
+        new Array(0.750, 0.725, 0.600, "E_10000" ),
+        new Array(0.824, 0.863, 0.824, "E_20000" ) 
+        );
+    
+    max = atlas_palette.length;
+    var rgb, r, g, b, elev;
+    html += '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='4' cellpadding='0'>";
+    html += "<tr>";
+    for (i = 0; i < max; i++) {
+        rgb = atlas_palette[i];
+        elev = rgb[3];
+        html += "<td>"+elev+"<\/td>";
+    }
+    html += "<\/tr>";
+    html += "<tr>";
+    for (i = 0; i < max; i++) {
+        rgb = atlas_palette[i];
+        r = 255 * rgb[0];
+        g = 255 * rgb[1];
+        b = 255 * rgb[2];
+        clr = r * 0x10000;
+        clr += g * 0x100;
+        clr += b;
+        color = tohexcolor(clr);
+        clr2 = parseInt(color,16);
+        color = tohexcolor(clr2);
+        html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+    }
+    html += "<\/tr>";
+    html += "<\/table>";
+    html += '<\/div>';
+    document.write(html);
+    
+  }
+
+  init();
+
+  </script>
+  <p>
+   Futher web searching led me to MANY interesting images, like this one <a target="_blank"
+      href="http://serc.carleton.edu/images/eslabs/corals/ocean_depth_colorscale.jpg">http://serc.carleton.edu/images/eslabs/corals/ocean_depth_colorscale.jpg</a>
+      which triggers the idea that maybe the scale should not be so strictly 'linear', but more
+      'exponential' due the the fact that the majority of the world is less that about 5,000
+      meters... and here <a target="_blank"
+      href="http://www.theodora.com/maps/new/world_maps_2.html">http://www.theodora.com/maps/new/world_maps_2.html</a>,
+      and just so many others... Seemingly each with their 'own' color mapping scheme...
+  </p>
+
+  <p>
+   But nothing grabs me from the other alternatives seen and some shown, and do not know what was
+   used in the unicam png generation, so I will 'play' with my 268 generated colors for now. But
+   nothing is cast in stone, and can be changed with a few strokes of the pen ;=))
+  </p>
+
+  <p>
+   &nbsp;
+  </p>
+
+  <p>
+   <a target="_blank"
+      href="http://tidy.sourceforge.net/"><img border="0"
+        src="images/checked_by_tidy.gif"
+        alt="checked by tidy"
+        width="32"
+        height="32"></a>&nbsp; <a href="http://validator.w3.org/check?uri=referer"
+      target="_blank"><img src="images/valid-html401.gif"
+        alt="Valid HTML 4.01 Transitional"
+        width="88"
+        height="31"></a>
+  </p>
+  <!-- 20131225 - added page - experiments in generating a color height mapping scale -->
+ </body>
+</html>
