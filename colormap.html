@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
   <title>
-   Color Height Mapping 4
+   Color Height Mapping 5
   </title>
   <meta charset="utf-8">
   <style type="text/css">
@@ -44,6 +44,136 @@ function tohex(num,len) {
     return tohex(num,6);
   }
 
+  function add_unicam() {
+    var unicam = new Array(
+        new Array(20,0,0,">= 6000"),
+        new Array(32,0,0,"5000 - 6000"),
+        new Array(44,0,0,"4500 - 5000"),
+        new Array(56,0,0,"4000 - 4500"),
+        new Array(68,0,0,"3500 - 4000"),
+        new Array(80,0,0,"3000 - 3500"),
+        new Array(92,0,0,"2500 - 3000"),
+        new Array(104,0,0,"2000 - 2500"),
+        new Array(116,0,0,"1900 - 2000"),
+        new Array(128,0,0,"1800 - 1900"),
+        new Array(140,0,0,"1700 - 1800"),
+        new Array(152,0,0,"1600 - 1700"),
+        new Array(164,0,0,"1500 - 1600"),
+        new Array(176,0,0,"1400 - 1500"),
+        new Array(188,0,0,"1300 - 1400"),
+        new Array(200,0,0,"1200 - 1300"),
+        new Array(210,8,3,"1100 - 1200"),
+        new Array(218,24,9,"1000 - 1100"),
+        new Array(226,40,15,"950 - 1000"),
+        new Array(234,56,21,"900 - 950"),
+        new Array(242,72,27,"850 - 900"),
+        new Array(250,88,33,"800 - 850"),
+        new Array(255,104,39,"750 - 800"),
+        new Array(255,120,45,"700 - 750"),
+        new Array(255,136,51,"650 - 700"),
+        new Array(255,152,57,"600 - 650"),
+        new Array(255,168,63,"550 - 600"),
+        new Array(255,184,69,"500 - 550"),
+        new Array(255,200,75,"450 - 500"),
+        new Array(255,216,81,"400 - 450"),
+        new Array(255,232,87,"350 - 400"),
+        new Array(255,242,0,"300 - 350"),
+        new Array(255,248,93,"250 - 300"),
+        new Array(255,255,99,"200 - 250"),
+        new Array(197,243,0,"180 - 200"),
+        new Array(139,222,0,"160 - 180"),
+        new Array(0,220,0,"140 - 160"),
+        new Array(100,228,0,"120 - 140"),
+        new Array(0,242,0,"100 - 120"),
+        new Array(35,255,20,"90 - 100"),
+        new Array(96,255,20,"80 - 90"),
+        new Array(134,255,20,"70 - 80"),
+        new Array(157,255,20,"60 - 70"),
+        new Array(177,255,20,"50 - 60"),
+        new Array(200,255,20,"40 - 50"),
+        new Array(200,255,106,"30 - 40"),
+        new Array(200,255,154,"20 - 30"),
+        new Array(200,255,192,"10 - 20"),
+        new Array(200,255,237,"5 - 10"),
+        new Array(227,255,255,"0 - 5"),
+        new Array(210,255,255,"0 - -200"),
+        new Array(193,255,255,"-200 - -400"),
+        new Array(0,0,128,"-400 - -9999")
+        );
+    var max = unicam.length;
+    var add_rgb = 0;    // maybe better without adding the rgb value
+    var i,a,r,g,b,clr,color,txt,i2,sty;
+    var wrap = 3;
+    var cnt = 0;
+    var html = '<div align="center">';
+    html += "<table align='center' border='0' cellspacing='2' cellpadding='2'>";
+    html += "<caption>UniCam - Solid Earth Reseach Group<\/caption>";
+    html += '<thead>';
+    html += "<tr>";
+    while (cnt < wrap) {
+        html += '<th>#<\/th>';
+        html += '<th>Elevation<\/th>';
+        if (add_rgb) {
+            html += '<th>R<\/th>';
+            html += '<th>G<\/th>';
+            html += '<th>B<\/th>';
+        }
+        html += '<th>Hex<\/th>';
+        cnt++;
+    }    
+    html += "<\/tr>";
+    html += '<\/thead>';
+    cnt = 0;
+    for (i = 0; i < max; i++) {
+        i2 = i + 1;
+        a = unicam[i];
+        r = a[0];
+        g = a[1];
+        b = a[2];
+        txt = a[3];
+        clr = (r * 0x10000) + (g * 0x100) + b;
+        color = tohexcolor(clr);
+        if (cnt == 0) {
+            html += "<tr>";
+        }
+        if ((i < 20) || ((i + 1) == max)) {
+            sty = 'align="center" style=background-color:#'+color+';color:white;';
+        } else {
+            sty = 'align="center" style=background-color:#'+color+';';
+        }
+        html += '<td '+sty+'>'+i2+'<\/td>';
+        html += '<td '+sty+'>'+txt+'<\/td>';
+        if (add_rgb) {
+            html += '<td '+sty+'>'+r+'<\/td>';
+            html += '<td '+sty+'>'+g+'<\/td>';
+            html += '<td '+sty+'>'+b+'<\/td>';
+        }
+        html += '<td '+sty+'>'+color+'<\/td>';
+        cnt++;
+        if (cnt == wrap) {
+            html += "<\/tr>";
+            cnt = 0;
+        }
+    }
+    if (cnt) {
+        while (cnt < wrap) {
+            html += '<td>&nbsp;<\/td>';
+            html += '<td>&nbsp;<\/td>';
+            if (add_rgb) {
+                html += '<td>&nbsp;<\/td>';
+                html += '<td>&nbsp;<\/td>';
+                html += '<td>&nbsp;<\/td>';
+            }
+            html += '<td>&nbsp;<\/td>';
+            cnt++;
+        }
+        html += "<\/tr>";
+    }
+    html += '<\/table>';
+    html += '<\/div>';
+    document.write(html);
+  }
+
   function init() {
     var i, j, clr2;
     var clr = 0x00ff00;
@@ -83,7 +213,7 @@ function tohex(num,len) {
     for (j = 0; j < 16; j++) {
        clr2 -= 0x100000; // add red
        color = tohexcolor(clr2);
-            html += "<td style=background-color:#"+color+";>"+color+"<\/td>";
+            html += "<td style=background-color:#"+color+";color:white;>"+color+"<\/td>";
        //clr2 += 0x02;
     }
     color = tohexcolor(clr2);
@@ -212,13 +342,19 @@ function tohex(num,len) {
     html += '<\/div>';
     document.write(html);
     
+    html = '<p>And concerning the current cookbook unicam png generation, a table idea from '+
+        '<a target="_blank" href="http://www.serg.unicam.it/Gtopohelp.html">'+
+        'Universita degli Studi di Camerino<\/a>, which looks quite interesting '+
+        'in that it is a table look-up with elevation ranges.<\/p>';
+    document.write(html);
+    add_unicam();
   }
 
   init();
 
   </script>
   <p>
-   Futher web searching led me to MANY interesting images, like this one <a target="_blank"
+   Further web searching led me to MANY interesting images, like this one <a target="_blank"
       href="http://serc.carleton.edu/images/eslabs/corals/ocean_depth_colorscale.jpg">http://serc.carleton.edu/images/eslabs/corals/ocean_depth_colorscale.jpg</a>
       which triggers the idea that maybe the scale should not be so strictly 'linear', but more
       'exponential' due the the fact that the majority of the world is less that about 5,000
@@ -228,13 +364,35 @@ function tohex(num,len) {
   </p>
 
   <p>
-   But nothing grabs me from the other alternatives seen and some shown, and do not know what was
-   used in the unicam png generation, so I will 'play' with my 268 generated colors for now. But
-   nothing is cast in stone, and can be changed with a few strokes of the pen ;=))
+   20131227: I have now 'played' with the neat table from unicam. Coded a quick DEM30 C++ loader,
+   and loaded the 33 GTOPO30 DEM files, all except ANTARCPS, which is a little different. And
+   wrote each out to a BMP file of the same width, height as the DEM. Looks nice... But nothing is
+   cast in stone, and can be changed with a few strokes of the pen ;=))
   </p>
 
   <p>
-   &nbsp;
+   Actually they are not 'really' DEM files, in that their format is more like that of a HGT file.
+   They have no A and B records, but are a simple set of 16-bit integers, in Motorola format, row
+   by row, with no file header, but do have a separatate .HDR file which gives them their
+   credentials. It was 'fun' sorting through LOTS of very 'faulty' documentaion to be able to
+   output a good image. A sample of E020N40 is shown below - click image to load full size... to
+   me it is absolute magic at full size!
+  </p>
+
+  <div align="center">
+   <p align="center">
+    <a target="_blank"
+       href="images/E020N40.dem.bmp"><img src="images/E020N40.dem.bmp"
+         width="480"
+         height="600"
+         alt="E020N40 DEM as BMP"></a>
+   </p>
+  </div>
+
+  <p>
+   The next bit of 'fun' will be to try to 'reduce' the width, height of the output by averaging
+   in some way the color height map I build... feels interesting... but off for a big lunch
+   tomorrow so will not get much computer time.
   </p>
 
   <p>
