@@ -1,7 +1,7 @@
 <!DOCTYPE html public "-//W3C//DTD HTML 4.0 Strict//en">
 <html>
     <head>
-        <title>Crossfeed JSON Test 5</title>
+        <title>Crossfeed JSON Test 6</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,6 +23,7 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow this links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
+      20140111 - Add ?icao=ICAO to center map to that location quickly
       20131217 - Get the FGTracker livewaypoints, and only mark callsign in BOLD if present in tracker
       20131127 - Flight selection opens one new window - tracker.html
       20131104 - Implement a column sort - geoff
@@ -133,7 +134,7 @@
         var planes = new OpenLayers.Layer.Vector("Planes", {styleMap: planeStyle});
         var planesLabel = new OpenLayers.Layer.Vector("Callsign", {styleMap: labelStyle});
  
-        function init(lon,lat,zoom){
+        function init(lon,lat,zoom,icao){
         
             map = new OpenLayers.Map("map", {
   			projection: new OpenLayers.Projection("EPSG:3857"),
@@ -147,17 +148,46 @@
             map.addControl(new OpenLayers.Control.Permalink('permalink'));
             map.addControl(new OpenLayers.Control.MousePosition());
             map.addControl(new OpenLayers.Control.ScaleLine());
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+
             if (zoom.length == 0) { zoom = 5; }  // set default ZOOM
             var centerpoint;
+            var clat = 50.0;
+            var clon =  1.0;
             if (lon.length && lat.length) {     // if URL contains lon,lat points
                 centerpoint = new OpenLayers.LonLat(lon,lat); // user center point
             } else {
-                centerpoint = new OpenLayers.LonLat(1.0,50.0); // get a default center
+                centerpoint = new OpenLayers.LonLat(clon,clat); // get a default center
             }
             var repoint = centerpoint.transform( fromProjection, toProjection);
             map.setCenter(centerpoint,zoom); 
+            if (icao.length) {
+                // load ICAO data, if available
+                var file = 'data/'+icao+'.json';
+                sendRequestCB(file,icaoLoad);
+            }
+
         }
-       
+        function icaoLoad() {
+			if (this.readyState == 4) {
+                if (this.status == "200") {
+                    // JSON parsing the response string
+                    var text = this.responseText;
+                    var data = JSON.parse(text);
+                    // console.log("Got json ["+text+"]");
+                    var lat = data.lat;
+                    var lon = data.lon;
+                    var icao = data.icao;
+                    var zoom = 14;
+                    console.log("Got ICAO ["+icao+"] lat "+lat+" lon "+lon);
+                    var cp = new OpenLayers.LonLat(lon,lat); // ICAO center point
+                    var rep = cp.transform( fromProjection, toProjection );
+                    map.setCenter(cp,zoom); // pop map to this location
+                } else {
+                    console.log("Got CB status ["+this.status+"]");
+                }
+            }
+        }
         // Planes and Labels are doubled, it’s not possible to set a background for
         // a label in OpenLayers yet. This is a snag. Because we want rotation we can’t
         // have a point graphic with label integrated.
@@ -948,7 +978,8 @@
         var lat = gup('lat');
         var lon = gup('lon');
         var zoom = gup('zoom');
-        init(lon,lat,zoom);     // init the map, etc
+        var icao = gup('icao');
+        init(lon,lat,zoom,icao);     // init the map, etc
 		sendRequest(cf_url);    // start up crossfeed fetch
     </script>
 
