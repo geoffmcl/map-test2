@@ -1,6 +1,6 @@
 <?php
 
-// 20131216 - bump to 6 second timeout (was a mean 2!)
+// 20140103 - bump to 10 secs - 20131216 - bump to 6 (was a mean 2!)
 //= This script does a lot of error trapping so only devs need true
 define('SHOW_ERRORS', false);
 
@@ -19,7 +19,7 @@ if(USE_CURL){
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, CF_FLIGHTS_URL); 
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
-	curl_setopt($ch, CURLOPT_TIMEOUT, 6);
+	curl_setopt($ch, CURLOPT_TIMEOUT, 10);
 	curl_setopt($ch, CURLOPT_FAILONERROR, 0);
 	$data = curl_exec($ch);
 	$http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
