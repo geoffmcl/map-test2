@@ -1,0 +1,82 @@
+
+body{
+background: #faf8fe;
+<!-- width: 900px; -->
+<!-- margin: 0 auto; -->
+margin : 0 1cm 0 1cm;
+padding: 0;
+font-family: Arial, serif;
+}
+
+a, a:hover, a:visited{
+color: gray;
+text-decoration: none;
+}
+
+a:hover{
+text-decoration: underline;
+}
+
+p, h1, h2, h3, h4, h5, hr{
+margin: 0;
+padding: 0;
+}
+
+hr{
+margin: 0 20%;
+margin-bottom: 8px;
+}
+
+#header{
+height: 140px;
+background: url("fgcom.png") no-repeat right;
+}
+
+#header h1, #header h4{
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+#header ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+#header ul li{
+float: left;
+margin: 0 10px;
+padding: 0;
+}
+
+#title{
+width: 100%;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+}
+
+#footer{
+text-align: center;
+}
+
+#main{
+padding: 15px 0;
+min-height: 400px;
+}
+
+#main table{
+width: 95%;
+margin: auto;
+border-collapse: collapse;
+}
+
+#main table td, #main table th{
+border: 1px solid black;
+}
+
+span.app{
+font-size: 10px;
+}
+

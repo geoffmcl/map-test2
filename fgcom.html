@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <meta name="GENERATOR"
+        content="Manual">
+  <meta name="author"
+        content="Geoff R. McLane">
+  <title>
+   FGCOM Pilots
+  </title>
+  <meta http-equiv="Content-Type"
+        content="text/html; charset=us-ascii">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="apple-mobile-web-app-capable"
+        content="yes">
+  <script type="text/javascript"
+        src="js/jquery-2.0.3.js">
+</script>
+  <script type="text/javascript">
+var fgcom_url = 'proxy/fgcom.php';
+      var fgcom_dir = 'http://fgcom.flightgear.org/feed.php?json';
+      var fgcom_to = 3000;
+      var cf_url = 'http://crossfeed.fgx.ch/flights.json';
+      var cf_to = 3000;   // about each 3 seconds
+        function init(url) {
+            if (url.length == 0) url = fgcom_dir;
+            fgcom_url = url;
+            sendRequest3(url);
+        }
+        // ----------------------------------------------------------------------------------------------
+        // Loading the JSON data
+        // ----------------------------------------------------------------------------------------------
+        // XMLHttpRequest handling
+        function getXMLHttpRequest() {
+         var httpReq = null;
+         if (window.XMLHttpRequest) {
+          httpReq = new XMLHttpRequest();
+         } 
+         else if (typeof ActiveXObject != "undefined") {  
+          httpReq = new ActiveXObject("Microsoft.XMLHTTP")
+         }
+            return httpReq;
+       }
+       function sendRequestCB(url,callback) {
+         var req = getXMLHttpRequest();
+            if (req !== null) {
+                req.onreadystatechange = callback;
+                req.open("GET", url);
+                req.send(null);
+            } else {
+                alert("Your browser does not support an XMLHttpRequest object. No updates will happen!");
+            }
+        }
+       function sendRequest(url) {
+            sendRequestCB(url,crossfeed);
+       }
+       function sendRequest3(url) {
+            sendRequestCB( url, fgcomdata);
+       }
+       var flightdata = [];
+       function getCFData(icao) {
+           var cf = "";
+           var len = flightdata.length;
+           var i, j;
+           for (i = 0; i < len; i++) {
+                var fr = flightdata[i];
+                if (fr[0] == icao) {
+                    for (j = 1; j < 8; j++) {
+                        if (j > 1) cf += ",";
+                        cf += fr[j];
+                    }
+                    break;
+                }
+           }
+           return cf;
+       }
+       function crossfeed() {
+            if (( this.readyState == 4  ) && (this.status == "200")) {
+                var text = this.responseText;
+                var data = JSON.parse(text);
+                flightdata = [];
+                $(data.flights).each(function (i) {
+                    var cs = this.callsign;
+                    var lat = this.lat;
+                    var lon = this.lon;
+                    var alt = this.alt_ft;
+                    var hdg = this.hdg;
+                    var spd = this.spd_kts;
+                    var mod = get_model(this.model);
+                    var dist = this.dist_nm;
+                    var flightrow = [cs,lat,lon,alt,hdg,spd,dist,mod];
+                    flightdata.push(flightrow);
+                    
+                });
+                setTimeout("sendRequest('"+cf_url+"')", cf_to);
+      
+            }
+       }
+       // Some strings to construct the table...
+        var tableheader = "<table width='100%'>"+
+            "<tr>"+
+            "<th>Callsign<\/th>"+
+            "<th>ICAO<\/th>"+
+            "<th>Frequency<\/th>"+
+            "<th>Date<\/th>"+
+            "<th>Lat,Lon,Alt,Hdg,Spd,Dist,Mod<\/th>"+
+            "<\/tr>";
+     
+        function fgcomdata() {
+            if ( this.readyState == 4  ) {
+                if (this.status == "200") {
+                    var text = this.responseText;
+                    // console.log("FGC:["+text+"]");
+                    html = tableheader;
+                    try {
+                        var data = JSON.parse(text);
+                        if (data.clients) {
+                            var ca = data.clients;
+                            var sz = ca.length;
+                            // console.log("Gt array of " + sz + " clients");
+                            var i;
+                            for (i = 0; i < sz; i++) {
+                                var fa = ca[i];
+                                var cs = fa.callsign;
+                                var app = fa.app;
+                                var ver = fa.version;
+                                var icao = fa.icao;
+                                var freq = fa.frequency;
+                                var dt = fa.datetime;
+                                if (freq == '910.111') {
+                                    freq = 'Echo-test';
+                                }
+                                var cf = getCFData(cs);
+                                html += "<tr>";
+                                html += "<td><b>"+cs+"<\/b> ("+app+" "+ver+")<\/td>";
+                                html += "<td><b>"+icao+"<\/b><\/td>";
+                                html += "<td><b>"+freq+"<\/b> MHz<\/td>";
+                                html += "<td>"+dt+"<\/td>";
+                                html += '<td align="center">'+cf+"<\/td>";
+                                html += "<\/tr>";
+                            }
+                            if (sz == 0) {
+                                html += "<tr>";
+                                html += "<td colspan='5' align='center'>No FGCom connections available<\/td>";
+                                html += "<\/tr>";
+                            } else {
+                                var msg = " connection";
+                                if (sz > 1) msg += 's';
+                                html += "<tr>";
+                                html += "<td colspan='5' align='center'>Total "+sz+msg+"<\/td>";
+                                html += "<\/tr>";
+                            }
+                        } else {
+                            console.log("clients not present");
+                        }
+                    } catch (e) {
+                        console.log("Parse error: ", e);
+                    }
+                    html += "<\/table>";
+                    $("#main").html(html);
+                    setTimeout("sendRequest3('"+fgcom_url+"')", fgcom_to);
+                }
+            }
+        }
+        // ----------------------------------------------------------------------------------------------
+        // Utility functions
+        // ----------------------------------------------------------------------------------------------
+        // various guesses that it is ATC
+        function is_atc( callsign, model ) {
+            if (model == 'OpenRadar') return true;
+            var mod = model.toUpperCase();
+            var n = mod.indexOf('ATC');
+            if (n >= 0) return true;
+            n = callsign.indexOf('ATC');
+            if (n >= 0) return true;
+            return false;
+        }
+        // strip .xml extension, and strip '-model'
+        function strip_extent(txt) {
+            var n = txt.lastIndexOf('.');
+            if (n > 0) {
+                txt = txt.substr(0,n);
+                n = txt.indexOf('-model'); // like 'A-10-model'
+                if (n > 0) {
+                    txt = txt.substr(0,n);
+                } else {
+                    n = txt.indexOf('-jsbsim'); // like 'dr400-180-jsbsim'
+                    if (n > 0) {
+                        txt = txt.substr(0,n);
+                    }
+                }
+            }
+            return txt;
+        }
+        // remove path from model name, strip .xml extension, and limit length to 10 letters
+        function get_model(txt) {
+            var n = txt.lastIndexOf('/');
+            if (n > 0) {
+                txt = strip_extent(txt.substr(n+1));
+            }
+            if (txt.length > 10) {
+                txt = txt.substr(0,10);
+            }
+            return txt;
+        }
+
+        function gup( name ) {
+            name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+            var regexS = "[\\?&]"+name+"=([^&#]*)";
+            var regex = new RegExp( regexS );
+            var results = regex.exec( window.location.href );
+            if( results == null )
+                return "";
+            else
+                return results[1];
+        }
+  </script>
+  <link rel="stylesheet"
+        media="screen"
+        type="text/css"
+        title="Design"
+        href="css/fgcom.css">
+ </head>
+ <body>
+  <table summary="header table">
+   <tr>
+    <td>
+     <img src="images/fgcom.jpg"
+         alt="fgcom logo">
+    </td>
+    <td>
+     <h1>
+      Live FGCom
+     </h1>
+    </td>
+   </tr>
+  </table>
+
+  <hr style="width:100%; margin:0; padding:0;">
+
+  <br>
+
+  <div id="title">
+   Live FGCOM Server Connections, plus crossfeed data, where available.
+  </div>
+
+  <div id="main">
+  </div>
+
+  <div id="footer">
+   <hr>
+
+   <p>
+    Copyright - Cl&eacute;ment de l'Hamaide 2013
+   </p>
+
+   <p>
+    <a href="http://fgcom.flightgear.org">fgcom.flightgear.org</a>
+   </p>
+
+   <br>
+  </div>
+  <!-- This gives IE compatibility with the OpenLayers map init function -->
+  <script type="text/javascript"
+        defer="defer">
+  sendRequest(cf_url); // start crossfeed feed
+    var url = gup('url');
+        init(url);     // init the fgcom feed
+  </script>
+ </body>
+</html>
