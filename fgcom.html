@@ -143,7 +143,8 @@ var fgcom_url = 'proxy/fgcom.php';
                             }
                             if (sz == 0) {
                                 html += "<tr>";
-                                html += "<td colspan='5' align='center'>No FGCom connections available<\/td>";
+                                html += "<td colspan='5' align='center'>No FGCom connections available from "+
+                                    '<a href="'+fgcom_url+'">'+fgcom_url+'<\/a><\/td>';
                                 html += "<\/tr>";
                             } else {
                                 var msg = " connection";
@@ -153,10 +154,18 @@ var fgcom_url = 'proxy/fgcom.php';
                                 html += "<\/tr>";
                             }
                         } else {
-                            console.log("clients not present");
+                            //console.log("clients not present");
+                            html += "<tr>";
+                            html += "<td colspan='5' align='center'>No FGCom connections available from "+
+                                '<a href="'+fgcom_url+'">'+fgcom_url+'<\/a><\/td>';
+                            html += "<\/tr>";
                         }
                     } catch (e) {
-                        console.log("Parse error: ", e);
+                        html += "<tr>";
+                        html += "<td colspan='5' align='center'>Parse error: "+e+" from "+
+                            '<a href="'+fgcom_url+'">'+fgcom_url+'<\/a><\/td>';
+                        html += "<\/tr>";
+                        //console.log("Parse error: ", e);
                     }
                     html += "<\/table>";
                     $("#main").html(html);
@@ -265,7 +274,7 @@ var fgcom_url = 'proxy/fgcom.php';
   <!-- This gives IE compatibility with the OpenLayers map init function -->
   <script type="text/javascript"
         defer="defer">
-  sendRequest(cf_url); // start crossfeed feed
+sendRequest(cf_url); // start crossfeed feed
     var url = gup('url');
         init(url);     // init the fgcom feed
   </script>
