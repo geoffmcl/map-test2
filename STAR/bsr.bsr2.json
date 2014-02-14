@@ -1,0 +1,27 @@
+{"name":"BIG SUR TWO","type":"STAR",
+"transitions":[
+{"TRANS":[
+{"N":"common","T":"com"}
+]}
+],
+"common":[
+{"N":"BIG SUR","T":"vor","A":10000,"R":309},
+{"N":"CARME","T":"fix","A":9000,"R":331},
+{"N":"ANJEE","T":"fix","A":7000},
+{"N":"SKUNK","T":"fix","A":6000},
+{"N":"BOLDR","T":"fix"},
+{"N":"MENLO","T":"fix","R":330},
+{"N":"SAN FRANCISCO","id":"SFO","T":"vor"}
+],
+"VORS":[
+{"N":"SAN FRANCISCO","id":"SFO","type":"VDME","lat":37.61948333,"lon":-122.37389167,"alt":7,"freq":115.80,"rng":40,"fn":"SAN FRANCISCO VOR-DME"},
+{"N":"BIG SUR","id":"BSR","type":"VDME","lat":36.18129444,"lon":-121.64211111,"alt":4080,"freq":114.00,"rng":40,"fn":"BIG SUR VORTAC"}
+],
+"FIXES":[
+{"N":"ANJEE","lat":36.746286,"lon":-121.964892},
+{"N":"BOLDR","lat":37.170886,"lon":-122.076167},
+{"N":"CARME","lat":36.455183,"lon":-121.879714},
+{"N":"MENLO","lat":37.463686,"lon":-122.153658},
+{"N":"SKUNK","lat":37.007594,"lon":-122.033228}
+]
+}

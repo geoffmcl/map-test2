@@ -1,0 +1,46 @@
+{"name":"GOLDEN GATE SIX","type":"STAR",
+"transitions":[
+{"TRANS":[
+{"N":"ROSEBURG","T":"vor","F":180,"R":159},
+{"N":"MENDOCINO","T":"vor","A":7000,"R":146},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"FORTUNA","T":"vor","F":180,"R":138},
+{"N":"LETHH","T":"fix","A":9000,"R":141},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"RED BLUFF","T":"vor","A":15000,"R":176},
+{"N":"GOWCH","T":"fix","A":7000,"R":177},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"MUSTANG","T":"vor","F":180,"R":241},
+{"N":"WILLIAMS","T":"vor","A":7000,"R":196},
+{"N":"common","T":"com"}
+]}
+],
+"common":[
+{"N":"POINT REYES","T":"vor","A":6000,"R":123},
+{"N":"LOZIT","T":"fix"},
+{"N":"DUXBY","T":"fix"},
+{"N":"SAN FRANCISCO","id":"SFO","T":"vor"}
+],
+"FIXES":[
+{"N":"LETHH","lat":38.621508,"lon":-123.144586},
+{"N":"LOZIT","lat":37.899325,"lon":-122.673194},
+{"N":"DUXBY","lat":37.695881,"lon":-122.455286},
+{"N":"GOWCH","lat":38.566364,"lon":-122.719019}
+],
+"VORS":[
+{"N":"SAN FRANCISCO","id":"SFO","type":"VDME","lat":37.61948333,"lon":-122.37389167,"alt":7,"freq":115.80,"rng":40,"fn":"SAN FRANCISCO VOR-DME"},
+{"N":"ROSEBURG","id":"RBG","type":"VDME","lat":43.18242222,"lon":-123.35223889,"alt":1320,"freq":108.20,"rng":40,"fn":"ROSEBURG VOR-DME"},
+{"N":"MENDOCINO","id":"ENI","type":"VDME","lat":39.05321667,"lon":-123.27432778,"alt":2985,"freq":112.30,"rng":130,"fn":"MENDOCINO VORTAC"},
+{"N":"FORTUNA","id":"FOT","type":"VDME","lat":40.67127222,"lon":-124.23453889,"alt":386,"freq":114.00,"rng":40,"fn":"FORTUNA VORTAC"},
+{"N":"POINT REYES","id":"PYE","type":"VDME","lat":38.07975556,"lon":-122.86782778,"alt":1340,"freq":113.70,"rng":130,"fn":"POINT REYES VORTAC"},
+{"N":"RED BLUFF","id":"RBL","type":"VDME","lat":40.09891111,"lon":-122.23635000,"alt":321,"freq":115.70,"rng":130,"fn":"RED BLUFF VORTAC"},
+{"N":"MUSTANG","id":"FMG","type":"VDME","lat":39.53126389,"lon":-119.65607222,"alt":5949,"freq":117.90,"rng":130,"fn":"MUSTANG VORTAC"},
+{"N":"WILLIAMS","id":"ILA","type":"VDME","lat":39.07115000,"lon":-122.02724444,"alt":50,"freq":114.40,"rng":40,"fn":"WILLIAMS VORTAC"}
+]
+}

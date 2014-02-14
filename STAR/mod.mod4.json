@@ -1,0 +1,58 @@
+{"name":"MODESTO FOUR","type":"STAR",
+"transitions":[
+{"TRANS":[
+{"N":"CLOVIS","id":"CZQ","T":"vor","R":305,"A":8000},
+{"N":"LNNDA","T":"fix","R":272},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"COALDALE","id":"MVA","T":"vor","R":246,"F":190},
+{"N":"INYOE","T":"fix","R":246,"F":180},
+{"N":"KYLLA","T":"fix","F":180,"R":244},
+{"N":"TROSE","T":"fix","R":244,"F":244},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"MINA","id":"OAL","T":"vor","R":204,"F":190},
+{"N":"INYOE","T":"fix","R":246,"F":180},
+{"N":"KYLLA","T":"fix","F":180,"R":244},
+{"N":"TROSE","T":"fix","R":244,"F":244},
+{"N":"common","T":"com"}
+]},
+{"TRANS":[
+{"N":"MUSTANG","id":"FMG","T":"vor","R":182,"F":240},
+{"N":"TROSE","T":"fix","R":244,"F":180},
+{"N":"common","T":"com"}
+]}
+],
+"common":[
+{"N":"MODESTO","id":"MOD","T":"vor","R":245},
+{"N":"LEEFF","T":"fix","R":245},
+{"N":"GROAN","T":"fix"},
+{"N":"CEDES","T":"fix","R":236,"A":11000},
+{"N":"OOMEN","T":"fix"},
+{"N":"MEHTA","T":"fix"},
+{"N":"DUMBA","T":"fix"},
+{"N":"SAN FRANCISCO","id":"SFO","T":"vor"}
+],
+"VORS":[
+{"N":"SAN FRANCISCO","id":"SFO","type":"VDME","lat":37.61948333,"lon":-122.37389167,"alt":7,"freq":115.80,"rng":40,"fn":"SAN FRANCISCO VOR-DME"},
+{"N":"CLOVIS","id":"CZQ","type":"VDME","lat":36.88432222,"lon":-119.81513611,"alt":360,"freq":112.90,"rng":130,"fn":"CLOVIS VORTAC"},
+{"N":"MINA","id":"MVA","type":"VDME","lat":38.56530000,"lon":-118.03285278,"alt":7860,"freq":115.10,"rng":130,"fn":"MINA VORTAC"},
+{"N":"COALDALE","id":"OAL","type":"VDME","lat":38.00326111,"lon":-117.77044722,"alt":4800,"freq":117.70,"rng":130,"fn":"COALDALE VORTAC"},
+{"N":"MODESTO","id":"MOD","type":"VDME","lat":37.62737500,"lon":-120.95786667,"alt":93,"freq":114.60,"rng":130,"fn":"MODESTO VOR-DME"},
+{"N":"MUSTANG","id":"FMG","type":"VDME","lat":39.53126389,"lon":-119.65607222,"alt":5949,"freq":117.90,"rng":130,"fn":"MUSTANG VORTAC"}
+],
+"FIXES":[
+{"N":"CEDES","lat":37.550822,"lon":-121.624586},
+{"N":"DUMBA","lat":37.503517,"lon":-122.096147},
+{"N":"GROAN","lat":37.590319,"lon":-121.285078},
+{"N":"INYOE","lat":37.895622,"lon":-118.764992},
+{"N":"KYLLA","lat":37.826078,"lon":-119.368194},
+{"N":"LEEFF","lat":37.608611,"lon":-121.124014},
+{"N":"LNNDA","lat":37.482222,"lon":-120.444167},
+{"N":"MEHTA","lat":37.461692,"lon":-121.996525},
+{"N":"OOMEN","lat":37.476878,"lon":-121.933556},
+{"N":"TROSE","lat":37.699161,"lon":-120.404222}
+]
+}

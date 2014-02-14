@@ -1,0 +1,31 @@
+{"name":"HADLY TWO","type":"STAR",
+"transitions":[
+{"TRANS":[
+{"N":"common","T":"com"}
+]}
+],
+"common":[
+{"N":"BIG SUR","T":"vor","R":309},
+{"N":"SHOEY","T":"fix"},
+{"N":"EUGEN","T":"fix","R":324},
+{"N":"TAILS","T":"fix"},
+{"N":"HADLY","T":"fix"},
+{"N":"SAUSALITO","id":"SAU","T":"vor","R":35},
+{"N":"COMMO","T":"fix"},
+{"N":"BERKS","T":"fix"},
+{"N":"SAN FRANCISCO","id":"SFO","T":"vor"}
+],
+"VORS":[
+{"N":"SAN FRANCISCO","id":"SFO","type":"VDME","lat":37.61948333,"lon":-122.37389167,"alt":7,"freq":115.80,"rng":40,"fn":"SAN FRANCISCO VOR-DME"},
+{"N":"BIG SUR","id":"BSR","type":"VDME","lat":36.18129444,"lon":-121.64211111,"alt":4080,"freq":114.00,"rng":40,"fn":"BIG SUR VORTAC"},
+{"N":"SAUSALITO","id":"SAU","type":"VDME","lat":37.85533333,"lon":-122.52275278,"alt":1040,"freq":116.20,"rng":40,"fn":"SAUSALITO VORTAC"}
+],
+"FIXES":[
+{"N":"BERKS","lat":37.860861,"lon":-122.211678},
+{"N":"COMMO","lat":37.874219,"lon":-122.492042},
+{"N":"EUGEN","lat":37.093447,"lon":-122.444214},
+{"N":"HADLY","lat":37.402358,"lon":-122.575592},
+{"N":"SHOEY","lat":36.745981,"lon":-122.135944},
+{"N":"TAILS","lat":37.272861,"lon":-122.520361}
+]
+}
