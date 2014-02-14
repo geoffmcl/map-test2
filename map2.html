@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   map2 STAR json test
+  </title>
+  <style type="text/css">
+    html, body, #basicMap {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <script src="js/OpenLayers.js"
+        type="text/javascript">
+</script>
+  <script src="js/geodesic.js"
+        type="text/javascript">
+</script>
+  <script type="text/javascript">
+  var map, mapnik, position, fromProjection, toProjection, markersLayer, lineLayer, circleLayer;
+  var labelsLayer;
+  
+  var star_mod4 = 'STAR/mod.mod4.json';
+  var star_pye6 = 'STAR/pye.goldn6.json';
+  var star_bsr2 = 'STAR/bsr.bsr2.json';
+  var star_had2 = 'STAR/bsr.hadly2.json';
+  
+  // vor and fixes painted
+  var vorlist = [];
+  var vornames = [];
+  var fixlist = [];
+  var fixnames = [];
+
+  var def_lat = 38.7;
+  var def_lon = -122.0;
+  //var def_lat = 37.627375;
+  //var def_lon = -120.95786667;
+  var def_zoom = 8;   //11;  // hard to choose then best init zoom
+    
+  var curr_lat1,curr_lon1,curr_lat2,curr_lon2;
+  // ==============================================================================
+    // FOR DEBUG ONLY
+    // MODESTO
+    // {"N":"MODESTO","id":"MOD","type":"VDME","lat":37.62737500,"lon":-120.95786667,"alt":93,"freq":114.60,"rng":130,"fn":"MODESTO VOR-DME"},
+    var mod_lat = 37.62737500;
+    var mod_lon = -120.95786667;
+    // {"N":"LEEFF","lat":37.608611,"lon":-121.124014},
+    var lee_lat = 37.608611;
+    var lee_lon = -121.124014
+    // {"N":"GROAN","lat":37.590319,"lon":-121.285078},
+    var gro_lat = 37.590319;
+    var gro_lon = -121.285078;
+    // {"N":"MUSTANG","id":"FMG","type":"VDME","lat":39.53126389,"lon":-119.65607222,"alt":5949,"freq":117.90,"rng":130,"fn":"MUSTANG VORTAC"}
+    var fmg_lat = 39.53126389;
+    var fmg_lon = -119.65607222;
+    // {"N":"TROSE","lat":37.699161,"lon":-120.404222}
+    var tro_lat = 37.699161;
+    var tro_lon = -120.404222;
+    // {"N":"CEDES","lat":37.550822,"lon":-121.624586},
+    var ced_lat = 37.550822;
+    var ced_lon = -121.624586;
+    //{"N":"OOMEN","lat":37.476878,"lon":-121.933556},
+    var oom_lat = 37.476878;
+    var oom_lon = -121.933556;
+    // {"N":"MEHTA","lat":37.461692,"lon":-121.996525},
+    var meh_lat = 37.461692;
+    var meh_lon = -121.996525;
+    // {"N":"DUMBA","lat":37.503517,"lon":-122.096147},
+    var dum_lat = 37.503517;
+    var dum_lon = -122.096147;
+    // {"N":"SAN FRANCISCO","id":"SFO","type":"VDME","lat":37.61948333,"lon":-122.37389167,"alt":7,"freq":115.80,"rng":40,"fn":"SAN FRANCISCO VOR-DME"},
+    var sfo_lat = 37.61948333;
+    var sfo_lon = -122.37389167;
+    // ============================================================================
+    // {"N":"MINA","id":"MVA","type":"VDME","lat":38.56530000,"lon":-118.03285278,"alt":7860,"freq":115.10,"rng":130,"fn":"MINA VORTAC"},
+    var mva_lat = 38.56530000;
+    var mva_lon = -118.03285278;
+    // {"N":"INYOE","lat":37.895622,"lon":-118.764992},
+    var iny_lat = 37.895622;
+    var iny_lon = -118.764992;
+    // {"N":"KYLLA","lat":37.826078,"lon":-119.368194},
+    var kyl_lat = 37.826078;
+    var kyl_lon = -119.368194;
+    // ===========================================================================
+    // {"N":"COALDALE","id":"OAL","type":"VDME","lat":38.00326111,"lon":-117.77044722,"alt":4800,"freq":117.70,"rng":130,"fn":"COALDALE VORTAC"},
+    var oal_lat = 38.00326111;
+    var oal_lon = -117.77044722;
+    // ===========================================================================
+    // {"N":"CLOVIS","id":"CZQ","type":"VDME","lat":36.88432222,"lon":-119.81513611,"alt":360,"freq":112.90,"rng":130,"fn":"CLOVIS VORTAC"},
+    var czq_lat = 36.88432222;
+    var czq_lon = -119.81513611;
+    // {"N":"LNNDA","lat":37.482222,"lon":-120.444167},
+    var lnn_lat = 37.482222;
+    var lnn_lon = -120.444167;
+  // ==============================================================================
+
+      function init(lat,lon,zoom) {
+        map = new OpenLayers.Map("basicMap", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+       });
+        mapnik         = new OpenLayers.Layer.OSM();
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        map.addLayer(mapnik);
+        map.addControl(new OpenLayers.Control.Permalink('permalink'));
+        map.addControl(new OpenLayers.Control.MousePosition());
+        map.addControl(new OpenLayers.Control.ScaleLine());
+        map.addControl(new OpenLayers.Control.LayerSwitcher());
+
+        var labelStyle = new OpenLayers.Style({
+            externalGraphic: "images/background_trans.png",
+            //externalGraphic: "images/label_background.gif",
+            graphicWidth: "${labelWidth}",
+            graphicHeight: "13", 
+            graphicOpacity: 0.99,
+            graphicXOffset: "${labelOffset}", 
+            graphicYOffset: 14,
+            fillColor: "#000000",
+            fillOpacity: 0.0,
+            strokeWidth: 0.0,
+            label : "${icao}",
+            //fontColor: "#CCCCCC", 
+            fontColor: "#000000", 
+            fontSize: "11px", 
+            fontFamily: "\"DejaVuSansMonoBold\",monospace", 
+            fontWeight: "normal",
+            labelAlign: "center",
+            labelXOffset: "0",
+            labelYOffset: "-22"
+            });
+        labelsLayer = new OpenLayers.Layer.Vector("Labels Layer", {styleMap: labelStyle});
+        map.addLayer(labelsLayer);
+        
+        markersLayer = new OpenLayers.Layer.Markers( "Marker Layer" );
+        map.addLayer(markersLayer);
+        lineLayer = new OpenLayers.Layer.Vector("Line Layer");
+        map.addLayer(lineLayer);
+        circleLayer = new OpenLayers.Layer.Vector("Circle Layer");
+        map.addLayer(circleLayer);
+        
+        markersLayer.addMarker(new OpenLayers.Marker(position));
+        map.setCenter(position, zoom );
+        
+        map.events.register('zoomend', undefined, zoomChanged);
+        map.events.register('moveend', undefined, moveEnded);
+        
+      }
+    function addLabel2Layer(icao, lon, lat, layer) {
+        var point =  new OpenLayers.Geometry.Point(lon,lat).transform( fromProjection, toProjection); 
+        var labelFeature = new OpenLayers.Feature.Vector(point);
+        labelFeature.id = "label"+icao;
+        labelFeature.attributes.icao = icao;
+        // This calculates label background width and offset
+        labelWidth = 8 * icao.length;
+        labelOffset = labelWidth / 2 * -1.0;
+        labelFeature.attributes.labelWidth = labelWidth;
+        labelFeature.attributes.labelOffset = labelOffset;
+        layer.addFeatures([labelFeature]);
+        return labelFeature;
+    }
+    /**
+     * function addLabel(icao, lon, lat);
+     * @param (string) ICAO to paint
+     * @param (number) Degree of longitude
+     * @param (number) Degree of latitude
+     * Add a label for an airport contianing ICAO
+     */
+    function addLabel(icao, lon, lat) {
+        return addLabel2Layer(icao, lon, lat, labelsLayer);
+    }
+      
+      function addFixatPos( pos ) {
+        var icon = new OpenLayers.Icon('images/FIX-30x30.png');
+        var mark = new OpenLayers.Marker(pos, icon);
+        markersLayer.addMarker(mark);
+      }
+      
+      function addVoratPos( pos ) {
+        var icon = new OpenLayers.Icon('data/img/VOR-DME-50x43.gif');
+        var mark = new OpenLayers.Marker(pos, icon);
+        markersLayer.addMarker(mark);
+      }
+      
+      function addIcons() {
+        var pos;
+        addLabel('MUSTANG', fmg_lon, fmg_lat);
+        pos = new OpenLayers.LonLat(fmg_lon,fmg_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);   // VOR-DME
+        // MINA
+        addLabel('MINA', mva_lon, mva_lat);
+        pos = new OpenLayers.LonLat(mva_lon,mva_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);   // VOR-DME
+        // COALDALE
+        addLabel('COALDALE', oal_lon, oal_lat);
+        pos = new OpenLayers.LonLat(oal_lon,oal_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);   // VOR-DME
+        // CLOVIS
+        addLabel('CLOVIS', czq_lon, czq_lat);
+        pos = new OpenLayers.LonLat(czq_lon,czq_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);   // VOR-DME
+        addLabel('MODESTO', mod_lon, mod_lat);
+        var pos = new OpenLayers.LonLat(mod_lon,mod_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);
+        // SAN FRANCISCO
+        addLabel('SAN FRANCISCO', sfo_lon, sfo_lat);
+        pos = new OpenLayers.LonLat(sfo_lon,sfo_lat).transform( fromProjection, toProjection);
+        addVoratPos(pos);   // VOR-DME
+
+        // INYOE
+        addLabel('INYOE', iny_lon, iny_lat);
+        pos = new OpenLayers.LonLat(iny_lon,iny_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // KYLLA
+        addLabel('KYLLA', kyl_lon, kyl_lat);
+        pos = new OpenLayers.LonLat(kyl_lon,kyl_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // TROSE
+        addLabel('TROSE', tro_lon, tro_lat);
+        pos = new OpenLayers.LonLat(tro_lon,tro_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+
+        addLabel('LNNDA', lnn_lon, lnn_lat);
+        pos = new OpenLayers.LonLat(lnn_lon,lnn_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // LEEFF
+        addLabel('LEEFF', lee_lon, lee_lat);
+        pos = new OpenLayers.LonLat(lee_lon,lee_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // GROAN
+        addLabel('GROAN', gro_lon, gro_lat);
+        var pos = new OpenLayers.LonLat(gro_lon,gro_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);
+        // CEDES
+        addLabel('CEDES', ced_lon, ced_lat);
+        pos = new OpenLayers.LonLat(ced_lon,ced_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // OOMEN
+        addLabel('OOMEN', oom_lon, oom_lat);
+        pos = new OpenLayers.LonLat(oom_lon,oom_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // MEHTA
+        addLabel('MEHTA', meh_lon, meh_lat);
+        pos = new OpenLayers.LonLat(meh_lon,meh_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+        // DUMBA
+        addLabel('DUMBA', dum_lon, dum_lat);
+        pos = new OpenLayers.LonLat(dum_lon,dum_lat).transform( fromProjection, toProjection);
+        addFixatPos(pos);   // FIX
+      }        
+      
+      function ss_paintLine( lat1, lon1, lat2, lon2, style ) {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        var lineFeat = new OpenLayers.Feature.Vector(line, null, style);
+        lineLayer.addFeatures([lineFeat]);
+      }
+      function ss_putLine4( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 4,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      
+      function ss_putLine2( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 2,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      function ss_putLine1( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 1,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      
+    function paintSTAR( lat1, lon1, lat2, lon2 ) {
+        var dist = 2.0;
+        ss_putLine2( lat1, lon1, lat2, lon2 );
+        console.log("Line2: "+lat1+","+lon1+" to "+lat2+","+lon2 );
+        var brng = getBearing(lat1,lon1,lat2,lon2);
+        console.log("Bearing "+brng+" from "+lat1+','+lon1+" to "+lat2+','+lon2);
+        var b1, p1, p2;
+        b1 = brng - 90.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        ss_putLine1( p1._lat, p1._lon, p2._lat, p2._lon );
+        console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+        b1 -= 180.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        ss_putLine1( p1._lat, p1._lon, p2._lat, p2._lon );
+        console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+      }
+      
+      function joinFMG2MOD() {
+        console.log("Paint FMG to TRO: "+fmg_lat+','+fmg_lon+" to "+tro_lat+','+tro_lon);
+        paintSTAR( fmg_lat, fmg_lon, tro_lat, tro_lon );
+        console.log("Paint TRO to MOD: "+tro_lat+','+tro_lon+" to "+mod_lat+','+mod_lon);
+        paintSTAR( tro_lat, tro_lon, mod_lat, mod_lon );
+        // and add CLOVIS CZQ to MODESTO MOD
+        console.log("Paint CZQ to LNN: "+czq_lat+','+czq_lon+" to "+lnn_lat+','+lnn_lon);
+        paintSTAR( czq_lat, czq_lon, lnn_lat, lnn_lon );
+        console.log("Paint LNN to MOD: "+lnn_lat+','+lnn_lon+" to "+mod_lat+','+mod_lon);
+        paintSTAR( lnn_lat, lnn_lon, mod_lat, mod_lon );
+        
+      }
+      function joinMVA2TRO() {
+        console.log("Paint MVA to INY: "+mva_lat+','+mva_lon+" to "+iny_lat+','+iny_lon);
+        paintSTAR( mva_lat, mva_lon, iny_lat, iny_lon );
+        console.log("Paint OAL to INY: "+oal_lat+','+oal_lon+" to "+iny_lat+','+iny_lon);
+        paintSTAR( mva_lat, mva_lon, iny_lat, iny_lon );
+        console.log("Paint INY to KYL: "+iny_lat+','+iny_lon+" to "+kyl_lat+','+kyl_lon);
+        paintSTAR( iny_lat, iny_lon, kyl_lat, kyl_lon );
+        console.log("Paint KYL to TRO: "+kyl_lat+','+kyl_lon+" to "+tro_lat+','+tro_lon);
+        paintSTAR( kyl_lat, kyl_lon, tro_lat, tro_lon );
+        // add
+        console.log("Paint OAL to INY: "+oal_lat+','+oal_lon+" to "+iny_lat+','+iny_lon);
+        paintSTAR( oal_lat, oal_lon, iny_lat, iny_lon );
+        
+      }
+      function joinMOD2GRO() {
+        console.log("Paint MOD to LEE: "+mod_lat+','+mod_lon+" to "+lee_lat+','+lee_lon);
+        paintSTAR( mod_lat, mod_lon, lee_lat, lee_lon );
+        console.log("Paint LEE to GROAN: "+lee_lat+','+lee_lon+" to "+gro_lat+','+gro_lon);
+        paintSTAR( lee_lat, lee_lon, gro_lat, gro_lon );
+      }
+      function joinGRO2SFO() {
+        console.log("Paint GRO to CED: "+gro_lat+','+gro_lon+" to "+ced_lat+','+ced_lon);
+        paintSTAR( gro_lat, gro_lon, ced_lat, ced_lon );
+        console.log("Paint CED to OOM: "+ced_lat+','+ced_lon+" to "+oom_lat+','+oom_lon);
+        paintSTAR( ced_lat, ced_lon, oom_lat, oom_lon );
+        console.log("Paint OOM to MEH: "+oom_lat+','+oom_lon+" to "+meh_lat+','+meh_lon);
+        paintSTAR( oom_lat, oom_lon, meh_lat, meh_lon );
+        console.log("Paint MEH to DUM: "+meh_lat+','+meh_lon+" to "+dum_lat+','+dum_lon);
+        paintSTAR( meh_lat, meh_lon, dum_lat, dum_lon );
+        console.log("Paint DUM to SFO: "+dum_lat+','+dum_lon+" to "+sfo_lat+','+sfo_lon);
+        paintSTAR( dum_lat, dum_lon, sfo_lat, sfo_lon );
+      }
+      
+    function paintSTARs( pos ) {
+        var len = pos.length;
+        var i, lat1, lon1, lat2, lon2;
+        if (len < 2)
+            return;
+        for (i = 1; i < len; i++) {
+            lat1 = pos[i-1]._lat;
+            lon1 = pos[i-1]._lon;
+            lat2 = pos[i]._lat;
+            lon2 = pos[i]._lon;
+            paintSTAR( lat1, lon1, lat2, lon2 );
+        }
+    }
+    
+    function valInArray(s,a ) {
+        var i, t;
+        var max = a.length;
+        for (i = 0; i < max; i++) {
+            t = a[i];
+            if ( s == t )
+                return true;
+        }
+        return false;
+    }
+    
+    function paintFixes(fixlist,fixnames) {
+        var max = fixlist.length;
+        var i,ll,name,pos,point,circle,feat;
+        var fix_style = { 
+            strokeColor: '#004000',
+            strokeOpacity: 0.5,
+            strokeWidth: 2, 
+            fill: false };
+        for (i = 0; i < max; i++) {
+            ll = fixlist[i];
+            pos = new OpenLayers.LonLat(ll._lon,ll._lat).transform( fromProjection, toProjection);
+            // put a green circle
+            point = new OpenLayers.Geometry.Point(pos.lon, pos.lat);
+            circle = OpenLayers.Geometry.Polygon.createRegularPolygon(point,6000,20,0 );
+            feat = new OpenLayers.Feature.Vector(circle, null, fix_style);
+            circleLayer.addFeatures([feat]);
+            name = fixnames[i];
+            addLabel(name, ll._lon, ll._lat);
+            addFixatPos(pos);   // FIX
+        }
+    }
+    function paintVors(vorlist,vornames) {
+        var max = vorlist.length;
+        var i,ll,name,pos;
+        for (i = 0; i < max; i++) {
+            ll = vorlist[i];
+            name = vornames[i];
+            addLabel(name, ll._lon, ll._lat);
+            pos = new OpenLayers.LonLat(ll._lon,ll._lat).transform( fromProjection, toProjection);
+            addVoratPos(pos);   // FIX
+        }
+    
+    }
+    function callbackSTAR() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text,data;
+            var ok = false;
+            text = this.responseText;
+            data = JSON.parse(text);
+            //console.log(text);
+            var compos;
+            
+            if (data.transitions && data.VORS && data.FIXES && data.common) {
+                var i,j,k,lat,lon,com,cnod,cll,ll,nod,typ,vor,fix,clat,clon,i2;
+                var vora = data.VORS;
+                var voral = vora.length;
+                var fixa = data.FIXES;
+                var fixal = fixa.length;
+                var coma = data.common;
+                var comal = coma.length;
+                if (comal) {
+                    ok = true;
+                    com = coma[0];  // get first common
+                    cnod = com.N;
+                    typ = com.T;
+                    if (typ == 'vor') {
+                        for (k = 0; k < voral; k++) {
+                            vor = vora[k];
+                            if (vor.N == cnod) {
+                                clat = vor.lat;
+                                clon = vor.lon;
+                                cll = new LatLon(clat,clon);
+                                //cpos = new OpenLayers.LonLat(clon,clat).transform( fromProjection, toProjection );
+                                //console.log("com1: "+typ+" "+cnod+" "+clat+","+clon+" pos: "+cpos.lat+','+cpos.lon);
+                                console.log("com1: "+typ+" "+cnod+" "+clat+","+clon);
+                                vornames.push(cnod);
+                                vorlist.push(cll);
+                                break;
+                            }
+                        }
+                        if (k >= voral) {
+                            ok = false;
+                            console.log("Failed to find 'vor' "+nod);
+                        }
+                    } else if (typ == 'fix') {
+                        for (k = 0; k < fixal; k++) {
+                            fix = fixa[k];
+                            if (fix.N == cnod) {
+                                clat = fix.lat;
+                                clon = fix.lon;
+                                cll = new LatLon(clat,clon);
+                                console.log("com1: "+typ+" "+cnod+" "+clat+","+clon);
+                                fixnames.push(cnod);
+                                fixlist.push(cll);
+                                break;
+                            }
+                        }
+                        if (k >= fixal) {
+                            ok = false;
+                            console.log("Failed to find 'fix' "+nod);
+                        }
+                    
+                    } else {
+                        console.log("First 'common' no 'vor nor 'fix'");
+                        ok = false;
+                    }
+                } else {
+                    console.log("No 'common' array");
+                    return;
+                }
+                if (!ok)
+                    return;
+                // array of transition, usually a VOR
+                var tras = data.transitions;
+                var trl = tras.length;
+                console.log("Got "+trl+" transition arrays");
+                var positions = [];
+                for (i = 0; i < trl; i++) {
+                    var trao = tras[i];
+                    var tra = trao.TRANS;
+                    var tral = tra.length;
+                    console.log("Got "+tral+" transitions");
+                    for (j = 0; j < tral; j++) {
+                        var tr = tra[j];
+                        nod = tr.N;
+                        typ = tr.T;
+                        if (typ == 'vor') {
+                            // getVORPos(vor,pos); // get VOR location
+                            for (k = 0; k < voral; k++) {
+                                vor = vora[k];
+                                if (vor.N == nod) {
+                                    lat = vor.lat;
+                                    lon = vor.lon;
+                                    ll = new LatLon(lat,lon);
+                                    console.log("VOR: "+nod+" "+lat+","+lon);
+                                    if (!valInArray(nod,vornames)) {
+                                        vornames.push(nod);
+                                        vorlist.push(ll);
+                                    }
+                                    break;
+                                }
+                            }
+                            if (k < voral) {
+                                positions.push(ll);
+                            } else {
+                                ok = false;
+                                console.log("Failed to find 'vor' "+nod);
+                            }
+                                
+                        } else if (typ == 'fix') {
+                            // get FIX location
+                            for (k = 0; k < fixal; k++) {
+                                var fix = fixa[k];
+                                if (fix.N == nod) {
+                                    lat = fix.lat;
+                                    lon = fix.lon;
+                                    ll = new LatLon(lat,lon);
+                                    console.log("FIX: "+nod+" "+lat+","+lon);
+                                    if (!valInArray(nod,fixnames)) {
+                                        fixnames.push(nod);
+                                        fixlist.push(ll);
+                                    }
+                                    break;
+                                }
+                            }
+                            if (k < fixal) {
+                                positions.push(ll);
+                            } else {
+                                ok = false;
+                                console.log("Failed to find 'fix' "+nod);
+                            }
+                        } else if (typ == 'com') {
+                            positions.push(cll);
+                            console.log("COM: "+nod+" "+clat+","+clon);
+                        }
+                        if (!ok) break;
+                    }
+                    if (!ok) break;
+                    // paint track in positions
+                    paintSTARs( positions );
+                    positions = [];
+                }
+                if (!ok) return;
+                // finally paint 'common'
+                console.log("Paint final "+comal+" common paths, from "+clat+','+clon);
+                positions = [];
+                for (i = 0; i < comal; i++) {
+                    i2 = i + 1;
+                    com = coma[i];  // get next common
+                    nod = com.N;
+                    typ = com.T;
+                    if (typ == 'vor') {
+                        for (k = 0; k < voral; k++) {
+                            vor = vora[k];
+                            if (vor.N == nod) {
+                                lat = vor.lat;
+                                lon = vor.lon;
+                                ll = new LatLon(lat,lon);
+                                console.log("#"+i2+" VOR: "+nod+" "+lat+","+lon);
+                                if (!valInArray(nod,vornames)) {
+                                    vornames.push(nod);
+                                    vorlist.push(ll);
+                                }
+                                break;
+                            }
+                        }
+                        if (k >= voral) {
+                            ok = false;
+                            console.log("Failed to find 'vor' "+nod);
+                        }
+                    } else if (typ == 'fix') {
+                        for (k = 0; k < fixal; k++) {
+                            fix = fixa[k];
+                            if (fix.N == nod) {
+                                lat = fix.lat;
+                                lon = fix.lon;
+                                ll = new LatLon(lat,lon);
+                                console.log("#"+i2+" FIX: "+nod+" "+lat+","+lon);
+                                if (!valInArray(nod,fixnames)) {
+                                    fixnames.push(nod);
+                                    fixlist.push(ll);
+                                }
+                                break;
+                            }
+                        }
+                        if (k >= fixal) {
+                            ok = false;
+                            console.log("Failed to find 'fix' "+nod);
+                        }
+                    } else {
+                        console.log("'common' NOT 'vor nor 'fix'");
+                        ok = false;
+                    }
+                    if (!ok) break;
+                    positions.push(ll);
+                }
+                if (!ok) return;
+                paintSTARs( positions );
+                // add the navaids
+                paintFixes(fixlist,fixnames);
+                paintVors(vorlist,vornames);
+                console.log("Successful end of paint");
+            } else {
+                console.log("STAR failed - object missing items");
+            }
+        }
+    }
+      
+    function getSTARS() {
+        requestFile( star_mod4, callbackSTAR );
+        requestFile( star_pye6, callbackSTAR );
+        requestFile( star_bsr2, callbackSTAR );
+        requestFile( star_had2, callbackSTAR );
+    }
+    /**
+     * function requestFile( fname, callback );
+     * @param (string)   File name to load
+     * @param (function) Callback funtion on state change
+     * ========== load data files ========
+     */
+    function requestFile( fname, callback ) {
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }  
+    // =======================================================
+    // EVENTS
+    /**
+      * function setGlobalBounds()
+      * Get current 'extent' of the map
+      */
+    function setGlobalBounds() {
+        curr_zoom = map.getZoom();
+        var ext = map.getExtent();
+        //var stg = ext.toBBOX();
+        var mlat,mlon,width,height,uwid,uht;
+        var left = ext.left;
+        var top  = ext.top;
+        var right = ext.right;
+        var bott = ext.bottom;
+        uwid = right - left;
+        uht  = bott - top;
+        var tl = new OpenLayers.LonLat(left,top).transform( toProjection, fromProjection );
+        var br = new OpenLayers.LonLat(right,bott).transform( toProjection, fromProjection );
+        var lat1 = tl.lat;
+        var lon1 = tl.lon;
+        var lat2 = br.lat;
+        var lon2 = br.lon;
+        // set GLOBAL screen bounds - as EPSG:4326, WGS-84 (World Geodetic System)
+        curr_lat1 = lat1;
+        curr_lon1 = lon1;
+        curr_lat2 = lat2;
+        curr_lon2 = lon2;
+        mlat = (lat1 + lat2) / 2;
+        mlon = (lon1 + lon2) / 2;
+        width = getDistance( mlat, lon1, mlat, lon2 );
+        height = getDistance( lat1, mlon, lat2, mlon );
+        console.log("Bounds: TL="+lat1.toFixed(2)+","+lon1.toFixed(2)+
+            " BR="+lat2.toFixed(2)+","+lon2.toFixed(2)+
+            " w="+width.toFixed(1)+" h="+height.toFixed(1)+
+            " km u "+uwid.toFixed(1)+","+uht.toFixed(1)+
+            " z="+curr_zoom);
+    }
+
+    function processChange(evt) {
+        setGlobalBounds();  // establish BOUND of current map
+    }
+    function zoomChanged() {
+        processChange(1);
+    }
+    // sometimes can have 2 or more of these...
+    function moveEnded() {
+        processChange(2);
+    }
+    
+  </script>
+ </head>
+ <body>
+  <div id="basicMap">
+  </div>
+  <script type="text/javascript"
+        defer="defer">
+
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+    var debug = 0;
+    var lat = gup2('lat',def_lat);
+    var lon = gup2('lon',def_lon);
+    var zoom = gup2('zoom',def_zoom);
+    init(lat,lon,zoom);
+    if (debug) {
+        joinFMG2MOD();
+        joinMVA2TRO();
+        joinMOD2GRO();
+        joinGRO2SFO();
+        addIcons();
+    } else {
+        getSTARS();
+    }
+  </script>
+ </body>
+</html>
