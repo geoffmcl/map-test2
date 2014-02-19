@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Flat Spraghetti Monster
+  </title>
+  <style type="text/css">
+    html, body, #basicMap {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <script src="js/OpenLayers.js"
+        type="text/javascript">
+</script>
+  <script src="js/geodesic.js"
+        type="text/javascript">
+</script>
+  <script src="js/xml2json.js"
+        type="text/javascript">
+</script>
+  <script type="text/javascript">
+  var startTime = new Date();
+  var startLoad;
+  var map, mapnik, position, fromProjection, toProjection, markersLayer, lineLayer, circleLayer;
+  var labelsLayer, lowAirways, highAirways;
+  
+  var navaid_url = 'http://navdata.fgx.ch/airport';
+  var load = '';
+  
+  var star_mod4 = 'STAR/mod.mod4.json';
+  var star_pye6 = 'STAR/pye.goldn6.json';
+  var star_bsr2 = 'STAR/bsr.bsr2.json';
+  var star_had2 = 'STAR/bsr.hadly2.json';
+  var ssxml_KSFO = 'SIDSTAR/KSFO.xml';
+  var ssjson_KSFO = 'SIDSTAR/KSFO.json';
+  var xp_airways = 'SIDSTAR/xp-awy.csv';
+  var pete_KSFO = 'SIDSTAR/KSFO-p.json';
+  
+  var airways = [];
+  var awy_found = [];
+  
+  // vor and fixes painted
+  var vorlist = [];
+  var vornames = [];
+  var fixlist = [];
+  var fixnames = [];
+
+  var paintedPos = [];
+  var center_lat, center_lon;
+  
+  var def_lat = 37.78756; //38.7;
+  var def_lon = -122.0;
+  //var def_lat = 37.627375;
+  //var def_lon = -120.95786667;
+  var def_zoom = 9;   //11;  // hard to choose then best init zoom
+  var def_icao = 'KSFO';
+  
+  var curr_lat1,curr_lon1,curr_lat2,curr_lon2;
+  // ==============================================================================
+
+      function init(lat,lon,zoom) {
+        map = new OpenLayers.Map("basicMap", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+       });
+        mapnik         = new OpenLayers.Layer.OSM();
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        position       = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        map.addLayer(mapnik);
+        // map.addControl(new OpenLayers.Control.Permalink('permalink'));
+        map.addControl(new OpenLayers.Control.MousePosition());
+        map.addControl(new OpenLayers.Control.ScaleLine());
+        map.addControl(new OpenLayers.Control.LayerSwitcher());
+
+        var labelStyle = new OpenLayers.Style({
+            externalGraphic: "images/background_trans.png",
+            //externalGraphic: "images/label_background.gif",
+            graphicWidth: "${labelWidth}",
+            graphicHeight: "13", 
+            graphicOpacity: 0.99,
+            graphicXOffset: "${labelOffset}", 
+            graphicYOffset: 14,
+            fillColor: "#000000",
+            fillOpacity: 0.0,
+            strokeWidth: 0.0,
+            label : "${icao}",
+            //fontColor: "#CCCCCC", 
+            fontColor: "#000000", 
+            fontSize: "11px", 
+            fontFamily: "\"DejaVuSansMonoBold\",monospace", 
+            fontWeight: "normal",
+            labelAlign: "center",
+            labelXOffset: "0",
+            labelYOffset: "-22"
+            });
+        labelsLayer = new OpenLayers.Layer.Vector("Labels Layer", {styleMap: labelStyle});
+        map.addLayer(labelsLayer);
+        
+        markersLayer = new OpenLayers.Layer.Markers( "Marker Layer" );
+        map.addLayer(markersLayer);
+        lineLayer = new OpenLayers.Layer.Vector("Line Layer");
+        map.addLayer(lineLayer);
+        circleLayer = new OpenLayers.Layer.Vector("Circle Layer");
+        map.addLayer(circleLayer);
+        lowAirways = new OpenLayers.Layer.Vector("Low Airways");
+        map.addLayer(lowAirways);
+        highAirways = new OpenLayers.Layer.Vector("High Airways");
+        map.addLayer(highAirways);
+        
+        markersLayer.addMarker(new OpenLayers.Marker(position));
+        map.setCenter(position, zoom );
+        center_lat = position.lat;
+        center_lon = position.lon;
+        
+        setGlobalBounds();
+        map.events.register('zoomend', undefined, zoomChanged);
+        map.events.register('moveend', undefined, moveEnded);
+        
+      }
+    function addLabel2Layer(icao, lon, lat, layer) {
+        var point =  new OpenLayers.Geometry.Point(lon,lat).transform( fromProjection, toProjection); 
+        var labelFeature = new OpenLayers.Feature.Vector(point);
+        labelFeature.id = "label"+icao;
+        labelFeature.attributes.icao = icao;
+        // This calculates label background width and offset
+        labelWidth = 8 * icao.length;
+        labelOffset = labelWidth / 2 * -1.0;
+        labelFeature.attributes.labelWidth = labelWidth;
+        labelFeature.attributes.labelOffset = labelOffset;
+        layer.addFeatures([labelFeature]);
+        return labelFeature;
+    }
+    /**
+     * function addLabel(icao, lon, lat);
+     * @param (string) ICAO to paint
+     * @param (number) Degree of longitude
+     * @param (number) Degree of latitude
+     * Add a label for an airport contianing ICAO
+     */
+    function addLabel(icao, lon, lat) {
+        return addLabel2Layer(icao, lon, lat, labelsLayer);
+    }
+      
+      function addFixatPos( pos ) {
+        var icon = new OpenLayers.Icon('images/FIX-30x30.png');
+        var mark = new OpenLayers.Marker(pos, icon);
+        markersLayer.addMarker(mark);
+      }
+      
+      function addVoratPos( pos ) {
+        var icon = new OpenLayers.Icon('data/img/VOR-DME-50x43.gif');
+        var mark = new OpenLayers.Marker(pos, icon);
+        markersLayer.addMarker(mark);
+      }
+      
+      
+      function ss_paintLine( lat1, lon1, lat2, lon2, style ) {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        var lineFeat = new OpenLayers.Feature.Vector(line, null, style);
+        lineLayer.addFeatures([lineFeat]);
+      }
+      function ss_putLine4( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 4,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      
+      function ss_putLine2( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 2,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      function ss_putLine1( lat1, lon1, lat2, lon2 ) {
+        var blk_style = { 
+            strokeColor: '#000000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 1,
+            fill: false
+        };
+        ss_paintLine( lat1, lon1, lat2, lon2, blk_style );
+      }
+      
+    function paintSTAR( lat1, lon1, lat2, lon2 ) {
+        var dist = 2.0;
+        //ss_putLine2( lat1, lon1, lat2, lon2 );
+        //console.log("Line2: "+lat1+","+lon1+" to "+lat2+","+lon2 );
+        var brng = getBearing(lat1,lon1,lat2,lon2);
+        //console.log("Bearing "+brng+" from "+lat1+','+lon1+" to "+lat2+','+lon2);
+        var b1, p1, p2;
+        b1 = brng - 90.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        ss_putLine1( p1._lat, p1._lon, p2._lat, p2._lon );
+        //console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+        b1 -= 180.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        ss_putLine1( p1._lat, p1._lon, p2._lat, p2._lon );
+        //console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+    }
+      
+    function paintSTARs( pos ) {
+        var len = pos.length;
+        var i, lat1, lon1, lat2, lon2;
+        if (len < 2)
+            return;
+        for (i = 1; i < len; i++) {
+            lat1 = pos[i-1]._lat;
+            lon1 = pos[i-1]._lon;
+            lat2 = pos[i]._lat;
+            lon2 = pos[i]._lon;
+            paintSTAR( lat1, lon1, lat2, lon2 );
+        }
+    }
+    
+    function valInArray(s,a ) {
+        var i, t;
+        var max = a.length;
+        for (i = 0; i < max; i++) {
+            t = a[i];
+            if ( s == t )
+                return true;
+        }
+        return false;
+    }
+    
+    function paintFixes(fixlist,fixnames) {
+        var max = fixlist.length;
+        var i,ll,name,pos,point,circle,feat;
+        var fix_style = { 
+            strokeColor: '#004000',
+            strokeOpacity: 0.5,
+            strokeWidth: 2, 
+            fill: false };
+        for (i = 0; i < max; i++) {
+            ll = fixlist[i];
+            pos = new OpenLayers.LonLat(ll._lon,ll._lat).transform( fromProjection, toProjection);
+            // put a green circle
+            point = new OpenLayers.Geometry.Point(pos.lon, pos.lat);
+            circle = OpenLayers.Geometry.Polygon.createRegularPolygon(point,6000,20,0 );
+            feat = new OpenLayers.Feature.Vector(circle, null, fix_style);
+            circleLayer.addFeatures([feat]);
+            name = fixnames[i];
+            addLabel(name, ll._lon, ll._lat);
+            addFixatPos(pos);   // FIX
+        }
+    }
+    function paintVors(vorlist,vornames) {
+        var max = vorlist.length;
+        var i,ll,name,pos;
+        for (i = 0; i < max; i++) {
+            ll = vorlist[i];
+            name = vornames[i];
+            addLabel(name, ll._lon, ll._lat);
+            pos = new OpenLayers.LonLat(ll._lon,ll._lat).transform( fromProjection, toProjection);
+            addVoratPos(pos);   // VOR
+        }
+    
+    }
+    function callbackSTAR() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text,data;
+            var ok = false;
+            text = this.responseText;
+            data = JSON.parse(text);
+            //console.log(text);
+            var compos;
+            
+            if (data.transitions && data.VORS && data.FIXES && data.common) {
+                var i,j,k,lat,lon,com,cnod,cll,ll,nod,typ,vor,fix,clat,clon,i2;
+                var vora = data.VORS;
+                var voral = vora.length;
+                var fixa = data.FIXES;
+                var fixal = fixa.length;
+                var coma = data.common;
+                var comal = coma.length;
+                if (comal) {
+                    ok = true;
+                    com = coma[0];  // get first common
+                    cnod = com.N;
+                    typ = com.T;
+                    if (typ == 'vor') {
+                        for (k = 0; k < voral; k++) {
+                            vor = vora[k];
+                            if (vor.N == cnod) {
+                                clat = vor.lat;
+                                clon = vor.lon;
+                                cll = new LatLon(clat,clon);
+                                //cpos = new OpenLayers.LonLat(clon,clat).transform( fromProjection, toProjection );
+                                //console.log("com1: "+typ+" "+cnod+" "+clat+","+clon+" pos: "+cpos.lat+','+cpos.lon);
+                                console.log("com1: "+typ+" "+cnod+" "+clat+","+clon);
+                                vornames.push(cnod);
+                                vorlist.push(cll);
+                                break;
+                            }
+                        }
+                        if (k >= voral) {
+                            ok = false;
+                            console.log("Failed to find 'vor' "+nod);
+                        }
+                    } else if (typ == 'fix') {
+                        for (k = 0; k < fixal; k++) {
+                            fix = fixa[k];
+                            if (fix.N == cnod) {
+                                clat = fix.lat;
+                                clon = fix.lon;
+                                cll = new LatLon(clat,clon);
+                                console.log("com1: "+typ+" "+cnod+" "+clat+","+clon);
+                                fixnames.push(cnod);
+                                fixlist.push(cll);
+                                break;
+                            }
+                        }
+                        if (k >= fixal) {
+                            ok = false;
+                            console.log("Failed to find 'fix' "+nod);
+                        }
+                    
+                    } else {
+                        console.log("First 'common' no 'vor nor 'fix'");
+                        ok = false;
+                    }
+                } else {
+                    console.log("No 'common' array");
+                    return;
+                }
+                if (!ok)
+                    return;
+                // array of transition, usually a VOR
+                var tras = data.transitions;
+                var trl = tras.length;
+                console.log("Got "+trl+" transition arrays");
+                var positions = [];
+                for (i = 0; i < trl; i++) {
+                    var trao = tras[i];
+                    var tra = trao.TRANS;
+                    var tral = tra.length;
+                    console.log("Got "+tral+" transitions");
+                    for (j = 0; j < tral; j++) {
+                        var tr = tra[j];
+                        nod = tr.N;
+                        typ = tr.T;
+                        if (typ == 'vor') {
+                            // getVORPos(vor,pos); // get VOR location
+                            for (k = 0; k < voral; k++) {
+                                vor = vora[k];
+                                if (vor.N == nod) {
+                                    lat = vor.lat;
+                                    lon = vor.lon;
+                                    ll = new LatLon(lat,lon);
+                                    console.log("VOR: "+nod+" "+lat+","+lon);
+                                    if (!valInArray(nod,vornames)) {
+                                        vornames.push(nod);
+                                        vorlist.push(ll);
+                                    }
+                                    break;
+                                }
+                            }
+                            if (k < voral) {
+                                positions.push(ll);
+                            } else {
+                                ok = false;
+                                console.log("Failed to find 'vor' "+nod);
+                            }
+                                
+                        } else if (typ == 'fix') {
+                            // get FIX location
+                            for (k = 0; k < fixal; k++) {
+                                var fix = fixa[k];
+                                if (fix.N == nod) {
+                                    lat = fix.lat;
+                                    lon = fix.lon;
+                                    ll = new LatLon(lat,lon);
+                                    console.log("FIX: "+nod+" "+lat+","+lon);
+                                    if (!valInArray(nod,fixnames)) {
+                                        fixnames.push(nod);
+                                        fixlist.push(ll);
+                                    }
+                                    break;
+                                }
+                            }
+                            if (k < fixal) {
+                                positions.push(ll);
+                            } else {
+                                ok = false;
+                                console.log("Failed to find 'fix' "+nod);
+                            }
+                        } else if (typ == 'com') {
+                            positions.push(cll);
+                            console.log("COM: "+nod+" "+clat+","+clon);
+                        }
+                        if (!ok) break;
+                    }
+                    if (!ok) break;
+                    // paint track in positions
+                    paintSTARs( positions );
+                    positions = [];
+                }
+                if (!ok) return;
+                // finally paint 'common'
+                console.log("Paint final "+comal+" common paths, from "+clat+','+clon);
+                positions = [];
+                for (i = 0; i < comal; i++) {
+                    i2 = i + 1;
+                    com = coma[i];  // get next common
+                    nod = com.N;
+                    typ = com.T;
+                    if (typ == 'vor') {
+                        for (k = 0; k < voral; k++) {
+                            vor = vora[k];
+                            if (vor.N == nod) {
+                                lat = vor.lat;
+                                lon = vor.lon;
+                                ll = new LatLon(lat,lon);
+                                console.log("#"+i2+" VOR: "+nod+" "+lat+","+lon);
+                                if (!valInArray(nod,vornames)) {
+                                    vornames.push(nod);
+                                    vorlist.push(ll);
+                                }
+                                break;
+                            }
+                        }
+                        if (k >= voral) {
+                            ok = false;
+                            console.log("Failed to find 'vor' "+nod);
+                        }
+                    } else if (typ == 'fix') {
+                        for (k = 0; k < fixal; k++) {
+                            fix = fixa[k];
+                            if (fix.N == nod) {
+                                lat = fix.lat;
+                                lon = fix.lon;
+                                ll = new LatLon(lat,lon);
+                                console.log("#"+i2+" FIX: "+nod+" "+lat+","+lon);
+                                if (!valInArray(nod,fixnames)) {
+                                    fixnames.push(nod);
+                                    fixlist.push(ll);
+                                }
+                                break;
+                            }
+                        }
+                        if (k >= fixal) {
+                            ok = false;
+                            console.log("Failed to find 'fix' "+nod);
+                        }
+                    } else {
+                        console.log("'common' NOT 'vor nor 'fix'");
+                        ok = false;
+                    }
+                    if (!ok) break;
+                    positions.push(ll);
+                }
+                if (!ok) return;
+                paintSTARs( positions );
+                // add the navaids
+                paintFixes(fixlist,fixnames);
+                paintVors(vorlist,vornames);
+                console.log("Successful end of paint");
+            } else {
+                console.log("STAR failed - object missing items");
+            }
+        }
+    }
+    
+    function isArray(o) {
+        return Object.prototype.toString.apply(o) === '[object Array]';
+    }
+
+    function parseNode(xmlNode, result) {
+        if(xmlNode.nodeName == "#text" && xmlNode.nodeValue.trim() == "") {
+            return;
+        }
+
+        var i;
+        var jsonNode = {};
+        var existing = result[xmlNode.nodeName];
+        if(existing) {
+            if(!isArray(existing)) {
+                result[xmlNode.nodeName] = [existing, jsonNode];
+            } else {
+                result[xmlNode.nodeName].push(jsonNode);
+            }
+        } else {
+            if(xmlNode.arrayTags && (xmlNode.arrayTags.indexOf(xmlNode.nodeName) != -1)) {
+                result[xmlNode.nodeName] = [jsonNode];
+            } else {
+                result[xmlNode.nodeName] = jsonNode;
+            }
+        }
+
+        if(xmlNode.attributes) {
+            var length = xmlNode.attributes.length;
+            for(i = 0; i < length; i++) {
+                var attribute = xmlNode.attributes[i];
+                jsonNode[attribute.nodeName] = attribute.nodeValue;
+            }
+        }
+
+        var length = xmlNode.childNodes.length;
+        for(i = 0; i < length; i++) {
+            parseNode(xmlNode.childNodes[i], jsonNode);
+        }
+    }
+
+    function callbackSSXML() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var result = {};
+            var text,xmlDoc,xml,json,data;
+            var ok = false;
+            text = this.responseText;
+            if (this.responseXML) {
+                xml = this.responseXML;
+                if (xml.childNodes && xml.childNodes.length) {
+                    console.log("Have xml.childNodes.length = "+xml.childNodes.length);
+                    //parseNode(xml.childNodes[0], result);
+                    try {
+                        json = xml2json(xml);
+                        // json.replace("undefined","");
+                        try {
+                            data = JSON.parse(json);
+                            console.log("Done ICAO xml2json");
+                        } catch(err) {
+                            console.log("JSON.parse failed: "+err.message);
+                            console.log(json);
+                        }
+                    } catch(err) {
+                        console.log("ICAO xml2json failed: "+err.message);
+                    }
+                }
+            }
+            if (window.DOMParser) {
+                var parser = new DOMParser();
+                xmlDoc = parser.parseFromString(text,"text/xml");
+            } else {
+                // Internet Explorer
+                xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+                xmlDoc.async=false;
+                xmlDoc.loadXML(text); 
+            }
+            
+            if(xmlDoc.childNodes.length) {
+                console.log("Got childNodes len " + xmlDoc.childNodes.length);
+                /* xml2json FAILS to give valid JSON!!!
+                try {
+                    json = xml2json(xmlDoc);
+                    json.replace("undefined","");
+                    try {
+                        data = JSON.parse(json);
+                        console.log("Done ICAO xml2json");
+                    } catch(err) {
+                        console.log("JSON.parse failed: "+err.message);
+                        console.log(json);
+                    }
+                } catch(err) {
+                    console.log("ICAO xml2json failed: "+err.message);
+                }
+                  ========================================= */
+                /* all this FAILED as well 
+                parseNode(xmlDoc.childNodes[0], result);
+                if (result && result.ProceduresDB) {
+                    if (isArray(result.ProceduresDB)) {
+                        console.log("Got result ProceduresDB array");
+                    } else {
+                        var sido,appa,stara;
+                        console.log("Got result ProceduresDB object");
+                        var proco = result.ProceduresDB;
+                        if (proco.build) {
+                            console.log("build: "+proco.build);
+                        }
+                        if (proco.Airport) {
+                            var i, j, wpo, wpl, lato, lono, wpa, tmp;
+                            var apo = proco.Airport;
+                            if (apo.Sid) {
+                                sido = apo.Sid;
+                            }
+                            if (apo.Approach) {
+                                appa = apo.Approach;
+                            }
+                            if (apo.Star) {
+                                stara = apo.Star;
+                                if (stara.length) {
+                                    var len = stara.length;
+                                    for (i = 0; i < len; i++) {
+                                        var staro = stara[i];
+                                        if (staro.Star_Waypoint && staro.Star_Waypoint.length) {
+                                            wpl = staro.Star_Waypoint.length;
+                                            wpa = staro.Star_Waypoint;
+                                            for (j = 0; j < wpl; j++) {
+                                                wpo = wpa[j];
+                                                //var ID = wpo.ID;
+                                                lato = wpo.Latitude;
+                                                //tmp = lato.toString(); // [object object]
+                                                //tmp = lato.get(); // fails
+                                                tmp = lato.valueOf();
+                                                lono = wpo.Longitude;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                } else {
+                    console.log("No result.ProceduresDB");
+                }
+                  ========================================= */
+                console.log("Done XML doc");
+            } else {
+                console.log("No xmlDoc.childNodes.length");
+            }
+        }
+    }
+    
+    function paintAFix(name,lat,lon) {
+        var pos,point,circle,feat;
+        var fix_style = { 
+            strokeColor: '#004000',
+            strokeOpacity: 0.5,
+            strokeWidth: 2, 
+            fill: false };
+        pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        // put a green circle
+        point = new OpenLayers.Geometry.Point(pos.lon, pos.lat);
+        circle = OpenLayers.Geometry.Polygon.createRegularPolygon(point,6000,20,0 );
+        feat = new OpenLayers.Feature.Vector(circle, null, fix_style);
+        circleLayer.addFeatures([feat]);
+        addLabel(name, lon, lat);
+        addFixatPos(pos);   // FIX
+    }
+    function paintICAOStar(sobj) {
+        var i,wpa,wpl,msg,wp,nm,lat,lon,typ,pos,lat1,lon1;
+        var done = [];
+        for (i in sobj) {
+            wpa = sobj[i];
+            wpl = wpa.length;
+            msg = i+' -> ';
+            for (j = 0; j < wpl; j++) {
+                wp = wpa[j];
+                //          0  1   2   3   4   5 
+                //wp.push( [nm,typ,alt,lat,lon,spd] );
+                nm = wp[0];
+                typ = wp[1];
+                lat = wp[3];
+                lon = wp[4];
+                msg += nm+' ';
+                if (j) {
+                    paintSTAR( lat1, lon1, lat, lon );
+                }
+                if (!valInArray(nm,done)) {
+                    done.push(nm);
+                    pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+                    paintedPos.push(pos);
+                    if (nm.length == 3) {
+                        addLabel(nm, lon, lat);
+                        addVoratPos(pos);   // VOR
+                    } else {
+                        paintAFix(nm,lat,lon);
+                        //addFixatPos(pos);   // FIX
+                    }
+                }
+                lat1 = lat;
+                lon1 = lon;
+            }
+            console.log(msg);
+        }
+    }
+
+    function callbackSSJSON() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text,data,proo,airo,appa,sido,stara,alen,i,name,staro,wpa,wpl,j,wpo;
+            var alt,nm,lat,lon,spd,msg,wp;
+            var chcnt = 0;
+            var dmecnt = 0;
+            var holdcnt = 0;
+            var intcnt = 0;
+            var normcnt = 0;
+            var veccnt = 0;
+            var othcnt = 0;
+            var ok = false;
+            var cnt = 0;
+            var names = '';
+            var wpoints = '';
+            var starsobj = {};
+            text = this.responseText;
+            data = JSON.parse(text);
+            if (data.ProceduresDB) {
+                proo = data.ProceduresDB;
+                if (proo.build) {
+                    console.log("build: "+proo.build);
+                }
+                if (proo.Airport) {
+                    airo = proo.Airport;
+                    if (airo.Approach) {
+                        appa = airo.Approach;
+                        cnt++;
+                    }
+                    if (airo.Sid) {
+                        sido = airo.Sid;
+                        cnt++;
+                    }
+                    if (airo.Star) {
+                        stara = airo.Star;
+                        alen = stara.length;
+                        for (i = 0; i < alen; i++) {
+                            staro = stara[i];
+                            name = staro.Name;
+                            names += name+' ';
+                            wpa = staro.Star_Waypoint;
+                            wpl = wpa.length;
+                            var waypoints = [];
+                            for (j = 0; j < wpl; j++) {
+                                wpo = wpa[j];
+                                typ = wpo.Type;
+                                nm  = wpo.Name;
+                                wpoints += nm+' ';
+                                alt = parseInt(wpo.Altitude);
+                                lat = parseFloat(wpo.Latitude);
+                                lon = parseFloat(wpo.Longitude);
+                                spd = parseInt(wpo.Speed);
+                                waypoints.push( [nm,typ,alt,lat,lon,spd] );
+                                if (typ == 'ConstHdgtoAlt') {
+                                    chcnt++;
+                                } else if (typ == 'DmeIntc') {
+                                    dmecnt++;
+                                } else if (typ == 'Hold') {
+                                    holdcnt++;
+                                } else if (typ == 'Intc') {
+                                    intcnt++;
+                                } else if (typ == 'Normal') {
+                                    normcnt++;
+                                } else if (typ == 'Vectors') {
+                                    veccnt++;
+                                } else {
+                                    othcnt++;
+                                }
+                            }
+                            starsobj[name] = waypoints;
+                        }
+                        cnt++;
+                    }
+                }
+            }
+            if (cnt == 3) {
+                msg = "Got sid/star json";
+                msg += " ch="+chcnt;
+                msg += " dme="+dmecnt;
+                msg += " hold="+holdcnt;
+                msg += " int="+intcnt;
+                msg += " norm="+normcnt;
+                msg += " vec="+veccnt;
+                msg += " oth="+othcnt;
+                console.log(msg);
+                console.log(names);
+                console.log(wpoints);
+                paintICAOStar(starsobj);
+            }
+        }
+    }
+    
+    function searchAirways( lat1, lon1, lat2, lon2 ) {
+        var max = airways.length;
+        //  0    1      2    3    4      5    6    7  8
+        var Name,BgnInt,blat,blon,EndInt,elat,elon,HL,Base,Top;
+        var i,awy;
+        // R464,00MKK,22.528056,-156.170961,BITTA,23.528031,-155.478836,1,012,460
+        for (i = 0; i < max; i++) {
+            awy = airways[i];
+            blat = parseFloat(awy[2]);
+            blon = parseFloat(awy[3]);
+            if ((blat <= lat1)&&(blat >= lat2)&&
+                (blon >= lon1)&&(blon <= lon2)) {
+                awy_found.push(awy);
+            } else {
+                elat = parseFloat(awy[5]);
+                elon = parseFloat(awy[6]);
+                if ((elat <= lat1)&&(elat >= lat2)&&
+                    (elon >= lon1)&&(elon <= lon2)) {
+                    awy_found.push(awy);
+                }
+            }
+        }
+        return awy_found;
+    }
+    
+    function awy_putLine( lat1, lon1, lat2, lon2, HL ) {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        if (HL == 2) {
+            var high_style = { 
+                strokeColor: '#ff00ff', 
+                strokeOpacity: 0.3,
+                strokeWidth: 1,
+                fill: false
+            };
+            var lineFeat = new OpenLayers.Feature.Vector(line, null, high_style);
+            highAirways.addFeatures([lineFeat]);
+        } else {
+            var low_style = { 
+                strokeColor: '#ff8000', 
+                strokeOpacity: 0.3,
+                strokeWidth: 1,
+                fill: false
+            };
+            var lineFeat = new OpenLayers.Feature.Vector(line, null, low_style);
+            lowAirways.addFeatures([lineFeat]);
+        }
+    }
+    
+    function awy_putLines( lat1, lon1, lat2, lon2, HL ) {
+        var dist = 4.0;
+        var brng = getBearing(lat1,lon1,lat2,lon2);
+        //console.log("Bearing "+brng+" from "+lat1+','+lon1+" to "+lat2+','+lon2);
+        var b1, p1, p2;
+        b1 = brng - 90.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        awy_putLine( p1._lat, p1._lon, p2._lat, p2._lon, HL );
+        //console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+        b1 -= 180.0;
+        if (b1 < 0) b1 += 360.0;
+        p1 = getDirect(lat1,lon1,b1,dist);
+        p2 = getDirect(lat2,lon2,b1,dist);
+        awy_putLine( p1._lat, p1._lon, p2._lat, p2._lon, HL );
+        //console.log("Line1: "+p1._lat+","+p1._lon+" to "+p2._lat+","+p2._lon );
+    
+    }
+    
+    
+    function paintAirways() {
+        var max = awy_found.length;
+        //  0    1      2    3    4      5    6    7  8
+        var Name,BgnInt,blat,blon,EndInt,elat,elon,HL,Base,Top;
+        var i,awy;
+        for (i = 0; i < max; i++) {
+            awy = awy_found[i];
+            blat = parseFloat(awy[2]);
+            blon = parseFloat(awy[3]);
+            elat = parseFloat(awy[5]);
+            elon = parseFloat(awy[6]);
+            HL   = parseInt(awy[7]);
+            awy_putLines( blat, blon, elat, elon, HL );
+        }
+    }
+
+    
+    function callbackXPCSV() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text = this.responseText;
+            var dataLines = text.split(/\r\n|\n/);
+            var max = dataLines.length;
+            var separator = ',';
+            for ( var i = 1; i < max; i++ ) {
+                airways.push( dataLines[i].split( separator ) );
+            }
+            max = airways.length;
+            var awya = searchAirways( curr_lat1, curr_lon1, curr_lat2, curr_lon2 );
+            paintAirways();
+            var d = new Date();
+            var ms = d.valueOf() - startTime.valueOf();
+            console.log( 'Loaded airways '+max+', found '+awya.length+' in '+ms+' ms');
+            requestFile( ssjson_KSFO, callbackSSJSON );
+        }
+    }
+    
+    function callbackNAVDATA() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text = this.responseText;
+            var data = JSON.parse(text);
+            var apto = data.airport;
+            var appo = data.approach;
+            var sido = data.sid;
+            var staro = data.star;
+            var s,wpo,wpa,wpl,i,wp,name,nm,lat,lon,typ,spd,ok,msg;
+            var waypoints = [];
+            var starobj = {};
+            var appobj = {};
+            var chcnt = 0;
+            var dmecnt = 0;
+            var holdcnt = 0;
+            var intcnt = 0;
+            var normcnt = 0;
+            var veccnt = 0;
+            var runcnt = 0;
+            var othcnt = 0;
+            for ( s in staro ) {
+                if (staro.hasOwnProperty(s)) {
+                    wpo = staro[s];
+                    name = wpo.name;
+                    wpa = wpo.waypoints;
+                    wpl = wpa.length;
+                    waypoints = [];
+                    for (i = 0; i < wpl; i++) {
+                        wp = wpa[i];
+                        nm = wp.name;
+                        lat = parseFloat(wp.latitude);
+                        lon = parseFloat(wp.longitude);
+                        typ = wp.type;
+                        alt = parseInt(wp.altitude,10);
+                        spd = parseInt(wp.speed,10);
+                        ok = false;
+                        if (typ == 'ConstHdgtoAlt') {
+                            chcnt++;
+                        } else if (typ == 'DmeIntc') {
+                            dmecnt++;
+                        } else if (typ == 'Hold') {
+                            holdcnt++;
+                        } else if (typ == 'Intc') {
+                            intcnt++;
+                        } else if (typ == 'Normal') {
+                            normcnt++;
+                            ok = true;
+                        } else if (typ == 'Vectors') {
+                            veccnt++;
+                        } else if (typ == 'Runway') {
+                            runcnt++;
+                        } else {
+                            othcnt++;
+                        }
+                        if (ok) {
+                            waypoints.push( [nm,typ,alt,lat,lon,spd] );
+                        }
+                    }
+                    starobj[name] = waypoints;
+                }
+            }
+            for (s in appo) {
+                if (appo.hasOwnProperty(s)) {
+                    wpo = appo[s];
+                    name = wpo.name;
+                    wpa = wpo.waypoints;
+                    wpl = wpa.length;
+                    waypoints = [];
+                    for (i = 0; i < wpl; i++) {
+                        wp = wpa[i];
+                        nm = wp.name;
+                        lat = parseFloat(wp.latitude);
+                        lon = parseFloat(wp.longitude);
+                        typ = wp.type;
+                        alt = parseInt(wp.altitude,10);
+                        spd = parseInt(wp.speed,10);
+                        ok = false;
+                        if (typ == 'ConstHdgtoAlt') {
+                            chcnt++;
+                        } else if (typ == 'DmeIntc') {
+                            dmecnt++;
+                        } else if (typ == 'Hold') {
+                            holdcnt++;
+                        } else if (typ == 'Intc') {
+                            intcnt++;
+                        } else if (typ == 'Normal') {
+                            normcnt++;
+                            ok = true;
+                        } else if (typ == 'Vectors') {
+                            veccnt++;
+                        } else if (typ == 'Runway') {
+                            runcnt++;
+                        } else {
+                            othcnt++;
+                        }
+                        if (ok) {
+                            waypoints.push( [nm,typ,alt,lat,lon,spd] );
+                        }
+                    }
+                    appobj[name] = waypoints;
+                }
+            }
+            paintICAOStar(starobj);
+            paintICAOStar(appobj);
+            zoomToBoundsPainted(paintedPos);
+            //console.log( 'Loaded and painted Pete');
+            msg = "loaded "+load;
+            msg += " ch="+chcnt;
+            msg += " dme="+dmecnt;
+            msg += " hold="+holdcnt;
+            msg += " int="+intcnt;
+            msg += " norm="+normcnt;
+            msg += " run="+runcnt;
+            msg += " vec="+veccnt;
+            msg += " oth="+othcnt;
+            var d = new Date();
+            var ms = d.valueOf() - startLoad.valueOf();
+            var elap = ms2hhmmss(ms);
+            msg += " in "+elap;
+            console.log(msg);
+        }
+    }
+    
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+    
+    // In case we zoom to one plane we center the map
+    // In case it there are more than one plane selected we zoom to bounds. Hah!
+    function zoomToBoundsPainted(selected) {
+        var bounds = new OpenLayers.Bounds();
+        var lon, lat, i;
+        var max = selected.length;
+        var clat = 0;
+        var clon = 0;
+        if ( max > 1) {
+            // have more than one selected
+            for ( i = 0; i < max; i++) {
+                lon = selected[i].lon;
+                lat = selected[i].lat;
+                clat += lat;
+                clon += lon;
+                bounds.extend(new OpenLayers.LonLat(lon,lat));
+                bounds.toBBOX();
+            }
+            map.zoomToExtent(bounds);
+            console.log("BBOX: " + bounds.toString());
+        } else if (max) {
+            // our first selection
+            lon = selected[0].lon;
+            lat = selected[0].lat;
+            clat += lat;
+            clon += lon;
+            var zoompoint = new OpenLayers.LonLat(lon, lat);
+            map.setCenter(zoompoint, 9);
+        }
+        if ( max ) {
+            //center_lat = lat / max;
+            //center_lon = lon / max;
+            var pt = map.getCenter().transform(map.getProjectionObject(),
+                                       new OpenLayers.Projection("EPSG:4326"));
+            //var pt =  new OpenLayers.Geometry.Point(center_lon,center_lat).transform( toProjection, fromProjection ); 
+            //var pos = new OpenLayers.Geometry.Point(center_lon,center_lat);
+            var pos       = new OpenLayers.LonLat(pt.lon,pt.lat).transform( fromProjection, toProjection);
+            center_lon = pos.lon;
+            center_lat = pos.lat;
+            markersLayer.addMarker(new OpenLayers.Marker(pos));
+            console.log("Center: lon=" + pt.lon + ", lat=" + pt.lat + " map "+center_lon+','+center_lat);
+            setGlobalBounds();
+        }
+    }
+    
+    function getSTARS(icao) {
+        //requestFile( star_mod4, callbackSTAR );
+        //requestFile( star_pye6, callbackSTAR );
+        //requestFile( star_bsr2, callbackSTAR );
+        //requestFile( star_had2, callbackSTAR );
+        //requestFile( ssxml_KSFO, callbackSSXML );
+        //requestFile( ssjson_KSFO, callbackSSJSON );
+        //requestFile( xp_airways, callbackXPCSV );
+        //requestFile( pete_KSFO, callbackNAVDATA );
+        load = icao;
+        startLoad = new Date();
+        requestFile( navaid_url+'/'+icao+'.json', callbackNAVDATA );
+        
+    }
+    /**
+     * function requestFile( fname, callback );
+     * @param (string)   File name to load
+     * @param (function) Callback funtion on state change
+     * ========== load data files ========
+     */
+    function requestFile( fname, callback ) {
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }  
+    // =======================================================
+    // EVENTS
+    /**
+      * function setGlobalBounds()
+      * Get current 'extent' of the map
+      */
+    function setGlobalBounds() {
+        curr_zoom = map.getZoom();
+        var ext = map.getExtent();
+        //var stg = ext.toBBOX();
+        var mlat,mlon,width,height,uwid,uht;
+        var left = ext.left;
+        var top  = ext.top;
+        var right = ext.right;
+        var bott = ext.bottom;
+        uwid = right - left;
+        uht  = bott - top;
+        var tl = new OpenLayers.LonLat(left,top).transform( toProjection, fromProjection );
+        var br = new OpenLayers.LonLat(right,bott).transform( toProjection, fromProjection );
+        var lat1 = tl.lat;
+        var lon1 = tl.lon;
+        var lat2 = br.lat;
+        var lon2 = br.lon;
+        // set GLOBAL screen bounds - as EPSG:4326, WGS-84 (World Geodetic System)
+        curr_lat1 = lat1;
+        curr_lon1 = lon1;
+        curr_lat2 = lat2;
+        curr_lon2 = lon2;
+        mlat = (lat1 + lat2) / 2;
+        mlon = (lon1 + lon2) / 2;
+        width = getDistance( mlat, lon1, mlat, lon2 );
+        height = getDistance( lat1, mlon, lat2, mlon );
+        console.log("Bounds: TL="+lat1.toFixed(2)+","+lon1.toFixed(2)+
+            " BR="+lat2.toFixed(2)+","+lon2.toFixed(2)+
+            " w="+width.toFixed(1)+" h="+height.toFixed(1)+
+            " km u "+uwid.toFixed(1)+","+uht.toFixed(1)+
+            " z="+curr_zoom);
+    }
+
+    function processChange(evt) {
+        setGlobalBounds();  // establish BOUND of current map
+    }
+    function zoomChanged() {
+        processChange(1);
+    }
+    // sometimes can have 2 or more of these...
+    function moveEnded() {
+        processChange(2);
+    }
+    
+  </script>
+ </head>
+ <body>
+  <div id="basicMap">
+  </div>
+  <script type="text/javascript"
+        defer="defer">
+
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+    var lat = gup2('lat',def_lat);
+    var lon = gup2('lon',def_lon);
+    var zoom = gup2('zoom',def_zoom);
+    var icao = gup2('icao',def_icao);
+    init(lat,lon,zoom);
+    getSTARS(icao);
+  </script>
+ </body>
+</html>
