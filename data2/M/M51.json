@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M51","name":"Oktibbeha","lat":33.4975241666667,"lon":-88.681334,"rwys":3,"ils":0,"elev":250,"index":1498841,"path":"w090n30/w089n33"
+,"runways":[
+{"len_m":951,"wid_m":45.72,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":33.49747693,"lon1":-88.68645385,"rwy2":"27","lat2":33.49760707,"lon2":-88.67621215},
+{"len_m":829,"wid_m":45.72,"hdg":137,"surf":"Turf/grass","rwy1":"13","lat1":33.50053600,"lon1":-88.68449400,"rwy2":"31","lat2":33.49498100,"lon2":-88.67852200},
+{"len_m":664,"wid_m":45.72,"hdg":184,"surf":"Turf/grass","rwy1":"18","lat1":33.50025800,"lon1":-88.68088300,"rwy2":"36","lat2":33.49428600,"lon2":-88.68143900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.25,"desc":"COLUMBUS CLNC DEL"},
+{"type":"APP","freq":135.6,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+]
+}

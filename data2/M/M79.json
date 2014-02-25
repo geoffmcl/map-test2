@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M79","name":"John H Hooks Jr Memorial","lat":32.4854195,"lon":-91.77053025,"rwys":2,"ils":0,"elev":83,"index":1449624,"path":"w100n30/w092n32"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":32.49082500,"lon1":-91.77214400,"rwy2":"36","lat2":32.47984200,"lon2":-91.77256900},
+{"len_m":670,"wid_m":30.48,"hdg":91,"surf":"Turf/grass","rwy1":"09","lat1":32.48560300,"lon1":-91.77226900,"rwy2":"27","lat2":32.48540800,"lon2":-91.76513900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":126.9,"desc":"MONROE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MGTK","name":"Mundo Maya Intl","lat":16.9138195,"lon":-89.866382,"rwys":1,"ils":1,"elev":427,"index":1481401,"path":"w090n10/w090n16"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":110,"surf":"Concrete","rwy1":"10","lat1":16.91865300,"lon1":-89.87953600,"rwy2":"28","lat2":16.90898600,"lon2":-89.85322800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120,"desc":"TIKAL CLNC"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TIKAL TWR"},
+{"type":"APP","freq":121.4,"desc":"TIKAL APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":16.90854400,"lon":-89.85180600,"rng_nm":18,"alt_fmsl":386,"hdg":110.86,"id":"ITKL","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":16.91837500,"lon":-89.87639200,"rng_nm":10,"alt_fmsl":386,"id":"ITKL","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":16.91837500,"lon":-89.87639200,"rng_nm":18,"alt_fmsl":380,"id":"ITKL","rwy":"10","desc":"DME-ILS"}
+]
+}

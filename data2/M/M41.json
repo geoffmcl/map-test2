@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M41","name":"Holly Springs Marshall Co","lat":34.8044025,"lon":-89.521118,"rwys":1,"ils":0,"elev":553,"index":1482545,"path":"w090n30/w090n34"
+,"runways":[
+{"len_m":975,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":34.80879700,"lon1":-89.52120300,"rwy2":"36","lat2":34.80000800,"lon2":-89.52103300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.8,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.15,"desc":"MEMPHIS DEP"}
+]
+,"ils":[
+]
+}

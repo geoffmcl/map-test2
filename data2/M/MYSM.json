@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MYSM","name":"San Salvador Island","lat":24.0632875,"lon":-74.52396509,"rwys":1,"ils":0,"elev":24,"index":1727617,"path":"w080n20/w075n24"
+,"runways":[
+{"len_m":2444,"wid_m":46.02,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":24.06426011,"lon1":-74.53593397,"rwy2":"28","lat2":24.06231489,"lon2":-74.51199621}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.7,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

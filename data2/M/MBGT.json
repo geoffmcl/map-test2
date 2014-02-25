@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MBGT","name":"Jags Mccartney Intl","lat":21.44230754,"lon":-71.14437650,"rwys":1,"ils":0,"elev":13,"index":1776606,"path":"w080n20/w072n21"
+,"runways":[
+{"len_m":1941,"wid_m":46.02,"hdg":104,"surf":"Asphalt","rwy1":"11","lat1":21.44671100,"lon1":-71.15139400,"rwy2":"29","lat2":21.44235000,"lon2":-71.13325600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"MCCARTNEY TWR"},
+{"type":"APP","freq":126,"desc":"PROVO APP"}
+]
+,"ils":[
+]
+}

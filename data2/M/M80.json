@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M80","name":"Scott","lat":32.416308,"lon":-91.148858,"rwys":2,"ils":0,"elev":84,"index":1449627,"path":"w100n30/w092n32"
+,"runways":[
+{"len_m":916,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":32.42044103,"lon1":-91.14877186,"rwy2":"36","lat2":32.41217497,"lon2":-91.14894414},
+{"len_m":730,"wid_m":39.62,"hdg":170,"surf":"Turf/grass","rwy1":"17","lat1":32.41955912,"lon1":-91.14946743,"rwy2":"35","lat2":32.41305688,"lon2":-91.14824857}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

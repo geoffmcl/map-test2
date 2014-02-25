@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMCN","name":"Ciudad Obregon Intl","lat":27.39803100,"lon":-109.83235200,"rwys":1,"ils":0,"elev":205,"index":1154392,"path":"w110n20/w110n27"
+,"runways":[
+{"len_m":2309,"wid_m":45.11,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":27.40025000,"lon1":-109.84105600,"rwy2":"31","lat2":27.38500000,"lon2":-109.82513900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"OBREGON APP/TWR"}
+]
+,"ils":[
+]
+}

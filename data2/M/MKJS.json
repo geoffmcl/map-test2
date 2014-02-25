@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MKJS","name":"Sangster Intl","lat":18.49627600,"lon":-77.91966500,"rwys":1,"ils":1,"elev":6,"index":1678104,"path":"w080n10/w078n18"
+,"runways":[
+{"len_m":2589,"wid_m":49.07,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":18.49869800,"lon1":-77.92485600,"rwy2":"25","lat2":18.50840000,"lon2":-77.90254000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"MKJS ATIS"},
+{"type":"GND","freq":121.7,"desc":"SANGSTER GND"},
+{"type":"TWR","freq":120.8,"desc":"SANGSTER TWR"},
+{"type":"APP","freq":120.8,"desc":"SANGSTER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":18.50927800,"lon":-77.90048300,"rng_nm":18,"alt_fmsl":4,"hdg":65.41,"id":"ISIA","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":18.50086100,"lon":-77.92215300,"rng_nm":10,"alt_fmsl":4,"id":"ISIA","rwy":"07","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MGGT","name":"La Aurora","lat":14.58498000,"lon":-90.52895400,"rwys":1,"ils":1,"elev":4952,"index":1464867,"path":"w100n10/w091n14"
+,"runways":[
+{"len_m":2985,"wid_m":59.74,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":14.57039700,"lon1":-90.53161400,"rwy2":"19","lat2":14.59614700,"lon2":-90.52333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"CLD","freq":120.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"GUATEMALA RDO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":14.59615600,"lon":-90.52329400,"rng_nm":18,"alt_fmsl":4952,"hdg":17.36,"id":"IAAI","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":14.57295100,"lon":-90.53023700,"rng_nm":10,"alt_fmsl":4952,"id":"IAAI","rwy":"01","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":14.57121100,"lon":-90.53129200,"rng_nm":18,"alt_fmsl":4952,"id":"IAAI","rwy":"01","desc":"DME-ILS"}
+]
+}

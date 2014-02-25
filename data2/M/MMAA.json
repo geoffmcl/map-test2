@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMAA","name":"General Juan N Alvarez Intl","lat":16.76117900,"lon":-99.75327300,"rwys":2,"ils":2,"elev":16,"index":1317553,"path":"w100n10/w100n16"
+,"runways":[
+{"len_m":3301,"wid_m":45.11,"hdg":107,"surf":"Concrete","rwy1":"10","lat1":16.75996100,"lon1":-99.76322500,"rwy2":"28","lat2":16.75074400,"lon2":-99.73377500},
+{"len_m":1700,"wid_m":35.05,"hdg":67,"surf":"Concrete","rwy1":"06","lat1":16.75363100,"lon1":-99.76235600,"rwy2":"24","lat2":16.75962500,"lon2":-99.74766900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"ACAPULCO TWR"},
+{"type":"TWR","freq":119.9,"desc":"ACAPULCO TWR"},
+{"type":"APP","freq":119.9,"desc":"ACAPULCO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":16.75009400,"lon":-99.73084200,"rng_nm":18,"alt_fmsl":13,"hdg":107.66,"id":"IAIA","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":16.76106900,"lon":-99.76525300,"rng_nm":18,"alt_fmsl":13,"hdg":288.90,"id":"IACA","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":16.75797500,"lon":-99.76028600,"rng_nm":10,"alt_fmsl":13,"id":"IAIA","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":16.75076900,"lon":-99.73714200,"rng_nm":10,"alt_fmsl":13,"id":"IACA","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":111.9,"lat":16.75797500,"lon":-99.76028600,"rng_nm":18,"alt_fmsl":13,"id":"IAIA","rwy":"10","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":16.75076900,"lon":-99.73714200,"rng_nm":18,"alt_fmsl":13,"id":"IACA","rwy":"28","desc":"DME-ILS"}
+]
+}

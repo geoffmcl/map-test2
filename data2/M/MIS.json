@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MIS","name":"Misima","lat":-10.69023600,"lon":152.83592500,"rwys":1,"ils":0,"elev":20,"index":5444566,"path":"e150s20/e152s11"
+,"runways":[
+{"len_m":1185,"wid_m":24.38,"hdg":267,"surf":"Dirt","rwy1":"31","lat1":-10.68893329,"lon1":152.84331211,"rwy2":"13","lat2":-10.68949071,"lon2":152.83248789}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"MIS AWOS"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M73","name":"Almyra Muni","lat":34.41260125,"lon":-91.46514075,"rwys":2,"ils":0,"elev":211,"index":1449754,"path":"w100n30/w092n34"
+,"runways":[
+{"len_m":1065,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":34.41567800,"lon1":-91.46746900,"rwy2":"36","lat2":34.40607200,"lon2":-91.46756900},
+{"len_m":914,"wid_m":15.24,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":34.41543300,"lon1":-91.46755300,"rwy2":"28","lat2":34.41322200,"lon2":-91.45797200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.85,"desc":"LITTLE ROCK CLNC DEL"},
+{"type":"APP","freq":119.85,"desc":"LITTLE ROCK APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MKJP","name":"Norman Manley Intl","lat":17.93595100,"lon":-76.77808400,"rwys":1,"ils":1,"elev":10,"index":1694457,"path":"w080n10/w077n17"
+,"runways":[
+{"len_m":2717,"wid_m":45.72,"hdg":111,"surf":"Asphalt","rwy1":"12","lat1":17.94025800,"lon1":-76.79945300,"rwy2":"30","lat2":17.93107200,"lon2":-76.77566700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"MANLEY TWR"},
+{"type":"APP","freq":120.6,"desc":"MANLEY APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":17.93106400,"lon":-76.77939200,"rng_nm":18,"alt_fmsl":10,"hdg":115.09,"id":"IMLY","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":17.93841700,"lon":-76.79703300,"rng_nm":10,"alt_fmsl":8,"id":"IMLY","rwy":"12","desc":"GS","gs":3}
+]
+}

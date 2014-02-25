@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MYEG","name":"George Town","lat":23.466667,"lon":-75.7816665,"rwys":1,"ils":0,"elev":5,"index":1711192,"path":"w080n20/w076n23"
+,"runways":[
+{"len_m":1522,"wid_m":27.43,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":23.46880600,"lon1":-75.78875000,"rwy2":"29","lat2":23.46452800,"lon2":-75.77458300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.77,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

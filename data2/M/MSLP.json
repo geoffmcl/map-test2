@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MSLP","name":"El Salvador Intl","lat":13.44493600,"lon":-89.06048200,"rwys":2,"ils":1,"elev":101,"index":1481183,"path":"w090n10/w090n13"
+,"runways":[
+{"len_m":3203,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":13.43599200,"lon1":-89.06962500,"rwy2":"25","lat2":13.44590300,"lon2":-89.04183100},
+{"len_m":799,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":13.45400000,"lon1":-89.04775000,"rwy2":"36","lat2":13.44676900,"lon2":-89.04775000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"CLD","freq":121.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":13.44691700,"lon":-89.03916700,"rng_nm":18,"alt_fmsl":71,"hdg":69.76,"id":"CUS","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":13.43500000,"lon":-89.06666700,"rng_nm":10,"alt_fmsl":78,"id":"CUS","rwy":"07","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":13.41208900,"lon":-89.13751900,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":13.43340300,"lon":-89.07619400,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"07","desc":"MM"}
+]
+}

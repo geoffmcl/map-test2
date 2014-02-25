@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MDBH","name":"Maria Montez Intl","lat":18.2514625,"lon":-71.1204,"rwys":1,"ils":0,"elev":10,"index":1776407,"path":"w080n10/w072n18"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":18.25773100,"lon1":-71.13297800,"rwy2":"30","lat2":18.24519400,"lon2":-71.10782200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"BARAHONA TWR"},
+{"type":"APP","freq":119.5,"desc":"BARAHONA APP"}
+]
+,"ils":[
+]
+}

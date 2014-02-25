@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M54","name":"Lebanon Muni","lat":36.1903575,"lon":-86.31501875,"rwys":2,"ils":0,"elev":589,"index":1531786,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":36.18365300,"lon1":-86.31741700,"rwy2":"19","lat2":36.19729400,"lon2":-86.31548300},
+{"len_m":548,"wid_m":45.72,"hdg":46,"surf":"Turf/grass","rwy1":"04","lat1":36.18853300,"lon1":-86.31579400,"rwy2":"22","lat2":36.19195000,"lon2":-86.31138100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.45,"desc":"NASHVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

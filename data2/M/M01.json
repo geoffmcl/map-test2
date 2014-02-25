@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M01","name":"General Dewitt Spain","lat":35.20169100,"lon":-90.05397000,"rwys":1,"ils":0,"elev":224,"index":1466187,"path":"w100n30/w091n35"
+,"runways":[
+{"len_m":1158,"wid_m":22.86,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":35.20576900,"lon1":-90.05545600,"rwy2":"35","lat2":35.19561700,"lon2":-90.05248600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.1,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.65,"desc":"MEMPHIS DEP"}
+]
+,"ils":[
+]
+}

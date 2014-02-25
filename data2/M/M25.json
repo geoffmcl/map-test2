@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M25","name":"Mayfield Graves Co","lat":36.769117,"lon":-88.584718,"rwys":1,"ils":0,"elev":523,"index":1499057,"path":"w090n30/w089n36"
+,"runways":[
+{"len_m":1410,"wid_m":30.48,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":36.77545300,"lon1":-88.58410300,"rwy2":"36","lat2":36.76278100,"lon2":-88.58533300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

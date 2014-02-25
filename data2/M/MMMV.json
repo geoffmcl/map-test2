@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMMV","name":"Monclova Intl","lat":26.95373500,"lon":-101.46064000,"rwys":2,"ils":0,"elev":1864,"index":1285434,"path":"w110n20/w102n26"
+,"runways":[
+{"len_m":2102,"wid_m":45.11,"hdg":72,"surf":"Asphalt","rwy1":"06R","lat1":26.95115600,"lon1":-101.48095600,"rwy2":"24L","lat2":26.95679200,"lon2":-101.46073600},
+{"len_m":1458,"wid_m":20.12,"hdg":72,"surf":"Asphalt","rwy1":"06L","lat1":26.95553300,"lon1":-101.47643600,"rwy2":"24R","lat2":26.95944200,"lon2":-101.46240600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"INFO"}
+]
+,"ils":[
+]
+}

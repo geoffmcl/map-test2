@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MSSS","name":"Ilopango Intl","lat":13.69532909,"lon":-89.11493779,"rwys":1,"ils":0,"elev":2020,"index":1481199,"path":"w090n10/w090n13"
+,"runways":[
+{"len_m":2231,"wid_m":45.11,"hdg":153,"surf":"Asphalt","rwy1":"15","lat1":13.70782740,"lon1":-89.12444787,"rwy2":"33","lat2":13.68977740,"lon2":-89.11525087}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

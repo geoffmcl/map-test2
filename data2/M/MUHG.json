@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MUHG","name":"Frank Pais Intl","lat":20.785554,"lon":-76.3151085,"rwys":1,"ils":1,"elev":361,"index":1694645,"path":"w080n20/w077n20"
+,"runways":[
+{"len_m":3238,"wid_m":45.11,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":20.77544700,"lon1":-76.32635000,"rwy2":"23","lat2":20.79566100,"lon2":-76.30386700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.9,"desc":"HOLGUIN RDO"},
+{"type":"TWR","freq":118,"desc":"HOLGUIN TWR"},
+{"type":"APP","freq":119.1,"desc":"HOLGUIN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":20.79839200,"lon":-76.30081900,"rng_nm":18,"alt_fmsl":361,"hdg":46.13,"id":"IHG","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":20.77808900,"lon":-76.32487200,"rng_nm":10,"alt_fmsl":361,"id":"IHG","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":20.73051400,"lon":-76.37639700,"rng_nm":0,"alt_fmsl":361,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":20.77051100,"lon":-76.33183600,"rng_nm":0,"alt_fmsl":361,"id":"----","rwy":"05","desc":"MM"}
+]
+}

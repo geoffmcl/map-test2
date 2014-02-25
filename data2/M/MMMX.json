@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMMX","name":"Licenciado Benito Juarez Intl","lat":19.43044231,"lon":-99.06939945,"rwys":2,"ils":2,"elev":7316,"index":1317727,"path":"w100n10/w100n19"
+,"runways":[
+{"len_m":3946,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"05L","lat1":19.42757012,"lon1":-99.09052132,"rwy2":"23R","lat2":19.44571132,"lon2":-99.05817308},
+{"len_m":3900,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"05R","lat1":19.42701261,"lon1":-99.08584816,"rwy2":"23L","lat2":19.44493683,"lon2":-99.05387424}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"CLD","freq":122.1,"desc":"MEXICO CLNC DEL"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"MEXICO TWR"},
+{"type":"APP","freq":129.6,"desc":"MEXICO ARR"},
+{"type":"DEP","freq":120.5,"desc":"MEXICO DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":19.44625000,"lon":-99.05155800,"rng_nm":18,"alt_fmsl":7316,"hdg":59.26,"id":"IMWX","rwy":"05R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":19.42533100,"lon":-99.08885600,"rng_nm":18,"alt_fmsl":7316,"hdg":239.27,"id":"IMEX","rwy":"23L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":19.42935000,"lon":-99.07889200,"rng_nm":10,"alt_fmsl":7316,"id":"IMWX","rwy":"05R","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":19.44454400,"lon":-99.05736700,"rng_nm":10,"alt_fmsl":7316,"id":"IMEX","rwy":"23L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":19.39372500,"lon":-99.14950600,"rng_nm":0,"alt_fmsl":7316,"id":"----","rwy":"05R","desc":"OM"},
+{"type":"DME","freq":109.1,"lat":19.42935000,"lon":-99.07889200,"rng_nm":18,"alt_fmsl":7316,"id":"IMWX","rwy":"05R","desc":"DME-ILS"},
+{"type":"DME","freq":109.7,"lat":19.44454400,"lon":-99.05736700,"rng_nm":18,"alt_fmsl":7316,"id":"IMEX","rwy":"23L","desc":"DME-ILS"}
+]
+}

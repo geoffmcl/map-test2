@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MHLM","name":"La Mesa Intl","lat":15.45029500,"lon":-87.92944300,"rwys":1,"ils":0,"elev":91,"index":1514072,"path":"w090n10/w088n15"
+,"runways":[
+{"len_m":2806,"wid_m":45.11,"hdg":40,"surf":"Concrete","rwy1":"04","lat1":15.44227800,"lon1":-87.93260300,"rwy2":"22","lat2":15.46163600,"lon2":-87.91570300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+]
+}

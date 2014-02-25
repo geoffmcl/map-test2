@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMAN","name":"Del Norte Intl","lat":25.865834,"lon":-100.239953,"rwys":2,"ils":0,"elev":1476,"index":1301747,"path":"w110n20/w101n25"
+,"runways":[
+{"len_m":2019,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"02","lat1":25.85603300,"lon1":-100.24390600,"rwy2":"20","lat2":25.87144200,"lon2":-100.23313900},
+{"len_m":1534,"wid_m":45.11,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":25.87161900,"lon1":-100.24786100,"rwy2":"29","lat2":25.86424200,"lon2":-100.23490600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.55,"desc":"ATIS"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"MONTERREY APP"},
+{"type":"APP","freq":121.4,"desc":"MONTERREY APP"}
+]
+,"ils":[
+]
+}

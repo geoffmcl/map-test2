@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M30","name":"Metropolis Muni","lat":37.1829415,"lon":-88.7506685,"rwys":1,"ils":0,"elev":384,"index":1499080,"path":"w090n30/w089n37"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":37.18843600,"lon1":-88.75060600,"rwy2":"36","lat2":37.17744700,"lon2":-88.75073100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

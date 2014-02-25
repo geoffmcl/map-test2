@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMIT","name":"Ixtepec","lat":16.449336,"lon":-95.0936985,"rwys":1,"ils":0,"elev":164,"index":1383071,"path":"w100n10/w096n16"
+,"runways":[
+{"len_m":2327,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":16.45985300,"lon1":-95.09371400,"rwy2":"35","lat2":16.43881900,"lon2":-95.09368300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.45,"desc":"TWR"}
+]
+,"ils":[
+]
+}

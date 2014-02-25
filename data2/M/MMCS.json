@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMCS","name":"Abraham Gonzalez Intl","lat":31.63677600,"lon":-106.43405200,"rwys":2,"ils":0,"elev":3904,"index":1203818,"path":"w110n30/w107n31"
+,"runways":[
+{"len_m":2704,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"03","lat1":31.62831900,"lon1":-106.43587800,"rwy2":"21","lat2":31.64740800,"lon2":-106.41813300},
+{"len_m":1750,"wid_m":29.87,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":31.64319400,"lon1":-106.43227500,"rwy2":"32","lat2":31.62872800,"lon2":-106.42488100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"JUAREZ TWR"},
+{"type":"APP","freq":119.9,"desc":"JUAREZ APP"}
+]
+,"ils":[
+]
+}

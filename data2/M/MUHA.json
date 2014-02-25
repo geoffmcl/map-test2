@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MUHA","name":"Havana Jose Marti Intl","lat":22.99572171,"lon":-82.41108738,"rwys":1,"ils":1,"elev":209,"index":1596474,"path":"w090n20/w083n22"
+,"runways":[
+{"len_m":4000,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":22.97863300,"lon1":-82.42494400,"rwy2":"24","lat2":22.99967500,"lon2":-82.39322800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.5,"desc":"ATIS"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"MARTI TWR"},
+{"type":"APP","freq":119.35,"desc":"HABANA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":23.00109700,"lon":-82.39108300,"rng_nm":18,"alt_fmsl":209,"hdg":54.23,"id":"IHA","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":22.97889200,"lon":-82.42172500,"rng_nm":10,"alt_fmsl":209,"id":"IHA","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":22.93282800,"lon":-82.49222200,"rng_nm":0,"alt_fmsl":232,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":22.97376700,"lon":-82.43222500,"rng_nm":0,"alt_fmsl":233,"id":"----","rwy":"06","desc":"MM"}
+]
+}

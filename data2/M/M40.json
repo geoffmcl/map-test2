@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M40","name":"Monroe Co","lat":33.87375,"lon":-88.489682,"rwys":1,"ils":0,"elev":226,"index":1498866,"path":"w090n30/w089n33"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":186,"surf":"Asphalt","rwy1":"18","lat1":33.88058100,"lon1":-88.48879200,"rwy2":"36","lat2":33.86691900,"lon2":-88.49057200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.07,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+]
+}

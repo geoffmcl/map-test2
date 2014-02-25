@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MUCC","name":"Jardines Del Rey","lat":22.46564221,"lon":-78.33315046,"rwys":1,"ils":1,"elev":13,"index":1661978,"path":"w080n20/w079n22"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":22.45653899,"lon1":-78.34238302,"rwy2":"26","lat2":22.46535001,"lon2":-78.31482111}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":22.46711400,"lon":-78.30930800,"rng_nm":18,"alt_fmsl":13,"hdg":70.92,"id":"ICJ","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":22.45645600,"lon":-78.33905300,"rng_nm":10,"alt_fmsl":98,"id":"ICJ","rwy":"08","desc":"GS","gs":3}
+]
+}

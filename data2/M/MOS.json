@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MOS","name":"Moses Point","lat":64.698183,"lon":-162.0573,"rwys":2,"ils":0,"elev":14,"index":288425,"path":"w170n60/w163n64"
+,"runways":[
+{"len_m":918,"wid_m":18.29,"hdg":75,"surf":"Gravel","rwy1":"06","lat1":64.69715908,"lon1":-162.06662418,"rwy2":"24","lat2":64.69920692,"lon2":-162.04797582},
+{"len_m":425,"wid_m":20.42,"hdg":195,"surf":"Asphalt","rwy1":"18","lat1":64.70001924,"lon1":-162.05610122,"rwy2":"36","lat2":64.69634676,"lon2":-162.05849878}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

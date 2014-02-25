@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMMD","name":"Licenciado Manuel Crescencio Rejon Int","lat":20.93232900,"lon":-89.66162100,"rwys":2,"ils":1,"elev":38,"index":1481658,"path":"w090n20/w090n20"
+,"runways":[
+{"len_m":3202,"wid_m":46.02,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":20.93763100,"lon1":-89.66025800,"rwy2":"28","lat2":20.92998300,"lon2":-89.63056400},
+{"len_m":2309,"wid_m":46.02,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":20.94068900,"lon1":-89.65760300,"rwy2":"35","lat2":20.91983600,"lon2":-89.65801700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"TWR","freq":126.9,"desc":"MERIDA INFO"},
+{"type":"APP","freq":118.3,"desc":"MERIDA APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":20.92981700,"lon":-89.62709400,"rng_nm":18,"alt_fmsl":38,"hdg":104.16,"id":"IMID","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":20.93713100,"lon":-89.65424700,"rng_nm":10,"alt_fmsl":38,"id":"IMID","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":111.7,"lat":20.93713100,"lon":-89.65424700,"rng_nm":18,"alt_fmsl":38,"id":"IMID","rwy":"10","desc":"DME-ILS"}
+]
+}

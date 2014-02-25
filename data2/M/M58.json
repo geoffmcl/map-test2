@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M58","name":"Monett Muni","lat":36.9062165,"lon":-94.012757,"rwys":1,"ils":0,"elev":1315,"index":1400763,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":36.91308300,"lon1":-94.01287800,"rwy2":"36","lat2":36.89935000,"lon2":-94.01263600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.95,"desc":"SPRINGFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

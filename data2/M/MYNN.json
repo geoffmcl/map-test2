@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MYNN","name":"Nassau Intl","lat":25.04186424,"lon":-77.47119179,"rwys":2,"ils":1,"elev":16,"index":1678530,"path":"w080n20/w078n25"
+,"runways":[
+{"len_m":3459,"wid_m":46.02,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":25.05214539,"lon1":-77.47599780,"rwy2":"32","lat2":25.03019061,"lon2":-77.45162138},
+{"len_m":2536,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":25.03595000,"lon1":-77.48200000,"rwy2":"27","lat2":25.03609700,"lon2":-77.45686400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.7,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":118.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"APP"},
+{"type":"APP","freq":125.3,"desc":"APP"},
+{"type":"APP","freq":132.55,"desc":"APP"},
+{"type":"APP","freq":134.55,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":25.02902200,"lon":-77.45032200,"rng_nm":18,"alt_fmsl":7,"hdg":134.83,"id":"IZQA","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":25.05048100,"lon":-77.47243100,"rng_nm":10,"alt_fmsl":8,"id":"IZQA","rwy":"14","desc":"GS","gs":3}
+]
+}

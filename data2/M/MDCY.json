@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MDCY","name":"Samana El Catey International","lat":19.25940411,"lon":-69.72967881,"rwys":1,"ils":0,"elev":12,"index":1809234,"path":"w070n10/w070n19"
+,"runways":[
+{"len_m":2779,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"07","lat1":19.25783300,"lon1":-69.74300000,"rwy2":"25","lat2":19.27200000,"lon2":-69.72116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"Catey Ground"},
+{"type":"TWR","freq":118.35,"desc":"Catey Tower"}
+]
+,"ils":[
+]
+}

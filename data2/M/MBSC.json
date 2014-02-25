@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MBSC","name":"South Caicos Intl","lat":21.5157405,"lon":-71.5285305,"rwys":1,"ils":0,"elev":6,"index":1776611,"path":"w080n20/w072n21"
+,"runways":[
+{"len_m":1824,"wid_m":29.87,"hdg":97,"surf":"Asphalt","rwy1":"11","lat1":21.51687500,"lon1":-71.53725300,"rwy2":"29","lat2":21.51460600,"lon2":-71.51980800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"INFO"},
+{"type":"APP","freq":126,"desc":"PROVO APP"}
+]
+,"ils":[
+]
+}

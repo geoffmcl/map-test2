@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MUCM","name":"Ignacio Agramonte Intl","lat":21.41978840,"lon":-77.85596470,"rwys":1,"ils":0,"elev":413,"index":1678297,"path":"w080n20/w078n21"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":21.41546400,"lon1":-77.86090000,"rwy2":"25","lat2":21.42538900,"lon2":-77.83397500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"AGRAMONTE TWR"},
+{"type":"TWR","freq":126.9,"desc":"CAMAGUEY RDO"},
+{"type":"APP","freq":121.3,"desc":"CAMAGUEY APP"}
+]
+,"ils":[
+]
+}

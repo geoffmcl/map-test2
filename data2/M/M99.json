@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M99","name":"Saline Co Watts Fld","lat":34.556918,"lon":-92.6069235,"rwys":1,"ils":0,"elev":318,"index":1433377,"path":"w100n30/w093n34"
+,"runways":[
+{"len_m":1210,"wid_m":15.24,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":34.56237500,"lon1":-92.60706400,"rwy2":"35","lat2":34.55146100,"lon2":-92.60678300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.5,"desc":"LITTLE ROCK CLNC DEL"},
+{"type":"APP","freq":119.5,"desc":"LITTLE ROCK APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MMIO","name":"Plan De Guadalupe Intl","lat":25.54929900,"lon":-100.93289200,"rwys":2,"ils":1,"elev":4778,"index":1301728,"path":"w110n20/w101n25"
+,"runways":[
+{"len_m":2897,"wid_m":45.11,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":25.55145800,"lon1":-100.92846400,"rwy2":"35","lat2":25.52530300,"lon2":-100.92859700},
+{"len_m":1056,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"03","lat1":25.54223300,"lon1":-100.93547500,"rwy2":"21","lat2":25.54949700,"lon2":-100.92866900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"SALTILLO TWR"},
+{"type":"APP","freq":127.4,"desc":"SALTILLO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":25.52397800,"lon":-100.92831900,"rng_nm":18,"alt_fmsl":4778,"hdg":179.73,"id":"ISLW","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":25.54878900,"lon":-100.92734400,"rng_nm":10,"alt_fmsl":4778,"id":"ISLW","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":25.54878900,"lon":-100.92734400,"rng_nm":18,"alt_fmsl":4778,"id":"ISLW","rwy":"17","desc":"DME-ILS"}
+]
+}

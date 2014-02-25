@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M34","name":"Kentucky Dam State Park","lat":37.0095,"lon":-88.2958665,"rwys":1,"ils":0,"elev":349,"index":1499074,"path":"w090n30/w089n37"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":37.00939400,"lon1":-88.30271400,"rwy2":"27","lat2":37.00960600,"lon2":-88.28901900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

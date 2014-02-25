@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MBPV","name":"Providenciales","lat":21.77628426,"lon":-72.27046761,"rwys":1,"ils":0,"elev":15,"index":1760245,"path":"w080n20/w073n21"
+,"runways":[
+{"len_m":2314,"wid_m":45.11,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":21.77414700,"lon1":-72.27707500,"rwy2":"28","lat2":21.77305300,"lon2":-72.25472500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":126,"desc":"PROVO APP"}
+]
+,"ils":[
+]
+}

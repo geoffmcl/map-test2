@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M18","name":"Hope Muni","lat":33.720102,"lon":-93.6588255,"rwys":2,"ils":0,"elev":359,"index":1416937,"path":"w100n30/w094n33"
+,"runways":[
+{"len_m":1694,"wid_m":45.72,"hdg":47,"surf":"Concrete","rwy1":"04","lat1":33.71476900,"lon1":-93.66949400,"rwy2":"22","lat2":33.72508300,"lon2":-93.65600600},
+{"len_m":1676,"wid_m":45.72,"hdg":167,"surf":"Concrete","rwy1":"16","lat1":33.72765600,"lon1":-93.65685800,"rwy2":"34","lat2":33.71290000,"lon2":-93.65294400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

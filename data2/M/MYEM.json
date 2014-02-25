@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MYEM","name":"Governors Harbour","lat":25.2847025,"lon":-76.3310085,"rwys":1,"ils":0,"elev":26,"index":1694930,"path":"w080n20/w077n25"
+,"runways":[
+{"len_m":2445,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":25.29371900,"lon1":-76.33801400,"rwy2":"33","lat2":25.27568600,"lon2":-76.32400300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.8,"desc":"AFIS"},
+{"type":"APP","freq":121,"desc":"NASSAU APP"}
+]
+,"ils":[
+]
+}

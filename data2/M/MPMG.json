@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"MPMG","name":"Albrook Marcos A Gelabert Intl","lat":8.9733405,"lon":-79.555585,"rwys":1,"ils":0,"elev":31,"index":1644731,"path":"w080n00/w080n08"
+,"runways":[
+{"len_m":1795,"wid_m":29.87,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":8.98142800,"lon1":-79.55486400,"rwy2":"36","lat2":8.96525300,"lon2":-79.55630600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"GELABERT TWR"},
+{"type":"APP","freq":119.7,"desc":"PANAMA APP"},
+{"type":"APP","freq":123.3,"desc":"PANAMA APP"},
+{"type":"APP","freq":119.2,"desc":"PANAMA APP"},
+{"type":"APP","freq":121.2,"desc":"PANAMA APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"M31","name":"Arnold Field","lat":35.9033835,"lon":-89.3972706666667,"rwys":3,"ils":0,"elev":292,"index":1482618,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1434,"wid_m":22.86,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":35.89920781,"lon1":-89.40333065,"rwy2":"23","lat2":35.90760819,"lon2":-89.39125735},
+{"len_m":1434,"wid_m":22.86,"hdg":129,"surf":"Concrete","rwy1":"13","lat1":35.90749408,"lon1":-89.40344885,"rwy2":"31","lat2":35.89932192,"lon2":-89.39113915},
+{"len_m":1421,"wid_m":22.86,"hdg":175,"surf":"Concrete","rwy1":"18","lat1":35.90972200,"lon1":-89.39778100,"rwy2":"36","lat2":35.89694700,"lon2":-89.39666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}
