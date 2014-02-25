@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKLR","name":"Rivne Intl","lat":50.6039845,"lon":26.15171325,"rwys":2,"ils":1,"elev":755,"index":3384096,"path":"e020n50/e026n50"
+,"runways":[
+{"len_m":2615,"wid_m":42.06,"hdg":118,"surf":"Concrete","rwy1":"12","lat1":50.61271100,"lon1":26.12535600,"rwy2":"30","lat2":50.60156900,"lon2":26.15788600},
+{"len_m":641,"wid_m":19.81,"hdg":56,"surf":"Asphalt","rwy1":"05","lat1":50.59922200,"lon1":26.15804200,"rwy2":"23","lat2":50.60243600,"lon2":26.16556900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":50.59916700,"lon":26.16833300,"rng_nm":18,"alt_fmsl":755,"hdg":116.42,"id":"IRW","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":50.61361100,"lon":26.13138900,"rng_nm":10,"alt_fmsl":755,"id":"IRW","rwy":"12","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":50.62803800,"lon":26.08150900,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.61748300,"lon":26.11234300,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"12","desc":"MM"}
+]
+}

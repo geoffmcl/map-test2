@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UIAA","name":"Kadala","lat":52.02111166,"lon":113.30473729,"rwys":2,"ils":1,"elev":2272,"index":4809601,"path":"e110n50/e113n52"
+,"runways":[
+{"len_m":1786,"wid_m":74.98,"hdg":101,"surf":"Turf/grass","rwy1":"11L","lat1":52.03034700,"lon1":113.28553600,"rwy2":"29R","lat2":52.02722800,"lon2":113.31106900},
+{"len_m":2800,"wid_m":56.08,"hdg":100,"surf":"Concrete","rwy1":"11","lat1":52.02867800,"lon1":113.28496900,"rwy2":"29","lat2":52.02408600,"lon2":113.32508100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"Chita Ground"},
+{"type":"TWR","freq":118.1,"desc":"Chita Tower"},
+{"type":"APP","freq":122,"desc":"Chita Radar"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":52.02999878,"lon":113.27378082,"rng_nm":18,"alt_fmsl":2282,"hdg":280.63,"id":"IDG","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":52.02313900,"lon":113.32122200,"rng_nm":10,"alt_fmsl":2272,"id":"IDG","rwy":"29","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":52.03988266,"lon":113.18656921,"rng_nm":0,"alt_fmsl":2928,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":52.01666700,"lon":113.37833300,"rng_nm":0,"alt_fmsl":2272,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.03004837,"lon":113.26823425,"rng_nm":0,"alt_fmsl":2161,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":52.02233505,"lon":113.33999634,"rng_nm":0,"alt_fmsl":2161,"id":"----","rwy":"29","desc":"MM"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UTAA","name":"Ashgabat","lat":37.9828668333333,"lon":58.3631125,"rwys":3,"ils":2,"elev":692,"index":3907577,"path":"e050n30/e058n37"
+,"runways":[
+{"len_m":3797,"wid_m":46.02,"hdg":119,"surf":"Concrete","rwy1":"12L","lat1":38.00024400,"lon1":58.34313900,"rwy2":"30R","lat2":37.98344700,"lon2":58.38080600},
+{"len_m":2991,"wid_m":59.74,"hdg":119,"surf":"Concrete","rwy1":"12R","lat1":37.98839700,"lon1":58.34512500,"rwy2":"30L","lat2":37.97516900,"lon2":58.37479700},
+{"len_m":1800,"wid_m":34.75,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":37.97801900,"lon1":58.35790800,"rwy2":"29","lat2":37.97192500,"lon2":58.37690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120,"desc":"TWR"},
+{"type":"APP","freq":123.5,"desc":"APP"},
+{"type":"APP","freq":118.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":37.97925600,"lon":58.39020600,"rng_nm":18,"alt_fmsl":692,"id":"ABW","rwy":"12L","desc":"LOC"},
+{"type":"LOC","freq":108.7,"lat":38.00482200,"lon":58.33288600,"rng_nm":18,"alt_fmsl":692,"id":"AHD","rwy":"30R","desc":"LOC"}
+]
+}

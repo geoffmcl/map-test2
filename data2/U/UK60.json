@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UK60","name":"Kharkiv North","lat":50.02591083,"lon":36.26950036,"rwys":1,"ils":1,"elev":600,"index":3547905,"path":"e030n50/e036n50"
+,"runways":[
+{"len_m":1804,"wid_m":60.05,"hdg":32,"surf":"Concrete","rwy1":"02","lat1":50.01831627,"lon1":36.26047357,"rwy2":"20","lat2":50.03196627,"lon2":36.27407657}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":42.06,"hdg":36,"surf":"Concrete","lat1":50.02668039,"lon1":36.27172565}
+]
+,"radios":[
+{"type":"TWR","freq":120.95,"desc":"Sokolniky TWR"},
+{"type":"TWR","freq":126.95,"desc":"Sokolniky TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":50.01703262,"lon":36.25936508,"rng_nm":18,"alt_fmsl":554,"hdg":212.32,"id":"IVQ","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":50.03008270,"lon":36.27416611,"rng_nm":18,"alt_fmsl":579,"id":"IVQ","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.06610107,"lon":36.30791855,"rng_nm":0,"alt_fmsl":511,"id":"----","rwy":"20","desc":"OM"},
+{"type":"IM","freq":0,"lat":50.04083252,"lon":36.28293228,"rng_nm":0,"alt_fmsl":601,"id":"----","rwy":"20","desc":"IM"},
+{"type":"DME","freq":109.1,"lat":50.03111867,"lon":36.27466428,"rng_nm":18,"alt_fmsl":0,"id":"IVQ","rwy":"20","desc":"DME-ILS"}
+]
+}

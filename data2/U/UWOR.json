@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UWOR","name":"Orsk","lat":51.074086125,"lon":58.59233725,"rwys":4,"ils":1,"elev":909,"index":3908418,"path":"e050n50/e058n51"
+,"runways":[
+{"len_m":2910,"wid_m":42.06,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":51.06949700,"lon1":58.57538100,"rwy2":"25","lat2":51.07551400,"lon2":58.61579400},
+{"len_m":1780,"wid_m":91.44,"hdg":76,"surf":"Turf/grass","rwy1":"07R","lat1":51.07098900,"lon1":58.59140600,"rwy2":"25L","lat2":51.07466700,"lon2":58.61613100},
+{"len_m":619,"wid_m":51.82,"hdg":172,"surf":"Turf/grass","rwy1":"16","lat1":51.07818300,"lon1":58.58530000,"rwy2":"34","lat2":51.07266700,"lon2":58.58652500},
+{"len_m":602,"wid_m":48.77,"hdg":16,"surf":"Turf/grass","rwy1":"01","lat1":51.07298900,"lon1":58.58286100,"rwy2":"19","lat2":51.07818300,"lon2":58.58530000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":51.06500000,"lon":58.56333300,"rng_nm":18,"alt_fmsl":909,"hdg":252.29,"id":"IOR","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":51.06666700,"lon":58.61166700,"rng_nm":10,"alt_fmsl":909,"id":"IOR","rwy":"25","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":51.08333300,"lon":58.67000000,"rng_nm":0,"alt_fmsl":909,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.07833300,"lon":58.63166700,"rng_nm":0,"alt_fmsl":909,"id":"----","rwy":"25","desc":"MM"}
+]
+}

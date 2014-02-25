@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKKE","name":"Cherkasy Intl","lat":49.4155665,"lon":31.995282,"rwys":1,"ils":1,"elev":375,"index":3465947,"path":"e030n40/e031n49"
+,"runways":[
+{"len_m":2493,"wid_m":42.06,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":49.42523900,"lon1":31.98659700,"rwy2":"33","lat2":49.40589400,"lon2":32.00396700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":49.43083300,"lon":31.98333300,"rng_nm":18,"alt_fmsl":375,"hdg":331.70,"id":"ICC","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":49.40833300,"lon":32.00166700,"rng_nm":10,"alt_fmsl":375,"id":"ICC","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.37311000,"lon":32.03327800,"rng_nm":0,"alt_fmsl":375,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.39811000,"lon":32.00994400,"rng_nm":0,"alt_fmsl":375,"id":"----","rwy":"33","desc":"MM"}
+]
+}

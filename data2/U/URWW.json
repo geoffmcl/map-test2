@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"URWW","name":"Gumrak","lat":48.7806301666667,"lon":44.3526963333333,"rwys":3,"ils":2,"elev":482,"index":3678897,"path":"e040n40/e044n48"
+,"runways":[
+{"len_m":2498,"wid_m":49.07,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":48.78809700,"lon1":44.33101400,"rwy2":"29","lat2":48.77681900,"lon2":44.36041700},
+{"len_m":1682,"wid_m":100.58,"hdg":120,"surf":"Turf/grass","rwy1":"11R","lat1":48.78075600,"lon1":44.34704700,"rwy2":"29L","lat2":48.77318900,"lon2":44.36686700},
+{"len_m":477,"wid_m":106.68,"hdg":84,"surf":"Turf/grass","rwy1":"08","lat1":48.78224200,"lon1":44.35218300,"rwy2":"26","lat2":48.78267800,"lon2":44.35865000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.8,"desc":"VOLGOGRAD ATIS"},
+{"type":"GND","freq":119,"desc":"VOLGOGRAD TAXIING"},
+{"type":"TWR","freq":128,"desc":"VOLGOGRAD TWR"},
+{"type":"APP","freq":125.3,"desc":"VOLGOGRAD APP"},
+{"type":"APP","freq":129,"desc":"VOLGOGRAD APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":48.77333300,"lon":44.37166700,"rng_nm":18,"alt_fmsl":482,"hdg":118.88,"id":"IWG","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":48.79722200,"lon":44.32166900,"rng_nm":18,"alt_fmsl":482,"hdg":308.62,"id":"IWD","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":48.78500000,"lon":44.33500000,"rng_nm":10,"alt_fmsl":482,"id":"IWG","rwy":"11","desc":"GS","gs":2.7},
+{"type":"GS","freq":110.5,"lat":48.77666700,"lon":44.35666700,"rng_nm":10,"alt_fmsl":482,"id":"IWD","rwy":"29","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":48.80500000,"lon":44.28666700,"rng_nm":0,"alt_fmsl":482,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.76000000,"lon":44.40666700,"rng_nm":0,"alt_fmsl":482,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.79166700,"lon":44.32166700,"rng_nm":0,"alt_fmsl":482,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.77333300,"lon":44.37166900,"rng_nm":0,"alt_fmsl":482,"id":"----","rwy":"29","desc":"MM"}
+]
+}

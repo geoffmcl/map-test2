@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UOHH","name":"Khatanga","lat":71.9780595,"lon":102.4905125,"rwys":1,"ils":1,"elev":95,"index":4630648,"path":"e100n70/e102n71"
+,"runways":[
+{"len_m":2729,"wid_m":48.16,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":71.97287200,"lon1":102.45473600,"rwy2":"24","lat2":71.98324700,"lon2":102.52628900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"KRUG"},
+{"type":"APP","freq":129,"desc":"KRUG"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":71.98500000,"lon":102.54166700,"rng_nm":18,"alt_fmsl":95,"hdg":65.77,"id":"IOA","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":71.97500000,"lon":102.46333300,"rng_nm":10,"alt_fmsl":95,"id":"IOA","rwy":"06","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":71.95000000,"lon":102.31000000,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":71.97000000,"lon":102.43666700,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"06","desc":"MM"}
+]
+}

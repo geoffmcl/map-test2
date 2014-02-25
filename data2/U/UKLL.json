@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKLL","name":"Lviv Intl","lat":49.8126385,"lon":23.956111,"rwys":1,"ils":2,"elev":1071,"index":3334899,"path":"e020n40/e023n49"
+,"runways":[
+{"len_m":2533,"wid_m":45.11,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":49.82083300,"lon1":23.94388900,"rwy2":"31","lat2":49.80444400,"lon2":23.96833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.7,"desc":"ATIS"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":126,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":49.79805600,"lon":23.97805600,"rng_nm":18,"alt_fmsl":1071,"hdg":135.94,"id":"ILO","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":49.82277800,"lon":23.94055600,"rng_nm":18,"alt_fmsl":1071,"hdg":315.64,"id":"ILV","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":49.81777800,"lon":23.94583300,"rng_nm":10,"alt_fmsl":1071,"id":"ILO","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":49.80722200,"lon":23.96638900,"rng_nm":10,"alt_fmsl":1071,"id":"ILV","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.84854800,"lon":23.89985600,"rng_nm":0,"alt_fmsl":1071,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":49.77938200,"lon":24.00347100,"rng_nm":0,"alt_fmsl":1071,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.82715900,"lon":23.93180200,"rng_nm":0,"alt_fmsl":1071,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":49.79743800,"lon":23.97680300,"rng_nm":0,"alt_fmsl":1071,"id":"----","rwy":"31","desc":"MM"}
+]
+}

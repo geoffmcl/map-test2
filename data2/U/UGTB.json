@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UGTB","name":"Tbilisi","lat":41.6685815,"lon":44.95364375,"rwys":2,"ils":2,"elev":1624,"index":3678443,"path":"e040n40/e044n41"
+,"runways":[
+{"len_m":3000,"wid_m":44.81,"hdg":136,"surf":"Concrete","rwy1":"13R","lat1":41.67781700,"lon1":44.94011400,"rwy2":"31L","lat2":41.65820600,"lon2":44.96488600},
+{"len_m":2503,"wid_m":59.74,"hdg":133,"surf":"Asphalt","rwy1":"13L","lat1":41.67691400,"lon1":44.94389200,"rwy2":"31R","lat2":41.66138900,"lon2":44.96568300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.8,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":127.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":41.65733300,"lon":44.96597200,"rng_nm":18,"alt_fmsl":1624,"hdg":136.69,"id":"IVP","rwy":"13R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":41.67911100,"lon":44.93847200,"rng_nm":18,"alt_fmsl":1624,"hdg":316.65,"id":"INA","rwy":"31L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":41.67520300,"lon":44.94166700,"rng_nm":10,"alt_fmsl":1657,"id":"IVP","rwy":"13R","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":41.65902800,"lon":44.96136100,"rng_nm":10,"alt_fmsl":1624,"id":"INA","rwy":"31L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.71305600,"lon":44.89550000,"rng_nm":0,"alt_fmsl":1624,"id":"----","rwy":"13R","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.63272200,"lon":44.99711100,"rng_nm":0,"alt_fmsl":1624,"id":"----","rwy":"31L","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.68277800,"lon":44.93369400,"rng_nm":0,"alt_fmsl":1673,"id":"----","rwy":"13R","desc":"MM"},
+{"type":"MM","freq":0,"lat":41.65066700,"lon":44.97441700,"rng_nm":0,"alt_fmsl":1624,"id":"----","rwy":"31L","desc":"MM"}
+]
+}

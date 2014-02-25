@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USDD","name":"Salekhard","lat":66.5907525,"lon":66.6110415,"rwys":1,"ils":2,"elev":219,"index":4040481,"path":"e060n60/e066n66"
+,"runways":[
+{"len_m":2717,"wid_m":46.02,"hdg":61,"surf":"Concrete","rwy1":"04","lat1":66.58491900,"lon1":66.58413900,"rwy2":"22","lat2":66.59658600,"lon2":66.63794400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"START"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":66.60068900,"lon":66.65738300,"rng_nm":18,"alt_fmsl":219,"hdg":61.58,"id":"INA","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":66.58383100,"lon":66.57890600,"rng_nm":18,"alt_fmsl":219,"hdg":241.44,"id":"IDM","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":66.58513100,"lon":66.59087200,"rng_nm":10,"alt_fmsl":219,"id":"INA","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":66.59440300,"lon":66.63387200,"rng_nm":10,"alt_fmsl":219,"id":"IDM","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":66.56666700,"lon":66.50666700,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":66.61166700,"lon":66.70500000,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":66.58056900,"lon":66.55992200,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":66.60057000,"lon":66.65492500,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"22","desc":"MM"}
+]
+}

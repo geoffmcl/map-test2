@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUBS","name":"Smolensk South","lat":54.74473969,"lon":32.06443126,"rwys":1,"ils":0,"elev":0,"index":3482664,"path":"e030n50/e032n54"
+,"runways":[
+{"len_m":1598,"wid_m":39.93,"hdg":84,"surf":"Concrete","rwy1":"08","lat1":54.74411323,"lon1":32.05206430,"rwy2":"26","lat2":54.74536615,"lon2":32.07679821}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"OM","freq":0,"lat":54.74096760,"lon":31.98996580,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":54.74851690,"lon":32.13894630,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"26","desc":"OM"},
+{"type":"IM","freq":0,"lat":54.74332920,"lon":32.03656320,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"08","desc":"IM"},
+{"type":"IM","freq":0,"lat":54.74615870,"lon":32.09231320,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"26","desc":"IM"}
+]
+}

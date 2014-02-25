@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UBBN","name":"Nakhchivan","lat":39.18776375,"lon":45.45795325,"rwys":2,"ils":0,"elev":2863,"index":3694665,"path":"e040n30/e045n39"
+,"runways":[
+{"len_m":3284,"wid_m":42.06,"hdg":137,"surf":"Asphalt","rwy1":"14L","lat1":39.19899400,"lon1":45.44555800,"rwy2":"32R","lat2":39.17725000,"lon2":45.47133300},
+{"len_m":3292,"wid_m":45.11,"hdg":137,"surf":"Concrete","rwy1":"14R","lat1":39.19830800,"lon1":45.44455000,"rwy2":"32L","lat2":39.17650300,"lon2":45.47037200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.5,"desc":"ATIS"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+,"ils":[
+]
+}

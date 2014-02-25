@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUDL","name":"Tunoshna","lat":57.560668,"lon":40.1573665,"rwys":1,"ils":1,"elev":305,"index":3613920,"path":"e040n50/e040n57"
+,"runways":[
+{"len_m":3008,"wid_m":43.89,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":57.55461900,"lon1":40.13489700,"rwy2":"23","lat2":57.56671700,"lon2":40.17983600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.35,"desc":"ATIS"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":57.55333300,"lon":40.12833300,"rng_nm":18,"alt_fmsl":305,"hdg":244.13,"id":"IRG","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":57.56666700,"lon":40.17333300,"rng_nm":10,"alt_fmsl":305,"id":"IRG","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":57.58166700,"lon":40.23833300,"rng_nm":0,"alt_fmsl":305,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.57000000,"lon":40.19166700,"rng_nm":0,"alt_fmsl":305,"id":"----","rwy":"23","desc":"MM"}
+]
+}

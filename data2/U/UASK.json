@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UASK","name":"Ust Kamenogorsk","lat":50.0341535,"lon":82.49941225,"rwys":2,"ils":2,"elev":939,"index":4301569,"path":"e080n50/e082n50"
+,"runways":[
+{"len_m":2510,"wid_m":42.06,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":50.04393900,"lon1":82.48088600,"rwy2":"30","lat2":50.02925000,"lon2":82.50749400},
+{"len_m":1855,"wid_m":60.96,"hdg":130,"surf":"Turf/grass","rwy1":"12L","lat1":50.03715300,"lon1":82.49481900,"rwy2":"30R","lat2":50.02627200,"lon2":82.51445000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":50.02239700,"lon":82.51902800,"rng_nm":18,"alt_fmsl":939,"hdg":131.34,"id":"IUS","rwy":"12","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.7,"lat":50.04680800,"lon":82.47486900,"rng_nm":18,"alt_fmsl":939,"hdg":309.95,"id":"ISI","rwy":"30","desc":"ILS-cat-III"},
+{"type":"GS","freq":111.7,"lat":50.04277200,"lon":82.48579400,"rng_nm":10,"alt_fmsl":939,"id":"IUS","rwy":"12","desc":"GS","gs":2.4},
+{"type":"GS","freq":109.7,"lat":50.03183300,"lon":82.50560000,"rng_nm":10,"alt_fmsl":939,"id":"ISI","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.06762800,"lon":82.43695300,"rng_nm":0,"alt_fmsl":939,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.00598600,"lon":82.54870000,"rng_nm":0,"alt_fmsl":939,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.04947200,"lon":82.46995800,"rng_nm":0,"alt_fmsl":939,"id":"----","rwy":"12","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.02212200,"lon":82.51951700,"rng_nm":0,"alt_fmsl":939,"id":"----","rwy":"30","desc":"MM"}
+]
+}

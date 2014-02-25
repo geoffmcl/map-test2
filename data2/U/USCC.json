@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USCC","name":"Balandino","lat":55.305843,"lon":61.5033195,"rwys":1,"ils":2,"elev":769,"index":3957842,"path":"e060n50/e061n55"
+,"runways":[
+{"len_m":3192,"wid_m":60.05,"hdg":103,"surf":"Concrete","rwy1":"09","lat1":55.30921100,"lon1":61.47888600,"rwy2":"27","lat2":55.30247500,"lon2":61.52775300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.2,"desc":"CHELYABINSK START"},
+{"type":"APP","freq":124.7,"desc":"CHELYABINSK APP"},
+{"type":"APP","freq":124,"desc":"CHELYABINSK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":55.30000000,"lon":61.53833300,"rng_nm":18,"alt_fmsl":769,"hdg":105.25,"id":"ILB","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":55.31000000,"lon":61.46666700,"rng_nm":18,"alt_fmsl":769,"hdg":282.19,"id":"IKS","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":55.30833300,"lon":61.48500000,"rng_nm":10,"alt_fmsl":769,"id":"ILB","rwy":"09","desc":"GS","gs":2.8},
+{"type":"GS","freq":108.7,"lat":55.30333300,"lon":61.52500000,"rng_nm":10,"alt_fmsl":769,"id":"IKS","rwy":"27","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":55.31666700,"lon":61.42166700,"rng_nm":0,"alt_fmsl":769,"id":"----","rwy":"09","desc":"OM"},
+{"type":"OM","freq":0,"lat":55.29333300,"lon":61.58833300,"rng_nm":0,"alt_fmsl":769,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.31000000,"lon":61.46666900,"rng_nm":0,"alt_fmsl":769,"id":"----","rwy":"09","desc":"MM"},
+{"type":"MM","freq":0,"lat":55.30000000,"lon":61.54666700,"rng_nm":0,"alt_fmsl":769,"id":"----","rwy":"27","desc":"MM"}
+]
+}

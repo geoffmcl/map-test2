@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UNBB","name":"Barnaul","lat":53.3637735,"lon":83.5385335,"rwys":1,"ils":2,"elev":838,"index":4318162,"path":"e080n50/e083n53"
+,"runways":[
+{"len_m":2854,"wid_m":49.99,"hdg":67,"surf":"Concrete","rwy1":"06","lat1":53.35881400,"lon1":83.51876400,"rwy2":"24","lat2":53.36873300,"lon2":83.55830300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":129,"desc":"APP"},
+{"type":"APP","freq":120.3,"desc":"APP"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":53.37333300,"lon":83.57000000,"rng_nm":18,"alt_fmsl":838,"hdg":64.62,"id":"IBU","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":53.35782500,"lon":83.51770600,"rng_nm":18,"alt_fmsl":838,"hdg":245.74,"id":"IAR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":53.36166700,"lon":83.52833300,"rng_nm":10,"alt_fmsl":838,"id":"IBU","rwy":"06","desc":"GS","gs":2.7},
+{"type":"GS","freq":108.7,"lat":53.36626700,"lon":83.55622500,"rng_nm":10,"alt_fmsl":838,"id":"IAR","rwy":"24","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":53.34500000,"lon":83.46500000,"rng_nm":0,"alt_fmsl":838,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":53.38000000,"lon":83.61166700,"rng_nm":0,"alt_fmsl":838,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.35666700,"lon":83.51166700,"rng_nm":0,"alt_fmsl":838,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":53.37166700,"lon":83.57333300,"rng_nm":0,"alt_fmsl":838,"id":"----","rwy":"24","desc":"MM"}
+]
+}

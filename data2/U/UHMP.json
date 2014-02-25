@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHMP","name":"Pevek","lat":69.7832835,"lon":170.5970015,"rwys":1,"ils":1,"elev":11,"index":5744625,"path":"e170n60/e170n69"
+,"runways":[
+{"len_m":2498,"wid_m":42.06,"hdg":166,"surf":"Concrete","rwy1":"17","lat1":69.79419200,"lon1":170.58968600,"rwy2":"35","lat2":69.77237500,"lon2":170.60431700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":124.2,"desc":"KRUG"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":69.80057800,"lon":170.58968600,"rng_nm":18,"alt_fmsl":11,"hdg":349.83,"id":"IBM","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":69.77519200,"lon":170.59910300,"rng_nm":10,"alt_fmsl":11,"id":"IBM","rwy":"35","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":69.73500000,"lon":170.62666700,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":69.76333300,"lon":170.60833300,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"35","desc":"MM"}
+]
+}

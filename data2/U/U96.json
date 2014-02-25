@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U96","name":"Cal Black Memorial","lat":37.441943,"lon":-110.5694405,"rwys":1,"ils":0,"elev":4388,"index":1138649,"path":"w120n30/w111n37"
+,"runways":[
+{"len_m":1744,"wid_m":18.29,"hdg":23,"surf":"Asphalt","rwy1":"01","lat1":37.43472200,"lon1":-110.57333100,"rwy2":"19","lat2":37.44916400,"lon2":-110.56555000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

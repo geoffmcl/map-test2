@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UTDL","name":"Khudzhand","lat":40.215396,"lon":69.694708,"rwys":1,"ils":0,"elev":1450,"index":4087946,"path":"e060n40/e069n40"
+,"runways":[
+{"len_m":3185,"wid_m":49.99,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":40.21345000,"lon1":69.67617200,"rwy2":"26","lat2":40.21734200,"lon2":69.71324400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"APP"},
+{"type":"APP","freq":120.3,"desc":"KRUG"}
+]
+,"ils":[
+]
+}

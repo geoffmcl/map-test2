@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UWKS","name":"Cheboksary","lat":56.0902685,"lon":47.3472515,"rwys":1,"ils":2,"elev":560,"index":3728513,"path":"e040n50/e047n56"
+,"runways":[
+{"len_m":2512,"wid_m":49.07,"hdg":71,"surf":"Asphalt","rwy1":"06","lat1":56.08678100,"lon1":47.32805600,"rwy2":"24","lat2":56.09375600,"lon2":47.36644700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":56.09449200,"lon":47.37039200,"rng_nm":18,"alt_fmsl":560,"hdg":71.94,"id":"ILA","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.3,"lat":56.08510300,"lon":47.31923100,"rng_nm":18,"alt_fmsl":560,"hdg":251.80,"id":"ICR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":56.08877200,"lon":47.33035600,"rng_nm":10,"alt_fmsl":560,"id":"ILA","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":108.3,"lat":56.09419700,"lon":47.36123900,"rng_nm":10,"alt_fmsl":560,"id":"ICR","rwy":"24","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":56.07333300,"lon":47.26166700,"rng_nm":0,"alt_fmsl":560,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":56.10500000,"lon":47.42833300,"rng_nm":0,"alt_fmsl":560,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.08333300,"lon":47.31333300,"rng_nm":0,"alt_fmsl":560,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":56.09666700,"lon":47.38500000,"rng_nm":0,"alt_fmsl":560,"id":"----","rwy":"24","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMBB","name":"Brest","lat":52.11114339,"lon":23.89995051,"rwys":1,"ils":1,"elev":468,"index":3335043,"path":"e020n50/e023n52"
+,"runways":[
+{"len_m":2624,"wid_m":42.06,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":52.11307400,"lon1":23.87885100,"rwy2":"29","lat2":52.10349200,"lon2":23.91385400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":127.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":52.11564400,"lon":23.86945900,"rng_nm":18,"alt_fmsl":443,"hdg":294.05,"id":"IBY","rwy":"29","desc":"ILS-cat-I"},
+{"type":"OM","freq":0,"lat":52.08973300,"lon":23.96414900,"rng_nm":0,"alt_fmsl":466,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.09960500,"lon":23.92806900,"rng_nm":0,"alt_fmsl":469,"id":"----","rwy":"29","desc":"MM"}
+]
+}

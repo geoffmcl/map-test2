@@ -1,0 +1,34 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKHH","name":"Osnova Intl","lat":49.9244088375,"lon":36.289047675,"rwys":2,"ils":2,"elev":507,"index":3547897,"path":"e030n40/e036n49"
+,"runways":[
+{"len_m":2499,"wid_m":49.99,"hdg":82,"surf":"Concrete","rwy1":"07","lat1":49.92545000,"lon1":36.27349800,"rwy2":"25","lat2":49.92828900,"lon2":36.30802200},
+{"len_m":1204,"wid_m":50.29,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":49.92470964,"lon1":36.28867088,"rwy2":"26","lat2":49.92463100,"lon2":36.30544400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":36,"surf":"Concrete","lat1":49.92309439,"lon1":36.28195894},
+{"rwy1":"H2","len_m":39,"wid_m":39.93,"hdg":36,"surf":"Concrete","lat1":49.92300114,"lon1":36.28641432}
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"KHARKIV ATIS"},
+{"type":"GND","freq":119,"desc":"KHARKIV GND"},
+{"type":"TWR","freq":118.1,"desc":"KHARKIV TWR"},
+{"type":"APP","freq":118.1,"desc":"KHARKIV RADAR"},
+{"type":"APP","freq":123.7,"desc":"KHARKIV RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":49.92893219,"lon":36.31138229,"rng_nm":18,"alt_fmsl":463,"hdg":81.90,"id":"IHR","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":49.92500000,"lon":36.31138900,"rng_nm":18,"alt_fmsl":507,"hdg":88.87,"id":"IHR","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":49.92471695,"lon":36.27249908,"rng_nm":18,"alt_fmsl":476,"hdg":260.99,"id":"IHA","rwy":"25","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":49.92472200,"lon":36.27250000,"rng_nm":18,"alt_fmsl":507,"hdg":270.23,"id":"IHA","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":49.92661442,"lon":36.27701566,"rng_nm":10,"alt_fmsl":0,"id":"IHR","rwy":"07","desc":"GS","gs":2.8},
+{"type":"GS","freq":111.1,"lat":49.92611100,"lon":36.27666700,"rng_nm":10,"alt_fmsl":507,"id":"IHR","rwy":"08","desc":"GS","gs":2.8},
+{"type":"GS","freq":111.7,"lat":49.92638900,"lon":36.30611100,"rng_nm":10,"alt_fmsl":0,"id":"IHA","rwy":"25","desc":"GS","gs":2.8},
+{"type":"GS","freq":111.7,"lat":49.92638900,"lon":36.30611100,"rng_nm":10,"alt_fmsl":507,"id":"IHA","rwy":"26","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":49.92456900,"lon":36.22164200,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":49.92457100,"lon":36.35942200,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.92457000,"lon":36.26303200,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":49.92429300,"lon":36.31969900,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"26","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":49.92638239,"lon":36.27800099,"rng_nm":18,"alt_fmsl":0,"id":"IHR","rwy":"07","desc":"DME-ILS"},
+{"type":"DME","freq":111.7,"lat":49.92733262,"lon":36.30312815,"rng_nm":18,"alt_fmsl":0,"id":"IHA","rwy":"25","desc":"DME-ILS"}
+]
+}

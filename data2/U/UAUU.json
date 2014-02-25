@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UAUU","name":"Kostanay","lat":53.206667,"lon":63.550833,"rwys":1,"ils":2,"elev":595,"index":3990474,"path":"e060n50/e063n53"
+,"runways":[
+{"len_m":2441,"wid_m":47.85,"hdg":155,"surf":"Asphalt","rwy1":"15","lat1":53.21666700,"lon1":63.54333300,"rwy2":"33","lat2":53.19666700,"lon2":63.55833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":53.18873100,"lon":63.56309200,"rng_nm":18,"alt_fmsl":595,"hdg":157.05,"id":"IKT","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":53.22447800,"lon":63.53772800,"rng_nm":18,"alt_fmsl":595,"hdg":336.07,"id":"INA","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":53.21446900,"lon":63.54288300,"rng_nm":10,"alt_fmsl":595,"id":"IKT","rwy":"15","desc":"GS","gs":2.4},
+{"type":"GS","freq":110.7,"lat":53.19866400,"lon":63.55410600,"rng_nm":10,"alt_fmsl":595,"id":"INA","rwy":"33","desc":"GS","gs":2.4}
+]
+}

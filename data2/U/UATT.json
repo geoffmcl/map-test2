@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UATT","name":"Aktyubinsk","lat":50.245624,"lon":57.2071155,"rwys":1,"ils":2,"elev":738,"index":3891976,"path":"e050n50/e057n50"
+,"runways":[
+{"len_m":3096,"wid_m":59.74,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":50.25549200,"lon1":57.19180600,"rwy2":"31","lat2":50.23575600,"lon2":57.22242500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":50.23010600,"lon":57.23118100,"rng_nm":18,"alt_fmsl":738,"hdg":135.25,"id":"IAT","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":50.26218900,"lon":57.18139700,"rng_nm":18,"alt_fmsl":738,"hdg":315.20,"id":"ITU","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":50.25305600,"lon":57.19194400,"rng_nm":10,"alt_fmsl":738,"id":"IAT","rwy":"13","desc":"GS","gs":2.67},
+{"type":"GS","freq":110.5,"lat":50.23722200,"lon":57.21750000,"rng_nm":10,"alt_fmsl":738,"id":"ITU","rwy":"31","desc":"GS","gs":2.67},
+{"type":"OM","freq":0,"lat":50.28093900,"lon":57.15226900,"rng_nm":0,"alt_fmsl":738,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.21105300,"lon":57.26074400,"rng_nm":0,"alt_fmsl":738,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.26246100,"lon":57.18097800,"rng_nm":0,"alt_fmsl":738,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.22983900,"lon":57.23159700,"rng_nm":0,"alt_fmsl":738,"id":"----","rwy":"31","desc":"MM"}
+]
+}

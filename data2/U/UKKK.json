@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKKK","name":"Zhuliany Intl","lat":50.4016935,"lon":30.4496975,"rwys":1,"ils":2,"elev":586,"index":3449625,"path":"e030n50/e030n50"
+,"runways":[
+{"len_m":1811,"wid_m":49.07,"hdg":86,"surf":"Concrete","rwy1":"08","lat1":50.40113100,"lon1":30.43698900,"rwy2":"26","lat2":50.40225600,"lon2":30.46240600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"ARR"},
+{"type":"APP","freq":123,"desc":"KYIV RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":50.40250000,"lon":30.46972200,"rng_nm":18,"alt_fmsl":586,"hdg":86.26,"id":"IKI","rwy":"08","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.3,"lat":50.40111100,"lon":30.43138900,"rng_nm":18,"alt_fmsl":586,"hdg":266.67,"id":"IKV","rwy":"26","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.7,"lat":50.40000000,"lon":30.44277800,"rng_nm":10,"alt_fmsl":586,"id":"IKI","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":108.3,"lat":50.40083300,"lon":30.45888900,"rng_nm":10,"alt_fmsl":586,"id":"IKV","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.39893400,"lon":30.38739000,"rng_nm":0,"alt_fmsl":586,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.40421400,"lon":30.51155800,"rng_nm":0,"alt_fmsl":586,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.40032400,"lon":30.41905700,"rng_nm":0,"alt_fmsl":586,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.40282500,"lon":30.47489100,"rng_nm":0,"alt_fmsl":586,"id":"----","rwy":"26","desc":"MM"}
+]
+}

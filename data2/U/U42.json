@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U42","name":"Salt Lake City Municipal 2","lat":40.61921187,"lon":-111.99283294,"rwys":1,"ils":0,"elev":4607,"index":1122464,"path":"w120n40/w112n40"
+,"runways":[
+{"len_m":1851,"wid_m":29.87,"hdg":172,"surf":"Asphalt","rwy1":"16","lat1":40.62747646,"lon1":-111.99428719,"rwy2":"34","lat2":40.61094728,"lon2":-111.99137868}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.2,"desc":"APP/DEP"},
+{"type":"APP","freq":124.3,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

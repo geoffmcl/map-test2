@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKON","name":"Mykolaiv Intl","lat":47.05920625,"lon":31.92138,"rwys":2,"ils":2,"elev":184,"index":3465795,"path":"e030n40/e031n47"
+,"runways":[
+{"len_m":2562,"wid_m":43.89,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":47.05063100,"lon1":31.90673900,"rwy2":"23","lat2":47.06516900,"lon2":31.93291700},
+{"len_m":1806,"wid_m":76.20,"hdg":50,"surf":"Turf/grass","rwy1":"05L","lat1":47.05539400,"lon1":31.91369700,"rwy2":"23R","lat2":47.06563100,"lon2":31.93216700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":47.07055600,"lon":31.94305600,"rng_nm":18,"alt_fmsl":184,"hdg":51.17,"id":"INI","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":47.04750000,"lon":31.90166700,"rng_nm":18,"alt_fmsl":184,"hdg":230.30,"id":"INK","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":47.05388900,"lon":31.90972200,"rng_nm":10,"alt_fmsl":184,"id":"INI","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":47.06472200,"lon":31.92944400,"rng_nm":10,"alt_fmsl":184,"id":"INK","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.02890400,"lon":31.86779800,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"05","desc":"OM"},
+{"type":"OM","freq":0,"lat":47.08723900,"lon":31.97140800,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.04473800,"lon":31.89640900,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":47.07057200,"lon":31.94168600,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"23","desc":"MM"}
+]
+}

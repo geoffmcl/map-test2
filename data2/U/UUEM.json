@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUEM","name":"Migalovo","lat":56.8247345,"lon":35.757676,"rwys":1,"ils":0,"elev":469,"index":3531955,"path":"e030n50/e035n56"
+,"runways":[
+{"len_m":2498,"wid_m":49.07,"hdg":74,"surf":"Concrete","rwy1":"07","lat1":56.82182200,"lon1":35.73791900,"rwy2":"25","lat2":56.82764700,"lon2":35.77743300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":124,"desc":"TVER TAXIING"},
+{"type":"TWR","freq":120.2,"desc":"TVER START"}
+]
+,"ils":[
+]
+}

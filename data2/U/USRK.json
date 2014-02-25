@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USRK","name":"Kogalym","lat":62.190417,"lon":74.5338025,"rwys":1,"ils":2,"elev":220,"index":4171273,"path":"e070n60/e074n62"
+,"runways":[
+{"len_m":2508,"wid_m":42.06,"hdg":189,"surf":"Concrete","rwy1":"17","lat1":62.20150300,"lon1":74.53795800,"rwy2":"35","lat2":62.17933100,"lon2":74.52964700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.4,"desc":"ATIS"},
+{"type":"TWR","freq":119.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":62.17166700,"lon":74.52833300,"rng_nm":18,"alt_fmsl":220,"hdg":188.56,"id":"IKG","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":62.20833300,"lon":74.54166700,"rng_nm":18,"alt_fmsl":220,"hdg":10.95,"id":"IOL","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":62.19833300,"lon":74.54000000,"rng_nm":10,"alt_fmsl":220,"id":"IKG","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":62.18000000,"lon":74.53333300,"rng_nm":10,"alt_fmsl":220,"id":"IOL","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":62.24666700,"lon":74.55500000,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"17","desc":"OM"},
+{"type":"OM","freq":0,"lat":62.14500000,"lon":74.51833300,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":62.21000000,"lon":74.54333300,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":62.17166700,"lon":74.52833600,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"35","desc":"MM"}
+]
+}

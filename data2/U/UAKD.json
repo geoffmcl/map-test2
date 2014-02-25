@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UAKD","name":"Zhezkazgan","lat":47.7087555,"lon":67.7391985,"rwys":1,"ils":1,"elev":1250,"index":4055658,"path":"e060n40/e067n47"
+,"runways":[
+{"len_m":2598,"wid_m":42.06,"hdg":51,"surf":"Concrete","rwy1":"04","lat1":47.70150800,"lon1":67.72561900,"rwy2":"22","lat2":47.71600300,"lon2":67.75277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":47.69704400,"lon":67.71725000,"rng_nm":18,"alt_fmsl":1250,"hdg":231.57,"id":"IGN","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":47.71320600,"lon":67.75147200,"rng_nm":10,"alt_fmsl":1250,"id":"IGN","rwy":"22","desc":"GS","gs":2.4},
+{"type":"MM","freq":0,"lat":47.72000000,"lon":67.75666700,"rng_nm":0,"alt_fmsl":1250,"id":"----","rwy":"22","desc":"MM"}
+]
+}

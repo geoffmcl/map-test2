@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UARR","name":"Uralsk","lat":51.1508805,"lon":51.5414585,"rwys":1,"ils":1,"elev":125,"index":3793738,"path":"e050n50/e051n51"
+,"runways":[
+{"len_m":2399,"wid_m":42.06,"hdg":51,"surf":"Concrete","rwy1":"04","lat1":51.14423600,"lon1":51.52795300,"rwy2":"22","lat2":51.15752500,"lon2":51.55496400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":51.13972200,"lon":51.52083300,"rng_nm":18,"alt_fmsl":125,"hdg":230.24,"id":"IUR","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":51.15416700,"lon":51.55416700,"rng_nm":10,"alt_fmsl":125,"id":"IUR","rwy":"22","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":51.17888900,"lon":51.60027800,"rng_nm":0,"alt_fmsl":125,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.16388900,"lon":51.57027800,"rng_nm":0,"alt_fmsl":125,"id":"----","rwy":"22","desc":"MM"}
+]
+}

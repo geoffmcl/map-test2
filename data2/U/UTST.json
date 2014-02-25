@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UTST","name":"Termez","lat":37.2866665,"lon":67.3091665,"rwys":1,"ils":1,"elev":1027,"index":4054993,"path":"e060n30/e067n37"
+,"runways":[
+{"len_m":2903,"wid_m":42.06,"hdg":75,"surf":"Concrete","rwy1":"07","lat1":37.28333300,"lon1":67.29333300,"rwy2":"25","lat2":37.29000000,"lon2":67.32500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":37.28138900,"lon":67.28638900,"rng_nm":18,"alt_fmsl":1027,"hdg":254.33,"id":"INO","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":37.28833300,"lon":67.30694400,"rng_nm":10,"alt_fmsl":1027,"id":"INO","rwy":"25","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":37.30000000,"lon":67.36500000,"rng_nm":0,"alt_fmsl":1027,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.29333300,"lon":67.33666700,"rng_nm":0,"alt_fmsl":1027,"id":"----","rwy":"25","desc":"MM"}
+]
+}

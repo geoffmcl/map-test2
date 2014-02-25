@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UADD","name":"Taraz","lat":42.8535335,"lon":71.303693,"rwys":1,"ils":0,"elev":2184,"index":4120881,"path":"e070n40/e071n42"
+,"runways":[
+{"len_m":2903,"wid_m":45.11,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":42.86309200,"lon1":71.29157800,"rwy2":"31","lat2":42.84397500,"lon2":71.31580800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":120.8,"desc":"APP"}
+]
+,"ils":[
+]
+}

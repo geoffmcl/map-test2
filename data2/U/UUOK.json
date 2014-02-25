@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUOK","name":"Kursk","lat":51.7506125,"lon":36.295586,"rwys":1,"ils":0,"elev":686,"index":3548017,"path":"e030n50/e036n51"
+,"runways":[
+{"len_m":2499,"wid_m":39.93,"hdg":123,"surf":"Concrete","rwy1":"12","lat1":51.75689200,"lon1":36.28058300,"rwy2":"30","lat2":51.74433300,"lon2":36.31058900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":120.6,"desc":"TAXIING"},
+{"type":"TWR","freq":131.5,"desc":"START"},
+{"type":"APP","freq":131.5,"desc":"KRUG"}
+]
+,"ils":[
+]
+}

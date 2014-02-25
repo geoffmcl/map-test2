@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"URKA","name":"Vityazevo","lat":45.00204835,"lon":37.33953004,"rwys":2,"ils":0,"elev":173,"index":3563969,"path":"e030n40/e037n45"
+,"runways":[
+{"len_m":2428,"wid_m":42.06,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":44.99425427,"lon1":37.33666157,"rwy2":"22","lat2":45.00999948,"lon2":37.35801573},
+{"len_m":2443,"wid_m":95.10,"hdg":43,"surf":"Turf/grass","rwy1":"04R","lat1":44.99374240,"lon1":37.33713929,"rwy2":"22L","lat2":45.00958574,"lon2":37.35862006}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.8,"desc":"ANAPA KRUG"},
+{"type":"APP","freq":118.7,"desc":"ANAPA APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHWW","name":"Knevichi","lat":43.383916375,"lon":132.147375,"rwys":4,"ils":1,"elev":46,"index":5120344,"path":"e130n40/e132n43"
+,"runways":[
+{"len_m":3497,"wid_m":60.05,"hdg":61,"surf":"Concrete","rwy1":"07L","lat1":43.39133900,"lon1":132.12912200,"rwy2":"25R","lat2":43.40656700,"lon2":132.16690800},
+{"len_m":2500,"wid_m":60.05,"hdg":61,"surf":"Asphalt","rwy1":"07R","lat1":43.39367200,"lon1":132.14150300,"rwy2":"25L","lat2":43.40454700,"lon2":132.16852800},
+{"len_m":972,"wid_m":19.81,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":43.36460000,"lon1":132.13933600,"rwy2":"24","lat2":43.37017200,"lon2":132.14859200},
+{"len_m":601,"wid_m":19.81,"hdg":146,"surf":"Asphalt","rwy1":"16","lat1":43.37247800,"lon1":132.14046100,"rwy2":"34","lat2":43.36795600,"lon2":132.14455000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"VLADIVOSTOK ATIS"},
+{"type":"GND","freq":121.7,"desc":"TAXIING"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"TWR","freq":124,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":43.38833300,"lon":132.11833300,"rng_nm":18,"alt_fmsl":46,"hdg":242.66,"id":"IKW","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":43.40500000,"lon":132.16333300,"rng_nm":10,"alt_fmsl":46,"id":"IKW","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.47000000,"lon":132.32333300,"rng_nm":0,"alt_fmsl":46,"id":"----","rwy":"25R","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.41166700,"lon":132.17833300,"rng_nm":0,"alt_fmsl":46,"id":"----","rwy":"25R","desc":"MM"}
+]
+}

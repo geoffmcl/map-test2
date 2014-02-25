@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UAFO","name":"Osh","lat":40.6083335,"lon":72.794167,"rwys":1,"ils":1,"elev":2927,"index":4137123,"path":"e070n40/e072n40"
+,"runways":[
+{"len_m":2582,"wid_m":49.99,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":40.61500000,"lon1":72.78166700,"rwy2":"30","lat2":40.60166700,"lon2":72.80666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"},
+{"type":"APP","freq":120.6,"desc":"GCA"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":40.60000000,"lon":72.80000000,"rng_nm":18,"alt_fmsl":2927,"hdg":137.15,"id":"IOU","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":40.61333300,"lon":72.78166700,"rng_nm":10,"alt_fmsl":2927,"id":"IOU","rwy":"12","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":40.63666700,"lon":72.74333300,"rng_nm":0,"alt_fmsl":2733,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.62000000,"lon":72.77333300,"rng_nm":0,"alt_fmsl":2927,"id":"----","rwy":"12","desc":"MM"}
+]
+}

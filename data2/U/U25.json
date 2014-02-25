@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U25","name":"Dubois Muni","lat":43.54885445,"lon":-109.68763840,"rwys":1,"ils":0,"elev":7291,"index":1155425,"path":"w110n40/w110n43"
+,"runways":[
+{"len_m":1902,"wid_m":17.98,"hdg":116,"surf":"Asphalt","rwy1":"10","lat1":43.55205616,"lon1":-109.70055779,"rwy2":"28","lat2":43.54446292,"lon2":-109.67945204}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

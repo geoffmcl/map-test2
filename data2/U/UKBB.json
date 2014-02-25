@@ -1,0 +1,39 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKBB","name":"Boryspil","lat":50.34073158,"lon":30.89714579,"rwys":2,"ils":4,"elev":421,"index":3449619,"path":"e030n50/e030n50"
+,"runways":[
+{"len_m":3496,"wid_m":63.09,"hdg":182,"surf":"Concrete","rwy1":"18R","lat1":50.35208720,"lon1":30.88167562,"rwy2":"36L","lat2":50.32068720,"lon2":30.87942562},
+{"len_m":4009,"wid_m":60.05,"hdg":182,"surf":"Concrete","rwy1":"18L","lat1":50.36055720,"lon1":30.90659562,"rwy2":"36R","lat2":50.32455720,"lon2":30.90391562}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"UKBB ATIS"},
+{"type":"CLD","freq":130.27,"desc":"BORISPIL DLV"},
+{"type":"GND","freq":118.05,"desc":"BORISPIL GND"},
+{"type":"TWR","freq":119.3,"desc":"BORYSPIL TWR"},
+{"type":"TWR","freq":119.65,"desc":"BORYSPIL TWR"},
+{"type":"TWR","freq":124,"desc":"BORYSPIL TWR"},
+{"type":"APP","freq":127.72,"desc":"KIEV RADAR"},
+{"type":"APP","freq":120.9,"desc":"KYIV RADAR"},
+{"type":"APP","freq":124.67,"desc":"KYIV RADAR"},
+{"type":"APP","freq":128.17,"desc":"KYIV RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":50.31638336,"lon":30.90328407,"rng_nm":18,"alt_fmsl":421,"hdg":182.76,"id":"IBI","rwy":"18L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":50.31221771,"lon":30.87878418,"rng_nm":18,"alt_fmsl":417,"hdg":182.66,"id":"IKB","rwy":"18R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":50.36221695,"lon":30.88238335,"rng_nm":18,"alt_fmsl":418,"hdg":2.66,"id":"IKE","rwy":"36L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":50.36750031,"lon":30.90710068,"rng_nm":18,"alt_fmsl":421,"hdg":2.76,"id":"INO","rwy":"36R","desc":"ILS-cat-III"},
+{"type":"GS","freq":111.3,"lat":50.35770035,"lon":30.90455055,"rng_nm":10,"alt_fmsl":421,"id":"IBI","rwy":"18L","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":50.34928513,"lon":30.87888336,"rng_nm":10,"alt_fmsl":421,"id":"IKB","rwy":"18R","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":50.32376480,"lon":30.87723351,"rng_nm":10,"alt_fmsl":421,"id":"IKE","rwy":"36L","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":50.32761765,"lon":30.90236664,"rng_nm":10,"alt_fmsl":421,"id":"INO","rwy":"36R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.39728165,"lon":30.90923309,"rng_nm":0,"alt_fmsl":389,"id":"----","rwy":"18L","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.38616562,"lon":30.88408279,"rng_nm":0,"alt_fmsl":405,"id":"----","rwy":"18R","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.28283310,"lon":30.87658310,"rng_nm":0,"alt_fmsl":360,"id":"----","rwy":"36L","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.28726578,"lon":30.90103340,"rng_nm":0,"alt_fmsl":383,"id":"----","rwy":"36R","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.36866760,"lon":30.90715027,"rng_nm":0,"alt_fmsl":421,"id":"----","rwy":"18L","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.36254883,"lon":30.88241577,"rng_nm":0,"alt_fmsl":418,"id":"----","rwy":"18R","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.31171799,"lon":30.87874985,"rng_nm":0,"alt_fmsl":417,"id":"----","rwy":"36L","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.31561661,"lon":30.90326691,"rng_nm":0,"alt_fmsl":421,"id":"----","rwy":"36R","desc":"MM"}
+]
+}

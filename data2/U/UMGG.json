@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMGG","name":"Gomel","lat":52.52338364,"lon":31.01610615,"rwys":1,"ils":2,"elev":472,"index":3466144,"path":"e030n50/e031n52"
+,"runways":[
+{"len_m":2568,"wid_m":42.98,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":52.53112200,"lon1":30.99877800,"rwy2":"29","lat2":52.52292900,"lon2":31.03416300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"GOMEL TOWER"},
+{"type":"APP","freq":126.1,"desc":"GOMEL APPROACH"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":52.52099900,"lon":31.04250100,"rng_nm":18,"alt_fmsl":471,"hdg":110.82,"id":"IGM","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":52.53267700,"lon":30.99205700,"rng_nm":18,"alt_fmsl":471,"hdg":290.82,"id":"IMV","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":52.53159200,"lon":31.00410100,"rng_nm":10,"alt_fmsl":471,"id":"IGM","rwy":"11","desc":"GS","gs":2.7},
+{"type":"GS","freq":108.7,"lat":52.52531100,"lon":31.03087500,"rng_nm":10,"alt_fmsl":471,"id":"IMV","rwy":"29","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":52.54329900,"lon":30.94525300,"rng_nm":0,"alt_fmsl":471,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":52.51240500,"lon":31.07972400,"rng_nm":0,"alt_fmsl":471,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.53456800,"lon":30.98413600,"rng_nm":0,"alt_fmsl":471,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":52.51925000,"lon":31.05013700,"rng_nm":0,"alt_fmsl":471,"id":"----","rwy":"29","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUBP","name":"Bryansk","lat":53.214193,"lon":34.176447,"rwys":1,"ils":1,"elev":663,"index":3515336,"path":"e030n50/e034n53"
+,"runways":[
+{"len_m":2398,"wid_m":42.06,"hdg":171,"surf":"Concrete","rwy1":"17","lat1":53.22484700,"lon1":34.17377500,"rwy2":"35","lat2":53.20353900,"lon2":34.17911900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.8,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"KRUG"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":53.23166700,"lon":34.17166700,"rng_nm":18,"alt_fmsl":663,"hdg":350.98,"id":"INU","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":53.20833300,"lon":34.17833300,"rng_nm":10,"alt_fmsl":663,"id":"INU","rwy":"35","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":53.17000000,"lon":34.18833300,"rng_nm":0,"alt_fmsl":663,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.19500000,"lon":34.18166700,"rng_nm":0,"alt_fmsl":663,"id":"----","rwy":"35","desc":"MM"}
+]
+}

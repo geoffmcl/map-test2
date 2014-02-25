@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UASS","name":"Semipalatinsk","lat":50.35037575,"lon":80.233836,"rwys":2,"ils":1,"elev":761,"index":4268816,"path":"e080n50/e080n50"
+,"runways":[
+{"len_m":3096,"wid_m":44.20,"hdg":83,"surf":"Concrete","rwy1":"08","lat1":50.34977500,"lon1":80.21273900,"rwy2":"26","lat2":50.35282800,"lon2":80.25598300},
+{"len_m":996,"wid_m":77.11,"hdg":23,"surf":"Concrete","rwy1":"02","lat1":50.34534200,"lon1":80.23052200,"rwy2":"20","lat2":50.35355800,"lon2":80.23610000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":50.34919400,"lon":80.20443900,"rng_nm":18,"alt_fmsl":761,"hdg":263.68,"id":"ISP","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":50.35117200,"lon":80.25180600,"rng_nm":10,"alt_fmsl":761,"id":"ISP","rwy":"26","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":50.35700000,"lon":80.31656100,"rng_nm":0,"alt_fmsl":761,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.35405800,"lon":80.27357800,"rng_nm":0,"alt_fmsl":761,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UIBB","name":"Bratsk","lat":56.370157255,"lon":101.70294936,"rwys":2,"ils":1,"elev":1610,"index":4613266,"path":"e100n50/e101n56"
+,"runways":[
+{"len_m":2007,"wid_m":74.98,"hdg":114,"surf":"Turf/grass","rwy1":"12L","lat1":56.37350699,"lon1":101.69279599,"rwy2":"30R","lat2":56.36601102,"lon2":101.72234344},
+{"len_m":3158,"wid_m":60.05,"hdg":114,"surf":"Concrete","rwy1":"12","lat1":56.37651700,"lon1":101.67513600,"rwy2":"30","lat2":56.36459400,"lon2":101.72152200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TAXIING"},
+{"type":"TWR","freq":118.1,"desc":"KRUG"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":56.37833300,"lon":101.66833300,"rng_nm":18,"alt_fmsl":1610,"hdg":294.98,"id":"IBS","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":56.36433411,"lon":101.71849823,"rng_nm":10,"alt_fmsl":1610,"id":"IBS","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":56.39158249,"lon":101.61309814,"rng_nm":0,"alt_fmsl":1385,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":56.35000000,"lon":101.77833300,"rng_nm":0,"alt_fmsl":1610,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.38074875,"lon":101.65743256,"rng_nm":0,"alt_fmsl":1385,"id":"----","rwy":"12","desc":"MM"},
+{"type":"MM","freq":0,"lat":56.36016846,"lon":101.73833466,"rng_nm":0,"alt_fmsl":1463,"id":"----","rwy":"30","desc":"MM"}
+]
+}

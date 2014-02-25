@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHHH","name":"Novy","lat":48.528043,"lon":135.188359,"rwys":2,"ils":2,"elev":244,"index":5169824,"path":"e130n40/e135n48"
+,"runways":[
+{"len_m":3998,"wid_m":60.05,"hdg":42,"surf":"Concrete","rwy1":"05R","lat1":48.51468300,"lon1":135.17275600,"rwy2":"23L","lat2":48.54132500,"lon2":135.20912200},
+{"len_m":3496,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"05L","lat1":48.51643100,"lon1":135.16988900,"rwy2":"23R","lat2":48.53973300,"lon2":135.20166900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"KHABAROVSK ATIS"},
+{"type":"TWR","freq":119.3,"desc":"KHABAROVSK TWR"},
+{"type":"APP","freq":120.3,"desc":"KHABAROVSK KRUG"},
+{"type":"APP","freq":125.2,"desc":"KHABAROVSK APP"},
+{"type":"APP","freq":129.3,"desc":"KHABAROVSK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":48.54500000,"lon":135.21333300,"rng_nm":18,"alt_fmsl":244,"hdg":41.57,"id":"IUF","rwy":"05R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":48.51000000,"lon":135.16666700,"rng_nm":18,"alt_fmsl":244,"hdg":221.90,"id":"IHI","rwy":"23L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":48.51666700,"lon":135.17333300,"rng_nm":10,"alt_fmsl":244,"id":"IUF","rwy":"05R","desc":"GS","gs":2.7},
+{"type":"GS","freq":110.9,"lat":48.53833300,"lon":135.20666700,"rng_nm":10,"alt_fmsl":244,"id":"IHI","rwy":"23L","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":48.48833300,"lon":135.13666700,"rng_nm":0,"alt_fmsl":244,"id":"----","rwy":"05R","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.56833300,"lon":135.24500000,"rng_nm":0,"alt_fmsl":244,"id":"----","rwy":"23L","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.50666700,"lon":135.16000000,"rng_nm":0,"alt_fmsl":244,"id":"----","rwy":"05R","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.55000000,"lon":135.22166700,"rng_nm":0,"alt_fmsl":244,"id":"----","rwy":"23L","desc":"MM"}
+]
+}

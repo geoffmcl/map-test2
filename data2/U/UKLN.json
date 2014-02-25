@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKLN","name":"Chernivtsi Intl","lat":48.2593225,"lon":25.9808305,"rwys":1,"ils":2,"elev":826,"index":3367571,"path":"e020n40/e025n48"
+,"runways":[
+{"len_m":2221,"wid_m":42.06,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":48.26821700,"lon1":25.97402200,"rwy2":"33","lat2":48.25042800,"lon2":25.98763900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":48.24222200,"lon":25.99361100,"rng_nm":18,"alt_fmsl":826,"hdg":153.36,"id":"ICN","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":48.27638900,"lon":25.96750000,"rng_nm":18,"alt_fmsl":826,"hdg":332.68,"id":"ICR","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":48.26472200,"lon":25.97805600,"rng_nm":10,"alt_fmsl":826,"id":"ICN","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":48.25111100,"lon":25.98472200,"rng_nm":10,"alt_fmsl":826,"id":"ICR","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.29800200,"lon":25.94825900,"rng_nm":0,"alt_fmsl":826,"id":"----","rwy":"15","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.21300200,"lon":26.01492900,"rng_nm":0,"alt_fmsl":826,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.27633500,"lon":25.96659400,"rng_nm":0,"alt_fmsl":826,"id":"----","rwy":"15","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.24133600,"lon":26.01492800,"rng_nm":0,"alt_fmsl":826,"id":"----","rwy":"33","desc":"MM"}
+]
+}

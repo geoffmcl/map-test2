@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMMS","name":"Minsk Velikiydvor","lat":53.88945242,"lon":28.03294794,"rwys":1,"ils":2,"elev":669,"index":3417080,"path":"e020n50/e028n53"
+,"runways":[
+{"len_m":3644,"wid_m":60.05,"hdg":138,"surf":"Concrete","rwy1":"13","lat1":53.89486800,"lon1":28.01252900,"rwy2":"31","lat2":53.87023100,"lon2":28.04904200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.85,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":125.25,"desc":"MINSK RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":53.86417600,"lon":28.05800200,"rng_nm":18,"alt_fmsl":669,"hdg":138.79,"id":"IVX","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":53.90142800,"lon":28.00276500,"rng_nm":18,"alt_fmsl":669,"hdg":318.83,"id":"IGH","rwy":"31","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.9,"lat":53.89179100,"lon":28.01383300,"rng_nm":10,"alt_fmsl":669,"id":"IVX","rwy":"13","desc":"GS","gs":2.7},
+{"type":"GS","freq":109.7,"lat":53.87162400,"lon":28.04369000,"rng_nm":10,"alt_fmsl":669,"id":"IGH","rwy":"31","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":53.92162900,"lon":27.97274800,"rng_nm":0,"alt_fmsl":669,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":53.84333800,"lon":28.08886300,"rng_nm":0,"alt_fmsl":669,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.86417600,"lon":28.05800200,"rng_nm":0,"alt_fmsl":669,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":53.90142800,"lon":28.00276500,"rng_nm":0,"alt_fmsl":669,"id":"----","rwy":"31","desc":"MM"}
+]
+}

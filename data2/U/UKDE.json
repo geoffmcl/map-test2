@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKDE","name":"Zaporizhzhia Intl","lat":47.8670045,"lon":35.315693,"rwys":1,"ils":2,"elev":373,"index":3531377,"path":"e030n40/e035n47"
+,"runways":[
+{"len_m":2502,"wid_m":42.06,"hdg":23,"surf":"Concrete","rwy1":"02","lat1":47.85665600,"lon1":35.30911400,"rwy2":"20","lat2":47.87735300,"lon2":35.32227200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":47.88555600,"lon":35.32777800,"rng_nm":18,"alt_fmsl":373,"hdg":23.43,"id":"IZA","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":47.84833300,"lon":35.30444400,"rng_nm":18,"alt_fmsl":373,"hdg":202.39,"id":"IZP","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":47.85916700,"lon":35.31333300,"rng_nm":10,"alt_fmsl":373,"id":"IZA","rwy":"02","desc":"GS","gs":2.7},
+{"type":"GS","freq":111.7,"lat":47.87500000,"lon":35.31861100,"rng_nm":10,"alt_fmsl":373,"id":"IZP","rwy":"20","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":47.82118800,"lon":35.28670000,"rng_nm":0,"alt_fmsl":373,"id":"----","rwy":"02","desc":"OM"},
+{"type":"OM","freq":0,"lat":47.90980100,"lon":35.34114300,"rng_nm":0,"alt_fmsl":373,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.84702200,"lon":35.30281100,"rng_nm":0,"alt_fmsl":373,"id":"----","rwy":"02","desc":"MM"},
+{"type":"MM","freq":0,"lat":47.88563400,"lon":35.32642100,"rng_nm":0,"alt_fmsl":373,"id":"----","rwy":"20","desc":"MM"}
+]
+}

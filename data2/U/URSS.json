@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"URSS","name":"Sochi","lat":43.44883300,"lon":39.94136000,"rwys":2,"ils":2,"elev":89,"index":3596635,"path":"e030n40/e039n43"
+,"runways":[
+{"len_m":2910,"wid_m":49.99,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":43.43948900,"lon1":39.92588600,"rwy2":"24","lat2":43.45056400,"lon2":39.95846700},
+{"len_m":2214,"wid_m":49.07,"hdg":29,"surf":"Concrete","rwy1":"02","lat1":43.43576100,"lon1":39.94578100,"rwy2":"20","lat2":43.45318100,"lon2":39.95907200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"KRUG"},
+{"type":"TWR","freq":119.1,"desc":"TAXIING"},
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":43.45500000,"lon":39.96166700,"rng_nm":18,"alt_fmsl":89,"hdg":30.95,"id":"IAD","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":43.45333300,"lon":39.96833300,"rng_nm":18,"alt_fmsl":89,"hdg":65.82,"id":"ISO","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":43.43833300,"lon":39.95000000,"rng_nm":10,"alt_fmsl":89,"id":"IAD","rwy":"02","desc":"GS","gs":2.8},
+{"type":"GS","freq":111.1,"lat":43.44000000,"lon":39.93166700,"rng_nm":10,"alt_fmsl":89,"id":"ISO","rwy":"06","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":43.41500000,"lon":39.93166700,"rng_nm":0,"alt_fmsl":89,"id":"----","rwy":"02","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.43500000,"lon":39.91000000,"rng_nm":0,"alt_fmsl":89,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.42833300,"lon":39.94166700,"rng_nm":0,"alt_fmsl":89,"id":"----","rwy":"02","desc":"MM"}
+]
+}

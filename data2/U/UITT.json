@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UITT","name":"Ust-kut","lat":56.85788554,"lon":105.71604142,"rwys":1,"ils":1,"elev":2188,"index":4678834,"path":"e100n50/e105n56"
+,"runways":[
+{"len_m":2007,"wid_m":45.11,"hdg":116,"surf":"Concrete","rwy1":"12","lat1":56.86186689,"lon1":105.71502057,"rwy2":"30","lat2":56.85377211,"lon2":105.74442425}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"Ust-Kut Meteo"},
+{"type":"TWR","freq":118.3,"desc":"Ust-Kut Krug"},
+{"type":"APP","freq":120.8,"desc":"Ust-Kut Podhod"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":56.86273193,"lon":105.71203613,"rng_nm":40,"alt_fmsl":2188,"hdg":296.80,"id":"ICI","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":56.85368347,"lon":105.74102020,"rng_nm":27,"alt_fmsl":2188,"id":"ICI","rwy":"30","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":56.83734894,"lon":105.80498505,"rng_nm":0,"alt_fmsl":1856,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.84981537,"lon":105.75852966,"rng_nm":0,"alt_fmsl":2071,"id":"----","rwy":"30","desc":"MM"}
+]
+}

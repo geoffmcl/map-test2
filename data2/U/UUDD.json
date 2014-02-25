@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUDD","name":"Moscou Domodedovo","lat":55.41341600,"lon":37.90064400,"rwys":3,"ils":2,"elev":588,"index":3564635,"path":"e030n50/e037n55"
+,"runways":[
+{"len_m":3780,"wid_m":53.04,"hdg":145,"surf":"Concrete","rwy1":"14L","lat1":55.42328300,"lon1":37.90799700,"rwy2":"32R","lat2":55.39528600,"lon2":37.94176400},
+{"len_m":3479,"wid_m":70.10,"hdg":145,"surf":"Concrete","rwy1":"14R","lat1":55.42115000,"lon1":37.87215600,"rwy2":"32L","lat2":55.39542500,"lon2":37.90333900},
+{"len_m":2672,"wid_m":45.11,"hdg":146,"surf":"Concrete","rwy1":"14C","lat1":55.42000000,"lon1":37.88000000,"rwy2":"32C","lat2":55.40000000,"lon2":37.90333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"CLD","freq":123.75,"desc":"DELIVERY"},
+{"type":"GND","freq":119,"desc":"TAXIING"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":127.7,"desc":"RADAR"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"APP","freq":124.4,"desc":"APP"},
+{"type":"APP","freq":129,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":55.38833300,"lon":37.95000000,"rng_nm":18,"alt_fmsl":588,"hdg":145.71,"id":"IDW","rwy":"14L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":55.42833300,"lon":37.90333300,"rng_nm":18,"alt_fmsl":588,"hdg":326.55,"id":"IDE","rwy":"32R","desc":"ILS-cat-III"},
+{"type":"GS","freq":108.5,"lat":55.42166700,"lon":37.91500000,"rng_nm":10,"alt_fmsl":588,"id":"IDW","rwy":"14L","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":55.39833300,"lon":37.94333300,"rng_nm":10,"alt_fmsl":588,"id":"IDE","rwy":"32R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":55.45333300,"lon":37.87500000,"rng_nm":0,"alt_fmsl":588,"id":"----","rwy":"14L","desc":"OM"},
+{"type":"OM","freq":0,"lat":55.36666700,"lon":37.97833300,"rng_nm":0,"alt_fmsl":588,"id":"----","rwy":"32R","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.43166700,"lon":37.90000000,"rng_nm":0,"alt_fmsl":588,"id":"----","rwy":"14L","desc":"MM"},
+{"type":"MM","freq":0,"lat":55.38833300,"lon":37.95166700,"rng_nm":0,"alt_fmsl":588,"id":"----","rwy":"32R","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":55.39833300,"lon":37.94333300,"rng_nm":18,"alt_fmsl":588,"id":"IDE","rwy":"32R","desc":"DME-ILS"}
+]
+}

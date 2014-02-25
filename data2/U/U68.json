@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U68","name":"North Big Horn Co","lat":44.91363549,"lon":-108.44541933,"rwys":2,"ils":0,"elev":4090,"index":1171898,"path":"w110n40/w109n44"
+,"runways":[
+{"len_m":1590,"wid_m":22.86,"hdg":105,"surf":"Asphalt","rwy1":"09","lat1":44.91402161,"lon1":-108.45347403,"rwy2":"27","lat2":44.91013689,"lon2":-108.43408896},
+{"len_m":514,"wid_m":20.12,"hdg":172,"surf":"Turf/grass","rwy1":"16","lat1":44.91292586,"lon1":-108.45087382,"rwy2":"34","lat2":44.90834040,"lon2":-108.45000010}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

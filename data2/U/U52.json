@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U52","name":"Beaver Muni","lat":38.22914575,"lon":-112.676521,"rwys":2,"ils":0,"elev":5860,"index":1105929,"path":"w120n30/w113n38"
+,"runways":[
+{"len_m":1554,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"13","lat1":38.23760800,"lon1":-112.67944200,"rwy2":"31","lat2":38.22569200,"lon2":-112.67010800},
+{"len_m":762,"wid_m":15.24,"hdg":84,"surf":"Turf/grass","rwy1":"07","lat1":38.22631500,"lon1":-112.68260000,"rwy2":"25","lat2":38.22696800,"lon2":-112.67393400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

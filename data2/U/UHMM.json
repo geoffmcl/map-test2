@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHMM","name":"Magadan Sokol","lat":59.91442600,"lon":150.72958100,"rwys":1,"ils":1,"elev":574,"index":5416314,"path":"e150n50/e150n59"
+,"runways":[
+{"len_m":3455,"wid_m":59.13,"hdg":93,"surf":"Concrete","rwy1":"10","lat1":59.91186100,"lon1":150.68960800,"rwy2":"28","lat2":59.91011700,"lon2":150.75126900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":120.8,"desc":"MAGADAN TWR"},
+{"type":"APP","freq":124,"desc":"MAGADAN APP"},
+{"type":"APP","freq":126.9,"desc":"MAGADAN APP"},
+{"type":"APP","freq":129,"desc":"MAGADAN APP"}
+]
+,"ils":[
+{"type":"GS","freq":110.3,"lat":59.91230000,"lon":150.69534300,"rng_nm":50,"alt_fmsl":574,"id":"IFK","rwy":"10","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":59.91445200,"lon":150.60549900,"rng_nm":0,"alt_fmsl":434,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.91238400,"lon":150.66328400,"rng_nm":0,"alt_fmsl":577,"id":"----","rwy":"10","desc":"MM"}
+]
+}

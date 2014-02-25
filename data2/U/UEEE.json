@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UEEE","name":"Yakutsk","lat":62.09236040,"lon":129.76125023,"rwys":2,"ils":1,"elev":325,"index":5072385,"path":"e120n60/e129n62"
+,"runways":[
+{"len_m":2496,"wid_m":49.07,"hdg":29,"surf":"Concrete","rwy1":"05L","lat1":62.08268600,"lon1":129.75350300,"rwy2":"23R","lat2":62.10217200,"lon2":129.77707500},
+{"len_m":3397,"wid_m":60.05,"hdg":36,"surf":"Asphalt","rwy1":"05R","lat1":62.08188449,"lon1":129.75652105,"rwy2":"23L","lat2":62.10625251,"lon2":129.79561334}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"Yakutsk Taxiing"},
+{"type":"TWR","freq":120,"desc":"Yakutsk Start"},
+{"type":"TWR","freq":120.3,"desc":"Yakutsk Krug"},
+{"type":"APP","freq":129.3,"desc":"Yakutsk Podhod"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":62.07333300,"lon":129.74333300,"rng_nm":18,"alt_fmsl":325,"hdg":216.60,"id":"IMF","rwy":"23L","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":62.10333300,"lon":129.79333300,"rng_nm":10,"alt_fmsl":325,"id":"IMF","rwy":"23L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":62.05333328,"lon":129.71015930,"rng_nm":0,"alt_fmsl":395,"id":"----","rwy":"05R","desc":"OM"},
+{"type":"OM","freq":0,"lat":62.13333300,"lon":129.84000000,"rng_nm":0,"alt_fmsl":325,"id":"----","rwy":"23L","desc":"OM"},
+{"type":"MM","freq":0,"lat":62.07666779,"lon":129.74800110,"rng_nm":0,"alt_fmsl":337,"id":"----","rwy":"05R","desc":"MM"},
+{"type":"MM","freq":0,"lat":62.11333300,"lon":129.80666700,"rng_nm":0,"alt_fmsl":325,"id":"----","rwy":"23L","desc":"MM"}
+]
+}

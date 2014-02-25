@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UWUU","name":"Ufa","lat":54.5595955,"lon":55.8904973,"rwys":5,"ils":0,"elev":449,"index":3859491,"path":"e050n50/e055n54"
+,"runways":[
+{"len_m":3752,"wid_m":60.05,"hdg":151,"surf":"Concrete","rwy1":"14R","lat1":54.57326700,"lon1":55.84976700,"rwy2":"32L","lat2":54.54371100,"lon2":55.87765600},
+{"len_m":2513,"wid_m":49.99,"hdg":150,"surf":"Concrete","rwy1":"14L","lat1":54.56685000,"lon1":55.87528100,"rwy2":"32R","lat2":54.54712200,"lon2":55.89419200},
+{"len_m":726,"wid_m":91.44,"hdg":60,"surf":"Dirt","rwy1":"05","lat1":54.55867500,"lon1":55.89471900,"rwy2":"23","lat2":54.56193300,"lon2":55.90444700},
+{"len_m":674,"wid_m":105.16,"hdg":28,"surf":"Dirt","rwy1":"01","lat1":54.55970000,"lon1":55.89766400,"rwy2":"19","lat2":54.56501400,"lon2":55.90267200},
+{"len_m":644,"wid_m":96.01,"hdg":151,"surf":"Dirt","rwy1":"14","lat1":54.56238600,"lon1":55.90191400,"rwy2":"32","lat2":54.55729700,"lon2":55.90666100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"TAXIING"},
+{"type":"GND","freq":124,"desc":"TAXIING"},
+{"type":"TWR","freq":120.9,"desc":"START"},
+{"type":"TWR","freq":119.4,"desc":"START"},
+{"type":"TWR","freq":124,"desc":"START"}
+]
+,"ils":[
+]
+}

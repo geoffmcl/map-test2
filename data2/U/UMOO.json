@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMOO","name":"Mogilev","lat":53.95905180,"lon":30.09753090,"rwys":1,"ils":1,"elev":636,"index":3449848,"path":"e030n50/e030n53"
+,"runways":[
+{"len_m":2595,"wid_m":42.06,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":53.96378000,"lon1":30.08097000,"rwy2":"31","lat2":53.94681100,"lon2":30.10808400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":127.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":53.94166700,"lon":30.12000000,"rng_nm":18,"alt_fmsl":636,"hdg":133.93,"id":"IUF","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":53.96166700,"lon":30.08333300,"rng_nm":10,"alt_fmsl":636,"id":"IUF","rwy":"13","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":53.98666700,"lon":30.04500000,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.97166700,"lon":30.07000000,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"13","desc":"MM"}
+]
+}

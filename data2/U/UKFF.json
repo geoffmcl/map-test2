@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKFF","name":"Simferopol","lat":45.02036530,"lon":33.99651028,"rwys":2,"ils":2,"elev":639,"index":3498435,"path":"e030n40/e033n45"
+,"runways":[
+{"len_m":3647,"wid_m":59.13,"hdg":13,"surf":"Concrete","rwy1":"01","lat1":45.03621490,"lon1":33.96795444,"rwy2":"19","lat2":45.06814582,"lon2":33.97863887},
+{"len_m":2656,"wid_m":54.86,"hdg":9,"surf":"Concrete","rwy1":"01R","lat1":45.01380881,"lon1":33.98568488,"rwy2":"19L","lat2":45.03738861,"lon2":33.99121446}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":45,"wid_m":46.94,"hdg":33,"surf":"Asphalt","lat1":45.02362534,"lon1":33.99606592}
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"RADAR"},
+{"type":"APP","freq":124.7,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.06948110,"lon":33.97908256,"rng_nm":18,"alt_fmsl":639,"hdg":13.30,"id":"ISN","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":45.03487962,"lon":33.96750453,"rng_nm":18,"alt_fmsl":639,"hdg":193.30,"id":"ISF","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.03888900,"lon":33.96833300,"rng_nm":10,"alt_fmsl":639,"id":"ISN","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":45.06583300,"lon":33.97750000,"rng_nm":10,"alt_fmsl":639,"id":"ISF","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.00056700,"lon":33.95621200,"rng_nm":0,"alt_fmsl":639,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":45.10418100,"lon":33.99148700,"rng_nm":0,"alt_fmsl":639,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.02779000,"lon":33.96537800,"rng_nm":0,"alt_fmsl":639,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":45.07612500,"lon":33.98176600,"rng_nm":0,"alt_fmsl":639,"id":"----","rwy":"19","desc":"MM"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USPP","name":"Bolshoye Savino","lat":57.914517,"lon":56.021214,"rwys":1,"ils":1,"elev":404,"index":3876088,"path":"e050n50/e056n57"
+,"runways":[
+{"len_m":3205,"wid_m":49.07,"hdg":45,"surf":"Concrete","rwy1":"03","lat1":57.90451700,"lon1":56.00176700,"rwy2":"21","lat2":57.92451700,"lon2":56.04066100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"PERM ATIS"},
+{"type":"GND","freq":121.7,"desc":"PERM TAXIING"},
+{"type":"TWR","freq":124,"desc":"PREM START"},
+{"type":"APP","freq":127.1,"desc":"PERM APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":57.90000000,"lon":55.99833300,"rng_nm":18,"alt_fmsl":404,"hdg":222.51,"id":"IPX","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":57.92333300,"lon":56.03666700,"rng_nm":10,"alt_fmsl":150,"id":"IPX","rwy":"21","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":57.95000000,"lon":56.09000000,"rng_nm":0,"alt_fmsl":404,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.93166700,"lon":56.05500000,"rng_nm":0,"alt_fmsl":404,"id":"----","rwy":"21","desc":"MM"}
+]
+}

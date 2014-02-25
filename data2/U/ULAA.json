@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ULAA","name":"Talagi","lat":64.600275,"lon":40.7166655,"rwys":1,"ils":2,"elev":62,"index":3614369,"path":"e040n60/e040n64"
+,"runways":[
+{"len_m":2500,"wid_m":43.89,"hdg":96,"surf":"Concrete","rwy1":"08","lat1":64.60156400,"lon1":40.69073100,"rwy2":"26","lat2":64.59898600,"lon2":40.74260000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.67,"desc":"ARKHANGELSK ATIS"},
+{"type":"TWR","freq":121.8,"desc":"ARKHANGELSK TWR"},
+{"type":"APP","freq":122,"desc":"ARKHANGELSK APP"},
+{"type":"APP","freq":124,"desc":"ARKHANGELSK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":64.59833300,"lon":40.76833300,"rng_nm":18,"alt_fmsl":62,"hdg":95.58,"id":"IAZ","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":64.60166700,"lon":40.67500000,"rng_nm":18,"alt_fmsl":62,"hdg":275.25,"id":"IKM","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":64.60333300,"lon":40.69972200,"rng_nm":10,"alt_fmsl":62,"id":"IAZ","rwy":"08","desc":"GS","gs":2.7},
+{"type":"GS","freq":111.7,"lat":64.60166700,"lon":40.73833300,"rng_nm":10,"alt_fmsl":62,"id":"IKM","rwy":"26","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":64.60666700,"lon":40.58666700,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":64.59500000,"lon":40.83666700,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.60166900,"lon":40.67500000,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":64.59833300,"lon":40.76833600,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"26","desc":"MM"}
+]
+}

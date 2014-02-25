@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UERP","name":"Poliarny","lat":66.39933271,"lon":112.03912971,"rwys":1,"ils":1,"elev":1660,"index":4794136,"path":"e110n60/e112n66"
+,"runways":[
+{"len_m":3087,"wid_m":42.06,"hdg":163,"surf":"Concrete","rwy1":"17","lat1":66.41371777,"lon1":112.02061447,"rwy2":"35","lat2":66.38714323,"lon2":112.04002522}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"Poliarny Meteo"},
+{"type":"APP","freq":132.1,"desc":"Poliarny Control"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":66.41670227,"lon":112.01833344,"rng_nm":50,"alt_fmsl":1665,"hdg":343.84,"id":"IWN","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":66.38999939,"lon":112.04049683,"rng_nm":50,"alt_fmsl":1665,"id":"IWN","rwy":"35","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":66.35333252,"lon":112.06549835,"rng_nm":0,"alt_fmsl":1443,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":66.37566376,"lon":112.04833221,"rng_nm":0,"alt_fmsl":1660,"id":"----","rwy":"35","desc":"MM"}
+]
+}

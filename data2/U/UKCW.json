@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKCW","name":"Luhansk Intl","lat":48.4173805,"lon":39.3741265,"rwys":1,"ils":2,"elev":636,"index":3596953,"path":"e030n40/e039n48"
+,"runways":[
+{"len_m":2880,"wid_m":42.67,"hdg":100,"surf":"Asphalt","rwy1":"09","lat1":48.41976700,"lon1":39.35500000,"rwy2":"27","lat2":48.41499400,"lon2":39.39325300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":132,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":48.41500000,"lon":39.40055600,"rng_nm":18,"alt_fmsl":636,"hdg":98.98,"id":"ILU","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":48.42166700,"lon":39.34777800,"rng_nm":18,"alt_fmsl":636,"hdg":282.45,"id":"ILG","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":48.41861100,"lon":39.36083300,"rng_nm":10,"alt_fmsl":636,"id":"ILU","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":48.41500000,"lon":39.39027800,"rng_nm":10,"alt_fmsl":636,"id":"ILG","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.42486500,"lon":39.29979000,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"09","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.40903400,"lon":39.44645900,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.42208800,"lon":39.34173500,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"09","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.41403300,"lon":39.40673600,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"27","desc":"MM"}
+]
+}

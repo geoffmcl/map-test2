@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UAFM","name":"Manas","lat":43.0613015,"lon":74.477556,"rwys":1,"ils":1,"elev":2058,"index":4170049,"path":"e070n40/e074n43"
+,"runways":[
+{"len_m":4202,"wid_m":54.86,"hdg":79,"surf":"Concrete","rwy1":"08","lat1":43.05801700,"lon1":74.45215600,"rwy2":"26","lat2":43.06458600,"lon2":74.50295600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":43.06525000,"lon":74.50827800,"rng_nm":18,"alt_fmsl":2058,"hdg":80.02,"id":"IMN","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":43.05738900,"lon":74.44747200,"rng_nm":18,"alt_fmsl":2058,"hdg":259.91,"id":"IBK","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":43.05983300,"lon":74.45552800,"rng_nm":10,"alt_fmsl":2058,"id":"IMN","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":43.06536100,"lon":74.49836100,"rng_nm":10,"alt_fmsl":2058,"id":"IBK","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.05166700,"lon":74.40500000,"rng_nm":0,"alt_fmsl":2058,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.07166700,"lon":74.55166700,"rng_nm":0,"alt_fmsl":2058,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.05666700,"lon":74.44000000,"rng_nm":0,"alt_fmsl":2058,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":43.06666700,"lon":74.51666700,"rng_nm":0,"alt_fmsl":2058,"id":"----","rwy":"26","desc":"MM"}
+]
+}

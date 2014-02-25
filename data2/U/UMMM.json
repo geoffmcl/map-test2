@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMMM","name":"Minsk 1","lat":53.864471,"lon":27.539682,"rwys":1,"ils":1,"elev":748,"index":3400690,"path":"e020n50/e027n53"
+,"runways":[
+{"len_m":1993,"wid_m":60.05,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":53.86965600,"lon1":27.52733300,"rwy2":"30","lat2":53.85928600,"lon2":27.55203100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128,"desc":"START"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":53.85833300,"lon":27.55666700,"rng_nm":18,"alt_fmsl":748,"hdg":123.22,"id":"IGK","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":53.86500000,"lon":27.53500000,"rng_nm":10,"alt_fmsl":748,"id":"IGK","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.89333300,"lon":27.47333300,"rng_nm":0,"alt_fmsl":748,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.87333300,"lon":27.52000000,"rng_nm":0,"alt_fmsl":748,"id":"----","rwy":"12","desc":"MM"}
+]
+}

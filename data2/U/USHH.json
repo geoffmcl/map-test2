@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USHH","name":"Khanty Mansiysk","lat":61.028482,"lon":69.0860665,"rwys":1,"ils":2,"elev":141,"index":4089280,"path":"e060n60/e069n61"
+,"runways":[
+{"len_m":2799,"wid_m":45.11,"hdg":75,"surf":"Asphalt","rwy1":"06","lat1":61.02531100,"lon1":69.06101400,"rwy2":"24","lat2":61.03165300,"lon2":69.11111900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"KHANTYM TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":61.03317800,"lon":69.12356400,"rng_nm":18,"alt_fmsl":141,"hdg":75.47,"id":"IBD","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":61.02373600,"lon":69.04840000,"rng_nm":18,"alt_fmsl":141,"hdg":255.37,"id":"IZJ","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":61.02753100,"lon":69.06579200,"rng_nm":10,"alt_fmsl":141,"id":"IBD","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":61.03233300,"lon":69.10458100,"rng_nm":10,"alt_fmsl":141,"id":"IZJ","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":61.01666700,"lon":68.99000000,"rng_nm":0,"alt_fmsl":141,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":61.04166700,"lon":69.18666700,"rng_nm":0,"alt_fmsl":141,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":61.02333300,"lon":69.04500000,"rng_nm":0,"alt_fmsl":141,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":61.03500000,"lon":69.12833300,"rng_nm":0,"alt_fmsl":141,"id":"----","rwy":"24","desc":"MM"}
+]
+}

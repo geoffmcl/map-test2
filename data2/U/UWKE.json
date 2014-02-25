@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UWKE","name":"Begishevo","lat":55.563755,"lon":52.08979125,"rwys":2,"ils":1,"elev":643,"index":3810400,"path":"e050n50/e052n55"
+,"runways":[
+{"len_m":2489,"wid_m":42.06,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":55.55705600,"lon1":52.07809200,"rwy2":"22","lat2":55.57231400,"lon2":52.10692800},
+{"len_m":1713,"wid_m":57.91,"hdg":47,"surf":"Turf/grass","rwy1":"03","lat1":55.55759400,"lon1":52.07711700,"rwy2":"21","lat2":55.56805600,"lon2":52.09702800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"APP","freq":129,"desc":"APP"},
+{"type":"APP","freq":127.9,"desc":"APP"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":55.55440800,"lon":52.07353100,"rng_nm":18,"alt_fmsl":643,"hdg":226.51,"id":"INK","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":55.57116700,"lon":52.10164700,"rng_nm":10,"alt_fmsl":643,"id":"INK","rwy":"22","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":55.59833300,"lon":52.15833300,"rng_nm":0,"alt_fmsl":643,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.57833300,"lon":52.12166700,"rng_nm":0,"alt_fmsl":643,"id":"----","rwy":"22","desc":"MM"}
+]
+}

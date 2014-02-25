@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UNNE","name":"Novosibirsk Yeltsovka","lat":55.09833100,"lon":83.01666300,"rwys":2,"ils":0,"elev":665,"index":4318272,"path":"e080n50/e083n55"
+,"runways":[
+{"len_m":3346,"wid_m":78.33,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":55.07937155,"lon1":83.00173529,"rwy2":"19","lat2":55.10813645,"lon2":83.01694071},
+{"len_m":2008,"wid_m":60.05,"hdg":17,"surf":"Turf/grass","rwy1":"01R","lat1":55.08050817,"lon1":83.00369732,"rwy2":"19L","lat2":55.09774583,"lon2":83.01298068}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.65,"desc":"Sernistyi Transit"},
+{"type":"TWR","freq":124.75,"desc":"Sernistyi Tower"},
+{"type":"APP","freq":127.5,"desc":"NOVOSIBIRSK APP"},
+{"type":"DEP","freq":124,"desc":"Novosibirsk DEP"}
+]
+,"ils":[
+]
+}

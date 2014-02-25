@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UELL","name":"Chulman","lat":56.90552632,"lon":124.90083168,"rwys":2,"ils":1,"elev":2813,"index":4990139,"path":"e120n50/e124n56"
+,"runways":[
+{"len_m":3601,"wid_m":45.11,"hdg":68,"surf":"Concrete","rwy1":"08","lat1":56.90810565,"lon1":124.88623875,"rwy2":"26","lat2":56.91972735,"lon2":124.94141084},
+{"len_m":707,"wid_m":74.07,"hdg":177,"surf":"Dirt","rwy1":"01","lat1":56.89704421,"lon1":124.86994367,"rwy2":"19","lat2":56.89069648,"lon2":124.87047141}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"Chulman Krug"},
+{"type":"APP","freq":131.7,"desc":"Chulman Transit"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":56.92133331,"lon":124.94882965,"rng_nm":50,"alt_fmsl":2813,"hdg":68.87,"id":"IRQ","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":56.90933228,"lon":124.88933563,"rng_nm":50,"alt_fmsl":2813,"id":"IRQ","rwy":"08","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":56.89333344,"lon":124.81500244,"rng_nm":0,"alt_fmsl":2480,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.90499878,"lon":124.87166595,"rng_nm":0,"alt_fmsl":2813,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":56.92366791,"lon":124.95966339,"rng_nm":0,"alt_fmsl":2813,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,38 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ULLI","name":"Saint Petersburg Pulkovo","lat":59.79999900,"lon":30.26568700,"rwys":2,"ils":4,"elev":78,"index":3450225,"path":"e030n50/e030n59"
+,"runways":[
+{"len_m":3780,"wid_m":60.05,"hdg":106,"surf":"Concrete","rwy1":"10R","lat1":59.79994494,"lon1":30.21828840,"rwy2":"28L","lat2":59.79036106,"lon2":30.28288960},
+{"len_m":3398,"wid_m":60.05,"hdg":106,"surf":"Concrete","rwy1":"10L","lat1":59.80973272,"lon1":30.24536873,"rwy2":"28R","lat2":59.80112728,"lon2":30.30346727}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.3,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"TAXIING"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"KRUG"},
+{"type":"APP","freq":125.2,"desc":"PETERBURG APP"},
+{"type":"APP","freq":128,"desc":"PETERBURG APP"},
+{"type":"APP","freq":129,"desc":"PETERBURG APP"},
+{"type":"APP","freq":129.8,"desc":"PETERBURG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":59.79866000,"lon":30.31984900,"rng_nm":18,"alt_fmsl":74,"hdg":106.50,"id":"IPU","rwy":"10L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":111.9,"lat":59.78793000,"lon":30.29891800,"rng_nm":18,"alt_fmsl":79,"hdg":106.53,"id":"IPK","rwy":"10R","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.9,"lat":59.80246400,"lon":30.20114100,"rng_nm":18,"alt_fmsl":60,"hdg":286.36,"id":"IPO","rwy":"28L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":59.81246600,"lon":30.22707200,"rng_nm":18,"alt_fmsl":79,"hdg":286.41,"id":"IPL","rwy":"28R","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.5,"lat":59.81002800,"lon":30.25194500,"rng_nm":10,"alt_fmsl":79,"id":"IPU","rwy":"10L","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":59.79778700,"lon":30.22260100,"rng_nm":10,"alt_fmsl":79,"id":"IPK","rwy":"10R","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":59.78982900,"lon":30.27604100,"rng_nm":10,"alt_fmsl":83,"id":"IPO","rwy":"28L","desc":"GS","gs":2.7},
+{"type":"GS","freq":111.3,"lat":59.80057900,"lon":30.29689800,"rng_nm":10,"alt_fmsl":79,"id":"IPL","rwy":"28R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":59.82080060,"lon":30.17132910,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"10L","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.81028400,"lon":30.14823970,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"10R","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.78068880,"lon":30.34755770,"rng_nm":0,"alt_fmsl":73,"id":"----","rwy":"28L","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.79102450,"lon":30.37197470,"rng_nm":0,"alt_fmsl":67,"id":"----","rwy":"28R","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.81242720,"lon":30.22680650,"rng_nm":0,"alt_fmsl":79,"id":"----","rwy":"10L","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.80257110,"lon":30.20033990,"rng_nm":0,"alt_fmsl":60,"id":"----","rwy":"10R","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.78781510,"lon":30.29973070,"rng_nm":0,"alt_fmsl":80,"id":"----","rwy":"28L","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.79869170,"lon":30.32019580,"rng_nm":0,"alt_fmsl":73,"id":"----","rwy":"28R","desc":"MM"}
+]
+}

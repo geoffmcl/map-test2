@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKLI","name":"Ivano Frankivsk Intl","lat":48.884167,"lon":24.6866665,"rwys":1,"ils":2,"elev":919,"index":3351226,"path":"e020n40/e024n48"
+,"runways":[
+{"len_m":2507,"wid_m":43.89,"hdg":102,"surf":"Concrete","rwy1":"10","lat1":48.88666700,"lon1":24.67000000,"rwy2":"28","lat2":48.88166700,"lon2":24.70333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124,"desc":"FRANKO START"},
+{"type":"TWR","freq":118.3,"desc":"FRANKO TWR"},
+{"type":"APP","freq":127.3,"desc":"FRANKO APP"},
+{"type":"APP","freq":128.5,"desc":"FRANKO START"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":48.88027800,"lon":24.70944400,"rng_nm":18,"alt_fmsl":919,"hdg":103.85,"id":"IIV","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":48.88777800,"lon":24.66333300,"rng_nm":18,"alt_fmsl":919,"hdg":283.06,"id":"IIF","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":48.88694400,"lon":24.67388900,"rng_nm":10,"alt_fmsl":919,"id":"IIV","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":48.88305600,"lon":24.69861100,"rng_nm":10,"alt_fmsl":919,"id":"IIF","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.89465700,"lon":24.61322900,"rng_nm":0,"alt_fmsl":919,"id":"----","rwy":"10","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.87132500,"lon":24.75989800,"rng_nm":0,"alt_fmsl":919,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.88799100,"lon":24.65489600,"rng_nm":0,"alt_fmsl":919,"id":"----","rwy":"10","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.87965800,"lon":24.71489700,"rng_nm":0,"alt_fmsl":919,"id":"----","rwy":"28","desc":"MM"}
+]
+}

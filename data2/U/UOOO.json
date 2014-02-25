@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UOOO","name":"Alykel","lat":69.32414824,"lon":87.34152095,"rwys":1,"ils":2,"elev":595,"index":4384720,"path":"e080n60/e087n69"
+,"runways":[
+{"len_m":3443,"wid_m":45.11,"hdg":32,"surf":"Concrete","rwy1":"01","lat1":69.29799471,"lon1":87.30895122,"rwy2":"19","lat2":69.32411129,"lon2":87.35550303}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"Norilsk ATIS"},
+{"type":"GND","freq":121.7,"desc":"Norilsk Taxiing"},
+{"type":"TWR","freq":118.3,"desc":"Norilsk Start"},
+{"type":"APP","freq":124,"desc":"Norilsk Podhod"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":69.33166700,"lon":87.37166700,"rng_nm":18,"alt_fmsl":595,"hdg":33.37,"id":"IAP","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":69.29000000,"lon":87.29166700,"rng_nm":18,"alt_fmsl":595,"hdg":213.45,"id":"IBF","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":69.30166700,"lon":87.31833300,"rng_nm":10,"alt_fmsl":595,"id":"IAP","rwy":"01","desc":"GS","gs":2.4},
+{"type":"GS","freq":110.3,"lat":69.32000000,"lon":87.35666700,"rng_nm":10,"alt_fmsl":595,"id":"IBF","rwy":"19","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":69.26833300,"lon":87.25500000,"rng_nm":0,"alt_fmsl":595,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":69.35166700,"lon":87.40833300,"rng_nm":0,"alt_fmsl":595,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":69.29000000,"lon":87.29500000,"rng_nm":0,"alt_fmsl":595,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":69.33166700,"lon":87.37166900,"rng_nm":0,"alt_fmsl":595,"id":"----","rwy":"19","desc":"MM"}
+]
+}

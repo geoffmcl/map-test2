@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USRR","name":"Surgut","lat":61.343693,"lon":73.401842,"rwys":1,"ils":0,"elev":200,"index":4154833,"path":"e070n60/e073n61"
+,"runways":[
+{"len_m":2787,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":61.34363600,"lon1":73.37580600,"rwy2":"25","lat2":61.34375000,"lon2":73.42787800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"TAXIING"},
+{"type":"TWR","freq":120.8,"desc":"START"},
+{"type":"APP","freq":120.3,"desc":"KRUG"}
+]
+,"ils":[
+]
+}

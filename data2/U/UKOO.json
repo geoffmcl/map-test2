@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKOO","name":"Odesa Intl","lat":46.4323371666667,"lon":30.6714208333333,"rwys":3,"ils":2,"elev":172,"index":3449370,"path":"e030n40/e030n46"
+,"runways":[
+{"len_m":2799,"wid_m":56.08,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":46.43877800,"lon1":30.67126100,"rwy2":"34","lat2":46.41465300,"lon2":30.68169200},
+{"len_m":898,"wid_m":57.91,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":46.44675000,"lon1":30.66718900,"rwy2":"36","lat2":46.43866700,"lon2":30.66685800},
+{"len_m":553,"wid_m":60.05,"hdg":75,"surf":"Turf/grass","rwy1":"07","lat1":46.42696100,"lon1":30.66727800,"rwy2":"25","lat2":46.42821400,"lon2":30.67424700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"APP","freq":120.9,"desc":"RADAR"},
+{"type":"APP","freq":127.7,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":46.40638900,"lon":30.68666700,"rng_nm":18,"alt_fmsl":172,"hdg":161.85,"id":"IOD","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":46.44694400,"lon":30.66916700,"rng_nm":18,"alt_fmsl":172,"hdg":345.03,"id":"IOE","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":46.43583300,"lon":30.67166700,"rng_nm":10,"alt_fmsl":172,"id":"IOD","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":46.41694400,"lon":30.67972200,"rng_nm":10,"alt_fmsl":172,"id":"IOE","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.47360000,"lon":30.65613600,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":46.37998800,"lon":30.69641700,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.44693300,"lon":30.66752600,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":46.40582100,"lon":30.68502700,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"34","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"URMO","name":"Beslan","lat":43.205114,"lon":44.6066405,"rwys":1,"ils":0,"elev":1673,"index":3678538,"path":"e040n40/e044n43"
+,"runways":[
+{"len_m":2995,"wid_m":45.11,"hdg":101,"surf":"Concrete","rwy1":"10","lat1":43.20780300,"lon1":44.58858100,"rwy2":"28","lat2":43.20242500,"lon2":44.62470000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"START"},
+{"type":"APP","freq":125.2,"desc":"KRUG"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMKK","name":"Khrabrovo","lat":54.890049,"lon":20.592635,"rwys":1,"ils":1,"elev":42,"index":3286074,"path":"e020n50/e020n54"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":65,"surf":"Concrete","rwy1":"06","lat1":54.88548100,"lon1":20.57483900,"rwy2":"24","lat2":54.89461700,"lon2":20.61043100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126,"desc":"KALININGRAD GND"},
+{"type":"TWR","freq":129.42,"desc":"KALININGRAD TWR"},
+{"type":"APP","freq":126,"desc":"KALININGRAD RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":54.88333300,"lon":20.56833300,"rng_nm":18,"alt_fmsl":42,"hdg":245.00,"id":"IKR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":54.89500000,"lon":20.60666700,"rng_nm":10,"alt_fmsl":42,"id":"IKR","rwy":"24","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":54.91000000,"lon":20.67166700,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.90000000,"lon":20.61166700,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"24","desc":"MM"}
+]
+}

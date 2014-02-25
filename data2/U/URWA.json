@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"URWA","name":"Astrakhan","lat":46.280732,"lon":48.00618575,"rwys":2,"ils":0,"elev":-65,"index":3744272,"path":"e040n40/e048n46"
+,"runways":[
+{"len_m":2499,"wid_m":42.06,"hdg":95,"surf":"Concrete","rwy1":"09","lat1":46.28450800,"lon1":47.99014700,"rwy2":"27","lat2":46.28215600,"lon2":48.02240800},
+{"len_m":1552,"wid_m":100.58,"hdg":120,"surf":"Turf/grass","rwy1":"11","lat1":46.28170600,"lon1":47.99744400,"rwy2":"29","lat2":46.27455800,"lon2":48.01474400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":131.5,"desc":"ATIS"},
+{"type":"TWR","freq":123.4,"desc":"TWR"},
+{"type":"APP","freq":126,"desc":"APP"},
+{"type":"APP","freq":129,"desc":"APP"}
+]
+,"ils":[
+]
+}

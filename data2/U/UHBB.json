@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHBB","name":"Ignatyevo","lat":50.4253945,"lon":127.412489,"rwys":1,"ils":1,"elev":638,"index":5038873,"path":"e120n50/e127n50"
+,"runways":[
+{"len_m":2821,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"18","lat1":50.43781100,"lon1":127.40845300,"rwy2":"36","lat2":50.41297800,"lon2":127.41652500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.2,"desc":"BLAGOVESCHENSK START"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":50.44333300,"lon":127.40666700,"rng_nm":18,"alt_fmsl":638,"hdg":348.31,"id":"ILZ","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":50.41500000,"lon":127.41333300,"rng_nm":10,"alt_fmsl":638,"id":"ILZ","rwy":"36","desc":"GS","gs":3.05},
+{"type":"OM","freq":0,"lat":50.37500000,"lon":127.42833300,"rng_nm":0,"alt_fmsl":638,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.40500000,"lon":127.41833300,"rng_nm":0,"alt_fmsl":638,"id":"----","rwy":"36","desc":"MM"}
+]
+}

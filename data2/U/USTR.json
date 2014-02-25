@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"USTR","name":"Roschino","lat":57.18226432,"lon":65.34782588,"rwys":3,"ils":2,"elev":377,"index":4023497,"path":"e060n50/e065n57"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":47,"surf":"Asphalt","rwy1":"03","lat1":57.16920300,"lon1":65.28125199,"rwy2":"21","lat2":57.18733011,"lon2":65.31799486},
+{"len_m":2694,"wid_m":49.99,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":57.18979192,"lon1":65.32407969,"rwy2":"30","lat2":57.17276108,"lon2":65.35572304},
+{"len_m":2048,"wid_m":99.97,"hdg":47,"surf":"Turf/grass","rwy1":"03L","lat1":57.17550958,"lon1":65.29199033,"rwy2":"21R","lat2":57.18790127,"lon2":65.31702460}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.7,"desc":"USTR ATIS"},
+{"type":"GND","freq":119,"desc":"TYUMEN TAXIING GND"},
+{"type":"TWR","freq":118.2,"desc":"TYUMEN START TWR"},
+{"type":"APP","freq":124,"desc":"TYUMEN APP"},
+{"type":"APP","freq":126.1,"desc":"TYUMEN APP"},
+{"type":"APP","freq":120.4,"desc":"TYUMEN KRUG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":57.19441600,"lon":65.33123000,"rng_nm":27,"alt_fmsl":377,"hdg":47.98,"id":"IRN","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":57.16281500,"lon":65.26663200,"rng_nm":27,"alt_fmsl":377,"hdg":227.99,"id":"IQF","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":57.17201600,"lon":65.28845200,"rng_nm":27,"alt_fmsl":377,"id":"IRN","rwy":"03","desc":"GS","gs":2.7},
+{"type":"GS","freq":110.7,"lat":57.18423500,"lon":65.31443000,"rng_nm":27,"alt_fmsl":377,"id":"IQF","rwy":"21","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":57.14683200,"lon":65.23500100,"rng_nm":0,"alt_fmsl":368,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":57.21366500,"lon":65.37183400,"rng_nm":0,"alt_fmsl":243,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.16266600,"lon":65.26616700,"rng_nm":0,"alt_fmsl":377,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":57.19428300,"lon":65.33156600,"rng_nm":0,"alt_fmsl":377,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":108.3,"lat":57.19433600,"lon":65.33174100,"rng_nm":27,"alt_fmsl":377,"id":"IRN","rwy":"03","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":57.16333400,"lon":65.26833300,"rng_nm":27,"alt_fmsl":377,"id":"IQF","rwy":"21","desc":"DME-ILS"}
+]
+}

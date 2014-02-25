@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UERR","name":"Mirny","lat":62.53260608,"lon":114.02618900,"rwys":1,"ils":1,"elev":1156,"index":4826656,"path":"e110n60/e114n62"
+,"runways":[
+{"len_m":2787,"wid_m":45.11,"hdg":55,"surf":"Concrete","rwy1":"06","lat1":62.52768445,"lon1":114.01651709,"rwy2":"24","lat2":62.54169055,"lon2":114.06137055}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"TWR","freq":120.8,"desc":"Tower"},
+{"type":"APP","freq":125.9,"desc":"Ground"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":62.52466700,"lon":114.00630600,"rng_nm":18,"alt_fmsl":1156,"hdg":236.14,"id":"ISG","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":62.53916550,"lon":114.05786896,"rng_nm":10,"alt_fmsl":1156,"id":"ISG","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":62.50911713,"lon":113.95683289,"rng_nm":0,"alt_fmsl":1157,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":62.56000137,"lon":114.12166595,"rng_nm":0,"alt_fmsl":1015,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":62.52208328,"lon":113.99838257,"rng_nm":0,"alt_fmsl":1157,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":62.54600143,"lon":114.07499695,"rng_nm":0,"alt_fmsl":1110,"id":"----","rwy":"24","desc":"MM"}
+]
+}

@@ -1,0 +1,38 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UBBB","name":"Heydar Aliyev","lat":40.46054460,"lon":50.05084990,"rwys":2,"ils":4,"elev":10,"index":3776664,"path":"e050n40/e050n40"
+,"runways":[
+{"len_m":3331,"wid_m":50.90,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":40.48666700,"lon1":50.06333300,"rwy2":"36","lat2":40.45666700,"lon2":50.06333300},
+{"len_m":2773,"wid_m":60.05,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":40.48000000,"lon1":50.03500000,"rwy2":"34","lat2":40.45666700,"lon2":50.04666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"BAKU ATIS"},
+{"type":"ATIS","freq":126.4,"desc":"BAKU ATIS"},
+{"type":"GND","freq":121.7,"desc":"BAKU GND"},
+{"type":"TWR","freq":119.2,"desc":"BAKU TWR"},
+{"type":"APP","freq":129.3,"desc":"BAKU APP"},
+{"type":"APP","freq":123.9,"desc":"BAKU APP"},
+{"type":"APP","freq":119.2,"desc":"BAKU PRECISION"},
+{"type":"APP","freq":120.8,"desc":"BAKU RADAR"},
+{"type":"APP","freq":128,"desc":"BAKU RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":40.44823100,"lon":50.05078900,"rng_nm":18,"alt_fmsl":10,"hdg":159.29,"id":"IBI","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":40.45351400,"lon":50.06338100,"rng_nm":18,"alt_fmsl":10,"hdg":179.94,"id":"IBU","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":40.48885800,"lon":50.03066900,"rng_nm":18,"alt_fmsl":10,"hdg":339.29,"id":"IBN","rwy":"34","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":40.49296900,"lon":50.06323900,"rng_nm":18,"alt_fmsl":10,"hdg":359.89,"id":"IBA","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":40.47905600,"lon":50.03714400,"rng_nm":10,"alt_fmsl":-23,"id":"IBI","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":40.48437500,"lon":50.06145800,"rng_nm":10,"alt_fmsl":10,"id":"IBU","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":40.45683100,"lon":50.04491100,"rng_nm":10,"alt_fmsl":-23,"id":"IBN","rwy":"34","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":40.46092500,"lon":50.06141400,"rng_nm":10,"alt_fmsl":10,"id":"IBA","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.51500000,"lon":50.01833300,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":40.52166700,"lon":50.06333300,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"18","desc":"OM"},
+{"type":"OM","freq":0,"lat":40.42000000,"lon":50.06500000,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"34","desc":"OM"},
+{"type":"OM","freq":0,"lat":40.42000000,"lon":50.06500000,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.48833300,"lon":50.03000000,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.49333300,"lon":50.06333300,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"18","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.44833300,"lon":50.05000000,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"34","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.44500000,"lon":50.06333300,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"36","desc":"MM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UEST","name":"Tiksi","lat":71.70202295,"lon":128.89229829,"rwys":1,"ils":0,"elev":26,"index":5056617,"path":"e120n70/e128n71"
+,"runways":[
+{"len_m":3000,"wid_m":59.13,"hdg":7,"surf":"Concrete","rwy1":"03","lat1":71.68434141,"lon1":128.89728877,"rwy2":"21","lat2":71.71099259,"lon2":128.90876337}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"TWR","freq":124,"desc":"Otvesniy Posadka"},
+{"type":"APP","freq":124,"desc":"Otvesniy Krug"},
+{"type":"APP","freq":128.5,"desc":"Otvesniy Podhod"}
+]
+,"ils":[
+{"type":"OM","freq":0,"lat":71.73666382,"lon":128.91833496,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":71.67666626,"lon":128.89416504,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":71.72000122,"lon":128.91250610,"rng_nm":0,"alt_fmsl":25,"id":"----","rwy":"21","desc":"MM"}
+]
+}

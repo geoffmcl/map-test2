@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UGSB","name":"Batumi","lat":41.60966,"lon":41.600318,"rwys":1,"ils":1,"elev":105,"index":3629282,"path":"e040n40/e041n41"
+,"runways":[
+{"len_m":2233,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":41.61621700,"lon1":41.59016400,"rwy2":"31","lat2":41.60310300,"lon2":41.61047200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":41.60083300,"lon":41.61388900,"rng_nm":18,"alt_fmsl":121,"hdg":130.94,"id":"ILU","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":41.61444400,"lon":41.59055600,"rng_nm":10,"alt_fmsl":127,"id":"ILU","rwy":"13","desc":"GS","gs":2.5}
+]
+}

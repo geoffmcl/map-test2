@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UKCC","name":"Donetsk Intl","lat":48.06997858,"lon":37.7479976633333,"rwys":1,"ils":2,"elev":791,"index":3564162,"path":"e030n40/e037n48"
+,"runways":[
+{"len_m":3999,"wid_m":60.05,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":48.07479700,"lon1":37.69876400,"rwy2":"26","lat2":48.07530300,"lon2":37.75243300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":80,"wid_m":76.81,"hdg":37,"surf":"Transparent","lat1":48.06899334,"lon1":37.75887809},
+{"rwy1":"H2","len_m":36,"wid_m":36.58,"hdg":37,"surf":"Transparent","lat1":48.06589240,"lon1":37.75951640}
+]
+,"radios":[
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":134,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":48.07536100,"lon":37.75808300,"rng_nm":18,"alt_fmsl":791,"hdg":89.21,"id":"IDN","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":48.07466700,"lon":37.68633300,"rng_nm":18,"alt_fmsl":791,"hdg":269.21,"id":"IDO","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":48.07583300,"lon":37.70277800,"rng_nm":10,"alt_fmsl":791,"id":"IDN","rwy":"08","desc":"GS","gs":2.7},
+{"type":"GS","freq":111.7,"lat":48.07638900,"lon":37.74805600,"rng_nm":10,"alt_fmsl":791,"id":"IDO","rwy":"26","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":48.07472200,"lon":37.64555600,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.07569400,"lon":37.80777800,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.07472200,"lon":37.68527800,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.07555600,"lon":37.76638900,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"26","desc":"MM"}
+]
+}

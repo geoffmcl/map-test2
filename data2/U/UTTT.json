@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UTTT","name":"Yuzhny","lat":41.26169000,"lon":69.26932400,"rwys":2,"ils":3,"elev":1417,"index":4088017,"path":"e060n40/e069n41"
+,"runways":[
+{"len_m":4012,"wid_m":60.05,"hdg":77,"surf":"Concrete","rwy1":"08L","lat1":41.25243932,"lon1":69.25808553,"rwy2":"26R","lat2":41.26053668,"lon2":69.30474047},
+{"len_m":3917,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":41.25059327,"lon1":69.25910504,"rwy2":"26L","lat2":41.25849873,"lon2":69.30465296}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"CLD","freq":129.4,"desc":"TASHKENT DELIVERY"},
+{"type":"GND","freq":121.7,"desc":"TASHKENT GND"},
+{"type":"TWR","freq":120.4,"desc":"TASHKENT TWR"},
+{"type":"TWR","freq":129,"desc":"TASHKENT TWR"},
+{"type":"APP","freq":119.4,"desc":"TASHKENT KRUG"},
+{"type":"APP","freq":125.2,"desc":"TASHKENT APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":41.26122200,"lon":69.30877800,"rng_nm":18,"alt_fmsl":1417,"hdg":77.04,"id":"ING","rwy":"08L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":41.25913900,"lon":69.30727800,"rng_nm":18,"alt_fmsl":1417,"hdg":76.74,"id":"IZW","rwy":"08R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":41.25519400,"lon":69.25380600,"rng_nm":18,"alt_fmsl":1417,"hdg":262.04,"id":"IFD","rwy":"26R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":41.25538900,"lon":69.26475000,"rng_nm":10,"alt_fmsl":1417,"id":"ING","rwy":"08L","desc":"GS","gs":2.4},
+{"type":"GS","freq":111.7,"lat":41.25344400,"lon":69.26483300,"rng_nm":10,"alt_fmsl":1417,"id":"IZW","rwy":"08R","desc":"GS","gs":2.4},
+{"type":"GS","freq":108.5,"lat":41.25891700,"lon":69.29761100,"rng_nm":10,"alt_fmsl":1417,"id":"IFD","rwy":"26R","desc":"GS","gs":2.4},
+{"type":"OM","freq":0,"lat":41.25166700,"lon":69.21500000,"rng_nm":0,"alt_fmsl":1417,"id":"----","rwy":"08L","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.25000000,"lon":69.21833300,"rng_nm":0,"alt_fmsl":1417,"id":"----","rwy":"08R","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.26456400,"lon":69.34371400,"rng_nm":0,"alt_fmsl":1417,"id":"----","rwy":"26R","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.25275000,"lon":69.24794400,"rng_nm":0,"alt_fmsl":1417,"id":"----","rwy":"08R","desc":"MM"},
+{"type":"MM","freq":0,"lat":41.26144400,"lon":69.31025000,"rng_nm":0,"alt_fmsl":1417,"id":"----","rwy":"26R","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UTAV","name":"Turkmenabat","lat":39.083333,"lon":63.6133335,"rwys":1,"ils":0,"elev":630,"index":3989570,"path":"e060n30/e063n39"
+,"runways":[
+{"len_m":2723,"wid_m":42.06,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":39.09444400,"lon1":63.60666700,"rwy2":"33","lat2":39.07222200,"lon2":63.62000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":131.7,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"}
+]
+,"ils":[
+]
+}

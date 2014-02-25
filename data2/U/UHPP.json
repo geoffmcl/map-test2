@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UHPP","name":"Yelizovo","lat":53.16249700,"lon":158.44992034,"rwys":2,"ils":1,"elev":131,"index":5546953,"path":"e150n50/e158n53"
+,"runways":[
+{"len_m":3401,"wid_m":60.05,"hdg":157,"surf":"Concrete","rwy1":"16L","lat1":53.18418615,"lon1":158.44402502,"rwy2":"34R","lat2":53.15600615,"lon2":158.46371102},
+{"len_m":2510,"wid_m":60.05,"hdg":157,"surf":"Concrete","rwy1":"16R","lat1":53.17608300,"lon1":158.44623808,"rwy2":"34L","lat2":53.15526700,"lon2":158.46069608}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"PETROPAVLOVSK START"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":53.19166700,"lon":158.43666700,"rng_nm":18,"alt_fmsl":131,"hdg":335.55,"id":"IPR","rwy":"34R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":53.15833300,"lon":158.46166700,"rng_nm":10,"alt_fmsl":131,"id":"IPR","rwy":"34R","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":53.11333300,"lon":158.49000000,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"34R","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.14500000,"lon":158.46833300,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"34R","desc":"MM"}
+]
+}

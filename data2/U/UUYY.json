@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UUYY","name":"Syktyvkar","lat":61.647049,"lon":50.84505,"rwys":1,"ils":2,"elev":342,"index":3778027,"path":"e050n60/e050n61"
+,"runways":[
+{"len_m":2512,"wid_m":49.99,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":61.63656700,"lon1":50.83631900,"rwy2":"19","lat2":61.65753100,"lon2":50.85378100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"SIVKAR TAXIING"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":61.66420800,"lon":50.85416700,"rng_nm":18,"alt_fmsl":342,"hdg":17.05,"id":"IPW","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":61.63318600,"lon":50.83365300,"rng_nm":18,"alt_fmsl":342,"hdg":201.43,"id":"ISR","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":61.63956100,"lon":50.83613600,"rng_nm":10,"alt_fmsl":342,"id":"IPW","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":61.65483600,"lon":50.84979200,"rng_nm":10,"alt_fmsl":342,"id":"ISR","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":61.60500000,"lon":50.80833300,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":61.69500000,"lon":50.88500000,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":61.62833300,"lon":50.83000000,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":61.66500000,"lon":50.86000000,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"19","desc":"MM"}
+]
+}

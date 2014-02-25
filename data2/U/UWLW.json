@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UWLW","name":"Vostochny","lat":54.401014,"lon":48.802664,"rwys":1,"ils":1,"elev":252,"index":3744795,"path":"e040n50/e048n54"
+,"runways":[
+{"len_m":5025,"wid_m":104.85,"hdg":31,"surf":"Concrete","rwy1":"02","lat1":54.38176400,"lon1":48.78245000,"rwy2":"20","lat2":54.42026400,"lon2":48.82287800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"ULYANOVSK APP"},
+{"type":"APP","freq":126.1,"desc":"KRUG"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":54.42833300,"lon":48.83166700,"rng_nm":18,"alt_fmsl":252,"hdg":31.62,"id":"IUL","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":54.37500000,"lon":48.77833300,"rng_nm":18,"alt_fmsl":252,"hdg":209.79,"id":"IWN","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":54.38333300,"lon":48.78333300,"rng_nm":10,"alt_fmsl":252,"id":"IUL","rwy":"02","desc":"GS","gs":2.7},
+{"type":"GS","freq":110.1,"lat":54.41833300,"lon":48.82166700,"rng_nm":10,"alt_fmsl":252,"id":"IWN","rwy":"20","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":54.35166700,"lon":48.75333300,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"02","desc":"OM"},
+{"type":"OM","freq":0,"lat":54.45333300,"lon":48.85833300,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.37500000,"lon":48.77833600,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"02","desc":"MM"},
+{"type":"MM","freq":0,"lat":54.42833300,"lon":48.83333300,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"20","desc":"MM"}
+]
+}

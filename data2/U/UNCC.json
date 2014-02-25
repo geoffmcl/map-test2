@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UNCC","name":"Novosibirsk Severny","lat":55.08241300,"lon":82.91230800,"rwys":4,"ils":1,"elev":558,"index":4301891,"path":"e080n50/e082n55"
+,"runways":[
+{"len_m":2495,"wid_m":70.10,"hdg":27,"surf":"Turf/grass","rwy1":"02R","lat1":55.08425465,"lon1":82.90272937,"rwy2":"20L","lat2":55.10421735,"lon2":82.92050463},
+{"len_m":1677,"wid_m":35.05,"hdg":25,"surf":"Concrete","rwy1":"02","lat1":55.08521817,"lon1":82.90188014,"rwy2":"20","lat2":55.09883383,"lon2":82.91312186},
+{"len_m":916,"wid_m":60.96,"hdg":169,"surf":"Turf/grass","rwy1":"16","lat1":55.09649396,"lon1":82.91334048,"rwy2":"34","lat2":55.08839004,"lon2":82.91583752},
+{"len_m":795,"wid_m":57.91,"hdg":80,"surf":"Turf/grass","rwy1":"07","lat1":55.08770979,"lon1":82.90585102,"rwy2":"25","lat2":55.08894821,"lon2":82.91812298}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127.5,"desc":"Severnyi Ground"},
+{"type":"TWR","freq":120.8,"desc":"Severnyi Tower"},
+{"type":"APP","freq":127.5,"desc":"NOVOSIBIRSK APP"},
+{"type":"DEP","freq":124,"desc":"Novosibirsk DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":55.08273700,"lon":82.89985700,"rng_nm":18,"alt_fmsl":515,"hdg":205.24,"id":"IBY","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":55.09696000,"lon":82.90836000,"rng_nm":10,"alt_fmsl":575,"id":"IBY","rwy":"20","desc":"GS","gs":2.67},
+{"type":"OM","freq":0,"lat":55.11390300,"lon":82.92555200,"rng_nm":0,"alt_fmsl":646,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.10688800,"lon":82.91976200,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"20","desc":"MM"}
+]
+}

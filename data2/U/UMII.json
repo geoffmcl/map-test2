@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UMII","name":"Vitebsk","lat":55.126497,"lon":30.3496415,"rwys":1,"ils":1,"elev":683,"index":3449929,"path":"e030n50/e030n55"
+,"runways":[
+{"len_m":2606,"wid_m":42.06,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":55.12100000,"lon1":30.33160000,"rwy2":"24","lat2":55.13199400,"lon2":30.36768300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.4,"desc":"APP"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":55.11833300,"lon":30.32666700,"rng_nm":18,"alt_fmsl":683,"hdg":239.76,"id":"IUU","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":55.13000000,"lon":30.36666700,"rng_nm":10,"alt_fmsl":683,"id":"IUU","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":55.15000000,"lon":30.43000000,"rng_nm":0,"alt_fmsl":683,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.13666700,"lon":30.38166700,"rng_nm":0,"alt_fmsl":683,"id":"----","rwy":"24","desc":"MM"}
+]
+}

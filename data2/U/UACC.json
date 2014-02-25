@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"UACC","name":"Astana Intl","lat":51.02179869,"lon":71.45310559,"rwys":1,"ils":2,"elev":1165,"index":4121409,"path":"e070n50/e071n51"
+,"runways":[
+{"len_m":3500,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":51.01096700,"lon1":71.44956700,"rwy2":"22","lat2":51.03339400,"lon2":71.48455800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":51.04027800,"lon":71.49500000,"rng_nm":18,"alt_fmsl":1165,"hdg":44.29,"id":"IMO","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":51.00388900,"lon":71.43833300,"rng_nm":18,"alt_fmsl":1165,"hdg":224.57,"id":"IAK","rwy":"22","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":51.01388900,"lon":71.45166700,"rng_nm":10,"alt_fmsl":1165,"id":"IMO","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":51.03027800,"lon":71.48277800,"rng_nm":10,"alt_fmsl":1165,"id":"IAK","rwy":"22","desc":"GS","gs":3}
+]
+}

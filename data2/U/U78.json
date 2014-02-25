@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"U78","name":"Allen H Tigert","lat":42.64020825,"lon":-111.57923625,"rwys":2,"ils":0,"elev":5839,"index":1122601,"path":"w120n40/w112n42"
+,"runways":[
+{"len_m":1061,"wid_m":15.24,"hdg":171,"surf":"Asphalt","rwy1":"16","lat1":42.64472200,"lon1":-111.58055600,"rwy2":"34","lat2":42.63527800,"lon2":-111.57861100},
+{"len_m":766,"wid_m":15.24,"hdg":147,"surf":"Asphalt","rwy1":"13","lat1":42.64333300,"lon1":-111.58138900,"rwy2":"31","lat2":42.63750000,"lon2":-111.57638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}
