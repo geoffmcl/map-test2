@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VEJT","name":"Jorhat","lat":26.7315265,"lon":94.1755375,"rwys":1,"ils":0,"elev":311,"index":4496680,"path":"e090n20/e094n26"
+,"runways":[
+{"len_m":2754,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":26.72265000,"lon1":94.16585000,"rwy2":"22","lat2":26.74040300,"lon2":94.18522500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+]
+}

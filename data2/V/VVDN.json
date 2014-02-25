@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VVDN","name":"Danang Intl","lat":16.04390125,"lon":108.1994005,"rwys":2,"ils":1,"elev":33,"index":4725377,"path":"e100n10/e108n16"
+,"runways":[
+{"len_m":3048,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17L","lat1":16.05767800,"lon1":108.19840800,"rwy2":"35R","lat2":16.03039400,"lon2":108.20236900},
+{"len_m":3048,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17R","lat1":16.05740800,"lon1":108.19643300,"rwy2":"35L","lat2":16.03012500,"lon2":108.20039200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP"},
+{"type":"APP","freq":125.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":16.06042500,"lon":108.19800800,"rng_nm":18,"alt_fmsl":30,"hdg":352.06,"id":"DAD","rwy":"35R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":16.03334700,"lon":108.20293100,"rng_nm":10,"alt_fmsl":36,"id":"DAD","rwy":"35R","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":16.03334700,"lon":108.20293100,"rng_nm":18,"alt_fmsl":33,"id":"DAD","rwy":"35R","desc":"DME-ILS"}
+]
+}

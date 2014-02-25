@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VAGO","name":"Dabolim","lat":15.380826,"lon":73.832735,"rwys":1,"ils":0,"elev":183,"index":4151902,"path":"e070n10/e073n15"
+,"runways":[
+{"len_m":3424,"wid_m":45.11,"hdg":78,"surf":"Asphalt","rwy1":"8","lat1":15.37779600,"lon1":73.81709700,"rwy2":"26","lat2":15.38385600,"lon2":73.84837300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"VAGO_ATIS"},
+{"type":"TWR","freq":118.1,"desc":"VAGO_TWR"},
+{"type":"TWR","freq":119.7,"desc":"VAGO_APP"}
+]
+,"ils":[
+]
+}

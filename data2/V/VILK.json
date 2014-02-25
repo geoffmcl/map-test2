@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VILK","name":"Lucknow","lat":26.760593,"lon":80.8893405,"rwys":1,"ils":1,"elev":410,"index":4267315,"path":"e080n20/e080n26"
+,"runways":[
+{"len_m":2745,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":26.76041100,"lon1":80.87553900,"rwy2":"27","lat2":26.76077500,"lon2":80.90314200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":26.76052800,"lon":80.87269400,"rng_nm":18,"alt_fmsl":410,"hdg":269.47,"id":"ILUC","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":26.76191700,"lon":80.89408300,"rng_nm":10,"alt_fmsl":410,"id":"ILUC","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":26.76191700,"lon":80.89408300,"rng_nm":18,"alt_fmsl":410,"id":"ILUC","rwy":"27","desc":"DME-ILS"}
+]
+}

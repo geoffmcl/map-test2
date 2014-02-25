@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUK","name":"Khon Kaen","lat":16.46518100,"lon":102.78413400,"rwys":1,"ils":0,"elev":670,"index":4627102,"path":"e100n10/e102n16"
+,"runways":[
+{"len_m":3051,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":16.45504700,"lon1":102.77591100,"rwy2":"21","lat2":16.47820800,"lon2":102.79141400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.25,"desc":"TWR"},
+{"type":"APP","freq":123.4,"desc":"APP"}
+]
+,"ils":[
+]
+}

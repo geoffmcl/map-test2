@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTCT","name":"Chiang Rai Intl","lat":19.95652705,"lon":99.88074283,"rwys":1,"ils":1,"elev":1280,"index":4578175,"path":"e090n10/e099n19"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":19.94048600,"lon1":99.87597500,"rwy2":"21","lat2":19.96419400,"lon2":99.88988100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":120.05,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":19.96653300,"lon":99.89125000,"rng_nm":18,"alt_fmsl":1275,"hdg":28.87,"id":"ICTR","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":19.94238900,"lon":99.87850000,"rng_nm":10,"alt_fmsl":1280,"id":"ICTR","rwy":"03","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":19.93136100,"lon":99.87055600,"rng_nm":0,"alt_fmsl":1280,"id":"----","rwy":"03","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":19.96653300,"lon":99.89125000,"rng_nm":18,"alt_fmsl":1280,"id":"ICTR","rwy":"03","desc":"DME-ILS"}
+]
+}

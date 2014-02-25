@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VCBI","name":"Bandaranaike Intl Colombo","lat":7.180754,"lon":79.884118,"rwys":1,"ils":2,"elev":30,"index":4249679,"path":"e070n00/e079n07"
+,"runways":[
+{"len_m":3347,"wid_m":45.11,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":7.16873600,"lon1":79.87490800,"rwy2":"22","lat2":7.19277200,"lon2":79.89332800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"COLOMBO GND"},
+{"type":"TWR","freq":118.7,"desc":"COLOMBO TWR"},
+{"type":"TWR","freq":123.8,"desc":"COLOMBO TWR"},
+{"type":"APP","freq":120.9,"desc":"COLOMBO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":7.19504400,"lon":79.89438900,"rng_nm":18,"alt_fmsl":27,"hdg":36.31,"id":"IKW","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":7.16711700,"lon":79.87300300,"rng_nm":18,"alt_fmsl":25,"hdg":218.17,"id":"IKA","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":7.17162800,"lon":79.87522500,"rng_nm":10,"alt_fmsl":24,"id":"IKW","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":7.19163100,"lon":79.89030800,"rng_nm":10,"alt_fmsl":24,"id":"IKA","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":7.26858600,"lon":79.95091700,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":7.16105000,"lon":79.86836400,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":7.20292800,"lon":79.90088600,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"22","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":7.17162800,"lon":79.87522500,"rng_nm":18,"alt_fmsl":39,"id":"IKW","rwy":"04","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":7.19163100,"lon":79.89030800,"rng_nm":18,"alt_fmsl":24,"id":"IKA","rwy":"22","desc":"DME-ILS"}
+]
+}

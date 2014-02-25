@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VABP","name":"Bhopal","lat":23.2874675,"lon":77.33737375,"rwys":2,"ils":1,"elev":1719,"index":4217937,"path":"e070n20/e077n23"
+,"runways":[
+{"len_m":2047,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":23.29137800,"lon1":77.32398600,"rwy2":"30","lat2":23.28280300,"lon2":77.34171700},
+{"len_m":1041,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":23.28515800,"lon1":77.33771700,"rwy2":"24","lat2":23.29053100,"lon2":77.34607500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":23.29275000,"lon":77.32208300,"rng_nm":18,"alt_fmsl":1713,"hdg":298.88,"id":"IBPH","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":23.28305600,"lon":77.34055600,"rng_nm":10,"alt_fmsl":1719,"id":"IBPH","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":23.28305600,"lon":77.34055600,"rng_nm":18,"alt_fmsl":1719,"id":"IBPH","rwy":"30","desc":"DME-ILS"}
+]
+}

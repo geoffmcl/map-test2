@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VIV","name":"Vivigani","lat":-9.31050000,"lon":150.32683300,"rwys":1,"ils":0,"elev":73,"index":5411882,"path":"e150s10/e150s10"
+,"runways":[
+{"len_m":1822,"wid_m":42.06,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":-9.29754184,"lon1":150.31331489,"rwy2":"32","lat2":-9.30947956,"lon2":150.32475431}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.5,"desc":"VIV ATIS"},
+{"type":"GND","freq":121.65,"desc":"VIVIGANI GND"},
+{"type":"TWR","freq":132.8,"desc":"VIVIGANI TWR"}
+]
+,"ils":[
+]
+}

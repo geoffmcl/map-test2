@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VIAL","name":"Allahabad","lat":25.4382055,"lon":81.73364875,"rwys":2,"ils":0,"elev":322,"index":4283610,"path":"e080n20/e081n25"
+,"runways":[
+{"len_m":2472,"wid_m":45.72,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":25.44356400,"lon1":81.72606700,"rwy2":"30","lat2":25.43287800,"lon2":81.74764200},
+{"len_m":1454,"wid_m":45.72,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":25.43534700,"lon1":81.72392800,"rwy2":"24","lat2":25.44103300,"lon2":81.73695800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"TWR","freq":122.7,"desc":"TWR"}
+]
+,"ils":[
+]
+}

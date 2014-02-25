@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTSR","name":"Ranong","lat":9.77475100,"lon":98.58760800,"rwys":1,"ils":2,"elev":57,"index":4561140,"path":"e090n00/e098n09"
+,"runways":[
+{"len_m":2001,"wid_m":45.11,"hdg":23,"surf":"Concrete","rwy1":"02","lat1":9.76934200,"lon1":98.58180800,"rwy2":"20","lat2":9.78590300,"lon2":98.58915800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.25,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":9.78838100,"lon":98.59025600,"rng_nm":18,"alt_fmsl":57,"hdg":23.62,"id":"IRAN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":9.77226100,"lon":98.58191100,"rng_nm":10,"alt_fmsl":36,"id":"IRAN","rwy":"02","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":9.78838100,"lon":98.59025600,"rng_nm":18,"alt_fmsl":57,"id":"IRAN","rwy":"02","desc":"DME-ILS"}
+]
+}

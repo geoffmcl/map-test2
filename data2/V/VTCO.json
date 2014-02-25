@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTCO","name":"Lamphun","lat":18.54888763,"lon":99.01372749,"rwys":1,"ils":0,"elev":955,"index":4578080,"path":"e090n10/e099n18"
+,"runways":[
+{"len_m":1245,"wid_m":22.86,"hdg":190,"surf":"Dirt","rwy1":"19","lat1":18.55482803,"lon1":99.01393120,"rwy2":"01","lat2":18.54374997,"lon2":99.01187080}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"CHIANG MAI ATIS"},
+{"type":"GND","freq":122.9,"desc":"LAMPHUN GND"},
+{"type":"TWR","freq":122.9,"desc":"LAMPHUN TWR"},
+{"type":"APP","freq":129.6,"desc":"CHIANG MAI APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VMMC","name":"Macau Intl","lat":22.15676100,"lon":113.57744200,"rwys":1,"ils":2,"elev":20,"index":4807690,"path":"e110n20/e113n22"
+,"runways":[
+{"len_m":3213,"wid_m":45.11,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":22.16232800,"lon1":113.58613100,"rwy2":"34","lat2":22.13502200,"lon2":113.59669200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.97,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":126.3,"desc":"HONG KONG RDR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":22.16500000,"lon":113.58583300,"rng_nm":18,"alt_fmsl":20,"hdg":341.45,"id":"MCN","rwy":"34","desc":"ILS-cat-II"},
+{"type":"LOC","freq":111.7,"lat":22.16138900,"lon":113.54777800,"rng_nm":18,"alt_fmsl":20,"id":"MCS","rwy":"16","desc":"LOC"},
+{"type":"GS","freq":109.7,"lat":22.14111100,"lon":113.59555600,"rng_nm":10,"alt_fmsl":20,"id":"MCN","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":111.7,"lat":22.16138900,"lon":113.54777800,"rng_nm":18,"alt_fmsl":286,"id":"MCS","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":109.7,"lat":22.14111100,"lon":113.59555600,"rng_nm":18,"alt_fmsl":13,"id":"MCN","rwy":"34","desc":"DME-ILS"}
+]
+}

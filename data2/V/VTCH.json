@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTCH","name":"Mae Hong Son","lat":19.30015997,"lon":97.97461386,"rwys":1,"ils":0,"elev":929,"index":4545367,"path":"e090n10/e097n19"
+,"runways":[
+{"len_m":1999,"wid_m":28.96,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":19.30424700,"lon1":97.96682200,"rwy2":"29","lat2":19.29868900,"lon2":97.98492200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":97,"surf":"Concrete","lat1":19.30129800,"lon1":97.97276036},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":97,"surf":"Concrete","lat1":19.30023646,"lon1":97.97622198},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":97,"surf":"Concrete","lat1":19.30011792,"lon1":97.97660423},
+{"rwy1":"H4","len_m":14,"wid_m":14.94,"hdg":97,"surf":"Turf/grass","lat1":19.30359601,"lon1":97.97073116}
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":126.2,"desc":"APP"}
+]
+,"ils":[
+]
+}

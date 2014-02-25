@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VYMD","name":"Mandalay Intl","lat":21.7010095,"lon":95.9777945,"rwys":1,"ils":1,"elev":300,"index":4512751,"path":"e090n20/e095n21"
+,"runways":[
+{"len_m":4267,"wid_m":60.96,"hdg":170,"surf":"Concrete","rwy1":"17","lat1":21.72001900,"lon1":95.97440800,"rwy2":"35","lat2":21.68200000,"lon2":95.98118100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":21.67890300,"lon":95.98171900,"rng_nm":18,"alt_fmsl":300,"hdg":170.62,"id":"IMIA","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":21.71720000,"lon":95.97563600,"rng_nm":10,"alt_fmsl":286,"id":"IMIA","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":21.71720000,"lon":95.97563600,"rng_nm":18,"alt_fmsl":300,"id":"IMIA","rwy":"17","desc":"DME-ILS"}
+]
+}

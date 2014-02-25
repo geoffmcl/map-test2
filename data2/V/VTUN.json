@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUN","name":"Nakhon Ratchasima Khorat Aero Rtaf","lat":14.93265800,"lon":102.08172600,"rwys":1,"ils":0,"elev":729,"index":4627000,"path":"e100n10/e102n14"
+,"runways":[
+{"len_m":2985,"wid_m":45.11,"hdg":62,"surf":"Concrete","rwy1":"06","lat1":14.92812500,"lon1":102.06641100,"rwy2":"24","lat2":14.94075000,"lon2":102.09093900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"APP","freq":129.75,"desc":"APP"},
+{"type":"DEP","freq":134.1,"desc":"DEP"}
+]
+,"ils":[
+]
+}

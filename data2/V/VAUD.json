@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VAUD","name":"Udaipur","lat":24.6176975,"lon":73.8961015,"rwys":1,"ils":1,"elev":1684,"index":4152483,"path":"e070n20/e073n24"
+,"runways":[
+{"len_m":2283,"wid_m":45.72,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":24.61621700,"lon1":73.88494200,"rwy2":"26","lat2":24.61917800,"lon2":73.90726100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":24.63242200,"lon":73.88168600,"rng_nm":18,"alt_fmsl":1684,"hdg":262.07,"id":"IUDR","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":24.61992200,"lon":73.90432800,"rng_nm":10,"alt_fmsl":1684,"id":"IUDR","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":24.61983300,"lon":73.90450000,"rng_nm":18,"alt_fmsl":1684,"id":"IUDR","rwy":"26","desc":"DME-ILS"}
+]
+}

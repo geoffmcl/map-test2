@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUO","name":"Burirum","lat":15.22907900,"lon":103.24830600,"rwys":1,"ils":1,"elev":590,"index":4643401,"path":"e100n10/e103n15"
+,"runways":[
+{"len_m":2105,"wid_m":45.11,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":15.22175300,"lon1":103.24759400,"rwy2":"22","lat2":15.23732200,"lon2":103.25886700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":15.24091400,"lon":103.26146400,"rng_nm":18,"alt_fmsl":543,"hdg":34.93,"id":"IBRM","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":15.22437200,"lon":103.24846900,"rng_nm":10,"alt_fmsl":590,"id":"IBRM","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":15.24142200,"lon":103.26100800,"rng_nm":18,"alt_fmsl":543,"id":"IBRM","rwy":"04","desc":"DME-ILS"}
+]
+}

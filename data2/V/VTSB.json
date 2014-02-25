@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTSB","name":"Surat Thani","lat":9.13102900,"lon":99.13976300,"rwys":1,"ils":1,"elev":20,"index":4577481,"path":"e090n00/e099n09"
+,"runways":[
+{"len_m":3013,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":9.12283100,"lon1":99.12603300,"rwy2":"22","lat2":9.14237500,"lon2":99.14513900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"APP","freq":129.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":9.12087500,"lon":99.12412200,"rng_nm":18,"alt_fmsl":20,"hdg":223.99,"id":"ISTN","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":9.13920300,"lon":99.14359200,"rng_nm":10,"alt_fmsl":18,"id":"ISTN","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":9.12087500,"lon":99.12412200,"rng_nm":18,"alt_fmsl":20,"id":"ISTN","rwy":"22","desc":"DME-ILS"}
+]
+}

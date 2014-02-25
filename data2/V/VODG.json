@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VODG","name":"Dundigul","lat":17.6272055,"lon":78.40336125,"rwys":2,"ils":0,"elev":2013,"index":4233963,"path":"e070n10/e078n17"
+,"runways":[
+{"len_m":2508,"wid_m":45.72,"hdg":99,"surf":"Concrete","rwy1":"10L","lat1":17.63139200,"lon1":78.39015600,"rwy2":"28R","lat2":17.62770000,"lon2":78.41348100},
+{"len_m":2072,"wid_m":45.72,"hdg":99,"surf":"Asphalt","rwy1":"10R","lat1":17.62641100,"lon1":78.39527500,"rwy2":"28L","lat2":17.62331900,"lon2":78.41453300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.1,"desc":"ACADEMY TWR"}
+]
+,"ils":[
+]
+}

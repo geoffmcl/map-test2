@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTBU","name":"Rayon U-taphao Intl","lat":12.68439900,"lon":100.99977100,"rwys":1,"ils":1,"elev":59,"index":4594095,"path":"e100n10/e100n12"
+,"runways":[
+{"len_m":3524,"wid_m":60.05,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":12.69583300,"lon1":101.00635000,"rwy2":"36","lat2":12.66407500,"lon2":101.00371700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":134.5,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":12.66021100,"lon":101.00340000,"rng_nm":18,"alt_fmsl":24,"hdg":184.62,"id":"IBUT","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":12.69193300,"lon":101.00714400,"rng_nm":10,"alt_fmsl":59,"id":"IBUT","rwy":"18","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":12.66021100,"lon":101.00340000,"rng_nm":18,"alt_fmsl":59,"id":"IBUT","rwy":"18","desc":"DME-ILS"}
+]
+}

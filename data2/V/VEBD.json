@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VEBD","name":"Bagdogra","lat":26.681207,"lon":88.3285665,"rwys":1,"ils":0,"elev":412,"index":4398377,"path":"e080n20/e088n26"
+,"runways":[
+{"len_m":2738,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":26.69356100,"lon1":88.32891900,"rwy2":"36","lat2":26.66885300,"lon2":88.32821400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VYST","name":"Shante","lat":20.941657,"lon":95.9145155,"rwys":1,"ils":0,"elev":630,"index":4512703,"path":"e090n20/e095n20"
+,"runways":[
+{"len_m":2583,"wid_m":45.72,"hdg":6,"surf":"Concrete","rwy1":"01","lat1":20.93006700,"lon1":95.91308900,"rwy2":"19","lat2":20.95324700,"lon2":95.91594200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"MEIKTILA TWR"},
+{"type":"APP","freq":119.7,"desc":"MEIKTILA APP"}
+]
+,"ils":[
+]
+}

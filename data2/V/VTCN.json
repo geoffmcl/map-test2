@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTCN","name":"Nan","lat":18.80583600,"lon":100.78524000,"rwys":1,"ils":1,"elev":685,"index":4594486,"path":"e100n10/e100n18"
+,"runways":[
+{"len_m":1988,"wid_m":45.11,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":18.79951100,"lon1":100.78008600,"rwy2":"20","lat2":18.81631700,"lon2":100.78675300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":120.25,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":18.81758300,"lon":100.78725800,"rng_nm":18,"alt_fmsl":687,"hdg":20.59,"id":"INAN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":18.80242200,"lon":100.78002200,"rng_nm":10,"alt_fmsl":685,"id":"INAN","rwy":"02","desc":"GS","gs":3.4},
+{"type":"DME","freq":110.3,"lat":18.81782500,"lon":100.78662500,"rng_nm":18,"alt_fmsl":687,"id":"INAN","rwy":"02","desc":"DME-ILS"}
+]
+}

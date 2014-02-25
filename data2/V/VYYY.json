@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VYYY","name":"Yangon Intl","lat":16.90567332,"lon":96.13769222,"rwys":1,"ils":1,"elev":109,"index":4528825,"path":"e090n10/e096n16"
+,"runways":[
+{"len_m":3418,"wid_m":60.96,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":16.89792613,"lon1":96.12688037,"rwy2":"21","lat2":16.92375537,"lon2":96.14447924}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"MINGALADON GND"},
+{"type":"TWR","freq":118.1,"desc":"MINGALADON TWR"},
+{"type":"APP","freq":119.7,"desc":"MINGALADON APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":16.89647200,"lon":96.12594200,"rng_nm":18,"alt_fmsl":65,"hdg":213.02,"id":"IYGN","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":16.91372200,"lon":96.13907800,"rng_nm":10,"alt_fmsl":65,"id":"IYGN","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":16.91372200,"lon":96.13907800,"rng_nm":18,"alt_fmsl":50,"id":"IYGN","rwy":"21","desc":"DME-ILS"}
+]
+}

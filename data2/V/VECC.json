@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VECC","name":"Netaji Subhash Chandra Bose Intl","lat":22.64723701,"lon":88.44017794,"rwys":2,"ils":2,"elev":16,"index":4398121,"path":"e080n20/e088n22"
+,"runways":[
+{"len_m":3578,"wid_m":46.02,"hdg":6,"surf":"Asphalt","rwy1":"01R","lat1":22.64218599,"lon1":88.44631411,"rwy2":"19L","lat2":22.67430714,"lon2":88.45009543},
+{"len_m":2831,"wid_m":46.02,"hdg":6,"surf":"Asphalt","rwy1":"01L","lat1":22.64028100,"lon1":88.44401800,"rwy2":"19R","lat2":22.66569700,"lon2":88.44699700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"KOLKATA GND"},
+{"type":"TWR","freq":127.3,"desc":"KOLKATA RDO"},
+{"type":"TWR","freq":118.1,"desc":"KOLKATA TWR"},
+{"type":"APP","freq":127.9,"desc":"KOLKATA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":22.67822200,"lon":88.45011100,"rng_nm":18,"alt_fmsl":18,"hdg":5.55,"id":"ICAL","rwy":"01R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":22.63877800,"lon":88.44594400,"rng_nm":18,"alt_fmsl":20,"hdg":186.15,"id":"IDUM","rwy":"19L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":22.64461100,"lon":88.44788900,"rng_nm":10,"alt_fmsl":16,"id":"ICAL","rwy":"01R","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":22.66822200,"lon":88.44983300,"rng_nm":10,"alt_fmsl":16,"id":"IDUM","rwy":"19L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":22.58377800,"lon":88.43994400,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"01R","desc":"OM"},
+{"type":"OM","freq":0,"lat":22.74016700,"lon":88.45761100,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"19L","desc":"OM"},
+{"type":"MM","freq":0,"lat":22.73900000,"lon":88.46261100,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"19L","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":22.64461100,"lon":88.44788900,"rng_nm":18,"alt_fmsl":16,"id":"ICAL","rwy":"01R","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":22.66822200,"lon":88.44983300,"rng_nm":18,"alt_fmsl":16,"id":"IDUM","rwy":"19L","desc":"DME-ILS"}
+]
+}

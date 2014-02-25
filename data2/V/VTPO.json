@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTPO","name":"Sukhothai","lat":17.23219909,"lon":99.82022648,"rwys":1,"ils":1,"elev":179,"index":4577998,"path":"e090n10/e099n17"
+,"runways":[
+{"len_m":2100,"wid_m":45.11,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":17.24747800,"lon1":99.81836400,"rwy2":"36","lat2":17.22850600,"lon2":99.81800000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"PHITSANULOK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":17.24944700,"lon":99.81856400,"rng_nm":18,"alt_fmsl":176,"hdg":1.47,"id":"ISKT","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":17.23085300,"lon":99.81724400,"rng_nm":10,"alt_fmsl":179,"id":"ISKT","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":17.24940300,"lon":99.81923300,"rng_nm":18,"alt_fmsl":176,"id":"ISKT","rwy":"36","desc":"DME-ILS"}
+]
+}

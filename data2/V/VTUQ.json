@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUQ","name":"Nakhon Ratchasima","lat":14.95233000,"lon":102.31072200,"rwys":1,"ils":1,"elev":765,"index":4627002,"path":"e100n10/e102n14"
+,"runways":[
+{"len_m":2101,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":14.94494200,"lon1":102.30416900,"rwy2":"24","lat2":14.95405000,"lon2":102.32130600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":134.1,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":14.95535000,"lon":102.32375300,"rng_nm":18,"alt_fmsl":732,"hdg":61.19,"id":"INKR","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":14.94534200,"lon":102.30724200,"rng_nm":10,"alt_fmsl":765,"id":"INKR","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":14.95478900,"lon":102.32405800,"rng_nm":18,"alt_fmsl":732,"id":"INKR","rwy":"06","desc":"DME-ILS"}
+]
+}

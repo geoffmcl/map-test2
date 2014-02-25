@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUW","name":"Nakhon Phanom","lat":17.38683500,"lon":104.64576000,"rwys":1,"ils":1,"elev":587,"index":4659933,"path":"e100n10/e104n17"
+,"runways":[
+{"len_m":2504,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":17.39304200,"lon1":104.63623300,"rwy2":"33","lat2":17.37454700,"lon2":104.64981100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":123.35,"desc":"SAKHON NAKHON APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":17.37240300,"lon":104.65138300,"rng_nm":18,"alt_fmsl":553,"hdg":144.99,"id":"INKP","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":17.39013300,"lon":104.63721700,"rng_nm":10,"alt_fmsl":587,"id":"INKP","rwy":"15","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":17.37205300,"lon":104.65083900,"rng_nm":18,"alt_fmsl":553,"id":"INKP","rwy":"15","desc":"DME-ILS"}
+]
+}

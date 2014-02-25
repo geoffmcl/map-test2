@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VOCB","name":"Coimbatore","lat":11.0300305,"lon":77.0433815,"rwys":1,"ils":1,"elev":1324,"index":4217152,"path":"e070n10/e077n11"
+,"runways":[
+{"len_m":2584,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":11.02189400,"lon1":77.03489400,"rwy2":"23","lat2":11.03816700,"lon2":77.05186900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":11.02266700,"lon":77.03472200,"rng_nm":18,"alt_fmsl":1324,"hdg":227.35,"id":"ICMB","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":11.03627800,"lon":77.05055600,"rng_nm":10,"alt_fmsl":1324,"id":"ICMB","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":11.03627800,"lon":77.05055600,"rng_nm":18,"alt_fmsl":1324,"id":"ICMB","rwy":"23","desc":"DME-ILS"}
+]
+}

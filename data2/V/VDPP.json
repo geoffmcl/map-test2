@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VDPP","name":"Phnom Penh Intl","lat":11.55224900,"lon":104.84475400,"rwys":1,"ils":1,"elev":40,"index":4659558,"path":"e100n10/e104n11"
+,"runways":[
+{"len_m":2985,"wid_m":43.89,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":11.53713300,"lon1":104.83433300,"rwy2":"23","lat2":11.55595000,"lon2":104.85395000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"ATIS"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":11.53575300,"lon":104.83288300,"rng_nm":18,"alt_fmsl":40,"hdg":225.62,"id":"IPNP","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":11.55411100,"lon":104.85008900,"rng_nm":10,"alt_fmsl":37,"id":"IPNP","rwy":"23","desc":"GS","gs":3}
+]
+}

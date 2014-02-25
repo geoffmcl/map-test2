@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VOPB","name":"Port Blair","lat":11.6411625,"lon":92.729743,"rwys":1,"ils":0,"elev":14,"index":4462957,"path":"e090n10/e092n11"
+,"runways":[
+{"len_m":3277,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":11.62923600,"lon1":92.72082800,"rwy2":"22","lat2":11.65308900,"lon2":92.73865800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":123.5,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

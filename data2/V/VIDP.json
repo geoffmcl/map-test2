@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VIDP","name":"Indira Gandhi Intl","lat":28.56606670,"lon":77.11012270,"rwys":2,"ils":3,"elev":777,"index":4218272,"path":"e070n20/e077n28"
+,"runways":[
+{"len_m":3811,"wid_m":45.72,"hdg":104,"surf":"Asphalt","rwy1":"10","lat1":28.56717200,"lon1":77.08483100,"rwy2":"28","lat2":28.55850000,"lon2":77.12252500},
+{"len_m":2830,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":28.57049200,"lon1":77.08804400,"rwy2":"27","lat2":28.56982200,"lon2":77.11696100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":118.1,"desc":"DELHI GND"},
+{"type":"TWR","freq":119.3,"desc":"DELHI TWR"},
+{"type":"TWR","freq":118.75,"desc":"DELHI TWR"},
+{"type":"APP","freq":127.9,"desc":"DELHI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":28.55811100,"lon":77.12486100,"rng_nm":18,"alt_fmsl":776,"hdg":104.46,"id":"DEL","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":28.57061100,"lon":77.08236100,"rng_nm":18,"alt_fmsl":723,"hdg":271.48,"id":"IDLH","rwy":"27","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":28.56811100,"lon":77.08125000,"rng_nm":18,"alt_fmsl":718,"hdg":284.84,"id":"IPLM","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":28.56727800,"lon":77.08791700,"rng_nm":10,"alt_fmsl":720,"id":"DEL","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":28.56922200,"lon":77.11219400,"rng_nm":10,"alt_fmsl":750,"id":"IDLH","rwy":"27","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":28.56033300,"lon":77.11930600,"rng_nm":10,"alt_fmsl":776,"id":"IPLM","rwy":"28","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":28.54225600,"lon":77.19733900,"rng_nm":0,"alt_fmsl":777,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.55616700,"lon":77.13375000,"rng_nm":0,"alt_fmsl":777,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":28.56727800,"lon":77.08791700,"rng_nm":18,"alt_fmsl":777,"id":"DEL","rwy":"10","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":28.56922200,"lon":77.11219400,"rng_nm":18,"alt_fmsl":777,"id":"IDLH","rwy":"27","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":28.56033300,"lon":77.11930600,"rng_nm":18,"alt_fmsl":777,"id":"IPLM","rwy":"28","desc":"DME-ILS"}
+]
+}

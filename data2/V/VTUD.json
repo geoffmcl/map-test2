@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUD","name":"Udon Thani","lat":17.38612312,"lon":102.77742462,"rwys":1,"ils":1,"elev":579,"index":4627166,"path":"e100n10/e102n17"
+,"runways":[
+{"len_m":3051,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":17.39270000,"lon1":102.77545800,"rwy2":"30","lat2":17.38017200,"lon2":102.80103600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":126.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":17.39479200,"lon":102.77118100,"rng_nm":18,"alt_fmsl":579,"hdg":297.16,"id":"IUDN","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":17.38241700,"lon":102.79887200,"rng_nm":10,"alt_fmsl":579,"id":"IUDN","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":17.39479200,"lon":102.77118100,"rng_nm":18,"alt_fmsl":579,"id":"IUDN","rwy":"30","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTPI","name":"Nakhon Sawan Takhli Rtaf","lat":15.27756900,"lon":100.29258700,"rwys":1,"ils":1,"elev":107,"index":4594258,"path":"e100n10/e100n15"
+,"runways":[
+{"len_m":3014,"wid_m":45.11,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":15.29091900,"lon1":100.29617500,"rwy2":"36","lat2":15.26368600,"lon2":100.29552200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":133.25,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"DEP","freq":134.1,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":15.26083300,"lon":100.29527800,"rng_nm":18,"alt_fmsl":65,"hdg":181.65,"id":"ITKL","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":15.28750000,"lon":100.29777800,"rng_nm":10,"alt_fmsl":107,"id":"ITKL","rwy":"18","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":15.29972200,"lon":100.29611100,"rng_nm":0,"alt_fmsl":107,"id":"----","rwy":"18","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":15.28750000,"lon":100.29777800,"rng_nm":18,"alt_fmsl":107,"id":"ITKL","rwy":"18","desc":"DME-ILS"}
+]
+}

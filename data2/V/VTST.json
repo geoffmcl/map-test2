@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTST","name":"Trang","lat":7.51133300,"lon":99.61807300,"rwys":1,"ils":1,"elev":67,"index":4577380,"path":"e090n00/e099n07"
+,"runways":[
+{"len_m":2104,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":7.50724200,"lon1":99.60716700,"rwy2":"26","lat2":7.51024700,"lon2":99.62599200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":7.51067200,"lon":99.62865800,"rng_nm":18,"alt_fmsl":52,"hdg":80.85,"id":"ITRN","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":7.50855300,"lon":99.60963600,"rng_nm":10,"alt_fmsl":60,"id":"ITRN","rwy":"08","desc":"GS","gs":3.5},
+{"type":"DME","freq":110.3,"lat":7.51011700,"lon":99.62865800,"rng_nm":18,"alt_fmsl":67,"id":"ITRN","rwy":"08","desc":"DME-ILS"}
+]
+}

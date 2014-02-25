@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VABO","name":"Vadodara","lat":22.336164,"lon":73.2262905,"rwys":1,"ils":1,"elev":129,"index":4152336,"path":"e070n20/e073n22"
+,"runways":[
+{"len_m":2459,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":22.32821100,"lon1":73.21795600,"rwy2":"22","lat2":22.34411700,"lon2":73.23462500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.35,"desc":"BARODA TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":22.32722200,"lon":73.21691700,"rng_nm":18,"alt_fmsl":129,"hdg":224.11,"id":"VDD","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":22.34302800,"lon":73.23163900,"rng_nm":10,"alt_fmsl":129,"id":"VDD","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":22.34302800,"lon":73.23163900,"rng_nm":18,"alt_fmsl":129,"id":"VDD","rwy":"22","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VLVT","name":"Vientiane Wattay","lat":17.97842625,"lon":102.56572257,"rwys":1,"ils":1,"elev":1850,"index":4627196,"path":"e100n10/e102n17"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":17.99796734,"lon1":102.55324967,"rwy2":"31","lat2":17.97871811,"lon2":102.57319366}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":17.97693253,"lon":102.57501984,"rng_nm":18,"alt_fmsl":553,"hdg":135.43,"id":"IVTN","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":17.99511719,"lon":102.55460358,"rng_nm":10,"alt_fmsl":550,"id":"IVTN","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":18.02538300,"lon":102.52456665,"rng_nm":0,"alt_fmsl":657,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":18.00478363,"lon":102.54618073,"rng_nm":0,"alt_fmsl":566,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":17.99511719,"lon":102.55460358,"rng_nm":18,"alt_fmsl":550,"id":"IVTN","rwy":"13","desc":"DME-ILS"}
+]
+}

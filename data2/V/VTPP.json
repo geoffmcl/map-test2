@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTPP","name":"Phitsanulok","lat":16.77481439,"lon":100.28126331,"rwys":1,"ils":1,"elev":145,"index":4594354,"path":"e100n10/e100n16"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":16.79388900,"lon1":100.27083100,"rwy2":"32","lat2":16.77198900,"lon2":100.28741400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":16.79562200,"lon":100.26951700,"rng_nm":18,"alt_fmsl":159,"hdg":324.05,"id":"IPSL","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":16.77463900,"lon":100.28661100,"rng_nm":10,"alt_fmsl":145,"id":"IPSL","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":16.79562200,"lon":100.26951700,"rng_nm":18,"alt_fmsl":145,"id":"IPSL","rwy":"32","desc":"DME-ILS"}
+]
+}

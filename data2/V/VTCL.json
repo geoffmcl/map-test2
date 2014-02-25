@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTCL","name":"Lampang","lat":18.27832200,"lon":99.50643900,"rwys":1,"ils":1,"elev":811,"index":4578068,"path":"e090n10/e099n18"
+,"runways":[
+{"len_m":1970,"wid_m":28.96,"hdg":175,"surf":"Asphalt","rwy1":"18","lat1":18.27978900,"lon1":99.50350800,"rwy2":"36","lat2":18.26204400,"lon2":99.50499200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":18.28101100,"lon":99.50331900,"rng_nm":18,"alt_fmsl":789,"id":"ILPN","rwy":"36","desc":"LOC"},
+{"type":"DME","freq":109.7,"lat":18.28107500,"lon":99.50399700,"rng_nm":18,"alt_fmsl":789,"id":"ILPN","rwy":"36","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VGSY","name":"Osmany Intl","lat":24.9632415,"lon":91.866785,"rwys":1,"ils":1,"elev":50,"index":4447419,"path":"e090n20/e091n24"
+,"runways":[
+{"len_m":2889,"wid_m":45.72,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":24.96833600,"lon1":91.85361700,"rwy2":"29","lat2":24.95814700,"lon2":91.87995300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"SYLHET TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":24.95736900,"lon":91.88191900,"rng_nm":18,"alt_fmsl":76,"hdg":113.15,"id":"SYL","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":24.96672500,"lon":91.85900000,"rng_nm":10,"alt_fmsl":76,"id":"SYL","rwy":"11","desc":"GS","gs":3},
+{"type":"DME","freq":111.5,"lat":24.96672500,"lon":91.85900000,"rng_nm":18,"alt_fmsl":50,"id":"SYL","rwy":"11","desc":"DME-ILS"}
+]
+}

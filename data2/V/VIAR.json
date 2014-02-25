@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VIAR","name":"Amritsar","lat":31.709593,"lon":74.7972625,"rwys":1,"ils":1,"elev":756,"index":4169323,"path":"e070n30/e074n31"
+,"runways":[
+{"len_m":3288,"wid_m":45.11,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":31.72329700,"lon1":74.79064200,"rwy2":"34","lat2":31.69588900,"lon2":74.80388300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":124.35,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":31.72111100,"lon":74.79152800,"rng_nm":18,"alt_fmsl":756,"hdg":337.37,"id":"IAMR","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":31.70055600,"lon":74.80291700,"rng_nm":10,"alt_fmsl":756,"id":"IAMR","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":31.70055600,"lon":74.80291700,"rng_nm":18,"alt_fmsl":756,"id":"IAMR","rwy":"34","desc":"DME-ILS"}
+]
+}

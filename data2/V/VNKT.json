@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VNKT","name":"Kathmandu Tribhuvan Intl","lat":27.69884680,"lon":85.35736080,"rwys":1,"ils":0,"elev":4390,"index":4349289,"path":"e080n20/e085n27"
+,"runways":[
+{"len_m":3044,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":27.68381400,"lon1":85.35341700,"rwy2":"20","lat2":27.70935300,"lon2":85.36478300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"KATHMANDU ATIS"},
+{"type":"GND","freq":121.9,"desc":"KATHMANDU GND"},
+{"type":"TWR","freq":118.1,"desc":"KATHMANDU TWR"},
+{"type":"TWR","freq":118.5,"desc":"KATHMANDU TWR"},
+{"type":"APP","freq":120.6,"desc":"KATHMANDU APP"},
+{"type":"APP","freq":125.1,"desc":"KATHMANDU APP"}
+]
+,"ils":[
+]
+}

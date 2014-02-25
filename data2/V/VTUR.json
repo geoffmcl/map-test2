@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUR","name":"Rob Muang Rta","lat":16.06838400,"lon":103.64505800,"rwys":1,"ils":0,"elev":459,"index":4643461,"path":"e100n10/e103n16"
+,"runways":[
+{"len_m":951,"wid_m":29.87,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":16.07453300,"lon1":103.64487800,"rwy2":"35","lat2":16.06616700,"lon2":103.64692500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.4,"desc":"GND"},
+{"type":"TWR","freq":119.75,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"APP"}
+]
+,"ils":[
+]
+}

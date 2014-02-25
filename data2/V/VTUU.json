@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTUU","name":"Ubon Ratchathani","lat":15.24679400,"lon":104.87204000,"rwys":1,"ils":1,"elev":406,"index":4659790,"path":"e100n10/e104n15"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":15.24282500,"lon1":104.85929400,"rwy2":"23","lat2":15.25972800,"lon2":104.88116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":123.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":15.23995800,"lon":104.85558300,"rng_nm":18,"alt_fmsl":406,"hdg":231.31,"id":"IUBL","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":15.25723600,"lon":104.87975800,"rng_nm":10,"alt_fmsl":392,"id":"IUBL","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":15.23995800,"lon":104.85558300,"rng_nm":18,"alt_fmsl":406,"id":"IUBL","rwy":"23","desc":"DME-ILS"}
+]
+}

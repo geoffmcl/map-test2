@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VEIM","name":"Imphal","lat":24.7599515,"lon":93.896699,"rwys":1,"ils":1,"elev":2540,"index":4480179,"path":"e090n20/e093n24"
+,"runways":[
+{"len_m":2743,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":24.74976400,"lon1":93.88899200,"rwy2":"22","lat2":24.77013900,"lon2":93.90440600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":24.77233300,"lon":93.90686100,"rng_nm":18,"alt_fmsl":2540,"hdg":35.72,"id":"IPH","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":24.75102800,"lon":93.89208300,"rng_nm":10,"alt_fmsl":2540,"id":"IPH","rwy":"04","desc":"GS","gs":3.5},
+{"type":"MM","freq":0,"lat":24.73955600,"lon":93.88188900,"rng_nm":0,"alt_fmsl":2540,"id":"----","rwy":"04","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":24.75102800,"lon":93.89208300,"rng_nm":18,"alt_fmsl":2540,"id":"IPH","rwy":"04","desc":"DME-ILS"}
+]
+}

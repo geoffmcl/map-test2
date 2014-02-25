@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTPB","name":"Phetchabun","lat":16.67504500,"lon":101.19129900,"rwys":1,"ils":1,"elev":450,"index":4610729,"path":"e100n10/e101n16"
+,"runways":[
+{"len_m":2101,"wid_m":45.11,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":16.68552500,"lon1":101.19511700,"rwy2":"36","lat2":16.66653300,"lon2":101.19510000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.7,"desc":"GND"},
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":126.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":16.68823600,"lon":101.19511900,"rng_nm":18,"alt_fmsl":447,"hdg":0.05,"id":"IPCB","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":16.66915600,"lon":101.19622800,"rng_nm":10,"alt_fmsl":450,"id":"IPCB","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":16.68823900,"lon":101.19579200,"rng_nm":18,"alt_fmsl":447,"id":"IPCB","rwy":"36","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VTPH","name":"Hua Hin","lat":12.62850617,"lon":99.95300161,"rwys":1,"ils":0,"elev":62,"index":4577711,"path":"e090n10/e099n12"
+,"runways":[
+{"len_m":2104,"wid_m":35.05,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":12.64514200,"lon1":99.94816499,"rwy2":"34","lat2":12.62730800,"lon2":99.95489599}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"APP","freq":126.2,"desc":"APP"}
+]
+,"ils":[
+]
+}

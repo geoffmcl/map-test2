@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VCCC","name":"Colombo Ratmalana","lat":6.8219945,"lon":79.886207,"rwys":1,"ils":0,"elev":22,"index":4249655,"path":"e070n00/e079n06"
+,"runways":[
+{"len_m":1832,"wid_m":30.48,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":6.81506700,"lon1":79.88165800,"rwy2":"22","lat2":6.82892200,"lon2":79.89075600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"RATMALANA TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

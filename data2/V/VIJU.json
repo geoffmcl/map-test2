@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"VIJU","name":"Jammu","lat":32.689143,"lon":74.837389,"rwys":1,"ils":1,"elev":1029,"index":4169387,"path":"e070n30/e074n32"
+,"runways":[
+{"len_m":2051,"wid_m":45.72,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":32.69837800,"lon1":74.83682800,"rwy2":"35","lat2":32.67990800,"lon2":74.83795000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":32.70127800,"lon":74.83733300,"rng_nm":18,"alt_fmsl":1029,"hdg":358.61,"id":"JMU","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":32.68488900,"lon":74.83680600,"rng_nm":10,"alt_fmsl":1029,"id":"JMU","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":32.68488900,"lon":74.83680600,"rng_nm":18,"alt_fmsl":1029,"id":"JMU","rwy":"35","desc":"DME-ILS"}
+]
+}
