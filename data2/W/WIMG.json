@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIMG","name":"Padang Tabing","lat":-0.87976100,"lon":100.35056300,"rwys":1,"ils":0,"elev":9,"index":4593218,"path":"e100s10/e100s01"
+,"runways":[
+{"len_m":2150,"wid_m":45.11,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":-0.86584700,"lon1":100.34859200,"rwy2":"34","lat2":-0.88413100,"lon2":100.35517200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"ATIS"},
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"PADANG APP"}
+]
+,"ils":[
+]
+}

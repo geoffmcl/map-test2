@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WITT","name":"Banda Aceh Sultan Iskandarmuda","lat":5.51764870,"lon":95.41840360,"rwys":1,"ils":1,"elev":65,"index":4511715,"path":"e090n00/e095n05"
+,"runways":[
+{"len_m":2494,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":5.53456700,"lon1":95.41808900,"rwy2":"35","lat2":5.51247800,"lon2":95.42265600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":5.50994400,"lon":95.42313900,"rng_nm":18,"alt_fmsl":65,"hdg":168.46,"id":"IBAC","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":5.53230600,"lon":95.41963900,"rng_nm":10,"alt_fmsl":65,"id":"IBAC","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":5.61588900,"lon":95.39747200,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":5.54497200,"lon":95.41619400,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"17","desc":"MM"}
+]
+}

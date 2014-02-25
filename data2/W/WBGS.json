@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBGS","name":"Sibu","lat":2.25794510,"lon":111.98536680,"rwys":1,"ils":1,"elev":122,"index":4773655,"path":"e110n00/e111n02"
+,"runways":[
+{"len_m":2754,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":2.26965000,"lon1":111.97587500,"rwy2":"31","lat2":2.25355600,"lon2":111.99477200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.2,"desc":"TWR"},
+{"type":"TWR","freq":122.6,"desc":"TWR"},
+{"type":"APP","freq":122.6,"desc":"APP"},
+{"type":"APP","freq":123.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":2.25136700,"lon":111.99797200,"rng_nm":18,"alt_fmsl":122,"hdg":129.63,"id":"ISU","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":2.26858100,"lon":111.97885000,"rng_nm":10,"alt_fmsl":122,"id":"ISU","rwy":"13","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":2.27526700,"lon":111.96969400,"rng_nm":0,"alt_fmsl":122,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":2.26803600,"lon":111.97825000,"rng_nm":18,"alt_fmsl":122,"id":"ISU","rwy":"13","desc":"DME-ILS"}
+]
+}

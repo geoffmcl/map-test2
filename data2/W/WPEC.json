@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WPEC","name":"Baukau Cakung","lat":-8.47887900,"lon":126.39843000,"rwys":1,"ils":0,"elev":1777,"index":5018723,"path":"e120s10/e126s09"
+,"runways":[
+{"len_m":2509,"wid_m":55.47,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":-8.47647500,"lon1":126.39232200,"rwy2":"32","lat2":-8.49440300,"lon2":126.40628900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.45,"desc":"E TIMOR COMMON HIGH"},
+{"type":"TWR","freq":127.1,"desc":"E TIMOR COMMON LOW"},
+{"type":"TWR","freq":122.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

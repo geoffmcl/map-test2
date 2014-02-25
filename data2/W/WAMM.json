@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WAMM","name":"Manado Sam Ratulangi","lat":1.54528200,"lon":124.92113500,"rwys":1,"ils":2,"elev":264,"index":4986599,"path":"e120n00/e124n01"
+,"runways":[
+{"len_m":2649,"wid_m":45.11,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":1.55934417,"lon1":124.92555961,"rwy2":"36","lat2":1.53539783,"lon2":124.92475239}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"RATULANGI TWR"},
+{"type":"APP","freq":119,"desc":"MANADO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":1.53414200,"lon":124.92472500,"rng_nm":18,"alt_fmsl":264,"hdg":181.90,"id":"IMNO","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":1.56071700,"lon":124.92560000,"rng_nm":18,"alt_fmsl":264,"hdg":1.92,"id":"ITDO","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":1.55660600,"lon":124.92651900,"rng_nm":10,"alt_fmsl":264,"id":"IMNO","rwy":"18","desc":"GS","gs":3.25},
+{"type":"GS","freq":110.5,"lat":1.53801700,"lon":124.92593900,"rng_nm":10,"alt_fmsl":264,"id":"ITDO","rwy":"36","desc":"GS","gs":3.25}
+]
+}

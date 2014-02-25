@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIOO","name":"Pontianak Supadio","lat":-0.14986540,"lon":109.40480800,"rwys":1,"ils":1,"elev":10,"index":4740723,"path":"e100s10/e109s01"
+,"runways":[
+{"len_m":2244,"wid_m":29.87,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":-0.14131900,"lon1":109.40006100,"rwy2":"33","lat2":-0.16009700,"lon2":109.40771900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"PONTIANAK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":-0.16218300,"lon":109.40876900,"rng_nm":18,"alt_fmsl":10,"hdg":157.35,"id":"IPNK","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":-0.14346400,"lon":109.40230300,"rng_nm":10,"alt_fmsl":10,"id":"IPNK","rwy":"15","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-0.13330600,"lon":109.39709200,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"15","desc":"MM"}
+]
+}

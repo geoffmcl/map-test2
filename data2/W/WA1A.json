@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WA1A","name":"Sorong Mainland","lat":-0.89042328,"lon":131.29030063,"rwys":1,"ils":0,"elev":10,"index":5101122,"path":"e130s10/e131s01"
+,"runways":[
+{"len_m":1855,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":-0.89346492,"lon1":131.27774467,"rwy2":"27","lat2":-0.89454021,"lon2":131.29438106}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"EDWARD TWR"},
+{"type":"TWR","freq":122.3,"desc":"INFO"}
+]
+,"ils":[
+]
+}

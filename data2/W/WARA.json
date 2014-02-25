@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WARA","name":"Abdul Rachman Saleh","lat":-7.92163000,"lon":112.71675100,"rwys":2,"ils":0,"elev":1726,"index":4789381,"path":"e110s10/e112s08"
+,"runways":[
+{"len_m":1971,"wid_m":39.93,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":-7.91831900,"lon1":112.71167200,"rwy2":"35","lat2":-7.93564400,"lon2":112.71588600},
+{"len_m":1503,"wid_m":29.87,"hdg":166,"surf":"Asphalt","rwy1":"17L","lat1":-7.91952500,"lon1":112.71363300,"rwy2":"35R","lat2":-7.93273600,"lon2":112.71685800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"SURABAYA APP"}
+]
+,"ils":[
+]
+}

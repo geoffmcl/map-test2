@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBKW","name":"Tawau","lat":4.31308200,"lon":118.13031800,"rwys":1,"ils":1,"elev":57,"index":4888465,"path":"e110n00/e118n04"
+,"runways":[
+{"len_m":2687,"wid_m":47.24,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":4.30696400,"lon1":118.11166700,"rwy2":"24","lat2":4.31977500,"lon2":118.13224200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":123.55,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":4.30477800,"lon":118.10800000,"rng_nm":18,"alt_fmsl":57,"hdg":238.18,"id":"ITWU","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":4.31727800,"lon":118.13052800,"rng_nm":10,"alt_fmsl":87,"id":"ITWU","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":111.3,"lat":4.31727800,"lon":118.13052800,"rng_nm":18,"alt_fmsl":87,"id":"ITWU","rwy":"24","desc":"DME-ILS"}
+]
+}

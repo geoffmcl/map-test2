@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKC","name":"Kota Bahru Sultan Ismail Petra","lat":6.16790910,"lon":102.29287720,"rwys":1,"ils":1,"elev":16,"index":4626442,"path":"e100n00/e102n06"
+,"runways":[
+{"len_m":2128,"wid_m":45.72,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":6.16846700,"lon1":102.28353600,"rwy2":"28","lat2":6.16523600,"lon2":102.30249200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"KOTA BHARU GND"},
+{"type":"TWR","freq":122.5,"desc":"KOTA BHARU TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":6.16483300,"lon":102.30516700,"rng_nm":18,"alt_fmsl":16,"hdg":99.59,"id":"IKB","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":6.16675000,"lon":102.28733300,"rng_nm":10,"alt_fmsl":16,"id":"IKB","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":6.16675000,"lon":102.28733300,"rng_nm":18,"alt_fmsl":16,"id":"IKB","rwy":"10","desc":"DME-ILS"}
+]
+}

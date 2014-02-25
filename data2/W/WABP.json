@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WABP","name":"Timika-tembagapura/moses Kilangin","lat":-4.52536351,"lon":136.88907608,"rwys":1,"ils":0,"elev":103,"index":5182815,"path":"e130s10/e136s05"
+,"runways":[
+{"len_m":2393,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":-4.52253100,"lon1":136.87820600,"rwy2":"30","lat2":-4.53396900,"lon2":136.89651400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":136,"surf":"Concrete","lat1":-4.52515573,"lon1":136.88571091},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":136,"surf":"Concrete","lat1":-4.52492107,"lon1":136.88585047},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":136,"surf":"Concrete","lat1":-4.52468275,"lon1":136.88599813},
+{"rwy1":"H4","len_m":10,"wid_m":10.06,"hdg":136,"surf":"Concrete","lat1":-4.52444433,"lon1":136.88613864}
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"KILANGIN TWR"}
+]
+,"ils":[
+]
+}

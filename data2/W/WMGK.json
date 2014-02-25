@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMGK","name":"Gong Kedak","lat":5.7995725,"lon":102.4842205,"rwys":1,"ils":0,"elev":20,"index":4626419,"path":"e100n00/e102n05"
+,"runways":[
+{"len_m":2010,"wid_m":45.72,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":5.79831400,"lon1":102.47523300,"rwy2":"26","lat2":5.80083100,"lon2":102.49320800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"}
+]
+,"ils":[
+]
+}

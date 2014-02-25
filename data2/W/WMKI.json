@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKI","name":"Ipoh/sultan Azlan Shaw","lat":4.5679725,"lon":101.0921945,"rwys":1,"ils":1,"elev":130,"index":4609952,"path":"e100n00/e101n04"
+,"runways":[
+{"len_m":1798,"wid_m":36.88,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":4.56187300,"lon1":101.08683600,"rwy2":"22","lat2":4.57407200,"lon2":101.09755300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"IPOH TWR"},
+{"type":"TWR","freq":121.6,"desc":"IPOH TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":4.57670800,"lon":101.09986700,"rng_nm":18,"alt_fmsl":130,"hdg":41.21,"id":"IPO","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":4.56308300,"lon":101.08971900,"rng_nm":10,"alt_fmsl":130,"id":"IPO","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":4.56308300,"lon":101.08971900,"rng_nm":18,"alt_fmsl":130,"id":"IPO","rwy":"04","desc":"DME-ILS"}
+]
+}

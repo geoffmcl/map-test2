@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBKS","name":"Sandakan","lat":5.89679910,"lon":118.05880740,"rwys":1,"ils":1,"elev":46,"index":4888568,"path":"e110n00/e118n05"
+,"runways":[
+{"len_m":2138,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":5.89932200,"lon1":118.04996100,"rwy2":"26","lat2":5.90247200,"lon2":118.06901100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.05,"desc":"TWR"},
+{"type":"APP","freq":123.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":5.90295300,"lon":118.07172200,"rng_nm":18,"alt_fmsl":46,"hdg":80.48,"id":"ISKN","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":5.90085000,"lon":118.05246100,"rng_nm":10,"alt_fmsl":46,"id":"ISKN","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":5.90085000,"lon":118.05246100,"rng_nm":18,"alt_fmsl":46,"id":"ISKN","rwy":"08","desc":"DME-ILS"}
+]
+}

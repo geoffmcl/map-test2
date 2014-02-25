@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"W43","name":"Hulett Municipal","lat":44.66826912,"lon":-104.57159804,"rwys":1,"ils":0,"elev":4264,"index":1237417,"path":"w110n40/w105n44"
+,"runways":[
+{"len_m":1677,"wid_m":22.86,"hdg":142,"surf":"Asphalt","rwy1":"13","lat1":44.66881220,"lon1":-104.57433026,"rwy2":"31","lat2":44.65690030,"lon2":-104.56133941}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

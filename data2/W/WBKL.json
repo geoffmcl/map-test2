@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBKL","name":"Labuan","lat":5.29998490,"lon":115.24937440,"rwys":1,"ils":1,"elev":101,"index":4839377,"path":"e110n00/e115n05"
+,"runways":[
+{"len_m":2283,"wid_m":45.11,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":5.30920600,"lon1":115.24436900,"rwy2":"32","lat2":5.29216400,"lon2":115.25599700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"GND","freq":118.35,"desc":"GND"},
+{"type":"TWR","freq":119.12,"desc":"TWR"},
+{"type":"TWR","freq":119.15,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":122.35,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":5.28980800,"lon":115.25759700,"rng_nm":18,"alt_fmsl":101,"hdg":145.82,"id":"ILB","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":5.30667500,"lon":115.24516100,"rng_nm":10,"alt_fmsl":101,"id":"ILB","rwy":"14","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIPK","name":"Pangkal Pinang Depati Amir","lat":-2.16563000,"lon":106.13862600,"rwys":1,"ils":0,"elev":108,"index":4691441,"path":"e100s10/e106s03"
+,"runways":[
+{"len_m":1995,"wid_m":29.87,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":-2.15350000,"lon1":106.13667800,"rwy2":"34","lat2":-2.17090000,"lon2":106.14145300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"AMIR TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"},
+{"type":"APP","freq":123.6,"desc":"PANGKALPINANG APP"}
+]
+,"ils":[
+]
+}

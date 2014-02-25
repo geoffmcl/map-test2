@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKL","name":"Langkawi Intl","lat":6.34063800,"lon":99.73017900,"rwys":1,"ils":1,"elev":29,"index":4577301,"path":"e090n00/e099n06"
+,"runways":[
+{"len_m":3809,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":6.31551100,"lon1":99.71894700,"rwy2":"21","lat2":6.34394200,"lon2":99.73838300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":6.34680600,"lon":99.74155600,"rng_nm":18,"alt_fmsl":29,"hdg":35.68,"id":"ILK","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":6.32347200,"lon":99.72683300,"rng_nm":10,"alt_fmsl":29,"id":"ILK","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":6.32347200,"lon":99.72683300,"rng_nm":18,"alt_fmsl":29,"id":"ILK","rwy":"03","desc":"DME-ILS"}
+]
+}

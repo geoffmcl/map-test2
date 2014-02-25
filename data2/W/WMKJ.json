@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKJ","name":"Johor Bahru Sultan Ismail","lat":1.63881600,"lon":103.66738900,"rwys":1,"ils":1,"elev":135,"index":4642541,"path":"e100n00/e103n01"
+,"runways":[
+{"len_m":3339,"wid_m":45.72,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":1.65548300,"lon1":103.66444200,"rwy2":"34","lat2":1.62713100,"lon2":103.67479400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"JOHOR TWR"},
+{"type":"TWR","freq":122.5,"desc":"JOHOR TWR"},
+{"type":"APP","freq":124.7,"desc":"JOHOR TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":1.62563336,"lon":103.67536926,"rng_nm":18,"alt_fmsl":133,"hdg":159.86,"id":"IJB","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":1.65494400,"lon":103.66663900,"rng_nm":10,"alt_fmsl":135,"id":"IJB","rwy":"16","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":1.65494400,"lon":103.66663900,"rng_nm":18,"alt_fmsl":135,"id":"IJB","rwy":"16","desc":"DME-ILS"}
+]
+}

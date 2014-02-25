@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIBB","name":"Pekanbaru Sultan Syarif Kasim Ii","lat":0.46456200,"lon":101.44745600,"rwys":1,"ils":1,"elev":102,"index":4609691,"path":"e100n00/e101n00"
+,"runways":[
+{"len_m":2234,"wid_m":29.87,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":0.47088300,"lon1":101.44483100,"rwy2":"36","lat2":0.45068600,"lon2":101.44424400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"SYARIF TWR"},
+{"type":"APP","freq":120.8,"desc":"PEKANBARU APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":0.47225300,"lon":101.44478600,"rng_nm":18,"alt_fmsl":102,"hdg":1.44,"id":"IPKU","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":0.45420600,"lon":101.44519200,"rng_nm":10,"alt_fmsl":87,"id":"IPKU","rwy":"36","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":0.44124200,"lon":101.44400600,"rng_nm":0,"alt_fmsl":102,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":0.47225300,"lon":101.44478600,"rng_nm":18,"alt_fmsl":102,"id":"IPKU","rwy":"36","desc":"DME-ILS"}
+]
+}

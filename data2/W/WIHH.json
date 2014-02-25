@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIHH","name":"Jakarta Halim Perdanakusuma Intl","lat":-6.26369570,"lon":106.88729100,"rwys":1,"ils":1,"elev":84,"index":4691183,"path":"e100s10/e106s07"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"06","lat1":-6.27223300,"lon1":106.87876700,"rwy2":"24","lat2":-6.26098300,"lon2":106.90346700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"JAKARTA APP"},
+{"type":"APP","freq":127.95,"desc":"JAKARTA APP"},
+{"type":"APP","freq":127.9,"desc":"JAKARTA APP"},
+{"type":"APP","freq":125.45,"desc":"JAKARTA ARR"},
+{"type":"APP","freq":135.9,"desc":"JAKARTA ARR"},
+{"type":"APP","freq":119.7,"desc":"JAKARTA DIRECTOR"},
+{"type":"APP","freq":120,"desc":"JAKARTA DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":-6.27288300,"lon":106.87741700,"rng_nm":18,"alt_fmsl":87,"hdg":245.32,"id":"IHAL","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":-6.26400300,"lon":106.89936700,"rng_nm":10,"alt_fmsl":90,"id":"IHAL","rwy":"24","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-6.25944400,"lon":106.90833300,"rng_nm":0,"alt_fmsl":84,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":111.7,"lat":-6.27197500,"lon":106.88695800,"rng_nm":18,"alt_fmsl":88,"id":"IHAL","rwy":"24","desc":"DME-ILS"}
+]
+}

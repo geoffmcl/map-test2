@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKP","name":"Penang Intl","lat":5.29199100,"lon":100.26651800,"rwys":1,"ils":1,"elev":11,"index":4593618,"path":"e100n00/e100n05"
+,"runways":[
+{"len_m":3356,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":5.28590000,"lon1":100.26669400,"rwy2":"22","lat2":5.30838100,"lon2":100.28703600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":121.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":5.31130600,"lon":100.29038900,"rng_nm":18,"alt_fmsl":12,"hdg":42.88,"id":"IPG","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":5.28797200,"lon":100.27038900,"rng_nm":10,"alt_fmsl":11,"id":"IPG","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":5.28797200,"lon":100.27038900,"rng_nm":18,"alt_fmsl":11,"id":"IPG","rwy":"04","desc":"DME-ILS"}
+]
+}

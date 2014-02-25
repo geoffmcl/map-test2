@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WAOP","name":"Palangkaraya Tjilik Riwut","lat":-2.22617750,"lon":113.94472500,"rwys":1,"ils":1,"elev":82,"index":4806135,"path":"e110s10/e113s03"
+,"runways":[
+{"len_m":2101,"wid_m":29.87,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":-2.21626100,"lon1":113.93926400,"rwy2":"34","lat2":-2.23399200,"lon2":113.94605600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":-2.21588900,"lon":113.93888900,"rng_nm":18,"alt_fmsl":82,"hdg":338.42,"id":"IPLR","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":-2.23100800,"lon":113.94583300,"rng_nm":10,"alt_fmsl":82,"id":"IPLR","rwy":"34","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-2.24336900,"lon":113.94964700,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"34","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"W91","name":"Smith Mountain Lake","lat":37.107728,"lon":-79.5924795,"rwys":1,"ils":0,"elev":892,"index":1646529,"path":"w080n30/w080n37"
+,"runways":[
+{"len_m":931,"wid_m":15.24,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":37.10475600,"lon1":-79.59618100,"rwy2":"23","lat2":37.11070000,"lon2":-79.58877800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135,"desc":"ROANOKE APP/DEP"}
+]
+,"ils":[
+]
+}

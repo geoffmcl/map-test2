@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WADD","name":"Denpasar Ngurah Rai Intl","lat":-8.74532810,"lon":115.16622053,"rwys":1,"ils":1,"elev":14,"index":4838481,"path":"e110s10/e115s09"
+,"runways":[
+{"len_m":2983,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":-8.74870600,"lon1":115.15362800,"rwy2":"27","lat2":-8.74763300,"lon2":115.18071900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"GND","freq":118.9,"desc":"NGURAH GND"},
+{"type":"TWR","freq":118.1,"desc":"NGURAH TWR"},
+{"type":"TWR","freq":118.5,"desc":"NGURAH TWR"},
+{"type":"APP","freq":119.3,"desc":"DIRECTOR"},
+{"type":"APP","freq":119.7,"desc":"DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-8.74874900,"lon":115.15268600,"rng_nm":18,"alt_fmsl":10,"hdg":267.70,"id":"IDPS","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-8.74890800,"lon":115.17845800,"rng_nm":10,"alt_fmsl":12,"id":"IDPS","rwy":"27","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-8.74733900,"lon":115.19328100,"rng_nm":0,"alt_fmsl":14,"id":"----","rwy":"27","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":-8.74973100,"lon":115.15510800,"rng_nm":18,"alt_fmsl":14,"id":"IDPS","rwy":"27","desc":"DME-ILS"}
+]
+}

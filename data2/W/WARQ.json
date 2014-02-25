@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WARQ","name":"Solo Adi Sumarmo Wiryokusumo","lat":-7.51876450,"lon":110.75139620,"rwys":1,"ils":1,"elev":421,"index":4756638,"path":"e110s10/e110s08"
+,"runways":[
+{"len_m":2622,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":-7.51863300,"lon1":110.74528900,"rwy2":"26","lat2":-7.51354400,"lon2":110.76849400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.2,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"MARMO TWR"},
+{"type":"TWR","freq":122.7,"desc":"MARMO TWR"},
+{"type":"APP","freq":120.3,"desc":"SEMARANG TCA"},
+{"type":"APP","freq":123.4,"desc":"YOGYA APP"},
+{"type":"APP","freq":120.2,"desc":"YOGYA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":-7.51895000,"lon":110.74438300,"rng_nm":18,"alt_fmsl":421,"hdg":257.26,"id":"ISLO","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":-7.51533300,"lon":110.76541700,"rng_nm":10,"alt_fmsl":50,"id":"ISLO","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-7.49333300,"lon":110.85833300,"rng_nm":0,"alt_fmsl":421,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":-7.51070000,"lon":110.78100300,"rng_nm":0,"alt_fmsl":421,"id":"----","rwy":"26","desc":"MM"}
+]
+}

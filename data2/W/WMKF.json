@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMKF","name":"Kuala Lumpur Simpang","lat":3.11603900,"lon":101.70206500,"rwys":2,"ils":0,"elev":111,"index":4609861,"path":"e100n00/e101n03"
+,"runways":[
+{"len_m":1839,"wid_m":45.11,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":3.10544400,"lon1":101.69798100,"rwy2":"22","lat2":3.11905600,"lon2":101.70750000},
+{"len_m":157,"wid_m":29.57,"hdg":34,"surf":"Dirt","rwy1":"03","lat1":3.11223100,"lon1":101.70145300,"rwy2":"21","lat2":3.11339700,"lon2":101.70226100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.8,"desc":"TWR"},
+{"type":"TWR","freq":126.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"W96","name":"New Kent Co","lat":37.5034805,"lon":-77.125528,"rwys":1,"ils":0,"elev":123,"index":1679331,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":1096,"wid_m":22.86,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":37.50431400,"lon1":-77.13163900,"rwy2":"28","lat2":37.50264700,"lon2":-77.11941700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.4,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

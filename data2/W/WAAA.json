@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WAAA","name":"Ujung Pandang Hasanuddin","lat":-5.05970151,"lon":119.54795291,"rwys":1,"ils":1,"elev":47,"index":4904252,"path":"e110s10/e119s06"
+,"runways":[
+{"len_m":2498,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":-5.05428900,"lon1":119.54547800,"rwy2":"31","lat2":-5.06897200,"lon2":119.56260800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"UJUNG PANDANG APP"},
+{"type":"APP","freq":120.6,"desc":"UJUNG PANDANG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":-5.07017500,"lon":119.56403900,"rng_nm":18,"alt_fmsl":36,"hdg":130.67,"id":"IUPG","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":-5.05343300,"lon":119.54447800,"rng_nm":18,"alt_fmsl":44,"hdg":310.71,"id":"IMKS","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":-5.05679200,"lon":119.54687200,"rng_nm":10,"alt_fmsl":44,"id":"IUPG","rwy":"13","desc":"GS","gs":2.9},
+{"type":"GS","freq":111.3,"lat":-5.06802200,"lon":119.55981100,"rng_nm":10,"alt_fmsl":36,"id":"IMKS","rwy":"31","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-5.04818300,"lon":119.53842200,"rng_nm":0,"alt_fmsl":47,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":111.3,"lat":-5.06232500,"lon":119.55343600,"rng_nm":18,"alt_fmsl":36,"id":"IUPG","rwy":"13","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":-5.06232500,"lon":119.55343600,"rng_nm":18,"alt_fmsl":36,"id":"IMKS","rwy":"31","desc":"DME-ILS"}
+]
+}

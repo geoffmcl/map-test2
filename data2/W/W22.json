@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"W22","name":"Upshur Co Rgnl","lat":39.000594,"lon":-80.2749515,"rwys":1,"ils":0,"elev":1635,"index":1630274,"path":"w090n30/w081n39"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"11","lat1":39.00141900,"lon1":-80.28226400,"rwy2":"29","lat2":38.99976900,"lon2":-80.26763900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.15,"desc":"CLARKSBURG APP"}
+]
+,"ils":[
+]
+}

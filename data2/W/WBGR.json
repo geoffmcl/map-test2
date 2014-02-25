@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBGR","name":"Miri","lat":4.32950740,"lon":113.98840330,"rwys":1,"ils":1,"elev":59,"index":4806551,"path":"e110n00/e113n04"
+,"runways":[
+{"len_m":2742,"wid_m":60.05,"hdg":24,"surf":"Asphalt","rwy1":"02","lat1":4.31082800,"lon1":113.98158600,"rwy2":"20","lat2":4.33330800,"lon2":113.99202500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.3,"desc":"TWR"},
+{"type":"APP","freq":122.9,"desc":"APP"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":4.33533300,"lon":113.99305600,"rng_nm":18,"alt_fmsl":59,"hdg":25.02,"id":"IMR","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":4.31352800,"lon":113.98411100,"rng_nm":10,"alt_fmsl":56,"id":"IMR","rwy":"02","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":4.31352800,"lon":113.98411100,"rng_nm":18,"alt_fmsl":59,"id":"IMR","rwy":"02","desc":"DME-ILS"}
+]
+}

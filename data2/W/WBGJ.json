@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WBGJ","name":"Limbang","lat":4.8083015,"lon":115.0104375,"rwys":1,"ils":0,"elev":14,"index":4839344,"path":"e110n00/e115n04"
+,"runways":[
+{"len_m":1501,"wid_m":29.87,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":4.80286400,"lon1":115.00638300,"rwy2":"22","lat2":4.81373900,"lon2":115.01449200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

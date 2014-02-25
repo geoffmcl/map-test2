@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIMM","name":"Medan/polonia","lat":3.56623400,"lon":98.67729900,"rwys":1,"ils":1,"elev":90,"index":4560741,"path":"e090n00/e098n03"
+,"runways":[
+{"len_m":2898,"wid_m":45.11,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":3.54907500,"lon1":98.66221700,"rwy2":"23","lat2":3.56703900,"lon2":98.68121400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"MEDAN ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"MEDAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":3.56806900,"lon":98.68311400,"rng_nm":18,"alt_fmsl":90,"hdg":47.68,"id":"IMDN","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":3.55226400,"lon":98.66695000,"rng_nm":10,"alt_fmsl":90,"id":"IMDN","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":3.50108900,"lon":98.61225300,"rng_nm":0,"alt_fmsl":90,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":3.54370600,"lon":98.65621100,"rng_nm":0,"alt_fmsl":90,"id":"----","rwy":"05","desc":"MM"}
+]
+}

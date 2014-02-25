@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WATT","name":"Kupang El Tari","lat":-10.17005540,"lon":123.67222600,"rwys":2,"ils":0,"elev":335,"index":4969461,"path":"e120s20/e123s11"
+,"runways":[
+{"len_m":2507,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":-10.17475300,"lon1":123.66053100,"rwy2":"25","lat2":-10.16956100,"lon2":123.68280600},
+{"len_m":1272,"wid_m":64.01,"hdg":125,"surf":"Dirt","rwy1":"12","lat1":-10.17132500,"lon1":123.65899700,"rwy2":"30","lat2":-10.17795000,"lon2":123.66848600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":122.2,"desc":"KUPANG APP"}
+]
+,"ils":[
+]
+}

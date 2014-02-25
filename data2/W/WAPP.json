@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WAPP","name":"Ambon Pattimura","lat":-3.70918800,"lon":128.08718900,"rwys":1,"ils":0,"elev":33,"index":5051792,"path":"e120s10/e128s04"
+,"runways":[
+{"len_m":2503,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":-3.71825300,"lon1":128.08115000,"rwy2":"22","lat2":-3.70227200,"lon2":128.09711900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.4,"desc":"ATIS"},
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"AMBON APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WSAT","name":"Tengah","lat":1.38637266666667,"lon":103.705796333333,"rwys":3,"ils":0,"elev":50,"index":4642525,"path":"e100n00/e103n01"
+,"runways":[
+{"len_m":2747,"wid_m":45.11,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":1.39963600,"lon1":103.70979400,"rwy2":"36","lat2":1.37488300,"lon2":103.70764700},
+{"len_m":699,"wid_m":20.12,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":1.38689200,"lon1":103.69916400,"rwy2":"19","lat2":1.39312800,"lon2":103.70021700},
+{"len_m":349,"wid_m":71.93,"hdg":184,"surf":"Turf/grass","rwy1":"18R","lat1":1.38342500,"lon1":103.70910600,"rwy2":"36L","lat2":1.38027200,"lon2":103.70885000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122,"desc":"GND"},
+{"type":"TWR","freq":122,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"SINGAPORE APP/DEP"},
+{"type":"APP","freq":124.6,"desc":"SINGAPORE APP/DEP"},
+{"type":"APP","freq":122,"desc":"APP"},
+{"type":"APP","freq":130,"desc":"APP"}
+]
+,"ils":[
+]
+}

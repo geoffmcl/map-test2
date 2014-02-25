@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WAOO","name":"Banjarmasin Syamsudin Noor","lat":-3.43850680,"lon":114.75409700,"rwys":1,"ils":1,"elev":66,"index":4822438,"path":"e110s10/e114s04"
+,"runways":[
+{"len_m":2503,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":-3.44031400,"lon1":114.75147200,"rwy2":"28","lat2":-3.44439400,"lon2":114.77363300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.05,"desc":"ATIS"},
+{"type":"TWR","freq":118.4,"desc":"ULIN TWR"},
+{"type":"APP","freq":126.5,"desc":"BANJARMASIN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":-3.44481400,"lon":114.77580800,"rng_nm":18,"alt_fmsl":66,"hdg":100.49,"id":"IBDM","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":-3.44183100,"lon":114.75406400,"rng_nm":10,"alt_fmsl":54,"id":"IBDM","rwy":"10","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-3.43829400,"lon":114.74055300,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"10","desc":"MM"}
+]
+}

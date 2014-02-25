@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WMSA","name":"Kuala Lumpur S Abdul Aziz Shah","lat":3.12257890,"lon":101.55927280,"rwys":1,"ils":2,"elev":90,"index":4609860,"path":"e100n00/e101n03"
+,"runways":[
+{"len_m":3779,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":3.14533300,"lon1":101.54075000,"rwy2":"33","lat2":3.11583300,"lon2":101.55791700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"SUBANG INFO"},
+{"type":"CLD","freq":126,"desc":"LUMPUR DELIVERY"},
+{"type":"GND","freq":121.9,"desc":"SUBANG GND"},
+{"type":"TWR","freq":126.1,"desc":"LUMPUR"},
+{"type":"TWR","freq":118.2,"desc":"SUBANG TWR"},
+{"type":"APP","freq":125.1,"desc":"LUMPUR DIRECTOR"},
+{"type":"APP","freq":124.2,"desc":"LUMPUR DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":3.11476900,"lon":101.55899200,"rng_nm":18,"alt_fmsl":80,"hdg":149.21,"id":"ISB","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":3.14480600,"lon":101.54022200,"rng_nm":18,"alt_fmsl":69,"hdg":328.62,"id":"IKL","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":3.14222200,"lon":101.54111100,"rng_nm":10,"alt_fmsl":90,"id":"ISB","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":3.11980600,"lon":101.55508300,"rng_nm":10,"alt_fmsl":69,"id":"IKL","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":3.14222200,"lon":101.54111100,"rng_nm":18,"alt_fmsl":90,"id":"ISB","rwy":"15","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":3.11980600,"lon":101.55508300,"rng_nm":18,"alt_fmsl":69,"id":"IKL","rwy":"33","desc":"DME-ILS"}
+]
+}

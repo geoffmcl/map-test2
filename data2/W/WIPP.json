@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WIPP","name":"Palembang Sultan Mahmud Badaruddin Ii","lat":-2.89342500,"lon":104.70274400,"rwys":2,"ils":1,"elev":37,"index":4658629,"path":"e100s10/e104s03"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":-2.89387500,"lon1":104.68953100,"rwy2":"29","lat2":-2.90262500,"lon2":104.71027200},
+{"len_m":2122,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11L","lat1":-2.89341912,"lon1":104.69270229,"rwy2":"29R","lat2":-2.90072288,"lon2":104.71035771}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"MAHMUD TWR"},
+{"type":"APP","freq":119.2,"desc":"PALEMBANG APP"},
+{"type":"APP","freq":120.4,"desc":"PALEMBANG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":-2.89413900,"lon":104.69009200,"rng_nm":18,"alt_fmsl":37,"hdg":292.83,"id":"IPLB","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":-2.90085300,"lon":104.70780300,"rng_nm":10,"alt_fmsl":37,"id":"IPLB","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-2.92799700,"lon":104.77055800,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":-2.90660000,"lon":104.71876900,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"29","desc":"MM"}
+]
+}

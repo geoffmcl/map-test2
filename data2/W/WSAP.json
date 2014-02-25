@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"WSAP","name":"Singapore Paya Lebar Aero","lat":1.35556070,"lon":103.90063480,"rwys":1,"ils":2,"elev":65,"index":4642519,"path":"e100n00/e103n01"
+,"runways":[
+{"len_m":3788,"wid_m":60.96,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":1.34463900,"lon1":103.90286100,"rwy2":"20","lat2":1.37616700,"lon2":103.91618900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"GND","freq":118.05,"desc":"GND"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":1.37955800,"lon":103.91767800,"rng_nm":18,"alt_fmsl":65,"hdg":22.99,"id":"IPN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":1.34090300,"lon":103.90124400,"rng_nm":18,"alt_fmsl":65,"hdg":202.96,"id":"IPS","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":1.34733900,"lon":103.90280800,"rng_nm":10,"alt_fmsl":50,"id":"IPN","rwy":"02","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":1.37425000,"lon":103.91424700,"rng_nm":10,"alt_fmsl":50,"id":"IPS","rwy":"20","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":1.34733900,"lon":103.90280800,"rng_nm":18,"alt_fmsl":50,"id":"IPN","rwy":"02","desc":"DME-ILS"},
+{"type":"DME","freq":111.5,"lat":1.37425000,"lon":103.91424700,"rng_nm":18,"alt_fmsl":50,"id":"IPS","rwy":"20","desc":"DME-ILS"}
+]
+}
