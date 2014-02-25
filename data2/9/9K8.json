@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9K8","name":"Kingman Arpt Clyde Cessna Fld","lat":37.669137,"lon":-98.124084,"rwys":2,"ils":0,"elev":1605,"index":1335275,"path":"w100n30/w099n37"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":188,"surf":"Concrete","rwy1":"18","lat1":37.67391700,"lon1":-98.12132200,"rwy2":"36","lat2":37.66222800,"lon2":-98.12343900},
+{"len_m":1036,"wid_m":18.29,"hdg":116,"surf":"Concrete","rwy1":"11","lat1":37.67228900,"lon1":-98.13104200,"rwy2":"29","lat2":37.66811400,"lon2":-98.12053300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"WICHITA APP/DEP"}
+]
+,"ils":[
+]
+}

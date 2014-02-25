@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9U3","name":"Austin","lat":39.4672245,"lon":-117.19572775,"rwys":2,"ils":0,"elev":5730,"index":1024091,"path":"w120n30/w118n39"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"12","lat1":39.47430600,"lon1":-117.20217200,"rwy2":"30","lat2":39.46165000,"lon2":-117.18856900},
+{"len_m":1828,"wid_m":22.86,"hdg":200,"surf":"Asphalt","rwy1":"18","lat1":39.47420000,"lon1":-117.19241700,"rwy2":"36","lat2":39.45874200,"lon2":-117.19975300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9R4","name":"Tanners","lat":28.56972027,"lon":-96.62970056,"rwys":2,"ils":0,"elev":15,"index":1367457,"path":"w100n20/w097n28"
+,"runways":[
+{"len_m":702,"wid_m":32.00,"hdg":95,"surf":"Turf/grass","rwy1":"09","lat1":28.57005000,"lon1":-96.63327266,"rwy2":"27","lat2":28.56939054,"lon2":-96.62612846},
+{"len_m":547,"wid_m":32.00,"hdg":175,"surf":"Turf/grass","rwy1":"17","lat1":28.57218294,"lon1":-96.62989664,"rwy2":"35","lat2":28.56725760,"lon2":-96.62950448}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":3055,"wid_m":304,"hdg_t":86,"buoys":false,"rwy1":"08","lat1":28.56876357,"lon1":-96.64527894,"rwy2":"26","lat2":28.57067697,"lon2":-96.61412218},
+{"len_m":577,"wid_m":1219,"hdg_t":186,"buoys":false,"rwy1":"18","lat1":28.57231183,"lon1":-96.62939041,"rwy2":"36","lat2":28.56712871,"lon2":-96.63001071}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

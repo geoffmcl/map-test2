@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"99V","name":"Crawford","lat":38.70393875,"lon":-107.6443775,"rwys":2,"ils":0,"elev":6470,"index":1187881,"path":"w110n30/w108n38"
+,"runways":[
+{"len_m":1493,"wid_m":6.10,"hdg":80,"surf":"Asphalt","rwy1":"07","lat1":38.70305600,"lon1":-107.65250000,"rwy2":"25","lat2":38.70517200,"lon2":-107.63554400},
+{"len_m":764,"wid_m":38.10,"hdg":80,"surf":"Dirt","rwy1":"07R","lat1":38.70320800,"lon1":-107.64906900,"rwy2":"25L","lat2":38.70431900,"lon2":-107.64039700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

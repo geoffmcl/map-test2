@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9G3","name":"Akron","lat":43.020839,"lon":-78.48293,"rwys":2,"ils":0,"elev":840,"index":1663298,"path":"w080n40/w079n43"
+,"runways":[
+{"len_m":996,"wid_m":15.24,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":43.01882800,"lon1":-78.48790600,"rwy2":"25","lat2":43.02336400,"lon2":-78.47735600},
+{"len_m":595,"wid_m":15.24,"hdg":108,"surf":"Turf/grass","rwy1":"11","lat1":43.02144700,"lon1":-78.48668900,"rwy2":"29","lat2":43.01971700,"lon2":-78.47976900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.15,"desc":"BUFFALO APP/DEP"}
+]
+,"ils":[
+]
+}

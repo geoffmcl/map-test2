@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9D2","name":"Harding County","lat":45.5805555,"lon":-103.53028,"rwys":2,"ils":0,"elev":2889,"index":1253857,"path":"w110n40/w104n45"
+,"runways":[
+{"len_m":1181,"wid_m":18.29,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":45.58416700,"lon1":-103.53528100,"rwy2":"30","lat2":45.57694700,"lon2":-103.52416900},
+{"len_m":696,"wid_m":30.48,"hdg":95,"surf":"Turf/grass","rwy1":"08","lat1":45.58083300,"lon1":-103.53528100,"rwy2":"26","lat2":45.58027500,"lon2":-103.52638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

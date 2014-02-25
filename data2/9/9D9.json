@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"9D9","name":"Hastings","lat":42.6637783333333,"lon":-85.346392,"rwys":3,"ils":0,"elev":801,"index":1548586,"path":"w090n40/w086n42"
+,"runways":[
+{"len_m":1187,"wid_m":22.86,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":42.66573100,"lon1":-85.35176900,"rwy2":"30","lat2":42.65995600,"lon2":-85.33957500},
+{"len_m":782,"wid_m":60.96,"hdg":181,"surf":"Turf/grass","rwy1":"18","lat1":42.66642200,"lon1":-85.34528900,"rwy2":"36","lat2":42.65938300,"lon2":-85.34562200},
+{"len_m":731,"wid_m":51.82,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":42.66558900,"lon1":-85.35251100,"rwy2":"27","lat2":42.66558900,"lon2":-85.34358600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"GRAND RAPIDS APP/DEP"}
+]
+,"ils":[
+]
+}

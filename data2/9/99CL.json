@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"99CL","name":"El Mirage Fld Adelanto","lat":34.6244453333333,"lon":-117.598193,"rwys":3,"ils":0,"elev":2865,"index":1023777,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1116,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"04","lat1":34.62361100,"lon1":-117.60528100,"rwy2":"22","lat2":34.62861400,"lon2":-117.59471900},
+{"len_m":1109,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":34.62861400,"lon1":-117.59471900,"rwy2":"34","lat2":34.61861100,"lon2":-117.59443900},
+{"len_m":968,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":34.62361100,"lon1":-117.60528100,"rwy2":"25","lat2":34.62361100,"lon2":-117.59471900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

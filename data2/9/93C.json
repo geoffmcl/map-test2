@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"93C","name":"Richland","lat":43.28290775,"lon":-90.29580475,"rwys":2,"ils":0,"elev":742,"index":1466706,"path":"w100n40/w091n43"
+,"runways":[
+{"len_m":970,"wid_m":18.29,"hdg":162,"surf":"Asphalt","rwy1":"17","lat1":43.28805600,"lon1":-90.29777500,"rwy2":"35","lat2":43.27972500,"lon2":-90.29416700},
+{"len_m":211,"wid_m":30.48,"hdg":91,"surf":"Turf/grass","rwy1":"09","lat1":43.28194400,"lon1":-90.29694400,"rwy2":"27","lat2":43.28190600,"lon2":-90.29433300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}
