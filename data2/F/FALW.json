@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FALW","name":"Langebaanweg","lat":-32.97149700,"lon":18.15363900,"rwys":4,"ils":1,"elev":108,"index":3247680,"path":"e010s40/e018s33"
+,"runways":[
+{"len_m":2338,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"02R","lat1":-32.97825082,"lon1":18.16618838,"rwy2":"20L","lat2":-32.95716718,"lon2":18.16670162},
+{"len_m":2336,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"02L","lat1":-32.97902881,"lon1":18.16201845,"rwy2":"20R","lat2":-32.95796719,"lon2":18.16253555},
+{"len_m":1991,"wid_m":45.72,"hdg":136,"surf":"Asphalt","rwy1":"16","lat1":-32.96452522,"lon1":18.15397304,"rwy2":"34","lat2":-32.97750678,"lon2":18.16869296},
+{"len_m":1504,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"07","lat1":-32.96659004,"lon1":18.15188151,"rwy2":"25","lat2":-32.95735996,"lon2":18.16367849}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":128.8,"desc":"TWR"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":-32.98199800,"lon":18.16609000,"rng_nm":18,"alt_fmsl":108,"hdg":181.18,"id":"LWI","rwy":"20L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":-32.96110200,"lon":18.16509100,"rng_nm":10,"alt_fmsl":108,"id":"LWI","rwy":"20L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-32.88832900,"lon":18.16832900,"rng_nm":0,"alt_fmsl":108,"id":"----","rwy":"20L","desc":"OM"},
+{"type":"MM","freq":0,"lat":-32.95383800,"lon":18.16682100,"rng_nm":0,"alt_fmsl":108,"id":"----","rwy":"20L","desc":"MM"}
+]
+}

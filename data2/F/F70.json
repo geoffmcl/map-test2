@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F70","name":"Murietta - French Valley","lat":33.5741795,"lon":-117.128474,"rwys":1,"ils":0,"elev":1350,"index":1023715,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":1828,"wid_m":22.86,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":33.58223100,"lon1":-117.12635600,"rwy2":"36","lat2":33.56612800,"lon2":-117.13059200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":133.5,"desc":"CLNC DEL"},
+{"type":"APP","freq":133.5,"desc":"MARCH APP/DEP"},
+{"type":"APP","freq":134,"desc":"MARCH APP/DEP"}
+]
+,"ils":[
+]
+}

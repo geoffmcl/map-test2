@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FYGF","name":"Grootfontein","lat":-19.600025,"lon":18.126929,"rwys":2,"ils":0,"elev":4636,"index":3248537,"path":"e010s20/e018s20"
+,"runways":[
+{"len_m":3565,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"08","lat1":-19.60483300,"lon1":18.11583300,"rwy2":"26","lat2":-19.59261700,"lon2":18.14728300},
+{"len_m":1048,"wid_m":29.87,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":-19.59693300,"lon1":18.12043300,"rwy2":"35","lat2":-19.60571700,"lon2":18.12416700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

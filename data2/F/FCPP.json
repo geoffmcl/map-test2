@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FCPP","name":"Pointe Noire","lat":-4.816026,"lon":11.886596,"rwys":1,"ils":0,"elev":55,"index":3134799,"path":"e010s10/e011s05"
+,"runways":[
+{"len_m":2600,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":-4.80461900,"lon1":11.88376100,"rwy2":"35","lat2":-4.82743300,"lon2":11.88943100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+,"ils":[
+]
+}

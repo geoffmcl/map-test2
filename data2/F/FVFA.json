@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FVFA","name":"Victoria Falls Intl","lat":-18.0958805,"lon":25.8390045,"rwys":1,"ils":1,"elev":3490,"index":3363326,"path":"e020s20/e025s19"
+,"runways":[
+{"len_m":2349,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":-18.09223600,"lon1":25.82858100,"rwy2":"30","lat2":-18.09952500,"lon2":25.84942800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.1,"desc":"FALLS TWR"},
+{"type":"APP","freq":121.1,"desc":"FALLS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":-18.10038300,"lon":25.85126700,"rng_nm":18,"alt_fmsl":3490,"hdg":110.69,"id":"IFA","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":-18.09242500,"lon":25.83257500,"rng_nm":10,"alt_fmsl":3490,"id":"IFA","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-18.07029200,"lon":25.76500800,"rng_nm":0,"alt_fmsl":3490,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":-18.08946100,"lon":25.81994200,"rng_nm":0,"alt_fmsl":3490,"id":"----","rwy":"12","desc":"MM"}
+]
+}

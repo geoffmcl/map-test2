@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F83","name":"Abernathy Muni","lat":33.84625425,"lon":-101.764729,"rwys":2,"ils":0,"elev":3327,"index":1285872,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.85141100,"lon1":-101.76294700,"rwy2":"35","lat2":33.84041700,"lon2":-101.76294700},
+{"len_m":985,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":33.84329200,"lon1":-101.77007500,"rwy2":"21","lat2":33.84989700,"lon2":-101.76294700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

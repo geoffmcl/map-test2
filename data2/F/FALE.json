@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FALE","name":"Durban - King Shaka International","lat":-29.59591596,"lon":31.12025246,"rwys":1,"ils":0,"elev":304,"index":3460888,"path":"e030s30/e031s30"
+,"runways":[
+{"len_m":3699,"wid_m":60.96,"hdg":37,"surf":"Asphalt","rwy1":"06","lat1":-29.62505278,"lon1":31.10774722,"rwy2":"24","lat2":-29.59848880,"lon2":31.13087778}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"SHAKA GND"},
+{"type":"TWR","freq":118.45,"desc":"SHAKA TWR"},
+{"type":"APP","freq":125.75,"desc":"Durban Radar"}
+]
+,"ils":[
+]
+}

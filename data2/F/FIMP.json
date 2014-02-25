@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FIMP","name":"Sir Seewoosagur Ramgoolam Intl","lat":-20.4302345,"lon":57.6836015,"rwys":1,"ils":1,"elev":186,"index":3887461,"path":"e050s30/e057s21"
+,"runways":[
+{"len_m":3364,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"14","lat1":-20.42331800,"lon1":57.66925000,"rwy2":"32","lat2":-20.43715100,"lon2":57.69795300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"TWR","freq":129.3,"desc":"INFO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-20.43833300,"lon":57.70000000,"rng_nm":18,"alt_fmsl":186,"hdg":117.52,"id":"IPL","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-20.42500000,"lon":57.67500000,"rng_nm":10,"alt_fmsl":186,"id":"IPL","rwy":"14","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":-20.39419400,"lon":57.60877800,"rng_nm":0,"alt_fmsl":186,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":-20.42027800,"lon":57.66291700,"rng_nm":0,"alt_fmsl":186,"id":"----","rwy":"14","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":-20.42487200,"lon":57.67513300,"rng_nm":18,"alt_fmsl":186,"id":"IPL","rwy":"14","desc":"DME-ILS"}
+]
+}

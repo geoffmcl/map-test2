@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAWB","name":"Wonderboom","lat":-25.65262800,"lon":28.22118800,"rwys":2,"ils":0,"elev":4095,"index":3411984,"path":"e020s30/e028s26"
+,"runways":[
+{"len_m":1831,"wid_m":29.87,"hdg":92,"surf":"Asphalt","rwy1":"11","lat1":-25.65325109,"lon1":28.21207483,"rwy2":"29","lat2":-25.65400291,"lon2":28.23030117},
+{"len_m":1279,"wid_m":21.95,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":-25.66204980,"lon1":28.21523380,"rwy2":"24","lat2":-25.65375820,"lon2":28.22409820}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":120.6,"desc":"APP"}
+]
+,"ils":[
+]
+}

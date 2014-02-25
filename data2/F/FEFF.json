@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FEFF","name":"Bangui M Poko","lat":4.39314990,"lon":18.52500920,"rwys":1,"ils":1,"elev":1208,"index":3250076,"path":"e010n00/e018n04"
+,"runways":[
+{"len_m":2594,"wid_m":45.11,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":4.40983100,"lon1":18.51585000,"rwy2":"35","lat2":4.38711700,"lon2":18.52171900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":4.41424400,"lon":18.51547200,"rng_nm":18,"alt_fmsl":1211,"hdg":347.07,"id":"BGI","rwy":"35","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":4.39089700,"lon":18.52265600,"rng_nm":10,"alt_fmsl":1201,"id":"BGI","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":4.32433300,"lon":18.53905600,"rng_nm":0,"alt_fmsl":1267,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":4.37869400,"lon":18.52472200,"rng_nm":0,"alt_fmsl":1267,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":4.39089700,"lon":18.52265600,"rng_nm":18,"alt_fmsl":1201,"id":"BGI","rwy":"35","desc":"DME-ILS"}
+]
+}

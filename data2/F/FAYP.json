@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAYP","name":"Ysterplaat","lat":-33.90303500,"lon":18.49056000,"rwys":1,"ils":0,"elev":52,"index":3247617,"path":"e010s40/e018s34"
+,"runways":[
+{"len_m":1585,"wid_m":23.16,"hdg":355,"surf":"Asphalt","rwy1":"02","lat1":-33.90730455,"lon1":18.49900000,"rwy2":"20","lat2":-33.89305145,"lon2":18.49774800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"CAPE TOWN APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F45","name":"North Palm Beach Co Gen Avn","lat":26.846323,"lon":-80.220735,"rwys":3,"ils":1,"elev":22,"index":1629491,"path":"w090n20/w081n26"
+,"runways":[
+{"len_m":1310,"wid_m":30.48,"hdg":85,"surf":"Asphalt","rwy1":"08R","lat1":26.84252500,"lon1":-80.22686100,"rwy2":"26L","lat2":26.84348300,"lon2":-80.21371900},
+{"len_m":1310,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":26.84992200,"lon1":-80.22700300,"rwy2":"31","lat2":26.84150800,"lon2":-80.21773600},
+{"len_m":1127,"wid_m":22.86,"hdg":82,"surf":"Turf/grass","rwy1":"08L","lat1":26.84954200,"lon1":-80.22516400,"rwy2":"26R","lat2":26.85095800,"lon2":-80.21392700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.82,"desc":"PALM BEACH CLNC DEL"},
+{"type":"APP","freq":124.6,"desc":"PALM BEACH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":26.84359719,"lon":-80.21215373,"rng_nm":18,"alt_fmsl":22,"hdg":85.33,"id":"IGHO","rwy":"08R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":26.84356853,"lon":-80.22387209,"rng_nm":10,"alt_fmsl":22,"id":"IGHO","rwy":"08R","desc":"GS","gs":3}
+]
+}

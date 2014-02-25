@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FSIA","name":"Seychelles Intl","lat":-4.674378,"lon":55.521829,"rwys":1,"ils":1,"elev":10,"index":3855700,"path":"e050s10/e055s05"
+,"runways":[
+{"len_m":2987,"wid_m":46.02,"hdg":125,"surf":"Concrete","rwy1":"13","lat1":-4.66663100,"lon1":55.51080200,"rwy2":"31","lat2":-4.68212500,"lon2":55.53285600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-4.66536100,"lon":55.50902200,"rng_nm":18,"alt_fmsl":10,"hdg":305.21,"id":"SIA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-4.68121700,"lon":55.53014700,"rng_nm":10,"alt_fmsl":10,"id":"SIA","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":-4.68096900,"lon":55.52987800,"rng_nm":18,"alt_fmsl":10,"id":"SIA","rwy":"31","desc":"DME-ILS"}
+]
+}

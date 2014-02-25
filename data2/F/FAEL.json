@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAEL","name":"East London","lat":-33.03791400,"lon":27.82828100,"rwys":2,"ils":2,"elev":435,"index":3395131,"path":"e020s40/e027s34"
+,"runways":[
+{"len_m":1940,"wid_m":45.72,"hdg":81,"surf":"Asphalt","rwy1":"11","lat1":-33.03725077,"lon1":27.81192800,"rwy2":"29","lat2":-33.03475523,"lon2":27.83248400},
+{"len_m":1588,"wid_m":45.72,"hdg":36,"surf":"Asphalt","rwy1":"06","lat1":-33.04205098,"lon1":27.82018915,"rwy2":"24","lat2":-33.03058102,"lon2":27.83036885}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-33.03438900,"lon":27.83567000,"rng_nm":18,"alt_fmsl":436,"hdg":81.81,"id":"BSI","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":-33.03756000,"lon":27.80936100,"rng_nm":18,"alt_fmsl":436,"hdg":261.77,"id":"ELI","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-33.03570200,"lon":27.81544500,"rng_nm":10,"alt_fmsl":435,"id":"BSI","rwy":"11","desc":"GS","gs":2.7},
+{"type":"GS","freq":109.9,"lat":-33.03404600,"lon":27.82935500,"rng_nm":10,"alt_fmsl":435,"id":"ELI","rwy":"29","desc":"GS","gs":3}
+]
+}

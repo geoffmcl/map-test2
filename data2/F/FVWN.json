@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FVWN","name":"Hwange National Park","lat":-18.629871,"lon":27.0210415,"rwys":1,"ils":0,"elev":3543,"index":3396048,"path":"e020s20/e027s19"
+,"runways":[
+{"len_m":4608,"wid_m":29.87,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":-18.63763600,"lon1":27.00078300,"rwy2":"26","lat2":-18.62210600,"lon2":27.04130000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"PARK TWR"},
+{"type":"APP","freq":119.9,"desc":"PARK APP"}
+]
+,"ils":[
+]
+}

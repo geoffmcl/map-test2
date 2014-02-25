@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FZWA","name":"Mbuji Mayi","lat":-6.121236,"lon":23.569007,"rwys":1,"ils":0,"elev":2221,"index":3331324,"path":"e020s10/e023s07"
+,"runways":[
+{"len_m":1990,"wid_m":44.50,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":-6.11271100,"lon1":23.56613100,"rwy2":"35","lat2":-6.12976100,"lon2":23.57188300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

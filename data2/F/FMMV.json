@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FMMV","name":"Morondava","lat":-20.2845,"lon":44.31951325,"rwys":2,"ils":0,"elev":30,"index":3674474,"path":"e040s30/e044s21"
+,"runways":[
+{"len_m":1497,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"10","lat1":-20.28486700,"lon1":44.31478600,"rwy2":"28","lat2":-20.28431400,"lon2":44.32910600},
+{"len_m":1339,"wid_m":35.05,"hdg":123,"surf":"Asphalt","rwy1":"14","lat1":-20.28106100,"lon1":44.31173900,"rwy2":"32","lat2":-20.28775800,"lon2":44.32242200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.7,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

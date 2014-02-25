@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FQNP","name":"Nampula","lat":-15.10628425,"lon":39.287263,"rwys":2,"ils":0,"elev":1444,"index":3592890,"path":"e030s20/e039s16"
+,"runways":[
+{"len_m":1988,"wid_m":45.11,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":-15.11181400,"lon1":39.27511100,"rwy2":"23","lat2":-15.09940600,"lon2":39.28848900},
+{"len_m":1565,"wid_m":45.11,"hdg":119,"surf":"Gravel","rwy1":"13","lat1":-15.10351100,"lon1":39.28636900,"rwy2":"31","lat2":-15.11040600,"lon2":39.29908300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":128.8,"desc":"APP"}
+]
+,"ils":[
+]
+}

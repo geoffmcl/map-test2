@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F22","name":"Perry Muni","lat":36.3847978333333,"lon":-97.2741676666667,"rwys":3,"ils":0,"elev":1002,"index":1351578,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":1585,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":36.37861400,"lon1":-97.27889200,"rwy2":"22","lat2":36.38871400,"lon2":-97.26640000},
+{"len_m":1599,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":36.39027800,"lon1":-97.27889200,"rwy2":"31","lat2":36.38000000,"lon2":-97.26638900},
+{"len_m":1553,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":36.39259200,"lon1":-97.27725800,"rwy2":"35","lat2":36.37858900,"lon2":-97.27717500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

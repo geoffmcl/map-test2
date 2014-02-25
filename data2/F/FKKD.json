@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FKKD","name":"Douala","lat":4.01183200,"lon":9.71690600,"rwys":2,"ils":1,"elev":33,"index":3102597,"path":"e000n00/e009n04"
+,"runways":[
+{"len_m":2852,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":4.01186700,"lon1":9.70804400,"rwy2":"30","lat2":4.00024200,"lon2":9.73097500},
+{"len_m":2491,"wid_m":44.81,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":4.01233810,"lon1":9.70844647,"rwy2":"21","lat2":4.03238390,"lon2":9.71868553}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"DOUALA TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":4.01433900,"lon":9.70403600,"rng_nm":18,"alt_fmsl":25,"hdg":297.68,"id":"DL","rwy":"30","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":4.00057500,"lon":9.72781700,"rng_nm":10,"alt_fmsl":33,"id":"DL","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":3.97475000,"lon":9.78361100,"rng_nm":0,"alt_fmsl":126,"id":"----","rwy":"30","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":4.00057500,"lon":9.72781700,"rng_nm":18,"alt_fmsl":33,"id":"DL","rwy":"30","desc":"DME-ILS"}
+]
+}

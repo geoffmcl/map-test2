@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAAB","name":"Alexander Bay","lat":-28.57398600,"lon":16.53328500,"rwys":3,"ils":0,"elev":98,"index":3215194,"path":"e010s30/e016s29"
+,"runways":[
+{"len_m":1843,"wid_m":46.02,"hdg":342,"surf":"Asphalt","rwy1":"01","lat1":-28.58442769,"lon1":16.53605297,"rwy2":"19","lat2":-28.56852631,"lon2":16.53051703},
+{"len_m":1704,"wid_m":35.97,"hdg":43,"surf":"Gravel","rwy1":"07","lat1":-28.57825000,"lon1":16.52466700,"rwy2":"25","lat2":-28.56702800,"lon2":16.53658300},
+{"len_m":1473,"wid_m":35.05,"hdg":88,"surf":"Gravel","rwy1":"11","lat1":-28.56977080,"lon1":16.52197336,"rwy2":"29","lat2":-28.56930920,"lon2":16.53702464}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

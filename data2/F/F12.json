@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F12","name":"Rusk Co","lat":32.14162275,"lon":-94.8517125,"rwys":2,"ils":0,"elev":442,"index":1400456,"path":"w100n30/w095n32"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":32.14773300,"lon1":-94.85294400,"rwy2":"34","lat2":32.13689400,"lon2":-94.85069700},
+{"len_m":914,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":32.14335600,"lon1":-94.85552800,"rwy2":"30","lat2":32.13850800,"lon2":-94.84768100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.25,"desc":"LONGVIEW APP/DEP"}
+]
+,"ils":[
+]
+}

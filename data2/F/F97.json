@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F97","name":"Seagraves","lat":32.95006925,"lon":-102.53381925,"rwys":2,"ils":0,"elev":3366,"index":1269433,"path":"w110n30/w103n32"
+,"runways":[
+{"len_m":1216,"wid_m":21.34,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":32.94583300,"lon1":-102.54138900,"rwy2":"22","lat2":32.95361100,"lon2":-102.53222200},
+{"len_m":770,"wid_m":11.28,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":32.95388900,"lon1":-102.53083300,"rwy2":"35","lat2":32.94694400,"lon2":-102.53083300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

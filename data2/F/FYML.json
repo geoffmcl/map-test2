@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FYML","name":"Mariental","lat":-24.60413,"lon":17.92278575,"rwys":2,"ils":0,"elev":3650,"index":3231835,"path":"e010s30/e017s25"
+,"runways":[
+{"len_m":1999,"wid_m":24.99,"hdg":349,"surf":"Asphalt","rwy1":"01","lat1":-24.61214200,"lon1":17.92679700,"rwy2":"19","lat2":-24.59440800,"lon2":17.92310800},
+{"len_m":1474,"wid_m":29.87,"hdg":98,"surf":"Gravel","rwy1":"12","lat1":-24.60400600,"lon1":17.91341900,"rwy2":"30","lat2":-24.60596400,"lon2":17.92781900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

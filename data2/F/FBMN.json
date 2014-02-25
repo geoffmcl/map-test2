@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FBMN","name":"Maun","lat":-19.972564,"lon":23.4310845,"rwys":1,"ils":0,"elev":3093,"index":3330435,"path":"e020s20/e023s20"
+,"runways":[
+{"len_m":1987,"wid_m":29.87,"hdg":66,"surf":"Asphalt","rwy1":"08","lat1":-19.97621400,"lon1":23.42240800,"rwy2":"26","lat2":-19.96891400,"lon2":23.43976100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"AFIS"},
+{"type":"APP","freq":126,"desc":"APP"}
+]
+,"ils":[
+]
+}

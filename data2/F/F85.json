@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F85","name":"Cochran Co","lat":33.7294375,"lon":-102.731718,"rwys":2,"ils":0,"elev":3746,"index":1269481,"path":"w110n30/w103n33"
+,"runways":[
+{"len_m":826,"wid_m":18.29,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":33.72663000,"lon1":-102.73697100,"rwy2":"22","lat2":33.73189600,"lon2":-102.73066900},
+{"len_m":541,"wid_m":11.89,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.73205100,"lon1":-102.72961600,"rwy2":"35","lat2":33.72717300,"lon2":-102.72961600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

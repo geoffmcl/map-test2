@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAGM","name":"Rand","lat":-26.242056,"lon":28.1498965,"rwys":2,"ils":0,"elev":5483,"index":3411952,"path":"e020s30/e028s27"
+,"runways":[
+{"len_m":1715,"wid_m":14.94,"hdg":90,"surf":"Asphalt","rwy1":"11","lat1":-26.24254400,"lon1":28.14051561,"rwy2":"29","lat2":-26.24254400,"lon2":28.15769039},
+{"len_m":1489,"wid_m":14.94,"hdg":156,"surf":"Asphalt","rwy1":"17","lat1":-26.23538445,"lon1":28.14776364,"rwy2":"35","lat2":-26.24775155,"lon2":28.15361636}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"JOHANNESBURG APP"},
+{"type":"APP","freq":123.7,"desc":"JOHANNESBURG APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAGG","name":"George","lat":-34.00453200,"lon":22.37851500,"rwys":1,"ils":2,"elev":648,"index":3313145,"path":"e020s40/e022s35"
+,"runways":[
+{"len_m":2005,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"11","lat1":-34.00587177,"lon1":22.36766646,"rwy2":"29","lat2":-34.00519023,"lon2":22.38936354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-34.00513800,"lon":22.39108300,"rng_nm":18,"alt_fmsl":636,"hdg":87.83,"id":"GEI","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":-34.00611100,"lon":22.35988800,"rng_nm":18,"alt_fmsl":612,"hdg":267.85,"id":"GGI","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-34.00686300,"lon":22.37089000,"rng_nm":10,"alt_fmsl":625,"id":"GEI","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":-34.00441700,"lon":22.38556500,"rng_nm":10,"alt_fmsl":643,"id":"GGI","rwy":"29","desc":"GS","gs":2.7},
+{"type":"DME","freq":109.5,"lat":-34.00686100,"lon":22.37088900,"rng_nm":18,"alt_fmsl":625,"id":"GEI","rwy":"11","desc":"DME-ILS"}
+]
+}

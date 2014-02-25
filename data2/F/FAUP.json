@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAUP","name":"Upington","lat":-28.39922300,"lon":21.25187100,"rwys":3,"ils":0,"elev":2791,"index":3297121,"path":"e020s30/e021s29"
+,"runways":[
+{"len_m":4892,"wid_m":60.05,"hdg":153,"surf":"Asphalt","rwy1":"17","lat1":-28.37991198,"lon1":21.25203408,"rwy2":"35","lat2":-28.41938202,"lon2":21.27438592},
+{"len_m":2432,"wid_m":45.72,"hdg":349,"surf":"Asphalt","rwy1":"01","lat1":-28.41291636,"lon1":21.26067939,"rwy2":"19","lat2":-28.39133164,"lon2":21.25618461},
+{"len_m":834,"wid_m":29.87,"hdg":59,"surf":"Asphalt","rwy1":"08","lat1":-28.40514840,"lon1":21.25825096,"rwy2":"26","lat2":-28.40134960,"lon2":21.26560904}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.3,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"}
+]
+,"ils":[
+]
+}

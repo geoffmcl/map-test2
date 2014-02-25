@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FABM","name":"Bethlehem","lat":-28.2475205,"lon":28.335742,"rwys":2,"ils":0,"elev":5561,"index":3411825,"path":"e020s30/e028s29"
+,"runways":[
+{"len_m":1313,"wid_m":46.02,"hdg":107,"surf":"Turf/grass","rwy1":"13","lat1":-28.24482660,"lon1":28.32898904,"rwy2":"31","lat2":-28.24847140,"lon2":28.34172296},
+{"len_m":1177,"wid_m":14.94,"hdg":95,"surf":"Asphalt","rwy1":"11","lat1":-28.24783949,"lon1":28.33016053,"rwy2":"29","lat2":-28.24894451,"lon2":28.34209547}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

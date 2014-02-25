@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAVV","name":"Vereeniging","lat":-26.57059700,"lon":27.95766600,"rwys":2,"ils":0,"elev":4846,"index":3395547,"path":"e020s30/e027s27"
+,"runways":[
+{"len_m":1602,"wid_m":21.95,"hdg":5,"surf":"Asphalt","rwy1":"03","lat1":-26.57734398,"lon1":27.95938841,"rwy2":"21","lat2":-26.56293802,"lon2":27.96079759},
+{"len_m":1136,"wid_m":15.85,"hdg":132,"surf":"Asphalt","rwy1":"15","lat1":-26.56282813,"lon1":27.95647799,"rwy2":"33","lat2":-26.56980587,"lon2":27.96484401}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

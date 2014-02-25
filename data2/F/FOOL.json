@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FOOL","name":"Leon M Ba","lat":0.45775400,"lon":9.41013000,"rwys":1,"ils":1,"elev":39,"index":3102363,"path":"e000n00/e009n00"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":0.47081400,"lon1":9.40635000,"rwy2":"34","lat2":0.44641700,"lon2":9.41815000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":0.44433800,"lon":9.41826200,"rng_nm":18,"alt_fmsl":39,"hdg":155.78,"id":"LB","rwy":"16","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":0.46816900,"lon":9.40556800,"rng_nm":10,"alt_fmsl":54,"id":"LB","rwy":"16","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":0.46816900,"lon":9.40556800,"rng_nm":18,"alt_fmsl":39,"id":"LB","rwy":"16","desc":"DME-ILS"}
+]
+}

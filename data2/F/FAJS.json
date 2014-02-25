@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAJS","name":"Johannesburg Or Thambo Intl","lat":-26.13263800,"lon":28.23224700,"rwys":2,"ils":3,"elev":5558,"index":3411952,"path":"e020s30/e028s27"
+,"runways":[
+{"len_m":4406,"wid_m":60.96,"hdg":15,"surf":"Asphalt","rwy1":"03L","lat1":-26.14631923,"lon1":28.23434267,"rwy2":"21R","lat2":-26.10801877,"lon2":28.24622933},
+{"len_m":3391,"wid_m":60.96,"hdg":15,"surf":"Asphalt","rwy1":"03R","lat1":-26.16465140,"lon1":28.24818467,"rwy2":"21L","lat2":-26.13518060,"lon2":28.25735133}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-26.10430900,"lon":28.24736000,"rng_nm":18,"alt_fmsl":5499,"hdg":15.54,"id":"JSI","rwy":"03L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":-26.13264100,"lon":28.25811000,"rng_nm":18,"alt_fmsl":5495,"hdg":15.55,"id":"JNI","rwy":"03R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":-26.16795000,"lon":28.24714100,"rng_nm":18,"alt_fmsl":5518,"hdg":195.63,"id":"JAI","rwy":"21L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-26.14286000,"lon":28.23419400,"rng_nm":10,"alt_fmsl":5548,"id":"JSI","rwy":"03L","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":-26.16275000,"lon":28.24997100,"rng_nm":10,"alt_fmsl":5515,"id":"JNI","rwy":"03R","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":-26.13777700,"lon":28.25772300,"rng_nm":10,"alt_fmsl":5499,"id":"JAI","rwy":"21L","desc":"GS","gs":3}
+]
+}

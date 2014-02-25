@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FYOG","name":"Oranjemund","lat":-28.5868101666667,"lon":16.4459446666667,"rwys":3,"ils":0,"elev":14,"index":3215193,"path":"e010s30/e016s29"
+,"runways":[
+{"len_m":1600,"wid_m":17.98,"hdg":0,"surf":"Asphalt","rwy1":"02","lat1":-28.59194400,"lon1":16.44666700,"rwy2":"20","lat2":-28.57750000,"lon2":16.44666700},
+{"len_m":1027,"wid_m":18.29,"hdg":139,"surf":"Gravel","rwy1":"16","lat1":-28.58463900,"lon1":16.44152800,"rwy2":"34","lat2":-28.59172200,"lon2":16.44830600},
+{"len_m":923,"wid_m":14.33,"hdg":44,"surf":"Gravel","rwy1":"07","lat1":-28.59050000,"lon1":16.44294400,"rwy2":"25","lat2":-28.58455600,"lon2":16.44955600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"ALEXANDER BAY RDO"},
+{"type":"TWR","freq":118.7,"desc":"ALEXANDER BAY TWR"}
+]
+,"ils":[
+]
+}

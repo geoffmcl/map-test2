@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F36","name":"Cordell Muni","lat":35.2975675,"lon":-98.967616,"rwys":2,"ils":0,"elev":1589,"index":1335120,"path":"w100n30/w099n35"
+,"runways":[
+{"len_m":1112,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.30258100,"lon1":-98.96749700,"rwy2":"35","lat2":35.29255300,"lon2":-98.96738100},
+{"len_m":567,"wid_m":30.48,"hdg":38,"surf":"Dirt","rwy1":"04","lat1":35.29557800,"lon1":-98.96975000,"rwy2":"22","lat2":35.29955800,"lon2":-98.96583600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

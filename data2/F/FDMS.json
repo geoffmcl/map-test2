@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FDMS","name":"Matsapha","lat":-26.529021,"lon":31.307519,"rwys":1,"ils":0,"elev":2075,"index":3461081,"path":"e030s30/e031s27"
+,"runways":[
+{"len_m":2599,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"07","lat1":-26.53600600,"lon1":31.29704400,"rwy2":"25","lat2":-26.52203600,"lon2":31.31799400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.9,"desc":"TWR"},
+{"type":"APP","freq":124.9,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FOON","name":"Mvengue","lat":-1.6561555,"lon":13.4380375,"rwys":1,"ils":1,"elev":1450,"index":3167763,"path":"e010s10/e013s02"
+,"runways":[
+{"len_m":3076,"wid_m":45.11,"hdg":143,"surf":"Asphalt","rwy1":"15","lat1":-1.64495000,"lon1":13.42984200,"rwy2":"33","lat2":-1.66736100,"lon2":13.44623300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"MVENGUE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-1.66890300,"lon":13.44731100,"rng_nm":18,"alt_fmsl":1424,"hdg":143.91,"id":"FRA","rwy":"15","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.1,"lat":-1.64775800,"lon":13.43045300,"rng_nm":10,"alt_fmsl":1506,"id":"FRA","rwy":"15","desc":"GS","gs":3}
+]
+}

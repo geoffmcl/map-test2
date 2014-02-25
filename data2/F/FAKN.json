@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAKN","name":"Kruger Mpumalanga Intl","lat":-25.38108600,"lon":31.09980000,"rwys":1,"ils":1,"elev":2829,"index":3461152,"path":"e030s30/e031s26"
+,"runways":[
+{"len_m":2596,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"05","lat1":-25.39272872,"lon1":31.09805506,"rwy2":"23","lat2":-25.37346928,"lon2":31.11276094}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":-25.37005600,"lon":31.11536000,"rng_nm":18,"alt_fmsl":2828,"hdg":34.59,"id":"PKI","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":-25.39003000,"lon":31.10189100,"rng_nm":10,"alt_fmsl":2828,"id":"PKI","rwy":"05","desc":"GS","gs":3}
+]
+}

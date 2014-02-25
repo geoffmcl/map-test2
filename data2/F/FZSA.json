@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FZSA","name":"Kamina Base","lat":-8.6420235,"lon":25.252897,"rwys":2,"ils":0,"elev":3543,"index":3363922,"path":"e020s10/e025s09"
+,"runways":[
+{"len_m":2702,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"13L","lat1":-8.63346900,"lon1":25.25632200,"rwy2":"31R","lat2":-8.64605800,"lon2":25.27736400},
+{"len_m":2702,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"13R","lat1":-8.63798600,"lon1":25.22843300,"rwy2":"31L","lat2":-8.65058100,"lon2":25.24946900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

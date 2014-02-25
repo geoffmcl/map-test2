@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F06","name":"Marian Airpark","lat":34.845648,"lon":-100.198565166667,"rwys":3,"ils":0,"elev":2008,"index":1302323,"path":"w110n30/w101n34"
+,"runways":[
+{"len_m":1220,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":34.84944400,"lon1":-100.20055600,"rwy2":"30","lat2":34.84166700,"lon2":-100.19111100},
+{"len_m":523,"wid_m":53.34,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":34.84833300,"lon1":-100.20055600,"rwy2":"35","lat2":34.84361100,"lon2":-100.20055600},
+{"len_m":314,"wid_m":41.15,"hdg":46,"surf":"Turf/grass","rwy1":"04","lat1":34.84444400,"lon1":-100.20055600,"rwy2":"22","lat2":34.84638900,"lon2":-100.19805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

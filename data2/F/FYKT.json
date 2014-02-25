@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FYKT","name":"Keetmanshoop","lat":-26.53879225,"lon":18.111776,"rwys":2,"ils":0,"elev":3506,"index":3248088,"path":"e010s30/e018s27"
+,"runways":[
+{"len_m":2295,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"04","lat1":-26.54978300,"lon1":18.10826400,"rwy2":"22","lat2":-26.52987200,"lon2":18.11463100},
+{"len_m":1427,"wid_m":29.87,"hdg":155,"surf":"Gravel","rwy1":"18","lat1":-26.53190800,"lon1":18.10910300,"rwy2":"36","lat2":-26.54360600,"lon2":18.11510600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

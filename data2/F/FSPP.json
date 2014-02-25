@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FSPP","name":"Praslin","lat":-4.319293,"lon":55.691415,"rwys":1,"ils":0,"elev":10,"index":3855725,"path":"e050s10/e055s05"
+,"runways":[
+{"len_m":1402,"wid_m":31.70,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":-4.31385000,"lon1":55.68817200,"rwy2":"33","lat2":-4.32473600,"lon2":55.69465800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GRD"},
+{"type":"TWR","freq":122.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

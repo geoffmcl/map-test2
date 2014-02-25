@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FBSP","name":"Selebi Phikwe","lat":-22.05835,"lon":27.828765,"rwys":1,"ils":0,"elev":2925,"index":3395835,"path":"e020s30/e027s23"
+,"runways":[
+{"len_m":1780,"wid_m":29.87,"hdg":101,"surf":"Asphalt","rwy1":"12","lat1":-22.05671700,"lon1":27.82032200,"rwy2":"30","lat2":-22.05998300,"lon2":27.83720800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"AFIS"},
+{"type":"TWR","freq":125.5,"desc":"AFIS"},
+{"type":"TWR","freq":118.7,"desc":"PHIKWE TWR"}
+]
+,"ils":[
+]
+}

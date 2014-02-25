@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FJDG","name":"Diego Garcia Nsf","lat":-7.313268,"lon":72.41109,"rwys":1,"ils":1,"elev":9,"index":4134059,"path":"e070s10/e072s08"
+,"runways":[
+{"len_m":3658,"wid_m":60.96,"hdg":121,"surf":"Concrete","rwy1":"13","lat1":-7.30457200,"lon1":72.39699700,"rwy2":"31","lat2":-7.32196400,"lon2":72.42518300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":134.1,"desc":"APP"},
+{"type":"APP","freq":118.4,"desc":"GND"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":-7.30306400,"lon":72.39449700,"rng_nm":18,"alt_fmsl":9,"hdg":301.84,"id":"INKW","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":-7.32130600,"lon":72.42119400,"rng_nm":10,"alt_fmsl":9,"id":"INKW","rwy":"31","desc":"GS","gs":3}
+]
+}

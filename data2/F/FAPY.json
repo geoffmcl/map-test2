@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FAPY","name":"Parys","lat":-26.88384900,"lon":27.50561000,"rwys":2,"ils":0,"elev":4740,"index":3395522,"path":"e020s30/e027s27"
+,"runways":[
+{"len_m":1350,"wid_m":20.12,"hdg":43,"surf":"Asphalt","rwy1":"06","lat1":-26.89377472,"lon1":27.49875147,"rwy2":"24","lat2":-26.88491128,"lon2":27.50808053},
+{"len_m":727,"wid_m":45.72,"hdg":94,"surf":"Dirt","rwy1":"11","lat1":-26.88601551,"lon1":27.50059018,"rwy2":"29","lat2":-26.88658449,"lon2":27.50788182}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"A/G VOICE RDO"}
+]
+,"ils":[
+]
+}

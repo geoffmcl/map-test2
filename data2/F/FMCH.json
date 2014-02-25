@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FMCH","name":"Prince Said Ibrahim","lat":-11.5336625,"lon":43.2718485,"rwys":1,"ils":1,"elev":93,"index":3658650,"path":"e040s20/e043s12"
+,"runways":[
+{"len_m":2903,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"02","lat1":-11.54658900,"lon1":43.26955000,"rwy2":"20","lat2":-11.52073600,"lon2":43.27414700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-11.51911700,"lon":43.27442800,"rng_nm":18,"alt_fmsl":78,"hdg":9.87,"id":"IHA","rwy":"02","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":-11.54336900,"lon":43.26895600,"rng_nm":10,"alt_fmsl":77,"id":"IHA","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-11.60078600,"lon":43.26091400,"rng_nm":0,"alt_fmsl":93,"id":"----","rwy":"02","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":-11.54336900,"lon":43.26895600,"rng_nm":18,"alt_fmsl":93,"id":"IHA","rwy":"02","desc":"DME-ILS"}
+]
+}

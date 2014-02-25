@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F29","name":"Clarence E Page Muni","lat":35.488109,"lon":-97.82311725,"rwys":2,"ils":0,"elev":1353,"index":1351512,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1832,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"17R","lat1":35.49630600,"lon1":-97.82476100,"rwy2":"35L","lat2":35.47978600,"lon2":-97.82483300},
+{"len_m":1067,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17L","lat1":35.49298300,"lon1":-97.82141700,"rwy2":"35R","lat2":35.48336100,"lon2":-97.82145800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+]
+}

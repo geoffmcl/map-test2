@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FADN","name":"Durban Intl","lat":-29.96654900,"lon":30.94268000,"rwys":1,"ils":2,"elev":33,"index":3444483,"path":"e030s30/e030s30"
+,"runways":[
+{"len_m":2438,"wid_m":60.05,"hdg":36,"surf":"Asphalt","rwy1":"06","lat1":-29.97893287,"lon1":30.94301634,"rwy2":"24","lat2":-29.96124113,"lon2":30.95802366}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":-29.96035000,"lon":30.95879000,"rng_nm":18,"alt_fmsl":33,"hdg":36.32,"id":"DAI","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":-29.98056000,"lon":30.94165000,"rng_nm":18,"alt_fmsl":33,"hdg":216.29,"id":"DNI","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":-29.97623633,"lon":30.94412504,"rng_nm":10,"alt_fmsl":33,"id":"DAI","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":-29.96402200,"lon":30.95639400,"rng_nm":10,"alt_fmsl":33,"id":"DNI","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":111.7,"lat":-29.97713900,"lon":30.94561100,"rng_nm":18,"alt_fmsl":18,"id":"DAI","rwy":"06","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FWKI","name":"Kamuzu Intl","lat":-13.78630160,"lon":33.78082660,"rwys":1,"ils":1,"elev":4035,"index":3494670,"path":"e030s20/e033s14"
+,"runways":[
+{"len_m":3539,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"14","lat1":-13.77912200,"lon1":33.76843900,"rwy2":"32","lat2":-13.79963100,"lon2":33.79356100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"LUMBADZI TWR"},
+{"type":"APP","freq":124.7,"desc":"RADAR"},
+{"type":"APP","freq":128,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":-13.80222200,"lon":33.79694400,"rng_nm":18,"alt_fmsl":4035,"id":"KM","rwy":"14","desc":"LOC"},
+{"type":"OM","freq":0,"lat":-13.73871300,"lon":33.71698600,"rng_nm":0,"alt_fmsl":4035,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":-13.77288100,"lon":33.76105600,"rng_nm":0,"alt_fmsl":4035,"id":"----","rwy":"14","desc":"MM"}
+]
+}

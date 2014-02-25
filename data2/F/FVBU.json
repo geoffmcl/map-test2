@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FVBU","name":"J M Nkomo Intl","lat":-20.01520625,"lon":28.622707,"rwys":2,"ils":1,"elev":4359,"index":3412348,"path":"e020s30/e028s21"
+,"runways":[
+{"len_m":2598,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"13","lat1":-20.01621900,"lon1":28.61515600,"rwy2":"31","lat2":-20.02623600,"lon2":28.63761100},
+{"len_m":1350,"wid_m":29.87,"hdg":7,"surf":"Asphalt","rwy1":"02","lat1":-20.01523100,"lon1":28.61817200,"rwy2":"20","lat2":-20.00313900,"lon2":28.61988900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"NKOMO TWR"},
+{"type":"APP","freq":119.7,"desc":"NKOMO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-20.02702800,"lon":28.63930600,"rng_nm":18,"alt_fmsl":4359,"hdg":115.47,"id":"IBU","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-20.01869400,"lon":28.61747200,"rng_nm":10,"alt_fmsl":4359,"id":"IBU","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-19.98830600,"lon":28.55391700,"rng_nm":0,"alt_fmsl":4359,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":-20.01063900,"lon":28.60252800,"rng_nm":0,"alt_fmsl":4359,"id":"----","rwy":"13","desc":"MM"}
+]
+}

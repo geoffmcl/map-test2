@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FBSK","name":"Sir Seretse Khama Intl","lat":-24.55455020,"lon":25.92738530,"rwys":1,"ils":0,"elev":3299,"index":3362907,"path":"e020s30/e025s25"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":61,"surf":"Concrete","rwy1":"08","lat1":-24.56166900,"lon1":25.90517200,"rwy2":"26","lat2":-24.54878100,"lon2":25.93124400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"KHAMA GND"},
+{"type":"TWR","freq":118.3,"desc":"KHAMA TWR"},
+{"type":"APP","freq":128.2,"desc":"GABORONE APP"}
+]
+,"ils":[
+]
+}

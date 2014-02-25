@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"F99","name":"Holdenville Muni","lat":35.08528825,"lon":-96.4159825,"rwys":2,"ils":0,"elev":860,"index":1367874,"path":"w100n30/w097n35"
+,"runways":[
+{"len_m":990,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":35.09033300,"lon1":-96.41666100,"rwy2":"35","lat2":35.08140600,"lon2":-96.41665800},
+{"len_m":975,"wid_m":30.48,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":35.08781400,"lon1":-96.41908900,"rwy2":"31","lat2":35.08160000,"lon2":-96.41152200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FALA","name":"Lanseria","lat":-25.93526500,"lon":27.92481400,"rwys":2,"ils":1,"elev":4517,"index":3395587,"path":"e020s30/e027s26"
+,"runways":[
+{"len_m":3043,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"06L","lat1":-25.94781892,"lon1":27.91495575,"rwy2":"24R","lat2":-25.92921508,"lon2":27.93731225},
+{"len_m":2114,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"06R","lat1":-25.94803872,"lon1":27.91681546,"rwy2":"24L","lat2":-25.93511328,"lon2":27.93234854}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":124,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"JOHANNESBURG APP"},
+{"type":"APP","freq":124.5,"desc":"JOHANNESBURG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-25.92886000,"lon":27.93775000,"rng_nm":18,"alt_fmsl":4518,"hdg":47.23,"id":"LAI","rwy":"06L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-25.94669000,"lon":27.91761000,"rng_nm":10,"alt_fmsl":4518,"id":"LAI","rwy":"06L","desc":"GS","gs":3}
+]
+}

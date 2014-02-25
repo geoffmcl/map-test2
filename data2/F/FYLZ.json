@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FYLZ","name":"Luderitz","lat":-26.685936,"lon":15.246039,"rwys":2,"ils":0,"elev":457,"index":3198928,"path":"e010s30/e015s27"
+,"runways":[
+{"len_m":1834,"wid_m":29.87,"hdg":16,"surf":"Asphalt","rwy1":"04","lat1":-26.69167500,"lon1":15.24139700,"rwy2":"22","lat2":-26.67583900,"lon2":15.24676700},
+{"len_m":1202,"wid_m":29.87,"hdg":98,"surf":"Gravel","rwy1":"12","lat1":-26.68727200,"lon1":15.24202800,"rwy2":"30","lat2":-26.68895800,"lon2":15.25396400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

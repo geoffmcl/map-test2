@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FZAA","name":"Ndjili Intl","lat":-4.38575,"lon":15.4445695,"rwys":1,"ils":1,"elev":1027,"index":3200355,"path":"e010s10/e015s05"
+,"runways":[
+{"len_m":4698,"wid_m":60.05,"hdg":57,"surf":"Concrete","rwy1":"06","lat1":-4.39716700,"lon1":15.42672200,"rwy2":"24","lat2":-4.37433300,"lon2":15.46241700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":128.1,"desc":"A/G"},
+{"type":"TWR","freq":118.1,"desc":"A/G"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":120.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-4.40017000,"lon":15.42517200,"rng_nm":18,"alt_fmsl":1089,"hdg":235.17,"id":"KSA","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-4.37683900,"lon":15.45903400,"rng_nm":10,"alt_fmsl":1085,"id":"KSA","rwy":"24","desc":"GS","gs":2.8}
+]
+}

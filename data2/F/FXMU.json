@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FXMU","name":"Mejametalana","lat":-29.30503425,"lon":27.50365225,"rwys":2,"ils":0,"elev":5105,"index":3395370,"path":"e020s30/e027s30"
+,"runways":[
+{"len_m":1368,"wid_m":29.87,"hdg":21,"surf":"Asphalt","rwy1":"04","lat1":-29.30978900,"lon1":27.50085600,"rwy2":"22","lat2":-29.29831700,"lon2":27.50605800},
+{"len_m":470,"wid_m":29.87,"hdg":84,"surf":"Dirt","rwy1":"11","lat1":-29.30621400,"lon1":27.50143900,"rwy2":"29","lat2":-29.30581700,"lon2":27.50625600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"BIRD NEST TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"FZQA","name":"Lubumbashi Intl","lat":-11.5912665,"lon":27.5308845,"rwys":1,"ils":1,"elev":4295,"index":3396508,"path":"e020s20/e027s12"
+,"runways":[
+{"len_m":3237,"wid_m":49.99,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":-11.59710800,"lon1":27.51727500,"rwy2":"25","lat2":-11.58542500,"lon2":27.54449400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.7,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-11.58617000,"lon":27.54669100,"rng_nm":18,"alt_fmsl":4314,"hdg":69.21,"id":"LUB","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-11.59633600,"lon":27.51937400,"rng_nm":10,"alt_fmsl":4318,"id":"LUB","rwy":"07","desc":"GS","gs":2.5}
+]
+}
