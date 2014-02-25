@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"07FA","name":"Ocean Reef Club","lat":25.323710985,"lon":-80.2759437,"rwys":2,"ils":0,"elev":8,"index":1629394,"path":"w090n20/w081n25"
+,"runways":[
+{"len_m":60,"wid_m":2.13,"hdg":39,"surf":"Asphalt","rwy1":"5","lat1":25.32181673,"lon1":-80.27730665,"rwy2":"23","lat2":25.32223821,"lon2":-80.27691816},
+{"len_m":1371,"wid_m":21.03,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":25.32065300,"lon1":-80.27915300,"rwy2":"22","lat2":25.33013600,"lon2":-80.27039700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

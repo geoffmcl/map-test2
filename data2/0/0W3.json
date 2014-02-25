@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0W3","name":"Harford Co","lat":39.5669061666667,"lon":-76.2023603333333,"rwys":3,"ils":0,"elev":409,"index":1695843,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":609,"wid_m":15.24,"hdg":356,"surf":"Turf/grass","rwy1":"01","lat1":39.56401100,"lon1":-76.20293100,"rwy2":"19","lat2":39.56949400,"lon2":-76.20330300},
+{"len_m":609,"wid_m":12.19,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":39.56637200,"lon1":-76.20481700,"rwy2":"28","lat2":39.56614400,"lon2":-76.19772800},
+{"len_m":487,"wid_m":24.38,"hdg":123,"surf":"Turf/grass","rwy1":"14","lat1":39.56891900,"lon1":-76.20505800,"rwy2":"32","lat2":39.56649700,"lon2":-76.20032500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.75,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0AZ2","name":"Western Sky","lat":33.7780555,"lon":-113.6416665,"rwys":2,"ils":0,"elev":1930,"index":1089265,"path":"w120n30/w114n33"
+,"runways":[
+{"len_m":1048,"wid_m":30.48,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":33.78277800,"lon1":-113.64138900,"rwy2":"35","lat2":33.77333300,"lon2":-113.64194400},
+{"len_m":473,"wid_m":30.48,"hdg":130,"surf":"Gravel","rwy1":"12","lat1":33.77944400,"lon1":-113.64361100,"rwy2":"30","lat2":33.77666700,"lon2":-113.63972200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

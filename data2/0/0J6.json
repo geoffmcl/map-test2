@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0J6","name":"Headland Muni","lat":31.36428,"lon":-85.3130495,"rwys":2,"ils":0,"elev":359,"index":1547858,"path":"w090n30/w086n31"
+,"runways":[
+{"len_m":1524,"wid_m":24.38,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":31.36385600,"lon1":-85.31907800,"rwy2":"27","lat2":31.36363600,"lon2":-85.30305300},
+{"len_m":879,"wid_m":49.38,"hdg":174,"surf":"Turf/grass","rwy1":"17","lat1":31.36876100,"lon1":-85.31547800,"rwy2":"35","lat2":31.36086700,"lon2":-85.31458900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.4,"desc":"CAIRNS APP/DEP"}
+]
+,"ils":[
+]
+}

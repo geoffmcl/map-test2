@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"09A","name":"Butler Choctaw Co","lat":32.119315,"lon":-88.127464,"rwys":1,"ils":0,"elev":134,"index":1498755,"path":"w090n30/w089n32"
+,"runways":[
+{"len_m":1243,"wid_m":24.38,"hdg":115,"surf":"Asphalt","rwy1":"11","lat1":32.12174400,"lon1":-88.13340300,"rwy2":"29","lat2":32.11688600,"lon2":-88.12152500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"MERIDAN APP/DEP"}
+]
+,"ils":[
+]
+}

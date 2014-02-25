@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0B8","name":"Elizabeth Fld","lat":41.2522215,"lon":-72.031666,"rwys":2,"ils":0,"elev":9,"index":1761491,"path":"w080n40/w073n41"
+,"runways":[
+{"len_m":711,"wid_m":30.48,"hdg":107,"surf":"Asphalt","rwy1":"12","lat1":41.25320800,"lon1":-72.03570600,"rwy2":"30","lat2":41.25123600,"lon2":-72.02762500},
+{"len_m":547,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":41.25126100,"lon1":-72.03467500,"rwy2":"25","lat2":41.25318100,"lon2":-72.02865800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.75,"desc":"PROVIDENCE APP/DEP"}
+]
+,"ils":[
+]
+}

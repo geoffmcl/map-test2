@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0A7","name":"Hendersonville","lat":35.30404304,"lon":-82.43071215,"rwys":2,"ils":0,"elev":2084,"index":1597266,"path":"w090n30/w083n35"
+,"runways":[
+{"len_m":731,"wid_m":30.48,"hdg":144,"surf":"Turf/grass","rwy1":"14","lat1":35.31040512,"lon1":-82.43741557,"rwy2":"32","lat2":35.30505237,"lon2":-82.43271955},
+{"len_m":936,"wid_m":12.19,"hdg":143,"surf":"Asphalt","rwy1":"15","lat1":35.31087204,"lon1":-82.43643304,"rwy2":"33","lat2":35.30412796,"lon2":-82.43023622}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

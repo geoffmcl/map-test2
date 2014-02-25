@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"0F8","name":"William R Pogue Muni","lat":36.1752765,"lon":-96.1518415,"rwys":1,"ils":0,"elev":891,"index":1367947,"path":"w100n30/w097n36"
+,"runways":[
+{"len_m":1767,"wid_m":30.48,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":36.18321700,"lon1":-96.15263600,"rwy2":"35","lat2":36.16733600,"lon2":-96.15104700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124,"desc":"TULSA APP/DEP"}
+]
+,"ils":[
+]
+}

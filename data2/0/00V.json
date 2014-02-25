@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"00V","name":"Meadow Lake","lat":38.9481211666667,"lon":-104.571195333333,"rwys":3,"ils":0,"elev":6874,"index":1237049,"path":"w110n30/w105n38"
+,"runways":[
+{"len_m":1827,"wid_m":18.29,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":38.95346700,"lon1":-104.57461100,"rwy2":"33","lat2":38.93795000,"lon2":-104.56755800},
+{"len_m":635,"wid_m":10.67,"hdg":90,"surf":"Dirt","rwy1":"08","lat1":38.94590800,"lon1":-104.57013100,"rwy2":"26","lat2":38.94581900,"lon2":-104.56280300},
+{"len_m":548,"wid_m":4.57,"hdg":182,"surf":"Asphalt","rwy1":"16","lat1":38.95525800,"lon1":-104.57586900,"rwy2":"34","lat2":38.95032500,"lon2":-104.57620000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

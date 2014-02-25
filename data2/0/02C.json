@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"02C","name":"Capitol","lat":43.0888991666667,"lon":-88.1786558333333,"rwys":3,"ils":0,"elev":850,"index":1499459,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1067,"wid_m":13.41,"hdg":18,"surf":"Asphalt","rwy1":"03","lat1":43.08296900,"lon1":-88.18000300,"rwy2":"21","lat2":43.09205300,"lon2":-88.17573600},
+{"len_m":353,"wid_m":24.38,"hdg":179,"surf":"Turf/grass","rwy1":"18","lat1":43.08993600,"lon1":-88.18064700,"rwy2":"36","lat2":43.08675300,"lon2":-88.18064400},
+{"len_m":385,"wid_m":30.48,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":43.09084200,"lon1":-88.17981900,"rwy2":"27","lat2":43.09084200,"lon2":-88.17508600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

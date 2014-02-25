@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"06A","name":"Moton Fld Muni","lat":32.4604695,"lon":-85.6800335,"rwys":1,"ils":0,"elev":264,"index":1547929,"path":"w090n30/w086n32"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":32.46478100,"lon1":-85.68635000,"rwy2":"31","lat2":32.45615800,"lon2":-85.67371700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":126.55,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

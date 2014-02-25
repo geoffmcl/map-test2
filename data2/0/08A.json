@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"08A","name":"Wetumpka Muni","lat":32.52748125,"lon":-86.3310555,"rwys":2,"ils":0,"elev":197,"index":1531554,"path":"w090n30/w087n32"
+,"runways":[
+{"len_m":917,"wid_m":24.38,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":32.52940000,"lon1":-86.33310000,"rwy2":"27","lat2":32.52950000,"lon2":-86.32333300},
+{"len_m":792,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":32.52908600,"lon1":-86.33383300,"rwy2":"36","lat2":32.52193900,"lon2":-86.33395600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.2,"desc":"MONTGOMERY APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"02G","name":"Columbiana Co","lat":40.67400006,"lon":-80.64259466,"rwys":1,"ils":0,"elev":1160,"index":1630377,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1067,"wid_m":22.86,"hdg":60,"surf":"Asphalt","rwy1":"07","lat1":40.67095800,"lon1":-80.64692800,"rwy2":"25","lat2":40.67567500,"lon2":-80.63592500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.75,"desc":"PITTSBURGH APP/DEP"}
+]
+,"ils":[
+]
+}

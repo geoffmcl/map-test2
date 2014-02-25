@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"08K","name":"Harvard State","lat":40.65103329,"lon":-98.08576713,"rwys":2,"ils":0,"elev":1815,"index":1335467,"path":"w100n40/w099n40"
+,"runways":[
+{"len_m":1190,"wid_m":46.02,"hdg":146,"surf":"Turf/grass","rwy1":"14","lat1":40.65653050,"lon1":-98.08130623,"rwy2":"32","lat2":40.64761700,"lon2":-98.07349400},
+{"len_m":1139,"wid_m":17.98,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":40.65572050,"lon1":-98.08252400,"rwy2":"35","lat2":40.64546100,"lon2":-98.08240900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}
