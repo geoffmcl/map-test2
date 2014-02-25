@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5J0","name":"Grant Co Rgnl Ogilvie Fld","lat":44.40300000,"lon":-118.96194500,"rwys":2,"ils":0,"elev":3697,"index":1008024,"path":"w120n40/w119n44"
+,"runways":[
+{"len_m":1371,"wid_m":18.29,"hdg":184,"surf":"Asphalt","rwy1":"17","lat1":44.40972800,"lon1":-118.96301900,"rwy2":"35","lat2":44.39741400,"lon2":-118.96423600},
+{"len_m":1049,"wid_m":18.29,"hdg":109,"surf":"Asphalt","rwy1":"09","lat1":44.40304400,"lon1":-118.97676700,"rwy2":"27","lat2":44.39982200,"lon2":-118.96438100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

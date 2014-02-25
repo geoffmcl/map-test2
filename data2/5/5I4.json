@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5I4","name":"Sheridan","lat":40.17797175,"lon":-86.21730275,"rwys":2,"ils":0,"elev":936,"index":1532043,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":1146,"wid_m":15.24,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":40.17342500,"lon1":-86.22321700,"rwy2":"23","lat2":40.17977800,"lon2":-86.21260800},
+{"len_m":1094,"wid_m":26.82,"hdg":88,"surf":"Turf/grass","rwy1":"09","lat1":40.17920300,"lon1":-86.22311400,"rwy2":"27","lat2":40.17948100,"lon2":-86.21027200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.65,"desc":"INDIANAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5W4","name":"P K Airpark","lat":35.0198585,"lon":-79.1910095,"rwys":1,"ils":0,"elev":304,"index":1646403,"path":"w080n30/w080n35"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":35.01595000,"lon1":-79.19412200,"rwy2":"22","lat2":35.02376700,"lon2":-79.18789700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.8,"desc":"FAYETTEVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

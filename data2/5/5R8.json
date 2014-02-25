@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5R8","name":"De Quincy Industrial Airpark","lat":30.4410805,"lon":-93.473564,"rwys":1,"ils":0,"elev":81,"index":1416730,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":1520,"wid_m":22.86,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":30.44741900,"lon1":-93.47658600,"rwy2":"33","lat2":30.43474200,"lon2":-93.47054200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"LAKE CHARLES APP/DEP"}
+]
+,"ils":[
+]
+}

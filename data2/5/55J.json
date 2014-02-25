@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"55J","name":"Fernandina Beach Muni","lat":30.611692,"lon":-81.462715875,"rwys":4,"ils":0,"elev":16,"index":1613346,"path":"w090n30/w082n30"
+,"runways":[
+{"len_m":1615,"wid_m":30.48,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":30.60478100,"lon1":-81.46652500,"rwy2":"22","lat2":30.61663600,"lon2":-81.45672200},
+{"len_m":1570,"wid_m":30.48,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":30.61449400,"lon1":-81.46839200,"rwy2":"31","lat2":30.60625300,"lon2":-81.45507200},
+{"len_m":1523,"wid_m":30.48,"hdg":80,"surf":"Concrete","rwy1":"08","lat1":30.61333600,"lon1":-81.46799700,"rwy2":"26","lat2":30.61558600,"lon2":-81.45231900},
+{"len_m":1091,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"18","lat1":30.61608100,"lon1":-81.46828100,"rwy2":"36","lat2":30.60636900,"lon2":-81.46641900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127,"desc":"JACKSONVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

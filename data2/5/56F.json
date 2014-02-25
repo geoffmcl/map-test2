@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"56F","name":"Fisher Co","lat":32.82645825,"lon":-100.41798625,"rwys":2,"ils":0,"elev":1941,"index":1302194,"path":"w110n30/w101n32"
+,"runways":[
+{"len_m":989,"wid_m":18.29,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":32.82972200,"lon1":-100.41666700,"rwy2":"34","lat2":32.82111100,"lon2":-100.41388900},
+{"len_m":843,"wid_m":15.24,"hdg":73,"surf":"Gravel","rwy1":"07","lat1":32.82638900,"lon1":-100.42500000,"rwy2":"25","lat2":32.82861100,"lon2":-100.41638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

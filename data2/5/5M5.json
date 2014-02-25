@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5M5","name":"Crystal Lake","lat":36.343554,"lon":-94.4448095,"rwys":1,"ils":0,"elev":1180,"index":1400722,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1178,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":36.34727200,"lon1":-94.44949400,"rwy2":"31","lat2":36.33983600,"lon2":-94.44012500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"RAZORBACK APP/DEP"},
+{"type":"APP","freq":121.72,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+]
+}

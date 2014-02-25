@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5U5","name":"Fairfield","lat":47.62995425,"lon":-111.97983575,"rwys":2,"ils":0,"elev":3989,"index":1122920,"path":"w120n40/w112n47"
+,"runways":[
+{"len_m":1158,"wid_m":12.19,"hdg":195,"surf":"Asphalt","rwy1":"18","lat1":47.63417500,"lon1":-111.97788100,"rwy2":"36","lat2":47.62415800,"lon2":-111.98211700},
+{"len_m":464,"wid_m":27.43,"hdg":89,"surf":"Turf/grass","rwy1":"07","lat1":47.63070600,"lon1":-111.98276400,"rwy2":"25","lat2":47.63077800,"lon2":-111.97658100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5F1","name":"Post Garza Co Muni","lat":33.2044445,"lon":-101.34187525,"rwys":2,"ils":0,"elev":2545,"index":1285834,"path":"w110n30/w102n33"
+,"runways":[
+{"len_m":1294,"wid_m":18.29,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":33.21222200,"lon1":-101.34027800,"rwy2":"35","lat2":33.20055600,"lon2":-101.34055600},
+{"len_m":668,"wid_m":18.29,"hdg":68,"surf":"Asphalt","rwy1":"06","lat1":33.20138900,"lon1":-101.34666700,"rwy2":"24","lat2":33.20361100,"lon2":-101.34000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

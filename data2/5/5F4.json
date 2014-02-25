@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"5F4","name":"Homer Muni","lat":32.7885095,"lon":-93.0036515,"rwys":1,"ils":0,"elev":244,"index":1416883,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":975,"wid_m":18.29,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":32.79087200,"lon1":-93.00804200,"rwy2":"30","lat2":32.78614700,"lon2":-92.99926100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":118.6,"desc":"SHREVEPORT APP/DEP"}
+]
+,"ils":[
+]
+}

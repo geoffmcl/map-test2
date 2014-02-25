@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"50J","name":"Berkeley Co","lat":33.18704600,"lon":-80.03563700,"rwys":1,"ils":0,"elev":73,"index":1629899,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":1326,"wid_m":22.86,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":33.18110600,"lon1":-80.04108300,"rwy2":"23","lat2":33.18987500,"lon2":-80.03141700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.8,"desc":"CHARLESTON APP/DEP"}
+]
+,"ils":[
+]
+}
