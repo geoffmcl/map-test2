@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T89","name":"Castroville Muni","lat":29.3419235,"lon":-98.8509,"rwys":1,"ils":0,"elev":771,"index":1334736,"path":"w100n20/w099n29"
+,"runways":[
+{"len_m":1401,"wid_m":22.86,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":29.34790000,"lon1":-98.85325000,"rwy2":"33","lat2":29.33594700,"lon2":-98.84855000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.05,"desc":"SAN ANTONIO APP/DEP"}
+]
+,"ils":[
+]
+}

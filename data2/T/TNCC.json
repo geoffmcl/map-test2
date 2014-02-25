@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TNCC","name":"Curacao Hato","lat":12.18714600,"lon":-68.96829700,"rwys":1,"ils":1,"elev":29,"index":1825160,"path":"w070n10/w069n12"
+,"runways":[
+{"len_m":3415,"wid_m":60.05,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":12.19210600,"lon1":-68.97514200,"rwy2":"29","lat2":12.18560000,"lon2":-68.94446400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":12.18521900,"lon":-68.94262800,"rng_nm":18,"alt_fmsl":29,"hdg":102.23,"id":"IATO","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":12.19091700,"lon":-68.96455600,"rng_nm":10,"alt_fmsl":29,"id":"IATO","rwy":"11","desc":"GS","gs":3},
+{"type":"DME","freq":111.9,"lat":12.19091700,"lon":-68.96455600,"rng_nm":18,"alt_fmsl":29,"id":"IATO","rwy":"11","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T15","name":"Marlin","lat":31.3406795,"lon":-96.85204,"rwys":1,"ils":0,"elev":411,"index":1367632,"path":"w100n30/w097n31"
+,"runways":[
+{"len_m":920,"wid_m":15.24,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":31.34483100,"lon1":-96.85194700,"rwy2":"35","lat2":31.33652800,"lon2":-96.85213300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":135.2,"desc":"WACO APP/DEP"}
+]
+,"ils":[
+]
+}

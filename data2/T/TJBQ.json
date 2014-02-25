@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TJBQ","name":"Aguadilla/rafael Hernandez","lat":18.49498498,"lon":-67.13571611,"rwys":1,"ils":0,"elev":237,"index":1841950,"path":"w070n10/w068n18"
+,"runways":[
+{"len_m":3575,"wid_m":60.96,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":18.48995000,"lon1":-67.14535600,"rwy2":"26","lat2":18.49970000,"lon2":-67.11307500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ATIS"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":120.87,"desc":"CLEARANCE DEL."},
+{"type":"GND","freq":120.87,"desc":"GROUND"},
+{"type":"TWR","freq":124.95,"desc":"TWR/CTAF"},
+{"type":"APP","freq":118.15,"desc":"SAN JUAN CNTR"},
+{"type":"APP","freq":135.7,"desc":"SAN JUAN CNTR"}
+]
+,"ils":[
+]
+}

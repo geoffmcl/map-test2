@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T47","name":"Kickapoo Downtown","lat":33.860617,"lon":-98.4903985,"rwys":1,"ils":0,"elev":998,"index":1335026,"path":"w100n30/w099n33"
+,"runways":[
+{"len_m":1356,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.86673100,"lon1":-98.49036100,"rwy2":"35","lat2":33.85450300,"lon2":-98.49043600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.4,"desc":"SHEPPARD APP/DEP"}
+]
+,"ils":[
+]
+}

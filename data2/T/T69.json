@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T69","name":"San Patricio Co","lat":28.038586,"lon":-97.542364,"rwys":2,"ils":0,"elev":48,"index":1351041,"path":"w100n20/w098n28"
+,"runways":[
+{"len_m":1317,"wid_m":16.76,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":28.04416100,"lon1":-97.54620300,"rwy2":"32","lat2":28.03432200,"lon2":-97.53868100},
+{"len_m":855,"wid_m":15.24,"hdg":40,"surf":"Turf/grass","rwy1":"03","lat1":28.03501400,"lon1":-97.54513300,"rwy2":"21","lat2":28.04084700,"lon2":-97.53943900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.9,"desc":"CORPUS APP/DEP"}
+]
+,"ils":[
+]
+}

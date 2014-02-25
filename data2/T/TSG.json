@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TSG","name":"Tanacross","lat":63.37355425,"lon":-143.3263555,"rwys":2,"ils":0,"elev":1549,"index":599633,"path":"w150n60/w144n63"
+,"runways":[
+{"len_m":1554,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"06","lat1":63.37436700,"lon1":-143.33557500,"rwy2":"24","lat2":63.37485000,"lon2":-143.30451800},
+{"len_m":1524,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"12","lat1":63.37810000,"lon1":-143.34140100,"rwy2":"30","lat2":63.36690000,"lon2":-143.32392800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TJSJ","name":"San Juan - Luis Munoz Marin Intl","lat":18.43904346,"lon":-66.00393882,"rwys":2,"ils":2,"elev":9,"index":1858335,"path":"w070n10/w067n18"
+,"runways":[
+{"len_m":2981,"wid_m":60.96,"hdg":66,"surf":"Asphalt","rwy1":"08","lat1":18.43875600,"lon1":-66.01486400,"rwy2":"26","lat2":18.44928400,"lon2":-65.98888100},
+{"len_m":2443,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"10","lat1":18.43356100,"lon1":-66.01372800,"rwy2":"28","lat2":18.43350600,"lon2":-65.99060000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"ATIS"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":126.4,"desc":"SAN JUAN CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":132.05,"desc":"SAN JUAN TWR"},
+{"type":"APP","freq":120.9,"desc":"SAN JUAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":18.45024700,"lon":-65.98650300,"rng_nm":18,"alt_fmsl":5,"hdg":66.88,"id":"ISJU","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":18.43349700,"lon":-65.98764700,"rng_nm":18,"alt_fmsl":9,"hdg":90.15,"id":"ICLA","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":18.44084400,"lon":-66.01266100,"rng_nm":10,"alt_fmsl":9,"id":"ISJU","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":18.43265600,"lon":-66.01084700,"rng_nm":10,"alt_fmsl":8,"id":"ICLA","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":18.40891100,"lon":-66.08955600,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":18.43357200,"lon":-66.08446100,"rng_nm":0,"alt_fmsl":6,"id":"----","rwy":"10","desc":"OM"}
+]
+}

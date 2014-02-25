@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TBPB","name":"Barbados/grantley Adams Intl","lat":13.07864340,"lon":-59.49009818,"rwys":1,"ils":1,"elev":168,"index":1972676,"path":"w060n10/w060n13"
+,"runways":[
+{"len_m":3636,"wid_m":45.11,"hdg":75,"surf":"Asphalt","rwy1":"09","lat1":13.07061900,"lon1":-59.50847000,"rwy2":"27","lat2":13.07860900,"lon2":-59.47594200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"ADAMS GND"},
+{"type":"TWR","freq":118.7,"desc":"ADAMS TWR"},
+{"type":"APP","freq":129.35,"desc":"ADAMS APP"},
+{"type":"APP","freq":120.7,"desc":"ADAMS APP"},
+{"type":"APP","freq":121.2,"desc":"ADAMS APP"},
+{"type":"APP","freq":128.85,"desc":"ADAMS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":13.07875000,"lon":-59.47506700,"rng_nm":18,"alt_fmsl":168,"hdg":75.97,"id":"IBGI","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":13.07051400,"lon":-59.50403100,"rng_nm":10,"alt_fmsl":168,"id":"IBGI","rwy":"09","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":13.06896400,"lon":-59.51506700,"rng_nm":0,"alt_fmsl":169,"id":"----","rwy":"09","desc":"MM"}
+]
+}

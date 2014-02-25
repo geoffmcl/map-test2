@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TTCP","name":"Tobago/crown Point Intl","lat":11.15201252,"lon":-60.83198725,"rwys":1,"ils":1,"elev":36,"index":1956169,"path":"w070n10/w061n11"
+,"runways":[
+{"len_m":2744,"wid_m":45.11,"hdg":94,"surf":"Asphalt","rwy1":"11","lat1":11.15055600,"lon1":-60.84472500,"rwy2":"29","lat2":11.14876400,"lon2":-60.81966700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"PIARCO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":11.14866120,"lon":-60.81823002,"rng_nm":18,"alt_fmsl":36,"hdg":94.17,"id":"ITAB","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":11.14933566,"lon":-60.83919810,"rng_nm":10,"alt_fmsl":36,"id":"ITAB","rwy":"11","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":11.14866120,"lon":-60.81823002,"rng_nm":18,"alt_fmsl":36,"id":"ITAB","rwy":"11","desc":"DME-ILS"}
+]
+}

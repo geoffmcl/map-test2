@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TVSV","name":"St. Vincent/e T Joshua","lat":13.14589126,"lon":-61.21034439,"rwys":1,"ils":0,"elev":66,"index":1939918,"path":"w070n10/w062n13"
+,"runways":[
+{"len_m":1400,"wid_m":43.89,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":13.14123100,"lon1":-61.21650300,"rwy2":"25","lat2":13.14736700,"lon2":-61.20520300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"E T JOSHUA GND"},
+{"type":"TWR","freq":118.8,"desc":"E T JOSHUA TWR"},
+{"type":"APP","freq":120.8,"desc":"E T JOSHUA APP"}
+]
+,"ils":[
+]
+}

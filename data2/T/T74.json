@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T74","name":"Taylor Muni","lat":30.5726305,"lon":-97.4431765,"rwys":1,"ils":0,"elev":600,"index":1351202,"path":"w100n30/w098n30"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":30.57812800,"lon1":-97.44332500,"rwy2":"35","lat2":30.56713300,"lon2":-97.44302800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.8,"desc":"AUSTIN APP/DEP"}
+]
+,"ils":[
+]
+}

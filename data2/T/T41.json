@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T41","name":"La Porte Muni","lat":29.6692565,"lon":-95.06418475,"rwys":2,"ils":0,"elev":25,"index":1383915,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":1269,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":29.67255000,"lon1":-95.06959700,"rwy2":"30","lat2":29.66579200,"lon2":-95.05901400},
+{"len_m":913,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":29.66676700,"lon1":-95.06775000,"rwy2":"23","lat2":29.67191700,"lon2":-95.06037800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP/DEP"}
+]
+,"ils":[
+]
+}

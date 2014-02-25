@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TNCA","name":"Reina Beatrix Intl","lat":12.501389,"lon":-70.0152205,"rwys":1,"ils":1,"elev":60,"index":1792423,"path":"w080n10/w071n12"
+,"runways":[
+{"len_m":2744,"wid_m":45.11,"hdg":103,"surf":"Asphalt","rwy1":"11","lat1":12.50438900,"lon1":-70.02746900,"rwy2":"29","lat2":12.49838900,"lon2":-70.00297200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.1,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"BEATRIX TWR"},
+{"type":"TWR","freq":128.85,"desc":"BEATRIX TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":12.49811400,"lon":-70.00150800,"rng_nm":18,"alt_fmsl":58,"hdg":103.91,"id":"IBE","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":12.50257500,"lon":-70.02480800,"rng_nm":10,"alt_fmsl":10,"id":"IBE","rwy":"11","desc":"GS","gs":2.98},
+{"type":"DME","freq":108.7,"lat":12.49811400,"lon":-70.00150800,"rng_nm":18,"alt_fmsl":58,"id":"IBE","rwy":"11","desc":"DME-ILS"}
+]
+}

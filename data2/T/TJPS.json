@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"TJPS","name":"Ponce/mercedita","lat":18.0083125,"lon":-66.563014,"rwys":1,"ils":0,"elev":29,"index":1858307,"path":"w070n10/w067n18"
+,"runways":[
+{"len_m":2104,"wid_m":46.02,"hdg":107,"surf":"Asphalt","rwy1":"12","lat1":18.01123900,"lon1":-66.57246700,"rwy2":"30","lat2":18.00538600,"lon2":-66.55356100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.75,"desc":"SAN JUAN CNTR"}
+]
+,"ils":[
+]
+}

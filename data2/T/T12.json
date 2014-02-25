@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"T12","name":"Kirbyville","lat":30.6462745,"lon":-93.91472825,"rwys":2,"ils":0,"elev":121,"index":1416744,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":1141,"wid_m":15.24,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":30.65073100,"lon1":-93.91969400,"rwy2":"31","lat2":30.64371100,"lon2":-93.91097800},
+{"len_m":604,"wid_m":13.72,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":30.64336400,"lon1":-93.91630800,"rwy2":"22","lat2":30.64729200,"lon2":-93.91193300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}
