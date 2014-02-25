@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N81","name":"Hammonton Muni","lat":39.667467,"lon":-74.757732,"rwys":1,"ils":0,"elev":69,"index":1728616,"path":"w080n30/w075n39"
+,"runways":[
+{"len_m":1097,"wid_m":22.86,"hdg":16,"surf":"Asphalt","rwy1":"03","lat1":39.66271700,"lon1":-74.75950600,"rwy2":"21","lat2":39.67221700,"lon2":-74.75595800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.25,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

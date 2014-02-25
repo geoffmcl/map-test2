@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZWB","name":"Woodbourne","lat":-41.5168533333333,"lon":173.869485833333,"rwys":3,"ils":0,"elev":109,"index":5786651,"path":"e170s50/e173s42"
+,"runways":[
+{"len_m":1415,"wid_m":60.05,"hdg":87,"surf":"Dirt","rwy1":"06L","lat1":-41.51634200,"lon1":173.86098900,"rwy2":"24R","lat2":-41.51578900,"lon2":173.87793100},
+{"len_m":1425,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"06R","lat1":-41.51833300,"lon1":173.86088900,"rwy2":"24L","lat2":-41.51741700,"lon2":173.87791700},
+{"len_m":1149,"wid_m":89.92,"hdg":126,"surf":"Dirt","rwy1":"10","lat1":-41.51356400,"lon1":173.86403900,"rwy2":"28","lat2":-41.51967500,"lon2":173.87515000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":122.8,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"WELLINGTON APP"},
+{"type":"APP","freq":119.3,"desc":"WELLINGTON APP"},
+{"type":"APP","freq":126.5,"desc":"WELLINGTON APP"},
+{"type":"APP","freq":121.1,"desc":"WELLINGTON APP"}
+]
+,"ils":[
+]
+}

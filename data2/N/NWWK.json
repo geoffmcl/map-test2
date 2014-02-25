@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NWWK","name":"Koumac","lat":-20.54212691,"lon":164.25966389,"rwys":1,"ils":0,"elev":41,"index":5640538,"path":"e160s30/e164s21"
+,"runways":[
+{"len_m":1099,"wid_m":24.99,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":-20.54828239,"lon1":164.25076489,"rwy2":"24","lat2":-20.54445361,"lon2":164.26049193}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.4,"desc":"KOUMAC FSS"}
+]
+,"ils":[
+]
+}

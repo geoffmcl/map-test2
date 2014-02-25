@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N40","name":"Sky Manor","lat":40.5662595,"lon":-74.9786375,"rwys":1,"ils":0,"elev":560,"index":1728672,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":742,"wid_m":15.24,"hdg":54,"surf":"Asphalt","rwy1":"07","lat1":40.56430800,"lon1":-74.98220000,"rwy2":"25","lat2":40.56821100,"lon2":-74.97507500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.2,"desc":"ALLENTOWN APP/DEP"},
+{"type":"APP","freq":124.45,"desc":"ALLENTOWN APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZLX","name":"Alexandra","lat":-45.21374500,"lon":169.37030000,"rwys":3,"ils":0,"elev":752,"index":5720881,"path":"e160s50/e169s46"
+,"runways":[
+{"len_m":1186,"wid_m":60.05,"hdg":159,"surf":"Turf/grass","rwy1":"14L","lat1":-45.20583300,"lon1":169.36971900,"rwy2":"32R","lat2":-45.21583300,"lon2":169.37500000},
+{"len_m":1215,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"14R","lat1":-45.20563900,"lon1":169.36896900,"rwy2":"32L","lat2":-45.21591700,"lon2":169.37425000},
+{"len_m":698,"wid_m":60.05,"hdg":27,"surf":"Turf/grass","rwy1":"01","lat1":-45.21333300,"lon1":169.36778100,"rwy2":"19","lat2":-45.20777800,"lon2":169.37195000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":122.2,"desc":"CHRISTCHURCH FIS"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZRO","name":"Rotorua","lat":-38.10950900,"lon":176.31727600,"rwys":2,"ils":0,"elev":935,"index":5836025,"path":"e170s40/e176s39"
+,"runways":[
+{"len_m":1620,"wid_m":29.87,"hdg":205,"surf":"Asphalt","rwy1":"18R","lat1":-38.10012175,"lon1":176.32061740,"rwy2":"36L","lat2":-38.11333425,"lon2":176.31274460},
+{"len_m":829,"wid_m":49.99,"hdg":205,"surf":"Turf/grass","rwy1":"18L","lat1":-38.10114234,"lon1":176.32086874,"rwy2":"36R","lat2":-38.10790366,"lon2":176.31682726}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":121.2,"desc":"CTAF"},
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"CHRISTCHURCH APP"}
+]
+,"ils":[
+]
+}

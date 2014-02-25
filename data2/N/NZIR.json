@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZIR","name":"Mcmurdo Station Ice Runway","lat":-77.8918361,"lon":166.968934535,"rwys":2,"ils":0,"elev":49,"index":5669632,"path":"e160s80/e166s78"
+,"runways":[
+{"len_m":3064,"wid_m":67.06,"hdg":254,"surf":"Snow","rwy1":"11","lat1":-77.88814894,"lon1":167.03192322,"rwy2":"29","lat2":-77.89552300,"lon2":166.90589298},
+{"len_m":3060,"wid_m":67.06,"hdg":304,"surf":"Snow","rwy1":"16","lat1":-77.89958546,"lon1":167.02283948,"rwy2":"34","lat2":-77.88408700,"lon2":166.91508245}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"ICE TWR"},
+{"type":"TWR","freq":134.1,"desc":"ICE TWR"}
+]
+,"ils":[
+]
+}

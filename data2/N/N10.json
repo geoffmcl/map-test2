@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N10","name":"Perkiomen Valley Airport","lat":40.20404439,"lon":-75.43026883,"rwys":1,"ils":0,"elev":276,"index":1712266,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":880,"wid_m":12.19,"hdg":76,"surf":"Asphalt","rwy1":"09","lat1":40.20311331,"lon1":-75.43529480,"rwy2":"27","lat2":40.20497548,"lon2":-75.42524287}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLEARANCE DELIVERY"},
+{"type":"APP","freq":126.85,"desc":"PHILADELPHIA APPROACH"},
+{"type":"DEP","freq":126.85,"desc":"PHILADELPHIA DEPARTURE"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N12","name":"Lakewood","lat":40.06882757,"lon":-74.17336921,"rwys":1,"ils":0,"elev":43,"index":1728643,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":889,"wid_m":17.98,"hdg":47,"surf":"Asphalt","rwy1":"06","lat1":40.06408082,"lon1":-74.18149814,"rwy2":"24","lat2":40.06952318,"lon2":-74.17384055}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+,"ils":[
+]
+}

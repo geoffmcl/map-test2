@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZAP","name":"Taupo","lat":-38.74318300,"lon":176.08288100,"rwys":2,"ils":0,"elev":1335,"index":5835984,"path":"e170s40/e176s39"
+,"runways":[
+{"len_m":1392,"wid_m":29.87,"hdg":194,"surf":"Asphalt","rwy1":"17","lat1":-38.73469200,"lon1":176.08695800,"rwy2":"35","lat2":-38.74681400,"lon2":176.08283600},
+{"len_m":735,"wid_m":60.05,"hdg":130,"surf":"Turf/grass","rwy1":"11","lat1":-38.74023100,"lon1":176.07632600,"rwy2":"29","lat2":-38.74457100,"lon2":176.08271600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.2,"desc":"AWOS"},
+{"type":"ATIS","freq":123.6,"desc":"CHRISTCHURCH FSS"},
+{"type":"CTAF","freq":118.4,"desc":"TAUPO UNIC"},
+{"type":"GND","freq":128.69,"desc":"TAUPO GND"},
+{"type":"TWR","freq":122.1,"desc":"TAUPO TWR"}
+]
+,"ils":[
+]
+}

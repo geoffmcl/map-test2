@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZWN","name":"Wellington Intl","lat":-41.32088919,"lon":174.80413774,"rwys":1,"ils":2,"elev":42,"index":5803051,"path":"e170s50/e174s42"
+,"runways":[
+{"len_m":1994,"wid_m":45.11,"hdg":182,"surf":"Asphalt","rwy1":"16","lat1":-41.31787264,"lon1":174.80742615,"rwy2":"34","lat2":-41.33581400,"lon2":174.80625800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.9,"desc":"ATIS"},
+{"type":"CLD","freq":124.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":122.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-41.33641815,"lon":174.80625916,"rng_nm":18,"alt_fmsl":20,"hdg":182.84,"id":"IEB","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":-41.31719971,"lon":174.80751038,"rng_nm":18,"alt_fmsl":20,"hdg":2.75,"id":"IMP","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-41.32163889,"lon":174.80641667,"rng_nm":18,"alt_fmsl":26,"id":"IEB","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":-41.33191667,"lon":174.80561111,"rng_nm":18,"alt_fmsl":6,"id":"IMP","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":-41.32163889,"lon":174.80644444,"rng_nm":18,"alt_fmsl":26,"id":"IEB","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":-41.33191667,"lon":174.80563889,"rng_nm":18,"alt_fmsl":7,"id":"IMP","rwy":"34","desc":"DME-ILS"}
+]
+}

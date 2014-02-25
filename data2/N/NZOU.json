@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZOU","name":"Oamaru","lat":-44.967401,"lon":171.084890833333,"rwys":3,"ils":0,"elev":99,"index":5753664,"path":"e170s50/e171s45"
+,"runways":[
+{"len_m":1322,"wid_m":29.87,"hdg":204,"surf":"Asphalt","rwy1":"18","lat1":-44.95984200,"lon1":171.08522200,"rwy2":"36","lat2":-44.97067500,"lon2":171.07828100},
+{"len_m":892,"wid_m":49.99,"hdg":136,"surf":"Dirt","rwy1":"11","lat1":-44.96833300,"lon1":171.08278100,"rwy2":"29","lat2":-44.97416700,"lon2":171.09056100},
+{"len_m":802,"wid_m":49.99,"hdg":43,"surf":"Dirt","rwy1":"02","lat1":-44.96833300,"lon1":171.08278100,"rwy2":"20","lat2":-44.96305600,"lon2":171.08971900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

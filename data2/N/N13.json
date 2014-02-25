@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N13","name":"Bloomsburg Muni","lat":40.997783,"lon":-76.436046,"rwys":1,"ils":0,"elev":481,"index":1695930,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":853,"wid_m":15.24,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":40.99664400,"lon1":-76.44088900,"rwy2":"26","lat2":40.99892200,"lon2":-76.43120300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.3,"desc":"WILKES BARRE APP/DEP"}
+]
+,"ils":[
+]
+}

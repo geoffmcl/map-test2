@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NFNA","name":"Nausori Intl","lat":-18.04569105,"lon":178.55944836,"rwys":1,"ils":0,"elev":17,"index":5870076,"path":"e170s20/e178s19"
+,"runways":[
+{"len_m":1869,"wid_m":29.87,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":-18.04055211,"lon1":178.55090914,"rwy2":"28","lat2":-18.04610461,"lon2":178.56758467}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"TRML INFO"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+]
+}

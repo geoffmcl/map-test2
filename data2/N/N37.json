@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N37","name":"Monticello","lat":41.6225855,"lon":-74.701202,"rwys":2,"ils":0,"elev":1545,"index":1728737,"path":"w080n40/w075n41"
+,"runways":[
+{"len_m":790,"wid_m":12.19,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":41.61791400,"lon1":-74.70234700,"rwy2":"19","lat2":41.62503300,"lon2":-74.70230600},
+{"len_m":631,"wid_m":7.32,"hdg":137,"surf":"Asphalt","rwy1":"15","lat1":41.62578900,"lon1":-74.70264700,"rwy2":"33","lat2":41.62160600,"lon2":-74.69750800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

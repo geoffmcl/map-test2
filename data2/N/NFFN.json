@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NFFN","name":"Nadi Intl","lat":-17.75879500,"lon":177.44638900,"rwys":2,"ils":1,"elev":59,"index":5853707,"path":"e170s20/e177s18"
+,"runways":[
+{"len_m":3200,"wid_m":46.02,"hdg":37,"surf":"Asphalt","rwy1":"02","lat1":-17.77276471,"lon1":177.42918288,"rwy2":"20","lat2":-17.74987430,"lon2":177.44762641},
+{"len_m":2131,"wid_m":46.02,"hdg":104,"surf":"Asphalt","rwy1":"09","lat1":-17.75306252,"lon1":177.43614188,"rwy2":"27","lat2":-17.75776084,"lon2":177.45563815}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":177,"surf":"Concrete","lat1":-17.75530617,"lon1":177.45303039},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":177,"surf":"Concrete","lat1":-17.75533041,"lon1":177.45314713}
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"TRML INFO"},
+{"type":"GND","freq":118.1,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-17.74810000,"lon":177.44905000,"rng_nm":18,"alt_fmsl":41,"hdg":37.49,"id":"INN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-17.77003900,"lon":177.42972200,"rng_nm":10,"alt_fmsl":59,"id":"INN","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-17.82527800,"lon":177.38722200,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"02","desc":"OM"},
+{"type":"MM","freq":0,"lat":-17.77888900,"lon":177.42416700,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"02","desc":"MM"}
+]
+}

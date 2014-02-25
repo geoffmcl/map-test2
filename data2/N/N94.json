@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N94","name":"Carlisle","lat":40.187914,"lon":-77.174275,"rwys":1,"ils":0,"elev":510,"index":1679499,"path":"w080n40/w078n40"
+,"runways":[
+{"len_m":1221,"wid_m":12.19,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":40.18807500,"lon1":-77.18144200,"rwy2":"28","lat2":40.18775300,"lon2":-77.16710800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.1,"desc":"HARRISBURG APP/DEP"}
+]
+,"ils":[
+]
+}

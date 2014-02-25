@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N69","name":"Stormville","lat":41.576983,"lon":-73.732354,"rwys":1,"ils":0,"elev":358,"index":1745121,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":1011,"wid_m":15.24,"hdg":47,"surf":"Asphalt","rwy1":"06","lat1":41.57388300,"lon1":-73.73679400,"rwy2":"24","lat2":41.58008300,"lon2":-73.72791400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.75,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+]
+}

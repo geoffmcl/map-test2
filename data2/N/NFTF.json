@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NFTF","name":"Fua Amotu Intl","lat":-21.24190806,"lon":-175.14103579,"rwys":2,"ils":0,"elev":126,"index":69942,"path":"w180s30/w176s22"
+,"runways":[
+{"len_m":2732,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"11","lat1":-21.23414900,"lon1":-175.16137349,"rwy2":"29","lat2":-21.24720700,"lon2":-175.13903907},
+{"len_m":1504,"wid_m":59.13,"hdg":182,"surf":"Transparent","rwy1":"17","lat1":-21.23751744,"lon1":-175.13862657,"rwy2":"35","lat2":-21.25109766,"lon2":-175.13923725}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":118.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N06","name":"Laurel","lat":38.5423525,"lon":-75.594082,"rwys":1,"ils":0,"elev":30,"index":1712161,"path":"w080n30/w076n38"
+,"runways":[
+{"len_m":968,"wid_m":82.30,"hdg":136,"surf":"Turf/grass","rwy1":"15","lat1":38.54551100,"lon1":-75.59791100,"rwy2":"33","lat2":38.53919400,"lon2":-75.59025300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.95,"desc":"PATUXENT APP/DEP"}
+]
+,"ils":[
+]
+}

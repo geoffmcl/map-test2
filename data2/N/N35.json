@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N35","name":"Punxsutawney Muni","lat":40.966562,"lon":-78.92958825,"rwys":2,"ils":0,"elev":1439,"index":1663160,"path":"w080n40/w079n40"
+,"runways":[
+{"len_m":915,"wid_m":15.24,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":40.96448100,"lon1":-78.93747800,"rwy2":"24","lat2":40.96898900,"lon2":-78.92837500},
+{"len_m":617,"wid_m":30.48,"hdg":357,"surf":"Gravel","rwy1":"01","lat1":40.96361100,"lon1":-78.92610800,"rwy2":"19","lat2":40.96916700,"lon2":-78.92639200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

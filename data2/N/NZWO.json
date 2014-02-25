@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZWO","name":"Wairoa","lat":-39.011418,"lon":177.404525,"rwys":1,"ils":0,"elev":42,"index":5852345,"path":"e170s40/e177s40"
+,"runways":[
+{"len_m":897,"wid_m":29.87,"hdg":175,"surf":"Asphalt","rwy1":"16","lat1":-39.00738900,"lon1":177.40411100,"rwy2":"34","lat2":-39.01544700,"lon2":177.40493900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":125.6,"desc":"NAPIER TWR"},
+{"type":"TWR","freq":124.8,"desc":"NAPIER TWR"}
+]
+,"ils":[
+]
+}

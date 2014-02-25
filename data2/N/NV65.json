@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NV65","name":"Desert Rock","lat":36.619667,"lon":-116.0324165,"rwys":1,"ils":0,"elev":3314,"index":1040291,"path":"w120n30/w117n36"
+,"runways":[
+{"len_m":2272,"wid_m":30.48,"hdg":33,"surf":"Asphalt","rwy1":"02","lat1":36.61116700,"lon1":-116.03950000,"rwy2":"20","lat2":36.62816700,"lon2":-116.02533300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

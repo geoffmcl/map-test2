@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZCI","name":"Chatham Islands","lat":-43.81615800,"lon":-176.47396900,"rwys":1,"ils":0,"elev":43,"index":52106,"path":"w180s50/w177s44"
+,"runways":[
+{"len_m":1360,"wid_m":45.11,"hdg":72,"surf":"Asphalt","rwy1":"05","lat1":-43.81376100,"lon1":-176.47330800,"rwy2":"23","lat2":-43.81000000,"lon2":-176.45722200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"TWR","freq":118.1,"desc":"RDO"}
+]
+,"ils":[
+]
+}

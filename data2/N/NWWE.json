@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NWWE","name":"Moue","lat":-22.58927400,"lon":167.45037100,"rwys":1,"ils":0,"elev":314,"index":5689561,"path":"e160s30/e167s23"
+,"runways":[
+{"len_m":1099,"wid_m":29.87,"hdg":114,"surf":"Asphalt","rwy1":"10","lat1":-22.58684200,"lon1":167.45108800,"rwy2":"28","lat2":-22.59090800,"lon2":167.46084000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124,"desc":"MOUE UNIC"},
+{"type":"TWR","freq":118.9,"desc":"DES_PINS_IS TWR"},
+{"type":"APP","freq":128.3,"desc":"TONTOUTA APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NWWW","name":"Noumea La Tontouta","lat":-22.01719871,"lon":166.22159093,"rwys":1,"ils":1,"elev":51,"index":5673208,"path":"e160s30/e166s23"
+,"runways":[
+{"len_m":3250,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"11","lat1":-22.00695850,"lon1":166.19953754,"rwy2":"29","lat2":-22.02210034,"lon2":166.22650598}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-22.02326600,"lon":166.22917200,"rng_nm":18,"alt_fmsl":52,"hdg":120.69,"id":"LT","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-22.00806600,"lon":166.20338400,"rng_nm":10,"alt_fmsl":24,"id":"LT","rwy":"11","desc":"GS","gs":3}
+]
+}

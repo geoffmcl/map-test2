@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZWS","name":"Westport","lat":-41.7383335,"lon":171.5795275,"rwys":1,"ils":0,"elev":13,"index":5753874,"path":"e170s50/e171s42"
+,"runways":[
+{"len_m":1269,"wid_m":29.87,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":-41.74166700,"lon1":171.57333300,"rwy2":"22","lat2":-41.73500000,"lon2":171.58572200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"TWR","freq":118.7,"desc":"CHRISTCHURCH FIS"}
+]
+,"ils":[
+]
+}

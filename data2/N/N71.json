@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N71","name":"Donegal Springs Airpark","lat":40.092214,"lon":-76.574371,"rwys":1,"ils":0,"elev":458,"index":1695873,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":990,"wid_m":15.24,"hdg":84,"surf":"Asphalt","rwy1":"10","lat1":40.09180600,"lon1":-76.58015300,"rwy2":"28","lat2":40.09262200,"lon2":-76.56858900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"CLD","freq":127.05,"desc":"HARRISBURG CLNC DEL"},
+{"type":"APP","freq":126.45,"desc":"HARRISBURG APP/DEP"}
+]
+,"ils":[
+]
+}

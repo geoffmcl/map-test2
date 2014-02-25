@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZMC","name":"Mount_cook","lat":-43.76637600,"lon":170.13223300,"rwys":1,"ils":0,"elev":2152,"index":5737352,"path":"e170s50/e170s44"
+,"runways":[
+{"len_m":1500,"wid_m":20.12,"hdg":155,"surf":"Asphalt","rwy1":"13","lat1":-43.76034500,"lon1":170.13107300,"rwy2":"31","lat2":-43.77262600,"lon2":170.13881200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":18.90,"hdg":170,"surf":"Concrete","lat1":-43.76551858,"lon1":170.13176818},
+{"rwy1":"H2","len_m":21,"wid_m":17.98,"hdg":170,"surf":"Concrete","lat1":-43.76538345,"lon1":170.13222841}
+]
+,"radios":[
+{"type":"CTAF","freq":118.6,"desc":"ALPS_TRAFFIC MULT"},
+{"type":"CTAF","freq":131,"desc":"MOUNT_COOK UNIC"},
+{"type":"APP","freq":123.5,"desc":"CHRISTCHURCH APP"}
+]
+,"ils":[
+]
+}

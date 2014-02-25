@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZNV","name":"Invercargill","lat":-46.41482017,"lon":168.32261860,"rwys":4,"ils":0,"elev":15,"index":5704417,"path":"e160s50/e168s47"
+,"runways":[
+{"len_m":2154,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"04","lat1":-46.41882410,"lon1":168.30143521,"rwy2":"22","lat2":-46.41037849,"lon2":168.32665764},
+{"len_m":832,"wid_m":24.99,"hdg":140,"surf":"Turf/grass","rwy1":"12","lat1":-46.41166135,"lon1":168.31449145,"rwy2":"30","lat2":-46.41740953,"lon2":168.32143104},
+{"len_m":710,"wid_m":20.12,"hdg":65,"surf":"Transparent","rwy1":"04R","lat1":-46.41586064,"lon1":168.31464653,"rwy2":"22L","lat2":-46.41318370,"lon2":168.32303243},
+{"len_m":302,"wid_m":20.12,"hdg":90,"surf":"Turf/grass","rwy1":"07","lat1":-46.41347079,"lon1":168.32142648,"rwy2":"25","lat2":-46.41347544,"lon2":168.32535952}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"TWR","freq":122.4,"desc":"TWR"},
+{"type":"APP","freq":118.5,"desc":"APP"},
+{"type":"APP","freq":122.4,"desc":"APP"}
+]
+,"ils":[
+]
+}

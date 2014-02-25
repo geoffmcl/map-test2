@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZDN","name":"Dunedin","lat":-45.92446500,"lon":170.19888300,"rwys":1,"ils":2,"elev":4,"index":5737216,"path":"e170s50/e170s46"
+,"runways":[
+{"len_m":1899,"wid_m":45.72,"hdg":56,"surf":"Asphalt","rwy1":"03","lat1":-45.93392500,"lon1":170.18747200,"rwy2":"21","lat2":-45.92437800,"lon2":170.20778600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"TWR","freq":122.4,"desc":"TWR"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"TWR","freq":129.3,"desc":"CHRISTCHURCH CON"},
+{"type":"APP","freq":120.7,"desc":"APP"},
+{"type":"APP","freq":122.4,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-45.92345300,"lon":170.20934400,"rng_nm":18,"alt_fmsl":4,"hdg":55.45,"id":"IHL","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":-45.93531100,"lon":170.18412200,"rng_nm":18,"alt_fmsl":4,"hdg":236.41,"id":"IDN","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-45.93324400,"lon":170.19165000,"rng_nm":10,"alt_fmsl":4,"id":"IHL","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":-45.92656900,"lon":170.20539200,"rng_nm":10,"alt_fmsl":4,"id":"IDN","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-45.98691900,"lon":170.07610600,"rng_nm":0,"alt_fmsl":4,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":-45.87138300,"lon":170.32015300,"rng_nm":0,"alt_fmsl":4,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":-45.94037800,"lon":170.17334200,"rng_nm":0,"alt_fmsl":4,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":-45.91716700,"lon":170.22314700,"rng_nm":0,"alt_fmsl":4,"id":"----","rwy":"21","desc":"MM"}
+]
+}

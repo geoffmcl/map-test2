@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N03","name":"Cortland Co Chase Fld","lat":42.592646,"lon":-76.2148815,"rwys":1,"ils":0,"elev":1198,"index":1696035,"path":"w080n40/w077n42"
+,"runways":[
+{"len_m":1035,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"06","lat1":42.58942500,"lon1":-76.21944400,"rwy2":"24","lat2":42.59586700,"lon2":-76.21031900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.3,"desc":"ELMIRA APP"},
+{"type":"APP","freq":126.12,"desc":"SYRACUSE APP"},
+{"type":"APP","freq":118.6,"desc":"BINGHAMTON APP"},
+{"type":"DEP","freq":126.12,"desc":"SYRACUSE DEP"}
+]
+,"ils":[
+]
+}

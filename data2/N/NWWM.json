@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NWWM","name":"Noumea Magenta","lat":-22.258278,"lon":166.4728055,"rwys":1,"ils":0,"elev":10,"index":5673193,"path":"e160s30/e166s23"
+,"runways":[
+{"len_m":1260,"wid_m":29.87,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":-22.25258900,"lon1":166.47265300,"rwy2":"35","lat2":-22.26396700,"lon2":166.47295800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+,"ils":[
+]
+}

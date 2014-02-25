@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NTTB","name":"Bora Bora","lat":-16.44584900,"lon":-151.75416700,"rwys":2,"ils":0,"elev":10,"index":463457,"path":"w160s20/w152s17"
+,"runways":[
+{"len_m":1508,"wid_m":21.95,"hdg":124,"surf":"Asphalt","rwy1":"11","lat1":-16.44052500,"lon1":-151.75711400,"rwy2":"29","lat2":-16.44823100,"lon2":-151.74545800},
+{"len_m":914,"wid_m":42.67,"hdg":191,"surf":"Dirt","rwy1":"17","lat1":-16.43913100,"lon1":-151.75736900,"rwy2":"35","lat2":-16.44721900,"lon2":-151.75911700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":134.7,"desc":"TAHITI CON"}
+]
+,"ils":[
+]
+}

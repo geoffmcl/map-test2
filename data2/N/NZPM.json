@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NZPM","name":"Palmerston North","lat":-40.32476800,"lon":175.61474600,"rwys":2,"ils":0,"elev":151,"index":5819498,"path":"e170s50/e175s41"
+,"runways":[
+{"len_m":1900,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"07L","lat1":-40.32138900,"lon1":175.60333300,"rwy2":"25R","lat2":-40.32138900,"lon2":175.62569400},
+{"len_m":609,"wid_m":60.05,"hdg":91,"surf":"Turf/grass","rwy1":"07R","lat1":-40.32048308,"lon1":175.61335842,"rwy2":"25L","lat2":-40.32062892,"lon2":175.62052958}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.7,"desc":"ATIS"},
+{"type":"CTAF","freq":120.6,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"OHAKEA APP"},
+{"type":"APP","freq":128.5,"desc":"OHAKEA APP"},
+{"type":"APP","freq":123.2,"desc":"OHAKEA APP"}
+]
+,"ils":[
+]
+}

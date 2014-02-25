@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NTAA","name":"Faaa","lat":-17.55377100,"lon":-149.61171955,"rwys":1,"ils":1,"elev":5,"index":496155,"path":"w150s20/w150s18"
+,"runways":[
+{"len_m":3448,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":-17.56287817,"lon1":-149.62042540,"rwy2":"22","lat2":-17.54465267,"lon2":-149.59408475}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":-149,"surf":"Asphalt","lat1":-17.55664831,"lon1":-149.61336443}
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"Tahiti Ground"},
+{"type":"TWR","freq":118.1,"desc":"Tahiti Tower"},
+{"type":"APP","freq":121.3,"desc":"Tahiti Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-17.54428900,"lon":-149.59353600,"rng_nm":18,"alt_fmsl":20,"hdg":54.05,"id":"PT","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-17.56035000,"lon":-149.61487500,"rng_nm":10,"alt_fmsl":59,"id":"PT","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":-17.56035000,"lon":-149.61487500,"rng_nm":18,"alt_fmsl":59,"id":"PT","rwy":"04","desc":"DME-ILS"}
+]
+}

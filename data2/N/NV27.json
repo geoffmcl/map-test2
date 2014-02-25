@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"NV27","name":"Circle L Ranch","lat":37.71392775,"lon":-118.08327525,"rwys":2,"ils":0,"elev":4835,"index":1007595,"path":"w120n30/w119n37"
+,"runways":[
+{"len_m":1341,"wid_m":18.29,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":37.70872500,"lon1":-118.08931700,"rwy2":"21","lat2":37.71909400,"lon2":-118.08150600},
+{"len_m":1341,"wid_m":18.29,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":37.71888900,"lon1":-118.08551100,"rwy2":"31","lat2":37.70900300,"lon2":-118.07676700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"N66","name":"Oneonta Muni","lat":42.524767,"lon":-75.0644605,"rwys":1,"ils":1,"elev":1764,"index":1712419,"path":"w080n40/w076n42"
+,"runways":[
+{"len_m":1279,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":42.52063400,"lon1":-75.06988500,"rwy2":"24","lat2":42.52890000,"lon2":-75.05903600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.9,"lat":42.51919700,"lon":-75.07177200,"rng_nm":18,"alt_fmsl":1764,"id":"IOZX","rwy":"24","desc":"LOC"},
+{"type":"OM","freq":0,"lat":42.58466000,"lon":-74.98635300,"rng_nm":0,"alt_fmsl":1573,"id":"----","rwy":"24","desc":"OM"}
+]
+}
