@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPAE","name":"Snohomish Co","lat":47.90907204,"lon":-122.27896241,"rwys":3,"ils":1,"elev":606,"index":942714,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":2865,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"16R","lat1":47.92240709,"lon1":-122.28589454,"rwy2":"34L","lat2":47.89663821,"lon2":-122.28531142},
+{"len_m":1375,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"11","lat1":47.91041400,"lon1":-122.28677200,"rwy2":"29","lat2":47.90179700,"lon2":-122.27356700},
+{"len_m":914,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"16L","lat1":47.90642200,"lon1":-122.27170000,"rwy2":"34R","lat2":47.89820000,"lon2":-122.27160600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":132.95,"desc":"CTAF"},
+{"type":"CLD","freq":126.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"PAINE TWR"},
+{"type":"TWR","freq":132.95,"desc":"PAINE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":47.89274700,"lon":-122.28521900,"rng_nm":18,"alt_fmsl":565,"hdg":179.13,"id":"IPAE","rwy":"16R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":47.91870800,"lon":-122.28712800,"rng_nm":10,"alt_fmsl":562,"id":"IPAE","rwy":"16R","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":48.05277800,"lon":-122.28875000,"rng_nm":0,"alt_fmsl":606,"id":"----","rwy":"16R","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.93161100,"lon":-122.28608300,"rng_nm":0,"alt_fmsl":606,"id":"----","rwy":"16R","desc":"MM"}
+]
+}

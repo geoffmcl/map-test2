@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGSH","name":"Goshen Muni","lat":41.52690125,"lon":-85.79302225,"rwys":2,"ils":0,"elev":827,"index":1548512,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":41.52525800,"lon1":-85.80170000,"rwy2":"27","lat2":41.52542800,"lon2":-85.78344200},
+{"len_m":787,"wid_m":54.86,"hdg":44,"surf":"Turf/grass","rwy1":"05","lat1":41.52592200,"lon1":-85.79676900,"rwy2":"23","lat2":41.53099700,"lon2":-85.79017800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.47,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.25,"desc":"SOUTH BEND CLNC DEL"},
+{"type":"APP","freq":132.05,"desc":"SOUTH BEND APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUBX","name":"Cuba Muni","lat":38.0687765,"lon":-91.4288565,"rwys":1,"ils":0,"elev":1023,"index":1449986,"path":"w100n30/w092n38"
+,"runways":[
+{"len_m":1042,"wid_m":18.29,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":38.07345000,"lon1":-91.42826900,"rwy2":"36","lat2":38.06410300,"lon2":-91.42944400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.4,"desc":"KANSAS CITY CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMZZ","name":"Marion Municipal","lat":40.49160010,"lon":-85.67439124,"rwys":2,"ils":1,"elev":859,"index":1548441,"path":"w090n40/w086n40"
+,"runways":[
+{"len_m":1832,"wid_m":29.87,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":40.48345718,"lon1":-85.68691660,"rwy2":"22","lat2":40.49654699,"lon2":-85.67375728},
+{"len_m":1096,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":40.49394278,"lon1":-85.68189531,"rwy2":"33","lat2":40.48535773,"lon2":-85.67550234}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120,"desc":"CLEARANCE DEL"},
+{"type":"APP","freq":121.05,"desc":"GRISSOM APP"},
+{"type":"DEP","freq":121.05,"desc":"GRISSOM DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":40.49935000,"lon":-85.67092800,"rng_nm":18,"alt_fmsl":857,"hdg":37.42,"id":"IMZZ","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":40.48846700,"lon":-85.68461900,"rng_nm":10,"alt_fmsl":857,"id":"IMZZ","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.40323300,"lon":-85.76753300,"rng_nm":0,"alt_fmsl":859,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.47915000,"lon":-85.69133900,"rng_nm":0,"alt_fmsl":859,"id":"----","rwy":"04","desc":"MM"}
+]
+}

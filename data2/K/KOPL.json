@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOPL","name":"St Landry Parish Ahart Fld","lat":30.5572028333333,"lon":-92.0996123333333,"rwys":3,"ils":0,"elev":75,"index":1433123,"path":"w100n30/w093n30"
+,"runways":[
+{"len_m":1782,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":30.56796900,"lon1":-92.09887200,"rwy2":"36","lat2":30.55188900,"lon2":-92.09892200},
+{"len_m":1377,"wid_m":30.48,"hdg":119,"surf":"Concrete","rwy1":"11","lat1":30.55888900,"lon1":-92.10611100,"rwy2":"29","lat2":30.55277800,"lon2":-92.09361400},
+{"len_m":1234,"wid_m":30.48,"hdg":60,"surf":"Concrete","rwy1":"05","lat1":30.55307500,"lon1":-92.10565800,"rwy2":"23","lat2":30.55861700,"lon2":-92.09449700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.7,"desc":"LAFAYETTE APP/DEP"}
+]
+,"ils":[
+]
+}

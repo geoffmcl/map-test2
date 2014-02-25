@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPOY","name":"Powell Muni","lat":44.86722650,"lon":-108.78825037,"rwys":3,"ils":0,"elev":5092,"index":1171888,"path":"w110n40/w109n44"
+,"runways":[
+{"len_m":1888,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":44.87600518,"lon1":-108.79921481,"rwy2":"31","lat2":44.86213182,"lon2":-108.78540602},
+{"len_m":862,"wid_m":29.87,"hdg":180,"surf":"Turf/grass","rwy1":"16","lat1":44.86969570,"lon1":-108.79446348,"rwy2":"34","lat2":44.86193653,"lon2":-108.79461635},
+{"len_m":839,"wid_m":29.87,"hdg":45,"surf":"Turf/grass","rwy1":"03","lat1":44.86197373,"lon1":-108.79959023,"rwy2":"21","lat2":44.86730797,"lon2":-108.79206422}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

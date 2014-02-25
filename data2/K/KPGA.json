@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPGA","name":"Page Muni","lat":36.92717625,"lon":-111.44881525,"rwys":2,"ils":0,"elev":4313,"index":1122234,"path":"w120n30/w112n36"
+,"runways":[
+{"len_m":1812,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"15","lat1":36.93281900,"lon1":-111.44956400,"rwy2":"33","lat2":36.91672500,"lon2":-111.44611100},
+{"len_m":670,"wid_m":30.48,"hdg":82,"surf":"Asphalt","rwy1":"07","lat1":36.92916700,"lon1":-111.45352200,"rwy2":"25","lat2":36.92999400,"lon2":-111.44606400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

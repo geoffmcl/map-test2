@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLRY","name":"Lawrence Smith Mem","lat":38.6102015,"lon":-94.343528,"rwys":1,"ils":0,"elev":915,"index":1400866,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":38.61568600,"lon1":-94.34387500,"rwy2":"35","lat2":38.60471700,"lon2":-94.34318100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.55,"desc":"KANSAS CITY CNTR"}
+]
+,"ils":[
+]
+}

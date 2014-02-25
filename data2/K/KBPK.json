@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBPK","name":"Ozark Rgnl","lat":36.368942,"lon":-92.4705265,"rwys":1,"ils":1,"elev":928,"index":1433490,"path":"w100n30/w093n36"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":36.36469200,"lon1":-92.47719700,"rwy2":"23","lat2":36.37319200,"lon2":-92.46385600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.97,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.95,"lat":36.37424400,"lon":-92.46220300,"rng_nm":18,"alt_fmsl":921,"hdg":51.66,"id":"IBPK","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.95,"lat":36.36655800,"lon":-92.47488600,"rng_nm":10,"alt_fmsl":919,"id":"IBPK","rwy":"05","desc":"GS","gs":3},
+{"type":"DME","freq":111.95,"lat":36.37337500,"lon":-92.46182500,"rng_nm":18,"alt_fmsl":928,"id":"IBPK","rwy":"05","desc":"DME-ILS"}
+]
+}

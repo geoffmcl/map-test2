@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCGF","name":"Cuyahoga Co","lat":41.56118376,"lon":-81.48483691,"rwys":1,"ils":1,"elev":879,"index":1614050,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1555,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":41.56057500,"lon1":-81.49344201,"rwy2":"24","lat2":41.56967200,"lon2":-81.47926901}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.85,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.5,"desc":"COUNTY TWR"},
+{"type":"APP","freq":125.35,"desc":"CLEVELAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":41.55879400,"lon":-81.49621700,"rng_nm":18,"alt_fmsl":871,"hdg":229.38,"id":"ICGF","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":41.56689200,"lon":-81.48162500,"rng_nm":10,"alt_fmsl":869,"id":"ICGF","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.61463300,"lon":-81.40952200,"rng_nm":0,"alt_fmsl":879,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.57411700,"lon":-81.47121900,"rng_nm":0,"alt_fmsl":870,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":41.55831100,"lon":-81.49586900,"rng_nm":18,"alt_fmsl":891,"id":"ICGF","rwy":"24","desc":"DME-ILS"}
+]
+}

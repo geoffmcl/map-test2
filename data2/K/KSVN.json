@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSVN","name":"Hunter Aaf","lat":32.010018,"lon":-81.1459875,"rwys":1,"ils":1,"elev":42,"index":1613443,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":3467,"wid_m":60.96,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":32.01061400,"lon1":-81.16432200,"rwy2":"28","lat2":32.00942200,"lon2":-81.12765300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":133.55,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":133.55,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"SAVANNAH APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"SAVANNAH APP/DEP"},
+{"type":"APP","freq":125.3,"desc":"SAVANNAH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":32.01076100,"lon":-81.16866700,"rng_nm":18,"alt_fmsl":42,"hdg":272.19,"id":"ISVN","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":32.00842500,"lon":-81.13078100,"rng_nm":10,"alt_fmsl":42,"id":"ISVN","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.00901900,"lon":-80.98661900,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.00911900,"lon":-81.11559400,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"28","desc":"MM"}
+]
+}

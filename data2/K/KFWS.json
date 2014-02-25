@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFWS","name":"Ft. Worth Spinks","lat":32.56572003,"lon":-97.31243213,"rwys":2,"ils":1,"elev":700,"index":1351330,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1829,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":32.57251400,"lon1":-97.30965600,"rwy2":"35L","lat2":32.55601700,"lon2":-97.30969200},
+{"len_m":1219,"wid_m":17.98,"hdg":180,"surf":"Turf/grass","rwy1":"17L","lat1":32.57223986,"lon1":-97.30648676,"rwy2":"35R","lat2":32.56123986,"lon2":-97.30648676}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.62,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"GND","freq":119.47,"desc":"GND"},
+{"type":"TWR","freq":124.62,"desc":"TWR"},
+{"type":"APP","freq":135.97,"desc":"REGIONAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":32.57526900,"lon":-97.30965000,"rng_nm":18,"alt_fmsl":700,"hdg":0.11,"id":"IJZW","rwy":"35L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":32.55848600,"lon":-97.30806700,"rng_nm":10,"alt_fmsl":692,"id":"IJZW","rwy":"35L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.47644400,"lon":-97.31029200,"rng_nm":0,"alt_fmsl":700,"id":"----","rwy":"35L","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.54805600,"lon":-97.30971100,"rng_nm":0,"alt_fmsl":700,"id":"----","rwy":"35L","desc":"MM"}
+]
+}

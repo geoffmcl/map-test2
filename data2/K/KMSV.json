@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMSV","name":"Sullivan Co Intl","lat":41.70165,"lon":-74.795014,"rwys":1,"ils":1,"elev":1403,"index":1728744,"path":"w080n40/w075n41"
+,"runways":[
+{"len_m":1919,"wid_m":45.72,"hdg":142,"surf":"Asphalt","rwy1":"15","lat1":41.70854700,"lon1":-74.80196400,"rwy2":"33","lat2":41.69475300,"lon2":-74.78806400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":132.75,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":41.69408300,"lon":-74.78739200,"rng_nm":18,"alt_fmsl":1403,"hdg":143.05,"id":"IMSV","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":41.70568100,"lon":-74.80045600,"rng_nm":10,"alt_fmsl":1403,"id":"IMSV","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.76664400,"lon":-74.86080200,"rng_nm":0,"alt_fmsl":1330,"id":"----","rwy":"15","desc":"OM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHUA","name":"Redstone Aaf","lat":34.6786555,"lon":-86.684782,"rwys":1,"ils":0,"elev":685,"index":1531689,"path":"w090n30/w087n34"
+,"runways":[
+{"len_m":2225,"wid_m":45.72,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":34.68851700,"lon1":-86.68699700,"rwy2":"35","lat2":34.66879400,"lon2":-86.68256700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.95,"desc":"CTAF"},
+{"type":"TWR","freq":126.95,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"GCA"},
+{"type":"APP","freq":118.05,"desc":"HUNTSVILLE APP/DEP"},
+{"type":"APP","freq":125.6,"desc":"HUNTSVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFYE","name":"Fayette County","lat":35.2077055,"lon":-89.394458,"rwys":1,"ils":0,"elev":436,"index":1482570,"path":"w090n30/w090n35"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":35.20090000,"lon1":-89.39559400,"rwy2":"19","lat2":35.21451100,"lon2":-89.39332200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.8,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.15,"desc":"MEMPHIS DEP"}
+]
+,"ils":[
+]
+}

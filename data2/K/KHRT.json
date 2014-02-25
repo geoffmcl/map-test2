@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHRT","name":"Hurlburt Fld","lat":30.428918,"lon":-86.6888015,"rwys":1,"ils":1,"elev":38,"index":1531417,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":2926,"wid_m":45.72,"hdg":175,"surf":"Concrete","rwy1":"18","lat1":30.44208300,"lon1":-86.68987200,"rwy2":"36","lat2":30.41575300,"lon2":-86.68773100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":123.97,"desc":"GND"},
+{"type":"TWR","freq":126.5,"desc":"TWR"},
+{"type":"APP","freq":133,"desc":"EGLIN APP"},
+{"type":"APP","freq":125.1,"desc":"EGLIN APP"},
+{"type":"APP","freq":132.1,"desc":"EGLIN APP"},
+{"type":"DEP","freq":132.1,"desc":"EGLIN DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":30.44496900,"lon":-86.69010600,"rng_nm":18,"alt_fmsl":35,"hdg":355.99,"id":"IHRT","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":30.41908100,"lon":-86.68641400,"rng_nm":10,"alt_fmsl":38,"id":"IHRT","rwy":"36","desc":"GS","gs":2.5}
+]
+}

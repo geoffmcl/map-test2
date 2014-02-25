@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLVL","name":"Lawrenceville Brunswick Muni","lat":36.77242325,"lon":-77.79445625,"rwys":2,"ils":0,"elev":329,"index":1679280,"path":"w080n30/w078n36"
+,"runways":[
+{"len_m":920,"wid_m":15.24,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":36.77874200,"lon1":-77.79445600,"rwy2":"36","lat2":36.77051800,"lon2":-77.79310800},
+{"len_m":576,"wid_m":21.34,"hdg":56,"surf":"Dirt","rwy1":"06","lat1":36.76879700,"lon1":-77.79783300,"rwy2":"24","lat2":36.77163600,"lon2":-77.79242800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

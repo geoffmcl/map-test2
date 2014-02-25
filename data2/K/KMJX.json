@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMJX","name":"Robert J Miller Air Park","lat":39.92726861,"lon":-74.29730812,"rwys":1,"ils":1,"elev":82,"index":1728634,"path":"w080n30/w075n39"
+,"runways":[
+{"len_m":1812,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":39.92223300,"lon1":-74.30048300,"rwy2":"24","lat2":39.93276100,"lon2":-74.28427200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":-74,"surf":"Concrete","lat1":39.92625128,"lon1":-74.29722936}
+]
+,"radios":[
+{"type":"ATIS","freq":119.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":39.93365000,"lon":-74.28290000,"rng_nm":18,"alt_fmsl":82,"hdg":49.75,"id":"IMJX","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":39.92342800,"lon":-74.29712800,"rng_nm":10,"alt_fmsl":82,"id":"IMJX","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.87320000,"lon":-74.37589700,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.91781100,"lon":-74.30731100,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"06","desc":"MM"}
+]
+}

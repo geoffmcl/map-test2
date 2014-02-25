@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDRT","name":"Del Rio Intl","lat":29.37383100,"lon":-100.92585800,"rwys":1,"ils":1,"elev":999,"index":1301968,"path":"w110n20/w101n29"
+,"runways":[
+{"len_m":1920,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":29.38086400,"lon1":-100.93348300,"rwy2":"31","lat2":29.36755000,"lon2":-100.92083100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.72,"hdg":-100,"surf":"Concrete","lat1":29.36878339,"lon1":-100.91893600},
+{"rwy1":"H2","len_m":13,"wid_m":13.72,"hdg":-100,"surf":"Concrete","lat1":29.36857722,"lon1":-100.91922500}
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.5,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":29.36545300,"lon":-100.91883600,"rng_nm":18,"alt_fmsl":985,"id":"IDRT","rwy":"13","desc":"LOC"},
+{"type":"OM","freq":0,"lat":29.44269400,"lon":-100.99227500,"rng_nm":0,"alt_fmsl":1149,"id":"----","rwy":"13","desc":"OM"},
+{"type":"DME","freq":111.9,"lat":29.36498300,"lon":-100.91947500,"rng_nm":18,"alt_fmsl":994,"id":"IDRT","rwy":"13","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCSV","name":"Crossville Mem Whitson Fld","lat":35.95129,"lon":-85.0849765,"rwys":1,"ils":1,"elev":1880,"index":1548155,"path":"w090n30/w086n35"
+,"runways":[
+{"len_m":1651,"wid_m":30.48,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":35.94917200,"lon1":-85.09375000,"rwy2":"26","lat2":35.95340800,"lon2":-85.07620300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":35.94876400,"lon":-85.09545000,"rng_nm":18,"alt_fmsl":1858,"hdg":253.40,"id":"ICSV","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":35.95171400,"lon":-85.07937200,"rng_nm":10,"alt_fmsl":1866,"id":"ICSV","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.97818600,"lon":-84.97471400,"rng_nm":0,"alt_fmsl":1880,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.95584400,"lon":-85.06640300,"rng_nm":0,"alt_fmsl":1880,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAPN","name":"Alpena Co Rgnl","lat":45.07839225,"lon":-83.55986175,"rwys":2,"ils":1,"elev":689,"index":1581505,"path":"w090n40/w084n45"
+,"runways":[
+{"len_m":2743,"wid_m":46.02,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":45.06493900,"lon1":-83.56137200,"rwy2":"19","lat2":45.08962500,"lon2":-83.56149200},
+{"len_m":1533,"wid_m":29.87,"hdg":59,"surf":"Concrete","rwy1":"07","lat1":45.07603300,"lon1":-83.56670800,"rwy2":"25","lat2":45.08297200,"lon2":-83.54987500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":121.35,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.35,"desc":"TWR"},
+{"type":"APP","freq":128.42,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":45.09241700,"lon":-83.56150600,"rng_nm":18,"alt_fmsl":689,"hdg":359.80,"id":"IAPN","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":45.06757500,"lon":-83.55983600,"rng_nm":10,"alt_fmsl":685,"id":"IAPN","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.96074400,"lon":-83.55999400,"rng_nm":0,"alt_fmsl":750,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.05753900,"lon":-83.56134200,"rng_nm":0,"alt_fmsl":689,"id":"----","rwy":"01","desc":"MM"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJEF","name":"Jefferson City Mem","lat":38.59451300,"lon":-92.15673800,"rwys":2,"ils":1,"elev":549,"index":1433635,"path":"w100n30/w093n38"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":38.59573600,"lon1":-92.16384400,"rwy2":"30","lat2":38.58687800,"lon2":-92.14614400},
+{"len_m":1036,"wid_m":22.86,"hdg":91,"surf":"Concrete","rwy1":"09","lat1":38.59102800,"lon1":-92.16411900,"rwy2":"27","lat2":38.59085000,"lon2":-92.15222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"TWR"},
+{"type":"APP","freq":124.37,"desc":"MIZZU APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":38.59648600,"lon":-92.16534700,"rng_nm":18,"alt_fmsl":549,"hdg":302.62,"id":"IJEF","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":38.58915000,"lon":-92.14841100,"rng_nm":10,"alt_fmsl":549,"id":"IJEF","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.54800000,"lon":-92.07169200,"rng_nm":0,"alt_fmsl":602,"id":"----","rwy":"30","desc":"OM"},
+{"type":"DME","freq":110.5,"lat":38.59614400,"lon":-92.16606900,"rng_nm":18,"alt_fmsl":559,"id":"IJEF","rwy":"30","desc":"DME-ILS"}
+]
+}

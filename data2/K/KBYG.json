@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBYG","name":"Johnson Co","lat":44.37787233,"lon":-106.71590316,"rwys":1,"ils":0,"elev":4968,"index":1204633,"path":"w110n40/w107n44"
+,"runways":[
+{"len_m":1869,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":44.38731968,"lon1":-106.72974297,"rwy2":"31","lat2":44.37479532,"lon2":-106.71407486}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

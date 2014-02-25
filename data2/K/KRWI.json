@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRWI","name":"Rocky Mount Wilson Rgnl","lat":35.8562515,"lon":-77.891935,"rwys":1,"ils":1,"elev":159,"index":1679216,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":2164,"wid_m":45.72,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":35.84810000,"lon1":-77.89851400,"rwy2":"22","lat2":35.86440300,"lon2":-77.88535600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":122.3,"desc":"CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":35.86600800,"lon":-77.88406100,"rng_nm":18,"alt_fmsl":159,"hdg":33.19,"id":"IRWI","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":35.85013600,"lon":-77.89525300,"rng_nm":10,"alt_fmsl":151,"id":"IRWI","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.76750800,"lon":-77.96458300,"rng_nm":0,"alt_fmsl":159,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.84021100,"lon":-77.90486900,"rng_nm":0,"alt_fmsl":159,"id":"----","rwy":"04","desc":"MM"}
+]
+}

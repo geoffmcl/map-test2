@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDHT","name":"Dalhart Muni","lat":36.02260125,"lon":-102.547334,"rwys":2,"ils":0,"elev":3991,"index":1269633,"path":"w110n30/w103n36"
+,"runways":[
+{"len_m":1950,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":36.03112200,"lon1":-102.54640800,"rwy2":"35","lat2":36.01354400,"lon2":-102.54636700},
+{"len_m":1727,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":36.01735000,"lon1":-102.55503900,"rwy2":"21","lat2":36.02838900,"lon2":-102.54152200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

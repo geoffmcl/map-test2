@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHGR","name":"Hagerstown Rgnl Richard A Henson Fld","lat":39.7081048,"lon":-77.7273002533333,"rwys":2,"ils":1,"elev":704,"index":1679465,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":2140,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"09","lat1":39.70671590,"lon1":-77.74038299,"rwy2":"27","lat2":39.70989827,"lon2":-77.71576966},
+{"len_m":962,"wid_m":29.87,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":39.70420748,"lon1":-77.72877149,"rwy2":"20","lat2":39.71258752,"lon2":-77.72589233}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":25,"wid_m":27.13,"hdg":-77,"surf":"Concrete","lat1":39.70760981,"lon1":-77.72649252}
+]
+,"radios":[
+{"type":"ATIS","freq":126.37,"desc":"ASOS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.8,"desc":"GND"},
+{"type":"TWR","freq":120.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":39.70614200,"lon":-77.74471700,"rng_nm":18,"alt_fmsl":648,"hdg":260.42,"id":"IHGR","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":39.70925000,"lon":-77.72604400,"rng_nm":10,"alt_fmsl":695,"id":"IHGR","rwy":"27","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":39.71012200,"lon":-77.71385000,"rng_nm":0,"alt_fmsl":704,"id":"----","rwy":"27","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":39.70557500,"lon":-77.74458600,"rng_nm":18,"alt_fmsl":660,"id":"IHGR","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFXY","name":"Forest City Muni","lat":43.23550625,"lon":-93.62512,"rwys":2,"ils":0,"elev":1230,"index":1417545,"path":"w100n40/w094n43"
+,"runways":[
+{"len_m":1769,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":43.24063100,"lon1":-93.62693600,"rwy2":"33","lat2":43.22621100,"lon2":-93.61767800},
+{"len_m":825,"wid_m":18.29,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":43.23789400,"lon1":-93.63299700,"rwy2":"27","lat2":43.23728900,"lon2":-93.62286900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,34 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRIC","name":"Richmond Intl","lat":37.51349300,"lon":-77.33246600,"rwys":3,"ils":2,"elev":167,"index":1679330,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":2748,"wid_m":46.02,"hdg":147,"surf":"Asphalt","rwy1":"16","lat1":37.51663951,"lon1":-77.32357755,"rwy2":"34","lat2":37.49574249,"lon2":-77.30689245},
+{"len_m":2013,"wid_m":46.02,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":37.49887588,"lon1":-77.32965869,"rwy2":"20","lat2":37.51652212,"lon2":-77.32436331},
+{"len_m":1620,"wid_m":29.87,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":37.49636728,"lon1":-77.32581453,"rwy2":"25","lat2":37.50421872,"lon2":-77.31036347}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.15,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.1,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":126.4,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":126.8,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":134.7,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.51972000,"lon":-77.32339200,"rng_nm":18,"alt_fmsl":164,"hdg":13.42,"id":"IEZD","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":37.49337200,"lon":-77.30494400,"rng_nm":18,"alt_fmsl":167,"hdg":147.58,"id":"IRGJ","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":37.51906700,"lon":-77.32552200,"rng_nm":18,"alt_fmsl":164,"hdg":327.64,"id":"IBNE","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.50122500,"lon":-77.32753300,"rng_nm":10,"alt_fmsl":152,"id":"IEZD","rwy":"02","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":37.51482800,"lon":-77.32040800,"rng_nm":10,"alt_fmsl":156,"id":"IRGJ","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":37.49774400,"lon":-77.31028900,"rng_nm":10,"alt_fmsl":162,"id":"IBNE","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.61344200,"lon":-77.40127200,"rng_nm":0,"alt_fmsl":167,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":37.43120300,"lon":-77.25544400,"rng_nm":0,"alt_fmsl":167,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.52409400,"lon":-77.32956700,"rng_nm":0,"alt_fmsl":167,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":37.48999400,"lon":-77.30211100,"rng_nm":0,"alt_fmsl":167,"id":"----","rwy":"34","desc":"MM"},
+{"type":"IM","freq":0,"lat":37.49416700,"lon":-77.30510800,"rng_nm":0,"alt_fmsl":167,"id":"----","rwy":"34","desc":"IM"}
+]
+}

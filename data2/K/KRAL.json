@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRAL","name":"Riverside Muni","lat":33.94980558,"lon":-117.43999039,"rwys":2,"ils":1,"elev":818,"index":1023738,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":1645,"wid_m":29.87,"hdg":103,"surf":"Asphalt","rwy1":"09","lat1":33.95388975,"lon1":-117.45197169,"rwy2":"27","lat2":33.95053625,"lon2":-117.43462631},
+{"len_m":868,"wid_m":14.94,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":33.95515756,"lon1":-117.44864077,"rwy2":"34","lat2":33.94732604,"lon2":-117.44840509}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":-117,"surf":"Concrete","lat1":33.95173914,"lon1":-117.44758789}
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":121,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":135.4,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":33.94991700,"lon":-117.43141400,"rng_nm":18,"alt_fmsl":828,"hdg":103.12,"id":"IRAL","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":33.95425600,"lon":-117.44950000,"rng_nm":10,"alt_fmsl":764,"id":"IRAL","rwy":"09","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":33.95622500,"lon":-117.46406900,"rng_nm":0,"alt_fmsl":818,"id":"----","rwy":"09","desc":"MM"}
+]
+}

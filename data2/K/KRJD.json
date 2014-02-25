@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRJD","name":"Ridgely Airpark","lat":38.9706795,"lon":-75.8685045,"rwys":1,"ils":0,"elev":64,"index":1712184,"path":"w080n30/w076n38"
+,"runways":[
+{"len_m":979,"wid_m":15.24,"hdg":109,"surf":"Asphalt","rwy1":"12","lat1":38.97213100,"lon1":-75.87384200,"rwy2":"30","lat2":38.96922800,"lon2":-75.86316700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.55,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":132.42,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

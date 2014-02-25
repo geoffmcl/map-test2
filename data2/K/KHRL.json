@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHRL","name":"Valley Intl","lat":26.22644916,"lon":-97.66152098,"rwys":3,"ils":1,"elev":36,"index":1350921,"path":"w100n20/w098n26"
+,"runways":[
+{"len_m":2530,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":26.24038300,"lon1":-97.65857200,"rwy2":"35L","lat2":26.21754700,"lon2":-97.65885300},
+{"len_m":1813,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17L","lat1":26.23395300,"lon1":-97.64869200,"rwy2":"35R","lat2":26.21758600,"lon2":-97.64889400},
+{"len_m":2211,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":26.23318300,"lon1":-97.66396700,"rwy2":"31","lat2":26.21891100,"lon2":-97.64848900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":26.21369400,"lon":-97.65890000,"rng_nm":18,"alt_fmsl":36,"hdg":180.63,"id":"IHRL","rwy":"17R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":26.23748300,"lon":-97.65738300,"rng_nm":10,"alt_fmsl":34,"id":"IHRL","rwy":"17R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.30523300,"lon":-97.65781400,"rng_nm":0,"alt_fmsl":35,"id":"----","rwy":"17R","desc":"OM"},
+{"type":"DME","freq":111.5,"lat":26.21351100,"lon":-97.65959700,"rng_nm":18,"alt_fmsl":36,"id":"IHRL","rwy":"17R","desc":"DME-ILS"}
+]
+}

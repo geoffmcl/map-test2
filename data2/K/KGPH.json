@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGPH","name":"Clay County Rgnl","lat":39.3325085,"lon":-94.3096475,"rwys":1,"ils":0,"elev":777,"index":1400914,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":39.34000300,"lon1":-94.30844200,"rwy2":"36","lat2":39.32501400,"lon2":-94.31085300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.2,"desc":"KANAS CITY"},
+{"type":"APP","freq":119,"desc":"KANSAS CITY APP/DEP"}
+]
+,"ils":[
+]
+}

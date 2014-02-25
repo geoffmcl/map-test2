@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHFF","name":"Mackall Aaf","lat":35.0365518333333,"lon":-79.4974,"rwys":3,"ils":0,"elev":376,"index":1646402,"path":"w080n30/w080n35"
+,"runways":[
+{"len_m":1522,"wid_m":45.72,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":35.03430300,"lon1":-79.50629400,"rwy2":"22","lat2":35.04551400,"lon2":-79.49666700},
+{"len_m":1481,"wid_m":45.72,"hdg":163,"surf":"Concrete","rwy1":"16","lat1":35.04472500,"lon1":-79.49500300,"rwy2":"34","lat2":35.03194400,"lon2":-79.49028100},
+{"len_m":1444,"wid_m":45.72,"hdg":109,"surf":"Concrete","rwy1":"11","lat1":35.03356100,"lon1":-79.50554700,"rwy2":"29","lat2":35.02926400,"lon2":-79.49060800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":128.35,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":127.8,"desc":"FAYETTEVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

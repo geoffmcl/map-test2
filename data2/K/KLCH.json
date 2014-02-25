@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLCH","name":"Lake Charles Rgnl","lat":30.12481871,"lon":-93.22160078,"rwys":2,"ils":1,"elev":15,"index":1416707,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":30.12872800,"lon1":-93.22791900,"rwy2":"33","lat2":30.11257200,"lon2":-93.21913100},
+{"len_m":1585,"wid_m":29.87,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":30.12850600,"lon1":-93.22974200,"rwy2":"23","lat2":30.13732800,"lon2":-93.21679700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.75,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"APP/DEP"},
+{"type":"APP","freq":119.75,"desc":"APP/DEP"},
+{"type":"APP","freq":119.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":30.10916400,"lon":-93.21728100,"rng_nm":18,"alt_fmsl":15,"hdg":154.81,"id":"ILCH","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":30.12566400,"lon":-93.22773600,"rng_nm":10,"alt_fmsl":12,"id":"ILCH","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.19306900,"lon":-93.26312800,"rng_nm":0,"alt_fmsl":15,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.13565300,"lon":-93.23168100,"rng_nm":0,"alt_fmsl":15,"id":"----","rwy":"15","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":30.10948900,"lon":-93.21639700,"rng_nm":18,"alt_fmsl":15,"id":"ILCH","rwy":"15","desc":"DME-ILS"}
+]
+}

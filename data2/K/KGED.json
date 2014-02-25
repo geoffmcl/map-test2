@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGED","name":"Sussex Co","lat":38.687132365,"lon":-75.358397275,"rwys":2,"ils":0,"elev":50,"index":1712170,"path":"w080n30/w076n38"
+,"runways":[
+{"len_m":1523,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":38.68405800,"lon1":-75.36486400,"rwy2":"22","lat2":38.69558100,"lon2":-75.35534700},
+{"len_m":950,"wid_m":22.86,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":38.68465352,"lon1":-75.36214487,"rwy2":"28","lat2":38.68423694,"lon2":-75.35123323}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.42,"desc":"DOVER APP/DEP"}
+]
+,"ils":[
+]
+}

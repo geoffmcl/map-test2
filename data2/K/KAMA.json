@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAMA","name":"Rick Husband Amarillo Intl","lat":35.23172255,"lon":-101.70634669,"rwys":2,"ils":2,"elev":3607,"index":1285961,"path":"w110n30/w102n35"
+,"runways":[
+{"len_m":4114,"wid_m":60.96,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":35.20512032,"lon1":-101.73270087,"rwy2":"22","lat2":35.23088768,"lon2":-101.70019913},
+{"len_m":2408,"wid_m":46.02,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":35.22969368,"lon1":-101.69689048,"rwy2":"31","lat2":35.21370032,"lon2":-101.67900752}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.15,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":35.23480600,"lon":-101.69525800,"rng_nm":18,"alt_fmsl":3607,"hdg":45.87,"id":"IAMA","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":35.22000300,"lon":-101.71108900,"rng_nm":18,"alt_fmsl":3600,"hdg":221.41,"id":"IRIQ","rwy":"22","desc":"LDA-GS"},
+{"type":"GS","freq":110.3,"lat":35.20623600,"lon":-101.72912200,"rng_nm":10,"alt_fmsl":3599,"id":"IAMA","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":35.22964400,"lon":-101.70418100,"rng_nm":10,"alt_fmsl":3601,"id":"IRIQ","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.14646700,"lon":-101.80548600,"rng_nm":0,"alt_fmsl":3607,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.20001900,"lon":-101.73928900,"rng_nm":0,"alt_fmsl":3607,"id":"----","rwy":"04","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":35.21979700,"lon":-101.71135000,"rng_nm":18,"alt_fmsl":3616,"id":"IRIQ","rwy":"22","desc":"DME-ILS"}
+]
+}

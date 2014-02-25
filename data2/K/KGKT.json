@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGKT","name":"Gatlinburg Pigeon Forge","lat":35.85895200,"lon":-83.52761800,"rwys":1,"ils":0,"elev":1014,"index":1580913,"path":"w090n30/w084n35"
+,"runways":[
+{"len_m":1678,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":35.85891831,"lon1":-83.53788354,"rwy2":"28","lat2":35.85660369,"lon2":-83.51952046}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.8,"desc":"KNOXVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

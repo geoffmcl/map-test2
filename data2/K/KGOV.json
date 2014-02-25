@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGOV","name":"Grayling Aaf","lat":44.68033275,"lon":-84.72881175,"rwys":2,"ils":0,"elev":1158,"index":1565097,"path":"w090n40/w085n44"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":46,"surf":"Concrete","rwy1":"05","lat1":44.67918300,"lon1":-84.73483300,"rwy2":"23","lat2":44.68868900,"lon2":-84.72097800},
+{"len_m":1526,"wid_m":45.72,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":44.68167800,"lon1":-84.73639400,"rwy2":"32","lat2":44.67178100,"lon2":-84.72304200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":132.9,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

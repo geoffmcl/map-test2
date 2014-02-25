@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBUR","name":"Bob Hope","lat":34.19981625,"lon":-118.35444844,"rwys":2,"ils":1,"elev":778,"index":1007370,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":1781,"wid_m":46.02,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":34.19791068,"lon1":-118.36926588,"rwy2":"26","lat2":34.19765217,"lon2":-118.34993515},
+{"len_m":2116,"wid_m":46.02,"hdg":167,"surf":"Asphalt","rwy1":"15","lat1":34.21246779,"lon1":-118.36050472,"rwy2":"33","lat2":34.19387016,"lon2":-118.35536399}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.5,"desc":"ATIS"},
+{"type":"ATIS","freq":135.12,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":132.32,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":124.6,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":134.2,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":135.05,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":34.19795000,"lon":-118.37247500,"rng_nm":18,"alt_fmsl":726,"hdg":90.84,"id":"IBUR","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":34.19868300,"lon":-118.36506700,"rng_nm":10,"alt_fmsl":720,"id":"IBUR","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.19959400,"lon":-118.49108600,"rng_nm":0,"alt_fmsl":778,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.19801900,"lon":-118.37785800,"rng_nm":0,"alt_fmsl":720,"id":"----","rwy":"08","desc":"MM"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBFF","name":"Western Neb Rgnl William B Heilig Fld","lat":41.874016125,"lon":-103.59565086,"rwys":2,"ils":1,"elev":3967,"index":1253617,"path":"w110n40/w104n41"
+,"runways":[
+{"len_m":2531,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":41.88229424,"lon1":-103.60496131,"rwy2":"30","lat2":41.86601376,"lon2":-103.58362477},
+{"len_m":2440,"wid_m":46.02,"hdg":68,"surf":"Asphalt","rwy1":"05","lat1":41.86977850,"lon1":-103.61064737,"rwy2":"23","lat2":41.87797800,"lon2":-103.58337000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":41.88426400,"lon":-103.60755000,"rng_nm":18,"alt_fmsl":3932,"hdg":315.68,"id":"IBFF","rwy":"30","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.3,"lat":41.86390000,"lon":-103.58086100,"rng_nm":18,"alt_fmsl":3939,"id":"IRMT","rwy":"12","desc":"LOC"},
+{"type":"GS","freq":109.3,"lat":41.86873100,"lon":-103.58513600,"rng_nm":10,"alt_fmsl":3944,"id":"IBFF","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.80274700,"lon":-103.49888600,"rng_nm":0,"alt_fmsl":3967,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.86050000,"lon":-103.57635600,"rng_nm":0,"alt_fmsl":3967,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":41.88417800,"lon":-103.60775800,"rng_nm":18,"alt_fmsl":3932,"id":"IRMT","rwy":"12","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":41.88417800,"lon":-103.60775800,"rng_nm":18,"alt_fmsl":3961,"id":"IBFF","rwy":"30","desc":"DME-ILS"}
+]
+}

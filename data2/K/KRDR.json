@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRDR","name":"Grand Forks Afb","lat":47.961279,"lon":-97.400811,"rwys":1,"ils":2,"elev":913,"index":1352314,"path":"w100n40/w098n47"
+,"runways":[
+{"len_m":3764,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":47.97820800,"lon1":-97.40081100,"rwy2":"35","lat2":47.94435000,"lon2":-97.40081100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.15,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.15,"desc":"GND"},
+{"type":"TWR","freq":124.9,"desc":"RED RIVER TWR"},
+{"type":"APP","freq":118.1,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":47.93891700,"lon":-97.40080600,"rng_nm":18,"alt_fmsl":910,"hdg":180.00,"id":"IAVA","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":47.98203600,"lon":-97.40080800,"rng_nm":18,"alt_fmsl":902,"hdg":0.00,"id":"IRDR","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":47.97526700,"lon":-97.40240600,"rng_nm":10,"alt_fmsl":897,"id":"IAVA","rwy":"17","desc":"GS","gs":2.6},
+{"type":"GS","freq":109.9,"lat":47.94804200,"lon":-97.40313900,"rng_nm":10,"alt_fmsl":894,"id":"IRDR","rwy":"35","desc":"GS","gs":2.6},
+{"type":"MM","freq":0,"lat":47.93498600,"lon":-97.40119400,"rng_nm":0,"alt_fmsl":913,"id":"----","rwy":"35","desc":"MM"}
+]
+}

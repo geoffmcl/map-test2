@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMCW","name":"Mason City Muni","lat":43.157618,"lon":-93.331577,"rwys":2,"ils":1,"elev":1213,"index":1417546,"path":"w100n40/w094n43"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":43.16863300,"lon1":-93.32770800,"rwy2":"36","lat2":43.15080000,"lon2":-93.32767500},
+{"len_m":1677,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":43.15984200,"lon1":-93.34391400,"rwy2":"30","lat2":43.15119700,"lon2":-93.32701100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":43.17055600,"lon":-93.32771100,"rng_nm":18,"alt_fmsl":1213,"hdg":359.92,"id":"IMCW","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":43.15420000,"lon":-93.32618300,"rng_nm":10,"alt_fmsl":1193,"id":"IMCW","rwy":"36","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":43.05248900,"lon":-93.32764700,"rng_nm":0,"alt_fmsl":1213,"id":"----","rwy":"36","desc":"OM"}
+]
+}

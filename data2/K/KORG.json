@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KORG","name":"Orange Co","lat":30.068618,"lon":-93.804829,"rwys":2,"ils":0,"elev":13,"index":1416704,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":30.06244500,"lon1":-93.80791900,"rwy2":"22","lat2":30.07365500,"lon2":-93.79625000},
+{"len_m":915,"wid_m":15.24,"hdg":137,"surf":"Turf/grass","rwy1":"13","lat1":30.07221100,"lon1":-93.81080800,"rwy2":"31","lat2":30.06616100,"lon2":-93.80433900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.3,"desc":"HOUSTON APP/DEP"}
+]
+,"ils":[
+]
+}

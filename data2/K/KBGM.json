@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBGM","name":"Greater Binghamton Edwin A Link Fld","lat":42.20818725,"lon":-75.98032175,"rwys":2,"ils":1,"elev":1636,"index":1712392,"path":"w080n40/w076n42"
+,"runways":[
+{"len_m":2163,"wid_m":45.72,"hdg":148,"surf":"Asphalt","rwy1":"16","lat1":42.21924700,"lon1":-75.98684200,"rwy2":"34","lat2":42.20267200,"lon2":-75.97308100},
+{"len_m":1692,"wid_m":45.72,"hdg":86,"surf":"Asphalt","rwy1":"10","lat1":42.20495800,"lon1":-75.99090800,"rwy2":"28","lat2":42.20587200,"lon2":-75.97045600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.15,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP/DEP"},
+{"type":"APP","freq":127.55,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":42.20480800,"lon":-75.97331900,"rng_nm":18,"alt_fmsl":1575,"hdg":145.26,"id":"IAAJ","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":42.21994700,"lon":-75.98742200,"rng_nm":18,"alt_fmsl":1631,"hdg":328.41,"id":"IBGM","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":42.21574700,"lon":-75.98269700,"rng_nm":10,"alt_fmsl":1625,"id":"IAAJ","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":42.20466400,"lon":-75.97296100,"rng_nm":10,"alt_fmsl":1572,"id":"IBGM","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.27572500,"lon":-76.03926400,"rng_nm":0,"alt_fmsl":1636,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":42.10474200,"lon":-75.89123300,"rng_nm":0,"alt_fmsl":860,"id":"----","rwy":"34","desc":"OM"}
+]
+}

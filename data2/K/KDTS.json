@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDTS","name":"Destin Ft Walton Beach","lat":30.39669600,"lon":-86.47185500,"rwys":1,"ils":0,"elev":23,"index":1531418,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":30.40548600,"lon1":-86.47634200,"rwy2":"32","lat2":30.39463300,"lon2":-86.46660800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.92,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"EGLIN CLNC DEL"},
+{"type":"CLD","freq":127.7,"desc":"EGLIN CLNC DEL"},
+{"type":"APP","freq":132.1,"desc":"EGLIN APP/DEP"}
+]
+,"ils":[
+]
+}

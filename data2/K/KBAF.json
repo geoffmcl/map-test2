@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBAF","name":"Barnes Muni","lat":42.15783025,"lon":-72.715513495,"rwys":2,"ils":1,"elev":271,"index":1761545,"path":"w080n40/w073n42"
+,"runways":[
+{"len_m":2743,"wid_m":46.02,"hdg":10,"surf":"Asphalt","rwy1":"02","lat1":42.14530200,"lon1":-72.71881900,"rwy2":"20","lat2":42.16960500,"lon2":-72.71292900},
+{"len_m":1525,"wid_m":31.09,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":42.16348436,"lon1":-72.72106000,"rwy2":"33","lat2":42.15292964,"lon2":-72.70924599}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.1,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CLD","freq":121.7,"desc":"BRADLEY CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"WESTFIELD TWR"},
+{"type":"APP","freq":125.35,"desc":"BRADLEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":42.14292200,"lon":-72.71939200,"rng_nm":18,"alt_fmsl":271,"hdg":190.18,"id":"IBAF","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":42.16716700,"lon":-72.71445800,"rng_nm":10,"alt_fmsl":271,"id":"IBAF","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.24833900,"lon":-72.69630000,"rng_nm":0,"alt_fmsl":271,"id":"----","rwy":"20","desc":"OM"}
+]
+}

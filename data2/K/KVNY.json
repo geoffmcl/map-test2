@@ -1,0 +1,35 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVNY","name":"Van Nuys","lat":34.20769434,"lon":-118.49189347,"rwys":2,"ils":1,"elev":802,"index":1007370,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":2438,"wid_m":46.02,"hdg":175,"surf":"Asphalt","rwy1":"16R","lat1":34.21890800,"lon1":-118.49123600,"rwy2":"34L","lat2":34.19699200,"lon2":-118.48916700},
+{"len_m":1222,"wid_m":22.86,"hdg":175,"surf":"Asphalt","rwy1":"16L","lat1":34.21898900,"lon1":-118.49000000,"rwy2":"34R","lat2":34.20800300,"lon2":-118.48896100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":34.21860482,"lon1":-118.49890222},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":34.21791549,"lon1":-118.49876287},
+{"rwy1":"H3","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":34.20511302,"lon1":-118.49177012},
+{"rwy1":"H4","len_m":6,"wid_m":9.14,"hdg":-118,"surf":"Asphalt","lat1":34.19708955,"lon1":-118.49043451},
+{"rwy1":"H5","len_m":14,"wid_m":14.02,"hdg":-118,"surf":"Asphalt","lat1":34.21572414,"lon1":-118.48797180},
+{"rwy1":"H6","len_m":11,"wid_m":11.89,"hdg":-118,"surf":"Asphalt","lat1":34.19972959,"lon1":-118.48762484}
+]
+,"radios":[
+{"type":"ATIS","freq":118.45,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.6,"desc":"DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR (16L/34R)"},
+{"type":"TWR","freq":119.3,"desc":"TWR (16R/34L)"},
+{"type":"TWR","freq":119,"desc":"TWR (HELI)"},
+{"type":"APP","freq":124.6,"desc":"SOCAL APP/DEP (SE)"},
+{"type":"APP","freq":134.2,"desc":"SOCAL APP/DEP (SW)"},
+{"type":"APP","freq":135.05,"desc":"SOCAL APP/DEP (E)"},
+{"type":"DEP","freq":120.4,"desc":"SOCAL APP/DEP (N)"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":34.19453900,"lon":-118.48893300,"rng_nm":18,"alt_fmsl":741,"hdg":175.54,"id":"IVNY","rwy":"16R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":34.21246700,"lon":-118.49145800,"rng_nm":10,"alt_fmsl":784,"id":"IVNY","rwy":"16R","desc":"GS","gs":3.9},
+{"type":"OM","freq":0,"lat":34.35040800,"lon":-118.50491700,"rng_nm":0,"alt_fmsl":802,"id":"----","rwy":"16R","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.22083600,"lon":-118.49147500,"rng_nm":0,"alt_fmsl":802,"id":"----","rwy":"16R","desc":"MM"}
+]
+}

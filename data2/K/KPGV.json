@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPGV","name":"Pitt Greenville","lat":35.63325800,"lon":-77.38147100,"rwys":3,"ils":1,"elev":27,"index":1679210,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":7,"surf":"Asphalt","rwy1":"02","lat1":35.62586900,"lon1":-77.38580300,"rwy2":"20","lat2":35.64356900,"lon2":-77.38291900},
+{"len_m":1523,"wid_m":45.72,"hdg":66,"surf":"Asphalt","rwy1":"08","lat1":35.63306900,"lon1":-77.39162500,"rwy2":"26","lat2":35.63849200,"lon2":-77.37617500},
+{"len_m":818,"wid_m":45.72,"hdg":127,"surf":"Asphalt","rwy1":"15","lat1":35.63774200,"lon1":-77.39386100,"rwy2":"33","lat2":35.63324200,"lon2":-77.38669400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":122.35,"desc":"CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":35.62503900,"lon":-77.38593900,"rng_nm":18,"alt_fmsl":0,"hdg":187.54,"id":"IPGV","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":35.64038600,"lon":-77.38241900,"rng_nm":10,"alt_fmsl":26,"id":"IPGV","rwy":"20","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":35.62543800,"lon":-77.38524300,"rng_nm":18,"alt_fmsl":1624,"id":"IPGV","rwy":"20","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPSK","name":"New River Valley","lat":37.137346,"lon":-80.6784835,"rwys":1,"ils":1,"elev":2105,"index":1630153,"path":"w090n30/w081n37"
+,"runways":[
+{"len_m":1890,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":37.13211700,"lon1":-80.68687800,"rwy2":"24","lat2":37.14257500,"lon2":-80.67008900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":126,"desc":"ROANOKE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.14425300,"lon":-80.66739200,"rng_nm":18,"alt_fmsl":2105,"hdg":52.01,"id":"IPSK","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.13474700,"lon":-80.68404700,"rng_nm":10,"alt_fmsl":2098,"id":"IPSK","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.07928600,"lon":-80.77104200,"rng_nm":0,"alt_fmsl":2105,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.12462200,"lon":-80.69723100,"rng_nm":0,"alt_fmsl":2105,"id":"----","rwy":"06","desc":"MM"}
+]
+}

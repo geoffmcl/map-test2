@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJMR","name":"Mora Muni","lat":45.88546975,"lon":-93.2720455,"rwys":2,"ils":0,"elev":1012,"index":1417722,"path":"w100n40/w094n45"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":171,"surf":"Asphalt","rwy1":"17","lat1":45.89354400,"lon1":-93.27208300,"rwy2":"35","lat2":45.88269700,"lon2":-93.26982200},
+{"len_m":746,"wid_m":60.96,"hdg":116,"surf":"Dirt","rwy1":"11","lat1":45.88431900,"lon1":-93.27744400,"rwy2":"29","lat2":45.88131900,"lon2":-93.26883300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

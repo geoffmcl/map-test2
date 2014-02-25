@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAUM","name":"Austin Muni","lat":43.6626335,"lon":-92.932931,"rwys":1,"ils":0,"elev":1233,"index":1433960,"path":"w100n40/w093n43"
+,"runways":[
+{"len_m":1767,"wid_m":30.48,"hdg":172,"surf":"Concrete","rwy1":"17","lat1":43.67051400,"lon1":-92.93443100,"rwy2":"35","lat2":43.65475300,"lon2":-92.93143100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+]
+}

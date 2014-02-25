@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBIX","name":"Keesler Afb","lat":30.410425,"lon":-88.924432,"rwys":1,"ils":1,"elev":33,"index":1498648,"path":"w090n30/w089n30"
+,"runways":[
+{"len_m":2325,"wid_m":45.72,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":30.40188100,"lon1":-88.93145000,"rwy2":"21","lat2":30.41896900,"lon2":-88.91741400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"GULFPORT APP/DEP"},
+{"type":"APP","freq":127.5,"desc":"GULFPORT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":30.40131900,"lon":-88.93190800,"rng_nm":18,"alt_fmsl":33,"hdg":215.30,"id":"IBIX","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":30.41478900,"lon":-88.92181900,"rng_nm":10,"alt_fmsl":33,"id":"IBIX","rwy":"21","desc":"GS","gs":3}
+]
+}

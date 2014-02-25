@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHUF","name":"Terre Haute Intl Hulman Fld","lat":39.4521838333333,"lon":-87.3075853333333,"rwys":3,"ils":1,"elev":589,"index":1515610,"path":"w090n30/w088n39"
+,"runways":[
+{"len_m":2749,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":39.44052500,"lon1":-87.32315600,"rwy2":"23","lat2":39.45734700,"lon2":-87.29971700},
+{"len_m":2194,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":39.45970300,"lon1":-87.31042200,"rwy2":"32","lat2":39.44575000,"lon2":-87.29236400},
+{"len_m":1219,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":39.46038100,"lon1":-87.30993900,"rwy2":"36","lat2":39.44939700,"lon2":-87.30991400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.5,"desc":"ASOS"},
+{"type":"ATIS","freq":127.5,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"APP/DEP"},
+{"type":"APP","freq":125.45,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":39.45988900,"lon":-87.29617500,"rng_nm":18,"alt_fmsl":589,"hdg":47.10,"id":"IHUF","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":39.44273100,"lon":-87.32217500,"rng_nm":10,"alt_fmsl":573,"id":"IHUF","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.38787200,"lon":-87.39768600,"rng_nm":0,"alt_fmsl":589,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.43476100,"lon":-87.33118600,"rng_nm":0,"alt_fmsl":589,"id":"----","rwy":"05","desc":"MM"}
+]
+}

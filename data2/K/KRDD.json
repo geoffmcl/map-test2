@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRDD","name":"Redding Muni","lat":40.50894500,"lon":-122.30018600,"rwys":2,"ils":1,"elev":502,"index":942242,"path":"w130n40/w123n40"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":40.52033600,"lon1":-122.29485300,"rwy2":"34","lat2":40.50111100,"lon2":-122.29488600},
+{"len_m":1544,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"12","lat1":40.51191700,"lon1":-122.29717800,"rwy2":"30","lat2":40.50124700,"lon2":-122.28548900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.1,"desc":"ATIS"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":40.52306400,"lon":-122.29485000,"rng_nm":18,"alt_fmsl":508,"hdg":0.07,"id":"IRDD","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":40.50385800,"lon":-122.29346400,"rng_nm":10,"alt_fmsl":490,"id":"IRDD","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.39276100,"lon":-122.29471700,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.49262500,"lon":-122.29491900,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"34","desc":"MM"}
+]
+}

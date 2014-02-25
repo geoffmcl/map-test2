@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCNK","name":"Blosser Muni","lat":39.5491886666667,"lon":-97.6519563333333,"rwys":3,"ils":0,"elev":1486,"index":1351777,"path":"w100n30/w098n39"
+,"runways":[
+{"len_m":1097,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":39.55403300,"lon1":-97.65327500,"rwy2":"35","lat2":39.54414700,"lon2":-97.65319400},
+{"len_m":689,"wid_m":91.44,"hdg":132,"surf":"Turf/grass","rwy1":"12","lat1":39.55243600,"lon1":-97.65512800,"rwy2":"30","lat2":39.54825000,"lon2":-97.64919700},
+{"len_m":496,"wid_m":79.25,"hdg":37,"surf":"Turf/grass","rwy1":"03","lat1":39.54636900,"lon1":-97.65224400,"rwy2":"21","lat2":39.54989700,"lon2":-97.64870000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.22,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

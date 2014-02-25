@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLOU","name":"Bowman Fld","lat":38.2279335,"lon":-85.6638395,"rwys":2,"ils":0,"elev":546,"index":1548297,"path":"w090n30/w086n38"
+,"runways":[
+{"len_m":1328,"wid_m":22.86,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":38.22542800,"lon1":-85.66944700,"rwy2":"24","lat2":38.23148100,"lon2":-85.65636400},
+{"len_m":1090,"wid_m":24.38,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":38.23136700,"lon1":-85.66847200,"rwy2":"32","lat2":38.22345800,"lon2":-85.66107500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":123.67,"desc":"LOUISVILLE APP/DEP"},
+{"type":"APP","freq":132.07,"desc":"LOUISVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KORF","name":"Norfolk Intl","lat":36.88993700,"lon":-76.19610100,"rwys":2,"ils":1,"elev":26,"index":1695675,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":2445,"wid_m":46.02,"hdg":37,"surf":"Asphalt","rwy1":"05","lat1":36.88799172,"lon1":-76.20625325,"rwy2":"23","lat2":36.90540018,"lon2":-76.18943390},
+{"len_m":1425,"wid_m":46.02,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":36.89646643,"lon1":-76.21164755,"rwy2":"32","lat2":36.88856618,"lon2":-76.19904288}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.15,"desc":"ATIS"},
+{"type":"CLD","freq":118.5,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"APP","freq":124.82,"desc":"APP"},
+{"type":"APP","freq":125.7,"desc":"APP"},
+{"type":"DEP","freq":125.2,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":36.90751400,"lon":-76.18740300,"rng_nm":18,"alt_fmsl":27,"hdg":37.68,"id":"IORF","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":36.88368900,"lon":-76.21040300,"rng_nm":18,"alt_fmsl":27,"hdg":217.68,"id":"IJZQ","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":36.88960600,"lon":-76.20296100,"rng_nm":10,"alt_fmsl":23,"id":"IORF","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":36.90380000,"lon":-76.19250300,"rng_nm":10,"alt_fmsl":18,"id":"IJZQ","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.84042500,"lon":-76.25132800,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.88250800,"lon":-76.21154700,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":36.91092500,"lon":-76.18421400,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"23","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":36.90764700,"lon":-76.18792200,"rng_nm":18,"alt_fmsl":26,"id":"IORF","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":109.1,"lat":36.90777500,"lon":-76.18792200,"rng_nm":18,"alt_fmsl":26,"id":"IJZQ","rwy":"23","desc":"DME-ILS"}
+]
+}

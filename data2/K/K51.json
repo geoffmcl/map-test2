@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"K51","name":"Medicine Lodge","lat":37.2620841666667,"lon":-98.5465751666667,"rwys":3,"ils":0,"elev":1543,"index":1335249,"path":"w100n30/w099n37"
+,"runways":[
+{"len_m":970,"wid_m":12.80,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":37.26694400,"lon1":-98.54722500,"rwy2":"34","lat2":37.25833600,"lon2":-98.54528100},
+{"len_m":701,"wid_m":27.43,"hdg":22,"surf":"Turf/grass","rwy1":"01","lat1":37.26055600,"lon1":-98.54888900,"rwy2":"19","lat2":37.26638900,"lon2":-98.54583100},
+{"len_m":528,"wid_m":24.38,"hdg":139,"surf":"Turf/grass","rwy1":"13","lat1":37.26194400,"lon1":-98.54805800,"rwy2":"31","lat2":37.25833600,"lon2":-98.54416700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

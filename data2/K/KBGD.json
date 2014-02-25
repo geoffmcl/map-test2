@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBGD","name":"Hutchinson Co","lat":35.70074875,"lon":-101.393734,"rwys":2,"ils":0,"elev":3055,"index":1285994,"path":"w110n30/w102n35"
+,"runways":[
+{"len_m":1919,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":35.71001100,"lon1":-101.39373600,"rwy2":"35","lat2":35.69271700,"lon2":-101.39313300},
+{"len_m":1187,"wid_m":15.24,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":35.69602500,"lon1":-101.39823900,"rwy2":"21","lat2":35.70424200,"lon2":-101.38982800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"AMARILLO APP/DEP"}
+]
+,"ils":[
+]
+}

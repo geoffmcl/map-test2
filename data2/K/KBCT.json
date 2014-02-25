@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBCT","name":"Boca Raton","lat":26.37684400,"lon":-80.10614800,"rwys":1,"ils":0,"elev":13,"index":1629467,"path":"w090n20/w081n26"
+,"runways":[
+{"len_m":1912,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":26.37231100,"lon1":-80.11439400,"rwy2":"23","lat2":26.38465800,"lon2":-80.10099700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.42,"desc":"CTAF"},
+{"type":"CLD","freq":127.35,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.42,"desc":"TWR"},
+{"type":"APP","freq":125.2,"desc":"PALM BEACH APP"},
+{"type":"DEP","freq":127.35,"desc":"PALM BEACH DEP"}
+]
+,"ils":[
+]
+}

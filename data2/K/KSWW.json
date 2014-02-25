@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSWW","name":"Avenger Fld","lat":32.4666605,"lon":-100.466995166667,"rwys":3,"ils":0,"elev":2380,"index":1302170,"path":"w110n30/w101n32"
+,"runways":[
+{"len_m":1779,"wid_m":30.48,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":32.47604700,"lon1":-100.46946400,"rwy2":"35","lat2":32.46009700,"lon2":-100.46736900},
+{"len_m":1724,"wid_m":22.86,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":32.46098300,"lon1":-100.47095800,"rwy2":"22","lat2":32.47228100,"lon2":-100.45834700},
+{"len_m":501,"wid_m":53.34,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":32.46694400,"lon1":-100.46972200,"rwy2":"31","lat2":32.46361100,"lon2":-100.46611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.2,"desc":"ABILENE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPKD","name":"Park Rapids Muni Konshok Fld","lat":46.9003075,"lon":-95.073037,"rwys":2,"ils":1,"elev":1443,"index":1385019,"path":"w100n40/w096n46"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":46.90671900,"lon1":-95.08111400,"rwy2":"31","lat2":46.89605000,"lon2":-95.06558100},
+{"len_m":924,"wid_m":42.67,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":46.90338900,"lon1":-95.07272500,"rwy2":"35","lat2":46.89507200,"lon2":-95.07272800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":46.90810013,"lon":-95.08306885,"rng_nm":18,"alt_fmsl":1443,"hdg":315.19,"id":"IPKD","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":46.89678192,"lon":-95.06901550,"rng_nm":10,"alt_fmsl":1443,"id":"IPKD","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.83406830,"lon":-94.97561646,"rng_nm":0,"alt_fmsl":1406,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.89166641,"lon":-95.05898285,"rng_nm":0,"alt_fmsl":1443,"id":"----","rwy":"31","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVYS","name":"Illinois Valley Rgnl","lat":41.3518585,"lon":-89.1530945,"rwys":1,"ils":0,"elev":654,"index":1482963,"path":"w090n40/w090n41"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":41.36009200,"lon1":-89.15317500,"rwy2":"36","lat2":41.34362500,"lon2":-89.15301400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

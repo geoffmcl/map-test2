@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPRZ","name":"Portales Muni","lat":34.1455005,"lon":-103.41015475,"rwys":2,"ils":0,"elev":4078,"index":1253130,"path":"w110n30/w104n34"
+,"runways":[
+{"len_m":1736,"wid_m":18.29,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":34.13811700,"lon1":-103.41542800,"rwy2":"19","lat2":34.15254400,"lon2":-103.40810800},
+{"len_m":1389,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.14565800,"lon1":-103.41607500,"rwy2":"26","lat2":34.14568300,"lon2":-103.40100800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119,"desc":"CANNON CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"CANNON APP"},
+{"type":"DEP","freq":125.5,"desc":"CANNON DEP"}
+]
+,"ils":[
+]
+}

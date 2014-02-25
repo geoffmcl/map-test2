@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAIG","name":"Langlade Co","lat":45.154174,"lon":-89.11091125,"rwys":2,"ils":0,"elev":1521,"index":1483211,"path":"w090n40/w090n45"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":45.15960600,"lon1":-89.11051700,"rwy2":"34","lat2":45.14907800,"lon2":-89.10613600},
+{"len_m":1036,"wid_m":22.86,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":45.15340600,"lon1":-89.12003100,"rwy2":"26","lat2":45.15460600,"lon2":-89.10696100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

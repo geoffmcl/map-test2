@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDW","name":"Essex County","lat":40.87550778,"lon":-74.27738329,"rwys":2,"ils":1,"elev":172,"index":1728698,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1395,"wid_m":24.99,"hdg":29,"surf":"Asphalt","rwy1":"04","lat1":40.86775873,"lon1":-74.28631698,"rwy2":"22","lat2":40.87868497,"lon2":-74.27814647},
+{"len_m":1130,"wid_m":24.99,"hdg":83,"surf":"Asphalt","rwy1":"10","lat1":40.87712358,"lon1":-74.28686689,"rwy2":"28","lat2":40.87832570,"lon2":-74.27354742}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.5,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CLD","freq":121.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":127.6,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":119.2,"desc":"NEW YORK DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.35,"lat":40.86688600,"lon":-74.28699400,"rng_nm":18,"alt_fmsl":176,"id":"ICDW","rwy":"22","desc":"LOC"},
+{"type":"OM","freq":0,"lat":40.95369400,"lon":-74.21869400,"rng_nm":0,"alt_fmsl":345,"id":"----","rwy":"22","desc":"OM"}
+]
+}

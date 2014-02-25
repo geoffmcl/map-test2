@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRND","name":"Randolph Afb","lat":29.52302700,"lon":-98.28172300,"rwys":2,"ils":4,"elev":762,"index":1334754,"path":"w100n20/w099n29"
+,"runways":[
+{"len_m":2545,"wid_m":60.96,"hdg":150,"surf":"Asphalt","rwy1":"14R","lat1":29.53495000,"lon1":-98.29320800,"rwy2":"32L","lat2":29.51505600,"lon2":-98.28009200},
+{"len_m":2544,"wid_m":60.96,"hdg":150,"surf":"Concrete","rwy1":"14L","lat1":29.54274700,"lon1":-98.27595000,"rwy2":"32R","lat2":29.52285300,"lon2":-98.26286100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.75,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"HANGOVER TWR"},
+{"type":"TWR","freq":128.25,"desc":"TWR"},
+{"type":"APP","freq":124.45,"desc":"SAN ANTONIO APP"},
+{"type":"APP","freq":127.1,"desc":"SAN ANTONIO APP"},
+{"type":"APP","freq":128.05,"desc":"SAN ANTONIO APP"},
+{"type":"DEP","freq":127.1,"desc":"SAN ANTONIO DEP"},
+{"type":"DEP","freq":128.05,"desc":"SAN ANTONIO DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":29.52010600,"lon":-98.26102200,"rng_nm":18,"alt_fmsl":72,"hdg":150.16,"id":"ITRT","rwy":"14L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":29.51230800,"lon":-98.27828100,"rng_nm":18,"alt_fmsl":74,"hdg":150.16,"id":"IUNY","rwy":"14R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":29.53805300,"lon":-98.29525800,"rng_nm":18,"alt_fmsl":73,"hdg":330.15,"id":"IVQE","rwy":"32L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":29.54543100,"lon":-98.27771700,"rng_nm":18,"alt_fmsl":75,"hdg":330.21,"id":"IRND","rwy":"32R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":29.54126900,"lon":-98.27315800,"rng_nm":10,"alt_fmsl":74,"id":"ITRT","rwy":"14L","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":29.53197800,"lon":-98.29306400,"rng_nm":10,"alt_fmsl":76,"id":"IUNY","rwy":"14R","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":29.51631400,"lon":-98.28273600,"rng_nm":10,"alt_fmsl":762,"id":"IVQE","rwy":"32L","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":29.52597200,"lon":-98.26289200,"rng_nm":10,"alt_fmsl":72,"id":"IRND","rwy":"32R","desc":"GS","gs":3}
+]
+}

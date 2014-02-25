@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGFL","name":"Floyd Bennett Mem","lat":43.34165900,"lon":-73.60509500,"rwys":2,"ils":1,"elev":328,"index":1745233,"path":"w080n40/w074n43"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":43.33566900,"lon1":-73.60868100,"rwy2":"19","lat2":43.34938300,"lon2":-73.60920000},
+{"len_m":1219,"wid_m":30.48,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":43.34147500,"lon1":-73.61906400,"rwy2":"30","lat2":43.33764700,"lon2":-73.60497200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.25,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125,"desc":"ALBANY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":43.35257200,"lon":-73.60931700,"rng_nm":18,"alt_fmsl":328,"hdg":358.43,"id":"IGFL","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":43.33832200,"lon":-73.61018600,"rng_nm":10,"alt_fmsl":320,"id":"IGFL","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.25511900,"lon":-73.60576900,"rng_nm":0,"alt_fmsl":328,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.32868600,"lon":-73.60841100,"rng_nm":0,"alt_fmsl":328,"id":"----","rwy":"01","desc":"MM"}
+]
+}

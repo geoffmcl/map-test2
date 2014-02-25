@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSGF","name":"Springfield Branson Natl","lat":37.24559375,"lon":-93.38838675,"rwys":2,"ils":2,"elev":1268,"index":1417162,"path":"w100n30/w094n37"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":37.25523900,"lon1":-93.40051100,"rwy2":"32","lat2":37.23797800,"lon2":-93.38351100},
+{"len_m":2134,"wid_m":45.72,"hdg":21,"surf":"Concrete","rwy1":"02","lat1":37.23565000,"lon1":-93.38922800,"rwy2":"20","lat2":37.25350800,"lon2":-93.38029700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.05,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.67,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":124.95,"desc":"APP/DEP"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":37.25577500,"lon":-93.37916400,"rng_nm":18,"alt_fmsl":1252,"hdg":21.71,"id":"ISGF","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":37.23586100,"lon":-93.38142800,"rng_nm":18,"alt_fmsl":1268,"hdg":141.91,"id":"IGWA","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":37.23863600,"lon":-93.38884400,"rng_nm":10,"alt_fmsl":1259,"id":"ISGF","rwy":"02","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":37.25222200,"lon":-93.39933100,"rng_nm":10,"alt_fmsl":1254,"id":"IGWA","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.18033100,"lon":-93.41713900,"rng_nm":0,"alt_fmsl":1268,"id":"----","rwy":"02","desc":"OM"},
+{"type":"DME","freq":109.7,"lat":37.23648100,"lon":-93.38048600,"rng_nm":18,"alt_fmsl":1286,"id":"IGWA","rwy":"14","desc":"DME-ILS"}
+]
+}

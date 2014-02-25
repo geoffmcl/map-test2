@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAFF","name":"Usaf Academy Afld","lat":38.972986125,"lon":-104.823124875,"rwys":4,"ils":0,"elev":6572,"index":1237048,"path":"w110n30/w105n38"
+,"runways":[
+{"len_m":1378,"wid_m":22.86,"hdg":169,"surf":"Asphalt","rwy1":"16C","lat1":38.97777800,"lon1":-104.82611100,"rwy2":"34C","lat2":38.96555600,"lon2":-104.82333300},
+{"len_m":1378,"wid_m":12.19,"hdg":169,"surf":"Asphalt","rwy1":"16R","lat1":38.97805600,"lon1":-104.82722200,"rwy2":"34L","lat2":38.96583300,"lon2":-104.82444400},
+{"len_m":1061,"wid_m":22.86,"hdg":170,"surf":"Asphalt","rwy1":"16L","lat1":38.97833300,"lon1":-104.82166700,"rwy2":"34R","lat2":38.96888900,"lon2":-104.81972200},
+{"len_m":652,"wid_m":22.86,"hdg":95,"surf":"Asphalt","rwy1":"08","lat1":38.97500000,"lon1":-104.82500000,"rwy2":"26","lat2":38.97444400,"lon2":-104.81750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.52,"desc":"ATIS"},
+{"type":"CTAF","freq":124.15,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":118.12,"desc":"GND"},
+{"type":"TWR","freq":124.15,"desc":"ACADEMY TWR"}
+]
+,"ils":[
+]
+}

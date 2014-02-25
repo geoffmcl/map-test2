@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUNV","name":"University Park","lat":40.848516,"lon":-77.849828,"rwys":2,"ils":1,"elev":1239,"index":1679536,"path":"w080n40/w078n40"
+,"runways":[
+{"len_m":2042,"wid_m":46.02,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":40.84435785,"lon1":-77.85713303,"rwy2":"24","lat2":40.85552815,"lon2":-77.83789497},
+{"len_m":716,"wid_m":14.94,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":40.85000569,"lon1":-77.85395062,"rwy2":"34","lat2":40.84417231,"lon2":-77.85033338}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":40.84386100,"lon":-77.85823900,"rng_nm":18,"alt_fmsl":1222,"hdg":232.82,"id":"IUNV","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":40.85345800,"lon":-77.84006700,"rng_nm":10,"alt_fmsl":1191,"id":"IUNV","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.91030800,"lon":-77.74175300,"rng_nm":0,"alt_fmsl":943,"id":"----","rwy":"24","desc":"OM"}
+]
+}

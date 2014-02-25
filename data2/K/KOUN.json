@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOUN","name":"University Of Oklahoma Westheimer","lat":35.24539232,"lon":-97.472102655,"rwys":2,"ils":2,"elev":1182,"index":1351498,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1441,"wid_m":29.87,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":35.23626345,"lon1":-97.47580785,"rwy2":"21","lat2":35.24673804,"lon2":-97.46643583},
+{"len_m":1585,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.25642938,"lon1":-97.47311700,"rwy2":"35","lat2":35.24213843,"lon2":-97.47304994}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"WESTHEIMER TWR"},
+{"type":"APP","freq":120.45,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.95,"lat":35.23446400,"lon":-97.47295300,"rng_nm":18,"alt_fmsl":1175,"hdg":179.65,"id":"IBWM","rwy":"17","desc":"ILS-cat-I"},
+{"type":"LOC","freq":111.1,"lat":35.24935000,"lon":-97.46407200,"rng_nm":18,"alt_fmsl":1171,"id":"IPHY","rwy":"03","desc":"LOC"},
+{"type":"GS","freq":111.95,"lat":35.25354700,"lon":-97.47443600,"rng_nm":10,"alt_fmsl":1176,"id":"IBWM","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.17526100,"lon":-97.53014700,"rng_nm":0,"alt_fmsl":1182,"id":"----","rwy":"03","desc":"OM"},
+{"type":"DME","freq":111.1,"lat":35.24893100,"lon":-97.46339200,"rng_nm":18,"alt_fmsl":1191,"id":"IPHY","rwy":"03","desc":"DME-ILS"},
+{"type":"DME","freq":111.95,"lat":35.23445600,"lon":-97.47429200,"rng_nm":18,"alt_fmsl":1175,"id":"IBWM","rwy":"17","desc":"DME-ILS"}
+]
+}

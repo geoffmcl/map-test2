@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTBN","name":"Waynesville Rgnl Arpt At Forney Fld","lat":37.741632,"lon":-92.1407375,"rwys":1,"ils":1,"elev":1159,"index":1433579,"path":"w100n30/w093n37"
+,"runways":[
+{"len_m":1840,"wid_m":45.72,"hdg":147,"surf":"Asphalt","rwy1":"14","lat1":37.74859700,"lon1":-92.14639700,"rwy2":"32","lat2":37.73466700,"lon2":-92.13507800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.7,"desc":"ATIS"},
+{"type":"CTAF","freq":125.4,"desc":"CTAF"},
+{"type":"TWR","freq":125.4,"desc":"FORNEY TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.73403600,"lon":-92.13456400,"rng_nm":18,"alt_fmsl":1159,"hdg":147.28,"id":"ITBN","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.74464400,"lon":-92.14483100,"rng_nm":10,"alt_fmsl":1145,"id":"ITBN","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.82208300,"lon":-92.20636100,"rng_nm":0,"alt_fmsl":1159,"id":"----","rwy":"14","desc":"OM"},
+{"type":"DME","freq":110.9,"lat":37.73365000,"lon":-92.13532800,"rng_nm":18,"alt_fmsl":1168,"id":"ITBN","rwy":"14","desc":"DME-ILS"}
+]
+}

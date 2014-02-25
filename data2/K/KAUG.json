@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAUG","name":"Augusta State","lat":44.31816500,"lon":-69.79374700,"rwys":2,"ils":1,"elev":352,"index":1810832,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":153,"surf":"Asphalt","rwy1":"17","lat1":44.32766100,"lon1":-69.80368100,"rwy2":"35","lat2":44.31542500,"lon2":-69.79503600},
+{"len_m":824,"wid_m":22.86,"hdg":62,"surf":"Asphalt","rwy1":"08","lat1":44.31726100,"lon1":-69.79811100,"rwy2":"26","lat2":44.32073600,"lon2":-69.78898600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.95,"desc":"CLNC DEL"},
+{"type":"APP","freq":128.35,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":44.31434700,"lon":-69.79426900,"rng_nm":18,"alt_fmsl":308,"hdg":153.18,"id":"IAUG","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":44.32505000,"lon":-69.80259700,"rng_nm":10,"alt_fmsl":321,"id":"IAUG","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.41081400,"lon":-69.86063100,"rng_nm":0,"alt_fmsl":239,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.33474400,"lon":-69.80880000,"rng_nm":0,"alt_fmsl":352,"id":"----","rwy":"17","desc":"MM"}
+]
+}

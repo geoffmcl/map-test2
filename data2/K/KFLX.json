@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFLX","name":"Fallon Muni","lat":39.498996,"lon":-118.74869575,"rwys":2,"ils":0,"elev":3963,"index":1007705,"path":"w120n30/w119n39"
+,"runways":[
+{"len_m":1737,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"03","lat1":39.49435300,"lon1":-118.75658300,"rwy2":"21","lat2":39.50473100,"lon2":-118.74145800},
+{"len_m":1281,"wid_m":30.48,"hdg":145,"surf":"Dirt","rwy1":"13","lat1":39.50321400,"lon1":-118.75257800,"rwy2":"31","lat2":39.49368600,"lon2":-118.74416400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.85,"desc":"NAVY FALLON APP/DEP"}
+]
+,"ils":[
+]
+}

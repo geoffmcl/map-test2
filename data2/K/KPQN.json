@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPQN","name":"Pipestone Muni","lat":43.982573,"lon":-96.3005215,"rwys":2,"ils":0,"elev":1736,"index":1368442,"path":"w100n40/w097n43"
+,"runways":[
+{"len_m":1312,"wid_m":22.86,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":43.98690300,"lon1":-96.29958300,"rwy2":"36","lat2":43.97511700,"lon2":-96.30063100},
+{"len_m":774,"wid_m":67.36,"hdg":96,"surf":"Turf/grass","rwy1":"09","lat1":43.98455300,"lon1":-96.30572800,"rwy2":"27","lat2":43.98371900,"lon2":-96.29614400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.05,"desc":"MINNEAPOLIS CNTR"}
+]
+,"ils":[
+]
+}

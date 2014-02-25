@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNID","name":"China Lake Naws","lat":35.68919500,"lon":-117.68475300,"rwys":3,"ils":0,"elev":2283,"index":1023849,"path":"w120n30/w118n35"
+,"runways":[
+{"len_m":3045,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"03","lat1":35.67564200,"lon1":-117.70838900,"rwy2":"21","lat2":35.69595600,"lon2":-117.68575800},
+{"len_m":2747,"wid_m":60.96,"hdg":154,"surf":"Asphalt","rwy1":"14","lat1":35.69875800,"lon1":-117.69319400,"rwy2":"32","lat2":35.67647800,"lon2":-117.67995600},
+{"len_m":2347,"wid_m":60.96,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":35.68327500,"lon1":-117.70408900,"rwy2":"26","lat2":35.68298600,"lon2":-117.67815600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.15,"desc":"TWR"},
+{"type":"APP","freq":133.65,"desc":"JOSHUA APP/DEP"}
+]
+,"ils":[
+]
+}

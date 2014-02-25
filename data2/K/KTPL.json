@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTPL","name":"Draughon Miller Central Texas Rgnl","lat":31.15262025,"lon":-97.40755475,"rwys":2,"ils":1,"elev":682,"index":1351242,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":1920,"wid_m":45.72,"hdg":162,"surf":"Asphalt","rwy1":"15","lat1":31.15999200,"lon1":-97.41216100,"rwy2":"33","lat2":31.14346100,"lon2":-97.40614200},
+{"len_m":1445,"wid_m":30.48,"hdg":27,"surf":"Asphalt","rwy1":"02","lat1":31.14773900,"lon1":-97.40946900,"rwy2":"20","lat2":31.15928900,"lon2":-97.40244700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":31.13991900,"lon":-97.40485300,"rng_nm":18,"alt_fmsl":682,"hdg":162.69,"id":"ITPL","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":31.15712200,"lon":-97.40944400,"rng_nm":10,"alt_fmsl":679,"id":"ITPL","rwy":"15","desc":"GS","gs":2.9},
+{"type":"OM","freq":0,"lat":31.20809400,"lon":-97.43014700,"rng_nm":0,"alt_fmsl":682,"id":"----","rwy":"15","desc":"OM"},
+{"type":"DME","freq":111.5,"lat":31.13952500,"lon":-97.40551700,"rng_nm":18,"alt_fmsl":675,"id":"ITPL","rwy":"15","desc":"DME-ILS"}
+]
+}

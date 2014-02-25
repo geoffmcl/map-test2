@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLGA","name":"La Guardia","lat":40.77555682,"lon":-73.87457894,"rwys":2,"ils":2,"elev":22,"index":1745072,"path":"w080n40/w074n40"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":40.76916537,"lon1":-73.88411972,"rwy2":"22","lat2":40.78542937,"lon2":-73.87067467},
+{"len_m":2132,"wid_m":46.02,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":40.78228496,"lon1":-73.87851875,"rwy2":"31","lat2":40.77206398,"lon2":-73.85712666}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.05,"desc":"TWR"},
+{"type":"APP","freq":128.8,"desc":"NEW YORK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":40.78771900,"lon":-73.86878600,"rng_nm":18,"alt_fmsl":22,"hdg":32.05,"id":"ILGA","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":40.77150000,"lon":-73.85593300,"rng_nm":18,"alt_fmsl":13,"hdg":122.24,"id":"IGDI","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":40.76831900,"lon":-73.88482200,"rng_nm":18,"alt_fmsl":22,"hdg":212.05,"id":"IURD","rwy":"22","desc":"ILS-cat-II"},
+{"type":"LOC","freq":108.5,"lat":40.77932200,"lon":-73.87042200,"rng_nm":18,"alt_fmsl":22,"id":"IPZV","rwy":"31","desc":"LOC"},
+{"type":"GS","freq":110.5,"lat":40.77209200,"lon":-73.88276900,"rng_nm":10,"alt_fmsl":16,"id":"ILGA","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":40.78139400,"lon":-73.87524400,"rng_nm":10,"alt_fmsl":11,"id":"IGDI","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":40.78270800,"lon":-73.87186400,"rng_nm":10,"alt_fmsl":11,"id":"IURD","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.71458300,"lon":-73.92936100,"rng_nm":0,"alt_fmsl":22,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":40.86650000,"lon":-73.80358300,"rng_nm":0,"alt_fmsl":22,"id":"----","rwy":"22","desc":"OM"},
+{"type":"DME","freq":108.5,"lat":40.77936400,"lon":-73.87056900,"rng_nm":18,"alt_fmsl":22,"id":"IGDI","rwy":"13","desc":"DME-ILS"},
+{"type":"DME","freq":108.5,"lat":40.77936400,"lon":-73.87056900,"rng_nm":18,"alt_fmsl":22,"id":"IPZV","rwy":"31","desc":"DME-ILS"}
+]
+}

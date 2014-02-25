@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBKV","name":"Hernando Co","lat":28.47505200,"lon":-82.43866000,"rwys":2,"ils":1,"elev":77,"index":1596826,"path":"w090n20/w083n28"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"09","lat1":28.47590800,"lon1":-82.47061400,"rwy2":"27","lat2":28.47597500,"lon2":-82.44882200},
+{"len_m":1528,"wid_m":45.72,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":28.46412800,"lon1":-82.45285300,"rwy2":"21","lat2":28.47651900,"lon2":-82.44599200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.72,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.12,"desc":"TAMPA CLNC DEL"},
+{"type":"APP","freq":125.3,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":119.9,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":28.47598100,"lon":-82.44742200,"rng_nm":18,"alt_fmsl":77,"hdg":89.80,"id":"IOSV","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":28.47495600,"lon":-82.46759400,"rng_nm":10,"alt_fmsl":77,"id":"IOSV","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.47439200,"lon":-82.54750000,"rng_nm":0,"alt_fmsl":77,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.47600000,"lon":-82.47850000,"rng_nm":0,"alt_fmsl":77,"id":"----","rwy":"09","desc":"MM"}
+]
+}

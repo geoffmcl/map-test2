@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMCN","name":"Middle Georgia Rgnl","lat":32.69297625,"lon":-83.64867375,"rwys":2,"ils":1,"elev":354,"index":1580713,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":32.68602200,"lon1":-83.66063300,"rwy2":"23","lat2":32.69798600,"lon2":-83.64494200},
+{"len_m":1524,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":32.69837200,"lon1":-83.65078100,"rwy2":"31","lat2":32.68952500,"lon2":-83.63833900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ASOS"},
+{"type":"ATIS","freq":120.77,"desc":"ATIS"},
+{"type":"CTAF","freq":128.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":128.2,"desc":"MACON TWR"},
+{"type":"APP","freq":118.95,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":32.69896400,"lon":-83.64366100,"rng_nm":18,"alt_fmsl":354,"hdg":47.82,"id":"IMCN","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":32.68704400,"lon":-83.65735000,"rng_nm":10,"alt_fmsl":339,"id":"IMCN","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.64533300,"lon":-83.71325000,"rng_nm":0,"alt_fmsl":354,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.68011100,"lon":-83.66838900,"rng_nm":0,"alt_fmsl":354,"id":"----","rwy":"05","desc":"MM"}
+]
+}

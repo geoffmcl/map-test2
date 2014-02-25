@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRMN","name":"Stafford Rgnl","lat":38.398096,"lon":-77.455465,"rwys":1,"ils":1,"elev":211,"index":1679386,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":139,"surf":"Asphalt","rwy1":"15","lat1":38.40328900,"lon1":-77.46116900,"rwy2":"33","lat2":38.39290300,"lon2":-77.44976100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"},
+{"type":"APP","freq":127.05,"desc":"QUANTICO ARRIVAL"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":38.40537200,"lon":-77.46346400,"rng_nm":18,"alt_fmsl":218,"hdg":319.26,"id":"IRMN","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":38.39403900,"lon":-77.45222800,"rng_nm":10,"alt_fmsl":175,"id":"IRMN","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":108.75,"lat":38.40518900,"lon":-77.46435300,"rng_nm":18,"alt_fmsl":226,"id":"IRMN","rwy":"33","desc":"DME-ILS"}
+]
+}

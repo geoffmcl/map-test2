@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBAB","name":"Beale Afb","lat":39.13613731,"lon":-121.4366286,"rwys":1,"ils":1,"elev":113,"index":958538,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":3657,"wid_m":91.14,"hdg":161,"surf":"Concrete","rwy1":"15","lat1":39.15174531,"lon1":-121.44339210,"rwy2":"33","lat2":39.12052931,"lon2":-121.42986510}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP"},
+{"type":"DEP","freq":125.4,"desc":"NORCAL DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":39.11014200,"lon":-121.42532800,"rng_nm":18,"alt_fmsl":113,"hdg":161.39,"id":"IBAB","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":39.15554200,"lon":-121.44499400,"rng_nm":18,"alt_fmsl":113,"hdg":341.47,"id":"IMIZ","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":39.14815300,"lon":-121.44371700,"rng_nm":10,"alt_fmsl":113,"id":"IBAB","rwy":"15","desc":"GS","gs":2.75},
+{"type":"GS","freq":109.5,"lat":39.12377500,"lon":-121.42936900,"rng_nm":10,"alt_fmsl":100,"id":"IMIZ","rwy":"33","desc":"GS","gs":3}
+]
+}

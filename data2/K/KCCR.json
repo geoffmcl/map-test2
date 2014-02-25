@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCCR","name":"Buchanan Field","lat":37.98582890,"lon":-122.05529346,"rwys":4,"ils":1,"elev":26,"index":942075,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":1524,"wid_m":46.02,"hdg":23,"surf":"Asphalt","rwy1":"01L","lat1":37.98195300,"lon1":-122.06132800,"rwy2":"19R","lat2":37.99454200,"lon2":-122.05440300},
+{"len_m":1402,"wid_m":46.02,"hdg":153,"surf":"Asphalt","rwy1":"14L","lat1":37.99651400,"lon1":-122.05885600,"rwy2":"32R","lat2":37.98520000,"lon2":-122.05173900},
+{"len_m":853,"wid_m":22.86,"hdg":153,"surf":"Asphalt","rwy1":"14R","lat1":37.99590000,"lon1":-122.06040800,"rwy2":"32L","lat2":37.98901900,"lon2":-122.05607800},
+{"len_m":844,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"01R","lat1":37.98387800,"lon1":-122.05838100,"rwy2":"19L","lat2":37.99085300,"lon2":-122.05454200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-122,"surf":"Concrete","lat1":37.99767856,"lon1":-122.05804243},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.98473689,"lon1":-122.05714804},
+{"rwy1":"H3","len_m":11,"wid_m":11.89,"hdg":-122,"surf":"Asphalt","lat1":37.98302336,"lon1":-122.05809132}
+]
+,"radios":[
+{"type":"ATIS","freq":124.7,"desc":"ATIS"},
+{"type":"CTAF","freq":119.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.75,"desc":"DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"Travis APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":37.98262200,"lon":-122.05944700,"rng_nm":18,"alt_fmsl":26,"id":"ICCR","rwy":"19R","desc":"LOC"},
+{"type":"OM","freq":0,"lat":38.04640600,"lon":-122.03343100,"rng_nm":0,"alt_fmsl":5,"id":"----","rwy":"19R","desc":"OM"}
+]
+}

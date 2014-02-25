@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEEN","name":"Dillant Hopkins","lat":42.90628100,"lon":-72.27413200,"rwys":2,"ils":1,"elev":488,"index":1761594,"path":"w080n40/w073n42"
+,"runways":[
+{"len_m":1890,"wid_m":29.87,"hdg":3,"surf":"Asphalt","rwy1":"02","lat1":42.88732200,"lon1":-72.27087500,"rwy2":"20","lat2":42.90430800,"lon2":-72.26956100},
+{"len_m":1219,"wid_m":46.02,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":42.90571700,"lon1":-72.27761100,"rwy2":"32","lat2":42.89909400,"lon2":-72.26570000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/Unicom"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":42.90567326,"lon":-72.26945540,"rng_nm":18,"alt_fmsl":488,"hdg":3.24,"id":"IEEN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":42.89010715,"lon":-72.27178451,"rng_nm":10,"alt_fmsl":488,"id":"IEEN","rwy":"02","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":42.88066602,"lon":-72.27138989,"rng_nm":0,"alt_fmsl":488,"id":"----","rwy":"02","desc":"MM"}
+]
+}

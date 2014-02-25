@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDAN","name":"Danville Rgnl","lat":36.57328164,"lon":-79.335401735,"rwys":2,"ils":1,"elev":571,"index":1646498,"path":"w080n30/w080n36"
+,"runways":[
+{"len_m":1226,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"13","lat1":36.57820255,"lon1":-79.33807415,"rwy2":"31","lat2":36.57192800,"lon2":-79.32678900},
+{"len_m":1981,"wid_m":46.02,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":36.56293100,"lon1":-79.34148100,"rwy2":"20","lat2":36.58006499,"lon2":-79.33526277}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":36.58074400,"lon":-79.33501700,"rng_nm":18,"alt_fmsl":533,"hdg":16.25,"id":"IDAN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":36.56549700,"lon":-79.34143600,"rng_nm":10,"alt_fmsl":544,"id":"IDAN","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.49098600,"lon":-79.36703300,"rng_nm":0,"alt_fmsl":571,"id":"----","rwy":"02","desc":"OM"}
+]
+}

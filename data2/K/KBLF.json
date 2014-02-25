@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBLF","name":"Mercer Co","lat":37.295794,"lon":-81.2076905,"rwys":1,"ils":1,"elev":2857,"index":1613779,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":1445,"wid_m":30.48,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":37.29094400,"lon1":-81.21313100,"rwy2":"23","lat2":37.30064400,"lon2":-81.20225000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":37.29043900,"lon":-81.21370000,"rng_nm":18,"alt_fmsl":2857,"hdg":221.75,"id":"IBLF","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":37.29895000,"lon":-81.20530300,"rng_nm":10,"alt_fmsl":2855,"id":"IBLF","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.36109700,"lon":-81.13079700,"rng_nm":0,"alt_fmsl":2857,"id":"----","rwy":"23","desc":"OM"}
+]
+}

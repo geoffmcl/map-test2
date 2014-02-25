@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KXNA","name":"Northwest Arkansas Rgnl","lat":36.27940425,"lon":-94.30233053,"rwys":2,"ils":1,"elev":1287,"index":1400722,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":2682,"wid_m":45.72,"hdg":159,"surf":"Concrete","rwy1":"16","lat1":36.29320300,"lon1":-94.31198300,"rwy2":"34","lat2":36.27052800,"lon2":-94.30164200},
+{"len_m":2682,"wid_m":45.72,"hdg":159,"surf":"Concrete","rwy1":"17","lat1":36.29263100,"lon1":-94.31389200,"rwy2":"35","lat2":36.26995500,"lon2":-94.30354900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"ASOS"},
+{"type":"CTAF","freq":127.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.1,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":36.26791700,"lon":-94.30045000,"rng_nm":18,"alt_fmsl":1261,"hdg":159.82,"id":"IXNA","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.55,"lat":36.29581100,"lon":-94.31317200,"rng_nm":18,"alt_fmsl":1287,"hdg":339.82,"id":"IFBS","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":36.28990300,"lon":-94.31156100,"rng_nm":10,"alt_fmsl":1283,"id":"IXNA","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.55,"lat":36.27290600,"lon":-94.30380800,"rng_nm":10,"alt_fmsl":1268,"id":"IFBS","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":110.55,"lat":36.26870000,"lon":-94.29935600,"rng_nm":18,"alt_fmsl":1269,"id":"IXNA","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":110.55,"lat":36.29624200,"lon":-94.31187200,"rng_nm":18,"alt_fmsl":1296,"id":"IFBS","rwy":"34","desc":"DME-ILS"}
+]
+}

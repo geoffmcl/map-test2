@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KACT","name":"Waco Rgnl","lat":31.60944078,"lon":-97.22316235,"rwys":2,"ils":1,"elev":516,"index":1351267,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":2010,"wid_m":46.02,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":31.60353300,"lon1":-97.22995600,"rwy2":"19","lat2":31.62110800,"lon2":-97.22474700},
+{"len_m":1553,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":31.61710688,"lon1":-97.23891896,"rwy2":"32","lat2":31.60506517,"lon2":-97.23054271}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.85,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":135.2,"desc":"APP"},
+{"type":"DEP","freq":126.12,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":31.60200300,"lon":-97.23040800,"rng_nm":18,"alt_fmsl":500,"hdg":194.17,"id":"IACT","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":31.61818900,"lon":-97.22693900,"rng_nm":10,"alt_fmsl":504,"id":"IACT","rwy":"19","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":31.69396900,"lon":-97.20381100,"rng_nm":0,"alt_fmsl":516,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.62977500,"lon":-97.22220000,"rng_nm":0,"alt_fmsl":516,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":31.60213300,"lon":-97.23122200,"rng_nm":18,"alt_fmsl":516,"id":"IACT","rwy":"19","desc":"DME-ILS"}
+]
+}

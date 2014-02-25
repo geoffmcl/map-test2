@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHZR","name":"False River Rgnl","lat":30.718318,"lon":-91.47866,"rwys":1,"ils":1,"elev":39,"index":1449514,"path":"w100n30/w092n30"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":30.72517200,"lon1":-91.47806400,"rwy2":"36","lat2":30.71146400,"lon2":-91.47925600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.3,"desc":"BATON ROUGE APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":30.72651389,"lon":-91.47794748,"rng_nm":18,"alt_fmsl":39,"id":"IHZR","rwy":"36","desc":"LOC"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KART","name":"Watertown Intl","lat":43.99192125,"lon":-76.0217385,"rwys":2,"ils":1,"elev":325,"index":1696123,"path":"w080n40/w077n43"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"07","lat1":43.98784400,"lon1":-76.02994200,"rwy2":"25","lat2":43.99601100,"lon2":-76.01468100},
+{"len_m":1524,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":43.99226900,"lon1":-76.03065300,"rwy2":"28","lat2":43.99156100,"lon2":-76.01167800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.25,"desc":"WHEELER SACK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":43.99731700,"lon":-76.01224700,"rng_nm":18,"alt_fmsl":324,"hdg":53.36,"id":"IART","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":43.98875800,"lon":-76.02633100,"rng_nm":10,"alt_fmsl":315,"id":"IART","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.94026100,"lon":-76.11856900,"rng_nm":0,"alt_fmsl":325,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.98352200,"lon":-76.03802800,"rng_nm":0,"alt_fmsl":325,"id":"----","rwy":"07","desc":"MM"}
+]
+}

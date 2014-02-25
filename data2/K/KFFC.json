@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFFC","name":"Atlanta Peachtree City Falcon Fld","lat":33.35933300,"lon":-84.57031250,"rwys":1,"ils":1,"elev":808,"index":1564369,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":1592,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":33.36167887,"lon1":-84.57855739,"rwy2":"31","lat2":33.35281393,"lon2":-84.56510401}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":111.95,"lat":33.36218600,"lon":-84.57931700,"rng_nm":18,"alt_fmsl":808,"id":"FFC","rwy":"31","desc":"LOC"},
+{"type":"DME","freq":111.95,"lat":33.36149200,"lon":-84.57933900,"rng_nm":18,"alt_fmsl":808,"id":"FFC","rwy":"31","desc":"DME-ILS"}
+]
+}

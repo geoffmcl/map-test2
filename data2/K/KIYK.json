@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIYK","name":"Inyokern","lat":35.6595818333333,"lon":-117.829171166667,"rwys":3,"ils":0,"elev":2455,"index":1023848,"path":"w120n30/w118n35"
+,"runways":[
+{"len_m":2150,"wid_m":22.86,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":35.66710600,"lon1":-117.83339400,"rwy2":"33","lat2":35.64815000,"lon2":-117.82846100},
+{"len_m":1912,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"02","lat1":35.64826400,"lon1":-117.83336900,"rwy2":"20","lat2":35.66305800,"lon2":-117.82253300},
+{"len_m":1239,"wid_m":22.86,"hdg":115,"surf":"Asphalt","rwy1":"10","lat1":35.66785400,"lon1":-117.83482000,"rwy2":"28","lat2":35.66305900,"lon2":-117.82245000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.65,"desc":"JOSHUA APP DEP"}
+]
+,"ils":[
+]
+}

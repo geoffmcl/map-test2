@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPWM","name":"Portland Intl Jetport","lat":43.64740531,"lon":-70.30821576,"rwys":2,"ils":1,"elev":77,"index":1794410,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":2194,"wid_m":46.02,"hdg":95,"surf":"Asphalt","rwy1":"11","lat1":43.64586100,"lon1":-70.32607800,"rwy2":"29","lat2":43.64403300,"lon2":-70.29899400},
+{"len_m":1524,"wid_m":46.02,"hdg":163,"surf":"Asphalt","rwy1":"18","lat1":43.65447200,"lon1":-70.30731700,"rwy2":"36","lat2":43.64133900,"lon2":-70.30186400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.05,"desc":"ATIS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":123.5,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"APP/DEP"},
+{"type":"APP","freq":125.5,"desc":"APP/DEP"},
+{"type":"APP","freq":132.4,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":43.64387800,"lon":-70.29670000,"rng_nm":18,"alt_fmsl":37,"hdg":95.34,"id":"IPWM","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":43.64611700,"lon":-70.32987500,"rng_nm":18,"alt_fmsl":65,"hdg":275.32,"id":"IGCS","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":43.64446700,"lon":-70.32218100,"rng_nm":10,"alt_fmsl":68,"id":"IPWM","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":43.64504700,"lon":-70.30218100,"rng_nm":10,"alt_fmsl":42,"id":"IGCS","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.65237500,"lon":-70.44096400,"rng_nm":0,"alt_fmsl":77,"id":"----","rwy":"11","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.64658600,"lon":-70.33684400,"rng_nm":0,"alt_fmsl":73,"id":"----","rwy":"11","desc":"MM"},
+{"type":"IM","freq":0,"lat":43.64610300,"lon":-70.32966700,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"11","desc":"IM"},
+{"type":"DME","freq":109.9,"lat":43.64660600,"lon":-70.32641700,"rng_nm":18,"alt_fmsl":78,"id":"IPWM","rwy":"11","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":43.64316100,"lon":-70.29747500,"rng_nm":18,"alt_fmsl":36,"id":"IGCS","rwy":"29","desc":"DME-ILS"}
+]
+}

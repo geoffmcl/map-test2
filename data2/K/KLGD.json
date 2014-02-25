@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLGD","name":"La Grande Union Co","lat":45.2902375,"lon":-118.007736,"rwys":2,"ils":0,"elev":2717,"index":1008083,"path":"w120n40/w119n45"
+,"runways":[
+{"len_m":1706,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":45.29554400,"lon1":-118.01196100,"rwy2":"30","lat2":45.28468100,"lon2":-117.99658900},
+{"len_m":1181,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":45.29567800,"lon1":-118.01119700,"rwy2":"34","lat2":45.28504700,"lon2":-118.01119700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

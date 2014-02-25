@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAID","name":"Anderson Muni Darlington Fld","lat":40.10855875,"lon":-85.612641,"rwys":2,"ils":1,"elev":919,"index":1548417,"path":"w090n40/w086n40"
+,"runways":[
+{"len_m":1645,"wid_m":30.48,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":40.11194400,"lon1":-85.62293900,"rwy2":"30","lat2":40.10567200,"lon2":-85.60545000},
+{"len_m":1036,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":40.11297500,"lon1":-85.61110000,"rwy2":"36","lat2":40.10364400,"lon2":-85.61107500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":40.11426100,"lon":-85.62939700,"rng_nm":18,"alt_fmsl":908,"hdg":295.12,"id":"IAID","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":40.10609400,"lon":-85.60958100,"rng_nm":10,"alt_fmsl":919,"id":"IAID","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.06952200,"lon":-85.51068600,"rng_nm":0,"alt_fmsl":970,"id":"----","rwy":"30","desc":"OM"}
+]
+}

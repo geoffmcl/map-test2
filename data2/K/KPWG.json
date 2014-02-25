@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPWG","name":"Mc Gregor Executive","lat":31.48454925,"lon":-97.316034,"rwys":2,"ils":0,"elev":592,"index":1351258,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":31.49379200,"lon1":-97.31834200,"rwy2":"35","lat2":31.47867200,"lon2":-97.31803300},
+{"len_m":1054,"wid_m":16.76,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":31.47944400,"lon1":-97.31773300,"rwy2":"22","lat2":31.48628900,"lon2":-97.31002800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.2,"desc":"WACO APP"},
+{"type":"DEP","freq":126.12,"desc":"WACO DEP"}
+]
+,"ils":[
+]
+}

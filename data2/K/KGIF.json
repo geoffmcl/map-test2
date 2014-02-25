@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGIF","name":"Winter Havens Gilbert","lat":28.05941800,"lon":-81.75212100,"rwys":2,"ils":0,"elev":145,"index":1613184,"path":"w090n20/w082n28"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":28.05852500,"lon1":-81.75787500,"rwy2":"22","lat2":28.06826100,"lon2":-81.74690000},
+{"len_m":1219,"wid_m":30.48,"hdg":103,"surf":"Asphalt","rwy1":"11","lat1":28.06358300,"lon1":-81.76051400,"rwy2":"29","lat2":28.06107800,"lon2":-81.74843300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":119.9,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+]
+}

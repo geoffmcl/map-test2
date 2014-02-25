@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEUL","name":"Caldwell Industrial","lat":43.6418475,"lon":-116.6357635,"rwys":1,"ils":0,"elev":2431,"index":1040745,"path":"w120n40/w117n43"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":43.64719200,"lon1":-116.64309400,"rwy2":"30","lat2":43.63650300,"lon2":-116.62843300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"BOISE APP/DEP"}
+]
+,"ils":[
+]
+}

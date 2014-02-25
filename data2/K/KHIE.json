@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHIE","name":"Mount Washington Rgnl","lat":44.3675545,"lon":-71.5458095,"rwys":1,"ils":1,"elev":1074,"index":1778065,"path":"w080n40/w072n44"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":87,"surf":"Asphalt","rwy1":"10","lat1":44.36728100,"lon1":-71.55345000,"rwy2":"28","lat2":44.36782800,"lon2":-71.53816900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":122.4,"desc":"CLNC DEL"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":44.36794400,"lon":-71.53490300,"rng_nm":18,"alt_fmsl":1074,"id":"IHIE","rwy":"10","desc":"LOC"}
+]
+}

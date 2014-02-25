@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBAD","name":"Barksdale Afb","lat":32.49648100,"lon":-93.67243700,"rwys":1,"ils":2,"elev":166,"index":1416857,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":3586,"wid_m":91.44,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":32.51614607,"lon1":-93.67176166,"rwy2":"33","lat2":32.48774593,"lon2":-93.65350834}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":128.25,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"SHREVEPORT APP/DEP"},
+{"type":"APP","freq":123.75,"desc":"SHREVEPORT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":32.48392800,"lon":-93.65105000,"rng_nm":18,"alt_fmsl":166,"hdg":151.54,"id":"IJKC","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":32.52053300,"lon":-93.67458100,"rng_nm":18,"alt_fmsl":166,"hdg":331.54,"id":"IBAD","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":32.51380800,"lon":-93.66850300,"rng_nm":10,"alt_fmsl":166,"id":"IJKC","rwy":"15","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.9,"lat":32.49136400,"lon":-93.65343600,"rng_nm":10,"alt_fmsl":166,"id":"IBAD","rwy":"33","desc":"GS","gs":2.5}
+]
+}

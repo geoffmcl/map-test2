@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGRF","name":"Gray Aaf","lat":47.079218,"lon":-122.580783,"rwys":1,"ils":1,"elev":302,"index":942657,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1866,"wid_m":45.72,"hdg":167,"surf":"Asphalt","rwy1":"15","lat1":47.08740000,"lon1":-122.58353300,"rwy2":"33","lat2":47.07103600,"lon2":-122.57803300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.32,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.32,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":47.06868900,"lon":-122.57723300,"rng_nm":18,"alt_fmsl":302,"hdg":167.09,"id":"IGRF","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":47.08506900,"lon":-122.58119400,"rng_nm":10,"alt_fmsl":296,"id":"IGRF","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.15023600,"lon":-122.60479300,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.09607200,"lon":-122.58644400,"rng_nm":0,"alt_fmsl":302,"id":"----","rwy":"15","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KINS","name":"Creech Afb","lat":36.5866745,"lon":-115.6765785,"rwys":2,"ils":0,"elev":3133,"index":1056673,"path":"w120n30/w116n36"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":92,"surf":"Asphalt","rwy1":"08","lat1":36.58445600,"lon1":-115.69556700,"rwy2":"26","lat2":36.58345000,"lon2":-115.66493300},
+{"len_m":1490,"wid_m":30.48,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":36.59489200,"lon1":-115.67769700,"rwy2":"31","lat2":36.58390000,"lon2":-115.66811700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"ASOS"},
+{"type":"GND","freq":118.3,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

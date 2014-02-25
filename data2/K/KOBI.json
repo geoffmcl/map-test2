@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOBI","name":"Woodbine Muni","lat":39.21908887,"lon":-74.795065185,"rwys":2,"ils":0,"elev":42,"index":1728584,"path":"w080n30/w075n39"
+,"runways":[
+{"len_m":1007,"wid_m":22.86,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":39.21395300,"lon1":-74.79723300,"rwy2":"19","lat2":39.22302500,"lon2":-74.79722500},
+{"len_m":941,"wid_m":22.86,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":39.22181585,"lon1":-74.79761883,"rwy2":"30","lat2":39.21756163,"lon2":-74.78818391}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.47,"desc":"AWOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

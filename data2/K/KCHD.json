@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCHD","name":"Chandler Muni","lat":33.2690445,"lon":-111.811282,"rwys":2,"ils":0,"elev":1243,"index":1122000,"path":"w120n30/w112n33"
+,"runways":[
+{"len_m":1484,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04R","lat1":33.26572500,"lon1":-111.81416400,"rwy2":"22L","lat2":33.27439200,"lon2":-111.80202500},
+{"len_m":1341,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04L","lat1":33.26411400,"lon1":-111.81995300,"rwy2":"22R","lat2":33.27194700,"lon2":-111.80898600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"ATIS"},
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":124.4,"desc":"GND"},
+{"type":"TWR","freq":133.1,"desc":"TWR"},
+{"type":"TWR","freq":126.1,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"PHOENIX APP/DEP"}
+]
+,"ils":[
+]
+}

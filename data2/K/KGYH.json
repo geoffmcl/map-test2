@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGYH","name":"Donaldson Center","lat":34.75669247,"lon":-82.37482344,"rwys":1,"ils":1,"elev":955,"index":1597234,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":39,"surf":"Concrete","rwy1":"05","lat1":34.74990022,"lon1":-82.38496809,"rwy2":"23","lat2":34.76674522,"lon2":-82.36785409}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":133.32,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.4,"desc":"CLNC DEL"},
+{"type":"CLD","freq":125.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":133.32,"desc":"TWR"},
+{"type":"APP","freq":118.8,"desc":"GREER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":34.76884400,"lon":-82.36571900,"rng_nm":18,"alt_fmsl":955,"hdg":39.86,"id":"IGYH","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":34.75272800,"lon":-82.38382500,"rng_nm":10,"alt_fmsl":954,"id":"IGYH","rwy":"05","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.74325600,"lon":-82.39178900,"rng_nm":0,"alt_fmsl":955,"id":"----","rwy":"05","desc":"MM"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGXY","name":"Greeley Weld Co","lat":40.4333126666667,"lon":-104.6317235,"rwys":3,"ils":1,"elev":4697,"index":1237145,"path":"w110n40/w105n40"
+,"runways":[
+{"len_m":3047,"wid_m":30.48,"hdg":177,"surf":"Asphalt","rwy1":"16","lat1":40.45625000,"lon1":-104.63223600,"rwy2":"34","lat2":40.42882800,"lon2":-104.63086100},
+{"len_m":1767,"wid_m":30.48,"hdg":105,"surf":"Asphalt","rwy1":"09","lat1":40.43068600,"lon1":-104.64611700,"rwy2":"27","lat2":40.42645300,"lon2":-104.62603300},
+{"len_m":1096,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":40.43376700,"lon1":-104.62741900,"rwy2":"35","lat2":40.42389200,"lon2":-104.62767500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.65,"desc":"DENVER CLNC DEL"},
+{"type":"APP","freq":134.85,"desc":"DENVER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":40.45905600,"lon":-104.63237800,"rng_nm":18,"alt_fmsl":4697,"hdg":357.82,"id":"IDCI","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":40.43435300,"lon":-104.62966700,"rng_nm":10,"alt_fmsl":4653,"id":"IDCI","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.33470600,"lon":-104.62610800,"rng_nm":0,"alt_fmsl":4675,"id":"----","rwy":"34","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":40.45906700,"lon":-104.63334400,"rng_nm":18,"alt_fmsl":4710,"id":"IDCI","rwy":"34","desc":"DME-ILS"}
+]
+}

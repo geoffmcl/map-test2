@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPTN","name":"Harry P Williams Mem","lat":29.7108195,"lon":-91.3397125,"rwys":1,"ils":1,"elev":8,"index":1449450,"path":"w100n20/w092n29"
+,"runways":[
+{"len_m":1645,"wid_m":45.72,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":29.70700800,"lon1":-91.34700800,"rwy2":"24","lat2":29.71463100,"lon2":-91.33241700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.3,"desc":"NEW ORLEANS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":29.70634400,"lon":-91.34827800,"rng_nm":18,"alt_fmsl":8,"hdg":238.97,"id":"IPTN","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":29.71412200,"lon":-91.33560600,"rng_nm":10,"alt_fmsl":9,"id":"IPTN","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":108.3,"lat":29.70691900,"lon":-91.34874400,"rng_nm":18,"alt_fmsl":23,"id":"IPTN","rwy":"24","desc":"DME-ILS"}
+]
+}

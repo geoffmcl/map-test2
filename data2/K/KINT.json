@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KINT","name":"Smith Reynolds","lat":36.13707624,"lon":-80.22836967,"rwys":2,"ils":1,"elev":969,"index":1630091,"path":"w090n30/w081n36"
+,"runways":[
+{"len_m":1200,"wid_m":46.02,"hdg":30,"surf":"Asphalt","rwy1":"04","lat1":36.13305800,"lon1":-80.22914200,"rwy2":"22","lat2":36.14235600,"lon2":-80.22232800},
+{"len_m":2028,"wid_m":46.02,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":36.13880600,"lon1":-80.22629200,"rwy2":"33","lat2":36.12389700,"lon2":-80.21325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.3,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":128.25,"desc":"GND"},
+{"type":"TWR","freq":123.75,"desc":"WINSTON SALEM TWR"},
+{"type":"APP","freq":124.35,"desc":"GREENSBORO APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":36.13954400,"lon":-80.22693600,"rng_nm":18,"alt_fmsl":962,"hdg":324.76,"id":"IINT","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":36.12581700,"lon":-80.21311900,"rng_nm":10,"alt_fmsl":908,"id":"IINT","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.07091900,"lon":-80.16683100,"rng_nm":0,"alt_fmsl":969,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.11825300,"lon":-80.20828600,"rng_nm":0,"alt_fmsl":2525,"id":"----","rwy":"33","desc":"MM"}
+]
+}

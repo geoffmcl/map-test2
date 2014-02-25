@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHYR","name":"Sawyer Co","lat":46.02482775,"lon":-91.44432075,"rwys":2,"ils":1,"elev":1216,"index":1450498,"path":"w100n40/w092n46"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":24,"surf":"Asphalt","rwy1":"02","lat1":46.01962800,"lon1":-91.44836900,"rwy2":"20","lat2":46.03208300,"lon2":-91.44011700},
+{"len_m":377,"wid_m":36.58,"hdg":159,"surf":"Turf/grass","rwy1":"16","lat1":46.02539400,"lon1":-91.44524700,"rwy2":"34","lat2":46.02220600,"lon2":-91.44355000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"MINNEAPOLIS CNTR"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":46.01828600,"lon":-91.44925800,"rng_nm":18,"alt_fmsl":1207,"id":"IHTY","rwy":"20","desc":"LOC"},
+{"type":"DME","freq":108.5,"lat":46.01881700,"lon":-91.45011100,"rng_nm":18,"alt_fmsl":1220,"id":"IHTY","rwy":"20","desc":"DME-ILS"}
+]
+}

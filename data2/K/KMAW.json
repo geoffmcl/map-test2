@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMAW","name":"Malden Muni","lat":36.600559,"lon":-89.992193,"rwys":3,"ils":0,"elev":295,"index":1482656,"path":"w090n30/w090n36"
+,"runways":[
+{"len_m":1527,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":36.60744200,"lon1":-89.99338600,"rwy2":"36","lat2":36.59368100,"lon2":-89.99356700},
+{"len_m":1524,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":36.60046700,"lon1":-89.99757800,"rwy2":"22","lat2":36.61007200,"lon2":-89.98539700},
+{"len_m":1523,"wid_m":24.38,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":36.60075300,"lon1":-89.99756900,"rwy2":"31","lat2":36.59093900,"lon2":-89.98566100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCLS","name":"Chehalis Centralia","lat":46.6770295,"lon":-122.9827475,"rwys":1,"ils":0,"elev":176,"index":942632,"path":"w130n40/w123n46"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":177,"surf":"Concrete","rwy1":"16","lat1":46.68388100,"lon1":-122.98313100,"rwy2":"34","lat2":46.67017800,"lon2":-122.98236400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"SEATTLE APP"},
+{"type":"DEP","freq":124.2,"desc":"SEATTLE DEP"}
+]
+,"ils":[
+]
+}

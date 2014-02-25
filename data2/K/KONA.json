@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KONA","name":"Winona Muni Max Conrad Fld","lat":44.07613275,"lon":-91.7070295,"rwys":2,"ils":1,"elev":656,"index":1450369,"path":"w100n40/w092n44"
+,"runways":[
+{"len_m":1584,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":44.08279800,"lon1":-91.71944200,"rwy2":"30","lat2":44.07579800,"lon2":-91.70220200},
+{"len_m":777,"wid_m":22.86,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":44.07645800,"lon1":-91.70360800,"rwy2":"35","lat2":44.06947700,"lon2":-91.70286600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.35,"lat":44.08348975,"lon":-91.72114491,"rng_nm":18,"alt_fmsl":656,"id":"IONA","rwy":"30","desc":"LOC"},
+{"type":"OM","freq":0,"lat":44.03479435,"lon":-91.60121996,"rng_nm":0,"alt_fmsl":656,"id":"----","rwy":"30","desc":"OM"},
+{"type":"DME","freq":109.35,"lat":44.08348975,"lon":-91.72114491,"rng_nm":18,"alt_fmsl":656,"id":"IONA","rwy":"30","desc":"DME-ILS"}
+]
+}

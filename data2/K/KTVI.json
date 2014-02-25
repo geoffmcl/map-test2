@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTVI","name":"Thomasville Rgnl","lat":30.90182075,"lon":-83.88108275,"rwys":2,"ils":0,"elev":264,"index":1580600,"path":"w090n30/w084n30"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":30.89520800,"lon1":-83.88755000,"rwy2":"22","lat2":30.90679100,"lon2":-83.87627800},
+{"len_m":1523,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":30.90734200,"lon1":-83.88606400,"rwy2":"32","lat2":30.89794200,"lon2":-83.87443900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.52,"desc":"VALDOSTA APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMHK","name":"Manhattan Rgnl","lat":39.141466,"lon":-96.6705985,"rwys":2,"ils":1,"elev":1057,"index":1368137,"path":"w100n30/w097n39"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":39,"surf":"Concrete","rwy1":"03","lat1":39.13239200,"lon1":-96.67930000,"rwy2":"21","lat2":39.14713300,"lon2":-96.66346900},
+{"len_m":1158,"wid_m":30.48,"hdg":142,"surf":"Asphalt","rwy1":"13","lat1":39.14729200,"lon1":-96.67391700,"rwy2":"31","lat2":39.13904700,"lon2":-96.66570800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"ASOS"},
+{"type":"CTAF","freq":118.55,"desc":"CTAF"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":127.35,"desc":"KANSAS CITY CNTR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":39.14850800,"lon":-96.66199200,"rng_nm":18,"alt_fmsl":1040,"hdg":39.80,"id":"IMHK","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":39.13528300,"lon":-96.67803300,"rng_nm":10,"alt_fmsl":1046,"id":"IMHK","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.05834400,"lon":-96.75960300,"rng_nm":0,"alt_fmsl":1060,"id":"----","rwy":"03","desc":"OM"}
+]
+}

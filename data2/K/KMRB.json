@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMRB","name":"Eastern Wv Rgnl Shepherd Fld","lat":39.40485071,"lon":-77.98947392,"rwys":1,"ils":1,"elev":557,"index":1679448,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":2388,"wid_m":46.02,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":39.39833249,"lon1":-77.99775529,"rwy2":"26","lat2":39.40546175,"lon2":-77.97159220}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":124.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.07,"desc":"POTOMAC CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.3,"desc":"MARTINSBURG TWR"},
+{"type":"APP","freq":126.1,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":39.39790600,"lon":-77.99933900,"rng_nm":18,"alt_fmsl":557,"hdg":250.57,"id":"IEXW","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":39.40381700,"lon":-77.97482800,"rng_nm":10,"alt_fmsl":545,"id":"IEXW","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.43482200,"lon":-77.86443900,"rng_nm":0,"alt_fmsl":557,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.40776700,"lon":-77.96310800,"rng_nm":0,"alt_fmsl":557,"id":"----","rwy":"26","desc":"MM"}
+]
+}

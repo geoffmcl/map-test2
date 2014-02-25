@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFLG","name":"Flagstaff Pulliam","lat":35.13945800,"lon":-111.67121900,"rwys":1,"ils":1,"elev":7011,"index":1122121,"path":"w120n30/w112n35"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":35.13121700,"lon1":-111.67891900,"rwy2":"21","lat2":35.14569200,"lon2":-111.66351100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"ATIS"},
+{"type":"CTAF","freq":134.55,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":134.55,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":35.13792800,"lon":-111.67336100,"rng_nm":18,"alt_fmsl":7011,"hdg":226.05,"id":"IFLG","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":35.14408600,"lon":-111.66591900,"rng_nm":10,"alt_fmsl":6998,"id":"IFLG","rwy":"21","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KITR","name":"Kit Carson County","lat":39.24251,"lon":-102.2853775,"rwys":1,"ils":0,"elev":4219,"index":1269834,"path":"w110n30/w103n39"
+,"runways":[
+{"len_m":1585,"wid_m":22.86,"hdg":159,"surf":"Concrete","rwy1":"15","lat1":39.24921400,"lon1":-102.28853300,"rwy2":"33","lat2":39.23580600,"lon2":-102.28222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRID","name":"Richmond Muni","lat":39.7574095,"lon":-84.8430525,"rwys":3,"ils":0,"elev":1140,"index":1564784,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1676,"wid_m":45.72,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":39.75165300,"lon1":-84.85010400,"rwy2":"24","lat2":39.76027800,"lon2":-84.83405000},
+{"len_m":1524,"wid_m":30.48,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":39.76188100,"lon1":-84.84851100,"rwy2":"33","lat2":39.75061700,"lon2":-84.83833600},
+{"len_m":1085,"wid_m":45.72,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":39.76087500,"lon1":-84.84988900,"rwy2":"28","lat2":39.75915300,"lon2":-84.83742500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":133.55,"desc":"DAYTON CLNC DEL"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

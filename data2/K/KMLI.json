@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMLI","name":"Quad City Intl","lat":41.4484013333333,"lon":-90.5070515,"rwys":3,"ils":1,"elev":590,"index":1466585,"path":"w100n40/w091n41"
+,"runways":[
+{"len_m":3048,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":41.44908600,"lon1":-90.52703900,"rwy2":"27","lat2":41.44863900,"lon2":-90.49056100},
+{"len_m":2152,"wid_m":45.72,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":41.45498900,"lon1":-90.51545000,"rwy2":"31","lat2":41.44303600,"lon2":-90.49517800},
+{"len_m":1374,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":41.44320000,"lon1":-90.51316400,"rwy2":"23","lat2":41.45145800,"lon2":-90.50091700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.2,"desc":"ATIS"},
+{"type":"CTAF","freq":119.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":125.95,"desc":"APP/DEP"},
+{"type":"APP","freq":118.2,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":41.44860300,"lon":-90.48801900,"rng_nm":18,"alt_fmsl":574,"hdg":90.96,"id":"IMLI","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":41.44928900,"lon":-90.53213300,"rng_nm":18,"alt_fmsl":574,"hdg":271.18,"id":"IGEQ","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":41.44820000,"lon":-90.52384400,"rng_nm":10,"alt_fmsl":581,"id":"IMLI","rwy":"09","desc":"GS","gs":2.8},
+{"type":"GS","freq":110.5,"lat":41.44773100,"lon":-90.49401900,"rng_nm":10,"alt_fmsl":577,"id":"IGEQ","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.44906100,"lon":-90.61847200,"rng_nm":0,"alt_fmsl":578,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.44928300,"lon":-90.53332800,"rng_nm":0,"alt_fmsl":590,"id":"----","rwy":"09","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":41.45006400,"lon":-90.53206700,"rng_nm":18,"alt_fmsl":590,"id":"IMLI","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":41.45008900,"lon":-90.53211100,"rng_nm":18,"alt_fmsl":588,"id":"IGEQ","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLUF","name":"Luke Afb","lat":33.534975,"lon":-112.383177,"rwys":2,"ils":2,"elev":1084,"index":1105634,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":3051,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"03L","lat1":33.52297500,"lon1":-112.39856400,"rwy2":"21R","lat2":33.54324200,"lon2":-112.37634400},
+{"len_m":3018,"wid_m":45.72,"hdg":42,"surf":"Concrete","rwy1":"03R","lat1":33.52682200,"lon1":-112.38989200,"rwy2":"21L","lat2":33.54686100,"lon2":-112.36790800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.92,"desc":"ATIS"},
+{"type":"CLD","freq":126.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":133.17,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":33.55024400,"lon":-112.36420600,"rng_nm":18,"alt_fmsl":1086,"hdg":42.44,"id":"ILUF","rwy":"03R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":33.52378100,"lon":-112.39322500,"rng_nm":18,"alt_fmsl":1072,"hdg":222.43,"id":"IEMJ","rwy":"21L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":33.52994400,"lon":-112.38869700,"rng_nm":10,"alt_fmsl":1069,"id":"ILUF","rwy":"03R","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":33.54590000,"lon":-112.37119700,"rng_nm":10,"alt_fmsl":1083,"id":"IEMJ","rwy":"21L","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDKR","name":"Crockett Houston County","lat":31.306929,"lon":-95.4038305,"rwys":1,"ils":0,"elev":348,"index":1384018,"path":"w100n30/w096n31"
+,"runways":[
+{"len_m":1225,"wid_m":22.86,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":31.30178300,"lon1":-95.40617800,"rwy2":"20","lat2":31.31207500,"lon2":-95.40148300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

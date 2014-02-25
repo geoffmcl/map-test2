@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCNM","name":"Cavern City Air Terminal","lat":32.3386035,"lon":-104.2628225,"rwys":4,"ils":1,"elev":3295,"index":1236626,"path":"w110n30/w105n32"
+,"runways":[
+{"len_m":2393,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":32.32265000,"lon1":-104.27425800,"rwy2":"21","lat2":32.33813900,"lon2":-104.25655600},
+{"len_m":1779,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"14R","lat1":32.34289200,"lon1":-104.27085800,"rwy2":"32L","lat2":32.32846700,"lon2":-104.26258600},
+{"len_m":1625,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":32.34229400,"lon1":-104.27072500,"rwy2":"26","lat2":32.34229200,"lon2":-104.25345800},
+{"len_m":1406,"wid_m":45.72,"hdg":156,"surf":"Asphalt","rwy1":"14L","lat1":32.35185000,"lon1":-104.26008300,"rwy2":"32R","lat2":32.34024400,"lon2":-104.25405600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":32.33932500,"lon":-104.25520000,"rng_nm":18,"alt_fmsl":3243,"hdg":44.01,"id":"ICVD","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":32.32397200,"lon":-104.27072200,"rng_nm":10,"alt_fmsl":3282,"id":"ICVD","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.26675600,"lon":-104.33852800,"rng_nm":0,"alt_fmsl":3840,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.31703900,"lon":-104.28066900,"rng_nm":0,"alt_fmsl":3295,"id":"----","rwy":"03","desc":"MM"}
+]
+}

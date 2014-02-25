@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFLV","name":"Sherman Aaf","lat":39.3683315,"lon":-94.9147125,"rwys":1,"ils":0,"elev":772,"index":1400912,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":1799,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":39.37591900,"lon1":-94.91838600,"rwy2":"33","lat2":39.36074400,"lon2":-94.91103900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.2,"desc":"CTAF"},
+{"type":"APP","freq":124.7,"desc":"KANSAS CITY APP/DEP"},
+{"type":"APP","freq":126.6,"desc":"KANSAS CITY APP/DEP"}
+]
+,"ils":[
+]
+}

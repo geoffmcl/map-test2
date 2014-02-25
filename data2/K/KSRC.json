@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSRC","name":"Searcy Muni","lat":35.210607,"lon":-91.7375375,"rwys":1,"ils":1,"elev":264,"index":1449801,"path":"w100n30/w092n35"
+,"runways":[
+{"len_m":1830,"wid_m":30.48,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":35.20255600,"lon1":-91.73973900,"rwy2":"19","lat2":35.21865800,"lon2":-91.73533600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"LITTLE ROCK CLNC DEL"},
+{"type":"APP","freq":119.75,"desc":"LITTLE ROCK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":35.22136900,"lon":-91.73460000,"rng_nm":18,"alt_fmsl":250,"hdg":12.58,"id":"IDSY","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":35.20575000,"lon":-91.74032800,"rng_nm":10,"alt_fmsl":232,"id":"IDSY","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.12251100,"lon":-91.76160600,"rng_nm":0,"alt_fmsl":223,"id":"----","rwy":"01","desc":"OM"},
+{"type":"DME","freq":110.1,"lat":35.22136900,"lon":-91.73459700,"rng_nm":18,"alt_fmsl":250,"id":"IDSY","rwy":"01","desc":"DME-ILS"}
+]
+}

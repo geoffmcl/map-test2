@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAXV","name":"Neil Armstrong","lat":40.49282925,"lon":-84.30097725,"rwys":2,"ils":0,"elev":912,"index":1564826,"path":"w090n40/w085n40"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":40.49179700,"lon1":-84.30769400,"rwy2":"26","lat2":40.49498100,"lon2":-84.29020300},
+{"len_m":802,"wid_m":24.38,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":40.49588100,"lon1":-84.30300600,"rwy2":"36","lat2":40.48865800,"lon2":-84.30300600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

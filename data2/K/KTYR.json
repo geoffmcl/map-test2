@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTYR","name":"Tyler Pounds Rgnl","lat":32.3542711666667,"lon":-95.4024526666667,"rwys":3,"ils":1,"elev":544,"index":1384082,"path":"w100n30/w096n32"
+,"runways":[
+{"len_m":2194,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":32.34594400,"lon1":-95.41068900,"rwy2":"22","lat2":32.35990800,"lon2":-95.39416900},
+{"len_m":1585,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":32.36121700,"lon1":-95.40541400,"rwy2":"31","lat2":32.35108300,"lon2":-95.39353600},
+{"len_m":1478,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":32.36040300,"lon1":-95.40543300,"rwy2":"35","lat2":32.34707200,"lon2":-95.40547500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":128.75,"desc":"LONGVIEW APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":32.34962200,"lon":-95.39182200,"rng_nm":18,"alt_fmsl":533,"hdg":135.29,"id":"ITYR","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":32.35883300,"lon":-95.40410000,"rng_nm":10,"alt_fmsl":526,"id":"ITYR","rwy":"13","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":32.41575600,"lon":-95.46962500,"rng_nm":0,"alt_fmsl":544,"id":"----","rwy":"13","desc":"OM"}
+]
+}

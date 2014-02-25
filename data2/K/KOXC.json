@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOXC","name":"Waterbury Oxford","lat":41.478282,"lon":-73.1351875,"rwys":1,"ils":1,"elev":726,"index":1745115,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":1768,"wid_m":30.48,"hdg":170,"surf":"Asphalt","rwy1":"18","lat1":41.48613900,"lon1":-73.13688300,"rwy2":"36","lat2":41.47042500,"lon2":-73.13349200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.47,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"CLD","freq":135.1,"desc":"NEW YORK CLNC DEL"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.47,"desc":"OXFORD TWR"},
+{"type":"APP","freq":124.07,"desc":"NEW YORK APP/DEP"},
+{"type":"APP","freq":135.1,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":41.48789200,"lon":-73.13725800,"rng_nm":18,"alt_fmsl":718,"hdg":350.82,"id":"IOXC","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":41.47401100,"lon":-73.13527800,"rng_nm":10,"alt_fmsl":690,"id":"IOXC","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.40251700,"lon":-73.11981900,"rng_nm":0,"alt_fmsl":726,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.46147800,"lon":-73.13261100,"rng_nm":0,"alt_fmsl":726,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":109.55,"lat":41.48791700,"lon":-73.13716900,"rng_nm":18,"alt_fmsl":726,"id":"IOXC","rwy":"36","desc":"DME-ILS"}
+]
+}

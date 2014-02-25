@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHTS","name":"Tri State Milton J Ferguson Fld","lat":38.36912400,"lon":-82.55576100,"rwys":2,"ils":2,"elev":828,"index":1597457,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1985,"wid_m":45.72,"hdg":112,"surf":"Asphalt","rwy1":"12","lat1":38.37165000,"lon1":-82.57005600,"rwy2":"30","lat2":38.36483900,"lon2":-82.54904200},
+{"len_m":916,"wid_m":18.29,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":38.35942200,"lon1":-82.55668300,"rwy2":"21","lat2":38.36705800,"lon2":-82.55269200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.2,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"HUNTINGTON TWR"},
+{"type":"APP","freq":119.75,"desc":"HUNTINGTON APP/DEP"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":38.36428900,"lon":-82.54735300,"rng_nm":18,"alt_fmsl":828,"hdg":112.47,"id":"IHTS","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":38.37263100,"lon":-82.57308300,"rng_nm":18,"alt_fmsl":828,"hdg":292.45,"id":"ITUU","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":38.36977200,"lon":-82.56733600,"rng_nm":10,"alt_fmsl":827,"id":"IHTS","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":108.7,"lat":38.36644400,"lon":-82.55188300,"rng_nm":10,"alt_fmsl":828,"id":"ITUU","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.39892200,"lon":-82.65530800,"rng_nm":0,"alt_fmsl":758,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.34330600,"lon":-82.48018300,"rng_nm":0,"alt_fmsl":828,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.37436100,"lon":-82.57835300,"rng_nm":0,"alt_fmsl":828,"id":"----","rwy":"12","desc":"MM"}
+]
+}

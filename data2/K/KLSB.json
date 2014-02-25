@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLSB","name":"Lordsburg Muni","lat":32.33386675,"lon":-108.691219,"rwys":2,"ils":0,"elev":4289,"index":1171089,"path":"w110n30/w109n32"
+,"runways":[
+{"len_m":1527,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":32.33723100,"lon1":-108.69716400,"rwy2":"30","lat2":32.32833300,"lon2":-108.68478600},
+{"len_m":979,"wid_m":15.24,"hdg":21,"surf":"Dirt","rwy1":"01","lat1":32.33083300,"lon1":-108.69333900,"rwy2":"19","lat2":32.33907000,"lon2":-108.68958700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

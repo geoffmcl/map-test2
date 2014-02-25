@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAJO","name":"Corona Muni","lat":33.89558864,"lon":-117.59829793,"rwys":1,"ils":0,"elev":533,"index":1023737,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":973,"wid_m":17.98,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":33.89758989,"lon1":-117.60768904,"rwy2":"25","lat2":33.89772708,"lon2":-117.59716682}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.4,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

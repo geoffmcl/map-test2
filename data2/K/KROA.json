@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KROA","name":"Roanoke Rgnl Woodrum Field","lat":37.32424104,"lon":-79.97903477,"rwys":2,"ils":2,"elev":1175,"index":1646544,"path":"w080n30/w080n37"
+,"runways":[
+{"len_m":1830,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":37.32223600,"lon1":-79.98400000,"rwy2":"24","lat2":37.33288563,"lon2":-79.96823624},
+{"len_m":1770,"wid_m":46.02,"hdg":147,"surf":"Asphalt","rwy1":"15","lat1":37.32895600,"lon1":-79.98112800,"rwy2":"33","lat2":37.31543600,"lon2":-79.97051700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":-79,"surf":"Concrete","lat1":37.32656652,"lon1":-79.97356240},
+{"rwy1":"H2","len_m":13,"wid_m":13.11,"hdg":-79,"surf":"Concrete","lat1":37.32666506,"lon1":-79.97317465},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":-79,"surf":"Concrete","lat1":37.32677683,"lon1":-79.97279589}
+]
+,"radios":[
+{"type":"ATIS","freq":118.65,"desc":"ATIS"},
+{"type":"ATIS","freq":134.95,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"APP/DEP"},
+{"type":"APP","freq":126.9,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":37.32206100,"lon":-79.97840800,"rng_nm":18,"alt_fmsl":1146,"hdg":61.80,"id":"ISZK","rwy":"06","desc":"LDA-GS"},
+{"type":"ILS","freq":109.7,"lat":37.33042200,"lon":-79.98227500,"rng_nm":18,"alt_fmsl":1159,"hdg":328.03,"id":"IROA","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":37.32343100,"lon":-79.98087500,"rng_nm":10,"alt_fmsl":1159,"id":"ISZK","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":37.31715300,"lon":-79.97324200,"rng_nm":10,"alt_fmsl":1147,"id":"IROA","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.28622800,"lon":-80.07003100,"rng_nm":0,"alt_fmsl":1175,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":37.25697200,"lon":-79.92521400,"rng_nm":0,"alt_fmsl":1175,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.29611100,"lon":-79.95491700,"rng_nm":0,"alt_fmsl":1175,"id":"----","rwy":"33","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":37.32211700,"lon":-79.97820800,"rng_nm":18,"alt_fmsl":1165,"id":"ISZK","rwy":"06","desc":"DME-ILS"}
+]
+}

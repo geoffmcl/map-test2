@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHBG","name":"Bobby L Chain Muni","lat":31.2649475,"lon":-89.252897,"rwys":1,"ils":0,"elev":151,"index":1482322,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":1857,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":31.27044200,"lon1":-89.26025800,"rwy2":"31","lat2":31.25945300,"lon2":-89.24553600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KINK","name":"Winkler Co","lat":31.78023825,"lon":-103.2014975,"rwys":2,"ils":0,"elev":2822,"index":1252979,"path":"w110n30/w104n31"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":31.78302200,"lon1":-103.20775000,"rwy2":"31","lat2":31.77242200,"lon2":-103.19750600},
+{"len_m":1070,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"04","lat1":31.77968100,"lon1":-103.20472800,"rwy2":"22","lat2":31.78582800,"lon2":-103.19600600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

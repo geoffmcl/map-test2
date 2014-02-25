@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPEX","name":"Paynesville Muni","lat":45.36947775,"lon":-94.74010175,"rwys":2,"ils":0,"elev":1180,"index":1401297,"path":"w100n40/w095n45"
+,"runways":[
+{"len_m":1008,"wid_m":22.86,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":45.37405750,"lon1":-94.75254390,"rwy2":"29","lat2":45.37059250,"lon2":-94.74064010},
+{"len_m":707,"wid_m":44.20,"hdg":142,"surf":"Dirt","rwy1":"14","lat1":45.36914200,"lon1":-94.73638100,"rwy2":"32","lat2":45.36411900,"lon2":-94.73084200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.35,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

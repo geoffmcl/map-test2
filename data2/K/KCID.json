@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCID","name":"The Eastern Iowa","lat":41.88473275,"lon":-91.71029925,"rwys":2,"ils":2,"elev":869,"index":1450233,"path":"w100n40/w092n41"
+,"runways":[
+{"len_m":2621,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":41.88465000,"lon1":-91.72916900,"rwy2":"27","lat2":41.88427200,"lon2":-91.69759200},
+{"len_m":1889,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":41.89111700,"lon1":-91.71513300,"rwy2":"31","lat2":41.87889200,"lon2":-91.69930300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.15,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.05,"desc":"APP/DEP"},
+{"type":"APP","freq":119.7,"desc":"APP/DEP"},
+{"type":"APP","freq":134.05,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":41.88424700,"lon":-91.69574700,"rng_nm":18,"alt_fmsl":869,"hdg":90.94,"id":"ICID","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":41.88470800,"lon":-91.73385000,"rng_nm":18,"alt_fmsl":869,"hdg":270.91,"id":"IRRU","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":41.88350600,"lon":-91.72503100,"rng_nm":10,"alt_fmsl":852,"id":"ICID","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":41.88323600,"lon":-91.70245000,"rng_nm":10,"alt_fmsl":860,"id":"IRRU","rwy":"27","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":41.88453300,"lon":-91.68826100,"rng_nm":0,"alt_fmsl":869,"id":"----","rwy":"27","desc":"MM"}
+]
+}

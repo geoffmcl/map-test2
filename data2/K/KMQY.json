@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMQY","name":"Smyrna","lat":36.00677281,"lon":-86.50847391,"rwys":2,"ils":1,"elev":543,"index":1531777,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":2449,"wid_m":46.02,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":36.01783600,"lon1":-86.52871700,"rwy2":"32","lat2":36.00113900,"lon2":-86.51093900},
+{"len_m":1690,"wid_m":29.87,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":36.00062800,"lon1":-86.52115000,"rwy2":"19","lat2":36.01582200,"lon2":-86.51979200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":-86,"surf":"Asphalt","lat1":36.00988528,"lon1":-86.51082118},
+{"rwy1":"H2","len_m":21,"wid_m":21.03,"hdg":-86,"surf":"Concrete","lat1":36.00927765,"lon1":-86.51087585}
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"ASOS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":128.45,"desc":"NASHVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":36.01996700,"lon":-86.53098600,"rng_nm":18,"alt_fmsl":543,"hdg":319.26,"id":"IMQY","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":36.00283900,"lon":-86.51420300,"rng_nm":10,"alt_fmsl":514,"id":"IMQY","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.94292500,"lon":-86.44679700,"rng_nm":0,"alt_fmsl":543,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.99553600,"lon":-86.50496700,"rng_nm":0,"alt_fmsl":543,"id":"----","rwy":"32","desc":"MM"}
+]
+}

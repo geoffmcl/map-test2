@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSFZ","name":"North Central State","lat":41.92029425,"lon":-71.4915035,"rwys":2,"ils":1,"elev":440,"index":1777914,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":32,"surf":"Asphalt","rwy1":"05","lat1":41.91663600,"lon1":-71.49582800,"rwy2":"23","lat2":41.92826100,"lon2":-71.48606900},
+{"len_m":978,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"15","lat1":41.92149400,"lon1":-71.49588100,"rwy2":"33","lat2":41.91478600,"lon2":-71.48823600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/Unicom"},
+{"type":"CLD","freq":124.35,"desc":"CLNC DEL"},
+{"type":"APP","freq":135.4,"desc":"PROVIDENCE APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":41.92896700,"lon":-71.48547800,"rng_nm":18,"alt_fmsl":440,"id":"ISFZ","rwy":"05","desc":"LOC"},
+{"type":"DME","freq":111.9,"lat":41.92899200,"lon":-71.48545800,"rng_nm":18,"alt_fmsl":441,"id":"ISFZ","rwy":"05","desc":"DME-ILS"}
+]
+}

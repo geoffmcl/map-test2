@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPCW","name":"Carl R Keller Fld","lat":41.516169745,"lon":-82.86848519,"rwys":2,"ils":0,"elev":590,"index":1597664,"path":"w090n40/w083n41"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":82,"surf":"Asphalt","rwy1":"09","lat1":41.51629649,"lon1":-82.87931638,"rwy2":"27","lat2":41.51797149,"lon2":-82.86118038},
+{"len_m":1219,"wid_m":22.86,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":41.52069200,"lon1":-82.86699400,"rwy2":"36","lat2":41.50971900,"lon2":-82.86645000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.35,"desc":"CLEVELAND APP/DEP"}
+]
+,"ils":[
+]
+}

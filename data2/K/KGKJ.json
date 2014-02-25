@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGKJ","name":"Port Meadville","lat":41.6265155,"lon":-80.214729,"rwys":1,"ils":0,"elev":1400,"index":1630443,"path":"w090n40/w081n41"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":41.62321400,"lon1":-80.22274700,"rwy2":"25","lat2":41.62981700,"lon2":-80.20671100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.95,"desc":"CLNC DEL"},
+{"type":"APP","freq":133.95,"desc":"YOUNGSTOWN APP/DEP"}
+]
+,"ils":[
+]
+}

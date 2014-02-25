@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHDI","name":"Hardwick Fld","lat":35.219999,"lon":-84.8323695,"rwys":1,"ils":0,"elev":874,"index":1564488,"path":"w090n30/w085n35"
+,"runways":[
+{"len_m":1004,"wid_m":22.86,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":35.21594200,"lon1":-84.83482200,"rwy2":"21","lat2":35.22405600,"lon2":-84.82991700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"CHATTANOOGA APP/DEP"}
+]
+,"ils":[
+]
+}

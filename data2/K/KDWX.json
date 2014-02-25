@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDWX","name":"Dixon","lat":41.036729,"lon":-107.49543311,"rwys":1,"ils":0,"elev":6520,"index":1188034,"path":"w110n40/w108n41"
+,"runways":[
+{"len_m":1674,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":41.03425827,"lon1":-107.50483927,"rwy2":"24","lat2":41.03919973,"lon2":-107.48602694}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS A"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

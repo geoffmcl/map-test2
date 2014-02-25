@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOIC","name":"Lt Warren Eaton","lat":42.566555,"lon":-75.524113,"rwys":1,"ils":0,"elev":1025,"index":1712417,"path":"w080n40/w076n42"
+,"runways":[
+{"len_m":1439,"wid_m":22.86,"hdg":2,"surf":"Asphalt","rwy1":"01","lat1":42.56008100,"lon1":-75.52450600,"rwy2":"19","lat2":42.57302900,"lon2":-75.52372000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

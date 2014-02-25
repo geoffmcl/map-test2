@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHDN","name":"Yampa Valley","lat":40.481179,"lon":-107.2176625,"rwys":1,"ils":1,"elev":6602,"index":1187995,"path":"w110n40/w108n40"
+,"runways":[
+{"len_m":3046,"wid_m":46.02,"hdg":113,"surf":"Asphalt","rwy1":"10","lat1":40.48670000,"lon1":-107.23411100,"rwy2":"28","lat2":40.47565800,"lon2":-107.20121400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":40.47455300,"lon":-107.19792500,"rng_nm":18,"alt_fmsl":6602,"hdg":113.83,"id":"IHDN","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":40.48420800,"lon":-107.22971700,"rng_nm":10,"alt_fmsl":6583,"id":"IHDN","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":40.47523600,"lon":-107.19755300,"rng_nm":18,"alt_fmsl":6602,"id":"IHDN","rwy":"10","desc":"DME-ILS"}
+]
+}

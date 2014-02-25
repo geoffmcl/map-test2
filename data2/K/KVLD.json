@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVLD","name":"Valdosta Rgnl","lat":30.7823531666667,"lon":-83.276908,"rwys":3,"ils":1,"elev":203,"index":1580594,"path":"w090n30/w084n30"
+,"runways":[
+{"len_m":1921,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":30.79046400,"lon1":-83.27521700,"rwy2":"35","lat2":30.77335800,"lon2":-83.27201700},
+{"len_m":1706,"wid_m":30.48,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":30.77788600,"lon1":-83.28517200,"rwy2":"22","lat2":30.79036400,"lon2":-83.27474200},
+{"len_m":1108,"wid_m":22.86,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":30.78395000,"lon1":-83.28184400,"rwy2":"31","lat2":30.77809700,"lon2":-83.27245600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.22,"desc":"ASOS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":119.52,"desc":"APP/DEP"},
+{"type":"APP","freq":126.6,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":30.79316700,"lon":-83.27572200,"rng_nm":18,"alt_fmsl":203,"hdg":350.87,"id":"IVLD","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":30.77611700,"lon":-83.27382200,"rng_nm":10,"alt_fmsl":197,"id":"IVLD","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.68497200,"lon":-83.25466700,"rng_nm":0,"alt_fmsl":203,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.76648100,"lon":-83.27059400,"rng_nm":0,"alt_fmsl":203,"id":"----","rwy":"35","desc":"MM"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KESN","name":"Easton Newnam Fld","lat":38.8042075,"lon":-76.06935075,"rwys":2,"ils":1,"elev":72,"index":1695795,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":30,"surf":"Asphalt","rwy1":"04","lat1":38.79739700,"lon1":-76.07196100,"rwy2":"22","lat2":38.81040800,"lon2":-76.06216700},
+{"len_m":1220,"wid_m":30.48,"hdg":137,"surf":"Asphalt","rwy1":"15","lat1":38.80856900,"lon1":-76.07637500,"rwy2":"33","lat2":38.80045600,"lon2":-76.06690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.9,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":124.55,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":38.81182500,"lon":-76.06109700,"rng_nm":18,"alt_fmsl":68,"hdg":30.41,"id":"IFGH","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":38.79887200,"lon":-76.06983300,"rng_nm":10,"alt_fmsl":38,"id":"IFGH","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":38.81231100,"lon":-76.06207800,"rng_nm":18,"alt_fmsl":66,"id":"IFGH","rwy":"04","desc":"DME-ILS"}
+]
+}

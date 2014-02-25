@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRKR","name":"Robert S Kerr","lat":35.0216235,"lon":-94.6212555,"rwys":1,"ils":0,"elev":451,"index":1400641,"path":"w100n30/w095n35"
+,"runways":[
+{"len_m":1221,"wid_m":22.86,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":35.02704700,"lon1":-94.62012200,"rwy2":"36","lat2":35.01620000,"lon2":-94.62238900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.9,"desc":"RAZORBACK APP/DEP"},
+{"type":"APP","freq":134.52,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+]
+}

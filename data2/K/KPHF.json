@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPHF","name":"Newport News Williamsburg Intl","lat":37.13168500,"lon":-76.50079000,"rwys":2,"ils":1,"elev":43,"index":1695689,"path":"w080n30/w077n37"
+,"runways":[
+{"len_m":2439,"wid_m":46.02,"hdg":57,"surf":"Concrete","rwy1":"07","lat1":37.12500257,"lon1":-76.50138926,"rwy2":"25","lat2":37.13671543,"lon2":-76.47815874},
+{"len_m":1989,"wid_m":46.02,"hdg":12,"surf":"Concrete","rwy1":"02","lat1":37.12442764,"lon1":-76.49940646,"rwy2":"20","lat2":37.14190636,"lon2":-76.49444954}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.9,"desc":"TWR"},
+{"type":"APP","freq":125.7,"desc":"NORFOLK APP"},
+{"type":"DEP","freq":124.9,"desc":"NORFOLK DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":37.13926900,"lon":-76.47308600,"rng_nm":18,"alt_fmsl":33,"hdg":57.71,"id":"IPHF","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":37.12343100,"lon":-76.50450800,"rng_nm":18,"alt_fmsl":33,"hdg":237.68,"id":"IDHY","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":37.12603000,"lon":-76.49773900,"rng_nm":10,"alt_fmsl":38,"id":"IPHF","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":37.13585600,"lon":-76.48170000,"rng_nm":10,"alt_fmsl":37,"id":"IDHY","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.10078000,"lon":-76.54939400,"rng_nm":0,"alt_fmsl":43,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.12017000,"lon":-76.51095000,"rng_nm":0,"alt_fmsl":43,"id":"----","rwy":"07","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":37.13912000,"lon":-76.47338300,"rng_nm":18,"alt_fmsl":43,"id":"IPHF","rwy":"07","desc":"DME-ILS"},
+{"type":"DME","freq":110.1,"lat":37.14011700,"lon":-76.47379700,"rng_nm":18,"alt_fmsl":32,"id":"IDHY","rwy":"25","desc":"DME-ILS"}
+]
+}

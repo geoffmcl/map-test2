@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCBK","name":"Shalz Fld","lat":39.4271958333333,"lon":-101.045904333333,"rwys":3,"ils":0,"elev":3186,"index":1286235,"path":"w110n30/w102n39"
+,"runways":[
+{"len_m":1557,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":39.43526100,"lon1":-101.04829200,"rwy2":"35","lat2":39.42123600,"lon2":-101.04841400},
+{"len_m":792,"wid_m":27.43,"hdg":135,"surf":"Turf/grass","rwy1":"12","lat1":39.42801900,"lon1":-101.04788900,"rwy2":"30","lat2":39.42289700,"lon2":-101.04147800},
+{"len_m":784,"wid_m":24.38,"hdg":45,"surf":"Turf/grass","rwy1":"04","lat1":39.42540600,"lon1":-101.04793100,"rwy2":"22","lat2":39.43035600,"lon2":-101.04142200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

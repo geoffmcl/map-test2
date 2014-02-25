@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMYV","name":"Yuba Co","lat":39.097957,"lon":-121.56958125,"rwys":2,"ils":1,"elev":62,"index":958529,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":1830,"wid_m":45.72,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":39.10490600,"lon1":-121.57458900,"rwy2":"32","lat2":39.08975300,"lon2":-121.56624200},
+{"len_m":999,"wid_m":18.29,"hdg":66,"surf":"Asphalt","rwy1":"05","lat1":39.09680800,"lon1":-121.57405800,"rwy2":"23","lat2":39.10036100,"lon2":-121.56343600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":39.08722200,"lon":-121.56485000,"rng_nm":18,"alt_fmsl":62,"hdg":156.86,"id":"IMYV","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":39.10209200,"lon":-121.57438100,"rng_nm":10,"alt_fmsl":61,"id":"IMYV","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.16939100,"lon":-121.60984800,"rng_nm":0,"alt_fmsl":64,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.11227800,"lon":-121.57847200,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"14","desc":"MM"}
+]
+}

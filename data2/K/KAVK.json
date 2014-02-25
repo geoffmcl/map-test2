@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAVK","name":"Alva Rgnl","lat":36.77207875,"lon":-98.670421,"rwys":2,"ils":0,"elev":1474,"index":1335217,"path":"w100n30/w099n36"
+,"runways":[
+{"len_m":1336,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":36.78073300,"lon1":-98.66901700,"rwy2":"35","lat2":36.76869400,"lon2":-98.66905300},
+{"len_m":570,"wid_m":51.82,"hdg":89,"surf":"Dirt","rwy1":"08","lat1":36.76944400,"lon1":-98.67500300,"rwy2":"26","lat2":36.76944400,"lon2":-98.66861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.77,"desc":"VANCE APP/DEP"}
+]
+,"ils":[
+]
+}

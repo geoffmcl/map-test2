@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCFD","name":"Coulter Fld","lat":30.71614175,"lon":-96.332625,"rwys":2,"ils":0,"elev":367,"index":1367594,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":151,"surf":"Asphalt","rwy1":"14","lat1":30.72052800,"lon1":-96.33437200,"rwy2":"32","lat2":30.71085000,"lon2":-96.32832800},
+{"len_m":405,"wid_m":12.19,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":30.71842200,"lon1":-96.33390000,"rwy2":"35","lat2":30.71476700,"lon2":-96.33390000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

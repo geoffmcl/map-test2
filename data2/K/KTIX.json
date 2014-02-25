@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTIX","name":"Space Coast Rgnl","lat":28.51184300,"lon":-80.79393000,"rwys":2,"ils":1,"elev":34,"index":1629600,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":2231,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":28.52461900,"lon1":-80.79690300,"rwy2":"36","lat2":28.50448900,"lon2":-80.79655300},
+{"len_m":1523,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":28.51505300,"lon1":-80.81066900,"rwy2":"27","lat2":28.51526400,"lon2":-80.79510600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"},
+{"type":"APP","freq":134.94,"desc":"DAYTONA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":28.52374200,"lon":-80.79689200,"rng_nm":18,"alt_fmsl":35,"hdg":359.11,"id":"ITIX","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":28.50750000,"lon":-80.79762200,"rng_nm":10,"alt_fmsl":35,"id":"ITIX","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.40414400,"lon":-80.79566700,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.49708300,"lon":-80.79638900,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"36","desc":"MM"}
+]
+}

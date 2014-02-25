@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOZR","name":"Cairns Aaf","lat":31.2774635,"lon":-85.713197,"rwys":3,"ils":1,"elev":301,"index":1547857,"path":"w090n30/w086n31"
+,"runways":[
+{"len_m":1531,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":31.28459200,"lon1":-85.71261400,"rwy2":"36","lat2":31.27078100,"lon2":-85.71288100},
+{"len_m":1385,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":31.27061400,"lon1":-85.72036700,"rwy2":"24","lat2":31.27671700,"lon2":-85.70766700},
+{"len_m":1371,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":31.28535800,"lon1":-85.71798100,"rwy2":"32","lat2":31.27671900,"lon2":-85.70767200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":135.2,"desc":"CTAF"},
+{"type":"CLD","freq":118.07,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":135.2,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":125.4,"desc":"APP/DEP"},
+{"type":"APP","freq":133.45,"desc":"APP/DEP"},
+{"type":"APP","freq":133.75,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":31.27795000,"lon":-85.70511100,"rng_nm":18,"alt_fmsl":298,"hdg":60.64,"id":"IOZR","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":31.27122200,"lon":-85.71648300,"rng_nm":10,"alt_fmsl":298,"id":"IOZR","rwy":"06","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":31.22564600,"lon":-85.81596300,"rng_nm":0,"alt_fmsl":301,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.26625600,"lon":-85.72948900,"rng_nm":0,"alt_fmsl":301,"id":"----","rwy":"06","desc":"MM"}
+]
+}

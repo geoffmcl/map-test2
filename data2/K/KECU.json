@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KECU","name":"Edwards Co","lat":29.9469195,"lon":-100.1738555,"rwys":1,"ils":0,"elev":2372,"index":1302011,"path":"w110n20/w101n29"
+,"runways":[
+{"len_m":1234,"wid_m":15.24,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":29.95149200,"lon1":-100.17750300,"rwy2":"32","lat2":29.94234700,"lon2":-100.17020800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.6,"desc":"DEL RIO APP"},
+{"type":"DEP","freq":119.6,"desc":"DEL RIO DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCPC","name":"Columbus Co Muni","lat":34.2728725,"lon":-78.71499,"rwys":1,"ils":0,"elev":98,"index":1662737,"path":"w080n30/w079n34"
+,"runways":[
+{"len_m":1676,"wid_m":22.86,"hdg":42,"surf":"Asphalt","rwy1":"06","lat1":34.26726700,"lon1":-78.72109400,"rwy2":"24","lat2":34.27847800,"lon2":-78.70888600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"MYRTLE BEACH APP/DEP"}
+]
+,"ils":[
+]
+}

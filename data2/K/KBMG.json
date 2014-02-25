@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBMG","name":"Monroe Co","lat":39.14927700,"lon":-86.61236600,"rwys":2,"ils":1,"elev":846,"index":1531977,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":171,"surf":"Asphalt","rwy1":"17","lat1":39.15820323,"lon1":-86.61813995,"rwy2":"35","lat2":39.14054477,"lon2":-86.61481405},
+{"len_m":1165,"wid_m":29.87,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":39.13780652,"lon1":-86.62302784,"rwy2":"24","lat2":39.14276148,"lon2":-86.61114816}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.77,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.77,"desc":"BLOOMINGTON TWR"},
+{"type":"APP","freq":128.05,"desc":"HULMAN APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":39.16343900,"lon":-86.61901400,"rng_nm":18,"alt_fmsl":846,"hdg":351.90,"id":"IBMG","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":39.14300800,"lon":-86.61670000,"rng_nm":10,"alt_fmsl":837,"id":"IBMG","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.05643600,"lon":-86.59916400,"rng_nm":0,"alt_fmsl":761,"id":"----","rwy":"35","desc":"OM"}
+]
+}

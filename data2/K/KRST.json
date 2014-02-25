@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRST","name":"Rochester Intl","lat":43.907861665,"lon":-92.50008493,"rwys":2,"ils":2,"elev":1317,"index":1433977,"path":"w100n40/w093n43"
+,"runways":[
+{"len_m":2225,"wid_m":46.02,"hdg":26,"surf":"Concrete","rwy1":"2","lat1":43.89492208,"lon1":-92.50692545,"rwy2":"20","lat2":43.91285000,"lon2":-92.49457800},
+{"len_m":2753,"wid_m":46.02,"hdg":132,"surf":"Concrete","rwy1":"13","lat1":43.92014958,"lon1":-92.51212827,"rwy2":"31","lat2":43.90352500,"lon2":-92.48670800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.5,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":119.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":43.90165800,"lon":-92.48386400,"rng_nm":18,"alt_fmsl":1317,"hdg":132.25,"id":"IMNK","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":43.92200300,"lon":-92.51496700,"rng_nm":18,"alt_fmsl":1259,"hdg":312.22,"id":"IRST","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":43.91752500,"lon":-92.51043900,"rng_nm":10,"alt_fmsl":1265,"id":"IMNK","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":43.90461100,"lon":-92.49063300,"rng_nm":10,"alt_fmsl":1300,"id":"IRST","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.96285000,"lon":-92.57752200,"rng_nm":0,"alt_fmsl":1317,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.85436700,"lon":-92.41167500,"rng_nm":0,"alt_fmsl":1263,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.92238100,"lon":-92.51550000,"rng_nm":0,"alt_fmsl":1317,"id":"----","rwy":"13","desc":"MM"}
+]
+}

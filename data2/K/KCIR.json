@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCIR","name":"Cairo Rgnl","lat":37.06410075,"lon":-89.219373,"rwys":2,"ils":0,"elev":321,"index":1482691,"path":"w090n30/w090n37"
+,"runways":[
+{"len_m":1235,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":37.06880600,"lon1":-89.22597500,"rwy2":"32","lat2":37.06021100,"lon2":-89.21713900},
+{"len_m":975,"wid_m":18.29,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":37.05960000,"lon1":-89.21918900,"rwy2":"20","lat2":37.06778600,"lon2":-89.21518900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDAA","name":"Davison Aaf","lat":38.715111,"lon":-77.1811445,"rwys":1,"ils":1,"elev":73,"index":1679403,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1712,"wid_m":22.56,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":38.72041900,"lon1":-77.18828900,"rwy2":"32","lat2":38.70980300,"lon2":-77.17400000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.17,"desc":"ATIS"},
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":119.85,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":118.1,"desc":"POTOMAC DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":38.72051100,"lon":-77.18841900,"rng_nm":18,"alt_fmsl":50,"hdg":313.58,"id":"IDAA","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":38.71320600,"lon":-77.17772500,"rng_nm":10,"alt_fmsl":57,"id":"IDAA","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.66330300,"lon":-77.10969700,"rng_nm":0,"alt_fmsl":54,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.70827500,"lon":-77.17215300,"rng_nm":0,"alt_fmsl":73,"id":"----","rwy":"32","desc":"MM"}
+]
+}

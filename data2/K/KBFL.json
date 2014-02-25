@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBFL","name":"Meadows Fld","lat":35.43432480,"lon":-119.05332267,"rwys":2,"ils":1,"elev":507,"index":991067,"path":"w120n30/w120n35"
+,"runways":[
+{"len_m":3310,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12L","lat1":35.44634722,"lon1":-119.07127531,"rwy2":"30R","lat2":35.42512778,"lon2":-119.04563907},
+{"len_m":2349,"wid_m":29.87,"hdg":135,"surf":"Asphalt","rwy1":"12R","lat1":35.43876481,"lon1":-119.06565404,"rwy2":"30L","lat2":35.42370525,"lon2":-119.04746587}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"BAKERSFIELD TWR"},
+{"type":"APP","freq":118.8,"desc":"BAKERSFIELD APP"},
+{"type":"APP","freq":118.9,"desc":"BAKERSFIELD APP"},
+{"type":"DEP","freq":126.45,"desc":"BAKERSFIELD DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":35.44693300,"lon":-119.07198300,"rng_nm":18,"alt_fmsl":476,"hdg":315.44,"id":"IBFL","rwy":"30R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":35.43286400,"lon":-119.05686700,"rng_nm":10,"alt_fmsl":476,"id":"IBFL","rwy":"30R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.37235800,"lon":-118.98145000,"rng_nm":0,"alt_fmsl":415,"id":"----","rwy":"30R","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.41921100,"lon":-119.03821700,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"30R","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":35.44761100,"lon":-119.07155300,"rng_nm":18,"alt_fmsl":507,"id":"IBFL","rwy":"30R","desc":"DME-ILS"}
+]
+}

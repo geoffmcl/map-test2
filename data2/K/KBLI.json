@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBLI","name":"Bellingham Intl","lat":48.79421536,"lon":-122.53204085,"rwys":1,"ils":1,"elev":170,"index":942769,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":2058,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":48.80187054,"lon1":-122.53756523,"rwy2":"34","lat2":48.78335874,"lon2":-122.53750471}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.45,"desc":"ATIS"},
+{"type":"CTAF","freq":124.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":127.4,"desc":"GND"},
+{"type":"TWR","freq":124.9,"desc":"TWR"},
+{"type":"APP","freq":132.7,"desc":"VICTORIA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":48.78145600,"lon":-122.53747200,"rng_nm":18,"alt_fmsl":152,"hdg":179.83,"id":"IBLI","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":48.79945300,"lon":-122.53868900,"rng_nm":10,"alt_fmsl":154,"id":"IBLI","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.89910000,"lon":-122.53477200,"rng_nm":0,"alt_fmsl":44,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.80899700,"lon":-122.53758600,"rng_nm":0,"alt_fmsl":170,"id":"----","rwy":"16","desc":"MM"}
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDTN","name":"Shreveport Downtown","lat":32.54009375,"lon":-93.74497175,"rwys":2,"ils":1,"elev":179,"index":1416865,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":1529,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":32.54596400,"lon1":-93.75043100,"rwy2":"32","lat2":32.53534700,"lon2":-93.74003900},
+{"len_m":975,"wid_m":22.86,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":32.53703100,"lon1":-93.74897800,"rwy2":"23","lat2":32.54203300,"lon2":-93.74043900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":120.22,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":120.22,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP/DEP"},
+{"type":"APP","freq":121.4,"desc":"APP/DEP"},
+{"type":"APP","freq":123.75,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.7,"lat":32.53711100,"lon":-93.74058100,"rng_nm":18,"alt_fmsl":177,"id":"IDTN","rwy":"14","desc":"LOC"},
+{"type":"OM","freq":0,"lat":32.60170300,"lon":-93.80794700,"rng_nm":0,"alt_fmsl":179,"id":"----","rwy":"14","desc":"OM"},
+{"type":"DME","freq":111.7,"lat":32.53768300,"lon":-93.74026400,"rng_nm":18,"alt_fmsl":194,"id":"IDTN","rwy":"14","desc":"DME-ILS"}
+]
+}

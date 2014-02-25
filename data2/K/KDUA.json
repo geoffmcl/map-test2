@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDUA","name":"Eaker Fld","lat":33.9421735,"lon":-96.3950405,"rwys":1,"ils":0,"elev":698,"index":1367802,"path":"w100n30/w097n33"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.94904400,"lon1":-96.39499200,"rwy2":"35","lat2":33.93530300,"lon2":-96.39508900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVVV","name":"Ortonville Muni Martinson Fld","lat":45.3036825,"lon":-96.4247375,"rwys":2,"ils":0,"elev":1100,"index":1368530,"path":"w100n40/w097n45"
+,"runways":[
+{"len_m":1041,"wid_m":22.86,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":45.31025800,"lon1":-96.42574200,"rwy2":"34","lat2":45.30107200,"lon2":-96.42310300},
+{"len_m":655,"wid_m":91.44,"hdg":46,"surf":"Turf/grass","rwy1":"04","lat1":45.29968600,"lon1":-96.42810800,"rwy2":"22","lat2":45.30371400,"lon2":-96.42199700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

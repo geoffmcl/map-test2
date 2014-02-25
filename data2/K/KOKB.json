@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOKB","name":"Oceanside Muni","lat":33.217978,"lon":-117.351509,"rwys":1,"ils":0,"elev":28,"index":1023690,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":826,"wid_m":22.86,"hdg":80,"surf":"Asphalt","rwy1":"06","lat1":33.21733355,"lon1":-117.35587776,"rwy2":"24","lat2":33.21862245,"lon2":-117.34714024}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.3,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

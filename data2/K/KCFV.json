@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCFV","name":"Coffeyville Muni","lat":37.0937715,"lon":-95.57132275,"rwys":2,"ils":0,"elev":754,"index":1384385,"path":"w100n30/w096n37"
+,"runways":[
+{"len_m":1787,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.10323600,"lon1":-95.57438300,"rwy2":"35","lat2":37.08712500,"lon2":-95.57432500},
+{"len_m":1177,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":37.08854700,"lon1":-95.57289400,"rwy2":"22","lat2":37.09617800,"lon2":-95.56368900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

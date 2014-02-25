@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTRK","name":"Truckee Tahoe","lat":39.32104100,"lon":-120.14201400,"rwys":2,"ils":0,"elev":5900,"index":974931,"path":"w130n30/w121n39"
+,"runways":[
+{"len_m":2133,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"10","lat1":39.32483900,"lon1":-120.15273100,"rwy2":"28","lat2":39.31523600,"lon2":-120.13130600},
+{"len_m":1417,"wid_m":22.86,"hdg":29,"surf":"Asphalt","rwy1":"01","lat1":39.31451900,"lon1":-120.13997200,"rwy2":"19","lat2":39.32557500,"lon2":-120.13176100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

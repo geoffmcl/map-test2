@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFQD","name":"Rutherford Co Marchman Field","lat":35.4280555,"lon":-81.9350015,"rwys":1,"ils":0,"elev":1078,"index":1613656,"path":"w090n30/w082n35"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":35.42142200,"lon1":-81.93717200,"rwy2":"19","lat2":35.43468900,"lon2":-81.93283100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.4,"desc":"RALEIGH APP/DEP"}
+]
+,"ils":[
+]
+}

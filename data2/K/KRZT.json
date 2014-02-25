@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRZT","name":"Ross Co","lat":39.441628,"lon":-83.0223855,"rwys":2,"ils":0,"elev":725,"index":1581147,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":1647,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":39.43494200,"lon1":-83.02951400,"rwy2":"23","lat2":39.44589200,"lon2":-83.01660600},
+{"len_m":959,"wid_m":38.10,"hdg":112,"surf":"Turf/grass","rwy1":"12","lat1":39.44450600,"lon1":-83.02685000,"rwy2":"30","lat2":39.44117200,"lon2":-83.01657200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.3,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+]
+}

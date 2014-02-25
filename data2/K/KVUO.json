@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVUO","name":"Pearson Airfield","lat":45.62171318,"lon":-122.65555104,"rwys":1,"ils":0,"elev":82,"index":942561,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":998,"wid_m":17.98,"hdg":98,"surf":"Asphalt","rwy1":"08","lat1":45.62109799,"lon1":-122.66282573,"rwy2":"26","lat2":45.61980507,"lon2":-122.65015413}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.1,"desc":"PORTLAND APP"},
+{"type":"APP","freq":124.35,"desc":"PORTLAND APP"},
+{"type":"DEP","freq":124.35,"desc":"PORTLAND DEP"}
+]
+,"ils":[
+]
+}

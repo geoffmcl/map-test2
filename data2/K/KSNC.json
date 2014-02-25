@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSNC","name":"Chester","lat":41.3838125,"lon":-72.5063475,"rwys":1,"ils":0,"elev":416,"index":1761497,"path":"w080n40/w073n41"
+,"runways":[
+{"len_m":782,"wid_m":15.24,"hdg":160,"surf":"Asphalt","rwy1":"17","lat1":41.38713900,"lon1":-72.50788100,"rwy2":"35","lat2":41.38048600,"lon2":-72.50481400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.07,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+]
+}

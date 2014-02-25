@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNEN","name":"Whitehouse Nolf","lat":30.353889,"lon":-81.8719445,"rwys":1,"ils":0,"elev":99,"index":1613328,"path":"w090n30/w082n30"
+,"runways":[
+{"len_m":2412,"wid_m":45.72,"hdg":107,"surf":"Concrete","rwy1":"11","lat1":30.35722200,"lon1":-81.88388900,"rwy2":"29","lat2":30.35055600,"lon2":-81.86000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.4,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"JACKSONVILLE APP"},
+{"type":"DEP","freq":123.8,"desc":"JACKSONVILLE DEP"}
+]
+,"ils":[
+]
+}

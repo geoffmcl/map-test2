@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHVC","name":"Hopkinsville Christian Co","lat":36.856972,"lon":-87.455068,"rwys":1,"ils":1,"elev":564,"index":1515442,"path":"w090n30/w088n36"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":36.85537500,"lon1":-87.46425800,"rwy2":"26","lat2":36.85856900,"lon2":-87.44587800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.1,"desc":"CAMPBELL APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":36.85480000,"lon":-87.46752800,"rng_nm":18,"alt_fmsl":564,"id":"IHVC","rwy":"26","desc":"LOC"}
+]
+}

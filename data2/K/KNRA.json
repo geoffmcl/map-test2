@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNRA","name":"Coupeville Nolf","lat":48.1883335,"lon":-122.6319445,"rwys":1,"ils":0,"elev":199,"index":942729,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":1623,"wid_m":60.96,"hdg":155,"surf":"Concrete","rwy1":"14","lat1":48.19500000,"lon1":-122.63638900,"rwy2":"32","lat2":48.18166700,"lon2":-122.62750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.15,"desc":"ATIS"},
+{"type":"APP","freq":118.2,"desc":"WHIDBEY APP/DEP"}
+]
+,"ils":[
+]
+}

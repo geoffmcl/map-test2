@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFMZ","name":"Fairmont State Afld","lat":40.59488590,"lon":-97.56697680,"rwys":2,"ils":0,"elev":1636,"index":1351841,"path":"w100n40/w098n40"
+,"runways":[
+{"len_m":1508,"wid_m":29.87,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":40.59537906,"lon1":-97.57111527,"rwy2":"35","lat2":40.58179404,"lon2":-97.57105283},
+{"len_m":1152,"wid_m":21.03,"hdg":134,"surf":"Concrete","rwy1":"12","lat1":40.58620993,"lon1":-97.58087380,"rwy2":"30","lat2":40.57888776,"lon2":-97.57121872}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

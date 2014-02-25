@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFRM","name":"Fairmont Muni","lat":43.6438985,"lon":-94.4149345,"rwys":2,"ils":0,"elev":1162,"index":1401194,"path":"w100n40/w095n43"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":43.64932200,"lon1":-94.42511900,"rwy2":"31","lat2":43.63881100,"lon2":-94.41018900},
+{"len_m":1005,"wid_m":22.86,"hdg":28,"surf":"Asphalt","rwy1":"02","lat1":43.63973600,"lon1":-94.41514700,"rwy2":"20","lat2":43.64772500,"lon2":-94.40928300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

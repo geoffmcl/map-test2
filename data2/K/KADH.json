@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KADH","name":"Ada Muni","lat":34.80413525,"lon":-96.67092975,"rwys":2,"ils":0,"elev":1016,"index":1367857,"path":"w100n30/w097n34"
+,"runways":[
+{"len_m":1890,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.81327500,"lon1":-96.67197500,"rwy2":"35","lat2":34.79623300,"lon2":-96.67197200},
+{"len_m":945,"wid_m":15.24,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":34.80653600,"lon1":-96.67353300,"rwy2":"31","lat2":34.80049700,"lon2":-96.66623900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

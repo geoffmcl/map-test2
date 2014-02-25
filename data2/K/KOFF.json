@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOFF","name":"Offutt Afb","lat":41.119322,"lon":-95.9082195,"rwys":1,"ils":1,"elev":1052,"index":1384640,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":3567,"wid_m":91.14,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":41.12945800,"lon1":-95.92469200,"rwy2":"30","lat2":41.10918600,"lon2":-95.89174700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":118,"desc":"OMAHA APP/DEP"},
+{"type":"APP","freq":120.1,"desc":"OMAHA APP/DEP"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":41.12979700,"lon":-95.92554200,"rng_nm":18,"alt_fmsl":991,"hdg":308.98,"id":"IOFF","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":41.11456700,"lon":-95.89790300,"rng_nm":10,"alt_fmsl":983,"id":"IOFF","rwy":"30","desc":"GS","gs":2.8},
+{"type":"MM","freq":0,"lat":41.10555600,"lon":-95.88603900,"rng_nm":0,"alt_fmsl":982,"id":"----","rwy":"30","desc":"MM"}
+]
+}

@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBUF","name":"Buffalo Niagara Intl","lat":42.93418000,"lon":-78.73047600,"rwys":2,"ils":3,"elev":724,"index":1663289,"path":"w080n40/w079n42"
+,"runways":[
+{"len_m":2691,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":42.93120000,"lon1":-78.74168300,"rwy2":"23","lat2":42.94864400,"lon2":-78.71880600},
+{"len_m":2182,"wid_m":45.72,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":42.94691700,"lon1":-78.74169400,"rwy2":"32","lat2":42.93518600,"lon2":-78.72024200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.35,"desc":"ATIS"},
+{"type":"CLD","freq":124.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":42.94956100,"lon":-78.71759700,"rng_nm":18,"alt_fmsl":670,"hdg":43.85,"id":"IGBI","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":42.93026400,"lon":-78.74291400,"rng_nm":18,"alt_fmsl":670,"hdg":223.83,"id":"IBUF","rwy":"23","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.95,"lat":42.94806400,"lon":-78.74379200,"rng_nm":18,"alt_fmsl":692,"hdg":306.75,"id":"IBNQ","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":42.93445600,"lon":-78.73948600,"rng_nm":10,"alt_fmsl":688,"id":"IGBI","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":42.94648300,"lon":-78.72255300,"rng_nm":10,"alt_fmsl":689,"id":"IBUF","rwy":"23","desc":"GS","gs":3},
+{"type":"GS","freq":109.95,"lat":42.93865800,"lon":-78.72496400,"rng_nm":10,"alt_fmsl":710,"id":"IBNQ","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.87382200,"lon":-78.81646900,"rng_nm":0,"alt_fmsl":630,"id":"----","rwy":"05","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.00023300,"lon":-78.65084200,"rng_nm":0,"alt_fmsl":630,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.92569400,"lon":-78.74890600,"rng_nm":0,"alt_fmsl":724,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":42.95358600,"lon":-78.71228100,"rng_nm":0,"alt_fmsl":724,"id":"----","rwy":"23","desc":"MM"},
+{"type":"IM","freq":0,"lat":42.94889200,"lon":-78.71841900,"rng_nm":0,"alt_fmsl":724,"id":"----","rwy":"23","desc":"IM"},
+{"type":"DME","freq":109.95,"lat":42.94862200,"lon":-78.74318900,"rng_nm":18,"alt_fmsl":496,"id":"IBNQ","rwy":"32","desc":"DME-ILS"}
+]
+}

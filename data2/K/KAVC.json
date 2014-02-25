@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAVC","name":"Mecklenburg Brunswick Rgnl","lat":36.6882875,"lon":-78.054468,"rwys":1,"ils":1,"elev":442,"index":1662891,"path":"w080n30/w079n36"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":357,"surf":"Asphalt","rwy1":"01","lat1":36.68142500,"lon1":-78.05411100,"rwy2":"19","lat2":36.69515000,"lon2":-78.05482500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":110.5,"lat":36.69598600,"lon":-78.05487500,"rng_nm":18,"alt_fmsl":379,"id":"IAVC","rwy":"01","desc":"LOC"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCGS","name":"College Park","lat":38.97956800,"lon":-76.92332500,"rwys":1,"ils":0,"elev":48,"index":1695800,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":794,"wid_m":18.29,"hdg":138,"surf":"Asphalt","rwy1":"15","lat1":38.98326100,"lon1":-76.92534200,"rwy2":"33","lat2":38.97791400,"lon2":-76.91924400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":60,"wid_m":60.96,"hdg":-76,"surf":"Asphalt","lat1":38.98096800,"lon1":-76.92578100}
+]
+,"radios":[
+{"type":"ATIS","freq":121.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.85,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

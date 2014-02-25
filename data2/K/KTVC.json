@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTVC","name":"Cherry Capital","lat":44.74174725,"lon":-85.58282,"rwys":2,"ils":1,"elev":624,"index":1548713,"path":"w090n40/w086n44"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":44.74116400,"lon1":-85.59041100,"rwy2":"28","lat2":44.74001100,"lon2":-85.56544700},
+{"len_m":1639,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":44.75028300,"lon1":-85.58768300,"rwy2":"36","lat2":44.73553100,"lon2":-85.58773900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"ATIS"},
+{"type":"CTAF","freq":124.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":44.74134200,"lon":-85.59425000,"rng_nm":18,"alt_fmsl":624,"hdg":273.71,"id":"ITVC","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":44.73908100,"lon":-85.56913600,"rng_nm":10,"alt_fmsl":611,"id":"ITVC","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.73450300,"lon":-85.42928900,"rng_nm":0,"alt_fmsl":901,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.73953100,"lon":-85.55393300,"rng_nm":0,"alt_fmsl":624,"id":"----","rwy":"28","desc":"MM"}
+]
+}

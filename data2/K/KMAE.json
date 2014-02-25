@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMAE","name":"Kmae - Madera Muni","lat":36.985976435,"lon":-120.1126814,"rwys":2,"ils":0,"elev":253,"index":974779,"path":"w130n30/w121n36"
+,"runways":[
+{"len_m":1691,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":36.99397658,"lon1":-120.11916995,"rwy2":"30","lat2":36.98320173,"lon2":-120.10573022},
+{"len_m":1129,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":36.98336872,"lon1":-120.11925464,"rwy2":"25","lat2":36.98335871,"lon2":-120.10657077}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.72,"desc":"Madera AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"Madera CTAF"}
+]
+,"ils":[
+]
+}

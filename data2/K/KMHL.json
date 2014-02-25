@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMHL","name":"Marshall Mem Muni","lat":39.0958165,"lon":-93.20357075,"rwys":2,"ils":0,"elev":779,"index":1417283,"path":"w100n30/w094n39"
+,"runways":[
+{"len_m":1433,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":39.10192800,"lon1":-93.20033300,"rwy2":"36","lat2":39.08902200,"lon2":-93.20062200},
+{"len_m":1076,"wid_m":45.72,"hdg":95,"surf":"Dirt","rwy1":"09","lat1":39.09658300,"lon1":-93.21286400,"rwy2":"27","lat2":39.09573300,"lon2":-93.20046400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.45,"desc":"WHITEMAN APP"},
+{"type":"DEP","freq":125.92,"desc":"WHITEMAN DEP"}
+]
+,"ils":[
+]
+}

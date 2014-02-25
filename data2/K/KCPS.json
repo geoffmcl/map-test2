@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCPS","name":"St Louis Downtown","lat":38.57203273,"lon":-90.16590457,"rwys":3,"ils":1,"elev":413,"index":1466403,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":2132,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"12R","lat1":38.57399700,"lon1":-90.16505300,"rwy2":"30L","lat2":38.56375600,"lon2":-90.14434700},
+{"len_m":1158,"wid_m":22.86,"hdg":122,"surf":"Concrete","rwy1":"12L","lat1":38.57377500,"lon1":-90.15821100,"rwy2":"30R","lat2":38.56821400,"lon2":-90.14696400},
+{"len_m":853,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":38.57235800,"lon1":-90.16853300,"rwy2":"22","lat2":38.57760300,"lon2":-90.16137800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ASOS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"DOWNTOWN TWR"},
+{"type":"APP","freq":123.7,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":38.57551100,"lon":-90.16827800,"rng_nm":18,"alt_fmsl":413,"hdg":302.13,"id":"ICPS","rwy":"30L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":38.56395300,"lon":-90.14852500,"rng_nm":10,"alt_fmsl":409,"id":"ICPS","rwy":"30L","desc":"GS","gs":2.85},
+{"type":"OM","freq":0,"lat":38.51975300,"lon":-90.05952800,"rng_nm":0,"alt_fmsl":553,"id":"----","rwy":"30L","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.55855000,"lon":-90.13391400,"rng_nm":0,"alt_fmsl":413,"id":"----","rwy":"30L","desc":"MM"}
+]
+}

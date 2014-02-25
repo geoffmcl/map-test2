@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMPE","name":"Philadelphia Muni","lat":32.7994345,"lon":-89.1259865,"rwys":1,"ils":0,"elev":456,"index":1482419,"path":"w090n30/w090n32"
+,"runways":[
+{"len_m":1523,"wid_m":15.24,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":32.80627500,"lon1":-89.12523100,"rwy2":"36","lat2":32.79259400,"lon2":-89.12674200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

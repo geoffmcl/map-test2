@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLZD","name":"Danielson","lat":41.81974069,"lon":-71.90096319,"rwys":1,"ils":0,"elev":237,"index":1777904,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":822,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"13","lat1":41.82157166,"lon1":-71.90526777,"rwy2":"31","lat2":41.81790972,"lon2":-71.89665861}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/Unicom"}
+]
+,"ils":[
+]
+}

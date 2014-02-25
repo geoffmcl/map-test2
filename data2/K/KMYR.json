@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMYR","name":"Myrtle Beach Intl","lat":33.68323675,"lon":-78.93390726,"rwys":1,"ils":2,"elev":24,"index":1662696,"path":"w080n30/w079n33"
+,"runways":[
+{"len_m":2896,"wid_m":45.72,"hdg":168,"surf":"Asphalt","rwy1":"18","lat1":33.69252200,"lon1":-78.93151400,"rwy2":"36","lat2":33.66695800,"lon2":-78.92512800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.92,"desc":"ATIS"},
+{"type":"ATIS","freq":124.5,"desc":"AWOS 3"},
+{"type":"CTAF","freq":128.45,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.3,"desc":"GND"},
+{"type":"TWR","freq":128.45,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":127.4,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":33.66305300,"lon":-78.92415600,"rng_nm":18,"alt_fmsl":14,"hdg":168.26,"id":"IMYR","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":33.69643300,"lon":-78.93249200,"rng_nm":18,"alt_fmsl":24,"hdg":348.26,"id":"IBSQ","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":33.69029200,"lon":-78.92928100,"rng_nm":10,"alt_fmsl":22,"id":"IMYR","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":33.67010300,"lon":-78.92423900,"rng_nm":10,"alt_fmsl":24,"id":"IBSQ","rwy":"36","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":33.70231100,"lon":-78.93395800,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"18","desc":"MM"},
+{"type":"MM","freq":0,"lat":33.65766700,"lon":-78.92283300,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"36","desc":"MM"}
+]
+}

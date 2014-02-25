@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGSB","name":"Seymour Johnson Afb","lat":35.34404000,"lon":-77.95980100,"rwys":1,"ils":2,"elev":110,"index":1679184,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":3584,"wid_m":91.44,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":35.33468600,"lon1":-77.97945300,"rwy2":"26","lat2":35.34407500,"lon2":-77.94172500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":128.02,"desc":"CLNC DEL"},
+{"type":"TWR","freq":126.25,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"DEP","freq":119.7,"desc":"DEP"},
+{"type":"DEP","freq":123.7,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":35.34557500,"lon":-77.93570800,"rng_nm":18,"alt_fmsl":110,"hdg":73.04,"id":"IGSB","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":35.33374200,"lon":-77.98325600,"rng_nm":18,"alt_fmsl":110,"hdg":253.03,"id":"IDDX","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":35.33402200,"lon":-77.97580000,"rng_nm":10,"alt_fmsl":110,"id":"IGSB","rwy":"08","desc":"GS","gs":2.7},
+{"type":"GS","freq":109.9,"lat":35.34187500,"lon":-77.94481700,"rng_nm":10,"alt_fmsl":110,"id":"IDDX","rwy":"26","desc":"GS","gs":2.5}
+]
+}

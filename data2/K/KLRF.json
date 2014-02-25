@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLRF","name":"Little Rock Afb","lat":34.91851375,"lon":-92.14287375,"rwys":2,"ils":1,"elev":311,"index":1433403,"path":"w100n30/w093n34"
+,"runways":[
+{"len_m":3657,"wid_m":60.96,"hdg":70,"surf":"Concrete","rwy1":"07","lat1":34.91140800,"lon1":-92.16547500,"rwy2":"25","lat2":34.92214700,"lon2":-92.12763100},
+{"len_m":1066,"wid_m":18.29,"hdg":71,"surf":"Asphalt","rwy1":"06","lat1":34.91869200,"lon1":-92.14471700,"rwy2":"24","lat2":34.92180800,"lon2":-92.13367200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":132.8,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":34.91035000,"lon":-92.16920300,"rng_nm":18,"alt_fmsl":311,"hdg":250.90,"id":"ITYV","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":34.91967800,"lon":-92.13121100,"rng_nm":10,"alt_fmsl":285,"id":"ITYV","rwy":"25","desc":"GS","gs":2.5}
+]
+}

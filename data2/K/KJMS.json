@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJMS","name":"Jamestown Rgnl","lat":46.929741,"lon":-98.67821825,"rwys":2,"ils":1,"elev":1498,"index":1335865,"path":"w100n40/w099n46"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":46.93565300,"lon1":-98.68710300,"rwy2":"31","lat2":46.92310000,"lon2":-98.66863900},
+{"len_m":1752,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":46.92450000,"lon1":-98.68665300,"rwy2":"22","lat2":46.93571100,"lon2":-98.67047800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":46.93758300,"lon":-98.68993600,"rng_nm":18,"alt_fmsl":1496,"hdg":314.87,"id":"IJMS","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":46.92571900,"lon":-98.67021900,"rng_nm":10,"alt_fmsl":1495,"id":"IJMS","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.86274200,"lon":-98.58069200,"rng_nm":0,"alt_fmsl":1498,"id":"----","rwy":"31","desc":"OM"},
+{"type":"DME","freq":109.3,"lat":46.93746100,"lon":-98.69070300,"rng_nm":18,"alt_fmsl":1496,"id":"IJMS","rwy":"31","desc":"DME-ILS"}
+]
+}

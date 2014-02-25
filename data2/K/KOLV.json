@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOLV","name":"Olive Branch","lat":34.9787525,"lon":-89.78685,"rwys":1,"ils":1,"elev":402,"index":1482552,"path":"w090n30/w090n34"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":34.98699400,"lon1":-89.78693100,"rwy2":"36","lat2":34.97051100,"lon2":-89.78676900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ATIS"},
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":125.27,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.2,"desc":"GND"},
+{"type":"TWR","freq":125.27,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.15,"desc":"MEMPHIS DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":34.96816900,"lon":-89.78674400,"rng_nm":18,"alt_fmsl":390,"hdg":179.54,"id":"IOLV","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":34.98425773,"lon":-89.78589972,"rng_nm":10,"alt_fmsl":399,"id":"IOLV","rwy":"18","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":34.96845300,"lon":-89.78760800,"rng_nm":18,"alt_fmsl":404,"id":"IOLV","rwy":"18","desc":"DME-ILS"}
+]
+}

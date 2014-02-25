@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHVS","name":"Hartsville Rgnl","lat":34.403072,"lon":-80.1192265,"rwys":1,"ils":0,"elev":364,"index":1629979,"path":"w090n30/w081n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":34.39672200,"lon1":-80.12238900,"rwy2":"21","lat2":34.40942200,"lon2":-80.11606400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+,"ils":[
+]
+}

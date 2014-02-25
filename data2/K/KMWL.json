@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMWL","name":"Mineral Wells","lat":32.781616,"lon":-98.060761,"rwys":2,"ils":1,"elev":974,"index":1334963,"path":"w100n30/w099n32"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":32.78742500,"lon1":-98.06428100,"rwy2":"31","lat2":32.77564200,"lon2":-98.05062200},
+{"len_m":1276,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":32.78745300,"lon1":-98.06399700,"rwy2":"35","lat2":32.77594400,"lon2":-98.06414400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":32.78806100,"lon":-98.06502200,"rng_nm":18,"alt_fmsl":908,"hdg":315.73,"id":"IVMH","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":32.77790600,"lon":-98.05499700,"rng_nm":10,"alt_fmsl":967,"id":"IVMH","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":109.55,"lat":32.78740600,"lon":-98.06551400,"rng_nm":18,"alt_fmsl":906,"id":"IVMH","rwy":"31","desc":"DME-ILS"}
+]
+}

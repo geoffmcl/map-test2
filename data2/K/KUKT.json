@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUKT","name":"Quakertown Airport","lat":40.43514498,"lon":-75.38193634,"rwys":1,"ils":0,"elev":524,"index":1712282,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":981,"wid_m":23.16,"hdg":98,"surf":"Asphalt","rwy1":"11","lat1":40.43581905,"lon1":-75.38764948,"rwy2":"29","lat2":40.43447091,"lon2":-75.37622319}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.47,"desc":"WX AWOS-3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP/DEP"}
+]
+,"ils":[
+]
+}

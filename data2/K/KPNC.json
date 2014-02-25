@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPNC","name":"Ponca City Rgnl","lat":36.72979700,"lon":-97.10177600,"rwys":2,"ils":1,"elev":1007,"index":1351595,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":38,"wid_m":2.13,"hdg":179,"surf":"Asphalt","rwy1":"13","lat1":36.74150416,"lon1":-97.09987024,"rwy2":"31","lat2":36.74116130,"lon2":-97.09986726},
+{"len_m":2194,"wid_m":46.02,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":36.74184761,"lon1":-97.09985869,"rwy2":"35","lat2":36.72206839,"lon2":-97.09969931}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.07,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":36.72108100,"lon":-97.09968900,"rng_nm":18,"alt_fmsl":1000,"hdg":179.63,"id":"IPNC","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":36.73667800,"lon":-97.09862200,"rng_nm":10,"alt_fmsl":1001,"id":"IPNC","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.82503300,"lon":-97.10053900,"rng_nm":0,"alt_fmsl":1038,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.74713900,"lon":-97.09988900,"rng_nm":0,"alt_fmsl":1007,"id":"----","rwy":"17","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":36.72098900,"lon":-97.10073100,"rng_nm":18,"alt_fmsl":1007,"id":"IPNC","rwy":"17","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCYO","name":"Pickaway Co Mem","lat":39.5160095,"lon":-82.9821415,"rwys":1,"ils":0,"elev":684,"index":1597536,"path":"w090n30/w083n39"
+,"runways":[
+{"len_m":1325,"wid_m":22.86,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":39.51004700,"lon1":-82.98255800,"rwy2":"19","lat2":39.52197200,"lon2":-82.98172500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.3,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+]
+}

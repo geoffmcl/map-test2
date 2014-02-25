@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCGX","name":"Chicago Meigs","lat":41.85975800,"lon":-87.60984200,"rwys":1,"ils":0,"elev":593,"index":1515761,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":1186,"wid_m":45.72,"hdg":176,"surf":"Concrete","rwy1":"18","lat1":41.86424619,"lon1":-87.60835463,"rwy2":"36","lat2":41.85357781,"lon2":-87.60758137}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":-87,"surf":"Concrete","lat1":41.85775900,"lon1":-87.60934200},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":-87,"surf":"Concrete","lat1":41.85793200,"lon1":-87.60935000},
+{"rwy1":"H3","len_m":34,"wid_m":34.14,"hdg":-87,"surf":"Concrete","lat1":41.85809900,"lon1":-87.60936500}
+]
+,"radios":[
+{"type":"ATIS","freq":122.15,"desc":"KANKAKEE FSS"},
+{"type":"ATIS","freq":127.35,"desc":"KCGX ATIS"},
+{"type":"CTAF","freq":121.3,"desc":"MEIGS CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"MEIGS UNICOM"},
+{"type":"GND","freq":121.8,"desc":"MEIGS GND"},
+{"type":"TWR","freq":121.3,"desc":"MEIGS TWR"},
+{"type":"APP","freq":118.4,"desc":"CHICAGO APP"},
+{"type":"APP","freq":126.05,"desc":"CHICAGO APP"},
+{"type":"DEP","freq":118.4,"desc":"CHICAGO DEP"},
+{"type":"DEP","freq":126.05,"desc":"CHICAGO DEP"}
+]
+,"ils":[
+]
+}

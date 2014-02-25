@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMKC","name":"Charles B Wheeler Downtown","lat":39.12273711,"lon":-94.59815015,"rwys":2,"ils":2,"elev":759,"index":1400897,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":12,"surf":"Concrete","rwy1":"01","lat1":39.11495521,"lon1":-94.59527133,"rwy2":"19","lat2":39.13370679,"lon2":-94.58985068},
+{"len_m":1539,"wid_m":46.02,"hdg":38,"surf":"Asphalt","rwy1":"03","lat1":39.11629435,"lon1":-94.59851424,"rwy2":"21","lat2":39.12715565,"lon2":-94.58744976}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":6.10,"hdg":-94,"surf":"Concrete","lat1":39.12439981,"lon1":-94.58858428},
+{"rwy1":"H2","len_m":6,"wid_m":6.10,"hdg":-94,"surf":"Concrete","lat1":39.12468293,"lon1":-94.58849304},
+{"rwy1":"H3","len_m":6,"wid_m":6.10,"hdg":-94,"surf":"Concrete","lat1":39.12495808,"lon1":-94.58841594}
+]
+,"radios":[
+{"type":"ATIS","freq":120.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":133.3,"desc":"DOWNTOWN TWR"},
+{"type":"APP","freq":119,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":39.12789400,"lon":-94.58795000,"rng_nm":18,"alt_fmsl":759,"hdg":35.25,"id":"IGQR","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":39.11378600,"lon":-94.59560800,"rng_nm":18,"alt_fmsl":748,"hdg":192.64,"id":"IMKC","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":39.12013900,"lon":-94.59628600,"rng_nm":10,"alt_fmsl":743,"id":"IGQR","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":39.13017500,"lon":-94.58942800,"rng_nm":10,"alt_fmsl":749,"id":"IMKC","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.22080000,"lon":-94.56433100,"rng_nm":0,"alt_fmsl":759,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.14353100,"lon":-94.58701100,"rng_nm":0,"alt_fmsl":759,"id":"----","rwy":"19","desc":"MM"}
+]
+}

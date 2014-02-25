@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCKZ","name":"Pennridge Airport","lat":40.38919614,"lon":-75.29067376,"rwys":1,"ils":0,"elev":567,"index":1712282,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":1282,"wid_m":30.48,"hdg":249,"surf":"Asphalt","rwy1":"08","lat1":40.39120014,"lon1":-75.28358876,"rwy2":"26","lat2":40.38719214,"lon2":-75.29775876}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.32,"desc":"WX AWOS-3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP/DEP"}
+]
+,"ils":[
+]
+}

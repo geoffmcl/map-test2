@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCQX","name":"Chatham Muni","lat":41.68843800,"lon":-69.99357600,"rwys":1,"ils":0,"elev":68,"index":1810664,"path":"w070n40/w070n41"
+,"runways":[
+{"len_m":914,"wid_m":30.48,"hdg":43,"surf":"Asphalt","rwy1":"06","lat1":41.68543300,"lon1":-69.99333300,"rwy2":"24","lat2":41.69136700,"lon2":-69.98571100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.3,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"CAPE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KASN","name":"Talladega Muni","lat":33.57163600,"lon":-86.05291000,"rwys":1,"ils":0,"elev":528,"index":1531619,"path":"w090n30/w087n33"
+,"runways":[
+{"len_m":1829,"wid_m":29.87,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":33.56319737,"lon1":-86.05655624,"rwy2":"21","lat2":33.57664263,"lon2":-86.04514776}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.45,"desc":"BIRMINGHAM APP/DEP"}
+]
+,"ils":[
+]
+}

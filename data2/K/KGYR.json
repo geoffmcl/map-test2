@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGYR","name":"Phoenix Goodyear","lat":33.42652791,"lon":-112.36819266,"rwys":1,"ils":0,"elev":968,"index":1105626,"path":"w120n30/w113n33"
+,"runways":[
+{"len_m":2591,"wid_m":46.02,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":33.41472342,"lon1":-112.38333603,"rwy2":"21","lat2":33.43272658,"lon2":-112.36557997}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-112,"surf":"Asphalt","lat1":33.43431373,"lon1":-112.36302709}
+]
+,"radios":[
+{"type":"ATIS","freq":118.35,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"GOODYEAR TWR"},
+{"type":"APP","freq":125.45,"desc":"LUKE APP/DEP"}
+]
+,"ils":[
+]
+}

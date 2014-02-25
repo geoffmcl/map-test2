@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWVL","name":"Waterville Robert Lafleur","lat":44.53333075,"lon":-69.67546375,"rwys":2,"ils":1,"elev":333,"index":1810849,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":28,"surf":"Asphalt","rwy1":"05","lat1":44.52651700,"lon1":-69.68063300,"rwy2":"23","lat2":44.53976700,"lon2":-69.67054400},
+{"len_m":700,"wid_m":45.72,"hdg":125,"surf":"Asphalt","rwy1":"14","lat1":44.53533900,"lon1":-69.67893900,"rwy2":"32","lat2":44.53170000,"lon2":-69.67173900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.25,"desc":"PORTLAND APP/DEP"},
+{"type":"APP","freq":128.2,"desc":"PORTLAND APP/DEP"},
+{"type":"APP","freq":128.35,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":44.54229400,"lon":-69.66861900,"rng_nm":18,"alt_fmsl":333,"hdg":28.50,"id":"IRLU","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":44.52833600,"lon":-69.67858100,"rng_nm":10,"alt_fmsl":277,"id":"IRLU","rwy":"05","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":44.51723100,"lon":-69.68860000,"rng_nm":0,"alt_fmsl":333,"id":"----","rwy":"05","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":44.54246100,"lon":-69.66989200,"rng_nm":18,"alt_fmsl":333,"id":"IRLU","rwy":"05","desc":"DME-ILS"}
+]
+}

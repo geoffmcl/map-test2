@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLVK","name":"Livermore Muni","lat":37.69587590,"lon":-121.81766283,"rwys":2,"ils":1,"elev":400,"index":958440,"path":"w130n30/w122n37"
+,"runways":[
+{"len_m":1600,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"07L","lat1":37.69393600,"lon1":-121.82940000,"rwy2":"25R","lat2":37.69379200,"lon2":-121.81125000},
+{"len_m":822,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"07R","lat1":37.69253100,"lon1":-121.82508900,"rwy2":"25L","lat2":37.69245600,"lon2":-121.81576100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-121,"surf":"Concrete","lat1":37.69557950,"lon1":-121.82042912},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":-121,"surf":"Concrete","lat1":37.69023318,"lon1":-121.82336040}
+]
+,"radios":[
+{"type":"ATIS","freq":119.65,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":123.85,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":125.35,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":37.69395000,"lon":-121.83128900,"rng_nm":18,"alt_fmsl":365,"hdg":270.57,"id":"ILVK","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":37.69313300,"lon":-121.81467800,"rng_nm":10,"alt_fmsl":393,"id":"ILVK","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.69222200,"lon":-121.68407500,"rng_nm":0,"alt_fmsl":683,"id":"----","rwy":"25R","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.69367500,"lon":-121.80194400,"rng_nm":0,"alt_fmsl":400,"id":"----","rwy":"25R","desc":"MM"}
+]
+}

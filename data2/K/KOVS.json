@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOVS","name":"Boscobel","lat":43.16039225,"lon":-90.6746345,"rwys":2,"ils":0,"elev":672,"index":1466697,"path":"w100n40/w091n43"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":43.16039400,"lon1":-90.67901900,"rwy2":"25","lat2":43.16573900,"lon2":-90.66176100},
+{"len_m":1115,"wid_m":17.68,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":43.15291400,"lon1":-90.68087200,"rwy2":"20","lat2":43.16252200,"lon2":-90.67688600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

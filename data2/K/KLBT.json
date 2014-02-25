@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLBT","name":"Lumberton Muni","lat":34.6104805,"lon":-79.0583365,"rwys":3,"ils":1,"elev":126,"index":1646371,"path":"w080n30/w080n34"
+,"runways":[
+{"len_m":1679,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":34.60426400,"lon1":-79.06733300,"rwy2":"23","lat2":34.61495000,"lon2":-79.05436100},
+{"len_m":1523,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"13","lat1":34.61396400,"lon1":-79.06494700,"rwy2":"31","lat2":34.60609400,"lon2":-79.05133100},
+{"len_m":1516,"wid_m":45.72,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":34.60497200,"lon1":-79.05605300,"rwy2":"19","lat2":34.61863900,"lon2":-79.05599400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133,"desc":"FAYETTEVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":34.61591900,"lon":-79.05318300,"rng_nm":18,"alt_fmsl":126,"hdg":44.98,"id":"IJBD","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":34.60605000,"lon":-79.06337500,"rng_nm":10,"alt_fmsl":126,"id":"IJBD","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.54600000,"lon":-79.13836100,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.60006700,"lon":-79.07242500,"rng_nm":0,"alt_fmsl":126,"id":"----","rwy":"05","desc":"MM"}
+]
+}

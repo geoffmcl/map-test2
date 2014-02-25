@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSUE","name":"Door Co Cherryland","lat":44.84378875,"lon":-87.42127025,"rwys":2,"ils":0,"elev":724,"index":1515954,"path":"w090n40/w088n44"
+,"runways":[
+{"len_m":1402,"wid_m":22.86,"hdg":12,"surf":"Asphalt","rwy1":"02","lat1":44.83692200,"lon1":-87.42475000,"rwy2":"20","lat2":44.84921900,"lon2":-87.42078600},
+{"len_m":975,"wid_m":22.86,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":44.84474200,"lon1":-87.42593100,"rwy2":"28","lat2":44.84427200,"lon2":-87.41361400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.25,"desc":"GREEN BAY APP/DEP"}
+]
+,"ils":[
+]
+}

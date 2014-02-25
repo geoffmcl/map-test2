@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLWB","name":"Greenbrier Valley","lat":37.85654280,"lon":-80.40452380,"rwys":1,"ils":1,"elev":2302,"index":1630194,"path":"w090n30/w081n37"
+,"runways":[
+{"len_m":2134,"wid_m":46.02,"hdg":35,"surf":"Asphalt","rwy1":"04","lat1":37.85046100,"lon1":-80.40648900,"rwy2":"22","lat2":37.86615300,"lon2":-80.39247500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.4,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"LEWISBURG TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":37.86276100,"lon":-80.39422200,"rng_nm":18,"alt_fmsl":2299,"hdg":38.22,"id":"ILWB","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":37.85312200,"lon":-80.40516900,"rng_nm":10,"alt_fmsl":2286,"id":"ILWB","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.78217800,"lon":-80.46843600,"rng_nm":0,"alt_fmsl":2160,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.84082500,"lon":-80.41489400,"rng_nm":0,"alt_fmsl":2302,"id":"----","rwy":"04","desc":"MM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSHD","name":"Shenandoah Valley Regional","lat":38.26336361,"lon":-78.89994409,"rwys":1,"ils":1,"elev":1201,"index":1662992,"path":"w080n30/w079n38"
+,"runways":[
+{"len_m":1826,"wid_m":46.02,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":38.25737227,"lon1":-78.90291873,"rwy2":"23","lat2":38.27030848,"lon2":-78.89002354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.85,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":38.27248600,"lon":-78.88780800,"rng_nm":18,"alt_fmsl":1201,"hdg":38.14,"id":"ISHD","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":38.25995000,"lon":-78.90143300,"rng_nm":10,"alt_fmsl":1178,"id":"ISHD","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.20176900,"lon":-78.95730600,"rng_nm":0,"alt_fmsl":1201,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.25176900,"lon":-78.90850000,"rng_nm":0,"alt_fmsl":1201,"id":"----","rwy":"05","desc":"MM"}
+]
+}

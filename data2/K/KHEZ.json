@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHEZ","name":"Hardy Anders Fld Natchez Adams Co","lat":31.6135925,"lon":-91.297134,"rwys":2,"ils":1,"elev":272,"index":1449570,"path":"w100n30/w092n31"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":31.62057800,"lon1":-91.30590000,"rwy2":"31","lat2":31.60765600,"lon2":-91.29148100},
+{"len_m":1523,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":31.61993900,"lon1":-91.29545800,"rwy2":"36","lat2":31.60619700,"lon2":-91.29569700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":31.60546100,"lon":-91.28903600,"rng_nm":18,"alt_fmsl":272,"hdg":136.47,"id":"IHEZ","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.35,"lat":31.61803100,"lon":-91.30431900,"rng_nm":10,"alt_fmsl":263,"id":"IHEZ","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.67515300,"lon":-91.37108100,"rng_nm":0,"alt_fmsl":272,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.62578300,"lon":-91.31170000,"rng_nm":0,"alt_fmsl":272,"id":"----","rwy":"13","desc":"MM"}
+]
+}

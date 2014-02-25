@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCLM","name":"William R Fairchild Intl","lat":48.11613905,"lon":-123.49256653,"rwys":2,"ils":1,"elev":291,"index":926338,"path":"w130n40/w124n48"
+,"runways":[
+{"len_m":1941,"wid_m":46.02,"hdg":104,"surf":"Asphalt","rwy1":"08","lat1":48.12104357,"lon1":-123.51156044,"rwy2":"26","lat2":48.11664843,"lon2":-123.48632663},
+{"len_m":989,"wid_m":14.94,"hdg":147,"surf":"Asphalt","rwy1":"13","lat1":48.12656700,"lon1":-123.50476100,"rwy2":"31","lat2":48.11905800,"lon2":-123.49763300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.18,"desc":"ASOS"},
+{"type":"CTAF","freq":122.98,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.15,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"WHIDBEY APP/DEP"},
+{"type":"DEP","freq":118.2,"desc":"WHIDBEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":48.11644400,"lon":-123.48516700,"rng_nm":18,"alt_fmsl":291,"hdg":104.64,"id":"ICLM","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":48.12125600,"lon":-123.50710000,"rng_nm":10,"alt_fmsl":281,"id":"ICLM","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.14242200,"lon":-123.67025100,"rng_nm":0,"alt_fmsl":1069,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.12286700,"lon":-123.52202200,"rng_nm":0,"alt_fmsl":291,"id":"----","rwy":"08","desc":"MM"}
+]
+}

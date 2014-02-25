@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPLN","name":"Pellston Rgnl Arpt Of Emmet Co","lat":45.57106925,"lon":-84.796602,"rwys":2,"ils":1,"elev":720,"index":1565152,"path":"w090n40/w085n45"
+,"runways":[
+{"len_m":1984,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":45.57576700,"lon1":-84.80688900,"rwy2":"32","lat2":45.56320800,"lon2":-84.78881400},
+{"len_m":1644,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":45.56739400,"lon1":-84.80276100,"rwy2":"23","lat2":45.57790800,"lon2":-84.78794400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":45.57777500,"lon":-84.80978100,"rng_nm":18,"alt_fmsl":720,"hdg":314.78,"id":"IPLN","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":45.56433600,"lon":-84.79265800,"rng_nm":10,"alt_fmsl":709,"id":"IPLN","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.50165000,"lon":-84.70073600,"rng_nm":0,"alt_fmsl":720,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.55753900,"lon":-84.78065800,"rng_nm":0,"alt_fmsl":720,"id":"----","rwy":"32","desc":"MM"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSUA","name":"Witham Fld","lat":27.18545197,"lon":-80.22261803,"rwys":3,"ils":0,"elev":18,"index":1629515,"path":"w090n20/w081n27"
+,"runways":[
+{"len_m":1779,"wid_m":30.48,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":27.18201969,"lon1":-80.23146649,"rwy2":"30","lat2":27.17640800,"lon2":-80.21463900},
+{"len_m":1577,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":27.18864606,"lon1":-80.22160901,"rwy2":"34","lat2":27.17581997,"lon2":-80.21470176},
+{"len_m":1448,"wid_m":30.48,"hdg":68,"surf":"Asphalt","rwy1":"07","lat1":27.18161931,"lon1":-80.22911596,"rwy2":"25","lat2":27.18649499,"lon2":-80.21555541}
+]
+,"helipads":[
+{"rwy1":"H6","len_m":12,"wid_m":11.58,"hdg":-80,"surf":"Concrete","lat1":27.18498268,"lon1":-80.22326993},
+{"rwy1":"H7","len_m":11,"wid_m":10.97,"hdg":-80,"surf":"Concrete","lat1":27.18577977,"lon1":-80.22208377}
+]
+,"radios":[
+{"type":"ATIS","freq":134.47,"desc":"ATIS"},
+{"type":"CTAF","freq":126.6,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.6,"desc":"STUART TWR"},
+{"type":"APP","freq":128.3,"desc":"PALM BEACH APP/DEP"}
+]
+,"ils":[
+]
+}

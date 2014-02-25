@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGSP","name":"Greenville Spartanburg Intl","lat":34.895671,"lon":-82.2188585,"rwys":1,"ils":2,"elev":963,"index":1597243,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":3352,"wid_m":45.72,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":34.88288600,"lon1":-82.22863600,"rwy2":"22","lat2":34.90845600,"lon2":-82.20908100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.25,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GREER GND"},
+{"type":"TWR","freq":120.1,"desc":"GREER TWR"},
+{"type":"APP","freq":120.6,"desc":"GREER APP/DEP"},
+{"type":"APP","freq":118.8,"desc":"GREER APP/DEP"},
+{"type":"APP","freq":119.4,"desc":"GREER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":34.91080000,"lon":-82.20728900,"rng_nm":18,"alt_fmsl":963,"hdg":32.10,"id":"IGSP","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":34.88043900,"lon":-82.23050600,"rng_nm":18,"alt_fmsl":905,"hdg":212.09,"id":"ILMJ","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":34.88581900,"lon":-82.22796900,"rng_nm":10,"alt_fmsl":905,"id":"IGSP","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":34.90623100,"lon":-82.21236100,"rng_nm":10,"alt_fmsl":961,"id":"ILMJ","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.81551100,"lon":-82.28012800,"rng_nm":0,"alt_fmsl":963,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":34.97743100,"lon":-82.15622200,"rng_nm":0,"alt_fmsl":963,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.87684200,"lon":-82.23325600,"rng_nm":0,"alt_fmsl":838,"id":"----","rwy":"04","desc":"MM"},
+{"type":"IM","freq":0,"lat":34.88066900,"lon":-82.23032200,"rng_nm":0,"alt_fmsl":963,"id":"----","rwy":"04","desc":"IM"}
+]
+}

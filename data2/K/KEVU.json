@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEVU","name":"Northwest Missouri Rgnl","lat":40.351908,"lon":-94.9147105,"rwys":2,"ils":0,"elev":1150,"index":1400976,"path":"w100n40/w095n40"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":148,"surf":"Concrete","rwy1":"14","lat1":40.35865800,"lon1":-94.92097500,"rwy2":"32","lat2":40.34932200,"lon2":-94.91342800},
+{"len_m":609,"wid_m":13.72,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":40.35253300,"lon1":-94.91161400,"rwy2":"36","lat2":40.34711900,"lon2":-94.91282500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

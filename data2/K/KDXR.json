@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDXR","name":"Danbury","lat":41.37257532,"lon":-73.48497801,"rwys":2,"ils":1,"elev":458,"index":1745106,"path":"w080n40/w074n41"
+,"runways":[
+{"len_m":1347,"wid_m":46.02,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":41.36869420,"lon1":-73.49076102,"rwy2":"26","lat2":41.37289400,"lon2":-73.47564701},
+{"len_m":955,"wid_m":29.87,"hdg":153,"surf":"Asphalt","rwy1":"17","lat1":41.37641127,"lon1":-73.48334439,"rwy2":"35","lat2":41.36873900,"lon2":-73.47817200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":119.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":126.4,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.55,"lat":41.37039200,"lon":-73.48135000,"rng_nm":18,"alt_fmsl":458,"id":"IDXR","rwy":"08","desc":"LOC"},
+{"type":"OM","freq":0,"lat":41.34563100,"lon":-73.59740800,"rng_nm":0,"alt_fmsl":458,"id":"----","rwy":"08","desc":"OM"},
+{"type":"DME","freq":111.55,"lat":41.37006400,"lon":-73.48198300,"rng_nm":18,"alt_fmsl":453,"id":"IDXR","rwy":"08","desc":"DME-ILS"}
+]
+}

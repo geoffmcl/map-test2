@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCQW","name":"Cheraw Muni Lynch Bellinger Fld","lat":34.712875,"lon":-79.957004,"rwys":1,"ils":0,"elev":239,"index":1646376,"path":"w080n30/w080n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":34.71053300,"lon1":-79.96482500,"rwy2":"26","lat2":34.71521700,"lon2":-79.94918300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"FLORENCE APP/DEP"}
+]
+,"ils":[
+]
+}

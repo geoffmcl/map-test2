@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVSF","name":"Hartness State","lat":43.343116,"lon":-72.51807875,"rwys":2,"ils":1,"elev":577,"index":1761617,"path":"w080n40/w073n43"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"05","lat1":43.33891700,"lon1":-72.52126400,"rwy2":"23","lat2":43.35132500,"lon2":-72.50951700},
+{"len_m":914,"wid_m":22.86,"hdg":98,"surf":"Asphalt","rwy1":"11","lat1":43.34173600,"lon1":-72.52634200,"rwy2":"29","lat2":43.34048600,"lon2":-72.51519200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":43.34911900,"lon":-72.51021700,"rng_nm":18,"alt_fmsl":577,"id":"IVSF","rwy":"05","desc":"LOC"},
+{"type":"DME","freq":111.3,"lat":43.34887800,"lon":-72.50947500,"rng_nm":18,"alt_fmsl":577,"id":"IVSF","rwy":"05","desc":"DME-ILS"}
+]
+}

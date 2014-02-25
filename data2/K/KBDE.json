@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBDE","name":"Baudette Intl","lat":48.7284445,"lon":-94.6122085,"rwys":1,"ils":0,"elev":1086,"index":1401513,"path":"w100n40/w095n48"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":48.73230600,"lon1":-94.62198900,"rwy2":"30","lat2":48.72458300,"lon2":-94.60242800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

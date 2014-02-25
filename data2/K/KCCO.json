@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCCO","name":"Newnan Coweta Co","lat":33.311564,"lon":-84.769754,"rwys":1,"ils":1,"elev":970,"index":1564368,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":1674,"wid_m":30.48,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":33.31730600,"lon1":-84.77559400,"rwy2":"32","lat2":33.30582200,"lon2":-84.76391400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.8,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":33.31836219,"lon":-84.77666729,"rng_nm":18,"alt_fmsl":970,"hdg":319.64,"id":"ICCO","rwy":"32","desc":"ILS-cat-I"}
+]
+}

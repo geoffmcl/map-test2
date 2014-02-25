@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFZY","name":"Oswego Co","lat":43.3507125,"lon":-76.38805775,"rwys":2,"ils":0,"elev":475,"index":1696082,"path":"w080n40/w077n43"
+,"runways":[
+{"len_m":1583,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"15","lat1":43.35640000,"lon1":-76.39471400,"rwy2":"33","lat2":43.34599200,"lon2":-76.38136400},
+{"len_m":1217,"wid_m":30.48,"hdg":46,"surf":"Asphalt","rwy1":"06","lat1":43.34648600,"lon1":-76.39356100,"rwy2":"24","lat2":43.35397200,"lon2":-76.38259200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.27,"desc":"SYRACUSE APP/DEP"}
+]
+,"ils":[
+]
+}

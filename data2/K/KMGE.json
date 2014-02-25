@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMGE","name":"Dobbins Arb","lat":33.915275,"lon":-84.516347,"rwys":1,"ils":2,"elev":1068,"index":1564409,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":3048,"wid_m":91.44,"hdg":106,"surf":"Concrete","rwy1":"11","lat1":33.91911700,"lon1":-84.53217200,"rwy2":"29","lat2":33.91143300,"lon2":-84.50052200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.3,"desc":"GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":33.91066400,"lon":-84.49735300,"rng_nm":18,"alt_fmsl":981,"hdg":106.32,"id":"IDJR","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.35,"lat":33.91994700,"lon":-84.53559200,"rng_nm":18,"alt_fmsl":1068,"hdg":286.30,"id":"IVRW","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":33.91902200,"lon":-84.52705800,"rng_nm":10,"alt_fmsl":1046,"id":"IDJR","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":111.35,"lat":33.91281100,"lon":-84.50354400,"rng_nm":10,"alt_fmsl":1068,"id":"IVRW","rwy":"29","desc":"GS","gs":3}
+]
+}

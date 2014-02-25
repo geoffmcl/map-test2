@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRVL","name":"Mifflin Co","lat":40.677376,"lon":-77.626826,"rwys":1,"ils":1,"elev":819,"index":1679529,"path":"w080n40/w078n40"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":40.67285200,"lon1":-77.63360300,"rwy2":"24","lat2":40.68190000,"lon2":-77.62004900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.85,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.3,"lat":40.68298900,"lon":-77.61841900,"rng_nm":18,"alt_fmsl":819,"id":"IRVL","rwy":"06","desc":"LOC"},
+{"type":"OM","freq":0,"lat":40.61470800,"lon":-77.71793900,"rng_nm":0,"alt_fmsl":2430,"id":"----","rwy":"06","desc":"OM"}
+]
+}

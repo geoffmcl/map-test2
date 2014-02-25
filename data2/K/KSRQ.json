@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSRQ","name":"Sarasota Bradenton Intl","lat":27.39648100,"lon":-82.55517600,"rwys":2,"ils":2,"elev":31,"index":1596761,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":2895,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":27.40462200,"lon1":-82.56564400,"rwy2":"32","lat2":27.38634400,"lon2":-82.54471900},
+{"len_m":1527,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":27.38998100,"lon1":-82.55765300,"rwy2":"22","lat2":27.40082500,"lon2":-82.54812500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CLD","freq":118.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":124.95,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":27.38517800,"lon":-82.54338100,"rng_nm":18,"alt_fmsl":27,"hdg":134.53,"id":"IFFV","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":27.40578300,"lon":-82.56697200,"rng_nm":18,"alt_fmsl":25,"hdg":314.53,"id":"ISRQ","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":27.40054700,"lon":-82.55983300,"rng_nm":10,"alt_fmsl":22,"id":"IFFV","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":27.39108900,"lon":-82.54900300,"rng_nm":10,"alt_fmsl":24,"id":"ISRQ","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":27.32822800,"lon":-82.47843900,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":27.40695800,"lon":-82.56706900,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"14","desc":"MM"},
+{"type":"MM","freq":0,"lat":27.38365600,"lon":-82.54240300,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":111.3,"lat":27.38657800,"lon":-82.54616700,"rng_nm":18,"alt_fmsl":31,"id":"IFFV","rwy":"14","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOFP","name":"Hanover Co Muni","lat":37.708939,"lon":-77.4366415,"rwys":1,"ils":1,"elev":208,"index":1679338,"path":"w080n30/w078n37"
+,"runways":[
+{"len_m":1646,"wid_m":30.48,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":37.71534200,"lon1":-77.44135000,"rwy2":"34","lat2":37.70253600,"lon2":-77.43193300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.4,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":134.7,"desc":"POTOMAC APP"},
+{"type":"DEP","freq":134.7,"desc":"POTOMAC DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":37.70066900,"lon":-77.43060100,"rng_nm":18,"alt_fmsl":208,"id":"IOFP","rwy":"16","desc":"LOC"},
+{"type":"DME","freq":109.7,"lat":37.70029889,"lon":-77.43139970,"rng_nm":18,"alt_fmsl":208,"id":"IOFP","rwy":"16","desc":"DME-ILS"}
+]
+}

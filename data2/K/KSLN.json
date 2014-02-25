@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLN","name":"Salina Muni","lat":38.7896185,"lon":-97.654309875,"rwys":4,"ils":1,"elev":1288,"index":1351729,"path":"w100n30/w098n38"
+,"runways":[
+{"len_m":3748,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":38.81040600,"lon1":-97.64596000,"rwy2":"35","lat2":38.77663600,"lon2":-97.64587800},
+{"len_m":1983,"wid_m":30.48,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":38.79357800,"lon1":-97.66697500,"rwy2":"30","lat2":38.78153100,"lon2":-97.65010800},
+{"len_m":1310,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":38.79381400,"lon1":-97.66146900,"rwy2":"36","lat2":38.78200800,"lon2":-97.66143600},
+{"len_m":1111,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"04","lat1":38.78619400,"lon1":-97.65614700,"rwy2":"22","lat2":38.79278100,"lon2":-97.64650600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.15,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":38.81483600,"lon":-97.64597200,"rng_nm":18,"alt_fmsl":1244,"hdg":359.89,"id":"ISLN","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":38.77980600,"lon":-97.64448300,"rng_nm":10,"alt_fmsl":1267,"id":"ISLN","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.68154700,"lon":-97.64508300,"rng_nm":0,"alt_fmsl":1315,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.76908600,"lon":-97.64586900,"rng_nm":0,"alt_fmsl":1289,"id":"----","rwy":"35","desc":"MM"}
+]
+}

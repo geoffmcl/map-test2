@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOEL","name":"Oakley Muni","lat":39.112894,"lon":-100.81683125,"rwys":2,"ils":0,"elev":3045,"index":1302592,"path":"w110n30/w101n39"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":39.11668100,"lon1":-100.81812200,"rwy2":"34","lat2":39.10321100,"lon2":-100.81474200},
+{"len_m":696,"wid_m":33.53,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":39.11584200,"lon1":-100.82125800,"rwy2":"26","lat2":39.11584200,"lon2":-100.81320300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFSI","name":"Henry Post Aaf","lat":34.6483238133333,"lon":-98.400548455,"rwys":1,"ils":0,"elev":1188,"index":1335082,"path":"w100n30/w099n34"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":34.65669200,"lon1":-98.40215600,"rwy2":"35","lat2":34.64295000,"lon2":-98.40219400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":14.94,"hdg":-98,"surf":"Asphalt","lat1":34.65452573,"lon1":-98.40042695},
+{"rwy1":"H2","len_m":12,"wid_m":12.50,"hdg":-98,"surf":"Asphalt","lat1":34.65149880,"lon1":-98.40043782},
+{"rwy1":"H3","len_m":11,"wid_m":11.28,"hdg":-98,"surf":"Asphalt","lat1":34.64690306,"lon1":-98.40044912},
+{"rwy1":"H4","len_m":10,"wid_m":12.50,"hdg":-98,"surf":"Asphalt","lat1":34.64418234,"lon1":-98.40045731},
+{"rwy1":"H5","len_m":33,"wid_m":30.48,"hdg":-98,"surf":"Asphalt","lat1":34.64301195,"lon1":-98.39934453}
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"POST GND"},
+{"type":"TWR","freq":124.95,"desc":"POST TWR"},
+{"type":"APP","freq":118.6,"desc":"FORT SILL APP/DEP"},
+{"type":"APP","freq":120.55,"desc":"FORT SILL APP/DEP"},
+{"type":"APP","freq":127.3,"desc":"FORT SILL APP/DEP"}
+]
+,"ils":[
+]
+}

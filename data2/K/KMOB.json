@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMOB","name":"Mobile Rgnl","lat":30.69380800,"lon":-88.24607100,"rwys":2,"ils":2,"elev":219,"index":1498667,"path":"w090n30/w089n30"
+,"runways":[
+{"len_m":2597,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":30.70230800,"lon1":-88.25400300,"rwy2":"32","lat2":30.68330600,"lon2":-88.23814700},
+{"len_m":1330,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.69455800,"lon1":-88.23651400,"rwy2":"36","lat2":30.68255600,"lon2":-88.23650800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.75,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"APP/DEP"},
+{"type":"APP","freq":118.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":30.67991900,"lon":-88.23532200,"rng_nm":18,"alt_fmsl":209,"hdg":144.35,"id":"IMOB","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":30.70429400,"lon":-88.25565800,"rng_nm":18,"alt_fmsl":207,"hdg":324.34,"id":"IATE","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":30.70061400,"lon":-88.25101700,"rng_nm":10,"alt_fmsl":213,"id":"IMOB","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":30.68673300,"lon":-88.23855300,"rng_nm":10,"alt_fmsl":214,"id":"IATE","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.76064200,"lon":-88.30280300,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"14","desc":"OM"},
+{"type":"OM","freq":0,"lat":30.61805000,"lon":-88.18072500,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.70825000,"lon":-88.25896100,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"14","desc":"MM"},
+{"type":"MM","freq":0,"lat":30.67763100,"lon":-88.23341100,"rng_nm":0,"alt_fmsl":219,"id":"----","rwy":"32","desc":"MM"}
+]
+}

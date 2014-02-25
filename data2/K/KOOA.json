@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOOA","name":"Oskaloosa Muni","lat":41.226766,"lon":-92.4938945,"rwys":2,"ils":0,"elev":840,"index":1433802,"path":"w100n40/w093n41"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":41.22872200,"lon1":-92.49901100,"rwy2":"31","lat2":41.22101400,"lon2":-92.48864200},
+{"len_m":589,"wid_m":22.86,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":41.22676700,"lon1":-92.49641900,"rwy2":"22","lat2":41.23056100,"lon2":-92.49150600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

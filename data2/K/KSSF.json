@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSSF","name":"Stinson Muni","lat":29.33883700,"lon":-98.46790300,"rwys":2,"ils":0,"elev":577,"index":1334738,"path":"w100n20/w099n29"
+,"runways":[
+{"len_m":1473,"wid_m":30.48,"hdg":102,"surf":"Asphalt","rwy1":"09","lat1":29.33854700,"lon1":-98.48093900,"rwy2":"27","lat2":29.33566400,"lon2":-98.46612800},
+{"len_m":1258,"wid_m":30.48,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":29.34156400,"lon1":-98.47202200,"rwy2":"32","lat2":29.33222200,"lon2":-98.46465800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":125.7,"desc":"SAN ANTONIO APP/DEP"}
+]
+,"ils":[
+]
+}

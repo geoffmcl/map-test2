@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEFT","name":"Monroe Muni","lat":42.6146735,"lon":-89.5911605,"rwys":2,"ils":0,"elev":1086,"index":1483041,"path":"w090n40/w090n42"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":42.61878300,"lon1":-89.59682800,"rwy2":"30","lat2":42.61163300,"lon2":-89.58097800},
+{"len_m":923,"wid_m":22.86,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":42.61027800,"lon1":-89.59549700,"rwy2":"20","lat2":42.61800000,"lon2":-89.59133900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+,"ils":[
+]
+}

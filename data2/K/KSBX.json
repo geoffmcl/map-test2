@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBX","name":"Shelby","lat":48.540582,"lon":-111.871106,"rwys":2,"ils":0,"elev":3443,"index":1122976,"path":"w120n40/w112n48"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":64,"surf":"Asphalt","rwy1":"05","lat1":48.53835300,"lon1":-111.88141900,"rwy2":"23","lat2":48.54414700,"lon2":-111.86271900},
+{"len_m":1127,"wid_m":18.29,"hdg":128,"surf":"Asphalt","rwy1":"11","lat1":48.54310000,"lon1":-111.87608300,"rwy2":"29","lat2":48.53672800,"lon2":-111.86420300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.4,"desc":"SALT LAKE CNTR"}
+]
+,"ils":[
+]
+}

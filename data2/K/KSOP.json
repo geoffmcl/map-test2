@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSOP","name":"Moore Co","lat":35.23712625,"lon":-79.39325,"rwys":2,"ils":1,"elev":461,"index":1646410,"path":"w080n30/w080n35"
+,"runways":[
+{"len_m":1677,"wid_m":45.72,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":35.23238300,"lon1":-79.39545000,"rwy2":"23","lat2":35.24283900,"lon2":-79.38214200},
+{"len_m":609,"wid_m":30.48,"hdg":137,"surf":"Turf/grass","rwy1":"14","lat1":35.23867200,"lon1":-79.39995800,"rwy2":"32","lat2":35.23461100,"lon2":-79.39545000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127,"desc":"FAYETTEVILLE CLNCDEL"},
+{"type":"APP","freq":127.8,"desc":"FAYETTEVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":35.24379835,"lon":-79.38092185,"rng_nm":18,"alt_fmsl":461,"hdg":46.11,"id":"ISOP","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":35.23369156,"lon":-79.39233142,"rng_nm":10,"alt_fmsl":461,"id":"ISOP","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.16536753,"lon":-79.48073957,"rng_nm":0,"alt_fmsl":461,"id":"----","rwy":"05","desc":"OM"}
+]
+}

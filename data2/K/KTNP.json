@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTNP","name":"Twentynine Palms","lat":34.130959,"lon":-115.94616825,"rwys":2,"ils":0,"elev":1887,"index":1056520,"path":"w120n30/w116n34"
+,"runways":[
+{"len_m":1685,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.13434700,"lon1":-115.95344200,"rwy2":"26","lat2":34.13443900,"lon2":-115.93516700},
+{"len_m":1157,"wid_m":15.24,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.13274200,"lon1":-115.94801400,"rwy2":"35","lat2":34.12230800,"lon2":-115.94805000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

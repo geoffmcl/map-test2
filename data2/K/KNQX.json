@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNQX","name":"Key West Nas","lat":24.58098600,"lon":-81.69078100,"rwys":3,"ils":0,"elev":6,"index":1612961,"path":"w090n20/w082n24"
+,"runways":[
+{"len_m":3048,"wid_m":60.96,"hdg":72,"surf":"Asphalt","rwy1":"07","lat1":24.57249700,"lon1":-81.70010000,"rwy2":"25","lat2":24.58054400,"lon2":-81.67132200},
+{"len_m":2133,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":24.56572500,"lon1":-81.69591700,"rwy2":"21","lat2":24.58215600,"lon2":-81.68491900},
+{"len_m":2133,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":24.57898600,"lon1":-81.69226400,"rwy2":"31","lat2":24.56638600,"lon2":-81.67633100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.1,"desc":"TWR"},
+{"type":"APP","freq":119.25,"desc":"APP DEP"},
+{"type":"APP","freq":124.45,"desc":"APP DEP"}
+]
+,"ils":[
+]
+}

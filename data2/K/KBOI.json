@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBOI","name":"Boise Air Terminal (gowen Field)","lat":43.55584077,"lon":-116.21927280,"rwys":3,"ils":1,"elev":2871,"index":1040739,"path":"w120n40/w117n43"
+,"runways":[
+{"len_m":3047,"wid_m":45.72,"hdg":115,"surf":"Asphalt","rwy1":"10L","lat1":43.57021098,"lon1":-116.23691095,"rwy2":"28R","lat2":43.55855598,"lon2":-116.20276395},
+{"len_m":2975,"wid_m":45.72,"hdg":115,"surf":"Asphalt","rwy1":"10R","lat1":43.57003298,"lon1":-116.24261695,"rwy2":"28L","lat2":43.55865598,"lon2":-116.20927495},
+{"len_m":1523,"wid_m":22.86,"hdg":104,"surf":"Asphalt","rwy1":"09","lat1":43.54177198,"lon1":-116.20818099,"rwy2":"27","lat2":43.53822098,"lon2":-116.18996799}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.9,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":125.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":126.9,"desc":"APP/DEP"},
+{"type":"APP","freq":119.6,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":43.55698100,"lon":-116.20436900,"rng_nm":18,"alt_fmsl":2871,"hdg":115.23,"id":"IBOI","rwy":"10R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":43.56802500,"lon":-116.23983300,"rng_nm":10,"alt_fmsl":2824,"id":"IBOI","rwy":"10R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.59687200,"lon":-116.31520800,"rng_nm":0,"alt_fmsl":2700,"id":"----","rwy":"10R","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.57325300,"lon":-116.25205300,"rng_nm":0,"alt_fmsl":2871,"id":"----","rwy":"10R","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":43.55751700,"lon":-116.20341100,"rng_nm":18,"alt_fmsl":2879,"id":"IBOI","rwy":"10R","desc":"DME-ILS"}
+]
+}

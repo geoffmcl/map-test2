@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSPG","name":"Albert Whitted","lat":27.76800700,"lon":-82.62773900,"rwys":2,"ils":0,"elev":7,"index":1596785,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":1120,"wid_m":22.86,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":27.76317500,"lon1":-82.63362800,"rwy2":"24","lat2":27.76790800,"lon2":-82.62357800},
+{"len_m":873,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":27.76850000,"lon1":-82.62491400,"rwy2":"36","lat2":27.76062200,"lon2":-82.62485800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":127.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":127.4,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":125.3,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+]
+}

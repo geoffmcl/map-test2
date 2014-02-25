@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSDA","name":"Shenandoah Muni","lat":40.75190275,"lon":-95.4140355,"rwys":2,"ils":0,"elev":971,"index":1384626,"path":"w100n40/w096n40"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":40.74544400,"lon1":-95.41844700,"rwy2":"22","lat2":40.75543600,"lon2":-95.40607800},
+{"len_m":1005,"wid_m":22.86,"hdg":125,"surf":"Concrete","rwy1":"12","lat1":40.75596700,"lon1":-95.42068100,"rwy2":"30","lat2":40.75076400,"lon2":-95.41093600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+,"ils":[
+]
+}

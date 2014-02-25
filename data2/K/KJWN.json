@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJWN","name":"John C Tune","lat":36.1823515,"lon":-86.8867125,"rwys":1,"ils":0,"elev":495,"index":1531784,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":36.17504700,"lon1":-86.88908600,"rwy2":"20","lat2":36.18965600,"lon2":-86.88433900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.35,"desc":"NASHVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCVN","name":"Clovis Muni","lat":34.4242158333333,"lon":-103.079523333333,"rwys":3,"ils":1,"elev":4216,"index":1253147,"path":"w110n30/w104n34"
+,"runways":[
+{"len_m":1889,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":34.42055600,"lon1":-103.08610600,"rwy2":"22","lat2":34.43247200,"lon2":-103.07141700},
+{"len_m":1736,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":34.43160300,"lon1":-103.08547500,"rwy2":"30","lat2":34.42144400,"lon2":-103.07110600},
+{"len_m":760,"wid_m":22.86,"hdg":90,"surf":"Dirt","rwy1":"08","lat1":34.41961400,"lon1":-103.08565300,"rwy2":"26","lat2":34.41960600,"lon2":-103.07738300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119,"desc":"CANNON CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"CANNON APP"},
+{"type":"DEP","freq":125.5,"desc":"CANNON DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":34.43343300,"lon":-103.07023300,"rng_nm":18,"alt_fmsl":4213,"hdg":45.48,"id":"ICVN","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":34.42351700,"lon":-103.08079400,"rng_nm":10,"alt_fmsl":4190,"id":"ICVN","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.35069400,"lon":-103.17440600,"rng_nm":0,"alt_fmsl":4216,"id":"----","rwy":"04","desc":"OM"}
+]
+}

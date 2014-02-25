@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMGC","name":"Michigan City Muni","lat":41.703319,"lon":-86.821243,"rwys":1,"ils":0,"elev":655,"index":1532136,"path":"w090n40/w087n41"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":41.69804400,"lon1":-86.82385000,"rwy2":"20","lat2":41.70859400,"lon2":-86.81863600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":134.8,"desc":"SOUTH BEND CLNC DEL"},
+{"type":"APP","freq":118.55,"desc":"SOUTH BEND APP/DEP"}
+]
+,"ils":[
+]
+}

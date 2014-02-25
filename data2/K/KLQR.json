@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLQR","name":"Larned Pawnee Co","lat":38.2083541666667,"lon":-99.0860871666667,"rwys":3,"ils":0,"elev":2011,"index":1318923,"path":"w100n30/w100n38"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":38.21639400,"lon1":-99.08510300,"rwy2":"35","lat2":38.20485800,"lon2":-99.08508100},
+{"len_m":967,"wid_m":51.82,"hdg":45,"surf":"Turf/grass","rwy1":"04","lat1":38.20414700,"lon1":-99.09018600,"rwy2":"22","lat2":38.21030600,"lon2":-99.08236700},
+{"len_m":939,"wid_m":54.86,"hdg":135,"surf":"Turf/grass","rwy1":"12","lat1":38.21021700,"lon1":-99.09066900,"rwy2":"30","lat2":38.20420300,"lon2":-99.08311700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.4,"desc":"KANSAS CITY CNTR"}
+]
+,"ils":[
+]
+}

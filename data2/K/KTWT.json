@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTWT","name":"Sturgis Muni","lat":37.5423335,"lon":-87.9504148333333,"rwys":3,"ils":0,"elev":372,"index":1515488,"path":"w090n30/w088n37"
+,"runways":[
+{"len_m":1539,"wid_m":45.72,"hdg":48,"surf":"Concrete","rwy1":"04","lat1":37.53530300,"lon1":-87.95585300,"rwy2":"22","lat2":37.54455800,"lon2":-87.94287200},
+{"len_m":1524,"wid_m":45.72,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":37.54861900,"lon1":-87.95387500,"rwy2":"36","lat2":37.53490800,"lon2":-87.95482500},
+{"len_m":1523,"wid_m":45.72,"hdg":106,"surf":"Concrete","rwy1":"10","lat1":37.54721900,"lon1":-87.95581100,"rwy2":"28","lat2":37.54339400,"lon2":-87.93925300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.4,"desc":"EVANSVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

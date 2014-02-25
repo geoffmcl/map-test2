@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHCD","name":"Hutchinson Muni Butler Fld","lat":44.859878,"lon":-94.382507,"rwys":1,"ils":0,"elev":1060,"index":1401266,"path":"w100n40/w095n44"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":44.86474200,"lon1":-94.38607200,"rwy2":"33","lat2":44.85501400,"lon2":-94.37894200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

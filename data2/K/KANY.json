@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KANY","name":"Anthony Muni","lat":37.15844925,"lon":-98.07982425,"rwys":2,"ils":0,"elev":1340,"index":1335243,"path":"w100n30/w099n37"
+,"runways":[
+{"len_m":1096,"wid_m":21.34,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":37.16369700,"lon1":-98.07904400,"rwy2":"35","lat2":37.15381400,"lon2":-98.07908600},
+{"len_m":674,"wid_m":45.72,"hdg":103,"surf":"Turf/grass","rwy1":"10","lat1":37.15887800,"lon1":-98.08426700,"rwy2":"28","lat2":37.15740800,"lon2":-98.07690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

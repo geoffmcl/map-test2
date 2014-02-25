@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRBL","name":"Red Bluff Muni","lat":40.15503700,"lon":-122.25135000,"rwys":1,"ils":0,"elev":349,"index":942218,"path":"w130n40/w123n40"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":40.15833600,"lon1":-122.25440000,"rwy2":"33","lat2":40.14302200,"lon2":-122.25019700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

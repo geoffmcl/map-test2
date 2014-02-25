@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSDM","name":"Brown Fld Muni","lat":32.56917513,"lon":-116.97901962,"rwys":2,"ils":0,"elev":526,"index":1040032,"path":"w120n30/w117n32"
+,"runways":[
+{"len_m":964,"wid_m":22.86,"hdg":95,"surf":"Asphalt","rwy1":"08R","lat1":32.57156644,"lon1":-116.98432097,"rwy2":"26L","lat2":32.57070691,"lon2":-116.97410256},
+{"len_m":2429,"wid_m":46.02,"hdg":95,"surf":"Asphalt","rwy1":"08L","lat1":32.57376211,"lon1":-116.99349404,"rwy2":"26R","lat2":32.57163423,"lon2":-116.96774162}
+]
+,"helipads":[
+{"rwy1":"H27","len_m":22,"wid_m":22.86,"hdg":-116,"surf":"Concrete","lat1":32.57007225,"lon1":-116.98457415}
+]
+,"radios":[
+{"type":"ATIS","freq":132.35,"desc":"ATIS"},
+{"type":"CTAF","freq":126.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":124.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":124.4,"desc":"GND"},
+{"type":"TWR","freq":126.5,"desc":"TWR"},
+{"type":"TWR","freq":128.25,"desc":"TWR"},
+{"type":"APP","freq":124.35,"desc":"SOCAL APP"},
+{"type":"DEP","freq":125.15,"desc":"SOCAL DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLO","name":"Salem Leckrone","lat":38.642872,"lon":-88.964186,"rwys":1,"ils":0,"elev":573,"index":1499176,"path":"w090n30/w089n38"
+,"runways":[
+{"len_m":1248,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":38.64849700,"lon1":-88.96413900,"rwy2":"36","lat2":38.63724700,"lon2":-88.96423300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

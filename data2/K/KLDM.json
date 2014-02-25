@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLDM","name":"Mason Co","lat":43.962748,"lon":-86.4086535,"rwys":2,"ils":0,"elev":645,"index":1532282,"path":"w090n40/w087n43"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":43.95928300,"lon1":-86.41345000,"rwy2":"25","lat2":43.96374700,"lon2":-86.39549200},
+{"len_m":1067,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":43.96878100,"lon1":-86.41264400,"rwy2":"36","lat2":43.95918100,"lon2":-86.41302800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

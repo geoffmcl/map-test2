@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGPT","name":"Gulfport Biloxi Intl","lat":30.40116089,"lon":-89.07385327,"rwys":3,"ils":2,"elev":27,"index":1482267,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":2132,"wid_m":45.72,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":30.39990000,"lon1":-89.07723345,"rwy2":"22","lat2":30.41465600,"lon2":-89.06298855},
+{"len_m":2743,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":30.41495899,"lon1":-89.08229534,"rwy2":"32","lat2":30.39748399,"lon2":-89.06207534},
+{"len_m":1504,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.41597799,"lon1":-89.06628435,"rwy2":"36","lat2":30.40240899,"lon2":-89.06623935}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.45,"desc":"ATIS"},
+{"type":"CTAF","freq":123.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.4,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"},
+{"type":"APP","freq":127.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":30.39554700,"lon":-89.05985300,"rng_nm":18,"alt_fmsl":27,"hdg":135.09,"id":"IGPT","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.3,"lat":30.41718600,"lon":-89.08489700,"rng_nm":18,"alt_fmsl":27,"hdg":315.02,"id":"IUXI","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":30.41225000,"lon":-89.08097800,"rng_nm":10,"alt_fmsl":23,"id":"IGPT","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":108.3,"lat":30.40019400,"lon":-89.06343600,"rng_nm":10,"alt_fmsl":27,"id":"IUXI","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.48555000,"lon":-89.16223600,"rng_nm":0,"alt_fmsl":27,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.42119400,"lon":-89.08953100,"rng_nm":0,"alt_fmsl":27,"id":"----","rwy":"14","desc":"MM"},
+{"type":"MM","freq":0,"lat":30.39273300,"lon":-89.05681700,"rng_nm":0,"alt_fmsl":27,"id":"----","rwy":"32","desc":"MM"}
+]
+}

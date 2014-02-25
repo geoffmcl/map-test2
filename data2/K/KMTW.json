@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMTW","name":"Manitowoc Co","lat":44.12909425,"lon":-87.6802155,"rwys":2,"ils":1,"elev":651,"index":1515913,"path":"w090n40/w088n44"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":169,"surf":"Asphalt","rwy1":"17","lat1":44.13420000,"lon1":-87.68376700,"rwy2":"35","lat2":44.12068900,"lon2":-87.68045300},
+{"len_m":1018,"wid_m":30.48,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":44.12919400,"lon1":-87.68431100,"rwy2":"25","lat2":44.13229400,"lon2":-87.67233100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.2,"desc":"GREEN BAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":44.11879700,"lon":-87.67999200,"rng_nm":18,"alt_fmsl":651,"hdg":170.02,"id":"IMTW","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":44.13226100,"lon":-87.68193600,"rng_nm":10,"alt_fmsl":650,"id":"IMTW","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.19957500,"lon":-87.70209700,"rng_nm":0,"alt_fmsl":671,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.14243900,"lon":-87.68580800,"rng_nm":0,"alt_fmsl":651,"id":"----","rwy":"17","desc":"MM"}
+]
+}

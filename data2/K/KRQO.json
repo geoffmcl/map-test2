@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRQO","name":"El Reno Regional","lat":35.47258425,"lon":-98.00594025,"rwys":2,"ils":0,"elev":1417,"index":1335131,"path":"w100n30/w099n35"
+,"runways":[
+{"len_m":1706,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":35.48120600,"lon1":-98.00433300,"rwy2":"35","lat2":35.46582800,"lon2":-98.00432800},
+{"len_m":1411,"wid_m":57.91,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":35.47801100,"lon1":-98.00755000,"rwy2":"36","lat2":35.46529200,"lon2":-98.00755000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+]
+}

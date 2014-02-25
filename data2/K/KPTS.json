@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPTS","name":"Atkinson Muni","lat":37.4480053333333,"lon":-94.7314751666667,"rwys":3,"ils":0,"elev":950,"index":1400793,"path":"w100n30/w095n37"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":37.45843600,"lon1":-94.73224200,"rwy2":"34","lat2":37.44356900,"lon2":-94.72890300},
+{"len_m":1219,"wid_m":22.86,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":37.44309700,"lon1":-94.73628900,"rwy2":"21","lat2":37.45153300,"lon2":-94.72746400},
+{"len_m":916,"wid_m":30.48,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":37.44710300,"lon1":-94.73684700,"rwy2":"28","lat2":37.44429400,"lon2":-94.72710600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

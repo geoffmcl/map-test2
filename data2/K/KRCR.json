@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRCR","name":"Fulton Co","lat":41.0655485,"lon":-86.181704,"rwys":1,"ils":0,"elev":790,"index":1532099,"path":"w090n40/w087n41"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":105,"surf":"Asphalt","rwy1":"11","lat1":41.06733600,"lon1":-86.19045800,"rwy2":"29","lat2":41.06376100,"lon2":-86.17295000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.05,"desc":"SOUTH BEND APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCWF","name":"Chennault Intl","lat":30.21354400,"lon":-93.15192700,"rwys":1,"ils":1,"elev":17,"index":1416715,"path":"w100n30/w094n30"
+,"runways":[
+{"len_m":3256,"wid_m":60.96,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":30.22383511,"lon1":-93.15051970,"rwy2":"33","lat2":30.19735289,"lon2":-93.13587030}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"LAKE CHARLES APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":30.19389200,"lon":-93.13399200,"rng_nm":18,"alt_fmsl":17,"hdg":154.50,"id":"ICWF","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":30.22166100,"lon":-93.14805800,"rng_nm":10,"alt_fmsl":15,"id":"ICWF","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.30667500,"lon":-93.19618300,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"15","desc":"OM"}
+]
+}

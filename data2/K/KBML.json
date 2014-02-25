@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBML","name":"Berlin Muni","lat":44.5744015,"lon":-71.1763695,"rwys":1,"ils":0,"elev":1161,"index":1778083,"path":"w080n40/w072n44"
+,"runways":[
+{"len_m":1585,"wid_m":30.48,"hdg":164,"surf":"Asphalt","rwy1":"18","lat1":44.58126400,"lon1":-71.17908600,"rwy2":"36","lat2":44.56753900,"lon2":-71.17365300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

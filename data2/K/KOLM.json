@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOLM","name":"Olympia","lat":46.97361753,"lon":-122.90866627,"rwys":2,"ils":1,"elev":209,"index":942648,"path":"w130n40/w123n46"
+,"runways":[
+{"len_m":1676,"wid_m":46.02,"hdg":191,"surf":"Asphalt","rwy1":"17","lat1":46.97620431,"lon1":-122.90264729,"rwy2":"35","lat2":46.96141531,"lon2":-122.90696629},
+{"len_m":1267,"wid_m":46.02,"hdg":103,"surf":"Asphalt","rwy1":"08","lat1":46.97116061,"lon1":-122.90824069,"rwy2":"26","lat2":46.96846619,"lon2":-122.89206219}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"ASOS"},
+{"type":"ATIS","freq":135.37,"desc":"ATIS"},
+{"type":"CTAF","freq":124.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":124.4,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":46.95868300,"lon":-122.90776600,"rng_nm":18,"alt_fmsl":200,"hdg":191.30,"id":"IOLM","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":46.97363800,"lon":-122.90505400,"rng_nm":10,"alt_fmsl":192,"id":"IOLM","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.05490000,"lon":-122.88000000,"rng_nm":0,"alt_fmsl":209,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.98700000,"lon":-122.89900000,"rng_nm":0,"alt_fmsl":209,"id":"----","rwy":"17","desc":"MM"}
+]
+}

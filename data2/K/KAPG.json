@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAPG","name":"Phillips Aaf","lat":39.4664096666667,"lon":-76.168881,"rwys":3,"ils":0,"elev":57,"index":1695835,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":28,"surf":"Asphalt","rwy1":"04","lat1":39.45581100,"lon1":-76.17503900,"rwy2":"22","lat2":39.47512200,"lon2":-76.16154400},
+{"len_m":1525,"wid_m":45.42,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":39.47009400,"lon1":-76.17523900,"rwy2":"35","lat2":39.45706700,"lon2":-76.16959400},
+{"len_m":1478,"wid_m":45.42,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":39.46806400,"lon1":-76.17407800,"rwy2":"26","lat2":39.47230000,"lon2":-76.15779200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.15,"desc":"TWR"},
+{"type":"APP","freq":126.75,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

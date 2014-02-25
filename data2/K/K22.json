@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"K22","name":"Big Sandy Rgnl","lat":37.751018,"lon":-82.636686,"rwys":1,"ils":0,"elev":1221,"index":1597425,"path":"w090n30/w083n37"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":37.74514200,"lon1":-82.64115300,"rwy2":"21","lat2":37.75689400,"lon2":-82.63221900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.75,"desc":"HUNTINGTON APP/DEP"}
+]
+,"ils":[
+]
+}

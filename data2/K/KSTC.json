@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSTC","name":"St Cloud Rgnl","lat":45.54623625,"lon":-94.059899,"rwys":2,"ils":1,"elev":1031,"index":1401315,"path":"w100n40/w095n45"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":45.55393900,"lon1":-94.06933600,"rwy2":"31","lat2":45.54013100,"lon2":-94.05035800},
+{"len_m":914,"wid_m":22.86,"hdg":59,"surf":"Asphalt","rwy1":"05","lat1":45.54333600,"lon1":-94.06498300,"rwy2":"23","lat2":45.54753900,"lon2":-94.05491900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"ASOS"},
+{"type":"ATIS","freq":119.37,"desc":"ATIS"},
+{"type":"CTAF","freq":123.5,"desc":"CTAF"},
+{"type":"CLD","freq":118.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"TWR","freq":121.6,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":45.55611400,"lon":-94.07232800,"rng_nm":18,"alt_fmsl":1031,"hdg":316.08,"id":"ISTC","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":45.54258300,"lon":-94.05210000,"rng_nm":10,"alt_fmsl":1016,"id":"ISTC","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.47869400,"lon":-93.96875000,"rng_nm":0,"alt_fmsl":1031,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.53434700,"lon":-94.04323600,"rng_nm":0,"alt_fmsl":1031,"id":"----","rwy":"31","desc":"MM"}
+]
+}

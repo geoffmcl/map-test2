@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGUY","name":"Guymon Muni","lat":36.6832655,"lon":-101.50635625,"rwys":2,"ils":0,"elev":3123,"index":1286057,"path":"w110n30/w102n36"
+,"runways":[
+{"len_m":1798,"wid_m":30.48,"hdg":186,"surf":"Asphalt","rwy1":"18","lat1":36.69312800,"lon1":-101.50671100,"rwy2":"36","lat2":36.67701700,"lon2":-101.50885300},
+{"len_m":547,"wid_m":60.96,"hdg":68,"surf":"Turf/grass","rwy1":"06","lat1":36.68055600,"lon1":-101.50777800,"rwy2":"24","lat2":36.68236100,"lon2":-101.50208300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

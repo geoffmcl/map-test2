@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJSV","name":"Sallisaw Muni","lat":35.4382055,"lon":-94.802817,"rwys":1,"ils":0,"elev":528,"index":1400664,"path":"w100n30/w095n35"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.44370000,"lon1":-94.80278100,"rwy2":"35","lat2":35.43271100,"lon2":-94.80285300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.9,"desc":"RAZORBACK APP/DEP"},
+{"type":"APP","freq":134.52,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+]
+}

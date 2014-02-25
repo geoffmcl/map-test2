@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGFA","name":"Malmstrom Lrrs","lat":47.50496027,"lon":-111.18802973,"rwys":1,"ils":1,"elev":3526,"index":1122915,"path":"w120n40/w112n47"
+,"runways":[
+{"len_m":3512,"wid_m":60.96,"hdg":47,"surf":"Asphalt","rwy1":"03","lat1":47.49420370,"lon1":-111.20510532,"rwy2":"21","lat2":47.51571684,"lon2":-111.17095414}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":47.49051500,"lon":-111.20608600,"rng_nm":18,"alt_fmsl":3526,"hdg":238.50,"id":"IIII","rwy":"21","desc":"ILS-cat-I"}
+]
+}

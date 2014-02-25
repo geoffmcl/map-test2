@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLCI","name":"Laconia Muni","lat":43.57001500,"lon":-71.42083700,"rwys":1,"ils":1,"elev":545,"index":1778018,"path":"w080n40/w072n43"
+,"runways":[
+{"len_m":1800,"wid_m":29.87,"hdg":67,"surf":"Asphalt","rwy1":"08","lat1":43.56996428,"lon1":-71.42809893,"rwy2":"26","lat2":43.57615701,"lon2":-71.40749913}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.75,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":43.57643700,"lon":-71.40657400,"rng_nm":18,"alt_fmsl":510,"hdg":67.48,"id":"ILCI","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":43.57182200,"lon":-71.42535800,"rng_nm":10,"alt_fmsl":537,"id":"ILCI","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.53667500,"lon":-71.53698100,"rng_nm":0,"alt_fmsl":740,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.56696900,"lon":-71.44095800,"rng_nm":0,"alt_fmsl":580,"id":"----","rwy":"08","desc":"MM"},
+{"type":"DME","freq":108.5,"lat":43.57643700,"lon":-71.40657400,"rng_nm":18,"alt_fmsl":524,"id":"ILCI","rwy":"08","desc":"DME-ILS"}
+]
+}

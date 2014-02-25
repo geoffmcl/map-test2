@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLAF","name":"Purdue University Airport","lat":40.41507100,"lon":-86.93277300,"rwys":2,"ils":1,"elev":605,"index":1532056,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":1290,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":40.40817644,"lon1":-86.93903701,"rwy2":"23","lat2":40.41571311,"lon2":-86.92747108},
+{"len_m":2018,"wid_m":46.02,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":40.41397953,"lon1":-86.95098283,"rwy2":"28","lat2":40.41109496,"lon2":-86.92750583}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"Purdue ATIS"},
+{"type":"CTAF","freq":119.6,"desc":"Purdue CTAF"},
+{"type":"GND","freq":121.9,"desc":"Purdue Ground"},
+{"type":"TWR","freq":119.6,"desc":"Purdue Tower"},
+{"type":"APP","freq":123.85,"desc":"Purdue Approach"},
+{"type":"DEP","freq":123.85,"desc":"Purdue Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":40.41098100,"lon":-86.92646900,"rng_nm":18,"alt_fmsl":605,"hdg":99.17,"id":"ILAF","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":40.41245300,"lon":-86.94758100,"rng_nm":10,"alt_fmsl":600,"id":"ILAF","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.42646900,"lon":-87.05181400,"rng_nm":0,"alt_fmsl":670,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.41528600,"lon":-86.96153900,"rng_nm":0,"alt_fmsl":605,"id":"----","rwy":"10","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAFN","name":"Jaffrey Airport Silver Ranch","lat":42.805135,"lon":-72.0030225,"rwys":1,"ils":0,"elev":1040,"index":1761587,"path":"w080n40/w073n42"
+,"runways":[
+{"len_m":908,"wid_m":14.94,"hdg":148,"surf":"Asphalt","rwy1":"16","lat1":42.80860600,"lon1":-72.00596300,"rwy2":"34","lat2":42.80166400,"lon2":-72.00008200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/Unicom"}
+]
+,"ils":[
+]
+}

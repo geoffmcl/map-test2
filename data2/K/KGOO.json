@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGOO","name":"Nevada Co Air Park","lat":39.224036,"lon":-121.0030875,"rwys":1,"ils":0,"elev":3152,"index":958539,"path":"w130n30/w122n39"
+,"runways":[
+{"len_m":1325,"wid_m":22.86,"hdg":87,"surf":"Asphalt","rwy1":"07","lat1":39.22375300,"lon1":-121.01075600,"rwy2":"25","lat2":39.22431900,"lon2":-120.99541900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

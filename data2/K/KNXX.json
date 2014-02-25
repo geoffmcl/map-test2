@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNXX","name":"Nas Jrb Willow Grove","lat":40.199924,"lon":-75.1481945,"rwys":1,"ils":0,"elev":357,"index":1712267,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":141,"surf":"Asphalt","rwy1":"15","lat1":40.20854200,"lon1":-75.15707200,"rwy2":"33","lat2":40.19130600,"lon2":-75.13931700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.45,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP"}
+]
+,"ils":[
+]
+}

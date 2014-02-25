@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBXA","name":"George R Carr Mem Air Fld","lat":30.813714,"lon":-89.864954,"rwys":1,"ils":0,"elev":119,"index":1482288,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":1158,"wid_m":30.48,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":30.81893100,"lon1":-89.86466400,"rwy2":"36","lat2":30.80849700,"lon2":-89.86524400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

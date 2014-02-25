@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPHG","name":"Phillipsburg Muni","lat":39.73613625,"lon":-99.3174145,"rwys":2,"ils":0,"elev":1907,"index":1319018,"path":"w100n30/w100n39"
+,"runways":[
+{"len_m":1372,"wid_m":18.29,"hdg":142,"surf":"Asphalt","rwy1":"13","lat1":39.73969200,"lon1":-99.32097800,"rwy2":"31","lat2":39.72985300,"lon2":-99.31128600},
+{"len_m":835,"wid_m":42.67,"hdg":36,"surf":"Turf/grass","rwy1":"03","lat1":39.73447200,"lon1":-99.32159400,"rwy2":"21","lat2":39.74052800,"lon2":-99.31580000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAFP","name":"Anson Co","lat":35.0206385,"lon":-80.077118,"rwys":1,"ils":1,"elev":300,"index":1630019,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":35.02745800,"lon1":-80.08106400,"rwy2":"34","lat2":35.01381900,"lon2":-80.07317200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.05,"desc":"CHARLOTTE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.55,"lat":35.02868657,"lon":-80.08177422,"rng_nm":18,"alt_fmsl":300,"hdg":334.64,"id":"IAFP","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.55,"lat":35.01665014,"lon":-80.07369820,"rng_nm":10,"alt_fmsl":300,"id":"IAFP","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":108.55,"lat":35.02868657,"lon":-80.08177422,"rng_nm":18,"alt_fmsl":300,"id":"IAFP","rwy":"34","desc":"DME-ILS"}
+]
+}

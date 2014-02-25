@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAFW","name":"Fort Worth Alliance","lat":32.98614150,"lon":-97.31248661,"rwys":2,"ils":1,"elev":722,"index":1351354,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":2925,"wid_m":46.02,"hdg":170,"surf":"Concrete","rwy1":"16L","lat1":33.00163615,"lon1":-97.32074901,"rwy2":"34R","lat2":32.97563985,"lon2":-97.31542899},
+{"len_m":2529,"wid_m":46.02,"hdg":170,"surf":"Concrete","rwy1":"16R","lat1":32.99784424,"lon1":-97.32190134,"rwy2":"34L","lat2":32.97535776,"lon2":-97.31735266}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.92,"desc":"ASOS"},
+{"type":"CLD","freq":128.72,"desc":"CLNC DEL"},
+{"type":"GND","freq":132.65,"desc":"GND"},
+{"type":"TWR","freq":120.82,"desc":"ALLIANCE TWR"},
+{"type":"TWR","freq":135.15,"desc":"ALLIANCE TWR"},
+{"type":"APP","freq":118.1,"desc":"RGNL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":32.97401100,"lon":-97.31509700,"rng_nm":18,"alt_fmsl":652,"hdg":170.26,"id":"IUPE","rwy":"16L","desc":"ILS-cat-III"},
+{"type":"ILS","freq":110.15,"lat":33.00251700,"lon":-97.32093100,"rng_nm":18,"alt_fmsl":719,"hdg":350.26,"id":"IJVX","rwy":"34R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":32.99436700,"lon":-97.32041900,"rng_nm":10,"alt_fmsl":709,"id":"IUPE","rwy":"16L","desc":"GS","gs":3},
+{"type":"GS","freq":110.15,"lat":32.97820800,"lon":-97.31711900,"rng_nm":10,"alt_fmsl":669,"id":"IJVX","rwy":"34R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.89815600,"lon":-97.30132800,"rng_nm":0,"alt_fmsl":722,"id":"----","rwy":"34R","desc":"OM"},
+{"type":"MM","freq":0,"lat":33.00523600,"lon":-97.32149200,"rng_nm":0,"alt_fmsl":722,"id":"----","rwy":"16L","desc":"MM"},
+{"type":"MM","freq":0,"lat":32.96787500,"lon":-97.31385000,"rng_nm":0,"alt_fmsl":722,"id":"----","rwy":"34R","desc":"MM"},
+{"type":"IM","freq":0,"lat":32.99986100,"lon":-97.32125600,"rng_nm":0,"alt_fmsl":722,"id":"----","rwy":"16L","desc":"IM"},
+{"type":"DME","freq":110.15,"lat":32.97437200,"lon":-97.31369400,"rng_nm":18,"alt_fmsl":673,"id":"IUPE","rwy":"16L","desc":"DME-ILS"},
+{"type":"DME","freq":110.15,"lat":32.97437800,"lon":-97.31369200,"rng_nm":18,"alt_fmsl":673,"id":"IJVX","rwy":"34R","desc":"DME-ILS"}
+]
+}

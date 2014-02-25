@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGYY","name":"Gary Chicago Intl","lat":41.6164215,"lon":-87.4135725,"rwys":2,"ils":1,"elev":592,"index":1515746,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":41.62134400,"lon1":-87.42170600,"rwy2":"30","lat2":41.61055600,"lon2":-87.40051400},
+{"len_m":1098,"wid_m":30.48,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":41.61228300,"lon1":-87.41841700,"rwy2":"20","lat2":41.62150300,"lon2":-87.41365300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"CTAF","freq":125.6,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"TWR"},
+{"type":"APP","freq":133.1,"desc":"CHICAGO APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":41.62158600,"lon":-87.42211900,"rng_nm":18,"alt_fmsl":592,"hdg":304.32,"id":"IGYY","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":41.61138300,"lon":-87.40440800,"rng_nm":10,"alt_fmsl":590,"id":"IGYY","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.57243100,"lon":-87.32701700,"rng_nm":0,"alt_fmsl":587,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.60592500,"lon":-87.39140000,"rng_nm":0,"alt_fmsl":592,"id":"----","rwy":"30","desc":"MM"}
+]
+}

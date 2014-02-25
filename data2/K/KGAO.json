@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGAO","name":"South Lafourche","lat":29.444822,"lon":-90.261117,"rwys":1,"ils":0,"elev":1,"index":1465818,"path":"w100n20/w091n29"
+,"runways":[
+{"len_m":1158,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":29.45004700,"lon1":-90.26105600,"rwy2":"36","lat2":29.43959700,"lon2":-90.26117800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"UNICOM CTAF"},
+{"type":"APP","freq":123.85,"desc":"NEW ORLEANS APP/DEP"}
+]
+,"ils":[
+]
+}

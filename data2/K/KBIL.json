@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBIL","name":"Billings Logan Intl","lat":45.80341000,"lon":-108.53630100,"rwys":3,"ils":2,"elev":3652,"index":1171953,"path":"w110n40/w109n45"
+,"runways":[
+{"len_m":3205,"wid_m":45.72,"hdg":111,"surf":"Asphalt","rwy1":"10L","lat1":45.81272500,"lon1":-108.55481700,"rwy2":"28R","lat2":45.80205300,"lon2":-108.51651100},
+{"len_m":1676,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"07","lat1":45.80767500,"lon1":-108.55839700,"rwy2":"25","lat2":45.80925600,"lon2":-108.53695000},
+{"len_m":1158,"wid_m":22.86,"hdg":111,"surf":"Asphalt","rwy1":"10R","lat1":45.80918600,"lon1":-108.56281900,"rwy2":"28L","lat2":45.80534200,"lon2":-108.54896900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"APP","freq":120.5,"desc":"APP/DEP"},
+{"type":"APP","freq":120.5,"desc":"APP/DEP"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":45.80053900,"lon":-108.51108100,"rng_nm":18,"alt_fmsl":3492,"hdg":111.80,"id":"IBIL","rwy":"10L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":45.81383900,"lon":-108.55882200,"rng_nm":18,"alt_fmsl":3584,"hdg":291.77,"id":"IBMO","rwy":"28R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":45.81246400,"lon":-108.55017500,"rng_nm":10,"alt_fmsl":3571,"id":"IBIL","rwy":"10L","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":45.80365300,"lon":-108.51950300,"rng_nm":10,"alt_fmsl":3488,"id":"IBMO","rwy":"28R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.85222500,"lon":-108.69450600,"rng_nm":0,"alt_fmsl":3652,"id":"----","rwy":"10L","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.81591400,"lon":-108.56637800,"rng_nm":0,"alt_fmsl":3652,"id":"----","rwy":"10L","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":45.81460300,"lon":-108.55838900,"rng_nm":18,"alt_fmsl":3649,"id":"IBMO","rwy":"28R","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLLQ","name":"Monticello Muni Ellis Fld","lat":33.6385655,"lon":-91.751014,"rwys":1,"ils":0,"elev":270,"index":1449704,"path":"w100n30/w092n33"
+,"runways":[
+{"len_m":1529,"wid_m":22.86,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":33.63270000,"lon1":-91.75534700,"rwy2":"21","lat2":33.64443100,"lon2":-91.74668100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAWM","name":"West Memphis Muni","lat":35.13612370,"lon":-90.23291020,"rwys":1,"ils":0,"elev":212,"index":1466187,"path":"w100n30/w091n35"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":35.14330300,"lon1":-90.23435300,"rwy2":"35","lat2":35.12681100,"lon2":-90.23454200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"MEMPHIS CLNC DEL"},
+{"type":"CLD","freq":118.5,"desc":"MEMPHIS CLNC DEL"},
+{"type":"APP","freq":119.1,"desc":"MEMPHIS APP"},
+{"type":"APP","freq":126.7,"desc":"MEMPHIS APP"},
+{"type":"DEP","freq":124.65,"desc":"MEMPHIS DEP"}
+]
+,"ils":[
+]
+}

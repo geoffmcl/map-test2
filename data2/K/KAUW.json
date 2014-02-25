@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAUW","name":"Wausau Downtown","lat":44.92854593,"lon":-89.62819409,"rwys":2,"ils":0,"elev":1201,"index":1483193,"path":"w090n40/w090n44"
+,"runways":[
+{"len_m":1512,"wid_m":29.87,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":44.93022200,"lon1":-89.63838900,"rwy2":"30","lat2":44.92244200,"lon2":-89.62266400},
+{"len_m":940,"wid_m":29.87,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":44.92272200,"lon1":-89.62458300,"rwy2":"22","lat2":44.92880800,"lon2":-89.61630800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+,"ils":[
+]
+}

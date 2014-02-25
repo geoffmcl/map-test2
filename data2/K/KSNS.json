@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSNS","name":"Salinas Muni","lat":36.6632916666667,"lon":-121.605298333333,"rwys":3,"ils":1,"elev":85,"index":958377,"path":"w130n30/w122n36"
+,"runways":[
+{"len_m":1830,"wid_m":45.72,"hdg":96,"surf":"Asphalt","rwy1":"08","lat1":36.66291400,"lon1":-121.61853900,"rwy2":"26","lat2":36.66095000,"lon2":-121.59821400},
+{"len_m":1470,"wid_m":45.72,"hdg":147,"surf":"Asphalt","rwy1":"13","lat1":36.66860800,"lon1":-121.61000600,"rwy2":"31","lat2":36.65738900,"lon2":-121.60125000},
+{"len_m":578,"wid_m":15.24,"hdg":153,"surf":"Asphalt","rwy1":"14","lat1":36.66727200,"lon1":-121.60335300,"rwy2":"32","lat2":36.66261700,"lon2":-121.60042800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"ATIS"},
+{"type":"CTAF","freq":119.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":127.15,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":133,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":36.67163300,"lon":-121.61236700,"rng_nm":18,"alt_fmsl":81,"hdg":327.95,"id":"ISNS","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":36.66009700,"lon":-121.60215600,"rng_nm":10,"alt_fmsl":77,"id":"ISNS","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.59228900,"lon":-121.55135000,"rng_nm":0,"alt_fmsl":85,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.65019700,"lon":-121.59561900,"rng_nm":0,"alt_fmsl":85,"id":"----","rwy":"31","desc":"MM"}
+]
+}

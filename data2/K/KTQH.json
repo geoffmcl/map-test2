@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTQH","name":"Tahlequah Muni","lat":35.928921,"lon":-95.004542,"rwys":1,"ils":0,"elev":873,"index":1384315,"path":"w100n30/w096n35"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":35.93441700,"lon1":-95.00427800,"rwy2":"35","lat2":35.92342500,"lon2":-95.00480600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

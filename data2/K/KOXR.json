@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOXR","name":"Oxnard","lat":34.19844729,"lon":-119.20709098,"rwys":1,"ils":1,"elev":43,"index":990987,"path":"w120n30/w120n34"
+,"runways":[
+{"len_m":1818,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":34.20089449,"lon1":-119.21709529,"rwy2":"25","lat2":34.20074322,"lon2":-119.19737039}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.05,"desc":"ATIS"},
+{"type":"CTAF","freq":134.95,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":134.95,"desc":"TWR"},
+{"type":"APP","freq":124.7,"desc":"PT MUGU APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":34.20090300,"lon":-119.22037200,"rng_nm":18,"alt_fmsl":28,"hdg":270.48,"id":"IOXR","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":34.20005600,"lon":-119.20276700,"rng_nm":10,"alt_fmsl":41,"id":"IOXR","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.19954400,"lon":-119.10061100,"rng_nm":0,"alt_fmsl":43,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.20041400,"lon":-119.18811700,"rng_nm":0,"alt_fmsl":39,"id":"----","rwy":"25","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGGI","name":"Grinnell Rgnl","lat":41.709946,"lon":-92.735765,"rwys":1,"ils":0,"elev":1008,"index":1433833,"path":"w100n40/w093n41"
+,"runways":[
+{"len_m":1583,"wid_m":22.86,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":41.71495600,"lon1":-92.74253600,"rwy2":"31","lat2":41.70493600,"lon2":-92.72899400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.05,"desc":"CHICAGO CNTR"}
+]
+,"ils":[
+]
+}

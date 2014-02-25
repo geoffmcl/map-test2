@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTNT","name":"Dade-collier","lat":25.86178387,"lon":-80.89694058,"rwys":1,"ils":1,"elev":13,"index":1629424,"path":"w090n20/w081n25"
+,"runways":[
+{"len_m":3207,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":25.86178387,"lon1":-80.91294230,"rwy2":"27","lat2":25.86178387,"lon2":-80.88093887}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":25.86177500,"lon":-80.87343900,"rng_nm":18,"alt_fmsl":11,"hdg":90.02,"id":"ITNT","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":25.86070300,"lon":-80.90976400,"rng_nm":10,"alt_fmsl":13,"id":"ITNT","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":25.86182200,"lon":-81.01102200,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":25.86181700,"lon":-80.92359400,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"09","desc":"MM"}
+]
+}

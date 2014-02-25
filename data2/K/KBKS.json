@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBKS","name":"Brooks Co","lat":27.20655475,"lon":-98.121482,"rwys":2,"ils":0,"elev":112,"index":1334603,"path":"w100n20/w099n27"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":27.21461700,"lon1":-98.12012500,"rwy2":"35","lat2":27.20085800,"lon2":-98.12009700},
+{"len_m":936,"wid_m":12.19,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":27.20901100,"lon1":-98.12525300,"rwy2":"32","lat2":27.20173300,"lon2":-98.12045300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"KINGSVILLE APP"},
+{"type":"DEP","freq":119.9,"desc":"KINGSVILLE DEP"}
+]
+,"ils":[
+]
+}

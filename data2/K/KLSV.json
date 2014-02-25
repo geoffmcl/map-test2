@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLSV","name":"Nellis Afb","lat":36.23527145,"lon":-115.02704620,"rwys":2,"ils":1,"elev":1870,"index":1056651,"path":"w120n30/w116n36"
+,"runways":[
+{"len_m":3084,"wid_m":67.06,"hdg":41,"surf":"Concrete","rwy1":"03L","lat1":36.22669062,"lon1":-115.04680613,"rwy2":"21R","lat2":36.24758138,"lon2":-115.02416387},
+{"len_m":3064,"wid_m":45.72,"hdg":41,"surf":"Concrete","rwy1":"03R","lat1":36.22487984,"lon1":-115.04425876,"rwy2":"21L","lat2":36.24563016,"lon2":-115.02176924}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":132.55,"desc":"TWR"},
+{"type":"APP","freq":118.12,"desc":"APP"},
+{"type":"APP","freq":124.95,"desc":"APP"},
+{"type":"DEP","freq":135.1,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":36.22223600,"lon":-115.04712200,"rng_nm":18,"alt_fmsl":1822,"hdg":221.15,"id":"IDIQ","rwy":"21L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":36.24240300,"lon":-115.02300600,"rng_nm":10,"alt_fmsl":1857,"id":"IDIQ","rwy":"21L","desc":"GS","gs":3}
+]
+}

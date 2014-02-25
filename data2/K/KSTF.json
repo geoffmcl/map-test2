@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSTF","name":"George M Bryan","lat":33.4331235,"lon":-88.848604,"rwys":1,"ils":0,"elev":332,"index":1498840,"path":"w090n30/w089n33"
+,"runways":[
+{"len_m":1691,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":33.44074700,"lon1":-88.84883300,"rwy2":"36","lat2":33.42550000,"lon2":-88.84837500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.25,"desc":"COLUMBUS CLNC DEL"},
+{"type":"APP","freq":135.6,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+]
+}

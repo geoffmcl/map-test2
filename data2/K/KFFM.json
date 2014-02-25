@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFFM","name":"Fergus Falls Muni Einar Mickelson Fld","lat":46.2845355,"lon":-96.1575895,"rwys":2,"ils":1,"elev":1182,"index":1368595,"path":"w100n40/w097n46"
+,"runways":[
+{"len_m":1718,"wid_m":30.48,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":46.28928900,"lon1":-96.16226100,"rwy2":"31","lat2":46.27870300,"lon2":-96.14600800},
+{"len_m":1006,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":46.28960000,"lon1":-96.16113100,"rwy2":"35","lat2":46.28055000,"lon2":-96.16095800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":46.29078900,"lon":-96.16457200,"rng_nm":18,"alt_fmsl":800,"hdg":313.29,"id":"IFFM","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":46.27976400,"lon":-96.14966700,"rng_nm":10,"alt_fmsl":1181,"id":"IFFM","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.22064700,"lon":-96.05697800,"rng_nm":0,"alt_fmsl":1182,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.27401100,"lon":-96.13880000,"rng_nm":0,"alt_fmsl":2500,"id":"----","rwy":"31","desc":"MM"}
+]
+}

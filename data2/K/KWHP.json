@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWHP","name":"Whiteman","lat":34.25922241,"lon":-118.41423608,"rwys":1,"ils":0,"elev":1003,"index":1007378,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":1268,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"12","lat1":34.26358286,"lon1":-118.41803052,"rwy2":"30","lat2":34.25498799,"lon2":-118.40894927}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-118,"surf":"Asphalt","lat1":34.25875650,"lon1":-118.40781326}
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"CTAF"},
+{"type":"GND","freq":125,"desc":"GND"},
+{"type":"TWR","freq":135,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"SOCAL APP/DEP"},
+{"type":"APP","freq":134.2,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

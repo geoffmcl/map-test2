@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBTM","name":"Bert Mooney","lat":45.95492200,"lon":-112.50300600,"rwys":3,"ils":1,"elev":5550,"index":1106425,"path":"w120n40/w113n45"
+,"runways":[
+{"len_m":2742,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"15","lat1":45.96692800,"lon1":-112.50120300,"rwy2":"33","lat2":45.94289700,"lon2":-112.49316700},
+{"len_m":1690,"wid_m":22.86,"hdg":38,"surf":"Asphalt","rwy1":"02","lat1":45.94486700,"lon1":-112.50168100,"rwy2":"20","lat2":45.95684700,"lon2":-112.48825800},
+{"len_m":1554,"wid_m":22.86,"hdg":129,"surf":"Asphalt","rwy1":"11","lat1":45.95899200,"lon1":-112.50573900,"rwy2":"29","lat2":45.95016900,"lon2":-112.49018600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":45.93889400,"lon":-112.49182800,"rng_nm":18,"alt_fmsl":5539,"hdg":166.91,"id":"IBEY","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":45.96454400,"lon":-112.50145600,"rng_nm":10,"alt_fmsl":5510,"id":"IBEY","rwy":"15","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":46.05961400,"lon":-112.53293600,"rng_nm":0,"alt_fmsl":5550,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.00216100,"lon":-112.51299700,"rng_nm":0,"alt_fmsl":5550,"id":"----","rwy":"15","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":45.93905600,"lon":-112.49083100,"rng_nm":18,"alt_fmsl":5564,"id":"IBEY","rwy":"15","desc":"DME-ILS"}
+]
+}

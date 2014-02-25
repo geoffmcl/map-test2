@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KULS","name":"Ulysses","lat":37.6034065,"lon":-101.3735335,"rwys":2,"ils":0,"elev":3067,"index":1286114,"path":"w110n30/w102n37"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":37.61620300,"lon1":-101.37384200,"rwy2":"35","lat2":37.59972800,"lon2":-101.37368600},
+{"len_m":1401,"wid_m":18.29,"hdg":129,"surf":"Concrete","rwy1":"12","lat1":37.60287800,"lon1":-101.37941400,"rwy2":"30","lat2":37.59481700,"lon2":-101.36719200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.95,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

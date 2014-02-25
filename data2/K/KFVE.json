@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFVE","name":"Northern Aroostook Rgnl","lat":47.285504,"lon":-68.3127345,"rwys":1,"ils":0,"elev":988,"index":1827410,"path":"w070n40/w069n47"
+,"runways":[
+{"len_m":1402,"wid_m":22.86,"hdg":115,"surf":"Asphalt","rwy1":"14","lat1":47.28822200,"lon1":-68.32109700,"rwy2":"32","lat2":47.28278600,"lon2":-68.30437200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

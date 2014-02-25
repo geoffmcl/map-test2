@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVAD","name":"Moody Afb","lat":30.96866275,"lon":-83.19310975,"rwys":2,"ils":2,"elev":233,"index":1580603,"path":"w090n30/w084n30"
+,"runways":[
+{"len_m":2834,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"18L","lat1":30.98183100,"lon1":-83.19080600,"rwy2":"36R","lat2":30.95626400,"lon2":-83.19105600},
+{"len_m":2439,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":30.97927800,"lon1":-83.19521900,"rwy2":"36L","lat2":30.95727800,"lon2":-83.19535800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":120.62,"desc":"GND"},
+{"type":"TWR","freq":128.45,"desc":"TWR"},
+{"type":"APP","freq":119.52,"desc":"VALDOSTA APP"},
+{"type":"APP","freq":126.6,"desc":"VALDOSTA APP"},
+{"type":"APP","freq":127.92,"desc":"VALDOSTA APP"},
+{"type":"DEP","freq":126.6,"desc":"VALDOSTA DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":30.95193300,"lon":-83.19109400,"rng_nm":18,"alt_fmsl":233,"hdg":180.47,"id":"IVAD","rwy":"18L","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.9,"lat":30.98525800,"lon":-83.19076900,"rng_nm":18,"alt_fmsl":233,"id":"IMDG","rwy":"36R","desc":"LOC"},
+{"type":"GS","freq":109.3,"lat":30.97548100,"lon":-83.18931700,"rng_nm":10,"alt_fmsl":233,"id":"IVAD","rwy":"18L","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":30.98825800,"lon":-83.19070600,"rng_nm":0,"alt_fmsl":233,"id":"----","rwy":"18L","desc":"MM"}
+]
+}

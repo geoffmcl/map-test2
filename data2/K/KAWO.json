@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAWO","name":"Arlington Municipal","lat":48.16170012,"lon":-122.15357609,"rwys":2,"ils":1,"elev":465,"index":942731,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":1072,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"11","lat1":48.16169500,"lon1":-122.16882590,"rwy2":"29","lat2":48.15586079,"lon2":-122.15735011},
+{"len_m":1621,"wid_m":32.92,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":48.16932235,"lon1":-122.15653615,"rwy2":"34","lat2":48.15474397,"lon2":-122.15617888}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.90,"hdg":-122,"surf":"Asphalt","lat1":48.16392771,"lon1":-122.15293390},
+{"rwy1":"H2","len_m":13,"wid_m":14.02,"hdg":-122,"surf":"Asphalt","lat1":48.15618447,"lon1":-122.16016943}
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.5,"lat":48.17145800,"lon":-122.15657500,"rng_nm":18,"alt_fmsl":465,"id":"IAWO","rwy":"34","desc":"LOC"},
+{"type":"OM","freq":0,"lat":48.07611900,"lon":-122.15391100,"rng_nm":0,"alt_fmsl":61,"id":"----","rwy":"34","desc":"OM"}
+]
+}

@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPTK","name":"Oakland Co Intl","lat":42.66274145,"lon":-83.41811196,"rwys":4,"ils":1,"elev":980,"index":1581354,"path":"w090n40/w084n42"
+,"runways":[
+{"len_m":1889,"wid_m":46.02,"hdg":87,"surf":"Asphalt","rwy1":"09R","lat1":42.66465300,"lon1":-83.43312500,"rwy2":"27L","lat2":42.66534700,"lon2":-83.41009400},
+{"len_m":1524,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"09L","lat1":42.66620000,"lon1":-83.43189200,"rwy2":"27R","lat2":42.66676100,"lon2":-83.41331700},
+{"len_m":747,"wid_m":22.86,"hdg":41,"surf":"Concrete","rwy1":"04","lat1":42.66138503,"lon1":-83.41409957,"rwy2":"22","lat2":42.66645103,"lon2":-83.40810757},
+{"len_m":565,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":42.66705300,"lon1":-83.40833561,"rwy2":"36","lat2":42.66196400,"lon2":-83.40811361}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.45,"desc":"ATIS"},
+{"type":"CTAF","freq":120.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"PONTIAC TWR"},
+{"type":"TWR","freq":123.7,"desc":"PONTIAC TWR"},
+{"type":"APP","freq":127.5,"desc":"DETROIT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":42.66552200,"lon":-83.40430800,"rng_nm":18,"alt_fmsl":980,"hdg":87.66,"id":"IPTK","rwy":"09R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":42.66563600,"lon":-83.42923900,"rng_nm":10,"alt_fmsl":979,"id":"IPTK","rwy":"09R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.66253600,"lon":-83.54728100,"rng_nm":0,"alt_fmsl":980,"id":"----","rwy":"09R","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.66430300,"lon":-83.44399700,"rng_nm":0,"alt_fmsl":980,"id":"----","rwy":"09R","desc":"MM"}
+]
+}

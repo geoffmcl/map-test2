@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHAO","name":"Butler Co Rgnl","lat":39.36205236,"lon":-84.52510855,"rwys":1,"ils":0,"elev":633,"index":1564753,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":39.36638900,"lon1":-84.53106100,"rwy2":"29","lat2":39.36113100,"lon2":-84.51282800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":121,"desc":"CINCINNATI APP/DEP"}
+]
+,"ils":[
+]
+}

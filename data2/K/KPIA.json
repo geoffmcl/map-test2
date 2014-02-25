@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPIA","name":"Greater Peoria Rgnl","lat":40.66403675,"lon":-89.6924735,"rwys":2,"ils":2,"elev":660,"index":1482921,"path":"w090n40/w090n40"
+,"runways":[
+{"len_m":3079,"wid_m":45.72,"hdg":126,"surf":"Concrete","rwy1":"13","lat1":40.67370800,"lon1":-89.71386900,"rwy2":"31","lat2":40.65720600,"lon2":-89.68459700},
+{"len_m":2439,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":40.65403600,"lon1":-89.69471700,"rwy2":"22","lat2":40.67119700,"lon2":-89.67671100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.1,"desc":"ASOS"},
+{"type":"ATIS","freq":126.1,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"PEORIA TWR"},
+{"type":"APP","freq":124.67,"desc":"PEORIA APP/DEP"},
+{"type":"APP","freq":125.8,"desc":"PEORIA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":40.67247800,"lon":-89.67536100,"rng_nm":18,"alt_fmsl":650,"hdg":38.53,"id":"IRNX","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":40.65635300,"lon":-89.68308100,"rng_nm":18,"alt_fmsl":638,"hdg":126.63,"id":"IGZX","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":40.67597800,"lon":-89.71789700,"rng_nm":18,"alt_fmsl":656,"hdg":306.61,"id":"IPIA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":40.65555300,"lon":-89.69128100,"rng_nm":10,"alt_fmsl":644,"id":"IRNX","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":40.66999400,"lon":-89.70970000,"rng_nm":10,"alt_fmsl":623,"id":"IGZX","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":40.65784700,"lon":-89.68819700,"rng_nm":10,"alt_fmsl":648,"id":"IPIA","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.72556400,"lon":-89.80424400,"rng_nm":0,"alt_fmsl":660,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":40.60567800,"lon":-89.59312800,"rng_nm":0,"alt_fmsl":660,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.67719400,"lon":-89.72005600,"rng_nm":0,"alt_fmsl":660,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":110.55,"lat":40.67317500,"lon":-89.67649400,"rng_nm":18,"alt_fmsl":660,"id":"IRNX","rwy":"04","desc":"DME-ILS"}
+]
+}

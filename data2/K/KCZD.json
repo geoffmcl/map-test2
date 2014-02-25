@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCZD","name":"Cozad Muni","lat":40.86418817,"lon":-100.00036600,"rwys":2,"ils":0,"elev":2502,"index":1302707,"path":"w110n40/w101n40"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":40.87340715,"lon1":-100.00938256,"rwy2":"31","lat2":40.86491835,"lon2":-99.99909627},
+{"len_m":999,"wid_m":78.94,"hdg":190,"surf":"Dirt","rwy1":"18","lat1":40.87345060,"lon1":-100.00168985,"rwy2":"36","lat2":40.86459219,"lon2":-100.00379946}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

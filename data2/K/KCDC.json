@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDC","name":"Cedar City Rgnl","lat":37.70118275,"lon":-113.09862575,"rwys":2,"ils":1,"elev":5622,"index":1089515,"path":"w120n30/w114n37"
+,"runways":[
+{"len_m":2636,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":37.69060800,"lon1":-113.10781400,"rwy2":"20","lat2":37.71024200,"lon2":-113.09098600},
+{"len_m":1469,"wid_m":18.29,"hdg":96,"surf":"Asphalt","rwy1":"08","lat1":37.70272500,"lon1":-113.10612500,"rwy2":"26","lat2":37.70115600,"lon2":-113.08957800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":37.68799700,"lon":-113.11005000,"rng_nm":18,"alt_fmsl":5570,"hdg":214.13,"id":"IECC","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":37.70851100,"lon":-113.09393100,"rng_nm":10,"alt_fmsl":5593,"id":"IECC","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.79122200,"lon":-113.02144700,"rng_nm":0,"alt_fmsl":5622,"id":"----","rwy":"20","desc":"OM"}
+]
+}

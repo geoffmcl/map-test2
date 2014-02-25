@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIDL","name":"Indianola Muni","lat":33.4841068333333,"lon":-90.6788513333333,"rwys":3,"ils":0,"elev":126,"index":1466073,"path":"w100n30/w091n33"
+,"runways":[
+{"len_m":2130,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":33.49535300,"lon1":-90.67891400,"rwy2":"35","lat2":33.47614200,"lon2":-90.67883900},
+{"len_m":1371,"wid_m":22.86,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":33.47891400,"lon1":-90.68405600,"rwy2":"22","lat2":33.48765900,"lon2":-90.67362100},
+{"len_m":1371,"wid_m":22.86,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":33.48765900,"lon1":-90.68405700,"rwy2":"31","lat2":33.47891400,"lon2":-90.67362100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

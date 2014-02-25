@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLHX","name":"La Junta Muni","lat":38.049862,"lon":-103.509245,"rwys":2,"ils":0,"elev":4238,"index":1253377,"path":"w110n30/w104n38"
+,"runways":[
+{"len_m":2087,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":38.04812800,"lon1":-103.52336900,"rwy2":"26","lat2":38.04819200,"lon2":-103.49958600},
+{"len_m":1767,"wid_m":18.29,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":38.05721700,"lon1":-103.51410600,"rwy2":"30","lat2":38.04591100,"lon2":-103.49991900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

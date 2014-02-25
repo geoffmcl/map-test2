@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIJD","name":"Windham","lat":41.74154922,"lon":-72.18096132,"rwys":3,"ils":1,"elev":247,"index":1761515,"path":"w080n40/w073n41"
+,"runways":[
+{"len_m":1232,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":41.73777800,"lon1":-72.18333400,"rwy2":"22","lat2":41.74722300,"lon2":-72.17555200},
+{"len_m":1303,"wid_m":30.48,"hdg":74,"surf":"Asphalt","rwy1":"09","lat1":41.74340300,"lon1":-72.18518900,"rwy2":"27","lat2":41.74655800,"lon2":-72.17008900},
+{"len_m":852,"wid_m":22.86,"hdg":163,"surf":"Asphalt","rwy1":"18","lat1":41.74628100,"lon1":-72.18566100,"rwy2":"36","lat2":41.73892200,"lon2":-72.18273900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":128.6,"desc":"BRADLEY CLNC DEL"},
+{"type":"APP","freq":119.45,"desc":"PROVIDENCE APP"},
+{"type":"APP","freq":135.4,"desc":"PROVIDENCE APP"},
+{"type":"DEP","freq":127.8,"desc":"BRADLEY DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.35,"lat":41.74334400,"lon":-72.18548900,"rng_nm":18,"alt_fmsl":247,"id":"IIJD","rwy":"27","desc":"LOC"},
+{"type":"DME","freq":108.35,"lat":41.74267800,"lon":-72.18509400,"rng_nm":18,"alt_fmsl":247,"id":"IIJD","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMGW","name":"Morgantown Muni Walter L Bill Hart Fld","lat":39.642606,"lon":-79.9157735,"rwys":2,"ils":1,"elev":1248,"index":1646696,"path":"w080n30/w080n39"
+,"runways":[
+{"len_m":1584,"wid_m":45.72,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":39.65066900,"lon1":-79.91876900,"rwy2":"36","lat2":39.63652500,"lon2":-79.91632500},
+{"len_m":843,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":39.63892200,"lon1":-79.91746700,"rwy2":"23","lat2":39.64430800,"lon2":-79.91053300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":125.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.1,"desc":"TWR"},
+{"type":"APP","freq":121.15,"desc":"CLARKSBURG APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":39.63563900,"lon":-79.91617200,"rng_nm":18,"alt_fmsl":1238,"hdg":172.42,"id":"IMGW","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":39.64776900,"lon":-79.91737500,"rng_nm":10,"alt_fmsl":1234,"id":"IMGW","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.72728300,"lon":-79.93213300,"rng_nm":0,"alt_fmsl":1248,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.65927500,"lon":-79.92097800,"rng_nm":0,"alt_fmsl":1248,"id":"----","rwy":"18","desc":"MM"}
+]
+}

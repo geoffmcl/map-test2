@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLEX","name":"Lexington Blue Grass","lat":38.03749900,"lon":-84.59695300,"rwys":2,"ils":2,"elev":979,"index":1564673,"path":"w090n30/w085n38"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":38.02837910,"lon1":-84.61437083,"rwy2":"22","lat2":38.04276890,"lon2":-84.59824117},
+{"len_m":1066,"wid_m":22.86,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":38.03898647,"lon1":-84.60958363,"rwy2":"26","lat2":38.04056153,"lon2":-84.59759437}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.3,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":132.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"LEXINGTON TWR"},
+{"type":"APP","freq":120.15,"desc":"LEXINGTON APP/DEP"},
+{"type":"APP","freq":120.75,"desc":"LEXINGTON APP/DEP"},
+{"type":"APP","freq":125,"desc":"LEXINGTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":38.04333300,"lon":-84.59756900,"rng_nm":18,"alt_fmsl":979,"hdg":41.44,"id":"ILEX","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":38.02288300,"lon":-84.62048100,"rng_nm":18,"alt_fmsl":979,"hdg":221.44,"id":"IGNJ","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":38.03150000,"lon":-84.61361700,"rng_nm":10,"alt_fmsl":956,"id":"ILEX","rwy":"04","desc":"GS","gs":2.8},
+{"type":"GS","freq":110.5,"lat":38.04090600,"lon":-84.60113600,"rng_nm":10,"alt_fmsl":976,"id":"IGNJ","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.98704400,"lon":-84.66045000,"rng_nm":0,"alt_fmsl":979,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.12456700,"lon":-84.50695000,"rng_nm":0,"alt_fmsl":979,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.02217200,"lon":-84.62127500,"rng_nm":0,"alt_fmsl":979,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":38.04840600,"lon":-84.59172200,"rng_nm":0,"alt_fmsl":979,"id":"----","rwy":"22","desc":"MM"}
+]
+}

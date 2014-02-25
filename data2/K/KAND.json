@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAND","name":"Anderson Rgnl","lat":34.49439200,"lon":-82.71087600,"rwys":2,"ils":1,"elev":782,"index":1597209,"path":"w090n30/w083n34"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":34.48859200,"lon1":-82.71591400,"rwy2":"23","lat2":34.50006900,"lon2":-82.70161400},
+{"len_m":1522,"wid_m":45.72,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":34.50155000,"lon1":-82.71214200,"rwy2":"35","lat2":34.48823900,"lon2":-82.70810300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"APP","freq":118.8,"desc":"GREER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":34.50103454,"lon":-82.70041178,"rng_nm":18,"alt_fmsl":782,"hdg":45.76,"id":"IAND","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":34.49109520,"lon":-82.71422631,"rng_nm":10,"alt_fmsl":782,"id":"IAND","rwy":"05","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.48394098,"lon":-82.72170873,"rng_nm":0,"alt_fmsl":782,"id":"----","rwy":"05","desc":"MM"}
+]
+}

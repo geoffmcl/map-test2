@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNVD","name":"Nevada Muni","lat":37.85229175,"lon":-94.30467575,"rwys":2,"ils":0,"elev":892,"index":1400818,"path":"w100n30/w095n37"
+,"runways":[
+{"len_m":1798,"wid_m":22.86,"hdg":26,"surf":"Asphalt","rwy1":"02","lat1":37.84448100,"lon1":-94.30974200,"rwy2":"20","lat2":37.85898300,"lon2":-94.30062200},
+{"len_m":786,"wid_m":12.19,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":37.85537500,"lon1":-94.30730800,"rwy2":"31","lat2":37.85032800,"lon2":-94.30103100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

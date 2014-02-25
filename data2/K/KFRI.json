@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFRI","name":"Marshall Aaf","lat":39.05395825,"lon":-96.764498,"rwys":2,"ils":0,"elev":1063,"index":1368128,"path":"w100n30/w097n39"
+,"runways":[
+{"len_m":1377,"wid_m":45.72,"hdg":50,"surf":"Concrete","rwy1":"04","lat1":39.04868300,"lon1":-96.77066700,"rwy2":"22","lat2":39.05660000,"lon2":-96.75841900},
+{"len_m":1371,"wid_m":45.72,"hdg":185,"surf":"Concrete","rwy1":"18","lat1":39.06142800,"lon1":-96.76375000,"rwy2":"36","lat2":39.04912200,"lon2":-96.76515600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":126.2,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

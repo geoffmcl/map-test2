@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KABR","name":"Aberdeen Rgnl","lat":45.448275,"lon":-98.42294025,"rwys":2,"ils":1,"elev":1302,"index":1335770,"path":"w100n40/w099n45"
+,"runways":[
+{"len_m":2103,"wid_m":29.87,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":45.45523600,"lon1":-98.42803600,"rwy2":"31","lat2":45.44184200,"lon2":-98.40904700},
+{"len_m":1676,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":45.45555300,"lon1":-98.42735300,"rwy2":"35","lat2":45.44046900,"lon2":-98.42732500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":45.45777800,"lon":-98.43164400,"rng_nm":18,"alt_fmsl":1298,"hdg":315.14,"id":"IABR","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":45.44348300,"lon":-98.41357500,"rng_nm":10,"alt_fmsl":1297,"id":"IABR","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.38600600,"lon":-98.32835800,"rng_nm":0,"alt_fmsl":1302,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.43658900,"lon":-98.40161400,"rng_nm":0,"alt_fmsl":1302,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":45.45820800,"lon":-98.43124700,"rng_nm":18,"alt_fmsl":1314,"id":"IABR","rwy":"31","desc":"DME-ILS"}
+]
+}

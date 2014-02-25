@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSFQ","name":"Suffolk Executive","lat":36.68215636,"lon":-76.60077319,"rwys":2,"ils":0,"elev":72,"index":1695657,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":30,"surf":"Asphalt","rwy1":"04","lat1":36.67472701,"lon1":-76.60352988,"rwy2":"22","lat2":36.68659317,"lon2":-76.59495070},
+{"len_m":1363,"wid_m":29.87,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":36.68093139,"lon1":-76.60914229,"rwy2":"25","lat2":36.68637387,"lon2":-76.59546989}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.9,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+]
+}

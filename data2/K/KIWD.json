@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIWD","name":"Gogebic Iron Co","lat":46.527551,"lon":-90.1313445,"rwys":1,"ils":1,"elev":1230,"index":1466915,"path":"w100n40/w091n46"
+,"runways":[
+{"len_m":1981,"wid_m":39.93,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":46.52758300,"lon1":-90.14425800,"rwy2":"27","lat2":46.52751900,"lon2":-90.11843100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":46.52753300,"lon":-90.15343300,"rng_nm":18,"alt_fmsl":1230,"hdg":270.02,"id":"IIWD","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":46.52841900,"lon":-90.12263300,"rng_nm":10,"alt_fmsl":1230,"id":"IIWD","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.52741900,"lon":-90.04150600,"rng_nm":0,"alt_fmsl":1230,"id":"----","rwy":"27","desc":"OM"}
+]
+}

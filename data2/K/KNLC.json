@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNLC","name":"Lemoore Nas","lat":36.32635980,"lon":-119.94861250,"rwys":2,"ils":0,"elev":234,"index":991120,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":4114,"wid_m":60.96,"hdg":155,"surf":"Concrete","rwy1":"14L","lat1":36.36411744,"lon1":-119.96067095,"rwy2":"32R","lat2":36.33024544,"lon2":-119.94202082},
+{"len_m":4114,"wid_m":60.96,"hdg":155,"surf":"Concrete","rwy1":"14R","lat1":36.33591744,"lon1":-119.96224282,"rwy2":"32L","lat2":36.30205044,"lon2":-119.94360082}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.65,"desc":"gnd"},
+{"type":"TWR","freq":128.3,"desc":"Twr"},
+{"type":"APP","freq":118.15,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMER","name":"Castle","lat":37.36981633,"lon":-120.56722150,"rwys":1,"ils":1,"elev":191,"index":974801,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":3597,"wid_m":46.02,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":37.39308300,"lon1":-120.58095800,"rwy2":"31","lat2":37.36787800,"lon2":-120.55541900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.47,"desc":"ATIS"},
+{"type":"CTAF","freq":118.17,"desc":"CTAF"},
+{"type":"GND","freq":133.57,"desc":"GND"},
+{"type":"TWR","freq":118.17,"desc":"TWR"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":37.39756700,"lon":-120.58550300,"rng_nm":18,"alt_fmsl":191,"hdg":321.15,"id":"IMER","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":37.37098300,"lon":-120.55635300,"rng_nm":10,"alt_fmsl":191,"id":"IMER","rwy":"31","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":37.36010600,"lon":-120.54752800,"rng_nm":0,"alt_fmsl":191,"id":"----","rwy":"31","desc":"MM"}
+]
+}

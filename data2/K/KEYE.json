@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEYE","name":"Eagle Creek Airpark","lat":39.82989100,"lon":-86.29670700,"rwys":1,"ils":1,"elev":823,"index":1532018,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":39.82553671,"lon1":-86.29760032,"rwy2":"21","lat2":39.83593929,"lon2":-86.29115368}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.57,"desc":"ASOS"},
+{"type":"ATIS","freq":126.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":128.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.05,"desc":"INDIANAPOLIS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":39.82429831,"lon":-86.29836833,"rng_nm":18,"alt_fmsl":823,"hdg":205.45,"id":"IEYE","rwy":"21","desc":"ILS-cat-I"},
+{"type":"OM","freq":0,"lat":39.92623535,"lon":-86.23519152,"rng_nm":0,"alt_fmsl":823,"id":"----","rwy":"21","desc":"OM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KASJ","name":"Tri Co","lat":36.297525,"lon":-77.1707445,"rwys":1,"ils":0,"elev":68,"index":1679251,"path":"w080n30/w078n36"
+,"runways":[
+{"len_m":1372,"wid_m":22.86,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":36.29134400,"lon1":-77.17090600,"rwy2":"19","lat2":36.30370600,"lon2":-77.17058300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

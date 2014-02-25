@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMIB","name":"Minot Afb","lat":48.415761,"lon":-101.358036,"rwys":1,"ils":1,"elev":1668,"index":1286810,"path":"w110n40/w102n48"
+,"runways":[
+{"len_m":4022,"wid_m":91.44,"hdg":125,"surf":"Concrete","rwy1":"11","lat1":48.42616400,"lon1":-101.38026100,"rwy2":"29","lat2":48.40535800,"lon2":-101.33581100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":134,"desc":"GND"},
+{"type":"TWR","freq":120.65,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":48.40301400,"lon":-101.33080800,"rng_nm":18,"alt_fmsl":1627,"hdg":125.21,"id":"IMJW","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":48.42904400,"lon":-101.38599400,"rng_nm":18,"alt_fmsl":1660,"hdg":305.40,"id":"IMIB","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":48.42317800,"lon":-101.37709400,"rng_nm":10,"alt_fmsl":1660,"id":"IMJW","rwy":"11","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.9,"lat":48.40640300,"lon":-101.34154700,"rng_nm":10,"alt_fmsl":1636,"id":"IMIB","rwy":"29","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":48.39918100,"lon":-101.32238100,"rng_nm":0,"alt_fmsl":1668,"id":"----","rwy":"29","desc":"MM"}
+]
+}

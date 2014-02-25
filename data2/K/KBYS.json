@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBYS","name":"Bicycle Lake Aaf","lat":35.281125,"lon":-116.628875,"rwys":2,"ils":0,"elev":2350,"index":1040209,"path":"w120n30/w117n35"
+,"runways":[
+{"len_m":3037,"wid_m":53.34,"hdg":52,"surf":"Dirt","rwy1":"04","lat1":35.27483300,"lon1":-116.64300000,"rwy2":"22","lat2":35.29166700,"lon2":-116.61666700},
+{"len_m":1767,"wid_m":53.34,"hdg":139,"surf":"Dirt","rwy1":"13","lat1":35.28506900,"lon1":-116.63421200,"rwy2":"31","lat2":35.27293100,"lon2":-116.62162100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.1,"desc":"DESERT RDO NORTH"},
+{"type":"TWR","freq":118.17,"desc":"DESERT RDO ROZ 1"}
+]
+,"ils":[
+]
+}

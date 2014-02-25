@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBLH","name":"Blythe","lat":33.619318,"lon":-114.71688225,"rwys":2,"ils":0,"elev":399,"index":1072865,"path":"w120n30/w115n33"
+,"runways":[
+{"len_m":1994,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":33.61660300,"lon1":-114.72773100,"rwy2":"26","lat2":33.61653600,"lon2":-114.70623900},
+{"len_m":1767,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.63003600,"lon1":-114.71674200,"rwy2":"35","lat2":33.61409700,"lon2":-114.71681700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

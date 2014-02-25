@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDN","name":"Woodward Fld","lat":34.28364175,"lon":-80.56484575,"rwys":2,"ils":0,"elev":302,"index":1629969,"path":"w090n30/w081n34"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":51,"surf":"Asphalt","rwy1":"06","lat1":34.27918900,"lon1":-80.57138100,"rwy2":"24","lat2":34.28769700,"lon2":-80.55838600},
+{"len_m":913,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":34.28673900,"lon1":-80.56833300,"rwy2":"32","lat2":34.28094200,"lon2":-80.56128300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+,"ils":[
+]
+}

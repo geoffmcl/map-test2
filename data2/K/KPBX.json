@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPBX","name":"Pike Co Hatcher Fld","lat":37.562211,"lon":-82.565516,"rwys":2,"ils":1,"elev":1473,"index":1597409,"path":"w090n30/w083n37"
+,"runways":[
+{"len_m":1630,"wid_m":30.48,"hdg":83,"surf":"Asphalt","rwy1":"09","lat1":37.56032200,"lon1":-82.57928300,"rwy2":"27","lat2":37.56188300,"lon2":-82.56093100},
+{"len_m":1097,"wid_m":22.86,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":37.55856700,"lon1":-82.56263600,"rwy2":"20","lat2":37.56807200,"lon2":-82.55921400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":37.56017088,"lon":-82.58105830,"rng_nm":18,"alt_fmsl":1473,"hdg":263.87,"id":"IPBX","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":37.56066970,"lon":-82.56546500,"rng_nm":10,"alt_fmsl":1473,"id":"IPBX","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":37.56013611,"lon":-82.56638900,"rng_nm":18,"alt_fmsl":1473,"id":"IPBX","rwy":"27","desc":"DME-ILS"}
+]
+}

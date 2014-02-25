@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMMV","name":"Mc Minnville Muni","lat":45.19919716,"lon":-123.13888331,"rwys":2,"ils":1,"elev":163,"index":926155,"path":"w130n40/w124n45"
+,"runways":[
+{"len_m":1651,"wid_m":46.02,"hdg":57,"surf":"Asphalt","rwy1":"04","lat1":45.19175600,"lon1":-123.14818101,"rwy2":"22","lat2":45.19980800,"lon2":-123.13051101},
+{"len_m":1425,"wid_m":46.02,"hdg":185,"surf":"Asphalt","rwy1":"17","lat1":45.19929400,"lon1":-123.13105800,"rwy2":"35","lat2":45.18653600,"lon2":-123.13291900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.67,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.35,"desc":"PORTLAND CLNC DEL"},
+{"type":"APP","freq":126,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":45.19019400,"lon":-123.15160000,"rng_nm":18,"alt_fmsl":158,"hdg":237.09,"id":"IMMV","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":45.19739700,"lon":-123.13315600,"rng_nm":10,"alt_fmsl":160,"id":"IMMV","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.24613100,"lon":-123.02973600,"rng_nm":0,"alt_fmsl":159,"id":"----","rwy":"22","desc":"OM"}
+]
+}

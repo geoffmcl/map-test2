@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMOT","name":"Minot Intl","lat":48.2576825,"lon":-101.27800775,"rwys":2,"ils":1,"elev":1716,"index":1286802,"path":"w110n40/w102n48"
+,"runways":[
+{"len_m":2347,"wid_m":45.72,"hdg":138,"surf":"Concrete","rwy1":"13","lat1":48.26525300,"lon1":-101.28874200,"rwy2":"31","lat2":48.24946900,"lon2":-101.26775600},
+{"len_m":1935,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":48.25804400,"lon1":-101.29080000,"rwy2":"26","lat2":48.25796400,"lon2":-101.26473300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"MAGIC CITY TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":48.26927200,"lon":-101.29408600,"rng_nm":18,"alt_fmsl":1711,"hdg":318.48,"id":"IMOT","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":48.25545600,"lon":-101.27379700,"rng_nm":10,"alt_fmsl":1669,"id":"IMOT","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.18915300,"lon":-101.18768900,"rng_nm":0,"alt_fmsl":1716,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.24651400,"lon":-101.26388900,"rng_nm":0,"alt_fmsl":1716,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":48.26988100,"lon":-101.29352500,"rng_nm":18,"alt_fmsl":1727,"id":"IMOT","rwy":"31","desc":"DME-ILS"}
+]
+}

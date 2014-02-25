@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNTU","name":"Oceana Naval Air Station","lat":36.81829500,"lon":-76.02784000,"rwys":4,"ils":0,"elev":22,"index":1695667,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":3656,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"05R","lat1":36.80545054,"lon1":-76.04994426,"rwy2":"23L","lat2":36.82988546,"lon2":-76.02245176},
+{"len_m":2456,"wid_m":46.02,"hdg":42,"surf":"Concrete","rwy1":"05L","lat1":36.81492853,"lon1":-76.04258850,"rwy2":"23R","lat2":36.83133778,"lon2":-76.02410142},
+{"len_m":2461,"wid_m":46.02,"hdg":133,"surf":"Concrete","rwy1":"14L","lat1":36.83469686,"lon1":-76.03714109,"rwy2":"32R","lat2":36.81935211,"lon2":-76.01722362},
+{"len_m":2437,"wid_m":60.96,"hdg":133,"surf":"Asphalt","rwy1":"14R","lat1":36.83316720,"lon1":-76.03863590,"rwy2":"32L","lat2":36.81796480,"lon2":-76.01891410}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":-76,"surf":"Asphalt","lat1":36.81927924,"lon1":-76.02786888},
+{"rwy1":"H2","len_m":21,"wid_m":21.95,"hdg":-76,"surf":"Asphalt","lat1":36.80865798,"lon1":-76.04409484}
+]
+,"radios":[
+{"type":"TWR","freq":120.87,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP/DEP"},
+{"type":"APP","freq":123.9,"desc":"OCEANA APP/DEP"}
+]
+,"ils":[
+]
+}

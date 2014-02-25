@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDAW","name":"Skyhaven","lat":43.284061,"lon":-70.9292555,"rwys":1,"ils":0,"elev":322,"index":1794384,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":130,"surf":"Asphalt","rwy1":"15","lat1":43.28765000,"lon1":-70.93493600,"rwy2":"33","lat2":43.28047200,"lon2":-70.92357500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.05,"desc":"BOSTON APP/DEP"},
+{"type":"APP","freq":128.2,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+]
+}

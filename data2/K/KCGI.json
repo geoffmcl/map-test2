@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCGI","name":"Cape Girardeau Rgnl","lat":37.22543275,"lon":-89.5706745,"rwys":2,"ils":1,"elev":342,"index":1482697,"path":"w090n30/w090n37"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":105,"surf":"Concrete","rwy1":"10","lat1":37.22737500,"lon1":-89.58174200,"rwy2":"28","lat2":37.22251400,"lon2":-89.56026400},
+{"len_m":1217,"wid_m":30.48,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":37.22080600,"lon1":-89.57282800,"rwy2":"20","lat2":37.23103600,"lon2":-89.56786400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.55,"desc":"ASOS"},
+{"type":"CTAF","freq":119,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":37.22176700,"lon":-89.55695800,"rng_nm":18,"alt_fmsl":342,"hdg":105.87,"id":"ICGI","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":37.22555000,"lon":-89.57871100,"rng_nm":10,"alt_fmsl":338,"id":"ICGI","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.25341900,"lon":-89.70060800,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.22947200,"lon":-89.59100000,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"10","desc":"MM"}
+]
+}

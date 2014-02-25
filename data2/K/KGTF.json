@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGTF","name":"Great Falls Intl","lat":47.48084000,"lon":-111.35958000,"rwys":3,"ils":1,"elev":3677,"index":1122906,"path":"w120n40/w112n47"
+,"runways":[
+{"len_m":3199,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":47.46934200,"lon1":-111.38383300,"rwy2":"21","lat2":47.48968900,"lon2":-111.35380600},
+{"len_m":1937,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":47.49362500,"lon1":-111.37283900,"rwy2":"34","lat2":47.47620000,"lon2":-111.37284700},
+{"len_m":1308,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":47.48377200,"lon1":-111.38072800,"rwy2":"25","lat2":47.48377200,"lon2":-111.36336400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":128.6,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":47.49202200,"lon":-111.35036100,"rng_nm":18,"alt_fmsl":3646,"hdg":44.94,"id":"ISMR","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":47.47215800,"lon":-111.38196400,"rng_nm":10,"alt_fmsl":3671,"id":"ISMR","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.39634400,"lon":-111.49129200,"rng_nm":0,"alt_fmsl":3677,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.46379400,"lon":-111.39201400,"rng_nm":0,"alt_fmsl":3677,"id":"----","rwy":"03","desc":"MM"}
+]
+}

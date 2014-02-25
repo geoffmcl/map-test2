@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSAD","name":"Safford Rgnl","lat":32.8541855,"lon":-109.63549725,"rwys":2,"ils":0,"elev":3176,"index":1154737,"path":"w110n30/w110n32"
+,"runways":[
+{"len_m":1833,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.85943900,"lon1":-109.64263300,"rwy2":"30","lat2":32.84767800,"lon2":-109.62886700},
+{"len_m":1462,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":32.85487800,"lon1":-109.64305800,"rwy2":"26","lat2":32.85474700,"lon2":-109.62743100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

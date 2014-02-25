@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSUU","name":"Travis Afb","lat":38.25462300,"lon":-121.94300800,"rwys":2,"ils":2,"elev":62,"index":958480,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":3353,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"03L","lat1":38.24329200,"lon1":-121.95696100,"rwy2":"21R","lat2":38.26363600,"lon2":-121.92864400},
+{"len_m":3350,"wid_m":45.72,"hdg":47,"surf":"Concrete","rwy1":"03R","lat1":38.26146400,"lon1":-121.92649200,"rwy2":"21L","lat2":38.28178600,"lon2":-121.89818300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.3,"desc":"AERO CLUB UNICOM"},
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":126.6,"desc":"APP"},
+{"type":"APP","freq":119.9,"desc":"APP"},
+{"type":"DEP","freq":119.9,"desc":"DEP"},
+{"type":"DEP","freq":126.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.35,"lat":38.26854200,"lon":-121.92180800,"rng_nm":18,"alt_fmsl":57,"hdg":47.56,"id":"ITXV","rwy":"03L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":38.25897200,"lon":-121.92998100,"rng_nm":18,"alt_fmsl":33,"hdg":227.57,"id":"ISUU","rwy":"21L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.35,"lat":38.24465800,"lon":-121.95249200,"rng_nm":10,"alt_fmsl":36,"id":"ITXV","rwy":"03L","desc":"GS","gs":2.5},
+{"type":"GS","freq":110.1,"lat":38.28057200,"lon":-121.90251700,"rng_nm":10,"alt_fmsl":51,"id":"ISUU","rwy":"21L","desc":"GS","gs":2.8},
+{"type":"IM","freq":0,"lat":38.28394200,"lon":-121.89513100,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"21L","desc":"IM"}
+]
+}

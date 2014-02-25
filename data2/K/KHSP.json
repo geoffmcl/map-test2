@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHSP","name":"Ingalls Fld","lat":37.9514525,"lon":-79.8338885,"rwys":1,"ils":1,"elev":3792,"index":1646584,"path":"w080n30/w080n37"
+,"runways":[
+{"len_m":1706,"wid_m":30.48,"hdg":58,"surf":"Asphalt","rwy1":"07","lat1":37.94747200,"lon1":-79.84219400,"rwy2":"25","lat2":37.95543300,"lon2":-79.82558300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.8,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":37.94704700,"lon":-79.84308300,"rng_nm":18,"alt_fmsl":3792,"hdg":238.71,"id":"IHSP","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":37.95316700,"lon":-79.82830600,"rng_nm":10,"alt_fmsl":3763,"id":"IHSP","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.98654200,"lon":-79.75900000,"rng_nm":0,"alt_fmsl":3792,"id":"----","rwy":"25","desc":"OM"}
+]
+}

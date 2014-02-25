@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCLK","name":"Clinton Rgnl","lat":35.53941725,"lon":-98.93330475,"rwys":2,"ils":0,"elev":1615,"index":1335136,"path":"w100n30/w099n35"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.54301900,"lon1":-98.93218600,"rwy2":"35","lat2":35.53120600,"lon2":-98.93197800},
+{"len_m":431,"wid_m":74.68,"hdg":135,"surf":"Turf/grass","rwy1":"13","lat1":35.54311100,"lon1":-98.93619400,"rwy2":"31","lat2":35.54033300,"lon2":-98.93286100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"FORT WORTH CNTR"}
+]
+,"ils":[
+]
+}

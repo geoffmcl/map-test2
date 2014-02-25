@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUMP","name":"Indianapolis Metro","lat":39.9352025,"lon":-86.0449415,"rwys":1,"ils":0,"elev":811,"index":1532027,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":1172,"wid_m":30.48,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":39.93956100,"lon1":-86.04880800,"rwy2":"33","lat2":39.93084400,"lon2":-86.04107500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.62,"desc":"CLNC DEL"},
+{"type":"APP","freq":127.15,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

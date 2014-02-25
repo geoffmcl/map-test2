@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFAY","name":"Fayetteville Rgnl Grannis Fld","lat":34.99157700,"lon":-78.88547500,"rwys":2,"ils":1,"elev":189,"index":1662776,"path":"w080n30/w079n34"
+,"runways":[
+{"len_m":2350,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":34.98435000,"lon1":-78.88700800,"rwy2":"22","lat2":35.00247500,"lon2":-78.87367800},
+{"len_m":1463,"wid_m":45.72,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":34.98782200,"lon1":-78.88816900,"rwy2":"28","lat2":34.98755600,"lon2":-78.87214400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.7,"desc":"GND"},
+{"type":"APP","freq":133,"desc":"APP/DEP"},
+{"type":"APP","freq":127.8,"desc":"APP/DEP"},
+{"type":"APP","freq":125.17,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":35.00317200,"lon":-78.87316400,"rng_nm":18,"alt_fmsl":189,"hdg":31.07,"id":"IGRA","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":34.98697500,"lon":-78.88312500,"rng_nm":10,"alt_fmsl":188,"id":"IGRA","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.91245000,"lon":-78.93965300,"rng_nm":0,"alt_fmsl":170,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.97827500,"lon":-78.89152500,"rng_nm":0,"alt_fmsl":189,"id":"----","rwy":"04","desc":"MM"}
+]
+}

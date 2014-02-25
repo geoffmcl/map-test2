@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAJZ","name":"Blake Fld","lat":38.786414,"lon":-108.063625,"rwys":1,"ils":0,"elev":5193,"index":1171507,"path":"w110n30/w109n38"
+,"runways":[
+{"len_m":1705,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":38.78067800,"lon1":-108.07015600,"rwy2":"21","lat2":38.79215000,"lon2":-108.05709400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBGR","name":"Bangor Intl","lat":44.8074375,"lon":-68.8281265,"rwys":1,"ils":1,"elev":192,"index":1827248,"path":"w070n40/w069n44"
+,"runways":[
+{"len_m":3487,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":44.81837200,"lon1":-68.84393100,"rwy2":"33","lat2":44.79650300,"lon2":-68.81232200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"ASOS"},
+{"type":"ATIS","freq":127.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":135.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP/DEP"},
+{"type":"APP","freq":118.92,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":44.79454700,"lon":-68.80949700,"rng_nm":18,"alt_fmsl":166,"hdg":134.29,"id":"IJVH","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":44.82045000,"lon":-68.84693900,"rng_nm":18,"alt_fmsl":182,"hdg":314.26,"id":"IBGR","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":44.81727200,"lon":-68.83957800,"rng_nm":10,"alt_fmsl":190,"id":"IJVH","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":44.79825000,"lon":-68.81658600,"rng_nm":10,"alt_fmsl":149,"id":"IBGR","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.88045000,"lon":-68.93320600,"rng_nm":0,"alt_fmsl":192,"id":"----","rwy":"15","desc":"OM"},
+{"type":"OM","freq":0,"lat":44.72754400,"lon":-68.71288100,"rng_nm":0,"alt_fmsl":514,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.82324700,"lon":-68.85096100,"rng_nm":0,"alt_fmsl":192,"id":"----","rwy":"15","desc":"MM"},
+{"type":"MM","freq":0,"lat":44.79183900,"lon":-68.80562200,"rng_nm":0,"alt_fmsl":192,"id":"----","rwy":"33","desc":"MM"},
+{"type":"IM","freq":0,"lat":44.82001700,"lon":-68.84631100,"rng_nm":0,"alt_fmsl":192,"id":"----","rwy":"15","desc":"IM"},
+{"type":"DME","freq":109.5,"lat":44.79513900,"lon":-68.80883600,"rng_nm":18,"alt_fmsl":166,"id":"IJVH","rwy":"15","desc":"DME-ILS"},
+{"type":"DME","freq":109.5,"lat":44.79513900,"lon":-68.80883600,"rng_nm":18,"alt_fmsl":166,"id":"IBGR","rwy":"33","desc":"DME-ILS"}
+]
+}

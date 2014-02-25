@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOFK","name":"Karl Stefan Mem","lat":41.98495243,"lon":-97.43018621,"rwys":2,"ils":1,"elev":1573,"index":1351930,"path":"w100n40/w098n41"
+,"runways":[
+{"len_m":1768,"wid_m":29.87,"hdg":19,"surf":"Asphalt","rwy1":"01","lat1":41.97759473,"lon1":-97.43749898,"rwy2":"19","lat2":41.99261177,"lon2":-97.43042410},
+{"len_m":1772,"wid_m":29.87,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":41.99207492,"lon1":-97.44286428,"rwy2":"32","lat2":41.97951708,"lon2":-97.42966488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":41.99521700,"lon":-97.42918900,"rng_nm":18,"alt_fmsl":1573,"hdg":19.32,"id":"IOFK","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":41.98096400,"lon":-97.43711400,"rng_nm":10,"alt_fmsl":1557,"id":"IOFK","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.88763900,"lon":-97.48027800,"rng_nm":0,"alt_fmsl":1717,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.97022800,"lon":-97.44098900,"rng_nm":0,"alt_fmsl":1573,"id":"----","rwy":"01","desc":"MM"}
+]
+}

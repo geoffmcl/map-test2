@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOMN","name":"Ormond Beach Muni","lat":29.30451800,"lon":-81.11705000,"rwys":2,"ils":0,"elev":28,"index":1613267,"path":"w090n20/w082n29"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":29.30081868,"lon1":-81.12021968,"rwy2":"26","lat2":29.30302532,"lon2":-81.10791432},
+{"len_m":1128,"wid_m":29.87,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":29.30531941,"lon1":-81.11466350,"rwy2":"35","lat2":29.29535459,"lon2":-81.11228050}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"UNICOM"},
+{"type":"GND","freq":121.62,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.07,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"DAYTONA APP/DEP"}
+]
+,"ils":[
+]
+}

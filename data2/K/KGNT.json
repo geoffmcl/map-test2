@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGNT","name":"Grants Milan Muni","lat":35.17030000,"lon":-107.90334300,"rwys":2,"ils":0,"elev":6537,"index":1187656,"path":"w110n30/w108n35"
+,"runways":[
+{"len_m":2186,"wid_m":22.86,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":35.17736900,"lon1":-107.91023100,"rwy2":"31","lat2":35.16123100,"lon2":-107.89646100},
+{"len_m":716,"wid_m":12.19,"hdg":91,"surf":"Dirt","rwy1":"08","lat1":35.16123900,"lon1":-107.90178100,"rwy2":"26","lat2":35.16103300,"lon2":-107.89392200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

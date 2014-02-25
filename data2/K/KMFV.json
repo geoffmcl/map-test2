@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMFV","name":"Accomack County","lat":37.6468499,"lon":-75.76101861,"rwys":1,"ils":1,"elev":47,"index":1712104,"path":"w080n30/w076n37"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":37.64053355,"lon1":-75.76439061,"rwy2":"21","lat2":37.65316624,"lon2":-75.75764661}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.05,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.15,"lat":37.65575027,"lon":-75.75626373,"rng_nm":18,"alt_fmsl":47,"id":"IMFV","rwy":"03","desc":"LOC"}
+]
+}

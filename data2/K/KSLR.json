@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLR","name":"Sulphur Springs Muni","lat":33.159832,"lon":-95.621146,"rwys":1,"ils":0,"elev":489,"index":1384137,"path":"w100n30/w096n33"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":33.16660600,"lon1":-95.61977500,"rwy2":"36","lat2":33.15305800,"lon2":-95.62251700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.35,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

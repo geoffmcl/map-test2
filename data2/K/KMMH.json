@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMMH","name":"Mammoth Yosemite","lat":37.62762106,"lon":-118.84353358,"rwys":1,"ils":0,"elev":7128,"index":1007592,"path":"w120n30/w119n37"
+,"runways":[
+{"len_m":2133,"wid_m":29.87,"hdg":108,"surf":"Asphalt","rwy1":"09","lat1":37.62716900,"lon1":-118.85016400,"rwy2":"27","lat2":37.62092800,"lon2":-118.82731100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.05,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

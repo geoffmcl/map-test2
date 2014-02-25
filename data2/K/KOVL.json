@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOVL","name":"Olivia Rgnl","lat":44.778579,"lon":-95.032774,"rwys":1,"ils":0,"elev":1076,"index":1384883,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":1066,"wid_m":22.86,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":44.78083900,"lon1":-95.03871700,"rwy2":"29","lat2":44.77631900,"lon2":-95.02683100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

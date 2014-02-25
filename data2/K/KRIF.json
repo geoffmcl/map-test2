@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRIF","name":"Richfield Muni","lat":38.736439,"lon":-112.098953,"rwys":1,"ils":0,"elev":5301,"index":1105963,"path":"w120n30/w113n38"
+,"runways":[
+{"len_m":2011,"wid_m":22.86,"hdg":24,"surf":"Asphalt","rwy1":"01","lat1":38.72822800,"lon1":-112.10383900,"rwy2":"19","lat2":38.74465000,"lon2":-112.09406700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMAC","name":"Macon Downtown","lat":32.82213875,"lon":-83.56181375,"rwys":2,"ils":1,"elev":437,"index":1580721,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":1430,"wid_m":45.72,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":32.82297200,"lon1":-83.57095800,"rwy2":"28","lat2":32.82161900,"lon2":-83.55576100},
+{"len_m":1105,"wid_m":22.86,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":32.82616100,"lon1":-83.56348600,"rwy2":"33","lat2":32.81780300,"lon2":-83.55705000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":32.82074700,"lon":-83.55616900,"rng_nm":18,"alt_fmsl":437,"id":"IMAC","rwy":"10","desc":"LOC"}
+]
+}

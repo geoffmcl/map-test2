@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLE","name":"Mcnary Fld","lat":44.90960300,"lon":-123.00756100,"rwys":2,"ils":1,"elev":214,"index":926139,"path":"w130n40/w124n44"
+,"runways":[
+{"len_m":1771,"wid_m":45.72,"hdg":150,"surf":"Asphalt","rwy1":"13","lat1":44.91687200,"lon1":-123.00725600,"rwy2":"31","lat2":44.90305800,"lon2":-122.99607200},
+{"len_m":1567,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":44.91610800,"lon1":-123.00330600,"rwy2":"34","lat2":44.90200000,"lon2":-123.00357200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.55,"desc":"ATIS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"SALEM TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.91930000,"lon":-123.00921900,"rng_nm":18,"alt_fmsl":189,"hdg":330.17,"id":"ISLE","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.90566700,"lon":-122.99640000,"rng_nm":10,"alt_fmsl":210,"id":"ISLE","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.84743300,"lon":-122.95101900,"rng_nm":0,"alt_fmsl":214,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.89711100,"lon":-122.98991700,"rng_nm":0,"alt_fmsl":214,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":44.91868600,"lon":-123.00994400,"rng_nm":18,"alt_fmsl":204,"id":"ISLE","rwy":"31","desc":"DME-ILS"}
+]
+}

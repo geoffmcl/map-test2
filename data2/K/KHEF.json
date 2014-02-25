@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHEF","name":"Manassas Rgnl","lat":38.72101600,"lon":-77.51930200,"rwys":2,"ils":1,"elev":192,"index":1679401,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1737,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"16L","lat1":38.72770000,"lon1":-77.51877200,"rwy2":"34R","lat2":38.71406100,"lon2":-77.50896900},
+{"len_m":1128,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"16R","lat1":38.72669237,"lon1":-77.52106400,"rwy2":"34L","lat2":38.71783637,"lon2":-77.51469400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-77,"surf":"Asphalt","lat1":38.72485005,"lon1":-77.52074817},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-77,"surf":"Asphalt","lat1":38.72772978,"lon1":-77.51392420},
+{"rwy1":"H3","len_m":9,"wid_m":9.14,"hdg":-77,"surf":"Asphalt","lat1":38.72218697,"lon1":-77.51882173}
+]
+,"radios":[
+{"type":"ATIS","freq":125.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":120.2,"desc":"POTOMAC CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":133.1,"desc":"TWR"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":38.71861100,"lon":-77.51365000,"rng_nm":18,"alt_fmsl":171,"hdg":153.00,"id":"IHEF","rwy":"16L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":38.72415000,"lon":-77.51753100,"rng_nm":10,"alt_fmsl":174,"id":"IHEF","rwy":"16L","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDI","name":"Cambridge Muni","lat":39.97618747,"lon":-81.57876527,"rwys":1,"ils":1,"elev":799,"index":1613945,"path":"w090n30/w082n39"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":39.97010000,"lon1":-81.58177500,"rwy2":"22","lat2":39.97998100,"lon2":-81.57339400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.35,"lat":39.96941100,"lon":-81.58236400,"rng_nm":18,"alt_fmsl":799,"id":"ICZM","rwy":"22","desc":"LOC"},
+{"type":"DME","freq":109.35,"lat":39.96925600,"lon":-81.58320800,"rng_nm":18,"alt_fmsl":799,"id":"ICZM","rwy":"22","desc":"DME-ILS"}
+]
+}

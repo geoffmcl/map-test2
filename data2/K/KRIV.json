@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRIV","name":"March Arb","lat":33.89227346,"lon":-117.25198150,"rwys":2,"ils":1,"elev":1535,"index":1023738,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":4054,"wid_m":60.96,"hdg":149,"surf":"Concrete","rwy1":"14","lat1":33.89643085,"lon1":-117.27063300,"rwy2":"32","lat2":33.86499685,"lon2":-117.24827500},
+{"len_m":932,"wid_m":29.87,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":33.89025585,"lon1":-117.26067500,"rwy2":"30","lat2":33.88432485,"lon2":-117.25353300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-117,"surf":"Asphalt","lat1":33.88348840,"lon1":-117.25252753}
+]
+,"radios":[
+{"type":"ATIS","freq":134.75,"desc":"ATIS"},
+{"type":"CLD","freq":121.75,"desc":"DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":127.65,"desc":"TWR"},
+{"type":"APP","freq":133.5,"desc":"MARCH APP/DEP"},
+{"type":"APP","freq":119.25,"desc":"MARCH APP/DEP"},
+{"type":"APP","freq":134,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":33.90180300,"lon":-117.27445800,"rng_nm":18,"alt_fmsl":1535,"hdg":329.43,"id":"IRIV","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":33.86758100,"lon":-117.25163600,"rng_nm":10,"alt_fmsl":1535,"id":"IRIV","rwy":"32","desc":"GS","gs":2.7}
+]
+}

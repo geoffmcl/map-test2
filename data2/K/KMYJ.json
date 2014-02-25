@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMYJ","name":"Mexico Mem","lat":39.15755275,"lon":-91.81883125,"rwys":2,"ils":1,"elev":823,"index":1450056,"path":"w100n30/w092n39"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":65,"surf":"Concrete","rwy1":"06","lat1":39.15429200,"lon1":-91.82553300,"rwy2":"24","lat2":39.16050800,"lon2":-91.80785600},
+{"len_m":974,"wid_m":15.24,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":39.16209400,"lon1":-91.82080000,"rwy2":"36","lat2":39.15331700,"lon2":-91.82113600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":124.37,"desc":"MIZZU APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":39.15305000,"lon":-91.82906900,"rng_nm":18,"alt_fmsl":821,"id":"IEYR","rwy":"24","desc":"LOC"},
+{"type":"DME","freq":109.5,"lat":39.15368600,"lon":-91.82940300,"rng_nm":18,"alt_fmsl":821,"id":"IEYR","rwy":"24","desc":"DME-ILS"}
+]
+}

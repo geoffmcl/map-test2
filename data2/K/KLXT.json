@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLXT","name":"Lees Summit Muni","lat":38.95966325,"lon":-94.3712875,"rwys":2,"ils":0,"elev":1004,"index":1400890,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":1223,"wid_m":22.86,"hdg":183,"surf":"Concrete","rwy1":"18","lat1":38.96673100,"lon1":-94.37344400,"rwy2":"36","lat2":38.95572500,"lon2":-94.37428100},
+{"len_m":1158,"wid_m":22.86,"hdg":113,"surf":"Concrete","rwy1":"11","lat1":38.96016900,"lon1":-94.37484400,"rwy2":"29","lat2":38.95602800,"lon2":-94.36258100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.45,"desc":"CLNC DEL"},
+{"type":"APP","freq":119,"desc":"KANSAS CITY APP/DEP"}
+]
+,"ils":[
+]
+}

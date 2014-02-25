@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUCY","name":"Everett Stewart","lat":36.381792,"lon":-88.985421,"rwys":1,"ils":1,"elev":335,"index":1499032,"path":"w090n30/w089n36"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":36.37496700,"lon1":-88.98636400,"rwy2":"19","lat2":36.38861700,"lon2":-88.98447800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":36.39136100,"lon":-88.98410000,"rng_nm":18,"alt_fmsl":308,"hdg":6.35,"id":"IUCY","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":36.37755800,"lon":-88.98689400,"rng_nm":10,"alt_fmsl":319,"id":"IUCY","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.29759400,"lon":-88.99484200,"rng_nm":0,"alt_fmsl":305,"id":"----","rwy":"01","desc":"OM"}
+]
+}

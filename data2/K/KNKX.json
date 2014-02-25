@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNKX","name":"Miramar Mcas","lat":32.8679903333333,"lon":-117.138758666667,"rwys":3,"ils":1,"elev":478,"index":1023667,"path":"w120n30/w118n32"
+,"runways":[
+{"len_m":3657,"wid_m":60.96,"hdg":75,"surf":"Concrete","rwy1":"06L","lat1":32.86455300,"lon1":-117.16481400,"rwy2":"24R","lat2":32.87286100,"lon2":-117.12699700},
+{"len_m":2438,"wid_m":60.96,"hdg":75,"surf":"Asphalt","rwy1":"06R","lat1":32.86546100,"lon1":-117.15163600,"rwy2":"24L","lat2":32.87099700,"lon2":-117.12642200},
+{"len_m":852,"wid_m":60.96,"hdg":110,"surf":"Concrete","rwy1":"10","lat1":32.86837800,"lon1":-117.13560800,"rwy2":"28","lat2":32.86569200,"lon2":-117.12707500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":125.97,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.62,"desc":"GND"},
+{"type":"TWR","freq":135.2,"desc":"TWR"},
+{"type":"APP","freq":132.2,"desc":"SOCAL APP"},
+{"type":"DEP","freq":119.6,"desc":"SOCAL DEP"},
+{"type":"DEP","freq":132.2,"desc":"SOCAL DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":32.86377200,"lon":-117.16836900,"rng_nm":18,"alt_fmsl":478,"hdg":255.33,"id":"INKX","rwy":"24R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":32.87120000,"lon":-117.13041700,"rng_nm":10,"alt_fmsl":478,"id":"INKX","rwy":"24R","desc":"GS","gs":3}
+]
+}

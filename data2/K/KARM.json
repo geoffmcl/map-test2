@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KARM","name":"Wharton Rgnl","lat":29.254265,"lon":-96.1544015,"rwys":1,"ils":0,"elev":100,"index":1367507,"path":"w100n20/w097n29"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":150,"surf":"Asphalt","rwy1":"14","lat1":29.26027200,"lon1":-96.15822800,"rwy2":"32","lat2":29.24825800,"lon2":-96.15057500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

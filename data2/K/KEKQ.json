@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEKQ","name":"Wayne Co","lat":36.8552625,"lon":-84.856125,"rwys":1,"ils":0,"elev":963,"index":1564592,"path":"w090n30/w085n36"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":36.85080600,"lon1":-84.86011900,"rwy2":"21","lat2":36.85971900,"lon2":-84.85213100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

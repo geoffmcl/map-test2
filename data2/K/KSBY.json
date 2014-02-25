@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBY","name":"Salisbury Ocean City Wicomico Rgnl","lat":38.34238300,"lon":-75.51627800,"rwys":2,"ils":1,"elev":52,"index":1712145,"path":"w080n30/w076n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":38.34602200,"lon1":-75.51668600,"rwy2":"32","lat2":38.33700300,"lon2":-75.50130600},
+{"len_m":1523,"wid_m":30.48,"hdg":36,"surf":"Asphalt","rwy1":"05","lat1":38.33393600,"lon1":-75.51691400,"rwy2":"23","lat2":38.34494700,"lon2":-75.50650600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":119.42,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.77,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.77,"desc":"GND"},
+{"type":"TWR","freq":119.42,"desc":"TWR"},
+{"type":"APP","freq":127.95,"desc":"PATUXENT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":38.34766100,"lon":-75.51948300,"rng_nm":18,"alt_fmsl":52,"hdg":306.78,"id":"ISBY","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":38.33938100,"lon":-75.50361400,"rng_nm":10,"alt_fmsl":51,"id":"ISBY","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.27870000,"lon":-75.40577800,"rng_nm":0,"alt_fmsl":52,"id":"----","rwy":"32","desc":"OM"}
+]
+}

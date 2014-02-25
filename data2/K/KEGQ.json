@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEGQ","name":"Emmetsburg Muni","lat":43.1016758333333,"lon":-94.704394,"rwys":3,"ils":0,"elev":1205,"index":1401153,"path":"w100n40/w095n43"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":136,"surf":"Concrete","rwy1":"13","lat1":43.10713100,"lon1":-94.71170000,"rwy2":"31","lat2":43.10035800,"lon2":-94.70293900},
+{"len_m":753,"wid_m":36.58,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":43.09788100,"lon1":-94.70719900,"rwy2":"22","lat2":43.10268800,"lon2":-94.70067600},
+{"len_m":661,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":43.10397500,"lon1":-94.70192500,"rwy2":"35","lat2":43.09802200,"lon2":-94.70192500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCII","name":"Choteau","lat":47.82219300,"lon":-112.16915900,"rwys":2,"ils":0,"elev":3947,"index":1106547,"path":"w120n40/w113n47"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":159,"surf":"Asphalt","rwy1":"14","lat1":47.83700000,"lon1":-112.17357800,"rwy2":"32","lat2":47.82413900,"lon2":-112.16655000},
+{"len_m":1128,"wid_m":18.29,"hdg":66,"surf":"Asphalt","rwy1":"05","lat1":47.82333100,"lon1":-112.17293100,"rwy2":"23","lat2":47.82735000,"lon2":-112.15908600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

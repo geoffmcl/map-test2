@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPQI","name":"Northern Maine Rgnl At Presque Isle","lat":46.68870775,"lon":-68.044263,"rwys":2,"ils":1,"elev":534,"index":1827371,"path":"w070n40/w069n46"
+,"runways":[
+{"len_m":2266,"wid_m":45.72,"hdg":345,"surf":"Asphalt","rwy1":"01","lat1":46.68121700,"lon1":-68.04558300,"rwy2":"19","lat2":46.70097500,"lon2":-68.05291100},
+{"len_m":1826,"wid_m":45.72,"hdg":75,"surf":"Asphalt","rwy1":"10","lat1":46.68428900,"lon1":-68.05084700,"rwy2":"28","lat2":46.68835000,"lon2":-68.02771100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"BOSTON CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":46.70266700,"lon":-68.05354400,"rng_nm":18,"alt_fmsl":534,"hdg":345.71,"id":"IPGI","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":46.68360800,"lon":-68.04516900,"rng_nm":10,"alt_fmsl":460,"id":"IPGI","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.61021700,"lon":-68.01868300,"rng_nm":0,"alt_fmsl":534,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.67100000,"lon":-68.04177800,"rng_nm":0,"alt_fmsl":534,"id":"----","rwy":"01","desc":"MM"}
+]
+}

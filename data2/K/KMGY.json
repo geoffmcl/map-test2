@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMGY","name":"Dayton Wright Brothers","lat":39.58816330,"lon":-84.22928518,"rwys":1,"ils":1,"elev":957,"index":1564771,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1523,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":39.58260800,"lon1":-84.22821100,"rwy2":"20","lat2":39.59531400,"lon2":-84.22150000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.4,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.85,"desc":"APP"},
+{"type":"DEP","freq":126.5,"desc":"DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":39.58032200,"lon":-84.22941700,"rng_nm":18,"alt_fmsl":957,"id":"IMGY","rwy":"20","desc":"LOC"},
+{"type":"DME","freq":109.5,"lat":39.58057200,"lon":-84.23031900,"rng_nm":18,"alt_fmsl":957,"id":"IMGY","rwy":"20","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBID","name":"Block Island State","lat":41.16813864,"lon":-71.57761174,"rwys":1,"ils":0,"elev":108,"index":1777865,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":765,"wid_m":29.87,"hdg":83,"surf":"Asphalt","rwy1":"10","lat1":41.16776481,"lon1":-71.58214300,"rwy2":"28","lat2":41.16851248,"lon2":-71.57308047}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.78,"desc":"AWOS-3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/Unicom"}
+]
+,"ils":[
+]
+}

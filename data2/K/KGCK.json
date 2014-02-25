@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGCK","name":"Garden City Rgnl","lat":37.92645277,"lon":-100.71996344,"rwys":2,"ils":1,"elev":2891,"index":1302521,"path":"w110n30/w101n37"
+,"runways":[
+{"len_m":2224,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":37.93924684,"lon1":-100.72281988,"rwy2":"35","lat2":37.91920716,"lon2":-100.72300612},
+{"len_m":1737,"wid_m":29.87,"hdg":135,"surf":"Concrete","rwy1":"12","lat1":37.93089178,"lon1":-100.73327709,"rwy2":"30","lat2":37.91974422,"lon2":-100.71940891}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.32,"desc":"ASOS"},
+{"type":"CTAF","freq":118.15,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":119,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":37.94418100,"lon":-100.72277200,"rng_nm":18,"alt_fmsl":2892,"hdg":0.42,"id":"IGCK","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":37.92193600,"lon":-100.72419200,"rng_nm":10,"alt_fmsl":2877,"id":"IGCK","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.82896700,"lon":-100.72435300,"rng_nm":0,"alt_fmsl":2824,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.91144400,"lon":-100.72308300,"rng_nm":0,"alt_fmsl":2857,"id":"----","rwy":"35","desc":"MM"}
+]
+}

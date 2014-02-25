@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAUO","name":"Auburn Opelika Robert G Pitts","lat":32.61545625,"lon":-85.43367,"rwys":2,"ils":1,"elev":777,"index":1547938,"path":"w090n30/w086n32"
+,"runways":[
+{"len_m":1604,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":32.62020000,"lon1":-85.43603600,"rwy2":"36","lat2":32.60573600,"lon2":-85.43634400},
+{"len_m":1219,"wid_m":22.86,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":32.61958100,"lon1":-85.43735000,"rwy2":"29","lat2":32.61630800,"lon2":-85.42495000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.7,"desc":"ATLANTA CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":126.55,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":32.62154400,"lon":-85.43600727,"rng_nm":18,"alt_fmsl":777,"hdg":1.03,"id":"IAUO","rwy":"36","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.1,"lat":32.62102800,"lon":-85.43601700,"rng_nm":18,"alt_fmsl":773,"id":"IAUO","rwy":"29","desc":"LOC"},
+{"type":"GS","freq":110.1,"lat":32.60849330,"lon":-85.43726230,"rng_nm":10,"alt_fmsl":777,"id":"IAUO","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.50919400,"lon":-85.43722500,"rng_nm":0,"alt_fmsl":777,"id":"----","rwy":"29","desc":"OM"},
+{"type":"OM","freq":0,"lat":32.51241769,"lon":-85.43833177,"rng_nm":0,"alt_fmsl":777,"id":"----","rwy":"36","desc":"OM"}
+]
+}

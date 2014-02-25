@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMIE","name":"Delaware Co Johnson Fld","lat":40.2423005,"lon":-85.3968615,"rwys":2,"ils":1,"elev":937,"index":1548426,"path":"w090n40/w086n40"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":40.24868300,"lon1":-85.40593100,"rwy2":"32","lat2":40.23582500,"lon2":-85.38979200},
+{"len_m":1523,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":40.23574400,"lon1":-85.39829200,"rwy2":"20","lat2":40.24895000,"lon2":-85.39343100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.25,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"MUNCIE GND"},
+{"type":"TWR","freq":120.1,"desc":"MUNCIE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":40.25129700,"lon":-85.40913300,"rng_nm":18,"alt_fmsl":937,"hdg":316.34,"id":"IJNK","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":40.23710800,"lon":-85.39325800,"rng_nm":10,"alt_fmsl":936,"id":"IJNK","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.18087800,"lon":-85.32071900,"rng_nm":0,"alt_fmsl":980,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.23026400,"lon":-85.38275000,"rng_nm":0,"alt_fmsl":937,"id":"----","rwy":"32","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBFE","name":"Terry Co","lat":33.17355075,"lon":-102.1927875,"rwys":2,"ils":0,"elev":3264,"index":1269451,"path":"w110n30/w103n33"
+,"runways":[
+{"len_m":1589,"wid_m":22.86,"hdg":25,"surf":"Asphalt","rwy1":"02","lat1":33.16578100,"lon1":-102.19695800,"rwy2":"20","lat2":33.17866700,"lon2":-102.18949200},
+{"len_m":842,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":33.17755800,"lon1":-102.19555000,"rwy2":"31","lat2":33.17219700,"lon2":-102.18915000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"LUBBOCK APP/DEP"}
+]
+,"ils":[
+]
+}

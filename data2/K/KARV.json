@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KARV","name":"Lakeland Noble F Lee Mem Fld","lat":45.927337,"lon":-89.7305355,"rwys":2,"ils":1,"elev":1630,"index":1483257,"path":"w090n40/w090n45"
+,"runways":[
+{"len_m":1569,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":45.93772500,"lon1":-89.73302500,"rwy2":"36","lat2":45.92360600,"lon2":-89.73264700},
+{"len_m":1097,"wid_m":22.86,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":45.92491100,"lon1":-89.73519200,"rwy2":"28","lat2":45.92310600,"lon2":-89.72127800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":45.93910115,"lon":-89.73306188,"rng_nm":18,"alt_fmsl":1630,"hdg":358.93,"id":"IDOF","rwy":"36","desc":"ILS-cat-I"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGRK","name":"Robert Gray Aaf","lat":31.067239,"lon":-97.828928,"rwys":1,"ils":1,"elev":1015,"index":1351232,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":3047,"wid_m":60.96,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":31.07992200,"lon1":-97.83507800,"rwy2":"33","lat2":31.05455600,"lon2":-97.82277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.2,"desc":"GRAY GND"},
+{"type":"TWR","freq":120.75,"desc":"TWR"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":31.05187500,"lon":-97.82148100,"rng_nm":18,"alt_fmsl":962,"hdg":157.45,"id":"IGRK","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":31.07682800,"lon":-97.83496100,"rng_nm":10,"alt_fmsl":1006,"id":"IGRK","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.16784200,"lon":-97.87822800,"rng_nm":0,"alt_fmsl":1015,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.08709200,"lon":-97.83851900,"rng_nm":0,"alt_fmsl":1015,"id":"----","rwy":"15","desc":"MM"}
+]
+}

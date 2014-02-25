@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJBR","name":"Jonesboro Muni","lat":35.8310565,"lon":-90.6472435,"rwys":2,"ils":1,"elev":262,"index":1466225,"path":"w100n30/w091n35"
+,"runways":[
+{"len_m":1890,"wid_m":45.72,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":35.82880000,"lon1":-90.65123300,"rwy2":"23","lat2":35.83970600,"lon2":-90.63516400},
+{"len_m":1249,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":35.83181400,"lon1":-90.65620800,"rwy2":"31","lat2":35.82390600,"lon2":-90.64636900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":35.82546700,"lon":-90.65616900,"rng_nm":18,"alt_fmsl":262,"hdg":230.09,"id":"IJBR","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":35.83710000,"lon":-90.63690300,"rng_nm":10,"alt_fmsl":260,"id":"IJBR","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.90031400,"lon":-90.54628600,"rng_nm":0,"alt_fmsl":262,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.84459700,"lon":-90.62794200,"rng_nm":0,"alt_fmsl":262,"id":"----","rwy":"23","desc":"MM"}
+]
+}

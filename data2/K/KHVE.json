@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHVE","name":"Hanksville Airport","lat":38.41941378,"lon":-110.70242199,"rwys":2,"ils":0,"elev":4443,"index":1138713,"path":"w120n30/w111n38"
+,"runways":[
+{"len_m":1735,"wid_m":22.86,"hdg":97,"surf":"Asphalt","rwy1":"08","lat1":38.41699751,"lon1":-110.71409807,"rwy2":"26","lat2":38.41484075,"lon2":-110.69442179},
+{"len_m":1478,"wid_m":36.58,"hdg":186,"surf":"Dirt","rwy1":"17","lat1":38.42953169,"lon1":-110.69968597,"rwy2":"35","lat2":38.41628517,"lon2":-110.70148212}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"WX AWOS-3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

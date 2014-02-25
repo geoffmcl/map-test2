@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWMC","name":"Winnemucca Muni","lat":40.90504500,"lon":-117.80770100,"rwys":2,"ils":0,"elev":4308,"index":1024184,"path":"w120n40/w118n40"
+,"runways":[
+{"len_m":2132,"wid_m":29.87,"hdg":159,"surf":"Asphalt","rwy1":"14","lat1":40.90599966,"lon1":-117.81394489,"rwy2":"32","lat2":40.88799304,"lon2":-117.80514635},
+{"len_m":1462,"wid_m":22.86,"hdg":39,"surf":"Asphalt","rwy1":"02","lat1":40.89096096,"lon1":-117.80616178,"rwy2":"20","lat2":40.90111537,"lon2":-117.79511374}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":40.90298773,"lon1":-117.80355101},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":40.90303918,"lon1":-117.80399487}
+]
+,"radios":[
+{"type":"ATIS","freq":120.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTOL","name":"Toledo Express","lat":41.5867195,"lon":-83.80558575,"rwys":2,"ils":2,"elev":684,"index":1581280,"path":"w090n40/w084n41"
+,"runways":[
+{"len_m":3230,"wid_m":45.72,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":41.58138600,"lon1":-83.83070300,"rwy2":"25","lat2":41.59267200,"lon2":-83.79499200},
+{"len_m":1706,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":41.59349200,"lon1":-83.80229200,"rwy2":"34","lat2":41.57932800,"lon2":-83.79435600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.75,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":134.35,"desc":"APP/DEP"},
+{"type":"APP","freq":126.1,"desc":"APP/DEP"},
+{"type":"APP","freq":123.97,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":41.59418900,"lon":-83.79019400,"rng_nm":18,"alt_fmsl":659,"hdg":67.11,"id":"ITOL","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":41.58031100,"lon":-83.83410300,"rng_nm":18,"alt_fmsl":677,"hdg":247.08,"id":"IBQE","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":41.58157500,"lon":-83.82634400,"rng_nm":10,"alt_fmsl":682,"id":"ITOL","rwy":"07","desc":"GS","gs":2.75},
+{"type":"GS","freq":108.7,"lat":41.59070000,"lon":-83.79745800,"rng_nm":10,"alt_fmsl":665,"id":"IBQE","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.55344700,"lon":-83.92112500,"rng_nm":0,"alt_fmsl":684,"id":"----","rwy":"07","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.62379200,"lon":-83.69319400,"rng_nm":0,"alt_fmsl":684,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.57730000,"lon":-83.84354200,"rng_nm":0,"alt_fmsl":684,"id":"----","rwy":"07","desc":"MM"},
+{"type":"MM","freq":0,"lat":41.59602500,"lon":-83.78436100,"rng_nm":0,"alt_fmsl":684,"id":"----","rwy":"25","desc":"MM"}
+]
+}

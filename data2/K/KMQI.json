@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMQI","name":"Dare Co Rgnl","lat":35.9190435,"lon":-75.69542725,"rwys":2,"ils":0,"elev":14,"index":1711993,"path":"w080n30/w076n35"
+,"runways":[
+{"len_m":1310,"wid_m":30.48,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":35.91396900,"lon1":-75.70075300,"rwy2":"23","lat2":35.92327200,"lon2":-75.69180300},
+{"len_m":1006,"wid_m":22.86,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":35.92367200,"lon1":-75.69666400,"rwy2":"35","lat2":35.91526100,"lon2":-75.69248900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.72,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+]
+}

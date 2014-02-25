@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNGW","name":"Cabaniss Fld Nolf","lat":27.702639,"lon":-97.43875025,"rwys":2,"ils":0,"elev":30,"index":1351018,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":1535,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":27.70611100,"lon1":-97.44305600,"rwy2":"31","lat2":27.69666700,"lon2":-97.43166700},
+{"len_m":1477,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":27.71055600,"lon1":-97.44027800,"rwy2":"35","lat2":27.69722200,"lon2":-97.44000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.65,"desc":"NAVY CABANISS TWR"},
+{"type":"APP","freq":125.4,"desc":"CORPUS APP/DEP"}
+]
+,"ils":[
+]
+}

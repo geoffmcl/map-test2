@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHQU","name":"Thomson Mcduffie Co","lat":33.5297135,"lon":-82.516464,"rwys":1,"ils":1,"elev":498,"index":1597153,"path":"w090n30/w083n33"
+,"runways":[
+{"len_m":1584,"wid_m":30.48,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":33.53004400,"lon1":-82.52498600,"rwy2":"28","lat2":33.52938300,"lon2":-82.50794200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.8,"desc":"AUGUSTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":33.52932200,"lon":-82.50640800,"rng_nm":18,"alt_fmsl":500,"hdg":92.67,"id":"IAAQ","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":33.53081100,"lon":-82.52240000,"rng_nm":10,"alt_fmsl":453,"id":"IAAQ","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":33.53328300,"lon":-82.61436900,"rng_nm":0,"alt_fmsl":517,"id":"----","rwy":"10","desc":"OM"}
+]
+}

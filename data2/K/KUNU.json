@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUNU","name":"Dodge Co","lat":43.4265255,"lon":-88.70340625,"rwys":2,"ils":1,"elev":934,"index":1499481,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1542,"wid_m":30.48,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":43.42493300,"lon1":-88.71655300,"rwy2":"26","lat2":43.42741100,"lon2":-88.69781400},
+{"len_m":1227,"wid_m":22.86,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":43.42160000,"lon1":-88.70187200,"rwy2":"20","lat2":43.43215800,"lon2":-88.69738600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.15,"desc":"MADISON APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.55,"lat":43.42429700,"lon":-88.72136700,"rng_nm":18,"alt_fmsl":883,"id":"IJNE","rwy":"26","desc":"LOC"},
+{"type":"DME","freq":109.55,"lat":43.42358900,"lon":-88.72116100,"rng_nm":18,"alt_fmsl":903,"id":"IJNE","rwy":"26","desc":"DME-ILS"}
+]
+}

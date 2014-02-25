@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSYF","name":"Cheyenne Co Muni","lat":39.761255375,"lon":-101.795778375,"rwys":4,"ils":0,"elev":3411,"index":1286256,"path":"w110n30/w102n39"
+,"runways":[
+{"len_m":956,"wid_m":15.24,"hdg":144,"surf":"Asphalt","rwy1":"13R","lat1":39.76379700,"lon1":-101.80036400,"rwy2":"31L","lat2":39.75674400,"lon2":-101.79395800},
+{"len_m":863,"wid_m":54.86,"hdg":144,"surf":"Turf/grass","rwy1":"13L","lat1":39.76336900,"lon1":-101.79927500,"rwy2":"31R","lat2":39.75700000,"lon2":-101.79349200},
+{"len_m":704,"wid_m":85.34,"hdg":199,"surf":"Turf/grass","rwy1":"18","lat1":39.76489400,"lon1":-101.79244700,"rwy2":"36","lat2":39.75889400,"lon2":-101.79513600},
+{"len_m":548,"wid_m":85.34,"hdg":97,"surf":"Turf/grass","rwy1":"09","lat1":39.76300300,"lon1":-101.79894700,"rwy2":"27","lat2":39.76234200,"lon2":-101.79260800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

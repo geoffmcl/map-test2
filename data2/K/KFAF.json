@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFAF","name":"Felker Aaf","lat":37.1324555,"lon":-76.608982,"rwys":1,"ils":0,"elev":12,"index":1695689,"path":"w080n30/w077n37"
+,"runways":[
+{"len_m":961,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":37.13503600,"lon1":-76.61332800,"rwy2":"32","lat2":37.12987500,"lon2":-76.60463600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"GND","freq":121.35,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":125.7,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDUJ","name":"Du Bois Jefferson Co","lat":41.18316379,"lon":-78.89256228,"rwys":1,"ils":1,"elev":1817,"index":1663176,"path":"w080n40/w079n41"
+,"runways":[
+{"len_m":1677,"wid_m":29.87,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":41.17476700,"lon1":-78.90755600,"rwy2":"25","lat2":41.18176400,"lon2":-78.88983900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":41.17438600,"lon":-78.90853100,"rng_nm":18,"alt_fmsl":1817,"hdg":242.32,"id":"IDUJ","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":41.17960000,"lon":-78.89308300,"rng_nm":10,"alt_fmsl":1813,"id":"IDUJ","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.22079400,"lon":-78.80220800,"rng_nm":0,"alt_fmsl":1817,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.18633900,"lon":-78.87830800,"rng_nm":0,"alt_fmsl":1817,"id":"----","rwy":"25","desc":"MM"}
+]
+}

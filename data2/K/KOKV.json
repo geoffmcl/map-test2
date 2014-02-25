@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOKV","name":"Winchester Rgnl","lat":39.14352723,"lon":-78.14445507,"rwys":1,"ils":1,"elev":727,"index":1663051,"path":"w080n30/w079n39"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":39.14874846,"lon1":-78.15146286,"rwy2":"32","lat2":39.13830600,"lon2":-78.13744728}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.85,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.15,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":120.45,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":39.15128100,"lon":-78.15485000,"rng_nm":18,"alt_fmsl":727,"hdg":313.87,"id":"ITZX","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":39.14043300,"lon":-78.13902500,"rng_nm":10,"alt_fmsl":698,"id":"ITZX","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":109.55,"lat":39.15058300,"lon":-78.15502200,"rng_nm":18,"alt_fmsl":727,"id":"ITZX","rwy":"32","desc":"DME-ILS"}
+]
+}

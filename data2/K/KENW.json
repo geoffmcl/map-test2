@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KENW","name":"Kenosha Rgnl","lat":42.5954188333333,"lon":-87.9269761666667,"rwys":3,"ils":1,"elev":743,"index":1515808,"path":"w090n40/w088n42"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":63,"surf":"Concrete","rwy1":"06L","lat1":42.59300000,"lon1":-87.94171100,"rwy2":"24R","lat2":42.59966900,"lon2":-87.92340000},
+{"len_m":1353,"wid_m":30.48,"hdg":143,"surf":"Concrete","rwy1":"14","lat1":42.60189700,"lon1":-87.93067200,"rwy2":"32","lat2":42.59207500,"lon2":-87.92092200},
+{"len_m":1005,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"06R","lat1":42.59093600,"lon1":-87.92806900,"rwy2":"24L","lat2":42.59493600,"lon2":-87.91708300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.17,"desc":"ASOS"},
+{"type":"ATIS","freq":127.17,"desc":"ATIS"},
+{"type":"CTAF","freq":118.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.87,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":120.15,"desc":"MILWAUKEE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":42.60029698,"lon":-87.92167682,"rng_nm":18,"alt_fmsl":743,"hdg":63.68,"id":"IENW","rwy":"06L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":42.59495393,"lon":-87.93886710,"rng_nm":10,"alt_fmsl":743,"id":"IENW","rwy":"06L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.56121966,"lon":-88.02896535,"rng_nm":0,"alt_fmsl":743,"id":"----","rwy":"06L","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.59004369,"lon":-87.94982768,"rng_nm":0,"alt_fmsl":743,"id":"----","rwy":"06L","desc":"MM"}
+]
+}

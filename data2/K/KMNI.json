@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMNI","name":"Santee Cooper Rgnl","lat":33.5871015,"lon":-80.208668,"rwys":1,"ils":0,"elev":103,"index":1629923,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":1097,"wid_m":22.86,"hdg":12,"surf":"Asphalt","rwy1":"02","lat1":33.58226400,"lon1":-80.20990800,"rwy2":"20","lat2":33.59193900,"lon2":-80.20742800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+,"ils":[
+]
+}

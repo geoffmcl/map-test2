@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDVK","name":"Stuart Powell Fld","lat":37.578849,"lon":-84.77082775,"rwys":2,"ils":0,"elev":1022,"index":1564640,"path":"w090n30/w085n37"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":37.57985000,"lon1":-84.77505800,"rwy2":"30","lat2":37.57266900,"lon2":-84.76035600},
+{"len_m":718,"wid_m":22.86,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":37.57823300,"lon1":-84.77451100,"rwy2":"19","lat2":37.58464400,"lon2":-84.77338600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.15,"desc":"LEXINGTON APP/DEP"}
+]
+,"ils":[
+]
+}

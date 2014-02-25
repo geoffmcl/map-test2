@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBM","name":"Sheboygan Co Mem","lat":43.7695858,"lon":-87.851797325,"rwys":2,"ils":1,"elev":754,"index":1515888,"path":"w090n40/w088n43"
+,"runways":[
+{"len_m":2073,"wid_m":29.87,"hdg":35,"surf":"Concrete","rwy1":"03","lat1":43.76317020,"lon1":-87.85871180,"rwy2":"21","lat2":43.77842600,"lon2":-87.84388350},
+{"len_m":1523,"wid_m":22.86,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":43.77272500,"lon1":-87.85961100,"rwy2":"31","lat2":43.76402200,"lon2":-87.84498300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":43.76281100,"lon":-87.85904200,"rng_nm":18,"alt_fmsl":741,"hdg":215.03,"id":"IHEV","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":43.77637300,"lon":-87.84651700,"rng_nm":10,"alt_fmsl":740,"id":"IHEV","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.84850000,"lon":-87.77447800,"rng_nm":0,"alt_fmsl":693,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.78338300,"lon":-87.83906100,"rng_nm":0,"alt_fmsl":754,"id":"----","rwy":"21","desc":"MM"}
+]
+}

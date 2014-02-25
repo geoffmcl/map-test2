@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KREI","name":"Redlands Muni","lat":34.08426071,"lon":-117.14076620,"rwys":1,"ils":0,"elev":1570,"index":1023747,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1373,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.08522752,"lon1":-117.15382814,"rwy2":"26","lat2":34.08530561,"lon2":-117.13894673}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.25,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

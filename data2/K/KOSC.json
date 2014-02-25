@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOSC","name":"Oscoda Wurtsmith","lat":44.451557,"lon":-83.394054,"rwys":1,"ils":1,"elev":634,"index":1581466,"path":"w090n40/w084n44"
+,"runways":[
+{"len_m":3596,"wid_m":60.96,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":44.44303600,"lon1":-83.41326100,"rwy2":"24","lat2":44.46007800,"lon2":-83.37484700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":44.43898300,"lon":-83.42234700,"rng_nm":18,"alt_fmsl":634,"hdg":238.10,"id":"ILJU","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":44.45948300,"lon":-83.37917800,"rng_nm":10,"alt_fmsl":634,"id":"ILJU","rwy":"24","desc":"GS","gs":2.6}
+]
+}

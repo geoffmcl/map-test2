@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBTV","name":"Burlington Intl","lat":44.47114748,"lon":-73.15563428,"rwys":2,"ils":1,"elev":334,"index":1745307,"path":"w080n40/w074n44"
+,"runways":[
+{"len_m":2535,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"15","lat1":44.48061929,"lon1":-73.16599263,"rwy2":"33","lat2":44.46570159,"lon2":-73.14187567},
+{"len_m":1253,"wid_m":22.86,"hdg":351,"surf":"Asphalt","rwy1":"01","lat1":44.46376826,"lon1":-73.15111690,"rwy2":"19","lat2":44.47491873,"lon2":-73.15346624}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.46466700,"lon":-73.13999400,"rng_nm":18,"alt_fmsl":331,"hdg":130.92,"id":"IBTV","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":44.48229400,"lon":-73.16850300,"rng_nm":18,"alt_fmsl":294,"hdg":310.90,"id":"IVOE","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.47842800,"lon":-73.16429700,"rng_nm":10,"alt_fmsl":308,"id":"IBTV","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":44.46911900,"lon":-73.14528900,"rng_nm":10,"alt_fmsl":334,"id":"IVOE","rwy":"33","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":44.53223300,"lon":-73.24946100,"rng_nm":0,"alt_fmsl":334,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.48449400,"lon":-73.17207200,"rng_nm":0,"alt_fmsl":334,"id":"----","rwy":"15","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":44.46426100,"lon":-73.14080800,"rng_nm":18,"alt_fmsl":339,"id":"IBTV","rwy":"15","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":44.46520000,"lon":-73.14009400,"rng_nm":18,"alt_fmsl":342,"id":"IVOE","rwy":"33","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPOC","name":"Brackett Field","lat":34.09315850,"lon":-117.78217446,"rwys":2,"ils":1,"elev":1011,"index":1023744,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1474,"wid_m":22.86,"hdg":93,"surf":"Asphalt","rwy1":"08R","lat1":34.09171100,"lon1":-117.79050000,"rwy2":"26L","lat2":34.09096900,"lon2":-117.77454400},
+{"len_m":1115,"wid_m":22.86,"hdg":93,"surf":"Asphalt","rwy1":"08L","lat1":34.09236700,"lon1":-117.78680600,"rwy2":"26R","lat2":34.09180500,"lon2":-117.77473600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-117,"surf":"Asphalt","lat1":34.09283071,"lon1":-117.77557171}
+]
+,"radios":[
+{"type":"ATIS","freq":124.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":125,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":34.09178600,"lon":-117.79214200,"rng_nm":18,"alt_fmsl":1011,"hdg":273.20,"id":"IPOC","rwy":"26L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":34.09275600,"lon":-117.77775800,"rng_nm":10,"alt_fmsl":999,"id":"IPOC","rwy":"26L","desc":"GS","gs":3.76},
+{"type":"OM","freq":0,"lat":34.08781700,"lon":-117.67183300,"rng_nm":0,"alt_fmsl":1011,"id":"----","rwy":"26L","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.09042500,"lon":-117.76528100,"rng_nm":0,"alt_fmsl":1011,"id":"----","rwy":"26L","desc":"MM"}
+]
+}

@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPSC","name":"Tri Cities","lat":46.26005850,"lon":-119.11564844,"rwys":3,"ils":1,"elev":410,"index":991763,"path":"w120n40/w120n46"
+,"runways":[
+{"len_m":2350,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"03L","lat1":46.25595600,"lon1":-119.13349200,"rwy2":"21R","lat2":46.27071400,"lon2":-119.11166400},
+{"len_m":2347,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":46.27347500,"lon1":-119.12796700,"rwy2":"30","lat2":46.25834700,"lon2":-119.10671400},
+{"len_m":1348,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"03R","lat1":46.26065300,"lon1":-119.12201900,"rwy2":"21L","lat2":46.26911900,"lon2":-119.10949700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.65,"desc":"ATIS"},
+{"type":"CTAF","freq":135.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":135.3,"desc":"TWR"},
+{"type":"APP","freq":128.75,"desc":"CHINOOK APP/DEP"},
+{"type":"APP","freq":133.15,"desc":"CHINOOK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":46.25402500,"lon":-119.13634700,"rng_nm":18,"alt_fmsl":410,"hdg":225.63,"id":"IPSC","rwy":"21R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":46.26841900,"lon":-119.11732800,"rng_nm":10,"alt_fmsl":410,"id":"IPSC","rwy":"21R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.33812500,"lon":-119.01251900,"rng_nm":0,"alt_fmsl":651,"id":"----","rwy":"21R","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.27496900,"lon":-119.10548300,"rng_nm":0,"alt_fmsl":410,"id":"----","rwy":"21R","desc":"MM"}
+]
+}

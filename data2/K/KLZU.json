@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLZU","name":"Gwinnett Co Briscoe Fld","lat":33.97668835,"lon":-83.96018537,"rwys":1,"ils":1,"elev":1061,"index":1580792,"path":"w090n30/w084n33"
+,"runways":[
+{"len_m":1828,"wid_m":29.87,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":33.97442800,"lon1":-83.97123600,"rwy2":"25","lat2":33.98173600,"lon2":-83.95349400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.27,"desc":"ATIS"},
+{"type":"CTAF","freq":124.1,"desc":"CTAF"},
+{"type":"CTAF","freq":123.05,"desc":"UNICOM"},
+{"type":"CLD","freq":134,"desc":"ATLANTA CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.1,"desc":"TWR"},
+{"type":"APP","freq":126.97,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":33.97339600,"lon":-83.97419000,"rng_nm":18,"alt_fmsl":1061,"hdg":244.08,"id":"TXP","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":33.98099900,"lon":-83.95641300,"rng_nm":10,"alt_fmsl":1061,"id":"TXP","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.01998900,"lon":-83.86283900,"rng_nm":0,"alt_fmsl":984,"id":"----","rwy":"25","desc":"OM"}
+]
+}

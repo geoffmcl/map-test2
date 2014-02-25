@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGYI","name":"Grayson Co","lat":33.7146848333333,"lon":-96.6751696666667,"rwys":3,"ils":1,"elev":749,"index":1367785,"path":"w100n30/w097n33"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"17L","lat1":33.72631700,"lon1":-96.67256700,"rwy2":"35R","lat2":33.70159700,"lon2":-96.67348600},
+{"len_m":2438,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"17R","lat1":33.72631700,"lon1":-96.67585600,"rwy2":"35L","lat2":33.70434400,"lon2":-96.67668100},
+{"len_m":687,"wid_m":45.72,"hdg":142,"surf":"Asphalt","rwy1":"13","lat1":33.71724200,"lon1":-96.67845000,"rwy2":"31","lat2":33.71229200,"lon2":-96.67397800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.75,"desc":"FORT WORTH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":33.69850800,"lon":-96.67360000,"rng_nm":18,"alt_fmsl":747,"hdg":181.77,"id":"IGYI","rwy":"17L","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":33.72326400,"lon":-96.67144700,"rng_nm":10,"alt_fmsl":740,"id":"IGYI","rwy":"17L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":33.82399200,"lon":-96.66971900,"rng_nm":0,"alt_fmsl":749,"id":"----","rwy":"17L","desc":"OM"}
+]
+}

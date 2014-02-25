@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMBT","name":"Murfreesboro Muni","lat":35.8774845,"lon":-86.377532,"rwys":1,"ils":0,"elev":615,"index":1531770,"path":"w090n30/w087n35"
+,"runways":[
+{"len_m":1187,"wid_m":30.48,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":35.88283300,"lon1":-86.37725000,"rwy2":"36","lat2":35.87213600,"lon2":-86.37781400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.45,"desc":"NASHVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

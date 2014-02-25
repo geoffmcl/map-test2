@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDVL","name":"Devils Lake Muni","lat":48.114286,"lon":-98.908874,"rwys":2,"ils":1,"elev":1455,"index":1335936,"path":"w100n40/w099n48"
+,"runways":[
+{"len_m":1679,"wid_m":45.72,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":48.12041700,"lon1":-98.91476700,"rwy2":"31","lat2":48.10918100,"lon2":-98.89970000},
+{"len_m":1314,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":48.10957200,"lon1":-98.91672500,"rwy2":"21","lat2":48.11797400,"lon2":-98.90430400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":48.12174200,"lon":-98.91654200,"rng_nm":18,"alt_fmsl":1457,"hdg":318.16,"id":"IVKE","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":48.11328100,"lon":-98.90300000,"rng_nm":10,"alt_fmsl":1441,"id":"IVKE","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.03552800,"lon":-98.80369700,"rng_nm":0,"alt_fmsl":1451,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.10344400,"lon":-98.89200800,"rng_nm":0,"alt_fmsl":1455,"id":"----","rwy":"31","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSJN","name":"St Johns Industrial Air Park","lat":34.51817425,"lon":-109.37894375,"rwys":2,"ils":0,"elev":5736,"index":1154850,"path":"w110n30/w110n34"
+,"runways":[
+{"len_m":1621,"wid_m":22.86,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":34.52617500,"lon1":-109.38272200,"rwy2":"32","lat2":34.51373300,"lon2":-109.37345300},
+{"len_m":1035,"wid_m":18.29,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":34.51266400,"lon1":-109.38319200,"rwy2":"21","lat2":34.52012500,"lon2":-109.37640800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

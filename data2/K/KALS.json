@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KALS","name":"San Luis Valley Rgnl Bergman Fld","lat":37.43479375,"lon":-105.86550475,"rwys":2,"ils":1,"elev":7539,"index":1220568,"path":"w110n30/w106n37"
+,"runways":[
+{"len_m":2596,"wid_m":30.48,"hdg":31,"surf":"Asphalt","rwy1":"02","lat1":37.42518300,"lon1":-105.87560800,"rwy2":"20","lat2":37.44513100,"lon2":-105.86027800},
+{"len_m":975,"wid_m":30.48,"hdg":76,"surf":"Turf/grass","rwy1":"06","lat1":37.43339200,"lon1":-105.86841900,"rwy2":"24","lat2":37.43546900,"lon2":-105.85771400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":37.44749700,"lon":-105.85827500,"rng_nm":18,"alt_fmsl":7539,"hdg":31.67,"id":"IVQR","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":37.42680300,"lon":-105.87267800,"rng_nm":10,"alt_fmsl":7538,"id":"IVQR","rwy":"02","desc":"GS","gs":3.04},
+{"type":"OM","freq":0,"lat":37.35442500,"lon":-105.93101100,"rng_nm":0,"alt_fmsl":7539,"id":"----","rwy":"02","desc":"OM"}
+]
+}

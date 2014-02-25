@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLND","name":"Hunt Fld","lat":42.81669961,"lon":-108.72949544,"rwys":1,"ils":0,"elev":5586,"index":1171761,"path":"w110n40/w109n42"
+,"runways":[
+{"len_m":1526,"wid_m":29.87,"hdg":50,"surf":"Asphalt","rwy1":"03","lat1":42.81118864,"lon1":-108.73545709,"rwy2":"21","lat2":42.81994847,"lon2":-108.72107317}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":10.97,"hdg":-108,"surf":"Asphalt","lat1":42.81710799,"lon1":-108.72777102}
+]
+,"radios":[
+{"type":"ATIS","freq":118.15,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

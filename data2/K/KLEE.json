@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLEE","name":"Leesburg Rgnl","lat":28.82728600,"lon":-81.80882300,"rwys":2,"ils":0,"elev":77,"index":1613232,"path":"w090n20/w082n28"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":28.82882800,"lon1":-81.81609200,"rwy2":"31","lat2":28.82002200,"lon2":-81.80409700},
+{"len_m":1510,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":28.81615800,"lon1":-81.81178900,"rwy2":"21","lat2":28.82732500,"lon2":-81.80291400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"ORLANDO APP/DEP"}
+]
+,"ils":[
+]
+}

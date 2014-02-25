@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRUQ","name":"Rowan Co","lat":35.64123500,"lon":-80.51783800,"rwys":1,"ils":1,"elev":773,"index":1630057,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":15,"surf":"Asphalt","rwy1":"02","lat1":35.63862225,"lon1":-80.52284292,"rwy2":"20","lat2":35.65314775,"lon2":-80.51774108}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":10.97,"hdg":-80,"surf":"Asphalt","lat1":35.64753512,"lon1":-80.52037551}
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.35,"desc":"CLNC DEL"},
+{"type":"APP","freq":128.32,"desc":"CHARLOTTE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":35.63775000,"lon":-80.52314700,"rng_nm":18,"alt_fmsl":773,"hdg":195.92,"id":"IRUQ","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.95,"lat":35.65106400,"lon":-80.51891100,"rng_nm":10,"alt_fmsl":770,"id":"IRUQ","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.73314400,"lon":-80.48961900,"rng_nm":0,"alt_fmsl":773,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.66001400,"lon":-80.51533100,"rng_nm":0,"alt_fmsl":773,"id":"----","rwy":"20","desc":"MM"}
+]
+}

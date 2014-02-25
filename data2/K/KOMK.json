@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOMK","name":"Omak","lat":48.464411,"lon":-119.5180545,"rwys":1,"ils":0,"elev":1305,"index":991897,"path":"w120n40/w120n48"
+,"runways":[
+{"len_m":1422,"wid_m":45.72,"hdg":189,"surf":"Asphalt","rwy1":"17","lat1":48.47072500,"lon1":-119.51653100,"rwy2":"35","lat2":48.45809700,"lon2":-119.51957800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

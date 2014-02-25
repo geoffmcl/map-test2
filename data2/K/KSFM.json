@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSFM","name":"Sanford Rgnl","lat":43.3934413333333,"lon":-70.7100465,"rwys":3,"ils":1,"elev":244,"index":1794393,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":1821,"wid_m":45.72,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":43.38388900,"lon1":-70.71416400,"rwy2":"19","lat2":43.40027500,"lon2":-70.71472200},
+{"len_m":1828,"wid_m":45.72,"hdg":58,"surf":"Asphalt","rwy1":"07","lat1":43.38689700,"lon1":-70.71923100,"rwy2":"25","lat2":43.39553100,"lon2":-70.70001400},
+{"len_m":1523,"wid_m":30.48,"hdg":118,"surf":"Asphalt","rwy1":"14","lat1":43.40034200,"lon1":-70.71430600,"rwy2":"32","lat2":43.39371400,"lon2":-70.69784200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.72,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.75,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":43.39627324,"lon":-70.69836381,"rng_nm":18,"alt_fmsl":244,"hdg":58.27,"id":"ISFM","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":43.38763958,"lon":-70.71542518,"rng_nm":10,"alt_fmsl":244,"id":"ISFM","rwy":"07","desc":"GS","gs":3}
+]
+}

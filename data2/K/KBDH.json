@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBDH","name":"Willmar Muni","lat":45.117722,"lon":-95.130417,"rwys":2,"ils":0,"elev":1126,"index":1384899,"path":"w100n40/w096n45"
+,"runways":[
+{"len_m":1679,"wid_m":30.48,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":45.12284552,"lon1":-95.13826249,"rwy2":"31","lat2":45.11259848,"lon2":-95.12257151},
+{"len_m":915,"wid_m":91.44,"hdg":32,"surf":"Dirt","rwy1":"03","lat1":45.11426285,"lon1":-95.13357410,"rwy2":"21","lat2":45.12118115,"lon2":-95.12725990}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

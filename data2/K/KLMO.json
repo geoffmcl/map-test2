@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLMO","name":"Vance Brand","lat":40.163255,"lon":-105.1648925,"rwys":2,"ils":0,"elev":5052,"index":1220747,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":1462,"wid_m":22.86,"hdg":122,"surf":"Concrete","rwy1":"11","lat1":40.16793900,"lon1":-105.17086400,"rwy2":"29","lat2":40.16083100,"lon2":-105.15640600},
+{"len_m":431,"wid_m":16.76,"hdg":127,"surf":"Dirt","rwy1":"11R","lat1":40.16330000,"lon1":-105.16816700,"rwy2":"29L","lat2":40.16095000,"lon2":-105.16413300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.1,"desc":"DENVER APP/DEP"}
+]
+,"ils":[
+]
+}

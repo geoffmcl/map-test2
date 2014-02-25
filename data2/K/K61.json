@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"K61","name":"Moritz Mem","lat":39.4705985,"lon":-98.129268,"rwys":3,"ils":0,"elev":1416,"index":1335387,"path":"w100n30/w099n39"
+,"runways":[
+{"len_m":1100,"wid_m":18.29,"hdg":178,"surf":"Concrete","rwy1":"17","lat1":39.47783300,"lon1":-98.12704700,"rwy2":"35","lat2":39.46792200,"lon2":-98.12681100},
+{"len_m":725,"wid_m":33.53,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":39.46797200,"lon1":-98.13344200,"rwy2":"22","lat2":39.47261700,"lon2":-98.12750800},
+{"len_m":502,"wid_m":27.43,"hdg":90,"surf":"Turf/grass","rwy1":"08","lat1":39.46866100,"lon1":-98.13332200,"rwy2":"26","lat2":39.46858600,"lon2":-98.12747800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KONY","name":"Olney Muni","lat":33.3508805,"lon":-98.8191633333333,"rwys":3,"ils":0,"elev":1275,"index":1334992,"path":"w100n30/w099n33"
+,"runways":[
+{"len_m":1554,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.35789700,"lon1":-98.82023300,"rwy2":"35","lat2":33.34387800,"lon2":-98.82031900},
+{"len_m":1553,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":33.34828600,"lon1":-98.82452200,"rwy2":"22","lat2":33.35813600,"lon2":-98.81265800},
+{"len_m":1553,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":33.35352200,"lon1":-98.82449200,"rwy2":"31","lat2":33.34356400,"lon2":-98.81275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

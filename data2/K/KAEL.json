@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAEL","name":"Albert Lea Muni","lat":43.68157625,"lon":-93.367268,"rwys":2,"ils":0,"elev":1259,"index":1417578,"path":"w100n40/w094n43"
+,"runways":[
+{"len_m":1371,"wid_m":30.48,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":43.68738600,"lon1":-93.36885800,"rwy2":"34","lat2":43.67530000,"lon2":-93.36537500},
+{"len_m":883,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":43.67907500,"lon1":-93.37139700,"rwy2":"22","lat2":43.68454400,"lon2":-93.36344200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+]
+}

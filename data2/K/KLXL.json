@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLXL","name":"Little Falls Morrison Co","lat":45.949234,"lon":-94.3460985,"rwys":2,"ils":0,"elev":1122,"index":1401338,"path":"w100n40/w095n45"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":45.95259700,"lon1":-94.35107800,"rwy2":"31","lat2":45.94545300,"lon2":-94.33914700},
+{"len_m":926,"wid_m":51.82,"hdg":181,"surf":"Turf/grass","rwy1":"18","lat1":45.95360800,"lon1":-94.34694700,"rwy2":"36","lat2":45.94527800,"lon2":-94.34722200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

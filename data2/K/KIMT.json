@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIMT","name":"Ford","lat":45.81800375,"lon":-88.11493325,"rwys":2,"ils":1,"elev":1182,"index":1499635,"path":"w090n40/w089n45"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":45.81051700,"lon1":-88.11513900,"rwy2":"19","lat2":45.82818100,"lon2":-88.11173600},
+{"len_m":1161,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":45.82015300,"lon1":-88.12198600,"rwy2":"31","lat2":45.81316400,"lon2":-88.11087200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":45.83253100,"lon":-88.11090000,"rng_nm":18,"alt_fmsl":1182,"hdg":7.65,"id":"IIMT","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":45.81326700,"lon":-88.11302800,"rng_nm":10,"alt_fmsl":1130,"id":"IIMT","rwy":"01","desc":"GS","gs":2.98},
+{"type":"OM","freq":0,"lat":45.72740300,"lon":-88.13262500,"rng_nm":0,"alt_fmsl":1182,"id":"----","rwy":"01","desc":"OM"}
+]
+}

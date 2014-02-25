@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KONM","name":"Socorro Muni","lat":34.022574,"lon":-106.9035625,"rwys":2,"ils":0,"elev":4875,"index":1203968,"path":"w110n30/w107n34"
+,"runways":[
+{"len_m":1780,"wid_m":30.48,"hdg":163,"surf":"Asphalt","rwy1":"15","lat1":34.02940800,"lon1":-106.90276100,"rwy2":"33","lat2":34.01401900,"lon2":-106.89729400},
+{"len_m":1398,"wid_m":18.29,"hdg":73,"surf":"Asphalt","rwy1":"06","lat1":34.02164700,"lon1":-106.91435600,"rwy2":"24","lat2":34.02522200,"lon2":-106.89983900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KODO","name":"Odessa Schlemeyer Fld","lat":31.9203763333333,"lon":-102.386597666667,"rwys":3,"ils":0,"elev":3004,"index":1269370,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":1737,"wid_m":22.86,"hdg":29,"surf":"Asphalt","rwy1":"02","lat1":31.91406700,"lon1":-102.39267500,"rwy2":"20","lat2":31.92768600,"lon2":-102.38358100},
+{"len_m":1524,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":31.92799400,"lon1":-102.39081900,"rwy2":"34","lat2":31.91473300,"lon2":-102.38655800},
+{"len_m":1042,"wid_m":18.29,"hdg":119,"surf":"Asphalt","rwy1":"11","lat1":31.92121400,"lon1":-102.38776400,"rwy2":"29","lat2":31.91656400,"lon2":-102.37818900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.6,"desc":"MIDLAND APP/DEP"}
+]
+,"ils":[
+]
+}

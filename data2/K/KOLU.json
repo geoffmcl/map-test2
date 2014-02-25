@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOLU","name":"Columbus Muni","lat":41.44379708,"lon":-97.34329578,"rwys":2,"ils":1,"elev":1444,"index":1351898,"path":"w100n40/w098n41"
+,"runways":[
+{"len_m":2074,"wid_m":29.87,"hdg":149,"surf":"Concrete","rwy1":"14","lat1":41.45740776,"lon1":-97.34990418,"rwy2":"32","lat2":41.44126624,"lon2":-97.33742065},
+{"len_m":1230,"wid_m":46.02,"hdg":29,"surf":"Turf/grass","rwy1":"02","lat1":41.44303945,"lon1":-97.34007582,"rwy2":"20","lat2":41.45265605,"lon2":-97.33275791}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":41.44018100,"lon":-97.33658900,"rng_nm":18,"alt_fmsl":1439,"id":"IOLU","rwy":"14","desc":"LOC"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KISO","name":"Kinston Rgnl Jetport At Stallings Fld","lat":35.3287633333333,"lon":-77.616455,"rwys":3,"ils":1,"elev":93,"index":1679185,"path":"w080n30/w078n35"
+,"runways":[
+{"len_m":3505,"wid_m":45.72,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":35.31952800,"lon1":-77.62150300,"rwy2":"23","lat2":35.34333600,"lon2":-77.59615600},
+{"len_m":1501,"wid_m":22.86,"hdg":176,"surf":"Turf/grass","rwy1":"18","lat1":35.33411900,"lon1":-77.61859400,"rwy2":"36","lat2":35.32060800,"lon2":-77.61761100},
+{"len_m":695,"wid_m":22.86,"hdg":86,"surf":"Turf/grass","rwy1":"09","lat1":35.32728600,"lon1":-77.62624700,"rwy2":"27","lat2":35.32770300,"lon2":-77.61861900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":120.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"SEYMOUR JOHN APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":35.34550800,"lon":-77.59384200,"rng_nm":18,"alt_fmsl":81,"hdg":40.98,"id":"IISO","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":35.32375600,"lon":-77.61878300,"rng_nm":10,"alt_fmsl":88,"id":"IISO","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.24391400,"lon":-77.69825300,"rng_nm":0,"alt_fmsl":40,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.31562200,"lon":-77.62551700,"rng_nm":0,"alt_fmsl":93,"id":"----","rwy":"05","desc":"MM"}
+]
+}

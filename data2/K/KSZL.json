@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSZL","name":"Whiteman Afb","lat":38.72861900,"lon":-93.56066900,"rwys":1,"ils":2,"elev":870,"index":1417257,"path":"w100n30/w094n38"
+,"runways":[
+{"len_m":3779,"wid_m":60.96,"hdg":10,"surf":"Concrete","rwy1":"01","lat1":38.71359200,"lon1":-93.55198100,"rwy2":"19","lat2":38.74701900,"lon2":-93.54374700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.27,"desc":"GND"},
+{"type":"TWR","freq":132.4,"desc":"TWR"},
+{"type":"APP","freq":127.45,"desc":"APP"},
+{"type":"DEP","freq":125.92,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":38.75045600,"lon":-93.54290000,"rng_nm":18,"alt_fmsl":870,"hdg":10.88,"id":"ISZL","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":38.70906100,"lon":-93.55309700,"rng_nm":18,"alt_fmsl":870,"hdg":190.88,"id":"IMXJ","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":38.71607200,"lon":-93.54951100,"rng_nm":10,"alt_fmsl":870,"id":"ISZL","rwy":"01","desc":"GS","gs":2.86},
+{"type":"GS","freq":108.5,"lat":38.74330600,"lon":-93.54323100,"rng_nm":10,"alt_fmsl":870,"id":"IMXJ","rwy":"19","desc":"GS","gs":2.5}
+]
+}

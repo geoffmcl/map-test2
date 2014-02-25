@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGUP","name":"Gallup Muni","lat":35.51205400,"lon":-108.78930700,"rwys":1,"ils":1,"elev":6472,"index":1171296,"path":"w110n30/w109n35"
+,"runways":[
+{"len_m":2229,"wid_m":30.48,"hdg":73,"surf":"Asphalt","rwy1":"06","lat1":35.50826900,"lon1":-108.80110600,"rwy2":"24","lat2":35.51384700,"lon2":-108.77750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.7,"lat":35.51460300,"lon":-108.77429700,"rng_nm":18,"alt_fmsl":6484,"id":"IGUP","rwy":"06","desc":"LOC"},
+{"type":"OM","freq":0,"lat":35.48509700,"lon":-108.90105600,"rng_nm":0,"alt_fmsl":6325,"id":"----","rwy":"06","desc":"OM"},
+{"type":"DME","freq":111.7,"lat":35.51493600,"lon":-108.77404400,"rng_nm":18,"alt_fmsl":6499,"id":"IGUP","rwy":"06","desc":"DME-ILS"}
+]
+}

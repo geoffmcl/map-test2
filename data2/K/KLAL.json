@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLAL","name":"Lakeland Linder Rgnl","lat":27.99232093,"lon":-82.01416650,"rwys":2,"ils":1,"elev":142,"index":1596795,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":2590,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":27.98923600,"lon1":-82.03386900,"rwy2":"27","lat2":27.98929400,"lon2":-82.00753300},
+{"len_m":1523,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":27.98345000,"lon1":-82.02037200,"rwy2":"23","lat2":27.99320000,"lon2":-82.00944700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":27.99447200,"lon":-82.00801900,"rng_nm":18,"alt_fmsl":142,"hdg":44.71,"id":"ILAL","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":27.98486900,"lon":-82.01736400,"rng_nm":10,"alt_fmsl":131,"id":"ILAL","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":27.93540300,"lon":-82.07580800,"rng_nm":0,"alt_fmsl":100,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":27.97836400,"lon":-82.02606900,"rng_nm":0,"alt_fmsl":142,"id":"----","rwy":"05","desc":"MM"}
+]
+}

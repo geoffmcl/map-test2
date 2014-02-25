@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMMT","name":"Mc Entire Angs","lat":33.9241063333333,"lon":-80.8000723333333,"rwys":3,"ils":1,"elev":252,"index":1629944,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":33.92741700,"lon1":-80.81126900,"rwy2":"32","lat2":33.91022200,"lon2":-80.78994200},
+{"len_m":1362,"wid_m":45.72,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":33.93047200,"lon1":-80.79555600,"rwy2":"36","lat2":33.91819400,"lon2":-80.79602800},
+{"len_m":604,"wid_m":27.43,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":33.92722200,"lon1":-80.80611100,"rwy2":"23","lat2":33.93111100,"lon2":-80.80152800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":132.4,"desc":"CTAF"},
+{"type":"GND","freq":127.62,"desc":"GND"},
+{"type":"TWR","freq":132.4,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"SHAW APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":33.92956400,"lon":-80.81393600,"rng_nm":18,"alt_fmsl":252,"hdg":314.16,"id":"IMMT","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":33.91333300,"lon":-80.79143100,"rng_nm":10,"alt_fmsl":243,"id":"IMMT","rwy":"32","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":33.90360800,"lon":-80.78172800,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"32","desc":"MM"}
+]
+}

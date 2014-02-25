@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLI","name":"Los Alamitos Aaf","lat":33.79305200,"lon":-118.05451500,"rwys":3,"ils":0,"elev":35,"index":1007347,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":55,"surf":"Asphalt","rwy1":"04R","lat1":33.78380729,"lon1":-118.06027550,"rwy2":"22L","lat2":33.79630271,"lon2":-118.03861050},
+{"len_m":1801,"wid_m":45.72,"hdg":55,"surf":"Asphalt","rwy1":"04L","lat1":33.78531742,"lon1":-118.06211738,"rwy2":"22R","lat2":33.79455058,"lon2":-118.04610862},
+{"len_m":943,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.79376462,"lon1":-118.04727600,"rwy2":"35","lat2":33.78526138,"lon2":-118.04727600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.95,"desc":"GND"},
+{"type":"TWR","freq":123.85,"desc":"TWR"},
+{"type":"APP","freq":124.65,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

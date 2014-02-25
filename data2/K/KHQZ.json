@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHQZ","name":"Mesquite Metro","lat":32.7469625,"lon":-96.530419,"rwys":1,"ils":1,"elev":447,"index":1367721,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.75520600,"lon1":-96.53026900,"rwy2":"35","lat2":32.73871900,"lon2":-96.53056900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.2,"desc":"REGIONAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.75,"lat":32.73738146,"lon":-96.53059344,"rng_nm":18,"alt_fmsl":447,"hdg":180.88,"id":"IHQZ","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.75,"lat":32.75245075,"lon":-96.52934058,"rng_nm":10,"alt_fmsl":447,"id":"IHQZ","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":109.75,"lat":32.73394167,"lon":-96.53150278,"rng_nm":18,"alt_fmsl":447,"id":"IHQZ","rwy":"17","desc":"DME-ILS"}
+]
+}

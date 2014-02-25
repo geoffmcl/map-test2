@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLSE","name":"La Crosse Muni","lat":43.8788154333333,"lon":-91.2562055466667,"rwys":3,"ils":1,"elev":653,"index":1450362,"path":"w100n40/w092n43"
+,"runways":[
+{"len_m":2664,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":43.89322811,"lon1":-91.25884899,"rwy2":"36","lat2":43.86925015,"lon2":-91.25851995},
+{"len_m":1847,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":43.88510698,"lon1":-91.26436020,"rwy2":"31","lat2":43.87345106,"lon2":-91.24797218},
+{"len_m":1586,"wid_m":45.72,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":43.87015970,"lon1":-91.25958102,"rwy2":"21","lat2":43.88169661,"lon2":-91.24795094}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.95,"desc":"ATIS"},
+{"type":"CTAF","freq":118.45,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.45,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":43.86708600,"lon":-91.25851900,"rng_nm":18,"alt_fmsl":647,"hdg":179.45,"id":"ILSE","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":43.89035800,"lon":-91.26006100,"rng_nm":10,"alt_fmsl":652,"id":"ILSE","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.00399400,"lon":-91.26082200,"rng_nm":0,"alt_fmsl":653,"id":"----","rwy":"18","desc":"OM"}
+]
+}

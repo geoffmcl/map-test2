@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRYM","name":"Ray S Miller Aaf","lat":46.089421,"lon":-94.35967175,"rwys":2,"ils":1,"elev":1150,"index":1401346,"path":"w100n40/w095n46"
+,"runways":[
+{"len_m":1860,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":46.09715000,"lon1":-94.36899700,"rwy2":"31","lat2":46.08525600,"lon2":-94.35207800},
+{"len_m":1083,"wid_m":24.38,"hdg":137,"surf":"Gravel","rwy1":"13R","lat1":46.09122200,"lon1":-94.36355600,"rwy2":"31L","lat2":46.08405600,"lon2":-94.35405600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":126.2,"desc":"CLNC DEL"},
+{"type":"TWR","freq":126.2,"desc":"MILLER TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":46.09901400,"lon":-94.37165300,"rng_nm":18,"alt_fmsl":1152,"hdg":315.38,"id":"IRYM","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":46.08758600,"lon":-94.35261900,"rng_nm":10,"alt_fmsl":1146,"id":"IRYM","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":46.09097500,"lon":-94.37165300,"rng_nm":18,"alt_fmsl":1154,"id":"IRYM","rwy":"31","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDLF","name":"Laughlin Afb","lat":29.35755500,"lon":-100.78643000,"rwys":3,"ils":2,"elev":1081,"index":1301968,"path":"w110n20/w101n29"
+,"runways":[
+{"len_m":2698,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13C","lat1":29.36745300,"lon1":-100.78790800,"rwy2":"31C","lat2":29.35010800,"lon2":-100.76841100},
+{"len_m":2534,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13L","lat1":29.36822200,"lon1":-100.78436900,"rwy2":"31R","lat2":29.35192800,"lon2":-100.76605300},
+{"len_m":1900,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13R","lat1":29.36581700,"lon1":-100.78826900,"rwy2":"31L","lat2":29.35360000,"lon2":-100.77453600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120.5,"desc":"CLNC DEL"},
+{"type":"TWR","freq":125.2,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"DEL RIO APP"},
+{"type":"DEP","freq":119.6,"desc":"DEL RIO DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":29.34778900,"lon":-100.76580300,"rng_nm":18,"alt_fmsl":107,"hdg":135.59,"id":"IDLF","rwy":"13C","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":29.36947800,"lon":-100.79017800,"rng_nm":18,"alt_fmsl":108,"hdg":315.59,"id":"IILH","rwy":"31C","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":29.36676400,"lon":-100.78481400,"rng_nm":10,"alt_fmsl":108,"id":"IDLF","rwy":"13C","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":29.35295800,"lon":-100.76940600,"rng_nm":10,"alt_fmsl":107,"id":"IILH","rwy":"31C","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":29.37436000,"lon":-100.79565000,"rng_nm":0,"alt_fmsl":1081,"id":"----","rwy":"13C","desc":"MM"}
+]
+}

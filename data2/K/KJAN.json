@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJAN","name":"Jackson Evers Intl","lat":32.3111775,"lon":-90.07589225,"rwys":2,"ils":2,"elev":346,"index":1466003,"path":"w100n30/w091n32"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"16L","lat1":32.32819400,"lon1":-90.07771100,"rwy2":"34R","lat2":32.30653300,"lon2":-90.06739700},
+{"len_m":2590,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"16R","lat1":32.31582200,"lon1":-90.08438600,"rwy2":"34L","lat2":32.29416100,"lon2":-90.07407500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.05,"desc":"ATIS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP/DEP"},
+{"type":"APP","freq":125.25,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":32.30385300,"lon":-90.06611900,"rng_nm":18,"alt_fmsl":346,"hdg":158.08,"id":"IJAN","rwy":"16L","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.3,"lat":32.31905300,"lon":-90.08592800,"rng_nm":18,"alt_fmsl":346,"hdg":338.07,"id":"IFRL","rwy":"34L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":32.32592800,"lon":-90.07523100,"rng_nm":10,"alt_fmsl":302,"id":"IJAN","rwy":"16L","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":32.29667800,"lon":-90.07666700,"rng_nm":10,"alt_fmsl":327,"id":"IFRL","rwy":"34L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.41250300,"lon":-90.11954200,"rng_nm":0,"alt_fmsl":346,"id":"----","rwy":"16L","desc":"OM"},
+{"type":"OM","freq":0,"lat":32.22831700,"lon":-90.04275800,"rng_nm":0,"alt_fmsl":346,"id":"----","rwy":"34L","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.33634700,"lon":-90.08159400,"rng_nm":0,"alt_fmsl":346,"id":"----","rwy":"16L","desc":"MM"},
+{"type":"MM","freq":0,"lat":32.28776700,"lon":-90.07103100,"rng_nm":0,"alt_fmsl":346,"id":"----","rwy":"34L","desc":"MM"},
+{"type":"IM","freq":0,"lat":32.33061700,"lon":-90.07886100,"rng_nm":0,"alt_fmsl":346,"id":"----","rwy":"16L","desc":"IM"}
+]
+}

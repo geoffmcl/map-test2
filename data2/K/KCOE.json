@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCOE","name":"Coeur D Alene Air Terminal","lat":47.7740945,"lon":-116.8190015,"rwys":2,"ils":1,"elev":2318,"index":1041008,"path":"w120n40/w117n47"
+,"runways":[
+{"len_m":2255,"wid_m":30.48,"hdg":70,"surf":"Asphalt","rwy1":"05","lat1":47.77189200,"lon1":-116.83711900,"rwy2":"23","lat2":47.77881100,"lon2":-116.80883100},
+{"len_m":1645,"wid_m":22.86,"hdg":32,"surf":"Asphalt","rwy1":"01","lat1":47.76658600,"lon1":-116.82090300,"rwy2":"19","lat2":47.77908900,"lon2":-116.80915300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.1,"desc":"SPOKANE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":47.77980300,"lon":-116.80478100,"rng_nm":18,"alt_fmsl":2318,"hdg":70.01,"id":"ICOE","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":47.77182200,"lon":-116.83340800,"rng_nm":10,"alt_fmsl":2278,"id":"ICOE","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.74283300,"lon":-116.96105600,"rng_nm":0,"alt_fmsl":2153,"id":"----","rwy":"05","desc":"OM"}
+]
+}

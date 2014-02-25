@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTSO","name":"Carroll Co Tolson","lat":40.56270601,"lon":-81.07935271,"rwys":1,"ils":0,"elev":1163,"index":1613987,"path":"w090n40/w082n40"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":40.55933100,"lon1":-81.08446400,"rwy2":"25","lat2":40.56442500,"lon2":-81.07050800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"AKRON CANTON APP/DEP"}
+]
+,"ils":[
+]
+}

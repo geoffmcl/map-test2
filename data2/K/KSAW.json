@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSAW","name":"Sawyer Intl","lat":46.35395100,"lon":-87.38962500,"rwys":1,"ils":1,"elev":1221,"index":1516050,"path":"w090n40/w088n46"
+,"runways":[
+{"len_m":3770,"wid_m":46.02,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":46.33687200,"lon1":-87.39916700,"rwy2":"19","lat2":46.37037800,"lon2":-87.39153900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":119.97,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":119.97,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":46.37558900,"lon":-87.39035000,"rng_nm":18,"alt_fmsl":1221,"hdg":8.94,"id":"ISOU","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":46.33968300,"lon":-87.40059200,"rng_nm":10,"alt_fmsl":1221,"id":"ISOU","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.26224700,"lon":-87.41612500,"rng_nm":0,"alt_fmsl":1221,"id":"----","rwy":"01","desc":"OM"}
+]
+}

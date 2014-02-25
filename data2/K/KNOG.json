@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNOG","name":"Orange Grove Nalf","lat":27.89680425,"lon":-98.04356025,"rwys":2,"ils":1,"elev":257,"index":1334651,"path":"w100n20/w099n27"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":27.88485000,"lon1":-98.04873600,"rwy2":"19","lat2":27.90614200,"lon2":-98.04248900},
+{"len_m":2438,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":27.90585300,"lon1":-98.05030800,"rwy2":"31","lat2":27.89037200,"lon2":-98.03270800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.35,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"KINGSVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":27.88843900,"lon":-98.03046400,"rng_nm":18,"alt_fmsl":257,"hdg":134.80,"id":"INOG","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":27.90518100,"lon":-98.04778900,"rng_nm":10,"alt_fmsl":257,"id":"INOG","rwy":"13","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":27.89532200,"lon":-98.04261400,"rng_nm":18,"alt_fmsl":257,"id":"INOG","rwy":"13","desc":"DME-ILS"}
+]
+}

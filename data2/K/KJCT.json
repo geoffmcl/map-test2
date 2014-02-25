@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJCT","name":"Kimble Co","lat":30.51106475,"lon":-99.76229375,"rwys":2,"ils":0,"elev":1749,"index":1318432,"path":"w100n30/w100n30"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":30.51715300,"lon1":-99.76438600,"rwy2":"35","lat2":30.50340600,"lon2":-99.76445300},
+{"len_m":686,"wid_m":44.50,"hdg":92,"surf":"Turf/grass","rwy1":"08","lat1":30.51198300,"lon1":-99.76374200,"rwy2":"26","lat2":30.51171700,"lon2":-99.75659400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAPC","name":"Napa Co","lat":38.20789654,"lon":-122.27866431,"rwys":3,"ils":1,"elev":35,"index":942090,"path":"w130n30/w123n38"
+,"runways":[
+{"len_m":1807,"wid_m":46.02,"hdg":200,"surf":"Asphalt","rwy1":"18R","lat1":38.22320605,"lon1":-122.27796036,"rwy2":"36L","lat2":38.20797595,"lon2":-122.28526965},
+{"len_m":1526,"wid_m":46.02,"hdg":76,"surf":"Concrete","rwy1":"06","lat1":38.20770849,"lon1":-122.28848388,"rwy2":"24","lat2":38.21086151,"lon2":-122.27152212},
+{"len_m":765,"wid_m":22.86,"hdg":200,"surf":"Asphalt","rwy1":"18L","lat1":38.21852305,"lon1":-122.27830334,"rwy2":"36R","lat2":38.21207495,"lon2":-122.28139466}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.05,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":127.8,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":38.22448900,"lon":-122.27734200,"rng_nm":18,"alt_fmsl":23,"id":"IAPC","rwy":"36L","desc":"LOC"}
+]
+}

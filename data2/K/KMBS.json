@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMBS","name":"Mbs Intl","lat":43.52646300,"lon":-84.08277100,"rwys":2,"ils":1,"elev":668,"index":1565027,"path":"w090n40/w085n43"
+,"runways":[
+{"len_m":2438,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":43.52681700,"lon1":-84.08925300,"rwy2":"23","lat2":43.54216900,"lon2":-84.06768900},
+{"len_m":1950,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":43.53723100,"lon1":-84.08955300,"rwy2":"32","lat2":43.52468300,"lon2":-84.07267200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"SAGINAW TWR"},
+{"type":"APP","freq":120.95,"desc":"SAGINAW APP/DEP"},
+{"type":"APP","freq":126.45,"desc":"SAGINAW APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":43.54408900,"lon":-84.06499400,"rng_nm":18,"alt_fmsl":668,"hdg":45.52,"id":"IMBS","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":43.52500000,"lon":-84.09180000,"rng_nm":18,"alt_fmsl":668,"hdg":225.51,"id":"ITQR","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":43.52842800,"lon":-84.08483100,"rng_nm":10,"alt_fmsl":666,"id":"IMBS","rwy":"05","desc":"GS","gs":2.75},
+{"type":"GS","freq":108.7,"lat":43.53947800,"lon":-84.06923300,"rng_nm":10,"alt_fmsl":653,"id":"ITQR","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.46155600,"lon":-84.17963100,"rng_nm":0,"alt_fmsl":668,"id":"----","rwy":"05","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.59483100,"lon":-83.99267500,"rng_nm":0,"alt_fmsl":668,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.52116400,"lon":-84.09720300,"rng_nm":0,"alt_fmsl":668,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":43.54785800,"lon":-84.05970300,"rng_nm":0,"alt_fmsl":668,"id":"----","rwy":"23","desc":"MM"}
+]
+}

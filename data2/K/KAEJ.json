@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAEJ","name":"Central Colorado Rgnl","lat":38.81415,"lon":-106.1206935,"rwys":1,"ils":0,"elev":7946,"index":1204275,"path":"w110n30/w107n38"
+,"runways":[
+{"len_m":2529,"wid_m":22.86,"hdg":162,"surf":"Asphalt","rwy1":"15","lat1":38.82499700,"lon1":-106.12515600,"rwy2":"33","lat2":38.80330300,"lon2":-106.11623100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

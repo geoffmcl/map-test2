@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBQK","name":"Brunswick Golden Isles","lat":31.258808,"lon":-81.4664945,"rwys":1,"ils":1,"elev":26,"index":1613394,"path":"w090n30/w082n31"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":31.25422200,"lon1":-81.47813100,"rwy2":"25","lat2":31.26339400,"lon2":-81.45485800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.75,"desc":"CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":31.26472500,"lon":-81.45186900,"rng_nm":18,"alt_fmsl":26,"hdg":64.93,"id":"IBQK","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":31.25665300,"lon":-81.47543100,"rng_nm":10,"alt_fmsl":22,"id":"IBQK","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.22833600,"lon":-81.54271100,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.25128600,"lon":-81.48597800,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"07","desc":"MM"}
+]
+}

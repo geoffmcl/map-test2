@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFPR","name":"St Lucie Co Intl","lat":27.49398400,"lon":-80.37263500,"rwys":2,"ils":1,"elev":23,"index":1629530,"path":"w090n20/w081n27"
+,"runways":[
+{"len_m":1978,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":27.49725600,"lon1":-80.37937500,"rwy2":"27","lat2":27.49710800,"lon2":-80.35935300},
+{"len_m":1449,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":27.49681100,"lon1":-80.37192500,"rwy2":"32","lat2":27.48748300,"lon2":-80.36163900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.82,"desc":"ATIS"},
+{"type":"CTAF","freq":128.2,"desc":"CTAF"},
+{"type":"GND","freq":119.55,"desc":"GND"},
+{"type":"TWR","freq":128.2,"desc":"FORT PIERCE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":27.49710083,"lon":-80.35628510,"rng_nm":18,"alt_fmsl":27,"hdg":90.39,"id":"IFJD","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":27.49813843,"lon":-80.37644196,"rng_nm":10,"alt_fmsl":26,"id":"IFJD","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":27.49695015,"lon":-80.47470093,"rng_nm":0,"alt_fmsl":27,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":27.49711609,"lon":-80.38925171,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"09","desc":"MM"},
+{"type":"DME","freq":110.55,"lat":27.49779129,"lon":-80.35629272,"rng_nm":18,"alt_fmsl":28,"id":"IFJD","rwy":"09","desc":"DME-ILS"}
+]
+}

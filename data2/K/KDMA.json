@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDMA","name":"Davis-monthan Afb","lat":32.16920722,"lon":-110.87547632,"rwys":1,"ils":1,"elev":2704,"index":1138312,"path":"w120n30/w111n32"
+,"runways":[
+{"len_m":4167,"wid_m":60.96,"hdg":137,"surf":"Concrete","rwy1":"12","lat1":32.18028112,"lon1":-110.89808851,"rwy2":"30","lat2":32.15256700,"lon2":-110.86825000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.85,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"TUCSON APP/DEP"},
+{"type":"APP","freq":125.1,"desc":"TUCSON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":32.18411700,"lon":-110.90236100,"rng_nm":25,"alt_fmsl":2572,"hdg":317.53,"id":"IDMA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":32.15441700,"lon":-110.87244400,"rng_nm":10,"alt_fmsl":2691,"id":"IDMA","rwy":"30","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":32.14392200,"lon":-110.85925300,"rng_nm":0,"alt_fmsl":2704,"id":"----","rwy":"30","desc":"MM"}
+]
+}

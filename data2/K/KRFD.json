@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRFD","name":"Chicago Rockford Intl","lat":42.19530275,"lon":-89.09656475,"rwys":2,"ils":2,"elev":742,"index":1483019,"path":"w090n40/w090n42"
+,"runways":[
+{"len_m":3048,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":42.19023100,"lon1":-89.11992500,"rwy2":"25","lat2":42.20164700,"lon2":-89.08635600},
+{"len_m":2498,"wid_m":45.72,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":42.18346900,"lon1":-89.09142200,"rwy2":"19","lat2":42.20586400,"lon2":-89.08855600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"ROCKFORD TWR"},
+{"type":"APP","freq":121,"desc":"ROCKFORD APP/DEP"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":42.20995800,"lon":-89.08803300,"rng_nm":18,"alt_fmsl":735,"hdg":5.42,"id":"IRFD","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.55,"lat":42.20243100,"lon":-89.08405600,"rng_nm":18,"alt_fmsl":736,"hdg":65.35,"id":"IUDY","rwy":"07","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.3,"lat":42.18636400,"lon":-89.08956900,"rng_nm":10,"alt_fmsl":717,"id":"IRFD","rwy":"01","desc":"GS","gs":2.75},
+{"type":"GS","freq":109.55,"lat":42.19064700,"lon":-89.11515000,"rng_nm":10,"alt_fmsl":726,"id":"IUDY","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.11447200,"lon":-89.09863900,"rng_nm":0,"alt_fmsl":742,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":42.15725000,"lon":-89.21850000,"rng_nm":0,"alt_fmsl":742,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.17388900,"lon":-89.09266700,"rng_nm":0,"alt_fmsl":742,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":42.18739400,"lon":-89.12815000,"rng_nm":0,"alt_fmsl":688,"id":"----","rwy":"07","desc":"MM"},
+{"type":"IM","freq":0,"lat":42.18925000,"lon":-89.12280000,"rng_nm":0,"alt_fmsl":729,"id":"----","rwy":"07","desc":"IM"},
+{"type":"DME","freq":109.3,"lat":42.20990800,"lon":-89.08712200,"rng_nm":18,"alt_fmsl":742,"id":"IRFD","rwy":"01","desc":"DME-ILS"}
+]
+}

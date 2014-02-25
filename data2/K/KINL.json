@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KINL","name":"Falls Intl","lat":48.56560557,"lon":-93.402295095,"rwys":2,"ils":2,"elev":1185,"index":1417890,"path":"w100n40/w094n48"
+,"runways":[
+{"len_m":2255,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":48.57284583,"lon1":-93.41265500,"rwy2":"31","lat2":48.55827945,"lon2":-93.39139138},
+{"len_m":914,"wid_m":22.86,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":48.56258900,"lon1":-93.40670300,"rwy2":"22","lat2":48.56870800,"lon2":-93.39843100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":48.55600100,"lon":-93.38804900,"rng_nm":18,"alt_fmsl":1185,"hdg":135.99,"id":"IABK","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.95,"lat":48.57483500,"lon":-93.41557000,"rng_nm":18,"alt_fmsl":1185,"hdg":315.98,"id":"IINL","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":48.56997400,"lon":-93.41082900,"rng_nm":10,"alt_fmsl":1185,"id":"IABK","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":111.95,"lat":48.55931300,"lon":-93.39525300,"rng_nm":10,"alt_fmsl":1185,"id":"IINL","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.48134700,"lon":-93.27806700,"rng_nm":0,"alt_fmsl":1120,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.55307500,"lon":-93.38370600,"rng_nm":0,"alt_fmsl":1185,"id":"----","rwy":"31","desc":"MM"}
+]
+}

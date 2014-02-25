@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPPF","name":"Tri City","lat":37.331318,"lon":-95.5085905,"rwys":2,"ils":0,"elev":899,"index":1384401,"path":"w100n30/w096n37"
+,"runways":[
+{"len_m":1733,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.33769200,"lon1":-95.50623100,"rwy2":"35","lat2":37.32207200,"lon2":-95.50610600},
+{"len_m":1221,"wid_m":30.48,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":37.32883900,"lon1":-95.51585300,"rwy2":"22","lat2":37.33666900,"lon2":-95.50617200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

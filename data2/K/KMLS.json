@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMLS","name":"Frank Wiley Fld","lat":46.42782500,"lon":-105.87723700,"rwys":2,"ils":0,"elev":2630,"index":1221144,"path":"w110n40/w106n46"
+,"runways":[
+{"len_m":1731,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":46.42171900,"lon1":-105.89663600,"rwy2":"22","lat2":46.43132200,"lon2":-105.87890600},
+{"len_m":1713,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":46.43486700,"lon1":-105.89259200,"rwy2":"30","lat2":46.42398600,"lon2":-105.87679200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.57,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

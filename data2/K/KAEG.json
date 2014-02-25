@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAEG","name":"Albuquerque Double Eagle Ii","lat":35.15494100,"lon":-106.79525900,"rwys":2,"ils":1,"elev":5837,"index":1204040,"path":"w110n30/w107n35"
+,"runways":[
+{"len_m":2254,"wid_m":29.87,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":35.13874700,"lon1":-106.80918300,"rwy2":"22","lat2":35.15281900,"lon2":-106.79133100},
+{"len_m":1827,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.15260800,"lon1":-106.78888900,"rwy2":"35","lat2":35.13613300,"lon2":-106.78886700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-106,"surf":"Asphalt","lat1":35.15573454,"lon1":-106.79338388},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":-106,"surf":"Asphalt","lat1":35.15600267,"lon1":-106.79304950},
+{"rwy1":"H3","len_m":14,"wid_m":14.94,"hdg":-106,"surf":"Asphalt","lat1":35.15831857,"lon1":-106.79362877}
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":127.4,"desc":"ALBUQUERQUE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":35.13674700,"lon":-106.81172200,"rng_nm":18,"alt_fmsl":5837,"hdg":226.05,"id":"IAEG","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":35.15013100,"lon":-106.79281400,"rng_nm":10,"alt_fmsl":5837,"id":"IAEG","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.21734700,"lon":-106.71283300,"rng_nm":0,"alt_fmsl":5837,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.15851700,"lon":-106.78411100,"rng_nm":0,"alt_fmsl":5837,"id":"----","rwy":"22","desc":"MM"}
+]
+}

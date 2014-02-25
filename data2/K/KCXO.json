@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCXO","name":"Lone Star Executive","lat":30.35491934,"lon":-95.41840256,"rwys":2,"ils":1,"elev":245,"index":1383954,"path":"w100n30/w096n30"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":145,"surf":"Concrete","rwy1":"14","lat1":30.35930000,"lon1":-95.41775300,"rwy2":"32","lat2":30.34570800,"lon2":-95.40697500},
+{"len_m":1521,"wid_m":30.48,"hdg":17,"surf":"Concrete","rwy1":"01","lat1":30.34558705,"lon1":-95.41948784,"rwy2":"19","lat2":30.35870122,"lon2":-95.41482693}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":124.12,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.45,"desc":"GROUND"},
+{"type":"TWR","freq":124.12,"desc":"LONE STAR TOWER"},
+{"type":"APP","freq":119.7,"desc":"HOUSTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":30.34479400,"lon":-95.40625000,"rng_nm":18,"alt_fmsl":245,"hdg":145.62,"id":"ICXO","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":30.35674400,"lon":-95.41418600,"rng_nm":10,"alt_fmsl":230,"id":"ICXO","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.43201100,"lon":-95.47624700,"rng_nm":0,"alt_fmsl":370,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.36531700,"lon":-95.42252200,"rng_nm":0,"alt_fmsl":245,"id":"----","rwy":"14","desc":"MM"},
+{"type":"DME","freq":108.7,"lat":30.34438300,"lon":-95.40695600,"rng_nm":18,"alt_fmsl":251,"id":"ICXO","rwy":"14","desc":"DME-ILS"}
+]
+}

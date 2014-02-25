@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNRN","name":"Norton Muni","lat":39.84913325,"lon":-99.89452225,"rwys":2,"ils":0,"elev":2383,"index":1319024,"path":"w100n30/w100n39"
+,"runways":[
+{"len_m":1433,"wid_m":18.29,"hdg":164,"surf":"Concrete","rwy1":"16","lat1":39.85873300,"lon1":-99.89713300,"rwy2":"34","lat2":39.84629400,"lon2":-99.89266700},
+{"len_m":645,"wid_m":76.20,"hdg":91,"surf":"Turf/grass","rwy1":"08","lat1":39.84583900,"lon1":-99.89791400,"rwy2":"26","lat2":39.84566700,"lon2":-99.89037500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":132.5,"desc":"DENVER CNTR"}
+]
+,"ils":[
+]
+}

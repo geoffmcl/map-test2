@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGLD","name":"Renner Fld","lat":39.371406,"lon":-101.699380166667,"rwys":3,"ils":1,"elev":3656,"index":1286225,"path":"w110n30/w102n39"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":134,"surf":"Concrete","rwy1":"12","lat1":39.37472200,"lon1":-101.70507800,"rwy2":"30","lat2":39.36416700,"lon2":-101.69117500},
+{"len_m":1066,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":39.36851700,"lon1":-101.70516400,"rwy2":"23","lat2":39.37286900,"lon2":-101.69412500},
+{"len_m":548,"wid_m":12.19,"hdg":179,"surf":"Turf/grass","rwy1":"17","lat1":39.37655000,"lon1":-101.70038100,"rwy2":"35","lat2":39.37161100,"lon2":-101.70035800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":39.37760000,"lon":-101.70886900,"rng_nm":18,"alt_fmsl":3656,"hdg":314.48,"id":"IGLD","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":39.36715800,"lon":-101.69309400,"rng_nm":10,"alt_fmsl":3647,"id":"IGLD","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.29383300,"lon":-101.60030600,"rng_nm":0,"alt_fmsl":3597,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.35886100,"lon":-101.68419400,"rng_nm":0,"alt_fmsl":3656,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":39.37805800,"lon":-101.70826400,"rng_nm":18,"alt_fmsl":3656,"id":"IGLD","rwy":"30","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KACV","name":"Arcata","lat":40.97251102,"lon":-124.10732616,"rwys":2,"ils":1,"elev":221,"index":909499,"path":"w130n40/w125n40"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":40.98565636,"lon1":-124.11337271,"rwy2":"32","lat2":40.97101564,"lon2":-124.10342329},
+{"len_m":1371,"wid_m":46.02,"hdg":29,"surf":"Asphalt","rwy1":"01","lat1":40.97245797,"lon1":-124.11292040,"rwy2":"19","lat2":40.98317803,"lon2":-124.10483760}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":40.98645000,"lon":-124.11392200,"rng_nm":18,"alt_fmsl":180,"hdg":332.82,"id":"IACV","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":40.97401100,"lon":-124.10383300,"rng_nm":10,"alt_fmsl":215,"id":"IACV","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.90251700,"lon":-124.05718100,"rng_nm":0,"alt_fmsl":221,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.96453900,"lon":-124.09901900,"rng_nm":0,"alt_fmsl":221,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":40.98701900,"lon":-124.11325600,"rng_nm":18,"alt_fmsl":221,"id":"IACV","rwy":"32","desc":"DME-ILS"}
+]
+}

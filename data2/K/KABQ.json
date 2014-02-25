@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KABQ","name":"Albuquerque International Sunport","lat":35.04871100,"lon":-106.60637500,"rwys":4,"ils":2,"elev":5355,"index":1204033,"path":"w110n30/w107n35"
+,"runways":[
+{"len_m":4202,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"08","lat1":35.04435300,"lon1":-106.62158900,"rwy2":"26","lat2":35.04406400,"lon2":-106.57552500},
+{"len_m":3047,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"03","lat1":35.02224700,"lon1":-106.63060300,"rwy2":"21","lat2":35.04174200,"lon2":-106.60707200},
+{"len_m":3047,"wid_m":45.72,"hdg":183,"surf":"Asphalt","rwy1":"17","lat1":35.05773100,"lon1":-106.61100000,"rwy2":"35","lat2":35.03031100,"lon2":-106.61296700},
+{"len_m":1828,"wid_m":45.72,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":35.04353300,"lon1":-106.62075300,"rwy2":"30","lat2":35.03319400,"lon2":-106.60514700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":123.77,"desc":"TWR"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP/DEP"},
+{"type":"APP","freq":124.4,"desc":"APP/DEP"},
+{"type":"APP","freq":127.4,"desc":"APP/DEP"},
+{"type":"APP","freq":134.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":35.04322200,"lon":-106.60528600,"rng_nm":18,"alt_fmsl":5316,"hdg":44.67,"id":"IBZY","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":35.04402500,"lon":-106.57054700,"rng_nm":18,"alt_fmsl":5358,"hdg":90.46,"id":"ISPT","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":35.02370600,"lon":-106.62719400,"rng_nm":10,"alt_fmsl":5304,"id":"IBZY","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":35.04320800,"lon":-106.61464400,"rng_nm":10,"alt_fmsl":5312,"id":"ISPT","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.95123100,"lon":-106.71578600,"rng_nm":0,"alt_fmsl":5355,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":35.04654700,"lon":-106.74281900,"rng_nm":0,"alt_fmsl":5355,"id":"----","rwy":"08","desc":"OM"},
+{"type":"DME","freq":111.9,"lat":35.04475000,"lon":-106.57057800,"rng_nm":18,"alt_fmsl":5374,"id":"ISPT","rwy":"08","desc":"DME-ILS"}
+]
+}

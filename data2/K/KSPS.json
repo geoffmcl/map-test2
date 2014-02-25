@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSPS","name":"Sheppard Afb Wichita Falls Muni","lat":33.9892285,"lon":-98.49199975,"rwys":4,"ils":2,"elev":1019,"index":1335034,"path":"w100n30/w099n33"
+,"runways":[
+{"len_m":4004,"wid_m":91.44,"hdg":158,"surf":"Concrete","rwy1":"15R","lat1":34.00388900,"lon1":-98.49950000,"rwy2":"33L","lat2":33.97034200,"lon2":-98.48347800},
+{"len_m":3048,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"15C","lat1":34.00626700,"lon1":-98.49714200,"rwy2":"33C","lat2":33.98073900,"lon2":-98.48491700},
+{"len_m":2139,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.98242200,"lon1":-98.49577200,"rwy2":"35","lat2":33.96313300,"lon2":-98.49597200},
+{"len_m":1828,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"15L","lat1":34.01117500,"lon1":-98.49327500,"rwy2":"33R","lat2":33.99586100,"lon2":-98.48594200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.05,"desc":"ATIS"},
+{"type":"CTAF","freq":119.75,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":125.5,"desc":"GND"},
+{"type":"TWR","freq":119.75,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP"},
+{"type":"DEP","freq":120.4,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":33.97725000,"lon":-98.48323300,"rng_nm":18,"alt_fmsl":1019,"hdg":158.33,"id":"ISHP","rwy":"15C","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":34.00887200,"lon":-98.50193600,"rng_nm":18,"alt_fmsl":1019,"hdg":338.33,"id":"ISPS","rwy":"33L","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.7,"lat":34.00887200,"lon":-98.50193600,"rng_nm":18,"alt_fmsl":1019,"id":"ISPS","rwy":"15R","desc":"LOC"},
+{"type":"GS","freq":110.5,"lat":34.00358100,"lon":-98.49496100,"rng_nm":10,"alt_fmsl":993,"id":"ISHP","rwy":"15C","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":33.97365300,"lon":-98.48329200,"rng_nm":10,"alt_fmsl":999,"id":"ISPS","rwy":"33L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":33.91065300,"lon":-98.45458100,"rng_nm":0,"alt_fmsl":1019,"id":"----","rwy":"33L","desc":"OM"},
+{"type":"MM","freq":0,"lat":33.96382200,"lon":-98.48025600,"rng_nm":0,"alt_fmsl":1019,"id":"----","rwy":"33L","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":34.00856900,"lon":-98.50275800,"rng_nm":18,"alt_fmsl":1021,"id":"ISPS","rwy":"33L","desc":"DME-ILS"}
+]
+}

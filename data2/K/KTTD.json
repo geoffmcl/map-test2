@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTTD","name":"Portland Troutdale","lat":45.55090469,"lon":-122.39715106,"rwys":1,"ils":0,"elev":39,"index":942562,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":1645,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"07","lat1":45.54919400,"lon1":-122.41178600,"rwy2":"25","lat2":45.54953900,"lon2":-122.39071900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":16,"wid_m":17.37,"hdg":-122,"surf":"Asphalt","lat1":45.55244288,"lon1":-122.39304962}
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"ASOS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.9,"desc":"TROUTDALE TWR"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":118.1,"desc":"APP"},
+{"type":"DEP","freq":124.35,"desc":"DEP"}
+]
+,"ils":[
+]
+}

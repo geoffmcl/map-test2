@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNEW","name":"Lakefront","lat":30.04212842,"lon":-90.02577317,"rwys":3,"ils":1,"elev":7,"index":1465859,"path":"w100n30/w091n30"
+,"runways":[
+{"len_m":2097,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18R","lat1":30.05281700,"lon1":-90.02991900,"rwy2":"36L","lat2":30.03390000,"lon2":-90.02963900},
+{"len_m":1127,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":30.05018600,"lon1":-90.02766900,"rwy2":"36R","lat2":30.04001900,"lon2":-90.02751700},
+{"len_m":948,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":30.03705000,"lon1":-90.03061700,"rwy2":"27","lat2":30.03716900,"lon2":-90.02078100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.9,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.9,"desc":"CLNC DEL"},
+{"type":"CLD","freq":127.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"TWR","freq":125.65,"desc":"TWR"},
+{"type":"APP","freq":123.85,"desc":"NEW ORLEANS APP/DEP"},
+{"type":"APP","freq":133.15,"desc":"NEW ORLEANS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":30.03360800,"lon":-90.02963100,"rng_nm":18,"alt_fmsl":7,"hdg":179.26,"id":"INEW","rwy":"18R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":30.04949400,"lon":-90.02905000,"rng_nm":10,"alt_fmsl":4,"id":"INEW","rwy":"18R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":30.05875600,"lon":-90.02998600,"rng_nm":0,"alt_fmsl":7,"id":"----","rwy":"18R","desc":"MM"},
+{"type":"DME","freq":111.3,"lat":30.03362800,"lon":-90.02908100,"rng_nm":18,"alt_fmsl":21,"id":"INEW","rwy":"18R","desc":"DME-ILS"}
+]
+}

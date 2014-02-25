@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNEL","name":"Lakehurst Naes","lat":40.0351035,"lon":-74.3521445,"rwys":2,"ils":0,"elev":103,"index":1728642,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":40.03962200,"lon1":-74.36028600,"rwy2":"33","lat2":40.02902800,"lon2":-74.34892800},
+{"len_m":1524,"wid_m":45.72,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":40.03151700,"lon1":-74.35657500,"rwy2":"24","lat2":40.04024700,"lon2":-74.34278900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.37,"desc":"GND"},
+{"type":"TWR","freq":127.77,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+,"ils":[
+]
+}

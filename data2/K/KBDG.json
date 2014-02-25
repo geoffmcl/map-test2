@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBDG","name":"Blanding Muni","lat":37.5833375,"lon":-109.4832885,"rwys":1,"ils":0,"elev":5865,"index":1155042,"path":"w110n30/w110n37"
+,"runways":[
+{"len_m":1761,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":37.59127500,"lon1":-109.48328300,"rwy2":"35","lat2":37.57540000,"lon2":-109.48329400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

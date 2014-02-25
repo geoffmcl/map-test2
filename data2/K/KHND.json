@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHND","name":"Henderson Executive","lat":35.96931648,"lon":-115.13846602,"rwys":2,"ils":0,"elev":2492,"index":1056635,"path":"w120n30/w116n35"
+,"runways":[
+{"len_m":1981,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":35.98089500,"lon1":-115.13531400,"rwy2":"35L","lat2":35.96304200,"lon2":-115.13553300},
+{"len_m":1523,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17L","lat1":35.98087500,"lon1":-115.13294700,"rwy2":"35R","lat2":35.96714200,"lon2":-115.13311900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ATIS"},
+{"type":"CTAF","freq":125.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":127.8,"desc":"GND"},
+{"type":"TWR","freq":125.1,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"Las Vegas APP/DEP"}
+]
+,"ils":[
+]
+}

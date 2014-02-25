@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAKQ","name":"Wakefield Muni","lat":36.987217,"lon":-77.0011165,"rwys":1,"ils":0,"elev":113,"index":1679291,"path":"w080n30/w078n36"
+,"runways":[
+{"len_m":1321,"wid_m":22.86,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":36.98151700,"lon1":-77.00326400,"rwy2":"20","lat2":36.99291700,"lon2":-76.99896900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.9,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+]
+}

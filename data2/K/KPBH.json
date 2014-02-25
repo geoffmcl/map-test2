@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPBH","name":"Price Co","lat":45.7085855,"lon":-90.40252575,"rwys":2,"ils":0,"elev":1497,"index":1466858,"path":"w100n40/w091n45"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":45.70489400,"lon1":-90.40336900,"rwy2":"19","lat2":45.71850300,"lon2":-90.40097800},
+{"len_m":1204,"wid_m":22.86,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":45.70268100,"lon1":-90.40950300,"rwy2":"24","lat2":45.70826400,"lon2":-90.39625300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":133.65,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

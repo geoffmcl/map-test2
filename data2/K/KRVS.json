@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRVS","name":"Richard Lloyd Jones Jr","lat":36.03955,"lon":-95.98448,"rwys":3,"ils":1,"elev":638,"index":1384320,"path":"w100n30/w096n36"
+,"runways":[
+{"len_m":1555,"wid_m":30.48,"hdg":13,"surf":"Asphalt","rwy1":"01L","lat1":36.03300800,"lon1":-95.98787200,"rwy2":"19R","lat2":36.04664700,"lon2":-95.98389200},
+{"len_m":1283,"wid_m":30.48,"hdg":13,"surf":"Asphalt","rwy1":"01R","lat1":36.03401900,"lon1":-95.98514400,"rwy2":"19L","lat2":36.04527800,"lon2":-95.98186100},
+{"len_m":855,"wid_m":15.24,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":36.04180600,"lon1":-95.98752500,"rwy2":"31","lat2":36.03654200,"lon2":-95.98058600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CLD","freq":124.5,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"RIVERSIDE TWR"},
+{"type":"TWR","freq":120.3,"desc":"RIVERSIDE TWR"},
+{"type":"APP","freq":119.85,"desc":"TULSA APP/DEP"},
+{"type":"APP","freq":134.7,"desc":"TULSA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":36.04796613,"lon":-95.98350733,"rng_nm":18,"alt_fmsl":638,"hdg":13.28,"id":"IRVS","rwy":"01L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.95,"lat":36.03548868,"lon":-95.98610260,"rng_nm":10,"alt_fmsl":638,"id":"IRVS","rwy":"01L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.94054724,"lon":-96.01485135,"rng_nm":0,"alt_fmsl":638,"id":"----","rwy":"01L","desc":"OM"}
+]
+}

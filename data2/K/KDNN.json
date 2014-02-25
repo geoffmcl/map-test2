@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDNN","name":"Dalton Muni","lat":34.722936,"lon":-84.870242,"rwys":1,"ils":1,"elev":710,"index":1564456,"path":"w090n30/w085n34"
+,"runways":[
+{"len_m":1675,"wid_m":30.48,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":34.72846000,"lon1":-84.87648100,"rwy2":"32","lat2":34.71741200,"lon2":-84.86400300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":125.1,"desc":"CHATTANOOGA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":34.71605600,"lon":-84.86259700,"rng_nm":18,"alt_fmsl":710,"hdg":137.39,"id":"IDNN","rwy":"14","desc":"LDA-GS"},
+{"type":"GS","freq":110.9,"lat":34.72578100,"lon":-84.87245300,"rng_nm":10,"alt_fmsl":704,"id":"IDNN","rwy":"14","desc":"GS","gs":3}
+]
+}

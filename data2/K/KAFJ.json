@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAFJ","name":"Washington Co","lat":40.136482,"lon":-80.29019,"rwys":1,"ils":0,"elev":1184,"index":1630346,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"09","lat1":40.13588600,"lon1":-80.29909700,"rwy2":"27","lat2":40.13707800,"lon2":-80.28128300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.3,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.35,"desc":"PITTSBURGH APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPEO","name":"Penn Yan","lat":42.63809525,"lon":-77.0530535,"rwys":2,"ils":0,"elev":990,"index":1679659,"path":"w080n40/w078n42"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":356,"surf":"Asphalt","rwy1":"01","lat1":42.62586100,"lon1":-77.05158100,"rwy2":"19","lat2":42.64092800,"lon2":-77.05268600},
+{"len_m":1085,"wid_m":15.24,"hdg":88,"surf":"Asphalt","rwy1":"10","lat1":42.64267500,"lon1":-77.06058900,"rwy2":"28","lat2":42.64291700,"lon2":-77.04735800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.3,"desc":"ELIMIRA APP/DEP"}
+]
+,"ils":[
+]
+}

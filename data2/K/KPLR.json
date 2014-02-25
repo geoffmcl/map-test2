@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPLR","name":"St Clair Co","lat":33.5588305,"lon":-86.2490345,"rwys":1,"ils":0,"elev":485,"index":1531619,"path":"w090n30/w087n33"
+,"runways":[
+{"len_m":1524,"wid_m":24.38,"hdg":22,"surf":"Asphalt","rwy1":"02","lat1":33.55246400,"lon1":-86.25212500,"rwy2":"20","lat2":33.56519700,"lon2":-86.24594400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.8,"desc":"BIRMINGHAM APP/DEP"}
+]
+,"ils":[
+]
+}

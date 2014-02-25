@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVCT","name":"Victoria Rgnl","lat":28.84873447,"lon":-96.92462503,"rwys":4,"ils":1,"elev":115,"index":1367472,"path":"w100n20/w097n28"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":28.85046100,"lon1":-96.92508100,"rwy2":"24","lat2":28.85490600,"lon2":-96.91297200},
+{"len_m":2773,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13L","lat1":28.86375000,"lon1":-96.93407500,"rwy2":"31R","lat2":28.84685600,"lon2":-96.91310000},
+{"len_m":1493,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":28.85893300,"lon1":-96.90977200,"rwy2":"36","lat2":28.84546100,"lon2":-96.90973900},
+{"len_m":1414,"wid_m":45.72,"hdg":132,"surf":"Concrete","rwy1":"13R","lat1":28.85171900,"lon1":-96.92261400,"rwy2":"31L","lat2":28.84310300,"lon2":-96.91191400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":28.84340800,"lon":-96.90882200,"rng_nm":18,"alt_fmsl":115,"hdg":132.61,"id":"IVCT","rwy":"13L","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":28.86263100,"lon":-96.93083900,"rng_nm":10,"alt_fmsl":111,"id":"IVCT","rwy":"13L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.91521900,"lon":-97.00046400,"rng_nm":0,"alt_fmsl":138,"id":"----","rwy":"13L","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.86968100,"lon":-96.94145800,"rng_nm":0,"alt_fmsl":115,"id":"----","rwy":"13L","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":28.84393300,"lon":-96.90827200,"rng_nm":18,"alt_fmsl":117,"id":"IVCT","rwy":"13L","desc":"DME-ILS"}
+]
+}

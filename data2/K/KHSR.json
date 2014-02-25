@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHSR","name":"Hot Springs Muni","lat":43.36818125,"lon":-103.38806025,"rwys":2,"ils":0,"elev":3148,"index":1253714,"path":"w110n40/w104n43"
+,"runways":[
+{"len_m":1372,"wid_m":30.48,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":43.36341400,"lon1":-103.39236400,"rwy2":"19","lat2":43.37490000,"lon2":-103.38611900},
+{"len_m":1204,"wid_m":76.20,"hdg":75,"surf":"Turf/grass","rwy1":"06","lat1":43.36589400,"lon1":-103.39408600,"rwy2":"24","lat2":43.36851700,"lon2":-103.37967200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

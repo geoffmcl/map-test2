@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCOD","name":"Yellowstone Rgnl","lat":44.51357176,"lon":-109.03050728,"rwys":1,"ils":0,"elev":5102,"index":1155491,"path":"w110n40/w110n44"
+,"runways":[
+{"len_m":2521,"wid_m":29.87,"hdg":52,"surf":"Asphalt","rwy1":"04","lat1":44.51324658,"lon1":-109.03635418,"rwy2":"22","lat2":44.52712642,"lon2":-109.01125782}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

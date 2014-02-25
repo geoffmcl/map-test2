@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLOZ","name":"London Corbin Arpt Magee Fld","lat":37.0868805,"lon":-84.0773945,"rwys":1,"ils":1,"elev":1212,"index":1564611,"path":"w090n30/w085n37"
+,"runways":[
+{"len_m":1753,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":37.08205300,"lon1":-84.08519700,"rwy2":"24","lat2":37.09170800,"lon2":-84.06959200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.09248300,"lon":-84.06836100,"rng_nm":18,"alt_fmsl":1212,"hdg":52.17,"id":"ILOZ","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.08345300,"lon":-84.08137800,"rng_nm":10,"alt_fmsl":1202,"id":"ILOZ","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":37.09109700,"lon":-84.06779700,"rng_nm":18,"alt_fmsl":1212,"id":"ILOZ","rwy":"06","desc":"DME-ILS"}
+]
+}

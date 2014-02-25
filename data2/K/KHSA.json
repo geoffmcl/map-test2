@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHSA","name":"Stennis Intl","lat":30.36958709,"lon":-89.45132193,"rwys":1,"ils":1,"elev":22,"index":1482258,"path":"w090n30/w090n30"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.37949101,"lon1":-89.45456900,"rwy2":"36","lat2":30.35612401,"lon2":-89.45465000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.32,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.72,"desc":"GND"},
+{"type":"TWR","freq":127.15,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"GULFPORT APP/DEP"},
+{"type":"APP","freq":127.5,"desc":"GULFPORT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":30.35323900,"lon":-89.45466400,"rng_nm":18,"alt_fmsl":9,"hdg":180.18,"id":"IHSA","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":30.37655600,"lon":-89.45539200,"rng_nm":10,"alt_fmsl":18,"id":"IHSA","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.45102800,"lon":-89.45533100,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"18","desc":"OM"}
+]
+}

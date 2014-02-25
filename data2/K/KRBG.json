@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRBG","name":"Roseburg Rgnl","lat":43.23344000,"lon":-123.35791000,"rwys":1,"ils":0,"elev":529,"index":926026,"path":"w130n40/w124n43"
+,"runways":[
+{"len_m":1402,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":43.24509400,"lon1":-123.35586700,"rwy2":"34","lat2":43.23247200,"lon2":-123.35585300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.47,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

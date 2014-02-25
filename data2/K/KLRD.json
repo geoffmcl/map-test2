@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLRD","name":"Laredo Intl","lat":27.54079118,"lon":-99.46876196,"rwys":3,"ils":1,"elev":507,"index":1318242,"path":"w100n20/w100n27"
+,"runways":[
+{"len_m":2509,"wid_m":45.72,"hdg":182,"surf":"Concrete","rwy1":"17L","lat1":27.55636900,"lon1":-99.45933300,"rwy2":"35R","lat2":27.53374200,"lon2":-99.46047000},
+{"len_m":2664,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17R","lat1":27.55649100,"lon1":-99.46242000,"rwy2":"35L","lat2":27.53246700,"lon2":-99.46362400},
+{"len_m":1806,"wid_m":45.72,"hdg":147,"surf":"Concrete","rwy1":"14","lat1":27.54945100,"lon1":-99.46672800,"rwy2":"32","lat2":27.53573100,"lon2":-99.45685000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.77,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":27.53103900,"lon":-99.46369400,"rng_nm":18,"alt_fmsl":476,"hdg":182.54,"id":"ILRD","rwy":"17R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":27.55116100,"lon":-99.46145000,"rng_nm":10,"alt_fmsl":498,"id":"ILRD","rwy":"17R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":27.64236700,"lon":-99.45814400,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"17R","desc":"OM"},
+{"type":"MM","freq":0,"lat":27.56154200,"lon":-99.46216700,"rng_nm":0,"alt_fmsl":507,"id":"----","rwy":"17R","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":27.53082500,"lon":-99.46293300,"rng_nm":18,"alt_fmsl":476,"id":"ILRD","rwy":"17R","desc":"DME-ILS"}
+]
+}

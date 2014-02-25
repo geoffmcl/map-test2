@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLNC","name":"Lancaster","lat":32.57760289,"lon":-96.71750839,"rwys":1,"ils":0,"elev":500,"index":1367713,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":32.58447679,"lon1":-96.72424474,"rwy2":"31","lat2":32.57072899,"lon2":-96.71077204}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.2,"desc":"RGNL APP/DEP"}
+]
+,"ils":[
+]
+}

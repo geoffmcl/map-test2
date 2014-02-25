@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLMT","name":"Klamath Falls","lat":42.15977900,"lon":-121.72860000,"rwys":3,"ils":1,"elev":4095,"index":958729,"path":"w130n40/w122n42"
+,"runways":[
+{"len_m":3139,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"14","lat1":42.16920600,"lon1":-121.74040600,"rwy2":"32","lat2":42.14295800,"lon2":-121.72631700},
+{"len_m":1602,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":42.15631700,"lon1":-121.74260300,"rwy2":"25","lat2":42.15621400,"lon2":-121.72321100},
+{"len_m":1577,"wid_m":30.48,"hdg":23,"surf":"Asphalt","rwy1":"01","lat1":42.15583300,"lon1":-121.74111100,"rwy2":"19","lat2":42.16888900,"lon2":-121.73361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.5,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"KINGSLEY TWR"},
+{"type":"APP","freq":123.67,"desc":"KINGSLEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":42.17263900,"lon":-121.74225300,"rng_nm":18,"alt_fmsl":4095,"hdg":338.29,"id":"ILMT","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":42.14611700,"lon":-121.72652500,"rng_nm":10,"alt_fmsl":4090,"id":"ILMT","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.05253900,"lon":-121.67785800,"rng_nm":0,"alt_fmsl":4095,"id":"----","rwy":"32","desc":"OM"}
+]
+}

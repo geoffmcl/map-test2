@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBO","name":"Emanuel Co","lat":32.6091315,"lon":-82.3699415,"rwys":1,"ils":1,"elev":327,"index":1597090,"path":"w090n30/w083n32"
+,"runways":[
+{"len_m":1835,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":32.61439400,"lon1":-82.37748600,"rwy2":"31","lat2":32.60386900,"lon2":-82.36239700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.35,"lat":32.60281900,"lon":-82.36089400,"rng_nm":18,"alt_fmsl":322,"id":"ISBO","rwy":"13","desc":"LOC"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOTM","name":"Ottumwa Industrial","lat":41.10668875,"lon":-92.44791675,"rwys":2,"ils":1,"elev":845,"index":1433794,"path":"w100n40/w093n41"
+,"runways":[
+{"len_m":1793,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":41.11095000,"lon1":-92.45582200,"rwy2":"31","lat2":41.09953600,"lon2":-92.44071100},
+{"len_m":1578,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":41.10310800,"lon1":-92.45420600,"rwy2":"22","lat2":41.11316100,"lon2":-92.44092800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":41.11376100,"lon":-92.45953300,"rng_nm":18,"alt_fmsl":845,"hdg":315.08,"id":"IOTM","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":41.10073600,"lon":-92.44435300,"rng_nm":10,"alt_fmsl":837,"id":"IOTM","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.02954200,"lon":-92.34998900,"rng_nm":0,"alt_fmsl":845,"id":"----","rwy":"31","desc":"OM"}
+]
+}

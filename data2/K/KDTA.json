@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDTA","name":"Delta Muni","lat":39.38162974,"lon":-112.505923505,"rwys":2,"ils":0,"elev":4759,"index":1106009,"path":"w120n30/w113n39"
+,"runways":[
+{"len_m":1806,"wid_m":25.91,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":39.38618988,"lon1":-112.51697620,"rwy2":"30","lat2":39.37463329,"lon2":-112.50221172},
+{"len_m":1846,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":39.39116545,"lon1":-112.50220707,"rwy2":"35","lat2":39.37453033,"lon2":-112.50229903}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGEG","name":"Spokane Intl","lat":47.61358382,"lon":-117.52700329,"rwys":2,"ils":1,"elev":2376,"index":1024609,"path":"w120n40/w118n47"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":47.61392500,"lon1":-117.54429700,"rwy2":"21","lat2":47.63121700,"lon2":-117.51826700},
+{"len_m":2498,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":47.61696400,"lon1":-117.55326700,"rwy2":"25","lat2":47.61676700,"lon2":-117.52002800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.32,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.75,"desc":"APP/DEP"},
+{"type":"APP","freq":126.45,"desc":"APP/DEP"},
+{"type":"APP","freq":133.35,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":47.63309400,"lon":-117.51543600,"rng_nm":18,"alt_fmsl":2313,"hdg":45.43,"id":"IOLJ","rwy":"03","desc":"ILS-cat-III"},
+{"type":"ILS","freq":111.1,"lat":47.61181400,"lon":-117.54747200,"rng_nm":18,"alt_fmsl":2377,"hdg":225.40,"id":"IGEG","rwy":"21","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.1,"lat":47.61525800,"lon":-117.53997800,"rng_nm":10,"alt_fmsl":2370,"id":"IOLJ","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":47.63019200,"lon":-117.52212500,"rng_nm":10,"alt_fmsl":2322,"id":"IGEG","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.67688900,"lon":-117.45016700,"rng_nm":0,"alt_fmsl":2376,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.60816700,"lon":-117.55295600,"rng_nm":0,"alt_fmsl":2376,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":47.63805600,"lon":-117.50802800,"rng_nm":0,"alt_fmsl":2376,"id":"----","rwy":"21","desc":"MM"},
+{"type":"IM","freq":0,"lat":47.61215800,"lon":-117.54695600,"rng_nm":0,"alt_fmsl":2376,"id":"----","rwy":"03","desc":"IM"},
+{"type":"IM","freq":0,"lat":47.63419400,"lon":-117.51377800,"rng_nm":0,"alt_fmsl":2376,"id":"----","rwy":"21","desc":"IM"},
+{"type":"DME","freq":111.1,"lat":47.63252800,"lon":-117.51465000,"rng_nm":18,"alt_fmsl":2322,"id":"IOLJ","rwy":"03","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCVS","name":"Cannon Afb","lat":34.3823715,"lon":-103.322363,"rwys":2,"ils":3,"elev":4295,"index":1253146,"path":"w110n30/w104n34"
+,"runways":[
+{"len_m":3049,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":34.37672800,"lon1":-103.33190800,"rwy2":"22","lat2":34.39616400,"lon2":-103.30845300},
+{"len_m":2497,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":34.38625800,"lon1":-103.33414400,"rwy2":"31","lat2":34.37033600,"lon2":-103.31494700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.1,"desc":"ATIS"},
+{"type":"CLD","freq":120.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.4,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"DEP","freq":125.5,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":34.39955000,"lon":-103.30436700,"rng_nm":18,"alt_fmsl":4295,"hdg":44.89,"id":"IGLO","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":34.37368600,"lon":-103.33558300,"rng_nm":18,"alt_fmsl":4270,"hdg":224.88,"id":"ICVS","rwy":"22","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.3,"lat":34.38838100,"lon":-103.33670600,"rng_nm":18,"alt_fmsl":4295,"hdg":315.13,"id":"IBNN","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":34.37769200,"lon":-103.32839200,"rng_nm":10,"alt_fmsl":4277,"id":"IGLO","rwy":"04","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.7,"lat":34.39344700,"lon":-103.30937500,"rng_nm":10,"alt_fmsl":4287,"id":"ICVS","rwy":"22","desc":"GS","gs":2.6},
+{"type":"GS","freq":108.3,"lat":34.37113100,"lon":-103.31777800,"rng_nm":10,"alt_fmsl":4268,"id":"IBNN","rwy":"31","desc":"GS","gs":3}
+]
+}

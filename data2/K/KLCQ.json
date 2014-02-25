@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLCQ","name":"Lake City Muni","lat":30.18556600,"lon":-82.57981100,"rwys":2,"ils":0,"elev":201,"index":1596937,"path":"w090n30/w083n30"
+,"runways":[
+{"len_m":2439,"wid_m":45.72,"hdg":97,"surf":"Asphalt","rwy1":"10","lat1":30.18406100,"lon1":-82.59012200,"rwy2":"28","lat2":30.18136100,"lon2":-82.56498600},
+{"len_m":1219,"wid_m":22.86,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":30.17733100,"lon1":-82.58052200,"rwy2":"23","lat2":30.18409200,"lon2":-82.57053600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":119.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSMX","name":"Santa Maria Public/ Cpt G Allan Hancoc","lat":34.89923000,"lon":-120.44990744,"rwys":2,"ils":1,"elev":261,"index":974650,"path":"w130n30/w121n34"
+,"runways":[
+{"len_m":1922,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":34.90499530,"lon1":-120.46041926,"rwy2":"30","lat2":34.89265221,"lon2":-120.44565499},
+{"len_m":1563,"wid_m":22.86,"hdg":35,"surf":"Asphalt","rwy1":"02","lat1":34.89345438,"lon1":-120.46800193,"rwy2":"20","lat2":34.90485738,"lon2":-120.45794893}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":-120,"surf":"Asphalt","lat1":34.89164594,"lon1":-120.45402679}
+]
+,"radios":[
+{"type":"ATIS","freq":121.15,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"SANTA BARB APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":34.89065600,"lon":-120.44327200,"rng_nm":18,"alt_fmsl":272,"hdg":135.56,"id":"ISMX","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":34.90370600,"lon":-120.45734400,"rng_nm":10,"alt_fmsl":225,"id":"ISMX","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.96838300,"lon":-120.53468100,"rng_nm":0,"alt_fmsl":261,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.91120000,"lon":-120.46785800,"rng_nm":0,"alt_fmsl":261,"id":"----","rwy":"12","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":34.89015300,"lon":-120.44394400,"rng_nm":18,"alt_fmsl":284,"id":"ISMX","rwy":"12","desc":"DME-ILS"}
+]
+}

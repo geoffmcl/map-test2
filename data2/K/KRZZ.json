@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRZZ","name":"Halifax Co","lat":36.4393445,"lon":-77.70727025,"rwys":2,"ils":0,"elev":256,"index":1679257,"path":"w080n30/w078n36"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":36.43566100,"lon1":-77.71425300,"rwy2":"23","lat2":36.44325000,"lon2":-77.70442200},
+{"len_m":749,"wid_m":45.72,"hdg":154,"surf":"Turf/grass","rwy1":"16","lat1":36.44228900,"lon1":-77.70698100,"rwy2":"34","lat2":36.43617800,"lon2":-77.70342500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNGU","name":"Norfolk Naval Air Station","lat":36.93996400,"lon":-76.29187000,"rwys":1,"ils":0,"elev":15,"index":1695674,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":2159,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":36.93744479,"lon1":-76.30258335,"rwy2":"28","lat2":36.93747061,"lon2":-76.27834455}
+]
+,"helipads":[
+{"rwy1":"H4","len_m":31,"wid_m":32.00,"hdg":-76,"surf":"Asphalt","lat1":36.94008518,"lon1":-76.29029634},
+{"rwy1":"H5","len_m":32,"wid_m":31.09,"hdg":-76,"surf":"Asphalt","lat1":36.93984723,"lon1":-76.28873809},
+{"rwy1":"H6","len_m":49,"wid_m":49.99,"hdg":-76,"surf":"Asphalt","lat1":36.93588029,"lon1":-76.29030441},
+{"rwy1":"H7","len_m":49,"wid_m":49.99,"hdg":-76,"surf":"Asphalt","lat1":36.93426397,"lon1":-76.29028903}
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ATIS"},
+{"type":"CLD","freq":120.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"CHAMBERS GND"},
+{"type":"TWR","freq":124.3,"desc":"CHAMBERS TWR"},
+{"type":"TWR","freq":126.37,"desc":"CHAMBERS TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"},
+{"type":"DEP","freq":125.2,"desc":"DEP"}
+]
+,"ils":[
+]
+}

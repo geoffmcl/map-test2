@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUAO","name":"Aurora State","lat":45.24880616,"lon":-122.76656105,"rwys":1,"ils":1,"elev":200,"index":942536,"path":"w130n40/w123n45"
+,"runways":[
+{"len_m":1525,"wid_m":29.87,"hdg":187,"surf":"Asphalt","rwy1":"17","lat1":45.25393709,"lon1":-122.76883052,"rwy2":"35","lat2":45.24032009,"lon2":-122.77124452}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.95,"desc":"PORTLAND CLNC DEL"},
+{"type":"APP","freq":126,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.15,"lat":45.23758100,"lon":-122.77174200,"rng_nm":18,"alt_fmsl":195,"id":"IUAO","rwy":"17","desc":"LOC"},
+{"type":"DME","freq":111.15,"lat":45.23768100,"lon":-122.77276400,"rng_nm":18,"alt_fmsl":205,"id":"IUAO","rwy":"17","desc":"DME-ILS"}
+]
+}

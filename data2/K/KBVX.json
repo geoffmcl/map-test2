@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBVX","name":"Batesville Rgnl","lat":35.72698125,"lon":-91.6453395,"rwys":2,"ils":1,"elev":464,"index":1449833,"path":"w100n30/w092n35"
+,"runways":[
+{"len_m":1829,"wid_m":45.72,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":35.72307200,"lon1":-91.66112500,"rwy2":"25","lat2":35.72599200,"lon2":-91.64122500},
+{"len_m":938,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.73365800,"lon1":-91.63941400,"rwy2":"35","lat2":35.72520300,"lon2":-91.63959400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":35.72648900,"lon":-91.63784200,"rng_nm":18,"alt_fmsl":459,"id":"IBVX","rwy":"07","desc":"LOC"},
+{"type":"OM","freq":0,"lat":35.70317800,"lon":-91.79779700,"rng_nm":0,"alt_fmsl":464,"id":"----","rwy":"07","desc":"OM"},
+{"type":"DME","freq":109.7,"lat":35.72511900,"lon":-91.63741700,"rng_nm":18,"alt_fmsl":459,"id":"IBVX","rwy":"07","desc":"DME-ILS"}
+]
+}

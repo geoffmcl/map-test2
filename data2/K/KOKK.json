@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOKK","name":"Kokomo Muni","lat":40.528239155,"lon":-86.058738005,"rwys":2,"ils":1,"elev":830,"index":1532067,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":1585,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":40.52261093,"lon1":-86.06729582,"rwy2":"23","lat2":40.53271609,"lon2":-86.05406921},
+{"len_m":1220,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":40.53271500,"lon1":-86.06186700,"rwy2":"32","lat2":40.52491460,"lon2":-86.05172000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120,"desc":"CLNC DEL"},
+{"type":"APP","freq":121.05,"desc":"GRISSOM APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":40.52125600,"lon":-86.06906900,"rng_nm":18,"alt_fmsl":830,"hdg":224.85,"id":"IOKK","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":40.53047200,"lon":-86.05498900,"rng_nm":10,"alt_fmsl":823,"id":"IOKK","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.57948300,"lon":-85.99068300,"rng_nm":0,"alt_fmsl":830,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.53815000,"lon":-86.04696100,"rng_nm":0,"alt_fmsl":830,"id":"----","rwy":"23","desc":"MM"}
+]
+}

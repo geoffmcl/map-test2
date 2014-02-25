@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KONP","name":"Newport Muni","lat":44.57628598,"lon":-124.06364149,"rwys":2,"ils":1,"elev":160,"index":909731,"path":"w130n40/w125n44"
+,"runways":[
+{"len_m":927,"wid_m":22.86,"hdg":37,"surf":"Asphalt","rwy1":"02","lat1":44.57874363,"lon1":-124.05966106,"rwy2":"20","lat2":44.58536938,"lon2":-124.05256307},
+{"len_m":1655,"wid_m":46.02,"hdg":177,"surf":"Asphalt","rwy1":"16","lat1":44.58693825,"lon1":-124.05937017,"rwy2":"34","lat2":44.57205300,"lon2":-124.05840600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.9,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":44.57125000,"lon":-124.05836100,"rng_nm":18,"alt_fmsl":160,"hdg":177.38,"id":"IONP","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":44.58381900,"lon":-124.05773600,"rng_nm":10,"alt_fmsl":138,"id":"IONP","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.67600000,"lon":-124.06533300,"rng_nm":0,"alt_fmsl":160,"id":"----","rwy":"16","desc":"OM"}
+]
+}

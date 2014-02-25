@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDYL","name":"Doylestown Airport","lat":40.33396276,"lon":-75.12265453,"rwys":1,"ils":0,"elev":394,"index":1712275,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":821,"wid_m":17.37,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":40.33024626,"lon1":-75.12542867,"rwy2":"23","lat2":40.33601848,"lon2":-75.11937764}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP/DEP"}
+]
+,"ils":[
+]
+}

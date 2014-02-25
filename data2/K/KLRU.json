@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLRU","name":"Las Cruces Intl","lat":32.2891288333333,"lon":-106.921991166667,"rwys":3,"ils":1,"elev":4456,"index":1203856,"path":"w110n30/w107n32"
+,"runways":[
+{"len_m":2285,"wid_m":30.48,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":32.28457800,"lon1":-106.93210000,"rwy2":"22","lat2":32.29650300,"lon2":-106.91231100},
+{"len_m":2285,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.29917800,"lon1":-106.92992500,"rwy2":"30","lat2":32.28460300,"lon2":-106.91277200},
+{"len_m":1849,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":32.28495300,"lon1":-106.93223600,"rwy2":"26","lat2":32.28495800,"lon2":-106.91260300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":32.30113600,"lon":-106.93223300,"rng_nm":18,"alt_fmsl":4458,"hdg":315.14,"id":"ILRU","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":32.28728300,"lon":-106.91409700,"rng_nm":10,"alt_fmsl":4434,"id":"ILRU","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.21903900,"lon":-106.83628300,"rng_nm":0,"alt_fmsl":4180,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.27916400,"lon":-106.90637200,"rng_nm":0,"alt_fmsl":4456,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":32.30061900,"lon":-106.93285300,"rng_nm":18,"alt_fmsl":4471,"id":"ILRU","rwy":"30","desc":"DME-ILS"}
+]
+}

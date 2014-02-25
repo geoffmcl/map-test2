@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUNI","name":"Ohio University Snyder Field","lat":39.211892,"lon":-82.229254,"rwys":1,"ils":1,"elev":766,"index":1597515,"path":"w090n30/w083n39"
+,"runways":[
+{"len_m":1706,"wid_m":29.87,"hdg":60,"surf":"Asphalt","rwy1":"07","lat1":39.20813100,"lon1":-82.23787200,"rwy2":"25","lat2":39.21565300,"lon2":-82.22063600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.95,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.95,"desc":"HUNTINGTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":39.20798900,"lon":-82.23819400,"rng_nm":18,"alt_fmsl":761,"hdg":240.60,"id":"IUNI","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":39.21378100,"lon":-82.22305000,"rng_nm":10,"alt_fmsl":757,"id":"IUNI","rwy":"25","desc":"GS","gs":3}
+]
+}

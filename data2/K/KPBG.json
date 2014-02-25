@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPBG","name":"Plattsburgh Intl","lat":44.6509375,"lon":-73.46811604,"rwys":1,"ils":1,"elev":233,"index":1745322,"path":"w080n40/w074n44"
+,"runways":[
+{"len_m":3583,"wid_m":60.96,"hdg":157,"surf":"Concrete","rwy1":"17","lat1":44.66583300,"lon1":-73.47677054,"rwy2":"35","lat2":44.63604200,"lon2":-73.45946154}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"BURLINGTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":44.66711567,"lon":-73.47752162,"rng_nm":18,"alt_fmsl":234,"hdg":337.54,"id":"IFQV","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":44.63826263,"lon":-73.46201325,"rng_nm":10,"alt_fmsl":234,"id":"IFQV","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":44.66711567,"lon":-73.47752162,"rng_nm":18,"alt_fmsl":234,"id":"IFQV","rwy":"35","desc":"DME-ILS"}
+]
+}

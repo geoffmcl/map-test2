@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPTV","name":"Porterville Muni","lat":36.029607,"lon":-119.062732,"rwys":1,"ils":0,"elev":442,"index":991107,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":1800,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":36.03537200,"lon1":-119.06976100,"rwy2":"30","lat2":36.02384200,"lon2":-119.05570300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.5,"desc":"BAKERSFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

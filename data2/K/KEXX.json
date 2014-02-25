@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEXX","name":"Davidson Co","lat":35.77928535,"lon":-80.30203499,"rwys":1,"ils":1,"elev":732,"index":1630066,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":35.77678404,"lon1":-80.31030122,"rwy2":"24","lat2":35.78548714,"lon2":-80.29725932}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.82,"desc":"AWOS THREE"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":135.07,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.5,"desc":"GREENSBORO APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":35.78631800,"lon":-80.29602300,"rng_nm":18,"alt_fmsl":733,"hdg":50.60,"id":"IEXX","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":35.77898500,"lon":-80.30804300,"rng_nm":10,"alt_fmsl":733,"id":"IEXX","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":108.75,"lat":35.78696200,"lon":-80.29663400,"rng_nm":18,"alt_fmsl":733,"id":"IEXX","rwy":"06","desc":"DME-ILS"}
+]
+}

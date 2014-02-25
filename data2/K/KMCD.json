@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMCD","name":"Mackinac Island","lat":45.864935,"lon":-84.6373445,"rwys":1,"ils":0,"elev":740,"index":1565169,"path":"w090n40/w085n45"
+,"runways":[
+{"len_m":1067,"wid_m":22.86,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":45.86371400,"lon1":-84.64398900,"rwy2":"26","lat2":45.86615600,"lon2":-84.63070000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

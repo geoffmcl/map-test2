@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLPC","name":"Lompoc","lat":34.6656195,"lon":-120.467503,"rwys":1,"ils":0,"elev":88,"index":974634,"path":"w130n30/w121n34"
+,"runways":[
+{"len_m":1402,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":34.66572500,"lon1":-120.47515000,"rwy2":"25","lat2":34.66551400,"lon2":-120.45985600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.15,"desc":"SANTA BARB APP/DEP"}
+]
+,"ils":[
+]
+}

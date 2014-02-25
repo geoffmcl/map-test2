@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWDG","name":"Enid Woodring Rgnl","lat":36.37843825,"lon":-97.7878905,"rwys":2,"ils":1,"elev":1167,"index":1351576,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":1947,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":36.38720600,"lon1":-97.79107500,"rwy2":"35","lat2":36.36965800,"lon2":-97.79108100},
+{"len_m":914,"wid_m":33.53,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":36.38136100,"lon1":-97.78830600,"rwy2":"30","lat2":36.37552800,"lon2":-97.78110000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"WOODRING TWR"},
+{"type":"APP","freq":119.77,"desc":"VANCE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":36.38803100,"lon":-97.79107500,"rng_nm":18,"alt_fmsl":1163,"hdg":0.02,"id":"IEIU","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":36.37240600,"lon":-97.79226900,"rng_nm":10,"alt_fmsl":1147,"id":"IEIU","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.27503300,"lon":-97.79074400,"rng_nm":0,"alt_fmsl":1100,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.36200000,"lon":-97.79108300,"rng_nm":0,"alt_fmsl":1167,"id":"----","rwy":"35","desc":"MM"}
+]
+}

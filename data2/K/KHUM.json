@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHUM","name":"Houma Terrebonne","lat":29.56545837,"lon":-90.66454364,"rwys":2,"ils":1,"elev":10,"index":1465825,"path":"w100n20/w091n29"
+,"runways":[
+{"len_m":1978,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":29.57495011,"lon1":-90.66025814,"rwy2":"36","lat2":29.55709689,"lon2":-90.66037485},
+{"len_m":1525,"wid_m":60.96,"hdg":125,"surf":"Concrete","rwy1":"12","lat1":29.57115769,"lon1":-90.66698789,"rwy2":"30","lat2":29.56319814,"lon2":-90.65414800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.25,"desc":"ATIS"},
+{"type":"CTAF","freq":125.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"NEW ORLEANS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":29.55571700,"lon":-90.66038600,"rng_nm":18,"alt_fmsl":5,"hdg":180.33,"id":"IHUM","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":29.57221400,"lon":-90.65934400,"rng_nm":10,"alt_fmsl":6,"id":"IHUM","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":29.66431100,"lon":-90.66172500,"rng_nm":0,"alt_fmsl":6,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":29.58262500,"lon":-90.66019700,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"18","desc":"MM"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCHO","name":"Charlottesville Albemarle","lat":38.13946260,"lon":-78.44919525,"rwys":1,"ils":1,"elev":639,"index":1662986,"path":"w080n30/w079n38"
+,"runways":[
+{"len_m":1829,"wid_m":46.02,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":38.13099681,"lon1":-78.45677375,"rwy2":"21","lat2":38.14626400,"lon2":-78.44892296}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ASOS"},
+{"type":"CTAF","freq":124.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"TWR"},
+{"type":"APP","freq":132.85,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":38.14702500,"lon":-78.44854200,"rng_nm":18,"alt_fmsl":639,"hdg":22.00,"id":"ICHO","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":38.13407200,"lon":-78.45620800,"rng_nm":10,"alt_fmsl":632,"id":"ICHO","rwy":"03","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":38.12481400,"lon":-78.46000000,"rng_nm":0,"alt_fmsl":639,"id":"----","rwy":"03","desc":"MM"}
+]
+}

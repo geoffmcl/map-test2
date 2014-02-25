@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOXV","name":"Knoxville Muni","lat":41.2991,"lon":-93.1137455,"rwys":1,"ils":0,"elev":928,"index":1417427,"path":"w100n40/w094n41"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":155,"surf":"Concrete","rwy1":"15","lat1":41.30410800,"lon1":-93.11672200,"rwy2":"33","lat2":41.29409200,"lon2":-93.11076900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.9,"desc":"DES MOINES APP/DEP"}
+]
+,"ils":[
+]
+}

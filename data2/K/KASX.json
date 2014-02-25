@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KASX","name":"John F Kennedy Mem","lat":46.54884375,"lon":-90.91849175,"rwys":2,"ils":0,"elev":826,"index":1466912,"path":"w100n40/w091n46"
+,"runways":[
+{"len_m":1584,"wid_m":30.48,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":46.54055000,"lon1":-90.92465300,"rwy2":"20","lat2":46.55387800,"lon2":-90.91731900},
+{"len_m":1066,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":46.55358900,"lon1":-90.92128100,"rwy2":"31","lat2":46.54735800,"lon2":-90.91071400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.45,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

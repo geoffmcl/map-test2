@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIAG","name":"Niagara Falls Intl","lat":43.1064573333333,"lon":-78.9448026666667,"rwys":3,"ils":1,"elev":589,"index":1663296,"path":"w080n40/w079n43"
+,"runways":[
+{"len_m":2995,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"10L","lat1":43.10954200,"lon1":-78.96882500,"rwy2":"28R","lat2":43.10948900,"lon2":-78.93202200},
+{"len_m":1581,"wid_m":45.72,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":43.10097500,"lon1":-78.94693300,"rwy2":"24","lat2":43.11009700,"lon2":-78.93201700},
+{"len_m":1210,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"10R","lat1":43.10433300,"lon1":-78.95194700,"rwy2":"28L","lat2":43.10430800,"lon2":-78.93707200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"BUFFALO APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.10954400,"lon":-78.97189400,"rng_nm":18,"alt_fmsl":590,"hdg":270.10,"id":"IIAG","rwy":"28R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":43.10835800,"lon":-78.93795600,"rng_nm":10,"alt_fmsl":59,"id":"IIAG","rwy":"28R","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":43.10903600,"lon":-78.83837800,"rng_nm":0,"alt_fmsl":589,"id":"----","rwy":"28R","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.10943600,"lon":-78.91886900,"rng_nm":0,"alt_fmsl":589,"id":"----","rwy":"28R","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMEV","name":"Minden Tahoe","lat":38.9997845,"lon":-119.75050489,"rwys":4,"ils":0,"elev":4726,"index":991288,"path":"w120n30/w120n38"
+,"runways":[
+{"len_m":1615,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12R","lat1":39.00548900,"lon1":-119.75854200,"rwy2":"30L","lat2":38.99523900,"lon2":-119.74531100},
+{"len_m":2253,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":39.01146996,"lon1":-119.75197887,"rwy2":"34","lat2":38.99117204,"lon2":-119.75188315},
+{"len_m":1617,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":39.00549618,"lon1":-119.75855170,"rwy2":"30","lat2":38.99523182,"lon2":-119.74530423},
+{"len_m":671,"wid_m":17.98,"hdg":134,"surf":"Dirt","rwy1":"12L","lat1":38.99922667,"lon1":-119.74897400,"rwy2":"30R","lat2":38.99495133,"lon2":-119.74349417}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"RENO APP/DEP"}
+]
+,"ils":[
+]
+}

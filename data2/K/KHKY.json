@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHKY","name":"Hickory Rgnl","lat":35.74330902,"lon":-81.38847314,"rwys":2,"ils":1,"elev":1189,"index":1613674,"path":"w090n30/w082n35"
+,"runways":[
+{"len_m":1950,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":35.73499472,"lon1":-81.39724206,"rwy2":"24","lat2":35.74498542,"lon2":-81.37949910},
+{"len_m":1340,"wid_m":46.02,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":35.73688267,"lon1":-81.39215377,"rwy2":"19","lat2":35.74884526,"lon2":-81.39005857}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":6.10,"hdg":-81,"surf":"Asphalt","lat1":35.74374794,"lon1":-81.39002344}
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":128.15,"desc":"CTAF"},
+{"type":"CLD","freq":124.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":128.15,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":35.73371100,"lon":-81.39957500,"rng_nm":18,"alt_fmsl":1189,"hdg":235.32,"id":"IHKY","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":35.74220800,"lon":-81.38211700,"rng_nm":10,"alt_fmsl":1189,"id":"IHKY","rwy":"24","desc":"GS","gs":3.06},
+{"type":"OM","freq":0,"lat":35.78660300,"lon":-81.30563900,"rng_nm":0,"alt_fmsl":975,"id":"----","rwy":"24","desc":"OM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEKN","name":"Elkins Randolph Co Jennings Randolph","lat":38.88945675,"lon":-79.857127,"rwys":2,"ils":1,"elev":1987,"index":1646648,"path":"w080n30/w080n38"
+,"runways":[
+{"len_m":1384,"wid_m":42.67,"hdg":128,"surf":"Asphalt","rwy1":"14","lat1":38.89301100,"lon1":-79.86264700,"rwy2":"32","lat2":38.88519700,"lon2":-79.85020800},
+{"len_m":1371,"wid_m":42.67,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":38.88499400,"lon1":-79.86277800,"rwy2":"23","lat2":38.89462500,"lon2":-79.85287500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"APP","freq":121.15,"desc":"CLARKSBURG APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":38.88645000,"lon":-79.86285800,"rng_nm":18,"alt_fmsl":1968,"id":"IOUW","rwy":"14","desc":"LOC"},
+{"type":"OM","freq":0,"lat":38.98702200,"lon":-79.84401100,"rng_nm":0,"alt_fmsl":1987,"id":"----","rwy":"14","desc":"OM"},
+{"type":"DME","freq":109.9,"lat":38.88635000,"lon":-79.86310800,"rng_nm":18,"alt_fmsl":1983,"id":"IOUW","rwy":"14","desc":"DME-ILS"}
+]
+}

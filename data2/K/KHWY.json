@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHWY","name":"Warrenton Fauquier","lat":38.587973,"lon":-77.7124175,"rwys":1,"ils":1,"elev":337,"index":1679393,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":138,"surf":"Asphalt","rwy1":"15","lat1":38.59314000,"lon1":-77.71817700,"rwy2":"33","lat2":38.58280600,"lon2":-77.70665800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.75,"lat":38.58176539,"lon":-77.70549719,"rng_nm":18,"alt_fmsl":337,"id":"IHWY","rwy":"15","desc":"LOC"},
+{"type":"DME","freq":109.75,"lat":38.58176539,"lon":-77.70549719,"rng_nm":18,"alt_fmsl":337,"id":"IHWY","rwy":"15","desc":"DME-ILS"}
+]
+}

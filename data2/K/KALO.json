@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KALO","name":"Waterloo Rgnl","lat":42.5567078333333,"lon":-92.4003761666667,"rwys":3,"ils":1,"elev":873,"index":1433890,"path":"w100n40/w093n42"
+,"runways":[
+{"len_m":2560,"wid_m":45.72,"hdg":127,"surf":"Asphalt","rwy1":"12","lat1":42.56603600,"lon1":-92.41196400,"rwy2":"30","lat2":42.55191400,"lon2":-92.38732200},
+{"len_m":1829,"wid_m":45.72,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":42.56586900,"lon1":-92.40147500,"rwy2":"36","lat2":42.54955300,"lon2":-92.40449400},
+{"len_m":1646,"wid_m":39.32,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":42.55063600,"lon1":-92.40778300,"rwy2":"24","lat2":42.55623900,"lon2":-92.38921900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.65,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP/DEP"},
+{"type":"APP","freq":126.75,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":42.54852200,"lon":-92.38141700,"rng_nm":18,"alt_fmsl":873,"hdg":127.91,"id":"IALO","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":42.56512200,"lon":-92.40794200,"rng_nm":10,"alt_fmsl":872,"id":"IALO","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.62215600,"lon":-92.50943100,"rng_nm":0,"alt_fmsl":921,"id":"----","rwy":"12","desc":"OM"}
+]
+}

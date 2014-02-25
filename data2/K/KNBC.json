@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNBC","name":"Beaufort Mcas","lat":32.477911875,"lon":-80.72373075,"rwys":4,"ils":0,"elev":37,"index":1629849,"path":"w090n30/w081n32"
+,"runways":[
+{"len_m":3719,"wid_m":60.96,"hdg":41,"surf":"Asphalt","rwy1":"05","lat1":32.47055600,"lon1":-80.73046100,"rwy2":"23","lat2":32.49553600,"lon2":-80.70405800},
+{"len_m":2438,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":32.48459700,"lon1":-80.73138300,"rwy2":"32","lat2":32.46899400,"lon2":-80.71311100},
+{"len_m":1958,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":32.47555600,"lon1":-80.73500000,"rwy2":"28","lat2":32.47555600,"lon2":-80.71416700},
+{"len_m":1201,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":32.48166700,"lon1":-80.73083300,"rwy2":"36","lat2":32.47083300,"lon2":-80.73083300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":128.15,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.05,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"APP/DEP"},
+{"type":"APP","freq":118.45,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

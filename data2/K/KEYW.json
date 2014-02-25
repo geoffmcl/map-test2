@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEYW","name":"Key West Intl","lat":24.55391500,"lon":-81.75560600,"rwys":1,"ils":0,"elev":2,"index":1612960,"path":"w090n20/w082n24"
+,"runways":[
+{"len_m":1463,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":24.55605300,"lon1":-81.76676700,"rwy2":"27","lat2":24.55619400,"lon2":-81.75232500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.65,"desc":"ASOS"},
+{"type":"ATIS","freq":119.67,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":124.45,"desc":"NAVY KEY WEST"}
+]
+,"ils":[
+]
+}

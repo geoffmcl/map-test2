@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTZR","name":"Bolton Fld","lat":39.90499710,"lon":-83.13753561,"rwys":1,"ils":1,"elev":905,"index":1581179,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":39.89477800,"lon1":-83.14212800,"rwy2":"22","lat2":39.90755800,"lon2":-83.13168900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":128.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":128.1,"desc":"TWR"},
+{"type":"APP","freq":132.3,"desc":"COLUMBUS APP/DEP"},
+{"type":"APP","freq":134.35,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":39.90890000,"lon":-83.13059200,"rng_nm":18,"alt_fmsl":905,"hdg":32.08,"id":"IBUZ","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":39.89611900,"lon":-83.13987200,"rng_nm":10,"alt_fmsl":903,"id":"IBUZ","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.81925600,"lon":-83.20488600,"rng_nm":0,"alt_fmsl":900,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.88764700,"lon":-83.14793900,"rng_nm":0,"alt_fmsl":905,"id":"----","rwy":"04","desc":"MM"}
+]
+}

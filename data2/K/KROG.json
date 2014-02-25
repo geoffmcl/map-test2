@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KROG","name":"Rogers Muni Carter Fld","lat":36.37052494,"lon":-94.11045177,"rwys":1,"ils":1,"elev":1358,"index":1400723,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1832,"wid_m":29.87,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":36.36461400,"lon1":-94.11031700,"rwy2":"20","lat2":36.38021100,"lon2":-94.10361700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":119.37,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"TWR","freq":118,"desc":"RAZORBACK TWR"},
+{"type":"APP","freq":126.6,"desc":"RAZORBACK APP/DEP"},
+{"type":"APP","freq":128.15,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":36.36202500,"lon":-94.11142800,"rng_nm":18,"alt_fmsl":1358,"hdg":199.08,"id":"IROG","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":36.37771100,"lon":-94.10523900,"rng_nm":10,"alt_fmsl":1344,"id":"IROG","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.46115000,"lon":-94.06946400,"rng_nm":0,"alt_fmsl":1358,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.38728300,"lon":-94.10057800,"rng_nm":0,"alt_fmsl":1358,"id":"----","rwy":"20","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":36.36177500,"lon":-94.11057200,"rng_nm":18,"alt_fmsl":1358,"id":"IROG","rwy":"20","desc":"DME-ILS"}
+]
+}

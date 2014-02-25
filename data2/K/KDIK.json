@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDIK","name":"Dickinson Theodore Roosevelt Rgnl","lat":46.79734725,"lon":-102.80194725,"rwys":2,"ils":1,"elev":2592,"index":1270320,"path":"w110n40/w103n46"
+,"runways":[
+{"len_m":1950,"wid_m":30.48,"hdg":150,"surf":"Asphalt","rwy1":"14","lat1":46.80492800,"lon1":-102.80776900,"rwy2":"32","lat2":46.78967200,"lon2":-102.79514700},
+{"len_m":1432,"wid_m":22.86,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":46.79624700,"lon1":-102.81166700,"rwy2":"25","lat2":46.79854200,"lon2":-102.79320600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":46.80730600,"lon":-102.80974200,"rng_nm":18,"alt_fmsl":2574,"hdg":330.46,"id":"IDIK","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":46.79237800,"lon":-102.79813600,"rng_nm":10,"alt_fmsl":2581,"id":"IDIK","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.68777800,"lon":-102.71222200,"rng_nm":0,"alt_fmsl":2527,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.78371100,"lon":-102.79021700,"rng_nm":0,"alt_fmsl":2501,"id":"----","rwy":"32","desc":"MM"}
+]
+}

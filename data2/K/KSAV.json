@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSAV","name":"Savannah Hilton Head Intl","lat":32.13411700,"lon":-81.20964100,"rwys":2,"ils":2,"elev":51,"index":1613451,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":2850,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"10","lat1":32.12875300,"lon1":-81.21879200,"rwy2":"28","lat2":32.12847500,"lon2":-81.18858900},
+{"len_m":2134,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"19","lat1":32.13581700,"lon1":-81.20013900,"rwy2":"01","lat2":32.11656900,"lon2":-81.19999200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"APP/DEP"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"},
+{"type":"APP","freq":125.3,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":32.13691400,"lon":-81.20014700,"rng_nm":18,"alt_fmsl":51,"hdg":359.63,"id":"ITPV","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":32.12845600,"lon":-81.18616700,"rng_nm":18,"alt_fmsl":51,"hdg":90.62,"id":"ISAV","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":32.11944700,"lon":-81.20130600,"rng_nm":10,"alt_fmsl":31,"id":"ITPV","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":32.12973100,"lon":-81.21590300,"rng_nm":10,"alt_fmsl":21,"id":"ISAV","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.04333600,"lon":-81.19792200,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":32.12985300,"lon":-81.33154200,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.10934700,"lon":-81.19994200,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":32.12885000,"lon":-81.22961700,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"10","desc":"MM"}
+]
+}

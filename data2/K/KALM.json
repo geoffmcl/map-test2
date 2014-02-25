@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KALM","name":"Alamogordo White Sands Rgnl","lat":32.8418445,"lon":-105.988007,"rwys":2,"ils":0,"elev":4200,"index":1220272,"path":"w110n30/w106n32"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":32.83320000,"lon1":-105.99873300,"rwy2":"21","lat2":32.84667800,"lon2":-105.98245300},
+{"len_m":1085,"wid_m":60.96,"hdg":173,"surf":"Dirt","rwy1":"16","lat1":32.84861100,"lon1":-105.98611100,"rwy2":"34","lat2":32.83888900,"lon2":-105.98473100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.6,"desc":"HOLLOMAN APP"},
+{"type":"DEP","freq":128.1,"desc":"HOLLOMAN DEP"}
+]
+,"ils":[
+]
+}

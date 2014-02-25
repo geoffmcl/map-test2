@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGCN","name":"Grand Canyon National Park","lat":35.95170426,"lon":-112.14226868,"rwys":1,"ils":1,"elev":6609,"index":1105787,"path":"w120n30/w113n35"
+,"runways":[
+{"len_m":2744,"wid_m":46.02,"hdg":40,"surf":"Asphalt","rwy1":"03","lat1":35.94299254,"lon1":-112.15683335,"rwy2":"21","lat2":35.96174562,"lon2":-112.13700553}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"ASOS"},
+{"type":"CTAF","freq":119,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"CANYON TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":35.96380800,"lon":-112.13486400,"rng_nm":18,"alt_fmsl":6609,"hdg":40.52,"id":"IGCN","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":35.94568600,"lon":-112.15547800,"rng_nm":10,"alt_fmsl":6535,"id":"IGCN","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":35.96425300,"lon":-112.13550600,"rng_nm":18,"alt_fmsl":6609,"id":"IGCN","rwy":"03","desc":"DME-ILS"}
+]
+}

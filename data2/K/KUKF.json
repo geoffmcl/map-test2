@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUKF","name":"Wilkes Co","lat":36.22391100,"lon":-81.10227200,"rwys":1,"ils":1,"elev":1300,"index":1613707,"path":"w090n30/w082n36"
+,"runways":[
+{"len_m":1889,"wid_m":29.87,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":36.21508900,"lon1":-81.09836100,"rwy2":"19","lat2":36.23211400,"lon2":-81.09885600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.15,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":36.23243900,"lon":-81.09886000,"rng_nm":18,"alt_fmsl":1252,"hdg":358.70,"id":"IUKF","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":36.21715400,"lon":-81.09914100,"rng_nm":10,"alt_fmsl":1252,"id":"IUKF","rwy":"01","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":36.23243900,"lon":-81.09886000,"rng_nm":18,"alt_fmsl":1252,"id":"IUKF","rwy":"01","desc":"DME-ILS"}
+]
+}

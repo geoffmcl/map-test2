@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIBM","name":"Kimball Muni Robert E Arraj Fld","lat":41.19131753,"lon":-103.67187942,"rwys":1,"ils":0,"elev":4926,"index":1253577,"path":"w110n40/w104n41"
+,"runways":[
+{"len_m":1891,"wid_m":22.86,"hdg":104,"surf":"Concrete","rwy1":"10","lat1":41.19022706,"lon1":-103.68821385,"rwy2":"28","lat2":41.18589144,"lon2":-103.66640851}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

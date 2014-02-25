@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMGJ","name":"Orange Co","lat":41.51341600,"lon":-74.26649500,"rwys":2,"ils":1,"elev":365,"index":1728738,"path":"w080n40/w075n41"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"03","lat1":41.50461900,"lon1":-74.26906400,"rwy2":"21","lat2":41.51786100,"lon2":-74.26418900},
+{"len_m":1119,"wid_m":30.48,"hdg":66,"surf":"Asphalt","rwy1":"08","lat1":41.50623900,"lon1":-74.26809200,"rwy2":"26","lat2":41.51030000,"lon2":-74.25581900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":123.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":132.75,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":41.51897200,"lon":-74.26378100,"rng_nm":18,"alt_fmsl":365,"hdg":15.41,"id":"IMGJ","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":41.50813900,"lon":-74.26916700,"rng_nm":10,"alt_fmsl":353,"id":"IMGJ","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.44514900,"lon":-74.29098400,"rng_nm":0,"alt_fmsl":378,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.49423300,"lon":-74.27251100,"rng_nm":0,"alt_fmsl":365,"id":"----","rwy":"03","desc":"MM"}
+]
+}

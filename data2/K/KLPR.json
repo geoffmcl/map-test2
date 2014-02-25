@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLPR","name":"Lorain Co Rgnl","lat":41.33947782,"lon":-82.17698287,"rwys":1,"ils":1,"elev":793,"index":1597651,"path":"w090n40/w083n41"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":41.34137800,"lon1":-82.18588100,"rwy2":"25","lat2":41.34717500,"lon2":-82.16937200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.7,"desc":"CLEVELAND CLNC DEL"},
+{"type":"APP","freq":126.35,"desc":"CLEVELAND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":41.34810000,"lon":-82.16674400,"rng_nm":18,"alt_fmsl":793,"hdg":64.93,"id":"ILQG","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":41.34383900,"lon":-82.18318600,"rng_nm":10,"alt_fmsl":792,"id":"ILQG","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.30975300,"lon":-82.27348600,"rng_nm":0,"alt_fmsl":793,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.33801700,"lon":-82.19473900,"rng_nm":0,"alt_fmsl":793,"id":"----","rwy":"07","desc":"MM"}
+]
+}

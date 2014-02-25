@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHAE","name":"Hannibal Rgnl","lat":39.725165,"lon":-91.4438485,"rwys":1,"ils":0,"elev":773,"index":1450090,"path":"w100n30/w092n39"
+,"runways":[
+{"len_m":1341,"wid_m":30.48,"hdg":169,"surf":"Concrete","rwy1":"17","lat1":39.73110800,"lon1":-91.44523900,"rwy2":"35","lat2":39.71922200,"lon2":-91.44245800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

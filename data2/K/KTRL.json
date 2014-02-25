@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTRL","name":"Terrell Muni","lat":32.709395,"lon":-96.26747725,"rwys":2,"ils":0,"elev":474,"index":1367722,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":32.71537500,"lon1":-96.26711100,"rwy2":"35","lat2":32.70161700,"lon2":-96.26708100},
+{"len_m":918,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":32.71369400,"lon1":-96.27065600,"rwy2":"32","lat2":32.70689400,"lon2":-96.26506100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

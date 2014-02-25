@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRBE","name":"Rock County","lat":42.57474603,"lon":-99.57247243,"rwys":2,"ils":0,"elev":2349,"index":1319201,"path":"w100n40/w100n42"
+,"runways":[
+{"len_m":1432,"wid_m":22.86,"hdg":140,"surf":"Concrete","rwy1":"13","lat1":42.57466472,"lon1":-99.57388254,"rwy2":"31","lat2":42.56465478,"lon2":-99.56287590},
+{"len_m":670,"wid_m":36.88,"hdg":35,"surf":"Turf/grass","rwy1":"02","lat1":42.57180000,"lon1":-99.57435159,"rwy2":"20","lat2":42.57672200,"lon2":-99.56961600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

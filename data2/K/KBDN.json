@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBDN","name":"Bend Muni","lat":44.09456061,"lon":-121.200221,"rwys":1,"ils":0,"elev":3456,"index":958851,"path":"w130n40/w122n44"
+,"runways":[
+{"len_m":1584,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":44.10169180,"lon1":-121.20021491,"rwy2":"34","lat2":44.08742942,"lon2":-121.20022708}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

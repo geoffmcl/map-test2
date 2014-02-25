@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMOR","name":"Moore-murrell","lat":36.1792945,"lon":-83.3755595,"rwys":1,"ils":1,"elev":1313,"index":1580938,"path":"w090n30/w084n36"
+,"runways":[
+{"len_m":1737,"wid_m":29.87,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":36.17420300,"lon1":-83.38289400,"rwy2":"23","lat2":36.18438600,"lon2":-83.36822500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.8,"desc":"KNOXVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":36.18766400,"lon":-83.36352500,"rng_nm":18,"alt_fmsl":1313,"id":"IMOR","rwy":"05","desc":"LOC"},
+{"type":"MM","freq":0,"lat":36.16986900,"lon":-83.38914400,"rng_nm":0,"alt_fmsl":1313,"id":"----","rwy":"05","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":36.18778900,"lon":-83.36365300,"rng_nm":18,"alt_fmsl":1313,"id":"IMOR","rwy":"05","desc":"DME-ILS"}
+]
+}

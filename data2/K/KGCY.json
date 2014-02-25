@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGCY","name":"Greeneville Greene Co Muni","lat":36.19398500,"lon":-82.81505600,"rwys":1,"ils":0,"elev":1608,"index":1597320,"path":"w090n30/w083n36"
+,"runways":[
+{"len_m":1920,"wid_m":30.48,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":36.18712200,"lon1":-82.82291100,"rwy2":"23","lat2":36.19884400,"lon2":-82.80720600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.25,"desc":"TRI CITY APP/DEP"}
+]
+,"ils":[
+]
+}

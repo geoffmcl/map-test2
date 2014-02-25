@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCMY","name":"Sparta Fort Mc Coy","lat":43.958289,"lon":-90.73790775,"rwys":2,"ils":0,"elev":837,"index":1466745,"path":"w100n40/w091n43"
+,"runways":[
+{"len_m":1435,"wid_m":30.48,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":43.96221400,"lon1":-90.74601400,"rwy2":"29","lat2":43.95734200,"lon2":-90.72945000},
+{"len_m":1314,"wid_m":15.24,"hdg":15,"surf":"Asphalt","rwy1":"01","lat1":43.95109700,"lon1":-90.74025000,"rwy2":"19","lat2":43.96250300,"lon2":-90.73591700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":124.6,"desc":"CTAF"},
+{"type":"TWR","freq":124.6,"desc":"TWR"},
+{"type":"APP","freq":135.25,"desc":"VOLK APP/DEP"}
+]
+,"ils":[
+]
+}

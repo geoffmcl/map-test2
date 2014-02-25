@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVDI","name":"Vidalia Rgnl","lat":32.1928605,"lon":-82.37121525,"rwys":2,"ils":1,"elev":275,"index":1597066,"path":"w090n30/w083n32"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":62,"surf":"Concrete","rwy1":"06","lat1":32.18761700,"lon1":-82.37925600,"rwy2":"24","lat2":32.19515800,"lon2":-82.36200000},
+{"len_m":1524,"wid_m":45.72,"hdg":131,"surf":"Concrete","rwy1":"13","lat1":32.19890000,"lon1":-82.37784700,"rwy2":"31","lat2":32.18976700,"lon2":-82.36575800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":32.18629700,"lon":-82.38207200,"rng_nm":18,"alt_fmsl":275,"hdg":242.45,"id":"IVDI","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":32.19329400,"lon":-82.36414400,"rng_nm":10,"alt_fmsl":270,"id":"IVDI","rwy":"24","desc":"GS","gs":3}
+]
+}

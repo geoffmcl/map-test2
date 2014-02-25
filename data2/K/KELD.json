@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KELD","name":"South Arkansas Rgnl At Goodwin Fld","lat":33.2209751666667,"lon":-92.8139273333333,"rwys":3,"ils":1,"elev":277,"index":1433288,"path":"w100n30/w093n33"
+,"runways":[
+{"len_m":2011,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":33.21394200,"lon1":-92.81876400,"rwy2":"22","lat2":33.22655800,"lon2":-92.80325800},
+{"len_m":1554,"wid_m":30.48,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":33.22755000,"lon1":-92.81850300,"rwy2":"31","lat2":33.21748100,"lon2":-92.80690300},
+{"len_m":1137,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":33.22528900,"lon1":-92.81796900,"rwy2":"35","lat2":33.21503100,"lon2":-92.81816700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":33.21215800,"lon":-92.82095300,"rng_nm":18,"alt_fmsl":247,"hdg":225.79,"id":"IELD","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":33.22529200,"lon":-92.80669700,"rng_nm":10,"alt_fmsl":254,"id":"IELD","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":33.28606900,"lon":-92.72815000,"rng_nm":0,"alt_fmsl":277,"id":"----","rwy":"22","desc":"OM"},
+{"type":"DME","freq":111.1,"lat":33.21217800,"lon":-92.82128900,"rng_nm":18,"alt_fmsl":255,"id":"IELD","rwy":"22","desc":"DME-ILS"}
+]
+}

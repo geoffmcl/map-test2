@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLWT","name":"Lewistown Muni","lat":47.0489815,"lon":-109.467322833333,"rwys":3,"ils":0,"elev":4170,"index":1155650,"path":"w110n40/w110n47"
+,"runways":[
+{"len_m":1858,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":47.05300300,"lon1":-109.46955600,"rwy2":"25","lat2":47.05299700,"lon2":-109.44509200},
+{"len_m":1706,"wid_m":30.48,"hdg":37,"surf":"Asphalt","rwy1":"02","lat1":47.04037500,"lon1":-109.48093900,"rwy2":"20","lat2":47.05247800,"lon2":-109.46713100},
+{"len_m":1249,"wid_m":18.29,"hdg":139,"surf":"Asphalt","rwy1":"12","lat1":47.05182200,"lon1":-109.47590000,"rwy2":"30","lat2":47.04321400,"lon2":-109.46531900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

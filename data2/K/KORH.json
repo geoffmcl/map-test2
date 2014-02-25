@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KORH","name":"Worcester Rgnl","lat":42.26722725,"lon":-71.8751655,"rwys":2,"ils":1,"elev":1009,"index":1777936,"path":"w080n40/w072n42"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":93,"surf":"Asphalt","rwy1":"11","lat1":42.26733100,"lon1":-71.89079200,"rwy2":"29","lat2":42.26604200,"lon2":-71.86498900},
+{"len_m":1523,"wid_m":29.87,"hdg":137,"surf":"Asphalt","rwy1":"15","lat1":42.27284400,"lon1":-71.87865300,"rwy2":"33","lat2":42.26269200,"lon2":-71.86622800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.55,"desc":"ATIS"},
+{"type":"CTAF","freq":120.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":128.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.85,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"BRADLEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":42.26598600,"lon":-71.86388900,"rng_nm":18,"alt_fmsl":1009,"hdg":93.87,"id":"IRSR","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":42.26743300,"lon":-71.89288600,"rng_nm":18,"alt_fmsl":1009,"hdg":273.85,"id":"IEKW","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":42.26621400,"lon":-71.88774700,"rng_nm":10,"alt_fmsl":980,"id":"IRSR","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":42.26693300,"lon":-71.86854700,"rng_nm":10,"alt_fmsl":991,"id":"IEKW","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.27441900,"lon":-72.01991700,"rng_nm":0,"alt_fmsl":1009,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":42.25929400,"lon":-71.73614400,"rng_nm":0,"alt_fmsl":1009,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.26797200,"lon":-71.90355600,"rng_nm":0,"alt_fmsl":1009,"id":"----","rwy":"11","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":42.26819400,"lon":-71.89291900,"rng_nm":18,"alt_fmsl":989,"id":"IRSR","rwy":"11","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":42.26819400,"lon":-71.89292200,"rng_nm":18,"alt_fmsl":1009,"id":"IEKW","rwy":"29","desc":"DME-ILS"}
+]
+}

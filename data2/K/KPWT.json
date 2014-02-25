@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPWT","name":"Bremerton National","lat":47.4902405,"lon":-122.764815,"rwys":1,"ils":1,"elev":444,"index":942680,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"01","lat1":47.48332500,"lon1":-122.77138300,"rwy2":"19","lat2":47.49715600,"lon2":-122.75824700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.2,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.1,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":47.48100300,"lon":-122.77358900,"rng_nm":18,"alt_fmsl":444,"hdg":212.69,"id":"IPWT","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":47.49422800,"lon":-122.75934400,"rng_nm":10,"alt_fmsl":436,"id":"IPWT","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.57119400,"lon":-122.68594400,"rng_nm":0,"alt_fmsl":444,"id":"----","rwy":"19","desc":"OM"}
+]
+}

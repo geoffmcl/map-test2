@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLOT","name":"Lewis University","lat":41.60672000,"lon":-88.08152800,"rwys":2,"ils":1,"elev":680,"index":1499363,"path":"w090n40/w089n41"
+,"runways":[
+{"len_m":1793,"wid_m":22.86,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":41.60803789,"lon1":-88.10464765,"rwy2":"27","lat2":41.60866176,"lon2":-88.08315296},
+{"len_m":1554,"wid_m":29.87,"hdg":13,"surf":"Concrete","rwy1":"02","lat1":41.59922624,"lon1":-88.10089751,"rwy2":"20","lat2":41.61282392,"lon2":-88.09647113}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.35,"desc":"CHICAGO APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.55,"lat":41.61591100,"lon":-88.09546900,"rng_nm":18,"alt_fmsl":666,"id":"IJQH","rwy":"02","desc":"LOC"},
+{"type":"DME","freq":108.55,"lat":41.61571400,"lon":-88.09440300,"rng_nm":18,"alt_fmsl":661,"id":"IJQH","rwy":"02","desc":"DME-ILS"}
+]
+}

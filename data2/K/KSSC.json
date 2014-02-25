@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSSC","name":"Shaw Afb","lat":33.96983700,"lon":-80.46569100,"rwys":2,"ils":2,"elev":242,"index":1629946,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":3052,"wid_m":45.72,"hdg":34,"surf":"Concrete","rwy1":"04L","lat1":33.96170000,"lon1":-80.48151400,"rwy2":"22R","lat2":33.98432200,"lon2":-80.46270000},
+{"len_m":2438,"wid_m":45.72,"hdg":34,"surf":"Concrete","rwy1":"04R","lat1":33.96331100,"lon1":-80.47616100,"rwy2":"22L","lat2":33.98138300,"lon2":-80.46113300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.12,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.1,"desc":"GND"},
+{"type":"TWR","freq":126.65,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":33.98675600,"lon":-80.46067200,"rng_nm":18,"alt_fmsl":242,"hdg":34.60,"id":"ISSC","rwy":"04L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":33.95781100,"lon":-80.48473900,"rng_nm":18,"alt_fmsl":242,"hdg":214.58,"id":"IJWU","rwy":"22R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":33.96457500,"lon":-80.48082500,"rng_nm":10,"alt_fmsl":964,"id":"ISSC","rwy":"04L","desc":"GS","gs":2.82},
+{"type":"GS","freq":108.7,"lat":33.98084700,"lon":-80.46356900,"rng_nm":10,"alt_fmsl":242,"id":"IJWU","rwy":"22R","desc":"GS","gs":2.82}
+]
+}

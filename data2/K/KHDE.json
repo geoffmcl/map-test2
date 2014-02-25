@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHDE","name":"Brewster Fld","lat":40.44881548,"lon":-99.34021732,"rwys":2,"ils":0,"elev":2313,"index":1319066,"path":"w100n40/w100n40"
+,"runways":[
+{"len_m":1430,"wid_m":14.94,"hdg":9,"surf":"Asphalt","rwy1":"18","lat1":40.44623453,"lon1":-99.33888122,"rwy2":"36","lat2":40.45893930,"lon2":-99.33605729},
+{"len_m":891,"wid_m":91.14,"hdg":126,"surf":"Turf/grass","rwy1":"11","lat1":40.45189815,"lon1":-99.33706722,"rwy2":"29","lat2":40.44713713,"lon2":-99.32861211}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

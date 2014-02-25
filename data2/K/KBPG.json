@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBPG","name":"Big Spring Mcmahon Wrinkle","lat":32.2116515,"lon":-101.52179025,"rwys":2,"ils":0,"elev":2573,"index":1285769,"path":"w110n30/w102n32"
+,"runways":[
+{"len_m":2682,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":32.22682200,"lon1":-101.52086100,"rwy2":"35","lat2":32.20264200,"lon2":-101.52180000},
+{"len_m":1402,"wid_m":22.86,"hdg":66,"surf":"Asphalt","rwy1":"06","lat1":32.20608900,"lon1":-101.52908900,"rwy2":"24","lat2":32.21105300,"lon2":-101.51541100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

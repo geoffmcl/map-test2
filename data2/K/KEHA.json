@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEHA","name":"Elkhart Morton Co","lat":37.0007355,"lon":-101.880011,"rwys":2,"ils":0,"elev":3622,"index":1286080,"path":"w110n30/w102n37"
+,"runways":[
+{"len_m":1493,"wid_m":18.29,"hdg":48,"surf":"Asphalt","rwy1":"04","lat1":36.99512500,"lon1":-101.88417500,"rwy2":"22","lat2":37.00405300,"lon2":-101.87161900},
+{"len_m":1493,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.00861100,"lon1":-101.88222800,"rwy2":"35","lat2":36.99515300,"lon2":-101.88202200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 1"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134,"desc":"KANSAS CITY CNTR"}
+]
+,"ils":[
+]
+}

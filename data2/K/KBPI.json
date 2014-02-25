@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBPI","name":"Big Piney Marbleton","lat":42.57899891,"lon":-110.10427610,"rwys":2,"ils":0,"elev":6990,"index":1138979,"path":"w120n40/w111n42"
+,"runways":[
+{"len_m":2070,"wid_m":22.86,"hdg":147,"surf":"Asphalt","rwy1":"13","lat1":42.59293994,"lon1":-110.11788720,"rwy2":"31","lat2":42.57718456,"lon2":-110.10441165},
+{"len_m":969,"wid_m":42.98,"hdg":93,"surf":"Dirt","rwy1":"08","lat1":42.57664250,"lon1":-110.11021248,"rwy2":"26","lat2":42.57613500,"lon2":-110.09842500}
+]
+,"helipads":[
+{"rwy1":"H34","len_m":10,"wid_m":10.06,"hdg":-110,"surf":"Concrete","lat1":42.57946181,"lon1":-110.10387522}
+]
+,"radios":[
+{"type":"ATIS","freq":135.22,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

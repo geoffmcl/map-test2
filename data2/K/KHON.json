@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHON","name":"Huron Rgnl","lat":44.3849535,"lon":-98.22809375,"rwys":2,"ils":1,"elev":1289,"index":1335707,"path":"w100n40/w099n44"
+,"runways":[
+{"len_m":2194,"wid_m":30.48,"hdg":128,"surf":"Concrete","rwy1":"12","lat1":44.39241100,"lon1":-98.24142200,"rwy2":"30","lat2":44.38023100,"lon2":-98.21974200},
+{"len_m":1524,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":44.39044400,"lon1":-98.22565800,"rwy2":"35","lat2":44.37672800,"lon2":-98.22555300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.37828600,"lon":-98.21628100,"rng_nm":18,"alt_fmsl":1290,"hdg":128.18,"id":"IHON","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.38991100,"lon":-98.23945000,"rng_nm":10,"alt_fmsl":1283,"id":"IHON","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.44385600,"lon":-98.33677800,"rng_nm":0,"alt_fmsl":1313,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.39727200,"lon":-98.25007800,"rng_nm":0,"alt_fmsl":1289,"id":"----","rwy":"12","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":44.37891400,"lon":-98.21562200,"rng_nm":18,"alt_fmsl":1289,"id":"IHON","rwy":"12","desc":"DME-ILS"}
+]
+}

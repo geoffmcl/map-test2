@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCNO","name":"Chino","lat":33.97799846,"lon":-117.63709388,"rwys":3,"ils":1,"elev":650,"index":1023737,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"08R","lat1":33.97351400,"lon1":-117.64672800,"rwy2":"26L","lat2":33.97370600,"lon2":-117.62364200},
+{"len_m":1499,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":33.97063100,"lon1":-117.64177500,"rwy2":"21","lat2":33.98028600,"lon2":-117.63042200},
+{"len_m":1480,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"08L","lat1":33.97572675,"lon1":-117.64677781,"rwy2":"26R","lat2":33.97586125,"lon2":-117.63075619}
+]
+,"helipads":[
+{"rwy1":"H","len_m":11,"wid_m":11.89,"hdg":-117,"surf":"Asphalt","lat1":33.97827876,"lon1":-117.63022798}
+]
+,"radios":[
+{"type":"ATIS","freq":125.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":135.4,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":33.97568100,"lon":-117.64973900,"rng_nm":18,"alt_fmsl":617,"hdg":269.42,"id":"ICNO","rwy":"26R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":33.97485800,"lon":-117.63411900,"rng_nm":10,"alt_fmsl":631,"id":"ICNO","rwy":"26R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":33.97558300,"lon":-117.61948600,"rng_nm":0,"alt_fmsl":650,"id":"----","rwy":"26R","desc":"MM"}
+]
+}

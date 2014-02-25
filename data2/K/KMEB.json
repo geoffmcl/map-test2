@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMEB","name":"Laurinburg Maxton","lat":34.790247,"lon":-79.3664415,"rwys":2,"ils":1,"elev":220,"index":1646386,"path":"w080n30/w080n34"
+,"runways":[
+{"len_m":1977,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"05","lat1":34.79036900,"lon1":-79.37196900,"rwy2":"23","lat2":34.80279700,"lon2":-79.35647500},
+{"len_m":1143,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":34.78757200,"lon1":-79.37306100,"rwy2":"31","lat2":34.78025000,"lon2":-79.36426100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.8,"desc":"FAYETTEVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":34.80356400,"lon":-79.35551700,"rng_nm":18,"alt_fmsl":220,"hdg":45.68,"id":"IMEB","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":34.79130000,"lon":-79.36841900,"rng_nm":10,"alt_fmsl":220,"id":"IMEB","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.73399200,"lon":-79.44433900,"rng_nm":0,"alt_fmsl":200,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.78538900,"lon":-79.37817500,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"05","desc":"MM"}
+]
+}

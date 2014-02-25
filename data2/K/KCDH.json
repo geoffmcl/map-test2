@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDH","name":"Harrell Fld","lat":33.6227985,"lon":-92.763396,"rwys":1,"ils":0,"elev":130,"index":1433312,"path":"w100n30/w093n33"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":33.63161900,"lon1":-92.76171400,"rwy2":"36","lat2":33.61397800,"lon2":-92.76507800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.2,"desc":"AWOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

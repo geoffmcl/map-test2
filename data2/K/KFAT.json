@@ -1,0 +1,36 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFAT","name":"Fresno Air Terminal","lat":36.77343935,"lon":-119.72175070,"rwys":2,"ils":1,"elev":335,"index":991153,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":2442,"wid_m":45.72,"hdg":125,"surf":"Asphalt","rwy1":"11R","lat1":36.78321250,"lon1":-119.73268147,"rwy2":"29L","lat2":36.77046737,"lon2":-119.71036927},
+{"len_m":2818,"wid_m":45.72,"hdg":125,"surf":"Asphalt","rwy1":"11L","lat1":36.78353850,"lon1":-119.72928030,"rwy2":"29R","lat2":36.76883823,"lon2":-119.70353406}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":-119,"surf":"Concrete","lat1":36.78380680,"lon1":-119.72026399},
+{"rwy1":"H10","len_m":20,"wid_m":17.37,"hdg":-119,"surf":"Concrete","lat1":36.78503910,"lon1":-119.72688935},
+{"rwy1":"H14","len_m":45,"wid_m":46.63,"hdg":-119,"surf":"Concrete","lat1":36.77340897,"lon1":-119.70500880},
+{"rwy1":"H2","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78493004,"lon1":-119.71980734},
+{"rwy1":"H3","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78457989,"lon1":-119.71980301},
+{"rwy1":"H4","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78424015,"lon1":-119.71980301},
+{"rwy1":"H40","len_m":19,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.77302114,"lon1":-119.71991630},
+{"rwy1":"H5","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78492657,"lon1":-119.71936583},
+{"rwy1":"H6","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78457642,"lon1":-119.71936150},
+{"rwy1":"H7","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78423668,"lon1":-119.71935718},
+{"rwy1":"H8","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78380680,"lon1":-119.71957793},
+{"rwy1":"H9","len_m":18,"wid_m":18.90,"hdg":-119,"surf":"Concrete","lat1":36.78380333,"lon1":-119.71906284}
+]
+,"radios":[
+{"type":"ATIS","freq":121.35,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GROUND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":132.2,"desc":"APPROACH"},
+{"type":"DEP","freq":132.2,"desc":"DEPARTURE"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":36.78563600,"lon":-119.73294400,"rng_nm":18,"alt_fmsl":331,"hdg":305.48,"id":"IFAT","rwy":"29R","desc":"ILS-cat-III"},
+{"type":"LOC","freq":111.3,"lat":36.76737500,"lon":-119.70096100,"rng_nm":18,"alt_fmsl":333,"id":"IRPW","rwy":"11L","desc":"LOC"},
+{"type":"GS","freq":111.3,"lat":36.77190000,"lon":-119.70652200,"rng_nm":10,"alt_fmsl":332,"id":"IFAT","rwy":"29R","desc":"GS","gs":3},
+{"type":"IM","freq":0,"lat":36.76798300,"lon":-119.70202500,"rng_nm":0,"alt_fmsl":330,"id":"----","rwy":"29R","desc":"IM"},
+{"type":"DME","freq":111.3,"lat":36.78634200,"lon":-119.73239700,"rng_nm":18,"alt_fmsl":336,"id":"IRPW","rwy":"11L","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":36.78634200,"lon":-119.73239700,"rng_nm":18,"alt_fmsl":347,"id":"IFAT","rwy":"29R","desc":"DME-ILS"}
+]
+}

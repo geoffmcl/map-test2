@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHHR","name":"Jack Northrop Fld Hawthorne Muni","lat":33.92340590,"lon":-118.33700204,"rwys":1,"ils":1,"elev":66,"index":1007354,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":1514,"wid_m":29.87,"hdg":86,"surf":"Concrete","rwy1":"07","lat1":33.92246563,"lon1":-118.34334028,"rwy2":"25","lat2":33.92324818,"lon2":-118.32698457}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-118,"surf":"Concrete","lat1":33.92199561,"lon1":-118.33626134},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":-118,"surf":"Asphalt","lat1":33.92335735,"lon1":-118.33677542}
+]
+,"radios":[
+{"type":"ATIS","freq":118.4,"desc":"ATIS"},
+{"type":"CTAF","freq":121.1,"desc":"CTAF"},
+{"type":"GND","freq":125.1,"desc":"GND"},
+{"type":"TWR","freq":121.1,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"SOCAL APP"},
+{"type":"APP","freq":124.9,"desc":"SOCAL APP"},
+{"type":"APP","freq":125.2,"desc":"SOCAL APP"},
+{"type":"APP","freq":128.5,"desc":"SOCAL APP"},
+{"type":"DEP","freq":124.3,"desc":"SOCAL DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":33.92245300,"lon":-118.34336100,"rng_nm":18,"alt_fmsl":66,"id":"IHHR","rwy":"25","desc":"LOC"},
+{"type":"OM","freq":0,"lat":33.92662500,"lon":-118.27660300,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"25","desc":"OM"}
+]
+}

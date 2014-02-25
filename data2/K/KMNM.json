@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMNM","name":"Menominee Marinette Twin Co","lat":45.12637125,"lon":-87.6385515,"rwys":2,"ils":1,"elev":625,"index":1515977,"path":"w090n40/w088n45"
+,"runways":[
+{"len_m":1828,"wid_m":29.87,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":45.12321900,"lon1":-87.64441700,"rwy2":"21","lat2":45.13733900,"lon2":-87.63248600},
+{"len_m":1554,"wid_m":29.87,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":45.12780800,"lon1":-87.64502200,"rwy2":"32","lat2":45.11711900,"lon2":-87.63228100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"GREEN BAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":45.13968600,"lon":-87.63050000,"rng_nm":18,"alt_fmsl":625,"hdg":30.81,"id":"ITNQ","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":45.12610800,"lon":-87.64445800,"rng_nm":10,"alt_fmsl":617,"id":"ITNQ","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.06159700,"lon":-87.69596700,"rng_nm":0,"alt_fmsl":625,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.11565000,"lon":-87.65113600,"rng_nm":0,"alt_fmsl":625,"id":"----","rwy":"03","desc":"MM"}
+]
+}

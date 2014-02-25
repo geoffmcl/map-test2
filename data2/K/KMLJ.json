@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMLJ","name":"Baldwin Co","lat":33.1541695,"lon":-83.241361,"rwys":1,"ils":0,"elev":384,"index":1580747,"path":"w090n30/w084n33"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":33.15430800,"lon1":-83.25034400,"rwy2":"28","lat2":33.15403100,"lon2":-83.23237800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

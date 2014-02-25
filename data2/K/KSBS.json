@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBS","name":"Steamboat Springs Bob Adams Fld","lat":40.516258,"lon":-106.8663015,"rwys":1,"ils":0,"elev":6878,"index":1204384,"path":"w110n40/w107n40"
+,"runways":[
+{"len_m":1356,"wid_m":30.48,"hdg":152,"surf":"Asphalt","rwy1":"14","lat1":40.52169400,"lon1":-106.86995000,"rwy2":"32","lat2":40.51082200,"lon2":-106.86265300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

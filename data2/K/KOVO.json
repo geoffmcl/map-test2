@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOVO","name":"North Vernon","lat":39.045497,"lon":-85.6062975,"rwys":2,"ils":0,"elev":758,"index":1548353,"path":"w090n30/w086n39"
+,"runways":[
+{"len_m":1526,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":39.04028392,"lon1":-85.61052388,"rwy2":"23","lat2":39.04953208,"lon2":-85.59747412},
+{"len_m":832,"wid_m":15.24,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":39.04941821,"lon1":-85.61079442,"rwy2":"33","lat2":39.04275379,"lon2":-85.60639758}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

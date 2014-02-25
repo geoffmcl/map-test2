@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLUK","name":"Cincinnati Muni Lunken Fld","lat":39.10726236,"lon":-84.42292445,"rwys":3,"ils":1,"elev":483,"index":1564738,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1858,"wid_m":46.02,"hdg":20,"surf":"Asphalt","rwy1":"03R","lat1":39.09272170,"lon1":-84.41948605,"rwy2":"21L","lat2":39.10835530,"lon2":-84.41179233},
+{"len_m":1566,"wid_m":29.87,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":39.10256264,"lon1":-84.42797085,"rwy2":"25","lat2":39.10916585,"lon2":-84.41196565},
+{"len_m":1158,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"03L","lat1":39.09961403,"lon1":-84.42416399,"rwy2":"21R","lat2":39.10924197,"lon2":-84.41899367}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.25,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"CLD","freq":124.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"LUNKEN TWR"},
+{"type":"TWR","freq":133.92,"desc":"LUNKEN TWR"},
+{"type":"APP","freq":121,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":39.09014200,"lon":-84.42076400,"rng_nm":18,"alt_fmsl":480,"hdg":200.92,"id":"ILUK","rwy":"21L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":39.10604400,"lon":-84.41141900,"rng_nm":10,"alt_fmsl":474,"id":"ILUK","rwy":"21L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.16135300,"lon":-84.38586400,"rng_nm":0,"alt_fmsl":483,"id":"----","rwy":"21L","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.11670000,"lon":-84.40771900,"rng_nm":0,"alt_fmsl":483,"id":"----","rwy":"21L","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":39.08951700,"lon":-84.42002800,"rng_nm":18,"alt_fmsl":489,"id":"ILUK","rwy":"21L","desc":"DME-ILS"}
+]
+}

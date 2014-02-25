@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTRM","name":"Jacqueline Cochran Rgnl","lat":33.63487680,"lon":-116.16380503,"rwys":2,"ils":0,"elev":-115,"index":1040107,"path":"w120n30/w117n33"
+,"runways":[
+{"len_m":2591,"wid_m":46.02,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.63914500,"lon1":-116.15640600,"rwy2":"35","lat2":33.61578300,"lon2":-116.15641700},
+{"len_m":1522,"wid_m":29.87,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":33.63017200,"lon1":-116.17097200,"rwy2":"30","lat2":33.62046400,"lon2":-116.15937200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.27,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

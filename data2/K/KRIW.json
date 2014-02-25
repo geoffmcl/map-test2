@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRIW","name":"Riverton Rgnl","lat":43.06154165,"lon":-108.45795064,"rwys":2,"ils":1,"elev":5525,"index":1171778,"path":"w110n40/w109n43"
+,"runways":[
+{"len_m":2499,"wid_m":46.02,"hdg":114,"surf":"Asphalt","rwy1":"10","lat1":43.06955079,"lon1":-108.47261952,"rwy2":"28","lat2":43.06028571,"lon2":-108.44466265},
+{"len_m":1463,"wid_m":21.95,"hdg":24,"surf":"Asphalt","rwy1":"01","lat1":43.05700448,"lon1":-108.46567274,"rwy2":"19","lat2":43.06902086,"lon2":-108.45831555}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.01,"hdg":-108,"surf":"Concrete","lat1":43.06111786,"lon1":-108.45422079},
+{"rwy1":"H2","len_m":7,"wid_m":7.01,"hdg":-108,"surf":"Concrete","lat1":43.06090272,"lon1":-108.45421952}
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":43.07068300,"lon":-108.47596900,"rng_nm":18,"alt_fmsl":5525,"hdg":294.44,"id":"IRIW","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":43.06210300,"lon":-108.44687200,"rng_nm":10,"alt_fmsl":5446,"id":"IRIW","rwy":"28","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":43.05694400,"lon":-108.43375000,"rng_nm":0,"alt_fmsl":5525,"id":"----","rwy":"28","desc":"MM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFLD","name":"Fond Du Lac Co","lat":43.771234,"lon":-88.4891555,"rwys":2,"ils":1,"elev":808,"index":1499506,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1811,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":43.77913900,"lon1":-88.48617800,"rwy2":"36","lat2":43.76283900,"lon2":-88.48619700},
+{"len_m":1097,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":43.77162200,"lon1":-88.49893900,"rwy2":"27","lat2":43.77133600,"lon2":-88.48530800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.3,"lat":43.77618100,"lon":-88.48679700,"rng_nm":18,"alt_fmsl":782,"id":"IFLD","rwy":"36","desc":"LOC"},
+{"type":"OM","freq":0,"lat":43.69751100,"lon":-88.48628300,"rng_nm":0,"alt_fmsl":808,"id":"----","rwy":"36","desc":"OM"}
+]
+}

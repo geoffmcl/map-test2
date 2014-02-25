@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTTN","name":"Trenton Mercer","lat":40.27787242,"lon":-74.81570434,"rwys":2,"ils":1,"elev":213,"index":1728656,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1830,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"06","lat1":40.26975300,"lon1":-74.82157800,"rwy2":"24","lat2":40.28110600,"lon2":-74.80596900},
+{"len_m":1463,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"16","lat1":40.28371700,"lon1":-74.81797200,"rwy2":"34","lat2":40.27283600,"lon2":-74.80826900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":-74,"surf":"Asphalt","lat1":40.28223712,"lon1":-74.81482064},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-74,"surf":"Asphalt","lat1":40.28248043,"lon1":-74.80648685},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":-74,"surf":"Asphalt","lat1":40.27091594,"lon1":-74.81610323},
+{"rwy1":"H4","len_m":9,"wid_m":9.14,"hdg":-74,"surf":"Asphalt","lat1":40.27691594,"lon1":-74.80902087}
+]
+,"radios":[
+{"type":"ATIS","freq":133.7,"desc":"ASOS"},
+{"type":"ATIS","freq":133.69,"desc":"ATIS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP/DEP"},
+{"type":"APP","freq":128.4,"desc":"PHILADELPHIA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":40.28176700,"lon":-74.80506400,"rng_nm":18,"alt_fmsl":187,"hdg":46.37,"id":"ITTN","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":40.27214200,"lon":-74.81971100,"rng_nm":10,"alt_fmsl":167,"id":"ITTN","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.21262800,"lon":-74.89915600,"rng_nm":0,"alt_fmsl":137,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.26467200,"lon":-74.82845300,"rng_nm":0,"alt_fmsl":213,"id":"----","rwy":"06","desc":"MM"}
+]
+}

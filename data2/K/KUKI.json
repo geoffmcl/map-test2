@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUKI","name":"Ukiah Muni","lat":39.125957,"lon":-123.200856,"rwys":1,"ils":1,"elev":614,"index":925771,"path":"w130n30/w124n39"
+,"runways":[
+{"len_m":1345,"wid_m":45.72,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":39.13189200,"lon1":-123.20243100,"rwy2":"33","lat2":39.12002200,"lon2":-123.19928100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":39.11881400,"lon":-123.19896100,"rng_nm":18,"alt_fmsl":614,"id":"IUKI","rwy":"15","desc":"LOC"},
+{"type":"OM","freq":0,"lat":39.27470000,"lon":-123.24610800,"rng_nm":0,"alt_fmsl":871,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.14455600,"lon":-123.20530600,"rng_nm":0,"alt_fmsl":614,"id":"----","rwy":"15","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":39.11916400,"lon":-123.19800000,"rng_nm":18,"alt_fmsl":608,"id":"IUKI","rwy":"15","desc":"DME-ILS"}
+]
+}

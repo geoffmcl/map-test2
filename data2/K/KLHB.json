@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLHB","name":"Hearne Muni","lat":30.8718305,"lon":-96.622228,"rwys":1,"ils":0,"elev":285,"index":1367601,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.87732800,"lon1":-96.62222800,"rwy2":"36","lat2":30.86633300,"lon2":-96.62222800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

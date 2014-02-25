@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFKR","name":"Frankfort Muni","lat":40.27379925,"lon":-86.56326475,"rwys":2,"ils":0,"elev":861,"index":1532049,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":40.27268300,"lon1":-86.56889200,"rwy2":"27","lat2":40.27267500,"lon2":-86.55097500},
+{"len_m":770,"wid_m":21.34,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":40.27205000,"lon1":-86.56914200,"rwy2":"22","lat2":40.27778900,"lon2":-86.56405000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

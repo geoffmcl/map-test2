@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTKO","name":"Mankato","lat":39.803205,"lon":-98.22180775,"rwys":2,"ils":0,"elev":1859,"index":1335411,"path":"w100n30/w099n39"
+,"runways":[
+{"len_m":1078,"wid_m":15.24,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":39.80777800,"lon1":-98.22166400,"rwy2":"35","lat2":39.79809700,"lon2":-98.22056700},
+{"len_m":720,"wid_m":30.48,"hdg":97,"surf":"Turf/grass","rwy1":"09","lat1":39.80388900,"lon1":-98.22666900,"rwy2":"27","lat2":39.80305600,"lon2":-98.21833100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

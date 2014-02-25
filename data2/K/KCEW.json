@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCEW","name":"Bob Sikes","lat":30.77723900,"lon":-86.52455100,"rwys":1,"ils":1,"elev":213,"index":1531441,"path":"w090n30/w087n30"
+,"runways":[
+{"len_m":2440,"wid_m":45.72,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":30.78970000,"lon1":-86.52410800,"rwy2":"35","lat2":30.76796100,"lon2":-86.52011900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.05,"desc":"EGLIN APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":30.76592800,"lon":-86.51974200,"rng_nm":18,"alt_fmsl":214,"hdg":171.03,"id":"ICEW","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":30.78597500,"lon":-86.52427200,"rng_nm":10,"alt_fmsl":191,"id":"ICEW","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.85286700,"lon":-86.53661100,"rng_nm":0,"alt_fmsl":213,"id":"----","rwy":"17","desc":"OM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTAZ","name":"Taylorville Muni","lat":39.53522525,"lon":-89.32802575,"rwys":2,"ils":0,"elev":622,"index":1482850,"path":"w090n30/w090n39"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":39.53783900,"lon1":-89.32750600,"rwy2":"36","lat2":39.52685600,"lon2":-89.32733600},
+{"len_m":585,"wid_m":54.86,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":39.53810300,"lon1":-89.33203300,"rwy2":"27","lat2":39.53810300,"lon2":-89.32522800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"SPRINGFIELD APP/DEP"},
+{"type":"APP","freq":124.45,"desc":"SPRINGFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

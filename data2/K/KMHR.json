@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMHR","name":"Sacramento Mather","lat":38.55348929,"lon":-121.28765328,"rwys":2,"ils":1,"elev":96,"index":958498,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":3444,"wid_m":46.02,"hdg":53,"surf":"Concrete","rwy1":"04R","lat1":38.54471400,"lon1":-121.31351400,"rwy2":"22L","lat2":38.56308100,"lon2":-121.28166400},
+{"len_m":1840,"wid_m":46.02,"hdg":53,"surf":"Asphalt","rwy1":"04L","lat1":38.55303900,"lon1":-121.30498300,"rwy2":"22R","lat2":38.56285600,"lon2":-121.28796100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-121,"surf":"Concrete","lat1":38.55757002,"lon1":-121.31398795},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":-121,"surf":"Concrete","lat1":38.55622074,"lon1":-121.28551720}
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ATIS"},
+{"type":"CTAF","freq":120.65,"desc":"CTAF"},
+{"type":"CTAF","freq":123.07,"desc":"UNICOM"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":120.65,"desc":"TWR"},
+{"type":"APP","freq":127.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":38.54226900,"lon":-121.31774700,"rng_nm":18,"alt_fmsl":96,"hdg":233.58,"id":"IMHR","rwy":"22L","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.35,"lat":38.56012800,"lon":-121.28377200,"rng_nm":10,"alt_fmsl":93,"id":"IMHR","rwy":"22L","desc":"GS","gs":3},
+{"type":"DME","freq":111.35,"lat":38.54226900,"lon":-121.31774700,"rng_nm":18,"alt_fmsl":96,"id":"IMHR","rwy":"22L","desc":"DME-ILS"}
+]
+}

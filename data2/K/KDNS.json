@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDNS","name":"Denison Muni","lat":41.9868158333333,"lon":-95.3814343333333,"rwys":3,"ils":0,"elev":1276,"index":1384698,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":124,"surf":"Concrete","rwy1":"12","lat1":41.98961400,"lon1":-95.38711400,"rwy2":"30","lat2":41.98188900,"lon2":-95.37192200},
+{"len_m":647,"wid_m":32.00,"hdg":179,"surf":"Turf/grass","rwy1":"18","lat1":41.98998600,"lon1":-95.38082800,"rwy2":"36","lat2":41.98415300,"lon2":-95.38069200},
+{"len_m":598,"wid_m":53.34,"hdg":62,"surf":"Turf/grass","rwy1":"06","lat1":41.98637800,"lon1":-95.38722200,"rwy2":"24","lat2":41.98887500,"lon2":-95.38082800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.95,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

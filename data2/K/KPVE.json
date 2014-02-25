@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPVE","name":"Beech River Rgnl","lat":35.6563625,"lon":-88.195353,"rwys":1,"ils":0,"elev":488,"index":1498987,"path":"w090n30/w089n35"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":11,"surf":"Concrete","rwy1":"01","lat1":35.64829700,"lon1":-88.19743100,"rwy2":"19","lat2":35.66442800,"lon2":-88.19327500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"APP","freq":125.85,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

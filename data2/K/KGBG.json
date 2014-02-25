@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGBG","name":"Galesburg Muni","lat":40.93803125,"lon":-90.430998,"rwys":2,"ils":1,"elev":764,"index":1466554,"path":"w100n40/w091n40"
+,"runways":[
+{"len_m":1765,"wid_m":45.72,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":40.93090300,"lon1":-90.43648600,"rwy2":"21","lat2":40.94491700,"lon2":-90.42658900},
+{"len_m":1097,"wid_m":30.48,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":40.93909400,"lon1":-90.43685300,"rwy2":"28","lat2":40.93721100,"lon2":-90.42406400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"QUAD CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":40.94636400,"lon":-90.42556900,"rng_nm":18,"alt_fmsl":764,"hdg":28.08,"id":"IGBG","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":40.93280300,"lon":-90.43350600,"rng_nm":10,"alt_fmsl":757,"id":"IGBG","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.84545600,"lon":-90.49621400,"rng_nm":0,"alt_fmsl":764,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.92381700,"lon":-90.44085300,"rng_nm":0,"alt_fmsl":764,"id":"----","rwy":"03","desc":"MM"}
+]
+}

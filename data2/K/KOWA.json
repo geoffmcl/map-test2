@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOWA","name":"Owatonna Degner Rgnl","lat":44.1234,"lon":-93.260618,"rwys":1,"ils":1,"elev":1146,"index":1417602,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":123,"surf":"Concrete","rwy1":"12","lat1":44.12761700,"lon1":-93.26930000,"rwy2":"30","lat2":44.11918300,"lon2":-93.25193600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":44.12916900,"lon":-93.27249700,"rng_nm":18,"alt_fmsl":1104,"hdg":304.07,"id":"IOWA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":44.12008300,"lon":-93.25616900,"rng_nm":10,"alt_fmsl":1132,"id":"IOWA","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.07383300,"lon":-93.15527500,"rng_nm":0,"alt_fmsl":1226,"id":"----","rwy":"30","desc":"OM"}
+]
+}

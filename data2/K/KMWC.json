@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMWC","name":"Lawrence J Timmerman","lat":43.10920909,"lon":-88.02919461,"rwys":4,"ils":1,"elev":745,"index":1499459,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1251,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"15L","lat1":43.11581903,"lon1":-88.03861894,"rwy2":"33R","lat2":43.10652497,"lon2":-88.02993438},
+{"len_m":975,"wid_m":22.86,"hdg":36,"surf":"Asphalt","rwy1":"04L","lat1":43.10710300,"lon1":-88.03811700,"rwy2":"22R","lat2":43.11419200,"lon2":-88.03104200},
+{"len_m":993,"wid_m":81.99,"hdg":145,"surf":"Transparent","rwy1":"15R","lat1":43.11353606,"lon1":-88.03919078,"rwy2":"33L","lat2":43.10614563,"lon2":-88.03231103},
+{"len_m":869,"wid_m":81.08,"hdg":36,"surf":"Transparent","rwy1":"04R","lat1":43.10636970,"lon1":-88.03605413,"rwy2":"22L","lat2":43.11268044,"lon2":-88.02972747}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.3,"desc":"ATIS"},
+{"type":"CTAF","freq":120.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"TIMMERMAN GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":128.7,"desc":"MILWAUKEE APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":43.10556900,"lon":-88.02904400,"rng_nm":18,"alt_fmsl":745,"id":"IMWC","rwy":"15L","desc":"LOC"},
+{"type":"OM","freq":0,"lat":43.18560000,"lon":-88.10333900,"rng_nm":0,"alt_fmsl":745,"id":"----","rwy":"15L","desc":"OM"}
+]
+}

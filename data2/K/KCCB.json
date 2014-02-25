@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCCB","name":"Cable","lat":34.111607,"lon":-117.6873815,"rwys":1,"ils":0,"elev":1444,"index":1023745,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1177,"wid_m":22.86,"hdg":69,"surf":"Asphalt","rwy1":"06","lat1":34.10971700,"lon1":-117.69334400,"rwy2":"24","lat2":34.11349700,"lon2":-117.68141900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.5,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

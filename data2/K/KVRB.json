@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVRB","name":"Vero Beach Municipal","lat":27.65095578,"lon":-80.41997262,"rwys":3,"ils":0,"elev":24,"index":1629546,"path":"w090n20/w081n27"
+,"runways":[
+{"len_m":1069,"wid_m":22.86,"hdg":110,"surf":"Asphalt","rwy1":"11L","lat1":27.66037984,"lon1":-80.41689425,"rwy2":"29R","lat2":27.65694195,"lon2":-80.40676077},
+{"len_m":1514,"wid_m":29.87,"hdg":36,"surf":"Asphalt","rwy1":"4","lat1":27.64967395,"lon1":-80.42666227,"rwy2":"22","lat2":27.66071960,"lon2":-80.41761523},
+{"len_m":2233,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"11R","lat1":27.65788747,"lon1":-80.42867285,"rwy2":"29L","lat2":27.65078892,"lon2":-80.40748848}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":-80,"surf":"Concrete","lat1":27.65412830,"lon1":-80.41253245}
+]
+,"radios":[
+{"type":"ATIS","freq":132.5,"desc":"ATIS"},
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":134.97,"desc":"CLNC DEL"},
+{"type":"GND","freq":127.45,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

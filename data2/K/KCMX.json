@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCMX","name":"Houghton Co Mem","lat":47.16828275,"lon":-88.48907075,"rwys":2,"ils":1,"elev":1095,"index":1499722,"path":"w090n40/w089n47"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":47.17531400,"lon1":-88.49887200,"rwy2":"31","lat2":47.16365600,"lon2":-88.47910600},
+{"len_m":1583,"wid_m":30.48,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":47.16428300,"lon1":-88.49875800,"rwy2":"25","lat2":47.16987800,"lon2":-88.47954700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":47.17711400,"lon":-88.50191100,"rng_nm":18,"alt_fmsl":1095,"hdg":310.95,"id":"ICMX","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":47.16581700,"lon":-88.48061700,"rng_nm":10,"alt_fmsl":1065,"id":"ICMX","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.11570300,"lon":-88.40117500,"rng_nm":0,"alt_fmsl":618,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.15772200,"lon":-88.46905600,"rng_nm":0,"alt_fmsl":1095,"id":"----","rwy":"31","desc":"MM"}
+]
+}

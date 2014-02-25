@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSHN","name":"Sanderson Fld","lat":47.2335585,"lon":-123.1475445,"rwys":1,"ils":0,"elev":273,"index":926283,"path":"w130n40/w124n47"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":67,"surf":"Asphalt","rwy1":"05","lat1":47.23097800,"lon1":-123.15687800,"rwy2":"23","lat2":47.23613900,"lon2":-123.13821100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+]
+}

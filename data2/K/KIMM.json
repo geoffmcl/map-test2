@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIMM","name":"Immokalee","lat":26.43082400,"lon":-81.40706600,"rwys":3,"ils":0,"elev":36,"index":1613082,"path":"w090n20/w082n26"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":26.42632500,"lon1":-81.40485300,"rwy2":"22","lat2":26.43740600,"lon2":-81.39579700},
+{"len_m":1523,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":26.43703300,"lon1":-81.40543600,"rwy2":"27","lat2":26.43750800,"lon2":-81.39016700},
+{"len_m":1524,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":26.43724700,"lon1":-81.40521700,"rwy2":"36","lat2":26.42350000,"lon2":-81.40468900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.75,"desc":"FORT MYERS APP/DEP"}
+]
+,"ils":[
+]
+}

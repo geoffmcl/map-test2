@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTTA","name":"Sanford Lee Co Rgnl","lat":35.5823585,"lon":-79.101361,"rwys":1,"ils":1,"elev":247,"index":1646435,"path":"w080n30/w080n35"
+,"runways":[
+{"len_m":2002,"wid_m":30.48,"hdg":20,"surf":"Asphalt","rwy1":"03","lat1":35.57391100,"lon1":-79.10525000,"rwy2":"21","lat2":35.59080600,"lon2":-79.09747200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":135.07,"desc":"RALEIGH CLNC DEL"},
+{"type":"APP","freq":125.3,"desc":"RALEIGH APP DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":35.59207256,"lon":-79.09688957,"rng_nm":18,"alt_fmsl":247,"hdg":20.53,"id":"ITTA","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":35.57619127,"lon":-79.10311997,"rng_nm":10,"alt_fmsl":247,"id":"ITTA","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":110.75,"lat":35.59207256,"lon":-79.09688957,"rng_nm":18,"alt_fmsl":247,"id":"ITTA","rwy":"03","desc":"DME-ILS"}
+]
+}

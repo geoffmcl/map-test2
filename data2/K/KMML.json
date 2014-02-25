@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMML","name":"Southwest Minnesota Rgnl Marshall","lat":44.45154073,"lon":-95.82318939,"rwys":2,"ils":1,"elev":1180,"index":1384856,"path":"w100n40/w096n44"
+,"runways":[
+{"len_m":2200,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":44.45855638,"lon1":-95.83809792,"rwy2":"30","lat2":44.44585000,"lon2":-95.81688786},
+{"len_m":1218,"wid_m":22.86,"hdg":28,"surf":"Asphalt","rwy1":"02","lat1":44.44603600,"lon1":-95.82248100,"rwy2":"20","lat2":44.45572053,"lon2":-95.81529078}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":44.44408300,"lon":-95.81394100,"rng_nm":18,"alt_fmsl":1180,"hdg":130.01,"id":"IGBY","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":44.45773100,"lon":-95.83429000,"rng_nm":10,"alt_fmsl":1180,"id":"IGBY","rwy":"12","desc":"GS","gs":3}
+]
+}

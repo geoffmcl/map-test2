@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRKD","name":"Knox Co Rgnl","lat":44.0602665,"lon":-69.099207,"rwys":2,"ils":1,"elev":56,"index":1810819,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1526,"wid_m":30.48,"hdg":110,"surf":"Asphalt","rwy1":"13","lat1":44.06151900,"lon1":-69.10837200,"rwy2":"31","lat2":44.05661400,"lon2":-69.09058100},
+{"len_m":1188,"wid_m":30.48,"hdg":13,"surf":"Asphalt","rwy1":"03","lat1":44.05626400,"lon1":-69.10066100,"rwy2":"21","lat2":44.06666900,"lon2":-69.09721400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.8,"desc":"BRUNSWICK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":44.05598300,"lon":-69.08828900,"rng_nm":18,"alt_fmsl":54,"hdg":110.99,"id":"IRMZ","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":44.05982800,"lon":-69.10542500,"rng_nm":10,"alt_fmsl":43,"id":"IRMZ","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.09346900,"lon":-69.21899400,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"13","desc":"OM"},
+{"type":"DME","freq":111.7,"lat":44.05532800,"lon":-69.08861700,"rng_nm":18,"alt_fmsl":54,"id":"IRMZ","rwy":"13","desc":"DME-ILS"}
+]
+}

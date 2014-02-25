@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCHT","name":"Chillicothe Muni","lat":39.78202425,"lon":-93.49621175,"rwys":2,"ils":0,"elev":783,"index":1417330,"path":"w100n30/w094n39"
+,"runways":[
+{"len_m":1188,"wid_m":22.56,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":39.78644700,"lon1":-93.49982800,"rwy2":"32","lat2":39.77786400,"lon2":-93.49153300},
+{"len_m":1043,"wid_m":33.53,"hdg":25,"surf":"Dirt","rwy1":"02","lat1":39.77765800,"lon1":-93.49938300,"rwy2":"20","lat2":39.78612800,"lon2":-93.49410300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

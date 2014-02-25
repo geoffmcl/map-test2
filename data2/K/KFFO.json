@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFFO","name":"Wright Patterson Afb","lat":39.82585375,"lon":-84.0452465,"rwys":2,"ils":1,"elev":823,"index":1564787,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":3840,"wid_m":91.44,"hdg":48,"surf":"Asphalt","rwy1":"05L","lat1":39.81489200,"lon1":-84.06515000,"rwy2":"23R","lat2":39.83761700,"lon2":-84.03132800},
+{"len_m":2133,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"05R","lat1":39.81914200,"lon1":-84.05165000,"rwy2":"23L","lat2":39.83176400,"lon2":-84.03285800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.47,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"PATTERSON TWR"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":39.84011700,"lon":-84.02761900,"rng_nm":18,"alt_fmsl":823,"hdg":48.82,"id":"IFAE","rwy":"05L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":39.80922500,"lon":-84.07359400,"rng_nm":18,"alt_fmsl":825,"hdg":228.81,"id":"IFFO","rwy":"23R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":39.81556700,"lon":-84.06140300,"rng_nm":10,"alt_fmsl":823,"id":"IFAE","rwy":"05L","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":39.83685600,"lon":-84.03524200,"rng_nm":10,"alt_fmsl":823,"id":"IFFO","rwy":"23R","desc":"GS","gs":3}
+]
+}

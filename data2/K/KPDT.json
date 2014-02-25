@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPDT","name":"Eastern Oregon Rgnl At Pendleton","lat":45.695116,"lon":-118.841132,"rwys":3,"ils":1,"elev":1497,"index":1008104,"path":"w120n40/w119n45"
+,"runways":[
+{"len_m":1920,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":45.69533900,"lon1":-118.85336900,"rwy2":"25","lat2":45.69538300,"lon2":-118.82871700},
+{"len_m":1700,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"11","lat1":45.69881700,"lon1":-118.85381900,"rwy2":"29","lat2":45.68936900,"lon2":-118.83663900},
+{"len_m":1322,"wid_m":18.29,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":45.70184400,"lon1":-118.83715600,"rwy2":"34","lat2":45.68994400,"lon2":-118.83709200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"ASOS"},
+{"type":"CTAF","freq":119.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"PENDLETON TWR"},
+{"type":"APP","freq":133.15,"desc":"CHINOOK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":45.69533100,"lon":-118.85721100,"rng_nm":18,"alt_fmsl":1495,"hdg":269.84,"id":"IPDT","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":45.69633600,"lon":-118.83283100,"rng_nm":10,"alt_fmsl":1486,"id":"IPDT","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.69552200,"lon":-118.73052800,"rng_nm":0,"alt_fmsl":1185,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.69540000,"lon":-118.81787800,"rng_nm":0,"alt_fmsl":1497,"id":"----","rwy":"25","desc":"MM"}
+]
+}

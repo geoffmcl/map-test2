@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHIB","name":"Chisholm Hibbing","lat":47.3872635,"lon":-92.83978125,"rwys":2,"ils":2,"elev":1353,"index":1434200,"path":"w100n40/w093n47"
+,"runways":[
+{"len_m":2059,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":47.39168100,"lon1":-92.84778900,"rwy2":"31","lat2":47.37923100,"lon2":-92.82758900},
+{"len_m":937,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":47.38632500,"lon1":-92.84658300,"rwy2":"22","lat2":47.39181700,"lon2":-92.83716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.4,"desc":"DULUTH CLNC DEL"},
+{"type":"APP","freq":125.45,"desc":"DULUTH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":47.37846756,"lon":-92.82633209,"rng_nm":18,"alt_fmsl":1340,"hdg":132.26,"id":"IJAE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":47.39253900,"lon":-92.84918600,"rng_nm":18,"alt_fmsl":1353,"hdg":312.30,"id":"IHIB","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":47.38912200,"lon":-92.84603100,"rng_nm":10,"alt_fmsl":1304,"id":"IJAE","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":47.38033900,"lon":-92.83223900,"rng_nm":10,"alt_fmsl":1340,"id":"IHIB","rwy":"31","desc":"GS","gs":2.9},
+{"type":"OM","freq":0,"lat":47.44665300,"lon":-92.93709400,"rng_nm":0,"alt_fmsl":1325,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":47.30143300,"lon":-92.70388300,"rng_nm":0,"alt_fmsl":1350,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.37315600,"lon":-92.81771700,"rng_nm":0,"alt_fmsl":1353,"id":"----","rwy":"31","desc":"MM"}
+]
+}

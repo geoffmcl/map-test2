@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCEV","name":"Mettel Fld","lat":39.6980095,"lon":-85.1314435,"rwys":2,"ils":0,"elev":867,"index":1548395,"path":"w090n30/w086n39"
+,"runways":[
+{"len_m":1979,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":39.70745245,"lon1":-85.13071307,"rwy2":"36","lat2":39.68962355,"lon2":-85.13088293},
+{"len_m":863,"wid_m":45.72,"hdg":39,"surf":"Turf/grass","rwy1":"04","lat1":39.69446551,"lon1":-85.13527059,"rwy2":"22","lat2":39.70049649,"lon2":-85.12890741}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

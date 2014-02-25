@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMTC","name":"Selfridge Angb","lat":42.613882,"lon":-82.8369135,"rwys":1,"ils":1,"elev":580,"index":1597728,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":42.60153900,"lon1":-82.83734400,"rwy2":"19","lat2":42.62622500,"lon2":-82.83648300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.32,"desc":"ATIS"},
+{"type":"CLD","freq":119,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.3,"desc":"GND"},
+{"type":"TWR","freq":120.15,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"},
+{"type":"DEP","freq":119.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":42.62966100,"lon":-82.83636400,"rng_nm":18,"alt_fmsl":579,"hdg":1.47,"id":"IRFB","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":42.59632500,"lon":-82.83752200,"rng_nm":18,"alt_fmsl":580,"hdg":181.47,"id":"IMTC","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":42.60433900,"lon":-82.83538900,"rng_nm":10,"alt_fmsl":580,"id":"IRFB","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":42.62253300,"lon":-82.83936400,"rng_nm":10,"alt_fmsl":580,"id":"IMTC","rwy":"19","desc":"GS","gs":2.46},
+{"type":"MM","freq":0,"lat":42.59380800,"lon":-82.83761400,"rng_nm":0,"alt_fmsl":580,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":42.63503300,"lon":-82.83686400,"rng_nm":0,"alt_fmsl":580,"id":"----","rwy":"19","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBBD","name":"Curtis Fld","lat":31.179439,"lon":-99.32381375,"rwys":2,"ils":0,"elev":1827,"index":1318474,"path":"w100n30/w100n31"
+,"runways":[
+{"len_m":1403,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":31.18530000,"lon1":-99.32461400,"rwy2":"35","lat2":31.17264200,"lon2":-99.32465000},
+{"len_m":1072,"wid_m":33.53,"hdg":91,"surf":"Turf/grass","rwy1":"08","lat1":31.17999200,"lon1":-99.32862200,"rwy2":"26","lat2":31.17982200,"lon2":-99.31736900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

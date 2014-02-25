@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNSE","name":"Whiting Fld Nas North","lat":30.72154775,"lon":-87.025648625,"rwys":4,"ils":0,"elev":199,"index":1515051,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":1829,"wid_m":60.96,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":30.71526400,"lon1":-87.03300000,"rwy2":"23","lat2":30.72649400,"lon2":-87.01900600},
+{"len_m":1813,"wid_m":60.96,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":30.72194400,"lon1":-87.03750000,"rwy2":"27","lat2":30.72083300,"lon2":-87.01861100},
+{"len_m":1829,"wid_m":60.96,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":30.73024400,"lon1":-87.02836900,"rwy2":"32","lat2":30.71815800,"lon2":-87.01536900},
+{"len_m":1786,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.72777800,"lon1":-87.02666700,"rwy2":"36","lat2":30.71166700,"lon2":-87.02666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.4,"desc":"TWR"},
+{"type":"APP","freq":127.35,"desc":"PENSACOLA APP/DEP"},
+{"type":"APP","freq":128.25,"desc":"PENSACOLA APP/DEP"}
+]
+,"ils":[
+]
+}

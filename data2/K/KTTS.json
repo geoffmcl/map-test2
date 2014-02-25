@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTTS","name":"Nasa Shuttle Landing Facility","lat":28.6148905,"lon":-80.694371,"rwys":1,"ils":0,"elev":10,"index":1629601,"path":"w090n20/w081n28"
+,"runways":[
+{"len_m":4572,"wid_m":91.44,"hdg":149,"surf":"Concrete","rwy1":"15","lat1":28.63275300,"lon1":-80.70606100,"rwy2":"33","lat2":28.59702800,"lon2":-80.68268100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":128.55,"desc":"TWR"},
+{"type":"APP","freq":134.95,"desc":"ORLANDO APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIER","name":"Natchitoches Rgnl","lat":31.73553700,"lon":-93.09540600,"rwys":2,"ils":1,"elev":121,"index":1416811,"path":"w100n30/w094n31"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":31.73966700,"lon1":-93.09945800,"rwy2":"35","lat2":31.72629700,"lon2":-93.09568900},
+{"len_m":1218,"wid_m":30.48,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":31.73783100,"lon1":-93.10736700,"rwy2":"25","lat2":31.74040300,"lon2":-93.09486400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.05,"desc":"POLK APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.5,"lat":31.74338900,"lon":-93.10050800,"rng_nm":18,"alt_fmsl":121,"id":"IIER","rwy":"35","desc":"LOC"}
+]
+}

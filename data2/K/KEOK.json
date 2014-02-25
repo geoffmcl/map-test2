@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEOK","name":"Keokuk Muni","lat":40.45983375,"lon":-91.42911875,"rwys":2,"ils":0,"elev":671,"index":1450138,"path":"w100n40/w092n40"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":85,"surf":"Concrete","rwy1":"08","lat1":40.45961900,"lon1":-91.43607200,"rwy2":"26","lat2":40.46074700,"lon2":-91.41636400},
+{"len_m":1088,"wid_m":30.48,"hdg":141,"surf":"Concrete","rwy1":"14","lat1":40.46334400,"lon1":-91.43597200,"rwy2":"32","lat2":40.45562500,"lon2":-91.42806700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

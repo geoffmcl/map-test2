@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCHK","name":"Chickasha Muni","lat":35.0975896666667,"lon":-97.9672118333333,"rwys":3,"ils":0,"elev":1150,"index":1351488,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1554,"wid_m":30.48,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":35.10341900,"lon1":-97.96920600,"rwy2":"35","lat2":35.08940800,"lon2":-97.96920600},
+{"len_m":865,"wid_m":44.20,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":35.10335000,"lon1":-97.96686700,"rwy2":"36","lat2":35.09554700,"lon2":-97.96686700},
+{"len_m":769,"wid_m":30.48,"hdg":32,"surf":"Turf/grass","rwy1":"04","lat1":35.09399700,"lon1":-97.96786100,"rwy2":"22","lat2":35.09981700,"lon2":-97.96326400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+]
+}

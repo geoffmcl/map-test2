@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHPY","name":"Baytown","lat":29.786615815,"lon":-94.95430426,"rwys":1,"ils":0,"elev":34,"index":1400304,"path":"w100n20/w095n29"
+,"runways":[
+{"len_m":1321,"wid_m":18.29,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":29.79083100,"lon1":-94.95680600,"rwy2":"32","lat2":29.78134400,"lon2":-94.94853600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.63,"hdg":-94,"surf":"Concrete","lat1":29.78714413,"lon1":-94.95593752}
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP/DEP"}
+]
+,"ils":[
+]
+}

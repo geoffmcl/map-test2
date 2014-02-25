@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMQJ","name":"Mt Comfort","lat":39.84428125,"lon":-85.8963985,"rwys":2,"ils":1,"elev":862,"index":1548400,"path":"w090n30/w086n39"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":70,"surf":"Concrete","rwy1":"07","lat1":39.83707400,"lon1":-85.90949200,"rwy2":"25","lat2":39.84223600,"lon2":-85.89108300},
+{"len_m":1188,"wid_m":22.86,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":39.85393900,"lon1":-85.89488200,"rwy2":"34","lat2":39.84387600,"lon2":-85.89013700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":127.15,"desc":"INDIANAPOLIS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":39.83573900,"lon":-85.91418900,"rng_nm":18,"alt_fmsl":862,"hdg":249.88,"id":"IMQJ","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":39.84024700,"lon":-85.89395800,"rng_nm":10,"alt_fmsl":859,"id":"IMQJ","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.87334700,"lon":-85.78178300,"rng_nm":0,"alt_fmsl":862,"id":"----","rwy":"25","desc":"OM"}
+]
+}

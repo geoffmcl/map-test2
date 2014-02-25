@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRUT","name":"Rutland State","lat":43.5293805,"lon":-72.94958225,"rwys":2,"ils":1,"elev":787,"index":1761632,"path":"w080n40/w073n43"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":358,"surf":"Asphalt","rwy1":"01","lat1":43.52487800,"lon1":-72.94948100,"rwy2":"19","lat2":43.53858900,"lon2":-72.94997500},
+{"len_m":966,"wid_m":22.86,"hdg":118,"surf":"Asphalt","rwy1":"13","lat1":43.52911100,"lon1":-72.95468100,"rwy2":"31","lat2":43.52494400,"lon2":-72.94419200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.7,"lat":43.52929200,"lon":-72.94775800,"rng_nm":18,"alt_fmsl":787,"id":"IRUT","rwy":"19","desc":"LOC"},
+{"type":"DME","freq":111.7,"lat":43.52927800,"lon":-72.94733100,"rng_nm":18,"alt_fmsl":787,"id":"IRUT","rwy":"19","desc":"DME-ILS"}
+]
+}

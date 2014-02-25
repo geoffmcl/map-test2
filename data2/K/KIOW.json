@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIOW","name":"Iowa City Muni","lat":41.638564,"lon":-91.5464906666667,"rwys":3,"ils":0,"elev":668,"index":1450217,"path":"w100n40/w092n41"
+,"runways":[
+{"len_m":1327,"wid_m":45.72,"hdg":70,"surf":"Concrete","rwy1":"07","lat1":41.63894200,"lon1":-91.55501900,"rwy2":"25","lat2":41.64286100,"lon2":-91.53997200},
+{"len_m":1188,"wid_m":45.72,"hdg":124,"surf":"Concrete","rwy1":"12","lat1":41.64190300,"lon1":-91.55272500,"rwy2":"30","lat2":41.63581400,"lon2":-91.54099200},
+{"len_m":772,"wid_m":45.72,"hdg":182,"surf":"Concrete","rwy1":"18","lat1":41.63940800,"lon1":-91.54495300,"rwy2":"36","lat2":41.63245600,"lon2":-91.54528300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.05,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.7,"desc":"CEDAR RAPIDS APP/DEP"}
+]
+,"ils":[
+]
+}

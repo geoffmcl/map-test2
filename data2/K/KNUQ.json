@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNUQ","name":"Moffett Federal Afld","lat":37.41276700,"lon":-122.05392400,"rwys":2,"ils":1,"elev":33,"index":942043,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":2804,"wid_m":60.96,"hdg":157,"surf":"Concrete","rwy1":"14L","lat1":37.42892500,"lon1":-122.05461700,"rwy2":"32R","lat2":37.40554200,"lon2":-122.04260300},
+{"len_m":2477,"wid_m":60.96,"hdg":157,"surf":"Asphalt","rwy1":"14R","lat1":37.42523100,"lon1":-122.05504400,"rwy2":"32L","lat2":37.40457800,"lon2":-122.04443300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"ATIS","freq":122.1,"desc":"MOFFETT AWOS"},
+{"type":"CTAF","freq":119.55,"desc":"MOFFETT CTAF"},
+{"type":"GND","freq":121.85,"desc":"MOFFETT GND"},
+{"type":"TWR","freq":119.55,"desc":"MOFFETT TWR"},
+{"type":"APP","freq":134.5,"desc":"MOFFETT APP"},
+{"type":"DEP","freq":121.3,"desc":"MOFFETT DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":37.43121400,"lon":-122.05579400,"rng_nm":18,"alt_fmsl":7,"hdg":337.80,"id":"INUQ","rwy":"32R","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.35,"lat":37.40341100,"lon":-122.04150800,"rng_nm":18,"alt_fmsl":30,"id":"IMNQ","rwy":"14L","desc":"LOC"},
+{"type":"GS","freq":110.35,"lat":37.40893600,"lon":-122.04248600,"rng_nm":10,"alt_fmsl":19,"id":"INUQ","rwy":"32R","desc":"GS","gs":3}
+]
+}

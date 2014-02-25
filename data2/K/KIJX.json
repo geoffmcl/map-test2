@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIJX","name":"Jacksonville Muni","lat":39.774627,"lon":-90.238248,"rwys":2,"ils":0,"elev":624,"index":1466483,"path":"w100n30/w091n39"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":39.77932800,"lon1":-90.24471900,"rwy2":"31","lat2":39.76959700,"lon2":-90.23217800},
+{"len_m":1219,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":39.77090800,"lon1":-90.24308100,"rwy2":"22","lat2":39.77867500,"lon2":-90.23301400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.45,"desc":"CLNC DEL"},
+{"type":"APP","freq":118.45,"desc":"SPRINGFIELD APP/DEP"},
+{"type":"APP","freq":126.15,"desc":"SPRINGFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

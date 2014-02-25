@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEWB","name":"New Bedford Rgnl","lat":41.6765445,"lon":-70.9578,"rwys":2,"ils":1,"elev":80,"index":1794280,"path":"w080n40/w071n41"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":128,"surf":"Asphalt","rwy1":"14","lat1":41.68029700,"lon1":-70.96393600,"rwy2":"32","lat2":41.67176100,"lon2":-70.94960800},
+{"len_m":1523,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":41.67168900,"lon1":-70.96451700,"rwy2":"23","lat2":41.68243100,"lon2":-70.95313900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":128.7,"desc":"PROVIDENCE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":41.68420800,"lon":-70.95125600,"rng_nm":18,"alt_fmsl":80,"hdg":38.35,"id":"IEWB","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":41.67276100,"lon":-70.96190600,"rng_nm":10,"alt_fmsl":64,"id":"IEWB","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.62156100,"lon":-71.01766700,"rng_nm":0,"alt_fmsl":80,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.66425000,"lon":-70.97227800,"rng_nm":0,"alt_fmsl":80,"id":"----","rwy":"05","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":41.68439700,"lon":-70.95216100,"rng_nm":18,"alt_fmsl":80,"id":"IEWB","rwy":"05","desc":"DME-ILS"}
+]
+}

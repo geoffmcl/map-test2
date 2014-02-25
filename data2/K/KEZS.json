@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEZS","name":"Shawano Muni","lat":44.78729725,"lon":-88.56009025,"rwys":2,"ils":0,"elev":813,"index":1499569,"path":"w090n40/w089n44"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":44.78937800,"lon1":-88.56675000,"rwy2":"29","lat2":44.78528100,"lon2":-88.55287500},
+{"len_m":678,"wid_m":18.29,"hdg":164,"surf":"Asphalt","rwy1":"17","lat1":44.79021100,"lon1":-88.56148900,"rwy2":"35","lat2":44.78431900,"lon2":-88.55924700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.4,"desc":"GREEN BAY APP/DEP"}
+]
+,"ils":[
+]
+}

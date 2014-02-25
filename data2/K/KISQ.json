@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KISQ","name":"Schoolcraft Co","lat":45.97448125,"lon":-86.171523,"rwys":2,"ils":0,"elev":685,"index":1532411,"path":"w090n40/w087n45"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":45.97497500,"lon1":-86.18225300,"rwy2":"28","lat2":45.97495000,"lon2":-86.16259200},
+{"len_m":762,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":45.97742800,"lon1":-86.17070000,"rwy2":"36","lat2":45.97057200,"lon2":-86.17054700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

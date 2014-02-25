@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTMB","name":"Kendall Tamiami Executive","lat":25.64859225,"lon":-80.43237300,"rwys":3,"ils":1,"elev":8,"index":1629418,"path":"w090n20/w081n25"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":87,"surf":"Asphalt","rwy1":"09L","lat1":25.65263607,"lon1":-80.44007724,"rwy2":"27R","lat2":25.65327593,"lon2":-80.42491276},
+{"len_m":1832,"wid_m":45.72,"hdg":87,"surf":"Asphalt","rwy1":"09R","lat1":25.64290028,"lon1":-80.44113870,"rwy2":"27L","lat2":25.64367255,"lon2":-80.42290585},
+{"len_m":1219,"wid_m":45.72,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":25.65057081,"lon1":-80.44079277,"rwy2":"31","lat2":25.64389319,"lon2":-80.43113923}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CLD","freq":133,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":134.6,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"MIAMI APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":25.64390000,"lon":-80.41749400,"rng_nm":18,"alt_fmsl":8,"hdg":87.32,"id":"ITMB","rwy":"09R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":25.64227500,"lon":-80.43483300,"rng_nm":10,"alt_fmsl":6,"id":"ITMB","rwy":"09R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":25.64143100,"lon":-80.50475600,"rng_nm":0,"alt_fmsl":8,"id":"----","rwy":"09R","desc":"OM"}
+]
+}

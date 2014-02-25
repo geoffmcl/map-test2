@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHNR","name":"Harlan Muni","lat":41.58426925,"lon":-95.33916525,"rwys":2,"ils":0,"elev":1231,"index":1384674,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":1248,"wid_m":22.86,"hdg":156,"surf":"Asphalt","rwy1":"15","lat1":41.59000000,"lon1":-95.34278100,"rwy2":"33","lat2":41.57970000,"lon2":-95.33676900},
+{"len_m":518,"wid_m":36.58,"hdg":37,"surf":"Turf/grass","rwy1":"03","lat1":41.58183300,"lon1":-95.34044400,"rwy2":"21","lat2":41.58554400,"lon2":-95.33666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+,"ils":[
+]
+}

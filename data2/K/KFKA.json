@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFKA","name":"Fillmore Co","lat":43.6766305,"lon":-92.179886,"rwys":1,"ils":0,"elev":1276,"index":1433963,"path":"w100n40/w093n43"
+,"runways":[
+{"len_m":1222,"wid_m":22.86,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":43.67829700,"lon1":-92.18710800,"rwy2":"29","lat2":43.67496400,"lon2":-92.17266400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":119.8,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+]
+}

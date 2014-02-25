@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIDA","name":"Kida","lat":43.51535273,"lon":-112.06766686,"rwys":2,"ils":1,"elev":4744,"index":1106275,"path":"w120n40/w113n43"
+,"runways":[
+{"len_m":1234,"wid_m":45.72,"hdg":1,"surf":"Asphalt","rwy1":"17","lat1":43.51148934,"lon1":-112.06210285,"rwy2":"35","lat2":43.52259284,"lon2":-112.06159267},
+{"len_m":2743,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"2","lat1":43.50251563,"lon1":-112.08521334,"rwy2":"20","lat2":43.52196713,"lon2":-112.06432106}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.32,"desc":"ASOS"},
+{"type":"ATIS","freq":135.32,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":43.50018900,"lon":-112.08770800,"rng_nm":18,"alt_fmsl":4731,"hdg":217.90,"id":"IIDA","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":43.52053900,"lon":-112.06728600,"rng_nm":10,"alt_fmsl":4734,"id":"IIDA","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.59784700,"lon":-111.98067500,"rng_nm":0,"alt_fmsl":4794,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.52969400,"lon":-112.05600000,"rng_nm":0,"alt_fmsl":4744,"id":"----","rwy":"20","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":43.49968300,"lon":-112.08691700,"rng_nm":18,"alt_fmsl":4742,"id":"IIDA","rwy":"20","desc":"DME-ILS"}
+]
+}

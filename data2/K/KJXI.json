@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJXI","name":"Fox Stephens Fld Gilmer Muni","lat":32.6980305,"lon":-94.948847,"rwys":1,"ils":0,"elev":415,"index":1400488,"path":"w100n30/w095n32"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":32.70352800,"lon1":-94.94881900,"rwy2":"36","lat2":32.69253300,"lon2":-94.94887500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.2,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":118.25,"desc":"LONGVIEW APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSBA","name":"Santa Barbara Mun","lat":34.43023100,"lon":-119.84567300,"rwys":3,"ils":1,"elev":13,"index":991000,"path":"w120n30/w120n34"
+,"runways":[
+{"len_m":1846,"wid_m":46.02,"hdg":88,"surf":"Asphalt","rwy1":"07","lat1":34.42749800,"lon1":-119.85376500,"rwy2":"25","lat2":34.42791800,"lon2":-119.83368100},
+{"len_m":1272,"wid_m":29.87,"hdg":165,"surf":"Asphalt","rwy1":"15R","lat1":34.43051800,"lon1":-119.84152000,"rwy2":"33L","lat2":34.41940200,"lon2":-119.83808800},
+{"len_m":1271,"wid_m":22.86,"hdg":165,"surf":"Asphalt","rwy1":"15L","lat1":34.43076700,"lon1":-119.84035900,"rwy2":"33R","lat2":34.41966100,"lon2":-119.83693100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":-119,"surf":"Concrete","lat1":34.43132300,"lon1":-119.83498700},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":-119,"surf":"Concrete","lat1":34.43153100,"lon1":-119.83499300}
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"KSBA ATIS"},
+{"type":"CTAF","freq":119.7,"desc":"SANTA BARBARA CTAF"},
+{"type":"CLD","freq":132.9,"desc":"SANTA BARBARA CLD"},
+{"type":"GND","freq":121.7,"desc":"SANTA BARBARA GND"},
+{"type":"TWR","freq":119.7,"desc":"SANTA BARBARA TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":34.42801100,"lon":-119.82989200,"rng_nm":18,"alt_fmsl":16,"hdg":88.51,"id":"ISBA","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":34.42855072,"lon":-119.85115051,"rng_nm":10,"alt_fmsl":13,"id":"ISBA","rwy":"07","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.42735600,"lon":-119.85988900,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"07","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":34.42729700,"lon":-119.83026400,"rng_nm":18,"alt_fmsl":29,"id":"ISBA","rwy":"07","desc":"DME-ILS"}
+]
+}

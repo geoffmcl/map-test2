@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPKB","name":"Mid Ohio Valley Rgnl","lat":39.344629,"lon":-81.4393,"rwys":2,"ils":1,"elev":858,"index":1613906,"path":"w090n30/w082n39"
+,"runways":[
+{"len_m":2066,"wid_m":45.72,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":39.33783900,"lon1":-81.44341400,"rwy2":"21","lat2":39.35509700,"lon2":-81.43443100},
+{"len_m":1219,"wid_m":45.72,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":39.34326900,"lon1":-81.44672200,"rwy2":"28","lat2":39.34231100,"lon2":-81.43263300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.35,"desc":"ATIS"},
+{"type":"CTAF","freq":123.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":123.7,"desc":"PARKERSBURG TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":39.35275800,"lon":-81.43680600,"rng_nm":18,"alt_fmsl":858,"hdg":20.22,"id":"IPKB","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":39.34016100,"lon":-81.44336100,"rng_nm":10,"alt_fmsl":809,"id":"IPKB","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.25406900,"lon":-81.48495000,"rng_nm":0,"alt_fmsl":797,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.32593600,"lon":-81.44939700,"rng_nm":0,"alt_fmsl":858,"id":"----","rwy":"03","desc":"MM"}
+]
+}

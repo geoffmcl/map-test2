@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSVC","name":"Grant Co","lat":32.636864,"lon":-108.15655425,"rwys":4,"ils":1,"elev":5446,"index":1171115,"path":"w110n30/w109n32"
+,"runways":[
+{"len_m":2072,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":32.63242500,"lon1":-108.16526400,"rwy2":"26","lat2":32.63235600,"lon2":-108.14317800},
+{"len_m":1667,"wid_m":22.86,"hdg":180,"surf":"Dirt","rwy1":"17","lat1":32.64785600,"lon1":-108.15843900,"rwy2":"35","lat2":32.63281700,"lon2":-108.15857800},
+{"len_m":1424,"wid_m":22.86,"hdg":134,"surf":"Dirt","rwy1":"12","lat1":32.64194400,"lon1":-108.16067800,"rwy2":"30","lat2":32.63286700,"lon2":-108.14993300},
+{"len_m":1382,"wid_m":24.38,"hdg":45,"surf":"Dirt","rwy1":"03","lat1":32.63293600,"lon1":-108.16341700,"rwy2":"21","lat2":32.64171100,"lon2":-108.15294700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.7,"lat":32.63242800,"lon":-108.16643100,"rng_nm":18,"alt_fmsl":5383,"id":"ISVC","rwy":"26","desc":"LOC"},
+{"type":"OM","freq":0,"lat":32.63205800,"lon":-108.06333300,"rng_nm":0,"alt_fmsl":5350,"id":"----","rwy":"26","desc":"OM"}
+]
+}

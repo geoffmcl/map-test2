@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMMU","name":"Morristown Municipal Airport","lat":40.79802670,"lon":-74.42641543,"rwys":2,"ils":1,"elev":187,"index":1728690,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1832,"wid_m":43.89,"hdg":36,"surf":"Asphalt","rwy1":"05","lat1":40.79312198,"lon1":-74.41935644,"rwy2":"23","lat2":40.80640568,"lon2":-74.40646831},
+{"len_m":1201,"wid_m":49.07,"hdg":114,"surf":"Asphalt","rwy1":"13","lat1":40.80094519,"lon1":-74.42451019,"rwy2":"31","lat2":40.79647667,"lon2":-74.41154000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.25,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127.6,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":119.2,"desc":"NEW YORK DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":40.79232500,"lon":-74.41998900,"rng_nm":18,"alt_fmsl":187,"hdg":216.01,"id":"IMMU","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":40.80364700,"lon":-74.40791400,"rng_nm":10,"alt_fmsl":184,"id":"IMMU","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.87987700,"lon":-74.33431600,"rng_nm":0,"alt_fmsl":187,"id":"----","rwy":"23","desc":"OM"}
+]
+}

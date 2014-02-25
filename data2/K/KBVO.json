@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBVO","name":"Bartlesville Muni","lat":36.75858300,"lon":-96.00818600,"rwys":1,"ils":1,"elev":713,"index":1367987,"path":"w100n30/w097n36"
+,"runways":[
+{"len_m":1890,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"17","lat1":36.77098100,"lon1":-96.01136100,"rwy2":"35","lat2":36.75395000,"lon2":-96.01093100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.67,"desc":"ASOS"},
+{"type":"CTAF","freq":120,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":36.75295600,"lon":-96.01091700,"rng_nm":18,"alt_fmsl":713,"id":"IBVO","rwy":"17","desc":"LOC"},
+{"type":"OM","freq":0,"lat":36.83949700,"lon":-96.01398300,"rng_nm":0,"alt_fmsl":713,"id":"----","rwy":"17","desc":"OM"}
+]
+}

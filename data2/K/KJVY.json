@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJVY","name":"Clark Rgnl","lat":38.36416600,"lon":-85.74158500,"rwys":2,"ils":1,"elev":474,"index":1548305,"path":"w090n30/w086n38"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":38.37202200,"lon1":-85.73788300,"rwy2":"36","lat2":38.35691900,"lon2":-85.73787800},
+{"len_m":1188,"wid_m":22.86,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":38.37075300,"lon1":-85.74316900,"rwy2":"32","lat2":38.36279700,"lon2":-85.73406700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.05,"desc":"LOUISVILLE CLNC DEL"},
+{"type":"APP","freq":123.67,"desc":"LOUISVILLE APP/DEP"},
+{"type":"APP","freq":132.07,"desc":"LOUISVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":38.35554200,"lon":-85.73787500,"rng_nm":18,"alt_fmsl":459,"hdg":179.98,"id":"IJVY","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":38.36927800,"lon":-85.73666100,"rng_nm":10,"alt_fmsl":462,"id":"IJVY","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.47395300,"lon":-85.73721400,"rng_nm":0,"alt_fmsl":474,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.37915600,"lon":-85.73788900,"rng_nm":0,"alt_fmsl":474,"id":"----","rwy":"18","desc":"MM"}
+]
+}

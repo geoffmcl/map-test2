@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHKS","name":"Hawkins Fld","lat":32.33437025,"lon":-90.222089,"rwys":2,"ils":1,"elev":342,"index":1466003,"path":"w100n30/w091n32"
+,"runways":[
+{"len_m":1641,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":32.34288900,"lon1":-90.22672800,"rwy2":"34","lat2":32.32909200,"lon2":-90.22040300},
+{"len_m":1470,"wid_m":45.72,"hdg":114,"surf":"Concrete","rwy1":"11","lat1":32.33550300,"lon1":-90.22771400,"rwy2":"29","lat2":32.32999700,"lon2":-90.21351100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":119.65,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"JACKSON CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"JACKSON APP/DEP"},
+{"type":"APP","freq":125.25,"desc":"JACKSON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":32.32757200,"lon":-90.21971100,"rng_nm":18,"alt_fmsl":342,"hdg":158.84,"id":"IJHF","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":32.33956900,"lon":-90.22607200,"rng_nm":10,"alt_fmsl":334,"id":"IJHF","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.41337200,"lon":-90.25997800,"rng_nm":0,"alt_fmsl":314,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.34961400,"lon":-90.22981700,"rng_nm":0,"alt_fmsl":342,"id":"----","rwy":"16","desc":"MM"}
+]
+}

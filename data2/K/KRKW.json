@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRKW","name":"Rockwood Muni","lat":35.9222665,"lon":-84.6897335,"rwys":1,"ils":0,"elev":1664,"index":1564537,"path":"w090n30/w085n35"
+,"runways":[
+{"len_m":1522,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":35.91696100,"lon1":-84.69508100,"rwy2":"22","lat2":35.92757200,"lon2":-84.68438600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

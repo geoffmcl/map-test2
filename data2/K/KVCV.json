@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVCV","name":"Southern California Logistics","lat":34.58751216,"lon":-117.37491353,"rwys":2,"ils":1,"elev":2885,"index":1023778,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":4586,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.62165000,"lon1":-117.38678300,"rwy2":"35","lat2":34.58030300,"lon2":-117.38636400},
+{"len_m":2784,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":34.58270600,"lon1":-117.38775000,"rwy2":"21","lat2":34.60060000,"lon2":-117.36646100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":124.45,"desc":"GND"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"APP","freq":124.55,"desc":"JOSHUA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":34.57741100,"lon":-117.38633600,"rng_nm":18,"alt_fmsl":2885,"hdg":179.52,"id":"IVCV","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":34.61881500,"lon":-117.38841600,"rng_nm":10,"alt_fmsl":2831,"id":"IVCV","rwy":"17","desc":"GS","gs":3}
+]
+}

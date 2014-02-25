@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDKX","name":"Knoxville Downtown Island","lat":35.96219598,"lon":-83.87408523,"rwys":1,"ils":1,"elev":833,"index":1580920,"path":"w090n30/w084n35"
+,"runways":[
+{"len_m":1065,"wid_m":22.86,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":35.96259171,"lon1":-83.87937555,"rwy2":"26","lat2":35.96505829,"lon2":-83.86795445}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":-83,"surf":"Asphalt","lat1":35.96272544,"lon1":-83.87296977},
+{"rwy1":"H2","len_m":6,"wid_m":6.10,"hdg":-83,"surf":"Asphalt","lat1":35.96204237,"lon1":-83.87572202},
+{"rwy1":"H3","len_m":6,"wid_m":6.10,"hdg":-83,"surf":"Asphalt","lat1":35.96207002,"lon1":-83.87560314},
+{"rwy1":"H4","len_m":6,"wid_m":6.10,"hdg":-83,"surf":"Asphalt","lat1":35.96209491,"lon1":-83.87549109}
+]
+,"radios":[
+{"type":"ATIS","freq":125.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.9,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":35.96223813,"lon":-83.88101295,"rng_nm":18,"alt_fmsl":833,"id":"IDKX","rwy":"26","desc":"LOC"},
+{"type":"OM","freq":0,"lat":35.98697192,"lon":-83.76648522,"rng_nm":0,"alt_fmsl":833,"id":"----","rwy":"26","desc":"OM"}
+]
+}

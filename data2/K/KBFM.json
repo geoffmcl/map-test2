@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBFM","name":"Mobile Downtown","lat":30.6272075,"lon":-88.06788575,"rwys":2,"ils":1,"elev":26,"index":1498667,"path":"w090n30/w089n30"
+,"runways":[
+{"len_m":2931,"wid_m":45.72,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":30.63308300,"lon1":-88.07994200,"rwy2":"32","lat2":30.61320300,"lon2":-88.05978100},
+{"len_m":2377,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.64199400,"lon1":-88.06591700,"rwy2":"36","lat2":30.62055000,"lon2":-88.06590300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.57,"desc":"ATIS"},
+{"type":"CTAF","freq":118.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"DOWNTOWN TWR"},
+{"type":"APP","freq":118.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":30.63547200,"lon":-88.08236400,"rng_nm":18,"alt_fmsl":26,"hdg":318.89,"id":"IRUJ","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":30.61454400,"lon":-88.06283300,"rng_nm":10,"alt_fmsl":21,"id":"IRUJ","rwy":"32","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":30.60781100,"lon":-88.05431100,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":108.5,"lat":30.63545600,"lon":-88.08234400,"rng_nm":18,"alt_fmsl":26,"id":"IRUJ","rwy":"32","desc":"DME-ILS"}
+]
+}

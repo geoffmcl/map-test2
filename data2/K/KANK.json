@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KANK","name":"Harriet Alexander Fld","lat":38.5382845,"lon":-106.048628,"rwys":1,"ils":0,"elev":7523,"index":1204259,"path":"w110n30/w107n38"
+,"runways":[
+{"len_m":2238,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":38.53494400,"lon1":-106.06074200,"rwy2":"24","lat2":38.54162500,"lon2":-106.03651400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.85,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

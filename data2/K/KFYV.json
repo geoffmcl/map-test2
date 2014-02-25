@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFYV","name":"Drake Fld","lat":36.0050945,"lon":-94.170057,"rwys":1,"ils":1,"elev":1251,"index":1400707,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1830,"wid_m":30.48,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":36.01318900,"lon1":-94.17200300,"rwy2":"34","lat2":35.99700000,"lon2":-94.16811100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.1,"desc":"ATIS"},
+{"type":"CTAF","freq":128,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":35.99376900,"lon":-94.16733900,"rng_nm":18,"alt_fmsl":1232,"id":"IFYV","rwy":"16","desc":"LOC"},
+{"type":"OM","freq":0,"lat":36.06049700,"lon":-94.18298300,"rng_nm":0,"alt_fmsl":1251,"id":"----","rwy":"16","desc":"OM"},
+{"type":"DME","freq":111.9,"lat":35.99350000,"lon":-94.16816400,"rng_nm":18,"alt_fmsl":1258,"id":"IFYV","rwy":"16","desc":"DME-ILS"}
+]
+}

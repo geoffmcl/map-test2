@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBZN","name":"Gallatin Fld","lat":45.77554300,"lon":-111.15667000,"rwys":3,"ils":1,"elev":4471,"index":1122803,"path":"w120n40/w112n45"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":45.78809200,"lon1":-111.16649400,"rwy2":"30","lat2":45.77040800,"lon2":-111.14188300},
+{"len_m":974,"wid_m":24.38,"hdg":135,"surf":"Turf/grass","rwy1":"11","lat1":45.78110800,"lon1":-111.15295000,"rwy2":"29","lat2":45.77483300,"lon2":-111.14419700},
+{"len_m":807,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":45.76885800,"lon1":-111.15258600,"rwy2":"21","lat2":45.77392800,"lon2":-111.14514700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"BOZEMAN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.76687200,"lon":-111.13696900,"rng_nm":18,"alt_fmsl":4421,"hdg":135.87,"id":"IBZN","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.78706700,"lon":-111.16288100,"rng_nm":10,"alt_fmsl":4427,"id":"IBZN","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.87181700,"lon":-111.28573600,"rng_nm":0,"alt_fmsl":4471,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.79426400,"lon":-111.17509200,"rng_nm":0,"alt_fmsl":4471,"id":"----","rwy":"12","desc":"MM"}
+]
+}

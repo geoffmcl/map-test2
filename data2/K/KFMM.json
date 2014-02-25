@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFMM","name":"Fort Morgan Muni","lat":40.3337426666667,"lon":-103.8039965,"rwys":3,"ils":0,"elev":4569,"index":1253520,"path":"w110n40/w104n40"
+,"runways":[
+{"len_m":1590,"wid_m":18.29,"hdg":151,"surf":"Concrete","rwy1":"14","lat1":40.34101900,"lon1":-103.81020800,"rwy2":"32","lat2":40.32841700,"lon2":-103.80130800},
+{"len_m":1158,"wid_m":9.14,"hdg":181,"surf":"Dirt","rwy1":"17","lat1":40.33893100,"lon1":-103.80078300,"rwy2":"35","lat2":40.32850000,"lon2":-103.80106400},
+{"len_m":752,"wid_m":30.48,"hdg":89,"surf":"Dirt","rwy1":"08","lat1":40.33278600,"lon1":-103.80973300,"rwy2":"26","lat2":40.33280300,"lon2":-103.80088300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.95,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

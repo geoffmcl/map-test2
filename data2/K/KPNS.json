@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPNS","name":"Pensacola Rgnl","lat":30.47452700,"lon":-87.18816400,"rwys":2,"ils":2,"elev":121,"index":1515035,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":2134,"wid_m":45.72,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":30.48290800,"lon1":-87.19065800,"rwy2":"35","lat2":30.46414700,"lon2":-87.18565300},
+{"len_m":2133,"wid_m":45.72,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":30.47133300,"lon1":-87.19593900,"rwy2":"26","lat2":30.47531400,"lon2":-87.17419700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.72,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP/DEP"},
+{"type":"APP","freq":119,"desc":"APP/DEP"},
+{"type":"APP","freq":120.05,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":30.45883600,"lon":-87.18423600,"rng_nm":18,"alt_fmsl":94,"hdg":167.05,"id":"IPNS","rwy":"17","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.95,"lat":30.47075800,"lon":-87.19907200,"rng_nm":18,"alt_fmsl":87,"id":"IPHC","rwy":"26","desc":"LOC"},
+{"type":"GS","freq":111.1,"lat":30.48047200,"lon":-87.18870300,"rng_nm":10,"alt_fmsl":119,"id":"IPNS","rwy":"17","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":30.49169200,"lon":-87.19300000,"rng_nm":0,"alt_fmsl":121,"id":"----","rwy":"17","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":30.45861100,"lon":-87.18510000,"rng_nm":18,"alt_fmsl":108,"id":"IPNS","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":110.95,"lat":30.47149200,"lon":-87.19928300,"rng_nm":18,"alt_fmsl":82,"id":"IPHC","rwy":"26","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSGR","name":"Sugar Land Rgnl","lat":29.62497213,"lon":-95.65887204,"rwys":1,"ils":1,"elev":82,"index":1383905,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":2438,"wid_m":29.87,"hdg":175,"surf":"Concrete","rwy1":"17","lat1":29.63321100,"lon1":-95.65756900,"rwy2":"35","lat2":29.61128600,"lon2":-95.65550000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.4,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"HOUSTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":29.63425300,"lon":-95.65766700,"rng_nm":18,"alt_fmsl":81,"hdg":355.31,"id":"ITXH","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":29.61950000,"lon":-95.65753300,"rng_nm":10,"alt_fmsl":76,"id":"ITXH","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":29.63430600,"lon":-95.65688100,"rng_nm":18,"alt_fmsl":82,"id":"ITXH","rwy":"35","desc":"DME-ILS"}
+]
+}

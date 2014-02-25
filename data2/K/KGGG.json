@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGGG","name":"East Texas Rgnl","lat":32.37993510,"lon":-94.71249031,"rwys":2,"ils":1,"elev":365,"index":1400473,"path":"w100n30/w095n32"
+,"runways":[
+{"len_m":3047,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":32.39254400,"lon1":-94.72012200,"rwy2":"31","lat2":32.37352800,"lon2":-94.69673900},
+{"len_m":1861,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":32.39400800,"lon1":-94.71669700,"rwy2":"36","lat2":32.37722200,"lon2":-94.71628100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"LONGVIEW APP/DEP"},
+{"type":"APP","freq":124.67,"desc":"LONGVIEW APP/DEP"},
+{"type":"APP","freq":128.75,"desc":"LONGVIEW APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":32.37158100,"lon":-94.69434700,"rng_nm":18,"alt_fmsl":347,"hdg":133.93,"id":"IGGG","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":32.39158100,"lon":-94.71744200,"rng_nm":10,"alt_fmsl":357,"id":"IGGG","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.45557200,"lon":-94.79758900,"rng_nm":0,"alt_fmsl":365,"id":"----","rwy":"13","desc":"OM"}
+]
+}

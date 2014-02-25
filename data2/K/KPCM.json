@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPCM","name":"Plant City Muni","lat":28.00136400,"lon":-82.16379500,"rwys":1,"ils":0,"elev":154,"index":1596803,"path":"w090n20/w083n28"
+,"runways":[
+{"len_m":1203,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":28.00055600,"lon1":-82.16941400,"rwy2":"28","lat2":27.99975600,"lon2":-82.15720800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"},
+{"type":"APP","freq":119.9,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+]
+}

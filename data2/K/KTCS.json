@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTCS","name":"Truth Or Consequences Muni","lat":33.2353658,"lon":-107.2696198,"rwys":5,"ils":0,"elev":4853,"index":1187530,"path":"w110n30/w108n33"
+,"runways":[
+{"len_m":2194,"wid_m":22.86,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":33.24321700,"lon1":-107.27705600,"rwy2":"31","lat2":33.22709700,"lon2":-107.26340000},
+{"len_m":2166,"wid_m":45.72,"hdg":125,"surf":"Gravel","rwy1":"11","lat1":33.24388900,"lon1":-107.28305600,"rwy2":"29","lat2":33.23250000,"lon2":-107.26416700},
+{"len_m":1006,"wid_m":39.62,"hdg":21,"surf":"Gravel","rwy1":"01","lat1":33.23007200,"lon1":-107.27031100,"rwy2":"19","lat2":33.23851700,"lon2":-107.26636900},
+{"len_m":893,"wid_m":39.62,"hdg":80,"surf":"Gravel","rwy1":"07","lat1":33.23368300,"lon1":-107.27420000,"rwy2":"25","lat2":33.23507200,"lon2":-107.26475600},
+{"len_m":883,"wid_m":42.67,"hdg":166,"surf":"Gravel","rwy1":"15","lat1":33.23868300,"lon1":-107.26753300,"rwy2":"33","lat2":33.23092800,"lon2":-107.26535000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

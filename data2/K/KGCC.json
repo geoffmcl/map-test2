@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGCC","name":"Gillette Campbell Co","lat":44.34838179,"lon":-105.53697440,"rwys":2,"ils":1,"elev":4365,"index":1221009,"path":"w110n40/w106n44"
+,"runways":[
+{"len_m":2289,"wid_m":46.02,"hdg":169,"surf":"Concrete","rwy1":"16","lat1":44.35704850,"lon1":-105.54389856,"rwy2":"34","lat2":44.33677400,"lon2":-105.53875200},
+{"len_m":1768,"wid_m":22.86,"hdg":38,"surf":"Concrete","rwy1":"03","lat1":44.34524427,"lon1":-105.54368611,"rwy2":"21","lat2":44.35773773,"lon2":-105.52993716}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":44.35974200,"lon":-105.54459200,"rng_nm":18,"alt_fmsl":4337,"hdg":349.69,"id":"ILLT","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":44.33966700,"lon":-105.54096700,"rng_nm":10,"alt_fmsl":4352,"id":"ILLT","rwy":"34","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":44.27089400,"lon":-105.52222500,"rng_nm":0,"alt_fmsl":4667,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.32977200,"lon":-105.53697800,"rng_nm":0,"alt_fmsl":4365,"id":"----","rwy":"34","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":44.35985000,"lon":-105.54358600,"rng_nm":18,"alt_fmsl":4341,"id":"ILLT","rwy":"34","desc":"DME-ILS"}
+]
+}

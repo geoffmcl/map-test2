@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMSN","name":"Dane Co Rgnl Truax Fld","lat":43.13903716,"lon":-89.34637086,"rwys":3,"ils":3,"elev":887,"index":1483082,"path":"w090n40/w090n43"
+,"runways":[
+{"len_m":2744,"wid_m":46.02,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":43.14913663,"lon1":-89.34102794,"rwy2":"36","lat2":43.12444737,"lon2":-89.34216806},
+{"len_m":2194,"wid_m":46.02,"hdg":28,"surf":"Concrete","rwy1":"03","lat1":43.13323333,"lon1":-89.34177556,"rwy2":"21","lat2":43.15051867,"lon2":-89.32871444},
+{"len_m":1781,"wid_m":46.02,"hdg":136,"surf":"Concrete","rwy1":"14","lat1":43.14790579,"lon1":-89.34156804,"rwy2":"32","lat2":43.13628621,"lon2":-89.32647196}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":119.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.62,"desc":"MADISON CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"MADISON GND"},
+{"type":"TWR","freq":119.3,"desc":"MADISON TWR"},
+{"type":"APP","freq":120.1,"desc":"MADISON APP"},
+{"type":"APP","freq":135.45,"desc":"MADISON APP"},
+{"type":"DEP","freq":126.85,"desc":"MADISON DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.12186400,"lon":-89.34228600,"rng_nm":18,"alt_fmsl":862,"hdg":181.93,"id":"IDSZ","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.55,"lat":43.13685800,"lon":-89.34042800,"rng_nm":18,"alt_fmsl":855,"hdg":211.33,"id":"DQJ","rwy":"21","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":43.15215800,"lon":-89.34088900,"rng_nm":18,"alt_fmsl":862,"hdg":1.93,"id":"IMSN","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":43.14507500,"lon":-89.34271400,"rng_nm":10,"alt_fmsl":859,"id":"IDSZ","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":111.55,"lat":43.14723900,"lon":-89.32990600,"rng_nm":10,"alt_fmsl":870,"id":"DQJ","rwy":"21","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":43.13028300,"lon":-89.34339400,"rng_nm":10,"alt_fmsl":862,"id":"IMSN","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.06266700,"lon":-89.34589700,"rng_nm":0,"alt_fmsl":887,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.11935600,"lon":-89.34245000,"rng_nm":0,"alt_fmsl":887,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":111.55,"lat":43.13673900,"lon":-89.34051900,"rng_nm":18,"alt_fmsl":855,"id":"DQJ","rwy":"21","desc":"DME-ILS"}
+]
+}

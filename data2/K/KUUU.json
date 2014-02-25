@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUUU","name":"Newport State","lat":41.53179281,"lon":-71.28307363,"rwys":2,"ils":0,"elev":171,"index":1777890,"path":"w080n40/w072n41"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":23,"surf":"Asphalt","rwy1":"04","lat1":41.52758410,"lon1":-71.28305622,"rwy2":"22","lat2":41.53511210,"lon2":-71.27863122},
+{"len_m":799,"wid_m":22.86,"hdg":143,"surf":"Asphalt","rwy1":"16","lat1":41.53658300,"lon1":-71.28519400,"rwy2":"34","lat2":41.53079200,"lon2":-71.27949400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":127.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":128.7,"desc":"PROVIDENCE APP/DEP"}
+]
+,"ils":[
+]
+}

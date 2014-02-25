@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBRO","name":"Brownsville South Padre Island Intl","lat":25.90486663,"lon":-97.43106230,"rwys":3,"ils":1,"elev":21,"index":1350906,"path":"w100n20/w098n25"
+,"runways":[
+{"len_m":2255,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13R","lat1":25.91282500,"lon1":-97.43130800,"rwy2":"31L","lat2":25.89832800,"lon2":-97.41550000},
+{"len_m":1828,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":25.91507500,"lon1":-97.42885000,"rwy2":"35","lat2":25.89857800,"lon2":-97.42953300},
+{"len_m":914,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13L","lat1":25.91289200,"lon1":-97.42838900,"rwy2":"31R","lat2":25.90701400,"lon2":-97.42197800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.55,"desc":"ATIS"},
+{"type":"CTAF","freq":118.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"VALLEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":25.89636700,"lon":-97.41336400,"rng_nm":18,"alt_fmsl":21,"hdg":135.56,"id":"IBRO","rwy":"13R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":25.91134700,"lon":-97.42755600,"rng_nm":10,"alt_fmsl":15,"id":"IBRO","rwy":"13R","desc":"GS","gs":2.75},
+{"type":"OM","freq":0,"lat":25.98360000,"lon":-97.50907200,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"13R","desc":"OM"},
+{"type":"MM","freq":0,"lat":25.91958100,"lon":-97.43864700,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"13R","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":25.89591400,"lon":-97.41405300,"rng_nm":18,"alt_fmsl":37,"id":"IBRO","rwy":"13R","desc":"DME-ILS"}
+]
+}

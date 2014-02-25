@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPIR","name":"Pierre Rgnl","lat":44.382695,"lon":-100.2859715,"rwys":2,"ils":1,"elev":1742,"index":1302938,"path":"w110n40/w101n44"
+,"runways":[
+{"len_m":2103,"wid_m":30.48,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":44.38488600,"lon1":-100.29381700,"rwy2":"31","lat2":44.37025000,"lon2":-100.27708600},
+{"len_m":2099,"wid_m":45.72,"hdg":77,"surf":"Asphalt","rwy1":"07","lat1":44.38572200,"lon1":-100.29933300,"rwy2":"25","lat2":44.38992200,"lon2":-100.27365000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":44.38910800,"lon":-100.29864700,"rng_nm":18,"alt_fmsl":1746,"hdg":320.74,"id":"IPIR","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":44.37319400,"lon":-100.27847200,"rng_nm":10,"alt_fmsl":1716,"id":"IPIR","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.29930600,"lon":-100.19572200,"rng_nm":0,"alt_fmsl":1742,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.36353900,"lon":-100.26940800,"rng_nm":0,"alt_fmsl":1742,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":44.38887500,"lon":-100.29934700,"rng_nm":18,"alt_fmsl":1764,"id":"IPIR","rwy":"31","desc":"DME-ILS"}
+]
+}

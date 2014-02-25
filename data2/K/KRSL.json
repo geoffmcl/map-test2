@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRSL","name":"Russell Muni","lat":38.87223475,"lon":-98.812578,"rwys":2,"ils":0,"elev":1862,"index":1335344,"path":"w100n30/w099n38"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":173,"surf":"Concrete","rwy1":"17","lat1":38.87758100,"lon1":-98.81175600,"rwy2":"35","lat2":38.86393300,"lon2":-98.80984200},
+{"len_m":488,"wid_m":91.44,"hdg":30,"surf":"Dirt","rwy1":"03","lat1":38.87180800,"lon1":-98.81576400,"rwy2":"21","lat2":38.87561700,"lon2":-98.81295000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

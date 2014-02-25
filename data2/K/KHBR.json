@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHBR","name":"Hobart Muni","lat":34.991299,"lon":-99.0513565,"rwys":3,"ils":0,"elev":1564,"index":1318715,"path":"w100n30/w100n34"
+,"runways":[
+{"len_m":1678,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.99886700,"lon1":-99.05438100,"rwy2":"35","lat2":34.98373600,"lon2":-99.05445600},
+{"len_m":1613,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":34.98281900,"lon1":-99.05611400,"rwy2":"21","lat2":34.99306400,"lon2":-99.04357200},
+{"len_m":1613,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":34.99982200,"lon1":-99.05602200,"rwy2":"30","lat2":34.98948600,"lon2":-99.04359400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.32,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"ALTUS APP"},
+{"type":"DEP","freq":125.1,"desc":"ALTUS DEP"}
+]
+,"ils":[
+]
+}

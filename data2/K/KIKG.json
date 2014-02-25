@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIKG","name":"Kleberg Co","lat":27.5508555,"lon":-98.030925,"rwys":1,"ils":0,"elev":131,"index":1334627,"path":"w100n20/w099n27"
+,"runways":[
+{"len_m":1828,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":27.55717800,"lon1":-98.03687200,"rwy2":"31","lat2":27.54453300,"lon2":-98.02497800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"KINGSVILLE APP"},
+{"type":"DEP","freq":119.9,"desc":"KINGSVILLE DEP"}
+]
+,"ils":[
+]
+}

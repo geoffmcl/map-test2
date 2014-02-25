@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTBR","name":"Statesboro Bulloch Co","lat":32.4837375,"lon":-81.7360555,"rwys":3,"ils":1,"elev":187,"index":1613465,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":32.48559200,"lon1":-81.74346900,"rwy2":"32","lat2":32.47391900,"lon2":-81.72972200},
+{"len_m":1335,"wid_m":30.48,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":32.48291700,"lon1":-81.74281400,"rwy2":"23","lat2":32.49073100,"lon2":-81.73200300},
+{"len_m":1326,"wid_m":45.72,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":32.49060800,"lon1":-81.73440800,"rwy2":"36","lat2":32.47865800,"lon2":-81.73391700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.4,"desc":"SAVANNAH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":32.48637500,"lon":-81.74439200,"rng_nm":18,"alt_fmsl":160,"hdg":315.18,"id":"IBZQ","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":32.47714400,"lon":-81.73214700,"rng_nm":10,"alt_fmsl":160,"id":"IBZQ","rwy":"32","desc":"GS","gs":3}
+]
+}

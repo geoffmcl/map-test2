@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNTD","name":"Point Mugu","lat":34.11725186,"lon":-119.11276615,"rwys":2,"ils":1,"elev":13,"index":990979,"path":"w120n30/w120n34"
+,"runways":[
+{"len_m":3387,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":34.10844442,"lon1":-119.13079689,"rwy2":"21","lat2":34.13036103,"lon2":-119.10522397},
+{"len_m":1681,"wid_m":60.96,"hdg":104,"surf":"Asphalt","rwy1":"09","lat1":34.12094730,"lon1":-119.11982387,"rwy2":"27","lat2":34.11704133,"lon2":-119.10221570}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"point mugu ground"},
+{"type":"TWR","freq":124.85,"desc":"point mugu tower"},
+{"type":"TWR","freq":135.18,"desc":"point mugu tower"},
+{"type":"APP","freq":128.65,"desc":"point mugu approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":34.10608000,"lon":-119.13720000,"rng_nm":18,"alt_fmsl":1,"hdg":227.46,"id":"IRRG","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":34.12815800,"lon":-119.11035600,"rng_nm":10,"alt_fmsl":1,"id":"IRRG","rwy":"21","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.13631000,"lon":-119.10232500,"rng_nm":0,"alt_fmsl":1,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":34.10642800,"lon":-119.13803600,"rng_nm":18,"alt_fmsl":1,"id":"IRRG","rwy":"21","desc":"DME-ILS"}
+]
+}

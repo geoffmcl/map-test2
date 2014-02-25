@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFNL","name":"Fort Collins Loveland Muni","lat":40.452576315,"lon":-105.009980655,"rwys":2,"ils":1,"elev":5016,"index":1220763,"path":"w110n40/w106n40"
+,"runways":[
+{"len_m":2590,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":40.46229710,"lon1":-105.01739585,"rwy2":"33","lat2":40.44031610,"lon2":-105.00716485},
+{"len_m":694,"wid_m":11.89,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":40.45280840,"lon1":-105.01154419,"rwy2":"24","lat2":40.45488367,"lon2":-105.00381774}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.85,"desc":"DENVER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":40.46500600,"lon":-105.01867800,"rng_nm":18,"alt_fmsl":5016,"hdg":340.46,"id":"IFNL","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":40.44262800,"lon":-105.00960800,"rng_nm":10,"alt_fmsl":5012,"id":"IFNL","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.36316400,"lon":-104.97140600,"rng_nm":0,"alt_fmsl":4957,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.43267800,"lon":-105.00364400,"rng_nm":0,"alt_fmsl":5016,"id":"----","rwy":"33","desc":"MM"}
+]
+}

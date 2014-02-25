@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMKT","name":"Mankato Rgnl","lat":44.22150148,"lon":-93.92133335,"rwys":2,"ils":1,"elev":1020,"index":1417608,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1649,"wid_m":29.87,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":44.23016431,"lon1":-93.92279148,"rwy2":"33","lat2":44.21675569,"lon2":-93.91394693},
+{"len_m":1217,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":44.21526981,"lon1":-93.92500788,"rwy2":"22","lat2":44.22273069,"lon2":-93.91384415}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":44.23208600,"lon":-93.92392500,"rng_nm":18,"alt_fmsl":748,"hdg":334.99,"id":"IMKT","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":44.21955300,"lon":-93.91428600,"rng_nm":10,"alt_fmsl":1019,"id":"IMKT","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.15263300,"lon":-93.87134200,"rng_nm":0,"alt_fmsl":1020,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.20964700,"lon":-93.90908600,"rng_nm":0,"alt_fmsl":2910,"id":"----","rwy":"33","desc":"MM"}
+]
+}

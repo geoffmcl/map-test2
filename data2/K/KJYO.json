@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJYO","name":"Leesburg Executive","lat":39.07896800,"lon":-77.55749500,"rwys":1,"ils":1,"elev":389,"index":1679425,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":39.08511900,"lon1":-77.56060600,"rwy2":"35","lat2":39.07081900,"lon2":-77.55439200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"POTOMAC CLNC DEL"},
+{"type":"CLD","freq":135.07,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":126.1,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":39.06952450,"lon":-77.55382877,"rng_nm":18,"alt_fmsl":389,"hdg":161.36,"id":"IJYO","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":39.08225689,"lon":-77.56048095,"rng_nm":10,"alt_fmsl":389,"id":"IJYO","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":111.75,"lat":39.06952450,"lon":-77.55382877,"rng_nm":18,"alt_fmsl":389,"id":"IJYO","rwy":"17","desc":"DME-ILS"}
+]
+}

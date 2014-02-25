@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KULM","name":"New Ulm Muni","lat":44.3196455,"lon":-94.502186,"rwys":2,"ils":0,"elev":1011,"index":1401233,"path":"w100n40/w095n44"
+,"runways":[
+{"len_m":1341,"wid_m":22.86,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":44.32459600,"lon1":-94.50683600,"rwy2":"33","lat2":44.31406400,"lon2":-94.49862500},
+{"len_m":866,"wid_m":48.77,"hdg":50,"surf":"Turf/grass","rwy1":"04","lat1":44.31746100,"lon1":-94.50580800,"rwy2":"22","lat2":44.32246100,"lon2":-94.49747500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRNO","name":"Reno Tahoe Intl","lat":39.49932242,"lon":-119.76297285,"rwys":3,"ils":2,"elev":4415,"index":991320,"path":"w120n30/w120n39"
+,"runways":[
+{"len_m":3352,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16R","lat1":39.51385299,"lon1":-119.76921488,"rwy2":"34L","lat2":39.48365599,"lon2":-119.76929588},
+{"len_m":2742,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"16L","lat1":39.51384799,"lon1":-119.76673488,"rwy2":"34R","lat2":39.48914499,"lon2":-119.76679888},
+{"len_m":1859,"wid_m":46.02,"hdg":90,"surf":"Concrete","rwy1":"07","lat1":39.49629499,"lon1":-119.77883488,"rwy2":"25","lat2":39.49622299,"lon2":-119.75721488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.8,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":124.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":39.48042200,"lon":-119.76930600,"rng_nm":25,"alt_fmsl":4420,"hdg":180.12,"id":"IRNO","rwy":"16R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":39.51666667,"lon":-119.76920100,"rng_nm":25,"alt_fmsl":4410,"hdg":0.12,"id":"IAGY","rwy":"34L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":39.50780600,"lon":-119.76823900,"rng_nm":10,"alt_fmsl":4408,"id":"IRNO","rwy":"16R","desc":"GS","gs":3.1},
+{"type":"GS","freq":109.9,"lat":39.48730000,"lon":-119.76823900,"rng_nm":10,"alt_fmsl":4408,"id":"IAGY","rwy":"34L","desc":"GS","gs":3.54},
+{"type":"OM","freq":0,"lat":39.60763300,"lon":-119.76893900,"rng_nm":0,"alt_fmsl":4415,"id":"----","rwy":"16R","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.51954200,"lon":-119.76920600,"rng_nm":0,"alt_fmsl":4415,"id":"----","rwy":"16R","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":39.48001400,"lon":-119.76826400,"rng_nm":18,"alt_fmsl":4410,"id":"IRNO","rwy":"16R","desc":"DME-ILS"}
+]
+}

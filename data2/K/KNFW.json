@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNFW","name":"Fort Worth Nas Jrb","lat":32.769186,"lon":-97.4415335,"rwys":1,"ils":2,"elev":650,"index":1351346,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":3657,"wid_m":60.96,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":32.78567500,"lon1":-97.44135600,"rwy2":"35","lat2":32.75269700,"lon2":-97.44171100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.4,"desc":"NAVY FORT WORTH GND"},
+{"type":"TWR","freq":120.95,"desc":"NAVY FORT WORTH TWR"},
+{"type":"APP","freq":125.8,"desc":"RGNL APP/DEP"},
+{"type":"APP","freq":128.77,"desc":"NAVY FORT WORTH ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":32.74652200,"lon":-97.44179400,"rng_nm":18,"alt_fmsl":650,"hdg":180.54,"id":"INFW","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":32.78851400,"lon":-97.44130300,"rng_nm":18,"alt_fmsl":650,"hdg":0.55,"id":"IFWH","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":32.78264700,"lon":-97.43974200,"rng_nm":10,"alt_fmsl":650,"id":"INFW","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":32.75605300,"lon":-97.44005600,"rng_nm":10,"alt_fmsl":650,"id":"IFWH","rwy":"35","desc":"GS","gs":3}
+]
+}

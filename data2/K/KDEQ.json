@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDEQ","name":"J Lynn Helms Sevier Co","lat":34.046996,"lon":-94.3993655,"rwys":1,"ils":0,"elev":355,"index":1400578,"path":"w100n30/w095n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":34.04621400,"lon1":-94.40756700,"rwy2":"26","lat2":34.04777800,"lon2":-94.39116400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

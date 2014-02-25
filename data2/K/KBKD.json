@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBKD","name":"Stephens Co","lat":32.7183613333333,"lon":-98.8918305,"rwys":3,"ils":0,"elev":1284,"index":1334952,"path":"w100n30/w099n32"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":32.72459200,"lon1":-98.89098600,"rwy2":"35","lat2":32.71085600,"lon2":-98.89088100},
+{"len_m":731,"wid_m":15.24,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":32.72061400,"lon1":-98.89550000,"rwy2":"31","lat2":32.71598300,"lon2":-98.88994700},
+{"len_m":731,"wid_m":15.24,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":32.71671700,"lon1":-98.89457500,"rwy2":"22","lat2":32.72140600,"lon2":-98.88909400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

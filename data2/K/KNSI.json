@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNSI","name":"San Nicolas Island Nolf","lat":33.2397805,"lon":-119.458197,"rwys":1,"ils":1,"elev":506,"index":990922,"path":"w120n30/w120n33"
+,"runways":[
+{"len_m":3048,"wid_m":60.96,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":33.24908300,"lon1":-119.47023600,"rwy2":"30","lat2":33.23047800,"lon2":-119.44615800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.85,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":33.24918300,"lon":-119.47036700,"rng_nm":18,"alt_fmsl":483,"hdg":312.73,"id":"INSI","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":33.23286100,"lon":-119.44794200,"rng_nm":10,"alt_fmsl":497,"id":"INSI","rwy":"30","desc":"GS","gs":3}
+]
+}

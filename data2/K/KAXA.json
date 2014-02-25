@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAXA","name":"Algona Muni","lat":43.07812625,"lon":-94.2717475,"rwys":2,"ils":0,"elev":1219,"index":1401154,"path":"w100n40/w095n43"
+,"runways":[
+{"len_m":1207,"wid_m":22.86,"hdg":131,"surf":"Concrete","rwy1":"12","lat1":43.08153600,"lon1":-94.27838100,"rwy2":"30","lat2":43.07431700,"lon2":-94.26730300},
+{"len_m":878,"wid_m":48.77,"hdg":187,"surf":"Turf/grass","rwy1":"18","lat1":43.08224400,"lon1":-94.26995000,"rwy2":"36","lat2":43.07440800,"lon2":-94.27135600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

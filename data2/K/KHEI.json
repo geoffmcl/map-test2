@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHEI","name":"Hettinger Muni","lat":46.01524975,"lon":-102.655486,"rwys":2,"ils":0,"elev":2705,"index":1270273,"path":"w110n40/w103n46"
+,"runways":[
+{"len_m":1398,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":46.02000000,"lon1":-102.66138900,"rwy2":"30","lat2":46.01111100,"lon2":-102.64861100},
+{"len_m":576,"wid_m":30.48,"hdg":178,"surf":"Turf/grass","rwy1":"17","lat1":46.01753549,"lon1":-102.65605395,"rwy2":"35","lat2":46.01235251,"lon2":-102.65589005}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

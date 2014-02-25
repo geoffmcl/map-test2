@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KESC","name":"Delta Co","lat":45.722968,"lon":-87.09290625,"rwys":2,"ils":1,"elev":609,"index":1516011,"path":"w090n40/w088n45"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.72082200,"lon1":-87.11195000,"rwy2":"27","lat2":45.72054700,"lon2":-87.08650000},
+{"len_m":1523,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":45.73210600,"lon1":-87.08643600,"rwy2":"36","lat2":45.71839700,"lon2":-87.08673900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.72051100,"lon":-87.08336900,"rng_nm":18,"alt_fmsl":609,"hdg":90.90,"id":"IESC","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.72186700,"lon":-87.10713600,"rng_nm":10,"alt_fmsl":601,"id":"IESC","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.72271900,"lon":-87.22482800,"rng_nm":0,"alt_fmsl":609,"id":"----","rwy":"09","desc":"OM"}
+]
+}

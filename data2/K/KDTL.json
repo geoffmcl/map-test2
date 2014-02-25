@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDTL","name":"Detroit Lakes Wething","lat":46.82539375,"lon":-95.88680425,"rwys":2,"ils":0,"elev":1396,"index":1385008,"path":"w100n40/w096n46"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":46.82957500,"lon1":-95.88963300,"rwy2":"31","lat2":46.82013900,"lon2":-95.87805600},
+{"len_m":573,"wid_m":76.20,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":46.82850800,"lon1":-95.88975600,"rwy2":"35","lat2":46.82335300,"lon2":-95.88977200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

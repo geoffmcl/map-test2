@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNYL","name":"Yuma","lat":32.65802841,"lon":-114.59505953,"rwys":4,"ils":1,"elev":213,"index":1072809,"path":"w120n30/w115n32"
+,"runways":[
+{"len_m":4053,"wid_m":60.96,"hdg":44,"surf":"Concrete","rwy1":"3L","lat1":32.63679200,"lon1":-114.62938100,"rwy2":"21R","lat2":32.66303300,"lon2":-114.59930000},
+{"len_m":2815,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"3R","lat1":32.64874700,"lon1":-114.61251100,"rwy2":"21L","lat2":32.66697200,"lon2":-114.59161100},
+{"len_m":1740,"wid_m":46.02,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":32.66771400,"lon1":-114.60405000,"rwy2":"35","lat2":32.65201900,"lon2":-114.60376900},
+{"len_m":1872,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"8","lat1":32.66590600,"lon1":-114.60563900,"rwy2":"26","lat2":32.66616100,"lon2":-114.58568100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.8,"desc":"atis"},
+{"type":"GND","freq":121.9,"desc":"gnd"},
+{"type":"TWR","freq":119.3,"desc":"twr"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":32.63452000,"lon":-114.63198000,"rng_nm":18,"alt_fmsl":213,"hdg":223.97,"id":"IYUM","rwy":"21R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":32.66182200,"lon":-114.60284000,"rng_nm":10,"alt_fmsl":191,"id":"IYUM","rwy":"21R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.72160300,"lon":-114.53103300,"rng_nm":0,"alt_fmsl":213,"id":"----","rwy":"21R","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.66824200,"lon":-114.59339400,"rng_nm":0,"alt_fmsl":213,"id":"----","rwy":"21R","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNYG","name":"Quantico Mcaf","lat":38.5036,"lon":-77.3050305,"rwys":1,"ils":0,"elev":11,"index":1679394,"path":"w080n30/w078n38"
+,"runways":[
+{"len_m":1304,"wid_m":60.96,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":38.49791700,"lon1":-77.30691900,"rwy2":"20","lat2":38.50928300,"lon2":-77.30314200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":127.05,"desc":"ARRIVAL"},
+{"type":"APP","freq":124.65,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

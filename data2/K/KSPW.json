@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSPW","name":"Spencer Muni","lat":43.16549925,"lon":-95.20278775,"rwys":2,"ils":1,"elev":1339,"index":1384779,"path":"w100n40/w096n43"
+,"runways":[
+{"len_m":1829,"wid_m":30.48,"hdg":126,"surf":"Concrete","rwy1":"12","lat1":43.17072200,"lon1":-95.21216700,"rwy2":"30","lat2":43.16098900,"lon2":-95.19402200},
+{"len_m":1555,"wid_m":22.86,"hdg":185,"surf":"Concrete","rwy1":"18","lat1":43.17211100,"lon1":-95.20155600,"rwy2":"36","lat2":43.15817500,"lon2":-95.20340600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":43.16009700,"lon":-95.19236100,"rng_nm":18,"alt_fmsl":1339,"hdg":126.34,"id":"ISPW","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":43.16833300,"lon":-95.21024200,"rng_nm":10,"alt_fmsl":1339,"id":"ISPW","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.23258300,"lon":-95.32761700,"rng_nm":0,"alt_fmsl":1339,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.17558900,"lon":-95.22122500,"rng_nm":0,"alt_fmsl":1339,"id":"----","rwy":"12","desc":"MM"}
+]
+}

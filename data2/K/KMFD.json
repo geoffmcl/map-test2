@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMFD","name":"Mansfield Lahm Rgnl","lat":40.81563523,"lon":-82.51430781,"rwys":2,"ils":1,"elev":1297,"index":1597617,"path":"w090n40/w083n40"
+,"runways":[
+{"len_m":2743,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":40.83308917,"lon1":-82.52832649,"rwy2":"32","lat2":40.81503883,"lon2":-82.50612951},
+{"len_m":2071,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":40.81154446,"lon1":-82.52480586,"rwy2":"23","lat2":40.82427754,"lon2":-82.50687014}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.01,"hdg":-82,"surf":"Asphalt","lat1":40.81254387,"lon1":-82.51246495}
+]
+,"radios":[
+{"type":"ATIS","freq":125.3,"desc":"ATIS"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP/DEP"},
+{"type":"APP","freq":127.35,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":40.83513600,"lon":-82.53084200,"rng_nm":18,"alt_fmsl":1254,"hdg":317.05,"id":"IMFD","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":40.81756700,"lon":-82.50701100,"rng_nm":10,"alt_fmsl":1291,"id":"IMFD","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.76607200,"lon":-82.44499200,"rng_nm":0,"alt_fmsl":1297,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.80918600,"lon":-82.49919200,"rng_nm":0,"alt_fmsl":1297,"id":"----","rwy":"32","desc":"MM"}
+]
+}

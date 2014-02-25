@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMUT","name":"Muscatine Muni","lat":41.3681875,"lon":-91.14866675,"rwys":2,"ils":0,"elev":547,"index":1450195,"path":"w100n40/w092n41"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":58,"surf":"Concrete","rwy1":"06","lat1":41.36229700,"lon1":-91.15443900,"rwy2":"24","lat2":41.37018300,"lon2":-91.13735600},
+{"len_m":1219,"wid_m":22.86,"hdg":125,"surf":"Concrete","rwy1":"12","lat1":41.37328900,"lon1":-91.15740000,"rwy2":"30","lat2":41.36698100,"lon2":-91.14547200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.25,"desc":"QUAD CITY CLNC DEL"},
+{"type":"APP","freq":118.2,"desc":"QUAD CITY APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTLH","name":"Tallahassee Rgnl","lat":30.38889700,"lon":-84.35119600,"rwys":2,"ils":2,"elev":81,"index":1564186,"path":"w090n30/w085n30"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":30.39131100,"lon1":-84.35654200,"rwy2":"27","lat2":30.39151100,"lon2":-84.33117200},
+{"len_m":1851,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":30.41162200,"lon1":-84.35897500,"rwy2":"36","lat2":30.39491700,"lon2":-84.35880300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.45,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":126.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":128.7,"desc":"APP/DEP"},
+{"type":"APP","freq":133.85,"desc":"APP/DEP"},
+{"type":"APP","freq":135.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":30.39128300,"lon":-84.35975600,"rng_nm":18,"alt_fmsl":82,"hdg":269.46,"id":"IPLQ","rwy":"27","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":30.41437200,"lon":-84.35900300,"rng_nm":18,"alt_fmsl":82,"hdg":359.49,"id":"ITLH","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":30.39038600,"lon":-84.33449200,"rng_nm":10,"alt_fmsl":49,"id":"IPLQ","rwy":"27","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":30.39767500,"lon":-84.36009700,"rng_nm":10,"alt_fmsl":60,"id":"ITLH","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.39142200,"lon":-84.23568300,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"27","desc":"OM"},
+{"type":"OM","freq":0,"lat":30.32619200,"lon":-84.35825600,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.39156400,"lon":-84.32304200,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"27","desc":"MM"},
+{"type":"MM","freq":0,"lat":30.38506900,"lon":-84.35870000,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"36","desc":"MM"},
+{"type":"IM","freq":0,"lat":30.39153600,"lon":-84.32815300,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"27","desc":"IM"}
+]
+}

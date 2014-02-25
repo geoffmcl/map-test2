@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWLD","name":"Strother Fld","lat":37.16820475,"lon":-97.038059,"rwys":2,"ils":0,"elev":1160,"index":1351627,"path":"w100n30/w098n37"
+,"runways":[
+{"len_m":1677,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.17727200,"lon1":-97.03610800,"rwy2":"35","lat2":37.16215300,"lon2":-97.03610600},
+{"len_m":955,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":37.16999700,"lon1":-97.04346900,"rwy2":"31","lat2":37.16339700,"lon2":-97.03655300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

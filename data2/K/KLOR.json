@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:23:58 UTC"
+,"type":17,"icao":"KLOR","name":"[h] Lowe Ahp","lat":31.35170979,"lon":-85.749278545,"rwys":4,"ils":0,"elev":244,"index":1547857,"path":"w090n30/w086n31"
+,"runways":[
+{"len_m":684,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18L","lat1":31.35587585,"lon1":-85.74765300,"rwy2":"36R","lat2":31.34970415,"lon2":-85.74765300},
+{"len_m":684,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":31.35584085,"lon1":-85.74864500,"rwy2":"36L","lat2":31.34966915,"lon2":-85.74864500},
+{"len_m":609,"wid_m":22.86,"hdg":55,"surf":"Asphalt","rwy1":"06L","lat1":31.35249018,"lon1":-85.75197834,"rwy2":"24R","lat2":31.35564382,"lon2":-85.74672966},
+{"len_m":609,"wid_m":22.86,"hdg":55,"surf":"Asphalt","rwy1":"06R","lat1":31.35180657,"lon1":-85.75145764,"rwy2":"24L","lat2":31.35495943,"lon2":-85.74620836}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":609.60,"hdg":-85,"surf":"Asphalt","lat1":31.35017083,"lon1":-85.74993584},
+{"rwy1":"H2","len_m":22,"wid_m":609.60,"hdg":-85,"surf":"Asphalt","lat1":31.35017083,"lon1":-85.74993584},
+{"rwy1":"H3","len_m":22,"wid_m":609.60,"hdg":-85,"surf":"Asphalt","lat1":31.35017083,"lon1":-85.74993584},
+{"rwy1":"H4","len_m":22,"wid_m":609.60,"hdg":-85,"surf":"Asphalt","lat1":31.35017083,"lon1":-85.74993584}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCRW","name":"Charleston Yeager","lat":38.37054100,"lon":-81.59618100,"rwys":2,"ils":1,"elev":981,"index":1613841,"path":"w090n30/w082n38"
+,"runways":[
+{"len_m":1920,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":38.36957800,"lon1":-81.60170000,"rwy2":"23","lat2":38.38135000,"lon2":-81.58558900},
+{"len_m":1448,"wid_m":45.72,"hdg":141,"surf":"Asphalt","rwy1":"15","lat1":38.37517200,"lon1":-81.59775800,"rwy2":"33","lat2":38.36498100,"lon2":-81.58741400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118.55,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"CHARLESTON TWR"},
+{"type":"APP","freq":128.5,"desc":"CHARLESTON APP/DEP"},
+{"type":"APP","freq":119.2,"desc":"CHARLESTON APP/DEP"},
+{"type":"APP","freq":124.1,"desc":"CHARLESTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":38.37901400,"lon":-81.59025000,"rng_nm":18,"alt_fmsl":981,"hdg":43.57,"id":"IHCV","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":38.37126700,"lon":-81.60037500,"rng_nm":18,"alt_fmsl":945,"hdg":228.98,"id":"ICRW","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":38.37215800,"lon":-81.59914700,"rng_nm":10,"alt_fmsl":947,"id":"IHCV","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":38.38008600,"lon":-81.58823100,"rng_nm":10,"alt_fmsl":867,"id":"ICRW","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.31677800,"lon":-81.67523600,"rng_nm":0,"alt_fmsl":981,"id":"----","rwy":"05","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.42989700,"lon":-81.51695800,"rng_nm":0,"alt_fmsl":981,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.38818600,"lon":-81.57629400,"rng_nm":0,"alt_fmsl":981,"id":"----","rwy":"23","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":38.37099700,"lon":-81.60105300,"rng_nm":18,"alt_fmsl":947,"id":"IHCV","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":38.37099200,"lon":-81.60090600,"rng_nm":18,"alt_fmsl":981,"id":"ICRW","rwy":"23","desc":"DME-ILS"}
+]
+}

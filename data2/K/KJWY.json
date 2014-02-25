@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJWY","name":"Waxahachie/mid-way Rgnl","lat":32.45813331,"lon":-96.91222602,"rwys":1,"ils":0,"elev":713,"index":1367704,"path":"w100n30/w097n32"
+,"runways":[
+{"len_m":1977,"wid_m":29.87,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":32.46702629,"lon1":-96.91148926,"rwy2":"36","lat2":32.44924032,"lon2":-96.91296277}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.2,"desc":"REGIONAL APP/DEP"}
+]
+,"ils":[
+]
+}

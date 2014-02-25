@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCQA","name":"Lakefield","lat":40.48496798,"lon":-84.56454763,"rwys":1,"ils":0,"elev":894,"index":1564825,"path":"w090n40/w085n40"
+,"runways":[
+{"len_m":1156,"wid_m":22.86,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":40.48341700,"lon1":-84.56686900,"rwy2":"26","lat2":40.48475000,"lon2":-84.55334200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

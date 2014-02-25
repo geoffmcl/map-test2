@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSTP","name":"St Paul Downtown Holman Fld","lat":44.93333183,"lon":-93.06461493,"rwys":3,"ils":1,"elev":705,"index":1417659,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":2043,"wid_m":46.02,"hdg":146,"surf":"Asphalt","rwy1":"14","lat1":44.94115555,"lon1":-93.06778591,"rwy2":"32","lat2":44.92589700,"lon2":-93.05334291},
+{"len_m":1254,"wid_m":46.02,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":44.93918383,"lon1":-93.06501928,"rwy2":"31","lat2":44.93226700,"lon2":-93.05246700},
+{"len_m":1170,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":44.93487921,"lon1":-93.06811045,"rwy2":"27","lat2":44.93474289,"lon2":-93.05328743}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.35,"desc":"ATIS"},
+{"type":"CTAF","freq":119.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.67,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":121.2,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":44.92521100,"lon":-93.05270000,"rng_nm":18,"alt_fmsl":702,"hdg":146.19,"id":"IVKG","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":44.94190600,"lon":-93.06852200,"rng_nm":18,"alt_fmsl":705,"hdg":326.12,"id":"IBAO","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":44.93786100,"lon":-93.06539200,"rng_nm":10,"alt_fmsl":705,"id":"IVKG","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":44.92958900,"lon":-93.05521100,"rng_nm":10,"alt_fmsl":702,"id":"IBAO","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.85671700,"lon":-92.98446400,"rng_nm":0,"alt_fmsl":705,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.91816100,"lon":-93.04505000,"rng_nm":0,"alt_fmsl":705,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":44.92515300,"lon":-93.05385000,"rng_nm":18,"alt_fmsl":705,"id":"IVKG","rwy":"14","desc":"DME-ILS"},
+{"type":"DME","freq":111.5,"lat":44.94242500,"lon":-93.06777200,"rng_nm":18,"alt_fmsl":705,"id":"IBAO","rwy":"32","desc":"DME-ILS"}
+]
+}

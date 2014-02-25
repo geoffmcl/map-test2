@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEFD","name":"Ellington Fld","lat":29.608067,"lon":-95.1581456666667,"rwys":3,"ils":3,"elev":32,"index":1383907,"path":"w100n20/w096n29"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":178,"surf":"Concrete","rwy1":"17R","lat1":29.61833300,"lon1":-95.16439400,"rwy2":"35L","lat2":29.59358900,"lon2":-95.16381900},
+{"len_m":2438,"wid_m":45.72,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":29.59817500,"lon1":-95.16298900,"rwy2":"22","lat2":29.61403900,"lon2":-95.14554700},
+{"len_m":1404,"wid_m":22.86,"hdg":178,"surf":"Concrete","rwy1":"17L","lat1":29.61846900,"lon1":-95.15620800,"rwy2":"35R","lat2":29.60579700,"lon2":-95.15591700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.57,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126.05,"desc":"TWR"},
+{"type":"APP","freq":134.45,"desc":"HOUSTON APP DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":29.58932800,"lon":-95.16372200,"rng_nm":18,"alt_fmsl":25,"hdg":178.84,"id":"ILPV","rwy":"17R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":29.59474700,"lon":-95.16675600,"rng_nm":18,"alt_fmsl":32,"hdg":223.70,"id":"IFNF","rwy":"22","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":29.62204400,"lon":-95.16448100,"rng_nm":18,"alt_fmsl":32,"hdg":358.84,"id":"IEFD","rwy":"35L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":29.61561700,"lon":-95.16275800,"rng_nm":10,"alt_fmsl":31,"id":"ILPV","rwy":"17R","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":29.61119400,"lon":-95.14693300,"rng_nm":10,"alt_fmsl":30,"id":"IFNF","rwy":"22","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":29.59649200,"lon":-95.16247200,"rng_nm":10,"alt_fmsl":24,"id":"IEFD","rwy":"35L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":29.67442500,"lon":-95.07881900,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":29.58263600,"lon":-95.16354700,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"35L","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBAX","name":"Huron Co Mem","lat":43.7806295,"lon":-82.98550225,"rwys":2,"ils":0,"elev":766,"index":1597808,"path":"w090n40/w083n43"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"17","lat1":43.78502800,"lon1":-82.98755600,"rwy2":"35","lat2":43.77179200,"lon2":-82.98258300},
+{"len_m":1065,"wid_m":22.86,"hdg":28,"surf":"Asphalt","rwy1":"04","lat1":43.77863100,"lon1":-82.98907800,"rwy2":"22","lat2":43.78706700,"lon2":-82.98279200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.97,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

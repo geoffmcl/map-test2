@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMCB","name":"Mc Comb Pike Co John E Lewis Fld","lat":31.1784345,"lon":-90.4718585,"rwys":1,"ils":1,"elev":413,"index":1465930,"path":"w100n30/w091n31"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":155,"surf":"Asphalt","rwy1":"15","lat1":31.18469400,"lon1":-90.47515600,"rwy2":"33","lat2":31.17217500,"lon2":-90.46856100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":31.16917800,"lon":-90.46698300,"rng_nm":18,"alt_fmsl":413,"hdg":155.74,"id":"IMCB","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":31.18284700,"lon":-90.47324400,"rng_nm":10,"alt_fmsl":411,"id":"IMCB","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.25453600,"lon":-90.51043300,"rng_nm":0,"alt_fmsl":480,"id":"----","rwy":"15","desc":"OM"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOJC","name":"Olathe - Johnson Co Exec","lat":38.84804533,"lon":-94.74112493,"rwys":1,"ils":2,"elev":1096,"index":1400881,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":1248,"wid_m":22.86,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":38.85322200,"lon1":-94.73756700,"rwy2":"36","lat2":38.84197200,"lon2":-94.73760000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.35,"desc":"ATIS"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"EXECUTIVE TWR"},
+{"type":"APP","freq":118.9,"desc":"KANSAS CITY APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.1,"lat":38.84060981,"lon":-94.73760403,"rng_nm":18,"alt_fmsl":1096,"id":"IOJC","rwy":"18","desc":"LOC"},
+{"type":"LOC","freq":108.3,"lat":38.85458419,"lon":-94.73756298,"rng_nm":18,"alt_fmsl":1096,"id":"IPKX","rwy":"36","desc":"LOC"},
+{"type":"OM","freq":0,"lat":38.93488845,"lon":-94.73732723,"rng_nm":0,"alt_fmsl":1096,"id":"----","rwy":"18","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.75363890,"lon":-94.73785930,"rng_nm":0,"alt_fmsl":1096,"id":"----","rwy":"36","desc":"OM"}
+]
+}

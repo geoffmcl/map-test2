@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSQI","name":"Whiteside Co Jos H Bittorf","lat":41.7430535,"lon":-89.67721475,"rwys":2,"ils":1,"elev":647,"index":1482985,"path":"w090n40/w090n41"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":41.73917500,"lon1":-89.68471400,"rwy2":"25","lat2":41.74523300,"lon2":-89.66231400},
+{"len_m":1188,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":41.74925300,"lon1":-89.68090000,"rwy2":"36","lat2":41.73855300,"lon2":-89.68093100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":128,"desc":"ROCKFORD CLNC DEL"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":41.73824200,"lon":-89.68816100,"rng_nm":18,"alt_fmsl":647,"hdg":250.07,"id":"ISQI","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":41.74324400,"lon":-89.66536400,"rng_nm":10,"alt_fmsl":647,"id":"ISQI","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.77620000,"lon":-89.55188100,"rng_nm":0,"alt_fmsl":647,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.74791900,"lon":-89.65235600,"rng_nm":0,"alt_fmsl":647,"id":"----","rwy":"25","desc":"MM"}
+]
+}

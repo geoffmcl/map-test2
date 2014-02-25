@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KARA","name":"Acadiana Rgnl","lat":30.037754,"lon":-91.883893,"rwys":1,"ils":1,"elev":24,"index":1449472,"path":"w100n30/w092n30"
+,"runways":[
+{"len_m":2438,"wid_m":60.96,"hdg":167,"surf":"Concrete","rwy1":"16","lat1":30.04849400,"lon1":-91.88662800,"rwy2":"34","lat2":30.02701400,"lon2":-91.88115800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"LAFAYETTE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":30.05279700,"lon":-91.88772200,"rng_nm":18,"alt_fmsl":26,"hdg":347.57,"id":"IARA","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":30.02936700,"lon":-91.88288900,"rng_nm":10,"alt_fmsl":17,"id":"IARA","rwy":"34","desc":"GS","gs":3}
+]
+}

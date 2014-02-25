@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCLW","name":"Clearwater Air Park","lat":27.976686,"lon":-82.7587415,"rwys":1,"ils":0,"elev":71,"index":1596792,"path":"w090n20/w083n27"
+,"runways":[
+{"len_m":1008,"wid_m":22.86,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":27.98079700,"lon1":-82.76093600,"rwy2":"34","lat2":27.97257500,"lon2":-82.75654700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.3,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+]
+}

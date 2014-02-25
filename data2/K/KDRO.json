@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDRO","name":"Durango La Plata Co","lat":37.15968700,"lon":-107.75027470,"rwys":1,"ils":1,"elev":6685,"index":1187784,"path":"w110n30/w108n37"
+,"runways":[
+{"len_m":2803,"wid_m":45.72,"hdg":37,"surf":"Asphalt","rwy1":"02","lat1":37.14148100,"lon1":-107.76334700,"rwy2":"20","lat2":37.16155300,"lon2":-107.74418900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":37.16330300,"lon":-107.74251700,"rng_nm":18,"alt_fmsl":6689,"hdg":37.27,"id":"IDRO","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":37.14298600,"lon":-107.76039700,"rng_nm":10,"alt_fmsl":6620,"id":"IDRO","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.05558600,"lon":-107.84480600,"rng_nm":0,"alt_fmsl":6685,"id":"----","rwy":"02","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.13444700,"lon":-107.77002800,"rng_nm":0,"alt_fmsl":6685,"id":"----","rwy":"02","desc":"MM"}
+]
+}

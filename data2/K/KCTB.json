@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCTB","name":"Cut Bank Muni","lat":48.60717800,"lon":-112.36404400,"rwys":2,"ils":0,"elev":3854,"index":1106594,"path":"w120n40/w113n48"
+,"runways":[
+{"len_m":1614,"wid_m":22.86,"hdg":152,"surf":"Asphalt","rwy1":"13","lat1":48.61345000,"lon1":-112.38201900,"rwy2":"31","lat2":48.60060600,"lon2":-112.37180000},
+{"len_m":1615,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":48.60648600,"lon1":-112.38521900,"rwy2":"23","lat2":48.61287800,"lon2":-112.36555000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

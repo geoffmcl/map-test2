@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGVW","name":"Richards-gebaur Memorial","lat":38.84402861,"lon":-94.56037223,"rwys":1,"ils":1,"elev":1090,"index":1400881,"path":"w100n30/w095n38"
+,"runways":[
+{"len_m":2649,"wid_m":45.72,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":38.83245107,"lon1":-94.56407844,"rwy2":"19","lat2":38.85560615,"lon2":-94.55666602}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":38.85886700,"lon":-94.55694100,"rng_nm":18,"alt_fmsl":1090,"hdg":11.89,"id":"IIII","rwy":"01","desc":"ILS-cat-I"}
+]
+}

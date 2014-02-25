@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KECP","name":"Northwest Florida International","lat":30.35386734,"lon":-85.79913429,"rwys":1,"ils":1,"elev":69,"index":1547792,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":3048,"wid_m":46.02,"hdg":159,"surf":"Concrete","rwy1":"16","lat1":30.37110500,"lon1":-85.80119450,"rwy2":"34","lat2":30.34537695,"lon2":-85.79001250}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":27.13,"hdg":-85,"surf":"Concrete","lat1":30.34195682,"lon1":-85.79280502}
+]
+,"radios":[
+{"type":"ATIS","freq":119.75,"desc":"ASOS"},
+{"type":"ATIS","freq":119.97,"desc":"ATIS"},
+{"type":"CTAF","freq":118.95,"desc":"CTAF"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.95,"desc":"TWR"},
+{"type":"APP","freq":124.15,"desc":"TYNDALL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":30.34434800,"lon":-85.78957900,"rng_nm":18,"alt_fmsl":68,"hdg":159.40,"id":"IPUK","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":30.36873100,"lon":-85.79929000,"rng_nm":10,"alt_fmsl":68,"id":"IPUK","rwy":"16","desc":"GS","gs":3},
+{"type":"DME","freq":111.15,"lat":30.34434800,"lon":-85.78957900,"rng_nm":18,"alt_fmsl":68,"id":"IPUK","rwy":"16","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDA","name":"Caledonia Co","lat":44.569061,"lon":-72.0184335,"rwys":1,"ils":0,"elev":1187,"index":1761699,"path":"w080n40/w073n44"
+,"runways":[
+{"len_m":1006,"wid_m":18.29,"hdg":8,"surf":"Asphalt","rwy1":"02","lat1":44.56458300,"lon1":-72.01936400,"rwy2":"20","lat2":44.57353900,"lon2":-72.01750300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.7,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+]
+}

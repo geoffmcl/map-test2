@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAVP","name":"Wilkes Barre Scranton Intl","lat":41.33616479,"lon":-75.72866131,"rwys":2,"ils":1,"elev":962,"index":1712337,"path":"w080n40/w076n41"
+,"runways":[
+{"len_m":2286,"wid_m":46.02,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":41.32870001,"lon1":-75.73153005,"rwy2":"22","lat2":41.34602199,"lon2":-75.71677595},
+{"len_m":1310,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":41.34060341,"lon1":-75.72988579,"rwy2":"28","lat2":41.34025259,"lon2":-75.71423421}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP/DEP"},
+{"type":"APP","freq":126.3,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":41.34257800,"lon":-75.71841100,"rng_nm":18,"alt_fmsl":962,"hdg":34.36,"id":"IAVP","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":41.33156100,"lon":-75.73028600,"rng_nm":18,"alt_fmsl":962,"hdg":214.36,"id":"IIZK","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":41.33110000,"lon":-75.72840600,"rng_nm":10,"alt_fmsl":957,"id":"IAVP","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":41.34435800,"lon":-75.71906100,"rng_nm":10,"alt_fmsl":918,"id":"IIZK","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.27685800,"lon":-75.77569400,"rng_nm":0,"alt_fmsl":994,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.42285800,"lon":-75.64743900,"rng_nm":0,"alt_fmsl":962,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.31563600,"lon":-75.74405300,"rng_nm":0,"alt_fmsl":962,"id":"----","rwy":"04","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":41.33183300,"lon":-75.73084400,"rng_nm":18,"alt_fmsl":962,"id":"IAVP","rwy":"04","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":41.33183300,"lon":-75.73084400,"rng_nm":18,"alt_fmsl":962,"id":"IIZK","rwy":"22","desc":"DME-ILS"}
+]
+}

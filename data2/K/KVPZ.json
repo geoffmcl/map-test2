@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVPZ","name":"Porter Co Muni","lat":41.45459175,"lon":-87.0049665,"rwys":2,"ils":1,"elev":771,"index":1515739,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":41.45241100,"lon1":-87.01624400,"rwy2":"27","lat2":41.45252200,"lon2":-86.99071700},
+{"len_m":1221,"wid_m":22.86,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":41.46220600,"lon1":-87.00597200,"rwy2":"36","lat2":41.45122800,"lon2":-87.00693300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.87,"desc":"ASOS"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF"},
+{"type":"CTAF","freq":122.72,"desc":"UNICOM"},
+{"type":"CLD","freq":135.2,"desc":"SOUTH BEND CLNC DEL"},
+{"type":"APP","freq":132.05,"desc":"SOUTH BEND APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":41.45241400,"lon":-87.01827500,"rng_nm":18,"alt_fmsl":771,"hdg":269.69,"id":"IVPZ","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":41.45347800,"lon":-86.99781700,"rng_nm":10,"alt_fmsl":770,"id":"IVPZ","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.45115300,"lon":-86.87752500,"rng_nm":0,"alt_fmsl":740,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.45237200,"lon":-86.98383300,"rng_nm":0,"alt_fmsl":771,"id":"----","rwy":"27","desc":"MM"}
+]
+}

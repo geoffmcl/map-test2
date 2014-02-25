@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPIB","name":"Hattiesburg Laurel Rgnl","lat":31.4671455,"lon":-89.337058,"rwys":1,"ils":1,"elev":297,"index":1482330,"path":"w090n30/w090n31"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":31.47608300,"lon1":-89.33706900,"rwy2":"36","lat2":31.45820800,"lon2":-89.33704700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":31.45120800,"lon":-89.33703300,"rng_nm":18,"alt_fmsl":297,"hdg":179.93,"id":"IPIB","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":31.47290600,"lon":-89.33834700,"rng_nm":10,"alt_fmsl":297,"id":"IPIB","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.55886100,"lon":-89.33797800,"rng_nm":0,"alt_fmsl":297,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.48264200,"lon":-89.33700600,"rng_nm":0,"alt_fmsl":297,"id":"----","rwy":"18","desc":"MM"}
+]
+}

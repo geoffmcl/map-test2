@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDED","name":"Deland Muni Sidney H Taylor Fld","lat":29.06157700,"lon":-81.28127300,"rwys":4,"ils":0,"elev":79,"index":1613250,"path":"w090n20/w082n29"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":29.07240800,"lon1":-81.29262800,"rwy2":"30","lat2":29.06491700,"lon2":-81.27589200},
+{"len_m":1828,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":29.07665100,"lon1":-81.28687000,"rwy2":"36","lat2":29.06015300,"lon2":-81.28687000},
+{"len_m":1311,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":29.06085600,"lon1":-81.28811700,"rwy2":"23","lat2":29.06865800,"lon2":-81.27799700},
+{"len_m":1089,"wid_m":60.96,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":29.06611100,"lon1":-81.29055600,"rwy2":"26","lat2":29.06722200,"lon2":-81.27944400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.35,"desc":"DAYTONA APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRNT","name":"Renton Muni","lat":47.49185184,"lon":-122.21728949,"rwys":1,"ils":0,"elev":32,"index":942683,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1640,"wid_m":60.96,"hdg":174,"surf":"Asphalt","rwy1":"16","lat1":47.50047200,"lon1":-122.21685300,"rwy2":"34","lat2":47.48579400,"lon2":-122.21463300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.95,"desc":"ATIS"},
+{"type":"CTAF","freq":124.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.85,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":128.8,"desc":"unnamed entity"},
+{"type":"TWR","freq":124.7,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":120.4,"desc":"SEATTLE APP/DEP"},
+{"type":"APP","freq":125.9,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+]
+}

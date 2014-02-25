@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEGV","name":"Eagle River Union","lat":45.93246525,"lon":-89.2680965,"rwys":2,"ils":0,"elev":1642,"index":1483258,"path":"w090n40/w090n45"
+,"runways":[
+{"len_m":1524,"wid_m":23.16,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":45.92698300,"lon1":-89.27605300,"rwy2":"22","lat2":45.93661700,"lon2":-89.26206900},
+{"len_m":1036,"wid_m":18.29,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":45.93627500,"lon1":-89.27206400,"rwy2":"31","lat2":45.92998600,"lon2":-89.26220000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

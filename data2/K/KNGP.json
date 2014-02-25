@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNGP","name":"Corpus Christi Nas","lat":27.692657375,"lon":-97.28999925,"rwys":4,"ils":1,"elev":19,"index":1351018,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":2439,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":27.70073600,"lon1":-97.30158900,"rwy2":"31L","lat2":27.68517500,"lon2":-97.28409400},
+{"len_m":1524,"wid_m":60.96,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":27.69921700,"lon1":-97.28846900,"rwy2":"35","lat2":27.68545600,"lon2":-97.28846400},
+{"len_m":1523,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"13L","lat1":27.69528600,"lon1":-97.29218300,"rwy2":"31R","lat2":27.68556900,"lon2":-97.28125800},
+{"len_m":1523,"wid_m":60.96,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":27.69005300,"lon1":-97.29743100,"rwy2":"22","lat2":27.69976700,"lon2":-97.28650600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"GND","freq":118.7,"desc":"NAVY CORPUS GND"},
+{"type":"TWR","freq":134.85,"desc":"NAVY CORPUS TWR"},
+{"type":"APP","freq":125.4,"desc":"APP"},
+{"type":"APP","freq":120.9,"desc":"APP"},
+{"type":"DEP","freq":125.4,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":27.68284700,"lon":-97.28146700,"rng_nm":18,"alt_fmsl":19,"hdg":135.12,"id":"INGP","rwy":"13R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":27.69901100,"lon":-97.30014400,"rng_nm":10,"alt_fmsl":19,"id":"INGP","rwy":"13R","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KILM","name":"Wilmington Intl","lat":34.26592900,"lon":-77.89878600,"rwys":2,"ils":3,"elev":32,"index":1679120,"path":"w080n30/w078n34"
+,"runways":[
+{"len_m":2443,"wid_m":60.96,"hdg":48,"surf":"Concrete","rwy1":"06","lat1":34.26188600,"lon1":-77.91030800,"rwy2":"24","lat2":34.27652200,"lon2":-77.89048100},
+{"len_m":2134,"wid_m":45.72,"hdg":159,"surf":"Asphalt","rwy1":"17","lat1":34.28120000,"lon1":-77.90914400,"rwy2":"35","lat2":34.26320800,"lon2":-77.90092200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.1,"desc":"ATIS"},
+{"type":"CTAF","freq":119.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":121.4,"desc":"APP/DEP"},
+{"type":"APP","freq":118.25,"desc":"APP/DEP"},
+{"type":"APP","freq":135.75,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":34.27965800,"lon":-77.88622500,"rng_nm":18,"alt_fmsl":32,"hdg":48.23,"id":"IGNM","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.55,"lat":34.26005300,"lon":-77.91279400,"rng_nm":18,"alt_fmsl":32,"hdg":228.23,"id":"IGMX","rwy":"24","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":34.28466900,"lon":-77.91073600,"rng_nm":18,"alt_fmsl":32,"hdg":339.30,"id":"IILM","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.95,"lat":34.26279700,"lon":-77.90703300,"rng_nm":10,"alt_fmsl":27,"id":"IGNM","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":111.55,"lat":34.27426100,"lon":-77.89204700,"rng_nm":10,"alt_fmsl":26,"id":"IGMX","rwy":"24","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":34.26626900,"lon":-77.90091100,"rng_nm":10,"alt_fmsl":22,"id":"IILM","rwy":"35","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":34.33749200,"lon":-77.81183100,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"24","desc":"OM"},
+{"type":"OM","freq":0,"lat":34.19128900,"lon":-77.86631100,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.25430000,"lon":-77.89685000,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"35","desc":"MM"}
+]
+}

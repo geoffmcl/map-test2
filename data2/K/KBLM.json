@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBLM","name":"Monmouth Executive","lat":40.18441758,"lon":-74.11795555,"rwys":2,"ils":1,"elev":159,"index":1728651,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":2225,"wid_m":24.08,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":40.19461700,"lon1":-74.13567667,"rwy2":"32","lat2":40.18108300,"lon2":-74.11640467},
+{"len_m":1129,"wid_m":14.94,"hdg":21,"surf":"Asphalt","rwy1":"03","lat1":40.18054207,"lon1":-74.12446719,"rwy2":"21","lat2":40.18999407,"lon2":-74.11955819}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":28,"wid_m":24.99,"hdg":-74,"surf":"Asphalt","lat1":40.18107352,"lon1":-74.12065835},
+{"rwy1":"H2","len_m":28,"wid_m":28.04,"hdg":-74,"surf":"Asphalt","lat1":40.18389281,"lon1":-74.11799949}
+]
+,"radios":[
+{"type":"ATIS","freq":121.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.95,"desc":"MCGUIRE CLNC DEL"},
+{"type":"APP","freq":124.15,"desc":"MC GUIRE APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.75,"lat":40.18016100,"lon":-74.11508600,"rng_nm":18,"alt_fmsl":159,"id":"IBLM","rwy":"14","desc":"LOC"},
+{"type":"DME","freq":109.75,"lat":40.18016100,"lon":-74.11508600,"rng_nm":18,"alt_fmsl":159,"id":"IBLM","rwy":"14","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KANQ","name":"Tri State Steuben Co","lat":41.6397025,"lon":-85.083478,"rwys":1,"ils":0,"elev":995,"index":1548523,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":1382,"wid_m":22.86,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":41.63545800,"lon1":-85.08955000,"rwy2":"23","lat2":41.64394700,"lon2":-85.07740600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.15,"desc":"FORT WAYNE APP/DEP"},
+{"type":"APP","freq":127.2,"desc":"FORT WAYNE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSWO","name":"Stillwater Rgnl","lat":36.1612156666667,"lon":-97.0856891666667,"rwys":3,"ils":1,"elev":1000,"index":1351563,"path":"w100n30/w098n36"
+,"runways":[
+{"len_m":2255,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":36.17231100,"lon1":-97.08685800,"rwy2":"35","lat2":36.15198900,"lon2":-97.08663600},
+{"len_m":1525,"wid_m":45.72,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":36.16605550,"lon1":-97.09172380,"rwy2":"31","lat2":36.15638850,"lon2":-97.07966420},
+{"len_m":1524,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":36.15537500,"lon1":-97.09056400,"rwy2":"22","lat2":36.16517500,"lon2":-97.07868900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CTAF","freq":125.35,"desc":"CTAF/UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.35,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.15,"lat":36.14922200,"lon":-97.08660600,"rng_nm":18,"alt_fmsl":1000,"hdg":179.50,"id":"ISWO","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.15,"lat":36.16915300,"lon":-97.08808900,"rng_nm":10,"alt_fmsl":984,"id":"ISWO","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.23616400,"lon":-97.08730300,"rng_nm":0,"alt_fmsl":1000,"id":"----","rwy":"17","desc":"OM"},
+{"type":"DME","freq":109.15,"lat":36.14925000,"lon":-97.08570300,"rng_nm":18,"alt_fmsl":986,"id":"ISWO","rwy":"17","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRCX","name":"Rusk County","lat":45.49674974,"lon":-91.000411405,"rwys":2,"ils":0,"elev":1238,"index":1450459,"path":"w100n40/w092n45"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":45.50175833,"lon1":-91.00576278,"rwy2":"32","lat2":45.49329362,"lon2":-90.99584083},
+{"len_m":975,"wid_m":22.86,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":45.49161400,"lon1":-91.00072800,"rwy2":"19","lat2":45.50033300,"lon2":-90.99931400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"}
+]
+,"ils":[
+]
+}

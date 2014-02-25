@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTVR","name":"Vicksburg Tallulah Rgnl","lat":32.351607,"lon":-91.027689,"rwys":1,"ils":1,"elev":86,"index":1449619,"path":"w100n30/w092n32"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":32.35848100,"lon1":-91.02781100,"rwy2":"36","lat2":32.34473300,"lon2":-91.02756700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":32.36122200,"lon":-91.02786100,"rng_nm":18,"alt_fmsl":86,"id":"ITVR","rwy":"36","desc":"LOC"},
+{"type":"OM","freq":0,"lat":32.24531700,"lon":-91.02580600,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"36","desc":"OM"}
+]
+}

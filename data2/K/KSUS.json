@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSUS","name":"Spirit Of St Louis","lat":38.6626895,"lon":-90.65331675,"rwys":2,"ils":1,"elev":463,"index":1466409,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":2281,"wid_m":45.72,"hdg":78,"surf":"Concrete","rwy1":"08R","lat1":38.65769700,"lon1":-90.65974200,"rwy2":"26L","lat2":38.66194400,"lon2":-90.63409700},
+{"len_m":1524,"wid_m":22.86,"hdg":78,"surf":"Asphalt","rwy1":"08L","lat1":38.66414200,"lon1":-90.66828100,"rwy2":"26R","lat2":38.66697500,"lon2":-90.65114700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.8,"desc":"ATIS"},
+{"type":"CTAF","freq":124.75,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"CLD","freq":133.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.75,"desc":"TWR"},
+{"type":"TWR","freq":122.6,"desc":"TWR"},
+{"type":"APP","freq":126.5,"desc":"ST LOUIS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":38.66213100,"lon":-90.63298100,"rng_nm":18,"alt_fmsl":463,"hdg":78.03,"id":"ISUS","rwy":"08R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":38.65716700,"lon":-90.66296100,"rng_nm":18,"alt_fmsl":463,"hdg":258.03,"id":"IFZU","rwy":"26L","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":38.65749200,"lon":-90.65593100,"rng_nm":10,"alt_fmsl":461,"id":"ISUS","rwy":"08R","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":38.66037800,"lon":-90.63915800,"rng_nm":10,"alt_fmsl":462,"id":"IFZU","rwy":"26L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.63933900,"lon":-90.76705800,"rng_nm":0,"alt_fmsl":463,"id":"----","rwy":"08R","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.67702800,"lon":-90.54763900,"rng_nm":0,"alt_fmsl":463,"id":"----","rwy":"26L","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.65611100,"lon":-90.66936100,"rng_nm":0,"alt_fmsl":463,"id":"----","rwy":"08R","desc":"MM"}
+]
+}

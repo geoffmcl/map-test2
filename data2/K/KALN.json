@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KALN","name":"St Louis Rgnl","lat":38.8902235,"lon":-90.04655425,"rwys":2,"ils":1,"elev":544,"index":1466427,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":2469,"wid_m":45.72,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":38.89524400,"lon1":-90.05496900,"rwy2":"29","lat2":38.88642800,"lon2":-90.02884200},
+{"len_m":1981,"wid_m":30.48,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":38.89847500,"lon1":-90.05252500,"rwy2":"35","lat2":38.88074700,"lon2":-90.04988100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"ATIS","freq":128,"desc":"AWOS 3"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":120.2,"desc":"GND"},
+{"type":"TWR","freq":126,"desc":"REGIONAL TWR"},
+{"type":"APP","freq":124.2,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":38.89606100,"lon":-90.05738900,"rng_nm":18,"alt_fmsl":537,"hdg":293.43,"id":"IALN","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":38.88836700,"lon":-90.03148100,"rng_nm":10,"alt_fmsl":531,"id":"IALN","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.85513100,"lon":-89.93821100,"rng_nm":0,"alt_fmsl":544,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.88351900,"lon":-90.02018900,"rng_nm":0,"alt_fmsl":544,"id":"----","rwy":"29","desc":"MM"},
+{"type":"DME","freq":108.5,"lat":38.89551700,"lon":-90.05763300,"rng_nm":18,"alt_fmsl":550,"id":"IALN","rwy":"29","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSNL","name":"Shawnee Rgnl","lat":35.356079,"lon":-96.941968,"rwys":2,"ils":1,"elev":1073,"index":1367888,"path":"w100n30/w097n35"
+,"runways":[
+{"len_m":1706,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":35.36554400,"lon1":-96.94282800,"rwy2":"35","lat2":35.35016100,"lon2":-96.94281900},
+{"len_m":1274,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":35.35833300,"lon1":-96.94611400,"rwy2":"31","lat2":35.35027800,"lon2":-96.93611100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.45,"desc":"OKLAHOMA CITY"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":35.34881182,"lon":-96.94281833,"rng_nm":18,"alt_fmsl":1073,"hdg":179.97,"id":"IHNQ","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":35.36280141,"lon":-96.94181735,"rng_nm":10,"alt_fmsl":1073,"id":"IHNQ","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.45054399,"lon":-96.94287712,"rng_nm":0,"alt_fmsl":1073,"id":"----","rwy":"17","desc":"OM"}
+]
+}

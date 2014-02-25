@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOWI","name":"Ottawa Muni","lat":38.5385325,"lon":-95.2532093333333,"rwys":3,"ils":0,"elev":966,"index":1384482,"path":"w100n30/w096n38"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":38.54563600,"lon1":-95.25212800,"rwy2":"35","lat2":38.53328100,"lon2":-95.25207200},
+{"len_m":713,"wid_m":24.69,"hdg":51,"surf":"Turf/grass","rwy1":"05","lat1":38.53613900,"lon1":-95.25630300,"rwy2":"23","lat2":38.54013600,"lon2":-95.24988900},
+{"len_m":578,"wid_m":21.95,"hdg":131,"surf":"Turf/grass","rwy1":"13","lat1":38.53972200,"lon1":-95.25692500,"rwy2":"31","lat2":38.53628100,"lon2":-95.25193900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

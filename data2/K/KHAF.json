@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHAF","name":"Half Moon Bay","lat":37.51561263,"lon":-122.49661386,"rwys":1,"ils":0,"elev":66,"index":942050,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":1525,"wid_m":46.02,"hdg":136,"surf":"Asphalt","rwy1":"12","lat1":37.51845456,"lon1":-122.50705235,"rwy2":"30","lat2":37.50841444,"lon2":-122.49527344}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.1,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

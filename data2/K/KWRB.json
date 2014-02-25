@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWRB","name":"Robins Afb","lat":32.63519060,"lon":-83.59535910,"rwys":1,"ils":2,"elev":294,"index":1580713,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":3656,"wid_m":91.14,"hdg":144,"surf":"Concrete","rwy1":"15","lat1":32.65352500,"lon1":-83.60336638,"rwy2":"33","lat2":32.62682288,"lon2":-83.58050363}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.48,"desc":"ATIS"},
+{"type":"GND","freq":121.85,"desc":"Robins Ground"},
+{"type":"TWR","freq":133.23,"desc":"Robins Tower"},
+{"type":"APP","freq":119.6,"desc":"Atlanta Approach"},
+{"type":"DEP","freq":124.2,"desc":"Atlanta Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":32.62404400,"lon":-83.57809700,"rng_nm":18,"alt_fmsl":294,"hdg":144.19,"id":"IRJM","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":32.65588100,"lon":-83.60539400,"rng_nm":18,"alt_fmsl":294,"hdg":324.19,"id":"IWRB","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":32.64987200,"lon":-83.60219700,"rng_nm":10,"alt_fmsl":294,"id":"IRJM","rwy":"15","desc":"GS","gs":2.7},
+{"type":"GS","freq":110.1,"lat":32.63161700,"lon":-83.58256400,"rng_nm":10,"alt_fmsl":294,"id":"IWRB","rwy":"33","desc":"GS","gs":2.5}
+]
+}

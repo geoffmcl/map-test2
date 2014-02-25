@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNWL","name":"Waldron Fld Nolf","lat":27.63569475,"lon":-97.30888825,"rwys":2,"ils":0,"elev":25,"index":1351018,"path":"w100n20/w098n27"
+,"runways":[
+{"len_m":1558,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":27.64166700,"lon1":-97.31666700,"rwy2":"31","lat2":27.63166700,"lon2":-97.30555800},
+{"len_m":1539,"wid_m":60.96,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":27.64166700,"lon1":-97.30666400,"rwy2":"35","lat2":27.62777800,"lon2":-97.30666400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.85,"desc":"NAVY WALDRON TWR"}
+]
+,"ils":[
+]
+}

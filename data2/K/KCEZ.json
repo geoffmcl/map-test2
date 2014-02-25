@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCEZ","name":"Cortez Muni","lat":37.303003,"lon":-108.628042,"rwys":1,"ils":0,"elev":5918,"index":1171409,"path":"w110n30/w109n37"
+,"runways":[
+{"len_m":2195,"wid_m":30.48,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":37.29560000,"lon1":-108.63625300,"rwy2":"21","lat2":37.31040600,"lon2":-108.61983100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

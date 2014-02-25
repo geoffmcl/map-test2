@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMDD","name":"Midland Airpark","lat":32.03619375,"lon":-102.10102225,"rwys":2,"ils":0,"elev":2803,"index":1269379,"path":"w110n30/w103n32"
+,"runways":[
+{"len_m":1530,"wid_m":22.86,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":32.03734400,"lon1":-102.10888100,"rwy2":"25","lat2":32.04092500,"lon2":-102.09323300},
+{"len_m":1212,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":32.03853100,"lon1":-102.10265600,"rwy2":"34","lat2":32.02797500,"lon2":-102.09931900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,38 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLAS","name":"Mc Carran Intl","lat":36.08274122,"lon":-115.14726120,"rwys":4,"ils":3,"elev":2141,"index":1056643,"path":"w120n30/w116n36"
+,"runways":[
+{"len_m":4530,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"07L","lat1":36.07633799,"lon1":-115.17138323,"rwy2":"25R","lat2":36.07640399,"lon2":-115.12109170},
+{"len_m":3207,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"07R","lat1":36.07362264,"lon1":-115.16143114,"rwy2":"25L","lat2":36.07365780,"lon2":-115.12582126},
+{"len_m":2979,"wid_m":46.02,"hdg":24,"surf":"Concrete","rwy1":"01R","lat1":36.07422048,"lon1":-115.16750113,"rwy2":"19L","lat2":36.09856996,"lon2":-115.15355329},
+{"len_m":2977,"wid_m":46.02,"hdg":24,"surf":"Concrete","rwy1":"01L","lat1":36.07532931,"lon1":-115.17036508,"rwy2":"19R","lat2":36.09965722,"lon2":-115.15642221}
+]
+,"helipads":[
+{"rwy1":"H2","len_m":21,"wid_m":21.95,"hdg":-115,"surf":"Concrete","lat1":36.09595161,"lon1":-115.16222941},
+{"rwy1":"H3","len_m":21,"wid_m":21.95,"hdg":-115,"surf":"Concrete","lat1":36.09650970,"lon1":-115.16149911},
+{"rwy1":"H4","len_m":21,"wid_m":21.95,"hdg":-115,"surf":"Concrete","lat1":36.09669726,"lon1":-115.16138589}
+]
+,"radios":[
+{"type":"ATIS","freq":132.4,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":118,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.1,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":128.8,"desc":"unnamed entity"},
+{"type":"TWR","freq":118.75,"desc":"LAS VEGAS TWR"},
+{"type":"TWR","freq":119.9,"desc":"LAS VEGAS TWR"},
+{"type":"APP","freq":125.02,"desc":"LAS VEGAS APP"},
+{"type":"DEP","freq":125.02,"desc":"LAS VEGAS DEP"},
+{"type":"DEP","freq":125.9,"desc":"LAS VEGAS DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":36.10023600,"lon":-115.15610800,"rng_nm":18,"alt_fmsl":2079,"hdg":24.83,"id":"ICUA","rwy":"01L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.75,"lat":36.07362500,"lon":-115.16481700,"rng_nm":18,"alt_fmsl":2141,"hdg":269.93,"id":"IRLE","rwy":"25L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":36.07636400,"lon":-115.17199400,"rng_nm":45,"alt_fmsl":2187,"hdg":269.93,"id":"ILAS","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":36.08031700,"lon":-115.16847800,"rng_nm":10,"alt_fmsl":2159,"id":"ICUA","rwy":"01L","desc":"GS","gs":3.4},
+{"type":"GS","freq":111.75,"lat":36.07277800,"lon":-115.12962800,"rng_nm":10,"alt_fmsl":2054,"id":"IRLE","rwy":"25L","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":36.07557800,"lon":-115.12963100,"rng_nm":10,"alt_fmsl":2046,"id":"ILAS","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.07658600,"lon":-115.02138300,"rng_nm":0,"alt_fmsl":2141,"id":"----","rwy":"25R","desc":"OM"},
+{"type":"DME","freq":110.1,"lat":36.10048100,"lon":-115.15696400,"rng_nm":18,"alt_fmsl":2092,"id":"ICUA","rwy":"01L","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":36.07514400,"lon":-115.17199200,"rng_nm":18,"alt_fmsl":2203,"id":"ILAS","rwy":"25R","desc":"DME-ILS"}
+]
+}

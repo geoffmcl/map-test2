@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOPN","name":"Thomaston Upson Co","lat":32.955003,"lon":-84.2641165,"rwys":1,"ils":1,"elev":798,"index":1564346,"path":"w090n30/w085n32"
+,"runways":[
+{"len_m":1935,"wid_m":30.48,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":32.95929200,"lon1":-84.27313300,"rwy2":"30","lat2":32.95071400,"lon2":-84.25510000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.75,"lat":32.95868600,"lon":-84.27183600,"rng_nm":18,"alt_fmsl":798,"hdg":299.58,"id":"IOPN","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.75,"lat":32.95377500,"lon":-84.25941400,"rng_nm":10,"alt_fmsl":790,"id":"IOPN","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":109.75,"lat":32.95929700,"lon":-84.27144700,"rng_nm":18,"alt_fmsl":796,"id":"IOPN","rwy":"30","desc":"DME-ILS"}
+]
+}

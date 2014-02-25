@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGKY","name":"Arlington Muni","lat":32.66212785,"lon":-97.09844758,"rwys":1,"ils":1,"elev":627,"index":1351339,"path":"w100n30/w098n32"
+,"runways":[
+{"len_m":1853,"wid_m":30.48,"hdg":168,"surf":"Concrete","rwy1":"16","lat1":32.67204292,"lon1":-97.09632844,"rwy2":"34","lat2":32.65569592,"lon2":-97.09222844}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.85,"desc":"RGNL CLNC DEL"},
+{"type":"APP","freq":135.97,"desc":"RGNL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":32.67335643,"lon":-97.09665992,"rng_nm":18,"alt_fmsl":628,"hdg":348.08,"id":"IGKY","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":32.65821080,"lon":-97.09386042,"rng_nm":10,"alt_fmsl":628,"id":"IGKY","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":32.67452200,"lon":-97.09544200,"rng_nm":18,"alt_fmsl":628,"id":"IGKY","rwy":"34","desc":"DME-ILS"}
+]
+}

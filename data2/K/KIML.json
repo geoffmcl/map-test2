@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIML","name":"Imperial Muni","lat":40.51239384,"lon":-101.62694840,"rwys":2,"ils":0,"elev":3275,"index":1286305,"path":"w110n40/w102n40"
+,"runways":[
+{"len_m":1531,"wid_m":29.87,"hdg":143,"surf":"Concrete","rwy1":"13","lat1":40.51484707,"lon1":-101.62588262,"rwy2":"31","lat2":40.50373243,"lon2":-101.61518332},
+{"len_m":932,"wid_m":74.07,"hdg":45,"surf":"Dirt","rwy1":"03","lat1":40.50939561,"lon1":-101.62330501,"rwy2":"21","lat2":40.51527361,"lon2":-101.61545501}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

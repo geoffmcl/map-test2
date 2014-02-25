@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMWM","name":"Windom Muni","lat":43.9134095,"lon":-95.1093975,"rwys":1,"ils":0,"elev":1410,"index":1384827,"path":"w100n40/w096n43"
+,"runways":[
+{"len_m":1097,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":43.91834700,"lon1":-95.10935600,"rwy2":"35","lat2":43.90847200,"lon2":-95.10943900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

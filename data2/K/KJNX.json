@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJNX","name":"Johnston Co","lat":35.540832,"lon":-78.3902775,"rwys":1,"ils":1,"elev":165,"index":1662818,"path":"w080n30/w079n35"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":35.53428900,"lon1":-78.39489700,"rwy2":"21","lat2":35.54737500,"lon2":-78.38565800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.3,"desc":"RALEIGH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":35.55190000,"lon":-78.38450800,"rng_nm":18,"alt_fmsl":165,"hdg":25.64,"id":"JN","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":35.53683300,"lon":-78.39342200,"rng_nm":10,"alt_fmsl":140,"id":"JN","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.47500300,"lon":-78.42528900,"rng_nm":0,"alt_fmsl":165,"id":"----","rwy":"03","desc":"OM"}
+]
+}

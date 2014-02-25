@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLAA","name":"Lamar Muni","lat":38.07014375,"lon":-102.68811825,"rwys":2,"ils":0,"elev":3706,"index":1269761,"path":"w110n30/w103n38"
+,"runways":[
+{"len_m":1921,"wid_m":30.48,"hdg":189,"surf":"Concrete","rwy1":"18","lat1":38.07485800,"lon1":-102.68955600,"rwy2":"36","lat2":38.05779200,"lon2":-102.69321400},
+{"len_m":1524,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":38.07391900,"lon1":-102.69353600,"rwy2":"26","lat2":38.07400600,"lon2":-102.67616700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

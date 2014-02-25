@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPHT","name":"Henry Co","lat":36.33934925,"lon":-88.3821105,"rwys":2,"ils":0,"elev":580,"index":1499026,"path":"w090n30/w089n36"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":36.32936400,"lon1":-88.38682500,"rwy2":"20","lat2":36.34254400,"lon2":-88.38204200},
+{"len_m":764,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":36.34483300,"lon1":-88.38317200,"rwy2":"31","lat2":36.34065600,"lon2":-88.37640300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

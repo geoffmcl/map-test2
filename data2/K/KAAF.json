@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAAF","name":"Apalachicola Muni","lat":29.72416300,"lon":-85.02861800,"rwys":3,"ils":0,"elev":20,"index":1547755,"path":"w090n20/w086n29"
+,"runways":[
+{"len_m":1631,"wid_m":45.72,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":29.73291100,"lon1":-85.03488600,"rwy2":"31","lat2":29.72245000,"lon2":-85.02302800},
+{"len_m":1600,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":29.73644400,"lon1":-85.02308300,"rwy2":"36","lat2":29.72200800,"lon2":-85.02317200},
+{"len_m":1545,"wid_m":45.72,"hdg":60,"surf":"Concrete","rwy1":"06","lat1":29.72245800,"lon1":-85.03721400,"rwy2":"24","lat2":29.72936900,"lon2":-85.02333600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.75,"desc":"TYNDALL APP/DEP"},
+{"type":"APP","freq":124.15,"desc":"TYNDALL APP/DEP"}
+]
+,"ils":[
+]
+}

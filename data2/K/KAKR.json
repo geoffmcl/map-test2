@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAKR","name":"Akron Fulton Intl","lat":41.03922141,"lon":-81.45749016,"rwys":2,"ils":1,"elev":1067,"index":1614018,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1931,"wid_m":46.02,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":41.03333600,"lon1":-81.47781900,"rwy2":"25","lat2":41.04150800,"lon2":-81.45754700},
+{"len_m":712,"wid_m":29.87,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":41.03454200,"lon1":-81.46493100,"rwy2":"19","lat2":41.04095300,"lon2":-81.46480000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.82,"desc":"ASOS"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":41.03178300,"lon":-81.48167500,"rng_nm":18,"alt_fmsl":1095,"id":"IAKR","rwy":"25","desc":"LOC"},
+{"type":"OM","freq":0,"lat":41.06975600,"lon":-81.38747200,"rng_nm":0,"alt_fmsl":1067,"id":"----","rwy":"25","desc":"OM"},
+{"type":"DME","freq":110.9,"lat":41.03264200,"lon":-81.48172500,"rng_nm":18,"alt_fmsl":1113,"id":"IAKR","rwy":"25","desc":"DME-ILS"}
+]
+}

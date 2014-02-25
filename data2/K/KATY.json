@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KATY","name":"Watertown Rgnl","lat":44.91397725,"lon":-97.154718,"rwys":2,"ils":1,"elev":1748,"index":1352123,"path":"w100n40/w098n44"
+,"runways":[
+{"len_m":2103,"wid_m":45.72,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":44.92221400,"lon1":-97.16929700,"rwy2":"30","lat2":44.91147200,"lon2":-97.14735800},
+{"len_m":2101,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":44.92056700,"lon1":-97.15105000,"rwy2":"35","lat2":44.90165600,"lon2":-97.15116700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":44.92467800,"lon":-97.15102500,"rng_nm":18,"alt_fmsl":1740,"hdg":0.25,"id":"IATY","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":44.90435800,"lon":-97.14960800,"rng_nm":10,"alt_fmsl":1743,"id":"IATY","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.80327800,"lon":-97.15013900,"rng_nm":0,"alt_fmsl":1748,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.89380600,"lon":-97.15125000,"rng_nm":0,"alt_fmsl":1748,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":44.92483900,"lon":-97.15182200,"rng_nm":18,"alt_fmsl":1758,"id":"IATY","rwy":"35","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOTH","name":"North Bend Muni","lat":43.41699200,"lon":-124.24719200,"rwys":3,"ils":1,"elev":17,"index":909659,"path":"w130n40/w125n43"
+,"runways":[
+{"len_m":1621,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"04","lat1":43.41472200,"lon1":-124.26062800,"rwy2":"22","lat2":43.42187200,"lon2":-124.24316900},
+{"len_m":1362,"wid_m":45.72,"hdg":149,"surf":"Asphalt","rwy1":"13","lat1":43.41983600,"lon1":-124.24626900,"rwy2":"31","lat2":43.40925300,"lon2":-124.23776100},
+{"len_m":707,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":43.42247800,"lon1":-124.24030800,"rwy2":"34","lat2":43.41611100,"lon2":-124.24020000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":43.42331400,"lon":-124.23965300,"rng_nm":18,"alt_fmsl":11,"hdg":60.59,"id":"IOTH","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":43.41655800,"lon":-124.25772500,"rng_nm":10,"alt_fmsl":14,"id":"IOTH","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.39444400,"lon":-124.31030600,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.41077800,"lon":-124.26995000,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"04","desc":"MM"}
+]
+}

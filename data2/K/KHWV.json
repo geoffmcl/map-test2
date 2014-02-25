@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHWV","name":"Brookhaven","lat":40.81924800,"lon":-72.86627200,"rwys":2,"ils":1,"elev":81,"index":1761456,"path":"w080n40/w073n40"
+,"runways":[
+{"len_m":1287,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":40.82234700,"lon1":-72.87166700,"rwy2":"33","lat2":40.81415000,"lon2":-72.86087500},
+{"len_m":1280,"wid_m":30.48,"hdg":44,"surf":"Asphalt","rwy1":"06","lat1":40.82160300,"lon1":-72.87291700,"rwy2":"24","lat2":40.82975600,"lon2":-72.86218600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":133.19,"desc":"CLNC DEL"},
+{"type":"CLD","freq":133.2,"desc":"CLNC DEL"},
+{"type":"APP","freq":118,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":40.83208300,"lon":-72.85911900,"rng_nm":18,"alt_fmsl":81,"hdg":44.90,"id":"IHWV","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":40.82281400,"lon":-72.86991700,"rng_nm":10,"alt_fmsl":67,"id":"IHWV","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.76571400,"lon":-72.94949400,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.81657500,"lon":-72.87953900,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"06","desc":"MM"}
+]
+}

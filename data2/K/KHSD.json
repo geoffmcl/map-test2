@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHSD","name":"Sundance Airpark","lat":35.60151903,"lon":-97.70742473,"rwys":1,"ils":1,"elev":1193,"index":1351521,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":177,"surf":"Concrete","rwy1":"17","lat1":35.60869700,"lon1":-97.70645000,"rwy2":"35","lat2":35.59496700,"lon2":-97.70585600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":123.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.6,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":35.59361994,"lon":-97.70579754,"rng_nm":18,"alt_fmsl":1193,"hdg":177.99,"id":"IHSD","rwy":"17","desc":"ILS-cat-I"}
+]
+}

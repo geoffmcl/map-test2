@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCIU","name":"Chippewa Co Intl","lat":46.2514055,"lon":-84.47271725,"rwys":2,"ils":1,"elev":800,"index":1565202,"path":"w090n40/w085n46"
+,"runways":[
+{"len_m":2194,"wid_m":60.96,"hdg":149,"surf":"Concrete","rwy1":"16","lat1":46.25635000,"lon1":-84.47809700,"rwy2":"34","lat2":46.23925300,"lon2":-84.46386700},
+{"len_m":1524,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":46.25503600,"lon1":-84.48433600,"rwy2":"27","lat2":46.25498300,"lon2":-84.46456900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":46.22435300,"lon":-84.45146100,"rng_nm":18,"alt_fmsl":800,"hdg":149.76,"id":"ICIU","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":46.25323100,"lon":-84.47733900,"rng_nm":10,"alt_fmsl":799,"id":"ICIU","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.33249200,"lon":-84.54232500,"rng_nm":0,"alt_fmsl":696,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.26343600,"lon":-84.48405600,"rng_nm":0,"alt_fmsl":800,"id":"----","rwy":"16","desc":"MM"}
+]
+}

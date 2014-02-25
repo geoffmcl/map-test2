@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCNY","name":"Canyonlands Fld","lat":38.754957,"lon":-109.7548445,"rwys":1,"ils":0,"elev":4555,"index":1155120,"path":"w110n30/w110n38"
+,"runways":[
+{"len_m":2163,"wid_m":22.86,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":38.74748100,"lon1":-109.76282500,"rwy2":"21","lat2":38.76243300,"lon2":-109.74686400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

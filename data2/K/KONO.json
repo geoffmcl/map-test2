@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KONO","name":"Ontario Muni","lat":44.02282700,"lon":-117.01221500,"rwys":1,"ils":0,"elev":2193,"index":1024387,"path":"w120n40/w118n44"
+,"runways":[
+{"len_m":1312,"wid_m":30.48,"hdg":158,"surf":"Asphalt","rwy1":"14","lat1":44.02573100,"lon1":-117.01648100,"rwy2":"32","lat2":44.01473100,"lon2":-117.01050300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

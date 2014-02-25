@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHJO","name":"Hanford Muni","lat":36.316722,"lon":-119.6276525,"rwys":1,"ils":0,"elev":244,"index":991121,"path":"w120n30/w120n36"
+,"runways":[
+{"len_m":1577,"wid_m":22.86,"hdg":151,"surf":"Asphalt","rwy1":"14","lat1":36.32297200,"lon1":-119.63183300,"rwy2":"32","lat2":36.31047200,"lon2":-119.62347200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.75,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.9,"desc":"FRESNO APP/DEP"}
+]
+,"ils":[
+]
+}

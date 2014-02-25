@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUKL","name":"Coffey Co","lat":38.3024845,"lon":-95.724958,"rwys":1,"ils":0,"elev":1173,"index":1384465,"path":"w100n30/w096n38"
+,"runways":[
+{"len_m":1674,"wid_m":22.86,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":38.31002759,"lon1":-95.72500794,"rwy2":"36","lat2":38.29494141,"lon2":-95.72490807}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

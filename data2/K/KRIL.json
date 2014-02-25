@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRIL","name":"Garfield Co Rgnl","lat":39.52731300,"lon":-107.72694400,"rwys":1,"ils":1,"elev":5544,"index":1187937,"path":"w110n30/w108n39"
+,"runways":[
+{"len_m":2133,"wid_m":29.87,"hdg":92,"surf":"Asphalt","rwy1":"08","lat1":39.52679200,"lon1":-107.73933100,"rwy2":"26","lat2":39.52583600,"lon2":-107.71455000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":39.52687500,"lon":-107.74149400,"rng_nm":18,"alt_fmsl":5544,"hdg":272.85,"id":"IRIL","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":39.52667200,"lon":-107.71831900,"rng_nm":10,"alt_fmsl":5536,"id":"IRIL","rwy":"26","desc":"GS","gs":3.6},
+{"type":"DME","freq":110.9,"lat":39.52614200,"lon":-107.74156900,"rng_nm":18,"alt_fmsl":5544,"id":"IRIL","rwy":"26","desc":"DME-ILS"}
+]
+}

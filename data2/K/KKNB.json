@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KKNB","name":"Kanab Muni","lat":37.0105235,"lon":-112.5314695,"rwys":1,"ils":0,"elev":4868,"index":1105857,"path":"w120n30/w113n37"
+,"runways":[
+{"len_m":1886,"wid_m":22.86,"hdg":20,"surf":"Asphalt","rwy1":"01","lat1":37.00258600,"lon1":-112.53525600,"rwy2":"19","lat2":37.01846100,"lon2":-112.52768300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

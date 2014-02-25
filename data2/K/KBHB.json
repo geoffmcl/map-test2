@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBHB","name":"Hancock Co Bar Harbor","lat":44.449529915,"lon":-68.361036905,"rwys":2,"ils":1,"elev":83,"index":1827226,"path":"w070n40/w069n44"
+,"runways":[
+{"len_m":1585,"wid_m":29.87,"hdg":24,"surf":"Asphalt","rwy1":"04","lat1":44.44386618,"lon1":-68.36728632,"rwy2":"22","lat2":44.45684089,"lon2":-68.35898651},
+{"len_m":1022,"wid_m":22.86,"hdg":149,"surf":"Asphalt","rwy1":"17","lat1":44.45267251,"lon1":-68.36219701,"rwy2":"35","lat2":44.44474006,"lon2":-68.35567777}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.9,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.5,"desc":"BANGOR APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":44.44224400,"lon":-68.36833300,"rng_nm":18,"alt_fmsl":62,"hdg":204.56,"id":"IBHB","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":44.45503600,"lon":-68.36158300,"rng_nm":10,"alt_fmsl":72,"id":"IBHB","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.53873300,"lon":-68.30660800,"rng_nm":0,"alt_fmsl":55,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.46410300,"lon":-68.35348300,"rng_nm":0,"alt_fmsl":83,"id":"----","rwy":"22","desc":"MM"},
+{"type":"DME","freq":108.3,"lat":44.44179200,"lon":-68.36757200,"rng_nm":18,"alt_fmsl":76,"id":"IBHB","rwy":"22","desc":"DME-ILS"}
+]
+}

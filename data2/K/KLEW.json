@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLEW","name":"Auburn Lewiston Muni","lat":44.04846525,"lon":-70.28325,"rwys":2,"ils":1,"elev":288,"index":1794434,"path":"w080n40/w071n44"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":24,"surf":"Asphalt","rwy1":"04","lat1":44.04223900,"lon1":-70.28805800,"rwy2":"22","lat2":44.05473300,"lon2":-70.28020600},
+{"len_m":838,"wid_m":22.86,"hdg":147,"surf":"Asphalt","rwy1":"17","lat1":44.05163900,"lon1":-70.28515000,"rwy2":"35","lat2":44.04525000,"lon2":-70.27958600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.05,"desc":"PORTLAND CLNC DEL"},
+{"type":"APP","freq":124.05,"desc":"PORTLAND APP"},
+{"type":"APP","freq":125.5,"desc":"PORTLAND APP"},
+{"type":"DEP","freq":125.5,"desc":"PORTLAND DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":44.05548300,"lon":-70.27973600,"rng_nm":18,"alt_fmsl":288,"hdg":24.31,"id":"ILEW","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":44.04435800,"lon":-70.28533100,"rng_nm":10,"alt_fmsl":268,"id":"ILEW","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.96225800,"lon":-70.33795300,"rng_nm":0,"alt_fmsl":323,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.03478900,"lon":-70.29275600,"rng_nm":0,"alt_fmsl":288,"id":"----","rwy":"04","desc":"MM"}
+]
+}

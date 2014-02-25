@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDAB","name":"Daytona Beach Intl","lat":29.17886264,"lon":-81.05581445,"rwys":3,"ils":1,"elev":34,"index":1613259,"path":"w090n20/w082n29"
+,"runways":[
+{"len_m":3200,"wid_m":46.02,"hdg":65,"surf":"Asphalt","rwy1":"07L","lat1":29.17254856,"lon1":-81.07779385,"rwy2":"25R","lat2":29.18464960,"lon2":-81.04792185},
+{"len_m":1829,"wid_m":46.02,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":29.19088003,"lon1":-81.05633014,"rwy2":"34","lat2":29.17566997,"lon2":-81.04903186},
+{"len_m":973,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"07R","lat1":29.17603279,"lon1":-81.05684188,"rwy2":"25L","lat2":29.17972521,"lon2":-81.04775612}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.05,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":119.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"APP"},
+{"type":"DEP","freq":123.9,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":29.18608900,"lon":-81.04436400,"rng_nm":18,"alt_fmsl":27,"hdg":65.12,"id":"IDAB","rwy":"07L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":29.17197133,"lon":-81.07922062,"rng_nm":18,"alt_fmsl":34,"hdg":245.11,"id":"IDBF","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":29.17361100,"lon":-81.07218100,"rng_nm":10,"alt_fmsl":26,"id":"IDAB","rwy":"07L","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":29.18274868,"lon":-81.05037516,"rng_nm":10,"alt_fmsl":34,"id":"IDBF","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":29.14430000,"lon":-81.14777500,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"07L","desc":"OM"},
+{"type":"MM","freq":0,"lat":29.17064400,"lon":-81.08248900,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"07L","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":29.17197133,"lon":-81.07922062,"rng_nm":18,"alt_fmsl":34,"id":"IDBF","rwy":"25R","desc":"DME-ILS"}
+]
+}

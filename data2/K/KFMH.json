@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFMH","name":"Cape Cod Cgas","lat":41.65182788,"lon":-70.52222484,"rwys":2,"ils":2,"elev":130,"index":1794281,"path":"w080n40/w071n41"
+,"runways":[
+{"len_m":2894,"wid_m":54.86,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":41.66733350,"lon1":-70.53880300,"rwy2":"32","lat2":41.65149250,"lon2":-70.51120339},
+{"len_m":2438,"wid_m":54.86,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":41.65003300,"lon1":-70.53055600,"rwy2":"23","lat2":41.66710800,"lon2":-70.51216100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":20.42,"hdg":-70,"surf":"Asphalt","lat1":41.66387789,"lon1":-70.52781243},
+{"rwy1":"H2","len_m":18,"wid_m":20.73,"hdg":-70,"surf":"Asphalt","lat1":41.66472153,"lon1":-70.51606099},
+{"rwy1":"H3","len_m":18,"wid_m":17.98,"hdg":-70,"surf":"Concrete","lat1":41.66049027,"lon1":-70.53024647}
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"CAPE APP"},
+{"type":"APP","freq":118.75,"desc":"CAPE APP"},
+{"type":"APP","freq":126.3,"desc":"CAPE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":41.64799400,"lon":-70.53258300,"rng_nm":18,"alt_fmsl":130,"hdg":218.59,"id":"IFMH","rwy":"23","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":41.66955000,"lon":-70.54280600,"rng_nm":18,"alt_fmsl":130,"hdg":307.40,"id":"IBNX","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":41.66568900,"lon":-70.51520600,"rng_nm":10,"alt_fmsl":130,"id":"IFMH","rwy":"23","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.9,"lat":41.65427200,"lon":-70.51225000,"rng_nm":10,"alt_fmsl":130,"id":"IBNX","rwy":"32","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":41.73257200,"lon":-70.44086400,"rng_nm":0,"alt_fmsl":80,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.67466400,"lon":-70.50361100,"rng_nm":0,"alt_fmsl":130,"id":"----","rwy":"23","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEKY","name":"Bessemer","lat":33.312885,"lon":-86.925918,"rwys":1,"ils":1,"elev":699,"index":1531600,"path":"w090n30/w087n33"
+,"runways":[
+{"len_m":1737,"wid_m":30.48,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":33.30783100,"lon1":-86.93304400,"rwy2":"23","lat2":33.31793900,"lon2":-86.91879200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":123.75,"desc":"BIRMINGHAM CLNC DEL"},
+{"type":"APP","freq":124.9,"desc":"BIRMINGHAM APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":33.31883537,"lon":-86.91752914,"rng_nm":18,"alt_fmsl":699,"hdg":49.68,"id":"IEKY","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":33.31023330,"lon":-86.93117875,"rng_nm":10,"alt_fmsl":699,"id":"IEKY","rwy":"05","desc":"GS","gs":3}
+]
+}

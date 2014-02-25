@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFSU","name":"Fort Sumner Muni","lat":34.4861115,"lon":-104.2135915,"rwys":2,"ils":0,"elev":4165,"index":1236763,"path":"w110n30/w105n34"
+,"runways":[
+{"len_m":1755,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":34.48333300,"lon1":-104.21721900,"rwy2":"21","lat2":34.49444700,"lon2":-104.20361100},
+{"len_m":1615,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.48333300,"lon1":-104.22556100,"rwy2":"26","lat2":34.48333300,"lon2":-104.20797500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

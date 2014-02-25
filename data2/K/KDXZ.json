@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDXZ","name":"St George Muni","lat":37.03076170,"lon":-113.50963962,"rwys":1,"ils":1,"elev":2884,"index":1089473,"path":"w120n30/w114n37"
+,"runways":[
+{"len_m":2833,"wid_m":46.02,"hdg":24,"surf":"Asphalt","rwy1":"1","lat1":37.02500675,"lon1":-113.51727615,"rwy2":"19","lat2":37.04822690,"lon2":-113.50404386}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"WX AWOS-3 at SGU"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/Unicom"},
+{"type":"APP","freq":124.2,"desc":"LA Center APP/DEP Con"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":37.04928207,"lon":-113.50520325,"rng_nm":40,"alt_fmsl":2884,"id":"ISGU","rwy":"19","desc":"LDA"},
+{"type":"GS","freq":110.9,"lat":37.04568863,"lon":-113.50649261,"rng_nm":40,"alt_fmsl":2884,"id":"ISGU","rwy":"19","desc":"GS","gs":3.1},
+{"type":"DME","freq":110.9,"lat":37.04939270,"lon":-113.50583649,"rng_nm":40,"alt_fmsl":2884,"id":"ISGU","rwy":"19","desc":"DME-ILS"}
+]
+}

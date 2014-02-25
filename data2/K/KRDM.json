@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRDM","name":"Roberts Fld","lat":44.25428800,"lon":-121.15853900,"rwys":2,"ils":1,"elev":3077,"index":958867,"path":"w130n40/w122n44"
+,"runways":[
+{"len_m":2145,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"04","lat1":44.24950800,"lon1":-121.16178600,"rwy2":"22","lat2":44.25905800,"lon2":-121.13843600},
+{"len_m":2132,"wid_m":30.48,"hdg":121,"surf":"Asphalt","rwy1":"10","lat1":44.25891900,"lon1":-121.16115300,"rwy2":"28","lat2":44.24877800,"lon2":-121.13847800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":124.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":124.5,"desc":"REDMOND TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":44.24815300,"lon":-121.16510300,"rng_nm":18,"alt_fmsl":3077,"hdg":240.27,"id":"IRDM","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":44.25693900,"lon":-121.13941900,"rng_nm":10,"alt_fmsl":3052,"id":"IRDM","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.30798300,"lon":-121.01894400,"rng_nm":0,"alt_fmsl":3009,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.26311100,"lon":-121.12847200,"rng_nm":0,"alt_fmsl":3077,"id":"----","rwy":"22","desc":"MM"}
+]
+}

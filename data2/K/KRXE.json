@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRXE","name":"Rexburg Madison Co","lat":43.8339185,"lon":-111.805109,"rwys":1,"ils":0,"elev":4858,"index":1122672,"path":"w120n40/w112n43"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":186,"surf":"Asphalt","rwy1":"17","lat1":43.83964600,"lon1":-111.80421300,"rwy2":"35","lat2":43.82819100,"lon2":-111.80600500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

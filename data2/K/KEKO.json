@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEKO","name":"Elko Rgnl","lat":40.82966438,"lon":-115.787779776,"rwys":2,"ils":1,"elev":5140,"index":1056944,"path":"w120n40/w116n40"
+,"runways":[
+{"len_m":2198,"wid_m":46.02,"hdg":68,"surf":"Asphalt","rwy1":"05","lat1":40.81907947,"lon1":-115.80562258,"rwy2":"23","lat2":40.82629275,"lon2":-115.78135763},
+{"len_m":874,"wid_m":17.98,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":40.83330188,"lon1":-115.79091383,"rwy2":"30","lat2":40.82780687,"lon2":-115.78348233}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":-115,"surf":"Concrete","lat1":40.83326031,"lon1":-115.78940061},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-115,"surf":"Concrete","lat1":40.83342585,"lon1":-115.78963472},
+{"rwy1":"H3","len_m":17,"wid_m":17.98,"hdg":-115,"surf":"Concrete","lat1":40.82839525,"lon1":-115.77917536}
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":40.82239700,"lon":-115.80121100,"rng_nm":18,"alt_fmsl":5140,"id":"IEKO","rwy":"23","desc":"LOC"},
+{"type":"DME","freq":108.5,"lat":40.82232200,"lon":-115.80140300,"rng_nm":18,"alt_fmsl":5140,"id":"IEKO","rwy":"23","desc":"DME-ILS"}
+]
+}

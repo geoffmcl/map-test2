@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMHE","name":"Mitchell Muni","lat":43.774855,"lon":-98.038202,"rwys":2,"ils":1,"elev":1304,"index":1335667,"path":"w100n40/w099n43"
+,"runways":[
+{"len_m":2042,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":43.78094621,"lon1":-98.05151432,"rwy2":"30","lat2":43.76808379,"lon2":-98.03339368},
+{"len_m":1680,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":43.78275580,"lon1":-98.03403041,"rwy2":"35","lat2":43.76763420,"lon2":-98.03386959}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":43.78373900,"lon":-98.05544700,"rng_nm":18,"alt_fmsl":1292,"hdg":314.51,"id":"ILPA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":43.77107200,"lon":-98.03543900,"rng_nm":10,"alt_fmsl":1303,"id":"ILPA","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.70222200,"lon":-97.94114200,"rng_nm":0,"alt_fmsl":1304,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.76316900,"lon":-98.02647800,"rng_nm":0,"alt_fmsl":1304,"id":"----","rwy":"30","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGAI","name":"Montgomery Co Airpark","lat":39.16646884,"lon":-77.16053173,"rwys":1,"ils":0,"elev":539,"index":1679435,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1291,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"14","lat1":39.17181865,"lon1":-77.17189908,"rwy2":"32","lat2":39.16475282,"lon2":-77.16003203}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.6,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":128.7,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+]
+}

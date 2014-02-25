@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLVS","name":"Las Vegas Muni","lat":35.65414925,"lon":-105.1424395,"rwys":2,"ils":0,"elev":6877,"index":1220459,"path":"w110n30/w106n35"
+,"runways":[
+{"len_m":2498,"wid_m":22.86,"hdg":151,"surf":"Asphalt","rwy1":"14","lat1":35.66430600,"lon1":-105.14882500,"rwy2":"32","lat2":35.64449400,"lon2":-105.13571900},
+{"len_m":1524,"wid_m":22.86,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":35.64826400,"lon1":-105.14742500,"rwy2":"20","lat2":35.65953300,"lon2":-105.13778900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

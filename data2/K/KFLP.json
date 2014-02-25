@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFLP","name":"Marion Co Rgnl","lat":36.2908945,"lon":-92.590253,"rwys":1,"ils":0,"elev":719,"index":1433489,"path":"w100n30/w093n36"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"04","lat1":36.28659200,"lon1":-92.59686400,"rwy2":"22","lat2":36.29519700,"lon2":-92.58364200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

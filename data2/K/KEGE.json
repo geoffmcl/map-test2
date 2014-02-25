@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEGE","name":"Eagle Co Rgnl","lat":39.64727020,"lon":-106.91177370,"rwys":1,"ils":1,"elev":6540,"index":1204328,"path":"w110n30/w107n39"
+,"runways":[
+{"len_m":2437,"wid_m":45.72,"hdg":81,"surf":"Asphalt","rwy1":"07","lat1":39.64102800,"lon1":-106.93175600,"rwy2":"25","lat2":39.64410600,"lon2":-106.90363600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.57,"desc":"ATIS"},
+{"type":"ATIS","freq":135.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":119.8,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":119.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":109.75,"lat":39.63973300,"lon":-106.93275000,"rng_nm":18,"alt_fmsl":6461,"id":"IESJ","rwy":"25","desc":"LDA"},
+{"type":"DME","freq":109.75,"lat":39.63973300,"lon":-106.93275000,"rng_nm":18,"alt_fmsl":6473,"id":"IESJ","rwy":"25","desc":"DME-ILS"}
+]
+}

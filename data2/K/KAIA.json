@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAIA","name":"Alliance Muni","lat":42.06185029,"lon":-102.80766687,"rwys":3,"ils":0,"elev":3931,"index":1270016,"path":"w110n40/w103n42"
+,"runways":[
+{"len_m":2806,"wid_m":46.02,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":42.06001362,"lon1":-102.81857571,"rwy2":"30","lat2":42.04233938,"lon2":-102.79435444},
+{"len_m":1943,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":42.05941106,"lon1":-102.79507636,"rwy2":"35","lat2":42.04191299,"lon2":-102.79482958},
+{"len_m":1964,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":42.05866398,"lon1":-102.82035240,"rwy2":"26","lat2":42.05887928,"lon2":-102.79661835}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

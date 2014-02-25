@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTHV","name":"York","lat":39.9169955,"lon":-76.873026,"rwys":1,"ils":0,"elev":480,"index":1695864,"path":"w080n30/w077n39"
+,"runways":[
+{"len_m":1581,"wid_m":30.48,"hdg":155,"surf":"Asphalt","rwy1":"17","lat1":39.92346900,"lon1":-76.87688300,"rwy2":"35","lat2":39.91052200,"lon2":-76.86916900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.65,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.1,"desc":"HARRISBURG APP/DEP"}
+]
+,"ils":[
+]
+}

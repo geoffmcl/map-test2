@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCFJ","name":"Crawfordsville Muni","lat":39.9756295,"lon":-86.9198635,"rwys":1,"ils":0,"elev":799,"index":1532024,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":39.97110600,"lon1":-86.92533300,"rwy2":"22","lat2":39.98015300,"lon2":-86.91439400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.05,"desc":"INDIANAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

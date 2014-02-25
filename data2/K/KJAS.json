@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJAS","name":"Jasper Co Bell Fld","lat":30.885707,"lon":-94.0349365,"rwys":1,"ils":0,"elev":213,"index":1400379,"path":"w100n30/w095n30"
+,"runways":[
+{"len_m":1676,"wid_m":21.34,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":30.89326700,"lon1":-94.03479200,"rwy2":"36","lat2":30.87814700,"lon2":-94.03508100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

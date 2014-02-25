@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBVI","name":"Beaver Co","lat":40.7724705,"lon":-80.3914305,"rwys":1,"ils":0,"elev":1253,"index":1630386,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1371,"wid_m":30.48,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":40.77288300,"lon1":-80.39953600,"rwy2":"28","lat2":40.77205800,"lon2":-80.38332500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.35,"desc":"ATIS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CLD","freq":124.85,"desc":"PITTSBURGH CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":124.75,"desc":"PITTSBURGH APP/DEP"}
+]
+,"ils":[
+]
+}

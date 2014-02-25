@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBHK","name":"Baker Muni","lat":46.35626200,"lon":-104.27075200,"rwys":1,"ils":0,"elev":2973,"index":1237522,"path":"w110n40/w105n46"
+,"runways":[
+{"len_m":1492,"wid_m":22.86,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":46.35260300,"lon1":-104.26596900,"rwy2":"31","lat2":46.34266900,"lon2":-104.25292500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.47,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

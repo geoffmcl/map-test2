@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEBG","name":"Edinburg Intl","lat":26.44201675,"lon":-98.12763525,"rwys":2,"ils":0,"elev":75,"index":1334555,"path":"w100n20/w099n26"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":26.44722800,"lon1":-98.12671900,"rwy2":"32","lat2":26.43611700,"lon2":-98.11771100},
+{"len_m":948,"wid_m":45.72,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":26.44583300,"lon1":-98.13583300,"rwy2":"31","lat2":26.43888900,"lon2":-98.13027800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"CORPUS APP DEP"}
+]
+,"ils":[
+]
+}

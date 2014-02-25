@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEPH","name":"Ephrata Muni","lat":47.3066235,"lon":-119.514625333333,"rwys":3,"ils":0,"elev":1275,"index":991825,"path":"w120n40/w120n47"
+,"runways":[
+{"len_m":2042,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"02","lat1":47.30436100,"lon1":-119.52393900,"rwy2":"20","lat2":47.31785800,"lon2":-119.50562200},
+{"len_m":2007,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":47.31638900,"lon1":-119.51111100,"rwy2":"34","lat2":47.29833300,"lon2":-119.51138900},
+{"len_m":1171,"wid_m":18.29,"hdg":127,"surf":"Concrete","rwy1":"11","lat1":47.30462200,"lon1":-119.52397200,"rwy2":"29","lat2":47.29817800,"lon2":-119.51171900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.4,"desc":"GRANT CO APP/DEP"}
+]
+,"ils":[
+]
+}

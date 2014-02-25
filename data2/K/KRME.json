@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRME","name":"Griffiss International","lat":43.2337985,"lon":-75.407033,"rwys":1,"ils":2,"elev":504,"index":1712458,"path":"w080n40/w076n43"
+,"runways":[
+{"len_m":3603,"wid_m":60.96,"hdg":134,"surf":"Concrete","rwy1":"15","lat1":43.24507800,"lon1":-75.42297200,"rwy2":"33","lat2":43.22251900,"lon2":-75.39109400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"APP","freq":120.92,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":43.22046100,"lon":-75.38818600,"rng_nm":18,"alt_fmsl":504,"hdg":134.18,"id":"IFYQ","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":43.24780800,"lon":-75.42685600,"rng_nm":18,"alt_fmsl":504,"hdg":314.13,"id":"IRME","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":43.24412800,"lon":-75.41893900,"rng_nm":10,"alt_fmsl":504,"id":"IFYQ","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":43.22429400,"lon":-75.39638600,"rng_nm":10,"alt_fmsl":504,"id":"IRME","rwy":"33","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":43.25060300,"lon":-75.43078600,"rng_nm":0,"alt_fmsl":504,"id":"----","rwy":"15","desc":"MM"},
+{"type":"MM","freq":0,"lat":43.21618100,"lon":-75.38295000,"rng_nm":0,"alt_fmsl":504,"id":"----","rwy":"33","desc":"MM"}
+]
+}

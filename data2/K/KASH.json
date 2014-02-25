@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KASH","name":"Boire Field Nashua","lat":42.78012400,"lon":-71.51589593,"rwys":1,"ils":1,"elev":199,"index":1777969,"path":"w080n40/w072n42"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"14","lat1":42.78583300,"lon1":-71.52339400,"rwy2":"32","lat2":42.77768100,"lon2":-71.50615300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.1,"desc":"ASOS"},
+{"type":"CTAF","freq":133.2,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":133.2,"desc":"NASHUA TWR"},
+{"type":"APP","freq":124.9,"desc":"BOSTON APP/DEP"},
+{"type":"APP","freq":134.75,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":42.77679200,"lon":-71.50427800,"rng_nm":18,"alt_fmsl":186,"hdg":122.80,"id":"IASH","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":42.78493300,"lon":-71.51955800,"rng_nm":10,"alt_fmsl":194,"id":"IASH","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.82339200,"lon":-71.60215300,"rng_nm":0,"alt_fmsl":218,"id":"----","rwy":"14","desc":"OM"}
+]
+}

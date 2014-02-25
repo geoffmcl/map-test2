@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPFN","name":"Panama City Bay Co Intl","lat":30.21375500,"lon":-85.68228900,"rwys":2,"ils":1,"elev":20,"index":1547785,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":1922,"wid_m":45.72,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":30.21962200,"lon1":-85.68838300,"rwy2":"32","lat2":30.20588900,"lon2":-85.67618600},
+{"len_m":1488,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":30.20647500,"lon1":-85.68895600,"rwy2":"23","lat2":30.21591100,"lon2":-85.67795600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.97,"desc":"ATIS"},
+{"type":"CTAF","freq":120.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.75,"desc":"TYNDALL APP/DEP"},
+{"type":"APP","freq":124.15,"desc":"TYNDALL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":30.20492200,"lon":-85.67532800,"rng_nm":18,"alt_fmsl":21,"hdg":142.49,"id":"IPFN","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":30.21786100,"lon":-85.68561700,"rng_nm":10,"alt_fmsl":9,"id":"IPFN","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.32664400,"lon":-85.78228900,"rng_nm":0,"alt_fmsl":20,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.22747800,"lon":-85.69543100,"rng_nm":0,"alt_fmsl":20,"id":"----","rwy":"14","desc":"MM"}
+]
+}

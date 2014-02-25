@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMKO","name":"Davis Fld","lat":35.6593816666667,"lon":-95.36213,"rwys":3,"ils":0,"elev":612,"index":1384298,"path":"w100n30/w096n35"
+,"runways":[
+{"len_m":2194,"wid_m":45.72,"hdg":136,"surf":"Concrete","rwy1":"13","lat1":35.66073600,"lon1":-95.36665600,"rwy2":"31","lat2":35.64637200,"lon2":-95.34999200},
+{"len_m":1371,"wid_m":22.86,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":35.65701900,"lon1":-95.37109700,"rwy2":"22","lat2":35.66551900,"lon2":-95.36009700},
+{"len_m":579,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":35.66593300,"lon1":-95.36246900,"rwy2":"36","lat2":35.66071100,"lon2":-95.36246900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

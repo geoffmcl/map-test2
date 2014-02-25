@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCBF","name":"Council Bluffs Municipal","lat":41.25853265,"lon":-95.76281215,"rwys":2,"ils":1,"elev":1253,"index":1384656,"path":"w100n40/w096n41"
+,"runways":[
+{"len_m":1675,"wid_m":29.87,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":41.26859948,"lon1":-95.75745122,"rwy2":"36","lat2":41.25351802,"lon2":-95.75796414},
+{"len_m":1113,"wid_m":17.98,"hdg":140,"surf":"Concrete","rwy1":"14","lat1":41.26256734,"lon1":-95.76430441,"rwy2":"32","lat2":41.25477623,"lon2":-95.75594009}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.5,"desc":"OMAHA APP/DEP"}
+]
+,"ils":[
+{"type":"GS","freq":111.35,"lat":41.25616837,"lon":-95.75908661,"rng_nm":50,"alt_fmsl":1253,"id":"ICBF","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":111.35,"lat":41.27136612,"lon":-95.75728607,"rng_nm":50,"alt_fmsl":1253,"id":"ICBF","rwy":"36","desc":"DME-ILS"}
+]
+}

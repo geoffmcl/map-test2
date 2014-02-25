@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KACP","name":"Allen Parish","lat":30.7504905,"lon":-92.686992,"rwys":1,"ils":0,"elev":107,"index":1433137,"path":"w100n30/w093n30"
+,"runways":[
+{"len_m":1549,"wid_m":22.86,"hdg":169,"surf":"Asphalt","rwy1":"18","lat1":30.75736700,"lon1":-92.68842800,"rwy2":"36","lat2":30.74361400,"lon2":-92.68555600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.7,"desc":"POLK APP/DEP"}
+]
+,"ils":[
+]
+}

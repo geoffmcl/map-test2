@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCPM","name":"Compton Woodley","lat":33.88991475,"lon":-118.2438045,"rwys":2,"ils":0,"elev":97,"index":1007355,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":1012,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"07L","lat1":33.89016400,"lon1":-118.24928100,"rwy2":"25R","lat2":33.89021400,"lon2":-118.23833100},
+{"len_m":1012,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"07R","lat1":33.88961400,"lon1":-118.24927500,"rwy2":"25L","lat2":33.88966700,"lon2":-118.23833100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

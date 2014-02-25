@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBKX","name":"Brookings Rgnl","lat":44.3047385,"lon":-96.8176235,"rwys":2,"ils":1,"elev":1648,"index":1368464,"path":"w100n40/w097n44"
+,"runways":[
+{"len_m":1594,"wid_m":30.48,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":44.30973100,"lon1":-96.82171900,"rwy2":"30","lat2":44.30071700,"lon2":-96.80616900},
+{"len_m":1096,"wid_m":18.29,"hdg":176,"surf":"Asphalt","rwy1":"17","lat1":44.30918100,"lon1":-96.82167800,"rwy2":"35","lat2":44.29932500,"lon2":-96.82092800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":44.31145600,"lon":-96.82470000,"rng_nm":18,"alt_fmsl":1604,"hdg":308.99,"id":"IBKX","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":44.30145600,"lon":-96.80993300,"rng_nm":10,"alt_fmsl":1628,"id":"IBKX","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.23961700,"lon":-96.70131400,"rng_nm":0,"alt_fmsl":1648,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.29653900,"lon":-96.79896100,"rng_nm":0,"alt_fmsl":1648,"id":"----","rwy":"30","desc":"MM"}
+]
+}

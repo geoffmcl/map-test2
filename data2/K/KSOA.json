@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSOA","name":"Sonora Muni","lat":30.5857,"lon":-100.648561,"rwys":1,"ils":0,"elev":2140,"index":1302049,"path":"w110n30/w101n30"
+,"runways":[
+{"len_m":1230,"wid_m":18.29,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":30.59116400,"lon1":-100.64745000,"rwy2":"36","lat2":30.58023600,"lon2":-100.64967200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFFZ","name":"Falcon Fld","lat":33.4609325,"lon":-111.728454,"rwys":2,"ils":0,"elev":1394,"index":1122009,"path":"w120n30/w112n33"
+,"runways":[
+{"len_m":1554,"wid_m":30.48,"hdg":51,"surf":"Asphalt","rwy1":"04R","lat1":33.45589700,"lon1":-111.73408900,"rwy2":"22L","lat2":33.46468600,"lon2":-111.72106100},
+{"len_m":1157,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"04L","lat1":33.45830000,"lon1":-111.73418300,"rwy2":"22R","lat2":33.46484700,"lon2":-111.72448300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"ATIS"},
+{"type":"CTAF","freq":124.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.3,"desc":"GND"},
+{"type":"TWR","freq":124.6,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"PHOENIX APP/DEP"}
+]
+,"ils":[
+]
+}

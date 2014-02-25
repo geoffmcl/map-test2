@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMYF","name":"Montgomery Fld","lat":32.81697155,"lon":-117.13529789,"rwys":3,"ils":1,"elev":427,"index":1023667,"path":"w120n30/w118n32"
+,"runways":[
+{"len_m":1397,"wid_m":46.02,"hdg":114,"surf":"Asphalt","rwy1":"10L","lat1":32.81814275,"lon1":-117.14463123,"rwy2":"28R","lat2":32.81281735,"lon2":-117.13110405},
+{"len_m":1038,"wid_m":46.02,"hdg":64,"surf":"Asphalt","rwy1":"05","lat1":32.81482458,"lon1":-117.14599164,"rwy2":"23","lat2":32.81878212,"lon2":-117.13594318},
+{"len_m":1038,"wid_m":17.98,"hdg":114,"surf":"Asphalt","rwy1":"10R","lat1":32.81689930,"lon1":-117.14530872,"rwy2":"28L","lat2":32.81295696,"lon2":-117.13524909}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":29.87,"hdg":-117,"surf":"Asphalt","lat1":32.81211937,"lon1":-117.13880952},
+{"rwy1":"H2","len_m":22,"wid_m":27.13,"hdg":-117,"surf":"Asphalt","lat1":32.81445055,"lon1":-117.14161875}
+]
+,"radios":[
+{"type":"ATIS","freq":126.9,"desc":"ATIS"},
+{"type":"CTAF","freq":119.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.72,"desc":"CLNC DEL"},
+{"type":"CLD","freq":127.45,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.22,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"TWR","freq":125.7,"desc":"TWR"},
+{"type":"APP","freq":124.35,"desc":"SOCAL APP"},
+{"type":"DEP","freq":119.6,"desc":"SOCAL DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":32.81885600,"lon":-117.14645000,"rng_nm":18,"alt_fmsl":411,"hdg":295.10,"id":"IMYF","rwy":"28R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":32.81447800,"lon":-117.13724200,"rng_nm":10,"alt_fmsl":423,"id":"IMYF","rwy":"28R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.77986400,"lon":-117.04491900,"rng_nm":0,"alt_fmsl":537,"id":"----","rwy":"28R","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.81066100,"lon":-117.12559700,"rng_nm":0,"alt_fmsl":427,"id":"----","rwy":"28R","desc":"MM"},
+{"type":"DME","freq":111.7,"lat":32.81969400,"lon":-117.14647500,"rng_nm":18,"alt_fmsl":428,"id":"IMYF","rwy":"28R","desc":"DME-ILS"}
+]
+}

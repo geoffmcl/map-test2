@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAPV","name":"Apple Valley","lat":34.574265,"lon":-117.186377,"rwys":2,"ils":0,"elev":3062,"index":1023779,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1980,"wid_m":45.72,"hdg":196,"surf":"Asphalt","rwy1":"18","lat1":34.58754700,"lon1":-117.18254400,"rwy2":"36","lat2":34.57039400,"lon2":-117.18852200},
+{"len_m":1249,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":34.56955800,"lon1":-117.19402800,"rwy2":"26","lat2":34.56956100,"lon2":-117.18041400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.55,"desc":"JOSHUA APP/DEP"}
+]
+,"ils":[
+]
+}

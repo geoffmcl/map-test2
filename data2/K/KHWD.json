@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHWD","name":"Hayward Executive","lat":37.66268849,"lon":-122.12127955,"rwys":2,"ils":1,"elev":52,"index":942059,"path":"w130n30/w123n37"
+,"runways":[
+{"len_m":1735,"wid_m":46.02,"hdg":119,"surf":"Asphalt","rwy1":"10R","lat1":37.66204400,"lon1":-122.12979200,"rwy2":"28L","lat2":37.65426100,"lon2":-122.11273300},
+{"len_m":946,"wid_m":22.86,"hdg":119,"surf":"Asphalt","rwy1":"10L","lat1":37.66247500,"lon1":-122.12726100,"rwy2":"28R","lat2":37.65822800,"lon2":-122.11795300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":-122,"surf":"Asphalt","lat1":37.65731936,"lon1":-122.12232009}
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":120.2,"desc":"CTAF"},
+{"type":"CLD","freq":128.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.4,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"NORCAL APP"},
+{"type":"APP","freq":134.5,"desc":"NORCAL APP"},
+{"type":"APP","freq":124.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.5,"lat":37.66283300,"lon":-122.12965300,"rng_nm":18,"alt_fmsl":27,"id":"IHWD","rwy":"28L","desc":"LOC"},
+{"type":"DME","freq":111.5,"lat":37.66289700,"lon":-122.12985600,"rng_nm":18,"alt_fmsl":42,"id":"IHWD","rwy":"28L","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMDH","name":"Southern Illinois","lat":37.7782835,"lon":-89.253087,"rwys":3,"ils":1,"elev":411,"index":1482738,"path":"w090n30/w090n37"
+,"runways":[
+{"len_m":1982,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18L","lat1":37.79051400,"lon1":-89.24788600,"rwy2":"36R","lat2":37.77265300,"lon2":-89.24836700},
+{"len_m":1268,"wid_m":30.48,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":37.77552800,"lon1":-89.25880300,"rwy2":"24","lat2":37.78112800,"lon2":-89.24624700},
+{"len_m":1065,"wid_m":18.29,"hdg":181,"surf":"Asphalt","rwy1":"18R","lat1":37.77973900,"lon1":-89.25848300,"rwy2":"36L","lat2":37.77013900,"lon2":-89.25873600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.85,"desc":"ATIS"},
+{"type":"CTAF","freq":125.35,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.35,"desc":"CARBONDALE TWR"},
+{"type":"TWR","freq":126.25,"desc":"CARBONDALE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.76908600,"lon":-89.24846100,"rng_nm":18,"alt_fmsl":407,"hdg":181.22,"id":"IMDH","rwy":"18L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.78579400,"lon":-89.24671700,"rng_nm":10,"alt_fmsl":406,"id":"IMDH","rwy":"18L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.87005600,"lon":-89.24552800,"rng_nm":0,"alt_fmsl":411,"id":"----","rwy":"18L","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.79641700,"lon":-89.24772200,"rng_nm":0,"alt_fmsl":411,"id":"----","rwy":"18L","desc":"MM"}
+]
+}

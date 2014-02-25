@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBWD","name":"Brownwood Rgnl","lat":31.7935465,"lon":-98.95665275,"rwys":2,"ils":1,"elev":1387,"index":1334896,"path":"w100n30/w099n31"
+,"runways":[
+{"len_m":1706,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":31.80188600,"lon1":-98.95507800,"rwy2":"35","lat2":31.78649700,"lon2":-98.95487800},
+{"len_m":1400,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":31.79731400,"lon1":-98.96361900,"rwy2":"31","lat2":31.78848900,"lon2":-98.95303600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":31.78443900,"lon":-98.95485000,"rng_nm":18,"alt_fmsl":1387,"id":"IBWD","rwy":"17","desc":"LOC"},
+{"type":"OM","freq":0,"lat":31.86336400,"lon":-98.95473100,"rng_nm":0,"alt_fmsl":1387,"id":"----","rwy":"17","desc":"OM"}
+]
+}

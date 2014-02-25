@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHLG","name":"Wheeling Ohio Co","lat":40.175028,"lon":-80.64620625,"rwys":2,"ils":1,"elev":1195,"index":1630345,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":40.16856700,"lon1":-80.65131100,"rwy2":"21","lat2":40.18090600,"lon2":-80.64346100},
+{"len_m":1371,"wid_m":45.72,"hdg":151,"surf":"Asphalt","rwy1":"16","lat1":40.18072200,"lon1":-80.64892500,"rwy2":"34","lat2":40.16991700,"lon2":-80.64112800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.37,"desc":"ASOS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.65,"desc":"PITTSBURG APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":40.18139700,"lon":-80.64315300,"rng_nm":18,"alt_fmsl":1188,"hdg":25.91,"id":"HLG","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":40.17141100,"lon":-80.64870000,"rng_nm":10,"alt_fmsl":1156,"id":"HLG","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.10963900,"lon":-80.68869700,"rng_nm":0,"alt_fmsl":1195,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.15920800,"lon":-80.65730600,"rng_nm":0,"alt_fmsl":1195,"id":"----","rwy":"03","desc":"MM"}
+]
+}

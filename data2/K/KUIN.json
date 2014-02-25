@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KUIN","name":"Quincy Rgnl Baldwin Fld","lat":39.9427730033333,"lon":-91.1948090066667,"rwys":3,"ils":1,"elev":769,"index":1450107,"path":"w100n30/w092n39"
+,"runways":[
+{"len_m":2144,"wid_m":46.02,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":39.93622468,"lon1":-91.19951358,"rwy2":"22","lat2":39.95099511,"lon2":-91.18334439},
+{"len_m":1778,"wid_m":46.02,"hdg":178,"surf":"Concrete","rwy1":"18","lat1":39.95211416,"lon1":-91.19939876,"rwy2":"36","lat2":39.93609759,"lon2":-91.19903428},
+{"len_m":1637,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":39.94584185,"lon1":-91.20051935,"rwy2":"31","lat2":39.93536462,"lon2":-91.18704366}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":39.95310000,"lon":-91.18087500,"rng_nm":18,"alt_fmsl":747,"hdg":40.26,"id":"IUIN","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":39.93697500,"lon":-91.19678100,"rng_nm":10,"alt_fmsl":759,"id":"IUIN","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.88699200,"lon":-91.25361700,"rng_nm":0,"alt_fmsl":769,"id":"----","rwy":"04","desc":"OM"}
+]
+}

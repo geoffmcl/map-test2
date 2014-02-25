@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVTA","name":"Newark Heath","lat":40.024661,"lon":-82.4618125,"rwys":1,"ils":1,"elev":884,"index":1597570,"path":"w090n40/w083n40"
+,"runways":[
+{"len_m":1416,"wid_m":22.86,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":40.02431900,"lon1":-82.47010000,"rwy2":"27","lat2":40.02500300,"lon2":-82.45352500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":124.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.2,"desc":"COLUMBUS APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":40.02517500,"lon":-82.44837500,"rng_nm":18,"alt_fmsl":860,"id":"IRXK","rwy":"09","desc":"SDF"}
+]
+}

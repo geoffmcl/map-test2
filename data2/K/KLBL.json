@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLBL","name":"Liberal Muni","lat":37.04501700,"lon":-100.95178200,"rwys":2,"ils":1,"elev":2885,"index":1302464,"path":"w110n30/w101n37"
+,"runways":[
+{"len_m":2165,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":37.05394400,"lon1":-100.95643900,"rwy2":"35","lat2":37.03443300,"lon2":-100.95639200},
+{"len_m":1743,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"03","lat1":37.03867500,"lon1":-100.97104700,"rwy2":"21","lat2":37.04980300,"lon2":-100.95721700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":37.05750600,"lon":-100.95644700,"rng_nm":18,"alt_fmsl":2876,"hdg":359.89,"id":"ILBL","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":37.03745600,"lon":-100.95743100,"rng_nm":10,"alt_fmsl":2873,"id":"ILBL","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.96455300,"lon":-100.95627800,"rng_nm":0,"alt_fmsl":2845,"id":"----","rwy":"35","desc":"OM"}
+]
+}

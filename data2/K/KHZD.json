@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHZD","name":"Carroll Co","lat":36.0906305,"lon":-88.4629445,"rwys":1,"ils":0,"elev":496,"index":1499010,"path":"w090n30/w089n36"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":36.08324700,"lon1":-88.46491100,"rwy2":"19","lat2":36.09801400,"lon2":-88.46097800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

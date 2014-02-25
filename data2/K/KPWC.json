@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPWC","name":"Pine River Rgnl","lat":46.7247875,"lon":-94.3817,"rwys":1,"ils":0,"elev":1295,"index":1401386,"path":"w100n40/w095n46"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":46.72871700,"lon1":-94.38346700,"rwy2":"34","lat2":46.72085800,"lon2":-94.37993300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDHN","name":"Dothan Rgnl","lat":31.31853900,"lon":-85.45274500,"rwys":2,"ils":1,"elev":401,"index":1547858,"path":"w090n30/w086n31"
+,"runways":[
+{"len_m":2590,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":31.33059200,"lon1":-85.46164700,"rwy2":"32","lat2":31.31408900,"lon2":-85.44238600},
+{"len_m":1524,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":31.32654400,"lon1":-85.44555800,"rwy2":"36","lat2":31.31279700,"lon2":-85.44555600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"CAIRNS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":31.33155000,"lon":-85.46276900,"rng_nm":18,"alt_fmsl":401,"hdg":315.07,"id":"IDHN","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":31.31729200,"lon":-85.44431100,"rng_nm":10,"alt_fmsl":374,"id":"IDHN","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.25042500,"lon":-85.36943300,"rng_nm":0,"alt_fmsl":401,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.30878300,"lon":-85.43632200,"rng_nm":0,"alt_fmsl":401,"id":"----","rwy":"32","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAZC","name":"Colorado City Muni","lat":36.95991875,"lon":-113.0137735,"rwys":2,"ils":0,"elev":4874,"index":1089467,"path":"w120n30/w114n36"
+,"runways":[
+{"len_m":1919,"wid_m":22.86,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":36.96470300,"lon1":-113.02388900,"rwy2":"29","lat2":36.95539400,"lon2":-113.00571900},
+{"len_m":1553,"wid_m":18.29,"hdg":27,"surf":"Asphalt","rwy1":"01","lat1":36.95360600,"lon1":-113.01683600,"rwy2":"19","lat2":36.96597200,"lon2":-113.00865000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

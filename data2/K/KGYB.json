@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGYB","name":"Giddings Lee Co","lat":30.1692665,"lon":-96.980018,"rwys":1,"ils":0,"elev":485,"index":1367560,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":30.17473900,"lon1":-96.98065000,"rwy2":"35","lat2":30.16379400,"lon2":-96.97938600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.15,"desc":"HOUSTON CNTR"}
+]
+,"ils":[
+]
+}

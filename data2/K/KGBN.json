@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGBN","name":"Gila Bend Af Aux","lat":32.8885638333333,"lon":-112.724910333333,"rwys":3,"ils":0,"elev":858,"index":1105593,"path":"w120n30/w113n32"
+,"runways":[
+{"len_m":2588,"wid_m":45.72,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":32.89916700,"lon1":-112.71971900,"rwy2":"35","lat2":32.87583300,"lon2":-112.72028100},
+{"len_m":1578,"wid_m":45.72,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":32.88722200,"lon1":-112.73473100,"rwy2":"23","lat2":32.89416400,"lon2":-112.72000000},
+{"len_m":1594,"wid_m":45.72,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":32.89110800,"lon1":-112.73473100,"rwy2":"29","lat2":32.88388900,"lon2":-112.72000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.75,"desc":"TWR"},
+{"type":"APP","freq":125.45,"desc":"LUKE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGCT","name":"Guthrie County Rgnl","lat":41.686994,"lon":-94.435058,"rwys":1,"ils":0,"elev":1230,"index":1401066,"path":"w100n40/w095n41"
+,"runways":[
+{"len_m":1038,"wid_m":18.29,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":41.69166900,"lon1":-94.43505800,"rwy2":"36","lat2":41.68231900,"lon2":-94.43505800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.2,"desc":"DES MOINES APP/DEP"}
+]
+,"ils":[
+]
+}

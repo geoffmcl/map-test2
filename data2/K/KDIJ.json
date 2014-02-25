@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDIJ","name":"Driggs Reed Mem","lat":43.7424595,"lon":-111.0974945,"rwys":1,"ils":0,"elev":6229,"index":1122667,"path":"w120n40/w112n43"
+,"runways":[
+{"len_m":2224,"wid_m":22.86,"hdg":48,"surf":"Asphalt","rwy1":"03","lat1":43.73578600,"lon1":-111.10778900,"rwy2":"21","lat2":43.74913300,"lon2":-111.08720000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

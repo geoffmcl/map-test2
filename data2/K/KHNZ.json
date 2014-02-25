@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHNZ","name":"Henderson Oxford","lat":36.3615615,"lon":-78.5291875,"rwys":1,"ils":0,"elev":527,"index":1662865,"path":"w080n30/w079n36"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":51,"surf":"Asphalt","rwy1":"06","lat1":36.35725600,"lon1":-78.53580800,"rwy2":"24","lat2":36.36586700,"lon2":-78.52256700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.35,"desc":"RALEIGH APP/DEP"}
+]
+,"ils":[
+]
+}

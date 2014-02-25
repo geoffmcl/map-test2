@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMPI","name":"Mariposa-yosemite Airport","lat":37.50929483,"lon":-120.03831457,"rwys":1,"ils":0,"elev":2254,"index":974819,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":1007,"wid_m":17.98,"hdg":99,"surf":"Asphalt","rwy1":"08","lat1":37.51163300,"lon1":-120.04515600,"rwy2":"26","lat2":37.51010600,"lon2":-120.03392200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":15.85,"hdg":-120,"surf":"Asphalt","lat1":37.50960240,"lon1":-120.03605469},
+{"rwy1":"H2","len_m":14,"wid_m":15.85,"hdg":-120,"surf":"Asphalt","lat1":37.50955472,"lon1":-120.03572621},
+{"rwy1":"H3","len_m":14,"wid_m":15.85,"hdg":-120,"surf":"Asphalt","lat1":37.50951037,"lon1":-120.03539912}
+]
+,"radios":[
+{"type":"ATIS","freq":135.6,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.25,"desc":"OAKLAND CNTR"}
+]
+,"ils":[
+]
+}

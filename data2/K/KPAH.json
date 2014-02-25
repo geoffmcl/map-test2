@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPAH","name":"Barkley Rgnl","lat":37.06032,"lon":-88.77288275,"rwys":2,"ils":1,"elev":410,"index":1499072,"path":"w090n30/w089n37"
+,"runways":[
+{"len_m":1980,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":37.05348100,"lon1":-88.78147800,"rwy2":"22","lat2":37.06638600,"lon2":-88.76609200},
+{"len_m":1676,"wid_m":45.72,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":37.06644400,"lon1":-88.77810800,"rwy2":"32","lat2":37.05496900,"lon2":-88.76585300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":119.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"PADUCAH TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":37.06806900,"lon":-88.76408300,"rng_nm":18,"alt_fmsl":379,"hdg":43.58,"id":"IPAH","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":37.05522800,"lon":-88.77821400,"rng_nm":10,"alt_fmsl":405,"id":"IPAH","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.00861400,"lon":-88.83665800,"rng_nm":0,"alt_fmsl":410,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.04877800,"lon":-88.78725000,"rng_nm":0,"alt_fmsl":410,"id":"----","rwy":"04","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDLC","name":"Dillon Co","lat":34.44859300,"lon":-79.36870600,"rwys":1,"ils":0,"elev":133,"index":1646362,"path":"w080n30/w080n34"
+,"runways":[
+{"len_m":914,"wid_m":18.29,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":34.44724200,"lon1":-79.37306100,"rwy2":"25","lat2":34.45086400,"lon2":-79.36411900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"FLORENCE APP/DEP"}
+]
+,"ils":[
+]
+}

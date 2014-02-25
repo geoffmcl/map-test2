@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDVN","name":"Davenport Muni","lat":41.61054425,"lon":-90.588329,"rwys":2,"ils":1,"elev":753,"index":1466593,"path":"w100n40/w091n41"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":149,"surf":"Concrete","rwy1":"15","lat1":41.61536400,"lon1":-90.59339700,"rwy2":"33","lat2":41.60234700,"lon2":-90.58320800},
+{"len_m":1219,"wid_m":30.48,"hdg":29,"surf":"Concrete","rwy1":"03","lat1":41.60745800,"lon1":-90.59196700,"rwy2":"21","lat2":41.61700800,"lon2":-90.58474400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.35,"desc":"QUAD CITY CLNC DEL"},
+{"type":"APP","freq":125.95,"desc":"QUAD CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":41.59998100,"lon":-90.58135300,"rng_nm":18,"alt_fmsl":738,"hdg":149.66,"id":"IDVN","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":41.61230800,"lon":-90.59270600,"rng_nm":10,"alt_fmsl":751,"id":"IDVN","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.69483600,"lon":-90.65583600,"rng_nm":0,"alt_fmsl":748,"id":"----","rwy":"15","desc":"OM"},
+{"type":"DME","freq":109.1,"lat":41.60448600,"lon":-90.58380600,"rng_nm":18,"alt_fmsl":753,"id":"IDVN","rwy":"15","desc":"DME-ILS"}
+]
+}

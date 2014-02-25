@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTKX","name":"Kennett Mem","lat":36.22655975,"lon":-90.03620425,"rwys":2,"ils":0,"elev":262,"index":1466251,"path":"w100n30/w091n36"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":17,"surf":"Concrete","rwy1":"02","lat1":36.21721400,"lon1":-90.04056700,"rwy2":"20","lat2":36.23028600,"lon2":-90.03536400},
+{"len_m":918,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":36.23350600,"lon1":-90.03457500,"rwy2":"36","lat2":36.22523300,"lon2":-90.03431100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

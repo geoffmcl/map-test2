@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBJI","name":"Bemidji Rgnl","lat":47.50939575,"lon":-94.933733,"rwys":2,"ils":1,"elev":1390,"index":1401440,"path":"w100n40/w095n47"
+,"runways":[
+{"len_m":2011,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":47.51598300,"lon1":-94.94304400,"rwy2":"31","lat2":47.50341700,"lon2":-94.92383600},
+{"len_m":1736,"wid_m":45.72,"hdg":73,"surf":"Asphalt","rwy1":"07","lat1":47.50693900,"lon1":-94.94510800,"rwy2":"25","lat2":47.51124400,"lon2":-94.92294400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":47.51750600,"lon":-94.94537200,"rng_nm":18,"alt_fmsl":1390,"hdg":314.08,"id":"IMDI","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":47.50610800,"lon":-94.92561900,"rng_nm":10,"alt_fmsl":1384,"id":"IMDI","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.44500300,"lon":-94.83503300,"rng_nm":0,"alt_fmsl":1350,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.49781400,"lon":-94.91522200,"rng_nm":0,"alt_fmsl":1390,"id":"----","rwy":"31","desc":"MM"}
+]
+}

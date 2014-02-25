@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOWB","name":"Owensboro Daviess Co","lat":37.74644900,"lon":-87.16309400,"rwys":2,"ils":1,"elev":406,"index":1515499,"path":"w090n30/w088n37"
+,"runways":[
+{"len_m":1979,"wid_m":45.72,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":37.74890300,"lon1":-87.16776400,"rwy2":"36","lat2":37.73108100,"lon2":-87.16687200},
+{"len_m":1523,"wid_m":30.48,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":37.73603600,"lon1":-87.17301700,"rwy2":"23","lat2":37.74449400,"lon2":-87.15939700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.32,"desc":"ASOS"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":126.4,"desc":"EVANSVILLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":37.75198300,"lon":-87.16791900,"rng_nm":18,"alt_fmsl":406,"hdg":357.73,"id":"IOWB","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":37.73400000,"lon":-87.16814400,"rng_nm":10,"alt_fmsl":400,"id":"IOWB","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.63528600,"lon":-87.16165600,"rng_nm":0,"alt_fmsl":406,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.72422500,"lon":-87.16642500,"rng_nm":0,"alt_fmsl":406,"id":"----","rwy":"36","desc":"MM"}
+]
+}

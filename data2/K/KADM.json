@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KADM","name":"Ardmore Muni","lat":34.303193375,"lon":-97.01676075,"rwys":4,"ils":1,"elev":762,"index":1351443,"path":"w100n30/w098n34"
+,"runways":[
+{"len_m":2202,"wid_m":45.72,"hdg":84,"surf":"Concrete","rwy1":"08","lat1":34.30603300,"lon1":-97.02321900,"rwy2":"26","lat2":34.30777800,"lon2":-96.99938900},
+{"len_m":2200,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":34.31125300,"lon1":-97.02510600,"rwy2":"31","lat2":34.29712500,"lon2":-97.00832500},
+{"len_m":2060,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":34.29326700,"lon1":-97.02342200,"rwy2":"22","lat2":34.30630800,"lon2":-97.00748300},
+{"len_m":1525,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":34.30876900,"lon1":-97.02351100,"rwy2":"35","lat2":34.29501400,"lon2":-97.02363100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":34.31310000,"lon":-97.02730000,"rng_nm":18,"alt_fmsl":788,"hdg":315.54,"id":"IAIW","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":34.29987200,"lon":-97.00972800,"rng_nm":10,"alt_fmsl":729,"id":"IAIW","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.23236100,"lon":-96.93313900,"rng_nm":0,"alt_fmsl":715,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.29080600,"lon":-97.00083300,"rng_nm":0,"alt_fmsl":762,"id":"----","rwy":"31","desc":"MM"}
+]
+}

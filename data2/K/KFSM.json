@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFSM","name":"Fort Smith Rgnl","lat":35.3369775,"lon":-94.367225,"rwys":2,"ils":1,"elev":469,"index":1400658,"path":"w100n30/w095n35"
+,"runways":[
+{"len_m":2438,"wid_m":45.72,"hdg":81,"surf":"Asphalt","rwy1":"07","lat1":35.33360800,"lon1":-94.38142500,"rwy2":"25","lat2":35.33697200,"lon2":-94.35491900},
+{"len_m":1524,"wid_m":45.72,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":35.33225800,"lon1":-94.36930600,"rwy2":"19","lat2":35.34507200,"lon2":-94.36325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.3,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CLD","freq":133.85,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":120.17,"desc":"RAZORBACK APP"},
+{"type":"APP","freq":120.9,"desc":"RAZORBACK APP"},
+{"type":"APP","freq":134.52,"desc":"RAZORBACK APP"},
+{"type":"DEP","freq":120.9,"desc":"RAZORBACK DEP"},
+{"type":"DEP","freq":134.52,"desc":"RAZORBACK DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":35.33740800,"lon":-94.35147500,"rng_nm":18,"alt_fmsl":448,"hdg":81.17,"id":"IGKV","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":35.33314200,"lon":-94.38510300,"rng_nm":18,"alt_fmsl":469,"hdg":261.15,"id":"IFSM","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":35.33319200,"lon":-94.37703600,"rng_nm":10,"alt_fmsl":458,"id":"IGKV","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":35.33538300,"lon":-94.35869200,"rng_nm":10,"alt_fmsl":438,"id":"IFSM","rwy":"25","desc":"GS","gs":2.96},
+{"type":"OM","freq":0,"lat":35.32270800,"lon":-94.47416400,"rng_nm":0,"alt_fmsl":420,"id":"----","rwy":"07","desc":"OM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMAL","name":"Malone-dufort","lat":44.85362931,"lon":-74.32863991,"rwys":2,"ils":0,"elev":790,"index":1728946,"path":"w080n40/w075n44"
+,"runways":[
+{"len_m":1215,"wid_m":30.48,"hdg":36,"surf":"Asphalt","rwy1":"05","lat1":44.84948404,"lon1":-74.33630548,"rwy2":"23","lat2":44.85822502,"lon2":-74.32706138},
+{"len_m":989,"wid_m":22.86,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":44.85607688,"lon1":-74.33060331,"rwy2":"32","lat2":44.85073129,"lon2":-74.32058947}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

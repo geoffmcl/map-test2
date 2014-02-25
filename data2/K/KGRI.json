@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGRI","name":"Central Nebraska Rgnl","lat":40.97089168,"lon":-98.31831723,"rwys":2,"ils":1,"elev":1847,"index":1335482,"path":"w100n40/w099n40"
+,"runways":[
+{"len_m":2753,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":40.97991882,"lon1":-98.31476003,"rwy2":"35","lat2":40.95512735,"lon2":-98.31493194},
+{"len_m":2016,"wid_m":29.87,"hdg":135,"surf":"Concrete","rwy1":"13","lat1":40.97839258,"lon1":-98.31177071,"rwy2":"31","lat2":40.96548942,"lon2":-98.29491811}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.2,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"GRAND ISLAND TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":40.98190000,"lon":-98.31474400,"rng_nm":18,"alt_fmsl":1840,"hdg":0.30,"id":"IGRI","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":40.96125000,"lon":-98.31307800,"rng_nm":10,"alt_fmsl":1846,"id":"IGRI","rwy":"35","desc":"GS","gs":2.6},
+{"type":"OM","freq":0,"lat":40.87288900,"lon":-98.31472200,"rng_nm":0,"alt_fmsl":1850,"id":"----","rwy":"35","desc":"OM"}
+]
+}

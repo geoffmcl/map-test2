@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLVN","name":"Airlake","lat":44.627858,"lon":-93.228097,"rwys":1,"ils":1,"elev":960,"index":1417643,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":44.63044700,"lon1":-93.23508300,"rwy2":"30","lat2":44.62526900,"lon2":-93.22111100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.95,"desc":"CLNC DEL"},
+{"type":"APP","freq":125,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":44.63125800,"lon":-93.23728100,"rng_nm":18,"alt_fmsl":960,"hdg":297.49,"id":"ILVN","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":44.62620300,"lon":-93.22501100,"rng_nm":10,"alt_fmsl":953,"id":"ILVN","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.58699400,"lon":-93.11665800,"rng_nm":0,"alt_fmsl":960,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.62040800,"lon":-93.20796900,"rng_nm":0,"alt_fmsl":960,"id":"----","rwy":"30","desc":"MM"}
+]
+}

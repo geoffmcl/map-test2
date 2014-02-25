@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMKG","name":"Muskegon Co","lat":43.1700173333333,"lon":-86.2382213333333,"rwys":3,"ils":2,"elev":628,"index":1532235,"path":"w090n40/w087n43"
+,"runways":[
+{"len_m":1981,"wid_m":46.02,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":43.16163100,"lon1":-86.25089400,"rwy2":"24","lat2":43.17150600,"lon2":-86.23060600},
+{"len_m":1524,"wid_m":46.02,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":43.17688100,"lon1":-86.23988100,"rwy2":"32","lat2":43.16678300,"lon2":-86.22718900},
+{"len_m":959,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":43.17597200,"lon1":-86.24041400,"rwy2":"36","lat2":43.16733100,"lon2":-86.24034400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"ATIS"},
+{"type":"CTAF","freq":126.25,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":126.25,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP/DEP"},
+{"type":"APP","freq":119.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":43.16011100,"lon":-86.25401700,"rng_nm":18,"alt_fmsl":628,"hdg":236.28,"id":"ICJH","rwy":"24","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":43.17705000,"lon":-86.24008900,"rng_nm":18,"alt_fmsl":628,"hdg":317.50,"id":"IMKG","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":43.17076900,"lon":-86.23481900,"rng_nm":10,"alt_fmsl":628,"id":"ICJH","rwy":"24","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":43.16750800,"lon":-86.23013300,"rng_nm":10,"alt_fmsl":626,"id":"IMKG","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.12114200,"lon":-86.16850600,"rng_nm":0,"alt_fmsl":628,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.17540600,"lon":-86.22202800,"rng_nm":0,"alt_fmsl":628,"id":"----","rwy":"24","desc":"MM"},
+{"type":"MM","freq":0,"lat":43.16010000,"lon":-86.21877800,"rng_nm":0,"alt_fmsl":628,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":43.16055000,"lon":-86.25481900,"rng_nm":18,"alt_fmsl":628,"id":"ICJH","rwy":"24","desc":"DME-ILS"}
+]
+}

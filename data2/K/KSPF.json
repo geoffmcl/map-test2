@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSPF","name":"Black Hills Clyde Ice Fld","lat":44.47996525,"lon":-103.782169,"rwys":4,"ils":0,"elev":3931,"index":1253784,"path":"w110n40/w104n44"
+,"runways":[
+{"len_m":1675,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":44.48714200,"lon1":-103.79196100,"rwy2":"30","lat2":44.47644700,"lon2":-103.77711400},
+{"len_m":1211,"wid_m":30.48,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":44.47665000,"lon1":-103.79395000,"rwy2":"26","lat2":44.47665000,"lon2":-103.77871900},
+{"len_m":1188,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":44.48762200,"lon1":-103.77991900,"rwy2":"35","lat2":44.47692500,"lon2":-103.77991900},
+{"len_m":616,"wid_m":45.72,"hdg":41,"surf":"Turf/grass","rwy1":"03","lat1":44.47705000,"lon1":-103.78043100,"rwy2":"21","lat2":44.48123600,"lon2":-103.77533900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"ELLSWORTH APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPNT","name":"Pontiac Muni","lat":40.924364,"lon":-88.6238885,"rwys":1,"ils":0,"elev":666,"index":1499321,"path":"w090n40/w089n40"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":40.92086100,"lon1":-88.63166900,"rwy2":"24","lat2":40.92786700,"lon2":-88.61610800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

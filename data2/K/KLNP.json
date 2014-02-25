@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLNP","name":"Lonesome Pine","lat":36.987518,"lon":-82.5299975,"rwys":1,"ils":1,"elev":2684,"index":1597369,"path":"w090n30/w083n36"
+,"runways":[
+{"len_m":1609,"wid_m":30.48,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":36.98348300,"lon1":-82.53750600,"rwy2":"24","lat2":36.99155300,"lon2":-82.52248900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.6,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":36.98301900,"lon":-82.53836700,"rng_nm":18,"alt_fmsl":2684,"id":"IOWN","rwy":"24","desc":"LOC"},
+{"type":"OM","freq":0,"lat":37.02193900,"lon":-82.46784400,"rng_nm":0,"alt_fmsl":2684,"id":"----","rwy":"24","desc":"OM"},
+{"type":"DME","freq":110.7,"lat":36.98344400,"lon":-82.53874400,"rng_nm":18,"alt_fmsl":2681,"id":"IOWN","rwy":"24","desc":"DME-ILS"}
+]
+}

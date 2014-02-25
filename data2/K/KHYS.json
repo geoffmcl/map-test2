@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHYS","name":"Hays Rgnl","lat":38.841782,"lon":-99.2730305,"rwys":2,"ils":0,"elev":1998,"index":1318962,"path":"w100n30/w100n38"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":167,"surf":"Asphalt","rwy1":"16","lat1":38.85284400,"lon1":-99.27629700,"rwy2":"34","lat2":38.83542800,"lon2":-99.27131400},
+{"len_m":1371,"wid_m":22.86,"hdg":48,"surf":"Concrete","rwy1":"04","lat1":38.83530600,"lon1":-99.27813900,"rwy2":"22","lat2":38.84355000,"lon2":-99.26637200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

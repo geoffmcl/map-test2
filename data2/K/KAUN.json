@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAUN","name":"Auburn Muni","lat":38.95475,"lon":-121.081667,"rwys":1,"ils":0,"elev":1536,"index":958523,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1134,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"07","lat1":38.95416700,"lon1":-121.08816700,"rwy2":"25","lat2":38.95533300,"lon2":-121.07516700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCQM","name":"Cook Muni","lat":47.8219055,"lon":-92.689425,"rwys":1,"ils":0,"elev":1327,"index":1434225,"path":"w100n40/w093n47"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":136,"surf":"Asphalt","rwy1":"13","lat1":47.82511400,"lon1":-92.69386900,"rwy2":"31","lat2":47.81869700,"lon2":-92.68498100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAEX","name":"Alexandria Intl","lat":31.3273535,"lon":-92.54824425,"rwys":2,"ils":1,"elev":89,"index":1433169,"path":"w100n30/w093n31"
+,"runways":[
+{"len_m":2850,"wid_m":45.72,"hdg":143,"surf":"Concrete","rwy1":"14","lat1":31.33787800,"lon1":-92.55922800,"rwy2":"32","lat2":31.31708600,"lon2":-92.54161100},
+{"len_m":2134,"wid_m":45.72,"hdg":188,"surf":"Asphalt","rwy1":"18","lat1":31.33673100,"lon1":-92.54431900,"rwy2":"36","lat2":31.31771900,"lon2":-92.54781900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.97,"desc":"ASOS"},
+{"type":"CTAF","freq":127.35,"desc":"CTAF"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.35,"desc":"TWR"},
+{"type":"APP","freq":132.05,"desc":"POLK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":31.31473900,"lon":-92.53962500,"rng_nm":18,"alt_fmsl":89,"hdg":144.11,"id":"IERJ","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":31.33475800,"lon":-92.55856100,"rng_nm":10,"alt_fmsl":85,"id":"IERJ","rwy":"14","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":31.31474200,"lon":-92.53962800,"rng_nm":18,"alt_fmsl":89,"id":"IERJ","rwy":"14","desc":"DME-ILS"}
+]
+}

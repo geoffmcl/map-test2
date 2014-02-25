@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDDC","name":"Dodge City Rgnl","lat":37.76274925,"lon":-99.96510175,"rwys":2,"ils":1,"elev":2594,"index":1318896,"path":"w100n30/w100n37"
+,"runways":[
+{"len_m":2102,"wid_m":30.48,"hdg":153,"surf":"Asphalt","rwy1":"14","lat1":37.77316100,"lon1":-99.97201900,"rwy2":"32","lat2":37.75615800,"lon2":-99.96149400},
+{"len_m":1416,"wid_m":30.48,"hdg":32,"surf":"Asphalt","rwy1":"02","lat1":37.75544700,"lon1":-99.96774700,"rwy2":"20","lat2":37.76623100,"lon2":-99.95914700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":37.75504200,"lon":-99.96080600,"rng_nm":18,"alt_fmsl":2579,"hdg":153.93,"id":"IDDC","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":37.77118100,"lon":-99.96925300,"rng_nm":10,"alt_fmsl":2582,"id":"IDDC","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.84293600,"lon":-100.00949400,"rng_nm":0,"alt_fmsl":2522,"id":"----","rwy":"14","desc":"OM"}
+]
+}

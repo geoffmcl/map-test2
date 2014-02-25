@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHXD","name":"Hilton Head","lat":32.22640007,"lon":-80.69477182,"rwys":1,"ils":1,"elev":19,"index":1629833,"path":"w090n30/w081n32"
+,"runways":[
+{"len_m":1310,"wid_m":29.87,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":32.21905300,"lon1":-80.70053100,"rwy2":"21","lat2":32.22966900,"lon2":-80.69441900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.1,"desc":"GND"},
+{"type":"TWR","freq":118.97,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"SAVANNAH APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":32.21756700,"lon":-80.70138600,"rng_nm":18,"alt_fmsl":19,"id":"IHXD","rwy":"21","desc":"LOC"},
+{"type":"DME","freq":111.3,"lat":32.21760000,"lon":-80.70035300,"rng_nm":18,"alt_fmsl":19,"id":"IHXD","rwy":"21","desc":"DME-ILS"}
+]
+}

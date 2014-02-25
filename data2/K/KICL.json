@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KICL","name":"Schenck Fld","lat":40.72199125,"lon":-95.02618425,"rwys":2,"ils":0,"elev":994,"index":1384619,"path":"w100n40/w096n40"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":24,"surf":"Concrete","rwy1":"02","lat1":40.71514200,"lon1":-95.03060300,"rwy2":"20","lat2":40.72764200,"lon2":-95.02316100},
+{"len_m":739,"wid_m":77.72,"hdg":141,"surf":"Turf/grass","rwy1":"13","lat1":40.72519200,"lon1":-95.02821700,"rwy2":"31","lat2":40.71998900,"lon2":-95.02275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTIW","name":"Tacoma Narrows","lat":47.26922800,"lon":-122.57472100,"rwys":1,"ils":1,"elev":292,"index":942673,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":187,"surf":"Asphalt","rwy1":"17","lat1":47.27473600,"lon1":-122.57688300,"rwy2":"35","lat2":47.26112500,"lon2":-122.57934200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.05,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":47.25840300,"lon":-122.57983300,"rng_nm":18,"alt_fmsl":292,"hdg":186.99,"id":"ITIW","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":47.27260300,"lon":-122.57869200,"rng_nm":10,"alt_fmsl":292,"id":"ITIW","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.35779200,"lon":-122.56221400,"rng_nm":0,"alt_fmsl":292,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.28193100,"lon":-122.57557200,"rng_nm":0,"alt_fmsl":292,"id":"----","rwy":"17","desc":"MM"}
+]
+}

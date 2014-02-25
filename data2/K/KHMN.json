@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHMN","name":"Holloman Afb","lat":32.8521116666667,"lon":-106.109119166667,"rwys":3,"ils":2,"elev":4093,"index":1203891,"path":"w110n30/w107n32"
+,"runways":[
+{"len_m":3937,"wid_m":45.72,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":32.84622800,"lon1":-106.12463900,"rwy2":"25","lat2":32.85271400,"lon2":-106.08328900},
+{"len_m":3697,"wid_m":45.72,"hdg":167,"surf":"Asphalt","rwy1":"16","lat1":32.86659700,"lon1":-106.10768900,"rwy2":"34","lat2":32.83400300,"lon2":-106.09935600},
+{"len_m":3223,"wid_m":91.44,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":32.84680300,"lon1":-106.13262800,"rwy2":"22","lat2":32.86632500,"lon2":-106.10711400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":126.9,"desc":"CHEROKEE MISSION"},
+{"type":"CLD","freq":126.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":127.05,"desc":"GND"},
+{"type":"TWR","freq":119.3,"desc":"TWR"},
+{"type":"APP","freq":120.6,"desc":"APP"},
+{"type":"DEP","freq":128.1,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":32.83020600,"lon":-106.09837500,"rng_nm":18,"alt_fmsl":4044,"hdg":167.87,"id":"IMUK","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":32.84342500,"lon":-106.13691100,"rng_nm":18,"alt_fmsl":4052,"hdg":227.54,"id":"IHMN","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":32.85401400,"lon":-106.10853900,"rng_nm":10,"alt_fmsl":4078,"id":"IMUK","rwy":"16","desc":"GS","gs":2.5},
+{"type":"GS","freq":111.7,"lat":32.86558600,"lon":-106.11098600,"rng_nm":10,"alt_fmsl":4078,"id":"IHMN","rwy":"22","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":32.87155000,"lon":-106.10033900,"rng_nm":0,"alt_fmsl":4093,"id":"----","rwy":"22","desc":"MM"}
+]
+}

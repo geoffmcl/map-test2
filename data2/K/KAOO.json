@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAOO","name":"Altoona Blair Co","lat":40.29648,"lon":-78.3199215,"rwys":2,"ils":1,"elev":1504,"index":1663122,"path":"w080n40/w079n40"
+,"runways":[
+{"len_m":1665,"wid_m":30.48,"hdg":15,"surf":"Asphalt","rwy1":"03","lat1":40.28872800,"lon1":-78.32313600,"rwy2":"21","lat2":40.30314700,"lon2":-78.31774200},
+{"len_m":1117,"wid_m":22.86,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":40.29860300,"lon1":-78.32564400,"rwy2":"30","lat2":40.29544200,"lon2":-78.31316400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":40.28582500,"lon":-78.32421900,"rng_nm":18,"alt_fmsl":1504,"hdg":195.92,"id":"IAOO","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":40.30032500,"lon":-78.31786700,"rng_nm":10,"alt_fmsl":1470,"id":"IAOO","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.39985300,"lon":-78.28098300,"rng_nm":0,"alt_fmsl":1504,"id":"----","rwy":"21","desc":"OM"}
+]
+}

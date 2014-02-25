@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCKB","name":"Harrison Marion Rgnl","lat":39.30003309,"lon":-80.22914069,"rwys":1,"ils":1,"elev":1217,"index":1630291,"path":"w090n30/w081n39"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":39.28778700,"lon1":-80.23287800,"rwy2":"21","lat2":39.30549800,"lon2":-80.22328200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-80,"surf":"Concrete","lat1":39.29713225,"lon1":-80.23020750}
+]
+,"radios":[
+{"type":"ATIS","freq":127.82,"desc":"ATIS"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.7,"desc":"CLARKSBURG TWR"},
+{"type":"APP","freq":119.6,"desc":"CLARKSBURG APP/DEP"},
+{"type":"APP","freq":121.15,"desc":"CLARKSBURG APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":39.28691900,"lon":-80.23334700,"rng_nm":18,"alt_fmsl":1173,"hdg":202.74,"id":"ICKB","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":39.30233000,"lon":-80.22385000,"rng_nm":10,"alt_fmsl":1208,"id":"ICKB","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.38298100,"lon":-80.18165000,"rng_nm":0,"alt_fmsl":1129,"id":"----","rwy":"21","desc":"OM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCAO","name":"Clayton Muni Airpark","lat":36.4461265,"lon":-103.14928175,"rwys":2,"ils":0,"elev":4965,"index":1253275,"path":"w110n30/w104n36"
+,"runways":[
+{"len_m":1920,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"02","lat1":36.43876400,"lon1":-103.15792500,"rwy2":"20","lat2":36.45371700,"lon2":-103.14714400},
+{"len_m":1249,"wid_m":18.29,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":36.44964700,"lon1":-103.15135000,"rwy2":"30","lat2":36.44237800,"lon2":-103.14070800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSEM","name":"Craig Fld","lat":32.343946,"lon":-86.987804,"rwys":1,"ils":1,"elev":166,"index":1531536,"path":"w090n30/w087n32"
+,"runways":[
+{"len_m":2439,"wid_m":45.72,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":32.35304200,"lon1":-86.99508600,"rwy2":"33","lat2":32.33485000,"lon2":-86.98052200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124,"desc":"MONTGOMERY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":32.35543100,"lon":-86.99699700,"rng_nm":18,"alt_fmsl":166,"hdg":325.93,"id":"ISEM","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":32.33662200,"lon":-86.98350300,"rng_nm":10,"alt_fmsl":165,"id":"ISEM","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.26977800,"lon":-86.92756900,"rng_nm":0,"alt_fmsl":240,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.32827800,"lon":-86.97525000,"rng_nm":0,"alt_fmsl":166,"id":"----","rwy":"33","desc":"MM"}
+]
+}

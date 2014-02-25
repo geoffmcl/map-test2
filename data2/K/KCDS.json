@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCDS","name":"Childress Muni","lat":34.4320185,"lon":-100.289306,"rwys":3,"ils":0,"elev":1954,"index":1302298,"path":"w110n30/w101n34"
+,"runways":[
+{"len_m":1813,"wid_m":22.86,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":34.44026400,"lon1":-100.28553100,"rwy2":"35","lat2":34.42392500,"lon2":-100.28617200},
+{"len_m":1348,"wid_m":18.29,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":34.43189400,"lon1":-100.29622800,"rwy2":"22","lat2":34.44020300,"lon2":-100.28551400},
+{"len_m":1278,"wid_m":45.72,"hdg":133,"surf":"Asphalt","rwy1":"13","lat1":34.43189700,"lon1":-100.29622200,"rwy2":"31","lat2":34.42392800,"lon2":-100.28616900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.12,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

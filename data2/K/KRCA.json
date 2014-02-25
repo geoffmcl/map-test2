@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRCA","name":"Ellsworth Afb","lat":44.1453985,"lon":-103.1039345,"rwys":1,"ils":2,"elev":3279,"index":1253771,"path":"w110n40/w104n44"
+,"runways":[
+{"len_m":4113,"wid_m":91.44,"hdg":137,"surf":"Concrete","rwy1":"13","lat1":44.15915800,"lon1":-103.12113300,"rwy2":"31","lat2":44.13163900,"lon2":-103.08673600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.05,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":44.12766900,"lon":-103.08181700,"rng_nm":18,"alt_fmsl":3169,"hdg":138.15,"id":"IELR","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":44.16248600,"lon":-103.12545600,"rng_nm":18,"alt_fmsl":3279,"hdg":317.98,"id":"IRCA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":44.15548600,"lon":-103.11926100,"rng_nm":10,"alt_fmsl":3255,"id":"IELR","rwy":"13","desc":"GS","gs":2.9},
+{"type":"GS","freq":110.3,"lat":44.13415600,"lon":-103.08490000,"rng_nm":10,"alt_fmsl":3279,"id":"IRCA","rwy":"31","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":44.16498600,"lon":-103.12850300,"rng_nm":0,"alt_fmsl":3279,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":44.12526700,"lon":-103.06739700,"rng_nm":0,"alt_fmsl":3279,"id":"----","rwy":"31","desc":"MM"}
+]
+}

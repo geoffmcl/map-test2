@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMYL","name":"Mc Call Muni","lat":44.89723417,"lon":-116.09895213,"rwys":1,"ils":0,"elev":5020,"index":1040827,"path":"w120n40/w117n44"
+,"runways":[
+{"len_m":1861,"wid_m":22.86,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":44.89711074,"lon1":-116.10203406,"rwy2":"34","lat2":44.88036499,"lon2":-116.10146053}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.37,"hdg":-116,"surf":"Asphalt","lat1":44.89375635,"lon1":-116.09933899},
+{"rwy1":"H2","len_m":17,"wid_m":17.37,"hdg":-116,"surf":"Asphalt","lat1":44.89363055,"lon1":-116.09948448},
+{"rwy1":"H3","len_m":17,"wid_m":14.94,"hdg":-116,"surf":"Concrete","lat1":44.89111397,"lon1":-116.10267046},
+{"rwy1":"H4","len_m":17,"wid_m":14.94,"hdg":-116,"surf":"Concrete","lat1":44.89137073,"lon1":-116.10267516},
+{"rwy1":"H5","len_m":17,"wid_m":14.94,"hdg":-116,"surf":"Concrete","lat1":44.89169418,"lon1":-116.10267752}
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

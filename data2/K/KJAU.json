@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJAU","name":"Campbell County","lat":36.334089,"lon":-84.1629655,"rwys":1,"ils":0,"elev":1180,"index":1564563,"path":"w090n30/w085n36"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":36.33024700,"lon1":-84.16782800,"rwy2":"23","lat2":36.33793100,"lon2":-84.15810300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

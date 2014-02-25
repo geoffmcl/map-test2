@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSGS","name":"South St Paul Muni Richard E Fleming","lat":44.8571335,"lon":-93.0328515,"rwys":1,"ils":1,"elev":820,"index":1417651,"path":"w100n40/w094n44"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":44.86236400,"lon1":-93.03518100,"rwy2":"34","lat2":44.85190300,"lon2":-93.03052200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.2,"desc":"CLNC DEL"},
+{"type":"APP","freq":121.2,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.35,"lat":44.86497800,"lon":-93.03634200,"rng_nm":18,"alt_fmsl":825,"id":"ISGS","rwy":"34","desc":"LOC"},
+{"type":"DME","freq":108.35,"lat":44.86537200,"lon":-93.03555300,"rng_nm":18,"alt_fmsl":825,"id":"ISGS","rwy":"34","desc":"DME-ILS"}
+]
+}

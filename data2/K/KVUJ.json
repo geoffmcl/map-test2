@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVUJ","name":"Stanly Co","lat":35.41700925,"lon":-80.15335002,"rwys":2,"ils":1,"elev":609,"index":1630043,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":1676,"wid_m":29.87,"hdg":40,"surf":"Asphalt","rwy1":"04R","lat1":35.40957500,"lon1":-80.15687276,"rwy2":"22L","lat2":35.42098100,"lon2":-80.14476776},
+{"len_m":1066,"wid_m":22.86,"hdg":40,"surf":"Asphalt","rwy1":"04L","lat1":35.41509962,"lon1":-80.15417806,"rwy2":"22R","lat2":35.42235638,"lon2":-80.14647546}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":126.27,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CLD","freq":121.75,"desc":"CLNC DEL"},
+{"type":"CLD","freq":128.5,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":126.27,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":35.40709700,"lon":-80.15857500,"rng_nm":18,"alt_fmsl":609,"hdg":219.02,"id":"IVUJ","rwy":"22L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":35.41987800,"lon":-80.14785800,"rng_nm":10,"alt_fmsl":572,"id":"IVUJ","rwy":"22L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.48849400,"lon":-80.08025300,"rng_nm":0,"alt_fmsl":590,"id":"----","rwy":"22L","desc":"OM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFKS","name":"Frankfort Dow Mem Fld","lat":44.625203,"lon":-86.2008555,"rwys":1,"ils":0,"elev":633,"index":1532331,"path":"w090n40/w087n44"
+,"runways":[
+{"len_m":1234,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"15","lat1":44.62941700,"lon1":-86.20592200,"rwy2":"33","lat2":44.62098900,"lon2":-86.19578900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

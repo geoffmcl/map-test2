@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHDC","name":"Hammond Northshore Rgnl","lat":30.52169075,"lon":-90.41847025,"rwys":2,"ils":1,"elev":45,"index":1465890,"path":"w100n30/w091n30"
+,"runways":[
+{"len_m":1981,"wid_m":30.48,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":30.52792600,"lon1":-90.42514800,"rwy2":"31","lat2":30.51539600,"lon2":-90.41042200},
+{"len_m":1524,"wid_m":45.72,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":30.52859700,"lon1":-90.41922200,"rwy2":"36","lat2":30.51484400,"lon2":-90.41908900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.3,"desc":"NEW ORLEANS APP/DEP"},
+{"type":"APP","freq":125.5,"desc":"NEW ORLEANS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":30.51264700,"lon":-90.41906700,"rng_nm":18,"alt_fmsl":45,"hdg":179.52,"id":"IHPF","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":30.52585600,"lon":-90.41805300,"rng_nm":10,"alt_fmsl":43,"id":"IHPF","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":30.60632800,"lon":-90.42117200,"rng_nm":0,"alt_fmsl":94,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":30.53966400,"lon":-90.41903300,"rng_nm":0,"alt_fmsl":45,"id":"----","rwy":"18","desc":"MM"}
+]
+}

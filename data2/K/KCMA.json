@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCMA","name":"Camarillo","lat":34.21052964,"lon":-119.08977611,"rwys":1,"ils":0,"elev":77,"index":990987,"path":"w120n30/w120n34"
+,"runways":[
+{"len_m":1837,"wid_m":46.02,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":34.21382572,"lon1":-119.10380841,"rwy2":"26","lat2":34.21366425,"lon2":-119.08386423}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"CTAF","freq":128.2,"desc":"CTAF"},
+{"type":"CLD","freq":120.75,"desc":"CLNC DEL"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":128.2,"desc":"TWR"},
+{"type":"APP","freq":124.7,"desc":"PT MUGU APP/DEP"}
+]
+,"ils":[
+]
+}

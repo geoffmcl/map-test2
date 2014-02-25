@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPUC","name":"Carbon Co","lat":39.6135046666667,"lon":-110.7516285,"rwys":3,"ils":1,"elev":5957,"index":1138784,"path":"w120n30/w111n39"
+,"runways":[
+{"len_m":2532,"wid_m":30.48,"hdg":198,"surf":"Asphalt","rwy1":"18","lat1":39.62658300,"lon1":-110.74591900,"rwy2":"36","lat2":39.60493300,"lon2":-110.75520800},
+{"len_m":1375,"wid_m":22.86,"hdg":158,"surf":"Asphalt","rwy1":"14","lat1":39.61538600,"lon1":-110.75673900,"rwy2":"32","lat2":39.60384200,"lon2":-110.75091900},
+{"len_m":1079,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":39.61513100,"lon1":-110.75677800,"rwy2":"25","lat2":39.61515300,"lon2":-110.74420800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.42,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":39.62788563,"lon":-110.74536138,"rng_nm":18,"alt_fmsl":5957,"hdg":18.29,"id":"IPUC","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":39.60779565,"lon":-110.75510485,"rng_nm":10,"alt_fmsl":5957,"id":"IPUC","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":39.62788563,"lon":-110.74536138,"rng_nm":18,"alt_fmsl":5957,"id":"IPUC","rwy":"36","desc":"DME-ILS"}
+]
+}

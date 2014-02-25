@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSVH","name":"Statesville Rgnl","lat":35.76754400,"lon":-80.94870800,"rwys":1,"ils":1,"elev":965,"index":1630064,"path":"w090n30/w081n35"
+,"runways":[
+{"len_m":2135,"wid_m":29.87,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":35.76614208,"lon1":-80.96561918,"rwy2":"28","lat2":35.76384992,"lon2":-80.94217282}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":35.76645300,"lon":-80.96880300,"rng_nm":18,"alt_fmsl":932,"hdg":276.86,"id":"ISVH","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":35.76350300,"lon":-80.94711400,"rng_nm":10,"alt_fmsl":956,"id":"ISVH","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":111.75,"lat":35.76571700,"lon":-80.96850600,"rng_nm":18,"alt_fmsl":924,"id":"ISVH","rwy":"28","desc":"DME-ILS"}
+]
+}

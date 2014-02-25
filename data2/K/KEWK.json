@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEWK","name":"Newton City","lat":38.05800382,"lon":-97.27465021,"rwys":2,"ils":1,"elev":1533,"index":1351682,"path":"w100n30/w098n38"
+,"runways":[
+{"len_m":2134,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":38.06488600,"lon1":-97.27638600,"rwy2":"35","lat2":38.04565600,"lon2":-97.27638600},
+{"len_m":1066,"wid_m":17.98,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":38.06073664,"lon1":-97.27899308,"rwy2":"26","lat2":38.06073664,"lon2":-97.26683575}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.55,"desc":"CLNC DEL"},
+{"type":"APP","freq":125.5,"desc":"WICHITA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":38.04373900,"lon":-97.27638900,"rng_nm":18,"alt_fmsl":1516,"hdg":180.01,"id":"ICAC","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":38.06214200,"lon":-97.27499700,"rng_nm":10,"alt_fmsl":1530,"id":"ICAC","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.14492800,"lon":-97.27614400,"rng_nm":0,"alt_fmsl":1530,"id":"----","rwy":"17","desc":"OM"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPAM","name":"Tyndall Afb","lat":30.06861300,"lon":-85.58278700,"rwys":2,"ils":2,"elev":18,"index":1547777,"path":"w090n30/w086n30"
+,"runways":[
+{"len_m":3049,"wid_m":60.96,"hdg":134,"surf":"Concrete","rwy1":"13L","lat1":30.08004400,"lon1":-85.58441100,"rwy2":"31R","lat2":30.06077500,"lon2":-85.56183900},
+{"len_m":2784,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"13R","lat1":30.07744400,"lon1":-85.58822800,"rwy2":"31L","lat2":30.05984700,"lon2":-85.56762200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":118.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":133.95,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP/DEP"},
+{"type":"APP","freq":124.15,"desc":"APP/DEP"},
+{"type":"APP","freq":125.2,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":30.05880600,"lon":-85.55953100,"rng_nm":18,"alt_fmsl":14,"hdg":134.61,"id":"ITYF","rwy":"13L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":30.08424200,"lon":-85.58932800,"rng_nm":18,"alt_fmsl":12,"hdg":314.60,"id":"IPAM","rwy":"31R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":30.07847500,"lon":-85.58076700,"rng_nm":10,"alt_fmsl":11,"id":"ITYF","rwy":"13L","desc":"GS","gs":2.5},
+{"type":"GS","freq":110.1,"lat":30.06416900,"lon":-85.56356100,"rng_nm":10,"alt_fmsl":8,"id":"IPAM","rwy":"31R","desc":"GS","gs":2.5}
+]
+}

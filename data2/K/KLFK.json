@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLFK","name":"Angelina Co","lat":31.23189200,"lon":-94.75426500,"rwys":2,"ils":1,"elev":296,"index":1400392,"path":"w100n30/w095n31"
+,"runways":[
+{"len_m":1645,"wid_m":29.87,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":31.23427500,"lon1":-94.75743775,"rwy2":"25","lat2":31.23805300,"lon2":-94.74073775},
+{"len_m":1313,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":31.23690230,"lon1":-94.75345300,"rwy2":"33","lat2":31.22575530,"lon2":-94.74879400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":31.23830600,"lon":-94.73961400,"rng_nm":18,"alt_fmsl":296,"hdg":75.19,"id":"ILFK","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":31.23581700,"lon":-94.75485300,"rng_nm":10,"alt_fmsl":284,"id":"ILFK","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.21888100,"lon":-94.82506900,"rng_nm":0,"alt_fmsl":296,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.23219700,"lon":-94.76718600,"rng_nm":0,"alt_fmsl":296,"id":"----","rwy":"07","desc":"MM"}
+]
+}

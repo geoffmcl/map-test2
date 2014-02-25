@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSUN","name":"Friedman Mem","lat":43.5044515,"lon":-114.2962085,"rwys":1,"ils":0,"elev":5320,"index":1073506,"path":"w120n40/w115n43"
+,"runways":[
+{"len_m":2118,"wid_m":30.48,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":43.51223900,"lon1":-114.30376100,"rwy2":"31","lat2":43.49666400,"lon2":-114.28865600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.22,"desc":"ATIS"},
+{"type":"ATIS","freq":128.22,"desc":"AWOS"},
+{"type":"CTAF","freq":125.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125.6,"desc":"HAILEY TWR"}
+]
+,"ils":[
+]
+}

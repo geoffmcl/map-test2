@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGOK","name":"Guthrie Muni","lat":35.8498055,"lon":-97.415607,"rwys":1,"ils":0,"elev":1068,"index":1351538,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":1250,"wid_m":22.86,"hdg":164,"surf":"Concrete","rwy1":"16","lat1":35.85524400,"lon1":-97.41741100,"rwy2":"34","lat2":35.84436700,"lon2":-97.41380300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.97,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.2,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+]
+}

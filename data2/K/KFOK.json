@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFOK","name":"Francis S Gabreski","lat":40.83965700,"lon":-72.64119700,"rwys":3,"ils":1,"elev":67,"index":1761457,"path":"w080n40/w073n40"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":42,"surf":"Asphalt","rwy1":"06","lat1":40.83623900,"lon1":-72.63900800,"rwy2":"24","lat2":40.85445000,"lon2":-72.61703300},
+{"len_m":1524,"wid_m":45.72,"hdg":357,"surf":"Asphalt","rwy1":"01","lat1":40.83491400,"lon1":-72.63697200,"rwy2":"19","lat2":40.84862500,"lon2":-72.63776400},
+{"len_m":1524,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"15","lat1":40.84716700,"lon1":-72.63964200,"rwy2":"33","lat2":40.83789400,"lon2":-72.62631900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":125.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"TWR"},
+{"type":"APP","freq":118.95,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":40.83320800,"lon":-72.64266900,"rng_nm":18,"alt_fmsl":67,"hdg":222.39,"id":"IFOK","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":40.85066400,"lon":-72.61915300,"rng_nm":10,"alt_fmsl":53,"id":"IFOK","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.90446100,"lon":-72.55647900,"rng_nm":0,"alt_fmsl":67,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.86051700,"lon":-72.60967800,"rng_nm":0,"alt_fmsl":67,"id":"----","rwy":"24","desc":"MM"}
+]
+}

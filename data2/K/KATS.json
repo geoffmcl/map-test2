@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KATS","name":"Artesia Muni","lat":32.85255825,"lon":-104.467669,"rwys":2,"ils":0,"elev":3541,"index":1236658,"path":"w110n30/w105n32"
+,"runways":[
+{"len_m":1920,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":32.84603900,"lon1":-104.47509200,"rwy2":"21","lat2":32.85827200,"lon2":-104.46057800},
+{"len_m":1642,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":32.85820000,"lon1":-104.47370300,"rwy2":"30","lat2":32.84772200,"lon2":-104.46130300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ROSWELL APP/DEP"}
+]
+,"ils":[
+]
+}

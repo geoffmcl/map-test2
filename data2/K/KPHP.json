@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPHP","name":"Philip","lat":44.048664,"lon":-101.59902,"rwys":2,"ils":0,"elev":2207,"index":1286529,"path":"w110n40/w102n44"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":44.05128600,"lon1":-101.60581900,"rwy2":"30","lat2":44.04450300,"lon2":-101.59386100},
+{"len_m":1096,"wid_m":45.72,"hdg":63,"surf":"Turf/grass","rwy1":"05","lat1":44.04721100,"lon1":-101.60431100,"rwy2":"23","lat2":44.05165600,"lon2":-101.59208900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

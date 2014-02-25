@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTEB","name":"Teterboro","lat":40.85256500,"lon":-74.05564200,"rwys":2,"ils":2,"elev":9,"index":1728691,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":40.83868100,"lon1":-74.06036400,"rwy2":"19","lat2":40.85786400,"lon2":-74.05896100},
+{"len_m":1832,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":40.84672500,"lon1":-74.07029700,"rwy2":"24","lat2":40.85773600,"lon2":-74.05410800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.02,"desc":"ATIS"},
+{"type":"CLD","freq":128.05,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.1,"desc":"TWR"},
+{"type":"APP","freq":127.6,"desc":"NEW YORK APP"},
+{"type":"DEP","freq":126.7,"desc":"NEW YORK DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":40.85828100,"lon":-74.05330000,"rng_nm":18,"alt_fmsl":9,"hdg":48.06,"id":"ITEB","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.15,"lat":40.83703600,"lon":-74.06048600,"rng_nm":18,"alt_fmsl":6,"hdg":183.17,"id":"ITJL","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":40.84941700,"lon":-74.06850800,"rng_nm":10,"alt_fmsl":6,"id":"ITEB","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.15,"lat":40.85282200,"lon":-74.05836900,"rng_nm":10,"alt_fmsl":6,"id":"ITJL","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.80444400,"lon":-74.13250000,"rng_nm":0,"alt_fmsl":9,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.84027800,"lon":-74.08097200,"rng_nm":0,"alt_fmsl":9,"id":"----","rwy":"06","desc":"MM"},
+{"type":"DME","freq":110.15,"lat":40.83685300,"lon":-74.06050000,"rng_nm":18,"alt_fmsl":6,"id":"ITJL","rwy":"19","desc":"DME-ILS"}
+]
+}

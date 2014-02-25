@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMXF","name":"Maxwell Afb","lat":32.3837525,"lon":-86.36532725,"rwys":2,"ils":1,"elev":171,"index":1531546,"path":"w090n30/w087n32"
+,"runways":[
+{"len_m":2442,"wid_m":45.72,"hdg":148,"surf":"Asphalt","rwy1":"15","lat1":32.39135800,"lon1":-86.37310600,"rwy2":"33","lat2":32.37258600,"lon2":-86.35953300},
+{"len_m":918,"wid_m":18.29,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":32.38965800,"lon1":-86.36388100,"rwy2":"36","lat2":32.38140800,"lon2":-86.36478900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.7,"desc":"ATIS"},
+{"type":"GND","freq":127.15,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"APP","freq":121.2,"desc":"MONTGOMERY APP/DEP"},
+{"type":"APP","freq":124,"desc":"MONTGOMERY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":32.36899200,"lon":-86.35693300,"rng_nm":18,"alt_fmsl":161,"hdg":148.59,"id":"IMXF","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":32.38785600,"lon":-86.37246400,"rng_nm":10,"alt_fmsl":160,"id":"IMXF","rwy":"15","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAST","name":"Astoria Rgnl","lat":46.15577010,"lon":-123.88189238,"rwys":2,"ils":1,"elev":15,"index":926216,"path":"w130n40/w124n46"
+,"runways":[
+{"len_m":1766,"wid_m":29.87,"hdg":95,"surf":"Asphalt","rwy1":"08","lat1":46.15983200,"lon1":-123.88974511,"rwy2":"26","lat2":46.15831400,"lon2":-123.86698489},
+{"len_m":1523,"wid_m":29.87,"hdg":153,"surf":"Asphalt","rwy1":"13","lat1":46.16285278,"lon1":-123.88346128,"rwy2":"31","lat2":46.15057722,"lon2":-123.87470272}
+]
+,"helipads":[
+{"rwy1":"H3","len_m":24,"wid_m":20.12,"hdg":-123,"surf":"Concrete","lat1":46.15581265,"lon1":-123.88035213},
+{"rwy1":"H4","len_m":24,"wid_m":20.12,"hdg":-123,"surf":"Concrete","lat1":46.15560585,"lon1":-123.88020889},
+{"rwy1":"H5","len_m":10,"wid_m":10.06,"hdg":-123,"surf":"Concrete","lat1":46.15448113,"lon1":-123.87938064}
+]
+,"radios":[
+{"type":"ATIS","freq":135.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":46.15991900,"lon":-123.89102500,"rng_nm":18,"alt_fmsl":15,"hdg":275.50,"id":"IAST","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":46.15775000,"lon":-123.87405300,"rng_nm":10,"alt_fmsl":15,"id":"IAST","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.15116400,"lon":-123.73902800,"rng_nm":0,"alt_fmsl":15,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.15780800,"lon":-123.85947800,"rng_nm":0,"alt_fmsl":15,"id":"----","rwy":"26","desc":"MM"}
+]
+}

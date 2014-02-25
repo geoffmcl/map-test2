@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KITH","name":"Ithaca Tompkins Rgnl","lat":42.49102707,"lon":-76.46197394,"rwys":2,"ils":1,"elev":1099,"index":1696026,"path":"w080n40/w077n42"
+,"runways":[
+{"len_m":2015,"wid_m":46.02,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":42.49718578,"lon1":-76.46756033,"rwy2":"32","lat2":42.48493129,"lon2":-76.44948742},
+{"len_m":616,"wid_m":14.94,"hdg":132,"surf":"Turf/grass","rwy1":"15","lat1":42.49330555,"lon1":-76.46079906,"rwy2":"33","lat2":42.48955887,"lon2":-76.45527348}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.17,"desc":"ATIS"},
+{"type":"CTAF","freq":119.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"ELMIRA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":42.49877200,"lon":-76.46988100,"rng_nm":18,"alt_fmsl":1099,"hdg":312.62,"id":"IITH","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":42.48749700,"lon":-76.45161400,"rng_nm":10,"alt_fmsl":1093,"id":"IITH","rwy":"32","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":42.43005600,"lon":-76.36794400,"rng_nm":0,"alt_fmsl":1504,"id":"----","rwy":"32","desc":"OM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLUM","name":"Menomonie Muni Score Field","lat":44.89286125,"lon":-91.868816,"rwys":2,"ils":0,"elev":895,"index":1450424,"path":"w100n40/w092n44"
+,"runways":[
+{"len_m":1546,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":44.89083900,"lon1":-91.87706900,"rwy2":"27","lat2":44.89070000,"lon2":-91.85748900},
+{"len_m":1051,"wid_m":22.86,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":44.89967800,"lon1":-91.87000300,"rwy2":"36","lat2":44.89022800,"lon2":-91.87070300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.3,"desc":"MINNEAPOLIS APP/DEP"}
+]
+,"ils":[
+]
+}

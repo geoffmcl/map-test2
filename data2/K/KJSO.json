@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KJSO","name":"Cherokee Co","lat":31.869325,"lon":-95.2174,"rwys":1,"ils":0,"elev":677,"index":1384051,"path":"w100n30/w096n31"
+,"runways":[
+{"len_m":1527,"wid_m":22.86,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":31.87460600,"lon1":-95.22258100,"rwy2":"32","lat2":31.86404400,"lon2":-95.21221900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.75,"desc":"LONGVIEW APP/DEP"}
+]
+,"ils":[
+]
+}

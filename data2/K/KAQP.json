@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAQP","name":"Appleton Muni","lat":45.22741375,"lon":-96.0045285,"rwys":2,"ils":0,"elev":1020,"index":1368523,"path":"w100n40/w097n45"
+,"runways":[
+{"len_m":1067,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":45.23028900,"lon1":-96.00856700,"rwy2":"31","lat2":45.22345000,"lon2":-95.99903100},
+{"len_m":830,"wid_m":47.85,"hdg":44,"surf":"Turf/grass","rwy1":"04","lat1":45.22527200,"lon1":-96.00893300,"rwy2":"22","lat2":45.23064400,"lon2":-96.00158300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

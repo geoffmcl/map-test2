@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCGE","name":"Cambridge Dorchester","lat":38.539325,"lon":-76.030399,"rwys":1,"ils":0,"elev":19,"index":1695779,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":1364,"wid_m":22.86,"hdg":143,"surf":"Asphalt","rwy1":"16","lat1":38.54428600,"lon1":-76.03501700,"rwy2":"34","lat2":38.53436400,"lon2":-76.02578100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.95,"desc":"PATUXENT APP/DEP"}
+]
+,"ils":[
+]
+}

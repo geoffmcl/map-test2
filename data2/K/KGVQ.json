@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGVQ","name":"Genesee Co","lat":43.031757,"lon":-78.1696555,"rwys":1,"ils":1,"elev":913,"index":1663299,"path":"w080n40/w079n43"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":43.03186400,"lon1":-78.17993900,"rwy2":"28","lat2":43.03165000,"lon2":-78.15937200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":123.7,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":43.03190300,"lon":-78.18375300,"rng_nm":18,"alt_fmsl":902,"hdg":270.81,"id":"IGVQ","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":43.03279200,"lon":-78.16347500,"rng_nm":10,"alt_fmsl":909,"id":"IGVQ","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.03077200,"lon":-78.06481100,"rng_nm":0,"alt_fmsl":913,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.03156100,"lon":-78.15004400,"rng_nm":0,"alt_fmsl":913,"id":"----","rwy":"28","desc":"MM"}
+]
+}

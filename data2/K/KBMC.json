@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBMC","name":"Brigham City","lat":41.5523945,"lon":-112.0622165,"rwys":1,"ils":0,"elev":4229,"index":1106147,"path":"w120n40/w113n41"
+,"runways":[
+{"len_m":2286,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":41.56268600,"lon1":-112.06233600,"rwy2":"34","lat2":41.54210300,"lon2":-112.06209700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126,"desc":"CLNC DEL"},
+{"type":"APP","freq":121.1,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

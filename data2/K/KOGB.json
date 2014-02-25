@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOGB","name":"Orangeburg Muni","lat":33.4593935,"lon":-80.8584735,"rwys":3,"ils":0,"elev":195,"index":1629912,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":1646,"wid_m":30.48,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":33.46057800,"lon1":-80.86192500,"rwy2":"35","lat2":33.44609700,"lon2":-80.85803300},
+{"len_m":1371,"wid_m":30.48,"hdg":42,"surf":"Asphalt","rwy1":"05","lat1":33.45638100,"lon1":-80.86388300,"rwy2":"23","lat2":33.46552800,"lon2":-80.85395000},
+{"len_m":819,"wid_m":50.29,"hdg":121,"surf":"Turf/grass","rwy1":"13","lat1":33.46583300,"lon1":-80.86027500,"rwy2":"31","lat2":33.46194400,"lon2":-80.85277500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.15,"desc":"COLUMBIA APP/DEP"}
+]
+,"ils":[
+]
+}

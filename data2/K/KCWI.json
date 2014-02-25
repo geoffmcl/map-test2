@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCWI","name":"Clinton Muni","lat":41.83080475,"lon":-90.32930175,"rwys":2,"ils":1,"elev":708,"index":1466610,"path":"w100n40/w091n41"
+,"runways":[
+{"len_m":1586,"wid_m":30.48,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":41.82633600,"lon1":-90.33303100,"rwy2":"21","lat2":41.83874700,"lon2":-90.32358100},
+{"len_m":1127,"wid_m":30.48,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":41.83320000,"lon1":-90.33423900,"rwy2":"32","lat2":41.82493600,"lon2":-90.32635600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.52,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":118.5,"desc":"QUAD CITY CLNC DEL"},
+{"type":"APP","freq":125.95,"desc":"QUAD CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":41.84003100,"lon":-90.32371900,"rng_nm":18,"alt_fmsl":708,"hdg":26.87,"id":"IFNO","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":41.82940600,"lon":-90.33280600,"rng_nm":10,"alt_fmsl":695,"id":"IFNO","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":41.83958900,"lon":-90.32293900,"rng_nm":18,"alt_fmsl":708,"id":"IFNO","rwy":"03","desc":"DME-ILS"}
+]
+}

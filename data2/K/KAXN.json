@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAXN","name":"Chandler Fld","lat":45.8662945,"lon":-95.39456025,"rwys":2,"ils":1,"elev":1425,"index":1384946,"path":"w100n40/w096n45"
+,"runways":[
+{"len_m":1554,"wid_m":30.48,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":45.87163300,"lon1":-95.40207500,"rwy2":"31","lat2":45.86103100,"lon2":-95.38902500},
+{"len_m":1249,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"04","lat1":45.86259200,"lon1":-95.39966900,"rwy2":"22","lat2":45.86992200,"lon2":-95.38747200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":45.87227800,"lon":-95.40286100,"rng_nm":18,"alt_fmsl":1406,"hdg":319.41,"id":"IEEZ","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":45.86300000,"lon":-95.39313900,"rng_nm":10,"alt_fmsl":1417,"id":"IEEZ","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.79171100,"lon":-95.30548100,"rng_nm":0,"alt_fmsl":1400,"id":"----","rwy":"31","desc":"OM"}
+]
+}

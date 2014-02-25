@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPNE","name":"Northeast Philadelphia","lat":40.0815485,"lon":-75.010514,"rwys":2,"ils":1,"elev":121,"index":1712259,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":2133,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":40.07750800,"lon1":-75.02026400,"rwy2":"24","lat2":40.09026100,"lon2":-75.00155000},
+{"len_m":1523,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":40.08452200,"lon1":-75.01577800,"rwy2":"33","lat2":40.07390300,"lon2":-75.00446400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.15,"desc":"ATIS"},
+{"type":"CTAF","freq":126.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":127.25,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"PHILADELPHIA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":40.07568600,"lon":-75.02293300,"rng_nm":18,"alt_fmsl":121,"hdg":228.30,"id":"IPNE","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":40.08771900,"lon":-75.00339400,"rng_nm":10,"alt_fmsl":114,"id":"IPNE","rwy":"24","desc":"GS","gs":3}
+]
+}

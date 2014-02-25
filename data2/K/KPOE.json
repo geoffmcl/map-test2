@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPOE","name":"Polk Aaf","lat":31.04666597,"lon":-93.18970466,"rwys":2,"ils":0,"elev":330,"index":1416771,"path":"w100n30/w094n31"
+,"runways":[
+{"len_m":1252,"wid_m":38.10,"hdg":160,"surf":"Asphalt","rwy1":"15","lat1":31.05010600,"lon1":-93.19383300,"rwy2":"33","lat2":31.03946400,"lon2":-93.18943900},
+{"len_m":1194,"wid_m":29.26,"hdg":160,"surf":"Asphalt","rwy1":"16","lat1":31.04958497,"lon1":-93.19360648,"rwy2":"34","lat2":31.03943108,"lon2":-93.18941666}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.85,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

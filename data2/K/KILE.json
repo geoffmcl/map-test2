@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KILE","name":"Skylark Fld","lat":31.0858225,"lon":-97.6865055,"rwys":1,"ils":1,"elev":848,"index":1351233,"path":"w100n30/w098n31"
+,"runways":[
+{"len_m":1674,"wid_m":30.48,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":31.07859200,"lon1":-97.68904200,"rwy2":"19","lat2":31.09305300,"lon2":-97.68396900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":31.09385600,"lon":-97.68367500,"rng_nm":18,"alt_fmsl":848,"hdg":16.76,"id":"IILE","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":31.08388900,"lon":-97.68850800,"rng_nm":10,"alt_fmsl":840,"id":"IILE","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.02403900,"lon":-97.70804400,"rng_nm":0,"alt_fmsl":848,"id":"----","rwy":"01","desc":"OM"}
+]
+}

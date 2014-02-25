@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSLG","name":"Smith Fld","lat":36.1918545,"lon":-94.489989,"rwys":1,"ils":0,"elev":1193,"index":1400714,"path":"w100n30/w095n36"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":36.19869200,"lon1":-94.48920300,"rwy2":"36","lat2":36.18501700,"lon2":-94.49077500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"RAZORBACK APP/DEP"}
+]
+,"ils":[
+]
+}

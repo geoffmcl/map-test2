@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCWA","name":"Central Wisconsin","lat":44.78427800,"lon":-89.66855800,"rwys":2,"ils":2,"elev":1277,"index":1483185,"path":"w090n40/w090n44"
+,"runways":[
+{"len_m":2330,"wid_m":45.72,"hdg":77,"surf":"Concrete","rwy1":"08","lat1":44.77987800,"lon1":-89.67553600,"rwy2":"26","lat2":44.78446100,"lon2":-89.64680600},
+{"len_m":1981,"wid_m":45.72,"hdg":170,"surf":"Concrete","rwy1":"17","lat1":44.78104700,"lon1":-89.67554200,"rwy2":"35","lat2":44.76348600,"lon2":-89.67121400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"ATIS","freq":127.45,"desc":"AWOS 3"},
+{"type":"CTAF","freq":119.75,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.75,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.78528600,"lon":-89.64165800,"rng_nm":18,"alt_fmsl":1253,"hdg":77.33,"id":"ICWA","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":44.78375600,"lon":-89.67620600,"rng_nm":18,"alt_fmsl":1277,"hdg":350.08,"id":"IPHS","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.77944700,"lon":-89.67120300,"rng_nm":10,"alt_fmsl":1273,"id":"ICWA","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":44.76553600,"lon":-89.67328100,"rng_nm":10,"alt_fmsl":1277,"id":"IPHS","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.76052200,"lon":-89.78929100,"rng_nm":0,"alt_fmsl":1235,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":44.67694400,"lon":-89.64861100,"rng_nm":0,"alt_fmsl":1145,"id":"----","rwy":"35","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":44.78602800,"lon":-89.64179200,"rng_nm":18,"alt_fmsl":1256,"id":"ICWA","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":44.78394700,"lon":-89.67465000,"rng_nm":18,"alt_fmsl":1277,"id":"IPHS","rwy":"35","desc":"DME-ILS"}
+]
+}

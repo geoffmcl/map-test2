@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNCA","name":"New River Mcas","lat":34.71058300,"lon":-77.44245100,"rwys":2,"ils":1,"elev":26,"index":1679146,"path":"w080n30/w078n34"
+,"runways":[
+{"len_m":1558,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":34.70461400,"lon1":-77.44845600,"rwy2":"23","lat2":34.71455600,"lon2":-77.43643100},
+{"len_m":1460,"wid_m":45.72,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":34.70060300,"lon1":-77.43668900,"rwy2":"19","lat2":34.71376400,"lon2":-77.43669700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120,"desc":"TWR"},
+{"type":"APP","freq":124.85,"desc":"ARRIVAL"},
+{"type":"APP","freq":119.35,"desc":"CHERRY POINT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":34.71900000,"lon":-77.43670300,"rng_nm":18,"alt_fmsl":26,"hdg":359.96,"id":"INCA","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":34.70316900,"lon":-77.43718900,"rng_nm":10,"alt_fmsl":26,"id":"INCA","rwy":"01","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":34.71933300,"lon":-77.43585600,"rng_nm":18,"alt_fmsl":26,"id":"INCA","rwy":"01","desc":"DME-ILS"}
+]
+}

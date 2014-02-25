@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAAO","name":"Colonel James Jabara","lat":37.745494685,"lon":-97.222641445,"rwys":1,"ils":0,"elev":1421,"index":1351659,"path":"w100n30/w098n37"
+,"runways":[
+{"len_m":1859,"wid_m":29.87,"hdg":186,"surf":"Concrete","rwy1":"18","lat1":37.75589106,"lon1":-97.21985994,"rwy2":"36","lat2":37.73925878,"lon2":-97.22237129}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-97,"surf":"Concrete","lat1":37.74341445,"lon1":-97.22416727}
+]
+,"radios":[
+{"type":"ATIS","freq":123.88,"desc":"AWOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"CLD","freq":125,"desc":"Clearance Delivery"},
+{"type":"APP","freq":134.8,"desc":"Wichita Approach"},
+{"type":"DEP","freq":134.8,"desc":"Wichita Departure"}
+]
+,"ils":[
+]
+}

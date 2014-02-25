@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDLO","name":"Delano Muni","lat":35.745581,"lon":-119.2365055,"rwys":1,"ils":0,"elev":314,"index":991083,"path":"w120n30/w120n35"
+,"runways":[
+{"len_m":1722,"wid_m":22.86,"hdg":158,"surf":"Asphalt","rwy1":"14","lat1":35.75280600,"lon1":-119.23998900,"rwy2":"32","lat2":35.73835600,"lon2":-119.23302200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.9,"desc":"BAKERSFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

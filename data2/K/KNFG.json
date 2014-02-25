@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KNFG","name":"Camp Pendleton Mcas","lat":33.30178800,"lon":-117.34845000,"rwys":1,"ils":0,"elev":78,"index":1023698,"path":"w120n30/w118n33"
+,"runways":[
+{"len_m":1828,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":33.29553300,"lon1":-117.36191100,"rwy2":"21","lat2":33.30724700,"lon2":-117.34808900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":126.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.77,"desc":"GND"},
+{"type":"TWR","freq":128.77,"desc":"TWR"},
+{"type":"APP","freq":128.45,"desc":"APP/DEP"},
+{"type":"APP","freq":127.3,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSTJ","name":"Rosecrans Mem","lat":39.771411,"lon":-94.91065575,"rwys":2,"ils":1,"elev":826,"index":1400944,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":2456,"wid_m":45.72,"hdg":180,"surf":"Concrete","rwy1":"17","lat1":39.78457500,"lon1":-94.90691100,"rwy2":"35","lat2":39.76245300,"lon2":-94.90691700},
+{"len_m":1461,"wid_m":22.86,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":39.77402200,"lon1":-94.92035300,"rwy2":"31","lat2":39.76459400,"lon2":-94.90844200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.05,"desc":"ATIS"},
+{"type":"CTAF","freq":126.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"ST JOSEPH TWR"},
+{"type":"APP","freq":120.35,"desc":"ST JOSEPH APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":39.78784200,"lon":-94.90691400,"rng_nm":18,"alt_fmsl":826,"hdg":0.01,"id":"ISTJ","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":39.76603300,"lon":-94.90839200,"rng_nm":10,"alt_fmsl":812,"id":"ISTJ","rwy":"35","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":39.67574400,"lon":-94.90693900,"rng_nm":0,"alt_fmsl":826,"id":"----","rwy":"35","desc":"OM"}
+]
+}

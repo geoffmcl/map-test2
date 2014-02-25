@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFDK","name":"Frederick Muni","lat":39.41699200,"lon":-77.37846400,"rwys":2,"ils":1,"elev":303,"index":1679450,"path":"w080n30/w078n39"
+,"runways":[
+{"len_m":1591,"wid_m":30.48,"hdg":40,"surf":"Asphalt","rwy1":"05","lat1":39.40960300,"lon1":-77.38043600,"rwy2":"23","lat2":39.42050300,"lon2":-77.36843300},
+{"len_m":1097,"wid_m":22.86,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":39.42338300,"lon1":-77.37982200,"rwy2":"30","lat2":39.41905600,"lon2":-77.36836700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":126.9,"desc":"POTOMAC CLNC DEL"},
+{"type":"APP","freq":126.75,"desc":"POTOMAC APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":39.40625300,"lon":-77.38412200,"rng_nm":18,"alt_fmsl":303,"hdg":220.38,"id":"IFDK","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":39.41791400,"lon":-77.36970600,"rng_nm":10,"alt_fmsl":288,"id":"IFDK","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.46948900,"lon":-77.31516100,"rng_nm":0,"alt_fmsl":303,"id":"----","rwy":"23","desc":"OM"}
+]
+}

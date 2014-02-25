@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWAL","name":"Wallops Flight Facility","lat":37.9403903333333,"lon":-75.4662763333333,"rwys":3,"ils":0,"elev":40,"index":1712122,"path":"w080n30/w076n37"
+,"runways":[
+{"len_m":2666,"wid_m":45.72,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":37.92706700,"lon1":-75.47094400,"rwy2":"22","lat2":37.94740000,"lon2":-75.45478600},
+{"len_m":2439,"wid_m":60.96,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":37.94293600,"lon1":-75.48507500,"rwy2":"28","lat2":37.94279700,"lon2":-75.45731700},
+{"len_m":1465,"wid_m":45.72,"hdg":157,"surf":"Asphalt","rwy1":"17","lat1":37.94718100,"lon1":-75.46792800,"rwy2":"35","lat2":37.93496100,"lon2":-75.46160800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.17,"desc":"ASOS"},
+{"type":"CTAF","freq":126.5,"desc":"CTAF"},
+{"type":"CLD","freq":121.7,"desc":"PATUXENT CLNC DEL"},
+{"type":"TWR","freq":126.5,"desc":"TWR"},
+{"type":"TWR","freq":126.5,"desc":"INFO SVC"},
+{"type":"APP","freq":127.95,"desc":"PATUXENT APP/DEP"},
+{"type":"APP","freq":134.1,"desc":"PATUXENT APP/DEP"}
+]
+,"ils":[
+]
+}

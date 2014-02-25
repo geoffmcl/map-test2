@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDYB","name":"Summerville","lat":33.063435,"lon":-80.2793235,"rwys":1,"ils":0,"elev":56,"index":1629890,"path":"w090n30/w081n33"
+,"runways":[
+{"len_m":1128,"wid_m":22.86,"hdg":49,"surf":"Asphalt","rwy1":"06","lat1":33.06010300,"lon1":-80.28388600,"rwy2":"24","lat2":33.06676700,"lon2":-80.27476100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.7,"desc":"CHARLESTON APP/DEP"}
+]
+,"ils":[
+]
+}

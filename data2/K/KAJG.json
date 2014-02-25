@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAJG","name":"Mt Carmel Muni","lat":38.606525,"lon":-87.726627,"rwys":2,"ils":0,"elev":429,"index":1515553,"path":"w090n30/w088n38"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":38.61088900,"lon1":-87.73388600,"rwy2":"31","lat2":38.60282500,"lon2":-87.72196100},
+{"len_m":1218,"wid_m":30.48,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":38.60203300,"lon1":-87.72989700,"rwy2":"22","lat2":38.61035300,"lon2":-87.72076400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.9,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.6,"desc":"EVANSVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

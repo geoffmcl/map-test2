@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KASE","name":"Aspen Pitkin Co Sardy Fld","lat":39.22578100,"lon":-106.86809500,"rwys":1,"ils":2,"elev":7820,"index":1204296,"path":"w110n30/w107n39"
+,"runways":[
+{"len_m":2134,"wid_m":30.48,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":39.23217500,"lon1":-106.87314700,"rwy2":"33","lat2":39.21415300,"lon2":-106.86454700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.4,"desc":"ATIS"},
+{"type":"CTAF","freq":118.85,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":123.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":39.15240300,"lon":-106.81934300,"rng_nm":25,"alt_fmsl":10768,"id":"IPKN","rwy":"15","desc":"LOC"},
+{"type":"LOC","freq":111.15,"lat":39.21153900,"lon":-106.86330000,"rng_nm":18,"alt_fmsl":7832,"id":"IASE","rwy":"15","desc":"LOC"},
+{"type":"DME","freq":111.15,"lat":39.21122200,"lon":-106.86280600,"rng_nm":18,"alt_fmsl":7830,"id":"IASE","rwy":"15","desc":"DME-ILS"}
+]
+}

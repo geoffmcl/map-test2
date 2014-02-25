@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHRO","name":"Boone Co","lat":36.2615165,"lon":-93.154732,"rwys":1,"ils":1,"elev":1365,"index":1417107,"path":"w100n30/w094n36"
+,"runways":[
+{"len_m":1877,"wid_m":45.72,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":36.26993900,"lon1":-93.15372200,"rwy2":"36","lat2":36.25309400,"lon2":-93.15574200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":36.26908600,"lon":-93.15519200,"rng_nm":18,"alt_fmsl":1365,"hdg":1.59,"id":"IHRO","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":36.25605300,"lon":-93.15649400,"rng_nm":10,"alt_fmsl":1351,"id":"IHRO","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.19106400,"lon":-93.16019200,"rng_nm":0,"alt_fmsl":1365,"id":"----","rwy":"36","desc":"OM"},
+{"type":"DME","freq":111.7,"lat":36.26919400,"lon":-93.15540800,"rng_nm":18,"alt_fmsl":1365,"id":"IHRO","rwy":"36","desc":"DME-ILS"}
+]
+}

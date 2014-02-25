@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSAZ","name":"Staples Muni","lat":46.380883,"lon":-94.806589,"rwys":1,"ils":0,"elev":1287,"index":1401368,"path":"w100n40/w095n46"
+,"runways":[
+{"len_m":1007,"wid_m":22.86,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":46.38458300,"lon1":-94.81036700,"rwy2":"32","lat2":46.37718300,"lon2":-94.80281100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

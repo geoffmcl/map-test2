@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSSI","name":"Malcolm Mckinnon","lat":31.15186675,"lon":-81.3902625,"rwys":2,"ils":0,"elev":19,"index":1613386,"path":"w090n30/w082n31"
+,"runways":[
+{"len_m":1767,"wid_m":30.48,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":31.14522800,"lon1":-81.39935600,"rwy2":"22","lat2":31.15811100,"lon2":-81.38843300},
+{"len_m":1009,"wid_m":22.86,"hdg":154,"surf":"Asphalt","rwy1":"16","lat1":31.15616100,"lon1":-81.38894200,"rwy2":"34","lat2":31.14796700,"lon2":-81.38431900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

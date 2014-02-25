@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOCH","name":"A L Mangham Jr Rgnl","lat":31.5777705,"lon":-94.710129,"rwys":1,"ils":1,"elev":355,"index":1400417,"path":"w100n30/w095n31"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":31.58462200,"lon1":-94.70950000,"rwy2":"36","lat2":31.57091900,"lon2":-94.71075800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":31.58643600,"lon":-94.70932800,"rng_nm":18,"alt_fmsl":355,"hdg":4.49,"id":"IOCH","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":31.57326700,"lon":-94.71182800,"rng_nm":10,"alt_fmsl":337,"id":"IOCH","rwy":"36","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":31.56367200,"lon":-94.71123900,"rng_nm":0,"alt_fmsl":355,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":31.58653600,"lon":-94.70848600,"rng_nm":18,"alt_fmsl":355,"id":"IOCH","rwy":"36","desc":"DME-ILS"}
+]
+}

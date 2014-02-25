@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KATW","name":"Outagamie Co Rgnl","lat":44.25907200,"lon":-88.51127900,"rwys":2,"ils":2,"elev":918,"index":1499537,"path":"w090n40/w089n44"
+,"runways":[
+{"len_m":2439,"wid_m":45.72,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":44.24893100,"lon1":-88.52618100,"rwy2":"21","lat2":44.26863900,"lon2":-88.51273300},
+{"len_m":1981,"wid_m":45.72,"hdg":116,"surf":"Concrete","rwy1":"11","lat1":44.26117800,"lon1":-88.52972800,"rwy2":"29","lat2":44.25332800,"lon2":-88.50745000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.15,"desc":"ATIS"},
+{"type":"CTAF","freq":119.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"APPLETON GND"},
+{"type":"TWR","freq":119.6,"desc":"APPLETON TWR"},
+{"type":"APP","freq":126.3,"desc":"GREEN BAY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":44.26928900,"lon":-88.51229200,"rng_nm":18,"alt_fmsl":875,"hdg":26.05,"id":"IATW","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":44.26288100,"lon":-88.53456100,"rng_nm":18,"alt_fmsl":917,"hdg":296.19,"id":"IAQZ","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":44.25200800,"lon":-88.52624700,"rng_nm":10,"alt_fmsl":883,"id":"IATW","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":44.25354400,"lon":-88.51152500,"rng_nm":10,"alt_fmsl":867,"id":"IAQZ","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.16240100,"lon":-88.58494400,"rng_nm":0,"alt_fmsl":918,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":44.21588900,"lon":-88.39897200,"rng_nm":0,"alt_fmsl":753,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.24170800,"lon":-88.53110800,"rng_nm":0,"alt_fmsl":918,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":44.24972800,"lon":-88.49739700,"rng_nm":0,"alt_fmsl":918,"id":"----","rwy":"29","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":44.26346900,"lon":-88.53395000,"rng_nm":18,"alt_fmsl":918,"id":"IAQZ","rwy":"29","desc":"DME-ILS"}
+]
+}

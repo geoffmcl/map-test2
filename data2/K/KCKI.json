@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCKI","name":"Williamsburg Rgnl","lat":33.717225,"lon":-79.856979,"rwys":1,"ils":0,"elev":67,"index":1646312,"path":"w080n30/w080n33"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":33.72184200,"lon1":-79.86306900,"rwy2":"32","lat2":33.71260800,"lon2":-79.85088900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.4,"desc":"MYRTLE BEACH APP/DEP"}
+]
+,"ils":[
+]
+}

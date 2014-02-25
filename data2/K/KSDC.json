@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSDC","name":"Williamson Sodus","lat":43.2346131,"lon":-77.11945132,"rwys":1,"ils":0,"elev":425,"index":1679691,"path":"w080n40/w078n43"
+,"runways":[
+{"len_m":1158,"wid_m":17.98,"hdg":88,"surf":"Asphalt","rwy1":"10","lat1":43.23445200,"lon1":-77.12658032,"rwy2":"28","lat2":43.23477420,"lon2":-77.11232232}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.55,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+]
+}

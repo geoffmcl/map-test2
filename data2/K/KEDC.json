@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KEDC","name":"Austin Executive Airpark","lat":30.3965573,"lon":-97.566428385,"rwys":2,"ils":0,"elev":761,"index":1351193,"path":"w100n30/w098n30"
+,"runways":[
+{"len_m":1836,"wid_m":29.87,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":30.40352767,"lon1":-97.57346408,"rwy2":"31","lat2":30.39268956,"lon2":-97.55900915},
+{"len_m":471,"wid_m":7.62,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":30.39706113,"lon1":-97.56725857,"rwy2":"34","lat2":30.39295085,"lon2":-97.56598174}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"AWOS"},
+{"type":"CTAF","freq":122.97,"desc":"CTAF"},
+{"type":"APP","freq":127.22,"desc":"AUSTIN APCH"}
+]
+,"ils":[
+]
+}

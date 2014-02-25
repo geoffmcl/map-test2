@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KBJC","name":"Rocky Mountain Metropolitan Airport","lat":39.9090178333333,"lon":-105.116967666667,"rwys":3,"ils":1,"elev":5670,"index":1220731,"path":"w110n30/w106n39"
+,"runways":[
+{"len_m":2742,"wid_m":30.48,"hdg":124,"surf":"Asphalt","rwy1":"11L","lat1":39.91528600,"lon1":-105.12843100,"rwy2":"29R","lat2":39.90136900,"lon2":-105.10193100},
+{"len_m":2134,"wid_m":22.86,"hdg":124,"surf":"Asphalt","rwy1":"11R","lat1":39.91418900,"lon1":-105.13155800,"rwy2":"29L","lat2":39.90336100,"lon2":-105.11093600},
+{"len_m":1097,"wid_m":22.86,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":39.90586900,"lon1":-105.11808900,"rwy2":"20","lat2":39.91403300,"lon2":-105.11086100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CTAF","freq":118.6,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":123.95,"desc":"TWR"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":126.1,"desc":"DENVER APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":39.91590300,"lon":-105.12960300,"rng_nm":18,"alt_fmsl":5653,"hdg":304.39,"id":"IBJC","rwy":"29R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":39.90196900,"lon":-105.10483900,"rng_nm":10,"alt_fmsl":5572,"id":"IBJC","rwy":"29R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.85515300,"lon":-105.01464700,"rng_nm":0,"alt_fmsl":5670,"id":"----","rwy":"29R","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.89593100,"lon":-105.09162200,"rng_nm":0,"alt_fmsl":5670,"id":"----","rwy":"29R","desc":"MM"}
+]
+}

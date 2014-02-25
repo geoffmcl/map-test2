@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFMY","name":"Page Fld","lat":26.59053600,"lon":-81.86277800,"rwys":2,"ils":1,"elev":17,"index":1613088,"path":"w090n20/w082n26"
+,"runways":[
+{"len_m":1952,"wid_m":45.72,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":26.58000800,"lon1":-81.87109400,"rwy2":"23","lat2":26.59183300,"lon2":-81.85655800},
+{"len_m":1497,"wid_m":45.72,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":26.59190800,"lon1":-81.86820300,"rwy2":"31","lat2":26.58313600,"lon2":-81.85677200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.72,"desc":"ATIS"},
+{"type":"CTAF","freq":119,"desc":"CTAF"},
+{"type":"CTAF","freq":130.55,"desc":"UNICOM"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":126.8,"desc":"FORT MYERS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":26.59246100,"lon":-81.85578600,"rng_nm":18,"alt_fmsl":16,"hdg":47.71,"id":"IFMY","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":26.58341900,"lon":-81.86849700,"rng_nm":10,"alt_fmsl":14,"id":"IFMY","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.51612500,"lon":-81.95010600,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":26.57543600,"lon":-81.87553100,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"05","desc":"MM"}
+]
+}

@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTOA","name":"Torrance/zamperini Field","lat":33.80112251,"lon":-118.34134126,"rwys":2,"ils":1,"elev":103,"index":1007346,"path":"w120n30/w119n33"
+,"runways":[
+{"len_m":1531,"wid_m":46.02,"hdg":128,"surf":"Asphalt","rwy1":"11L","lat1":33.80811176,"lon1":-118.34576553,"rwy2":"29R","lat2":33.79952285,"lon2":-118.33281313},
+{"len_m":918,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"11R","lat1":33.80531644,"lon1":-118.34420638,"rwy2":"29L","lat2":33.80016506,"lon2":-118.33644160}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":6,"wid_m":7.92,"hdg":-118,"surf":"Asphalt","lat1":33.80100939,"lon1":-118.34005477},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":-118,"surf":"Asphalt","lat1":33.80934768,"lon1":-118.34576320}
+]
+,"radios":[
+{"type":"ATIS","freq":125.6,"desc":"ATIS"},
+{"type":"CTAF","freq":124,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.9,"desc":"GND"},
+{"type":"TWR","freq":135.6,"desc":"TWR (N)"},
+{"type":"TWR","freq":124,"desc":"TWR (S)"},
+{"type":"APP","freq":124.3,"desc":"SOCAL APP/DEP (RWY11)"},
+{"type":"APP","freq":127.2,"desc":"SOCAL APP/DEP (RWY29)"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":33.80886900,"lon":-118.34689400,"rng_nm":18,"alt_fmsl":78,"hdg":308.61,"id":"ITOA","rwy":"29R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":33.80269200,"lon":-118.33572500,"rng_nm":10,"alt_fmsl":96,"id":"ITOA","rwy":"29R","desc":"GS","gs":3.4},
+{"type":"OM","freq":0,"lat":33.75083600,"lon":-118.25918600,"rng_nm":0,"alt_fmsl":103,"id":"----","rwy":"29R","desc":"OM"},
+{"type":"MM","freq":0,"lat":33.79615800,"lon":-118.32860800,"rng_nm":0,"alt_fmsl":103,"id":"----","rwy":"29R","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":33.80848600,"lon":-118.34744200,"rng_nm":18,"alt_fmsl":96,"id":"ITOA","rwy":"29R","desc":"DME-ILS"}
+]
+}

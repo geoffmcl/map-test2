@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KFHU","name":"Sierra Vista Muni Libby Aaf","lat":31.58211084,"lon":-110.34400118,"rwys":3,"ils":1,"elev":4719,"index":1138274,"path":"w120n30/w111n31"
+,"runways":[
+{"len_m":3655,"wid_m":46.02,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":31.58756400,"lon1":-110.36703900,"rwy2":"26","lat2":31.58762500,"lon2":-110.32852200},
+{"len_m":1635,"wid_m":29.87,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":31.59287500,"lon1":-110.34326900,"rwy2":"30","lat2":31.58406400,"lon2":-110.32945300},
+{"len_m":1305,"wid_m":22.86,"hdg":36,"surf":"Asphalt","rwy1":"03","lat1":31.58615300,"lon1":-110.34896900,"rwy2":"21","lat2":31.59559400,"lon2":-110.34075000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.67,"desc":"ASOS"},
+{"type":"ATIS","freq":134.75,"desc":"ATIS"},
+{"type":"CTAF","freq":124.95,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.95,"desc":"LIBBY TWR"},
+{"type":"APP","freq":127.05,"desc":"LIBBY GCA"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":31.58755600,"lon":-110.37122500,"rng_nm":18,"alt_fmsl":4719,"hdg":269.88,"id":"IFHU","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":31.58651900,"lon":-110.33156900,"rng_nm":10,"alt_fmsl":4719,"id":"IFHU","rwy":"26","desc":"GS","gs":3}
+]
+}

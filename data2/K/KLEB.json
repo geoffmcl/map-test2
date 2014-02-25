@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KLEB","name":"Lebanon Muni","lat":43.626009,"lon":-72.30422625,"rwys":2,"ils":1,"elev":603,"index":1761642,"path":"w080n40/w073n43"
+,"runways":[
+{"len_m":1674,"wid_m":30.48,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":43.62583900,"lon1":-72.31205800,"rwy2":"25","lat2":43.63353300,"lon2":-72.29421100},
+{"len_m":1584,"wid_m":30.48,"hdg":167,"surf":"Asphalt","rwy1":"18","lat1":43.62930800,"lon1":-72.30736400,"rwy2":"36","lat2":43.61535600,"lon2":-72.30327200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.65,"desc":"ASOS"},
+{"type":"ATIS","freq":118.65,"desc":"ATIS"},
+{"type":"CTAF","freq":125.95,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":125.95,"desc":"TWR"},
+{"type":"APP","freq":134.7,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":43.61619200,"lon":-72.30506900,"rng_nm":18,"alt_fmsl":600,"hdg":170.00,"id":"IDVR","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":43.62720600,"lon":-72.30544700,"rng_nm":10,"alt_fmsl":560,"id":"IDVR","rwy":"18","desc":"GS","gs":3.1},
+{"type":"MM","freq":0,"lat":43.64555600,"lon":-72.31158300,"rng_nm":0,"alt_fmsl":603,"id":"----","rwy":"18","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":43.61566100,"lon":-72.30496900,"rng_nm":18,"alt_fmsl":616,"id":"IDVR","rwy":"18","desc":"DME-ILS"}
+]
+}

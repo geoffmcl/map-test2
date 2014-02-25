@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KWJF","name":"General Wm J Fox Airfield","lat":34.73920773,"lon":-118.21509893,"rwys":1,"ils":0,"elev":2351,"index":1007403,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":2194,"wid_m":46.02,"hdg":72,"surf":"Asphalt","rwy1":"06","lat1":34.73800300,"lon1":-118.23003900,"rwy2":"24","lat2":34.74409400,"lon2":-118.20724200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.3,"desc":"ATIS"},
+{"type":"ATIS","freq":133.87,"desc":"AWOS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":126.1,"desc":"JOSHUA APP/DEP"}
+]
+,"ils":[
+]
+}

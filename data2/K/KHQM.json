@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KHQM","name":"Bowerman","lat":46.971196,"lon":-123.9365635,"rwys":1,"ils":1,"elev":18,"index":926264,"path":"w130n40/w124n46"
+,"runways":[
+{"len_m":1523,"wid_m":46.02,"hdg":79,"surf":"Asphalt","rwy1":"06","lat1":46.96998600,"lon1":-123.94641900,"rwy2":"24","lat2":46.97240600,"lon2":-123.92670800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.77,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":46.96974400,"lon":-123.94839400,"rng_nm":18,"alt_fmsl":18,"hdg":259.79,"id":"IHQM","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":46.97290600,"lon":-123.93045800,"rng_nm":10,"alt_fmsl":18,"id":"IHQM","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.98767500,"lon":-123.79769400,"rng_nm":0,"alt_fmsl":18,"id":"----","rwy":"24","desc":"OM"},
+{"type":"DME","freq":108.7,"lat":46.97038300,"lon":-123.94864700,"rng_nm":18,"alt_fmsl":18,"id":"IHQM","rwy":"24","desc":"DME-ILS"}
+]
+}

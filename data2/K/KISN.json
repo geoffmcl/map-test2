@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KISN","name":"Sloulin Fld Intl","lat":48.17745725,"lon":-103.64190025,"rwys":2,"ils":1,"elev":1982,"index":1254025,"path":"w110n40/w104n48"
+,"runways":[
+{"len_m":2026,"wid_m":30.48,"hdg":124,"surf":"Asphalt","rwy1":"11","lat1":48.18410000,"lon1":-103.65458100,"rwy2":"29","lat2":48.17385600,"lon2":-103.63203900},
+{"len_m":1052,"wid_m":18.29,"hdg":30,"surf":"Asphalt","rwy1":"02","lat1":48.17185600,"lon1":-103.64408100,"rwy2":"20","lat2":48.18001700,"lon2":-103.63690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":48.18563900,"lon":-103.65797200,"rng_nm":18,"alt_fmsl":2006,"hdg":304.26,"id":"ISFW","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":48.17418100,"lon":-103.63567500,"rng_nm":10,"alt_fmsl":1904,"id":"ISFW","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.12327800,"lon":-103.51143600,"rng_nm":0,"alt_fmsl":1982,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.16808300,"lon":-103.61938900,"rng_nm":0,"alt_fmsl":1869,"id":"----","rwy":"29","desc":"MM"}
+]
+}

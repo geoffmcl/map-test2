@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDUG","name":"Bisbee Douglas Intl","lat":31.467794,"lon":-109.6033855,"rwys":4,"ils":0,"elev":4154,"index":1154649,"path":"w110n30/w110n31"
+,"runways":[
+{"len_m":2292,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":31.46888900,"lon1":-109.61388900,"rwy2":"30","lat2":31.45416700,"lon2":-109.59695000},
+{"len_m":2227,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":31.47425800,"lon1":-109.60449400,"rwy2":"35","lat2":31.45416700,"lon2":-109.60441100},
+{"len_m":2171,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":31.46444400,"lon1":-109.60888900,"rwy2":"21","lat2":31.47833300,"lon2":-109.59278100},
+{"len_m":1523,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":31.47406900,"lon1":-109.61085300,"rwy2":"26","lat2":31.47402500,"lon2":-109.59481700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

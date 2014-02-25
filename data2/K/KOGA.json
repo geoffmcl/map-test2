@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOGA","name":"Searle Fld","lat":41.11970608,"lon":-101.76185037,"rwys":2,"ils":0,"elev":3278,"index":1286336,"path":"w110n40/w102n41"
+,"runways":[
+{"len_m":1553,"wid_m":22.86,"hdg":89,"surf":"Concrete","rwy1":"08","lat1":41.11780834,"lon1":-101.78135950,"rwy2":"26","lat2":41.11783266,"lon2":-101.76286600},
+{"len_m":1125,"wid_m":14.94,"hdg":144,"surf":"Asphalt","rwy1":"13","lat1":41.12590800,"lon1":-101.77077975,"rwy2":"31","lat2":41.11767200,"lon2":-101.76296100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.27,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

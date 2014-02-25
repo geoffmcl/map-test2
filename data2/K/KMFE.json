@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMFE","name":"Mc Allen Miller Intl","lat":26.17865993,"lon":-98.23845311,"rwys":2,"ils":1,"elev":106,"index":1334539,"path":"w100n20/w099n26"
+,"runways":[
+{"len_m":2170,"wid_m":45.72,"hdg":140,"surf":"Asphalt","rwy1":"13","lat1":26.18288844,"lon1":-98.24629939,"rwy2":"31","lat2":26.16775744,"lon2":-98.23251339},
+{"len_m":803,"wid_m":18.29,"hdg":188,"surf":"Asphalt","rwy1":"18","lat1":26.18067144,"lon1":-98.23571841,"rwy2":"36","lat2":26.17349944,"lon2":-98.23693841}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ASOS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"VALLEY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":26.16655600,"lon":-98.23141100,"rng_nm":18,"alt_fmsl":94,"hdg":140.73,"id":"IMFE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":26.17929200,"lon":-98.24459400,"rng_nm":10,"alt_fmsl":98,"id":"IMFE","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.25385000,"lon":-98.31037800,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":26.18907500,"lon":-98.25193300,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":111.7,"lat":26.16684700,"lon":-98.23075000,"rng_nm":18,"alt_fmsl":111,"id":"IMFE","rwy":"13","desc":"DME-ILS"}
+]
+}

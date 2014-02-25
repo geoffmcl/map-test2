@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGAF","name":"Hutson Fld","lat":48.40562475,"lon":-97.370139,"rwys":2,"ils":0,"elev":824,"index":1352346,"path":"w100n40/w098n48"
+,"runways":[
+{"len_m":1316,"wid_m":45.72,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":48.40583300,"lon1":-97.38361100,"rwy2":"26","lat2":48.40583300,"lon2":-97.36583300},
+{"len_m":1204,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":48.41083300,"lon1":-97.36555600,"rwy2":"35","lat2":48.40000000,"lon2":-97.36555600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":132.3,"desc":"GRAND FORKS APP/DEP"}
+]
+,"ils":[
+]
+}

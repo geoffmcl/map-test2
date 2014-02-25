@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSEZ","name":"Sedona","lat":34.85100600,"lon":-111.78805500,"rwys":1,"ils":0,"elev":4827,"index":1122096,"path":"w120n30/w112n34"
+,"runways":[
+{"len_m":1563,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":34.84369200,"lon1":-111.79460600,"rwy2":"21","lat2":34.85352200,"lon2":-111.78235800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"AWOS 2"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.5,"desc":"ALBUQUERQUE CNTR"}
+]
+,"ils":[
+]
+}

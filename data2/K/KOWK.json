@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOWK","name":"Central Maine Of Norridgewock","lat":44.7154905,"lon":-69.866464,"rwys":2,"ils":0,"elev":270,"index":1810856,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1218,"wid_m":30.48,"hdg":9,"surf":"Asphalt","rwy1":"03","lat1":44.70890300,"lon1":-69.86875300,"rwy2":"21","lat2":44.71971700,"lon2":-69.86619200},
+{"len_m":1218,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"15","lat1":44.72016700,"lon1":-69.87137500,"rwy2":"33","lat2":44.71317500,"lon2":-69.85953600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.35,"desc":"PORTLAND APP/DEP"}
+]
+,"ils":[
+]
+}

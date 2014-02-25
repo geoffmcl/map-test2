@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KAXX","name":"Angel Fire","lat":36.42076110,"lon":-105.29216770,"rwys":1,"ils":0,"elev":8380,"index":1220506,"path":"w110n30/w106n36"
+,"runways":[
+{"len_m":2711,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":36.43421400,"lon1":-105.28944200,"rwy2":"35","lat2":36.40978600,"lon2":-105.29036700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.8,"desc":"ALBUQUERQUE CNTR"}
+]
+,"ils":[
+]
+}

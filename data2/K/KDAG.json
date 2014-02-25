@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KDAG","name":"Barstow Daggett","lat":34.85399225,"lon":-116.786628,"rwys":2,"ils":0,"elev":1927,"index":1040176,"path":"w120n30/w117n34"
+,"runways":[
+{"len_m":1950,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":34.85148600,"lon1":-116.79783100,"rwy2":"26","lat2":34.85147200,"lon2":-116.77650300},
+{"len_m":1560,"wid_m":30.48,"hdg":50,"surf":"Asphalt","rwy1":"04","lat1":34.85203300,"lon1":-116.79267200,"rwy2":"22","lat2":34.86097800,"lon2":-116.77950600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

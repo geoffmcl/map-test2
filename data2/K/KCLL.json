@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCLL","name":"Easterwood Field","lat":30.59032141,"lon":-96.35890292,"rwys":3,"ils":1,"elev":321,"index":1367586,"path":"w100n30/w097n30"
+,"runways":[
+{"len_m":2133,"wid_m":46.02,"hdg":168,"surf":"Asphalt","rwy1":"16","lat1":30.59663900,"lon1":-96.36285600,"rwy2":"34","lat2":30.57775600,"lon2":-96.35856400},
+{"len_m":1572,"wid_m":46.02,"hdg":108,"surf":"Asphalt","rwy1":"10","lat1":30.59147200,"lon1":-96.37279400,"rwy2":"28","lat2":30.58690600,"lon2":-96.35727500},
+{"len_m":1569,"wid_m":46.02,"hdg":49,"surf":"Concrete","rwy1":"04","lat1":30.58529700,"lon1":-96.37309200,"rwy2":"22","lat2":30.59444700,"lon2":-96.36060300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"CTAF","freq":118.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":128.7,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":30.59988300,"lon":-96.36359200,"rng_nm":18,"alt_fmsl":326,"hdg":348.93,"id":"ICLL","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":30.58036400,"lon":-96.36093900,"rng_nm":10,"alt_fmsl":303,"id":"ICLL","rwy":"34","desc":"GS","gs":2.9},
+{"type":"OM","freq":0,"lat":30.49372200,"lon":-96.33769200,"rng_nm":0,"alt_fmsl":321,"id":"----","rwy":"34","desc":"OM"},
+{"type":"DME","freq":111.7,"lat":30.60000000,"lon":-96.36444400,"rng_nm":18,"alt_fmsl":330,"id":"ICLL","rwy":"34","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KVEL","name":"Vernal","lat":40.44156025,"lon":-109.50977575,"rwys":2,"ils":0,"elev":5278,"index":1155225,"path":"w110n40/w110n40"
+,"runways":[
+{"len_m":1889,"wid_m":45.72,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":40.44686100,"lon1":-109.51067800,"rwy2":"34","lat2":40.42984700,"lon2":-109.51029700},
+{"len_m":1251,"wid_m":18.29,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":40.44469400,"lon1":-109.51644200,"rwy2":"25","lat2":40.44483900,"lon2":-109.50168600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

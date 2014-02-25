@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTVL","name":"South Lake Tahoe","lat":38.89526700,"lon":-119.99816100,"rwys":1,"ils":1,"elev":6264,"index":991288,"path":"w120n30/w120n38"
+,"runways":[
+{"len_m":2603,"wid_m":45.72,"hdg":192,"surf":"Asphalt","rwy1":"18","lat1":38.90531100,"lon1":-119.99197800,"rwy2":"36","lat2":38.88245300,"lon2":-119.99869200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.72,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.9,"lat":38.91017200,"lon":-119.98946900,"rng_nm":18,"alt_fmsl":6264,"id":"ITVL","rwy":"18","desc":"LOC"},
+{"type":"DME","freq":108.9,"lat":38.91003300,"lon":-119.98879200,"rng_nm":18,"alt_fmsl":6264,"id":"ITVL","rwy":"18","desc":"DME-ILS"}
+]
+}

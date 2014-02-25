@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPSM","name":"Portsmouth Intl At Pease","lat":43.08431223,"lon":-70.81881091,"rwys":1,"ils":1,"elev":100,"index":1794368,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":3453,"wid_m":46.02,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":43.09131994,"lon1":-70.83410034,"rwy2":"34","lat2":43.06462206,"lon2":-70.81238739}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.05,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":120.95,"desc":"GND"},
+{"type":"TWR","freq":128.4,"desc":"TWR"},
+{"type":"APP","freq":127.05,"desc":"GCA"},
+{"type":"APP","freq":125.05,"desc":"BOSTON APP"},
+{"type":"APP","freq":125.82,"desc":"BOSTON APP"},
+{"type":"DEP","freq":125.05,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.06220800,"lon":-70.81041100,"rng_nm":18,"alt_fmsl":84,"hdg":149.28,"id":"IPGQ","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":43.09455800,"lon":-70.83685300,"rng_nm":18,"alt_fmsl":95,"hdg":329.16,"id":"IPSM","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":43.08669400,"lon":-70.83154400,"rng_nm":10,"alt_fmsl":99,"id":"IPGQ","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":43.06680800,"lon":-70.81640000,"rng_nm":10,"alt_fmsl":78,"id":"IPSM","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.17028100,"lon":-70.89941100,"rng_nm":0,"alt_fmsl":180,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.05594700,"lon":-70.80524700,"rng_nm":0,"alt_fmsl":100,"id":"----","rwy":"34","desc":"MM"}
+]
+}

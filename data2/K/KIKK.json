@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KIKK","name":"Greater Kankakee","lat":41.0712515,"lon":-87.84590025,"rwys":2,"ils":0,"elev":630,"index":1515712,"path":"w090n40/w088n41"
+,"runways":[
+{"len_m":1816,"wid_m":30.48,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":41.06579200,"lon1":-87.85476700,"rwy2":"22","lat2":41.07866700,"lon2":-87.84143100},
+{"len_m":1340,"wid_m":22.86,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":41.07598300,"lon1":-87.84628900,"rwy2":"34","lat2":41.06456400,"lon2":-87.84111400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

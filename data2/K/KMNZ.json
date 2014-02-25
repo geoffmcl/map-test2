@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMNZ","name":"Hamilton Muni","lat":31.6659265,"lon":-98.1486375,"rwys":1,"ils":0,"elev":1299,"index":1334891,"path":"w100n30/w099n31"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":188,"surf":"Asphalt","rwy1":"18","lat1":31.67271400,"lon1":-98.14738100,"rwy2":"36","lat2":31.65913900,"lon2":-98.14989400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.07,"desc":"GRAY APP/DEP"}
+]
+,"ils":[
+]
+}

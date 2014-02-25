@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KRSW","name":"Southwest Florida Intl","lat":26.53714800,"lon":-81.75887300,"rwys":1,"ils":1,"elev":30,"index":1613088,"path":"w090n20/w082n26"
+,"runways":[
+{"len_m":3657,"wid_m":45.72,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":26.52648600,"lon1":-81.77001900,"rwy2":"24","lat2":26.54583900,"lon2":-81.74028600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.65,"desc":"ATIS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":132.07,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":128.75,"desc":"FORT MYERS TWR"},
+{"type":"APP","freq":119.75,"desc":"FORT MYERS APP/DEP"},
+{"type":"APP","freq":125.15,"desc":"FORT MYERS APP/DEP"},
+{"type":"APP","freq":126.8,"desc":"FORT MYERS APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":26.54753300,"lon":-81.73768300,"rng_nm":18,"alt_fmsl":28,"hdg":53.97,"id":"IRSW","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":26.52728900,"lon":-81.76670000,"rng_nm":10,"alt_fmsl":27,"id":"IRSW","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.48433100,"lon":-81.83461100,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"06","desc":"OM"},
+{"type":"MM","freq":0,"lat":26.52552200,"lon":-81.77152800,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"06","desc":"MM"}
+]
+}

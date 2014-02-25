@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSMO","name":"Santa Monica Muni","lat":34.01962176,"lon":-118.44883302,"rwys":1,"ils":0,"elev":177,"index":1007362,"path":"w120n30/w119n34"
+,"runways":[
+{"len_m":1516,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":34.01097825,"lon1":-118.45709167,"rwy2":"21","lat2":34.02071524,"lon2":-118.44556628}
+]
+,"helipads":[
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":-118,"surf":"Asphalt","lat1":34.01646189,"lon1":-118.44911222}
+]
+,"radios":[
+{"type":"ATIS","freq":119.15,"desc":"ATIS"},
+{"type":"CTAF","freq":120.1,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"SOCAL APP"},
+{"type":"APP","freq":124.9,"desc":"SOCAL APP"},
+{"type":"APP","freq":125.2,"desc":"SOCAL APP"},
+{"type":"APP","freq":128.5,"desc":"SOCAL APP"},
+{"type":"DEP","freq":125.2,"desc":"SOCAL DEP"}
+]
+,"ils":[
+]
+}

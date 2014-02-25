@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KILN","name":"Airborne Airpark","lat":39.42762425,"lon":-83.7915805,"rwys":2,"ils":1,"elev":1077,"index":1581144,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":3261,"wid_m":45.72,"hdg":37,"surf":"Concrete","rwy1":"04L","lat1":39.41935600,"lon1":-83.80927500,"rwy2":"22R","lat2":39.44271900,"lon2":-83.78631400},
+{"len_m":2743,"wid_m":45.72,"hdg":37,"surf":"Concrete","rwy1":"04R","lat1":39.41438600,"lon1":-83.79502200,"rwy2":"22L","lat2":39.43403600,"lon2":-83.77571100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.67,"desc":"ASOS"},
+{"type":"ATIS","freq":124.92,"desc":"ATIS"},
+{"type":"CTAF","freq":119.47,"desc":"CTAF"},
+{"type":"CLD","freq":125.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":119.47,"desc":"WILMINGTON TWR"},
+{"type":"TWR","freq":125.6,"desc":"WILMINGTON TWR"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":39.41695300,"lon":-83.81163600,"rng_nm":18,"alt_fmsl":1077,"hdg":217.19,"id":"IILN","rwy":"22R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":39.44093100,"lon":-83.78985600,"rng_nm":10,"alt_fmsl":1073,"id":"IILN","rwy":"22R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.49192200,"lon":-83.73667200,"rng_nm":0,"alt_fmsl":1056,"id":"----","rwy":"22R","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.44817500,"lon":-83.78095000,"rng_nm":0,"alt_fmsl":1077,"id":"----","rwy":"22R","desc":"MM"}
+]
+}

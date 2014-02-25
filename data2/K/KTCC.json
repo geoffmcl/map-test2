@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KTCC","name":"Tucumcari Muni","lat":35.18277000,"lon":-103.60274500,"rwys":2,"ils":0,"elev":4065,"index":1253193,"path":"w110n30/w104n35"
+,"runways":[
+{"len_m":2164,"wid_m":30.48,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":35.17488100,"lon1":-103.61115300,"rwy2":"21","lat2":35.18866400,"lon2":-103.59433900},
+{"len_m":1401,"wid_m":18.29,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":35.18431900,"lon1":-103.61159700,"rwy2":"26","lat2":35.18431700,"lon2":-103.59620800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"CTAF","freq":122.95,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

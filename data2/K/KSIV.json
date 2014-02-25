@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KSIV","name":"Sullivan Co","lat":39.1147125,"lon":-87.448329,"rwys":1,"ils":0,"elev":540,"index":1515586,"path":"w090n30/w088n39"
+,"runways":[
+{"len_m":1328,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":39.12069700,"lon1":-87.44823900,"rwy2":"36","lat2":39.10872800,"lon2":-87.44841900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.25,"desc":"HULLMAN APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KPWA","name":"Wiley Post","lat":35.53471173,"lon":-97.647407865,"rwys":4,"ils":1,"elev":1299,"index":1351521,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":2238,"wid_m":46.02,"hdg":180,"surf":"Concrete","rwy1":"17L","lat1":35.54435583,"lon1":-97.64546655,"rwy2":"35R","lat2":35.52417866,"lon2":-97.64547696},
+{"len_m":1215,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"17R","lat1":35.54050912,"lon1":-97.64915489,"rwy2":"35L","lat2":35.52955341,"lon2":-97.64917379},
+{"len_m":1392,"wid_m":29.87,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":35.53511702,"lon1":-97.65216791,"rwy2":"31","lat2":35.52624817,"lon2":-97.64130920},
+{"len_m":955,"wid_m":21.95,"hdg":38,"surf":"Asphalt","rwy1":"03","lat1":35.53550646,"lon1":-97.65155476,"rwy2":"21","lat2":35.54222515,"lon2":-97.64495888}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.72,"desc":"ATIS"},
+{"type":"CTAF","freq":126.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"TWR"},
+{"type":"APP","freq":120.45,"desc":"OKE CITY APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"OKE CITY APP/DEP"},
+{"type":"APP","freq":124.6,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":35.52277500,"lon":-97.64549200,"rng_nm":18,"alt_fmsl":1294,"hdg":180.06,"id":"IPWA","rwy":"17L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":35.54131100,"lon":-97.64717800,"rng_nm":10,"alt_fmsl":1287,"id":"IPWA","rwy":"17L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.62602500,"lon":-97.64755600,"rng_nm":0,"alt_fmsl":1299,"id":"----","rwy":"17L","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.55197200,"lon":-97.64548600,"rng_nm":0,"alt_fmsl":1299,"id":"----","rwy":"17L","desc":"MM"}
+]
+}

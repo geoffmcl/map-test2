@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCVH","name":"Hollister Muni","lat":36.89083358,"lon":-121.40356711,"rwys":2,"ils":0,"elev":230,"index":958394,"path":"w130n30/w122n36"
+,"runways":[
+{"len_m":1936,"wid_m":29.87,"hdg":141,"surf":"Asphalt","rwy1":"13","lat1":36.90131603,"lon1":-121.41787231,"rwy2":"31","lat2":36.88758786,"lon2":-121.40446269},
+{"len_m":962,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"06","lat1":36.88971849,"lon1":-121.41342734,"rwy2":"24","lat2":36.89241751,"lon2":-121.40316447}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.52,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

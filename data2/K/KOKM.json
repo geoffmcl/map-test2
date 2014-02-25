@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KOKM","name":"Okmulgee Rgnl","lat":35.665241,"lon":-95.95010175,"rwys":2,"ils":1,"elev":720,"index":1384296,"path":"w100n30/w096n35"
+,"runways":[
+{"len_m":1569,"wid_m":30.48,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":35.67520300,"lon1":-95.94869400,"rwy2":"36","lat2":35.66105800,"lon2":-95.94850800},
+{"len_m":1310,"wid_m":45.72,"hdg":45,"surf":"Concrete","rwy1":"04","lat1":35.65818900,"lon1":-95.95673300,"rwy2":"22","lat2":35.66651400,"lon2":-95.94647200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.22,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.85,"desc":"TULSA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":35.65665800,"lon":-95.94856900,"rng_nm":18,"alt_fmsl":675,"hdg":179.69,"id":"IOKM","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":35.67218100,"lon":-95.94726700,"rng_nm":10,"alt_fmsl":714,"id":"IOKM","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.75526700,"lon":-95.94871400,"rng_nm":0,"alt_fmsl":740,"id":"----","rwy":"18","desc":"OM"}
+]
+}

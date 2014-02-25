@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KECG","name":"Elizabeth City Cgas Rgnl","lat":36.26047625,"lon":-76.17535625,"rwys":2,"ils":0,"elev":12,"index":1695635,"path":"w080n30/w077n36"
+,"runways":[
+{"len_m":2200,"wid_m":45.72,"hdg":92,"surf":"Concrete","rwy1":"10","lat1":36.26134700,"lon1":-76.18419700,"rwy2":"28","lat2":36.26051400,"lon2":-76.15973600},
+{"len_m":1377,"wid_m":45.72,"hdg":2,"surf":"Asphalt","rwy1":"01","lat1":36.25382200,"lon1":-76.17907800,"rwy2":"19","lat2":36.26622200,"lon2":-76.17841400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"CTAF","freq":120.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.55,"desc":"NORFOLK APP/DEP"}
+]
+,"ils":[
+]
+}

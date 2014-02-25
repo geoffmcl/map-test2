@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KCXY","name":"Capital City","lat":40.217052,"lon":-76.8516575,"rwys":2,"ils":1,"elev":347,"index":1695880,"path":"w080n40/w077n40"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":40.21558900,"lon1":-76.85853600,"rwy2":"26","lat2":40.22000800,"lon2":-76.84158300},
+{"len_m":1195,"wid_m":30.48,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":40.21870800,"lon1":-76.85954200,"rwy2":"30","lat2":40.21390300,"lon2":-76.84696900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.95,"desc":"ATIS"},
+{"type":"CTAF","freq":119.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"HARRISBURG APP/DEP"},
+{"type":"APP","freq":124.1,"desc":"HARRISBURG APP/DEP"},
+{"type":"APP","freq":126.45,"desc":"HARRISBURG APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":40.22040800,"lon":-76.84007200,"rng_nm":18,"alt_fmsl":337,"hdg":71.14,"id":"ICXY","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":40.21822800,"lon":-76.85565800,"rng_nm":10,"alt_fmsl":335,"id":"ICXY","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":40.17819200,"lon":-77.00559400,"rng_nm":0,"alt_fmsl":505,"id":"----","rwy":"08","desc":"OM"}
+]
+}

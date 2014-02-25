@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KGUS","name":"Grissom Arb","lat":40.6480835,"lon":-86.152111,"rwys":1,"ils":1,"elev":812,"index":1532075,"path":"w090n40/w087n40"
+,"runways":[
+{"len_m":3810,"wid_m":60.96,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":40.63582500,"lon1":-86.16786900,"rwy2":"23","lat2":40.66034200,"lon2":-86.13635300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120,"desc":"CLNC DEL"},
+{"type":"GND","freq":128.42,"desc":"GND"},
+{"type":"TWR","freq":133.7,"desc":"TWR"},
+{"type":"APP","freq":121.05,"desc":"APP"},
+{"type":"DEP","freq":121.05,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":40.66533900,"lon":-86.12991900,"rng_nm":18,"alt_fmsl":812,"hdg":44.30,"id":"IGUS","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":40.63299200,"lon":-86.17152800,"rng_nm":18,"alt_fmsl":812,"hdg":224.28,"id":"IRSM","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":40.63740000,"lon":-86.16327800,"rng_nm":10,"alt_fmsl":810,"id":"IGUS","rwy":"05","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.5,"lat":40.65734400,"lon":-86.13821700,"rng_nm":10,"alt_fmsl":812,"id":"IRSM","rwy":"23","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":40.62813300,"lon":-86.17793300,"rng_nm":0,"alt_fmsl":812,"id":"----","rwy":"05","desc":"MM"}
+]
+}

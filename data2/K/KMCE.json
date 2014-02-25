@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"KMCE","name":"Merced Muni Macready Fld","lat":37.2847275,"lon":-120.51388708,"rwys":1,"ils":1,"elev":156,"index":974801,"path":"w130n30/w121n37"
+,"runways":[
+{"len_m":1800,"wid_m":46.02,"hdg":138,"surf":"Asphalt","rwy1":"12","lat1":37.29080012,"lon1":-120.52061596,"rwy2":"30","lat2":37.27865488,"lon2":-120.50715821}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.17,"desc":"ASOS"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.95,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":37.29245800,"lon":-120.52244700,"rng_nm":18,"alt_fmsl":153,"hdg":318.61,"id":"IMCE","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":37.28008100,"lon":-120.51034200,"rng_nm":10,"alt_fmsl":153,"id":"IMCE","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.21170800,"lon":-120.43323100,"rng_nm":0,"alt_fmsl":156,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.27278900,"lon":-120.50065600,"rng_nm":0,"alt_fmsl":156,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":37.29290600,"lon":-120.52186900,"rng_nm":18,"alt_fmsl":170,"id":"IMCE","rwy":"30","desc":"DME-ILS"}
+]
+}
