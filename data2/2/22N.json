@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"22N","name":"Jake Arner Memorial","lat":40.809521,"lon":-75.76149,"rwys":1,"ils":0,"elev":534,"index":1712304,"path":"w080n40/w076n40"
+,"runways":[
+{"len_m":914,"wid_m":18.29,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":40.80804200,"lon1":-75.76654700,"rwy2":"26","lat2":40.81100000,"lon2":-75.75643300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.35,"desc":"ASOS"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.65,"desc":"ALLENTOWN APP/DEP"},
+{"type":"APP","freq":118.2,"desc":"ALLENTOWN APP/DEP"}
+]
+,"ils":[
+]
+}

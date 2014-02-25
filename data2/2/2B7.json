@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2B7","name":"Pittsfield Muni","lat":44.7685235,"lon":-69.3744235,"rwys":1,"ils":0,"elev":198,"index":1810866,"path":"w070n40/w070n44"
+,"runways":[
+{"len_m":1218,"wid_m":30.48,"hdg":347,"surf":"Asphalt","rwy1":"01","lat1":44.76317200,"lon1":-69.37275300,"rwy2":"19","lat2":44.77387500,"lon2":-69.37609400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.92,"desc":"BANGOR APP/DEP"}
+]
+,"ils":[
+]
+}

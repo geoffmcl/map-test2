@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2A0","name":"Mark Anton","lat":35.486246,"lon":-84.931096,"rwys":1,"ils":0,"elev":719,"index":1564504,"path":"w090n30/w085n35"
+,"runways":[
+{"len_m":1524,"wid_m":29.87,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":35.48021100,"lon1":-84.93510600,"rwy2":"21","lat2":35.49228100,"lon2":-84.92708600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"CHATTANOOGA APP/DEP"}
+]
+,"ils":[
+]
+}

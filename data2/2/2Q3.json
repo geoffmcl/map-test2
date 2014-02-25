@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2Q3","name":"Yolo Co Davis Woodland Winters","lat":38.579,"lon":-121.8566665,"rwys":1,"ils":0,"elev":98,"index":958496,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":38.58723600,"lon1":-121.85661100,"rwy2":"34","lat2":38.57076400,"lon2":-121.85672200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.6,"desc":"TRAVIS APP/DEP"}
+]
+,"ils":[
+]
+}

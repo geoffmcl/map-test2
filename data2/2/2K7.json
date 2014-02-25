@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2K7","name":"Neodesha Muni","lat":37.435508,"lon":-95.64586525,"rwys":2,"ils":0,"elev":841,"index":1384409,"path":"w100n30/w096n37"
+,"runways":[
+{"len_m":913,"wid_m":14.02,"hdg":28,"surf":"Asphalt","rwy1":"02","lat1":37.43109700,"lon1":-95.64971400,"rwy2":"20","lat2":37.43831900,"lon2":-95.64475800},
+{"len_m":640,"wid_m":11.28,"hdg":156,"surf":"Turf/grass","rwy1":"15","lat1":37.43894700,"lon1":-95.64595300,"rwy2":"33","lat2":37.43366900,"lon2":-95.64303600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

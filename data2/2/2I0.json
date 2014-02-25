@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2I0","name":"Madisonville Muni","lat":37.3559305,"lon":-87.3982225,"rwys":1,"ils":0,"elev":439,"index":1515474,"path":"w090n30/w088n37"
+,"runways":[
+{"len_m":1844,"wid_m":22.86,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":37.35075800,"lon1":-87.40636700,"rwy2":"23","lat2":37.36110300,"lon2":-87.39007800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.47,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.1,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.4,"desc":"EVANSVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

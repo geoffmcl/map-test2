@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2J5","name":"Millen","lat":32.8935515,"lon":-81.965378,"rwys":1,"ils":0,"elev":237,"index":1613496,"path":"w090n30/w082n32"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":32.89892200,"lon1":-81.96678100,"rwy2":"35","lat2":32.88818100,"lon2":-81.96397500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.75,"desc":"AUGUSTA ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":126.8,"desc":"AUGUSTA APP"}
+]
+,"ils":[
+]
+}

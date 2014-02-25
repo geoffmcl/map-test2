@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"21OI","name":"Clearwater Airpark","lat":39.12811833,"lon":-84.09271139,"rwys":2,"ils":0,"elev":905,"index":1564747,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":809,"wid_m":9.14,"hdg":66,"surf":"Turf/grass","rwy1":"07","lat1":39.12664007,"lon1":-84.09699149,"rwy2":"25","lat2":39.12959659,"lon2":-84.08843129},
+{"len_m":566,"wid_m":15.24,"hdg":165,"surf":"Turf/grass","rwy1":"17","lat1":39.13059353,"lon1":-84.09350694,"rwy2":"35","lat2":39.12564313,"lon2":-84.09191584}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":30,"wid_m":30.48,"hdg":-84,"surf":"Turf/grass","lat1":39.12811833,"lon1":-84.09271139}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

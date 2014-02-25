@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2G2","name":"Jefferson Co Airpark","lat":40.3602185,"lon":-80.700874,"rwys":1,"ils":0,"elev":1196,"index":1630353,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1341,"wid_m":18.29,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":40.36443100,"lon1":-80.70653100,"rwy2":"32","lat2":40.35600600,"lon2":-80.69521700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.75,"desc":"PITTSBURGH APP/DEP"}
+]
+,"ils":[
+]
+}

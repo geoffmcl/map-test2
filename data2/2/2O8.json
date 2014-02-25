@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2O8","name":"Hinton Muni","lat":35.5071615,"lon":-98.342361,"rwys":1,"ils":0,"elev":1583,"index":1335138,"path":"w100n30/w099n35"
+,"runways":[
+{"len_m":1219,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":35.51265600,"lon1":-98.34236100,"rwy2":"35","lat2":35.50166700,"lon2":-98.34236100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"FORT WORTH CNTR"}
+]
+,"ils":[
+]
+}

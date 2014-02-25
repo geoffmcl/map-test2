@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"26R","name":"Jackson Co","lat":29.001,"lon":-96.5819625,"rwys":1,"ils":0,"elev":61,"index":1367489,"path":"w100n20/w097n29"
+,"runways":[
+{"len_m":1033,"wid_m":21.34,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":29.00502500,"lon1":-96.58464400,"rwy2":"32","lat2":28.99697500,"lon2":-96.57928100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":123.3,"desc":"INFO"}
+]
+,"ils":[
+]
+}

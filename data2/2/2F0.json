@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2F0","name":"Iraan Muni","lat":30.9055555,"lon":-101.889583,"rwys":2,"ils":0,"elev":2200,"index":1285688,"path":"w110n30/w102n30"
+,"runways":[
+{"len_m":1238,"wid_m":18.29,"hdg":150,"surf":"Asphalt","rwy1":"14","lat1":30.90972200,"lon1":-101.89472200,"rwy2":"32","lat2":30.90000000,"lon2":-101.88833300},
+{"len_m":837,"wid_m":15.24,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":30.90555600,"lon1":-101.89194400,"rwy2":"25","lat2":30.90694400,"lon2":-101.88333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

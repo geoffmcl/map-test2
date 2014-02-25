@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2K3","name":"Stanton Co Muni","lat":37.582084,"lon":-101.732255,"rwys":2,"ils":0,"elev":3324,"index":1286113,"path":"w110n30/w102n37"
+,"runways":[
+{"len_m":1249,"wid_m":18.29,"hdg":179,"surf":"Concrete","rwy1":"17","lat1":37.59007200,"lon1":-101.73391400,"rwy2":"35","lat2":37.57881400,"lon2":-101.73376100},
+{"len_m":652,"wid_m":18.29,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":37.57974200,"lon1":-101.73436400,"rwy2":"26","lat2":37.57970800,"lon2":-101.72698100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2G9","name":"Somerset Co","lat":40.03814725,"lon":-79.01423975,"rwys":2,"ils":1,"elev":2272,"index":1646723,"path":"w080n40/w080n40"
+,"runways":[
+{"len_m":1431,"wid_m":22.86,"hdg":56,"surf":"Asphalt","rwy1":"07","lat1":40.03551900,"lon1":-79.02151400,"rwy2":"25","lat2":40.04268900,"lon2":-79.00757500},
+{"len_m":821,"wid_m":62.18,"hdg":140,"surf":"Dirt","rwy1":"14","lat1":40.04002500,"lon1":-79.01702800,"rwy2":"32","lat2":40.03435600,"lon2":-79.01084200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.8,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.7,"lat":40.03460600,"lon":-79.02328100,"rng_nm":18,"alt_fmsl":2272,"id":"ISOZ","rwy":"25","desc":"LOC"}
+]
+}

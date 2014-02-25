@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2M2","name":"Lawrenceburg Lawrence Co","lat":35.2343025,"lon":-87.2579455,"rwys":1,"ils":0,"elev":936,"index":1515338,"path":"w090n30/w088n35"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":35.24098600,"lon1":-87.25989400,"rwy2":"35","lat2":35.22761900,"lon2":-87.25599700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

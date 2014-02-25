@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"2W6","name":"St Marys Co Rgnl","lat":38.315357,"lon":-76.550117,"rwys":1,"ils":0,"elev":142,"index":1695761,"path":"w080n30/w077n38"
+,"runways":[
+{"len_m":1264,"wid_m":22.86,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":38.31657200,"lon1":-76.55718100,"rwy2":"29","lat2":38.31414200,"lon2":-76.54305300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.57,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.05,"desc":"PATUXENT APP/DEP"},
+{"type":"APP","freq":134.1,"desc":"PATUXENT APP/DEP"}
+]
+,"ils":[
+]
+}
