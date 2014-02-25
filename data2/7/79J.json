@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"79J","name":"Andalusia Opp","lat":31.3087405,"lon":-86.3937635,"rwys":1,"ils":0,"elev":310,"index":1531474,"path":"w090n30/w087n31"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":31.31070300,"lon1":-86.40143300,"rwy2":"29","lat2":31.30677800,"lon2":-86.38609400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.87,"desc":"ASOS"},
+{"type":"CTAF","freq":119.55,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.55,"desc":"TWR"},
+{"type":"APP","freq":133.45,"desc":"CAIRNS APP/DEP"}
+]
+,"ils":[
+]
+}

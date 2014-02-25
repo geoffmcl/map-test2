@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"76S","name":"Wes Lupien","lat":48.2515235,"lon":-122.673675,"rwys":1,"ils":0,"elev":193,"index":942737,"path":"w130n40/w123n48"
+,"runways":[
+{"len_m":995,"wid_m":7.62,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":48.25154400,"lon1":-122.68037500,"rwy2":"25","lat2":48.25150300,"lon2":-122.66697500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.15,"desc":"ATIS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.2,"desc":"WHIDBEY APP/DEP"}
+]
+,"ils":[
+]
+}

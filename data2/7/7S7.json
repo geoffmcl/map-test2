@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"7S7","name":"Valier","lat":48.2999815,"lon":-112.249843,"rwys":3,"ils":0,"elev":3820,"index":1106579,"path":"w120n40/w113n48"
+,"runways":[
+{"len_m":937,"wid_m":45.72,"hdg":87,"surf":"Turf/grass","rwy1":"07","lat1":48.29981100,"lon1":-112.25791900,"rwy2":"25","lat2":48.30010600,"lon2":-112.24528900},
+{"len_m":695,"wid_m":91.44,"hdg":52,"surf":"Turf/grass","rwy1":"04","lat1":48.29824200,"lon1":-112.25091900,"rwy2":"22","lat2":48.30208900,"lon2":-112.24353100},
+{"len_m":652,"wid_m":39.62,"hdg":121,"surf":"Turf/grass","rwy1":"10","lat1":48.30133300,"lon1":-112.25446900,"rwy2":"28","lat2":48.29830800,"lon2":-112.24693100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

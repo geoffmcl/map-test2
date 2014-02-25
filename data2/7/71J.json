@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"71J","name":"Blackwell Fld","lat":31.4311365,"lon":-85.6192305,"rwys":1,"ils":0,"elev":356,"index":1547865,"path":"w090n30/w086n31"
+,"runways":[
+{"len_m":1281,"wid_m":24.38,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":31.43413100,"lon1":-85.62499200,"rwy2":"30","lat2":31.42814200,"lon2":-85.61346900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.4,"desc":"CAIRNS APP/DEP"}
+]
+,"ils":[
+]
+}

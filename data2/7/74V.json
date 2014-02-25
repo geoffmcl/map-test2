@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"74V","name":"Roosevelt Muni","lat":40.27838426,"lon":-110.0513695,"rwys":1,"ils":0,"elev":5172,"index":1138835,"path":"w120n40/w111n40"
+,"runways":[
+{"len_m":1974,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"07","lat1":40.27732974,"lon1":-110.06289551,"rwy2":"25","lat2":40.27943878,"lon2":-110.03984349}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.97,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

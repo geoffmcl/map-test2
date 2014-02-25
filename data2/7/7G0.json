@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"7G0","name":"Ledgedale Airpark","lat":43.181124,"lon":-77.915764,"rwys":1,"ils":0,"elev":666,"index":1679688,"path":"w080n40/w078n43"
+,"runways":[
+{"len_m":1281,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":43.18123100,"lon1":-77.92364200,"rwy2":"28","lat2":43.18101700,"lon2":-77.90788600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.7,"desc":"ROCHESTER APP/DEP"}
+]
+,"ils":[
+]
+}

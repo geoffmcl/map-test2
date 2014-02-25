@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"77G","name":"Marlette","lat":43.3118965,"lon":-83.0909535,"rwys":2,"ils":0,"elev":895,"index":1581395,"path":"w090n40/w084n43"
+,"runways":[
+{"len_m":1156,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":43.31026100,"lon1":-83.09741900,"rwy2":"27","lat2":43.31035300,"lon2":-83.08316100},
+{"len_m":1066,"wid_m":22.86,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":43.30869700,"lon1":-83.09205300,"rwy2":"19","lat2":43.31827500,"lon2":-83.09118100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

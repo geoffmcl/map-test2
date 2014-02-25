@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"7T7","name":"Skywest Inc","lat":31.85486125,"lon":-102.07333325,"rwys":2,"ils":0,"elev":2800,"index":1269363,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":1530,"wid_m":12.80,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":31.86500000,"lon1":-102.07583300,"rwy2":"34","lat2":31.85166700,"lon2":-102.07166700},
+{"len_m":851,"wid_m":13.72,"hdg":73,"surf":"Dirt","rwy1":"06","lat1":31.85027800,"lon1":-102.07722200,"rwy2":"24","lat2":31.85250000,"lon2":-102.06861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"79S","name":"Fort Benton","lat":47.84606400,"lon":-110.63713200,"rwys":2,"ils":0,"elev":2869,"index":1139313,"path":"w120n40/w111n47"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":61,"surf":"Asphalt","rwy1":"05","lat1":47.84231400,"lon1":-110.64418900,"rwy2":"23","lat2":47.84790300,"lon2":-110.62877500},
+{"len_m":518,"wid_m":22.86,"hdg":151,"surf":"Turf/grass","rwy1":"14","lat1":47.84391400,"lon1":-110.63945600,"rwy2":"32","lat2":47.83981100,"lon2":-110.63617200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}
