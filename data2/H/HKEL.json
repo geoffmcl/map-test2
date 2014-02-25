@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HKEL","name":"Eldoret Intl","lat":0.404011,"lon":35.2367065,"rwys":1,"ils":0,"elev":6941,"index":3528345,"path":"e030n00/e035n00"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":0.40091400,"lon1":35.22129400,"rwy2":"26","lat2":0.40710800,"lon2":35.25211900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"APP"},
+{"type":"APP","freq":121.1,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

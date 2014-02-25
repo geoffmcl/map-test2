@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HKMO","name":"Mombasa Moi Intl","lat":-4.03711840,"lon":39.59758000,"rwys":2,"ils":1,"elev":200,"index":3593596,"path":"e030s10/e039s05"
+,"runways":[
+{"len_m":3350,"wid_m":46.02,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":-4.03951900,"lon1":39.59167200,"rwy2":"21","lat2":-4.01309200,"lon2":39.60643900},
+{"len_m":1363,"wid_m":35.97,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":-4.02982800,"lon1":39.59136700,"rwy2":"33","lat2":-4.04053900,"lon2":39.59745000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"APRON CTL"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":121.7,"desc":"RDR"},
+{"type":"APP","freq":122.7,"desc":"APP"},
+{"type":"APP","freq":120.3,"desc":"APP"},
+{"type":"APP","freq":121.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-4.04125000,"lon":39.59068600,"rng_nm":18,"alt_fmsl":187,"hdg":209.16,"id":"IMI","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-4.01518100,"lon":39.60375000,"rng_nm":10,"alt_fmsl":194,"id":"IMI","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-3.94855600,"lon":39.64221100,"rng_nm":0,"alt_fmsl":168,"id":"----","rwy":"21","desc":"OM"},
+{"type":"DME","freq":110.1,"lat":-4.01518100,"lon":39.60375000,"rng_nm":18,"alt_fmsl":257,"id":"IMI","rwy":"21","desc":"DME-ILS"}
+]
+}

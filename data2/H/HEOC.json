@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HEOC","name":"October","lat":29.812108,"lon":30.823354,"rwys":1,"ils":0,"elev":807,"index":3448307,"path":"e030n20/e030n29"
+,"runways":[
+{"len_m":2002,"wid_m":35.05,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":29.80320800,"lon1":30.82157200,"rwy2":"19","lat2":29.82100800,"lon2":30.82513600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

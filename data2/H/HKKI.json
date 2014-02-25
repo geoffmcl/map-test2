@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HKKI","name":"Kisumu","lat":-0.086139,"lon":34.728892,"rwys":1,"ils":0,"elev":3796,"index":3511933,"path":"e030s10/e034s01"
+,"runways":[
+{"len_m":1984,"wid_m":29.87,"hdg":61,"surf":"Asphalt","rwy1":"07","lat1":-0.09041100,"lon1":34.72105300,"rwy2":"25","lat2":-0.08186700,"lon2":34.73673100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+,"ils":[
+]
+}

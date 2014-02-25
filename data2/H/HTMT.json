@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HTMT","name":"Mtwara","lat":-10.33753725,"lon":40.1821625,"rwys":2,"ils":0,"elev":371,"index":3609577,"path":"e040s20/e040s11"
+,"runways":[
+{"len_m":2258,"wid_m":29.87,"hdg":3,"surf":"Asphalt","rwy1":"01","lat1":-10.34924400,"lon1":40.18108300,"rwy2":"19","lat2":-10.32887200,"lon2":40.18247500},
+{"len_m":1162,"wid_m":29.87,"hdg":80,"surf":"Dirt","rwy1":"08","lat1":-10.33692200,"lon1":40.17731700,"rwy2":"26","lat2":-10.33511100,"lon2":40.18777500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

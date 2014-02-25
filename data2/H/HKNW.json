@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HKNW","name":"Nairobi Wilson","lat":-1.323145,"lon":36.81469525,"rwys":2,"ils":0,"elev":5546,"index":3544622,"path":"e030s10/e036s02"
+,"runways":[
+{"len_m":1539,"wid_m":23.16,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":-1.31888300,"lon1":36.81191400,"rwy2":"32","lat2":-1.32855000,"lon2":36.82187500},
+{"len_m":1462,"wid_m":21.95,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":-1.32484700,"lon1":36.80632500,"rwy2":"25","lat2":-1.32030000,"lon2":36.81866700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"WILSON TWR"}
+]
+,"ils":[
+]
+}

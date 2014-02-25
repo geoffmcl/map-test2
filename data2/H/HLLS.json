@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HLLS","name":"Sebha","lat":26.99772070,"lon":14.46560860,"rwys":2,"ils":1,"elev":1427,"index":3185977,"path":"e010n20/e014n26"
+,"runways":[
+{"len_m":3589,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":27.00447500,"lon1":14.45137800,"rwy2":"31","lat2":26.98251900,"lon2":14.47797200},
+{"len_m":1705,"wid_m":29.87,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":26.98093300,"lon1":14.46026100,"rwy2":"24","lat2":26.98836900,"lon2":14.47530800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":26.98158566,"lon":14.47910549,"rng_nm":18,"alt_fmsl":1427,"hdg":132.82,"id":"ISBH","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":27.00321437,"lon":14.45426401,"rng_nm":10,"alt_fmsl":1427,"id":"ISBH","rwy":"13","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":27.04865200,"lon":14.39786324,"rng_nm":0,"alt_fmsl":1427,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":27.00900597,"lon":14.44588931,"rng_nm":0,"alt_fmsl":1427,"id":"----","rwy":"13","desc":"MM"}
+]
+}

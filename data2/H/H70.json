@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"H70","name":"Stratford Fld","lat":36.347419,"lon":-102.047766,"rwys":2,"ils":0,"elev":3668,"index":1269651,"path":"w110n30/w103n36"
+,"runways":[
+{"len_m":921,"wid_m":9.75,"hdg":53,"surf":"Asphalt","rwy1":"04","lat1":36.34320300,"lon1":-102.05340600,"rwy2":"22","lat2":36.34809200,"lon2":-102.04510800},
+{"len_m":396,"wid_m":15.24,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":36.35097500,"lon1":-102.04627500,"rwy2":"35","lat2":36.34740600,"lon2":-102.04627500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

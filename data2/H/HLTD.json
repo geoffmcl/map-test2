@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HLTD","name":"Ghadames East","lat":30.1454305,"lon":9.70888875,"rwys":2,"ils":0,"elev":1122,"index":3104266,"path":"e000n30/e009n30"
+,"runways":[
+{"len_m":3602,"wid_m":45.11,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":30.13858300,"lon1":9.68733300,"rwy2":"24","lat2":30.15363900,"lon2":9.72047200},
+{"len_m":1986,"wid_m":39.93,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":30.13588900,"lon1":9.71236100,"rwy2":"19","lat2":30.15361100,"lon2":9.71538900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

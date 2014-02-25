@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HETB","name":"Taba Intl","lat":29.588393,"lon":34.7775615,"rwys":2,"ils":1,"elev":2415,"index":3513827,"path":"e030n20/e034n29"
+,"runways":[
+{"len_m":3999,"wid_m":45.11,"hdg":41,"surf":"Asphalt","rwy1":"04L","lat1":29.57542800,"lon1":34.76316100,"rwy2":"22R","lat2":29.60231100,"lon2":34.79069700},
+{"len_m":4002,"wid_m":45.11,"hdg":41,"surf":"Asphalt","rwy1":"04R","lat1":29.57444400,"lon1":34.76444400,"rwy2":"22L","lat2":29.60138900,"lon2":34.79194400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"APP","freq":122.8,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":29.60342800,"lon":34.79408100,"rng_nm":18,"alt_fmsl":2407,"hdg":41.65,"id":"ITBA","rwy":"04R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":29.57709400,"lon":34.76568300,"rng_nm":10,"alt_fmsl":2500,"id":"ITBA","rwy":"04R","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":29.57709400,"lon":34.76568300,"rng_nm":18,"alt_fmsl":2500,"id":"ITBA","rwy":"04R","desc":"DME-ILS"}
+]
+}

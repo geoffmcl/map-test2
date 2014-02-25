@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HI01","name":"Princeville","lat":22.209361,"lon":-159.44556091,"rwys":1,"ils":0,"elev":344,"index":334858,"path":"w160n20/w160n22"
+,"runways":[
+{"len_m":1084,"wid_m":17.98,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":22.20619299,"lon1":-159.44957381,"rwy2":"23","lat2":22.21252901,"lon2":-159.44154801}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

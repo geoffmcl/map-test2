@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HESN","name":"Aswan Intl","lat":23.97427560,"lon":32.82194520,"rwys":1,"ils":1,"elev":662,"index":3480699,"path":"e030n20/e032n23"
+,"runways":[
+{"len_m":3401,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":23.97951900,"lon1":32.81732500,"rwy2":"35","lat2":23.94919200,"lon2":32.82262500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"RADAR"},
+{"type":"APP","freq":123.72,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":23.98210300,"lon":32.81688100,"rng_nm":18,"alt_fmsl":623,"hdg":350.94,"id":"AIL","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":23.95172200,"lon":32.82295600,"rng_nm":10,"alt_fmsl":682,"id":"AIL","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":23.95172200,"lon":32.82295600,"rng_nm":18,"alt_fmsl":682,"id":"AIL","rwy":"35","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HEMA","name":"Marsa Alam Intl","lat":25.5571135,"lon":34.583711,"rwys":1,"ils":0,"elev":251,"index":3513570,"path":"e030n20/e034n25"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":25.56881900,"lon1":34.57618900,"rwy2":"33","lat2":25.54540800,"lon2":34.59123300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"APP"}
+]
+,"ils":[
+]
+}

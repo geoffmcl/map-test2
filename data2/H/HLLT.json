@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HLLT","name":"Tripoli Intl","lat":32.66849140,"lon":13.14443780,"rwys":2,"ils":1,"elev":263,"index":3169960,"path":"e010n30/e013n32"
+,"runways":[
+{"len_m":3602,"wid_m":44.20,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":32.66309200,"lon1":13.12875800,"rwy2":"27","lat2":32.66366700,"lon2":13.16715800},
+{"len_m":2635,"wid_m":44.20,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":32.67980600,"lon1":13.15809200,"rwy2":"36","lat2":32.65606900,"lon2":13.15941700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":120.1,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":123,"desc":"AFIS"},
+{"type":"APP","freq":124,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":32.66305000,"lon":13.12620000,"rng_nm":18,"alt_fmsl":263,"hdg":268.98,"id":"IWT","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":32.66388900,"lon":13.16416700,"rng_nm":10,"alt_fmsl":263,"id":"IWT","rwy":"27","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":32.66488224,"lon":13.24831529,"rng_nm":0,"alt_fmsl":263,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.66378556,"lon":13.17507578,"rng_nm":0,"alt_fmsl":263,"id":"----","rwy":"27","desc":"MM"}
+]
+}

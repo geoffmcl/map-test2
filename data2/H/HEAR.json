@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HEAR","name":"El Arish Intl","lat":31.073224,"lon":33.835857,"rwys":1,"ils":0,"elev":121,"index":3497539,"path":"e030n30/e033n31"
+,"runways":[
+{"len_m":3018,"wid_m":45.11,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":31.08575600,"lon1":33.82967500,"rwy2":"34","lat2":31.06069200,"lon2":33.84203900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121,"desc":"TWR"},
+{"type":"APP","freq":123.72,"desc":"RADAR"},
+{"type":"APP","freq":125,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HTDA","name":"Mwalimu Julius K Nyerere Intl","lat":-6.87279800,"lon":39.20417790,"rwys":2,"ils":1,"elev":182,"index":3593417,"path":"e030s10/e039s07"
+,"runways":[
+{"len_m":3000,"wid_m":46.02,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":-6.88286400,"lon1":39.19779200,"rwy2":"23","lat2":-6.86372200,"lon2":39.21703100},
+{"len_m":1004,"wid_m":29.87,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":-6.87359400,"lon1":39.19790300,"rwy2":"32","lat2":-6.88001100,"lon2":39.20433300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"APP"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":-6.86168600,"lon":39.21905800,"rng_nm":18,"alt_fmsl":54,"hdg":44.91,"id":"DL","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":-6.88161700,"lon":39.20104200,"rng_nm":10,"alt_fmsl":54,"id":"DL","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-6.92739200,"lon":39.15360300,"rng_nm":0,"alt_fmsl":182,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":-6.88874400,"lon":39.19199200,"rng_nm":0,"alt_fmsl":182,"id":"----","rwy":"05","desc":"MM"}
+]
+}

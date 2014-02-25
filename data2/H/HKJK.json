@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HKJK","name":"Nairobi Jomo Kanyatta Intl","lat":-1.33125518,"lon":36.92984135,"rwys":1,"ils":1,"elev":5330,"index":3544623,"path":"e030s10/e036s02"
+,"runways":[
+{"len_m":4021,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":-1.32774140,"lon1":36.91612339,"rwy2":"24","lat2":-1.30640484,"lon2":36.94539085}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":36,"surf":"Concrete","lat1":-1.31816512,"lon1":36.92806316}
+]
+,"radios":[
+{"type":"ATIS","freq":126.2,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":122.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-1.30246900,"lon":36.95071400,"rng_nm":18,"alt_fmsl":5278,"hdg":53.84,"id":"INL","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-1.32463300,"lon":36.91829200,"rng_nm":10,"alt_fmsl":5343,"id":"INL","rwy":"06","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-1.36590000,"lon":36.86407200,"rng_nm":0,"alt_fmsl":5330,"id":"----","rwy":"06","desc":"OM"}
+]
+}

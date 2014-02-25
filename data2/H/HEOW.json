@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HEOW","name":"Shark El Oweinat Intl","lat":22.585672,"lon":28.716643,"rwys":1,"ils":0,"elev":859,"index":3415074,"path":"e020n20/e028n22"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":22.57004400,"lon1":28.71412800,"rwy2":"19","lat2":22.60130000,"lon2":28.71915800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"}
+]
+,"ils":[
+]
+}

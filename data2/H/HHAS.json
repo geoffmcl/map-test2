@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HHAS","name":"Asmara_intl","lat":15.29299000,"lon":38.90542200,"rwys":2,"ils":1,"elev":7660,"index":3578455,"path":"e030n10/e038n15"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":15.28359500,"lon1":38.89403400,"rwy2":"25","lat2":15.29093300,"lon2":38.92092200},
+{"len_m":1949,"wid_m":45.11,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":15.29993100,"lon1":38.90514800,"rwy2":"30","lat2":15.29131300,"lon2":38.92097600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":38,"surf":"Asphalt","lat1":15.29440800,"lon1":38.91919400},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":38,"surf":"Asphalt","lat1":15.29411400,"lon1":38.91903300},
+{"rwy1":"H3","len_m":24,"wid_m":24.08,"hdg":38,"surf":"Asphalt","lat1":15.29382200,"lon1":38.91887200}
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"ASMARA TWR"},
+{"type":"TWR","freq":121.9,"desc":"ASMARA TWR"},
+{"type":"APP","freq":120.7,"desc":"ASMARA APP"},
+{"type":"APP","freq":129.5,"desc":"ASMARA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":15.29240000,"lon":38.92410000,"rng_nm":18,"alt_fmsl":6,"hdg":73.12,"id":"IAS","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":15.28383900,"lon":38.89768900,"rng_nm":10,"alt_fmsl":7660,"id":"IAS","rwy":"07","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":15.28383900,"lon":38.89768900,"rng_nm":18,"alt_fmsl":7660,"id":"IAS","rwy":"07","desc":"DME-ILS"}
+]
+}

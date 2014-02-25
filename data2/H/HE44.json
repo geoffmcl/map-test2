@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HE44","name":"Al Ismailiyah Ab","lat":30.598814,"lon":32.2346865,"rwys":1,"ils":0,"elev":39,"index":3481120,"path":"e030n30/e032n30"
+,"runways":[
+{"len_m":3208,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":30.60787200,"lon1":32.22164200,"rwy2":"31","lat2":30.58975600,"lon2":32.24773100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

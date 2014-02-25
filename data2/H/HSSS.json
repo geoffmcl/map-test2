@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HSSS","name":"Khartoum","lat":15.58800510,"lon":32.55142590,"rwys":1,"ils":2,"elev":1265,"index":3480164,"path":"e030n10/e032n15"
+,"runways":[
+{"len_m":2978,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":15.60295600,"lon1":32.55303300,"rwy2":"36","lat2":15.57604200,"lon2":32.55328600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":15.57468300,"lon":32.55300800,"rng_nm":18,"alt_fmsl":1265,"hdg":180.05,"id":"KIS","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":15.60468900,"lon":32.55300800,"rng_nm":18,"alt_fmsl":1265,"hdg":359.46,"id":"KIN","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":15.59971100,"lon":32.55189700,"rng_nm":10,"alt_fmsl":1265,"id":"KIS","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":15.57890600,"lon":32.55437800,"rng_nm":10,"alt_fmsl":1265,"id":"KIN","rwy":"36","desc":"GS","gs":3}
+]
+}

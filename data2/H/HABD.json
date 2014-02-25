@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HABD","name":"Bahir Dar","lat":11.608075,"lon":37.321643,"rwys":1,"ils":0,"elev":5976,"index":3561826,"path":"e030n10/e037n11"
+,"runways":[
+{"len_m":2977,"wid_m":60.96,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":11.59857500,"lon1":37.31197200,"rwy2":"22","lat2":11.61757500,"lon2":37.33131400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

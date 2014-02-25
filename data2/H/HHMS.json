@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HHMS","name":"Massawa Intl","lat":15.670011,"lon":39.370021,"rwys":1,"ils":1,"elev":194,"index":3594858,"path":"e030n10/e039n15"
+,"runways":[
+{"len_m":3496,"wid_m":45.11,"hdg":75,"surf":"Concrete","rwy1":"07","lat1":15.66593300,"lon1":39.35426700,"rwy2":"25","lat2":15.67408900,"lon2":39.38577500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":15.67453900,"lon":39.38744400,"rng_nm":18,"alt_fmsl":194,"hdg":74.93,"id":"IMS","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":15.66777800,"lon":39.35722200,"rng_nm":10,"alt_fmsl":194,"id":"IMS","rwy":"07","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":15.67453900,"lon":39.38744400,"rng_nm":18,"alt_fmsl":194,"id":"IMS","rwy":"07","desc":"DME-ILS"}
+]
+}

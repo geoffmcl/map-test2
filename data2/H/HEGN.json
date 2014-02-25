@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"HEGN","name":"Hurghada Intl","lat":27.18247220,"lon":33.80284120,"rwys":1,"ils":1,"elev":52,"index":3497291,"path":"e030n20/e033n27"
+,"runways":[
+{"len_m":4000,"wid_m":45.11,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":27.19576100,"lon1":33.79424700,"rwy2":"34","lat2":27.16085600,"lon2":33.80454700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"TWR"},
+{"type":"APP","freq":123.4,"desc":"RADAR"},
+{"type":"APP","freq":119.1,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":27.19791100,"lon":33.79526400,"rng_nm":18,"alt_fmsl":56,"hdg":347.43,"id":"HIL","rwy":"34","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":27.16352500,"lon":33.80414700,"rng_nm":10,"alt_fmsl":64,"id":"HIL","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":27.16348600,"lon":33.80417200,"rng_nm":18,"alt_fmsl":30,"id":"HIL","rwy":"34","desc":"DME-ILS"}
+]
+}
