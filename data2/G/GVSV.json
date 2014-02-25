@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GVSV","name":"Sao Pedro","lat":16.83318700,"lon":-25.05990400,"rwys":1,"ils":0,"elev":66,"index":2529975,"path":"w030n10/w026n16"
+,"runways":[
+{"len_m":1976,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"07","lat1":16.82841900,"lon1":-25.06213900,"rwy2":"25","lat2":16.83898600,"lon2":-25.04718300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"SAO VICENTE TWR"},
+{"type":"APP","freq":118.4,"desc":"SAO VICENTE APP"}
+]
+,"ils":[
+]
+}

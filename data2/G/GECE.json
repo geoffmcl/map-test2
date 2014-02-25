@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:23:58 UTC"
+,"type":17,"icao":"GECE","name":"[h] Gece Ceuta","lat":35.8923053825,"lon":-5.3063881125,"rwys":1,"ils":0,"elev":8,"index":2858874,"path":"w010n30/w006n35"
+,"runways":[
+{"len_m":243,"wid_m":34.14,"hdg":63,"surf":"Asphalt","rwy1":"7","lat1":35.89215000,"lon1":-5.30745979,"rwy2":"25","lat2":35.89312768,"lon2":-5.30504015}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":-5,"surf":"Concrete","lat1":35.89206076,"lon1":-5.30675738},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":-5,"surf":"Concrete","lat1":35.89219423,"lon1":-5.30643259},
+{"rwy1":"H3","len_m":24,"wid_m":24.08,"hdg":-5,"surf":"Concrete","lat1":35.89232770,"lon1":-5.30611251}
+]
+,"radios":[
+{"type":"ATIS","freq":122.5,"desc":"AWOS"},
+{"type":"CTAF","freq":123.33,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

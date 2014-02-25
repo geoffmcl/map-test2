@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GMTT","name":"Ibn Batouta","lat":35.72457500,"lon":-5.91041850,"rwys":2,"ils":1,"elev":62,"index":2858856,"path":"w010n30/w006n35"
+,"runways":[
+{"len_m":3501,"wid_m":45.11,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":35.73327500,"lon1":-5.94031100,"rwy2":"28","lat2":35.72997800,"lon2":-5.90181900},
+{"len_m":2000,"wid_m":29.87,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":35.71911100,"lon1":-5.92312500,"rwy2":"25","lat2":35.72528100,"lon2":-5.90234400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.5,"desc":"TANGER TWR"},
+{"type":"APP","freq":121.2,"desc":"TANGER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":35.73361100,"lon":-5.94277800,"rng_nm":18,"alt_fmsl":62,"hdg":276.22,"id":"TAG","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":35.73166700,"lon":-5.91000000,"rng_nm":10,"alt_fmsl":52,"id":"TAG","rwy":"28","desc":"GS","gs":2.99}
+]
+}

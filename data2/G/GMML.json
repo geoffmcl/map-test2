@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GMML","name":"Hassan I","lat":27.14365,"lon":-13.22539925,"rwys":2,"ils":0,"elev":207,"index":2727243,"path":"w020n20/w014n27"
+,"runways":[
+{"len_m":2700,"wid_m":45.11,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":27.13021400,"lon1":-13.23539200,"rwy2":"20","lat2":27.15358300,"lon2":-13.22765000},
+{"len_m":2499,"wid_m":45.11,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":27.13580600,"lon1":-13.22590800,"rwy2":"22","lat2":27.15499700,"lon2":-13.21264700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131.1,"desc":"LAAYOUNE TWR"},
+{"type":"APP","freq":127.5,"desc":"LAAYOUNE APP"}
+]
+,"ils":[
+]
+}

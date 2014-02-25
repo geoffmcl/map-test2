@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GVAC","name":"Sal Amilcar Cabral Intl","lat":16.73240600,"lon":-22.94477600,"rwys":2,"ils":1,"elev":177,"index":2579112,"path":"w030n10/w023n16"
+,"runways":[
+{"len_m":3283,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":16.72133300,"lon1":-22.94883300,"rwy2":"19","lat2":16.75100000,"lon2":-22.94900000},
+{"len_m":1490,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":16.73666700,"lon1":-22.95800000,"rwy2":"25","lat2":16.74383300,"lon2":-22.94616700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"SAL APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":16.75394400,"lon":-22.94908300,"rng_nm":18,"alt_fmsl":177,"hdg":359.58,"id":"SL","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":16.72677800,"lon":-22.94775000,"rng_nm":10,"alt_fmsl":177,"id":"SL","rwy":"01","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GCTS","name":"Tenerife Sur","lat":28.04827600,"lon":-16.57514600,"rwys":1,"ils":2,"elev":209,"index":2678145,"path":"w020n20/w017n28"
+,"runways":[
+{"len_m":3199,"wid_m":45.11,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":28.03920303,"lon1":-16.58763669,"rwy2":"26","lat2":28.04974697,"lon2":-16.55733931}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":25.91,"hdg":-16,"surf":"Concrete","lat1":28.05060841,"lon1":-16.56252910}
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"},
+{"type":"APP","freq":127.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":28.05042200,"lon":-16.55539400,"rng_nm":18,"alt_fmsl":187,"hdg":68.49,"id":"TRS","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":28.03823300,"lon":-16.59050000,"rng_nm":18,"alt_fmsl":209,"hdg":248.52,"id":"ISUR","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":28.03942200,"lon":-16.58365600,"rng_nm":10,"alt_fmsl":209,"id":"TRS","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":28.04774200,"lon":-16.56031900,"rng_nm":10,"alt_fmsl":236,"id":"ISUR","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.00514400,"lon":-16.68533900,"rng_nm":0,"alt_fmsl":209,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.03539200,"lon":-16.59863900,"rng_nm":0,"alt_fmsl":209,"id":"----","rwy":"08","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":28.04774700,"lon":-16.56031400,"rng_nm":18,"alt_fmsl":236,"id":"ISUR","rwy":"26","desc":"DME-ILS"}
+]
+}

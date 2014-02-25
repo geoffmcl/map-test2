@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GQNN","name":"Nouakchott","lat":18.0977725,"lon":-15.9480305,"rwys":1,"ils":1,"elev":7,"index":2693888,"path":"w020n10/w016n18"
+,"runways":[
+{"len_m":3010,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"05","lat1":18.08706400,"lon1":-15.95679700,"rwy2":"23","lat2":18.10848100,"lon2":-15.93926400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.2,"desc":"INFO"},
+{"type":"TWR","freq":118.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":18.11136100,"lon":-15.93688900,"rng_nm":18,"alt_fmsl":7,"hdg":37.91,"id":"NK","rwy":"05","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":18.08992800,"lon":-15.95595000,"rng_nm":10,"alt_fmsl":7,"id":"NK","rwy":"05","desc":"GS","gs":3},
+{"type":"IM","freq":0,"lat":18.07925000,"lon":-15.96319400,"rng_nm":0,"alt_fmsl":7,"id":"----","rwy":"05","desc":"IM"},
+{"type":"DME","freq":109.5,"lat":18.08992800,"lon":-15.95595000,"rng_nm":18,"alt_fmsl":7,"id":"NK","rwy":"05","desc":"DME-ILS"}
+]
+}

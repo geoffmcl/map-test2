@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GABS","name":"Bamako Senou","lat":12.54065800,"lon":-7.94586900,"rwys":1,"ils":1,"elev":1246,"index":2824608,"path":"w010n10/w008n12"
+,"runways":[
+{"len_m":2706,"wid_m":45.11,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":12.52682500,"lon1":-7.96034700,"rwy2":"24","lat2":12.54026400,"lon2":-7.93953900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"BAMAKO TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":12.54152500,"lon":-7.93756900,"rng_nm":18,"alt_fmsl":1246,"hdg":56.53,"id":"IBS","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":12.52944000,"lon":-7.95839400,"rng_nm":10,"alt_fmsl":1246,"id":"IBS","rwy":"06","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":12.52147200,"lon":-7.96866700,"rng_nm":0,"alt_fmsl":1246,"id":"----","rwy":"06","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":12.52937800,"lon":-7.95847500,"rng_nm":18,"alt_fmsl":1214,"id":"IBS","rwy":"06","desc":"DME-ILS"}
+]
+}

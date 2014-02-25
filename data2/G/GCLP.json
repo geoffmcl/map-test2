@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GCLP","name":"Gran Canaria","lat":27.93578100,"lon":-15.39082200,"rwys":2,"ils":2,"elev":77,"index":2694522,"path":"w020n20/w016n27"
+,"runways":[
+{"len_m":3100,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03L","lat1":27.91886600,"lon1":-15.39234200,"rwy2":"21R","lat2":27.94491000,"lon2":-15.38083000},
+{"len_m":3099,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03R","lat1":27.91818100,"lon1":-15.39035100,"rwy2":"21L","lat2":27.94421900,"lon2":-15.37884600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"GCLP TWR"},
+{"type":"APP","freq":124.3,"desc":"GCLP APP"},
+{"type":"APP","freq":123.65,"desc":"GCLP APP"},
+{"type":"APP","freq":121.3,"desc":"GCLP APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":27.94689200,"lon":-15.37995600,"rng_nm":18,"alt_fmsl":77,"hdg":21.33,"id":"ILP","rwy":"03L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":27.91692500,"lon":-15.39319700,"rng_nm":18,"alt_fmsl":77,"hdg":201.32,"id":"RLP","rwy":"21R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":27.92185300,"lon":-15.38979700,"rng_nm":10,"alt_fmsl":102,"id":"ILP","rwy":"03L","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":27.94226400,"lon":-15.38079700,"rng_nm":10,"alt_fmsl":77,"id":"RLP","rwy":"21R","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":27.92189700,"lon":-15.38989200,"rng_nm":18,"alt_fmsl":102,"id":"ILP","rwy":"03L","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":27.94226400,"lon":-15.38079700,"rng_nm":18,"alt_fmsl":57,"id":"RLP","rwy":"21R","desc":"DME-ILS"}
+]
+}

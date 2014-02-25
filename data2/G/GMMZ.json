@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GMMZ","name":"Ouarzazate","lat":30.939076,"lon":-6.909475,"rwys":1,"ils":1,"elev":3782,"index":2842168,"path":"w010n30/w007n30"
+,"runways":[
+{"len_m":2989,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":30.94515800,"lon1":-6.92343600,"rwy2":"30","lat2":30.93299400,"lon2":-6.89551400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":119.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":30.94633300,"lon":-6.92605600,"rng_nm":18,"alt_fmsl":3782,"hdg":296.98,"id":"IRZ","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":30.93517200,"lon":-6.89766400,"rng_nm":10,"alt_fmsl":3782,"id":"IRZ","rwy":"30","desc":"GS","gs":3.5},
+{"type":"DME","freq":110.3,"lat":30.93517200,"lon":-6.89766400,"rng_nm":18,"alt_fmsl":3782,"id":"IRZ","rwy":"30","desc":"DME-ILS"}
+]
+}

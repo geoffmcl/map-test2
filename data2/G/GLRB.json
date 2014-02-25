@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GLRB","name":"Monrovia Roberts Intl","lat":6.2337905,"lon":-10.3623125,"rwys":1,"ils":0,"elev":31,"index":2775053,"path":"w020n00/w011n06"
+,"runways":[
+{"len_m":3348,"wid_m":45.72,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":6.22082800,"lon1":-10.37012800,"rwy2":"22","lat2":6.24675300,"lon2":-10.35449700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"ROBERTS TWR"},
+{"type":"TWR","freq":121.9,"desc":"ROBERTS TWR"},
+{"type":"APP","freq":124.5,"desc":"ROBERTS APP"},
+{"type":"APP","freq":118.3,"desc":"ROBERTS APP"}
+]
+,"ils":[
+]
+}

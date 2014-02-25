@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GCHI","name":"Hierro","lat":27.81391300,"lon":-17.88532500,"rwys":1,"ils":0,"elev":337,"index":2661744,"path":"w020n20/w018n27"
+,"runways":[
+{"len_m":1249,"wid_m":29.87,"hdg":152,"surf":"Asphalt","rwy1":"16","lat1":27.81985167,"lon1":-17.88997136,"rwy2":"34","lat2":27.80984352,"lon2":-17.88413321}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"GCHI TWR"},
+{"type":"APP","freq":126.1,"desc":"GCHI APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GA62","name":"Cedar Ridge","lat":33.2551165,"lon":-84.4001125,"rwys":2,"ils":0,"elev":820,"index":1564370,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":914,"wid_m":12.19,"hdg":180,"surf":"Asphalt","rwy1":"18L","lat1":33.25923900,"lon1":-84.40026800,"rwy2":"36R","lat2":33.25099400,"lon2":-84.40026800},
+{"len_m":914,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"18R","lat1":33.25923900,"lon1":-84.39995700,"rwy2":"36L","lat2":33.25099400,"lon2":-84.39995700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.75,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

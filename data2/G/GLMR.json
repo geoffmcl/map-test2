@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"GLMR","name":"Monrovia Spriggs Payne","lat":6.288871,"lon":-10.758633,"rwys":1,"ils":0,"elev":25,"index":2775057,"path":"w020n00/w011n06"
+,"runways":[
+{"len_m":1828,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"05","lat1":6.28253600,"lon1":-10.76394400,"rwy2":"23","lat2":6.29520600,"lon2":-10.75332200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"SPRIGGS TWR"},
+{"type":"APP","freq":124.5,"desc":"ROBERTS APP"}
+]
+,"ils":[
+]
+}
