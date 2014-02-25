@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENMS","name":"Kjaerstad","lat":65.7839975,"lon":13.214914,"rwys":1,"ils":1,"elev":237,"index":3172080,"path":"e010n60/e013n65"
+,"runways":[
+{"len_m":879,"wid_m":29.87,"hdg":160,"surf":"Asphalt","rwy1":"16","lat1":65.78771400,"lon1":13.21171700,"rwy2":"34","lat2":65.78028100,"lon2":13.21811100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"MOSJOEN INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":65.78162500,"lon":13.21833900,"rng_nm":18,"alt_fmsl":255,"id":"MS","rwy":"34","desc":"LOC"}
+]
+}

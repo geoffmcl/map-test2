@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGSM","name":"Beccles","lat":52.43448702,"lon":1.62055551,"rwys":2,"ils":0,"elev":80,"index":2974618,"path":"e000n50/e001n52"
+,"runways":[
+{"len_m":242,"wid_m":17.98,"hdg":89,"surf":"Turf/grass","rwy1":"8C","lat1":52.43534313,"lon1":1.61975720,"rwy2":"26C","lat2":52.43535759,"lon2":1.62332571},
+{"len_m":445,"wid_m":17.98,"hdg":89,"surf":"Asphalt","rwy1":"8","lat1":52.43531662,"lon1":1.61320555,"rwy2":"26","lat2":52.43534313,"lon2":1.61975720}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.37,"desc":"Beccles Radio"}
+]
+,"ils":[
+]
+}

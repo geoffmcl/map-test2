@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENKR","name":"Hoybuktmoen","lat":69.7252152,"lon":29.89079978,"rwys":1,"ils":1,"elev":283,"index":3434473,"path":"e020n60/e029n69"
+,"runways":[
+{"len_m":1894,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"06","lat1":69.72218220,"lon1":29.86793578,"rwy2":"24","lat2":69.72824820,"lon2":29.91366378}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"KIRKENES TWR"},
+{"type":"TWR","freq":120.35,"desc":"KIRKENES TWR"},
+{"type":"TWR","freq":122.1,"desc":"KIRKENES TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":69.72192800,"lon":29.86414400,"rng_nm":18,"alt_fmsl":283,"hdg":249.76,"id":"KR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":69.72560600,"lon":29.90168900,"rng_nm":10,"alt_fmsl":283,"id":"KR","rwy":"24","desc":"GS","gs":3.4},
+{"type":"OM","freq":0,"lat":69.75077500,"lon":30.11448600,"rng_nm":0,"alt_fmsl":330,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":69.73092200,"lon":29.93218300,"rng_nm":0,"alt_fmsl":283,"id":"----","rwy":"24","desc":"MM"}
+]
+}

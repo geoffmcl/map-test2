@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDAK","name":"Grossenhain","lat":51.308111,"lon":13.554972,"rwys":1,"ils":0,"elev":417,"index":3171154,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":2351,"wid_m":47.85,"hdg":115,"surf":"Concrete","rwy1":"12","lat1":51.31258300,"lon1":13.53969400,"rwy2":"30","lat2":51.30363900,"lon2":13.57025000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.7,"desc":"INFO"}
+]
+,"ils":[
+]
+}

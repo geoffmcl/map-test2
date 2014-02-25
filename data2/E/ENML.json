@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENML","name":"Molde Aro","lat":62.74369292,"lon":7.26678651,"rwys":1,"ils":2,"elev":10,"index":3073576,"path":"e000n60/e007n62"
+,"runways":[
+{"len_m":2105,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":62.74249700,"lon1":7.24800300,"rwy2":"25","lat2":62.74864700,"lon2":7.28696100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.95,"desc":"MOLDE INFO"},
+{"type":"TWR","freq":121.5,"desc":"MOLDE INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.75,"lat":62.74886703,"lon":7.28833342,"rng_nm":18,"alt_fmsl":4,"hdg":71.02,"id":"ML","rwy":"07","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.1,"lat":62.74895859,"lon":7.28405619,"rng_nm":18,"alt_fmsl":5,"id":"ME","rwy":"25","desc":"LOC"},
+{"type":"GS","freq":109.75,"lat":62.74274826,"lon":7.25559998,"rng_nm":10,"alt_fmsl":8,"id":"ML","rwy":"07","desc":"GS","gs":3.1}
+]
+}

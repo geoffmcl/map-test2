@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EYPA","name":"Palanga Intl","lat":55.9731155,"lon":21.093811,"rwys":1,"ils":1,"elev":33,"index":3302520,"path":"e020n50/e021n55"
+,"runways":[
+{"len_m":1975,"wid_m":39.93,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":55.96446400,"lon1":21.09032500,"rwy2":"19","lat2":55.98176700,"lon2":21.09729700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":124.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":55.95994700,"lon":21.08850600,"rng_nm":18,"alt_fmsl":33,"hdg":192.71,"id":"IAN","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":55.97884400,"lon":21.09825800,"rng_nm":10,"alt_fmsl":33,"id":"IAN","rwy":"19","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":55.95640300,"lon":21.08708100,"rng_nm":0,"alt_fmsl":33,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":55.97884400,"lon":21.09825600,"rng_nm":18,"alt_fmsl":39,"id":"IAN","rwy":"19","desc":"DME-ILS"}
+]
+}

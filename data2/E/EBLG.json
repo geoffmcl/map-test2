@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBLG","name":"Liege","lat":50.63785800,"lon":5.45442300,"rwys":2,"ils":1,"elev":645,"index":3040041,"path":"e000n50/e005n50"
+,"runways":[
+{"len_m":3294,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":50.62708272,"lon1":5.42795428,"rwy2":"23L","lat2":50.64799528,"lon2":5.46092772},
+{"len_m":2339,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05L","lat1":50.63127632,"lon1":5.43013023,"rwy2":"23R","lat2":50.64612768,"lon2":5.45354739}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Concrete","lat1":50.63931674,"lon1":5.45197753},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Concrete","lat1":50.64200395,"lon1":5.44415826}
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":130.62,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":50.64889400,"lon":5.46234700,"rng_nm":18,"alt_fmsl":645,"hdg":45.02,"id":"IHH","rwy":"05R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.35,"lat":50.62638900,"lon":5.42666700,"rng_nm":18,"alt_fmsl":645,"hdg":225.15,"id":"ILG","rwy":"23L","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.35,"lat":50.62852800,"lon":5.42578600,"rng_nm":18,"alt_fmsl":297,"hdg":225.00,"id":"ILGP","rwy":"23R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":50.63175600,"lon":5.43276400,"rng_nm":10,"alt_fmsl":645,"id":"IHH","rwy":"05R","desc":"GS","gs":3},
+{"type":"GS","freq":109.35,"lat":50.64611100,"lon":5.45555600,"rng_nm":10,"alt_fmsl":645,"id":"ILG","rwy":"23L","desc":"GS","gs":3},
+{"type":"GS","freq":109.35,"lat":50.64431900,"lon":5.44841100,"rng_nm":10,"alt_fmsl":645,"id":"ILGP","rwy":"23R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.70111100,"lon":5.54916700,"rng_nm":0,"alt_fmsl":698,"id":"----","rwy":"23L","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.65009200,"lon":5.46676900,"rng_nm":0,"alt_fmsl":550,"id":"----","rwy":"23L","desc":"MM"},
+{"type":"DME","freq":109.35,"lat":50.63173600,"lon":5.43279200,"rng_nm":18,"alt_fmsl":297,"id":"IHH","rwy":"05R","desc":"DME-ILS"},
+{"type":"DME","freq":109.35,"lat":50.64430000,"lon":5.44843900,"rng_nm":18,"alt_fmsl":297,"id":"ILGP","rwy":"23R","desc":"DME-ILS"}
+]
+}

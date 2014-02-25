@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E14","name":"San Juan Pueblo","lat":36.0270835,"lon":-106.047083,"rwys":2,"ils":0,"elev":5790,"index":1204099,"path":"w110n30/w107n36"
+,"runways":[
+{"len_m":1520,"wid_m":22.86,"hdg":166,"surf":"Asphalt","rwy1":"16","lat1":36.03166700,"lon1":-106.04833100,"rwy2":"34","lat2":36.01833300,"lon2":-106.04443900},
+{"len_m":952,"wid_m":10.67,"hdg":71,"surf":"Dirt","rwy1":"06","lat1":36.02777800,"lon1":-106.05278100,"rwy2":"24","lat2":36.03055600,"lon2":-106.04278100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

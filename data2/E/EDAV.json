@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDAV","name":"Finow","lat":52.83097500,"lon":13.70107400,"rwys":1,"ils":0,"elev":121,"index":3171250,"path":"e010n50/e013n52"
+,"runways":[
+{"len_m":2519,"wid_m":49.99,"hdg":99,"surf":"Concrete","rwy1":"10","lat1":52.82911900,"lon1":13.67508600,"rwy2":"28","lat2":52.82521100,"lon2":13.71191100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.35,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":119.05,"desc":"INFO"}
+]
+,"ils":[
+]
+}

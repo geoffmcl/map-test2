@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENBR","name":"Bergen Lufthavn Flesland","lat":60.29248751,"lon":5.22707297,"rwys":1,"ils":2,"elev":165,"index":3040656,"path":"e000n60/e005n60"
+,"runways":[
+{"len_m":2990,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":60.30662494,"lon1":5.21370074,"rwy2":"35","lat2":60.28015100,"lon2":5.22257900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.25,"desc":"Flesland Information"},
+{"type":"GND","freq":121.9,"desc":"Flesland Ground"},
+{"type":"TWR","freq":119.1,"desc":"Flesland Tower"},
+{"type":"APP","freq":121,"desc":"Flesland Radar"},
+{"type":"APP","freq":125,"desc":"Flesland Arrival"},
+{"type":"APP","freq":118.85,"desc":"Flesland Director"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":60.27890000,"lon":5.22300000,"rng_nm":18,"alt_fmsl":165,"hdg":170.56,"id":"BR","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":60.30757500,"lon":5.21336700,"rng_nm":18,"alt_fmsl":165,"hdg":350.55,"id":"BG","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":60.30098100,"lon":5.21409200,"rng_nm":10,"alt_fmsl":165,"id":"BR","rwy":"17","desc":"GS","gs":3.1},
+{"type":"GS","freq":110.5,"lat":60.28548900,"lon":5.21939400,"rng_nm":10,"alt_fmsl":165,"id":"BG","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":60.36643600,"lon":5.19441700,"rng_nm":0,"alt_fmsl":165,"id":"----","rwy":"17","desc":"OM"},
+{"type":"OM","freq":0,"lat":60.21088300,"lon":5.24759200,"rng_nm":0,"alt_fmsl":165,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":60.31403900,"lon":5.21173900,"rng_nm":0,"alt_fmsl":165,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":60.27370600,"lon":5.22474200,"rng_nm":0,"alt_fmsl":165,"id":"----","rwy":"35","desc":"MM"}
+]
+}

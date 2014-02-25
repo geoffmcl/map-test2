@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENSB","name":"Svalbard Longyear","lat":78.24680500,"lon":15.49548700,"rwys":1,"ils":2,"elev":88,"index":3205640,"path":"e010n70/e015n78"
+,"runways":[
+{"len_m":2319,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":78.24878900,"lon1":15.41805000,"rwy2":"28","lat2":78.24328600,"lon2":15.51634200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.85,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":78.24306700,"lon":15.52022500,"rng_nm":18,"alt_fmsl":111,"hdg":105.42,"id":"LB","rwy":"10","desc":"ILS-cat-II"},
+{"type":"LOC","freq":109.5,"lat":78.24706400,"lon":15.51036700,"rng_nm":18,"alt_fmsl":153,"id":"LA","rwy":"28","desc":"LOC"},
+{"type":"GS","freq":110.3,"lat":78.24693900,"lon":15.42786900,"rng_nm":10,"alt_fmsl":88,"id":"LB","rwy":"10","desc":"GS","gs":3},
+{"type":"IM","freq":0,"lat":78.24973600,"lon":15.40091400,"rng_nm":0,"alt_fmsl":88,"id":"----","rwy":"10","desc":"IM"}
+]
+}

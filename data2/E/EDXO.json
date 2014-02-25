@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDXO","name":"Sankt Peter Ording","lat":54.30859390,"lon":8.68168644,"rwys":1,"ils":0,"elev":5,"index":3089426,"path":"e000n50/e008n54"
+,"runways":[
+{"len_m":674,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":54.30801870,"lon1":8.68192213,"rwy2":"25","lat2":54.30998714,"lon2":8.69171706}
+]
+,"helipads":[
+{"rwy1":"H","len_m":20,"wid_m":20.12,"hdg":8,"surf":"Turf/grass","lat1":54.30805291,"lon1":8.68375586}
+]
+,"radios":[
+{"type":"TWR","freq":129.77,"desc":"St. Peter Ording INFO"}
+]
+,"ils":[
+]
+}

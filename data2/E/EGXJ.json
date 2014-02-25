@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXJ","name":"Raf Cottesmore","lat":52.73310160,"lon":-0.64785415,"rwys":1,"ils":1,"elev":461,"index":2941865,"path":"w010n50/w001n52"
+,"runways":[
+{"len_m":2744,"wid_m":60.05,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":52.72651700,"lon1":-0.66213300,"rwy2":"22","lat2":52.74504200,"lon2":-0.63530600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"Cottesmore Ground"},
+{"type":"TWR","freq":122.1,"desc":"Cottesmore Tower"},
+{"type":"APP","freq":130.2,"desc":"Cottesmore Approach"},
+{"type":"APP","freq":123.3,"desc":"Cottesmore Director"},
+{"type":"DEP","freq":130.2,"desc":"Cottesmore Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":52.72400300,"lon":-0.66577200,"rng_nm":18,"alt_fmsl":461,"hdg":221.23,"id":"CM","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":52.74372800,"lon":-0.63961400,"rng_nm":10,"alt_fmsl":461,"id":"CM","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":52.80760600,"lon":-0.54459400,"rng_nm":0,"alt_fmsl":461,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.75126400,"lon":-0.62652200,"rng_nm":0,"alt_fmsl":461,"id":"----","rwy":"22","desc":"MM"}
+]
+}

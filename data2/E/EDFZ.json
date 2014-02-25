@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDFZ","name":"Mainz Finthen","lat":49.9682715,"lon":8.1482855,"rwys":2,"ils":0,"elev":760,"index":3089144,"path":"e000n40/e008n49"
+,"runways":[
+{"len_m":985,"wid_m":21.95,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":49.96773100,"lon1":8.14172800,"rwy2":"26","lat2":49.97012800,"lon2":8.15494700},
+{"len_m":1000,"wid_m":79.86,"hdg":77,"surf":"Turf/grass","rwy1":"08R","lat1":49.96663000,"lon1":8.14143300,"rwy2":"26L","lat2":49.96859700,"lon2":8.15503400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.92,"desc":"INFO"},
+{"type":"TWR","freq":119.15,"desc":"LANGEN INFO"}
+]
+,"ils":[
+]
+}

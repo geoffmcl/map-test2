@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETSI","name":"Ingolstadt Manching","lat":48.71429400,"lon":11.53226000,"rwys":2,"ils":1,"elev":1202,"index":3138218,"path":"e010n40/e011n48"
+,"runways":[
+{"len_m":2945,"wid_m":60.05,"hdg":68,"surf":"Asphalt","rwy1":"07R","lat1":48.70450000,"lon1":11.51866700,"rwy2":"25L","lat2":48.71433300,"lon2":11.55583300},
+{"len_m":2439,"wid_m":29.87,"hdg":68,"surf":"Concrete","rwy1":"07L","lat1":48.71666700,"lon1":11.51550000,"rwy2":"25R","lat2":48.72487900,"lon2":11.54623700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.65,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":125.25,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":136.52,"desc":"MUNCHEN RADAR"},
+{"type":"APP","freq":120.6,"desc":"RADAR"},
+{"type":"APP","freq":125.57,"desc":"RADAR"},
+{"type":"APP","freq":122.1,"desc":"RADAR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":48.70300000,"lon":11.51250000,"rng_nm":18,"alt_fmsl":1209,"hdg":248.36,"id":"MG","rwy":"25L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":48.71200000,"lon":11.55216700,"rng_nm":10,"alt_fmsl":1229,"id":"MG","rwy":"25L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.73783300,"lon":11.64466700,"rng_nm":0,"alt_fmsl":1202,"id":"----","rwy":"25L","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.71800000,"lon":11.56950000,"rng_nm":0,"alt_fmsl":1202,"id":"----","rwy":"25L","desc":"MM"}
+]
+}

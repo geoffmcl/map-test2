@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGYE","name":"Raf Barkston Heath","lat":52.95739808,"lon":-0.56332111,"rwys":2,"ils":0,"elev":367,"index":2941881,"path":"w010n50/w001n52"
+,"runways":[
+{"len_m":1831,"wid_m":46.02,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":52.95854631,"lon1":-0.57184300,"rwy2":"24","lat2":52.96740300,"lon2":-0.54887500},
+{"len_m":1282,"wid_m":46.02,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":52.96018670,"lon1":-0.57231501,"rwy2":"29","lat2":52.95771700,"lon2":-0.55367200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.42,"desc":"Barkston Heath Tower"},
+{"type":"DEP","freq":119.37,"desc":"Barkston Heath Departure"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EYKA","name":"Kaunas Intl","lat":54.96690300,"lon":24.07696100,"rwys":1,"ils":2,"elev":256,"index":3351608,"path":"e020n50/e024n54"
+,"runways":[
+{"len_m":3151,"wid_m":45.11,"hdg":85,"surf":"Asphalt","rwy1":"08","lat1":54.96266700,"lon1":24.05948900,"rwy2":"26","lat2":54.96509400,"lon2":24.10851400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":124.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":54.96534700,"lon":24.11362800,"rng_nm":18,"alt_fmsl":256,"hdg":85.09,"id":"IKM","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":54.96250300,"lon":24.05623900,"rng_nm":18,"alt_fmsl":256,"hdg":265.04,"id":"ISE","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":54.96191100,"lon":24.06975000,"rng_nm":10,"alt_fmsl":256,"id":"IKM","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":54.96356700,"lon":24.09937200,"rng_nm":10,"alt_fmsl":256,"id":"ISE","rwy":"26","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":54.96225000,"lon":24.05125000,"rng_nm":0,"alt_fmsl":256,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":54.96575600,"lon":24.12191900,"rng_nm":0,"alt_fmsl":256,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESVB","name":"Bunge","lat":57.85180300,"lon":19.04009200,"rwys":2,"ils":0,"elev":66,"index":3269872,"path":"e010n50/e019n57"
+,"runways":[
+{"len_m":673,"wid_m":27.43,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":57.84858700,"lon1":19.04030311,"rwy2":"27","lat2":57.84858700,"lon2":19.05164289},
+{"len_m":672,"wid_m":27.43,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":57.85272731,"lon1":19.04255171,"rwy2":"34","lat2":57.84705669,"lon2":19.04643029}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"TWR"}
+]
+,"ils":[
+]
+}

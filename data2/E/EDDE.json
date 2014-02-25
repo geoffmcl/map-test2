@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDDE","name":"Erfurt","lat":50.97397900,"lon":10.96330100,"rwys":1,"ils":2,"elev":1035,"index":3121979,"path":"e010n50/e010n50"
+,"runways":[
+{"len_m":2605,"wid_m":49.99,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":50.98148400,"lon1":10.93974800,"rwy2":"28","lat2":50.97813200,"lon2":10.97646200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":3,"wid_m":4.88,"hdg":10,"surf":"Concrete","lat1":50.97648200,"lon1":10.96196500}
+]
+,"radios":[
+{"type":"ATIS","freq":135.17,"desc":"EDDE ATIS"},
+{"type":"GND","freq":121.9,"desc":"ERFURT APRON GND"},
+{"type":"GND","freq":121.75,"desc":"ERFURT GROUND GND"},
+{"type":"TWR","freq":121.15,"desc":"ERFURT TOWER TWR"},
+{"type":"TWR","freq":123.22,"desc":"Bremen Radar CNTR"},
+{"type":"TWR","freq":133.57,"desc":"Muenchen Radar CNTR"},
+{"type":"APP","freq":124.17,"desc":"Muenchen Radar APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":50.97810600,"lon":10.97941900,"rng_nm":18,"alt_fmsl":1016,"hdg":97.72,"id":"IERE","rwy":"10","desc":"ILS-cat-II"},
+{"type":"ILS","freq":109.9,"lat":50.98161400,"lon":10.93551700,"rng_nm":18,"alt_fmsl":1025,"hdg":277.68,"id":"IERW","rwy":"28","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.3,"lat":50.98204400,"lon":10.94374400,"rng_nm":10,"alt_fmsl":1035,"id":"IERE","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":50.98021700,"lon":10.97003600,"rng_nm":10,"alt_fmsl":1035,"id":"IERW","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.98938900,"lon":10.84013600,"rng_nm":0,"alt_fmsl":1035,"id":"----","rwy":"10","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.96976100,"lon":11.08054400,"rng_nm":0,"alt_fmsl":1035,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.98260300,"lon":10.92296700,"rng_nm":0,"alt_fmsl":1036,"id":"----","rwy":"10","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.97726900,"lon":10.98987200,"rng_nm":0,"alt_fmsl":1035,"id":"----","rwy":"28","desc":"MM"}
+]
+}

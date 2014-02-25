@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESMT","name":"Halmstad","lat":56.69054000,"lon":12.82535400,"rwys":1,"ils":1,"elev":101,"index":3155115,"path":"e010n50/e012n56"
+,"runways":[
+{"len_m":2261,"wid_m":39.93,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":56.68100300,"lon1":12.81820800,"rwy2":"19","lat2":56.70119200,"lon2":12.82219700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.05,"desc":"TWR"},
+{"type":"TWR","freq":130.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":56.67722200,"lon":12.81747200,"rng_nm":18,"alt_fmsl":101,"hdg":186.18,"id":"MT","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":56.69875000,"lon":12.82336100,"rng_nm":10,"alt_fmsl":101,"id":"MT","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":56.79697040,"lon":12.84222220,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.70925000,"lon":12.82380600,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"19","desc":"MM"}
+]
+}

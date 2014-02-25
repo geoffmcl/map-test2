@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENBO","name":"Bodo","lat":67.268487,"lon":14.356773,"rwys":1,"ils":2,"elev":42,"index":3188560,"path":"e010n60/e014n67"
+,"runways":[
+{"len_m":3394,"wid_m":45.11,"hdg":77,"surf":"Concrete","rwy1":"07","lat1":67.26529200,"lon1":14.31830700,"rwy2":"25","lat2":67.27168200,"lon2":14.39523900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.9,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":124,"desc":"APP/DEP"},
+{"type":"APP","freq":119.7,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":67.27243600,"lon":14.40405600,"rng_nm":18,"alt_fmsl":42,"hdg":77.87,"id":"BO","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":67.27282500,"lon":14.40398900,"rng_nm":18,"alt_fmsl":42,"hdg":268.29,"id":"BD","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":67.26633100,"lon":14.34131700,"rng_nm":10,"alt_fmsl":42,"id":"BO","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":67.27247800,"lon":14.39136100,"rng_nm":10,"alt_fmsl":42,"id":"BD","rwy":"25","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":67.27457800,"lon":14.49981700,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":67.26475800,"lon":14.31246400,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"07","desc":"MM"},
+{"type":"MM","freq":0,"lat":67.27327200,"lon":14.42381900,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"25","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":67.26639400,"lon":14.34138600,"rng_nm":18,"alt_fmsl":45,"id":"BO","rwy":"07","desc":"DME-ILS"}
+]
+}

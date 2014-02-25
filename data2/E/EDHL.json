@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDHL","name":"Lubeck Blankensee","lat":53.80503059,"lon":10.70175816,"rwys":1,"ils":1,"elev":53,"index":3122162,"path":"e010n50/e010n53"
+,"runways":[
+{"len_m":2101,"wid_m":60.05,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":53.80204700,"lon1":10.70188600,"rwy2":"25","lat2":53.80787900,"lon2":10.73223100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ATIS"},
+{"type":"GND","freq":121.77,"desc":"GND"},
+{"type":"TWR","freq":128.7,"desc":"TWR"},
+{"type":"TWR","freq":125.1,"desc":"BREMEN INFO"},
+{"type":"APP","freq":124.22,"desc":"BREMEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":53.80833900,"lon":10.73492500,"rng_nm":18,"alt_fmsl":53,"hdg":72.14,"id":"ILUE","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":53.80168300,"lon":10.70031900,"rng_nm":18,"alt_fmsl":47,"hdg":251.79,"id":"ILUW","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":53.80484200,"lon":10.70937500,"rng_nm":10,"alt_fmsl":53,"id":"ILUE","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":53.80769200,"lon":10.72738600,"rng_nm":10,"alt_fmsl":47,"id":"ILUW","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.82633300,"lon":10.83173300,"rng_nm":0,"alt_fmsl":53,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.80025600,"lon":10.69290300,"rng_nm":0,"alt_fmsl":53,"id":"----","rwy":"07","desc":"MM"},
+{"type":"MM","freq":0,"lat":53.81020800,"lon":10.74439200,"rng_nm":0,"alt_fmsl":53,"id":"----","rwy":"25","desc":"MM"}
+]
+}

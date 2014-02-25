@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGUO","name":"Raf Colerne","lat":51.44434847,"lon":-2.28231568,"rwys":2,"ils":0,"elev":593,"index":2909018,"path":"w010n50/w003n51"
+,"runways":[
+{"len_m":1786,"wid_m":46.02,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":51.43762146,"lon1":-2.29104532,"rwy2":"25","lat2":51.44439648,"lon2":-2.26774325},
+{"len_m":1106,"wid_m":43.89,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":51.43737738,"lon1":-2.28709373,"rwy2":"19","lat2":51.44728407,"lon2":-2.28569147}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.07,"desc":"Colerne Tower"},
+{"type":"APP","freq":120.07,"desc":"Colerne Approach"}
+]
+,"ils":[
+]
+}

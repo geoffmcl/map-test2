@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGHH","name":"Bournemouth","lat":50.77922178,"lon":-1.83574503,"rwys":1,"ils":1,"elev":38,"index":2925360,"path":"w010n50/w002n50"
+,"runways":[
+{"len_m":2273,"wid_m":46.02,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":50.77747484,"lon1":-1.85812665,"rwy2":"26","lat2":50.78265600,"lon2":-1.82693900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.72,"desc":"Bournemouth Information"},
+{"type":"GND","freq":121.7,"desc":"Bournemouth Ground"},
+{"type":"TWR","freq":119.47,"desc":"Bournemouth Radar"},
+{"type":"TWR","freq":125.6,"desc":"Bournemouth Tower"},
+{"type":"APP","freq":119.47,"desc":"Bournemouth Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":50.78340149,"lon":-1.82243335,"rng_nm":18,"alt_fmsl":32,"hdg":75.09,"id":"IBMH","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":50.77726746,"lon":-1.85938478,"rng_nm":18,"alt_fmsl":33,"hdg":255.41,"id":"IBH","rwy":"26","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.5,"lat":50.77817778,"lon":-1.84727222,"rng_nm":18,"alt_fmsl":30,"id":"IBMH","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":50.78327778,"lon":-1.83126389,"rng_nm":18,"alt_fmsl":36,"id":"IBH","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":50.78214722,"lon":-1.84107222,"rng_nm":20,"alt_fmsl":31,"id":"IBMH","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":50.78214722,"lon":-1.84107222,"rng_nm":20,"alt_fmsl":31,"id":"IBH","rwy":"26","desc":"DME-ILS"}
+]
+}

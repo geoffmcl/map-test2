@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPSY","name":"Szymany","lat":53.4797305,"lon":20.936497,"rwys":1,"ils":1,"elev":463,"index":3285979,"path":"e020n50/e020n53"
+,"runways":[
+{"len_m":2000,"wid_m":60.05,"hdg":18,"surf":"Concrete","rwy1":"02","lat1":53.47120800,"lon1":20.93172500,"rwy2":"20","lat2":53.48825300,"lon2":20.94126900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.02,"desc":"SZCZYTNO INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":53.49187200,"lon":20.94330000,"rng_nm":18,"alt_fmsl":463,"hdg":18.44,"id":"SZN","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":53.47370600,"lon":20.93106100,"rng_nm":10,"alt_fmsl":40,"id":"SZN","rwy":"02","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":53.47370600,"lon":20.93106100,"rng_nm":18,"alt_fmsl":492,"id":"SZN","rwy":"02","desc":"DME-ILS"}
+]
+}

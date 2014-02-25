@@ -1,0 +1,48 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBBR","name":"Brussels Airport","lat":50.90729000,"lon":4.50873800,"rwys":3,"ils":4,"elev":184,"index":3023674,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":3698,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07L","lat1":50.89886682,"lon1":4.45563939,"rwy2":"25R","lat2":50.91279104,"lon2":4.50339081},
+{"len_m":3270,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07R","lat1":50.88903977,"lon1":4.48039286,"rwy2":"25L","lat2":50.89911322,"lon2":4.52406473},
+{"len_m":3017,"wid_m":49.99,"hdg":14,"surf":"Asphalt","rwy1":"02","lat1":50.88680618,"lon1":4.49134748,"rwy2":"20","lat2":50.91307165,"lon2":4.50205064}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.89750366,"lon1":4.49073037},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.89354498,"lon1":4.48430390},
+{"rwy1":"H3","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.90439300,"lon1":4.46137200},
+{"rwy1":"H4","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.91269323,"lon1":4.49033719},
+{"rwy1":"H5","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.89535425,"lon1":4.46977017},
+{"rwy1":"H6","len_m":24,"wid_m":24.08,"hdg":4,"surf":"Concrete","lat1":50.89389400,"lon1":4.46901800}
+]
+,"radios":[
+{"type":"ATIS","freq":132.47,"desc":"ATIS ARR"},
+{"type":"ATIS","freq":121.75,"desc":"ATIS DEP"},
+{"type":"CTAF","freq":130.55,"desc":"ABELAG UNICOM"},
+{"type":"CLD","freq":121.95,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.05,"desc":"GND"},
+{"type":"GND","freq":121.87,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"TWR","freq":120.77,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":122.5,"desc":"APP"},
+{"type":"DEP","freq":126.62,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":50.91555600,"lon":4.50305600,"rng_nm":18,"alt_fmsl":184,"hdg":14.41,"id":"IBX","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.15,"lat":50.88500000,"lon":4.49055600,"rng_nm":18,"alt_fmsl":184,"hdg":194.48,"id":"IBM","rwy":"20","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.35,"lat":50.88852800,"lon":4.47819400,"rng_nm":18,"alt_fmsl":184,"hdg":249.89,"id":"IBL","rwy":"25L","desc":"ILS-cat-III"},
+{"type":"ILS","freq":108.9,"lat":50.89694400,"lon":4.44861100,"rng_nm":18,"alt_fmsl":184,"hdg":245.34,"id":"IBR","rwy":"25R","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.9,"lat":50.88997200,"lon":4.49450000,"rng_nm":10,"alt_fmsl":184,"id":"IBX","rwy":"02","desc":"GS","gs":3},
+{"type":"GS","freq":111.15,"lat":50.90833300,"lon":4.50194400,"rng_nm":10,"alt_fmsl":184,"id":"IBM","rwy":"20","desc":"GS","gs":3},
+{"type":"GS","freq":110.35,"lat":50.89694400,"lon":4.51963900,"rng_nm":10,"alt_fmsl":184,"id":"IBL","rwy":"25L","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":50.91138900,"lon":4.49500000,"rng_nm":10,"alt_fmsl":184,"id":"IBR","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.82694400,"lon":4.46694400,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"02","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.92027800,"lon":4.61638900,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"25L","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.87777800,"lon":4.48737800,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"02","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.90200300,"lon":4.53914700,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"25L","desc":"MM"},
+{"type":"MM","freq":0,"lat":50.91573300,"lon":4.51456700,"rng_nm":0,"alt_fmsl":184,"id":"----","rwy":"25R","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":50.89000000,"lon":4.49441700,"rng_nm":18,"alt_fmsl":184,"id":"IBX","rwy":"02","desc":"DME-ILS"},
+{"type":"DME","freq":111.15,"lat":50.90833300,"lon":4.50194400,"rng_nm":18,"alt_fmsl":184,"id":"IBM","rwy":"20","desc":"DME-ILS"},
+{"type":"DME","freq":108.9,"lat":50.91138900,"lon":4.49472200,"rng_nm":18,"alt_fmsl":184,"id":"IBR","rwy":"25R","desc":"DME-ILS"}
+]
+}

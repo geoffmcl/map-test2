@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFMI","name":"Mikkeli","lat":61.68772000,"lon":27.20850900,"rwys":1,"ils":1,"elev":329,"index":3401192,"path":"e020n60/e027n61"
+,"runways":[
+{"len_m":1701,"wid_m":43.89,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":61.68968300,"lon1":27.18685000,"rwy2":"29","lat2":61.68381700,"lon2":27.21653100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.25,"desc":"ATIS"},
+{"type":"TWR","freq":123,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":61.68326900,"lon":27.21929700,"rng_nm":18,"alt_fmsl":329,"hdg":112.64,"id":"MI","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":61.68711100,"lon":27.19398300,"rng_nm":10,"alt_fmsl":329,"id":"MI","rwy":"11","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":61.71285300,"lon":27.06849400,"rng_nm":0,"alt_fmsl":329,"id":"----","rwy":"11","desc":"OM"},
+{"type":"MM","freq":0,"lat":61.69209700,"lon":27.17471400,"rng_nm":0,"alt_fmsl":329,"id":"----","rwy":"11","desc":"MM"},
+{"type":"IM","freq":0,"lat":61.69604400,"lon":27.15506400,"rng_nm":0,"alt_fmsl":329,"id":"----","rwy":"11","desc":"IM"}
+]
+}

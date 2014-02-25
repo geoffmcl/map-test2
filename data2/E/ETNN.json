@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETNN","name":"Norvenich","lat":50.831161,"lon":6.6581095,"rwys":1,"ils":0,"elev":386,"index":3056434,"path":"e000n50/e006n50"
+,"runways":[
+{"len_m":2438,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":50.82682200,"lon1":6.64221900,"rwy2":"25","lat2":50.83550000,"lon2":6.67400000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":136.2,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"LANGEN CON"},
+{"type":"APP","freq":126.32,"desc":"LANGEN CON"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129.85,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

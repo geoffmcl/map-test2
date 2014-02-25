@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKI","name":"Kajaani","lat":64.2854705,"lon":27.6924165,"rwys":1,"ils":1,"elev":483,"index":3401361,"path":"e020n60/e027n64"
+,"runways":[
+{"len_m":2499,"wid_m":47.85,"hdg":79,"surf":"Asphalt","rwy1":"07","lat1":64.28344700,"lon1":27.66703600,"rwy2":"25","lat2":64.28749400,"lon2":27.71779700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":64.28810300,"lon":27.72547800,"rng_nm":18,"alt_fmsl":483,"hdg":79.62,"id":"KI","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":64.28497800,"lon":27.67244400,"rng_nm":10,"alt_fmsl":483,"id":"KI","rwy":"07","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":64.28497800,"lon":27.67244400,"rng_nm":18,"alt_fmsl":500,"id":"KI","rwy":"07","desc":"DME-ILS"}
+]
+}

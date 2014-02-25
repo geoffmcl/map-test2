@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNV","name":"Durham Tees Valley","lat":54.51320300,"lon":-1.42749088,"rwys":1,"ils":1,"elev":120,"index":2925602,"path":"w010n50/w002n54"
+,"runways":[
+{"len_m":2291,"wid_m":45.11,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":54.50223100,"lon1":-1.44246088,"rwy2":"23","lat2":54.51615000,"lon2":-1.41640488}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.2,"desc":"ATIS"},
+{"type":"TWR","freq":119.8,"desc":"TWR"},
+{"type":"APP","freq":118.85,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":54.51787800,"lon":-1.41313600,"rng_nm":18,"alt_fmsl":115,"hdg":47.43,"id":"ITSE","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":54.50049200,"lon":-1.44568100,"rng_nm":18,"alt_fmsl":135,"hdg":227.34,"id":"ITD","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":54.50473100,"lon":-1.44048900,"rng_nm":10,"alt_fmsl":146,"id":"ITSE","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":54.51345000,"lon":-1.41843600,"rng_nm":10,"alt_fmsl":146,"id":"ITD","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":108.5,"lat":54.50833100,"lon":-1.42804700,"rng_nm":18,"alt_fmsl":131,"id":"ITSE","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":108.5,"lat":54.50833100,"lon":-1.42804700,"rng_nm":18,"alt_fmsl":131,"id":"ITD","rwy":"23","desc":"DME-ILS"}
+]
+}

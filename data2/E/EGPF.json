@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPF","name":"Glasgow","lat":55.86977243,"lon":-4.43040165,"rwys":1,"ils":1,"elev":26,"index":2876530,"path":"w010n50/w005n55"
+,"runways":[
+{"len_m":2663,"wid_m":46.02,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":55.86348064,"lon1":-4.44906008,"rwy2":"23","lat2":55.87997447,"lon2":-4.41823594}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":55.87097754,"lon1":-4.42522446},
+{"rwy1":"H2","len_m":20,"wid_m":24.99,"hdg":-4,"surf":"Asphalt","lat1":55.87108640,"lon1":-4.42567583}
+]
+,"radios":[
+{"type":"ATIS","freq":129.57,"desc":"Glasgow Information"},
+{"type":"GND","freq":121.7,"desc":"Glasgow Ground"},
+{"type":"TWR","freq":118.8,"desc":"Glasgow Tower"},
+{"type":"APP","freq":119.1,"desc":"Glasgow Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":55.88094400,"lon":-4.41642500,"rng_nm":18,"alt_fmsl":26,"hdg":46.37,"id":"IUU","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":55.86063600,"lon":-4.45436400,"rng_nm":18,"alt_fmsl":26,"hdg":226.33,"id":"IOO","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":55.86657800,"lon":-4.44680000,"rng_nm":10,"alt_fmsl":52,"id":"IUU","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":55.87724700,"lon":-4.42679200,"rng_nm":10,"alt_fmsl":50,"id":"IOO","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":55.86965000,"lon":-4.43396400,"rng_nm":18,"alt_fmsl":25,"id":"IUU","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":110.1,"lat":55.86965000,"lon":-4.43396400,"rng_nm":18,"alt_fmsl":25,"id":"IOO","rwy":"23","desc":"DME-ILS"}
+]
+}

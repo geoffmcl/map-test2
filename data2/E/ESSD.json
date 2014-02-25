@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESSD","name":"Borlange","lat":60.43012600,"lon":15.50503200,"rwys":2,"ils":1,"elev":503,"index":3204506,"path":"e010n60/e015n60"
+,"runways":[
+{"len_m":2310,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":60.42908900,"lon1":15.49987800,"rwy2":"32","lat2":60.41509700,"lon2":15.53083900},
+{"len_m":722,"wid_m":49.68,"hdg":119,"surf":"Turf/grass","rwy1":"12","lat1":60.42836836,"lon1":15.49064441,"rwy2":"30","lat2":60.42513164,"lon2":15.50200359}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"TWR"},
+{"type":"TWR","freq":127.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":60.43133300,"lon":15.49488900,"rng_nm":18,"alt_fmsl":503,"hdg":312.44,"id":"SD","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":60.41769400,"lon":15.52794400,"rng_nm":10,"alt_fmsl":503,"id":"SD","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":60.37452800,"lon":15.62063900,"rng_nm":0,"alt_fmsl":503,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":60.40891700,"lon":15.54452800,"rng_nm":0,"alt_fmsl":503,"id":"----","rwy":"32","desc":"MM"}
+]
+}

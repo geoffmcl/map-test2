@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGLC","name":"London City","lat":51.50397905,"lon":0.04982496,"rwys":1,"ils":1,"elev":19,"index":2958176,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":1507,"wid_m":29.87,"hdg":92,"surf":"Concrete","rwy1":"09","lat1":51.50557275,"lon1":0.04433540,"rwy2":"27","lat2":51.50488846,"lon2":0.06601510}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.35,"desc":"City Information"},
+{"type":"GND","freq":121.82,"desc":"City Ground"},
+{"type":"TWR","freq":118.07,"desc":"City Tower"},
+{"type":"TWR","freq":118.4,"desc":"City Tower"},
+{"type":"APP","freq":132.7,"desc":"City Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":51.50484200,"lon":0.06750300,"rng_nm":18,"alt_fmsl":19,"hdg":92.91,"id":"ILST","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.15,"lat":51.50564200,"lon":0.04212500,"rng_nm":18,"alt_fmsl":19,"hdg":272.89,"id":"ILSR","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":51.50601100,"lon":0.04740300,"rng_nm":10,"alt_fmsl":35,"id":"ILST","rwy":"09","desc":"GS","gs":5.05},
+{"type":"GS","freq":111.15,"lat":51.50551400,"lon":0.06335000,"rng_nm":10,"alt_fmsl":35,"id":"ILSR","rwy":"27","desc":"GS","gs":5.5},
+{"type":"DME","freq":111.15,"lat":51.50584700,"lon":0.05541100,"rng_nm":18,"alt_fmsl":48,"id":"ILST","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":111.15,"lat":51.50579400,"lon":0.05442500,"rng_nm":18,"alt_fmsl":48,"id":"ILSR","rwy":"27","desc":"DME-ILS"}
+]
+}

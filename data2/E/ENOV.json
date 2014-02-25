@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENOV","name":"Orsta-volda Hovden","lat":62.18062600,"lon":6.08180200,"rwys":1,"ils":1,"elev":243,"index":3057160,"path":"e000n60/e006n62"
+,"runways":[
+{"len_m":869,"wid_m":29.87,"hdg":60,"surf":"Asphalt","rwy1":"07","lat1":62.17804848,"lon1":6.06638417,"rwy2":"25","lat2":62.18194352,"lon2":6.08083983}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":111.5,"lat":62.16333300,"lon":6.02169200,"rng_nm":20,"alt_fmsl":243,"id":"HN","rwy":"07","desc":"LOC"},
+{"type":"DME","freq":111.5,"lat":62.16333300,"lon":6.02169200,"rng_nm":25,"alt_fmsl":243,"id":"HN","rwy":"07","desc":"DME-ILS"}
+]
+}

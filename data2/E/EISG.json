@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EISG","name":"Sligo","lat":54.27891509,"lon":-8.59901162,"rwys":1,"ils":0,"elev":11,"index":2810897,"path":"w010n50/w009n54"
+,"runways":[
+{"len_m":1159,"wid_m":29.87,"hdg":100,"surf":"Asphalt","rwy1":"11","lat1":54.28114725,"lon1":-8.60795026,"rwy2":"29","lat2":54.27927502,"lon2":-8.59044115}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

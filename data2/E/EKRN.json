@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKRN","name":"Bornholm Ronne","lat":55.06938498,"lon":14.74870998,"rwys":1,"ils":2,"elev":52,"index":3187778,"path":"e010n50/e014n55"
+,"runways":[
+{"len_m":2002,"wid_m":49.99,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":55.06688333,"lon1":14.74521389,"rwy2":"29","lat2":55.05964722,"lon2":14.77390278}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.32,"desc":"RONNE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":55.05818600,"lon":14.77970300,"rng_nm":18,"alt_fmsl":52,"hdg":113.78,"id":"IAR","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":55.06838300,"lon":14.74200300,"rng_nm":18,"alt_fmsl":52,"hdg":295.54,"id":"IRE","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":55.06471900,"lon":14.74904400,"rng_nm":10,"alt_fmsl":52,"id":"IAR","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":55.06175600,"lon":14.77021900,"rng_nm":10,"alt_fmsl":52,"id":"IRE","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":55.06472200,"lon":14.74916700,"rng_nm":18,"alt_fmsl":52,"id":"IAR","rwy":"11","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":55.06171900,"lon":14.77006100,"rng_nm":18,"alt_fmsl":55,"id":"IRE","rwy":"29","desc":"DME-ILS"}
+]
+}

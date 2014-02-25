@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHTX","name":"Texel","lat":53.11711533,"lon":4.82626334,"rwys":2,"ils":0,"elev":2,"index":3023811,"path":"e000n50/e004n53"
+,"runways":[
+{"len_m":1129,"wid_m":39.93,"hdg":35,"surf":"Turf/grass","rwy1":"4","lat1":53.11178176,"lon1":4.82703742,"rwy2":"22","lat2":53.12004041,"lon2":4.83685037},
+{"len_m":603,"wid_m":39.93,"hdg":125,"surf":"Turf/grass","rwy1":"13","lat1":53.11365091,"lon1":4.82447485,"rwy2":"31","lat2":53.11050400,"lon2":4.83182100}
+]
+,"helipads":[
+{"rwy1":"H","len_m":11,"wid_m":11.89,"hdg":4,"surf":"Concrete","lat1":53.11603570,"lon1":4.82698112}
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"Texel Radio"},
+{"type":"APP","freq":132.35,"desc":"Dutch Mil"}
+]
+,"ils":[
+]
+}

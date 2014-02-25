@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENKB","name":"Kvernberget","lat":63.11065300,"lon":7.82430600,"rwys":1,"ils":1,"elev":204,"index":3073601,"path":"e000n60/e007n63"
+,"runways":[
+{"len_m":1893,"wid_m":45.11,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":63.10916700,"lon1":7.80675000,"rwy2":"25","lat2":63.11457800,"lon2":7.84231400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":63.11482200,"lon":7.84431100,"rng_nm":18,"alt_fmsl":204,"hdg":71.60,"id":"KB","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":63.10959700,"lon":7.81576700,"rng_nm":10,"alt_fmsl":204,"id":"KB","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":63.08487900,"lon":7.64800800,"rng_nm":0,"alt_fmsl":204,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":63.10618100,"lon":7.78831400,"rng_nm":0,"alt_fmsl":204,"id":"----","rwy":"07","desc":"MM"}
+]
+}

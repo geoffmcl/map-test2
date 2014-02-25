@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHLW","name":"Leeuwarden","lat":53.2269995,"lon":5.75393075,"rwys":2,"ils":2,"elev":4,"index":3040203,"path":"e000n50/e005n53"
+,"runways":[
+{"len_m":2450,"wid_m":49.99,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":53.21916700,"lon1":5.73809200,"rwy2":"24","lat2":53.23166400,"lon2":5.76829700},
+{"len_m":2003,"wid_m":49.99,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":53.22866700,"lon1":5.73966700,"rwy2":"27","lat2":53.22850000,"lon2":5.76966700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.7,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"ARRIVAL"},
+{"type":"APP","freq":122.1,"desc":"RAPCON NORTH"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":53.23305600,"lon":5.77138900,"rng_nm":18,"alt_fmsl":4,"hdg":55.15,"id":"LWZ","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.75,"lat":53.22861100,"lon":5.77222200,"rng_nm":18,"alt_fmsl":4,"hdg":90.18,"id":"WOL","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.75,"lat":53.21777800,"lon":5.73472200,"rng_nm":18,"alt_fmsl":4,"hdg":235.35,"id":"LWO","rwy":"24","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.75,"lat":53.22861100,"lon":5.73805600,"rng_nm":18,"alt_fmsl":4,"hdg":270.32,"id":"LOB","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.75,"lat":53.22166700,"lon":5.74111100,"rng_nm":15,"alt_fmsl":4,"id":"LWZ","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":109.75,"lat":53.22777800,"lon":5.74527800,"rng_nm":15,"alt_fmsl":4,"id":"WOL","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":111.75,"lat":53.23083300,"lon":5.76277800,"rng_nm":15,"alt_fmsl":4,"id":"LWO","rwy":"24","desc":"GS","gs":3},
+{"type":"GS","freq":109.75,"lat":53.22750000,"lon":5.76527800,"rng_nm":15,"alt_fmsl":4,"id":"LOB","rwy":"27","desc":"GS","gs":3}
+]
+}

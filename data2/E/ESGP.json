@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESGP","name":"Goteborg Save","lat":57.77723700,"lon":11.88282500,"rwys":2,"ils":1,"elev":59,"index":3138803,"path":"e010n50/e011n57"
+,"runways":[
+{"len_m":2038,"wid_m":39.93,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":57.76589200,"lon1":11.86882800,"rwy2":"19","lat2":57.78412800,"lon2":11.87181700},
+{"len_m":871,"wid_m":29.87,"hdg":44,"surf":"Asphalt","rwy1":"04","lat1":57.77587500,"lon1":11.87238300,"rwy2":"22","lat2":57.78146100,"lon2":11.88264200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.05,"desc":"AFIS"},
+{"type":"TWR","freq":129.1,"desc":"AFIS"},
+{"type":"TWR","freq":129.1,"desc":"TWR"},
+{"type":"TWR","freq":119.05,"desc":"TWR"},
+{"type":"APP","freq":124.67,"desc":"GOTEBERG CON"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":57.76244400,"lon":11.86825000,"rng_nm":18,"alt_fmsl":59,"hdg":185.01,"id":"GP","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":57.78141700,"lon":11.86900000,"rng_nm":10,"alt_fmsl":59,"id":"GP","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":57.85305600,"lon":11.88311100,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.79350000,"lon":11.87333300,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":108.1,"lat":57.77541700,"lon":11.86672200,"rng_nm":18,"alt_fmsl":70,"id":"GP","rwy":"19","desc":"DME-ILS"}
+]
+}

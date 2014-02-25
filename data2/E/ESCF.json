@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESCF","name":"Linkoping Malmen","lat":58.3993985,"lon":15.52670975,"rwys":2,"ils":1,"elev":308,"index":3204378,"path":"e010n50/e015n58"
+,"runways":[
+{"len_m":2214,"wid_m":35.05,"hdg":18,"surf":"Asphalt","rwy1":"01","lat1":58.38673600,"lon1":15.51599400,"rwy2":"19","lat2":58.40560800,"lon2":15.52790000},
+{"len_m":1870,"wid_m":36.88,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":58.40163600,"lon1":15.51559200,"rwy2":"26","lat2":58.40361400,"lon2":15.54735300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":132.6,"desc":"TWR"},
+{"type":"TWR","freq":121.05,"desc":"TWR"},
+{"type":"TWR","freq":129.8,"desc":"TWR"},
+{"type":"APP","freq":132.95,"desc":"OSTGOTA APP"},
+{"type":"APP","freq":135.85,"desc":"OSTGOTA APP"},
+{"type":"APP","freq":126.4,"desc":"OSTGOTA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":58.37811100,"lon":15.51055600,"rng_nm":18,"alt_fmsl":308,"hdg":198.29,"id":"CFB","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":58.40319400,"lon":15.52438900,"rng_nm":10,"alt_fmsl":308,"id":"CFB","rwy":"19","desc":"GS","gs":3.2},
+{"type":"DME","freq":110.1,"lat":58.40319400,"lon":15.52447200,"rng_nm":18,"alt_fmsl":307,"id":"CFB","rwy":"19","desc":"DME-ILS"}
+]
+}

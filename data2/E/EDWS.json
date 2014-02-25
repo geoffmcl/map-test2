@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWS","name":"Norden Norddeich","lat":53.63368816,"lon":7.19205704,"rwys":1,"ils":0,"elev":3,"index":3073000,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":721,"wid_m":20.12,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":53.63776020,"lon1":7.18839092,"rwy2":"34","lat2":53.63167940,"lon2":7.19216420}
+]
+,"helipads":[
+{"rwy1":"H","len_m":21,"wid_m":21.95,"hdg":7,"surf":"Concrete","lat1":53.63321016,"lon1":7.19237493}
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"Bremen Information"},
+{"type":"TWR","freq":120.5,"desc":"Norddeich INFO"}
+]
+,"ils":[
+]
+}

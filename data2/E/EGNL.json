@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNL","name":"Barrow Walney Island","lat":54.12576401,"lon":-3.26182918,"rwys":3,"ils":1,"elev":173,"index":2892810,"path":"w010n50/w004n54"
+,"runways":[
+{"len_m":1050,"wid_m":46.02,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":54.12399972,"lon1":-3.26758115,"rwy2":"23","lat2":54.13017914,"lon2":-3.25542925},
+{"len_m":1011,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":54.13312500,"lon1":-3.26929400,"rwy2":"35","lat2":54.12430600,"lon2":-3.26557500},
+{"len_m":1201,"wid_m":46.02,"hdg":112,"surf":"Asphalt","rwy1":"12","lat1":54.13312969,"lon1":-3.27178504,"rwy2":"30","lat2":54.12907441,"lon2":-3.25475093}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-3,"surf":"Concrete","lat1":54.12534293,"lon1":-3.26091169}
+]
+,"radios":[
+{"type":"TWR","freq":123.2,"desc":"Walney Information"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":54.13459700,"lon":-3.26991400,"rng_nm":18,"alt_fmsl":173,"hdg":346.12,"id":"IWL","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":54.12570600,"lon":-3.26745800,"rng_nm":10,"alt_fmsl":173,"id":"IWL","rwy":"35","desc":"GS","gs":3.5},
+{"type":"DME","freq":110.15,"lat":54.12716700,"lon":-3.26461400,"rng_nm":18,"alt_fmsl":173,"id":"IWL","rwy":"35","desc":"DME-ILS"}
+]
+}

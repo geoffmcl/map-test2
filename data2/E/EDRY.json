@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDRY","name":"Speyer","lat":49.30306825,"lon":8.45065425,"rwys":2,"ils":0,"elev":312,"index":3089105,"path":"e000n40/e008n49"
+,"runways":[
+{"len_m":1227,"wid_m":29.87,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":49.30810800,"lon1":8.44902800,"rwy2":"35","lat2":49.29744200,"lon2":8.45336100},
+{"len_m":1000,"wid_m":29.87,"hdg":165,"surf":"Turf/grass","rwy1":"17R","lat1":49.30770600,"lon1":8.44833900,"rwy2":"35L","lat2":49.29901700,"lon2":8.45188900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.07,"desc":"Speyer INFO"}
+]
+,"ils":[
+]
+}

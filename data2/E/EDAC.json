@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDAC","name":"Altenburg Nobitz","lat":50.97969100,"lon":12.51478400,"rwys":1,"ils":1,"elev":640,"index":3154746,"path":"e010n50/e012n50"
+,"runways":[
+{"len_m":2185,"wid_m":45.11,"hdg":40,"surf":"Concrete","rwy1":"04","lat1":50.97436900,"lon1":12.49622100,"rwy2":"22","lat2":50.98926200,"lon2":12.51650600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":123.57,"desc":"TWR"},
+{"type":"APP","freq":132.3,"desc":"MUNCHEN RADAR"},
+{"type":"APP","freq":126.17,"desc":"MUNCHEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":50.97324400,"lon":12.49517800,"rng_nm":18,"alt_fmsl":625,"hdg":219.96,"id":"IALW","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":50.98665300,"lon":12.51036900,"rng_nm":10,"alt_fmsl":607,"id":"IALW","rwy":"22","desc":"GS","gs":3.3},
+{"type":"OM","freq":0,"lat":51.03976100,"lon":12.58067500,"rng_nm":0,"alt_fmsl":606,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.99377500,"lon":12.52103900,"rng_nm":0,"alt_fmsl":581,"id":"----","rwy":"22","desc":"MM"}
+]
+}

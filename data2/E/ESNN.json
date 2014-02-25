@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNN","name":"Sundsvall Harnosand/midlanda","lat":62.52874400,"lon":17.44422000,"rwys":1,"ils":2,"elev":16,"index":3237408,"path":"e010n60/e017n62"
+,"runways":[
+{"len_m":2089,"wid_m":45.11,"hdg":160,"surf":"Asphalt","rwy1":"16","lat1":62.53656400,"lon1":17.43733600,"rwy2":"34","lat2":62.51892500,"lon2":17.45110800}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":611,"wid_m":30,"hdg_t":149,"buoys":false,"rwy1":"15","lat1":62.51625349,"lon1":17.43530641,"rwy2":"33","lat2":62.51150251,"lon2":17.44124959}
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":129.55,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":62.51686100,"lon":17.45272200,"rng_nm":18,"alt_fmsl":16,"hdg":160.19,"id":"NNN","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":62.54369400,"lon":17.43175000,"rng_nm":18,"alt_fmsl":16,"hdg":340.17,"id":"SNN","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":62.53344400,"lon":17.44227800,"rng_nm":10,"alt_fmsl":16,"id":"NNN","rwy":"16","desc":"GS","gs":3.25},
+{"type":"GS","freq":110.3,"lat":62.52322200,"lon":17.45022200,"rng_nm":10,"alt_fmsl":16,"id":"SNN","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":62.59833300,"lon":17.38750000,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":62.59833150,"lon":17.38750080,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":62.54588900,"lon":17.43005600,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":62.51030600,"lon":17.45113900,"rng_nm":0,"alt_fmsl":16,"id":"----","rwy":"34","desc":"MM"}
+]
+}

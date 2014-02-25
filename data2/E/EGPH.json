@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPH","name":"Edinburgh","lat":55.94555946,"lon":-3.36424947,"rwys":2,"ils":1,"elev":135,"index":2892922,"path":"w010n50/w004n55"
+,"runways":[
+{"len_m":2556,"wid_m":43.89,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":55.94399712,"lon1":-3.39014534,"rwy2":"24","lat2":55.95586954,"lon2":-3.35511664},
+{"len_m":1796,"wid_m":46.02,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":55.95130286,"lon1":-3.35942460,"rwy2":"30","lat2":55.94357204,"lon2":-3.33418567}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":131.35,"desc":"Edinburgh Information"},
+{"type":"GND","freq":121.75,"desc":"Edinburgh Ground"},
+{"type":"TWR","freq":118.7,"desc":"Edinburgh Tower"},
+{"type":"APP","freq":121.2,"desc":"Edinburgh Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":55.95711100,"lon":-3.35144400,"rng_nm":18,"alt_fmsl":110,"hdg":58.83,"id":"IVG","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":55.94144200,"lon":-3.39767200,"rng_nm":18,"alt_fmsl":110,"hdg":238.79,"id":"ITH","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":55.94790800,"lon":-3.38315000,"rng_nm":10,"alt_fmsl":135,"id":"IVG","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":55.95462500,"lon":-3.36359400,"rng_nm":10,"alt_fmsl":135,"id":"ITH","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":55.95173100,"lon":-3.37299200,"rng_nm":18,"alt_fmsl":123,"id":"IVG","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":108.9,"lat":55.95173100,"lon":-3.37299200,"rng_nm":18,"alt_fmsl":123,"id":"ITH","rwy":"24","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDTY","name":"Schwabisch Hall","lat":49.1184735,"lon":9.78523875,"rwys":2,"ils":1,"elev":1311,"index":3105475,"path":"e000n40/e009n49"
+,"runways":[
+{"len_m":1540,"wid_m":29.87,"hdg":98,"surf":"Concrete","rwy1":"10","lat1":49.11940700,"lon1":9.77320600,"rwy2":"28","lat2":49.11729200,"lon2":9.79405700},
+{"len_m":756,"wid_m":29.87,"hdg":98,"surf":"Turf/grass","rwy1":"10L","lat1":49.11912800,"lon1":9.78173100,"rwy2":"28R","lat2":49.11806700,"lon2":9.79196100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.22,"desc":"INFO"},
+{"type":"TWR","freq":128.95,"desc":"LANGEN INFO"},
+{"type":"APP","freq":125.05,"desc":"LANGEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":49.11957800,"lon":9.77153600,"rng_nm":18,"alt_fmsl":1311,"hdg":278.81,"id":"ISWH","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":49.11680800,"lon":9.78806400,"rng_nm":10,"alt_fmsl":1311,"id":"ISWH","rwy":"28","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":49.11617800,"lon":9.80770300,"rng_nm":0,"alt_fmsl":1311,"id":"----","rwy":"28","desc":"MM"}
+]
+}

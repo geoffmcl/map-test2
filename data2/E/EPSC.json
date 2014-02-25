@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPSC","name":"Goleniow","lat":53.58739000,"lon":14.90696000,"rwys":1,"ils":1,"elev":154,"index":3187683,"path":"e010n50/e014n53"
+,"runways":[
+{"len_m":2500,"wid_m":60.05,"hdg":130,"surf":"Concrete","rwy1":"13","lat1":53.59208290,"lon1":14.88792304,"rwy2":"31","lat2":53.57737910,"lon2":14.91646696}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"SZCZECIN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":53.59442200,"lon":14.88337800,"rng_nm":18,"alt_fmsl":154,"hdg":310.93,"id":"SZC","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":53.57832800,"lon":14.91161900,"rng_nm":10,"alt_fmsl":154,"id":"SZC","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":53.57832800,"lon":14.91161900,"rng_nm":18,"alt_fmsl":197,"id":"SZC","rwy":"31","desc":"DME-ILS"}
+]
+}

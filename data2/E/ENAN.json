@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENAN","name":"Andoya","lat":69.29200339,"lon":16.13457310,"rwys":2,"ils":1,"elev":43,"index":3221456,"path":"e010n60/e016n69"
+,"runways":[
+{"len_m":3005,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":69.30909200,"lon1":16.11646100,"rwy2":"32","lat2":69.28581900,"lon2":16.15482800},
+{"len_m":1671,"wid_m":45.11,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":69.28285720,"lon1":16.12881075,"rwy2":"21","lat2":69.29564320,"lon2":16.15089975}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"GCA"},
+{"type":"APP","freq":121.1,"desc":"GCA"},
+{"type":"APP","freq":123.3,"desc":"GCA"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":69.28360300,"lon":16.15847500,"rng_nm":18,"alt_fmsl":29,"id":"AN","rwy":"14","desc":"LOC"},
+{"type":"MM","freq":0,"lat":69.31831700,"lon":16.10171100,"rng_nm":0,"alt_fmsl":60,"id":"----","rwy":"14","desc":"MM"}
+]
+}

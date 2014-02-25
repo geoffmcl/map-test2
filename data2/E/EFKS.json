@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKS","name":"Kuusamo","lat":65.99611600,"lon":29.22538900,"rwys":1,"ils":1,"elev":866,"index":3434232,"path":"e020n60/e029n65"
+,"runways":[
+{"len_m":2460,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"12","lat1":65.99481400,"lon1":29.21973900,"rwy2":"30","lat2":65.97999400,"lon2":29.25985600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.65,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":65.97824200,"lon":29.26460000,"rng_nm":18,"alt_fmsl":866,"hdg":132.25,"id":"KO","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":65.99218900,"lon":29.22285000,"rng_nm":10,"alt_fmsl":866,"id":"KO","rwy":"12","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":65.99218900,"lon":29.22285000,"rng_nm":18,"alt_fmsl":919,"id":"KO","rwy":"12","desc":"DME-ILS"}
+]
+}

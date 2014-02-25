@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNO","name":"Warton Aerodrome","lat":53.74573831,"lon":-2.88858971,"rwys":1,"ils":1,"elev":55,"index":2909160,"path":"w010n50/w003n53"
+,"runways":[
+{"len_m":2416,"wid_m":46.02,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":53.74143510,"lon1":-2.90117273,"rwy2":"26","lat2":53.74844400,"lon2":-2.86650800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.72,"desc":"Warton Terminal Information"},
+{"type":"TWR","freq":130.8,"desc":"Warton Tower"},
+{"type":"TWR","freq":129.52,"desc":"Warton Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":53.74057800,"lon":-2.90540300,"rng_nm":18,"alt_fmsl":55,"hdg":251.10,"id":"IWQ","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":53.74688600,"lon":-2.87056400,"rng_nm":10,"alt_fmsl":55,"id":"IWQ","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":53.74431670,"lon":-2.88177200,"rng_nm":18,"alt_fmsl":55,"id":"IWQ","rwy":"26","desc":"DME-ILS"}
+]
+}

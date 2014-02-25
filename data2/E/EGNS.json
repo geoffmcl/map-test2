@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNS","name":"Isle Of Man Ronaldsway","lat":54.08635299,"lon":-4.63331679,"rwys":2,"ils":1,"elev":52,"index":2876417,"path":"w010n50/w005n54"
+,"runways":[
+{"len_m":1838,"wid_m":46.02,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":54.08162612,"lon1":-4.63707741,"rwy2":"26","lat2":54.08507063,"lon2":-4.60959562},
+{"len_m":1255,"wid_m":46.02,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":54.07733789,"lon1":-4.63211076,"rwy2":"21","lat2":54.08729700,"lon2":-4.62311700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.87,"desc":"Ronaldsway Information"},
+{"type":"TWR","freq":118.9,"desc":"Ronaldsway Tower"},
+{"type":"APP","freq":120.85,"desc":"Ronaldsway Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":54.08266900,"lon":-4.61995600,"rng_nm":18,"alt_fmsl":29,"hdg":82.35,"id":"IRH","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.15,"lat":54.08117200,"lon":-4.64068100,"rng_nm":18,"alt_fmsl":29,"hdg":257.92,"id":"IRY","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":54.08150600,"lon":-4.62995600,"rng_nm":10,"alt_fmsl":33,"id":"IRH","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":111.15,"lat":54.08496900,"lon":-4.61817800,"rng_nm":10,"alt_fmsl":33,"id":"IRY","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":111.15,"lat":54.08095800,"lon":-4.62279400,"rng_nm":18,"alt_fmsl":33,"id":"IRH","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":111.15,"lat":54.08100600,"lon":-4.62280600,"rng_nm":18,"alt_fmsl":33,"id":"IRY","rwy":"26","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETMN","name":"Nordholz","lat":53.76463919,"lon":8.65755087,"rwys":1,"ils":1,"elev":74,"index":3089394,"path":"e000n50/e008n53"
+,"runways":[
+{"len_m":2439,"wid_m":45.11,"hdg":78,"surf":"Concrete","rwy1":"08","lat1":53.76544900,"lon1":8.64038900,"rwy2":"26","lat2":53.76988200,"lon2":8.67661300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"BREMEN INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":131.25,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129.85,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":53.76466700,"lon":8.63366700,"rng_nm":18,"alt_fmsl":66,"hdg":258.37,"id":"NDO","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":53.77033300,"lon":8.67116700,"rng_nm":10,"alt_fmsl":74,"id":"NDO","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.78516700,"lon":8.80616700,"rng_nm":0,"alt_fmsl":72,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.77166700,"lon":8.69116700,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"26","desc":"MM"}
+]
+}

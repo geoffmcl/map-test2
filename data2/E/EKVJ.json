@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKVJ","name":"Stauning","lat":55.990122,"lon":8.35390714,"rwys":1,"ils":1,"elev":17,"index":3089529,"path":"e000n50/e008n55"
+,"runways":[
+{"len_m":1449,"wid_m":29.87,"hdg":92,"surf":"Asphalt","rwy1":"09","lat1":55.99040000,"lon1":8.34230278,"rwy2":"27","lat2":55.98984400,"lon2":8.36551150}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.4,"desc":"AFIS"},
+{"type":"APP","freq":127.57,"desc":"BILLUND APP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.1,"lat":55.99049400,"lon":8.33830000,"rng_nm":18,"alt_fmsl":17,"id":"SVJ","rwy":"27","desc":"LOC"},
+{"type":"MM","freq":0,"lat":55.98905800,"lon":8.39100300,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"27","desc":"MM"}
+]
+}

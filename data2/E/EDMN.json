@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDMN","name":"Mindelheim Mattsies","lat":48.11184600,"lon":10.52369800,"rwys":1,"ils":0,"elev":1857,"index":3121794,"path":"e010n40/e010n48"
+,"runways":[
+{"len_m":1148,"wid_m":20.12,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":48.11349037,"lon1":10.52099034,"rwy2":"33","lat2":48.10417763,"lon2":10.52767567}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":10,"surf":"Concrete","lat1":48.11152386,"lon1":10.52346947}
+]
+,"radios":[
+{"type":"TWR","freq":126.95,"desc":"MUNCHEN INFO"}
+]
+,"ils":[
+]
+}

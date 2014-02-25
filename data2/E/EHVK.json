@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHVK","name":"Volkel","lat":51.66124828,"lon":5.70533437,"rwys":3,"ils":1,"elev":72,"index":3040106,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":3029,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"6L","lat1":51.64997302,"lon1":5.68928018,"rwy2":"24R","lat2":51.66442342,"lon2":5.72637968},
+{"len_m":3027,"wid_m":22.86,"hdg":57,"surf":"Concrete","rwy1":"6R","lat1":51.64837642,"lon1":5.69090017,"rwy2":"24L","lat2":51.66281842,"lon2":5.72797174},
+{"len_m":929,"wid_m":22.86,"hdg":58,"surf":"Turf/grass","rwy1":"5","lat1":51.64977737,"lon1":5.69688018,"rwy2":"23","lat2":51.65414459,"lon2":5.70833356}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":5,"surf":"Concrete","lat1":51.65369263,"lon1":5.69257075},
+{"rwy1":"H2","len_m":39,"wid_m":39.93,"hdg":5,"surf":"Turf/grass","lat1":51.65379670,"lon1":5.69430119}
+]
+,"radios":[
+{"type":"CTAF","freq":132.35,"desc":"Dutch Mill"},
+{"type":"TWR","freq":136.07,"desc":"Volkel Tower"},
+{"type":"APP","freq":122.1,"desc":"Volkel Arrival"},
+{"type":"DEP","freq":123.18,"desc":"Rapcon South"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":51.64944400,"lon":5.68777800,"rng_nm":18,"alt_fmsl":72,"hdg":237.96,"id":"VLO","rwy":"24R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.75,"lat":51.66500000,"lon":5.72777800,"rng_nm":18,"alt_fmsl":72,"hdg":57.84,"id":"VLZ","rwy":"6L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":51.66305600,"lon":5.72000000,"rng_nm":15,"alt_fmsl":72,"id":"VLO","rwy":"24R","desc":"GS","gs":3},
+{"type":"GS","freq":110.75,"lat":51.65138900,"lon":5.69583300,"rng_nm":15,"alt_fmsl":72,"id":"VLZ","rwy":"6L","desc":"GS","gs":3},
+{"type":"DME","freq":110.75,"lat":51.66305600,"lon":5.72000000,"rng_nm":18,"alt_fmsl":72,"id":"VLO","rwy":"24R","desc":"DME-ILS"},
+{"type":"DME","freq":110.75,"lat":51.65138900,"lon":5.69583300,"rng_nm":18,"alt_fmsl":72,"id":"VLZ","rwy":"6L","desc":"DME-ILS"}
+]
+}

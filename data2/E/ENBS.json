@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENBS","name":"Batsfjord","lat":70.60292797,"lon":29.69624167,"rwys":1,"ils":1,"elev":490,"index":3434529,"path":"e020n70/e029n70"
+,"runways":[
+{"len_m":1099,"wid_m":29.87,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":70.59600600,"lon1":29.68810500,"rwy2":"21","lat2":70.60426300,"lon2":29.70430600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":111.1,"lat":70.59629200,"lon":29.68114700,"rng_nm":18,"alt_fmsl":514,"id":"BT","rwy":"21","desc":"LOC"}
+]
+}

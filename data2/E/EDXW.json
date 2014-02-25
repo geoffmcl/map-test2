@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDXW","name":"Westerland Sylt","lat":54.91383446,"lon":8.33043848,"rwys":2,"ils":1,"elev":51,"index":3089465,"path":"e000n50/e008n54"
+,"runways":[
+{"len_m":2119,"wid_m":45.11,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":54.91934700,"lon1":8.33288302,"rwy2":"32","lat2":54.90385000,"lon2":8.35209402},
+{"len_m":1696,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":54.90941700,"lon1":8.32917198,"rwy2":"24","lat2":54.91711700,"lon2":8.35199398}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.4,"desc":"SYLT ATIS"},
+{"type":"TWR","freq":119.75,"desc":"SYLT TWR"},
+{"type":"APP","freq":120.23,"desc":"BREMEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":54.92084400,"lon":8.33102800,"rng_nm":18,"alt_fmsl":32,"hdg":324.52,"id":"IWES","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":54.90653300,"lon":8.35113900,"rng_nm":10,"alt_fmsl":32,"id":"IWES","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":54.85689700,"lon":8.40998300,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.89727800,"lon":8.36025300,"rng_nm":0,"alt_fmsl":51,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":54.91053600,"lon":8.33970800,"rng_nm":18,"alt_fmsl":49,"id":"IWES","rwy":"32","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDMO","name":"Oberpfaffenhofen","lat":48.08952700,"lon":11.27136200,"rwys":1,"ils":1,"elev":1947,"index":3138177,"path":"e010n40/e011n48"
+,"runways":[
+{"len_m":2285,"wid_m":44.81,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":48.07403600,"lon1":11.27306400,"rwy2":"22","lat2":48.08920300,"lon2":11.29377200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.95,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":119.55,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":127.95,"desc":"MUNCHEN RADAR"},
+{"type":"APP","freq":120.77,"desc":"MUNCHEN ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":48.07142200,"lon":11.26950000,"rng_nm":18,"alt_fmsl":1947,"hdg":222.35,"id":"OBI","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":48.08640600,"lon":11.29159200,"rng_nm":10,"alt_fmsl":1947,"id":"OBI","rwy":"22","desc":"GS","gs":3}
+]
+}

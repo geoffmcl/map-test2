@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFHA","name":"Halli","lat":61.85289100,"lon":24.78823600,"rwys":1,"ils":1,"elev":479,"index":3352051,"path":"e020n60/e024n61"
+,"runways":[
+{"len_m":2601,"wid_m":60.05,"hdg":86,"surf":"Asphalt","rwy1":"08","lat1":61.85525600,"lon1":24.76196400,"rwy2":"26","lat2":61.85684200,"lon2":24.81126100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":128.9,"desc":"TWR"},
+{"type":"APP","freq":124.55,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":61.85508100,"lon":24.75648900,"rng_nm":18,"alt_fmsl":479,"hdg":266.08,"id":"HA","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":61.85557800,"lon":24.80551400,"rng_nm":10,"alt_fmsl":473,"id":"HA","rwy":"26","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":61.85764700,"lon":24.83433300,"rng_nm":0,"alt_fmsl":479,"id":"----","rwy":"26","desc":"MM"},
+{"type":"IM","freq":0,"lat":61.85781400,"lon":24.84273600,"rng_nm":0,"alt_fmsl":479,"id":"----","rwy":"26","desc":"IM"}
+]
+}

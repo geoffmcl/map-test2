@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESOE","name":"Orebro","lat":59.22713500,"lon":15.04629300,"rwys":1,"ils":2,"elev":188,"index":3204424,"path":"e010n50/e015n59"
+,"runways":[
+{"len_m":2601,"wid_m":45.11,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":59.21098300,"lon1":15.03281400,"rwy2":"19","lat2":59.23385300,"lon2":15.04203600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.6,"desc":"TWR"},
+{"type":"TWR","freq":120.27,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":59.23855600,"lon":15.04394400,"rng_nm":18,"alt_fmsl":188,"hdg":11.68,"id":"SOE","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":59.20861100,"lon":15.03177800,"rng_nm":18,"alt_fmsl":188,"hdg":191.74,"id":"NOE","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":59.21380600,"lon":15.03180600,"rng_nm":10,"alt_fmsl":188,"id":"SOE","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":59.23044400,"lon":15.04280600,"rng_nm":10,"alt_fmsl":188,"id":"NOE","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":59.13397200,"lon":15.00300000,"rng_nm":0,"alt_fmsl":188,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.29102800,"lon":15.06511100,"rng_nm":0,"alt_fmsl":188,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.20294400,"lon":15.02958300,"rng_nm":0,"alt_fmsl":188,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.24397200,"lon":15.04611100,"rng_nm":0,"alt_fmsl":188,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":59.23038900,"lon":15.04291700,"rng_nm":18,"alt_fmsl":188,"id":"SOE","rwy":"01","desc":"DME-ILS"}
+]
+}

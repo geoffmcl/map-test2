@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESSP","name":"Norrkoping Kungsangen","lat":58.58354600,"lon":16.23528700,"rwys":2,"ils":1,"elev":32,"index":3220768,"path":"e010n50/e016n58"
+,"runways":[
+{"len_m":2202,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":58.58611400,"lon1":16.23169200,"rwy2":"27","lat2":58.58581400,"lon2":16.26955800},
+{"len_m":593,"wid_m":35.05,"hdg":115,"surf":"Turf/grass","rwy1":"11","lat1":58.59016400,"lon1":16.23597800,"rwy2":"29","lat2":58.58785300,"lon2":16.24517500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"TWR"},
+{"type":"TWR","freq":120.35,"desc":"TWR"},
+{"type":"APP","freq":133.35,"desc":"OSTGOTA APP"},
+{"type":"APP","freq":132.95,"desc":"OSTGOTA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":58.58613900,"lon":16.22741700,"rng_nm":18,"alt_fmsl":32,"hdg":270.83,"id":"SP","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":58.58472200,"lon":16.26352800,"rng_nm":10,"alt_fmsl":32,"id":"SP","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":58.58447270,"lon":16.38202860,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.58566700,"lon":16.28763900,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"27","desc":"MM"}
+]
+}

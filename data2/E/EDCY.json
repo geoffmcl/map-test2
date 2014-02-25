@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDCY","name":"Spremberg Welzow","lat":51.5788135,"lon":14.1391305,"rwys":1,"ils":0,"elev":375,"index":3187552,"path":"e010n50/e014n51"
+,"runways":[
+{"len_m":1999,"wid_m":29.87,"hdg":36,"surf":"Concrete","rwy1":"04","lat1":51.57155800,"lon1":14.13061700,"rwy2":"22","lat2":51.58606900,"lon2":14.14764400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":134.85,"desc":"INFO"}
+]
+,"ils":[
+]
+}

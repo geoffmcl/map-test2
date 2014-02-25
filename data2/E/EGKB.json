@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGKB","name":"Biggin Hill","lat":51.33196700,"lon":0.02918000,"rwys":2,"ils":1,"elev":598,"index":2958160,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":1804,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":51.32360828,"lon1":0.02685702,"rwy2":"21","lat2":51.33823399,"lon2":0.03803716},
+{"len_m":788,"wid_m":17.98,"hdg":105,"surf":"Asphalt","rwy1":"11","lat1":51.32344130,"lon1":0.02785565,"rwy2":"29","lat2":51.32155619,"lon2":0.03875348}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.87,"desc":"ATIS"},
+{"type":"TWR","freq":134.8,"desc":"TWR"},
+{"type":"APP","freq":129.4,"desc":"APP"},
+{"type":"APP","freq":132.7,"desc":"THAMES RDR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":51.32336100,"lon":0.02660600,"rng_nm":18,"alt_fmsl":598,"hdg":205.65,"id":"IBGH","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":51.33701900,"lon":0.03503300,"rng_nm":10,"alt_fmsl":598,"id":"IBGH","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":51.33702200,"lon":0.03502800,"rng_nm":18,"alt_fmsl":570,"id":"IBGH","rwy":"21","desc":"DME-ILS"}
+]
+}

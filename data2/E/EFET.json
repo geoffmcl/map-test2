@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFET","name":"Enontekio","lat":68.35937500,"lon":23.42659800,"rwys":1,"ils":1,"elev":1005,"index":3336080,"path":"e020n60/e023n68"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":68.35521100,"lon1":23.41049700,"rwy2":"21","lat2":68.36996100,"lon2":23.43815800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.82,"desc":"ATIS"},
+{"type":"TWR","freq":122.45,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":68.35274400,"lon":23.40587800,"rng_nm":18,"alt_fmsl":1005,"hdg":214.64,"id":"ET","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":68.36840600,"lon":23.43166400,"rng_nm":10,"alt_fmsl":1005,"id":"ET","rwy":"21","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":68.42232200,"lon":23.53668900,"rng_nm":0,"alt_fmsl":1005,"id":"----","rwy":"21","desc":"OM"},
+{"type":"DME","freq":111.3,"lat":68.36840600,"lon":23.43166400,"rng_nm":18,"alt_fmsl":1005,"id":"ET","rwy":"21","desc":"DME-ILS"}
+]
+}

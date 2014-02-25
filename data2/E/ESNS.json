@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNS","name":"Skelleftea","lat":64.62577100,"lon":21.07686800,"rwys":1,"ils":1,"elev":155,"index":3303080,"path":"e020n60/e021n64"
+,"runways":[
+{"len_m":2101,"wid_m":45.11,"hdg":106,"surf":"Asphalt","rwy1":"10","lat1":64.62741100,"lon1":21.05577500,"rwy2":"28","lat2":64.62213300,"lon2":21.09795800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.05,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":64.62797200,"lon":21.05130600,"rng_nm":18,"alt_fmsl":155,"hdg":286.26,"id":"NS","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":64.62388900,"lon":21.09294400,"rng_nm":10,"alt_fmsl":155,"id":"NS","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":64.60549930,"lon":21.23816680,"rng_nm":0,"alt_fmsl":155,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.61950000,"lon":21.11902800,"rng_nm":0,"alt_fmsl":155,"id":"----","rwy":"28","desc":"MM"}
+]
+}

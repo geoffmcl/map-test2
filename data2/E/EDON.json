@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDON","name":"Neuhardenberg","lat":52.6129955,"lon":14.242668,"rwys":1,"ils":0,"elev":35,"index":3187616,"path":"e010n50/e014n52"
+,"runways":[
+{"len_m":2399,"wid_m":49.99,"hdg":81,"surf":"Concrete","rwy1":"08","lat1":52.61149700,"lon1":14.22512500,"rwy2":"26","lat2":52.61449400,"lon2":14.26021100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":119.12,"desc":"INFO"}
+]
+,"ils":[
+]
+}

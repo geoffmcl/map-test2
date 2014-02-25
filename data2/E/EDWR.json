@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWR","name":"Borkum","lat":53.59605429,"lon":6.70146143,"rwys":3,"ils":0,"elev":3,"index":3056610,"path":"e000n50/e006n53"
+,"runways":[
+{"len_m":999,"wid_m":20.12,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":53.59498756,"lon1":6.70981918,"rwy2":"31","lat2":53.58922044,"lon2":6.72139903},
+{"len_m":872,"wid_m":39.93,"hdg":117,"surf":"Turf/grass","rwy1":"12","lat1":53.59522067,"lon1":6.70146422,"rwy2":"30","lat2":53.59160559,"lon2":6.71316491},
+{"len_m":812,"wid_m":39.93,"hdg":47,"surf":"Turf/grass","rwy1":"05","lat1":53.59258386,"lon1":6.70349457,"rwy2":"23","lat2":53.59755454,"lon2":6.71247838}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123,"desc":"BORKUM INFO"},
+{"type":"TWR","freq":125.1,"desc":"BREMEN INFORMATION"}
+]
+,"ils":[
+]
+}

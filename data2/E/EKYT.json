@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKYT","name":"Aalborg","lat":57.09020100,"lon":9.86495300,"rwys":2,"ils":1,"elev":10,"index":3105987,"path":"e000n50/e009n57"
+,"runways":[
+{"len_m":2654,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08L","lat1":57.09371474,"lon1":9.83338123,"rwy2":"26R","lat2":57.09652392,"lon2":9.87687477},
+{"len_m":2549,"wid_m":22.86,"hdg":83,"surf":"Asphalt","rwy1":"08R","lat1":57.09190815,"lon1":9.83547587,"rwy2":"26L","lat2":57.09459624,"lon2":9.87724413}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.47,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":123.97,"desc":"APP"},
+{"type":"APP","freq":120.7,"desc":"ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":57.09695000,"lon":9.88372200,"rng_nm":18,"alt_fmsl":10,"hdg":83.27,"id":"AE","rwy":"08L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":57.09332500,"lon":9.82739400,"rng_nm":18,"alt_fmsl":10,"hdg":263.19,"id":"YT","rwy":"26R","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.9,"lat":57.09505300,"lon":9.83706100,"rng_nm":10,"alt_fmsl":10,"id":"AE","rwy":"08L","desc":"GS","gs":2.75},
+{"type":"GS","freq":109.9,"lat":57.09734700,"lon":9.87272800,"rng_nm":10,"alt_fmsl":10,"id":"YT","rwy":"26R","desc":"GS","gs":2.75},
+{"type":"DME","freq":109.9,"lat":57.09727800,"lon":9.87274200,"rng_nm":18,"alt_fmsl":19,"id":"AE","rwy":"08L","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":57.09727800,"lon":9.87274200,"rng_nm":18,"alt_fmsl":19,"id":"YT","rwy":"26R","desc":"DME-ILS"}
+]
+}

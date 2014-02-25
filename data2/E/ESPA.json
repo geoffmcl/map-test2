@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESPA","name":"Lulea Kallax","lat":65.54315900,"lon":22.11432500,"rwys":1,"ils":2,"elev":65,"index":3319520,"path":"e020n60/e022n65"
+,"runways":[
+{"len_m":3349,"wid_m":45.11,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":65.55479700,"lon1":22.09740600,"rwy2":"32","lat2":65.53271700,"lon2":22.14655300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.19,"desc":"TWR"},
+{"type":"TWR","freq":128.2,"desc":"TWR"},
+{"type":"APP","freq":125.45,"desc":"CON"},
+{"type":"APP","freq":130.8,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":65.53080600,"lon":22.15077800,"rng_nm":18,"alt_fmsl":65,"hdg":137.38,"id":"PA","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":65.55672200,"lon":22.09313900,"rng_nm":18,"alt_fmsl":65,"hdg":317.33,"id":"SPA","rwy":"32","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":65.55325000,"lon":22.10452800,"rng_nm":10,"alt_fmsl":65,"id":"PA","rwy":"14","desc":"GS","gs":2.86},
+{"type":"GS","freq":109.9,"lat":65.53525000,"lon":22.14461100,"rng_nm":10,"alt_fmsl":65,"id":"SPA","rwy":"32","desc":"GS","gs":2.86},
+{"type":"OM","freq":0,"lat":65.60950470,"lon":21.99869350,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":65.56175000,"lon":22.08188900,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"14","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":65.53527800,"lon":22.14469400,"rng_nm":18,"alt_fmsl":45,"id":"SPA","rwy":"32","desc":"DME-ILS"}
+]
+}

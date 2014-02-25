@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDHF","name":"Hungriger Wolf","lat":53.98894765,"lon":9.58133125,"rwys":3,"ils":0,"elev":52,"index":3105786,"path":"e000n50/e009n53"
+,"runways":[
+{"len_m":501,"wid_m":29.87,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":53.99248645,"lon1":9.57679250,"rwy2":"21","lat2":53.99651355,"lon2":9.58020799},
+{"len_m":501,"wid_m":29.87,"hdg":26,"surf":"Turf/grass","rwy1":"02","lat1":53.98801341,"lon1":9.57300352,"rwy2":"20","lat2":53.99204018,"lon2":9.57641886},
+{"len_m":710,"wid_m":29.87,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":53.99127735,"lon1":9.56725849,"rwy2":"27","lat2":53.99122175,"lon2":9.57809557}
+]
+,"helipads":[
+{"rwy1":"H","len_m":49,"wid_m":49.99,"hdg":9,"surf":"Concrete","lat1":53.99319287,"lon1":9.57526506}
+]
+,"radios":[
+{"type":"TWR","freq":123.37,"desc":"HUNGRIGER WOLF INFO"}
+]
+,"ils":[
+]
+}

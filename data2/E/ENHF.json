@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENHF","name":"Hammerfest","lat":70.68007863,"lon":23.67538886,"rwys":1,"ils":2,"elev":266,"index":3336233,"path":"e020n70/e023n70"
+,"runways":[
+{"len_m":886,"wid_m":29.87,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":70.67735636,"lon1":23.65827557,"rwy2":"23","lat2":70.68180564,"lon2":23.67816807}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":70.67658234,"lon":23.65496635,"rng_nm":18,"alt_fmsl":262,"hdg":54.60,"id":"HA","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":70.67666626,"lon":23.65534973,"rng_nm":18,"alt_fmsl":262,"hdg":234.60,"id":"HF","rwy":"23","desc":"ILS-cat-I"},
+{"type":"DME","freq":111.35,"lat":70.67728424,"lon":23.65349388,"rng_nm":18,"alt_fmsl":262,"id":"HA","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":70.67587280,"lon":23.65765762,"rng_nm":18,"alt_fmsl":262,"id":"HF","rwy":"23","desc":"DME-ILS"}
+]
+}

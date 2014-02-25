@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXW","name":"Raf Waddington","lat":53.17216662,"lon":-0.52379842,"rwys":1,"ils":1,"elev":231,"index":2941897,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":2742,"wid_m":60.96,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":53.15466400,"lon1":-0.53148100,"rwy2":"20","lat2":53.17756000,"lon2":-0.51633100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":0,"surf":"Asphalt","lat1":53.17326000,"lon1":-0.52594300}
+]
+,"radios":[
+{"type":"GND","freq":123.3,"desc":"Waddington Departure"},
+{"type":"TWR","freq":125.35,"desc":"Waddington Tower"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":53.15738600,"lon":-0.53164200,"rng_nm":18,"alt_fmsl":231,"hdg":204.46,"id":"WA","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":53.17611900,"lon":-0.51936400,"rng_nm":10,"alt_fmsl":231,"id":"WA","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.25317200,"lon":-0.45828300,"rng_nm":0,"alt_fmsl":231,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.18567800,"lon":-0.51020300,"rng_nm":0,"alt_fmsl":231,"id":"----","rwy":"20","desc":"MM"}
+]
+}

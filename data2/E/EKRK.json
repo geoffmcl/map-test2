@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKRK","name":"Copenhagen Roskilde Int","lat":55.59004300,"lon":12.12973300,"rwys":2,"ils":2,"elev":146,"index":3155040,"path":"e010n50/e012n55"
+,"runways":[
+{"len_m":1805,"wid_m":32.00,"hdg":116,"surf":"Asphalt","rwy1":"11","lat1":55.58999899,"lon1":12.11555630,"rwy2":"29","lat2":55.58282101,"lon2":12.14123170},
+{"len_m":1503,"wid_m":32.00,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":55.57838802,"lon1":12.12383107,"rwy2":"21","lat2":55.58997398,"lon2":12.13608493}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":125.52,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":55.58198900,"lon":12.14422500,"rng_nm":18,"alt_fmsl":146,"hdg":116.32,"id":"KV","rwy":"11","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.7,"lat":55.57566400,"lon":12.12095300,"rng_nm":18,"alt_fmsl":146,"hdg":210.86,"id":"SN","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":55.58775300,"lon":12.11923300,"rng_nm":10,"alt_fmsl":146,"id":"KV","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":108.7,"lat":55.58698600,"lon":12.13517800,"rng_nm":10,"alt_fmsl":146,"id":"SN","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":55.64328600,"lon":12.19262200,"rng_nm":0,"alt_fmsl":146,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.60214400,"lon":12.14896400,"rng_nm":0,"alt_fmsl":146,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":55.58772500,"lon":12.11918900,"rng_nm":18,"alt_fmsl":140,"id":"KV","rwy":"11","desc":"DME-ILS"}
+]
+}

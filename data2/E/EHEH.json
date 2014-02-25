@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHEH","name":"Eindhoven","lat":51.45113800,"lon":5.37451400,"rwys":1,"ils":1,"elev":74,"index":3040089,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":51.43908900,"lon1":5.36213500,"rwy2":"21","lat2":51.46117800,"lon2":5.38689100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":131,"desc":"TWR"},
+{"type":"APP","freq":124.52,"desc":"DIRECTOR"},
+{"type":"APP","freq":122.1,"desc":"DIRECTOR"},
+{"type":"APP","freq":123.17,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.75,"lat":51.46250300,"lon":5.38838600,"rng_nm":18,"alt_fmsl":74,"hdg":34.95,"id":"EHZ","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.75,"lat":51.43752500,"lon":5.36038600,"rng_nm":18,"alt_fmsl":74,"hdg":214.92,"id":"EHO","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.75,"lat":51.44282800,"lon":5.36843300,"rng_nm":15,"alt_fmsl":74,"id":"EHZ","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":109.75,"lat":51.45619400,"lon":5.38376700,"rng_nm":15,"alt_fmsl":74,"id":"EHO","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.52523000,"lon":5.45566100,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"21","desc":"OM"},
+{"type":"DME","freq":109.75,"lat":51.44282800,"lon":5.36843300,"rng_nm":18,"alt_fmsl":74,"id":"EHZ","rwy":"03","desc":"DME-ILS"},
+{"type":"DME","freq":109.75,"lat":51.45619400,"lon":5.38376700,"rng_nm":18,"alt_fmsl":74,"id":"EHO","rwy":"21","desc":"DME-ILS"}
+]
+}

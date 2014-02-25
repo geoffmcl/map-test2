@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDAD","name":"Dessau","lat":51.831828,"lon":12.1840335,"rwys":1,"ils":0,"elev":187,"index":3154800,"path":"e010n50/e012n51"
+,"runways":[
+{"len_m":1002,"wid_m":24.99,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":51.83190600,"lon1":12.17676100,"rwy2":"27","lat2":51.83175000,"lon2":12.19130600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":118.17,"desc":"INFO"}
+]
+,"ils":[
+]
+}

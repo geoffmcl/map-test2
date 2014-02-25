@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKA","name":"Kauhava","lat":63.11985600,"lon":23.04382400,"rwys":1,"ils":1,"elev":151,"index":3335744,"path":"e020n60/e023n63"
+,"runways":[
+{"len_m":2700,"wid_m":60.05,"hdg":176,"surf":"Asphalt","rwy1":"17","lat1":63.13917200,"lon1":23.04999700,"rwy2":"35","lat2":63.11498300,"lon2":23.05288600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":122.8,"desc":"TWR"},
+{"type":"APP","freq":130.1,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":126.6,"desc":"APP"},
+{"type":"APP","freq":128.15,"desc":"ARRIVAL"},
+{"type":"APP","freq":119.7,"desc":"ARRIVAL"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":63.11250600,"lon":23.05318100,"rng_nm":18,"alt_fmsl":151,"hdg":176.91,"id":"KA","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":63.13632200,"lon":23.05271900,"rng_nm":10,"alt_fmsl":151,"id":"KA","rwy":"17","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":63.21991900,"lon":23.04033300,"rng_nm":0,"alt_fmsl":151,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":63.14836100,"lon":23.04890000,"rng_nm":0,"alt_fmsl":151,"id":"----","rwy":"17","desc":"MM"}
+]
+}

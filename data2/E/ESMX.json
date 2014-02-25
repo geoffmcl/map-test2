@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESMX","name":"Vaxjo Kronoberg","lat":56.92549900,"lon":14.73141200,"rwys":1,"ils":2,"elev":610,"index":3187898,"path":"e010n50/e014n56"
+,"runways":[
+{"len_m":2103,"wid_m":45.11,"hdg":13,"surf":"Asphalt","rwy1":"01","lat1":56.91994200,"lon1":14.72408900,"rwy2":"19","lat2":56.93834700,"lon2":14.73189700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":56.91647200,"lon":14.72263900,"rng_nm":18,"alt_fmsl":610,"hdg":193.00,"id":"MX","rwy":"19","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.1,"lat":56.94083300,"lon":14.73294400,"rng_nm":18,"alt_fmsl":610,"id":"SMX","rwy":"01","desc":"LOC"},
+{"type":"GS","freq":109.7,"lat":56.93533300,"lon":14.73272200,"rng_nm":10,"alt_fmsl":610,"id":"MX","rwy":"19","desc":"GS","gs":2.86},
+{"type":"OM","freq":0,"lat":56.99611280,"lon":14.75738910,"rng_nm":0,"alt_fmsl":610,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.94711100,"lon":14.73558300,"rng_nm":0,"alt_fmsl":610,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":56.93527800,"lon":14.73269400,"rng_nm":18,"alt_fmsl":592,"id":"MX","rwy":"19","desc":"DME-ILS"}
+]
+}

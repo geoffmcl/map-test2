@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBKT","name":"Wevelgem","lat":50.82042566,"lon":3.21792233,"rwys":1,"ils":1,"elev":64,"index":3007280,"path":"e000n50/e003n50"
+,"runways":[
+{"len_m":1899,"wid_m":45.11,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":50.81476951,"lon1":3.19707342,"rwy2":"24","lat2":50.82278009,"lon2":3.22088232}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.25,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":50.81383300,"lon":3.19438900,"rng_nm":18,"alt_fmsl":64,"id":"IKT","rwy":"24","desc":"LOC"},
+{"type":"DME","freq":110.7,"lat":50.82000000,"lon":3.21822200,"rng_nm":18,"alt_fmsl":64,"id":"IKT","rwy":"24","desc":"DME-ILS"}
+]
+}

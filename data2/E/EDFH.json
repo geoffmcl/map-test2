@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDFH","name":"Frankfurt Hahn","lat":49.95278900,"lon":7.28046000,"rwys":1,"ils":2,"elev":1649,"index":3072761,"path":"e000n40/e007n49"
+,"runways":[
+{"len_m":3799,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":49.93139400,"lon1":7.24687700,"rwy2":"21","lat2":49.96022200,"lon2":7.27528600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.35,"desc":"ATIS"},
+{"type":"GND","freq":121.97,"desc":"GND"},
+{"type":"TWR","freq":123.52,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":120.9,"desc":"TWR"},
+{"type":"TWR","freq":119.65,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"LANGEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":49.96103900,"lon":7.27609200,"rng_nm":18,"alt_fmsl":1595,"hdg":32.39,"id":"IHAE","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":49.92870800,"lon":7.24421100,"rng_nm":18,"alt_fmsl":1648,"hdg":212.38,"id":"IHAW","rwy":"21","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.3,"lat":49.94020500,"lon":7.25735100,"rng_nm":10,"alt_fmsl":1648,"id":"IHAE","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":49.95776000,"lon":7.27123200,"rng_nm":10,"alt_fmsl":1600,"id":"IHAW","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.88475300,"lon":7.20020800,"rng_nm":0,"alt_fmsl":1649,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":50.01307200,"lon":7.32748100,"rng_nm":0,"alt_fmsl":1649,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.93071700,"lon":7.24536700,"rng_nm":0,"alt_fmsl":1649,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":49.96488300,"lon":7.28087500,"rng_nm":0,"alt_fmsl":1649,"id":"----","rwy":"21","desc":"MM"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENRY","name":"Rygge","lat":59.378793,"lon":10.7854265,"rwys":1,"ils":1,"elev":174,"index":3122523,"path":"e010n50/e010n59"
+,"runways":[
+{"len_m":2442,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":59.38373600,"lon1":10.76625000,"rwy2":"30","lat2":59.37385000,"lon2":10.80460300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.17,"desc":"ATIS"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":124.35,"desc":"APP"},
+{"type":"APP","freq":120.3,"desc":"ARRIVAL"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":59.38544200,"lon":10.75957200,"rng_nm":18,"alt_fmsl":173,"hdg":296.79,"id":"RY","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":59.37281100,"lon":10.80395800,"rng_nm":10,"alt_fmsl":217,"id":"RY","rwy":"30","desc":"GS","gs":3.1},
+{"type":"OM","freq":0,"lat":59.34420300,"lon":10.91746900,"rng_nm":0,"alt_fmsl":174,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.36949200,"lon":10.82148100,"rng_nm":0,"alt_fmsl":174,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":59.37423600,"lon":10.79852000,"rng_nm":18,"alt_fmsl":174,"id":"RY","rwy":"30","desc":"DME-ILS"}
+]
+}

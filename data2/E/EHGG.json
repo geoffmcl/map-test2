@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHGG","name":"Eelde","lat":53.12864731,"lon":6.58791630,"rwys":2,"ils":1,"elev":17,"index":3056586,"path":"e000n50/e006n53"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":53.11108300,"lon1":6.56089700,"rwy2":"23","lat2":53.12495600,"lon2":6.59026700},
+{"len_m":1499,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":53.11738600,"lon1":6.57685800,"rwy2":"19","lat2":53.13070600,"lon2":6.58026900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.55,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"DEL"},
+{"type":"GND","freq":121.7,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":53.10975300,"lon":6.55808900,"rng_nm":18,"alt_fmsl":17,"hdg":231.79,"id":"GRO","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":53.12233000,"lon":6.58760600,"rng_nm":15,"alt_fmsl":17,"id":"GRO","rwy":"23","desc":"GS","gs":3}
+]
+}

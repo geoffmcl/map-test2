@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENSO","name":"Stord Sorstokken","lat":59.79257578,"lon":5.34250971,"rwys":1,"ils":1,"elev":161,"index":3040625,"path":"e000n50/e005n59"
+,"runways":[
+{"len_m":1459,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":59.79727800,"lon1":5.33335300,"rwy2":"32","lat2":59.78657200,"lon2":5.34834700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.2,"desc":"INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":110.1,"lat":59.78950119,"lon":5.34271669,"rng_nm":18,"alt_fmsl":151,"id":"SRD","rwy":"14","desc":"LOC"}
+]
+}

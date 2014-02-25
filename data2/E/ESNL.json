@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNL","name":"Lycksele","lat":64.5495695,"lon":18.7140265,"rwys":1,"ils":2,"elev":705,"index":3253921,"path":"e010n60/e018n64"
+,"runways":[
+{"len_m":2000,"wid_m":29.87,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":64.55673100,"lon1":18.70146100,"rwy2":"32","lat2":64.54240800,"lon2":18.72659200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.22,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":64.54133300,"lon":18.72850000,"rng_nm":18,"alt_fmsl":705,"hdg":142.97,"id":"WL","rwy":"14","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.5,"lat":64.55794400,"lon":18.69933300,"rng_nm":18,"alt_fmsl":705,"id":"NL","rwy":"32","desc":"LOC"},
+{"type":"GS","freq":108.7,"lat":64.55416700,"lon":18.70911100,"rng_nm":10,"alt_fmsl":705,"id":"WL","rwy":"14","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":64.59991460,"lon":18.62558360,"rng_nm":0,"alt_fmsl":705,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.56316700,"lon":18.69013900,"rng_nm":0,"alt_fmsl":705,"id":"----","rwy":"14","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":64.54688900,"lon":18.71613900,"rng_nm":18,"alt_fmsl":705,"id":"NL","rwy":"32","desc":"DME-ILS"}
+]
+}

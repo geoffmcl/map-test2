@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBNM","name":"Namur","lat":50.48734700,"lon":4.76778300,"rwys":1,"ils":0,"elev":594,"index":3023643,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":813,"wid_m":77.11,"hdg":59,"surf":"Turf/grass","rwy1":"06L","lat1":50.48796642,"lon1":4.76555390,"rwy2":"24R","lat2":50.49171597,"lon2":4.77539147}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.9,"desc":"Brussels Radio"},
+{"type":"TWR","freq":121.3,"desc":"Charleroi Tower"},
+{"type":"APP","freq":133.12,"desc":"Charleroi Approach"}
+]
+,"ils":[
+]
+}

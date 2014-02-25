@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDCD","name":"Cottbus Drewitz","lat":51.89013425,"lon":14.53271325,"rwys":2,"ils":0,"elev":274,"index":3187578,"path":"e010n50/e014n51"
+,"runways":[
+{"len_m":2483,"wid_m":45.11,"hdg":68,"surf":"Concrete","rwy1":"07","lat1":51.88545800,"lon1":14.51515600,"rwy2":"25","lat2":51.89348900,"lon2":14.54881900},
+{"len_m":2000,"wid_m":49.99,"hdg":71,"surf":"Turf/grass","rwy1":"07L","lat1":51.88791600,"lon1":14.51967900,"rwy2":"25R","lat2":51.89367400,"lon2":14.54719900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":118.12,"desc":"DREWITZ INFO"}
+]
+,"ils":[
+]
+}

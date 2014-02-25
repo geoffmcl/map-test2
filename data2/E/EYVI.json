@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EYVI","name":"Vilnius Intl","lat":54.6341665,"lon":25.28579609,"rwys":1,"ils":2,"elev":646,"index":3367977,"path":"e020n50/e025n54"
+,"runways":[
+{"len_m":2505,"wid_m":49.99,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":54.62372880,"lon1":25.27854667,"rwy2":"20","lat2":54.64460419,"lon2":25.29304551}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":54.64849400,"lon":25.29572500,"rng_nm":18,"alt_fmsl":646,"hdg":21.88,"id":"IAV","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":54.61649700,"lon":25.27355000,"rng_nm":18,"alt_fmsl":646,"hdg":201.87,"id":"IBK","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":54.62665600,"lon":25.28274400,"rng_nm":10,"alt_fmsl":646,"id":"IAV","rwy":"02","desc":"GS","gs":2.67},
+{"type":"GS","freq":109.1,"lat":54.64140000,"lon":25.29282800,"rng_nm":10,"alt_fmsl":646,"id":"IBK","rwy":"20","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":54.61600600,"lon":25.27323300,"rng_nm":0,"alt_fmsl":646,"id":"----","rwy":"02","desc":"MM"},
+{"type":"MM","freq":0,"lat":54.68160300,"lon":25.31870600,"rng_nm":0,"alt_fmsl":646,"id":"----","rwy":"20","desc":"MM"},
+{"type":"DME","freq":109.1,"lat":54.64140000,"lon":25.29282500,"rng_nm":18,"alt_fmsl":651,"id":"IBK","rwy":"20","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPKK","name":"Balice","lat":50.07330100,"lon":19.78722700,"rwys":1,"ils":1,"elev":791,"index":3269379,"path":"e010n50/e019n50"
+,"runways":[
+{"len_m":2549,"wid_m":60.05,"hdg":77,"surf":"Concrete","rwy1":"07","lat1":50.07539747,"lon1":19.76809501,"rwy2":"25","lat2":50.08024453,"lon2":19.80291099}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"KRAKOW DELIVERY"},
+{"type":"TWR","freq":123.25,"desc":"KRAKOW TWR"},
+{"type":"APP","freq":124.05,"desc":"KRAKOW DIRECTOR"},
+{"type":"APP","freq":121.07,"desc":"KRAKOW APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":50.07491700,"lon":19.76468600,"rng_nm":18,"alt_fmsl":791,"hdg":257.73,"id":"KRW","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":50.08055800,"lon":19.79524700,"rng_nm":10,"alt_fmsl":791,"id":"KRW","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.09569700,"lon":19.91268900,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.08190600,"lon":19.81451900,"rng_nm":0,"alt_fmsl":791,"id":"----","rwy":"25","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":50.08055800,"lon":19.79524700,"rng_nm":18,"alt_fmsl":827,"id":"KRW","rwy":"25","desc":"DME-ILS"}
+]
+}

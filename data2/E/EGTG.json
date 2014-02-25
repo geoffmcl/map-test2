@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGTG","name":"Bristol Filton","lat":51.52212642,"lon":-2.57754895,"rwys":1,"ils":1,"elev":225,"index":2909025,"path":"w010n50/w003n51"
+,"runways":[
+{"len_m":2438,"wid_m":91.14,"hdg":89,"surf":"Concrete","rwy1":"09","lat1":51.51937087,"lon1":-2.60792771,"rwy2":"27","lat2":51.51948233,"lon2":-2.57279867}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.35,"desc":"Filton Tower"},
+{"type":"APP","freq":122.72,"desc":"Filton Approach"},
+{"type":"APP","freq":127.95,"desc":"Filton Director"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":51.51948600,"lon":-2.57132800,"rng_nm":18,"alt_fmsl":226,"hdg":89.72,"id":"IBRF","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.55,"lat":51.51937500,"lon":-2.61037500,"rng_nm":18,"alt_fmsl":225,"hdg":269.72,"id":"IFB","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":51.52047800,"lon":-2.60240000,"rng_nm":10,"alt_fmsl":225,"id":"IBRF","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":110.55,"lat":51.51838300,"lon":-2.58106700,"rng_nm":10,"alt_fmsl":225,"id":"IFB","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":110.55,"lat":51.52078100,"lon":-2.59125800,"rng_nm":18,"alt_fmsl":225,"id":"IBRF","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":110.55,"lat":51.52078100,"lon":-2.59125800,"rng_nm":18,"alt_fmsl":225,"id":"IFB","rwy":"27","desc":"DME-ILS"}
+]
+}

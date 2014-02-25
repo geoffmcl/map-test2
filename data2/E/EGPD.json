@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPD","name":"Aberdeen Dyce","lat":57.20537342,"lon":-2.20600315,"rwys":4,"ils":1,"elev":215,"index":2909387,"path":"w010n50/w003n57"
+,"runways":[
+{"len_m":1833,"wid_m":46.02,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":57.20956900,"lon1":-2.20342800,"rwy2":"34","lat2":57.19428600,"lon2":-2.19215000},
+{"len_m":580,"wid_m":35.97,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":57.20313300,"lon1":-2.20088300,"rwy2":"32","lat2":57.19919200,"lon2":-2.19459400},
+{"len_m":474,"wid_m":46.02,"hdg":46,"surf":"Concrete","rwy1":"05","lat1":57.20411100,"lon1":-2.20163300,"rwy2":"23","lat2":57.20705000,"lon2":-2.19593900},
+{"len_m":273,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":57.20704841,"lon1":-2.20177721,"rwy2":"36","lat2":57.20459400,"lon2":-2.20173600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"Aberdeen Ground"},
+{"type":"TWR","freq":118.1,"desc":"Aberdeen Tower"},
+{"type":"APP","freq":119.05,"desc":"Aberdeen Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":57.19034400,"lon":-2.18924200,"rng_nm":18,"alt_fmsl":215,"hdg":158.22,"id":"IAX","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":57.21202200,"lon":-2.20524200,"rng_nm":18,"alt_fmsl":215,"hdg":338.20,"id":"IABD","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":57.20706400,"lon":-2.19918600,"rng_nm":10,"alt_fmsl":215,"id":"IAX","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":57.19782800,"lon":-2.19238900,"rng_nm":10,"alt_fmsl":215,"id":"IABD","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":57.20120800,"lon":-2.20066100,"rng_nm":18,"alt_fmsl":215,"id":"IAX","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":57.20120800,"lon":-2.20066100,"rng_nm":18,"alt_fmsl":215,"id":"IABD","rwy":"34","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPDA","name":"Darlowo","lat":54.40529356,"lon":16.35127053,"rwys":1,"ils":0,"elev":9,"index":3220505,"path":"e010n50/e016n54"
+,"runways":[
+{"len_m":593,"wid_m":29.87,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":54.40286796,"lon1":16.34994266,"rwy2":"22","lat2":54.40678536,"lon2":16.35615210}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":28.35,"hdg":16,"surf":"Concrete","lat1":54.41917797,"lon1":16.36286500},
+{"rwy1":"H5","len_m":27,"wid_m":28.35,"hdg":16,"surf":"Concrete","lat1":54.41948891,"lon1":16.36357893}
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"DARLOWO INFO"},
+{"type":"TWR","freq":129.5,"desc":"DARLOWO TOWER"},
+{"type":"APP","freq":133,"desc":"DARLOWO APPROACH"}
+]
+,"ils":[
+]
+}

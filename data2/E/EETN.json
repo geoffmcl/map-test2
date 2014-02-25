@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EETN","name":"Tallinn","lat":59.4132565,"lon":24.832803,"rwys":1,"ils":2,"elev":131,"index":3351899,"path":"e020n50/e024n59"
+,"runways":[
+{"len_m":3065,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":59.41331900,"lon1":24.80581400,"rwy2":"26","lat2":59.41319400,"lon2":24.85979200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.87,"desc":"ATIS"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"APP","freq":127.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":59.41313900,"lon":24.87302800,"rng_nm":18,"alt_fmsl":131,"hdg":90.33,"id":"IIB","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":59.41333300,"lon":24.80097200,"rng_nm":18,"alt_fmsl":131,"hdg":270.24,"id":"ILK","rwy":"26","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.7,"lat":59.41441700,"lon":24.81630600,"rng_nm":10,"alt_fmsl":131,"id":"IIB","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":59.41186100,"lon":24.85430600,"rng_nm":10,"alt_fmsl":131,"id":"ILK","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":59.41388900,"lon":24.60677800,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.41302800,"lon":24.92513900,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.41336100,"lon":24.80052800,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.41313900,"lon":24.87652800,"rng_nm":0,"alt_fmsl":131,"id":"----","rwy":"26","desc":"MM"}
+]
+}

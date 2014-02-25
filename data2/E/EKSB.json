@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKSB","name":"Sonderborg","lat":54.96282918,"lon":9.79402345,"rwys":1,"ils":1,"elev":24,"index":3105851,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":1796,"wid_m":29.87,"hdg":139,"surf":"Asphalt","rwy1":"14","lat1":54.96895279,"lon1":9.78488889,"rwy2":"32","lat2":54.95670556,"lon2":9.80315800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.4,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":54.96992200,"lon":9.78344200,"rng_nm":18,"alt_fmsl":24,"hdg":319.41,"id":"CIM","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":54.95810600,"lon":9.79860300,"rng_nm":10,"alt_fmsl":24,"id":"CIM","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":111.15,"lat":54.95816400,"lon":9.79861900,"rng_nm":18,"alt_fmsl":24,"id":"CIM","rwy":"32","desc":"DME-ILS"}
+]
+}

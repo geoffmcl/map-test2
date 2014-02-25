@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWJ","name":"Juist","lat":53.68289878,"lon":7.05634078,"rwys":3,"ils":0,"elev":8,"index":3073000,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":702,"wid_m":20.12,"hdg":76,"surf":"Concrete","rwy1":"08","lat1":53.68146546,"lon1":7.05344708,"rwy2":"26","lat2":53.68296774,"lon2":7.06377390},
+{"len_m":476,"wid_m":29.87,"hdg":107,"surf":"Turf/grass","rwy1":"12","lat1":53.68155022,"lon1":7.05708125,"rwy2":"30","lat2":53.68022971,"lon2":7.06394305},
+{"len_m":350,"wid_m":29.87,"hdg":79,"surf":"Turf/grass","rwy1":"08R","lat1":53.68022943,"lon1":7.05787054,"rwy2":"26L","lat2":53.68082432,"lon2":7.06307200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.5,"desc":"Juist INFO"}
+]
+,"ils":[
+]
+}

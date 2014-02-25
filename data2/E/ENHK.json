@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENHK","name":"Hasvik","lat":70.486286,"lon":22.141839,"rwys":1,"ils":1,"elev":21,"index":3319832,"path":"e020n70/e022n70"
+,"runways":[
+{"len_m":969,"wid_m":29.87,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":70.48838300,"lon1":22.13045300,"rwy2":"29","lat2":70.48418900,"lon2":22.15322500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":111.5,"lat":70.48667200,"lon":22.13611900,"rng_nm":18,"alt_fmsl":48,"id":"VK","rwy":"29","desc":"LOC"}
+]
+}

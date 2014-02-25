@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENLI","name":"Lista","lat":58.0997095,"lon":6.6260195,"rwys":1,"ils":1,"elev":29,"index":3056898,"path":"e000n50/e006n58"
+,"runways":[
+{"len_m":2989,"wid_m":45.11,"hdg":131,"surf":"Concrete","rwy1":"14","lat1":58.10853600,"lon1":6.60692200,"rwy2":"32","lat2":58.09088300,"lon2":6.64511700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.45,"desc":"AFIS"},
+{"type":"TWR","freq":118.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":58.09032200,"lon":6.64632800,"rng_nm":18,"alt_fmsl":48,"hdg":131.19,"id":"LI","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":58.10658600,"lon":6.61495600,"rng_nm":10,"alt_fmsl":29,"id":"LI","rwy":"14","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":58.11289700,"lon":6.59746900,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"14","desc":"MM"}
+]
+}

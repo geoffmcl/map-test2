@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENSG","name":"Sogndal Haukasen","lat":61.15579166,"lon":7.13627777,"rwys":1,"ils":2,"elev":1633,"index":3073480,"path":"e000n60/e007n61"
+,"runways":[
+{"len_m":1110,"wid_m":27.43,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":61.15325000,"lon1":7.12741111,"rwy2":"24","lat2":61.15833333,"lon2":7.14514444}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":61.15673889,"lon":7.14304722,"rng_nm":18,"alt_fmsl":1633,"hdg":235.28,"id":"SG","rwy":"24","desc":"ILS-cat-I"},
+{"type":"LOC","freq":108.5,"lat":61.15528889,"lon":7.13071111,"rng_nm":18,"alt_fmsl":1633,"id":"SGD","rwy":"06","desc":"LOC"},
+{"type":"GS","freq":108.1,"lat":61.15748611,"lon":7.13940833,"rng_nm":10,"alt_fmsl":1633,"id":"SG","rwy":"24","desc":"GS","gs":4},
+{"type":"DME","freq":108.5,"lat":61.15542222,"lon":7.13083056,"rng_nm":18,"alt_fmsl":1643,"id":"SGD","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":108.1,"lat":61.15662778,"lon":7.14315833,"rng_nm":18,"alt_fmsl":1677,"id":"SG","rwy":"24","desc":"DME-ILS"}
+]
+}

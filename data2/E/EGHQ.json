@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGHQ","name":"Newquay","lat":50.44075878,"lon":-4.99533419,"rwys":1,"ils":1,"elev":389,"index":2876184,"path":"w010n50/w005n50"
+,"runways":[
+{"len_m":2751,"wid_m":45.11,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":50.44703900,"lon1":-5.01201400,"rwy2":"30","lat2":50.43447856,"lon2":-4.97865439}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"Newquay Information"},
+{"type":"GND","freq":121.95,"desc":"Newquay Ground"},
+{"type":"TWR","freq":127.92,"desc":"Newquay Radar"},
+{"type":"TWR","freq":134.37,"desc":"Newquay Tower"},
+{"type":"APP","freq":133.4,"desc":"Newquay Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":50.44951400,"lon":-5.01861100,"rng_nm":18,"alt_fmsl":390,"hdg":300.58,"id":"ISM","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":50.43696100,"lon":-4.98147200,"rng_nm":10,"alt_fmsl":390,"id":"ISM","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.39033300,"lon":-4.86188100,"rng_nm":0,"alt_fmsl":390,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.42998600,"lon":-4.96677800,"rng_nm":0,"alt_fmsl":390,"id":"----","rwy":"30","desc":"MM"}
+]
+}

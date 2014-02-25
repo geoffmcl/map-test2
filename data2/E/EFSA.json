@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFSA","name":"Savonlinna","lat":61.94363800,"lon":28.93176500,"rwys":1,"ils":1,"elev":311,"index":3417595,"path":"e020n60/e028n61"
+,"runways":[
+{"len_m":2299,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":61.94908100,"lon1":28.92733900,"rwy2":"30","lat2":61.93704400,"lon2":28.96292800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":61.93489700,"lon":28.96926400,"rng_nm":18,"alt_fmsl":311,"hdg":125.75,"id":"SA","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":61.94638900,"lon":28.93132500,"rng_nm":10,"alt_fmsl":311,"id":"SA","rwy":"12","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":61.95601100,"lon":28.90643900,"rng_nm":0,"alt_fmsl":311,"id":"----","rwy":"12","desc":"MM"}
+]
+}

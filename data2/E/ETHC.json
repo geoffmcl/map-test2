@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETHC","name":"Celle","lat":52.5911985,"lon":10.0221335,"rwys":1,"ils":0,"elev":129,"index":3122080,"path":"e010n50/e010n52"
+,"runways":[
+{"len_m":1830,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":52.58987500,"lon1":10.00880300,"rwy2":"26","lat2":52.59252200,"lon2":10.03546400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":130.5,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

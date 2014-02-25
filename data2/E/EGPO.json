@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPO","name":"Stornoway","lat":58.21434912,"lon":-6.32548960,"rwys":2,"ils":1,"elev":26,"index":2843914,"path":"w010n50/w007n58"
+,"runways":[
+{"len_m":2074,"wid_m":46.02,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":58.22432500,"lon1":-6.33272500,"rwy2":"36","lat2":58.20579200,"lon2":-6.32920300},
+{"len_m":1092,"wid_m":22.86,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":58.21147198,"lon1":-6.33826669,"rwy2":"25","lat2":58.21639400,"lon2":-6.32218900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"Stornoway Tower"},
+{"type":"APP","freq":123.5,"desc":"Stornoway Approach"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":58.20365800,"lon":-6.33297500,"rng_nm":18,"alt_fmsl":26,"id":"STW","rwy":"18","desc":"LOC"},
+{"type":"LOC","freq":110.9,"lat":58.22567800,"lon":-6.33297500,"rng_nm":18,"alt_fmsl":26,"id":"SOY","rwy":"36","desc":"LOC"},
+{"type":"DME","freq":110.9,"lat":58.21515600,"lon":-6.32910300,"rng_nm":18,"alt_fmsl":26,"id":"STW","rwy":"18","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":58.21515600,"lon":-6.32910300,"rng_nm":18,"alt_fmsl":26,"id":"SOY","rwy":"36","desc":"DME-ILS"}
+]
+}

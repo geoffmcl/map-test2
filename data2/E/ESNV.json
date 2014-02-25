@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNV","name":"Vilhelmina","lat":64.579082,"lon":16.833575,"rwys":1,"ils":1,"elev":1140,"index":3221153,"path":"e010n60/e016n64"
+,"runways":[
+{"len_m":1501,"wid_m":29.87,"hdg":103,"surf":"Asphalt","rwy1":"10","lat1":64.58061700,"lon1":16.81831700,"rwy2":"28","lat2":64.57754700,"lon2":16.84883300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.55,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":64.58091700,"lon":16.81527800,"rng_nm":18,"alt_fmsl":1140,"hdg":283.15,"id":"INV","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":64.57938900,"lon":16.83866700,"rng_nm":10,"alt_fmsl":1140,"id":"INV","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":64.56013900,"lon":17.03227800,"rng_nm":0,"alt_fmsl":1140,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.57591700,"lon":16.86525000,"rng_nm":0,"alt_fmsl":1140,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":64.58086100,"lon":16.83188900,"rng_nm":18,"alt_fmsl":1191,"id":"INV","rwy":"28","desc":"DME-ILS"}
+]
+}

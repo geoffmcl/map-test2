@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENFL","name":"Floro","lat":61.58546125,"lon":5.02526228,"rwys":1,"ils":1,"elev":37,"index":3040736,"path":"e000n60/e005n61"
+,"runways":[
+{"len_m":1263,"wid_m":29.87,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":61.58079700,"lon1":5.00741400,"rwy2":"25","lat2":61.58450800,"lon2":5.02988900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"AFIS"},
+{"type":"TWR","freq":121.85,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":108.9,"lat":61.58480600,"lon":5.03169700,"rng_nm":18,"alt_fmsl":37,"id":"FL","rwy":"07","desc":"LOC"},
+{"type":"MM","freq":0,"lat":61.57820000,"lon":4.99168300,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"07","desc":"MM"}
+]
+}

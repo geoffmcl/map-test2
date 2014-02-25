@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPN","name":"Dundee","lat":56.45393257,"lon":-3.01592516,"rwys":1,"ils":1,"elev":17,"index":2892955,"path":"w010n50/w004n56"
+,"runways":[
+{"len_m":1399,"wid_m":29.87,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":56.45246475,"lon1":-3.03718104,"rwy2":"27","lat2":56.45235525,"lon2":-3.01447800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"Dundee Tower"},
+{"type":"APP","freq":122.9,"desc":"Dundee Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":56.45233900,"lon":-3.01184200,"rng_nm":18,"alt_fmsl":17,"hdg":90.53,"id":"IDDE","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":56.45326368,"lon":-3.03220472,"rng_nm":10,"alt_fmsl":17,"id":"IDDE","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":56.44833100,"lon":-3.17001700,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"09","desc":"OM"},
+{"type":"DME","freq":108.1,"lat":56.45233900,"lon":-3.01184200,"rng_nm":18,"alt_fmsl":38,"id":"IDDE","rwy":"09","desc":"DME-ILS"}
+]
+}

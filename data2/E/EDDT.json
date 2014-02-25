@@ -1,0 +1,39 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDDT","name":"Berlin Tegel","lat":52.55463000,"lon":13.29331000,"rwys":2,"ils":4,"elev":122,"index":3171233,"path":"e010n50/e013n52"
+,"runways":[
+{"len_m":3021,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08L","lat1":52.55764000,"lon1":13.26576000,"rwy2":"26R","lat2":52.56195000,"lon2":13.30975000},
+{"len_m":2421,"wid_m":46.02,"hdg":80,"surf":"Asphalt","rwy1":"08R","lat1":52.55668000,"lon1":13.27499000,"rwy2":"26L","lat2":52.56013000,"lon2":13.31025000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Concrete","lat1":52.56144400,"lon1":13.27527300},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Concrete","lat1":52.55670700,"lon1":13.29304300}
+]
+,"radios":[
+{"type":"ATIS","freq":125.9,"desc":"Berlin Tegel ATIS"},
+{"type":"GND","freq":121.92,"desc":"Tegel Delivery"},
+{"type":"GND","freq":121.75,"desc":"Tegel Ground (when Delivery is in use)"},
+{"type":"TWR","freq":124.52,"desc":"Tegel Tower"},
+{"type":"APP","freq":121.12,"desc":"Berlin Director"},
+{"type":"APP","freq":126.42,"desc":"Bremen Radar (Berlin Arrival South)"},
+{"type":"APP","freq":119.7,"desc":"Bremen Radar (Berlin Arrival)"},
+{"type":"DEP","freq":120.62,"desc":"Bremen Radar (Berlin Departure)"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":52.56257500,"lon":13.31606900,"rng_nm":18,"alt_fmsl":111,"hdg":80.85,"id":"ITLE","rwy":"08L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":52.56055800,"lon":13.31459200,"rng_nm":18,"alt_fmsl":109,"hdg":80.87,"id":"ITGE","rwy":"08R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":52.55615800,"lon":13.26970600,"rng_nm":18,"alt_fmsl":121,"hdg":260.83,"id":"ITGW","rwy":"26L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":52.55723300,"lon":13.26159400,"rng_nm":18,"alt_fmsl":118,"hdg":260.83,"id":"ITLW","rwy":"26R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":52.55915600,"lon":13.27007500,"rng_nm":10,"alt_fmsl":111,"id":"ITLE","rwy":"08L","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":52.55617200,"lon":13.28092200,"rng_nm":10,"alt_fmsl":109,"id":"ITGE","rwy":"08R","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":52.55825300,"lon":13.30218600,"rng_nm":10,"alt_fmsl":121,"id":"ITGW","rwy":"26L","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":52.56259400,"lon":13.30512800,"rng_nm":10,"alt_fmsl":118,"id":"ITLW","rwy":"26R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":52.54505800,"lon":13.15103900,"rng_nm":0,"alt_fmsl":122,"id":"----","rwy":"08L","desc":"OM"},
+{"type":"OM","freq":0,"lat":52.54505800,"lon":13.15103900,"rng_nm":0,"alt_fmsl":122,"id":"----","rwy":"08R","desc":"OM"},
+{"type":"OM","freq":0,"lat":52.57230800,"lon":13.42616100,"rng_nm":0,"alt_fmsl":122,"id":"----","rwy":"26L","desc":"OM"},
+{"type":"OM","freq":0,"lat":52.57230800,"lon":13.42616100,"rng_nm":0,"alt_fmsl":122,"id":"----","rwy":"26R","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.55628600,"lon":13.25196700,"rng_nm":0,"alt_fmsl":111,"id":"----","rwy":"08L","desc":"MM"},
+{"type":"MM","freq":0,"lat":52.55526900,"lon":13.26062500,"rng_nm":0,"alt_fmsl":109,"id":"----","rwy":"08R","desc":"MM"},
+{"type":"MM","freq":0,"lat":52.56116400,"lon":13.32080600,"rng_nm":0,"alt_fmsl":121,"id":"----","rwy":"26L","desc":"MM"},
+{"type":"MM","freq":0,"lat":52.56274400,"lon":13.32301400,"rng_nm":0,"alt_fmsl":118,"id":"----","rwy":"26R","desc":"MM"}
+]
+}

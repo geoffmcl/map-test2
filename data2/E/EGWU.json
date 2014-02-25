@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGWU","name":"Raf Northolt","lat":51.54932629,"lon":-0.41521648,"rwys":1,"ils":1,"elev":124,"index":2941794,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":1690,"wid_m":46.02,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":51.55005794,"lon1":-0.43101945,"rwy2":"25","lat2":51.55533406,"lon2":-0.40816655}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.90,"hdg":0,"surf":"Concrete","lat1":51.55077089,"lon1":-0.41711254},
+{"rwy1":"H2","len_m":18,"wid_m":18.90,"hdg":0,"surf":"Concrete","lat1":51.55062650,"lon1":-0.41496652},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":0,"surf":"Concrete","lat1":51.55594072,"lon1":-0.41450113},
+{"rwy1":"H4","len_m":20,"wid_m":20.12,"hdg":0,"surf":"Concrete","lat1":51.55601443,"lon1":-0.41416525},
+{"rwy1":"H5","len_m":20,"wid_m":20.12,"hdg":0,"surf":"Concrete","lat1":51.55609182,"lon1":-0.41382740}
+]
+,"radios":[
+{"type":"ATIS","freq":125.12,"desc":"Northolt Information"},
+{"type":"TWR","freq":120.67,"desc":"Northolt Tower"},
+{"type":"APP","freq":126.45,"desc":"Northolt Approach"},
+{"type":"DEP","freq":129.12,"desc":"Northolt Departures"}
+]
+,"ils":[
+{"type":"ILS","freq":108.55,"lat":51.54972500,"lon":-0.43264400,"rng_nm":18,"alt_fmsl":124,"hdg":249.76,"id":"INHT","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.55,"lat":51.55350000,"lon":-0.41044400,"rng_nm":10,"alt_fmsl":124,"id":"INHT","rwy":"25","desc":"GS","gs":3.5},
+{"type":"DME","freq":108.55,"lat":51.55350000,"lon":-0.41044400,"rng_nm":18,"alt_fmsl":124,"id":"INHT","rwy":"25","desc":"DME-ILS"}
+]
+}

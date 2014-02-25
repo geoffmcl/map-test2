@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGJB","name":"Guernsey","lat":49.43271567,"lon":-2.59793396,"rwys":1,"ils":1,"elev":336,"index":2908889,"path":"w010n40/w003n49"
+,"runways":[
+{"len_m":1452,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":49.43467800,"lon1":-2.61197500,"rwy2":"27","lat2":49.43523100,"lon2":-2.59196400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"Guernsey Ground"},
+{"type":"TWR","freq":119.95,"desc":"Guernsey Tower"},
+{"type":"APP","freq":128.65,"desc":"Guernsey Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":49.43528100,"lon":-2.59000000,"rng_nm":18,"alt_fmsl":336,"hdg":87.59,"id":"IUY","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.1,"lat":49.43451100,"lon":-2.61445400,"rng_nm":18,"alt_fmsl":336,"hdg":267.57,"id":"IGH","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":49.43576900,"lon":-2.60811700,"rng_nm":10,"alt_fmsl":336,"id":"IUY","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":108.1,"lat":49.43415300,"lon":-2.59519700,"rng_nm":10,"alt_fmsl":336,"id":"IGH","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":108.1,"lat":49.43630000,"lon":-2.60205800,"rng_nm":18,"alt_fmsl":336,"id":"IGH","rwy":"27","desc":"DME-ILS"}
+]
+}

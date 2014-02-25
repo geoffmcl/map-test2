@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKK","name":"Kruunupyy","lat":63.71908800,"lon":23.13401600,"rwys":2,"ils":1,"elev":83,"index":3335784,"path":"e020n60/e023n63"
+,"runways":[
+{"len_m":2499,"wid_m":60.05,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":63.70784700,"lon1":23.13815800,"rwy2":"19","lat2":63.72988600,"lon2":23.14750000},
+{"len_m":699,"wid_m":20.12,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":63.72363900,"lon1":23.13008100,"rwy2":"29","lat2":63.72118600,"lon2":23.14311400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.02,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":120.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":63.70530600,"lon":23.13708300,"rng_nm":18,"alt_fmsl":83,"hdg":190.62,"id":"KK","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":63.72727500,"lon":23.14379200,"rng_nm":10,"alt_fmsl":83,"id":"KK","rwy":"19","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":63.72727500,"lon":23.14379200,"rng_nm":18,"alt_fmsl":83,"id":"KK","rwy":"19","desc":"DME-ILS"}
+]
+}

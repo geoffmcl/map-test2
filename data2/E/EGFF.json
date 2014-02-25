@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGFF","name":"Cardiff","lat":51.39885242,"lon":-3.34066894,"rwys":1,"ils":1,"elev":220,"index":2892634,"path":"w010n50/w004n51"
+,"runways":[
+{"len_m":2392,"wid_m":39.93,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":51.40140811,"lon1":-3.35854787,"rwy2":"30","lat2":51.39172139,"lon2":-3.32785582}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.48,"desc":"Cardiff Information"},
+{"type":"GND","freq":125.85,"desc":"Cardiff Radar"},
+{"type":"TWR","freq":133.1,"desc":"Cardiff Tower"},
+{"type":"APP","freq":119.15,"desc":"Cardiff Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":51.39123300,"lon":-3.32631900,"rng_nm":18,"alt_fmsl":220,"hdg":116.85,"id":"ICDF","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":51.40198600,"lon":-3.36038100,"rng_nm":18,"alt_fmsl":220,"hdg":296.82,"id":"ICWA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":51.40029700,"lon":-3.35087200,"rng_nm":10,"alt_fmsl":220,"id":"ICDF","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":51.39235300,"lon":-3.33465800,"rng_nm":10,"alt_fmsl":220,"id":"ICWA","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":51.39883100,"lon":-3.34063300,"rng_nm":18,"alt_fmsl":281,"id":"ICDF","rwy":"12","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":51.39883100,"lon":-3.34063300,"rng_nm":18,"alt_fmsl":220,"id":"ICWA","rwy":"30","desc":"DME-ILS"}
+]
+}

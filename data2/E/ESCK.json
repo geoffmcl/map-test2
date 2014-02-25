@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESCK","name":"Bravalla","lat":58.6108905,"lon":16.103525,"rwys":1,"ils":0,"elev":90,"index":3220768,"path":"e010n50/e016n58"
+,"runways":[
+{"len_m":2250,"wid_m":38.10,"hdg":147,"surf":"Asphalt","rwy1":"15","lat1":58.61943900,"lon1":16.09320600,"rwy2":"33","lat2":58.60234200,"lon2":16.11384400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"INFO"},
+{"type":"TWR","freq":130.3,"desc":"INFO"},
+{"type":"APP","freq":132.95,"desc":"OSTGOTA APP"}
+]
+,"ils":[
+]
+}

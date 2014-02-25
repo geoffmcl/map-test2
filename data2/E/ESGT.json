@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESGT","name":"Trollhattan Vanersborg","lat":58.31749700,"lon":12.35053900,"rwys":1,"ils":1,"elev":137,"index":3155217,"path":"e010n50/e012n58"
+,"runways":[
+{"len_m":1709,"wid_m":29.87,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":58.32423100,"lon1":12.33661900,"rwy2":"33","lat2":58.31149200,"lon2":12.35289700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.72,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":58.32638900,"lon":12.33386100,"rng_nm":18,"alt_fmsl":137,"hdg":326.13,"id":"TRH","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":58.31441700,"lon":12.34722200,"rng_nm":10,"alt_fmsl":137,"id":"TRH","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":58.26321793,"lon":12.41446686,"rng_nm":0,"alt_fmsl":134,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.30472200,"lon":12.36152800,"rng_nm":0,"alt_fmsl":137,"id":"----","rwy":"33","desc":"MM"}
+]
+}

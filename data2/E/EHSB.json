@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHSB","name":"Soesterberg","lat":52.12820400,"lon":5.27648300,"rwys":1,"ils":1,"elev":66,"index":3040137,"path":"e000n50/e005n52"
+,"runways":[
+{"len_m":3087,"wid_m":45.11,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":52.12748300,"lon1":5.25394700,"rwy2":"27","lat2":52.12692500,"lon2":5.29901900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.92,"desc":"TWR"},
+{"type":"APP","freq":123.57,"desc":"RAPCON WEST"}
+]
+,"ils":[
+{"type":"ILS","freq":108.55,"lat":52.12750000,"lon":5.25277800,"rng_nm":18,"alt_fmsl":66,"hdg":271.14,"id":"SBO","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.55,"lat":52.12630000,"lon":5.28694200,"rng_nm":15,"alt_fmsl":66,"id":"SBO","rwy":"27","desc":"GS","gs":3}
+]
+}

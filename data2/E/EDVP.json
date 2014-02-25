@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDVP","name":"Peine Eddesse","lat":52.39940344,"lon":10.25114215,"rwys":1,"ils":0,"elev":265,"index":3122073,"path":"e010n50/e010n52"
+,"runways":[
+{"len_m":902,"wid_m":27.13,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":52.39861800,"lon1":10.24376886,"rwy2":"25","lat2":52.40138578,"lon2":10.25623114}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":10,"surf":"Asphalt","lat1":52.39826399,"lon1":10.24463345}
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"Eddesse INFO"}
+]
+,"ils":[
+]
+}

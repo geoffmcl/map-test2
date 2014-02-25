@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDLV","name":"Niederrhein","lat":51.6024555,"lon":6.142132,"rwys":1,"ils":1,"elev":106,"index":3056480,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":2439,"wid_m":45.11,"hdg":92,"surf":"Asphalt","rwy1":"09","lat1":51.60284400,"lon1":6.12453600,"rwy2":"27","lat2":51.60206700,"lon2":6.15972800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.45,"desc":"ATIS"},
+{"type":"TWR","freq":129.87,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":129.4,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"LANGEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":51.60293900,"lon":6.11830600,"rng_nm":18,"alt_fmsl":106,"hdg":271.93,"id":"INIW","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":51.60328600,"lon":6.15559400,"rng_nm":10,"alt_fmsl":106,"id":"INIW","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.59956700,"lon":6.26795800,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"27","desc":"OM"}
+]
+}

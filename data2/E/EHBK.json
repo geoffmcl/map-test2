@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHBK","name":"Maastricht","lat":50.91230400,"lon":5.76963900,"rwys":1,"ils":1,"elev":375,"index":3040059,"path":"e000n50/e005n50"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":50.90183600,"lon1":5.76005000,"rwy2":"21","lat2":50.92077500,"lon2":5.77922800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"ATIS"},
+{"type":"GND","freq":121.82,"desc":"BEEK GND"},
+{"type":"TWR","freq":119.47,"desc":"BEEK TWR"},
+{"type":"TWR","freq":119.7,"desc":"BEEK TWR"},
+{"type":"APP","freq":120.2,"desc":"BEEK APP"},
+{"type":"APP","freq":123.97,"desc":"BEEK APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":50.92205833,"lon":5.78053056,"rng_nm":18,"alt_fmsl":375,"hdg":32.57,"id":"BKZ","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.55,"lat":50.89909444,"lon":5.75727222,"rng_nm":18,"alt_fmsl":375,"hdg":212.55,"id":"BKN","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":50.90483889,"lon":5.76106389,"rng_nm":15,"alt_fmsl":375,"id":"BKZ","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":111.55,"lat":50.91725278,"lon":5.77363611,"rng_nm":15,"alt_fmsl":375,"id":"BKN","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":50.92205833,"lon":5.78053056,"rng_nm":18,"alt_fmsl":375,"id":"BKZ","rwy":"03","desc":"DME-ILS"},
+{"type":"DME","freq":111.55,"lat":50.92239722,"lon":5.77977500,"rng_nm":18,"alt_fmsl":375,"id":"BKN","rwy":"21","desc":"DME-ILS"}
+]
+}

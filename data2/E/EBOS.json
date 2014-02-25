@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBOS","name":"Oostende","lat":51.20396100,"lon":2.86861000,"rwys":1,"ils":2,"elev":13,"index":2990923,"path":"e000n50/e002n51"
+,"runways":[
+{"len_m":3213,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":51.19657229,"lon1":2.85266187,"rwy2":"26","lat2":51.20336087,"lon2":2.89735476}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"OOSTENDE GND"},
+{"type":"TWR","freq":118.17,"desc":"OOSTENDE TWR"},
+{"type":"APP","freq":120.6,"desc":"OOSTENDE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":51.20385800,"lon":2.90082400,"rng_nm":18,"alt_fmsl":13,"hdg":76.37,"id":"IMI","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":51.19597500,"lon":2.84889900,"rng_nm":18,"alt_fmsl":13,"hdg":256.37,"id":"IOS","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":51.19881900,"lon":2.86284100,"rng_nm":10,"alt_fmsl":13,"id":"IMI","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":51.20074400,"lon":2.88556100,"rng_nm":10,"alt_fmsl":13,"id":"IOS","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":51.19683300,"lon":2.86161100,"rng_nm":18,"alt_fmsl":13,"id":"IMI","rwy":"08","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:23:58 UTC"
+,"type":17,"icao":"EGHK","name":"[h] Penzance Heliport [h]","lat":50.12806962,"lon":-5.51803674,"rwys":1,"ils":0,"elev":13,"index":2859785,"path":"w010n50/w006n50"
+,"runways":[
+{"len_m":372,"wid_m":45.11,"hdg":79,"surf":"Turf/grass","rwy1":"08","lat1":50.12778600,"lon1":-5.52018300,"rwy2":"26","lat2":50.12838300,"lon2":-5.51505300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":31,"wid_m":31.09,"hdg":-5,"surf":"Asphalt","lat1":50.12805474,"lon1":-5.51845548}
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"Penzance Radio"}
+]
+,"ils":[
+]
+}

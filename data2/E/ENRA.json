@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENRA","name":"Mo I Rana Rossvoll","lat":66.36496000,"lon":14.30252400,"rwys":1,"ils":1,"elev":226,"index":3188496,"path":"e010n60/e014n66"
+,"runways":[
+{"len_m":843,"wid_m":29.87,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":66.36666892,"lon1":14.29539901,"rwy2":"32","lat2":66.36100708,"lon2":14.30789299}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":66.32761383,"lon":14.29438305,"rng_nm":50,"alt_fmsl":462,"id":"RA","rwy":"32","desc":"LOC"},
+{"type":"OM","freq":0,"lat":66.30716705,"lon":14.02554989,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":66.32743073,"lon":14.29473305,"rng_nm":0,"alt_fmsl":462,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":111.3,"lat":66.32741547,"lon":14.29461670,"rng_nm":50,"alt_fmsl":462,"id":"RA","rwy":"32","desc":"DME-ILS"}
+]
+}

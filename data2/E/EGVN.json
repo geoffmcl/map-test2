@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGVN","name":"Raf Brize Norton","lat":51.74717584,"lon":-1.58617234,"rwys":1,"ils":1,"elev":289,"index":2925417,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":3061,"wid_m":56.08,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":51.74606774,"lon1":-1.60420700,"rwy2":"26","lat2":51.75389026,"lon2":-1.56170978}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.72,"desc":"Brize Ground"},
+{"type":"TWR","freq":123.72,"desc":"Brize Tower"},
+{"type":"APP","freq":127.25,"desc":"Brize Approach"},
+{"type":"APP","freq":133.75,"desc":"Brize Director"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":51.75503900,"lon":-1.55541100,"rng_nm":18,"alt_fmsl":288,"hdg":73.48,"id":"BZA","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":51.74428300,"lon":-1.61394400,"rng_nm":18,"alt_fmsl":288,"hdg":253.43,"id":"BZB","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":51.74808600,"lon":-1.60002800,"rng_nm":10,"alt_fmsl":289,"id":"BZA","rwy":"08","desc":"GS","gs":3.2},
+{"type":"GS","freq":111.9,"lat":51.75207200,"lon":-1.56533600,"rng_nm":10,"alt_fmsl":289,"id":"BZB","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.72611900,"lon":-1.71416900,"rng_nm":0,"alt_fmsl":289,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":51.77628600,"lon":-1.43923300,"rng_nm":0,"alt_fmsl":289,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.74306400,"lon":-1.62056100,"rng_nm":0,"alt_fmsl":289,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":51.75613600,"lon":-1.54940300,"rng_nm":0,"alt_fmsl":289,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGTC","name":"Cranfield","lat":52.07027717,"lon":-0.62670345,"rwys":4,"ils":1,"elev":358,"index":2941825,"path":"w010n50/w001n52"
+,"runways":[
+{"len_m":1796,"wid_m":46.02,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":52.06524804,"lon1":-0.62357864,"rwy2":"21","lat2":52.07897800,"lon2":-0.60979700},
+{"len_m":617,"wid_m":17.98,"hdg":175,"surf":"Asphalt","rwy1":"18","lat1":52.07322499,"lon1":-0.62093323,"rwy2":"36","lat2":52.06769201,"lon2":-0.62022482},
+{"len_m":300,"wid_m":24.08,"hdg":31,"surf":"Turf/grass","rwy1":"03L","lat1":52.06910544,"lon1":-0.62410094,"rwy2":"21R","lat2":52.07140248,"lon2":-0.62179301},
+{"len_m":299,"wid_m":24.08,"hdg":175,"surf":"Turf/grass","rwy1":"18L","lat1":52.07239672,"lon1":-0.62264031,"rwy2":"36R","lat2":52.06971326,"lon2":-0.62226605}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.87,"desc":"Cranfield Departure Information"},
+{"type":"TWR","freq":122.85,"desc":"Cranfield Tower"},
+{"type":"TWR","freq":134.92,"desc":"Cranfield Tower"},
+{"type":"APP","freq":122.85,"desc":"Cranfield Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":52.06278100,"lon":-0.62605000,"rng_nm":18,"alt_fmsl":358,"hdg":211.66,"id":"ICR","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":52.07559200,"lon":-0.61109200,"rng_nm":10,"alt_fmsl":358,"id":"ICR","rwy":"21","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":52.08952500,"lon":-0.60023100,"rng_nm":0,"alt_fmsl":358,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":52.06278100,"lon":-0.62605000,"rng_nm":18,"alt_fmsl":358,"id":"ICR","rwy":"21","desc":"DME-ILS"}
+]
+}

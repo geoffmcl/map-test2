@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPJ","name":"Fife","lat":56.183787955,"lon":-3.2197455,"rwys":1,"ils":0,"elev":398,"index":2892939,"path":"w010n50/w004n56"
+,"runways":[
+{"len_m":689,"wid_m":17.98,"hdg":60,"surf":"Asphalt","rwy1":"07","lat1":56.18178600,"lon1":-3.22515000,"rwy2":"25","lat2":56.18478600,"lon2":-3.21544400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":-3,"surf":"Asphalt","lat1":56.18428991,"lon1":-3.21919400}
+]
+,"radios":[
+{"type":"TWR","freq":130.45,"desc":"Fife Radio"}
+]
+,"ils":[
+]
+}

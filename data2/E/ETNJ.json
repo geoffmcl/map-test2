@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETNJ","name":"Jever","lat":53.533583,"lon":7.8886665,"rwys":1,"ils":0,"elev":24,"index":3072995,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":2482,"wid_m":29.87,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":53.53583300,"lon1":7.87033300,"rwy2":"28","lat2":53.53133300,"lon2":7.90700000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.72,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"WITTMUND RADAR"},
+{"type":"APP","freq":123.6,"desc":"WITTMUND RADAR"}
+]
+,"ils":[
+]
+}

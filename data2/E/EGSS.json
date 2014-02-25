@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGSS","name":"London Stansted","lat":51.88530868,"lon":0.25441800,"rwys":1,"ils":1,"elev":348,"index":2958201,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":3056,"wid_m":46.02,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":51.87503185,"lon1":0.21986204,"rwy2":"22","lat2":51.89516180,"lon2":0.25006184}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.17,"desc":"Stansted Information"},
+{"type":"CLD","freq":121.95,"desc":"Stansted Delivery"},
+{"type":"GND","freq":121.72,"desc":"Stansted Ground"},
+{"type":"TWR","freq":123.8,"desc":"Stansted Tower"},
+{"type":"TWR","freq":125.55,"desc":"Stansted Tower"},
+{"type":"APP","freq":120.62,"desc":"Essex Radar"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":51.89705800,"lon":0.25289400,"rng_nm":18,"alt_fmsl":348,"hdg":42.80,"id":"ISED","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":51.87275300,"lon":0.21643100,"rng_nm":18,"alt_fmsl":348,"hdg":222.80,"id":"ISX","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":51.87785600,"lon":0.22164200,"rng_nm":10,"alt_fmsl":348,"id":"ISED","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":51.89388100,"lon":0.24555300,"rng_nm":10,"alt_fmsl":348,"id":"ISX","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":51.88592500,"lon":0.23361900,"rng_nm":18,"alt_fmsl":348,"id":"ISED","rwy":"04","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":51.88592500,"lon":0.23361900,"rng_nm":18,"alt_fmsl":348,"id":"ISX","rwy":"22","desc":"DME-ILS"}
+]
+}

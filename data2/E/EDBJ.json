@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDBJ","name":"Jena Schongleina","lat":50.9150875,"lon":11.713857,"rwys":2,"ils":0,"elev":1228,"index":3138362,"path":"e010n50/e011n50"
+,"runways":[
+{"len_m":1206,"wid_m":22.86,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":50.91007800,"lon1":11.71152500,"rwy2":"20","lat2":50.92024400,"lon2":11.71751400},
+{"len_m":610,"wid_m":30.48,"hdg":76,"surf":"Turf/grass","rwy1":"08","lat1":50.91435600,"lon1":11.70898100,"rwy2":"26","lat2":50.91567200,"lon2":11.71740800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.05,"desc":"INFO"}
+]
+,"ils":[
+]
+}

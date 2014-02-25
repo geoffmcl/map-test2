@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGYM","name":"Raf Marham","lat":52.64820766,"lon":0.56659090,"rwys":2,"ils":1,"elev":75,"index":2958250,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":2782,"wid_m":60.96,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":52.64120726,"lon1":0.53351168,"rwy2":"24","lat2":52.65539874,"lon2":0.56736832},
+{"len_m":1797,"wid_m":91.14,"hdg":8,"surf":"Concrete","rwy1":"01","lat1":52.63902333,"lon1":0.55567164,"rwy2":"19","lat2":52.65499867,"lon2":0.55964436}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Marham Tower"},
+{"type":"APP","freq":124.15,"desc":"Marham Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":52.63783300,"lon":0.52546900,"rng_nm":18,"alt_fmsl":75,"hdg":235.34,"id":"IMR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":52.65483100,"lon":0.56243100,"rng_nm":10,"alt_fmsl":75,"id":"IMR","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":52.70253100,"lon":0.68040800,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":52.66045800,"lon":0.57932200,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":110.75,"lat":52.63783300,"lon":0.52546900,"rng_nm":18,"alt_fmsl":75,"id":"IMR","rwy":"24","desc":"DME-ILS"}
+]
+}

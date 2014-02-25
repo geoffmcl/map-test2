@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFTU","name":"Turku","lat":60.51189400,"lon":22.27479200,"rwys":1,"ils":1,"elev":161,"index":3319201,"path":"e020n60/e022n60"
+,"runways":[
+{"len_m":2500,"wid_m":60.05,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":60.51310800,"lon1":22.24014700,"rwy2":"26","lat2":60.51512200,"lon2":22.28547800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.05,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":60.51291700,"lon":22.23586900,"rng_nm":18,"alt_fmsl":161,"hdg":264.82,"id":"TU","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":60.51597500,"lon":22.28029400,"rng_nm":10,"alt_fmsl":161,"id":"TU","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":60.51597500,"lon":22.28029400,"rng_nm":18,"alt_fmsl":200,"id":"TU","rwy":"26","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNO","name":"Ornskoldsvik","lat":63.41113300,"lon":18.99118600,"rwys":1,"ils":1,"elev":354,"index":3253849,"path":"e010n60/e018n63"
+,"runways":[
+{"len_m":2013,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":63.41398100,"lon1":18.97108300,"rwy2":"30","lat2":63.40451400,"lon2":19.00541400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.25,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":63.40380600,"lon":19.00800000,"rng_nm":18,"alt_fmsl":354,"hdg":121.64,"id":"NO","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":63.41363900,"lon":18.97702800,"rng_nm":10,"alt_fmsl":354,"id":"NO","rwy":"12","desc":"GS","gs":3.25},
+{"type":"DME","freq":110.1,"lat":63.41366700,"lon":18.97708300,"rng_nm":18,"alt_fmsl":349,"id":"NO","rwy":"12","desc":"DME-ILS"}
+]
+}

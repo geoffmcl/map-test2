@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBCF","name":"Cerfontaine","lat":50.15316657,"lon":4.38648706,"rwys":2,"ils":0,"elev":954,"index":3023625,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":802,"wid_m":20.12,"hdg":116,"surf":"Turf/grass","rwy1":"12L","lat1":50.15505423,"lon1":4.38201746,"rwy2":"30R","lat2":50.15185980,"lon2":4.39208700},
+{"len_m":717,"wid_m":29.87,"hdg":116,"surf":"Turf/grass","rwy1":"12R","lat1":50.15430376,"lon1":4.38142159,"rwy2":"30L","lat2":50.15144849,"lon2":4.39042218}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.88,"desc":"Cerfontaine Radio"}
+]
+,"ils":[
+]
+}

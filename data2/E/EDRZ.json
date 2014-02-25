@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDRZ","name":"Zweibrücken","lat":49.20882770,"lon":7.39559858,"rwys":1,"ils":2,"elev":3710,"index":3072713,"path":"e000n40/e007n49"
+,"runways":[
+{"len_m":2949,"wid_m":49.99,"hdg":30,"surf":"Asphalt","rwy1":"3","lat1":49.19804800,"lon1":7.39051830,"rwy2":"21","lat2":49.22099723,"lon2":7.41079981}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.52,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":123.82,"desc":"TWR"},
+{"type":"APP","freq":129.67,"desc":"LANGEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":49.19495600,"lon":7.38781100,"rng_nm":18,"alt_fmsl":1126,"hdg":209.97,"id":"IZWW","rwy":"21","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.35,"lat":49.22156100,"lon":7.41126700,"rng_nm":18,"alt_fmsl":3710,"hdg":29.97,"id":"IZWE","rwy":"3","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":49.21586400,"lon":7.40814400,"rng_nm":10,"alt_fmsl":1116,"id":"IZWW","rwy":"21","desc":"GS","gs":3},
+{"type":"GS","freq":108.35,"lat":49.20176700,"lon":7.39571400,"rng_nm":10,"alt_fmsl":3710,"id":"IZWE","rwy":"3","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.27567500,"lon":7.46015600,"rng_nm":0,"alt_fmsl":3710,"id":"----","rwy":"21","desc":"OM"},
+{"type":"OM","freq":0,"lat":49.14863300,"lon":7.34642200,"rng_nm":0,"alt_fmsl":3710,"id":"----","rwy":"3","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.22764200,"lon":7.41650000,"rng_nm":0,"alt_fmsl":3710,"id":"----","rwy":"21","desc":"MM"},
+{"type":"MM","freq":0,"lat":49.19313900,"lon":7.38619700,"rng_nm":0,"alt_fmsl":3710,"id":"----","rwy":"3","desc":"MM"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGWC","name":"Raf Cosford","lat":52.64199526,"lon":-2.31503225,"rwys":1,"ils":0,"elev":272,"index":2909098,"path":"w010n50/w003n52"
+,"runways":[
+{"len_m":1150,"wid_m":46.02,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":52.63780937,"lon1":-2.31238922,"rwy2":"24","lat2":52.64327363,"lon2":-2.29796541}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":128.65,"desc":"Cosford Ground"},
+{"type":"TWR","freq":128.65,"desc":"Cosford Tower"},
+{"type":"APP","freq":135.87,"desc":"Cosford Approach"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,41 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENGM","name":"Oslo Gardermoen","lat":60.19286148,"lon":11.09803992,"rwys":2,"ils":4,"elev":681,"index":3138952,"path":"e010n60/e011n60"
+,"runways":[
+{"len_m":3708,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"01L","lat1":60.18474752,"lon1":11.07368747,"rwy2":"19R","lat2":60.21675432,"lon2":11.09203368},
+{"len_m":3057,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"01R","lat1":60.17506763,"lon1":11.10757469,"rwy2":"19L","lat2":60.20145933,"lon2":11.12269658}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":11,"surf":"Concrete","lat1":60.21130349,"lon1":11.10103625},
+{"rwy1":"H2","len_m":34,"wid_m":32.00,"hdg":11,"surf":"Transparent","lat1":60.20778518,"lon1":11.08156107}
+]
+,"radios":[
+{"type":"ATIS","freq":127.15,"desc":"Gardermoen Departure Information"},
+{"type":"ATIS","freq":126.13,"desc":"Gardermoen Arrival Information"},
+{"type":"CLD","freq":121.6,"desc":"Gardermoen Delivery"},
+{"type":"GND","freq":121.67,"desc":"Gardermoen Ground"},
+{"type":"GND","freq":121.72,"desc":"Gardermoen Ground"},
+{"type":"GND","freq":121.92,"desc":"Gardermoen Ground"},
+{"type":"TWR","freq":118.3,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":118.7,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":120.1,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":123.32,"desc":"Gardermoen Tower"},
+{"type":"TWR","freq":121.5,"desc":"Gardermoen Tower"},
+{"type":"APP","freq":119.97,"desc":"Gardermoen APP Sector East"},
+{"type":"APP","freq":120.45,"desc":"Gardermoen APP Sector West"},
+{"type":"DEP","freq":131.35,"desc":"Gardermoen APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":60.21982500,"lon":11.09383300,"rng_nm":18,"alt_fmsl":709,"hdg":15.94,"id":"OBW","rwy":"01L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.95,"lat":60.20496900,"lon":11.12466100,"rng_nm":18,"alt_fmsl":723,"hdg":15.87,"id":"ONE","rwy":"01R","desc":"ILS-cat-III"},
+{"type":"ILS","freq":110.55,"lat":60.17199700,"lon":11.10561100,"rng_nm":18,"alt_fmsl":729,"hdg":196.08,"id":"GME","rwy":"19L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":60.18210300,"lon":11.07207500,"rng_nm":18,"alt_fmsl":727,"hdg":195.97,"id":"GSW","rwy":"19R","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.3,"lat":60.18778100,"lon":11.07305800,"rng_nm":10,"alt_fmsl":681,"id":"OBW","rwy":"01L","desc":"GS","gs":3},
+{"type":"GS","freq":111.95,"lat":60.17793600,"lon":11.11132800,"rng_nm":10,"alt_fmsl":681,"id":"ONE","rwy":"01R","desc":"GS","gs":3},
+{"type":"GS","freq":110.55,"lat":60.19813900,"lon":11.12300000,"rng_nm":10,"alt_fmsl":681,"id":"GME","rwy":"19L","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":60.21376400,"lon":11.08804400,"rng_nm":10,"alt_fmsl":681,"id":"GSW","rwy":"19R","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":60.18778600,"lon":11.07306100,"rng_nm":18,"alt_fmsl":709,"id":"OBW","rwy":"01L","desc":"DME-ILS"},
+{"type":"DME","freq":111.95,"lat":60.17794400,"lon":11.11133300,"rng_nm":18,"alt_fmsl":723,"id":"ONE","rwy":"01R","desc":"DME-ILS"},
+{"type":"DME","freq":110.55,"lat":60.19813100,"lon":11.12299700,"rng_nm":18,"alt_fmsl":729,"id":"GME","rwy":"19L","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":60.21375600,"lon":11.08803900,"rng_nm":18,"alt_fmsl":727,"id":"GSW","rwy":"19R","desc":"DME-ILS"}
+]
+}

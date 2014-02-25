@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETAR","name":"Ramstein Ab","lat":49.44398000,"lon":7.59036400,"rwys":2,"ils":3,"elev":781,"index":3072730,"path":"e000n40/e007n49"
+,"runways":[
+{"len_m":3199,"wid_m":45.11,"hdg":82,"surf":"Asphalt","rwy1":"08","lat1":49.43256100,"lon1":7.57882800,"rwy2":"26","lat2":49.43640800,"lon2":7.62254400},
+{"len_m":2817,"wid_m":45.11,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":49.43610000,"lon1":7.58092500,"rwy2":"27","lat2":49.43772200,"lon2":7.61969700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.77,"desc":"RAMSTEIN GND"},
+{"type":"TWR","freq":122.1,"desc":"RAMSTEIN TWR"},
+{"type":"TWR","freq":123.55,"desc":"RAMSTEIN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":49.43689400,"lon":7.62814700,"rng_nm":18,"alt_fmsl":762,"hdg":82.33,"id":"IRER","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":49.43206100,"lon":7.57322800,"rng_nm":18,"alt_fmsl":780,"hdg":262.26,"id":"IRWL","rwy":"26","desc":"ILS-cat-III"},
+{"type":"LOC","freq":111.5,"lat":49.43786700,"lon":7.62316900,"rng_nm":18,"alt_fmsl":773,"id":"IRST","rwy":"09","desc":"LOC"},
+{"type":"LOC","freq":110.5,"lat":49.43585300,"lon":7.57515600,"rng_nm":18,"alt_fmsl":756,"id":"IRMS","rwy":"27","desc":"LOC"},
+{"type":"GS","freq":108.95,"lat":49.43186400,"lon":7.58350600,"rng_nm":10,"alt_fmsl":757,"id":"IRER","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":49.43495300,"lon":7.61841900,"rng_nm":10,"alt_fmsl":772,"id":"IRWL","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":49.43495300,"lon":7.61841900,"rng_nm":18,"alt_fmsl":780,"id":"IRWL","rwy":"26","desc":"DME-ILS"}
+]
+}

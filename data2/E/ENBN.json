@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENBN","name":"Bronnoy","lat":65.46083944,"lon":12.21317681,"rwys":1,"ils":1,"elev":25,"index":3155672,"path":"e010n60/e012n65"
+,"runways":[
+{"len_m":1441,"wid_m":29.87,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":65.45406100,"lon1":12.20368600,"rwy2":"22","lat2":65.46410800,"lon2":12.22325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":111.15,"lat":65.46487200,"lon":12.22520600,"rng_nm":18,"alt_fmsl":69,"id":"BY","rwy":"04","desc":"LOC"}
+]
+}

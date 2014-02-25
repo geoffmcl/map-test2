@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESMO","name":"Oskarshamn","lat":57.3488375,"lon":16.497707,"rwys":1,"ils":1,"elev":96,"index":3220689,"path":"e010n50/e016n57"
+,"runways":[
+{"len_m":1504,"wid_m":29.87,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":57.34211100,"lon1":16.49659700,"rwy2":"19","lat2":57.35556400,"lon2":16.49881700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.15,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":57.34044400,"lon":16.49627800,"rng_nm":18,"alt_fmsl":96,"hdg":185.18,"id":"NMO","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":57.35269400,"lon":16.50008300,"rng_nm":10,"alt_fmsl":96,"id":"NMO","rwy":"19","desc":"GS","gs":3},
+{"type":"DME","freq":111.15,"lat":57.34036100,"lon":16.49569400,"rng_nm":18,"alt_fmsl":81,"id":"NMO","rwy":"19","desc":"DME-ILS"}
+]
+}

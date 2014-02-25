@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDBC","name":"Magdeburg Cochstedt","lat":51.8559265,"lon":11.418004,"rwys":2,"ils":1,"elev":596,"index":3138417,"path":"e010n50/e011n51"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":51.85347500,"lon1":11.40029400,"rwy2":"26","lat2":51.85837500,"lon2":11.43570600},
+{"len_m":802,"wid_m":39.93,"hdg":77,"surf":"Turf/grass","rwy1":"08R","lat1":51.85514123,"lon1":11.41232228,"rwy2":"26L","lat2":51.85671477,"lon2":11.42369372}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131.12,"desc":"COCHSTEDT INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":51.85248300,"lon":11.39314400,"rng_nm":18,"alt_fmsl":596,"hdg":257.35,"id":"ICOW","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":51.85616100,"lon":11.43167500,"rng_nm":10,"alt_fmsl":596,"id":"ICOW","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.87218900,"lon":11.53950600,"rng_nm":0,"alt_fmsl":596,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.86042200,"lon":11.45061700,"rng_nm":0,"alt_fmsl":596,"id":"----","rwy":"26","desc":"MM"}
+]
+}

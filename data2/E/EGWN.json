@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGWN","name":"Raf Halton","lat":51.78805030,"lon":-0.73436690,"rwys":2,"ils":0,"elev":370,"index":2941809,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":1190,"wid_m":42.06,"hdg":19,"surf":"Turf/grass","rwy1":"02","lat1":51.78716910,"lon1":-0.73940541,"rwy2":"20","lat2":51.79726539,"lon2":-0.73367455},
+{"len_m":863,"wid_m":42.06,"hdg":71,"surf":"Turf/grass","rwy1":"08","lat1":51.78982178,"lon1":-0.74371631,"rwy2":"26","lat2":51.79229066,"lon2":-0.73185446}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.42,"desc":"Halton Radio"}
+]
+,"ils":[
+]
+}

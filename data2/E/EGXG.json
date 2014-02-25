@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXG","name":"Raf Church Fenton","lat":53.83539677,"lon":-1.19925341,"rwys":2,"ils":1,"elev":29,"index":2925555,"path":"w010n50/w002n53"
+,"runways":[
+{"len_m":1826,"wid_m":46.02,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":53.82980428,"lon1":-1.20660910,"rwy2":"24","lat2":53.83929700,"lon2":-1.18397200},
+{"len_m":1666,"wid_m":46.02,"hdg":155,"surf":"Asphalt","rwy1":"16","lat1":53.84423500,"lon1":-1.20280400,"rwy2":"34","lat2":53.83056000,"lon2":-1.19250900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.95,"desc":"Fenton Ground"},
+{"type":"TWR","freq":122.1,"desc":"Fenton Tower"},
+{"type":"APP","freq":126.5,"desc":"Fenton Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":53.82920800,"lon":-1.20444200,"rng_nm":18,"alt_fmsl":29,"hdg":230.12,"id":"CF","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":53.83675600,"lon":-1.18660600,"rng_nm":10,"alt_fmsl":29,"id":"CF","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.88212500,"lon":-1.08938900,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.84680600,"lon":-1.16781900,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"24","desc":"MM"}
+]
+}

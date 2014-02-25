@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFRO","name":"Rovaniemi","lat":66.56268300,"lon":25.83678400,"rwys":1,"ils":1,"elev":632,"index":3368737,"path":"e020n60/e025n66"
+,"runways":[
+{"len_m":3001,"wid_m":60.05,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":66.55410000,"lon1":25.80998600,"rwy2":"21","lat2":66.57554400,"lon2":25.85085300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.52,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"APP"},
+{"type":"APP","freq":129.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":66.55153600,"lon":25.80510800,"rng_nm":18,"alt_fmsl":632,"hdg":217.13,"id":"RO","rwy":"21","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.7,"lat":66.57446100,"lon":25.84539400,"rng_nm":10,"alt_fmsl":632,"id":"RO","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":111.7,"lat":66.57446100,"lon":25.84539400,"rng_nm":18,"alt_fmsl":673,"id":"RO","rwy":"21","desc":"DME-ILS"}
+]
+}

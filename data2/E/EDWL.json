@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWL","name":"Langeoog","lat":53.74331613,"lon":7.49204013,"rwys":1,"ils":0,"elev":7,"index":3073001,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":662,"wid_m":14.94,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":53.74107448,"lon1":7.49449822,"rwy2":"23","lat2":53.74448108,"lon2":7.50272515}
+]
+,"helipads":[
+{"rwy1":"H","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":53.74352828,"lon1":7.49307883}
+]
+,"radios":[
+{"type":"TWR","freq":122.03,"desc":"Langeoog INFO"}
+]
+,"ils":[
+]
+}

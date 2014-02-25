@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFYL","name":"Ylivieska","lat":64.054443,"lon":24.722407,"rwys":1,"ils":1,"elev":252,"index":3352193,"path":"e020n60/e024n64"
+,"runways":[
+{"len_m":1499,"wid_m":29.87,"hdg":155,"surf":"Asphalt","rwy1":"15","lat1":64.06054700,"lon1":24.71595300,"rwy2":"33","lat2":64.04833900,"lon2":24.72886100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.5,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":64.06288100,"lon":24.71348300,"rng_nm":18,"alt_fmsl":252,"hdg":335.17,"id":"VI","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":64.05015800,"lon":24.72418600,"rng_nm":10,"alt_fmsl":252,"id":"VI","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":63.98685000,"lon":24.79431100,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.03933600,"lon":24.73837200,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"33","desc":"MM"}
+]
+}

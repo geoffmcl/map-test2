@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXU","name":"Raf Linton On Ouse","lat":54.04507417,"lon":-1.25072858,"rwys":2,"ils":1,"elev":53,"index":2925570,"path":"w010n50/w002n54"
+,"runways":[
+{"len_m":1831,"wid_m":46.02,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":54.04238335,"lon1":-1.26041641,"rwy2":"21","lat2":54.05641265,"lon2":-1.24579559},
+{"len_m":1338,"wid_m":46.02,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":54.04947763,"lon1":-1.26266531,"rwy2":"28","lat2":54.04819437,"lon2":-1.24234669}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"Linton Ground"},
+{"type":"TWR","freq":122.1,"desc":"Linton Tower"},
+{"type":"APP","freq":118.55,"desc":"Linton Approach"},
+{"type":"DEP","freq":118.55,"desc":"Linton Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":54.05910400,"lon":-1.24295700,"rng_nm":18,"alt_fmsl":53,"hdg":31.52,"id":"LOB","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":54.04126300,"lon":-1.26154900,"rng_nm":18,"alt_fmsl":53,"hdg":211.40,"id":"LOA","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":54.04453700,"lon":-1.25567800,"rng_nm":10,"alt_fmsl":53,"id":"LOB","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":54.05564100,"lon":-1.24903000,"rng_nm":10,"alt_fmsl":53,"id":"LOA","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":54.13226400,"lon":-1.15725300,"rng_nm":0,"alt_fmsl":53,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.06337200,"lon":-1.23854200,"rng_nm":0,"alt_fmsl":53,"id":"----","rwy":"21","desc":"MM"}
+]
+}

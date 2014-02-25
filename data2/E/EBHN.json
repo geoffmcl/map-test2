@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBHN","name":"Ebhn","lat":51.31270200,"lon":4.39408400,"rwys":1,"ils":0,"elev":32,"index":3023697,"path":"e000n50/e004n51"
+,"runways":[
+{"len_m":612,"wid_m":24.99,"hdg":148,"surf":"Turf/grass","rwy1":"15","lat1":51.30849937,"lon1":4.38481395,"rwy2":"33","lat2":51.30382213,"lon2":4.38945838}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.9,"desc":"Brussels Info"},
+{"type":"CTAF","freq":135,"desc":"Hoevenen Radio"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPML","name":"Mielec","lat":50.31753783,"lon":21.46193324,"rwys":3,"ils":0,"elev":547,"index":3302161,"path":"e020n50/e021n50"
+,"runways":[
+{"len_m":657,"wid_m":24.99,"hdg":180,"surf":"Concrete","rwy1":"18","lat1":50.32672200,"lon1":21.45305600,"rwy2":"36","lat2":50.32080800,"lon2":21.45303600},
+{"len_m":2300,"wid_m":44.50,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":50.32231175,"lon1":21.44691166,"rwy2":"27","lat2":50.32224117,"lon2":21.47922030},
+{"len_m":467,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":50.32672314,"lon1":21.45320424,"rwy2":"xxx","lat2":50.32251679,"lon2":21.45322699}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"INFO"},
+{"type":"TWR","freq":123.35,"desc":"INFO"},
+{"type":"TWR","freq":119.1,"desc":"TEST"}
+]
+,"ils":[
+]
+}

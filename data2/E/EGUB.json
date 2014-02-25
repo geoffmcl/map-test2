@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGUB","name":"Raf Benson","lat":51.61878585,"lon":-1.09985332,"rwys":1,"ils":1,"elev":226,"index":2925411,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":1821,"wid_m":46.02,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":51.60691900,"lon1":-1.09765124,"rwy2":"19","lat2":51.62313900,"lon2":-1.09406900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"Benson Ground"},
+{"type":"TWR","freq":127.15,"desc":"Benson Tower"},
+{"type":"APP","freq":120.9,"desc":"Benson Zone"},
+{"type":"APP","freq":136.45,"desc":"Benson Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":51.60220000,"lon":-1.09869400,"rng_nm":18,"alt_fmsl":226,"hdg":187.81,"id":"BO","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":51.62032200,"lon":-1.09269200,"rng_nm":10,"alt_fmsl":226,"id":"BO","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.71990800,"lon":-1.07351100,"rng_nm":0,"alt_fmsl":226,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.63161400,"lon":-1.09221900,"rng_nm":0,"alt_fmsl":226,"id":"----","rwy":"19","desc":"MM"}
+]
+}

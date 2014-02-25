@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETSE","name":"Erding Afb","lat":48.31992700,"lon":11.94529000,"rwys":1,"ils":0,"elev":1515,"index":3138195,"path":"e010n40/e011n48"
+,"runways":[
+{"len_m":2521,"wid_m":34.14,"hdg":78,"surf":"Concrete","rwy1":"08","lat1":48.32036817,"lon1":11.93314905,"rwy2":"26","lat2":48.32503383,"lon2":11.96641695}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":120.77,"desc":"MUNCHEN RADAR"}
+]
+,"ils":[
+]
+}

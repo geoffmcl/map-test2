@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGDL","name":"Raf Lyneham","lat":51.50370315,"lon":-1.99234136,"rwys":2,"ils":1,"elev":513,"index":2925408,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":2385,"wid_m":46.02,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":51.50218246,"lon1":-2.01095615,"rwy2":"24","lat2":51.51283154,"lon2":-1.98114187},
+{"len_m":1826,"wid_m":46.02,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":51.51145314,"lon1":-1.98994957,"rwy2":"36","lat2":51.49510286,"lon2":-1.98762843}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.47,"desc":"GND"},
+{"type":"TWR","freq":119.22,"desc":"TWR"},
+{"type":"APP","freq":118.42,"desc":"APP"},
+{"type":"APP","freq":135.15,"desc":"CAC"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":51.50548300,"lon":-2.00568300,"rng_nm":18,"alt_fmsl":513,"hdg":244.30,"id":"ILA","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":51.51173600,"lon":-1.98818100,"rng_nm":10,"alt_fmsl":513,"id":"ILA","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.55193900,"lon":-1.85081100,"rng_nm":0,"alt_fmsl":513,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.51608900,"lon":-1.97055600,"rng_nm":0,"alt_fmsl":513,"id":"----","rwy":"24","desc":"MM"}
+]
+}

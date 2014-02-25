@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:23:58 UTC"
+,"type":17,"icao":"EGLW","name":"[h] London Heliport [h]","lat":51.469655882,"lon":-0.179015092,"rwys":0,"ils":0,"elev":17,"index":2941787,"path":"w010n50/w001n51"
+,"runways":[]
+,"helipads":[
+{"rwy1":"H0","len_m":15,"wid_m":15.85,"hdg":0,"surf":"Concrete","lat1":51.46994009,"lon1":-0.17958066},
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":0,"surf":"Asphalt","lat1":51.46947219,"lon1":-0.17897229},
+{"rwy1":"H2","len_m":17,"wid_m":17.07,"hdg":0,"surf":"Asphalt","lat1":51.46963631,"lon1":-0.17916048},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":0,"surf":"Asphalt","lat1":51.46953539,"lon1":-0.17872029},
+{"rwy1":"H4","len_m":13,"wid_m":13.11,"hdg":0,"surf":"Asphalt","lat1":51.46969543,"lon1":-0.17864174}
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"Battersea Tower"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETHB","name":"Bueckeburg","lat":52.278407,"lon":9.0822125,"rwys":1,"ils":0,"elev":230,"index":3105680,"path":"e000n50/e009n52"
+,"runways":[
+{"len_m":1833,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":52.27664700,"lon1":9.06909200,"rwy2":"26","lat2":52.28016700,"lon2":9.09533300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":131.32,"desc":"BREMEN RADAR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":124.5,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESSB","name":"Bromma","lat":59.35550518,"lon":17.94768031,"rwys":1,"ils":2,"elev":47,"index":3237203,"path":"e010n50/e017n59"
+,"runways":[
+{"len_m":1895,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":59.35927200,"lon1":17.92796119,"rwy2":"30","lat2":59.34950657,"lon2":17.95524645}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.45,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":120.15,"desc":"APP"},
+{"type":"APP","freq":123.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":59.34916700,"lon":17.95622200,"rng_nm":18,"alt_fmsl":40,"hdg":125.06,"id":"SB","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":59.36197200,"lon":17.92038900,"rng_nm":18,"alt_fmsl":45,"hdg":305.04,"id":"SBA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":59.35705600,"lon":17.93125000,"rng_nm":10,"alt_fmsl":45,"id":"SB","rwy":"12","desc":"GS","gs":3.5},
+{"type":"GS","freq":109.7,"lat":59.35069400,"lon":17.94963900,"rng_nm":10,"alt_fmsl":40,"id":"SBA","rwy":"30","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":59.40086100,"lon":17.81388900,"rng_nm":0,"alt_fmsl":47,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.31663900,"lon":18.04669400,"rng_nm":0,"alt_fmsl":47,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.36477800,"lon":17.91322200,"rng_nm":0,"alt_fmsl":86,"id":"----","rwy":"12","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.34213900,"lon":17.97586100,"rng_nm":0,"alt_fmsl":40,"id":"----","rwy":"30","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDQE","name":"Burg Feuerstein","lat":49.79199112,"lon":11.12634968,"rwys":2,"ils":0,"elev":1674,"index":3138288,"path":"e010n40/e011n49"
+,"runways":[
+{"len_m":976,"wid_m":14.94,"hdg":87,"surf":"Asphalt","rwy1":"08","lat1":49.79342129,"lon1":11.12563898,"rwy2":"26","lat2":49.79374271,"lon2":11.13919407},
+{"len_m":652,"wid_m":29.87,"hdg":88,"surf":"Turf/grass","rwy1":"08L","lat1":49.79388797,"lon1":11.12760617,"rwy2":"26R","lat2":49.79401398,"lon2":11.13667078}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.77,"desc":"Feuerstein Info"}
+]
+,"ils":[
+]
+}

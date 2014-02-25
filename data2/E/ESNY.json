@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNY","name":"Soderhamn","lat":61.261082,"lon":17.0978805,"rwys":2,"ils":1,"elev":88,"index":3237328,"path":"e010n60/e017n61"
+,"runways":[
+{"len_m":2524,"wid_m":39.93,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":61.26870000,"lon1":17.08092500,"rwy2":"30","lat2":61.25426100,"lon2":17.11717200},
+{"len_m":812,"wid_m":17.07,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":61.25756100,"lon1":17.09281100,"rwy2":"21","lat2":61.26380600,"lon2":17.10061400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.35,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":61.26858300,"lon":17.08497200,"rng_nm":18,"alt_fmsl":88,"hdg":312.76,"id":"CL","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":61.25675000,"lon":17.11452800,"rng_nm":10,"alt_fmsl":88,"id":"CL","rwy":"30","desc":"GS","gs":2.86},
+{"type":"MM","freq":0,"lat":61.24797200,"lon":17.13294400,"rng_nm":0,"alt_fmsl":88,"id":"----","rwy":"30","desc":"MM"}
+]
+}

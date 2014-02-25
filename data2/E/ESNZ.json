@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNZ","name":"Are Ostersund","lat":63.19389700,"lon":14.48836374,"rwys":1,"ils":1,"elev":1231,"index":3188296,"path":"e010n60/e014n63"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":114,"surf":"Asphalt","rwy1":"12","lat1":63.19880800,"lon1":14.47944400,"rwy2":"30","lat2":63.18944200,"lon2":14.52456400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.65,"desc":"TWR"},
+{"type":"TWR","freq":130.9,"desc":"TWR"},
+{"type":"TWR","freq":121.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":63.18788900,"lon":14.53205600,"rng_nm":18,"alt_fmsl":1231,"hdg":114.74,"id":"PC","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":63.19838900,"lon":14.48716700,"rng_nm":10,"alt_fmsl":1231,"id":"PC","rwy":"12","desc":"GS","gs":3}
+]
+}

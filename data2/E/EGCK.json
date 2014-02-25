@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGCK","name":"Caernarfon","lat":53.10076426,"lon":-4.33693593,"rwys":2,"ils":0,"elev":13,"index":2876354,"path":"w010n50/w005n53"
+,"runways":[
+{"len_m":1067,"wid_m":22.86,"hdg":13,"surf":"Asphalt","rwy1":"02","lat1":53.09956170,"lon1":-4.34217499,"rwy2":"20","lat2":53.10889700,"lon2":-4.33853300},
+{"len_m":915,"wid_m":22.86,"hdg":70,"surf":"Asphalt","rwy1":"08","lat1":53.10058173,"lon1":-4.34353273,"rwy2":"26","lat2":53.10328348,"lon2":-4.33062577}
+]
+,"helipads":[
+{"rwy1":"H10","len_m":13,"wid_m":13.11,"hdg":-4,"surf":"Asphalt","lat1":53.10134795,"lon1":-4.33694500}
+]
+,"radios":[
+{"type":"TWR","freq":122.25,"desc":"Caernarfon Radio"}
+]
+,"ils":[
+]
+}

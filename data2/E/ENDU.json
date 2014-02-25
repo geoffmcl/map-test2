@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENDU","name":"Bardufoss","lat":69.05929600,"lon":18.54178500,"rwys":1,"ils":2,"elev":252,"index":3254209,"path":"e010n60/e018n69"
+,"runways":[
+{"len_m":2454,"wid_m":45.11,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":69.05951943,"lon1":18.50983780,"rwy2":"28","lat2":69.05234457,"lon2":18.56796620}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.72,"desc":"ATIS"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.8,"desc":"APP"},
+{"type":"APP","freq":125.85,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":69.05734400,"lon":18.51667200,"rng_nm":18,"alt_fmsl":258,"hdg":285.23,"id":"BF","rwy":"28","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.3,"lat":69.05415300,"lon":18.54336400,"rng_nm":18,"alt_fmsl":269,"id":"DU","rwy":"10","desc":"LOC"},
+{"type":"GS","freq":108.7,"lat":69.05266900,"lon":18.57115000,"rng_nm":20,"alt_fmsl":252,"id":"BF","rwy":"28","desc":"GS","gs":3.8},
+{"type":"OM","freq":0,"lat":69.10272500,"lon":18.19452200,"rng_nm":0,"alt_fmsl":320,"id":"----","rwy":"10","desc":"OM"},
+{"type":"OM","freq":0,"lat":69.02228600,"lon":18.83929700,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":69.07136900,"lon":18.43711100,"rng_nm":0,"alt_fmsl":252,"id":"----","rwy":"10","desc":"MM"},
+{"type":"MM","freq":0,"lat":69.04838900,"lon":18.60013600,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":69.05423600,"lon":18.54351400,"rng_nm":18,"alt_fmsl":269,"id":"DU","rwy":"10","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFPO","name":"Pori","lat":61.46792300,"lon":21.79422700,"rwys":2,"ils":1,"elev":44,"index":3302875,"path":"e020n60/e021n61"
+,"runways":[
+{"len_m":2351,"wid_m":60.05,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":61.46811400,"lon1":21.78134400,"rwy2":"30","lat2":61.45577500,"lon2":21.81711900},
+{"len_m":800,"wid_m":29.87,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":61.46397800,"lon1":21.79847800,"rwy2":"35","lat2":61.45683100,"lon2":21.80007800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.25,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":61.46958300,"lon":21.77708100,"rng_nm":18,"alt_fmsl":44,"hdg":305.81,"id":"PO","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":61.45830000,"lon":21.80587800,"rng_nm":10,"alt_fmsl":44,"id":"PO","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":61.41851700,"lon":21.92699700,"rng_nm":0,"alt_fmsl":44,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":61.45210600,"lon":21.82778600,"rng_nm":0,"alt_fmsl":44,"id":"----","rwy":"30","desc":"MM"}
+]
+}

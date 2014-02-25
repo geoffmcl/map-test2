@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPK","name":"Prestwick","lat":55.50206212,"lon":-4.58297629,"rwys":2,"ils":1,"elev":65,"index":2876513,"path":"w010n50/w005n55"
+,"runways":[
+{"len_m":1994,"wid_m":45.11,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":55.48700368,"lon1":-4.58845881,"rwy2":"21","lat2":55.50340008,"lon2":-4.57575302},
+{"len_m":2991,"wid_m":46.02,"hdg":121,"surf":"Asphalt","rwy1":"13","lat1":55.51638965,"lon1":-4.61483706,"rwy2":"31","lat2":55.50241311,"lon2":-4.57440190}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"Prestwick Information"},
+{"type":"TWR","freq":118.15,"desc":"Prestwick Tower"},
+{"type":"APP","freq":129.45,"desc":"Prestwick Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":55.50006400,"lon":-4.56761400,"rng_nm":18,"alt_fmsl":66,"hdg":121.42,"id":"IPP","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":55.51714700,"lon":-4.61703100,"rng_nm":18,"alt_fmsl":38,"hdg":301.38,"id":"IKK","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":55.51448600,"lon":-4.60602500,"rng_nm":10,"alt_fmsl":53,"id":"IPP","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":55.50500600,"lon":-4.57794200,"rng_nm":10,"alt_fmsl":56,"id":"IKK","rwy":"31","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":55.54429200,"lon":-4.68141900,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.52178600,"lon":-4.63096700,"rng_nm":0,"alt_fmsl":65,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":55.50780600,"lon":-4.59402500,"rng_nm":18,"alt_fmsl":48,"id":"IPP","rwy":"13","desc":"DME-ILS"},
+{"type":"DME","freq":110.3,"lat":55.50780600,"lon":-4.59402500,"rng_nm":18,"alt_fmsl":48,"id":"IKK","rwy":"31","desc":"DME-ILS"}
+]
+}

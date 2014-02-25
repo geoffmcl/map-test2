@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGMH","name":"Manston","lat":51.34354045,"lon":1.35096670,"rwys":1,"ils":1,"elev":178,"index":2974545,"path":"e000n50/e001n51"
+,"runways":[
+{"len_m":2751,"wid_m":60.96,"hdg":101,"surf":"Asphalt","rwy1":"10","lat1":51.34455000,"lon1":1.32683100,"rwy2":"28","lat2":51.33972500,"lon2":1.36555800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.67,"desc":"Manston Information"},
+{"type":"TWR","freq":119.92,"desc":"Manston Tower"},
+{"type":"APP","freq":132.45,"desc":"Manston Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":111.75,"lat":51.34565000,"lon":1.31797500,"rng_nm":18,"alt_fmsl":178,"hdg":281.26,"id":"IMSN","rwy":"28","desc":"ILS-cat-I"},
+{"type":"LOC","freq":111.75,"lat":51.33899700,"lon":1.37133100,"rng_nm":18,"alt_fmsl":178,"id":"MOZ","rwy":"10","desc":"LOC"},
+{"type":"GS","freq":111.75,"lat":51.33919700,"lon":1.36018900,"rng_nm":10,"alt_fmsl":178,"id":"IMSN","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":111.75,"lat":51.34108900,"lon":1.34585600,"rng_nm":18,"alt_fmsl":184,"id":"MOZ","rwy":"10","desc":"DME-ILS"},
+{"type":"DME","freq":111.75,"lat":51.34108900,"lon":1.34585600,"rng_nm":18,"alt_fmsl":184,"id":"IMSN","rwy":"28","desc":"DME-ILS"}
+]
+}

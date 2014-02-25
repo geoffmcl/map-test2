@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFIV","name":"Ivalo","lat":68.60841400,"lon":27.42059300,"rwys":2,"ils":1,"elev":481,"index":3401632,"path":"e020n60/e027n68"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":68.59962800,"lon1":27.38288900,"rwy2":"22","lat2":68.61490600,"lon2":27.42778300},
+{"len_m":800,"wid_m":45.11,"hdg":92,"surf":"Asphalt","rwy1":"08","lat1":68.60610000,"lon1":27.42330800,"rwy2":"26","lat2":68.60582500,"lon2":27.44294400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.2,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":68.59789700,"lon":27.37781100,"rng_nm":18,"alt_fmsl":515,"hdg":226.96,"id":"IV","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":68.61367800,"lon":27.41985300,"rng_nm":10,"alt_fmsl":481,"id":"IV","rwy":"22","desc":"GS","gs":3}
+]
+}

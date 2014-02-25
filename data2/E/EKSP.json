@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKSP","name":"Vojens Skrydstrup [mil]","lat":55.2200735,"lon":9.2662615,"rwys":2,"ils":1,"elev":141,"index":3105865,"path":"e000n50/e009n55"
+,"runways":[
+{"len_m":3006,"wid_m":46.02,"hdg":105,"surf":"Asphalt","rwy1":"11L","lat1":55.22460048,"lon1":9.24394289,"rwy2":"29R","lat2":55.21740752,"lon2":9.28947511},
+{"len_m":2972,"wid_m":24.08,"hdg":105,"surf":"Asphalt","rwy1":"11R","lat1":55.22269624,"lon1":9.24330738,"rwy2":"29L","lat2":55.21558976,"lon2":9.28832062}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.32,"desc":"TWR"},
+{"type":"APP","freq":127.47,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":55.22564200,"lon":9.23733900,"rng_nm":18,"alt_fmsl":141,"hdg":285.46,"id":"SRY","rwy":"29R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":55.21927200,"lon":9.28652500,"rng_nm":10,"alt_fmsl":141,"id":"SRY","rwy":"29R","desc":"GS","gs":2.75},
+{"type":"MM","freq":0,"lat":55.21225300,"lon":9.32095600,"rng_nm":0,"alt_fmsl":141,"id":"----","rwy":"29R","desc":"MM"}
+]
+}

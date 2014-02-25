@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXP","name":"Raf Scampton","lat":53.30598569,"lon":-0.54829482,"rwys":1,"ils":1,"elev":202,"index":2941905,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":2739,"wid_m":60.96,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":53.29867500,"lon1":-0.56435300,"rwy2":"22","lat2":53.31721400,"lon2":-0.53730800}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":53.31824500,"lon":-0.53579700,"rng_nm":18,"alt_fmsl":202,"hdg":41.08,"id":"SC","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":53.30169300,"lon":-0.56262500,"rng_nm":10,"alt_fmsl":202,"id":"SC","rwy":"04","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.23600300,"lon":-0.66043300,"rng_nm":0,"alt_fmsl":202,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.28678300,"lon":-0.58003900,"rng_nm":0,"alt_fmsl":202,"id":"----","rwy":"04","desc":"MM"}
+]
+}

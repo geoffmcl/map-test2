@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDMK","name":"Kempten - Durach","lat":47.69453457,"lon":10.34207897,"rwys":2,"ils":0,"elev":2340,"index":3121769,"path":"e010n40/e010n47"
+,"runways":[
+{"len_m":852,"wid_m":29.87,"hdg":74,"surf":"Turf/grass","rwy1":"07","lat1":47.69126985,"lon1":10.33280503,"rwy2":"25","lat2":47.69327550,"lon2":10.34377195},
+{"len_m":900,"wid_m":29.87,"hdg":167,"surf":"Turf/grass","rwy1":"17","lat1":47.69522994,"lon1":10.33707565,"rwy2":"35","lat2":47.68730778,"lon2":10.33957726}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122,"desc":"Kempten Info"}
+]
+,"ils":[
+]
+}

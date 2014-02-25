@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGLF","name":"Farnborough","lat":51.27931805,"lon":-0.77736169,"rwys":1,"ils":1,"elev":238,"index":2941776,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":2440,"wid_m":46.02,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":51.27055885,"lon1":-0.79203376,"rwy2":"24","lat2":51.28084851,"lon2":-0.76114481}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"Farnborough Information"},
+{"type":"TWR","freq":122.5,"desc":"Farnborough Tower"},
+{"type":"APP","freq":130.05,"desc":"Farnborough Director"},
+{"type":"APP","freq":134.35,"desc":"Farnborough Radar"},
+{"type":"APP","freq":125.25,"desc":"Farnborough Radar"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":51.28233300,"lon":-0.75668300,"rng_nm":18,"alt_fmsl":228,"hdg":61.98,"id":"IFRG","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.55,"lat":51.26933100,"lon":-0.79571900,"rng_nm":18,"alt_fmsl":228,"hdg":241.95,"id":"IFNB","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":51.27513900,"lon":-0.78225300,"rng_nm":10,"alt_fmsl":238,"id":"IFRG","rwy":"06","desc":"GS","gs":3.5},
+{"type":"GS","freq":111.55,"lat":51.27802800,"lon":-0.77357500,"rng_nm":10,"alt_fmsl":238,"id":"IFNB","rwy":"24","desc":"GS","gs":3.5},
+{"type":"DME","freq":111.55,"lat":51.27656900,"lon":-0.77795800,"rng_nm":18,"alt_fmsl":234,"id":"IFRG","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":111.55,"lat":51.27656900,"lon":-0.77795800,"rng_nm":18,"alt_fmsl":234,"id":"IFNB","rwy":"24","desc":"DME-ILS"}
+]
+}

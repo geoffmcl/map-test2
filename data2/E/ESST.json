@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESST","name":"Torsby","lat":60.1573735,"lon":12.991474,"rwys":1,"ils":2,"elev":393,"index":3155339,"path":"e010n60/e012n60"
+,"runways":[
+{"len_m":1590,"wid_m":28.96,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":60.16397800,"lon1":12.98604200,"rwy2":"34","lat2":60.15076900,"lon2":12.99690600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.05,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":108.7,"lat":60.14861100,"lon":12.99866700,"rng_nm":18,"alt_fmsl":393,"id":"NST","rwy":"16","desc":"LOC"},
+{"type":"LOC","freq":110.9,"lat":60.16713900,"lon":12.98344400,"rng_nm":18,"alt_fmsl":393,"id":"ST","rwy":"34","desc":"LOC"},
+{"type":"MM","freq":0,"lat":60.13730600,"lon":13.00797200,"rng_nm":0,"alt_fmsl":393,"id":"----","rwy":"34","desc":"MM"},
+{"type":"DME","freq":108.7,"lat":60.15763900,"lon":12.99275000,"rng_nm":18,"alt_fmsl":397,"id":"NST","rwy":"16","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPA","name":"Kirkwall","lat":58.95506845,"lon":-2.89751929,"rwys":2,"ils":2,"elev":51,"index":2909496,"path":"w010n50/w003n58"
+,"runways":[
+{"len_m":1451,"wid_m":46.02,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":58.95771688,"lon1":-2.91314708,"rwy2":"27","lat2":58.95830310,"lon2":-2.88794244},
+{"len_m":679,"wid_m":17.98,"hdg":140,"surf":"Asphalt","rwy1":"15","lat1":58.96050600,"lon1":-2.90924888,"rwy2":"33","lat2":58.95580779,"lon2":-2.90172273}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":58.95840300,"lon":-2.88377500,"rng_nm":18,"alt_fmsl":38,"hdg":87.42,"id":"IORK","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":58.95768300,"lon":-2.91441900,"rng_nm":18,"alt_fmsl":38,"hdg":267.39,"id":"IKIR","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":58.95671700,"lon":-2.90642500,"rng_nm":10,"alt_fmsl":38,"id":"IORK","rwy":"09","desc":"GS","gs":3.5},
+{"type":"GS","freq":110.1,"lat":58.95916700,"lon":-2.89294200,"rng_nm":10,"alt_fmsl":38,"id":"IKIR","rwy":"27","desc":"GS","gs":3.5},
+{"type":"DME","freq":109.8,"lat":58.95899700,"lon":-2.89927800,"rng_nm":18,"alt_fmsl":38,"id":"IORK","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":109.8,"lat":58.95899700,"lon":-2.89927800,"rng_nm":18,"alt_fmsl":38,"id":"IKIR","rwy":"27","desc":"DME-ILS"}
+]
+}

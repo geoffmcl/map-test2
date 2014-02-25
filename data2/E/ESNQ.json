@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNQ","name":"Kiruna","lat":67.82535600,"lon":20.33309600,"rwys":1,"ils":1,"elev":1508,"index":3286896,"path":"e020n60/e020n67"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":67.81265000,"lon1":20.32030600,"rwy2":"21","lat2":67.83131900,"lon2":20.35321900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.15,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":67.80938900,"lon":20.31452800,"rng_nm":18,"alt_fmsl":1508,"hdg":213.64,"id":"NQ","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":67.82836100,"lon":20.35144400,"rng_nm":10,"alt_fmsl":1508,"id":"NQ","rwy":"21","desc":"GS","gs":2.86},
+{"type":"OM","freq":0,"lat":67.88747200,"lon":20.45275000,"rng_nm":0,"alt_fmsl":1507,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":67.83877800,"lon":20.36638900,"rng_nm":0,"alt_fmsl":1508,"id":"----","rwy":"21","desc":"MM"}
+]
+}

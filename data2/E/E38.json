@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E38","name":"Alpine Casparis Muni","lat":30.3843285,"lon":-103.683643,"rwys":2,"ils":0,"elev":4515,"index":1252889,"path":"w110n30/w104n30"
+,"runways":[
+{"len_m":1828,"wid_m":22.86,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":30.37540600,"lon1":-103.68673900,"rwy2":"19","lat2":30.39062800,"lon2":-103.67940300},
+{"len_m":1528,"wid_m":18.29,"hdg":61,"surf":"Asphalt","rwy1":"05","lat1":30.38237200,"lon1":-103.69121900,"rwy2":"23","lat2":30.38890800,"lon2":-103.67721100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"DEP","freq":135.87,"desc":"ABQ Center"}
+]
+,"ils":[
+]
+}

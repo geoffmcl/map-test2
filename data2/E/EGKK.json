@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGKK","name":"London Gatwick","lat":51.15422185,"lon":-0.18405755,"rwys":2,"ils":1,"elev":196,"index":2941771,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":3160,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":51.14510986,"lon1":-0.21231370,"rwy2":"26L","lat2":51.15119014,"lon2":-0.16819230},
+{"len_m":2560,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08L","lat1":51.14691084,"lon1":-0.21256968,"rwy2":"26R","lat2":51.15180116,"lon2":-0.17681432}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.52,"desc":"Gatwick Information"},
+{"type":"CLD","freq":121.95,"desc":"Gatwick Delivery"},
+{"type":"GND","freq":121.8,"desc":"Gatwick Ground"},
+{"type":"TWR","freq":124.22,"desc":"Gatwick Tower"},
+{"type":"APP","freq":126.82,"desc":"Gatwick Director"},
+{"type":"APP","freq":118.95,"desc":"Gatwick Director"},
+{"type":"APP","freq":129.02,"desc":"Gatwick Director"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":51.15180600,"lon":-0.16360300,"rng_nm":18,"alt_fmsl":196,"hdg":77.66,"id":"IGG","rwy":"08R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":51.14472200,"lon":-0.21444400,"rng_nm":18,"alt_fmsl":196,"hdg":257.42,"id":"IWW","rwy":"26L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":51.14515000,"lon":-0.20205800,"rng_nm":10,"alt_fmsl":196,"id":"IGG","rwy":"08R","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":51.14882200,"lon":-0.17589700,"rng_nm":10,"alt_fmsl":196,"id":"IWW","rwy":"26L","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":51.15267200,"lon":-0.19214200,"rng_nm":18,"alt_fmsl":274,"id":"IGG","rwy":"08R","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":51.15267200,"lon":-0.19214200,"rng_nm":18,"alt_fmsl":274,"id":"IWW","rwy":"26L","desc":"DME-ILS"}
+]
+}

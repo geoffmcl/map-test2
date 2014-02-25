@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGAE","name":"Londonderry Eglinton","lat":55.03975213,"lon":-7.15586934,"rwys":1,"ils":1,"elev":22,"index":2827331,"path":"w010n50/w008n55"
+,"runways":[
+{"len_m":1851,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":55.04039700,"lon1":-7.17504800,"rwy2":"26","lat2":55.04522800,"lon2":-7.14732800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.15,"desc":"TWR"},
+{"type":"APP","freq":123.62,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":55.04011700,"lon":-7.17667500,"rng_nm":18,"alt_fmsl":22,"hdg":253.08,"id":"IEGT","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":55.04512500,"lon":-7.15199700,"rng_nm":10,"alt_fmsl":22,"id":"IEGT","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":108.3,"lat":55.04181900,"lon":-7.15933600,"rng_nm":18,"alt_fmsl":28,"id":"IEGT","rwy":"26","desc":"DME-ILS"}
+]
+}

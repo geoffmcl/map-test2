@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESSF","name":"Hultsfred","lat":57.525749,"lon":15.8239475,"rwys":1,"ils":1,"elev":366,"index":3204323,"path":"e010n50/e015n57"
+,"runways":[
+{"len_m":1945,"wid_m":39.93,"hdg":116,"surf":"Concrete","rwy1":"12","lat1":57.52958100,"lon1":15.80935600,"rwy2":"30","lat2":57.52191700,"lon2":15.83853900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.05,"desc":"AFIS"},
+{"type":"TWR","freq":123.3,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":57.53141700,"lon":15.80238900,"rng_nm":18,"alt_fmsl":366,"hdg":296.06,"id":"SF","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":57.52400000,"lon":15.83519400,"rng_nm":10,"alt_fmsl":366,"id":"SF","rwy":"30","desc":"GS","gs":2.86},
+{"type":"OM","freq":0,"lat":57.49514010,"lon":15.94155600,"rng_nm":0,"alt_fmsl":366,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.51783300,"lon":15.85408300,"rng_nm":0,"alt_fmsl":366,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":111.9,"lat":57.52141700,"lon":15.83300000,"rng_nm":18,"alt_fmsl":384,"id":"SF","rwy":"30","desc":"DME-ILS"}
+]
+}

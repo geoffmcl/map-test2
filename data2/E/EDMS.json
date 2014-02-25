@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDMS","name":"Straubing","lat":48.90222761,"lon":12.51346466,"rwys":1,"ils":0,"elev":1054,"index":3154618,"path":"e010n40/e012n48"
+,"runways":[
+{"len_m":1456,"wid_m":41.15,"hdg":97,"surf":"Asphalt","rwy1":"10","lat1":48.90155608,"lon1":12.50683000,"rwy2":"28","lat2":48.89986924,"lon2":12.52652499}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.15,"desc":"EDMS_TWR_INFO"}
+]
+,"ils":[
+]
+}

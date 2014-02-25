@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EICK","name":"Cork","lat":51.84386592,"lon":-8.49781766,"rwys":2,"ils":2,"elev":502,"index":2810738,"path":"w010n50/w009n51"
+,"runways":[
+{"len_m":2132,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"17","lat1":51.85008173,"lon1":-8.49615376,"rwy2":"35","lat2":51.83208373,"lon2":-8.48551176},
+{"len_m":1307,"wid_m":45.11,"hdg":62,"surf":"Concrete","rwy1":"07","lat1":51.84142473,"lon1":-8.49570503,"rwy2":"25","lat2":51.84683073,"lon2":-8.47885303}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.92,"desc":"Cork ATIS"},
+{"type":"TWR","freq":121.8,"desc":"Cork Grd"},
+{"type":"TWR","freq":121.85,"desc":"Cork Grd"},
+{"type":"TWR","freq":119.3,"desc":"Cork Twr"},
+{"type":"TWR","freq":121.7,"desc":"Cork Twr"},
+{"type":"APP","freq":119.9,"desc":"Cork App"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":51.83068600,"lon":-8.48485300,"rng_nm":18,"alt_fmsl":502,"hdg":160.21,"id":"ICS","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.15,"lat":51.85134200,"lon":-8.49706900,"rng_nm":18,"alt_fmsl":490,"hdg":339.65,"id":"ICN","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":51.84723300,"lon":-8.49664700,"rng_nm":10,"alt_fmsl":502,"id":"ICS","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":109.15,"lat":51.83492800,"lon":-8.48925800,"rng_nm":10,"alt_fmsl":502,"id":"ICN","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.90565300,"lon":-8.52926100,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"17","desc":"OM"},
+{"type":"OM","freq":0,"lat":51.75533300,"lon":-8.44038600,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.85808600,"lon":-8.50106100,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":51.82232500,"lon":-8.47991400,"rng_nm":0,"alt_fmsl":502,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":51.84165300,"lon":-8.48943300,"rng_nm":18,"alt_fmsl":490,"id":"ICS","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":109.15,"lat":51.84165300,"lon":-8.48943300,"rng_nm":18,"alt_fmsl":490,"id":"ICN","rwy":"35","desc":"DME-ILS"}
+]
+}

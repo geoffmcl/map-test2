@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGAC","name":"Belfast City","lat":54.61348300,"lon":-5.87352500,"rwys":1,"ils":1,"elev":15,"index":2860064,"path":"w010n50/w006n54"
+,"runways":[
+{"len_m":1834,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":54.61135800,"lon1":-5.88071900,"rwy2":"22","lat2":54.62485800,"lon2":-5.86443100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.62,"desc":"ATIS"},
+{"type":"TWR","freq":122.82,"desc":"BELFAST TWR"},
+{"type":"APP","freq":130.85,"desc":"BELFAST APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":54.61070800,"lon":-5.88135300,"rng_nm":18,"alt_fmsl":15,"hdg":214.69,"id":"IBFH","rwy":"22","desc":"ILS-cat-I"},
+{"type":"LOC","freq":108.1,"lat":54.62633100,"lon":-5.86266900,"rng_nm":18,"alt_fmsl":15,"id":"HBD","rwy":"04","desc":"LOC"},
+{"type":"GS","freq":108.1,"lat":54.62331900,"lon":-5.86853600,"rng_nm":10,"alt_fmsl":50,"id":"IBFH","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":108.1,"lat":54.61952500,"lon":-5.87498300,"rng_nm":18,"alt_fmsl":30,"id":"HBD","rwy":"04","desc":"DME-ILS"},
+{"type":"DME","freq":108.1,"lat":54.61952500,"lon":-5.87498300,"rng_nm":18,"alt_fmsl":30,"id":"IBFH","rwy":"22","desc":"DME-ILS"}
+]
+}

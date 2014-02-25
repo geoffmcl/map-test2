@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESDF","name":"Ronneby","lat":56.26171500,"lon":15.27578500,"rwys":2,"ils":1,"elev":191,"index":3204241,"path":"e010n50/e015n56"
+,"runways":[
+{"len_m":2330,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":56.25693100,"lon1":15.26254700,"rwy2":"19","lat2":56.27762500,"lon2":15.26823100},
+{"len_m":763,"wid_m":45.72,"hdg":8,"surf":"Dirt","rwy1":"01L","lat1":56.25857745,"lon1":15.26053739,"rwy2":"19R","lat2":56.26535655,"lon2":15.26239861}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":128.44,"desc":"CON"},
+{"type":"APP","freq":128.45,"desc":"CON"},
+{"type":"APP","freq":129.9,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":56.25436100,"lon":15.26183300,"rng_nm":18,"alt_fmsl":191,"hdg":188.68,"id":"DF","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":56.27405600,"lon":15.26533300,"rng_nm":10,"alt_fmsl":191,"id":"DF","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":56.33977800,"lon":15.28602800,"rng_nm":0,"alt_fmsl":191,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.28408300,"lon":15.27000000,"rng_nm":0,"alt_fmsl":191,"id":"----","rwy":"19","desc":"MM"}
+]
+}

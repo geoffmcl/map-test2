@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKKA","name":"Karup Int","lat":56.2991064,"lon":9.1106182,"rwys":5,"ils":2,"elev":170,"index":3105936,"path":"e000n50/e009n56"
+,"runways":[
+{"len_m":2992,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"09L","lat1":56.29908286,"lon1":9.07762294,"rwy2":"27R","lat2":56.29940114,"lon2":9.12595306},
+{"len_m":2928,"wid_m":46.02,"hdg":89,"surf":"Asphalt","rwy1":"09R","lat1":56.29715055,"lon1":9.07733266,"rwy2":"27L","lat2":56.29745745,"lon2":9.12462734},
+{"len_m":929,"wid_m":14.94,"hdg":33,"surf":"Asphalt","rwy1":"04","lat1":56.29750055,"lon1":9.10472256,"rwy2":"22","lat2":56.30444345,"lon2":9.11305544},
+{"len_m":853,"wid_m":60.05,"hdg":89,"surf":"Turf/grass","rwy1":"09","lat1":56.29745800,"lon1":9.11773448,"rwy2":"27","lat2":56.29745800,"lon2":9.13152152},
+{"len_m":702,"wid_m":17.98,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":56.30277835,"lon1":9.11277816,"rwy2":"32","lat2":56.29833365,"lon2":9.12083384}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.57,"desc":"TWR"},
+{"type":"APP","freq":120.42,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":56.29748600,"lon":9.12924700,"rng_nm":18,"alt_fmsl":170,"hdg":89.35,"id":"KAP","rwy":"09R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.15,"lat":56.29711100,"lon":9.07116400,"rng_nm":18,"alt_fmsl":170,"hdg":269.31,"id":"KR","rwy":"27L","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.3,"lat":56.29583100,"lon":9.08113300,"rng_nm":10,"alt_fmsl":170,"id":"KAP","rwy":"09R","desc":"GS","gs":2.75},
+{"type":"GS","freq":108.15,"lat":56.29633900,"lon":9.12087800,"rng_nm":10,"alt_fmsl":170,"id":"KR","rwy":"27L","desc":"GS","gs":2.75},
+{"type":"OM","freq":0,"lat":56.29653100,"lon":8.96848100,"rng_nm":0,"alt_fmsl":170,"id":"----","rwy":"09R","desc":"OM"},
+{"type":"MM","freq":0,"lat":56.29710600,"lon":9.06070600,"rng_nm":0,"alt_fmsl":170,"id":"----","rwy":"09R","desc":"MM"}
+]
+}

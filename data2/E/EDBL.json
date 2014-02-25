@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDBL","name":"Laucha","lat":51.246066,"lon":11.69363636,"rwys":1,"ils":0,"elev":737,"index":3138378,"path":"e010n50/e011n51"
+,"runways":[
+{"len_m":734,"wid_m":29.87,"hdg":93,"surf":"Turf/grass","rwy1":"09","lat1":51.24624000,"lon1":11.68838100,"rwy2":"27","lat2":51.24589200,"lon2":11.69889172}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.35,"desc":"GLD"},
+{"type":"CTAF","freq":122.47,"desc":"INFO"}
+]
+,"ils":[
+]
+}

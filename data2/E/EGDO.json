@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGDO","name":"Rnas Predannack","lat":50.00067463,"lon":-5.23221306,"rwys":4,"ils":0,"elev":295,"index":2859779,"path":"w010n50/w006n50"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":49.99619289,"lon1":-5.24072383,"rwy2":"23","lat2":50.00791845,"lon2":-5.22284063},
+{"len_m":1388,"wid_m":46.02,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":49.99569430,"lon1":-5.23051103,"rwy2":"19","lat2":50.00817538,"lon2":-5.23083326},
+{"len_m":1314,"wid_m":43.89,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":49.99912040,"lon1":-5.24387610,"rwy2":"28","lat2":49.99917441,"lon2":-5.22554479},
+{"len_m":885,"wid_m":42.98,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":50.00197594,"lon1":-5.23659799,"rwy2":"31","lat2":49.99714526,"lon2":-5.22677687}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":134.05,"desc":"APP"}
+]
+,"ils":[
+]
+}

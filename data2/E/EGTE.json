@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGTE","name":"Exeter","lat":50.73152471,"lon":-3.41642698,"rwys":1,"ils":1,"elev":102,"index":2892586,"path":"w010n50/w004n50"
+,"runways":[
+{"len_m":2037,"wid_m":46.02,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":50.73206575,"lon1":-3.42800869,"rwy2":"26","lat2":50.73645425,"lon2":-3.39999069}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.32,"desc":"Exeter Information"},
+{"type":"TWR","freq":119.8,"desc":"Exeter Tower"},
+{"type":"APP","freq":128.97,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":50.73691900,"lon":-3.39701700,"rng_nm":18,"alt_fmsl":102,"hdg":76.11,"id":"IET","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":50.73175300,"lon":-3.43003300,"rng_nm":18,"alt_fmsl":102,"hdg":256.10,"id":"IXR","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":50.73148600,"lon":-3.42288100,"rng_nm":10,"alt_fmsl":50,"id":"IET","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":50.73695300,"lon":-3.40492800,"rng_nm":10,"alt_fmsl":58,"id":"IXR","rwy":"26","desc":"GS","gs":3.5},
+{"type":"MM","freq":0,"lat":50.73880800,"lon":-3.38508300,"rng_nm":0,"alt_fmsl":102,"id":"----","rwy":"26","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":50.73552500,"lon":-3.41437200,"rng_nm":18,"alt_fmsl":102,"id":"IET","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":50.73532200,"lon":-3.41437200,"rng_nm":18,"alt_fmsl":102,"id":"IXR","rwy":"26","desc":"DME-ILS"}
+]
+}

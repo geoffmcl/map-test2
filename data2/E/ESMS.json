@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESMS","name":"Malmo Sturup","lat":55.53810500,"lon":13.36438300,"rwys":2,"ils":2,"elev":236,"index":3171425,"path":"e010n50/e013n55"
+,"runways":[
+{"len_m":2799,"wid_m":45.11,"hdg":173,"surf":"Asphalt","rwy1":"17","lat1":55.54805600,"lon1":13.37377800,"rwy2":"35","lat2":55.52307800,"lon2":13.37891100},
+{"len_m":797,"wid_m":17.98,"hdg":105,"surf":"Asphalt","rwy1":"11","lat1":55.52314400,"lon1":13.35978300,"rwy2":"29","lat2":55.52125600,"lon2":13.37196400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.27,"desc":"ATIS"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"APP","freq":135.12,"desc":"MALMO CON"},
+{"type":"APP","freq":135.9,"desc":"MALMO CON"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":55.52050000,"lon":13.37944400,"rng_nm":18,"alt_fmsl":236,"hdg":173.37,"id":"NMS","rwy":"17","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.1,"lat":55.55061100,"lon":13.37325000,"rng_nm":18,"alt_fmsl":236,"hdg":353.36,"id":"SMS","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":55.54558300,"lon":13.37669400,"rng_nm":10,"alt_fmsl":236,"id":"NMS","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":108.1,"lat":55.52619400,"lon":13.38066700,"rng_nm":10,"alt_fmsl":236,"id":"SMS","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":55.61147200,"lon":13.36072200,"rng_nm":0,"alt_fmsl":236,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.55741700,"lon":13.37186100,"rng_nm":0,"alt_fmsl":236,"id":"----","rwy":"17","desc":"MM"}
+]
+}

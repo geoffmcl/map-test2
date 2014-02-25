@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGDR","name":"Rnas Culdrose","lat":50.08369747,"lon":-5.25608262,"rwys":3,"ils":0,"elev":267,"index":2859778,"path":"w010n50/w006n50"
+,"runways":[
+{"len_m":1835,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"12","lat1":50.08858529,"lon1":-5.26584505,"rwy2":"30","lat2":50.08219192,"lon2":-5.24220850},
+{"len_m":1056,"wid_m":42.98,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":50.09001086,"lon1":-5.25176464,"rwy2":"36","lat2":50.08051769,"lon2":-5.25138764},
+{"len_m":1045,"wid_m":42.98,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":50.08520735,"lon1":-5.26340504,"rwy2":"25","lat2":50.08948685,"lon2":-5.25039045}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":123.3,"desc":"TWR"},
+{"type":"APP","freq":134.05,"desc":"APP"}
+]
+,"ils":[
+]
+}

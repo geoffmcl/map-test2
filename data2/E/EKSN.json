@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKSN","name":"Sindal","lat":57.50456095,"lon":10.22279130,"rwys":1,"ils":1,"elev":92,"index":3122400,"path":"e010n50/e010n57"
+,"runways":[
+{"len_m":1199,"wid_m":29.87,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":57.50317500,"lon1":10.21939167,"rwy2":"27","lat2":57.50387500,"lon2":10.23935019}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.75,"desc":"AFIS"},
+{"type":"APP","freq":123.97,"desc":"AALBORG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":57.50308300,"lon":10.21682500,"rng_nm":18,"alt_fmsl":92,"hdg":266.25,"id":"SDL","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":57.50263300,"lon":10.23472800,"rng_nm":10,"alt_fmsl":92,"id":"SDL","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":110.15,"lat":57.50251700,"lon":10.23473900,"rng_nm":18,"alt_fmsl":92,"id":"SDL","rwy":"27","desc":"DME-ILS"}
+]
+}

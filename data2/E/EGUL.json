@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGUL","name":"Raf Lakenheath","lat":52.40434611,"lon":0.55806950,"rwys":1,"ils":1,"elev":32,"index":2958234,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":2740,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":52.40246056,"lon1":0.54438686,"rwy2":"24","lat2":52.41635344,"lon2":0.57764838}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Lakenheath Tower"},
+{"type":"APP","freq":136.5,"desc":"Lakenheath Approach"},
+{"type":"APP","freq":128.9,"desc":"Lakenheath Radar"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":52.41817500,"lon":0.58206100,"rng_nm":18,"alt_fmsl":28,"hdg":55.65,"id":"ILAK","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":52.40080000,"lon":0.53483900,"rng_nm":18,"alt_fmsl":23,"hdg":239.21,"id":"ILKH","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":52.40306900,"lon":0.54900800,"rng_nm":10,"alt_fmsl":31,"id":"ILAK","rwy":"06","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.9,"lat":52.41541900,"lon":0.57267800,"rng_nm":10,"alt_fmsl":28,"id":"ILKH","rwy":"24","desc":"GS","gs":2.5}
+]
+}

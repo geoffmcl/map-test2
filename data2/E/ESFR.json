@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESFR","name":"Rada","lat":58.4981345,"lon":13.053232,"rwys":1,"ils":0,"elev":230,"index":3171608,"path":"e010n50/e013n58"
+,"runways":[
+{"len_m":1986,"wid_m":33.53,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":58.50702200,"lon1":13.05460000,"rwy2":"36","lat2":58.48924700,"lon2":13.05186400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.5,"desc":"MIL INFO"},
+{"type":"APP","freq":136.02,"desc":"CON"},
+{"type":"APP","freq":133.5,"desc":"CON"}
+]
+,"ils":[
+]
+}

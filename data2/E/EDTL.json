@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDTL","name":"Lahr","lat":48.3692515,"lon":7.827725,"rwys":1,"ils":2,"elev":511,"index":3072659,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":48.35737500,"lon1":7.81813100,"rwy2":"21","lat2":48.38112800,"lon2":7.83731900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.95,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":125.17,"desc":"TWR"},
+{"type":"APP","freq":119.45,"desc":"STRASSBOURG RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":48.35546700,"lon":7.81659200,"rng_nm":18,"alt_fmsl":511,"hdg":208.21,"id":"ILRW","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":48.37815000,"lon":7.83675600,"rng_nm":10,"alt_fmsl":511,"id":"ILRW","rwy":"21","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":48.38942800,"lon":7.84403100,"rng_nm":0,"alt_fmsl":511,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":108.05,"lat":48.36414200,"lon":7.82751700,"rng_nm":18,"alt_fmsl":556,"id":"ILRW","rwy":"21","desc":"DME-ILS"}
+]
+}

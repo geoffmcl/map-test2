@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPL","name":"Benbecula","lat":57.47519776,"lon":-7.37046948,"rwys":2,"ils":0,"elev":19,"index":2827482,"path":"w010n50/w008n57"
+,"runways":[
+{"len_m":1833,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":57.47642255,"lon1":-7.37525416,"rwy2":"24","lat2":57.48575600,"lon2":-7.35007500},
+{"len_m":1287,"wid_m":46.02,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":57.48688707,"lon1":-7.36573733,"rwy2":"35","lat2":57.47561859,"lon2":-7.36093646}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"Benbecula Tower"}
+]
+,"ils":[
+]
+}

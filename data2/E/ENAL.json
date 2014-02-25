@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENAL","name":"Alesund Lufthavn - Vigra","lat":62.55816871,"lon":6.11434582,"rwys":1,"ils":1,"elev":69,"index":3057184,"path":"e000n60/e006n62"
+,"runways":[
+{"len_m":2312,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":62.55593100,"lon1":6.08984400,"rwy2":"25","lat2":62.56481100,"lon2":6.13048600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"TWR","freq":119.85,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.95,"lat":62.55571700,"lon":6.08887200,"rng_nm":18,"alt_fmsl":72,"hdg":244.61,"id":"VGR","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.95,"lat":62.56330490,"lon":6.12089205,"rng_nm":10,"alt_fmsl":18,"id":"VGR","rwy":"25","desc":"GS","gs":3}
+]
+}

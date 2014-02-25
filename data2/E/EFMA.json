@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFMA","name":"Mariehamn","lat":60.12208200,"lon":19.90752400,"rwys":1,"ils":1,"elev":17,"index":3270019,"path":"e010n60/e019n60"
+,"runways":[
+{"len_m":1902,"wid_m":60.05,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":60.11436400,"lon1":19.89136700,"rwy2":"21","lat2":60.13004200,"lon2":19.90494700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":119.6,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":60.11265600,"lon":19.88988600,"rng_nm":18,"alt_fmsl":17,"hdg":203.34,"id":"MA","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":60.12785000,"lon":19.90059400,"rng_nm":10,"alt_fmsl":17,"id":"MA","rwy":"21","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":60.18667500,"lon":19.95440800,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":60.14182200,"lon":19.91515300,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"21","desc":"MM"},
+{"type":"IM","freq":0,"lat":60.14164200,"lon":19.91502200,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"21","desc":"IM"}
+]
+}

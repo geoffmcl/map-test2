@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETHN","name":"Niederstetten","lat":49.3918335,"lon":9.9581665,"rwys":1,"ils":1,"elev":1536,"index":3105499,"path":"e000n40/e009n49"
+,"runways":[
+{"len_m":1002,"wid_m":29.87,"hdg":74,"surf":"Asphalt","rwy1":"07","lat1":49.39066700,"lon1":9.95150000,"rwy2":"25","lat2":49.39300000,"lon2":9.96483300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"STETTEN TWR"},
+{"type":"APP","freq":123.3,"desc":"STETTEN RADAR"},
+{"type":"APP","freq":135.6,"desc":"STETTEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":49.39066700,"lon":9.95116700,"rng_nm":18,"alt_fmsl":1541,"hdg":255.30,"id":"INSW","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":49.39350000,"lon":9.96083300,"rng_nm":10,"alt_fmsl":1551,"id":"INSW","rwy":"25","desc":"GS","gs":3.4},
+{"type":"OM","freq":0,"lat":49.40966700,"lon":10.06083300,"rng_nm":0,"alt_fmsl":1536,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.39600000,"lon":9.97916700,"rng_nm":0,"alt_fmsl":1536,"id":"----","rwy":"25","desc":"MM"}
+]
+}

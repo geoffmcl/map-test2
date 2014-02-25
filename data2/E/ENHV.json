@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENHV","name":"Honningsvaag Valan","lat":71.00884200,"lon":25.97913600,"rwys":1,"ils":1,"elev":46,"index":3369025,"path":"e020n70/e025n71"
+,"runways":[
+{"len_m":883,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":71.00967048,"lon1":25.97185833,"rwy2":"26","lat2":71.00973952,"lon2":25.99616767}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":71.00920105,"lon":25.97525024,"rng_nm":18,"alt_fmsl":23,"hdg":216.09,"id":"HV","rwy":"08","desc":"ILS-cat-I"},
+{"type":"DME","freq":108.1,"lat":71.00919342,"lon":25.97525597,"rng_nm":18,"alt_fmsl":23,"id":"HV","rwy":"08","desc":"DME-ILS"}
+]
+}

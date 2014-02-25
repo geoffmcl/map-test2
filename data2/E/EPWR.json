@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPWR","name":"Strachowice","lat":51.10677000,"lon":16.88616000,"rwys":1,"ils":1,"elev":404,"index":3220291,"path":"e010n50/e016n51"
+,"runways":[
+{"len_m":2502,"wid_m":60.05,"hdg":115,"surf":"Concrete","rwy1":"12","lat1":51.10880240,"lon1":16.86582551,"rwy2":"30","lat2":51.09896160,"lon2":16.89795849}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.22,"desc":"WROCLAW TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":51.11037200,"lon":16.86069700,"rng_nm":18,"alt_fmsl":404,"hdg":295.98,"id":"WRO","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":51.09895300,"lon":16.89308900,"rng_nm":10,"alt_fmsl":404,"id":"WRO","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.08247800,"lon":16.95158300,"rng_nm":0,"alt_fmsl":404,"id":"----","rwy":"30","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":51.09895300,"lon":16.89308900,"rng_nm":18,"alt_fmsl":394,"id":"WRO","rwy":"30","desc":"DME-ILS"}
+]
+}

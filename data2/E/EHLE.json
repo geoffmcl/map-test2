@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHLE","name":"Lelystad Airport","lat":52.45593600,"lon":5.51780700,"rwys":2,"ils":1,"elev":-39,"index":3040154,"path":"e000n50/e005n52"
+,"runways":[
+{"len_m":1250,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":52.45116000,"lon1":5.51101000,"rwy2":"23","lat2":52.45874000,"lon2":5.52459117},
+{"len_m":431,"wid_m":49.99,"hdg":48,"surf":"Turf/grass","rwy1":"05L","lat1":52.46250929,"lon1":5.51956220,"rwy2":"23R","lat2":52.46509866,"lon2":5.52428231}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.68,"desc":"Lelystad Radio"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":52.44899400,"lon":5.50718400,"rng_nm":18,"alt_fmsl":1,"hdg":227.37,"id":"LSD","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":52.45771000,"lon":5.52400400,"rng_nm":15,"alt_fmsl":1,"id":"LSD","rwy":"05","desc":"GS","gs":3}
+]
+}

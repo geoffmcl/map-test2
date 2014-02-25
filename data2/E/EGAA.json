@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGAA","name":"Belfast Aldergrove","lat":54.65351500,"lon":-6.22281000,"rwys":2,"ils":2,"elev":268,"index":2843691,"path":"w010n50/w007n54"
+,"runways":[
+{"len_m":2779,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":54.65225600,"lon1":-6.23523900,"rwy2":"25","lat2":54.66277800,"lon2":-6.19617800},
+{"len_m":1799,"wid_m":45.11,"hdg":161,"surf":"Asphalt","rwy1":"17","lat1":54.65792200,"lon1":-6.22862200,"rwy2":"35","lat2":54.64255600,"lon2":-6.21998600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.19,"desc":"ATIS"},
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":128.8,"desc":"unnamed entity"},
+{"type":"APP","freq":120.9,"desc":"DIRECTOR"},
+{"type":"APP","freq":128.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":54.64111900,"lon":-6.21918100,"rng_nm":18,"alt_fmsl":258,"hdg":162.00,"id":"IFT","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":54.65071400,"lon":-6.24096700,"rng_nm":18,"alt_fmsl":206,"hdg":245.01,"id":"IAG","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":54.65522500,"lon":-6.22905600,"rng_nm":10,"alt_fmsl":253,"id":"IFT","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":54.66042800,"lon":-6.20036900,"rng_nm":10,"alt_fmsl":305,"id":"IAG","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":54.69264700,"lon":-6.08535800,"rng_nm":0,"alt_fmsl":268,"id":"----","rwy":"25","desc":"OM"},
+{"type":"DME","freq":110.9,"lat":54.65522500,"lon":-6.22905600,"rng_nm":18,"alt_fmsl":253,"id":"IFT","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":54.66042800,"lon":-6.20036900,"rng_nm":18,"alt_fmsl":305,"id":"IAG","rwy":"25","desc":"DME-ILS"}
+]
+}

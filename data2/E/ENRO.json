@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENRO","name":"Roros","lat":62.5791445,"lon":11.344735,"rwys":1,"ils":1,"elev":2054,"index":3139104,"path":"e010n60/e011n62"
+,"runways":[
+{"len_m":1720,"wid_m":39.93,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":62.58470300,"lon1":11.33312800,"rwy2":"32","lat2":62.57358600,"lon2":11.35634200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":62.57929200,"lon":11.33632500,"rng_nm":18,"alt_fmsl":2075,"hdg":307.12,"id":"RO","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":62.57512500,"lon":11.35023300,"rng_nm":10,"alt_fmsl":2054,"id":"RO","rwy":"32","desc":"GS","gs":3.3},
+{"type":"DME","freq":108.7,"lat":62.57512500,"lon":11.33632500,"rng_nm":18,"alt_fmsl":2054,"id":"RO","rwy":"32","desc":"DME-ILS"}
+]
+}

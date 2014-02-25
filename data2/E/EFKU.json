@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKU","name":"Kuopio","lat":63.00859900,"lon":27.79010200,"rwys":2,"ils":1,"elev":323,"index":3401281,"path":"e020n60/e027n63"
+,"runways":[
+{"len_m":2799,"wid_m":60.05,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":63.01808100,"lon1":27.78764400,"rwy2":"33","lat2":62.99492800,"lon2":27.80907500},
+{"len_m":1499,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":63.00480000,"lon1":27.78537200,"rwy2":"24","lat2":63.00997200,"lon2":27.81270600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":120.15,"desc":"TWR"},
+{"type":"APP","freq":130.6,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":63.03258300,"lon":27.77420300,"rng_nm":18,"alt_fmsl":323,"hdg":337.19,"id":"KU","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":62.99831400,"lon":27.80845800,"rng_nm":10,"alt_fmsl":323,"id":"KU","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":62.99831400,"lon":27.80845800,"rng_nm":18,"alt_fmsl":323,"id":"KU","rwy":"33","desc":"DME-ILS"}
+]
+}

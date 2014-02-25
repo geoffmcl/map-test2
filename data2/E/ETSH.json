@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETSH","name":"Holzdorf","lat":51.76561700,"lon":13.18029500,"rwys":1,"ils":1,"elev":265,"index":3171184,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":2420,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":51.76850000,"lon1":13.15016700,"rwy2":"27","lat2":51.76716700,"lon2":13.18516700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.8,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":130.5,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":129.85,"desc":"RADAR"},
+{"type":"APP","freq":126.42,"desc":"BERLIN ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":51.76883300,"lon":13.14283300,"rng_nm":18,"alt_fmsl":264,"hdg":273.62,"id":"IHDW","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":51.76633300,"lon":13.18050000,"rng_nm":10,"alt_fmsl":296,"id":"IHDW","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.76550000,"lon":13.24800000,"rng_nm":0,"alt_fmsl":294,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.76666700,"lon":13.19916700,"rng_nm":0,"alt_fmsl":277,"id":"----","rwy":"27","desc":"MM"}
+]
+}

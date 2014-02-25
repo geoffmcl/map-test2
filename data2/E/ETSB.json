@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETSB","name":"Buchel","lat":50.173808,"lon":7.063321,"rwys":1,"ils":0,"elev":1568,"index":3072776,"path":"e000n50/e007n50"
+,"runways":[
+{"len_m":2510,"wid_m":45.11,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":50.16396900,"lon1":7.05471100,"rwy2":"21","lat2":50.18364700,"lon2":7.07193100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"LANGEN CON"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":130.15,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

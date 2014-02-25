@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGCN","name":"Doncaster Sheffield","lat":53.48169100,"lon":-0.99598900,"rwys":1,"ils":1,"elev":55,"index":2941912,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":2737,"wid_m":60.05,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":53.46292863,"lon1":-1.01073080,"rwy2":"20","lat2":53.48636900,"lon2":-0.99821701}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.95,"desc":"ATIS"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":53.46145000,"lon":-1.01150800,"rng_nm":18,"alt_fmsl":55,"hdg":197.61,"id":"IFNL","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":53.48336900,"lon":-0.99785000,"rng_nm":10,"alt_fmsl":55,"id":"IFNL","rwy":"20","desc":"GS","gs":3},
+{"type":"DME","freq":110.95,"lat":53.47487200,"lon":-1.00198300,"rng_nm":18,"alt_fmsl":11,"id":"IFNL","rwy":"20","desc":"DME-ILS"}
+]
+}

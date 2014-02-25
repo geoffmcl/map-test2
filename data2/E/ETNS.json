@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETNS","name":"Schleswig","lat":54.458625,"lon":9.51683325,"rwys":2,"ils":0,"elev":70,"index":3105818,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":2433,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":54.45200000,"lon1":9.50250000,"rwy2":"23","lat2":54.46666700,"lon2":9.53033300},
+{"len_m":1997,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"07","lat1":54.45533300,"lon1":9.50250000,"rwy2":"25","lat2":54.46050000,"lon2":9.53200000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"BREMEN INFO"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":135.15,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

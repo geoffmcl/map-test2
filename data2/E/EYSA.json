@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EYSA","name":"Siauliai Intl","lat":55.89289675,"lon":23.39381725,"rwys":2,"ils":2,"elev":443,"index":3335289,"path":"e020n50/e023n55"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":146,"surf":"Concrete","rwy1":"14L","lat1":55.90690300,"lon1":23.37939700,"rwy2":"32R","lat2":55.88081700,"lon2":23.41059700},
+{"len_m":3281,"wid_m":32.00,"hdg":146,"surf":"Concrete","rwy1":"14R","lat1":55.90416400,"lon1":23.37801100,"rwy2":"32L","lat2":55.87970300,"lon2":23.40726400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":55.87820800,"lon":23.41371700,"rng_nm":18,"alt_fmsl":443,"hdg":146.17,"id":"ISZ","rwy":"14L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":55.90947200,"lon":23.37631700,"rng_nm":18,"alt_fmsl":443,"hdg":326.13,"id":"IDL","rwy":"32R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":55.90501700,"lon":23.38396400,"rng_nm":10,"alt_fmsl":443,"id":"ISZ","rwy":"14L","desc":"GS","gs":3},
+{"type":"GS","freq":108.7,"lat":55.88364400,"lon":23.40953100,"rng_nm":10,"alt_fmsl":443,"id":"IDL","rwy":"32R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":55.91469400,"lon":23.37007200,"rng_nm":0,"alt_fmsl":443,"id":"----","rwy":"14L","desc":"MM"},
+{"type":"MM","freq":0,"lat":55.87298600,"lon":23.41995000,"rng_nm":0,"alt_fmsl":443,"id":"----","rwy":"32R","desc":"MM"}
+]
+}

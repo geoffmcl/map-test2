@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNF","name":"Netherthorpe","lat":53.31707818,"lon":-1.19406053,"rwys":2,"ils":0,"elev":250,"index":2925523,"path":"w010n50/w002n53"
+,"runways":[
+{"len_m":447,"wid_m":35.97,"hdg":54,"surf":"Turf/grass","rwy1":"06","lat1":53.31575961,"lon1":-1.19897053,"rwy2":"24","lat2":53.31807873,"lon2":-1.19347898},
+{"len_m":394,"wid_m":17.98,"hdg":174,"surf":"Turf/grass","rwy1":"18","lat1":53.31863282,"lon1":-1.19581389,"rwy2":"36","lat2":53.31509989,"lon2":-1.19525284}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.28,"desc":"Netherthorpe Radio"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFTP","name":"Tampere Pirkkala","lat":61.41982300,"lon":23.61186900,"rwys":1,"ils":1,"elev":390,"index":3335642,"path":"e020n60/e023n61"
+,"runways":[
+{"len_m":2700,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":61.40892200,"lon1":23.58158600,"rwy2":"24","lat2":61.41936900,"lon2":23.62720800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.55,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"PIRKKALA TWR"},
+{"type":"TWR","freq":119.7,"desc":"PIRKKALA TWR"},
+{"type":"APP","freq":126.2,"desc":"PIRKKALA APP"},
+{"type":"APP","freq":119.7,"desc":"PIRKKALA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":61.40672200,"lon":23.57199200,"rng_nm":18,"alt_fmsl":390,"hdg":244.40,"id":"TP","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":61.41918600,"lon":23.62116900,"rng_nm":10,"alt_fmsl":390,"id":"TP","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":61.44659700,"lon":23.74835600,"rng_nm":0,"alt_fmsl":390,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":61.42378600,"lon":23.64649700,"rng_nm":0,"alt_fmsl":390,"id":"----","rwy":"24","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPPW","name":"Powidz","lat":52.380675865,"lon":17.8500929725,"rwys":4,"ils":0,"elev":380,"index":3236763,"path":"e010n50/e017n52"
+,"runways":[
+{"len_m":3521,"wid_m":60.05,"hdg":107,"surf":"Concrete","rwy1":"11R","lat1":52.38382800,"lon1":17.82741400,"rwy2":"29L","lat2":52.37439700,"lon2":17.87677200},
+{"len_m":2727,"wid_m":29.87,"hdg":107,"surf":"Concrete","rwy1":"11L","lat1":52.38598900,"lon1":17.82850000,"rwy2":"29R","lat2":52.37861900,"lon2":17.86670300},
+{"len_m":2722,"wid_m":29.87,"hdg":107,"surf":"Concrete","rwy1":"10L","lat1":52.38589660,"lon1":17.82911899,"rwy2":"28R","lat2":52.37859487,"lon2":17.86728382},
+{"len_m":3505,"wid_m":60.05,"hdg":107,"surf":"Concrete","rwy1":"10R","lat1":52.38375096,"lon1":17.82791067,"rwy2":"28L","lat2":52.37433150,"lon2":17.87704128}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.5,"desc":"INFO"}
+]
+,"ils":[
+]
+}

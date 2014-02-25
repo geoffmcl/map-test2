@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFSO","name":"Sodankyla","lat":67.39531200,"lon":26.61624500,"rwys":1,"ils":0,"elev":602,"index":3385177,"path":"e020n60/e026n67"
+,"runways":[
+{"len_m":1500,"wid_m":29.87,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":67.40154200,"lon1":26.61471400,"rwy2":"34","lat2":67.38852500,"lon2":26.62355300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

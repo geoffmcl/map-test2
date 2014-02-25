@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGOV","name":"Raf Valley","lat":53.25174182,"lon":-4.53640271,"rwys":3,"ils":1,"elev":37,"index":2876369,"path":"w010n50/w005n53"
+,"runways":[
+{"len_m":2306,"wid_m":46.94,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":53.25387576,"lon1":-4.54656255,"rwy2":"32","lat2":53.24042212,"lon2":-4.52028578},
+{"len_m":1668,"wid_m":47.85,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":53.24325645,"lon1":-4.54049179,"rwy2":"19","lat2":53.25816005,"lon2":-4.53780516},
+{"len_m":1275,"wid_m":46.94,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":53.24574146,"lon1":-4.54581003,"rwy2":"26","lat2":53.24971412,"lon2":-4.52788181}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.72,"desc":"ATIS"},
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":134.35,"desc":"APP"},
+{"type":"APP","freq":125.22,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":53.24311500,"lon":-4.52649900,"rng_nm":18,"alt_fmsl":37,"hdg":132.00,"id":"VY","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":53.25298100,"lon":-4.54160300,"rng_nm":10,"alt_fmsl":37,"id":"VY","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.31098400,"lon":-4.65409400,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.25955000,"lon":-4.55768300,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"14","desc":"MM"}
+]
+}

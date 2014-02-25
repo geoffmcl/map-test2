@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EBCI","name":"Brussels South - Charleroi","lat":50.45861182,"lon":4.45498645,"rwys":1,"ils":1,"elev":614,"index":3023641,"path":"e000n50/e004n50"
+,"runways":[
+{"len_m":2558,"wid_m":45.11,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":50.45519572,"lon1":4.43671866,"rwy2":"25","lat2":50.46469754,"lon2":4.46953051}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.62,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"CHARLEROI GND"},
+{"type":"TWR","freq":121.3,"desc":"CHARLEROI TWR"},
+{"type":"APP","freq":133.12,"desc":"CHARLEROI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":50.45452900,"lon":4.43452000,"rng_nm":18,"alt_fmsl":614,"hdg":245.54,"id":"IGC","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":50.46262900,"lon":4.46658900,"rng_nm":10,"alt_fmsl":614,"id":"IGC","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.48944400,"lon":4.55527800,"rng_nm":0,"alt_fmsl":614,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.46888900,"lon":4.48472200,"rng_nm":0,"alt_fmsl":614,"id":"----","rwy":"25","desc":"MM"}
+]
+}

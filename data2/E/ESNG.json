@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNG","name":"Gallivare","lat":67.13592500,"lon":20.81192200,"rwys":1,"ils":1,"elev":1027,"index":3286857,"path":"e020n60/e020n67"
+,"runways":[
+{"len_m":1713,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":67.13600800,"lon1":20.79718600,"rwy2":"30","lat2":67.12880600,"lon2":20.83208300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":67.13652800,"lon":20.79463900,"rng_nm":18,"alt_fmsl":1027,"hdg":297.94,"id":"NG","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":67.12886100,"lon":20.82563900,"rng_nm":10,"alt_fmsl":1027,"id":"NG","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":67.10391700,"lon":20.95202800,"rng_nm":0,"alt_fmsl":1027,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":67.12497200,"lon":20.85066700,"rng_nm":0,"alt_fmsl":1027,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":108.1,"lat":67.13483300,"lon":20.81261100,"rng_nm":18,"alt_fmsl":1034,"id":"NG","rwy":"30","desc":"DME-ILS"}
+]
+}

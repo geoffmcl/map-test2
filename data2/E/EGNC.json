@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNC","name":"Carlisle","lat":54.938323125,"lon":-2.81013243,"rwys":2,"ils":0,"elev":190,"index":2909240,"path":"w010n50/w003n54"
+,"runways":[
+{"len_m":1824,"wid_m":29.87,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":54.93330280,"lon1":-2.82130962,"rwy2":"25","lat2":54.94163001,"lon2":-2.79680056},
+{"len_m":929,"wid_m":22.86,"hdg":1,"surf":"Asphalt","rwy1":"01","lat1":54.93500800,"lon1":-2.81135300,"rwy2":"19","lat2":54.94335170,"lon2":-2.81106653}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"Carlisle Info"},
+{"type":"TWR","freq":123.6,"desc":"Carlisle Tower"}
+]
+,"ils":[
+]
+}

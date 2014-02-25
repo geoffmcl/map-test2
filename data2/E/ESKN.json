@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESKN","name":"Stockholm Skavsta","lat":58.78572100,"lon":16.91843800,"rwys":2,"ils":2,"elev":140,"index":3220787,"path":"e010n50/e016n58"
+,"runways":[
+{"len_m":2877,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":58.78666200,"lon1":16.88036700,"rwy2":"26","lat2":58.78977200,"lon2":16.92977200},
+{"len_m":2039,"wid_m":39.93,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":58.80135600,"lon1":16.90407800,"rwy2":"34","lat2":58.78396700,"lon2":16.91509400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.75,"desc":"ATIS"},
+{"type":"TWR","freq":127.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":58.78647200,"lon":16.87755600,"rng_nm":18,"alt_fmsl":140,"hdg":263.02,"id":"EKN","rwy":"26","desc":"ILS-cat-I"},
+{"type":"LOC","freq":111.3,"lat":58.78997200,"lon":16.93277800,"rng_nm":18,"alt_fmsl":140,"id":"WEK","rwy":"08","desc":"LOC"},
+{"type":"GS","freq":111.9,"lat":58.79052800,"lon":16.92455600,"rng_nm":10,"alt_fmsl":140,"id":"EKN","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":58.79608150,"lon":16.04427720,"rng_nm":0,"alt_fmsl":140,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.79080600,"lon":16.94608300,"rng_nm":0,"alt_fmsl":140,"id":"----","rwy":"26","desc":"MM"}
+]
+}

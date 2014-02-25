@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDOP","name":"Schwerin Parchim","lat":53.43247964,"lon":11.78417164,"rwys":1,"ils":1,"elev":166,"index":3138523,"path":"e010n50/e011n53"
+,"runways":[
+{"len_m":2997,"wid_m":54.86,"hdg":65,"surf":"Concrete","rwy1":"06","lat1":53.42132361,"lon1":11.76300720,"rwy2":"24","lat2":53.43268600,"lon2":11.80389400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.80,"hdg":11,"surf":"Concrete","lat1":53.43315168,"lon1":11.78821403}
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"ATIS","freq":128.9,"desc":"PARCHIM INFO"},
+{"type":"TWR","freq":128.9,"desc":"PARCHIM TWR"},
+{"type":"APP","freq":126.17,"desc":"BERLIN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":53.41996400,"lon":11.75815800,"rng_nm":18,"alt_fmsl":147,"hdg":244.96,"id":"IPAW","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":53.42991700,"lon":11.80034400,"rng_nm":10,"alt_fmsl":166,"id":"IPAW","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":53.46131700,"lon":11.90715800,"rng_nm":0,"alt_fmsl":166,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.43647500,"lon":11.81753600,"rng_nm":0,"alt_fmsl":166,"id":"----","rwy":"24","desc":"MM"}
+]
+}

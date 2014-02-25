@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGBW","name":"Wellesbourne Mountford","lat":52.19132524,"lon":-1.61855722,"rwys":2,"ils":0,"elev":159,"index":2925449,"path":"w010n50/w002n52"
+,"runways":[
+{"len_m":912,"wid_m":22.86,"hdg":176,"surf":"Asphalt","rwy1":"18","lat1":52.19629700,"lon1":-1.61485300,"rwy2":"36","lat2":52.18811700,"lon2":-1.61395000},
+{"len_m":584,"wid_m":17.98,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":52.18724400,"lon1":-1.61755600,"rwy2":"23","lat2":52.19092800,"lon2":-1.61146900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.02,"desc":"INFO"}
+]
+,"ils":[
+]
+}

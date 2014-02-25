@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPDE","name":"Deblin","lat":51.55167325,"lon":21.87441570,"rwys":1,"ils":0,"elev":388,"index":3302243,"path":"e020n50/e021n51"
+,"runways":[
+{"len_m":2508,"wid_m":60.05,"hdg":120,"surf":"Asphalt","rwy1":"12","lat1":51.55688638,"lon1":21.87548337,"rwy2":"30","lat2":51.54547401,"lon2":21.90666598}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"AFIS INFO"},
+{"type":"TWR","freq":122.75,"desc":"DEBLIN TOWER"},
+{"type":"APP","freq":128.25,"desc":"DEBLIN APPROACH"}
+]
+,"ils":[
+]
+}

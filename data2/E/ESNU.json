@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNU","name":"Umea","lat":63.79282800,"lon":20.28276100,"rwys":1,"ils":2,"elev":24,"index":3286640,"path":"e020n60/e020n63"
+,"runways":[
+{"len_m":2301,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":63.79854200,"lon1":20.26930800,"rwy2":"32","lat2":63.78308600,"lon2":20.30026400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.07,"desc":"TWR"},
+{"type":"TWR","freq":119.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":63.78163900,"lon":20.30316700,"rng_nm":18,"alt_fmsl":24,"hdg":138.52,"id":"NU","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":63.79972200,"lon":20.26694400,"rng_nm":18,"alt_fmsl":24,"hdg":318.49,"id":"SNU","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":63.79502800,"lon":20.27230600,"rng_nm":10,"alt_fmsl":24,"id":"NU","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":63.78486100,"lon":20.29344400,"rng_nm":10,"alt_fmsl":24,"id":"SNU","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":63.84413910,"lon":20.17533300,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"14","desc":"OM"},
+{"type":"OM","freq":0,"lat":63.72380450,"lon":20.41563990,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":63.80652800,"lon":20.25330600,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"14","desc":"MM"},
+{"type":"MM","freq":0,"lat":63.77630600,"lon":20.31380600,"rng_nm":0,"alt_fmsl":24,"id":"----","rwy":"32","desc":"MM"}
+]
+}

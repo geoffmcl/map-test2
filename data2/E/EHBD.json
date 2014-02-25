@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EHBD","name":"Budel","lat":51.25718700,"lon":5.60195000,"rwys":1,"ils":1,"elev":114,"index":3040082,"path":"e000n50/e005n51"
+,"runways":[
+{"len_m":1198,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":51.25152200,"lon1":5.59765200,"rwy2":"21","lat2":51.26085200,"lon2":5.60624800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.15,"desc":"INFO"},
+{"type":"TWR","freq":122.15,"desc":"RDO"}
+]
+,"ils":[
+{"type":"LOC","freq":109.25,"lat":51.25017900,"lon":5.59641100,"rng_nm":18,"alt_fmsl":0,"id":"BUL","rwy":"21","desc":"LOC"}
+]
+}

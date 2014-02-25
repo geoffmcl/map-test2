@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDDR","name":"Saarbrucken","lat":49.21910840,"lon":7.11238423,"rwys":2,"ils":1,"elev":1057,"index":3072712,"path":"e000n40/e007n49"
+,"runways":[
+{"len_m":1971,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":49.21416996,"lon1":7.09642507,"rwy2":"27","lat2":49.21497395,"lon2":7.12345547},
+{"len_m":545,"wid_m":49.99,"hdg":87,"surf":"Turf/grass","rwy1":"09L","lat1":49.21599035,"lon1":7.11154326,"rwy2":"27R","lat2":49.21623765,"lon2":7.11901674}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.3,"desc":"ATIS"},
+{"type":"TWR","freq":118.35,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":49.21412200,"lon":7.09494200,"rng_nm":25,"alt_fmsl":1021,"hdg":267.37,"id":"DSB","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":49.21375000,"lon":7.11890000,"rng_nm":10,"alt_fmsl":1056,"id":"DSB","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.21776900,"lon":7.21951100,"rng_nm":0,"alt_fmsl":1057,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.21538900,"lon":7.13801100,"rng_nm":0,"alt_fmsl":1057,"id":"----","rwy":"27","desc":"MM"}
+]
+}

@@ -1,0 +1,33 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDDS","name":"Stuttgart","lat":48.68462203,"lon":9.22023699,"rwys":1,"ils":3,"elev":1273,"index":3105448,"path":"e000n40/e009n48"
+,"runways":[
+{"len_m":3345,"wid_m":45.11,"hdg":74,"surf":"Concrete","rwy1":"07","lat1":48.68573500,"lon1":9.20011700,"rwy2":"25","lat2":48.69401700,"lon2":9.24380600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":9,"surf":"Concrete","lat1":48.68324090,"lon1":9.19702618},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":9,"surf":"Concrete","lat1":48.69053970,"lon1":9.21986106}
+]
+,"radios":[
+{"type":"ATIS","freq":126.12,"desc":"STUTTGART ATIS"},
+{"type":"CTAF","freq":125.05,"desc":"LANGEN RADAR"},
+{"type":"CTAF","freq":119.2,"desc":"LANGEN RADAR"},
+{"type":"CTAF","freq":121.5,"desc":"STUTTGART EMERGENCY"},
+{"type":"CLD","freq":121.9,"desc":"STUTTGART DELIVERY"},
+{"type":"GND","freq":118.6,"desc":"STUTTGART GROUND"},
+{"type":"TWR","freq":119.05,"desc":"STUTTGART TOWER"},
+{"type":"TWR","freq":118.8,"desc":"STUTTGART TOWER"},
+{"type":"APP","freq":119.85,"desc":"STUTTGART DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":48.69472200,"lon":9.24753600,"rng_nm":18,"alt_fmsl":1181,"hdg":73.99,"id":"ISTE","rwy":"07","desc":"ILS-cat-II"},
+{"type":"ILS","freq":109.9,"lat":48.68363300,"lon":9.18906700,"rng_nm":18,"alt_fmsl":1267,"hdg":253.95,"id":"ISTW","rwy":"25","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.9,"lat":48.68633600,"lon":9.20920600,"rng_nm":10,"alt_fmsl":1267,"id":"ISTE","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":48.69225600,"lon":9.24044200,"rng_nm":10,"alt_fmsl":1181,"id":"ISTW","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.66924400,"lon":9.11420300,"rng_nm":0,"alt_fmsl":1273,"id":"----","rwy":"07","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.71128900,"lon":9.33504200,"rng_nm":0,"alt_fmsl":1273,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.68361400,"lon":9.18896700,"rng_nm":0,"alt_fmsl":1273,"id":"----","rwy":"07","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.69632800,"lon":9.25599200,"rng_nm":0,"alt_fmsl":1273,"id":"----","rwy":"25","desc":"MM"},
+{"type":"DME","freq":115.45,"lat":48.68794700,"lon":9.22410600,"rng_nm":18,"alt_fmsl":1332,"id":"ISTE","rwy":"07","desc":"DME-ILS"},
+{"type":"DME","freq":115.45,"lat":48.68794700,"lon":9.22410600,"rng_nm":18,"alt_fmsl":1332,"id":"ISTW","rwy":"25","desc":"DME-ILS"}
+]
+}

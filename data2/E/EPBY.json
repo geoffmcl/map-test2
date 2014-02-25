@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPBY","name":"Bydgoszcz Szwederowo","lat":53.09402300,"lon":17.99666800,"rwys":4,"ils":1,"elev":236,"index":3236803,"path":"e010n50/e017n53"
+,"runways":[
+{"len_m":2511,"wid_m":60.05,"hdg":82,"surf":"Concrete","rwy1":"08","lat1":53.09528822,"lon1":17.95906225,"rwy2":"26","lat2":53.09841521,"lon2":17.99618608},
+{"len_m":652,"wid_m":99.97,"hdg":85,"surf":"Turf/grass","rwy1":"08L","lat1":53.10642096,"lon1":17.95591450,"rwy2":"26R","lat2":53.10693081,"lon2":17.96562195},
+{"len_m":652,"wid_m":99.97,"hdg":119,"surf":"Turf/grass","rwy1":"12","lat1":53.10523998,"lon1":17.95549416,"rwy2":"30","lat2":53.10232430,"lon2":17.96394078},
+{"len_m":591,"wid_m":99.97,"hdg":30,"surf":"Turf/grass","rwy1":"03","lat1":53.10237813,"lon1":17.96067066,"rwy2":"21","lat2":53.10697631,"lon2":17.96509290}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131,"desc":"Bydgoszcz TOWER"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":53.09471900,"lon":17.95291700,"rng_nm":18,"alt_fmsl":234,"hdg":262.00,"id":"BYD","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":53.09693100,"lon":17.99213600,"rng_nm":10,"alt_fmsl":234,"id":"BYD","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":53.09693100,"lon":17.99213600,"rng_nm":18,"alt_fmsl":295,"id":"BYD","rwy":"26","desc":"DME-ILS"}
+]
+}

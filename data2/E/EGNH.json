@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNH","name":"Blackpool","lat":53.77638928,"lon":-3.03874305,"rwys":3,"ils":1,"elev":34,"index":2892787,"path":"w010n50/w004n53"
+,"runways":[
+{"len_m":1868,"wid_m":46.02,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":53.77223900,"lon1":-3.04268600,"rwy2":"28","lat2":53.77087800,"lon2":-3.01443900},
+{"len_m":926,"wid_m":22.86,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":53.77371100,"lon1":-3.04196700,"rwy2":"31","lat2":53.76866400,"lon2":-3.03078900},
+{"len_m":1284,"wid_m":29.87,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":53.77222534,"lon1":-3.04190947,"rwy2":"25","lat2":53.77657823,"lon2":-3.02386217}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"Blackpool Information"},
+{"type":"TWR","freq":118.4,"desc":"Blackpool Tower"},
+{"type":"APP","freq":119.95,"desc":"Blackpool Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.15,"lat":53.77242800,"lon":-3.04662500,"rng_nm":18,"alt_fmsl":55,"hdg":274.64,"id":"IBPL","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.15,"lat":53.76992500,"lon":-3.01881700,"rng_nm":10,"alt_fmsl":55,"id":"IBPL","rwy":"28","desc":"GS","gs":3}
+]
+}

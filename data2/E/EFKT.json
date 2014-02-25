@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFKT","name":"Kittila","lat":67.69566300,"lon":24.85803600,"rwys":1,"ils":1,"elev":644,"index":3352425,"path":"e020n60/e024n67"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"16","lat1":67.71190300,"lon1":24.83976400,"rwy2":"34","lat2":67.69014200,"lon2":24.85393300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.85,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"},
+{"type":"TWR","freq":118.95,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":67.71453900,"lon":24.83804400,"rng_nm":18,"alt_fmsl":644,"hdg":346.11,"id":"KT","rwy":"34","desc":"ILS-cat-I"},
+{"type":"LOC","freq":111.9,"lat":67.69336400,"lon":24.84970800,"rng_nm":18,"alt_fmsl":644,"id":"HOU","rwy":"16","desc":"LOC"},
+{"type":"GS","freq":111.9,"lat":67.69321400,"lon":24.84929400,"rng_nm":10,"alt_fmsl":644,"id":"KT","rwy":"34","desc":"GS","gs":3.4},
+{"type":"DME","freq":111.9,"lat":67.69321400,"lon":24.84929400,"rng_nm":18,"alt_fmsl":644,"id":"HOU","rwy":"16","desc":"DME-ILS"}
+]
+}

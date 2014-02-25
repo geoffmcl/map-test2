@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENBL","name":"Bringeland","lat":61.39084889,"lon":5.76338914,"rwys":1,"ils":2,"elev":1046,"index":3040731,"path":"e000n60/e005n61"
+,"runways":[
+{"len_m":950,"wid_m":29.87,"hdg":73,"surf":"Asphalt","rwy1":"07","lat1":61.39062800,"lon1":5.75279200,"rwy2":"25","lat2":61.39300300,"lon2":5.76986800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.45,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":61.39056944,"lon":5.75999722,"rng_nm":50,"alt_fmsl":1091,"id":"BL","rwy":"07","desc":"LOC"},
+{"type":"LOC","freq":109.35,"lat":61.38829440,"lon":5.74380833,"rng_nm":50,"alt_fmsl":1054,"id":"FD","rwy":"25","desc":"LOC"},
+{"type":"DME","freq":110.7,"lat":61.39056944,"lon":5.75999722,"rng_nm":50,"alt_fmsl":1091,"id":"BL","rwy":"07","desc":"DME-ILS"},
+{"type":"DME","freq":109.35,"lat":61.38829440,"lon":5.74380833,"rng_nm":50,"alt_fmsl":1054,"id":"FD","rwy":"25","desc":"DME-ILS"}
+]
+}

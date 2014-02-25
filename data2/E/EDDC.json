@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDDC","name":"Dresden","lat":51.12841714,"lon":13.76738466,"rwys":1,"ils":2,"elev":752,"index":3171147,"path":"e010n50/e013n51"
+,"runways":[
+{"len_m":2853,"wid_m":60.05,"hdg":40,"surf":"Concrete","rwy1":"04","lat1":51.12466300,"lon1":13.75474000,"rwy2":"22","lat2":51.14406833,"lon2":13.78138955}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":13,"surf":"Transparent","lat1":51.13277778,"lon1":13.77194444}
+]
+,"radios":[
+{"type":"ATIS","freq":118.87,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":122.92,"desc":"TWR"},
+{"type":"APP","freq":125.62,"desc":"BERLIN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":51.14605278,"lon":13.78412222,"rng_nm":18,"alt_fmsl":703,"hdg":40.83,"id":"IDRE","rwy":"04","desc":"ILS-cat-II"},
+{"type":"ILS","freq":109.7,"lat":51.12263333,"lon":13.75188333,"rng_nm":18,"alt_fmsl":755,"hdg":220.81,"id":"IDRW","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":51.12746111,"lon":13.75621667,"rng_nm":10,"alt_fmsl":755,"id":"IDRE","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":109.7,"lat":51.14081111,"lon":13.77459444,"rng_nm":10,"alt_fmsl":703,"id":"IDRW","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.07466400,"lon":13.68794400,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"04","desc":"OM"},
+{"type":"MM","freq":0,"lat":51.11698611,"lon":13.74552222,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":51.14976111,"lon":13.79049444,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"22","desc":"MM"}
+]
+}

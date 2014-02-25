@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDHK","name":"Kiel Holtenau","lat":54.38307249,"lon":10.14395598,"rwys":2,"ils":1,"elev":101,"index":3122200,"path":"e010n50/e010n54"
+,"runways":[
+{"len_m":1265,"wid_m":29.87,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":54.37870786,"lon1":10.13552874,"rwy2":"26","lat2":54.38028914,"lon2":10.15480763},
+{"len_m":451,"wid_m":29.87,"hdg":80,"surf":"Turf/grass","rwy1":"08L","lat1":54.38105217,"lon1":10.14121006,"rwy2":"26R","lat2":54.38171020,"lon2":10.14807122}
+]
+,"helipads":[
+{"rwy1":"H","len_m":35,"wid_m":35.97,"hdg":10,"surf":"Concrete","lat1":54.38123583,"lon1":10.15271891}
+]
+,"radios":[
+{"type":"GND","freq":125.6,"desc":"GND"},
+{"type":"TWR","freq":119.97,"desc":"TWR"},
+{"type":"TWR","freq":125.1,"desc":"BREMEN Information"},
+{"type":"APP","freq":136.22,"desc":"BREMEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":54.38048040,"lon":10.15713981,"rng_nm":18,"alt_fmsl":87,"hdg":81.98,"id":"IKHE","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":54.37861900,"lon":10.13336700,"rng_nm":18,"alt_fmsl":97,"hdg":262.37,"id":"IKHW","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":54.37788600,"lon":10.14127800,"rng_nm":10,"alt_fmsl":99,"id":"IKHE","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":54.37854700,"lon":10.15005300,"rng_nm":10,"alt_fmsl":99,"id":"IKHW","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":54.37198300,"lon":10.03185800,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"08","desc":"OM"},
+{"type":"OM","freq":0,"lat":54.38756100,"lon":10.25910800,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.37757200,"lon":10.12002200,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":54.38139400,"lon":10.16776700,"rng_nm":0,"alt_fmsl":101,"id":"----","rwy":"26","desc":"MM"}
+]
+}

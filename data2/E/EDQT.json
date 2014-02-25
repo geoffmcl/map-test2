@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDQT","name":"Hassfurt Schweinfurt","lat":50.0180515,"lon":10.5294455,"rwys":1,"ils":0,"elev":718,"index":3121922,"path":"e010n50/e010n50"
+,"runways":[
+{"len_m":1103,"wid_m":20.12,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":50.02003900,"lon1":10.52239400,"rwy2":"29","lat2":50.01606400,"lon2":10.53649700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.8,"desc":"INFO"},
+{"type":"TWR","freq":125.8,"desc":"MUNCHEN INFO"}
+]
+,"ils":[
+]
+}

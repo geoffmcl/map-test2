@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E13","name":"Crane Co","lat":31.4175463333333,"lon":-102.3660185,"rwys":3,"ils":0,"elev":2552,"index":1269338,"path":"w110n30/w103n31"
+,"runways":[
+{"len_m":1123,"wid_m":21.34,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":31.42138900,"lon1":-102.37194400,"rwy2":"30","lat2":31.41500000,"lon2":-102.36277800},
+{"len_m":1027,"wid_m":15.24,"hdg":163,"surf":"Asphalt","rwy1":"15","lat1":31.42388900,"lon1":-102.36583300,"rwy2":"33","lat2":31.41500000,"lon2":-102.36277800},
+{"len_m":686,"wid_m":15.24,"hdg":89,"surf":"Gravel","rwy1":"08","lat1":31.41500000,"lon1":-102.37000000,"rwy2":"26","lat2":31.41500000,"lon2":-102.36277800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

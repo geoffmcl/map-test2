@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNJ","name":"Jokkmokk","lat":66.496236,"lon":20.1471805,"rwys":1,"ils":0,"elev":904,"index":3286808,"path":"e020n60/e020n66"
+,"runways":[
+{"len_m":1996,"wid_m":24.99,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":66.50350000,"lon1":20.13408300,"rwy2":"32","lat2":66.48897200,"lon2":20.16027800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.85,"desc":"AFIS"},
+{"type":"TWR","freq":124.85,"desc":"MIL INFO"},
+{"type":"APP","freq":133,"desc":"CON"},
+{"type":"APP","freq":124.85,"desc":"CON"}
+]
+,"ils":[
+]
+}

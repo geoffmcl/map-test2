@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESUP","name":"Pajala","lat":67.24456000,"lon":23.08539200,"rwys":1,"ils":1,"elev":542,"index":3336008,"path":"e020n60/e023n67"
+,"runways":[
+{"len_m":1420,"wid_m":29.87,"hdg":118,"surf":"Asphalt","rwy1":"11","lat1":67.24884200,"lon1":23.05452500,"rwy2":"29","lat2":67.24282500,"lon2":23.08352800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":67.24008300,"lon":23.09669400,"rng_nm":18,"alt_fmsl":542,"hdg":118.26,"id":"IUP","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":67.24858300,"lon":23.06172200,"rng_nm":10,"alt_fmsl":542,"id":"IUP","rwy":"11","desc":"GS","gs":3},
+{"type":"DME","freq":111.5,"lat":67.24008300,"lon":23.09669400,"rng_nm":18,"alt_fmsl":551,"id":"IUP","rwy":"11","desc":"DME-ILS"}
+]
+}

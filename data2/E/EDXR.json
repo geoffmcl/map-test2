@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDXR","name":"Rendsburg Schachtholm","lat":54.2195675,"lon":9.601541,"rwys":2,"ils":0,"elev":23,"index":3105802,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":959,"wid_m":29.87,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":54.21737800,"lon1":9.59662200,"rwy2":"21","lat2":54.22448300,"lon2":9.60496400},
+{"len_m":599,"wid_m":29.87,"hdg":118,"surf":"Turf/grass","rwy1":"12","lat1":54.21949200,"lon1":9.59824900,"rwy2":"30","lat2":54.21691700,"lon2":9.60632900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.1,"desc":"BREMEN INFO"},
+{"type":"TWR","freq":123.65,"desc":"INFO"}
+]
+,"ils":[
+]
+}

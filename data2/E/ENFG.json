@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENFG","name":"Leirin","lat":61.0113055,"lon":9.2931985,"rwys":1,"ils":1,"elev":2697,"index":3106241,"path":"e000n60/e009n61"
+,"runways":[
+{"len_m":2048,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":61.01922200,"lon1":9.28356900,"rwy2":"33","lat2":61.00338900,"lon2":9.30282800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.92,"desc":"INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":110.5,"lat":61.02261100,"lon":9.27944400,"rng_nm":18,"alt_fmsl":2800,"id":"LL","rwy":"33","desc":"LOC"}
+]
+}

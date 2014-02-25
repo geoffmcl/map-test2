@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXH","name":"Raf Honington","lat":52.34117031,"lon":0.77931455,"rwys":1,"ils":0,"elev":174,"index":2958227,"path":"e000n50/e000n52"
+,"runways":[
+{"len_m":2743,"wid_m":60.96,"hdg":81,"surf":"Asphalt","rwy1":"09","lat1":52.34095361,"lon1":0.75311440,"rwy2":"27","lat2":52.34468639,"lon2":0.79290360}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Honington Tower"},
+{"type":"APP","freq":128.9,"desc":"Lakenheath Radar"},
+{"type":"APP","freq":123.3,"desc":"Honington Approach"}
+]
+,"ils":[
+]
+}

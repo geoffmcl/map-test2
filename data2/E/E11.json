@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E11","name":"Andrews Co","lat":32.3307221666667,"lon":-102.5289365,"rwys":3,"ils":0,"elev":3174,"index":1269393,"path":"w110n30/w103n32"
+,"runways":[
+{"len_m":1772,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":32.34011400,"lon1":-102.53393300,"rwy2":"34","lat2":32.32471400,"lon2":-102.52889400},
+{"len_m":928,"wid_m":22.86,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":32.33095800,"lon1":-102.53055000,"rwy2":"29","lat2":32.32645800,"lon2":-102.52223100},
+{"len_m":895,"wid_m":22.86,"hdg":26,"surf":"Asphalt","rwy1":"02","lat1":32.32742500,"lon1":-102.53111100,"rwy2":"20","lat2":32.33466400,"lon2":-102.52690000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"MIDLAND APP/DEP"}
+]
+,"ils":[
+]
+}

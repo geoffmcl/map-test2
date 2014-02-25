@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENZV","name":"Stavanger Lufthavn Sola","lat":58.88662035,"lon":5.63091020,"rwys":2,"ils":3,"elev":29,"index":3040570,"path":"e000n50/e005n58"
+,"runways":[
+{"len_m":2555,"wid_m":60.05,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":58.89370000,"lon1":5.63732800,"rwy2":"36","lat2":58.87076000,"lon2":5.63801000},
+{"len_m":2451,"wid_m":45.11,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":58.88178900,"lon1":5.60479200,"rwy2":"29","lat2":58.87560800,"lon2":5.64558900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"RADAR"},
+{"type":"APP","freq":118.5,"desc":"ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":58.87526700,"lon":5.64785600,"rng_nm":18,"alt_fmsl":37,"hdg":106.35,"id":"ZL","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":58.86682800,"lon":5.63812800,"rng_nm":18,"alt_fmsl":29,"hdg":179.12,"id":"ZV","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.35,"lat":58.89510800,"lon":5.63728900,"rng_nm":18,"alt_fmsl":79,"hdg":359.12,"id":"SL","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":58.87988900,"lon":5.61086100,"rng_nm":10,"alt_fmsl":29,"id":"ZL","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":58.89032200,"lon":5.63925000,"rng_nm":10,"alt_fmsl":29,"id":"ZV","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":111.35,"lat":58.87382500,"lon":5.64000000,"rng_nm":10,"alt_fmsl":29,"id":"SL","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":58.95715600,"lon":5.63538300,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.90497200,"lon":5.64172200,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"18","desc":"MM"},
+{"type":"IM","freq":0,"lat":58.88194400,"lon":5.60358100,"rng_nm":0,"alt_fmsl":29,"id":"----","rwy":"11","desc":"IM"},
+{"type":"DME","freq":109.5,"lat":58.87988900,"lon":5.61086100,"rng_nm":18,"alt_fmsl":37,"id":"ZL","rwy":"11","desc":"DME-ILS"},
+{"type":"DME","freq":111.35,"lat":58.87383900,"lon":5.63999700,"rng_nm":18,"alt_fmsl":79,"id":"SL","rwy":"36","desc":"DME-ILS"}
+]
+}

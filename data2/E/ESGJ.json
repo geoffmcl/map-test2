@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESGJ","name":"Jonkoping","lat":57.75058400,"lon":14.07025600,"rwys":2,"ils":1,"elev":741,"index":3187952,"path":"e010n50/e014n57"
+,"runways":[
+{"len_m":2203,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"01","lat1":57.74818900,"lon1":14.06298900,"rwy2":"19","lat2":57.76699700,"lon2":14.07447200},
+{"len_m":599,"wid_m":24.99,"hdg":114,"surf":"Dirt","rwy1":"11","lat1":57.75361100,"lon1":14.06888900,"rwy2":"29","lat2":57.75138900,"lon2":14.07805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":57.74519400,"lon":14.06116700,"rng_nm":18,"alt_fmsl":741,"hdg":198.03,"id":"SJ","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":57.76461100,"lon":14.07077800,"rng_nm":10,"alt_fmsl":741,"id":"SJ","rwy":"19","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":57.77613900,"lon":14.08005600,"rng_nm":0,"alt_fmsl":741,"id":"----","rwy":"19","desc":"MM"}
+]
+}

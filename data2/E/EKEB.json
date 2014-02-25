@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKEB","name":"Esbjerg","lat":55.52155400,"lon":8.54871500,"rwys":1,"ils":2,"elev":97,"index":3089506,"path":"e000n50/e008n55"
+,"runways":[
+{"len_m":2609,"wid_m":45.11,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":55.52385304,"lon1":8.53341049,"rwy2":"26","lat2":55.52812696,"lon2":8.57403151}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":68.88,"hdg":8,"surf":"Concrete","lat1":55.52424500,"lon1":8.55393800}
+]
+,"radios":[
+{"type":"TWR","freq":120.15,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":55.52838300,"lon":8.57666700,"rng_nm":18,"alt_fmsl":97,"hdg":79.54,"id":"OO","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":55.52319200,"lon":8.52728300,"rng_nm":18,"alt_fmsl":97,"hdg":259.42,"id":"ES","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":55.52325300,"lon":8.53828100,"rng_nm":10,"alt_fmsl":97,"id":"OO","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":55.52859700,"lon":8.56820600,"rng_nm":10,"alt_fmsl":97,"id":"ES","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":55.51143600,"lon":8.41271900,"rng_nm":0,"alt_fmsl":97,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":55.52145000,"lon":8.51031400,"rng_nm":0,"alt_fmsl":97,"id":"----","rwy":"08","desc":"MM"},
+{"type":"MM","freq":0,"lat":55.53050600,"lon":8.59691900,"rng_nm":0,"alt_fmsl":97,"id":"----","rwy":"26","desc":"MM"}
+]
+}

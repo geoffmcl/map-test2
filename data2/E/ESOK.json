@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESOK","name":"Karlstad","lat":59.44250500,"lon":13.34113900,"rwys":2,"ils":2,"elev":352,"index":3171673,"path":"e010n50/e013n59"
+,"runways":[
+{"len_m":2516,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":59.43453300,"lon1":13.32776400,"rwy2":"21","lat2":59.45489200,"lon2":13.34696700},
+{"len_m":559,"wid_m":51.82,"hdg":26,"surf":"Dirt","rwy1":"03L","lat1":59.45028300,"lon1":13.33753100,"rwy2":"21R","lat2":59.45479400,"lon2":13.34188300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.45,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":59.45730600,"lon":13.34925000,"rng_nm":18,"alt_fmsl":352,"hdg":25.63,"id":"SOK","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":59.43297200,"lon":13.32627800,"rng_nm":18,"alt_fmsl":352,"hdg":205.62,"id":"NOK","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":59.43755600,"lon":13.32822200,"rng_nm":10,"alt_fmsl":352,"id":"SOK","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":59.45269400,"lon":13.34250000,"rng_nm":10,"alt_fmsl":352,"id":"NOK","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":59.37705610,"lon":13.27372360,"rng_nm":0,"alt_fmsl":352,"id":"----","rwy":"03","desc":"OM"},
+{"type":"OM","freq":0,"lat":59.53205870,"lon":13.42000200,"rng_nm":0,"alt_fmsl":352,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.42602800,"lon":13.31975000,"rng_nm":0,"alt_fmsl":352,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":59.46338900,"lon":13.35497200,"rng_nm":0,"alt_fmsl":352,"id":"----","rwy":"21","desc":"MM"}
+]
+}

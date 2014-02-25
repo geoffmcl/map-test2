@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGNM","name":"Leeds Bradford","lat":53.86903310,"lon":-1.66001027,"rwys":1,"ils":1,"elev":681,"index":2925553,"path":"w010n50/w002n53"
+,"runways":[
+{"len_m":2252,"wid_m":46.02,"hdg":137,"surf":"Concrete","rwy1":"14","lat1":53.87351414,"lon1":-1.67229209,"rwy2":"32","lat2":53.85853972,"lon2":-1.64926351}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.02,"desc":"Leeds Information"},
+{"type":"TWR","freq":120.3,"desc":"Leeds Tower"},
+{"type":"APP","freq":125.57,"desc":"Leeds Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":53.85810800,"lon":-1.64853300,"rng_nm":18,"alt_fmsl":681,"hdg":137.73,"id":"ILBF","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":53.87444700,"lon":-1.67371900,"rng_nm":18,"alt_fmsl":681,"hdg":317.80,"id":"ILF","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":53.86912200,"lon":-1.66728300,"rng_nm":10,"alt_fmsl":681,"id":"ILBF","rwy":"14","desc":"GS","gs":3.5},
+{"type":"GS","freq":110.9,"lat":53.86300800,"lon":-1.65393300,"rng_nm":10,"alt_fmsl":681,"id":"ILF","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":53.86666700,"lon":-1.65944400,"rng_nm":18,"alt_fmsl":681,"id":"ILBF","rwy":"14","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":53.86666700,"lon":-1.65944400,"rng_nm":18,"alt_fmsl":687,"id":"ILF","rwy":"32","desc":"DME-ILS"}
+]
+}

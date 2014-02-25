@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESMV","name":"Hagshult","lat":57.292221,"lon":14.1372235,"rwys":1,"ils":0,"elev":556,"index":3187920,"path":"e010n50/e014n57"
+,"runways":[
+{"len_m":2050,"wid_m":39.93,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":57.28550000,"lon1":14.12560800,"rwy2":"22","lat2":57.29894200,"lon2":14.14883900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":136.25,"desc":"TWR"},
+{"type":"APP","freq":132.25,"desc":"APP"}
+]
+,"ils":[
+]
+}

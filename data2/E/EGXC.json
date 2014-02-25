@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXC","name":"Raf Coningsby","lat":53.09471117,"lon":-0.17015450,"rwys":1,"ils":1,"elev":25,"index":2941891,"path":"w010n50/w001n53"
+,"runways":[
+{"len_m":2739,"wid_m":60.96,"hdg":71,"surf":"Concrete","rwy1":"08","lat1":53.08934368,"lon1":-0.18556237,"rwy2":"26","lat2":53.09698632,"lon2":-0.14669363}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"Coningsby Ground"},
+{"type":"TWR","freq":122.1,"desc":"Coningsby Tower"},
+{"type":"APP","freq":120.8,"desc":"Coningsby Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":53.08805800,"lon":-0.19209400,"rng_nm":18,"alt_fmsl":25,"hdg":251.85,"id":"CY","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":53.09735600,"lon":-0.15161400,"rng_nm":10,"alt_fmsl":25,"id":"CY","rwy":"26","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":53.12235000,"lon":-0.01704200,"rng_nm":0,"alt_fmsl":25,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":53.09968900,"lon":-0.13291400,"rng_nm":0,"alt_fmsl":25,"id":"----","rwy":"26","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNT","name":"Sattna","lat":62.481368,"lon":17.00291,"rwys":1,"ils":0,"elev":886,"index":3237400,"path":"e010n60/e017n62"
+,"runways":[
+{"len_m":1999,"wid_m":24.99,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":62.48604400,"lon1":16.98636400,"rwy2":"30","lat2":62.47669200,"lon2":17.01945600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.3,"desc":"APP"},
+{"type":"TWR","freq":133.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

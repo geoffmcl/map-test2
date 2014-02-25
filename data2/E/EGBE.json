@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGBE","name":"Coventry","lat":52.37222745,"lon":-1.48117587,"rwys":1,"ils":1,"elev":267,"index":2925458,"path":"w010n50/w002n52"
+,"runways":[
+{"len_m":1820,"wid_m":46.02,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":52.36489395,"lon1":-1.48840311,"rwy2":"23","lat2":52.37597865,"lon2":-1.46874288}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.05,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.25,"desc":"TWR"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"APP","freq":119.25,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.75,"lat":52.37700000,"lon":-1.46692800,"rng_nm":18,"alt_fmsl":267,"hdg":47.29,"id":"ICTY","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.75,"lat":52.36335600,"lon":-1.49112200,"rng_nm":18,"alt_fmsl":267,"hdg":227.26,"id":"ICT","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.75,"lat":52.36580600,"lon":-1.48419200,"rng_nm":10,"alt_fmsl":267,"id":"ICTY","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":109.75,"lat":52.37371700,"lon":-1.47504700,"rng_nm":10,"alt_fmsl":267,"id":"ICT","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":109.75,"lat":52.37052500,"lon":-1.48074700,"rng_nm":18,"alt_fmsl":283,"id":"ICTY","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":109.75,"lat":52.37052500,"lon":-1.48075000,"rng_nm":18,"alt_fmsl":283,"id":"ICT","rwy":"23","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETSA","name":"Landsberg Lech","lat":48.07647300,"lon":10.90274500,"rwys":1,"ils":1,"elev":2044,"index":3121795,"path":"e010n40/e010n48"
+,"runways":[
+{"len_m":2061,"wid_m":29.87,"hdg":72,"surf":"Concrete","rwy1":"07","lat1":48.06766700,"lon1":10.89283300,"rwy2":"25","lat2":48.07333300,"lon2":10.91916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"},
+{"type":"APP","freq":130.5,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":48.06716700,"lon":10.88866700,"rng_nm":18,"alt_fmsl":2047,"hdg":253.16,"id":"LQ","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":48.07116700,"lon":10.91616700,"rng_nm":10,"alt_fmsl":2097,"id":"LQ","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.09483300,"lon":11.01883300,"rng_nm":0,"alt_fmsl":2062,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.07616700,"lon":10.93416700,"rng_nm":0,"alt_fmsl":1998,"id":"----","rwy":"25","desc":"MM"}
+]
+}

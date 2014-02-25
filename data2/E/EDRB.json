@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDRB","name":"Bitburg","lat":49.944957,"lon":6.564185,"rwys":1,"ils":0,"elev":1223,"index":3056378,"path":"e000n40/e006n49"
+,"runways":[
+{"len_m":3056,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":49.93705800,"lon1":6.54676800,"rwy2":"24","lat2":49.95285600,"lon2":6.58160200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"INFO"},
+{"type":"TWR","freq":123.52,"desc":"LANGEN INFO"},
+{"type":"TWR","freq":122.2,"desc":"SPANGDAHLEM TWR"}
+]
+,"ils":[
+]
+}

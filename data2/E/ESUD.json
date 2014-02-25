@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESUD","name":"Storuman","lat":64.960893,"lon":17.6966935,"rwys":1,"ils":1,"elev":915,"index":3237561,"path":"e010n60/e017n64"
+,"runways":[
+{"len_m":2288,"wid_m":39.93,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":64.96989700,"lon1":17.68508100,"rwy2":"33","lat2":64.95188900,"lon2":17.70830600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.8,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":64.97305600,"lon":17.68105600,"rng_nm":18,"alt_fmsl":915,"hdg":331.40,"id":"IPD","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":64.95441700,"lon":17.70775000,"rng_nm":10,"alt_fmsl":915,"id":"IPD","rwy":"33","desc":"GS","gs":3.2},
+{"type":"MM","freq":0,"lat":64.94447200,"lon":17.71755600,"rng_nm":0,"alt_fmsl":915,"id":"----","rwy":"33","desc":"MM"}
+]
+}

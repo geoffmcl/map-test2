@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDMA","name":"Augsburg","lat":48.42408000,"lon":10.93587900,"rwys":2,"ils":1,"elev":1515,"index":3121819,"path":"e010n40/e010n48"
+,"runways":[
+{"len_m":1278,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07","lat1":48.42338600,"lon1":10.92355000,"rwy2":"25","lat2":48.42704700,"lon2":10.93993100},
+{"len_m":1014,"wid_m":30.48,"hdg":71,"surf":"Turf/grass","rwy1":"07L","lat1":48.42182800,"lon1":10.93031400,"rwy2":"25R","lat2":48.42471900,"lon2":10.94331400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"ATIS"},
+{"type":"TWR","freq":120.65,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":126.95,"desc":"MUNCHEN INFO"},
+{"type":"TWR","freq":124.97,"desc":"TWR"},
+{"type":"APP","freq":128.25,"desc":"MUNCHEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":48.42280600,"lon":10.92094700,"rng_nm":18,"alt_fmsl":1510,"hdg":251.39,"id":"AUG","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":48.42511700,"lon":10.93766100,"rng_nm":10,"alt_fmsl":1515,"id":"AUG","rwy":"25","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":48.44574200,"lon":11.02835300,"rng_nm":0,"alt_fmsl":1515,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.43052200,"lon":10.95450300,"rng_nm":0,"alt_fmsl":1515,"id":"----","rwy":"25","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDLE","name":"Essen Mulheim","lat":51.40287,"lon":6.939335,"rwys":1,"ils":0,"elev":424,"index":3056475,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":1552,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":51.40011969,"lon1":6.92908338,"rwy2":"25","lat2":51.40562031,"lon2":6.94958662}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.75,"desc":"INFO"},
+{"type":"TWR","freq":129.87,"desc":"LANGEN INFO"}
+]
+,"ils":[
+]
+}

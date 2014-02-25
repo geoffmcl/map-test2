@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESNK","name":"Kramfors Solleftea","lat":63.04959500,"lon":17.76885600,"rwys":1,"ils":2,"elev":34,"index":3237441,"path":"e010n60/e017n63"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":171,"surf":"Asphalt","rwy1":"17","lat1":63.05747500,"lon1":17.76594200,"rwy2":"35","lat2":63.03971900,"lon2":17.77176700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.15,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":63.06058300,"lon":17.76491700,"rng_nm":18,"alt_fmsl":34,"hdg":351.53,"id":"NK","rwy":"35","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.3,"lat":63.03711100,"lon":17.77261100,"rng_nm":18,"alt_fmsl":34,"id":"FK","rwy":"17","desc":"LOC"},
+{"type":"GS","freq":109.7,"lat":63.04230600,"lon":17.77313900,"rng_nm":10,"alt_fmsl":34,"id":"NK","rwy":"35","desc":"GS","gs":3.25},
+{"type":"OM","freq":0,"lat":62.98330600,"lon":17.79025000,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":63.06686100,"lon":17.76172200,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":63.03033300,"lon":17.77483300,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"35","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E35","name":"Fabens","lat":31.5150695,"lon":-106.1481945,"rwys":2,"ils":0,"elev":3679,"index":1203811,"path":"w110n30/w107n31"
+,"runways":[
+{"len_m":1266,"wid_m":18.29,"hdg":88,"surf":"Asphalt","rwy1":"08","lat1":31.51555600,"lon1":-106.15388900,"rwy2":"26","lat2":31.51583300,"lon2":-106.14055600},
+{"len_m":679,"wid_m":10.67,"hdg":175,"surf":"Asphalt","rwy1":"16","lat1":31.51750000,"lon1":-106.14944400,"rwy2":"34","lat2":31.51138900,"lon2":-106.14888900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

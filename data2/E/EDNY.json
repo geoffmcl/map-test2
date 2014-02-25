@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDNY","name":"Friedrichshafen","lat":47.66952970,"lon":9.51461593,"rwys":2,"ils":1,"elev":1367,"index":3105386,"path":"e000n40/e009n47"
+,"runways":[
+{"len_m":967,"wid_m":28.04,"hdg":60,"surf":"Turf/grass","rwy1":"06L","lat1":47.66829762,"lon1":9.49927588,"rwy2":"24R","lat2":47.67263218,"lon2":9.51044292},
+{"len_m":2363,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":47.66601982,"lon1":9.49785090,"rwy2":"24","lat2":47.67661297,"lon2":9.52513120}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"ATIS"},
+{"type":"TWR","freq":120.07,"desc":"TWR"},
+{"type":"TWR","freq":124.35,"desc":"TWR"},
+{"type":"APP","freq":119.92,"desc":"ZURICH ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":47.67739400,"lon":9.52716700,"rng_nm":18,"alt_fmsl":1366,"hdg":60.06,"id":"IFHE","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":47.66527500,"lon":9.49591400,"rng_nm":18,"alt_fmsl":1333,"hdg":240.04,"id":"IFHW","rwy":"24","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.9,"lat":47.66746900,"lon":9.50491100,"rng_nm":10,"alt_fmsl":1367,"id":"IFHE","rwy":"06","desc":"GS","gs":3.1},
+{"type":"GS","freq":111.9,"lat":47.67500600,"lon":9.51766700,"rng_nm":10,"alt_fmsl":1367,"id":"IFHW","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.70689200,"lon":9.60196700,"rng_nm":0,"alt_fmsl":1367,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.66291700,"lon":9.49104700,"rng_nm":0,"alt_fmsl":1367,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":47.68121700,"lon":9.53777800,"rng_nm":0,"alt_fmsl":1366,"id":"----","rwy":"24","desc":"MM"}
+]
+}

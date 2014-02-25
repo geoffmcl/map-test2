@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETNH","name":"Hohn","lat":54.3121655,"lon":9.538168,"rwys":1,"ils":1,"elev":39,"index":3105810,"path":"e000n50/e009n54"
+,"runways":[
+{"len_m":2439,"wid_m":29.87,"hdg":79,"surf":"Concrete","rwy1":"08","lat1":54.31015300,"lon1":9.51974200,"rwy2":"26","lat2":54.31417800,"lon2":9.55659400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":123.3,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":54.30950000,"lon":9.51300000,"rng_nm":18,"alt_fmsl":28,"hdg":259.56,"id":"HN","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":54.31266700,"lon":9.55166700,"rng_nm":10,"alt_fmsl":62,"id":"HN","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":54.32633300,"lon":9.67033300,"rng_nm":0,"alt_fmsl":105,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":54.31600000,"lon":9.57150000,"rng_nm":0,"alt_fmsl":57,"id":"----","rwy":"26","desc":"MM"}
+]
+}

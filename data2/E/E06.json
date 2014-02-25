@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"E06","name":"Lea Co Zip Franklin Mem","lat":32.95383825,"lon":-103.40900225,"rwys":2,"ils":0,"elev":3979,"index":1253050,"path":"w110n30/w104n32"
+,"runways":[
+{"len_m":1828,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":32.94871900,"lon1":-103.41437800,"rwy2":"21","lat2":32.96038100,"lon2":-103.40055600},
+{"len_m":1343,"wid_m":18.29,"hdg":138,"surf":"Asphalt","rwy1":"12","lat1":32.95763100,"lon1":-103.41534200,"rwy2":"30","lat2":32.94862200,"lon2":-103.40573300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGHL","name":"Lasham","lat":51.18512350,"lon":-1.03987418,"rwys":1,"ils":0,"elev":618,"index":2925387,"path":"w010n50/w002n51"
+,"runways":[
+{"len_m":1678,"wid_m":39.93,"hdg":85,"surf":"Asphalt","rwy1":"09","lat1":51.18687932,"lon1":-1.04353157,"rwy2":"27","lat2":51.18807505,"lon2":-1.01959551}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.65,"desc":"Lasham Radio"},
+{"type":"APP","freq":125.25,"desc":"Farnborough Radar"}
+]
+,"ils":[
+]
+}

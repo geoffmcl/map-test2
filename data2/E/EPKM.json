@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPKM","name":"Muchowiec","lat":50.2381475,"lon":19.0341805,"rwys":1,"ils":0,"elev":909,"index":3269384,"path":"e010n50/e019n50"
+,"runways":[
+{"len_m":1114,"wid_m":29.87,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":50.23488900,"lon1":19.02825000,"rwy2":"23","lat2":50.24140600,"lon2":19.04011100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"KATOWICE AERO"},
+{"type":"TWR","freq":122.7,"desc":"KATOWICE INFO"}
+]
+,"ils":[
+]
+}

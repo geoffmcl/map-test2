@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGTO","name":"Rochester","lat":51.34766957,"lon":0.50421228,"rwys":3,"ils":0,"elev":425,"index":2958162,"path":"e000n50/e000n51"
+,"runways":[
+{"len_m":974,"wid_m":35.05,"hdg":158,"surf":"Turf/grass","rwy1":"16","lat1":51.35593397,"lon1":0.50036119,"rwy2":"34","lat2":51.34776911,"lon2":0.50542601},
+{"len_m":827,"wid_m":32.00,"hdg":21,"surf":"Turf/grass","rwy1":"02L","lat1":51.34932500,"lon1":0.50287200,"rwy2":"20R","lat2":51.35625600,"lon2":0.50719200},
+{"len_m":699,"wid_m":21.03,"hdg":21,"surf":"Turf/grass","rwy1":"02R","lat1":51.34893100,"lon1":0.50315000,"rwy2":"20L","lat2":51.35479400,"lon2":0.50677200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.25,"desc":"Rochester Information"}
+]
+,"ils":[
+]
+}

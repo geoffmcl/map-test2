@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENNA","name":"Banak","lat":70.0688125,"lon":24.973489,"rwys":1,"ils":2,"elev":25,"index":3352577,"path":"e020n70/e024n70"
+,"runways":[
+{"len_m":2783,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":70.08124700,"lon1":24.97057500,"rwy2":"35","lat2":70.05637800,"lon2":24.97640300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":70.08291400,"lon":24.97018100,"rng_nm":18,"alt_fmsl":25,"hdg":355.43,"id":"BA","rwy":"35","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.35,"lat":70.05455000,"lon":24.97683300,"rng_nm":18,"alt_fmsl":25,"id":"BK","rwy":"17","desc":"LOC"},
+{"type":"GS","freq":108.3,"lat":70.05970000,"lon":24.97912800,"rng_nm":10,"alt_fmsl":25,"id":"BA","rwy":"35","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":69.98000000,"lon":24.99535300,"rng_nm":0,"alt_fmsl":25,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":70.03976400,"lon":24.97926900,"rng_nm":0,"alt_fmsl":25,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":109.35,"lat":70.07225300,"lon":24.97694200,"rng_nm":18,"alt_fmsl":55,"id":"BK","rwy":"17","desc":"DME-ILS"}
+]
+}

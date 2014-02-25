@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWE","name":"Emden","lat":53.38908230,"lon":7.22861342,"rwys":1,"ils":0,"elev":2,"index":3072984,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":1299,"wid_m":29.87,"hdg":72,"surf":"Asphalt","rwy1":"07","lat1":53.38939000,"lon1":7.21728400,"rwy2":"25","lat2":53.39285100,"lon2":7.23594300}
+]
+,"helipads":[
+{"rwy1":"H","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":53.38970974,"lon1":7.22696173}
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"INFO"},
+{"type":"APP","freq":123.6,"desc":"WITTMUND/JEVER RADAR"},
+{"type":"APP","freq":124.65,"desc":"BREMEN RADAR"}
+]
+,"ils":[
+]
+}

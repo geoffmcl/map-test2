@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGSP","name":"Peterborough Sibson","lat":52.55532710,"lon":-0.38944561,"rwys":3,"ils":0,"elev":129,"index":2941858,"path":"w010n50/w001n52"
+,"runways":[
+{"len_m":426,"wid_m":17.98,"hdg":141,"surf":"Turf/grass","rwy1":"15","lat1":52.55854400,"lon1":-0.38908300,"rwy2":"33","lat2":52.55556100,"lon2":-0.38512800},
+{"len_m":940,"wid_m":29.87,"hdg":61,"surf":"Turf/grass","rwy1":"6","lat1":52.55464039,"lon1":-0.39573563,"rwy2":"24","lat2":52.55867594,"lon2":-0.38355873},
+{"len_m":704,"wid_m":29.87,"hdg":69,"surf":"Turf/grass","rwy1":"07","lat1":52.55464039,"lon1":-0.39573563,"rwy2":"25","lat2":52.55685400,"lon2":-0.38600389}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.33,"desc":"Sibson Radio"}
+]
+,"ils":[
+]
+}

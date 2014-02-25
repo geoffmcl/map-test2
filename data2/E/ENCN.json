@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENCN","name":"Kristiansand Lufthavn Kjevik","lat":58.20190933,"lon":8.07393575,"rwys":1,"ils":2,"elev":57,"index":3089672,"path":"e000n50/e008n58"
+,"runways":[
+{"len_m":2036,"wid_m":45.11,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":58.19670300,"lon1":8.07540600,"rwy2":"22","lat2":58.21167800,"lon2":8.09526900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.48,"desc":"Kjevik Information"},
+{"type":"TWR","freq":118.1,"desc":"Kjevik Tower"},
+{"type":"TWR","freq":122.1,"desc":"Kjevik Tower"},
+{"type":"TWR","freq":119.95,"desc":"Kjevik Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":58.21239700,"lon":8.09622800,"rng_nm":18,"alt_fmsl":57,"hdg":34.96,"id":"CN","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":58.19616400,"lon":8.07469200,"rng_nm":18,"alt_fmsl":57,"hdg":214.94,"id":"KJ","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":58.19866400,"lon":8.08016400,"rng_nm":10,"alt_fmsl":57,"id":"CN","rwy":"04","desc":"GS","gs":3.4},
+{"type":"GS","freq":110.9,"lat":58.20892200,"lon":8.09327500,"rng_nm":10,"alt_fmsl":57,"id":"KJ","rwy":"22","desc":"GS","gs":3.6},
+{"type":"OM","freq":0,"lat":58.14001700,"lon":7.99902800,"rng_nm":0,"alt_fmsl":55,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":58.24226900,"lon":8.13365800,"rng_nm":0,"alt_fmsl":57,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.17662800,"lon":8.04808900,"rng_nm":0,"alt_fmsl":57,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":58.21934200,"lon":8.10523600,"rng_nm":0,"alt_fmsl":57,"id":"----","rwy":"22","desc":"MM"}
+]
+}

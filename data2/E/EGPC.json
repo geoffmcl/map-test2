@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGPC","name":"Wick","lat":58.45362062,"lon":-3.08693720,"rwys":2,"ils":0,"elev":126,"index":2893083,"path":"w010n50/w004n58"
+,"runways":[
+{"len_m":1826,"wid_m":45.11,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":58.46368267,"lon1":-3.10545058,"rwy2":"31","lat2":58.45381622,"lon2":-3.08045182},
+{"len_m":1036,"wid_m":45.11,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":58.45581700,"lon1":-3.10160600,"rwy2":"26","lat2":58.45815000,"lon2":-3.08441700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"Wick Tower"},
+{"type":"APP","freq":119.7,"desc":"Wick Approach"}
+]
+,"ils":[
+]
+}

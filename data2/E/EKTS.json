@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EKTS","name":"Thisted","lat":57.06879861,"lon":8.70522361,"rwys":1,"ils":1,"elev":23,"index":3089602,"path":"e000n50/e008n57"
+,"runways":[
+{"len_m":1599,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":57.07005833,"lon1":8.69224167,"rwy2":"28","lat2":57.06753889,"lon2":8.71820556}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.12,"desc":"AFIS"},
+{"type":"APP","freq":123.97,"desc":"AALBORG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":57.07066900,"lon":8.68593900,"rng_nm":18,"alt_fmsl":23,"hdg":280.10,"id":"TS","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":57.06697800,"lon":8.71278900,"rng_nm":10,"alt_fmsl":23,"id":"TS","rwy":"28","desc":"GS","gs":2.75},
+{"type":"OM","freq":0,"lat":57.05351400,"lon":8.86441700,"rng_nm":0,"alt_fmsl":23,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":57.06494400,"lon":8.74532800,"rng_nm":0,"alt_fmsl":23,"id":"----","rwy":"28","desc":"MM"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESSL","name":"Linkoping Saab","lat":58.40399600,"lon":15.67871100,"rwys":1,"ils":2,"elev":172,"index":3204378,"path":"e010n50/e015n58"
+,"runways":[
+{"len_m":2130,"wid_m":39.93,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":58.40990000,"lon1":15.66336900,"rwy2":"29","lat2":58.40268100,"lon2":15.69711100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"TWR"},
+{"type":"TWR","freq":133.1,"desc":"TWR"},
+{"type":"TWR","freq":128.7,"desc":"TWR"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":58.40169400,"lon":15.70177800,"rng_nm":18,"alt_fmsl":172,"hdg":112.20,"id":"LSL","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.1,"lat":58.41147200,"lon":15.65602800,"rng_nm":18,"alt_fmsl":172,"hdg":292.20,"id":"SL","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":58.41008300,"lon":15.66808300,"rng_nm":10,"alt_fmsl":172,"id":"LSL","rwy":"11","desc":"GS","gs":3.25},
+{"type":"GS","freq":108.1,"lat":58.40480600,"lon":15.69275000,"rng_nm":10,"alt_fmsl":172,"id":"SL","rwy":"29","desc":"GS","gs":2.86},
+{"type":"OM","freq":0,"lat":58.37933300,"lon":15.80383300,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":58.41344400,"lon":15.64672200,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":58.39911100,"lon":15.71383300,"rng_nm":0,"alt_fmsl":172,"id":"----","rwy":"29","desc":"MM"}
+]
+}

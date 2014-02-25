@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDBR","name":"Rothenburg Gorlitz","lat":51.36316675,"lon":14.94999975,"rwys":2,"ils":0,"elev":517,"index":3187539,"path":"e010n50/e014n51"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":51.37440100,"lon1":14.94978500,"rwy2":"36","lat2":51.35193200,"lon2":14.95021400},
+{"len_m":1221,"wid_m":39.93,"hdg":182,"surf":"Turf/grass","rwy1":"18R","lat1":51.36865005,"lon1":14.95039877,"rwy2":"36L","lat2":51.35768395,"lon2":14.94960123}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.25,"desc":"INFO"}
+]
+,"ils":[
+]
+}

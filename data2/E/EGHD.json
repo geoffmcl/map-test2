@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGHD","name":"Plymouth","lat":50.42282019,"lon":-4.10967848,"rwys":1,"ils":1,"elev":475,"index":2876187,"path":"w010n50/w005n50"
+,"runways":[
+{"len_m":1159,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":50.42561409,"lon1":-4.11277131,"rwy2":"31","lat2":50.42000815,"lon2":-4.09900867}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"Plymouth Tower"},
+{"type":"APP","freq":133.55,"desc":"Plymouth Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":50.42575073,"lon":-4.11316681,"rng_nm":18,"alt_fmsl":485,"hdg":302.36,"id":"IPLY","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":50.42116547,"lon":-4.10016680,"rng_nm":10,"alt_fmsl":485,"id":"IPLY","rwy":"31","desc":"GS","gs":3}
+]
+}

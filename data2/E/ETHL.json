@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ETHL","name":"Laupheim","lat":48.2219155,"lon":9.90806875,"rwys":2,"ils":0,"elev":1766,"index":3105419,"path":"e000n40/e009n48"
+,"runways":[
+{"len_m":1645,"wid_m":29.87,"hdg":92,"surf":"Asphalt","rwy1":"09","lat1":48.22066700,"lon1":9.89895800,"rwy2":"27","lat2":48.21992800,"lon2":9.92108100},
+{"len_m":609,"wid_m":49.99,"hdg":33,"surf":"Turf/grass","rwy1":"03","lat1":48.22123900,"lon1":9.90387800,"rwy2":"21","lat2":48.22582800,"lon2":9.90835800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"LIMA TWR"},
+{"type":"APP","freq":119.1,"desc":"LIMA RADAR"},
+{"type":"APP","freq":123.3,"desc":"LIMA RADAR"}
+]
+,"ils":[
+]
+}

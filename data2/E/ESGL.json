@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESGL","name":"Lidkoping","lat":58.465522,"lon":13.174415,"rwys":1,"ils":1,"elev":200,"index":3171608,"path":"e010n50/e013n58"
+,"runways":[
+{"len_m":1990,"wid_m":45.11,"hdg":62,"surf":"Asphalt","rwy1":"06","lat1":58.46135000,"lon1":13.15933600,"rwy2":"24","lat2":58.46969400,"lon2":13.18949400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.45,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":58.46008300,"lon":13.15475000,"rng_nm":18,"alt_fmsl":200,"hdg":242.11,"id":"EGL","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":58.46758300,"lon":13.18591700,"rng_nm":10,"alt_fmsl":210,"id":"EGL","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":111.3,"lat":58.46752800,"lon":13.18591700,"rng_nm":18,"alt_fmsl":210,"id":"EGL","rwy":"24","desc":"DME-ILS"}
+]
+}

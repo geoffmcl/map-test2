@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EFSI","name":"Seinajoki","lat":62.69251200,"lon":22.82463500,"rwys":1,"ils":1,"elev":301,"index":3319337,"path":"e020n60/e022n62"
+,"runways":[
+{"len_m":1542,"wid_m":29.87,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":62.69711400,"lon1":22.82189400,"rwy2":"32","lat2":62.68712500,"lon2":22.84275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"AFIS"},
+{"type":"TWR","freq":119.7,"desc":"KAUHAVA TWR"},
+{"type":"TWR","freq":122.8,"desc":"KAUHAVA TWR"},
+{"type":"APP","freq":130.1,"desc":"KAUHAVA APP"},
+{"type":"APP","freq":126.6,"desc":"KAUHAVA APP"},
+{"type":"APP","freq":128.15,"desc":"KAUHAVA RADAR"},
+{"type":"APP","freq":119.7,"desc":"KAUHAVA RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":62.69808900,"lon":22.81985800,"rng_nm":18,"alt_fmsl":301,"hdg":316.21,"id":"IL","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":62.68814700,"lon":22.83737800,"rng_nm":10,"alt_fmsl":301,"id":"IL","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":62.64212200,"lon":22.93613600,"rng_nm":0,"alt_fmsl":301,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":62.67874200,"lon":22.86042800,"rng_nm":0,"alt_fmsl":301,"id":"----","rwy":"32","desc":"MM"},
+{"type":"IM","freq":0,"lat":62.67447200,"lon":22.86914700,"rng_nm":0,"alt_fmsl":301,"id":"----","rwy":"32","desc":"IM"}
+]
+}

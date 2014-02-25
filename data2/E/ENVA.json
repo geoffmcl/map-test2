@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENVA","name":"Vaernes","lat":63.45515289,"lon":10.91983723,"rwys":1,"ils":2,"elev":56,"index":3122777,"path":"e010n60/e010n63"
+,"runways":[
+{"len_m":2861,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":63.45765623,"lon1":10.88929278,"rwy2":"27","lat2":63.45755277,"lon2":10.94666812}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.55,"desc":"ATIS"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":133.75,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP"},
+{"type":"APP","freq":119.15,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":63.45755000,"lon":10.94780300,"rng_nm":18,"alt_fmsl":31,"hdg":90.26,"id":"TO","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":63.45765800,"lon":10.88729400,"rng_nm":18,"alt_fmsl":56,"hdg":270.20,"id":"TD","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":63.45708600,"lon":10.90101100,"rng_nm":10,"alt_fmsl":56,"id":"TO","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":63.45851900,"lon":10.93407800,"rng_nm":10,"alt_fmsl":56,"id":"TD","rwy":"27","desc":"GS","gs":3.4},
+{"type":"OM","freq":0,"lat":63.46282200,"lon":11.18539200,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":63.45698300,"lon":10.97540300,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"27","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":63.45678100,"lon":10.90055000,"rng_nm":18,"alt_fmsl":31,"id":"TO","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":63.45865000,"lon":10.93366700,"rng_nm":18,"alt_fmsl":78,"id":"TD","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGKA","name":"Shoreham","lat":50.83354679,"lon":-0.29061651,"rwys":4,"ils":0,"elev":7,"index":2941746,"path":"w010n50/w001n50"
+,"runways":[
+{"len_m":1039,"wid_m":17.98,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":50.83133847,"lon1":-0.29994016,"rwy2":"20","lat2":50.84002477,"lon2":-0.29450617},
+{"len_m":868,"wid_m":17.98,"hdg":21,"surf":"Turf/grass","rwy1":"02R","lat1":50.83251910,"lon1":-0.29836310,"rwy2":"20L","lat2":50.83977924,"lon2":-0.29382097},
+{"len_m":880,"wid_m":49.99,"hdg":63,"surf":"Turf/grass","rwy1":"07","lat1":50.83264700,"lon1":-0.30007500,"rwy2":"25","lat2":50.83617781,"lon2":-0.28888291},
+{"len_m":531,"wid_m":17.98,"hdg":124,"surf":"Turf/grass","rwy1":"13","lat1":50.83833900,"lon1":-0.29452200,"rwy2":"31","lat2":50.83561236,"lon2":-0.28833433}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":0,"surf":"Concrete","lat1":50.83368528,"lon1":-0.29238953},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":0,"surf":"Concrete","lat1":50.83394769,"lon1":-0.29250232},
+{"rwy1":"H3","len_m":11,"wid_m":11.89,"hdg":0,"surf":"Concrete","lat1":50.83388233,"lon1":-0.29291743}
+]
+,"radios":[
+{"type":"ATIS","freq":125.3,"desc":"Shoreham Information"},
+{"type":"TWR","freq":123.15,"desc":"Shoreham Tower"},
+{"type":"TWR","freq":125.4,"desc":"Shoreham Tower"},
+{"type":"APP","freq":123.15,"desc":"Shoreham Apporach"}
+]
+,"ils":[
+]
+}

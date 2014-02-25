@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGXD","name":"Raf Dishforth","lat":54.14571459,"lon":-1.42340912,"rwys":2,"ils":0,"elev":117,"index":2925578,"path":"w010n50/w002n54"
+,"runways":[
+{"len_m":1879,"wid_m":46.02,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":54.14414200,"lon1":-1.42692500,"rwy2":"33","lat2":54.12940600,"lon2":-1.41290000},
+{"len_m":1361,"wid_m":46.02,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":54.14386100,"lon1":-1.42793600,"rwy2":"28","lat2":54.14334700,"lon2":-1.40711400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"Dishforth Ground"},
+{"type":"TWR","freq":122.1,"desc":"Dishforth Tower"},
+{"type":"APP","freq":122.1,"desc":"Dishforth Approach"}
+]
+,"ils":[
+]
+}

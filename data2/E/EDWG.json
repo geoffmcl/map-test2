@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDWG","name":"Wangerooge","lat":53.78907289,"lon":7.91242694,"rwys":2,"ils":0,"elev":6,"index":3073011,"path":"e000n50/e007n53"
+,"runways":[
+{"len_m":853,"wid_m":21.03,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":53.78364913,"lon1":7.91639382,"rwy2":"28","lat2":53.78311567,"lon2":7.92930550},
+{"len_m":500,"wid_m":29.87,"hdg":15,"surf":"Turf/grass","rwy1":"02","lat1":53.78523142,"lon1":7.91614886,"rwy2":"20","lat2":53.78957664,"lon2":7.91811963}
+]
+,"helipads":[
+{"rwy1":"H","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":53.78869257,"lon1":7.91449285}
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"Wooge INFO"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDUW","name":"Tutow","lat":53.92211075,"lon":13.21880225,"rwys":2,"ils":0,"elev":23,"index":3171320,"path":"e010n50/e013n53"
+,"runways":[
+{"len_m":2199,"wid_m":60.05,"hdg":170,"surf":"Concrete","rwy1":"17","lat1":53.93197900,"lon1":13.21611400,"rwy2":"35","lat2":53.91246400,"lon2":13.22142900},
+{"len_m":500,"wid_m":29.87,"hdg":172,"surf":"Turf/grass","rwy1":"17L","lat1":53.92422819,"lon1":13.21831166,"rwy2":"35R","lat2":53.91977181,"lon2":13.21935434}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.65,"desc":"BERLIN INFO"},
+{"type":"TWR","freq":130.12,"desc":"INFO"}
+]
+,"ils":[
+]
+}

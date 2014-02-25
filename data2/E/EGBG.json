@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGBG","name":"Leicester","lat":52.60615689,"lon":-1.03453215,"rwys":5,"ils":0,"elev":469,"index":2925475,"path":"w010n50/w002n52"
+,"runways":[
+{"len_m":499,"wid_m":17.98,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":52.60776321,"lon1":-1.03403062,"rwy2":"33","lat2":52.60391318,"lon2":-1.03024470},
+{"len_m":492,"wid_m":17.98,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":52.60378600,"lon1":-1.03021342,"rwy2":"22","lat2":52.60722837,"lon2":-1.02564697},
+{"len_m":352,"wid_m":38.10,"hdg":47,"surf":"Turf/grass","rwy1":"05","lat1":52.60498617,"lon1":-1.03100712,"rwy2":"23","lat2":52.60712733,"lon2":-1.02716450},
+{"len_m":423,"wid_m":29.87,"hdg":149,"surf":"Turf/grass","rwy1":"15L","lat1":52.60758676,"lon1":-1.03302988,"rwy2":"33R","lat2":52.60432443,"lon2":-1.02981431},
+{"len_m":933,"wid_m":29.87,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":52.60827855,"lon1":-1.03895059,"rwy2":"28","lat2":52.60741684,"lon2":-1.02523674}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.12,"desc":"RDO"}
+]
+,"ils":[
+]
+}

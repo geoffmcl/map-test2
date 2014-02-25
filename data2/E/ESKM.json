@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ESKM","name":"Mora","lat":60.957907,"lon":14.511383,"rwys":1,"ils":1,"elev":634,"index":3188154,"path":"e010n60/e014n60"
+,"runways":[
+{"len_m":1814,"wid_m":45.11,"hdg":161,"surf":"Asphalt","rwy1":"16","lat1":60.96561400,"lon1":14.50599400,"rwy2":"34","lat2":60.95020000,"lon2":14.51677200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.85,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":60.94763900,"lon":14.51855600,"rng_nm":18,"alt_fmsl":634,"hdg":161.26,"id":"NKM","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":60.96350000,"lon":14.50977800,"rng_nm":10,"alt_fmsl":634,"id":"NKM","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":61.03122200,"lon":14.46050000,"rng_nm":0,"alt_fmsl":634,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":60.97522200,"lon":14.49927800,"rng_nm":0,"alt_fmsl":634,"id":"----","rwy":"16","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EPRA","name":"Radom Sadkow","lat":51.39459502,"lon":21.20912395,"rwys":1,"ils":0,"elev":623,"index":3302232,"path":"e020n50/e021n51"
+,"runways":[
+{"len_m":2007,"wid_m":60.05,"hdg":75,"surf":"Concrete","rwy1":"07","lat1":51.38655025,"lon1":21.19772776,"rwy2":"25","lat2":51.39121000,"lon2":21.22559365}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":131.1,"desc":"RADOM TOWER"},
+{"type":"APP","freq":128.68,"desc":"RADOM APPROACH"}
+]
+,"ils":[
+]
+}

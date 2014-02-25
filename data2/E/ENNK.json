@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ENNK","name":"Narvik Framnes","lat":68.4369354,"lon":17.386673,"rwys":1,"ils":1,"elev":95,"index":3237784,"path":"e010n60/e017n68"
+,"runways":[
+{"len_m":912,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":68.43316878,"lon1":17.38233750,"rwy2":"19","lat2":68.44070202,"lon2":17.39100850}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":111.5,"lat":68.43934440,"lon":17.38802200,"rng_nm":18,"alt_fmsl":95,"id":"NV","rwy":"19","desc":"LOC"},
+{"type":"DME","freq":111.5,"lat":68.43931700,"lon":17.38766400,"rng_nm":18,"alt_fmsl":95,"id":"NV","rwy":"19","desc":"DME-ILS"}
+]
+}

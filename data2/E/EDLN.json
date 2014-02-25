@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EDLN","name":"Monchengladbach","lat":51.22936200,"lon":6.49986400,"rwys":1,"ils":2,"elev":125,"index":3056457,"path":"e000n50/e006n51"
+,"runways":[
+{"len_m":1199,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":51.23372200,"lon1":6.49778600,"rwy2":"31","lat2":51.22698900,"lon2":6.51120600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":118.12,"desc":"TOWER"},
+{"type":"APP","freq":133.77,"desc":"LANGEN RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":51.22536400,"lon":6.51444200,"rng_nm":18,"alt_fmsl":125,"hdg":128.71,"id":"IMGE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.55,"lat":51.23568100,"lon":6.49387500,"rng_nm":18,"alt_fmsl":124,"hdg":308.69,"id":"IMGW","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":51.23329700,"lon":6.50138300,"rng_nm":10,"alt_fmsl":124,"id":"IMGE","rwy":"13","desc":"GS","gs":3.5},
+{"type":"GS","freq":110.55,"lat":51.22942200,"lon":6.50910600,"rng_nm":10,"alt_fmsl":125,"id":"IMGW","rwy":"31","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":51.23910600,"lon":6.48704400,"rng_nm":0,"alt_fmsl":125,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":51.22116400,"lon":6.52395300,"rng_nm":0,"alt_fmsl":125,"id":"----","rwy":"31","desc":"MM"}
+]
+}

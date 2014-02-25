@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EIDL","name":"Donegal","lat":55.03815689,"lon":-8.34263663,"rwys":1,"ils":1,"elev":29,"index":2810946,"path":"w010n50/w009n55"
+,"runways":[
+{"len_m":1496,"wid_m":29.87,"hdg":20,"surf":"Asphalt","rwy1":"03","lat1":55.03788600,"lon1":-8.34507800,"rwy2":"21","lat2":55.05050600,"lon2":-8.33699400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.91,"desc":"ATIS"},
+{"type":"ATIS","freq":129.92,"desc":"ATIS"},
+{"type":"GND","freq":129.8,"desc":"GND"},
+{"type":"TWR","freq":129.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":110.3,"lat":55.03774200,"lon":-8.34517500,"rng_nm":18,"alt_fmsl":29,"id":"IFN","rwy":"21","desc":"LOC"},
+{"type":"DME","freq":110.3,"lat":55.04392800,"lon":-8.33951700,"rng_nm":18,"alt_fmsl":33,"id":"IFN","rwy":"21","desc":"DME-ILS"}
+]
+}

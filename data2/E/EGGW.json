@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGGW","name":"London Luton","lat":51.87785888,"lon":-0.37570190,"rwys":1,"ils":1,"elev":526,"index":2941818,"path":"w010n50/w001n51"
+,"runways":[
+{"len_m":2159,"wid_m":46.02,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":51.87201894,"lon1":-0.38355240,"rwy2":"26","lat2":51.87723832,"lon2":-0.35334812}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.57,"desc":"Arrival and Departure Information"},
+{"type":"GND","freq":121.75,"desc":"Luton ground"},
+{"type":"TWR","freq":126.72,"desc":"Luton tower"},
+{"type":"TWR","freq":132.55,"desc":"Luton Tower"},
+{"type":"APP","freq":128.75,"desc":"Luton Radar"},
+{"type":"APP","freq":129.55,"desc":"Luton Radar"}
+]
+,"ils":[
+{"type":"ILS","freq":109.15,"lat":51.87774400,"lon":-0.35043600,"rng_nm":18,"alt_fmsl":526,"hdg":74.37,"id":"ILTN","rwy":"08","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.15,"lat":51.87150600,"lon":-0.38651700,"rng_nm":18,"alt_fmsl":526,"hdg":254.35,"id":"ILJ","rwy":"26","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.15,"lat":51.87381900,"lon":-0.37988600,"rng_nm":10,"alt_fmsl":526,"id":"ILTN","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.15,"lat":51.87528300,"lon":-0.35823100,"rng_nm":10,"alt_fmsl":526,"id":"ILJ","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.15,"lat":51.87314400,"lon":-0.36840600,"rng_nm":18,"alt_fmsl":549,"id":"ILTN","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":109.15,"lat":51.87314400,"lon":-0.36840600,"rng_nm":18,"alt_fmsl":549,"id":"ILJ","rwy":"26","desc":"DME-ILS"}
+]
+}

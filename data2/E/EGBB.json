@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"EGBB","name":"Birmingham","lat":52.45016809,"lon":-1.75066171,"rwys":1,"ils":1,"elev":327,"index":2925464,"path":"w010n50/w002n52"
+,"runways":[
+{"len_m":2587,"wid_m":46.02,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":52.46558210,"lon1":-1.76106982,"rwy2":"33","lat2":52.44635023,"lon2":-1.73968635}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.02,"desc":"ATIS"},
+{"type":"CLD","freq":121.92,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":131,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":52.44541100,"lon":-1.73864400,"rng_nm":18,"alt_fmsl":325,"hdg":145.89,"id":"IBIR","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":52.46671900,"lon":-1.76233900,"rng_nm":18,"alt_fmsl":325,"hdg":325.87,"id":"IBM","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":52.46022800,"lon":-1.75770800,"rng_nm":10,"alt_fmsl":325,"id":"IBIR","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":52.45193600,"lon":-1.74314400,"rng_nm":10,"alt_fmsl":325,"id":"IBM","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":52.45193600,"lon":-1.75235800,"rng_nm":18,"alt_fmsl":349,"id":"IBIR","rwy":"15","desc":"DME-ILS"},
+{"type":"DME","freq":110.1,"lat":52.45443600,"lon":-1.75240600,"rng_nm":18,"alt_fmsl":327,"id":"IBM","rwy":"33","desc":"DME-ILS"}
+]
+}
