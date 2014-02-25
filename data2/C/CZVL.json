@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CZVL","name":"Edmonton Villeneuve","lat":53.6625555,"lon":-113.847071,"rwys":2,"ils":0,"elev":2255,"index":1090536,"path":"w120n50/w114n53"
+,"runways":[
+{"len_m":1106,"wid_m":30.48,"hdg":102,"surf":"Asphalt","rwy1":"08","lat1":53.66550300,"lon1":-113.84772500,"rwy2":"26","lat2":53.66333300,"lon2":-113.83138900},
+{"len_m":1067,"wid_m":30.48,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":53.66548900,"lon1":-113.85445600,"rwy2":"34","lat2":53.65589700,"lon2":-113.85471400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120,"desc":"CTAF"},
+{"type":"GND","freq":120.8,"desc":"GND"},
+{"type":"TWR","freq":120,"desc":"TWR"}
+]
+,"ils":[
+]
+}

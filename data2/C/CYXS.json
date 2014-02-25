@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYXS","name":"Prince George","lat":53.8892631666667,"lon":-122.673850166667,"rwys":3,"ils":1,"elev":2267,"index":943097,"path":"w130n50/w123n53"
+,"runways":[
+{"len_m":2256,"wid_m":45.72,"hdg":169,"surf":"Asphalt","rwy1":"15","lat1":53.90027500,"lon1":-122.67056100,"rwy2":"33","lat2":53.88032800,"lon2":-122.66445300},
+{"len_m":1714,"wid_m":45.72,"hdg":79,"surf":"Asphalt","rwy1":"06","lat1":53.88575000,"lon1":-122.69313900,"rwy2":"24","lat2":53.88866400,"lon2":-122.66753900},
+{"len_m":1148,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"01","lat1":53.88585600,"lon1":-122.67820300,"rwy2":"19","lat2":53.89470600,"lon2":-122.66920600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":53.87889900,"lon":-122.66401700,"rng_nm":18,"alt_fmsl":2195,"hdg":169.84,"id":"IXS","rwy":"15","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":53.87889900,"lon":-122.66401700,"rng_nm":18,"alt_fmsl":2195,"hdg":169.84,"id":"IXS","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":53.89559900,"lon":-122.67039500,"rng_nm":10,"alt_fmsl":2215,"id":"IXS","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":53.89559900,"lon":-122.67039500,"rng_nm":10,"alt_fmsl":2215,"id":"IXS","rwy":"33","desc":"GS","gs":3}
+]
+}

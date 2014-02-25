@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYVO","name":"Val D Or","lat":48.053286,"lon":-77.7826595,"rwys":1,"ils":1,"elev":1107,"index":1680000,"path":"w080n40/w078n48"
+,"runways":[
+{"len_m":3048,"wid_m":45.72,"hdg":169,"surf":"Asphalt","rwy1":"18","lat1":48.06674700,"lon1":-77.78652200,"rwy2":"36","lat2":48.03982500,"lon2":-77.77879700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"MF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":48.03861618,"lon":-77.77868652,"rng_nm":50,"alt_fmsl":1107,"hdg":169.30,"id":"IVO","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":48.06383514,"lon":-77.78486633,"rng_nm":50,"alt_fmsl":1107,"id":"IVO","rwy":"18","desc":"GS","gs":3}
+]
+}

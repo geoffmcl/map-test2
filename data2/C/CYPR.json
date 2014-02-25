@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYPR","name":"Prince Rupert","lat":54.29091637,"lon":-130.44501326,"rwys":1,"ils":1,"elev":116,"index":812050,"path":"w140n50/w131n54"
+,"runways":[
+{"len_m":1844,"wid_m":60.96,"hdg":150,"surf":"Asphalt","rwy1":"13","lat1":54.29333700,"lon1":-130.45165200,"rwy2":"31","lat2":54.27889100,"lon2":-130.43778200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.5,"desc":"PRINCE RUPERT FSS"},
+{"type":"ATIS","freq":126.7,"desc":"PRINCE RUPERT FSS"},
+{"type":"CTAF","freq":124.5,"desc":"CYPR CTAF"},
+{"type":"TWR","freq":128,"desc":"VANCOUVER CNTR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":54.27765300,"lon":-130.43698300,"rng_nm":18,"alt_fmsl":91,"hdg":152.00,"id":"IPR","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":54.29055600,"lon":-130.45055600,"rng_nm":10,"alt_fmsl":91,"id":"IPR","rwy":"13","desc":"GS","gs":3}
+]
+}

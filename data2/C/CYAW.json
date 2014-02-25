@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYAW","name":"Shearwater","lat":44.639782,"lon":-63.49979975,"rwys":2,"ils":0,"elev":167,"index":1909162,"path":"w070n40/w064n44"
+,"runways":[
+{"len_m":2742,"wid_m":60.96,"hdg":138,"surf":"Asphalt","rwy1":"16","lat1":44.64940300,"lon1":-63.50570800,"rwy2":"34","lat2":44.63083600,"lon2":-63.48293600},
+{"len_m":1723,"wid_m":60.96,"hdg":85,"surf":"Asphalt","rwy1":"10","lat1":44.63888900,"lon1":-63.51611100,"rwy2":"28","lat2":44.64000000,"lon2":-63.49444400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.17,"desc":"ATIS"},
+{"type":"CTAF","freq":126.2,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"HALIFAX APP/DEP"}
+]
+,"ils":[
+]
+}

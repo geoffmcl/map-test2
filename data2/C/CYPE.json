@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYPE","name":"Peace River","lat":56.22680425,"lon":-117.442782,"rwys":2,"ils":0,"elev":1873,"index":1025162,"path":"w120n50/w118n56"
+,"runways":[
+{"len_m":1550,"wid_m":45.72,"hdg":61,"surf":"Asphalt","rwy1":"04","lat1":56.22333100,"lon1":-117.45778100,"rwy2":"22","lat2":56.23000000,"lon2":-117.43583900},
+{"len_m":582,"wid_m":45.72,"hdg":102,"surf":"Turf/grass","rwy1":"08","lat1":56.22750000,"lon1":-117.44333900,"rwy2":"26","lat2":56.22638600,"lon2":-117.43416900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"MF"}
+]
+,"ils":[
+]
+}

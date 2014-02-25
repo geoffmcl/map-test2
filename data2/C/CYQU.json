@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYQU","name":"Grande Prairie","lat":55.1821525,"lon":-118.88595475,"rwys":2,"ils":1,"elev":2195,"index":1008712,"path":"w120n50/w119n55"
+,"runways":[
+{"len_m":1981,"wid_m":60.96,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":55.18611100,"lon1":-118.89798600,"rwy2":"30","lat2":55.17361100,"lon2":-118.87583300},
+{"len_m":1911,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":55.18444400,"lon1":-118.90000000,"rwy2":"25","lat2":55.18444400,"lon2":-118.87000000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"MF GRAND PRAIRIE RDO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":55.18719100,"lon":-118.90004000,"rng_nm":18,"alt_fmsl":2175,"hdg":314.48,"id":"IQU","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":55.17596800,"lon":-118.87640400,"rng_nm":10,"alt_fmsl":2175,"id":"IQU","rwy":"30","desc":"GS","gs":3}
+]
+}

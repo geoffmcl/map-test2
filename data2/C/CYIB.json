@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYIB","name":"Atikokan Muni","lat":48.7740165,"lon":-91.6387115,"rwys":1,"ils":0,"elev":1408,"index":1450673,"path":"w100n40/w092n48"
+,"runways":[
+{"len_m":1066,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":48.77029400,"lon1":-91.64328100,"rwy2":"22","lat2":48.77773900,"lon2":-91.63414200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"CTAF"},
+{"type":"TWR","freq":122.3,"desc":"MF"}
+]
+,"ils":[
+]
+}

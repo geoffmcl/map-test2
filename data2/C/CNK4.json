@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CNK4","name":"Parry Sound Area Muni","lat":45.2568055,"lon":-79.829304,"rwys":1,"ils":0,"elev":832,"index":1647056,"path":"w080n40/w080n45"
+,"runways":[
+{"len_m":1230,"wid_m":22.86,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":45.26194400,"lon1":-79.83222200,"rwy2":"35","lat2":45.25166700,"lon2":-79.82638600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.7,"desc":"TORONTO RDO"}
+]
+,"ils":[
+]
+}

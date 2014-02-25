@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYNJ","name":"Langley","lat":49.10129563,"lon":-122.62188547,"rwys":2,"ils":0,"elev":34,"index":942785,"path":"w130n40/w123n49"
+,"runways":[
+{"len_m":703,"wid_m":22.86,"hdg":30,"surf":"Asphalt","rwy1":"01","lat1":49.09774920,"lon1":-122.62761361,"rwy2":"19","lat2":49.10321217,"lon2":-122.62276574},
+{"len_m":697,"wid_m":38.10,"hdg":89,"surf":"Turf/grass","rwy1":"07","lat1":49.10290100,"lon1":-122.63259511,"rwy2":"25","lat2":49.10290642,"lon2":-122.62304584}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":-122,"surf":"Asphalt","lat1":49.09971450,"lon1":-122.62314558},
+{"rwy1":"H2","len_m":13,"wid_m":13.11,"hdg":-122,"surf":"Asphalt","lat1":49.09967986,"lon1":-122.62333076},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":-122,"surf":"Asphalt","lat1":49.09958026,"lon1":-122.62347847},
+{"rwy1":"H4","len_m":13,"wid_m":13.11,"hdg":-122,"surf":"Asphalt","lat1":49.09944746,"lon1":-122.62344981},
+{"rwy1":"H5","len_m":24,"wid_m":24.08,"hdg":-122,"surf":"Asphalt","lat1":49.09727344,"lon1":-122.62707074},
+{"rwy1":"H6","len_m":24,"wid_m":24.08,"hdg":-122,"surf":"Asphalt","lat1":49.09723194,"lon1":-122.62255108}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

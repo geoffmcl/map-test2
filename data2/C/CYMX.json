@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYMX","name":"Montreal Mirabel Intl","lat":45.67606000,"lon":-74.03439300,"rwys":2,"ils":3,"elev":270,"index":1729003,"path":"w080n40/w075n45"
+,"runways":[
+{"len_m":3648,"wid_m":60.96,"hdg":45,"surf":"Concrete","rwy1":"06","lat1":45.67111100,"lon1":-74.02166700,"rwy2":"24","lat2":45.69416700,"lon2":-73.98833300},
+{"len_m":3652,"wid_m":60.96,"hdg":98,"surf":"Concrete","rwy1":"11","lat1":45.67083300,"lon1":-74.09000000,"rwy2":"29","lat2":45.66611100,"lon2":-74.04361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.7,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"MIRABEL CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"MIRABEL GND"},
+{"type":"TWR","freq":119.1,"desc":"MIRABEL TWR"},
+{"type":"APP","freq":134.15,"desc":"VFR ADVSY"},
+{"type":"APP","freq":124.65,"desc":"APP"},
+{"type":"DEP","freq":124.65,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":45.69630051,"lon":-73.98481750,"rng_nm":18,"alt_fmsl":270,"hdg":44.96,"id":"IKP","rwy":"06","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.9,"lat":45.66558456,"lon":-74.03964996,"rng_nm":18,"alt_fmsl":270,"hdg":98.52,"id":"IJX","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":45.66849899,"lon":-74.02456665,"rng_nm":18,"alt_fmsl":270,"hdg":224.94,"id":"IIT","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":45.67110062,"lon":-74.01664734,"rng_nm":18,"alt_fmsl":270,"id":"IKP","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":45.66825104,"lon":-74.08535004,"rng_nm":18,"alt_fmsl":270,"id":"IJX","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":45.68975067,"lon":-73.98903656,"rng_nm":18,"alt_fmsl":270,"id":"IIT","rwy":"24","desc":"GS","gs":3}
+]
+}

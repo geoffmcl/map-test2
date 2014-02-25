@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYVM","name":"Qikiqtarjuaq","lat":67.546236,"lon":-64.030706,"rwys":1,"ils":0,"elev":21,"index":1894241,"path":"w070n60/w065n67"
+,"runways":[
+{"len_m":1143,"wid_m":30.48,"hdg":33,"surf":"Gravel","rwy1":"03T","lat1":67.54194700,"lon1":-64.03805600,"rwy2":"21T","lat2":67.55052500,"lon2":-64.02335600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.55,"desc":"AWOS"},
+{"type":"CTAF","freq":122.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

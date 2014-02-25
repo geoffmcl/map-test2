@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYZS","name":"Coral Harbour","lat":64.1933335,"lon":-83.3594455,"rwys":1,"ils":0,"elev":210,"index":1582729,"path":"w090n60/w084n64"
+,"runways":[
+{"len_m":1523,"wid_m":30.48,"hdg":154,"surf":"Gravel","rwy1":"16T","lat1":64.19952800,"lon1":-83.36607200,"rwy2":"34T","lat2":64.18713900,"lon2":-83.35281900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"MANDATORY FREQ"},
+{"type":"TWR","freq":133.7,"desc":"EDMONTON CENTRE"}
+]
+,"ils":[
+]
+}

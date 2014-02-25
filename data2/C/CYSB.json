@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYSB","name":"Sudbury","lat":46.62632025,"lon":-80.7981945,"rwys":2,"ils":1,"elev":1141,"index":1630760,"path":"w090n40/w081n46"
+,"runways":[
+{"len_m":2003,"wid_m":60.96,"hdg":28,"surf":"Asphalt","rwy1":"04","lat1":46.61750000,"lon1":-80.80472500,"rwy2":"22","lat2":46.63333600,"lon2":-80.79222200},
+{"len_m":1530,"wid_m":45.72,"hdg":106,"surf":"Asphalt","rwy1":"12","lat1":46.62916700,"lon1":-80.80750000,"rwy2":"30","lat2":46.62527800,"lon2":-80.78833100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.5,"desc":"MF"},
+{"type":"TWR","freq":125.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":46.61578400,"lon":-80.80614500,"rng_nm":18,"alt_fmsl":1140,"hdg":208.58,"id":"ISB","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":46.63061900,"lon":-80.79280100,"rng_nm":10,"alt_fmsl":1140,"id":"ISB","rwy":"22","desc":"GS","gs":3}
+]
+}

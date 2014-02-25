@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYBG","name":"Bagotville","lat":48.33118125,"lon":-70.9941655,"rwys":2,"ils":1,"elev":522,"index":1794704,"path":"w080n40/w071n48"
+,"runways":[
+{"len_m":3027,"wid_m":45.72,"hdg":90,"surf":"Concrete","rwy1":"11","lat1":48.33277800,"lon1":-71.01583100,"rwy2":"29","lat2":48.33250000,"lon2":-70.97499700},
+{"len_m":1805,"wid_m":45.72,"hdg":163,"surf":"Asphalt","rwy1":"18","lat1":48.33750300,"lon1":-70.99639200,"rwy2":"36","lat2":48.32194400,"lon2":-70.98944200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.2,"desc":"ATIS"},
+{"type":"CLD","freq":119,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":127.2,"desc":"TRML"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":48.33226776,"lon":-71.02123260,"rng_nm":25,"alt_fmsl":520,"hdg":270.98,"id":"IBG","rwy":"29","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.5,"lat":48.33056641,"lon":-70.98033142,"rng_nm":25,"alt_fmsl":520,"id":"IBG","rwy":"29","desc":"GS","gs":3}
+]
+}

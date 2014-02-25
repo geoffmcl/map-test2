@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CJJ4","name":"Deloraine","lat":49.15249975,"lon":-100.49895825,"rwys":2,"ils":0,"elev":1680,"index":1303242,"path":"w110n40/w101n49"
+,"runways":[
+{"len_m":1215,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":49.15083300,"lon1":-100.50694400,"rwy2":"26","lat2":49.15083300,"lon2":-100.49027800},
+{"len_m":679,"wid_m":30.48,"hdg":178,"surf":"Turf/grass","rwy1":"17","lat1":49.15722200,"lon1":-100.49944400,"rwy2":"35","lat2":49.15111100,"lon2":-100.49916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

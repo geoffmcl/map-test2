@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C73","name":"Dixon Muni Charles R Walgreen Fld","lat":41.83375875,"lon":-89.445988,"rwys":2,"ils":0,"elev":785,"index":1482994,"path":"w090n40/w090n41"
+,"runways":[
+{"len_m":1188,"wid_m":22.86,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":41.83245800,"lon1":-89.45448300,"rwy2":"26","lat2":41.83433600,"lon2":-89.44040000},
+{"len_m":854,"wid_m":22.86,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":41.83612200,"lon1":-89.44892500,"rwy2":"30","lat2":41.83211900,"lon2":-89.44014400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126,"desc":"ROCKFORD APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C83","name":"Byron","lat":37.82774075,"lon":-121.62576725,"rwys":2,"ils":0,"elev":79,"index":958449,"path":"w130n30/w122n37"
+,"runways":[
+{"len_m":1371,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":37.83569400,"lon1":-121.63153300,"rwy2":"30","lat2":37.82691400,"lon2":-121.62056900},
+{"len_m":914,"wid_m":22.86,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":37.82231900,"lon1":-121.63011700,"rwy2":"23","lat2":37.82603600,"lon2":-121.62085000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.77,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":123.85,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

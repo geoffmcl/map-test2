@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CFN7","name":"Sundre","lat":51.77644325,"lon":-114.6774285,"rwys":2,"ils":0,"elev":3656,"index":1074033,"path":"w120n50/w115n51"
+,"runways":[
+{"len_m":1306,"wid_m":22.86,"hdg":156,"surf":"Asphalt","rwy1":"14","lat1":51.78216700,"lon1":-114.67943900,"rwy2":"32","lat2":51.77138900,"lon2":-114.67194400},
+{"len_m":604,"wid_m":22.86,"hdg":72,"surf":"Gravel","rwy1":"05","lat1":51.77527500,"lon1":-114.68333100,"rwy2":"23","lat2":51.77694200,"lon2":-114.67500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

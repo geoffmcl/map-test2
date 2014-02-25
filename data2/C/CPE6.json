@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CPE6","name":"South River-sundridge","lat":45.82434479,"lon":-79.35090879,"rwys":2,"ils":0,"elev":1160,"index":1647090,"path":"w080n40/w080n45"
+,"runways":[
+{"len_m":976,"wid_m":22.86,"hdg":28,"surf":"Turf/grass","rwy1":"4","lat1":45.81878849,"lon1":-79.34828427,"rwy2":"22","lat2":45.82651570,"lon2":-79.34230886},
+{"len_m":978,"wid_m":22.86,"hdg":108,"surf":"Turf/grass","rwy1":"12","lat1":45.82404484,"lon1":-79.35123343,"rwy2":"30","lat2":45.82127012,"lon2":-79.33928510}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.8,"desc":"Unicom"}
+]
+,"ils":[
+]
+}

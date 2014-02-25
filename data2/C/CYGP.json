@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYGP","name":"Gaspe","lat":48.7752775,"lon":-64.478611,"rwys":1,"ils":1,"elev":108,"index":1893042,"path":"w070n40/w065n48"
+,"runways":[
+{"len_m":1371,"wid_m":45.72,"hdg":83,"surf":"Asphalt","rwy1":"11","lat1":48.77463000,"lon1":-64.48789000,"rwy2":"29","lat2":48.77592500,"lon2":-64.46933200}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":110.3,"lat":48.77616700,"lon":-64.46800000,"rng_nm":18,"alt_fmsl":108,"id":"IGP","rwy":"11","desc":"LOC"}
+]
+}

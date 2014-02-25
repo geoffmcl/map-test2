@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYW","name":"Armstrong","lat":50.29339675,"lon":-88.913465,"rwys":2,"ils":0,"elev":1058,"index":1499920,"path":"w090n50/w089n50"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":50.29914200,"lon1":-88.92496900,"rwy2":"30","lat2":50.29416700,"lon2":-88.90972200},
+{"len_m":896,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":50.29416700,"lon1":-88.90972200,"rwy2":"36","lat2":50.28611100,"lon2":-88.90944700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

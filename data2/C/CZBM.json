@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CZBM","name":"Bromont","lat":45.29088375,"lon":-72.74119575,"rwys":2,"ils":1,"elev":375,"index":1761745,"path":"w080n40/w073n45"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":37,"surf":"Asphalt","rwy1":"05L","lat1":45.28548300,"lon1":-72.74788100,"rwy2":"23R","lat2":45.29638600,"lon2":-72.73606900},
+{"len_m":970,"wid_m":97.54,"hdg":34,"surf":"Turf/grass","rwy1":"05R","lat1":45.28722200,"lon1":-72.74388900,"rwy2":"23L","lat2":45.29444400,"lon2":-72.73694400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.15,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":122.15,"desc":"MF"},
+{"type":"APP","freq":132.55,"desc":"MONTREAL CNTR"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":45.29766700,"lon":-72.73483300,"rng_nm":18,"alt_fmsl":375,"id":"IIII","rwy":"05L","desc":"LOC"}
+]
+}

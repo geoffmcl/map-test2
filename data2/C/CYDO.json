@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYDO","name":"Dolbeau St Felicien","lat":48.7785365,"lon":-72.3749125,"rwys":1,"ils":0,"elev":372,"index":1761970,"path":"w080n40/w073n48"
+,"runways":[
+{"len_m":1515,"wid_m":30.48,"hdg":93,"surf":"Asphalt","rwy1":"11","lat1":48.77899200,"lon1":-72.38519700,"rwy2":"29","lat2":48.77808100,"lon2":-72.36462800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.7,"desc":"ROBERVAL RDO"}
+]
+,"ils":[
+]
+}

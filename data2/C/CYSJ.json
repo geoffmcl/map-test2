@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYSJ","name":"Saint John","lat":45.31775455,"lon":-65.88711048,"rwys":2,"ils":2,"elev":357,"index":1876432,"path":"w070n40/w066n45"
+,"runways":[
+{"len_m":2135,"wid_m":60.96,"hdg":30,"surf":"Asphalt","rwy1":"05","lat1":45.30252868,"lon1":-65.89484477,"rwy2":"23","lat2":45.31900284,"lon2":-65.88082036},
+{"len_m":1557,"wid_m":60.96,"hdg":120,"surf":"Asphalt","rwy1":"14","lat1":45.33004907,"lon1":-65.89966201,"rwy2":"32","lat2":45.32284710,"lon2":-65.88261374}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"MF"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":45.32109833,"lon":-65.87903595,"rng_nm":18,"alt_fmsl":357,"hdg":30.91,"id":"IDM","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":45.30044937,"lon":-65.89661407,"rng_nm":18,"alt_fmsl":357,"hdg":210.89,"id":"ISJ","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":45.30418396,"lon":-65.89119720,"rng_nm":10,"alt_fmsl":357,"id":"IDM","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":45.31731796,"lon":-65.88455200,"rng_nm":10,"alt_fmsl":357,"id":"ISJ","rwy":"23","desc":"GS","gs":4}
+]
+}

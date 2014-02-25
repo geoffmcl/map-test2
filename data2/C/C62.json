@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C62","name":"Kendallville Muni","lat":41.4727195,"lon":-85.2607985,"rwys":1,"ils":0,"elev":1005,"index":1548506,"path":"w090n40/w086n41"
+,"runways":[
+{"len_m":1340,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":41.47289200,"lon1":-85.26882200,"rwy2":"28","lat2":41.47254700,"lon2":-85.25277500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.2,"desc":"FORT WAYNE APP/DEP"},
+{"type":"APP","freq":132.15,"desc":"FORT WAYNE APP/DEP"}
+]
+,"ils":[
+]
+}

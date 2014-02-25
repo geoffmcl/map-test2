@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYXL","name":"Sioux Lookout","lat":50.115852,"lon":-91.90357425,"rwys":2,"ils":0,"elev":1258,"index":1450752,"path":"w100n50/w092n50"
+,"runways":[
+{"len_m":1615,"wid_m":30.48,"hdg":156,"surf":"Asphalt","rwy1":"16","lat1":50.12057200,"lon1":-91.91073300,"rwy2":"34","lat2":50.10728300,"lon2":-91.90161700},
+{"len_m":651,"wid_m":15.24,"hdg":31,"surf":"Gravel","rwy1":"03","lat1":50.11527500,"lon1":-91.90333600,"rwy2":"21","lat2":50.12027800,"lon2":-91.89861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.75,"desc":"ATIS"},
+{"type":"APP","freq":122,"desc":"MF"}
+]
+,"ils":[
+]
+}

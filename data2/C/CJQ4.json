@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CJQ4","name":"Maple Creek","lat":49.8966575,"lon":-109.47510965,"rwys":2,"ils":0,"elev":2517,"index":1155834,"path":"w110n40/w110n49"
+,"runways":[
+{"len_m":940,"wid_m":22.86,"hdg":73,"surf":"Asphalt","rwy1":"05","lat1":49.89555722,"lon1":-109.48227895,"rwy2":"23","lat2":49.89802278,"lon2":-109.46975975},
+{"len_m":477,"wid_m":22.86,"hdg":187,"surf":"Turf/grass","rwy1":"17","lat1":49.89865538,"lon1":-109.47379388,"rwy2":"35","lat2":49.89439462,"lon2":-109.47460602}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

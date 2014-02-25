@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYGD","name":"Goderich","lat":43.7659476666667,"lon":-81.7086113333333,"rwys":3,"ils":0,"elev":712,"index":1614193,"path":"w090n40/w082n43"
+,"runways":[
+{"len_m":1525,"wid_m":30.48,"hdg":121,"surf":"Asphalt","rwy1":"14","lat1":43.77111100,"lon1":-81.71639200,"rwy2":"32","lat2":43.76388900,"lon2":-81.70027800},
+{"len_m":917,"wid_m":15.24,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":43.76416700,"lon1":-81.71166700,"rwy2":"28","lat2":43.76388900,"lon2":-81.70027800},
+{"len_m":586,"wid_m":24.38,"hdg":29,"surf":"Turf/grass","rwy1":"05","lat1":43.76401900,"lon1":-81.71332800,"rwy2":"23","lat2":43.76861100,"lon2":-81.70972500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

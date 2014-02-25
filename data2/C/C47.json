@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C47","name":"Portage Muni","lat":43.56024175,"lon":-89.48280775,"rwys":2,"ils":0,"elev":825,"index":1483106,"path":"w090n40/w090n43"
+,"runways":[
+{"len_m":1148,"wid_m":18.29,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":43.56578100,"lon1":-89.48335600,"rwy2":"35","lat2":43.55544700,"lon2":-89.48281100},
+{"len_m":780,"wid_m":12.19,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":43.55730300,"lon1":-89.48582800,"rwy2":"22","lat2":43.56243600,"lon2":-89.47923600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.1,"desc":"MADISON APP/DEP"},
+{"type":"APP","freq":135.45,"desc":"MADISON APP/DEP"}
+]
+,"ils":[
+]
+}

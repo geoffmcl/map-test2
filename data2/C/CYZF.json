@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYZF","name":"Yellowknife","lat":62.4656665,"lon":-114.44141675,"rwys":2,"ils":1,"elev":675,"index":1074713,"path":"w120n60/w115n62"
+,"runways":[
+{"len_m":2272,"wid_m":45.72,"hdg":175,"surf":"Asphalt","rwy1":"15","lat1":62.47316700,"lon1":-114.44400000,"rwy2":"33","lat2":62.45283300,"lon2":-114.44066700},
+{"len_m":1498,"wid_m":45.72,"hdg":116,"surf":"Asphalt","rwy1":"09","lat1":62.47133300,"lon1":-114.45350000,"rwy2":"27","lat2":62.46533300,"lon2":-114.42750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"MF"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":62.47471410,"lon":-114.44425269,"rng_nm":18,"alt_fmsl":675,"hdg":355.67,"id":"IZF","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":62.45550595,"lon":-114.44288960,"rng_nm":10,"alt_fmsl":675,"id":"IZF","rwy":"33","desc":"GS","gs":3}
+]
+}

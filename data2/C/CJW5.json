@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CJW5","name":"Russell","lat":50.767086,"lon":-101.29447975,"rwys":2,"ils":0,"elev":1825,"index":1286962,"path":"w110n50/w102n50"
+,"runways":[
+{"len_m":1036,"wid_m":22.86,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":50.77046900,"lon1":-101.29571900,"rwy2":"35","lat2":50.76119700,"lon2":-101.29428100},
+{"len_m":579,"wid_m":22.86,"hdg":148,"surf":"Turf/grass","rwy1":"14","lat1":50.77055600,"lon1":-101.29611100,"rwy2":"32","lat2":50.76612200,"lon2":-101.29180800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

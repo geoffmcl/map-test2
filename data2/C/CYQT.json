@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYQT","name":"Thunder Bay","lat":48.37052795,"lon":-89.31956474,"rwys":2,"ils":1,"elev":653,"index":1483410,"path":"w090n40/w090n48"
+,"runways":[
+{"len_m":1896,"wid_m":60.96,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":48.37018740,"lon1":-89.33364706,"rwy2":"25","lat2":48.37586994,"lon2":-89.30951710},
+{"len_m":1620,"wid_m":60.96,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":48.37484871,"lon1":-89.33798349,"rwy2":"30","lat2":48.36723594,"lon2":-89.31933961}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":48.37639999,"lon":-89.30728149,"rng_nm":18,"alt_fmsl":653,"hdg":70.53,"id":"IQT","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":48.37348175,"lon":-89.32890320,"rng_nm":10,"alt_fmsl":653,"id":"IQT","rwy":"07","desc":"GS","gs":3}
+]
+}

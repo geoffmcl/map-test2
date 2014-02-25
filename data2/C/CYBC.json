@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYBC","name":"Baie Comeau","lat":49.1322705,"lon":-68.207207,"rwys":1,"ils":1,"elev":71,"index":1827531,"path":"w070n40/w069n49"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":80,"surf":"Asphalt","rwy1":"10","lat1":49.13091900,"lon1":-68.21956700,"rwy2":"28","lat2":49.13362200,"lon2":-68.19484700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":134.65,"desc":"MONTREAL CNTR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":49.13481522,"lon":-68.18991852,"rng_nm":18,"alt_fmsl":66,"hdg":79.38,"id":"IBC","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":49.13048172,"lon":-68.21461487,"rng_nm":18,"alt_fmsl":69,"id":"IBC","rwy":"10","desc":"GS","gs":2.5}
+]
+}

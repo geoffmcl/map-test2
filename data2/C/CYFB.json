@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYFB","name":"Iqaluit","lat":63.75114643,"lon":-68.53679837,"rwys":1,"ils":0,"elev":110,"index":1828464,"path":"w070n60/w069n63"
+,"runways":[
+{"len_m":2630,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"17","lat1":63.76498910,"lon1":-68.57471386,"rwy2":"35","lat2":63.74814142,"lon2":-68.53740269}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.2,"desc":"FSS"},
+{"type":"ATIS","freq":126.7,"desc":"FSS"},
+{"type":"CTAF","freq":126.7,"desc":"MULTICOM"},
+{"type":"CTAF","freq":126.9,"desc":"MULTICOM"},
+{"type":"TWR","freq":134.55,"desc":"CNTR"}
+]
+,"ils":[
+]
+}

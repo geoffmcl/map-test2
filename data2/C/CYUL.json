@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYUL","name":"Montreal Pierre E Trudeau Intl","lat":45.45844700,"lon":-73.75388300,"rwys":3,"ils":4,"elev":117,"index":1745368,"path":"w080n40/w074n45"
+,"runways":[
+{"len_m":3361,"wid_m":60.96,"hdg":42,"surf":"Asphalt","rwy1":"06L","lat1":45.46111400,"lon1":-73.76583100,"rwy2":"24R","lat2":45.48333300,"lon2":-73.73666400},
+{"len_m":2960,"wid_m":60.96,"hdg":41,"surf":"Asphalt","rwy1":"06R","lat1":45.45666400,"lon1":-73.74166900,"rwy2":"24L","lat2":45.47666400,"lon2":-73.71666700},
+{"len_m":2087,"wid_m":60.96,"hdg":87,"surf":"Asphalt","rwy1":"10","lat1":45.46250300,"lon1":-73.76500000,"rwy2":"28","lat2":45.46333300,"lon2":-73.73833600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.7,"desc":"ATIS"},
+{"type":"CLD","freq":125.6,"desc":"MONTREAL CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"MONTREAL GND"},
+{"type":"TWR","freq":119.9,"desc":"MONTREAL TWR"},
+{"type":"APP","freq":134.15,"desc":"MONTREAL VFR ADVSY"},
+{"type":"DEP","freq":124.65,"desc":"MONTREAL TRML DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.48513412,"lon":-73.73436737,"rng_nm":18,"alt_fmsl":115,"hdg":42.53,"id":"IUL","rwy":"06L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.5,"lat":45.47916794,"lon":-73.71369934,"rng_nm":18,"alt_fmsl":116,"hdg":42.82,"id":"IOA","rwy":"06R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":45.46351624,"lon":-73.73118591,"rng_nm":18,"alt_fmsl":116,"hdg":88.03,"id":"IDO","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":45.45583344,"lon":-73.74455261,"rng_nm":18,"alt_fmsl":116,"hdg":222.83,"id":"IMQ","rwy":"24L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":45.45964813,"lon":-73.76770020,"rng_nm":18,"alt_fmsl":116,"hdg":222.53,"id":"IZZ","rwy":"24R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.46388245,"lon":-73.76399994,"rng_nm":10,"alt_fmsl":116,"id":"IUL","rwy":"06L","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":45.45968246,"lon":-73.73780060,"rng_nm":10,"alt_fmsl":116,"id":"IOA","rwy":"06R","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":45.46131516,"lon":-73.76349640,"rng_nm":10,"alt_fmsl":116,"id":"IDO","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":45.47399902,"lon":-73.71835327,"rng_nm":10,"alt_fmsl":116,"id":"IMQ","rwy":"24L","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":45.48144913,"lon":-73.74205017,"rng_nm":10,"alt_fmsl":116,"id":"IZZ","rwy":"24R","desc":"GS","gs":3}
+]
+}

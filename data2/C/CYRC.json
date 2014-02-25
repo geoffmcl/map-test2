@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYRC","name":"St Honore","lat":48.520972,"lon":-71.052361,"rwys":3,"ils":0,"elev":543,"index":1778339,"path":"w080n40/w072n48"
+,"runways":[
+{"len_m":1852,"wid_m":45.72,"hdg":105,"surf":"Asphalt","rwy1":"12","lat1":48.51944400,"lon1":-71.06222200,"rwy2":"30","lat2":48.51500000,"lon2":-71.03805600},
+{"len_m":1142,"wid_m":45.72,"hdg":161,"surf":"Asphalt","rwy1":"18","lat1":48.52722200,"lon1":-71.05222200,"rwy2":"36","lat2":48.51750000,"lon2":-71.04722200},
+{"len_m":1137,"wid_m":45.72,"hdg":40,"surf":"Asphalt","rwy1":"06","lat1":48.51944400,"lon1":-71.06222200,"rwy2":"24","lat2":48.52722200,"lon2":-71.05222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.8,"desc":"ATIS"},
+{"type":"CTAF","freq":118.4,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":123.4,"desc":"VFR ADVSY"},
+{"type":"APP","freq":127.2,"desc":"BAGOTVILLE TRML"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYT","name":"St Johns Intl","lat":47.61551843,"lon":-52.74957732,"rwys":3,"ils":3,"elev":461,"index":2089569,"path":"w060n40/w053n47"
+,"runways":[
+{"len_m":2138,"wid_m":60.96,"hdg":139,"surf":"Asphalt","rwy1":"16","lat1":47.62554440,"lon1":-52.75346218,"rwy2":"34","lat2":47.61099854,"lon2":-52.73484947},
+{"len_m":2600,"wid_m":60.96,"hdg":85,"surf":"Asphalt","rwy1":"11","lat1":47.62332450,"lon1":-52.77325250,"rwy2":"29","lat2":47.62499449,"lon2":-52.73874024},
+{"len_m":1481,"wid_m":29.87,"hdg":356,"surf":"Asphalt","rwy1":"02","lat1":47.61131715,"lon1":-52.73968066,"rwy2":"20","lat2":47.62461333,"lon2":-52.74098921}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":-52,"surf":"Asphalt","lat1":47.61041487,"lon1":-52.74256169},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-52,"surf":"Asphalt","lat1":47.61044621,"lon1":-52.74219310},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":-52,"surf":"Asphalt","lat1":47.61045755,"lon1":-52.74183814},
+{"rwy1":"H4","len_m":20,"wid_m":20.12,"hdg":-52,"surf":"Concrete","lat1":47.60999137,"lon1":-52.74194901}
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":47.62516785,"lon":-52.73509979,"rng_nm":18,"alt_fmsl":461,"hdg":85.90,"id":"IMP","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":47.60913467,"lon":-52.73246765,"rng_nm":18,"alt_fmsl":461,"hdg":139.19,"id":"IYT","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":47.62314987,"lon":-52.77690125,"rng_nm":18,"alt_fmsl":461,"hdg":265.89,"id":"UYT","rwy":"29","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.1,"lat":47.62273407,"lon":-52.76963425,"rng_nm":10,"alt_fmsl":461,"id":"IMP","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":47.62291718,"lon":-52.75194931,"rng_nm":10,"alt_fmsl":461,"id":"IYT","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":47.62395096,"lon":-52.74246597,"rng_nm":10,"alt_fmsl":461,"id":"UYT","rwy":"29","desc":"GS","gs":3}
+]
+}

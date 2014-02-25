@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CEF4","name":"Airdrie","lat":51.26230975,"lon":-113.935989375,"rwys":4,"ils":0,"elev":3648,"index":1090384,"path":"w120n50/w114n51"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":137,"surf":"Asphalt","rwy1":"12","lat1":51.26887500,"lon1":-113.94188300,"rwy2":"30","lat2":51.25876700,"lon2":-113.92714400},
+{"len_m":904,"wid_m":30.48,"hdg":118,"surf":"Asphalt","rwy1":"10","lat1":51.26583600,"lon1":-113.94055000,"rwy2":"28","lat2":51.26194400,"lon2":-113.92916900},
+{"len_m":865,"wid_m":30.48,"hdg":180,"surf":"Gravel","rwy1":"16","lat1":51.26555600,"lon1":-113.94000000,"rwy2":"34","lat2":51.25777800,"lon2":-113.94000000},
+{"len_m":886,"wid_m":30.48,"hdg":58,"surf":"Gravel","rwy1":"04","lat1":51.25777800,"lon1":-113.94000000,"rwy2":"22","lat2":51.26194400,"lon2":-113.92916900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF UNIC"}
+]
+,"ils":[
+]
+}

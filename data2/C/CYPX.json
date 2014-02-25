@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYPX","name":"Puvirnituq","lat":60.050418,"lon":-77.2869445,"rwys":1,"ils":0,"elev":74,"index":1680770,"path":"w080n60/w078n60"
+,"runways":[
+{"len_m":1517,"wid_m":30.48,"hdg":343,"surf":"Gravel","rwy1":"01","lat1":60.04388900,"lon1":-77.28305600,"rwy2":"19","lat2":60.05694700,"lon2":-77.29083300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"CTAF MF"},
+{"type":"TWR","freq":122.1,"desc":"AFLD RDO"}
+]
+,"ils":[
+]
+}

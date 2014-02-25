@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYUY","name":"Rouyn Noranda","lat":48.2058015,"lon":-78.8352635,"rwys":1,"ils":1,"elev":988,"index":1663624,"path":"w080n40/w079n48"
+,"runways":[
+{"len_m":2281,"wid_m":45.72,"hdg":62,"surf":"Asphalt","rwy1":"08","lat1":48.20104700,"lon1":-78.84886300,"rwy2":"26","lat2":48.21055600,"lon2":-78.82166400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":48.21166611,"lon":-78.81905365,"rng_nm":18,"alt_fmsl":988,"id":"IUY","rwy":"08","desc":"LOC"}
+]
+}

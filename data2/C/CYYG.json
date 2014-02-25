@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYG","name":"Charlottetown","lat":46.28749988,"lon":-63.13079336,"rwys":2,"ils":1,"elev":160,"index":1909267,"path":"w070n40/w064n46"
+,"runways":[
+{"len_m":2134,"wid_m":46.02,"hdg":9,"surf":"Asphalt","rwy1":"03","lat1":46.28003494,"lon1":-63.12751553,"rwy2":"21","lat2":46.29899906,"lon2":-63.12316554},
+{"len_m":1529,"wid_m":60.96,"hdg":78,"surf":"Asphalt","rwy1":"10","lat1":46.29433131,"lon1":-63.12894977,"rwy2":"28","lat2":46.29697871,"lon2":-63.10947354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"MF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":46.30143356,"lon":-63.12260056,"rng_nm":18,"alt_fmsl":160,"hdg":9.05,"id":"IYG","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":46.28216553,"lon":-63.12846756,"rng_nm":10,"alt_fmsl":160,"id":"IYG","rwy":"03","desc":"GS","gs":3}
+]
+}

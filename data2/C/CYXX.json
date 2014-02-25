@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYXX","name":"Abbotsford","lat":49.02711300,"lon":-122.37642100,"rwys":3,"ils":1,"elev":189,"index":942786,"path":"w130n40/w123n49"
+,"runways":[
+{"len_m":2926,"wid_m":60.96,"hdg":85,"surf":"Asphalt","rwy1":"07","lat1":49.01911500,"lon1":-122.37996700,"rwy2":"25","lat2":49.02104800,"lon2":-122.34005800},
+{"len_m":1604,"wid_m":60.96,"hdg":25,"surf":"Asphalt","rwy1":"01","lat1":49.01877000,"lon1":-122.37871800,"rwy2":"19","lat2":49.03176400,"lon2":-122.36917600},
+{"len_m":451,"wid_m":28.96,"hdg":25,"surf":"Turf/grass","rwy1":"01L","lat1":49.02608640,"lon1":-122.37408779,"rwy2":"19R","lat2":49.02976278,"lon2":-122.37147182}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":-122,"surf":"Asphalt","lat1":49.02736300,"lon1":-122.37448800}
+]
+,"radios":[
+{"type":"ATIS","freq":119.4,"desc":"ABBOTSFORD FSS"},
+{"type":"ATIS","freq":122.5,"desc":"ABBOTSFORD FSS"},
+{"type":"ATIS","freq":126.7,"desc":"ABBOTSFORD FSS"},
+{"type":"ATIS","freq":119.8,"desc":"CYXX ATIS"},
+{"type":"GND","freq":121.8,"desc":"ABBOTSFORD GND"},
+{"type":"TWR","freq":119.4,"desc":"ABBOTSFORD TWR"},
+{"type":"TWR","freq":121,"desc":"ABBOTSFORD TWR"},
+{"type":"APP","freq":132.69,"desc":"VICTORIA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":49.02122200,"lon":-122.33768600,"rng_nm":18,"alt_fmsl":187,"hdg":85.78,"id":"IXX","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":49.01792300,"lon":-122.37606000,"rng_nm":10,"alt_fmsl":170,"id":"IXX","rwy":"07","desc":"GS","gs":3}
+]
+}

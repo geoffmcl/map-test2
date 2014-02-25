@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYVV","name":"Wiarton","lat":44.74312525,"lon":-81.10819375,"rwys":2,"ils":0,"elev":729,"index":1614251,"path":"w090n40/w082n44"
+,"runways":[
+{"len_m":1533,"wid_m":45.72,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":44.73916700,"lon1":-81.11722500,"rwy2":"23","lat2":44.74916700,"lon2":-81.10388900},
+{"len_m":936,"wid_m":30.48,"hdg":99,"surf":"Gravel","rwy1":"11","lat1":44.74277800,"lon1":-81.11166400,"rwy2":"29","lat2":44.74138900,"lon2":-81.09999700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+,"ils":[
+]
+}

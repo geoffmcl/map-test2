@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYXE","name":"Saskatoon J G Diefenbaker Intl","lat":52.16913666,"lon":-106.69179682,"rwys":2,"ils":1,"elev":1653,"index":1205129,"path":"w110n50/w107n52"
+,"runways":[
+{"len_m":2528,"wid_m":46.02,"hdg":100,"surf":"Asphalt","rwy1":"09","lat1":52.17852194,"lon1":-106.71808950,"rwy2":"27","lat2":52.17418483,"lon2":-106.68181292},
+{"len_m":1891,"wid_m":46.02,"hdg":161,"surf":"Asphalt","rwy1":"15","lat1":52.17898468,"lon1":-106.70569157,"rwy2":"33","lat2":52.16290854,"lon2":-106.69670748}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.01,"hdg":-106,"surf":"Asphalt","lat1":52.17073984,"lon1":-106.68558078}
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":52.17344100,"lon":-106.67577800,"rng_nm":18,"alt_fmsl":1636,"hdg":101.00,"id":"IST","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":52.17914700,"lon":-106.71348100,"rng_nm":10,"alt_fmsl":1653,"id":"IST","rwy":"09","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYC","name":"Calgary Intl","lat":51.1131972666667,"lon":-114.020043853333,"rwys":3,"ils":3,"elev":3557,"index":1073987,"path":"w120n50/w115n51"
+,"runways":[
+{"len_m":3872,"wid_m":60.96,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":51.13151261,"lon1":-114.02208303,"rwy2":"34","lat2":51.09670702,"lon2":-114.02111253},
+{"len_m":2576,"wid_m":64.01,"hdg":118,"surf":"Asphalt","rwy1":"10","lat1":51.12697126,"lon1":-114.03790758,"rwy2":"28","lat2":51.11576325,"lon2":-114.00570860},
+{"len_m":2005,"wid_m":43.89,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":51.10423527,"lon1":-114.03104200,"rwy2":"25","lat2":51.10399421,"lon2":-114.00240937}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":123.85,"desc":"ARR"},
+{"type":"APP","freq":125.9,"desc":"ARR"},
+{"type":"DEP","freq":119.8,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":51.09550100,"lon":-114.02124800,"rng_nm":18,"alt_fmsl":3536,"hdg":179.17,"id":"IEM","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":51.12710068,"lon":-114.03855847,"rng_nm":18,"alt_fmsl":3557,"hdg":298.79,"id":"IAQ","rwy":"28","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":51.13290000,"lon":-114.02129400,"rng_nm":18,"alt_fmsl":3534,"hdg":359.82,"id":"IYC","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":51.12840700,"lon":-114.02361900,"rng_nm":10,"alt_fmsl":3544,"id":"IEM","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":51.11623462,"lon":-114.01070044,"rng_nm":10,"alt_fmsl":3557,"id":"IAQ","rwy":"28","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":51.09899500,"lon":-114.02249900,"rng_nm":10,"alt_fmsl":3539,"id":"IYC","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":51.08105932,"lon":-113.90926177,"rng_nm":0,"alt_fmsl":3557,"id":"----","rwy":"28","desc":"OM"}
+]
+}

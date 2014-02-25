@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYAG","name":"Fort Frances Muni","lat":48.65505075,"lon":-93.44138075,"rwys":2,"ils":0,"elev":1125,"index":1417898,"path":"w100n40/w094n48"
+,"runways":[
+{"len_m":1368,"wid_m":30.48,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":48.65800300,"lon1":-93.44808100,"rwy2":"30","lat2":48.65081100,"lon2":-93.43300300},
+{"len_m":789,"wid_m":22.86,"hdg":34,"surf":"Asphalt","rwy1":"03","lat1":48.65277800,"lon1":-93.44527500,"rwy2":"21","lat2":48.65861100,"lon2":-93.43916400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

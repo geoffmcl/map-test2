@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CCW3","name":"Waterville Kings Co Muni","lat":45.05217714,"lon":-64.6518605,"rwys":1,"ils":0,"elev":119,"index":1892801,"path":"w070n40/w065n45"
+,"runways":[
+{"len_m":1070,"wid_m":22.86,"hdg":76,"surf":"Asphalt","rwy1":"10","lat1":45.05101578,"lon1":-64.65845383,"rwy2":"28","lat2":45.05333849,"lon2":-64.64526717}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":119.5,"desc":"GREENWOOD TWR"},
+{"type":"APP","freq":120.6,"desc":"GREENWOOD TRML"}
+]
+,"ils":[
+]
+}

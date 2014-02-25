@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYGR","name":"Iles De La Madeleine","lat":47.425196,"lon":-61.777085,"rwys":2,"ils":1,"elev":35,"index":1942104,"path":"w070n40/w062n47"
+,"runways":[
+{"len_m":1369,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"07","lat1":47.42057517,"lon1":-61.78789938,"rwy2":"25","lat2":47.42805083,"lon2":-61.77347862},
+{"len_m":1110,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"16","lat1":47.42963482,"lon1":-61.77864594,"rwy2":"34","lat2":47.42252318,"lon2":-61.76831606}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":47.42933273,"lon":-61.77099991,"rng_nm":18,"alt_fmsl":35,"id":"IGR","rwy":"07","desc":"LOC"}
+]
+}

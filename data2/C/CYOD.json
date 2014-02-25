@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYOD","name":"Cold Lake","lat":54.4047226666667,"lon":-110.2845695,"rwys":3,"ils":0,"elev":1775,"index":1139738,"path":"w120n50/w111n54"
+,"runways":[
+{"len_m":3838,"wid_m":60.96,"hdg":143,"surf":"Asphalt","rwy1":"13L","lat1":54.41888900,"lon1":-110.30473100,"rwy2":"31R","lat2":54.39110800,"lon2":-110.26971900},
+{"len_m":3094,"wid_m":45.72,"hdg":143,"surf":"Asphalt","rwy1":"13R","lat1":54.41666700,"lon1":-110.31083900,"rwy2":"31L","lat2":54.39444400,"lon2":-110.28221900},
+{"len_m":2520,"wid_m":60.96,"hdg":52,"surf":"Asphalt","rwy1":"04","lat1":54.39666700,"lon1":-110.28528100,"rwy2":"22","lat2":54.41056100,"lon2":-110.25462800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":120.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP"},
+{"type":"APP","freq":124.5,"desc":"ARR"},
+{"type":"DEP","freq":124.5,"desc":"DEP"}
+]
+,"ils":[
+]
+}

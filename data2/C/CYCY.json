@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYCY","name":"Clyde River","lat":70.486114,"lon":-68.516529,"rwys":1,"ils":0,"elev":87,"index":1828888,"path":"w070n70/w069n70"
+,"runways":[
+{"len_m":1107,"wid_m":30.48,"hdg":17,"surf":"Gravel","rwy1":"02T","lat1":70.48139200,"lon1":-68.52111100,"rwy2":"20T","lat2":70.49083600,"lon2":-68.51194700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.6,"desc":"AWOS"},
+{"type":"CTAF","freq":122.1,"desc":"MANDATORY FREQ"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYBW","name":"Calgary Springbank","lat":51.10898200,"lon":-114.37682700,"rwys":2,"ils":1,"elev":3937,"index":1073986,"path":"w120n50/w115n51"
+,"runways":[
+{"len_m":1036,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":51.11305600,"lon1":-114.38027800,"rwy2":"25","lat2":51.11305600,"lon2":-114.36548300},
+{"len_m":939,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":51.11469700,"lon1":-114.38011100,"rwy2":"34","lat2":51.10625000,"lon2":-114.38027800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":120.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"GS","freq":111.7,"lat":51.10699844,"lon":-114.38069916,"rng_nm":10,"alt_fmsl":3937,"id":"IBW","rwy":"34","desc":"GS","gs":3}
+]
+}

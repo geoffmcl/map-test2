@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CZUM","name":"Churchill Falls","lat":53.562625,"lon":-64.105935,"rwys":1,"ils":0,"elev":1442,"index":1893347,"path":"w070n50/w065n53"
+,"runways":[
+{"len_m":1676,"wid_m":45.72,"hdg":104,"surf":"Asphalt","rwy1":"13","lat1":53.56451700,"lon1":-64.11817800,"rwy2":"31","lat2":53.56073300,"lon2":-64.09369200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.55,"desc":"AWOS"},
+{"type":"CTAF","freq":123.5,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

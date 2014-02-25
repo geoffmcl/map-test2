@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYQF","name":"Red Deer Regional","lat":52.18256775,"lon":-113.8936855,"rwys":2,"ils":0,"elev":2968,"index":1090440,"path":"w120n50/w114n52"
+,"runways":[
+{"len_m":1699,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":52.19361100,"lon1":-113.89306100,"rwy2":"34","lat2":52.17833300,"lon2":-113.89306100},
+{"len_m":1062,"wid_m":30.48,"hdg":129,"surf":"Asphalt","rwy1":"11","lat1":52.18221900,"lon1":-113.90028100,"rwy2":"29","lat2":52.17610800,"lon2":-113.88833900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"MF RED DEER RDO"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYXU","name":"London","lat":43.02838079,"lon":-81.14896347,"rwys":2,"ils":1,"elev":912,"index":1614147,"path":"w090n40/w082n43"
+,"runways":[
+{"len_m":2682,"wid_m":60.96,"hdg":138,"surf":"Asphalt","rwy1":"15","lat1":43.04211093,"lon1":-81.15980470,"rwy2":"33","lat2":43.02397407,"lon2":-81.13808311},
+{"len_m":1920,"wid_m":60.96,"hdg":79,"surf":"Asphalt","rwy1":"09","lat1":43.03800615,"lon1":-81.16394751,"rwy2":"27","lat2":43.04129349,"lon2":-81.14080844}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":43.02227000,"lon":-81.13610100,"rng_nm":18,"alt_fmsl":906,"hdg":138.88,"id":"IXU","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":43.04055800,"lon":-81.15611300,"rng_nm":10,"alt_fmsl":906,"id":"IXU","rwy":"15","desc":"GS","gs":3}
+]
+}

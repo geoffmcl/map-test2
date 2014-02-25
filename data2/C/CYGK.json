@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYGK","name":"Kingston","lat":44.223472,"lon":-76.5984,"rwys":2,"ils":1,"elev":305,"index":1696137,"path":"w080n40/w077n44"
+,"runways":[
+{"len_m":1516,"wid_m":30.48,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":44.21833300,"lon1":-76.60083100,"rwy2":"19","lat2":44.23194400,"lon2":-76.60221900},
+{"len_m":1206,"wid_m":30.48,"hdg":54,"surf":"Asphalt","rwy1":"07","lat1":44.21861400,"lon1":-76.60138600,"rwy2":"25","lat2":44.22499700,"lon2":-76.58916400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.5,"desc":"CTAF"},
+{"type":"TWR","freq":122.5,"desc":"MF"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":44.21701000,"lon":-76.60066200,"rng_nm":18,"alt_fmsl":299,"hdg":175.73,"id":"IGK","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":44.22996100,"lon":-76.60156200,"rng_nm":10,"alt_fmsl":299,"id":"IGK","rwy":"19","desc":"GS","gs":3}
+]
+}

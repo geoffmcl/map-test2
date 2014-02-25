@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYQG","name":"Windsor","lat":42.26616325,"lon":-82.96060253,"rwys":2,"ils":1,"elev":622,"index":1597712,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":2743,"wid_m":60.96,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":42.27333600,"lon1":-82.97055800,"rwy2":"25","lat2":42.28488900,"lon2":-82.94116400},
+{"len_m":1575,"wid_m":46.02,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":42.27333600,"lon1":-82.97055800,"rwy2":"30","lat2":42.26722200,"lon2":-82.95333100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":124.7,"desc":"TWR"},
+{"type":"APP","freq":126.85,"desc":"DETROIT APP/DEP"},
+{"type":"APP","freq":134.3,"desc":"DETROIT APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":42.27236900,"lon":-82.97312900,"rng_nm":18,"alt_fmsl":620,"hdg":242.09,"id":"IQG","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":42.28137600,"lon":-82.94419100,"rng_nm":10,"alt_fmsl":622,"id":"IQG","rwy":"25","desc":"GS","gs":3}
+]
+}

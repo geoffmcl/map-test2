@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYR","name":"Goose Bay","lat":53.31882025,"lon":-60.42388975,"rwys":2,"ils":0,"elev":160,"index":1958866,"path":"w070n50/w061n53"
+,"runways":[
+{"len_m":3376,"wid_m":63.70,"hdg":54,"surf":"Asphalt","rwy1":"08","lat1":53.30388900,"lon1":-60.44805600,"rwy2":"26","lat2":53.32138900,"lon2":-60.40666700},
+{"len_m":2905,"wid_m":60.96,"hdg":132,"surf":"Asphalt","rwy1":"16","lat1":53.33388900,"lon1":-60.43638900,"rwy2":"34","lat2":53.31611400,"lon2":-60.40444700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.1,"desc":"ATIS"},
+{"type":"CLD","freq":118.1,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":119.9,"desc":"PAR"},
+{"type":"APP","freq":124.5,"desc":"PAR"},
+{"type":"APP","freq":119.5,"desc":"TRML"}
+]
+,"ils":[
+]
+}

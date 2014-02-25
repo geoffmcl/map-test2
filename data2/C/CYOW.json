@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYOW","name":"Ottawa Macdonald Cartier Intl","lat":45.32170400,"lon":-75.66503300,"rwys":3,"ils":2,"elev":374,"index":1712593,"path":"w080n40/w076n45"
+,"runways":[
+{"len_m":3045,"wid_m":60.96,"hdg":126,"surf":"Asphalt","rwy1":"14","lat1":45.32708900,"lon1":-75.68582200,"rwy2":"32","lat2":45.31084400,"lon2":-75.65454200},
+{"len_m":2445,"wid_m":60.96,"hdg":57,"surf":"Asphalt","rwy1":"07","lat1":45.31333300,"lon1":-75.67099200,"rwy2":"25","lat2":45.32523600,"lon2":-75.64475800},
+{"len_m":1006,"wid_m":22.86,"hdg":25,"surf":"Asphalt","rwy1":"04","lat1":45.32611400,"lon1":-75.68903100,"rwy2":"22","lat2":45.33428600,"lon2":-75.68348600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.15,"desc":"ATIS"},
+{"type":"CLD","freq":119.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":135.15,"desc":"TRML"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":45.32587100,"lon":-75.64337200,"rng_nm":18,"alt_fmsl":350,"hdg":57.17,"id":"IOW","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":45.32764100,"lon":-75.68701200,"rng_nm":18,"alt_fmsl":351,"hdg":306.33,"id":"IRP","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":45.31314100,"lon":-75.66963200,"rng_nm":10,"alt_fmsl":356,"id":"IOW","rwy":"07","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":45.31095100,"lon":-75.65704300,"rng_nm":10,"alt_fmsl":376,"id":"IRP","rwy":"32","desc":"GS","gs":3}
+]
+}

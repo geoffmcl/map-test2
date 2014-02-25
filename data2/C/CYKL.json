@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYKL","name":"Schefferville","lat":54.8047225,"lon":-66.804722,"rwys":1,"ils":0,"elev":1709,"index":1860656,"path":"w070n50/w067n54"
+,"runways":[
+{"len_m":1523,"wid_m":45.72,"hdg":148,"surf":"Asphalt","rwy1":"18","lat1":54.81058900,"lon1":-66.81082500,"rwy2":"36","lat2":54.79885600,"lon2":-66.79861900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.6,"desc":"AWOS"},
+{"type":"TWR","freq":122.2,"desc":"MF"}
+]
+,"ils":[
+]
+}

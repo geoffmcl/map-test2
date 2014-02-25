@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYMO","name":"Moosonee","lat":51.29209525,"lon":-80.60827625,"rwys":2,"ils":0,"elev":30,"index":1631057,"path":"w090n50/w081n51"
+,"runways":[
+{"len_m":1222,"wid_m":30.48,"hdg":43,"surf":"Asphalt","rwy1":"06","lat1":51.28810300,"lon1":-80.60893900,"rwy2":"24","lat2":51.29611100,"lon2":-80.59694400},
+{"len_m":1071,"wid_m":30.48,"hdg":127,"surf":"Dirt","rwy1":"14","lat1":51.29500000,"lon1":-80.61972200,"rwy2":"32","lat2":51.28916700,"lon2":-80.60750000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.8,"desc":"AWOS"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"},
+{"type":"TWR","freq":122.5,"desc":"MF"}
+]
+,"ils":[
+]
+}

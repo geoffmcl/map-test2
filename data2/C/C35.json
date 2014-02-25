@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C35","name":"Reedsburg Muni","lat":43.52631,"lon":-89.9837015,"rwys":2,"ils":0,"elev":907,"index":1483104,"path":"w090n40/w090n43"
+,"runways":[
+{"len_m":1475,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":43.53177800,"lon1":-89.98218900,"rwy2":"36","lat2":43.51850000,"lon2":-89.98235300},
+{"len_m":764,"wid_m":14.94,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":43.52625183,"lon1":-89.98955072,"rwy2":"25","lat2":43.52871017,"lon2":-89.98071328}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.45,"desc":"MADISON APP/DEP"}
+]
+,"ils":[
+]
+}

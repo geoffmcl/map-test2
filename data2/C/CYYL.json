@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYL","name":"Lynn Lake","lat":56.86244575,"lon":-101.07305225,"rwys":2,"ils":0,"elev":1170,"index":1287347,"path":"w110n50/w102n56"
+,"runways":[
+{"len_m":1515,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":56.87055600,"lon1":-101.07000000,"rwy2":"35","lat2":56.85694400,"lon2":-101.07000000},
+{"len_m":768,"wid_m":24.38,"hdg":86,"surf":"Gravel","rwy1":"08","lat1":56.86095000,"lon1":-101.08239200,"rwy2":"26","lat2":56.86133300,"lon2":-101.06981700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"MF WINNIPEG RDO"}
+]
+,"ils":[
+]
+}

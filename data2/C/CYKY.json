@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYKY","name":"Kindersley","lat":51.516707765,"lon":-109.180019165,"rwys":2,"ils":0,"elev":2277,"index":1155939,"path":"w110n50/w110n51"
+,"runways":[
+{"len_m":1069,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":51.51831800,"lon1":-109.18825789,"rwy2":"25","lat2":51.51831800,"lon2":-109.17285605},
+{"len_m":695,"wid_m":29.87,"hdg":179,"surf":"Turf/grass","rwy1":"17","lat1":51.51822253,"lon1":-109.17948986,"rwy2":"35","lat2":51.51197253,"lon2":-109.17947286}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

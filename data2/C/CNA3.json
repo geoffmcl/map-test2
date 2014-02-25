@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CNA3","name":"Springwater Barrie Airpark","lat":44.409861,"lon":-79.727082,"rwys":1,"ils":0,"elev":963,"index":1647001,"path":"w080n40/w080n44"
+,"runways":[
+{"len_m":648,"wid_m":30.48,"hdg":58,"surf":"Asphalt","rwy1":"07","lat1":44.40833300,"lon1":-79.73055300,"rwy2":"25","lat2":44.41138900,"lon2":-79.72361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.02,"desc":"TORONTO CNTR"}
+]
+,"ils":[
+]
+}

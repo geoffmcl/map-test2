@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYKO","name":"Akulivik","lat":60.818611,"lon":-78.1486125,"rwys":1,"ils":0,"elev":75,"index":1664435,"path":"w080n60/w079n60"
+,"runways":[
+{"len_m":1086,"wid_m":30.48,"hdg":62,"surf":"Gravel","rwy1":"08","lat1":60.81638600,"lon1":-78.15750000,"rwy2":"26","lat2":60.82083600,"lon2":-78.13972500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"MF/CTAF"},
+{"type":"TWR","freq":122.1,"desc":"ARPT RDO"}
+]
+,"ils":[
+]
+}

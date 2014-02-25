@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYWG","name":"Winnipeg Intl","lat":49.90311351,"lon":-97.22508775,"rwys":2,"ils":3,"elev":783,"index":1352443,"path":"w100n40/w098n49"
+,"runways":[
+{"len_m":3349,"wid_m":60.96,"hdg":189,"surf":"Asphalt","rwy1":"18","lat1":49.92527800,"lon1":-97.23416900,"rwy2":"36","lat2":49.89555800,"lon2":-97.24166900},
+{"len_m":2648,"wid_m":60.96,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":49.91277800,"lon1":-97.25221900,"rwy2":"31","lat2":49.89527800,"lon2":-97.22721900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.9,"desc":"INTL AIR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":125.4,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"ARR"},
+{"type":"DEP","freq":119.9,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":49.89420735,"lon":-97.22568483,"rng_nm":18,"alt_fmsl":783,"hdg":137.38,"id":"INP","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":49.91384865,"lon":-97.25374355,"rng_nm":18,"alt_fmsl":783,"hdg":317.38,"id":"IHV","rwy":"31","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":49.92669377,"lon":-97.23381380,"rng_nm":18,"alt_fmsl":783,"hdg":9.23,"id":"IWG","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":49.91131663,"lon":-97.24839450,"rng_nm":10,"alt_fmsl":783,"id":"INP","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":49.89673937,"lon":-97.23104219,"rng_nm":10,"alt_fmsl":783,"id":"IHV","rwy":"31","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":49.89839746,"lon":-97.24224689,"rng_nm":10,"alt_fmsl":783,"id":"IWG","rwy":"36","desc":"GS","gs":3}
+]
+}

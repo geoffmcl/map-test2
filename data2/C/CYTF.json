@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYTF","name":"Alma","lat":48.50875,"lon":-71.641946,"rwys":1,"ils":1,"elev":445,"index":1778337,"path":"w080n40/w072n48"
+,"runways":[
+{"len_m":1301,"wid_m":30.48,"hdg":113,"surf":"Asphalt","rwy1":"13","lat1":48.51111100,"lon1":-71.65000300,"rwy2":"31","lat2":48.50638900,"lon2":-71.63388900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.2,"desc":"BAGOTVILLE TRML"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":48.50500000,"lon":-71.63222200,"rng_nm":18,"alt_fmsl":445,"id":"ITF","rwy":"13","desc":"LOC"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CNZ8","name":"Grimsby Airpark","lat":43.16,"lon":-79.5991665,"rwys":1,"ils":0,"elev":640,"index":1646921,"path":"w080n40/w080n43"
+,"runways":[
+{"len_m":867,"wid_m":22.86,"hdg":31,"surf":"Gravel","rwy1":"04","lat1":43.15666700,"lon1":-79.60194400,"rwy2":"22","lat2":43.16333300,"lon2":-79.59638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.35,"desc":"CTAF/UNICOM"},
+{"type":"TWR","freq":125,"desc":"HAMILTON TWR"}
+]
+,"ils":[
+]
+}

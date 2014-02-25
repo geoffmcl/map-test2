@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYPG","name":"Southport","lat":49.906875,"lon":-98.27149275,"rwys":4,"ils":0,"elev":885,"index":1336058,"path":"w100n40/w099n49"
+,"runways":[
+{"len_m":2179,"wid_m":60.96,"hdg":132,"surf":"Asphalt","rwy1":"13R","lat1":49.90666700,"lon1":-98.28388900,"rwy2":"31L","lat2":49.89333300,"lon2":-98.26166400},
+{"len_m":953,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"13L","lat1":49.91083300,"lon1":-98.27916700,"rwy2":"31R","lat2":49.90500000,"lon2":-98.26944400},
+{"len_m":915,"wid_m":45.72,"hdg":19,"surf":"Asphalt","rwy1":"01","lat1":49.90388900,"lon1":-98.26916700,"rwy2":"19","lat2":49.91166700,"lon2":-98.26500000},
+{"len_m":778,"wid_m":45.72,"hdg":87,"surf":"Asphalt","rwy1":"08","lat1":49.91166700,"lon1":-98.27722200,"rwy2":"26","lat2":49.91194400,"lon2":-98.26638900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.85,"desc":"ATIS"},
+{"type":"CTAF","freq":126.2,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+,"ils":[
+]
+}

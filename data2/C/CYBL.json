@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYBL","name":"Campbell River","lat":49.95213200,"lon":-125.26903100,"rwys":1,"ils":1,"elev":346,"index":893690,"path":"w130n40/w126n49"
+,"runways":[
+{"len_m":1533,"wid_m":46.02,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":49.95555600,"lon1":-125.27833900,"rwy2":"29","lat2":49.94578700,"lon2":-125.26326600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":22.86,"hdg":-125,"surf":"Concrete","lat1":49.95080600,"lon1":-125.26793800},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":-125,"surf":"Concrete","lat1":49.95206900,"lon1":-125.27060300}
+]
+,"radios":[
+{"type":"ATIS","freq":128.55,"desc":"ATIS"},
+{"type":"CTAF","freq":122,"desc":"CTAF"},
+{"type":"TWR","freq":122,"desc":"MF CAMPBELL RDO"},
+{"type":"APP","freq":123.7,"desc":"COMOX TRML ARR/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":49.94567100,"lon":-125.26271800,"rng_nm":18,"alt_fmsl":309,"hdg":134.75,"id":"IBL","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":49.94567100,"lon":-125.26271800,"rng_nm":18,"alt_fmsl":309,"hdg":134.38,"id":"IBL","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":49.95369700,"lon":-125.27817500,"rng_nm":10,"alt_fmsl":344,"id":"IBL","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":49.95369700,"lon":-125.27817500,"rng_nm":10,"alt_fmsl":344,"id":"IBL","rwy":"29","desc":"GS","gs":3}
+]
+}

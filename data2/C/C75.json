@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"C75","name":"Marshall Co","lat":41.019331,"lon":-89.38629175,"rwys":2,"ils":0,"elev":568,"index":1482946,"path":"w090n40/w090n41"
+,"runways":[
+{"len_m":975,"wid_m":22.86,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":41.02180300,"lon1":-89.39158300,"rwy2":"31","lat2":41.01637800,"lon2":-89.38246700},
+{"len_m":670,"wid_m":15.24,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":41.02259100,"lon1":-89.38546400,"rwy2":"36","lat2":41.01655200,"lon2":-89.38565300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

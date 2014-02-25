@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYB","name":"North Bay Jack Garland","lat":46.35804851,"lon":-79.42856726,"rwys":3,"ils":1,"elev":1215,"index":1647122,"path":"w080n40/w080n46"
+,"runways":[
+{"len_m":3058,"wid_m":60.96,"hdg":65,"surf":"Asphalt","rwy1":"08","lat1":46.35732340,"lon1":-79.44227853,"rwy2":"26","lat2":46.36879860,"lon2":-79.40616247},
+{"len_m":1369,"wid_m":46.02,"hdg":167,"surf":"Asphalt","rwy1":"18","lat1":46.37003584,"lon1":-79.42696424,"rwy2":"36","lat2":46.35801799,"lon2":-79.42302491},
+{"len_m":764,"wid_m":22.86,"hdg":115,"surf":"Turf/grass","rwy1":"13","lat1":46.36966644,"lon1":-79.42504681,"rwy2":"31","lat2":46.36668714,"lon2":-79.41609578}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.90,"hdg":-79,"surf":"Concrete","lat1":46.35816540,"lon1":-79.42954639},
+{"rwy1":"H2","len_m":18,"wid_m":18.90,"hdg":-79,"surf":"Concrete","lat1":46.35650965,"lon1":-79.43551863},
+{"rwy1":"H3","len_m":18,"wid_m":18.90,"hdg":-79,"surf":"Concrete","lat1":46.35729998,"lon1":-79.43522721}
+]
+,"radios":[
+{"type":"ATIS","freq":124.9,"desc":"ATIS"},
+{"type":"CTAF","freq":126.7,"desc":"RCO (London)"},
+{"type":"GND","freq":122.95,"desc":"Shell Jet A - 100LL"},
+{"type":"GND","freq":131.75,"desc":"Esso Jet A"},
+{"type":"TWR","freq":118.3,"desc":"Tower"},
+{"type":"DEP","freq":127.25,"desc":"PALToronto Ctr"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":46.37097200,"lon":-79.39945200,"rng_nm":18,"alt_fmsl":1194,"hdg":65.23,"id":"IYB","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":46.35990900,"lon":-79.43941500,"rng_nm":10,"alt_fmsl":1133,"id":"IYB","rwy":"08","desc":"GS","gs":3}
+]
+}

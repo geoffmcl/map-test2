@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYAM","name":"Sault Ste Marie","lat":46.48491094,"lon":-84.50043644,"rwys":2,"ils":1,"elev":630,"index":1565209,"path":"w090n40/w085n46"
+,"runways":[
+{"len_m":1831,"wid_m":60.96,"hdg":32,"surf":"Asphalt","rwy1":"04","lat1":46.47819113,"lon1":-84.51333230,"rwy2":"22","lat2":46.49202856,"lon2":-84.50038088},
+{"len_m":1834,"wid_m":60.96,"hdg":107,"surf":"Asphalt","rwy1":"12","lat1":46.48605363,"lon1":-84.52108134,"rwy2":"30","lat2":46.48099818,"lon2":-84.49833514}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.05,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":46.48058319,"lon":-84.49645233,"rng_nm":18,"alt_fmsl":630,"hdg":107.89,"id":"IAM","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":46.48424911,"lon":-84.51811981,"rng_nm":10,"alt_fmsl":630,"id":"IAM","rwy":"12","desc":"GS","gs":3}
+]
+}

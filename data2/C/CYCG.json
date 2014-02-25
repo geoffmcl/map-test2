@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYCG","name":"Castlegar","lat":49.2962225,"lon":-117.632504,"rwys":1,"ils":1,"elev":1624,"index":1024721,"path":"w120n40/w118n49"
+,"runways":[
+{"len_m":1615,"wid_m":45.72,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":49.30335300,"lon1":-117.63462500,"rwy2":"33","lat2":49.28909200,"lon2":-117.63038300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.1,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":110.1,"lat":49.25222200,"lon":-117.66277800,"rng_nm":18,"alt_fmsl":1695,"id":"XCG","rwy":"15","desc":"LOC"}
+]
+}

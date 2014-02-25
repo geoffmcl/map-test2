@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CSL3","name":"Lac A La Tortue","lat":46.62180575,"lon":-72.631735,"rwys":2,"ils":0,"elev":434,"index":1761825,"path":"w080n40/w073n46"
+,"runways":[
+{"len_m":890,"wid_m":12.19,"hdg":13,"surf":"Asphalt","rwy1":"03","lat1":46.61888900,"lon1":-72.63333100,"rwy2":"21","lat2":46.62666700,"lon2":-72.63055300},
+{"len_m":612,"wid_m":12.19,"hdg":143,"surf":"Asphalt","rwy1":"16","lat1":46.62305600,"lon1":-72.63388900,"rwy2":"34","lat2":46.61861100,"lon2":-72.62916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

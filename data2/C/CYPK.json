@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYPK","name":"Pitt Meadows","lat":49.21095800,"lon":-122.70523200,"rwys":3,"ils":0,"elev":11,"index":942793,"path":"w130n40/w123n49"
+,"runways":[
+{"len_m":1403,"wid_m":29.87,"hdg":97,"surf":"Asphalt","rwy1":"08R","lat1":49.21467238,"lon1":-122.72246231,"rwy2":"26L","lat2":49.21310162,"lon2":-122.70334769},
+{"len_m":729,"wid_m":22.86,"hdg":97,"surf":"Asphalt","rwy1":"08L","lat1":49.21927057,"lon1":-122.71597858,"rwy2":"26R","lat2":49.21845143,"lon2":-122.70603742},
+{"len_m":753,"wid_m":22.86,"hdg":201,"surf":"Asphalt","rwy1":"18","lat1":49.21925497,"lon1":-122.70673008,"rwy2":"36","lat2":49.21297303,"lon2":-122.71060392}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125,"desc":"ATIS 125.0"},
+{"type":"GND","freq":123.8,"desc":"GND 123.8"},
+{"type":"TWR","freq":120,"desc":"TWR 126.3"},
+{"type":"TWR","freq":126.3,"desc":"DEP 132.3"}
+]
+,"ils":[
+]
+}

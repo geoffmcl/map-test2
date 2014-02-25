@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYMM","name":"Fort Mcmurray","lat":56.652639,"lon":-111.22195,"rwys":1,"ils":1,"elev":1211,"index":1123499,"path":"w120n50/w112n56"
+,"runways":[
+{"len_m":1840,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"07","lat1":56.65250000,"lon1":-111.23695000,"rwy2":"25","lat2":56.65277800,"lon2":-111.20695000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ATIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":56.65245800,"lon":-111.23961600,"rng_nm":18,"alt_fmsl":1198,"hdg":268.96,"id":"IMM","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":56.65377400,"lon":-111.20919800,"rng_nm":10,"alt_fmsl":1195,"id":"IMM","rwy":"25","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYCC","name":"Cornwall Rgnl","lat":45.0927775,"lon":-74.5633335,"rwys":1,"ils":0,"elev":175,"index":1728961,"path":"w080n40/w075n45"
+,"runways":[
+{"len_m":1056,"wid_m":30.48,"hdg":83,"surf":"Asphalt","rwy1":"10","lat1":45.09222200,"lon1":-74.57000000,"rwy2":"28","lat2":45.09333300,"lon2":-74.55666700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.77,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.25,"desc":"BOSTON CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYEG","name":"Edmonton Intl","lat":53.31043856,"lon":-113.58308277,"rwys":2,"ils":3,"elev":2373,"index":1090513,"path":"w120n50/w114n53"
+,"runways":[
+{"len_m":3117,"wid_m":60.96,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":53.30773100,"lon1":-113.59527712,"rwy2":"30","lat2":53.28787929,"lon2":-113.56228939},
+{"len_m":3360,"wid_m":60.96,"hdg":35,"surf":"Asphalt","rwy1":"02","lat1":53.30966229,"lon1":-113.59610959,"rwy2":"20","lat2":53.33425697,"lon2":-113.56684819}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":53.33537491,"lon":-113.56552664,"rng_nm":18,"alt_fmsl":2373,"hdg":35.40,"id":"IEG","rwy":"02","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":53.28690590,"lon":-113.56066444,"rng_nm":18,"alt_fmsl":2373,"hdg":135.20,"id":"IFB","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":53.30870439,"lon":-113.59688599,"rng_nm":18,"alt_fmsl":2373,"hdg":315.20,"id":"IKB","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":53.31237486,"lon":-113.59457290,"rng_nm":10,"alt_fmsl":2373,"id":"IEG","rwy":"02","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":53.30520487,"lon":-113.59301942,"rng_nm":10,"alt_fmsl":2373,"id":"IFB","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":53.28924570,"lon":-113.56649949,"rng_nm":10,"alt_fmsl":2373,"id":"IKB","rwy":"30","desc":"GS","gs":3}
+]
+}

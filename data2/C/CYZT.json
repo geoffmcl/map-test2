@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYZT","name":"Port Hardy","lat":50.68079,"lon":-127.367732333333,"rwys":3,"ils":1,"elev":71,"index":860970,"path":"w130n50/w128n50"
+,"runways":[
+{"len_m":1522,"wid_m":46.02,"hdg":130,"surf":"Asphalt","rwy1":"11","lat1":50.68611100,"lon1":-127.37305600,"rwy2":"29","lat2":50.67722300,"lon2":-127.35666800},
+{"len_m":1205,"wid_m":46.02,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":50.68583300,"lon1":-127.37166700,"rwy2":"34","lat2":50.67500100,"lon2":-127.37111100},
+{"len_m":1219,"wid_m":46.02,"hdg":92,"surf":"Asphalt","rwy1":"07","lat1":50.68057200,"lon1":-127.37556200,"rwy2":"25","lat2":50.68000000,"lon2":-127.35833000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"MF HARDY RDO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":50.67676900,"lon":-127.35585000,"rng_nm":18,"alt_fmsl":49,"hdg":130.56,"id":"IZT","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":50.68374600,"lon":-127.37049900,"rng_nm":10,"alt_fmsl":37,"id":"IZT","rwy":"11","desc":"GS","gs":3.25},
+{"type":"DME","freq":109.5,"lat":50.67676900,"lon":-127.35585000,"rng_nm":18,"alt_fmsl":71,"id":"IZT","rwy":"11","desc":"DME-ILS"}
+]
+}

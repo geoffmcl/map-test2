@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYYY","name":"Mont Joli","lat":48.607251,"lon":-68.2092285,"rwys":2,"ils":1,"elev":172,"index":1827491,"path":"w070n40/w069n48"
+,"runways":[
+{"len_m":1826,"wid_m":45.72,"hdg":38,"surf":"Asphalt","rwy1":"06","lat1":48.60361100,"lon1":-68.21638900,"rwy2":"24","lat2":48.61638900,"lon2":-68.20083300},
+{"len_m":1199,"wid_m":45.72,"hdg":132,"surf":"Asphalt","rwy1":"15","lat1":48.60817100,"lon1":-68.21580300,"rwy2":"33","lat2":48.60083300,"lon2":-68.20388900}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":48.61769200,"lon":-68.19951300,"rng_nm":18,"alt_fmsl":172,"id":"IYY","rwy":"06","desc":"LOC"}
+]
+}

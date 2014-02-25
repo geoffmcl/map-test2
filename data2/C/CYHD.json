@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYHD","name":"Dryden Rgnl","lat":49.83020825,"lon":-92.74111025,"rwys":2,"ils":1,"elev":1354,"index":1434353,"path":"w100n40/w093n49"
+,"runways":[
+{"len_m":1853,"wid_m":45.72,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":49.83500000,"lon1":-92.75555300,"rwy2":"29","lat2":49.82833300,"lon2":-92.73194400},
+{"len_m":604,"wid_m":22.86,"hdg":55,"surf":"Dirt","rwy1":"05","lat1":49.82722200,"lon1":-92.74194400,"rwy2":"23","lat2":49.83027800,"lon2":-92.73500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"MIN NATL RESOURCES"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":49.82782000,"lon":-92.73004900,"rng_nm":18,"alt_fmsl":1305,"hdg":113.59,"id":"IHD","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":49.83477000,"lon":-92.75166300,"rng_nm":10,"alt_fmsl":1342,"id":"IHD","rwy":"11","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CEL4","name":"Hanna","lat":51.6309736666667,"lon":-111.9006485,"rwys":3,"ils":0,"elev":2738,"index":1123176,"path":"w120n50/w112n51"
+,"runways":[
+{"len_m":1068,"wid_m":22.86,"hdg":133,"surf":"Asphalt","rwy1":"12","lat1":51.63472500,"lon1":-111.90971900,"rwy2":"30","lat2":51.62805600,"lon2":-111.89861100},
+{"len_m":554,"wid_m":30.48,"hdg":38,"surf":"Turf/grass","rwy1":"02","lat1":51.62916700,"lon1":-111.90056100,"rwy2":"20","lat2":51.63305800,"lon2":-111.89555000},
+{"len_m":408,"wid_m":18.29,"hdg":169,"surf":"Turf/grass","rwy1":"15","lat1":51.63222200,"lon1":-111.90028100,"rwy2":"33","lat2":51.62861400,"lon2":-111.89916900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

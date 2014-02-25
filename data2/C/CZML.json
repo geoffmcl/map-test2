@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CZML","name":"One Zero Eight Mile Airport","lat":51.736665,"lon":-121.33361,"rwys":1,"ils":0,"elev":3127,"index":959338,"path":"w130n50/w122n51"
+,"runways":[
+{"len_m":1486,"wid_m":22.86,"hdg":161,"surf":"Asphalt","rwy1":"14","lat1":51.74301900,"lon1":-121.33693900,"rwy2":"32","lat2":51.73031100,"lon2":-121.33028100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.2,"desc":"CTAF"},
+{"type":"APP","freq":134,"desc":"VANCOUVER CNTR"}
+]
+,"ils":[
+]
+}

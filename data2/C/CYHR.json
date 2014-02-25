@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYHR","name":"Chevery","lat":50.468974,"lon":-59.6366805,"rwys":1,"ils":1,"elev":39,"index":1975065,"path":"w060n50/w060n50"
+,"runways":[
+{"len_m":1371,"wid_m":45.72,"hdg":55,"surf":"Asphalt","rwy1":"08","lat1":50.46544200,"lon1":-59.64460000,"rwy2":"26","lat2":50.47250600,"lon2":-59.62876100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.55,"desc":"AWOS"},
+{"type":"CTAF","freq":123.5,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":50.47333300,"lon":-59.62666700,"rng_nm":18,"alt_fmsl":39,"id":"IHR","rwy":"08","desc":"LOC"}
+]
+}

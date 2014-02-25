@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CJC5","name":"Shaunavon","lat":49.658448955,"lon":-108.405825085,"rwys":2,"ils":0,"elev":3028,"index":1172202,"path":"w110n40/w109n49"
+,"runways":[
+{"len_m":927,"wid_m":22.86,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":49.66162350,"lon1":-108.41246219,"rwy2":"30","lat2":49.65573710,"lon2":-108.40336898},
+{"len_m":1020,"wid_m":11.89,"hdg":39,"surf":"Transparent","rwy1":"02","lat1":49.65468286,"lon1":-108.40823576,"rwy2":"20","lat2":49.66175235,"lon2":-108.39923340}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

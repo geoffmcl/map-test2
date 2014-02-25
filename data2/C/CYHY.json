@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYHY","name":"Hay River","lat":60.84062075,"lon":-115.7842425,"rwys":2,"ils":0,"elev":543,"index":1058224,"path":"w120n60/w116n60"
+,"runways":[
+{"len_m":1849,"wid_m":45.72,"hdg":156,"surf":"Asphalt","rwy1":"13","lat1":60.84721100,"lon1":-115.79613900,"rwy2":"31","lat2":60.83194400,"lon2":-115.78278100},
+{"len_m":1236,"wid_m":45.72,"hdg":66,"surf":"Dirt","rwy1":"04","lat1":60.83944200,"lon1":-115.78943900,"rwy2":"22","lat2":60.84388600,"lon2":-115.76861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"MANDATORY FREQ"},
+{"type":"APP","freq":126.7,"desc":"YELLOWKNIFE RDO"}
+]
+,"ils":[
+]
+}

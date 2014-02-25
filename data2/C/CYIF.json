@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"CYIF","name":"St Augustin","lat":51.211666,"lon":-58.658333,"rwys":1,"ils":1,"elev":20,"index":1991497,"path":"w060n50/w059n51"
+,"runways":[
+{"len_m":1399,"wid_m":30.48,"hdg":352,"surf":"Asphalt","rwy1":"02","lat1":51.20542700,"lon1":-58.65709000,"rwy2":"20","lat2":51.21790500,"lon2":-58.65957600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.7,"lat":51.20333300,"lon":-58.65500000,"rng_nm":18,"alt_fmsl":20,"id":"IIF","rwy":"20","desc":"LOC"}
+]
+}
