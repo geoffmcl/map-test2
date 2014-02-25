@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1R8","name":"Bay Minette Muni","lat":30.8703955,"lon":-87.8193225,"rwys":1,"ils":0,"elev":248,"index":1515056,"path":"w090n30/w088n30"
+,"runways":[
+{"len_m":1675,"wid_m":24.38,"hdg":86,"surf":"Asphalt","rwy1":"08","lat1":30.86990800,"lon1":-87.82806400,"rwy2":"26","lat2":30.87088300,"lon2":-87.81058100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.5,"desc":"MOBILE APP/DEP"}
+]
+,"ils":[
+]
+}

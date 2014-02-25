@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"12G","name":"Shelby Community","lat":40.87318725,"lon":-82.69758,"rwys":2,"ils":0,"elev":1120,"index":1597617,"path":"w090n40/w083n40"
+,"runways":[
+{"len_m":967,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":40.87621900,"lon1":-82.69688900,"rwy2":"36","lat2":40.86751100,"lon2":-82.69671900},
+{"len_m":576,"wid_m":38.10,"hdg":25,"surf":"Dirt","rwy1":"03","lat1":40.87216100,"lon1":-82.69980600,"rwy2":"21","lat2":40.87685800,"lon2":-82.69690600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.2,"desc":"MANSFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

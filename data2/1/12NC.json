@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"12NC","name":"Atlantic Mcolf","lat":34.8758763333333,"lon":-76.3499883333333,"rwys":3,"ils":0,"elev":20,"index":1695546,"path":"w080n30/w077n34"
+,"runways":[
+{"len_m":1108,"wid_m":45.72,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":34.87193600,"lon1":-76.35603300,"rwy2":"23","lat2":34.87878300,"lon2":-76.34719700},
+{"len_m":1069,"wid_m":45.72,"hdg":0,"surf":"Asphalt","rwy1":"01","lat1":34.86897800,"lon1":-76.34918900,"rwy2":"19","lat2":34.87861900,"lon2":-76.34909200},
+{"len_m":1051,"wid_m":45.72,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":34.87851400,"lon1":-76.35495800,"rwy2":"28","lat2":34.87842800,"lon2":-76.34346100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.75,"desc":"CHERRY POINT APP"}
+]
+,"ils":[
+]
+}

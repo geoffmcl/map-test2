@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1A9","name":"Prattville Grouby Fld","lat":32.438739,"lon":-86.512681,"rwys":1,"ils":0,"elev":225,"index":1531545,"path":"w090n30/w087n32"
+,"runways":[
+{"len_m":1645,"wid_m":30.48,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":32.43863600,"lon1":-86.52143100,"rwy2":"27","lat2":32.43884200,"lon2":-86.50393100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.2,"desc":"MONTGOMERY APP/DEP"}
+]
+,"ils":[
+]
+}

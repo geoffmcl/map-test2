@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1H8","name":"Casey Muni","lat":39.30267975,"lon":-88.004437,"rwys":2,"ils":0,"elev":654,"index":1499219,"path":"w090n30/w089n39"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":39.29792800,"lon1":-88.00766100,"rwy2":"22","lat2":39.30646900,"lon2":-87.99876400},
+{"len_m":601,"wid_m":30.48,"hdg":181,"surf":"Turf/grass","rwy1":"18","lat1":39.30586900,"lon1":-88.00559200,"rwy2":"36","lat2":39.30045300,"lon2":-88.00573100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.45,"desc":"HULMAN APP/DEP"}
+]
+,"ils":[
+]
+}

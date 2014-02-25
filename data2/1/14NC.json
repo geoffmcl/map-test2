@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"14NC","name":"Camp Davis Mcolf","lat":34.5119455,"lon":-77.55257025,"rwys":2,"ils":0,"elev":60,"index":1679137,"path":"w080n30/w078n34"
+,"runways":[
+{"len_m":1640,"wid_m":45.72,"hdg":1,"surf":"Concrete","rwy1":"01","lat1":34.50927800,"lon1":-77.55029700,"rwy2":"19","lat2":34.52405600,"lon2":-77.54970300},
+{"len_m":1513,"wid_m":45.72,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":34.50305600,"lon1":-77.56166700,"rwy2":"23","lat2":34.51139200,"lon2":-77.54861400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.35,"desc":"CHERRY POINT APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1N7","name":"Blairstown","lat":40.971146,"lon":-74.997475,"rwys":1,"ils":0,"elev":372,"index":1728696,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":944,"wid_m":21.34,"hdg":60,"surf":"Asphalt","rwy1":"07","lat1":40.96906700,"lon1":-75.00237200,"rwy2":"25","lat2":40.97322500,"lon2":-74.99257800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.6,"desc":"NEW YORK APP/DEP"},
+{"type":"APP","freq":119.65,"desc":"ALLENTOWN APP DEP"}
+]
+,"ils":[
+]
+}

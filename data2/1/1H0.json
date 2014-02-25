@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1H0","name":"Creve Coeur","lat":38.72687500,"lon":-90.51052100,"rwys":2,"ils":0,"elev":463,"index":1466409,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":1371,"wid_m":22.86,"hdg":158,"surf":"Concrete","rwy1":"16","lat1":38.73162200,"lon1":-90.51341700,"rwy2":"34","lat2":38.72013100,"lon2":-90.50762200},
+{"len_m":922,"wid_m":67.06,"hdg":66,"surf":"Dirt","rwy1":"07","lat1":38.72643900,"lon1":-90.50984200,"rwy2":"25","lat2":38.72977500,"lon2":-90.50012200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.5,"desc":"ST LOUIS APP/DEP"}
+]
+,"ils":[
+]
+}

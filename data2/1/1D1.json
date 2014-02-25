@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1D1","name":"Milbank Muni","lat":45.2310965,"lon":-96.56501925,"rwys":2,"ils":0,"elev":1116,"index":1368521,"path":"w100n40/w097n45"
+,"runways":[
+{"len_m":1228,"wid_m":18.29,"hdg":134,"surf":"Concrete","rwy1":"13","lat1":45.23722200,"lon1":-96.56833600,"rwy2":"31","lat2":45.22944200,"lon2":-96.55721900},
+{"len_m":1097,"wid_m":45.72,"hdg":71,"surf":"Turf/grass","rwy1":"07","lat1":45.22732200,"lon1":-96.57390000,"rwy2":"25","lat2":45.23040000,"lon2":-96.56062200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

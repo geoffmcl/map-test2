@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1O3","name":"Lodi","lat":38.20229,"lon":-121.268331295,"rwys":2,"ils":0,"elev":58,"index":958474,"path":"w130n30/w122n38"
+,"runways":[
+{"len_m":1141,"wid_m":13.11,"hdg":92,"surf":"Asphalt","rwy1":"08","lat1":38.20312145,"lon1":-121.27533771,"rwy2":"26","lat2":38.20268355,"lon2":-121.26231233},
+{"len_m":632,"wid_m":7.92,"hdg":134,"surf":"Asphalt","rwy1":"12","lat1":38.20367909,"lon1":-121.27040695,"rwy2":"30","lat2":38.19967591,"lon2":-121.26526819}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":125.1,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":125.25,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

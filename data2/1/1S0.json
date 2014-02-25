@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1S0","name":"Pierce Co Thun Fld","lat":47.101719595,"lon":-122.286570665,"rwys":1,"ils":0,"elev":538,"index":942658,"path":"w130n40/w123n47"
+,"runways":[
+{"len_m":1112,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":47.10892200,"lon1":-122.28712200,"rwy2":"34","lat2":47.09891700,"lon2":-122.28727800}
+]
+,"helipads":[
+{"rwy1":"Hel","len_m":26,"wid_m":22.86,"hdg":-122,"surf":"Asphalt","lat1":47.09951969,"lon1":-122.28594133}
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.85,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.5,"desc":"SEATTLE APP/DEP"}
+]
+,"ils":[
+]
+}

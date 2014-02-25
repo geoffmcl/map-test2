@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"12K","name":"Superior Muni","lat":40.04758737,"lon":-98.06488103,"rwys":2,"ils":0,"elev":1691,"index":1335427,"path":"w100n40/w099n40"
+,"runways":[
+{"len_m":1129,"wid_m":17.98,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":40.05050372,"lon1":-98.06390310,"rwy2":"32","lat2":40.04218278,"lon2":-98.05629213},
+{"len_m":921,"wid_m":60.96,"hdg":10,"surf":"Turf/grass","rwy1":"18","lat1":40.04308500,"lon1":-98.06492850,"rwy2":"36","lat2":40.05124600,"lon2":-98.06297800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

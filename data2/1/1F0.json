@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1F0","name":"Ardmore Downtown Executive","lat":34.1469885,"lon":-97.122651,"rwys":1,"ils":0,"elev":844,"index":1351435,"path":"w100n30/w098n34"
+,"runways":[
+{"len_m":1524,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.15385800,"lon1":-97.12276900,"rwy2":"35","lat2":34.14011900,"lon2":-97.12253300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.15,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

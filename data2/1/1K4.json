@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1K4","name":"David Jay Perry","lat":35.15513225,"lon":-97.47029725,"rwys":2,"ils":0,"elev":1168,"index":1351498,"path":"w100n30/w098n35"
+,"runways":[
+{"len_m":916,"wid_m":18.29,"hdg":136,"surf":"Concrete","rwy1":"13","lat1":35.15776700,"lon1":-97.47369400,"rwy2":"31","lat2":35.15173100,"lon2":-97.46682800},
+{"len_m":549,"wid_m":18.29,"hdg":181,"surf":"Asphalt","rwy1":"17","lat1":35.15799200,"lon1":-97.47026100,"rwy2":"35","lat2":35.15303900,"lon2":-97.47040600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.45,"desc":"OKE CITY APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"12V","name":"Ona Airpark","lat":38.440797,"lon":-82.2009665,"rwys":1,"ils":0,"elev":572,"index":1597467,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":922,"wid_m":12.19,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":38.43867500,"lon1":-82.20550800,"rwy2":"25","lat2":38.44291900,"lon2":-82.19642500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.1,"desc":"CHARLESTON APP"},
+{"type":"DEP","freq":119.75,"desc":"HUNTINGTON DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"13K","name":"Eureka Muni","lat":37.8518755,"lon":-96.29182775,"rwys":2,"ils":0,"elev":1206,"index":1368050,"path":"w100n30/w097n37"
+,"runways":[
+{"len_m":1067,"wid_m":18.29,"hdg":190,"surf":"Asphalt","rwy1":"18","lat1":37.85539700,"lon1":-96.29031900,"rwy2":"36","lat2":37.84593900,"lon2":-96.29254200},
+{"len_m":635,"wid_m":15.24,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":37.85308300,"lon1":-96.29583600,"rwy2":"26","lat2":37.85308300,"lon2":-96.28861400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

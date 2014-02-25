@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"16A","name":"Nunapitchuk","lat":60.90531515,"lon":-162.43981798,"rwys":1,"ils":0,"elev":12,"index":288186,"path":"w170n60/w163n60"
+,"runways":[
+{"len_m":739,"wid_m":22.86,"hdg":196,"surf":"Gravel","rwy1":"18","lat1":60.90901873,"lon1":-162.43723402,"rwy2":"36","lat2":60.90263793,"lon2":-162.44099686}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":918,"wid_m":91,"hdg_t":63,"buoys":false,"rwy1":"05","lat1":60.90396040,"lon1":-162.44665527,"rwy2":"23","lat2":60.90769626,"lon2":-162.43157641},
+{"len_m":917,"wid_m":60,"hdg_t":197,"buoys":true,"rwy1":"17","lat1":60.90380900,"lon1":-162.45248300,"rwy2":"35","lat2":60.89596200,"lon2":-162.45758400}
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

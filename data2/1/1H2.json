@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1H2","name":"Effingham Co Mem","lat":39.07035125,"lon":-88.533638,"rwys":2,"ils":0,"elev":587,"index":1499201,"path":"w090n30/w089n39"
+,"runways":[
+{"len_m":1554,"wid_m":22.86,"hdg":113,"surf":"Concrete","rwy1":"11","lat1":39.07358900,"lon1":-88.54130600,"rwy2":"29","lat2":39.06811400,"lon2":-88.52477200},
+{"len_m":1036,"wid_m":18.29,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":39.06522400,"lon1":-88.53501900,"rwy2":"19","lat2":39.07447800,"lon2":-88.53345500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

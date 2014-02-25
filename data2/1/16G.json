@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"16G","name":"Seneca Co","lat":41.09405,"lon":-83.212503,"rwys":1,"ils":0,"elev":786,"index":1581251,"path":"w090n40/w084n41"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":41.09101900,"lon1":-83.21855000,"rwy2":"24","lat2":41.09708100,"lon2":-83.20645600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.8,"desc":"TOLEDO APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"1G0","name":"Wood Co","lat":41.3907695,"lon":-83.63091025,"rwys":2,"ils":0,"elev":673,"index":1581273,"path":"w090n40/w084n41"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":41.39179200,"lon1":-83.63522200,"rwy2":"28","lat2":41.39162500,"lon2":-83.61991900},
+{"len_m":800,"wid_m":15.24,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":41.39343600,"lon1":-83.63429700,"rwy2":"36","lat2":41.38622500,"lon2":-83.63420300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125.6,"desc":"CLNC DEL"},
+{"type":"APP","freq":126.1,"desc":"TOLEDO APP/DEP"}
+]
+,"ils":[
+]
+}

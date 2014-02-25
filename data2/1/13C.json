@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"13C","name":"Lakeview Arpt Griffith Fld","lat":43.4521375,"lon":-85.264803,"rwys":1,"ils":0,"elev":969,"index":1548634,"path":"w090n40/w086n43"
+,"runways":[
+{"len_m":1066,"wid_m":22.86,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":43.45203100,"lon1":-85.27139200,"rwy2":"27","lat2":43.45224400,"lon2":-85.25821400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"GRAND RAPIDS APP/DEP"}
+]
+,"ils":[
+]
+}

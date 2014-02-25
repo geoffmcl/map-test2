@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"12N","name":"Aeroflex Andover","lat":41.0086195,"lon":-74.7380335,"rwys":1,"ils":0,"elev":583,"index":1728705,"path":"w080n40/w075n41"
+,"runways":[
+{"len_m":603,"wid_m":15.24,"hdg":21,"surf":"Asphalt","rwy1":"03","lat1":41.00608900,"lon1":-74.73934200,"rwy2":"21","lat2":41.01115000,"lon2":-74.73672500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.6,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+]
+}
