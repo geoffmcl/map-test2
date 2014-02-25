@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OERM","name":"Ras Mishab","lat":28.0795835,"lon":48.610972,"rwys":1,"ils":1,"elev":13,"index":3743106,"path":"e040n20/e048n28"
+,"runways":[
+{"len_m":3370,"wid_m":29.87,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":28.09416700,"lon1":48.60611100,"rwy2":"34","lat2":28.06500000,"lon2":48.61583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":28.09645600,"lon":48.60516400,"rng_nm":18,"alt_fmsl":4,"hdg":343.34,"id":"IRAS","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":28.06784400,"lon":48.61634400,"rng_nm":10,"alt_fmsl":4,"id":"IRAS","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":28.06784400,"lon":48.61634400,"rng_nm":18,"alt_fmsl":4,"id":"IRAS","rwy":"34","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPOR","name":"Ormara","lat":25.27145998,"lon":64.58832561,"rwys":1,"ils":0,"elev":32,"index":4005074,"path":"e060n20/e064n25"
+,"runways":[
+{"len_m":1523,"wid_m":22.86,"hdg":61,"surf":"Asphalt","rwy1":"6","lat1":25.27165353,"lon1":64.57961500,"rwy2":"24","lat2":25.27817200,"lon2":64.59293300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":64,"surf":"Asphalt","lat1":25.27209998,"lon1":64.58771825},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":64,"surf":"Asphalt","lat1":25.27222422,"lon1":64.58811733}
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"OPOR_GND"},
+{"type":"TWR","freq":129.9,"desc":"OPOR_TWR"}
+]
+,"ils":[
+]
+}

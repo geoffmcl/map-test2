@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIAI","name":"Shahid Asyaee","lat":32.00237175,"lon":49.2703645,"rwys":2,"ils":0,"elev":1206,"index":3759745,"path":"e040n30/e049n32"
+,"runways":[
+{"len_m":1800,"wid_m":29.87,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":32.00813100,"lon1":49.26195300,"rwy2":"32","lat2":31.99622800,"lon2":49.27491100},
+{"len_m":1419,"wid_m":29.87,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":32.00598100,"lon1":49.26594700,"rwy2":"30","lat2":31.99914700,"lon2":49.27864700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.6,"desc":"TWR"}
+]
+,"ils":[
+]
+}

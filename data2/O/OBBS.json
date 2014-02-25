@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OBBS","name":"Shaikh Isa","lat":25.9183665,"lon":50.59055,"rwys":1,"ils":1,"elev":136,"index":3775738,"path":"e050n20/e050n25"
+,"runways":[
+{"len_m":3799,"wid_m":44.81,"hdg":153,"surf":"Asphalt","rwy1":"15","lat1":25.93373300,"lon1":50.58213300,"rwy2":"33","lat2":25.90300000,"lon2":50.59896700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.95,"desc":"GND"},
+{"type":"TWR","freq":125.45,"desc":"TWR"},
+{"type":"APP","freq":124.95,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":25.93578900,"lon":50.58115600,"rng_nm":18,"alt_fmsl":136,"hdg":333.96,"id":"ISIB","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":25.90561700,"lon":50.59844700,"rng_nm":10,"alt_fmsl":55,"id":"ISIB","rwy":"33","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":25.89445800,"lon":50.60361700,"rng_nm":0,"alt_fmsl":136,"id":"----","rwy":"33","desc":"MM"}
+]
+}

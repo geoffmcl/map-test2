@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OKAS","name":"Ali Al Salem Ab","lat":29.34674,"lon":47.5207515,"rwys":2,"ils":2,"elev":472,"index":3726802,"path":"e040n20/e047n29"
+,"runways":[
+{"len_m":2988,"wid_m":40.23,"hdg":120,"surf":"Asphalt","rwy1":"12L","lat1":29.35449400,"lon1":47.50809700,"rwy2":"30R","lat2":29.34093600,"lon2":47.53470000},
+{"len_m":2988,"wid_m":44.50,"hdg":120,"surf":"Asphalt","rwy1":"12R","lat1":29.35254400,"lon1":47.50680300,"rwy2":"30L","lat2":29.33898600,"lon2":47.53340600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":128.3,"desc":"MOHALAB APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":29.33698600,"lon":47.53732500,"rng_nm":18,"alt_fmsl":470,"hdg":120.33,"id":"LASB","rwy":"12R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":29.35469400,"lon":47.50257800,"rng_nm":18,"alt_fmsl":438,"hdg":300.30,"id":"IASB","rwy":"30L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":29.35213300,"lon":47.50998600,"rng_nm":10,"alt_fmsl":431,"id":"LASB","rwy":"12R","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":29.34143600,"lon":47.53113100,"rng_nm":10,"alt_fmsl":471,"id":"IASB","rwy":"30L","desc":"GS","gs":3},
+{"type":"DME","freq":108.1,"lat":29.35254500,"lon":47.50680200,"rng_nm":18,"alt_fmsl":431,"id":"LASB","rwy":"12R","desc":"DME-ILS"}
+]
+}

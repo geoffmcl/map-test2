@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIBJ","name":"Jam","lat":27.8205475,"lon":52.3521735,"rwys":1,"ils":0,"elev":2173,"index":3808625,"path":"e050n20/e052n27"
+,"runways":[
+{"len_m":2350,"wid_m":45.11,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":27.82499200,"lon1":52.34134400,"rwy2":"29","lat2":27.81610300,"lon2":52.36300300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.35,"desc":"INFO"},
+{"type":"TWR","freq":121.65,"desc":"INFO"}
+]
+,"ils":[
+]
+}

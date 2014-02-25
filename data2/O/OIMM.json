@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIMM","name":"Mashhad Intl","lat":36.23525775,"lon":59.6409755,"rwys":2,"ils":1,"elev":3263,"index":3923850,"path":"e050n30/e059n36"
+,"runways":[
+{"len_m":3925,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"14R","lat1":36.24676700,"lon1":59.62436900,"rwy2":"32L","lat2":36.22236700,"lon2":59.65598900},
+{"len_m":3811,"wid_m":45.11,"hdg":133,"surf":"Asphalt","rwy1":"14L","lat1":36.24779400,"lon1":59.62642200,"rwy2":"32R","lat2":36.22410300,"lon2":59.65712200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":36.25019400,"lon":59.62330600,"rng_nm":18,"alt_fmsl":3263,"hdg":313.72,"id":"IMSD","rwy":"32R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":36.22552800,"lon":59.65344400,"rng_nm":10,"alt_fmsl":3264,"id":"IMSD","rwy":"32R","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":36.22552800,"lon":59.65344400,"rng_nm":18,"alt_fmsl":3258,"id":"IMSD","rwy":"32R","desc":"DME-ILS"}
+]
+}

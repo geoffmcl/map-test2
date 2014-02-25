@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OMAA","name":"Abu Dhabi Intl","lat":24.42416570,"lon":54.65343860,"rwys":1,"ils":2,"elev":88,"index":3841178,"path":"e050n20/e054n24"
+,"runways":[
+{"len_m":4100,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":24.44438900,"lon1":54.63520600,"rwy2":"31","lat2":24.42170800,"lon2":54.66715800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.1,"desc":"ATIS"},
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"TWR","freq":121.75,"desc":"TWR"},
+{"type":"APP","freq":124.4,"desc":"RDR"},
+{"type":"APP","freq":128.1,"desc":"RDR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":24.41927800,"lon":54.67058300,"rng_nm":18,"alt_fmsl":110,"hdg":127.95,"id":"IAE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":24.44650000,"lon":54.63222200,"rng_nm":18,"alt_fmsl":88,"hdg":307.93,"id":"IAW","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":24.44363900,"lon":54.63888900,"rng_nm":10,"alt_fmsl":120,"id":"IAE","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":24.42405600,"lon":54.66486100,"rng_nm":10,"alt_fmsl":122,"id":"IAW","rwy":"31","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":24.45019400,"lon":54.62702800,"rng_nm":0,"alt_fmsl":88,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":24.41625000,"lon":54.67486100,"rng_nm":0,"alt_fmsl":88,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":24.44363900,"lon":54.63888900,"rng_nm":18,"alt_fmsl":98,"id":"IAE","rwy":"13","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":24.42405600,"lon":54.66486100,"rng_nm":18,"alt_fmsl":96,"id":"IAW","rwy":"31","desc":"DME-ILS"}
+]
+}

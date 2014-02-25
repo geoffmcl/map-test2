@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OMRK","name":"Ras Al Khaimah Intl","lat":25.61571690,"lon":55.94313810,"rwys":1,"ils":0,"elev":102,"index":3857635,"path":"e050n20/e055n25"
+,"runways":[
+{"len_m":3763,"wid_m":45.11,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":25.62973900,"lon1":55.93390600,"rwy2":"34","lat2":25.59696400,"lon2":55.94375600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"TWR"}
+]
+,"ils":[
+]
+}

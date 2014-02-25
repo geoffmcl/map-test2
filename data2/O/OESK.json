@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OESK","name":"Al Jouf","lat":29.785132,"lon":40.1000045,"rwys":1,"ils":1,"elev":2261,"index":3612144,"path":"e040n20/e040n29"
+,"runways":[
+{"len_m":3662,"wid_m":44.81,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":29.78793100,"lon1":40.08134200,"rwy2":"28","lat2":29.78233300,"lon2":40.11866700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":29.78844200,"lon":40.07781700,"rng_nm":18,"alt_fmsl":2229,"hdg":279.77,"id":"IAJF","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":29.78382800,"lon":40.11595000,"rng_nm":10,"alt_fmsl":2229,"id":"IAJF","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":29.78382800,"lon":40.11595000,"rng_nm":18,"alt_fmsl":2229,"id":"IAJF","rwy":"28","desc":"DME-ILS"}
+]
+}

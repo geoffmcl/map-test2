@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OYRN","name":"Mukalla Intl","lat":14.662639,"lon":49.375028,"rwys":1,"ils":0,"elev":54,"index":3758635,"path":"e040n10/e049n14"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":61,"surf":"Asphalt","rwy1":"06","lat1":14.65627200,"lon1":49.36272800,"rwy2":"24","lat2":14.66900600,"lon2":49.38732800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.5,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

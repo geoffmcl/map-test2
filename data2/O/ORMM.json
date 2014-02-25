@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORMM","name":"Basrah Intl","lat":30.5488335,"lon":47.6624165,"rwys":1,"ils":2,"elev":11,"index":3726882,"path":"e040n30/e047n30"
+,"runways":[
+{"len_m":3983,"wid_m":45.11,"hdg":137,"surf":"Concrete","rwy1":"14","lat1":30.56216700,"lon1":47.64850000,"rwy2":"32","lat2":30.53550000,"lon2":47.67633300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":125.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":30.53279700,"lon":47.67924400,"rng_nm":18,"alt_fmsl":14,"hdg":137.97,"id":"BLA","rwy":"14","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.3,"lat":30.56473600,"lon":47.64565300,"rng_nm":18,"alt_fmsl":12,"hdg":317.89,"id":"BAL","rwy":"32","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.7,"lat":30.55911400,"lon":47.64962800,"rng_nm":10,"alt_fmsl":11,"id":"BLA","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":30.53680600,"lon":47.67308900,"rng_nm":10,"alt_fmsl":8,"id":"BAL","rwy":"32","desc":"GS","gs":3}
+]
+}

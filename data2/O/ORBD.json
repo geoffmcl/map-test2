@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORBD","name":"Balad Southeast","lat":33.94018725,"lon":44.36154175,"rwys":2,"ils":1,"elev":161,"index":3677945,"path":"e040n30/e044n33"
+,"runways":[
+{"len_m":3503,"wid_m":45.42,"hdg":125,"surf":"Asphalt","rwy1":"12","lat1":33.94562500,"lon1":44.34153900,"rwy2":"30","lat2":33.92720800,"lon2":44.37232800},
+{"len_m":3502,"wid_m":60.05,"hdg":145,"surf":"Concrete","rwy1":"14","lat1":33.95699400,"lon1":44.35546700,"rwy2":"32","lat2":33.93092200,"lon2":44.37683300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":128.75,"desc":"GND"},
+{"type":"TWR","freq":119.87,"desc":"TWR"},
+{"type":"APP","freq":131.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":33.92878300,"lon":44.37858600,"rng_nm":18,"alt_fmsl":158,"hdg":145.80,"id":"IANC","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":33.95935000,"lon":44.35353600,"rng_nm":18,"alt_fmsl":157,"hdg":325.78,"id":"IBLD","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":33.95404200,"lon":44.35618600,"rng_nm":10,"alt_fmsl":157,"id":"IANC","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":33.93258300,"lon":44.37387800,"rng_nm":10,"alt_fmsl":158,"id":"IBLD","rwy":"32","desc":"GS","gs":3}
+]
+}

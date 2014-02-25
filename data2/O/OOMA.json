@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OOMA","name":"Masirah","lat":20.673579,"lon":58.891754,"rwys":2,"ils":1,"elev":64,"index":3906479,"path":"e050n20/e058n20"
+,"runways":[
+{"len_m":3032,"wid_m":45.11,"hdg":166,"surf":"Asphalt","rwy1":"17","lat1":20.68450000,"lon1":58.88820000,"rwy2":"35","lat2":20.65783300,"lon2":58.89483300},
+{"len_m":2554,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":20.67143300,"lon1":58.88073300,"rwy2":"25","lat2":20.68055000,"lon2":58.90325000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":20.65439700,"lon":58.89575300,"rng_nm":18,"alt_fmsl":64,"hdg":166.79,"id":"IMA","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":20.68106100,"lon":58.88591100,"rng_nm":10,"alt_fmsl":64,"id":"IMA","rwy":"17","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":20.69388900,"lon":58.88583300,"rng_nm":0,"alt_fmsl":64,"id":"----","rwy":"17","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":20.68106100,"lon":58.88591100,"rng_nm":18,"alt_fmsl":64,"id":"IMA","rwy":"17","desc":"DME-ILS"}
+]
+}

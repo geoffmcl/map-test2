@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEBA","name":"Al Baha","lat":20.296126,"lon":41.634283,"rwys":1,"ils":1,"elev":5486,"index":3627925,"path":"e040n20/e041n20"
+,"runways":[
+{"len_m":3352,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":20.29116900,"lon1":41.61911900,"rwy2":"25","lat2":20.30108300,"lon2":41.64944700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":20.28935800,"lon":41.61381700,"rng_nm":18,"alt_fmsl":5486,"hdg":250.66,"id":"IBHA","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":20.29841700,"lon":41.64500300,"rng_nm":10,"alt_fmsl":5486,"id":"IBHA","rwy":"25","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":20.29841700,"lon":41.64500300,"rng_nm":18,"alt_fmsl":5486,"id":"IBHA","rwy":"25","desc":"DME-ILS"}
+]
+}

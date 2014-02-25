@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIBL","name":"Bandar Lengeh","lat":26.5322685,"lon":54.8248015,"rwys":1,"ils":0,"elev":67,"index":3841315,"path":"e050n20/e054n26"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":26.53043100,"lon1":54.81242500,"rwy2":"26","lat2":26.53410600,"lon2":54.83717800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.55,"desc":"INFO"},
+{"type":"TWR","freq":121.7,"desc":"INFO"}
+]
+,"ils":[
+]
+}

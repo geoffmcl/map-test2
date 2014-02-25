@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIAJ","name":"Omidiyeh","lat":30.83516675,"lon":49.53491675,"rwys":2,"ils":0,"elev":85,"index":3759666,"path":"e040n30/e049n30"
+,"runways":[
+{"len_m":4113,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"12R","lat1":30.84550000,"lon1":49.51500000,"rwy2":"30L","lat2":30.82316700,"lon2":49.54933300},
+{"len_m":3483,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"12L","lat1":30.84550000,"lon1":49.52316700,"rwy2":"30R","lat2":30.82650000,"lon2":49.55216700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.9,"desc":"TWR"},
+{"type":"TWR","freq":122.6,"desc":"TWR"}
+]
+,"ils":[
+]
+}

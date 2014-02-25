@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OTBH","name":"Al Udeid Ab","lat":25.1173155,"lon":51.314989,"rwys":1,"ils":1,"elev":130,"index":3792065,"path":"e050n20/e051n25"
+,"runways":[
+{"len_m":3750,"wid_m":45.11,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":25.13301400,"lon1":51.30803600,"rwy2":"34","lat2":25.10161700,"lon2":51.32194200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.75,"desc":"ATIS"},
+{"type":"GND","freq":135.5,"desc":"GND"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"TWR","freq":126.45,"desc":"DOHA INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":25.13637500,"lon":51.30654700,"rng_nm":18,"alt_fmsl":132,"hdg":338.15,"id":"MBH","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":25.10419700,"lon":51.31951400,"rng_nm":10,"alt_fmsl":119,"id":"MBH","rwy":"34","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":25.09280000,"lon":51.32584200,"rng_nm":0,"alt_fmsl":109,"id":"----","rwy":"34","desc":"MM"},
+{"type":"DME","freq":111.3,"lat":25.10419700,"lon":51.31951400,"rng_nm":18,"alt_fmsl":119,"id":"MBH","rwy":"34","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OITR","name":"Uromiyeh","lat":37.6681205,"lon":45.0687055,"rwys":1,"ils":1,"elev":4343,"index":3694568,"path":"e040n30/e045n37"
+,"runways":[
+{"len_m":3248,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":37.65584700,"lon1":45.05867800,"rwy2":"21","lat2":37.68039400,"lon2":45.07873300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.25,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.25,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":37.65336100,"lon":45.05655600,"rng_nm":18,"alt_fmsl":4343,"hdg":212.99,"id":"IUMH","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":37.67875000,"lon":45.07577800,"rng_nm":10,"alt_fmsl":4274,"id":"IUMH","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":37.67875000,"lon":45.07577800,"rng_nm":18,"alt_fmsl":4275,"id":"IUMH","rwy":"21","desc":"DME-ILS"}
+]
+}

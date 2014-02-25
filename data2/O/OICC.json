@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OICC","name":"Shahid Ashrafi Esfahani","lat":34.3458515,"lon":47.158132,"rwys":1,"ils":1,"elev":4301,"index":3727120,"path":"e040n30/e047n34"
+,"runways":[
+{"len_m":3418,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"11","lat1":34.35260600,"lon1":47.14143300,"rwy2":"29","lat2":34.33909700,"lon2":47.17483100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.8,"desc":"KERMANSHAH INFO"},
+{"type":"TWR","freq":122.45,"desc":"KERMANSHAH TWR"},
+{"type":"TWR","freq":121.9,"desc":"KERMANSHAH TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":34.35288900,"lon":47.14075000,"rng_nm":18,"alt_fmsl":4307,"hdg":296.10,"id":"IKMS","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":34.34119400,"lon":47.17261100,"rng_nm":10,"alt_fmsl":4307,"id":"IKMS","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":111.1,"lat":34.34119400,"lon":47.17261100,"rng_nm":18,"alt_fmsl":4297,"id":"IKMS","rwy":"29","desc":"DME-ILS"}
+]
+}

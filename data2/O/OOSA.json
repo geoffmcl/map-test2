@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OOSA","name":"Salalah","lat":17.03661575,"lon":54.096616,"rwys":2,"ils":1,"elev":73,"index":3840704,"path":"e050n10/e054n17"
+,"runways":[
+{"len_m":3342,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":17.03374700,"lon1":54.07646100,"rwy2":"25","lat2":17.04368300,"lon2":54.10610600},
+{"len_m":1278,"wid_m":17.98,"hdg":174,"surf":"Dirt","rwy1":"17","lat1":17.04026400,"lon1":54.10132800,"rwy2":"35","lat2":17.02876900,"lon2":54.10256900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"RDR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":17.03199700,"lon":54.07125300,"rng_nm":18,"alt_fmsl":73,"hdg":250.67,"id":"ISL","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":17.04409400,"lon":54.10305000,"rng_nm":10,"alt_fmsl":73,"id":"ISL","rwy":"25","desc":"GS","gs":3.08},
+{"type":"MM","freq":0,"lat":17.04680000,"lon":54.11539700,"rng_nm":0,"alt_fmsl":73,"id":"----","rwy":"25","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":17.04409400,"lon":54.10305000,"rng_nm":18,"alt_fmsl":73,"id":"ISL","rwy":"25","desc":"DME-ILS"}
+]
+}

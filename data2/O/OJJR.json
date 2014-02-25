@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OJJR","name":"Jerusalem","lat":31.8665635,"lon":35.217629,"rwys":1,"ils":1,"elev":2485,"index":3530352,"path":"e030n30/e035n31"
+,"runways":[
+{"len_m":1959,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":31.87036900,"lon1":35.20828300,"rwy2":"30","lat2":31.86275800,"lon2":35.22697500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.65,"desc":"ATIS"},
+{"type":"TWR","freq":122.85,"desc":"TWR"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":31.87199900,"lon":35.20607300,"rng_nm":18,"alt_fmsl":2485,"hdg":297.50,"id":"IR","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":31.86255400,"lon":35.22135100,"rng_nm":10,"alt_fmsl":2500,"id":"IR","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.82394300,"lon":35.32385300,"rng_nm":0,"alt_fmsl":2485,"id":"----","rwy":"30","desc":"OM"}
+]
+}

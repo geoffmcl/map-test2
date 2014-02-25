@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPFA","name":"Faisalabad Intl","lat":31.3652765,"lon":72.99555,"rwys":1,"ils":1,"elev":591,"index":4136531,"path":"e070n30/e072n31"
+,"runways":[
+{"len_m":2814,"wid_m":46.02,"hdg":36,"surf":"Concrete","rwy1":"03","lat1":31.35504200,"lon1":72.98680300,"rwy2":"21","lat2":31.37551100,"lon2":73.00429700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":127.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":31.37776100,"lon":73.00621900,"rng_nm":18,"alt_fmsl":592,"hdg":36.12,"id":"IFA","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":31.35624400,"lon":72.98985600,"rng_nm":10,"alt_fmsl":607,"id":"IFA","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":31.35624400,"lon":72.98985600,"rng_nm":18,"alt_fmsl":607,"id":"IFA","rwy":"03","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OYSN","name":"Sanaa Intl","lat":15.47723300,"lon":44.22409800,"rwys":1,"ils":1,"elev":7216,"index":3676761,"path":"e040n10/e044n15"
+,"runways":[
+{"len_m":3256,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":15.49097500,"lon1":44.21964200,"rwy2":"36","lat2":15.46154200,"lon2":44.21983600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":15.45866700,"lon":44.21986100,"rng_nm":18,"alt_fmsl":7216,"hdg":179.63,"id":"ISAN","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":15.48844400,"lon":44.21852800,"rng_nm":10,"alt_fmsl":7216,"id":"ISAN","rwy":"18","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":15.49952800,"lon":44.21961100,"rng_nm":0,"alt_fmsl":7216,"id":"----","rwy":"18","desc":"MM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OJAM","name":"Marka Intl","lat":31.972703,"lon":35.9915725,"rwys":1,"ils":1,"elev":2555,"index":3530363,"path":"e030n30/e035n31"
+,"runways":[
+{"len_m":3275,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":31.96626400,"lon1":35.97598100,"rwy2":"24","lat2":31.97914200,"lon2":36.00716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"AMMAN GND"},
+{"type":"TWR","freq":118.1,"desc":"AMMAN TWR"},
+{"type":"APP","freq":128.9,"desc":"AMMAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":31.96480300,"lon":35.97238300,"rng_nm":18,"alt_fmsl":2557,"hdg":244.07,"id":"LAMN","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":31.97702200,"lon":36.00497200,"rng_nm":10,"alt_fmsl":2457,"id":"LAMN","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.00478100,"lon":36.06557800,"rng_nm":0,"alt_fmsl":2555,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.98261100,"lon":36.01687200,"rng_nm":0,"alt_fmsl":2555,"id":"----","rwy":"24","desc":"MM"}
+]
+}

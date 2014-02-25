@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OSDI","name":"Damascus Intl","lat":33.41063475,"lon":36.5142645,"rwys":2,"ils":1,"elev":2020,"index":3546842,"path":"e030n30/e036n33"
+,"runways":[
+{"len_m":3557,"wid_m":45.11,"hdg":48,"surf":"Asphalt","rwy1":"05R","lat1":33.38499700,"lon1":36.49605800,"rwy2":"23L","lat2":33.40626100,"lon2":36.52468600},
+{"len_m":3598,"wid_m":45.11,"hdg":48,"surf":"Asphalt","rwy1":"05L","lat1":33.41489200,"lon1":36.50366700,"rwy2":"23R","lat2":33.43638900,"lon2":36.53264700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.22,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":118.07,"desc":"TWR"},
+{"type":"APP","freq":121.3,"desc":"APP"},
+{"type":"APP","freq":120,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":33.41241400,"lon":36.50086700,"rng_nm":18,"alt_fmsl":2033,"hdg":227.88,"id":"IDA","rwy":"23R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":33.43538300,"lon":36.52936900,"rng_nm":10,"alt_fmsl":2033,"id":"IDA","rwy":"23R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":33.48755000,"lon":36.60171900,"rng_nm":0,"alt_fmsl":2020,"id":"----","rwy":"23R","desc":"OM"}
+]
+}

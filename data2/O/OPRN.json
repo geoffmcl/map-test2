@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPRN","name":"Chaklala","lat":33.616768,"lon":73.0988125,"rwys":1,"ils":1,"elev":1668,"index":4153056,"path":"e070n30/e073n33"
+,"runways":[
+{"len_m":3293,"wid_m":45.72,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":33.62377800,"lon1":73.08317200,"rwy2":"30","lat2":33.60975800,"lon2":73.11445300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":125.5,"desc":"TWR"},
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"CHERAT APP"},
+{"type":"APP","freq":124.9,"desc":"ISLAMABAD APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":33.62570000,"lon":73.07878300,"rng_nm":18,"alt_fmsl":1656,"hdg":298.21,"id":"IRN","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":33.61108900,"lon":73.10820600,"rng_nm":10,"alt_fmsl":1707,"id":"IRN","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":33.62765000,"lon":73.10745600,"rng_nm":18,"alt_fmsl":1713,"id":"IRN","rwy":"30","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPRS","name":"Risalpur","lat":34.0811035,"lon":71.9725765,"rwys":2,"ils":0,"elev":1050,"index":4120323,"path":"e070n30/e071n34"
+,"runways":[
+{"len_m":2764,"wid_m":49.99,"hdg":93,"surf":"Asphalt","rwy1":"09R","lat1":34.08033300,"lon1":71.95638900,"rwy2":"27L","lat2":34.07869200,"lon2":71.98627800},
+{"len_m":1786,"wid_m":49.99,"hdg":93,"surf":"Asphalt","rwy1":"09L","lat1":34.08325000,"lon1":71.96416700,"rwy2":"27R","lat2":34.08213900,"lon2":71.98347200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":125.6,"desc":"CHERAT APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OETN","name":"Ras Tanajib","lat":27.8678445,"lon":48.7691485,"rwys":1,"ils":1,"elev":30,"index":3743091,"path":"e040n20/e048n27"
+,"runways":[
+{"len_m":2446,"wid_m":29.87,"hdg":154,"surf":"Asphalt","rwy1":"15","lat1":27.87778100,"lon1":48.76374400,"rwy2":"33","lat2":27.85790800,"lon2":48.77455300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":27.87963600,"lon":48.76289200,"rng_nm":18,"alt_fmsl":30,"hdg":334.62,"id":"ITJB","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":27.86028900,"lon":48.77476900,"rng_nm":10,"alt_fmsl":30,"id":"ITJB","rwy":"33","desc":"GS","gs":3}
+]
+}

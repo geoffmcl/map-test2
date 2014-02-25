@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OETB","name":"Tabuk","lat":28.37367725,"lon":36.6204565,"rwys":2,"ils":1,"elev":2551,"index":3546514,"path":"e030n20/e036n28"
+,"runways":[
+{"len_m":3350,"wid_m":45.11,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":28.36923100,"lon1":36.61989200,"rwy2":"24","lat2":28.38200800,"lon2":36.65086700},
+{"len_m":3091,"wid_m":45.11,"hdg":132,"surf":"Asphalt","rwy1":"13","lat1":28.38122800,"lon1":36.59398100,"rwy2":"31","lat2":28.36224200,"lon2":36.61708600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":128.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.3,"desc":"GND"},
+{"type":"TWR","freq":125.9,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"APP"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.9,"lat":28.38219200,"lon":36.59221400,"rng_nm":18,"alt_fmsl":2551,"hdg":312.35,"id":"IPKS","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.9,"lat":28.36314400,"lon":36.61411700,"rng_nm":10,"alt_fmsl":2533,"id":"IPKS","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":111.9,"lat":28.36314400,"lon":36.61411700,"rng_nm":18,"alt_fmsl":2551,"id":"IPKS","rwy":"31","desc":"DME-ILS"}
+]
+}

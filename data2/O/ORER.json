@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORER","name":"Erbil Intl","lat":36.2374501666667,"lon":43.9591908333333,"rwys":3,"ils":0,"elev":1341,"index":3661707,"path":"e040n30/e043n36"
+,"runways":[
+{"len_m":4215,"wid_m":68.58,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":36.25786900,"lon1":43.94701700,"rwy2":"36","lat2":36.21987800,"lon2":43.94665300},
+{"len_m":2803,"wid_m":28.96,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":36.24872800,"lon1":43.95575800,"rwy2":"33","lat2":36.22649200,"lon2":43.97055600},
+{"len_m":1244,"wid_m":32.00,"hdg":151,"surf":"Asphalt","rwy1":"15L","lat1":36.24080300,"lon1":43.96429400,"rwy2":"33R","lat2":36.23093100,"lon2":43.97086700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.8,"desc":"TWR"},
+{"type":"APP","freq":129.75,"desc":"KIRKUK"}
+]
+,"ils":[
+]
+}

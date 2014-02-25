@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OESH","name":"Sharurah","lat":17.466875,"lon":47.121429,"rwys":1,"ils":1,"elev":2363,"index":3726040,"path":"e040n10/e047n17"
+,"runways":[
+{"len_m":3666,"wid_m":44.81,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":17.46532500,"lon1":47.10424400,"rwy2":"26","lat2":17.46842500,"lon2":47.13861400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":17.46870800,"lon":47.14190800,"rng_nm":18,"alt_fmsl":2363,"hdg":84.63,"id":"ISHA","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":17.46668600,"lon":47.10706700,"rng_nm":10,"alt_fmsl":2363,"id":"ISHA","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":17.46668600,"lon":47.10706700,"rng_nm":18,"alt_fmsl":2363,"id":"ISHA","rwy":"08","desc":"DME-ILS"}
+]
+}

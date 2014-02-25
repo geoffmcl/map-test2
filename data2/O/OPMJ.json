@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPMJ","name":"Moenjodaro","lat":27.3351555,"lon":68.143054,"rwys":1,"ils":0,"elev":154,"index":4070736,"path":"e060n20/e068n27"
+,"runways":[
+{"len_m":1973,"wid_m":29.87,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":27.33307200,"lon1":68.13335800,"rwy2":"26","lat2":27.33723900,"lon2":68.15275000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":119.6,"desc":"TWR"}
+]
+,"ils":[
+]
+}

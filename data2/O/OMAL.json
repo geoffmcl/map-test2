@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OMAL","name":"Al Ain Intl","lat":24.26169,"lon":55.609131,"rwys":1,"ils":0,"elev":869,"index":3857554,"path":"e050n20/e055n24"
+,"runways":[
+{"len_m":3999,"wid_m":45.11,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":24.24378600,"lon1":55.60658100,"rwy2":"19","lat2":24.27959400,"lon2":55.61168100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.15,"desc":"GND"},
+{"type":"TWR","freq":119.85,"desc":"TWR"},
+{"type":"APP","freq":119.85,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEGS","name":"Gassim","lat":26.3028235,"lon":43.773911,"rwys":1,"ils":1,"elev":2126,"index":3661075,"path":"e040n20/e043n26"
+,"runways":[
+{"len_m":2996,"wid_m":44.81,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":26.31483300,"lon1":43.76701400,"rwy2":"33","lat2":26.29081400,"lon2":43.78080800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":131.5,"desc":"SAUDIA RDO"},
+{"type":"TWR","freq":118,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":26.28745600,"lon":43.78289200,"rng_nm":18,"alt_fmsl":2120,"hdg":152.53,"id":"IGAS","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":26.31201100,"lon":43.76752800,"rng_nm":10,"alt_fmsl":2126,"id":"IGAS","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.37902800,"lon":43.73055600,"rng_nm":0,"alt_fmsl":2126,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":26.32245000,"lon":43.76291700,"rng_nm":0,"alt_fmsl":2126,"id":"----","rwy":"15","desc":"MM"}
+]
+}

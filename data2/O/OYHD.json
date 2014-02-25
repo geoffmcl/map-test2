@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OYHD","name":"Hodeidah Intl","lat":14.7529985,"lon":42.9763345,"rwys":1,"ils":0,"elev":41,"index":3643959,"path":"e040n10/e042n14"
+,"runways":[
+{"len_m":3004,"wid_m":45.11,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":14.74083300,"lon1":42.97013600,"rwy2":"21","lat2":14.76516400,"lon2":42.98253300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":124.7,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"}
+]
+,"ils":[
+]
+}

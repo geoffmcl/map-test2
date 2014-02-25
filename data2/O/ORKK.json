@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORKK","name":"Kirkuk Ab","lat":35.46946325,"lon":44.34911675,"rwys":2,"ils":0,"elev":1061,"index":3678041,"path":"e040n30/e044n35"
+,"runways":[
+{"len_m":2989,"wid_m":45.11,"hdg":133,"surf":"Concrete","rwy1":"13","lat1":35.47892200,"lon1":44.33446400,"rwy2":"31","lat2":35.46045300,"lon2":44.35845300},
+{"len_m":2601,"wid_m":48.77,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":35.47888100,"lon1":44.34361900,"rwy2":"32","lat2":35.45959700,"lon2":44.35993100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127.37,"desc":"GND"},
+{"type":"TWR","freq":125.55,"desc":"TWR"},
+{"type":"APP","freq":129.75,"desc":"APP"}
+]
+,"ils":[
+]
+}

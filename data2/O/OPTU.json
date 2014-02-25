@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPTU","name":"Turbat Intl","lat":25.9863695,"lon":63.0301665,"rwys":1,"ils":0,"elev":498,"index":3988728,"path":"e060n20/e063n25"
+,"runways":[
+{"len_m":1817,"wid_m":30.48,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":25.98538600,"lon1":63.02115800,"rwy2":"26","lat2":25.98735300,"lon2":63.03917500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+,"ils":[
+]
+}

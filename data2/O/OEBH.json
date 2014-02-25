@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEBH","name":"Bisha","lat":19.984139,"lon":42.6228455,"rwys":1,"ils":1,"elev":3887,"index":3644284,"path":"e040n10/e042n19"
+,"runways":[
+{"len_m":3054,"wid_m":44.81,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":19.99786100,"lon1":42.62433300,"rwy2":"36","lat2":19.97041700,"lon2":42.62135800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":19.96513900,"lon":42.62104700,"rng_nm":18,"alt_fmsl":3887,"hdg":185.39,"id":"IBSH","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":19.99493900,"lon":42.62545800,"rng_nm":10,"alt_fmsl":3887,"id":"IBSH","rwy":"18","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":19.99493900,"lon":42.62545800,"rng_nm":18,"alt_fmsl":3887,"id":"IBSH","rwy":"18","desc":"DME-ILS"}
+]
+}

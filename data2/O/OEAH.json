@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEAH","name":"Al Ahsa","lat":25.2853055,"lon":49.485189,"rwys":1,"ils":1,"elev":588,"index":3759313,"path":"e040n20/e049n25"
+,"runways":[
+{"len_m":3060,"wid_m":45.11,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":25.29864400,"lon1":49.48124200,"rwy2":"34","lat2":25.27196700,"lon2":49.48913600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":25.30143100,"lon":49.48050000,"rng_nm":18,"alt_fmsl":588,"hdg":345.15,"id":"IHSA","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":25.27458300,"lon":49.48725000,"rng_nm":10,"alt_fmsl":588,"id":"IHSA","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":25.27458300,"lon":49.48725000,"rng_nm":18,"alt_fmsl":588,"id":"IHSA","rwy":"34","desc":"DME-ILS"}
+]
+}

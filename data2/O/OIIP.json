@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIIP","name":"Payam","lat":35.775968,"lon":50.826885,"rwys":1,"ils":0,"elev":4170,"index":3776371,"path":"e050n30/e050n35"
+,"runways":[
+{"len_m":3663,"wid_m":60.05,"hdg":127,"surf":"Asphalt","rwy1":"12","lat1":35.78612500,"lon1":50.81091700,"rwy2":"30","lat2":35.76581100,"lon2":50.84285300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.65,"desc":"INFO"},
+{"type":"TWR","freq":118.4,"desc":"INFO"}
+]
+,"ils":[
+]
+}

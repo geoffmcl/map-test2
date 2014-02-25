@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPDI","name":"D I Khan","lat":31.909422,"lon":70.896639,"rwys":1,"ils":0,"elev":594,"index":4103803,"path":"e070n30/e070n31"
+,"runways":[
+{"len_m":1511,"wid_m":22.86,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":31.91271100,"lon1":70.88963900,"rwy2":"30","lat2":31.90613300,"lon2":70.90363900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":122.8,"desc":"TWR"}
+]
+,"ils":[
+]
+}

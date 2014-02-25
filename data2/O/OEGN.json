@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEGN","name":"King Abdullah Bin Abdulaziz","lat":16.9010805,"lon":42.585782,"rwys":1,"ils":1,"elev":20,"index":3644092,"path":"e040n10/e042n16"
+,"runways":[
+{"len_m":3051,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":16.91301900,"lon1":42.57862200,"rwy2":"33","lat2":16.88914200,"lon2":42.59294200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"JAZAN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":16.91545600,"lon":42.57716900,"rng_nm":18,"alt_fmsl":20,"hdg":330.16,"id":"IGZN","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":16.89207800,"lon":42.59248100,"rng_nm":10,"alt_fmsl":20,"id":"IGZN","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":16.89207800,"lon":42.59248100,"rng_nm":18,"alt_fmsl":20,"id":"IGZN","rwy":"33","desc":"DME-ILS"}
+]
+}

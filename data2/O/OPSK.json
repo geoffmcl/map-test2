@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPSK","name":"Sukkur","lat":27.7219875,"lon":68.7916845,"rwys":1,"ils":0,"elev":196,"index":4070763,"path":"e060n20/e068n27"
+,"runways":[
+{"len_m":2746,"wid_m":29.87,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":27.73154400,"lon1":68.78281900,"rwy2":"32","lat2":27.71243100,"lon2":68.80055000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"TWR"},
+{"type":"TWR","freq":122.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

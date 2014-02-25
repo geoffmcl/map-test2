@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPKC","name":"Karachi Jinnah Intl","lat":24.89909200,"lon":67.16767200,"rwys":2,"ils":1,"elev":100,"index":4054200,"path":"e060n20/e067n24"
+,"runways":[
+{"len_m":3400,"wid_m":46.02,"hdg":74,"surf":"Concrete","rwy1":"07R","lat1":24.90038600,"lon1":67.14263100,"rwy2":"25L","lat2":24.90868600,"lon2":67.17503600},
+{"len_m":3188,"wid_m":46.02,"hdg":74,"surf":"Concrete","rwy1":"07L","lat1":24.90470800,"lon1":67.14755300,"rwy2":"25R","lat2":24.91240600,"lon2":67.17796900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"ATIS"},
+{"type":"GND","freq":123,"desc":"KARACHI GND"},
+{"type":"TWR","freq":118.8,"desc":"KARACHI TWR"},
+{"type":"APP","freq":125.5,"desc":"KARACHI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":24.90308100,"lon":67.14351400,"rng_nm":18,"alt_fmsl":90,"hdg":253.38,"id":"IKC","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":24.91307200,"lon":67.17482800,"rng_nm":10,"alt_fmsl":156,"id":"IKC","rwy":"25R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":24.92981700,"lon":67.24687500,"rng_nm":0,"alt_fmsl":100,"id":"----","rwy":"25R","desc":"OM"},
+{"type":"MM","freq":0,"lat":24.91516900,"lon":67.18854400,"rng_nm":0,"alt_fmsl":100,"id":"----","rwy":"25R","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":24.91307200,"lon":67.17482800,"rng_nm":18,"alt_fmsl":156,"id":"IKC","rwy":"25R","desc":"DME-ILS"}
+]
+}

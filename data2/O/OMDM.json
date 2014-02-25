@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OMDM","name":"Minhad Ab","lat":25.026857,"lon":55.366193,"rwys":1,"ils":0,"elev":165,"index":3857601,"path":"e050n20/e055n25"
+,"runways":[
+{"len_m":3953,"wid_m":45.11,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":25.02654700,"lon1":55.34660800,"rwy2":"27","lat2":25.02716700,"lon2":55.38577800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.92,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

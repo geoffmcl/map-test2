@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OETR","name":"Turaif","lat":31.692682,"lon":38.7312665,"rwys":1,"ils":0,"elev":2803,"index":3579498,"path":"e030n30/e038n31"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":31.69627500,"lon1":38.71601400,"rwy2":"28","lat2":31.68908900,"lon2":38.74651900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"TWR","freq":131.5,"desc":"SAUDIA RDO"}
+]
+,"ils":[
+]
+}

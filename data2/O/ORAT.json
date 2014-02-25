@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORAT","name":"Al Taqaddum Ab","lat":33.33804175,"lon":43.597077,"rwys":2,"ils":0,"elev":275,"index":3661522,"path":"e040n30/e043n33"
+,"runways":[
+{"len_m":4018,"wid_m":60.96,"hdg":119,"surf":"Concrete","rwy1":"12R","lat1":33.34591400,"lon1":43.57655300,"rwy2":"30L","lat2":33.32810600,"lon2":43.61415000},
+{"len_m":3684,"wid_m":45.72,"hdg":119,"surf":"Asphalt","rwy1":"12L","lat1":33.34720000,"lon1":43.58154400,"rwy2":"30R","lat2":33.33094700,"lon2":43.61606100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.77,"desc":"TWR"},
+{"type":"APP","freq":125.25,"desc":"APP"}
+]
+,"ils":[
+]
+}

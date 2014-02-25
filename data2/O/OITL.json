@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OITL","name":"Ardabil","lat":38.3256775,"lon":48.4243525,"rwys":1,"ils":1,"elev":4315,"index":3743761,"path":"e040n30/e048n38"
+,"runways":[
+{"len_m":3299,"wid_m":45.11,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":38.33853600,"lon1":48.41489700,"rwy2":"33","lat2":38.31281900,"lon2":48.43380800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"TWR","freq":121.9,"desc":"INFO"},
+{"type":"TWR","freq":118.15,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":38.34188300,"lon":48.41239200,"rng_nm":18,"alt_fmsl":4315,"hdg":329.96,"id":"IARB","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":38.31474400,"lon":48.43084700,"rng_nm":10,"alt_fmsl":4315,"id":"IARB","rwy":"33","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":38.31474400,"lon":48.43084700,"rng_nm":18,"alt_fmsl":4315,"id":"IARB","rwy":"33","desc":"DME-ILS"}
+]
+}

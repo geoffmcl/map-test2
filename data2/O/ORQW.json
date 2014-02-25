@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ORQW","name":"Qayyarah West","lat":35.76716875,"lon":43.125046,"rwys":2,"ils":0,"elev":749,"index":3661680,"path":"e040n30/e043n35"
+,"runways":[
+{"len_m":3684,"wid_m":29.87,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":35.78404400,"lon1":43.12223900,"rwy2":"34","lat2":35.75220600,"lon2":43.13381700},
+{"len_m":3501,"wid_m":60.05,"hdg":152,"surf":"Concrete","rwy1":"15","lat1":35.78020600,"lon1":43.11312200,"rwy2":"33","lat2":35.75221900,"lon2":43.13100600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122,"desc":"CTAF"},
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEJB","name":"Jubail","lat":27.0390335,"lon":49.4050805,"rwys":1,"ils":1,"elev":26,"index":3759425,"path":"e040n20/e049n27"
+,"runways":[
+{"len_m":3996,"wid_m":45.11,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":27.05661700,"lon1":49.40059700,"rwy2":"35","lat2":27.02145000,"lon2":49.40956400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":130.5,"desc":"DHAHRAN APP"},
+{"type":"APP","freq":125.1,"desc":"DHAHRAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":27.05854200,"lon":49.40050300,"rng_nm":18,"alt_fmsl":26,"hdg":347.72,"id":"IJBL","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":27.02429200,"lon":49.41017500,"rng_nm":10,"alt_fmsl":26,"id":"IJBL","rwy":"35","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":27.01110600,"lon":49.41258100,"rng_nm":0,"alt_fmsl":26,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":27.02378100,"lon":49.41067500,"rng_nm":18,"alt_fmsl":26,"id":"IJBL","rwy":"35","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIAW","name":"Ahwaz","lat":31.3374305,"lon":48.761949,"rwys":1,"ils":1,"elev":66,"index":3743315,"path":"e040n30/e048n31"
+,"runways":[
+{"len_m":3398,"wid_m":45.11,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":31.34602500,"lon1":48.74716700,"rwy2":"30","lat2":31.32883600,"lon2":48.77673100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":121.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":31.34777800,"lon":48.74416700,"rng_nm":18,"alt_fmsl":66,"hdg":304.24,"id":"IAWZ","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":31.32975000,"lon":48.77308300,"rng_nm":10,"alt_fmsl":64,"id":"IAWZ","rwy":"30","desc":"GS","gs":3.06},
+{"type":"DME","freq":109.9,"lat":31.32975000,"lon":48.77308300,"rng_nm":18,"alt_fmsl":66,"id":"IAWZ","rwy":"30","desc":"DME-ILS"}
+]
+}

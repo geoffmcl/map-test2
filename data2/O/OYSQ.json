@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OYSQ","name":"Moori","lat":12.62824300,"lon":53.90917800,"rwys":3,"ils":0,"elev":114,"index":3824047,"path":"e050n10/e053n12"
+,"runways":[
+{"len_m":398,"wid_m":46.94,"hdg":206,"surf":"Concrete","rwy1":"03R","lat1":12.64545200,"lon1":53.91306200,"rwy2":"21L","lat2":12.64221600,"lon2":53.91145000},
+{"len_m":398,"wid_m":46.94,"hdg":26,"surf":"Concrete","rwy1":"03L","lat1":12.61861300,"lon1":53.89969300,"rwy2":"21R","lat2":12.62184900,"lon2":53.90130500},
+{"len_m":3304,"wid_m":46.94,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":12.61861400,"lon1":53.89969500,"rwy2":"21","lat2":12.64545200,"lon2":53.91305700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"SOCOTRA_GRD GND"},
+{"type":"TWR","freq":118.1,"desc":"SOCOTRA_TWR TWR"}
+]
+,"ils":[
+]
+}

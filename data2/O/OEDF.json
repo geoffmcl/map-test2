@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEDF","name":"King Fahd Intl","lat":26.43118100,"lon":49.76913830,"rwys":2,"ils":4,"elev":72,"index":3759387,"path":"e040n20/e049n26"
+,"runways":[
+{"len_m":4000,"wid_m":60.05,"hdg":164,"surf":"Asphalt","rwy1":"16L","lat1":26.48857500,"lon1":49.80370300,"rwy2":"34R","lat2":26.45378900,"lon2":49.81444400},
+{"len_m":4000,"wid_m":60.05,"hdg":164,"surf":"Asphalt","rwy1":"16R","lat1":26.48860300,"lon1":49.78135300,"rwy2":"34L","lat2":26.45381900,"lon2":49.79210000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":124.35,"desc":"TWR"},
+{"type":"APP","freq":126.3,"desc":"DAMMAM APP"},
+{"type":"APP","freq":126.1,"desc":"DAMMAM APP"},
+{"type":"APP","freq":125,"desc":"DAMMAM ARR/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":26.45070300,"lon":49.81539400,"rng_nm":18,"alt_fmsl":72,"hdg":164.56,"id":"IMBF","rwy":"16L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.1,"lat":26.45013100,"lon":49.79319400,"rng_nm":18,"alt_fmsl":72,"hdg":164.60,"id":"IWSR","rwy":"16R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.9,"lat":26.49213300,"lon":49.78021900,"rng_nm":18,"alt_fmsl":72,"hdg":344.48,"id":"IWMR","rwy":"34L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":26.49166100,"lon":49.80275000,"rng_nm":18,"alt_fmsl":72,"hdg":344.55,"id":"IABF","rwy":"34R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":26.48616700,"lon":49.80569400,"rng_nm":10,"alt_fmsl":72,"id":"IMBF","rwy":"16L","desc":"GS","gs":3},
+{"type":"GS","freq":108.1,"lat":26.48551100,"lon":49.78096400,"rng_nm":10,"alt_fmsl":72,"id":"IWSR","rwy":"16R","desc":"GS","gs":3},
+{"type":"GS","freq":108.9,"lat":26.45621700,"lon":49.79001400,"rng_nm":10,"alt_fmsl":72,"id":"IWMR","rwy":"34L","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":26.45695800,"lon":49.81471400,"rng_nm":10,"alt_fmsl":72,"id":"IABF","rwy":"34R","desc":"GS","gs":3}
+]
+}

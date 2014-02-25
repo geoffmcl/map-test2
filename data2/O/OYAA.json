@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OYAA","name":"Aden Intl","lat":12.82765300,"lon":45.03710700,"rwys":1,"ils":2,"elev":7,"index":3692976,"path":"e040n10/e045n12"
+,"runways":[
+{"len_m":3126,"wid_m":45.11,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":12.82641700,"lon1":45.01475000,"rwy2":"26","lat2":12.83266700,"lon2":45.04283600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.6,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":12.83322200,"lon":45.04597200,"rng_nm":18,"alt_fmsl":12,"hdg":77.40,"id":"KRL","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":12.82780600,"lon":45.01769400,"rng_nm":10,"alt_fmsl":12,"id":"KRL","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":12.82780600,"lon":45.01769400,"rng_nm":18,"alt_fmsl":12,"id":"KRL","rwy":"08","desc":"DME-ILS"}
+]
+}

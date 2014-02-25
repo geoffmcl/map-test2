@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"O70","name":"Westover Field Amador Co","lat":38.3768015,"lon":-120.793908,"rwys":1,"ils":0,"elev":1690,"index":974872,"path":"w130n30/w121n38"
+,"runways":[
+{"len_m":1036,"wid_m":18.29,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":38.37247200,"lon1":-120.79613300,"rwy2":"19","lat2":38.38113100,"lon2":-120.79168300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.12,"desc":"AWOS THREE"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.1,"desc":"NORCAL APP/DEP"},
+{"type":"APP","freq":127.4,"desc":"NORCAL APP/DEP"}
+]
+,"ils":[
+]
+}

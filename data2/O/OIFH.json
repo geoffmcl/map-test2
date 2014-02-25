@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIFH","name":"Shahid Vatan Pour Air Base","lat":32.565352,"lon":51.6909985,"rwys":2,"ils":0,"elev":5310,"index":3792546,"path":"e050n30/e051n32"
+,"runways":[
+{"len_m":1247,"wid_m":50.29,"hdg":76,"surf":"Dirt","rwy1":"07","lat1":32.56232200,"lon1":51.68397500,"rwy2":"25","lat2":32.56501900,"lon2":51.69687200},
+{"len_m":995,"wid_m":22.86,"hdg":69,"surf":"Asphalt","rwy1":"06","lat1":32.56548900,"lon1":51.68659400,"rwy2":"24","lat2":32.56857800,"lon2":51.69655300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

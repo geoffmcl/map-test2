@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OSAP","name":"Aleppo Intl","lat":36.180675,"lon":37.224357,"rwys":1,"ils":1,"elev":1276,"index":3563400,"path":"e030n30/e037n36"
+,"runways":[
+{"len_m":2898,"wid_m":45.11,"hdg":97,"surf":"Asphalt","rwy1":"09","lat1":36.18233300,"lon1":37.20837500,"rwy2":"27","lat2":36.17901700,"lon2":37.24033900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":119.1,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"APP"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":36.18266700,"lon":37.20472200,"rng_nm":18,"alt_fmsl":1276,"hdg":277.23,"id":"IALE","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":36.18063300,"lon":37.23563600,"rng_nm":10,"alt_fmsl":1276,"id":"IALE","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.17170000,"lon":37.30458600,"rng_nm":0,"alt_fmsl":1276,"id":"----","rwy":"27","desc":"OM"}
+]
+}

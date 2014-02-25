@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEKM","name":"King Khaled Ab","lat":18.29722225,"lon":42.80348525,"rwys":2,"ils":1,"elev":6778,"index":3644182,"path":"e040n10/e042n18"
+,"runways":[
+{"len_m":3815,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":18.28769400,"lon1":42.77336100,"rwy2":"24","lat2":18.30475000,"lon2":42.80472200},
+{"len_m":3806,"wid_m":45.11,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":18.31152800,"lon1":42.80652500,"rwy2":"32","lat2":18.28491700,"lon2":42.82933300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":127.7,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":131,"desc":"APP"},
+{"type":"APP","freq":124.5,"desc":"APP"},
+{"type":"APP","freq":120.9,"desc":"APP"},
+{"type":"APP","freq":130.5,"desc":"APP"},
+{"type":"DEP","freq":125.8,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":18.28618600,"lon":42.77069400,"rng_nm":18,"alt_fmsl":6778,"hdg":240.11,"id":"IKAM","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":18.30509700,"lon":42.80163900,"rng_nm":10,"alt_fmsl":6694,"id":"IKAM","rwy":"24","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":18.30938600,"lon":42.81324700,"rng_nm":0,"alt_fmsl":6778,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":18.30509700,"lon":42.80163900,"rng_nm":18,"alt_fmsl":6778,"id":"IKAM","rwy":"24","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEMA","name":"Prince Mohammad Bin Abdulaziz","lat":24.55265775,"lon":39.70535975,"rwys":2,"ils":3,"elev":2151,"index":3595426,"path":"e030n20/e039n24"
+,"runways":[
+{"len_m":3967,"wid_m":44.81,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":24.57313300,"lon1":39.70394400,"rwy2":"35","lat2":24.53799200,"lon2":39.71153600},
+{"len_m":3046,"wid_m":44.81,"hdg":183,"surf":"Asphalt","rwy1":"18","lat1":24.56347800,"lon1":39.70395300,"rwy2":"36","lat2":24.53602800,"lon2":39.70200600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"MADINAH TWR"},
+{"type":"APP","freq":124.2,"desc":"MADINAH APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":24.53540000,"lon":39.71201100,"rng_nm":18,"alt_fmsl":2151,"hdg":169.00,"id":"INAH","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":24.57457500,"lon":39.70368600,"rng_nm":18,"alt_fmsl":2151,"hdg":348.95,"id":"IDIN","rwy":"35","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":24.56652200,"lon":39.70415000,"rng_nm":18,"alt_fmsl":2151,"hdg":3.66,"id":"IPMA","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":24.56453300,"lon":39.70702800,"rng_nm":10,"alt_fmsl":2151,"id":"INAH","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":24.54064200,"lon":39.71210300,"rng_nm":10,"alt_fmsl":2151,"id":"IDIN","rwy":"35","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":24.53841400,"lon":39.70339400,"rng_nm":10,"alt_fmsl":2151,"id":"IPMA","rwy":"36","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":24.57469700,"lon":39.70366100,"rng_nm":0,"alt_fmsl":2151,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":24.52762500,"lon":39.70132800,"rng_nm":0,"alt_fmsl":2151,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":111.7,"lat":24.56453300,"lon":39.70702800,"rng_nm":18,"alt_fmsl":2151,"id":"INAH","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":24.54064200,"lon":39.71210300,"rng_nm":18,"alt_fmsl":2151,"id":"IDIN","rwy":"35","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":24.53841400,"lon":39.70339400,"rng_nm":18,"alt_fmsl":2151,"id":"IPMA","rwy":"36","desc":"DME-ILS"}
+]
+}

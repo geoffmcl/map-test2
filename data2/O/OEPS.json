@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OEPS","name":"Prince Sultan Ab","lat":24.0627,"lon":47.5805345,"rwys":1,"ils":2,"elev":1651,"index":3726466,"path":"e040n20/e047n24"
+,"runways":[
+{"len_m":4008,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":24.08073600,"lon1":47.57894700,"rwy2":"35","lat2":24.04466400,"lon2":47.58212200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.97,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.8,"desc":"SULTAN TWR"},
+{"type":"APP","freq":123.42,"desc":"SULTAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":24.04191400,"lon":47.58236700,"rng_nm":18,"alt_fmsl":1661,"hdg":175.41,"id":"ISAB","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":24.08362800,"lon":47.57869200,"rng_nm":18,"alt_fmsl":1579,"hdg":355.40,"id":"IPSA","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":24.07798300,"lon":47.58037200,"rng_nm":10,"alt_fmsl":1587,"id":"ISAB","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":24.04821100,"lon":47.58299700,"rng_nm":10,"alt_fmsl":1639,"id":"IPSA","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":24.07798300,"lon":47.58037200,"rng_nm":18,"alt_fmsl":1587,"id":"ISAB","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":24.04821100,"lon":47.58299700,"rng_nm":18,"alt_fmsl":1651,"id":"IPSA","rwy":"35","desc":"DME-ILS"}
+]
+}

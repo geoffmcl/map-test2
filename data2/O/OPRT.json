@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OPRT","name":"Rawalakot","lat":33.84966,"lon":73.7981485,"rwys":1,"ils":0,"elev":5479,"index":4153075,"path":"e070n30/e073n33"
+,"runways":[
+{"len_m":901,"wid_m":22.86,"hdg":13,"surf":"Asphalt","rwy1":"01","lat1":33.84570300,"lon1":73.79703600,"rwy2":"19","lat2":33.85361700,"lon2":73.79926100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":122.4,"desc":"TWR"}
+]
+,"ils":[
+]
+}

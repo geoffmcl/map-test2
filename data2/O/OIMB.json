@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OIMB","name":"Birjand","lat":32.89573875,"lon":59.27569775,"rwys":2,"ils":0,"elev":4952,"index":3923641,"path":"e050n30/e059n32"
+,"runways":[
+{"len_m":2901,"wid_m":45.11,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":32.89650600,"lon1":59.26966400,"rwy2":"28","lat2":32.89253300,"lon2":59.30031900},
+{"len_m":2162,"wid_m":24.99,"hdg":78,"surf":"Asphalt","rwy1":"08","lat1":32.89504700,"lon1":59.25507200,"rwy2":"26","lat2":32.89886900,"lon2":59.27773600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"INFO"},
+{"type":"TWR","freq":127.1,"desc":"INFO"}
+]
+,"ils":[
+]
+}

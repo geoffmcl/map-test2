@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"OITT","name":"Tabriz Intl","lat":38.13078310,"lon":46.24367900,"rwys":2,"ils":1,"elev":4459,"index":3710984,"path":"e040n30/e046n38"
+,"runways":[
+{"len_m":3603,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"12L","lat1":38.14385600,"lon1":46.21957200,"rwy2":"30R","lat2":38.12345000,"lon2":46.25154200},
+{"len_m":3516,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"12R","lat1":38.14226700,"lon1":46.21870300,"rwy2":"30L","lat2":38.12238900,"lon2":46.24993100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"INFO"},
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":124.1,"desc":"TWR"},
+{"type":"APP","freq":122.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":38.14654200,"lon":46.21533900,"rng_nm":18,"alt_fmsl":4459,"hdg":309.03,"id":"ITBZ","rwy":"30R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":38.12620600,"lon":46.24998100,"rng_nm":10,"alt_fmsl":4459,"id":"ITBZ","rwy":"30R","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":38.12620600,"lon":46.24998100,"rng_nm":18,"alt_fmsl":4459,"id":"ITBZ","rwy":"30R","desc":"DME-ILS"}
+]
+}
