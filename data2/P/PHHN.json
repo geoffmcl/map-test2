@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHHN","name":"Hana","lat":20.79451773,"lon":-156.01429402,"rwys":1,"ils":0,"elev":78,"index":383927,"path":"w160n20/w157n20"
+,"runways":[
+{"len_m":1099,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":20.79563183,"lon1":-156.01975950,"rwy2":"26","lat2":20.79562667,"lon2":-156.00919700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":-156,"surf":"Asphalt","lat1":20.79490255,"lon1":-156.01348401},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-156,"surf":"Asphalt","lat1":20.79479106,"lon1":-156.01348196}
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":126,"desc":"HONOLULU CNTR"}
+]
+,"ils":[
+]
+}

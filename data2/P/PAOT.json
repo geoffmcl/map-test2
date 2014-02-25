@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAOT","name":"Kotzebue Ralph Wein Mem","lat":66.89286497,"lon":-162.60323791,"rwys":3,"ils":1,"elev":14,"index":288568,"path":"w170n60/w163n66"
+,"runways":[
+{"len_m":1798,"wid_m":45.72,"hdg":101,"surf":"Asphalt","rwy1":"08","lat1":66.88943600,"lon1":-162.60936700,"rwy2":"26","lat2":66.88613900,"lon2":-162.56919700},
+{"len_m":1806,"wid_m":46.02,"hdg":101,"surf":"Asphalt","rwy1":"09","lat1":66.88944373,"lon1":-162.60946121,"rwy2":"27","lat2":66.88613127,"lon2":-162.56910549},
+{"len_m":1185,"wid_m":27.13,"hdg":193,"surf":"Gravel","rwy1":"18","lat1":66.88512535,"lon1":-162.60933583,"rwy2":"36","lat2":66.87480465,"lon2":-162.61583781}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":119.2,"desc":"Anchorage ARTCC"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":66.88695000,"lon":-162.56954200,"rng_nm":18,"alt_fmsl":14,"hdg":99.05,"id":"IOTZ","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":66.88826900,"lon":-162.60295600,"rng_nm":10,"alt_fmsl":10,"id":"IOTZ","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":66.88695300,"lon":-162.56933900,"rng_nm":18,"alt_fmsl":11,"id":"IOTZ","rwy":"08","desc":"DME-ILS"}
+]
+}

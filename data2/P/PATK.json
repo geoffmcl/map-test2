@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PATK","name":"Talkeetna","lat":62.32055658,"lon":-150.09967252,"rwys":1,"ils":0,"elev":358,"index":484881,"path":"w160n60/w151n62"
+,"runways":[
+{"len_m":1070,"wid_m":22.86,"hdg":207,"surf":"Asphalt","rwy1":"18","lat1":62.32478916,"lon1":-150.08899246,"rwy2":"36","lat2":62.31623584,"lon2":-150.09837821}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":25,"wid_m":25.91,"hdg":-150,"surf":"Asphalt","lat1":62.31745911,"lon1":-150.10073992}
+]
+,"radios":[
+{"type":"ATIS","freq":135.2,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"APP","freq":125.55,"desc":"APP-DEP Anchorage"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAMC","name":"Mc Grath","lat":62.9547915,"lon":-155.60657325,"rwys":2,"ils":1,"elev":338,"index":403000,"path":"w160n60/w156n62"
+,"runways":[
+{"len_m":1809,"wid_m":30.48,"hdg":178,"surf":"Asphalt","rwy1":"16","lat1":62.95920000,"lon1":-155.60528100,"rwy2":"34","lat2":62.94297200,"lon2":-155.60460600},
+{"len_m":524,"wid_m":18.29,"hdg":93,"surf":"Asphalt","rwy1":"07","lat1":62.95866100,"lon1":-155.61335600,"rwy2":"25","lat2":62.95833300,"lon2":-155.60305000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":62.94635300,"lon":-155.60669700,"rng_nm":18,"alt_fmsl":338,"id":"IMCG","rwy":"16","desc":"LOC"},
+{"type":"DME","freq":108.5,"lat":62.94638100,"lon":-155.60740600,"rng_nm":18,"alt_fmsl":337,"id":"IMCG","rwy":"16","desc":"DME-ILS"}
+]
+}

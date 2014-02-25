@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PF2","name":"Bar River","lat":46.424098,"lon":-84.092777,"rwys":2,"ils":0,"elev":591,"index":1565211,"path":"w090n40/w085n46"
+,"runways":[
+{"len_m":1338,"wid_m":22.86,"hdg":172,"surf":"Asphalt","rwy1":"18","lat1":46.42750300,"lon1":-84.09610800,"rwy2":"36","lat2":46.41555600,"lon2":-84.09388900},
+{"len_m":873,"wid_m":15.24,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":46.42750000,"lon1":-84.09611100,"rwy2":"29","lat2":46.42583300,"lon2":-84.08500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

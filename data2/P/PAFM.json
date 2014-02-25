@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAFM","name":"Ambler","lat":67.10649175,"lon":-157.8577485,"rwys":2,"ils":0,"elev":334,"index":370496,"path":"w160n60/w158n67"
+,"runways":[
+{"len_m":914,"wid_m":17.98,"hdg":202,"surf":"Gravel","rwy1":"18","lat1":67.10868600,"lon1":-157.85124700,"rwy2":"36","lat2":67.10110600,"lon2":-157.85928100},
+{"len_m":731,"wid_m":17.98,"hdg":112,"surf":"Gravel","rwy1":"09","lat1":67.10933900,"lon1":-157.86801900,"rwy2":"27","lat2":67.10683600,"lon2":-157.85244700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.1,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

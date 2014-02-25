@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PASK","name":"Selawik","lat":66.600159,"lon":-159.985875,"rwys":2,"ils":0,"elev":13,"index":337696,"path":"w160n60/w160n66"
+,"runways":[
+{"len_m":914,"wid_m":17.98,"hdg":53,"surf":"Gravel","rwy1":"03","lat1":66.59730000,"lon1":-159.99221400,"rwy2":"21","lat2":66.60220300,"lon2":-159.97566700},
+{"len_m":810,"wid_m":17.98,"hdg":106,"surf":"Gravel","rwy1":"09","lat1":66.60158600,"lon1":-159.99658300,"rwy2":"27","lat2":66.59954700,"lon2":-159.97903600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

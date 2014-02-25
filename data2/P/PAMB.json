@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAMB","name":"Manokotak","lat":58.9901955,"lon":-159.049924,"rwys":1,"ils":0,"elev":51,"index":337211,"path":"w160n50/w160n58"
+,"runways":[
+{"len_m":829,"wid_m":18.29,"hdg":24,"surf":"Gravel","rwy1":"01","lat1":58.98681900,"lon1":-159.05295600,"rwy2":"19","lat2":58.99357200,"lon2":-159.04689200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.62,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

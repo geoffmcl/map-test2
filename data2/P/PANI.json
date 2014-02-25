@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PANI","name":"Aniak","lat":61.581597,"lon":-159.5430445,"rwys":1,"ils":1,"elev":88,"index":337377,"path":"w160n60/w160n61"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":121,"surf":"Asphalt","rwy1":"10","lat1":61.58584700,"lon1":-159.55777200,"rwy2":"28","lat2":61.57734700,"lon2":-159.52831700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.1,"desc":"CTAF"},
+{"type":"CLD","freq":118.15,"desc":"ANCHORAGE CLNC DEL"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":61.57658600,"lon":-159.52568100,"rng_nm":18,"alt_fmsl":88,"hdg":121.25,"id":"IANI","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":61.58327500,"lon":-159.55433300,"rng_nm":10,"alt_fmsl":88,"id":"IANI","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":61.57696100,"lon":-159.52478300,"rng_nm":18,"alt_fmsl":88,"id":"IANI","rwy":"10","desc":"DME-ILS"}
+]
+}

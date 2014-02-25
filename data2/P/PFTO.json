@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PFTO","name":"Tok Junction","lat":63.3295135,"lon":-142.953683,"rwys":1,"ils":0,"elev":1640,"index":616016,"path":"w150n60/w143n63"
+,"runways":[
+{"len_m":764,"wid_m":15.24,"hdg":99,"surf":"Asphalt","rwy1":"07","lat1":63.33005800,"lon1":-142.96121900,"rwy2":"25","lat2":63.32896900,"lon2":-142.94614700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.55,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+]
+}

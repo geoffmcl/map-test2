@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PACV","name":"Cordova-smith","lat":60.4906935,"lon":-145.477301,"rwys":2,"ils":1,"elev":41,"index":566682,"path":"w150n60/w146n60"
+,"runways":[
+{"len_m":2285,"wid_m":46.02,"hdg":114,"surf":"Asphalt","rwy1":"09","lat1":60.49675300,"lon1":-145.49682700,"rwy2":"27","lat2":60.48833700,"lon2":-145.45891100},
+{"len_m":578,"wid_m":9.14,"hdg":180,"surf":"Gravel","rwy1":"16","lat1":60.49143900,"lon1":-145.47668600,"rwy2":"34","lat2":60.48624500,"lon2":-145.47678000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ASOS"},
+{"type":"ATIS","freq":122.2,"desc":"JUNEAU FSS"},
+{"type":"ATIS","freq":123.6,"desc":"JUNEAU FSS"},
+{"type":"CTAF","freq":123.6,"desc":"JUNEAU CTAF"},
+{"type":"TWR","freq":119.3,"desc":"ANCHORAGE CNTR"},
+{"type":"TWR","freq":133.6,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":60.49736900,"lon":-145.49973300,"rng_nm":18,"alt_fmsl":32,"hdg":294.17,"id":"ICDV","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":60.48878600,"lon":-145.46444200,"rng_nm":10,"alt_fmsl":39,"id":"ICDV","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":60.49807800,"lon":-145.49952500,"rng_nm":18,"alt_fmsl":51,"id":"ICDV","rwy":"27","desc":"DME-ILS"}
+]
+}

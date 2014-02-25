@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHOG","name":"Kahului","lat":20.89630890,"lon":-156.42768860,"rwys":2,"ils":1,"elev":54,"index":383932,"path":"w160n20/w157n20"
+,"runways":[
+{"len_m":2131,"wid_m":45.72,"hdg":34,"surf":"Asphalt","rwy1":"02","lat1":20.88913900,"lon1":-156.43631900,"rwy2":"20","lat2":20.90491900,"lon2":-156.42457500},
+{"len_m":1520,"wid_m":45.72,"hdg":65,"surf":"Asphalt","rwy1":"05","lat1":20.89802200,"lon1":-156.43710000,"rwy2":"23","lat2":20.90381900,"lon2":-156.42384700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"CLD","freq":120.6,"desc":"MAUI CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"MAUI TWR"},
+{"type":"APP","freq":119.5,"desc":"MAUI APP/DEP"},
+{"type":"APP","freq":120.2,"desc":"MAUI APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":20.90616100,"lon":-156.42365300,"rng_nm":18,"alt_fmsl":46,"hdg":34.81,"id":"IOGG","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":20.89154200,"lon":-156.43311900,"rng_nm":10,"alt_fmsl":46,"id":"IOGG","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":20.80369400,"lon":-156.49980600,"rng_nm":0,"alt_fmsl":1800,"id":"----","rwy":"02","desc":"OM"},
+{"type":"MM","freq":0,"lat":20.88325000,"lon":-156.44069400,"rng_nm":0,"alt_fmsl":46,"id":"----","rwy":"02","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":20.90616100,"lon":-156.42365300,"rng_nm":18,"alt_fmsl":46,"id":"IOGG","rwy":"02","desc":"DME-ILS"}
+]
+}

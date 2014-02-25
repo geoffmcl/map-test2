@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHBK","name":"Barking Sands Pmrf","lat":22.0227735,"lon":-159.78505959,"rwys":1,"ils":0,"elev":23,"index":334848,"path":"w160n20/w160n22"
+,"runways":[
+{"len_m":1822,"wid_m":46.02,"hdg":169,"surf":"Asphalt","rwy1":"16","lat1":22.03087868,"lon1":-159.78659332,"rwy2":"34","lat2":22.01466832,"lon2":-159.78352586}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+,"ils":[
+]
+}

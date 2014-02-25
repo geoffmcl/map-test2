@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAEI","name":"Eielson Afb","lat":64.665665,"lon":-147.101511,"rwys":1,"ils":2,"elev":548,"index":534185,"path":"w150n60/w148n64"
+,"runways":[
+{"len_m":4421,"wid_m":45.72,"hdg":157,"surf":"Concrete","rwy1":"13","lat1":64.68402200,"lon1":-147.11902500,"rwy2":"31","lat2":64.64730800,"lon2":-147.08399700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.27,"desc":"ASOS"},
+{"type":"ATIS","freq":118.52,"desc":"ASOS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.3,"desc":"RANGE CON"},
+{"type":"TWR","freq":127.2,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"FAIRBANKS APP"},
+{"type":"APP","freq":126.5,"desc":"FAIRBANKS APP"},
+{"type":"DEP","freq":126.5,"desc":"FAIRBANKS DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":64.64255300,"lon":-147.08092500,"rng_nm":18,"alt_fmsl":548,"hdg":158.55,"id":"IEIL","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":64.68947500,"lon":-147.12258300,"rng_nm":18,"alt_fmsl":548,"hdg":338.60,"id":"IEAF","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":64.68099200,"lon":-147.11845800,"rng_nm":10,"alt_fmsl":548,"id":"IEIL","rwy":"13","desc":"GS","gs":2.7},
+{"type":"GS","freq":109.9,"lat":64.64902500,"lon":-147.08961900,"rng_nm":10,"alt_fmsl":548,"id":"IEAF","rwy":"31","desc":"GS","gs":2.7},
+{"type":"MM","freq":0,"lat":64.63624700,"lon":-147.07572800,"rng_nm":0,"alt_fmsl":548,"id":"----","rwy":"31","desc":"MM"}
+]
+}

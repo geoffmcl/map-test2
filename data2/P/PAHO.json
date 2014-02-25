@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAHO","name":"Homer","lat":59.64578820,"lon":-151.48911620,"rwys":1,"ils":1,"elev":84,"index":468330,"path":"w160n50/w152n59"
+,"runways":[
+{"len_m":2049,"wid_m":46.02,"hdg":55,"surf":"Asphalt","rwy1":"03","lat1":59.64027447,"lon1":-151.49148048,"rwy2":"21","lat2":59.65082053,"lon2":-151.46169717}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ASOS-3"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"},
+{"type":"CTAF","freq":122.7,"desc":"UNICOM"},
+{"type":"CTAF","freq":123.05,"desc":"UNICOM"},
+{"type":"APP","freq":125.9,"desc":"Anchorage ARTCC"},
+{"type":"DEP","freq":125.9,"desc":"Anchorage ARTCC"}
+]
+,"ils":[
+{"type":"LOC","freq":109.3,"lat":59.65189700,"lon":-151.45866100,"rng_nm":18,"alt_fmsl":63,"id":"IHOM","rwy":"03","desc":"LOC"},
+{"type":"DME","freq":109.3,"lat":59.65157200,"lon":-151.45772500,"rng_nm":18,"alt_fmsl":86,"id":"IHOM","rwy":"03","desc":"DME-ILS"}
+]
+}

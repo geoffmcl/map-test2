@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAIK","name":"Kiana B Baker Mem","lat":66.97418352,"lon":-160.44459693,"rwys":1,"ils":0,"elev":166,"index":321337,"path":"w170n60/w161n66"
+,"runways":[
+{"len_m":1036,"wid_m":29.87,"hdg":81,"surf":"Gravel","rwy1":"06","lat1":66.97530300,"lon1":-160.44828600,"rwy2":"24","lat2":66.97660600,"lon2":-160.42478300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF"},
+{"type":"APP","freq":119.2,"desc":"Anchorage ARTCC"}
+]
+,"ils":[
+]
+}

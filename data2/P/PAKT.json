@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAKT","name":"Ketchikan Intl","lat":55.3555445,"lon":-131.7137365,"rwys":1,"ils":1,"elev":88,"index":795729,"path":"w140n50/w132n55"
+,"runways":[
+{"len_m":2285,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":55.36288100,"lon1":-131.72634200,"rwy2":"29","lat2":55.34820800,"lon2":-131.70113100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.9,"desc":"ATIS"},
+{"type":"ATIS","freq":134.45,"desc":"ATIS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":55.34747500,"lon":-131.69987500,"rng_nm":18,"alt_fmsl":66,"hdg":135.69,"id":"IECH","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":55.36045000,"lon":-131.72384200,"rng_nm":10,"alt_fmsl":76,"id":"IECH","rwy":"11","desc":"GS","gs":3.61},
+{"type":"DME","freq":109.3,"lat":55.34704700,"lon":-131.70081100,"rng_nm":18,"alt_fmsl":98,"id":"IECH","rwy":"11","desc":"DME-ILS"}
+]
+}

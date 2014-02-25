@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAMD","name":"Middleton Island","lat":59.4511395,"lon":-146.30678125,"rwys":2,"ils":0,"elev":100,"index":550234,"path":"w150n50/w147n59"
+,"runways":[
+{"len_m":962,"wid_m":35.05,"hdg":34,"surf":"Gravel","rwy1":"01","lat1":59.44420800,"lon1":-146.31285300,"rwy2":"19","lat2":59.45134400,"lon2":-146.30328900},
+{"len_m":457,"wid_m":38.10,"hdg":149,"surf":"Gravel","rwy1":"12","lat1":59.45627500,"lon1":-146.30752500,"rwy2":"30","lat2":59.45273100,"lon2":-146.30345800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.72,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

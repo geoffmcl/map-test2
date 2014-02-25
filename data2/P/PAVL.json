@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAVL","name":"Kivalina","lat":67.73052966,"lon":-164.53846032,"rwys":1,"ils":0,"elev":13,"index":255848,"path":"w170n60/w165n67"
+,"runways":[
+{"len_m":918,"wid_m":17.98,"hdg":137,"surf":"Gravel","rwy1":"12","lat1":67.73916661,"lon1":-164.57088636,"rwy2":"30","lat2":67.73313639,"lon2":-164.55610754}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.8,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.2,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+]
+}

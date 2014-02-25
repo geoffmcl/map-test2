@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PZ3","name":"Mountain View","lat":44.0718525,"lon":-77.3385648333333,"rwys":3,"ils":0,"elev":362,"index":1679746,"path":"w080n40/w078n44"
+,"runways":[
+{"len_m":1525,"wid_m":45.72,"hdg":48,"surf":"Asphalt","rwy1":"06","lat1":44.06472500,"lon1":-77.34500000,"rwy2":"24","lat2":44.07389200,"lon2":-77.33083300},
+{"len_m":926,"wid_m":45.72,"hdg":143,"surf":"Asphalt","rwy1":"15","lat1":44.07555300,"lon1":-77.34333100,"rwy2":"33","lat2":44.06888900,"lon2":-77.33638900},
+{"len_m":913,"wid_m":45.72,"hdg":88,"surf":"Asphalt","rwy1":"10","lat1":44.07389200,"lon1":-77.34361400,"rwy2":"28","lat2":44.07416400,"lon2":-77.33222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.3,"desc":"CTAF"},
+{"type":"TWR","freq":128.7,"desc":"TRENTON TWR"}
+]
+,"ils":[
+]
+}

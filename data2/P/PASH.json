@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PASH","name":"Shishmaref","lat":66.249567,"lon":-166.089346,"rwys":1,"ils":0,"elev":12,"index":222985,"path":"w170n60/w167n66"
+,"runways":[
+{"len_m":1524,"wid_m":21.03,"hdg":63,"surf":"Asphalt","rwy1":"05","lat1":66.24651700,"lon1":-166.10451400,"rwy2":"23","lat2":66.25261700,"lon2":-166.07417800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.1,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

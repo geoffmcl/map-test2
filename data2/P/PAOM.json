@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAOM","name":"Nome","lat":64.51214606,"lon":-165.43319729,"rwys":2,"ils":1,"elev":37,"index":239265,"path":"w170n60/w166n64"
+,"runways":[
+{"len_m":1828,"wid_m":46.02,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":64.51430300,"lon1":-165.46801700,"rwy2":"28","lat2":64.50875800,"lon2":-165.43218900},
+{"len_m":1699,"wid_m":46.02,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":64.50723100,"lon1":-165.45178300,"rwy2":"21","lat2":64.51861700,"lon2":-165.42825800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"APP","freq":133.3,"desc":"Anchorage ARTCC"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":64.51551100,"lon":-165.47582200,"rng_nm":18,"alt_fmsl":37,"hdg":289.76,"id":"IOME","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":64.50886400,"lon":-165.43944200,"rng_nm":10,"alt_fmsl":15,"id":"IOME","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":64.48479200,"lon":-165.27673900,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.50598300,"lon":-165.41425600,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"28","desc":"MM"}
+]
+}

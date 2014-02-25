@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAWD","name":"Seward","lat":60.129844,"lon":-149.4195155,"rwys":2,"ils":0,"elev":22,"index":501130,"path":"w150n60/w150n60"
+,"runways":[
+{"len_m":1291,"wid_m":30.48,"hdg":143,"surf":"Asphalt","rwy1":"12","lat1":60.13741700,"lon1":-149.42711100,"rwy2":"30","lat2":60.12808300,"lon2":-149.41333100},
+{"len_m":696,"wid_m":22.86,"hdg":170,"surf":"Asphalt","rwy1":"15","lat1":60.13001603,"lon1":-149.41988499,"rwy2":"33","lat2":60.12385997,"lon2":-149.41773501}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.2,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"P14","name":"Holbrook Muni","lat":34.94274900,"lon":-110.13763400,"rwys":2,"ils":0,"elev":5262,"index":1138491,"path":"w120n30/w111n34"
+,"runways":[
+{"len_m":2041,"wid_m":22.86,"hdg":39,"surf":"Asphalt","rwy1":"03","lat1":34.93465800,"lon1":-110.14475600,"rwy2":"21","lat2":34.94883600,"lon2":-110.13050800},
+{"len_m":994,"wid_m":36.58,"hdg":119,"surf":"Gravel","rwy1":"11","lat1":34.94111400,"lon1":-110.14416900,"rwy2":"29","lat2":34.93666700,"lon2":-110.13471900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

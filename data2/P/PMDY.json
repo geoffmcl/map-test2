@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PMDY","name":"Midway Atoll","lat":28.20535187,"lon":-177.38079441,"rwys":1,"ils":0,"elev":13,"index":40330,"path":"w180n20/w178n28"
+,"runways":[
+{"len_m":2409,"wid_m":60.96,"hdg":68,"surf":"Asphalt","rwy1":"06","lat1":28.19747044,"lon1":-177.39289075,"rwy2":"24","lat2":28.20540156,"lon2":-177.37004440}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.32,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

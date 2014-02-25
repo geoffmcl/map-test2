@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"P19","name":"Stellar Airpark","lat":33.298932,"lon":-111.9154365,"rwys":1,"ils":0,"elev":1177,"index":1122000,"path":"w120n30/w112n33"
+,"runways":[
+{"len_m":1180,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":33.30425300,"lon1":-111.91543100,"rwy2":"35","lat2":33.29361100,"lon2":-111.91544200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":123.7,"desc":"PHOENIX APP/DEP"}
+]
+,"ils":[
+]
+}

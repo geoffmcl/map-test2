@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAWG","name":"Wrangell","lat":56.4843235,"lon":-132.369832,"rwys":1,"ils":1,"elev":44,"index":779418,"path":"w140n50/w133n56"
+,"runways":[
+{"len_m":1828,"wid_m":45.72,"hdg":121,"surf":"Asphalt","rwy1":"10","lat1":56.48860000,"lon1":-132.38250000,"rwy2":"28","lat2":56.48004700,"lon2":-132.35716400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.6,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":56.48410800,"lon":-132.36253600,"rng_nm":18,"alt_fmsl":40,"id":"IRGL","rwy":"10","desc":"LOC"},
+{"type":"DME","freq":108.5,"lat":56.48448300,"lon":-132.36222200,"rng_nm":18,"alt_fmsl":58,"id":"IRGL","rwy":"10","desc":"DME-ILS"}
+]
+}

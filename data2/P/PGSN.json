@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PGSN","name":"Francisco C Ada Saipan Intl","lat":15.12352937,"lon":145.72870835,"rwys":1,"ils":1,"elev":215,"index":5331525,"path":"e140n10/e145n15"
+,"runways":[
+{"len_m":2651,"wid_m":60.96,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":15.11447500,"lon1":145.71793600,"rwy2":"25","lat2":15.12352800,"lon2":145.74077500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":15.12396100,"lon":145.74207800,"rng_nm":18,"alt_fmsl":215,"hdg":67.86,"id":"IGSN","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":15.11621700,"lon":145.72030300,"rng_nm":10,"alt_fmsl":215,"id":"IGSN","rwy":"07","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":15.11327800,"lon":145.71406400,"rng_nm":0,"alt_fmsl":215,"id":"----","rwy":"07","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":15.12382200,"lon":145.74065000,"rng_nm":18,"alt_fmsl":215,"id":"IGSN","rwy":"07","desc":"DME-ILS"}
+]
+}

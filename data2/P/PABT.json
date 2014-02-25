@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PABT","name":"Bettles","lat":66.91394,"lon":-151.5290415,"rwys":1,"ils":1,"elev":644,"index":468792,"path":"w160n60/w152n66"
+,"runways":[
+{"len_m":1581,"wid_m":45.72,"hdg":32,"surf":"Gravel","rwy1":"01","lat1":66.90794400,"lon1":-151.53868900,"rwy2":"19","lat2":66.91993600,"lon2":-151.51939400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"LOC","freq":108.7,"lat":66.92060600,"lon":-151.51789200,"rng_nm":18,"alt_fmsl":633,"id":"IBTT","rwy":"01","desc":"LOC"},
+{"type":"DME","freq":108.7,"lat":66.92058900,"lon":-151.51665300,"rng_nm":18,"alt_fmsl":653,"id":"IBTT","rwy":"01","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHKO","name":"Kona Intl At Keahole","lat":19.73408086,"lon":-156.04150651,"rwys":1,"ils":1,"elev":45,"index":383855,"path":"w160n10/w157n19"
+,"runways":[
+{"len_m":3477,"wid_m":45.72,"hdg":184,"surf":"Asphalt","rwy1":"17","lat1":19.75499250,"lon1":-156.04436900,"rwy2":"35","lat2":19.72369350,"lon2":-156.04714373}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CTAF","freq":120.3,"desc":"CTAF"},
+{"type":"CLD","freq":121.9,"desc":"CLNC DEL"},
+{"type":"TWR","freq":120.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":19.72092800,"lon":-156.04716500,"rng_nm":18,"alt_fmsl":43,"hdg":184.77,"id":"IKOA","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":19.75077200,"lon":-156.04545300,"rng_nm":10,"alt_fmsl":43,"id":"IKOA","rwy":"17","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":19.76344400,"lon":-156.04344400,"rng_nm":0,"alt_fmsl":43,"id":"----","rwy":"17","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":19.72077500,"lon":-156.04784700,"rng_nm":18,"alt_fmsl":43,"id":"IKOA","rwy":"17","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PFYU","name":"Fort Yukon","lat":66.56573569,"lon":-145.26225125,"rwys":1,"ils":0,"elev":433,"index":567073,"path":"w150n60/w146n66"
+,"runways":[
+{"len_m":1770,"wid_m":46.02,"hdg":60,"surf":"Gravel","rwy1":"03","lat1":66.56755600,"lon1":-145.26775300,"rwy2":"21","lat2":66.57541700,"lon2":-145.23309700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"AWOS-3"},
+{"type":"CTAF","freq":122.5,"desc":"CTAF"},
+{"type":"CTAF","freq":122.1,"desc":"Fairbanks FSS"},
+{"type":"TWR","freq":125.3,"desc":"EIELSON RANGE CON"},
+{"type":"APP","freq":135,"desc":"Anchorage ARTCC"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAKW","name":"Klawock","lat":55.579232,"lon":-133.075997,"rwys":1,"ils":0,"elev":80,"index":762979,"path":"w140n50/w134n55"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":39,"surf":"Asphalt","rwy1":"02","lat1":55.57392200,"lon1":-133.08362200,"rwy2":"20","lat2":55.58454200,"lon2":-133.06837200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"ASOS"},
+{"type":"CTAF","freq":120.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

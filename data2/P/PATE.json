@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PATE","name":"Teller","lat":65.24119756,"lon":-166.33043122,"rwys":1,"ils":0,"elev":294,"index":222921,"path":"w170n60/w167n65"
+,"runways":[
+{"len_m":918,"wid_m":17.98,"hdg":88,"surf":"Gravel","rwy1":"07","lat1":65.24030768,"lon1":-166.34916264,"rwy2":"25","lat2":65.24045032,"lon2":-166.32951731}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"AWOS-3"},
+{"type":"CTAF","freq":123,"desc":"CTAF"},
+{"type":"APP","freq":133.3,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+]
+}

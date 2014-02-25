@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PADU","name":"Unalaska","lat":53.8990695,"lon":-166.545064,"rwys":1,"ils":0,"elev":22,"index":222201,"path":"w170n50/w167n53"
+,"runways":[
+{"len_m":1189,"wid_m":30.48,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":53.90288600,"lon1":-166.55139700,"rwy2":"30","lat2":53.89525300,"lon2":-166.53873100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.8,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

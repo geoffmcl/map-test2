@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PASI","name":"Sitka Rocky Gutierrez","lat":57.047128,"lon":-135.3615975,"rwys":1,"ils":1,"elev":21,"index":730306,"path":"w140n50/w136n57"
+,"runways":[
+{"len_m":1981,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":57.05347500,"lon1":-135.37303100,"rwy2":"29","lat2":57.04078100,"lon2":-135.35016400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.9,"desc":"ATIS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"LOC","freq":108.9,"lat":57.04794700,"lon":-135.36551100,"rng_nm":18,"alt_fmsl":15,"id":"ISIT","rwy":"11","desc":"LOC"},
+{"type":"DME","freq":108.9,"lat":57.04719200,"lon":-135.36642800,"rng_nm":18,"alt_fmsl":34,"id":"ISIT","rwy":"11","desc":"DME-ILS"}
+]
+}

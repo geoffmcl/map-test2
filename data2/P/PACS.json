@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PACS","name":"Cape Sarichef","lat":54.58417432,"lon":-164.91673438,"rwys":2,"ils":0,"elev":291,"index":255008,"path":"w170n50/w165n54"
+,"runways":[
+{"len_m":1068,"wid_m":45.11,"hdg":159,"surf":"Gravel","rwy1":"16","lat1":54.58694173,"lon1":-164.91731393,"rwy2":"34","lat2":54.57792027,"lon2":-164.91164807},
+{"len_m":581,"wid_m":35.05,"hdg":60,"surf":"Gravel","rwy1":"06","lat1":54.58112808,"lon1":-164.91837504,"rwy2":"24","lat2":54.58373392,"lon2":-164.91058696}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":-164,"surf":"Gravel","lat1":54.58519820,"lon1":-164.91755006},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-164,"surf":"Gravel","lat1":54.58545305,"lon1":-164.91767465}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

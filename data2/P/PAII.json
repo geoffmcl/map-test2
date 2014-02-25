@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAII","name":"Egegik","lat":58.18553625,"lon":-157.37422575,"rwys":2,"ils":0,"elev":92,"index":369930,"path":"w160n50/w158n58"
+,"runways":[
+{"len_m":1706,"wid_m":30.48,"hdg":139,"surf":"Gravel","rwy1":"12","lat1":58.19130300,"lon1":-157.38568600,"rwy2":"30","lat2":58.17961100,"lon2":-157.36692800},
+{"len_m":457,"wid_m":22.86,"hdg":49,"surf":"Gravel","rwy1":"03","lat1":58.18428900,"lon1":-157.37510800,"rwy2":"21","lat2":58.18694200,"lon2":-157.36918100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"},
+{"type":"APP","freq":124.8,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+]
+}

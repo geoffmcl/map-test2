@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PACM","name":"Scammon Bay","lat":61.84544293,"lon":-165.58115931,"rwys":1,"ils":0,"elev":14,"index":239089,"path":"w170n60/w166n61"
+,"runways":[
+{"len_m":914,"wid_m":22.86,"hdg":113,"surf":"Gravel","rwy1":"10","lat1":61.84617200,"lon1":-165.58171700,"rwy2":"28","lat2":61.84290800,"lon2":-165.56578300}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":2529,"wid_m":60,"hdg_t":51,"buoys":false,"rwy1":"4","lat1":61.84772800,"lon1":-165.58173504,"rwy2":"22","lat2":61.86193400,"lon2":-165.54427000}
+]
+,"radios":[
+{"type":"ATIS","freq":118.42,"desc":"ASOS"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

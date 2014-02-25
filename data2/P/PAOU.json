@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAOU","name":"Nelson Lagoon","lat":56.007536,"lon":-161.160367,"rwys":1,"ils":0,"elev":14,"index":304259,"path":"w170n50/w162n56"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":96,"surf":"Gravel","rwy1":"08","lat1":56.00811400,"lon1":-161.17009200,"rwy2":"26","lat2":56.00695800,"lon2":-161.15064200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

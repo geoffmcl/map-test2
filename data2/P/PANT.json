@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PANT","name":"Annette Island","lat":55.039538,"lon":-131.572274,"rwys":2,"ils":0,"elev":119,"index":795713,"path":"w140n50/w132n55"
+,"runways":[
+{"len_m":2283,"wid_m":45.72,"hdg":147,"surf":"Asphalt","rwy1":"12","lat1":55.04530800,"lon1":-131.58186100,"rwy2":"30","lat2":55.02797200,"lon2":-131.56276900},
+{"len_m":1744,"wid_m":45.72,"hdg":41,"surf":"Gravel","rwy1":"02","lat1":55.03657826,"lon1":-131.58129707,"rwy2":"20","lat2":55.04829374,"lon2":-131.56316893}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

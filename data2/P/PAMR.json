@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAMR","name":"Merrill Fld","lat":61.21690400,"lon":-149.84196500,"rwys":3,"ils":0,"elev":137,"index":501192,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":90,"surf":"Asphalt","rwy1":"07","lat1":61.21590300,"lon1":-149.85330600,"rwy2":"25","lat2":61.21590000,"lon2":-149.83062200},
+{"len_m":804,"wid_m":22.86,"hdg":180,"surf":"Asphalt","rwy1":"16","lat1":61.21568100,"lon1":-149.85251700,"rwy2":"34","lat2":61.20846100,"lon2":-149.85252500},
+{"len_m":609,"wid_m":18.29,"hdg":66,"surf":"Gravel","rwy1":"04","lat1":61.20967200,"lon1":-149.84514200,"rwy2":"22","lat2":61.21188600,"lon2":-149.83476700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.25,"desc":"ATIS"},
+{"type":"CTAF","freq":126,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":127.55,"desc":"TWR"},
+{"type":"TWR","freq":126,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ANCHORAGE APP/DEP"}
+]
+,"ils":[
+]
+}

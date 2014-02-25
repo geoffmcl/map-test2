@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAHL","name":"Huslia","lat":65.697854,"lon":-156.351432,"rwys":1,"ils":0,"elev":213,"index":386793,"path":"w160n60/w157n65"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":51,"surf":"Gravel","rwy1":"03","lat1":65.69442500,"lon1":-156.36176700,"rwy2":"21","lat2":65.70128300,"lon2":-156.34109700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

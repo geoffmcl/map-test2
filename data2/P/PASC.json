@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PASC","name":"Deadhorse","lat":70.194754,"lon":-148.46516216,"rwys":1,"ils":1,"elev":64,"index":518153,"path":"w150n70/w149n70"
+,"runways":[
+{"len_m":1990,"wid_m":46.02,"hdg":74,"surf":"Asphalt","rwy1":"04","lat1":70.19244722,"lon1":-148.49057672,"rwy2":"22","lat2":70.19706078,"lon2":-148.43974760}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.4,"desc":"ATIS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"CTAF","freq":123,"desc":"UNICOM"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":70.19848900,"lon":-148.42401900,"rng_nm":18,"alt_fmsl":64,"hdg":75.03,"id":"ISCC","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":70.19201700,"lon":-148.48105000,"rng_nm":10,"alt_fmsl":52,"id":"ISCC","rwy":"04","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAEN","name":"Kenai Muni","lat":60.57464575,"lon":-151.24148475,"rwys":2,"ils":1,"elev":99,"index":468387,"path":"w160n60/w152n60"
+,"runways":[
+{"len_m":2309,"wid_m":46.02,"hdg":31,"surf":"Asphalt","rwy1":"01L","lat1":60.56311100,"lon1":-151.25838900,"rwy2":"19R","lat2":60.58086400,"lon2":-151.23666700},
+{"len_m":609,"wid_m":17.98,"hdg":31,"surf":"Gravel","rwy1":"01R","lat1":60.57496100,"lon1":-151.23831100,"rwy2":"19L","lat2":60.57964700,"lon2":-151.23257200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"ATIS"},
+{"type":"CTAF","freq":121.3,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":60.56116700,"lon":-151.26076700,"rng_nm":18,"alt_fmsl":89,"hdg":211.00,"id":"IENA","rwy":"19R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":60.57915800,"lon":-151.24135300,"rng_nm":10,"alt_fmsl":97,"id":"IENA","rwy":"19R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":60.58806900,"lon":-151.22789700,"rng_nm":0,"alt_fmsl":99,"id":"----","rwy":"19R","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHNY","name":"Lanai","lat":20.79035273,"lon":-156.94967577,"rwys":1,"ils":1,"elev":1308,"index":383920,"path":"w160n20/w157n20"
+,"runways":[
+{"len_m":1525,"wid_m":45.72,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":20.78068827,"lon1":-156.95655547,"rwy2":"21","lat2":20.79059573,"lon2":-156.94637537}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"ASOS"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":20.79253600,"lon":-156.94429400,"rng_nm":18,"alt_fmsl":1308,"hdg":44.06,"id":"ILNY","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":20.78286400,"lon":-156.95506900,"rng_nm":10,"alt_fmsl":1304,"id":"ILNY","rwy":"03","desc":"GS","gs":3}
+]
+}

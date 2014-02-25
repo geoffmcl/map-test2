@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAPB","name":"St George","lat":56.577351,"lon":-169.6637365,"rwys":1,"ils":1,"elev":125,"index":173217,"path":"w170n50/w170n56"
+,"runways":[
+{"len_m":1524,"wid_m":45.72,"hdg":118,"surf":"Gravel","rwy1":"11","lat1":56.58059400,"lon1":-169.67465600,"rwy2":"29","lat2":56.57410800,"lon2":-169.65281700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.45,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":56.57337800,"lon":-169.65035800,"rng_nm":18,"alt_fmsl":119,"hdg":118.34,"id":"IPBV","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":56.57987800,"lon":-169.66962800,"rng_nm":10,"alt_fmsl":109,"id":"IPBV","rwy":"11","desc":"GS","gs":3.6}
+]
+}

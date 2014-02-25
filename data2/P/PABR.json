@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PABR","name":"Wiley Post Will Rogers Mem","lat":71.28791600,"lon":-156.77995400,"rwys":1,"ils":2,"elev":44,"index":387152,"path":"w160n70/w157n71"
+,"runways":[
+{"len_m":2174,"wid_m":46.02,"hdg":91,"surf":"Asphalt","rwy1":"07","lat1":71.28485283,"lon1":-156.79908801,"rwy2":"25","lat2":71.28446661,"lon2":-156.73840443}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.15,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":71.28444672,"lon":-156.73855591,"rng_nm":18,"alt_fmsl":44,"hdg":91.13,"id":"IBRW","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":71.28369700,"lon":-156.78429400,"rng_nm":10,"alt_fmsl":41,"id":"IBRW","rwy":"07","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":71.28615000,"lon":-156.73540800,"rng_nm":18,"alt_fmsl":44,"id":"IBRW","rwy":"07","desc":"DME-ILS"}
+]
+}

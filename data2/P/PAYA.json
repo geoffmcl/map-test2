@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAYA","name":"Yakutat","lat":59.503248,"lon":-139.66125,"rwys":2,"ils":1,"elev":33,"index":664929,"path":"w140n50/w140n59"
+,"runways":[
+{"len_m":2360,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"11","lat1":59.51145300,"lon1":-139.66468900,"rwy2":"29","lat2":59.49646400,"lon2":-139.63521900},
+{"len_m":1973,"wid_m":45.72,"hdg":44,"surf":"Concrete","rwy1":"02","lat1":59.49627200,"lon1":-139.68486400,"rwy2":"20","lat2":59.50880300,"lon2":-139.66022800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.75,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":59.49452500,"lon":-139.63141400,"rng_nm":18,"alt_fmsl":24,"hdg":135.08,"id":"IYAK","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":59.50971400,"lon":-139.66075600,"rng_nm":10,"alt_fmsl":31,"id":"IYAK","rwy":"11","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":59.55499200,"lon":-139.74966100,"rng_nm":0,"alt_fmsl":33,"id":"----","rwy":"11","desc":"OM"},
+{"type":"MM","freq":0,"lat":59.51725000,"lon":-139.67609700,"rng_nm":0,"alt_fmsl":33,"id":"----","rwy":"11","desc":"MM"}
+]
+}

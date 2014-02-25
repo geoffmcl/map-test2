@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PASY","name":"Eareckson As","lat":52.712221,"lon":174.113618,"rwys":1,"ils":1,"elev":98,"index":5809064,"path":"e170n50/e174n52"
+,"runways":[
+{"len_m":3049,"wid_m":45.72,"hdg":106,"surf":"Asphalt","rwy1":"10","lat1":52.71622800,"lon1":174.09204200,"rwy2":"28","lat2":52.70821400,"lon2":174.13519400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ASOS"},
+{"type":"CTAF","freq":127.2,"desc":"CTAF"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":52.71838600,"lon":174.08278600,"rng_nm":18,"alt_fmsl":98,"hdg":287.74,"id":"ISYA","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":52.71040000,"lon":174.13218300,"rng_nm":10,"alt_fmsl":98,"id":"ISYA","rwy":"28","desc":"GS","gs":2.5}
+]
+}

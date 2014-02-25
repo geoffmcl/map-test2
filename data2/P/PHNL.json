@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHNL","name":"Honolulu Intl","lat":21.31745400,"lon":-157.91603000,"rwys":4,"ils":3,"elev":13,"index":367568,"path":"w160n20/w158n21"
+,"runways":[
+{"len_m":3749,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"08L","lat1":21.32524700,"lon1":-157.94323300,"rwy2":"26R","lat2":21.32524400,"lon2":-157.90709400},
+{"len_m":3657,"wid_m":60.96,"hdg":89,"surf":"Asphalt","rwy1":"08R","lat1":21.30680300,"lon1":-157.94585000,"rwy2":"26L","lat2":21.30680000,"lon2":-157.91059700},
+{"len_m":2743,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"04R","lat1":21.31391700,"lon1":-157.92713600,"rwy2":"22L","lat2":21.32882200,"lon2":-157.90601100},
+{"len_m":2118,"wid_m":45.72,"hdg":53,"surf":"Asphalt","rwy1":"04L","lat1":21.31833100,"lon1":-157.92331900,"rwy2":"22R","lat2":21.32984700,"lon2":-157.90700600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"CTAF","freq":123.3,"desc":"UNICOM"},
+{"type":"CLD","freq":121.4,"desc":"CLNC DEL"},
+{"type":"TWR","freq":123.9,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"DEP","freq":124.8,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":21.33050600,"lon":-157.90362500,"rng_nm":18,"alt_fmsl":5,"hdg":52.86,"id":"IIUM","rwy":"04R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.7,"lat":21.32524400,"lon":-157.90455800,"rng_nm":18,"alt_fmsl":10,"hdg":90.01,"id":"IHNL","rwy":"08L","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.1,"lat":21.32637800,"lon":-157.90782800,"rng_nm":18,"alt_fmsl":13,"id":"IEPC","rwy":"26L","desc":"LOC"},
+{"type":"GS","freq":110.5,"lat":21.31499700,"lon":-157.92413900,"rng_nm":10,"alt_fmsl":6,"id":"IIUM","rwy":"04R","desc":"GS","gs":3},
+{"type":"GS","freq":111.7,"lat":21.32407800,"lon":-157.93960800,"rng_nm":10,"alt_fmsl":12,"id":"IHNL","rwy":"08L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":21.32489700,"lon":-158.04886700,"rng_nm":0,"alt_fmsl":42,"id":"----","rwy":"08L","desc":"OM"},
+{"type":"MM","freq":0,"lat":21.30916700,"lon":-157.93325000,"rng_nm":0,"alt_fmsl":4,"id":"----","rwy":"04R","desc":"MM"},
+{"type":"MM","freq":0,"lat":21.32527800,"lon":-157.95286100,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"08L","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":21.32995300,"lon":-157.90335800,"rng_nm":18,"alt_fmsl":21,"id":"IIUM","rwy":"04R","desc":"DME-ILS"},
+{"type":"DME","freq":109.1,"lat":21.32637800,"lon":-157.90782800,"rng_nm":18,"alt_fmsl":13,"id":"IEPC","rwy":"26L","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PANV","name":"Anvik","lat":62.6467345,"lon":-160.1906585,"rwys":1,"ils":0,"elev":309,"index":321065,"path":"w170n60/w161n62"
+,"runways":[
+{"len_m":902,"wid_m":22.86,"hdg":187,"surf":"Gravel","rwy1":"17","lat1":62.65074700,"lon1":-160.18951400,"rwy2":"35","lat2":62.64272200,"lon2":-160.19180300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

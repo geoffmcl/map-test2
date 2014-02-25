@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PPIZ","name":"Point Lay Lrrs","lat":69.7320915,"lon":-163.01112574,"rwys":1,"ils":0,"elev":25,"index":272361,"path":"w170n60/w164n69"
+,"runways":[
+{"len_m":1377,"wid_m":24.08,"hdg":68,"surf":"Gravel","rwy1":"05","lat1":69.72984343,"lon1":-163.02771793,"rwy2":"23","lat2":69.73433957,"lon2":-162.99453354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.65,"desc":"ASOS"},
+{"type":"CTAF","freq":122.4,"desc":"CTAF"},
+{"type":"CTAF","freq":126.2,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

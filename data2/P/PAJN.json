@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAJN","name":"Juneau Intl","lat":58.35883300,"lon":-134.57675200,"rwys":1,"ils":1,"elev":21,"index":746769,"path":"w140n50/w135n58"
+,"runways":[
+{"len_m":2577,"wid_m":45.72,"hdg":104,"surf":"Asphalt","rwy1":"08","lat1":58.35793100,"lon1":-134.59755600,"rwy2":"26","lat2":58.35199700,"lon2":-134.55500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.2,"desc":"ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CTAF"},
+{"type":"CTAF","freq":120.7,"desc":"CTAF"},
+{"type":"CTAF","freq":122.95,"desc":"UNICOM"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":58.35890000,"lon":-134.63621100,"rng_nm":18,"alt_fmsl":21,"id":"IJDL","rwy":"08","desc":"LOC"},
+{"type":"DME","freq":109.9,"lat":58.35861700,"lon":-134.63617200,"rng_nm":18,"alt_fmsl":175,"id":"IJDL","rwy":"08","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAOR","name":"Northway","lat":62.961333,"lon":-141.9291355,"rwys":1,"ils":0,"elev":1716,"index":632376,"path":"w150n60/w142n62"
+,"runways":[
+{"len_m":1007,"wid_m":30.48,"hdg":73,"surf":"Gravel","rwy1":"04","lat1":62.96008800,"lon1":-141.93867500,"rwy2":"22","lat2":62.96257800,"lon2":-141.91959600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.4,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

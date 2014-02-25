@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHMK","name":"Molokai","lat":21.15541383,"lon":-157.09318976,"rwys":2,"ils":0,"elev":454,"index":367567,"path":"w160n20/w158n21"
+,"runways":[
+{"len_m":1372,"wid_m":30.48,"hdg":60,"surf":"Asphalt","rwy1":"05","lat1":21.14961634,"lon1":-157.10111033,"rwy2":"23","lat2":21.15574766,"lon2":-157.08962632},
+{"len_m":949,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":21.15745730,"lon1":-157.09763968,"rwy2":"35","lat2":21.14888100,"lon2":-157.09762367}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"CTAF","freq":125.7,"desc":"CTAF"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":125.7,"desc":"TWR"}
+]
+,"ils":[
+]
+}

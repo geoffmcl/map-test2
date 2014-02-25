@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PFKT","name":"Brevig Mission","lat":65.33139721,"lon":-166.47226695,"rwys":3,"ils":0,"elev":3,"index":222929,"path":"w170n60/w167n65"
+,"runways":[
+{"len_m":306,"wid_m":7.62,"hdg":116,"surf":"Gravel","rwy1":"10","lat1":65.33318680,"lon1":-166.48172607,"rwy2":"28","lat2":65.33194152,"lon2":-166.47587005},
+{"len_m":643,"wid_m":22.86,"hdg":54,"surf":"Gravel","rwy1":"04","lat1":65.33032600,"lon1":-166.47331400,"rwy2":"22","lat2":65.33366200,"lon2":-166.46204900},
+{"len_m":911,"wid_m":29.87,"hdg":129,"surf":"Gravel","rwy1":"11","lat1":65.33345700,"lon1":-166.47186300,"rwy2":"29","lat2":65.32823900,"lon2":-166.45681000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

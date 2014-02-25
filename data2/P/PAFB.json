@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAFB","name":"Ladd Aaf","lat":64.837614,"lon":-147.614535,"rwys":1,"ils":0,"elev":454,"index":534192,"path":"w150n60/w148n64"
+,"runways":[
+{"len_m":2607,"wid_m":45.72,"hdg":89,"surf":"Asphalt","rwy1":"06","lat1":64.83741700,"lon1":-147.64200300,"rwy2":"24","lat2":64.83781100,"lon2":-147.58706700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.25,"desc":"ATIS"},
+{"type":"CTAF","freq":125,"desc":"CTAF"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":125,"desc":"TWR"},
+{"type":"APP","freq":125.35,"desc":"FAIRBANKS APP"},
+{"type":"APP","freq":126.5,"desc":"FAIRBANKS APP"},
+{"type":"DEP","freq":125.35,"desc":"FAIRBANKS DEP"}
+]
+,"ils":[
+]
+}

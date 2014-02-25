@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAAK","name":"Atka","lat":52.21898400,"lon":-174.20857900,"rwys":1,"ils":0,"elev":56,"index":91019,"path":"w180n50/w175n52"
+,"runways":[
+{"len_m":1002,"wid_m":25.91,"hdg":168,"surf":"Asphalt","rwy1":"15","lat1":52.22475900,"lon1":-174.20783288,"rwy2":"33","lat2":52.21593900,"lon2":-174.20486712}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":-174,"surf":"Asphalt","lat1":52.21835404,"lon1":-174.20668140},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-174,"surf":"Asphalt","lat1":52.21828022,"lon1":-174.20714250}
+]
+,"radios":[
+{"type":"ATIS","freq":135.55,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

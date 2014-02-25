@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PALG","name":"Kalskag","lat":61.5362735,"lon":-160.341329,"rwys":1,"ils":0,"elev":55,"index":320994,"path":"w170n60/w161n61"
+,"runways":[
+{"len_m":975,"wid_m":17.98,"hdg":80,"surf":"Gravel","rwy1":"06","lat1":61.53558600,"lon1":-160.35038300,"rwy2":"24","lat2":61.53696100,"lon2":-160.33227500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.02,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

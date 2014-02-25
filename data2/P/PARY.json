@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PARY","name":"Ruby","lat":64.7272135,"lon":-155.469871,"rwys":1,"ils":0,"elev":653,"index":403113,"path":"w160n60/w156n64"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":50,"surf":"Gravel","rwy1":"03","lat1":64.72375800,"lon1":-155.47978600,"rwy2":"21","lat2":64.73066900,"lon2":-155.45995600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.92,"desc":"ASOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

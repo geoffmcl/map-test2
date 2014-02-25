@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PAAQ","name":"Palmer Muni","lat":61.594926,"lon":-149.088860333333,"rwys":3,"ils":0,"elev":242,"index":501219,"path":"w150n60/w150n61"
+,"runways":[
+{"len_m":1831,"wid_m":30.48,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":61.60398900,"lon1":-149.08749700,"rwy2":"34","lat2":61.58755300,"lon2":-149.08739400},
+{"len_m":1102,"wid_m":22.86,"hdg":113,"surf":"Asphalt","rwy1":"09","lat1":61.59498900,"lon1":-149.10064400,"rwy2":"27","lat2":61.59107200,"lon2":-149.08157500},
+{"len_m":475,"wid_m":18.29,"hdg":179,"surf":"Gravel","rwy1":"16S","lat1":61.59811100,"lon1":-149.08804400,"rwy2":"34S","lat2":61.59384200,"lon2":-149.08800800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.75,"desc":"ASOS"},
+{"type":"CTAF","freq":123.6,"desc":"CTAF"},
+{"type":"APP","freq":118.6,"desc":"ANCHORAGE CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"PHSF","name":"Bradshaw Aaf","lat":19.75889305,"lon":-155.55441780,"rwys":1,"ils":0,"elev":6189,"index":400243,"path":"w160n10/w156n19"
+,"runways":[
+{"len_m":1127,"wid_m":27.43,"hdg":100,"surf":"Asphalt","rwy1":"09","lat1":19.76102722,"lon1":-155.55909792,"rwy2":"27","lat2":19.75913578,"lon2":-155.54852211}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-155,"surf":"Asphalt","lat1":19.75961688,"lon1":-155.55392867}
+]
+,"radios":[
+{"type":"ATIS","freq":124.7,"desc":"ATIS"},
+{"type":"CTAF","freq":126.3,"desc":"CTAF"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":126,"desc":"HONOLULU CNTR"}
+]
+,"ils":[
+]
+}
