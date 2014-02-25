@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6L3","name":"Lisbon Muni","lat":46.445309,"lon":-97.728082,"rwys":2,"ils":0,"elev":1240,"index":1352217,"path":"w100n40/w098n46"
+,"runways":[
+{"len_m":929,"wid_m":15.24,"hdg":146,"surf":"Asphalt","rwy1":"14","lat1":46.45010300,"lon1":-97.73069700,"rwy2":"32","lat2":46.44316100,"lon2":-97.72395000},
+{"len_m":554,"wid_m":30.48,"hdg":36,"surf":"Dirt","rwy1":"03","lat1":46.44196900,"lon1":-97.73096700,"rwy2":"21","lat2":46.44600300,"lon2":-97.72671400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

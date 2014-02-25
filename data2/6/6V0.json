@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6V0","name":"Edgemont Muni","lat":43.2934715,"lon":-103.84174025,"rwys":2,"ils":0,"elev":3605,"index":1253712,"path":"w110n40/w104n43"
+,"runways":[
+{"len_m":1206,"wid_m":18.29,"hdg":131,"surf":"Asphalt","rwy1":"12","lat1":43.29888900,"lon1":-103.84916900,"rwy2":"30","lat2":43.29166700,"lon2":-103.83806100},
+{"len_m":621,"wid_m":30.48,"hdg":173,"surf":"Turf/grass","rwy1":"16","lat1":43.29444400,"lon1":-103.84028100,"rwy2":"34","lat2":43.28888600,"lon2":-103.83945000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

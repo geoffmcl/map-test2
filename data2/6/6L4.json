@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6L4","name":"Logan Co","lat":37.8556765,"lon":-81.915901,"rwys":1,"ils":0,"elev":1667,"index":1613808,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":1097,"wid_m":22.86,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":37.85305000,"lon1":-81.92118300,"rwy2":"24","lat2":37.85830300,"lon2":-81.91061900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":126.57,"desc":"APP/DEP"},
+{"type":"APP","freq":119.2,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

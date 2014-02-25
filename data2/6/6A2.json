@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6A2","name":"Griffin Spalding Co","lat":33.2269845,"lon":-84.2749375,"rwys":1,"ils":0,"elev":958,"index":1564362,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":1127,"wid_m":22.86,"hdg":136,"surf":"Asphalt","rwy1":"14","lat1":33.23069700,"lon1":-84.27907200,"rwy2":"32","lat2":33.22327200,"lon2":-84.27080300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.75,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.8,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.8,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

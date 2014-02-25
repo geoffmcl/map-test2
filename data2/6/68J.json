@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"68J","name":"Tallahassee Coml","lat":30.5473095,"lon":-84.3738365,"rwys":1,"ils":0,"elev":155,"index":1564194,"path":"w090n30/w085n30"
+,"runways":[
+{"len_m":990,"wid_m":15.24,"hdg":158,"surf":"Asphalt","rwy1":"16","lat1":30.55147200,"lon1":-84.37570600,"rwy2":"34","lat2":30.54314700,"lon2":-84.37196700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.7,"desc":"APP/DEP"}
+]
+,"ils":[
+]
+}

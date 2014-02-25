@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6V3","name":"Tazewell Co","lat":37.063747,"lon":-81.7982695,"rwys":1,"ils":0,"elev":2652,"index":1613760,"path":"w090n30/w082n37"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":37.06130800,"lon1":-81.80498100,"rwy2":"25","lat2":37.06618600,"lon2":-81.79155800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.07,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

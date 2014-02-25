@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6K4","name":"Fairview Muni","lat":36.2901375,"lon":-98.47584,"rwys":1,"ils":0,"elev":1272,"index":1335186,"path":"w100n30/w099n36"
+,"runways":[
+{"len_m":1103,"wid_m":18.29,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":36.29510800,"lon1":-98.47573300,"rwy2":"35","lat2":36.28516700,"lon2":-98.47594700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.52,"desc":"VANCE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"6D6","name":"Greenville Muni","lat":43.14238475,"lon":-85.253995,"rwys":2,"ils":0,"elev":855,"index":1548618,"path":"w090n40/w086n43"
+,"runways":[
+{"len_m":1280,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":43.14258900,"lon1":-85.26138300,"rwy2":"28","lat2":43.14167500,"lon2":-85.24569700},
+{"len_m":533,"wid_m":60.96,"hdg":184,"surf":"Turf/grass","rwy1":"18","lat1":43.14503100,"lon1":-85.25418600,"rwy2":"36","lat2":43.14024400,"lon2":-85.25471400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.6,"desc":"GRAND RAPIDS APP/DEP"}
+]
+,"ils":[
+]
+}
