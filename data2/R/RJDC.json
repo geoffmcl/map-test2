@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJDC","name":"Yamaguchi Ube","lat":33.9299125,"lon":131.278765,"rwys":1,"ils":1,"elev":23,"index":5103353,"path":"e130n30/e131n33"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":62,"surf":"Asphalt","rwy1":"07","lat1":33.92466900,"lon1":131.26679700,"rwy2":"25","lat2":33.93515600,"lon2":131.29073300}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":33.93616400,"lon":131.29303100,"rng_nm":18,"alt_fmsl":23,"hdg":62.16,"id":"IUB","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":33.92508600,"lon":131.27053600,"rng_nm":10,"alt_fmsl":39,"id":"IUB","rwy":"07","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":33.92027200,"lon":131.25675800,"rng_nm":0,"alt_fmsl":23,"id":"----","rwy":"07","desc":"MM"}
+]
+}

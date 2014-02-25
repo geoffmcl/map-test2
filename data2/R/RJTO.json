@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTO","name":"Rjto-oshima","lat":34.78290460,"lon":139.36352031,"rwys":1,"ils":1,"elev":125,"index":5234481,"path":"e130n30/e139n34"
+,"runways":[
+{"len_m":1829,"wid_m":46.02,"hdg":19,"surf":"Asphalt","rwy1":"03","lat1":34.77416700,"lon1":139.35692804,"rwy2":"21","lat2":34.78967800,"lon2":139.36370104}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.6,"desc":"OSHIMA MULT"},
+{"type":"CTAF","freq":126.2,"desc":"OSHIMA MULT"},
+{"type":"APP","freq":123.7,"desc":"TOKYO APP"},
+{"type":"APP","freq":134.15,"desc":"TOKYO APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.35,"lat":34.79167200,"lon":139.36457500,"rng_nm":18,"alt_fmsl":125,"id":"IOS","rwy":"03","desc":"LOC"},
+{"type":"DME","freq":109.35,"lat":34.79182200,"lon":139.36438600,"rng_nm":18,"alt_fmsl":125,"id":"IOS","rwy":"03","desc":"DME-ILS"}
+]
+}

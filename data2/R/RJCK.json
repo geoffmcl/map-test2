@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCK","name":"Kushiro","lat":43.0409695,"lon":144.192986,"rwys":1,"ils":1,"elev":327,"index":5316928,"path":"e140n40/e144n43"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":43.05147200,"lon1":144.18747800,"rwy2":"35","lat2":43.03046700,"lon2":144.19849400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.05,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":43.02849200,"lon":144.19953100,"rng_nm":18,"alt_fmsl":327,"hdg":159.03,"id":"IKS","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":43.04829200,"lon":144.18756700,"rng_nm":10,"alt_fmsl":322,"id":"IKS","rwy":"17","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.13451700,"lon":144.14380600,"rng_nm":0,"alt_fmsl":327,"id":"----","rwy":"17","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.06044400,"lon":144.18280600,"rng_nm":0,"alt_fmsl":327,"id":"----","rwy":"17","desc":"MM"},
+{"type":"IM","freq":0,"lat":43.05388300,"lon":144.18621100,"rng_nm":0,"alt_fmsl":327,"id":"----","rwy":"17","desc":"IM"}
+]
+}

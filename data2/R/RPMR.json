@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPMR","name":"Tambler","lat":6.0581235,"lon":125.096199,"rwys":1,"ils":1,"elev":505,"index":5003264,"path":"e120n00/e125n06"
+,"runways":[
+{"len_m":3227,"wid_m":45.11,"hdg":173,"surf":"Concrete","rwy1":"17","lat1":6.07260800,"lon1":125.09443100,"rwy2":"35","lat2":6.04363900,"lon2":125.09796700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"APP"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":6.04153611,"lon":125.09825556,"rng_nm":18,"alt_fmsl":498,"hdg":173.00,"id":"IGSA","rwy":"17","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":6.06935000,"lon":125.09373900,"rng_nm":10,"alt_fmsl":498,"id":"IGSA","rwy":"17","desc":"GS","gs":3.05},
+{"type":"DME","freq":109.5,"lat":6.06935000,"lon":125.09373900,"rng_nm":18,"alt_fmsl":498,"id":"IGSA","rwy":"17","desc":"DME-ILS"}
+]
+}

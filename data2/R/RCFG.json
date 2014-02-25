@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCFG","name":"Nangan","lat":26.159778,"lon":119.958458,"rwys":1,"ils":0,"elev":232,"index":4906251,"path":"e110n20/e119n26"
+,"runways":[
+{"len_m":1578,"wid_m":29.87,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":26.15338900,"lon1":119.95496900,"rwy2":"21","lat2":26.16616700,"lon2":119.96194700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"TAIPEI CON"},
+{"type":"APP","freq":123.4,"desc":"TAIPEI CON"}
+]
+,"ils":[
+]
+}

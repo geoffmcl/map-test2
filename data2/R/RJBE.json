@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJBE","name":"Kobe","lat":34.63686700,"lon":135.22676900,"rwys":1,"ils":1,"elev":22,"index":5168936,"path":"e130n30/e135n34"
+,"runways":[
+{"len_m":2500,"wid_m":60.96,"hdg":84,"surf":"Asphalt","rwy1":"09","lat1":34.63164200,"lon1":135.21031100,"rwy2":"27","lat2":34.63375800,"lon2":135.23745600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.07,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":125.3,"desc":"KANSAI TCA"}
+]
+,"ils":[
+{"type":"ILS","freq":109.15,"lat":34.63395600,"lon":135.23998900,"rng_nm":18,"alt_fmsl":22,"hdg":84.59,"id":"IKO","rwy":"09","desc":"LDA-GS"},
+{"type":"GS","freq":109.15,"lat":34.63086400,"lon":135.21425600,"rng_nm":10,"alt_fmsl":22,"id":"IKO","rwy":"09","desc":"GS","gs":3},
+{"type":"DME","freq":109.15,"lat":34.63077500,"lon":135.21427500,"rng_nm":18,"alt_fmsl":39,"id":"IKO","rwy":"09","desc":"DME-ILS"}
+]
+}

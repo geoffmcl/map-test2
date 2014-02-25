@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCN","name":"Nakashibetsu","lat":43.5774265,"lon":144.9597915,"rwys":1,"ils":1,"elev":234,"index":5316963,"path":"e140n40/e144n43"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":71,"surf":"Asphalt","rwy1":"08","lat1":43.57450000,"lon1":144.94808300,"rwy2":"26","lat2":43.58035300,"lon2":144.97150000}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":43.58104200,"lon":144.97425600,"rng_nm":18,"alt_fmsl":234,"hdg":70.97,"id":"INS","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":43.57451900,"lon":144.95272500,"rng_nm":10,"alt_fmsl":234,"id":"INS","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":43.57443100,"lon":144.95278300,"rng_nm":18,"alt_fmsl":234,"id":"INS","rwy":"08","desc":"DME-ILS"}
+]
+}

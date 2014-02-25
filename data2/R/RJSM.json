@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJSM","name":"Misawa Ab","lat":40.7032195,"lon":141.3683625,"rwys":1,"ils":1,"elev":119,"index":5267625,"path":"e140n40/e141n40"
+,"runways":[
+{"len_m":3051,"wid_m":45.72,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":40.70444200,"lon1":141.35037800,"rwy2":"28","lat2":40.70199700,"lon2":141.38634700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"CLD","freq":118.65,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"GND","freq":118.65,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":125.3,"desc":"TWR"},
+{"type":"APP","freq":124.05,"desc":"TCA"},
+{"type":"APP","freq":125.3,"desc":"APP"},
+{"type":"APP","freq":120.7,"desc":"APP"},
+{"type":"DEP","freq":125.3,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":40.70173300,"lon":141.39020800,"rng_nm":18,"alt_fmsl":88,"hdg":95.14,"id":"IMAS","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":40.70470300,"lon":141.34654200,"rng_nm":18,"alt_fmsl":108,"hdg":275.11,"id":"IMIS","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":40.70558600,"lon":141.35386100,"rng_nm":10,"alt_fmsl":111,"id":"IMAS","rwy":"10","desc":"GS","gs":2.5},
+{"type":"GS","freq":109.7,"lat":40.70341900,"lon":141.38255600,"rng_nm":10,"alt_fmsl":101,"id":"IMIS","rwy":"28","desc":"GS","gs":2.5}
+]
+}

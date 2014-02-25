@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTL","name":"Shimofusa","lat":35.7989445,"lon":140.0122085,"rwys":1,"ils":1,"elev":98,"index":5250928,"path":"e140n30/e140n35"
+,"runways":[
+{"len_m":2250,"wid_m":45.72,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":35.78880600,"lon1":140.01241700,"rwy2":"19","lat2":35.80908300,"lon2":140.01200000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":122,"desc":"PAR"},
+{"type":"APP","freq":126,"desc":"TOKYO APP"},
+{"type":"DEP","freq":126,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":120.8,"desc":"TOKYO DEP"},
+{"type":"DEP","freq":127.6,"desc":"TOKYO DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":35.78657200,"lon":140.01229200,"rng_nm":18,"alt_fmsl":98,"hdg":179.40,"id":"ISH","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":35.80601400,"lon":140.01340300,"rng_nm":10,"alt_fmsl":98,"id":"ISH","rwy":"19","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":35.81851400,"lon":140.01145800,"rng_nm":0,"alt_fmsl":98,"id":"----","rwy":"19","desc":"MM"}
+]
+}

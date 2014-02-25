@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCM","name":"Memanbetsu","lat":43.8806055,"lon":144.164053,"rwys":1,"ils":1,"elev":135,"index":5316984,"path":"e140n40/e144n43"
+,"runways":[
+{"len_m":2500,"wid_m":45.72,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":43.89180800,"lon1":144.16260600,"rwy2":"36","lat2":43.86940300,"lon2":144.16550000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.86729700,"lon":144.16577200,"rng_nm":18,"alt_fmsl":132,"hdg":174.68,"id":"ITB","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":43.88895800,"lon":144.16447500,"rng_nm":10,"alt_fmsl":135,"id":"ITB","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.01108900,"lon":144.14655800,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.90032800,"lon":144.16150600,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"18","desc":"MM"}
+]
+}

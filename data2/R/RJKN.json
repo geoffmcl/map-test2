@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJKN","name":"Tokunoshima","lat":27.836382,"lon":128.8812525,"rwys":1,"ils":1,"elev":17,"index":5053811,"path":"e120n20/e128n27"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":27.82740800,"lon1":128.88018600,"rwy2":"19","lat2":27.84535600,"lon2":128.88231900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"REMOTE"}
+]
+,"ils":[
+{"type":"LOC","freq":110.1,"lat":27.83490000,"lon":128.88266400,"rng_nm":18,"alt_fmsl":17,"id":"ITK","rwy":"19","desc":"LOC"},
+{"type":"DME","freq":110.1,"lat":27.83476700,"lon":128.88282200,"rng_nm":18,"alt_fmsl":28,"id":"ITK","rwy":"19","desc":"DME-ILS"}
+]
+}

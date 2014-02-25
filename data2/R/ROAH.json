@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ROAH","name":"Naha","lat":26.1958155,"lon":127.645868,"rwys":1,"ils":1,"elev":12,"index":5037322,"path":"e120n20/e127n26"
+,"runways":[
+{"len_m":2999,"wid_m":45.72,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":26.20934200,"lon1":127.64523300,"rwy2":"36","lat2":26.18228900,"lon2":127.64650300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"CLD","freq":122.07,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":126.9,"desc":"CENTRAL WEST PACIFIC"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":26.21093100,"lon":127.64470800,"rng_nm":18,"alt_fmsl":52,"hdg":356.78,"id":"IOK","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":26.18518600,"lon":127.64516400,"rng_nm":10,"alt_fmsl":52,"id":"IOK","rwy":"36","desc":"GS","gs":2.75},
+{"type":"MM","freq":0,"lat":26.17279400,"lon":127.64695300,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":26.18521900,"lon":127.64506400,"rng_nm":18,"alt_fmsl":31,"id":"IOK","rwy":"36","desc":"DME-ILS"}
+]
+}

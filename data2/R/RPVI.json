@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPVI","name":"Iloilo","lat":10.71100300,"lon":122.54883600,"rwys":1,"ils":0,"elev":27,"index":4954412,"path":"e120n10/e122n10"
+,"runways":[
+{"len_m":2100,"wid_m":35.97,"hdg":23,"surf":"Asphalt","rwy1":"02","lat1":10.70434700,"lon1":122.54145300,"rwy2":"20","lat2":10.72174400,"lon2":122.54914200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.4,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"BACOLOD APP"}
+]
+,"ils":[
+]
+}

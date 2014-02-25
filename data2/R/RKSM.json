@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKSM","name":"Seoul Ab","lat":37.44597925,"lon":127.1145415,"rwys":2,"ils":1,"elev":92,"index":5038040,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":2942,"wid_m":45.72,"hdg":8,"surf":"Concrete","rwy1":"02","lat1":37.43250000,"lon1":127.11066700,"rwy2":"20","lat2":37.45875000,"lon2":127.11533300},
+{"len_m":2756,"wid_m":45.72,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":37.43391700,"lon1":127.11633300,"rwy2":"19","lat2":37.45875000,"lon2":127.11583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.95,"desc":"ATIS"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"APP"},
+{"type":"APP","freq":136.8,"desc":"GCA"},
+{"type":"DEP","freq":121.15,"desc":"DEP"},
+{"type":"DEP","freq":121.35,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.42966800,"lon":127.11013800,"rng_nm":18,"alt_fmsl":91,"hdg":188.08,"id":"ISOL","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.45571100,"lon":127.11405900,"rng_nm":10,"alt_fmsl":68,"id":"ISOL","rwy":"20","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":37.46863900,"lon":127.11692800,"rng_nm":0,"alt_fmsl":70,"id":"----","rwy":"20","desc":"MM"}
+]
+}

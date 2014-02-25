@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKTI","name":"Jungwon Ab","lat":37.02999725,"lon":127.88526525,"rwys":2,"ils":1,"elev":281,"index":5038019,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":2841,"wid_m":36.58,"hdg":175,"surf":"Concrete","rwy1":"18R","lat1":37.04269400,"lon1":127.88272800,"rwy2":"36L","lat2":37.01716400,"lon2":127.88521100},
+{"len_m":2744,"wid_m":60.96,"hdg":175,"surf":"Concrete","rwy1":"18L","lat1":37.04239200,"lon1":127.88535800,"rwy2":"36R","lat2":37.01773900,"lon2":127.88776400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.6,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":132.55,"desc":"APP"},
+{"type":"DEP","freq":132.55,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":37.04579900,"lon":127.88503300,"rng_nm":18,"alt_fmsl":282,"hdg":355.58,"id":"IJWN","rwy":"36R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":37.02146100,"lon":127.88633700,"rng_nm":10,"alt_fmsl":282,"id":"IJWN","rwy":"36R","desc":"GS","gs":3}
+]
+}

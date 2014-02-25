@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCAY","name":"Gangshan","lat":22.7825335,"lon":120.262571,"rwys":2,"ils":0,"elev":34,"index":4922417,"path":"e120n20/e120n22"
+,"runways":[
+{"len_m":2444,"wid_m":44.20,"hdg":181,"surf":"Concrete","rwy1":"18R","lat1":22.79277200,"lon1":120.26158100,"rwy2":"36L","lat2":22.77070600,"lon2":120.26112800},
+{"len_m":2265,"wid_m":44.20,"hdg":181,"surf":"Asphalt","rwy1":"18L","lat1":22.79355600,"lon1":120.26398300,"rwy2":"36R","lat2":22.77310000,"lon2":120.26359200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.18,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"KAOHSIUNG APP"},
+{"type":"APP","freq":121.1,"desc":"KAOHSIUNG APP"},
+{"type":"APP","freq":124.7,"desc":"KAOHSIUNG APP"}
+]
+,"ils":[
+]
+}

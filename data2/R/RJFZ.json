@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFZ","name":"Tsuiki","lat":33.6854445,"lon":131.040736,"rwys":1,"ils":0,"elev":55,"index":5103336,"path":"e130n30/e131n33"
+,"runways":[
+{"len_m":2398,"wid_m":45.72,"hdg":70,"surf":"Concrete","rwy1":"07","lat1":33.68175000,"lon1":131.02858300,"rwy2":"25","lat2":33.68913900,"lon2":131.05288900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":127.95,"desc":"TCA"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"DEP","freq":120.1,"desc":"DEP"}
+]
+,"ils":[
+]
+}

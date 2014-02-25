@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ROMY","name":"Miyako","lat":24.77994604,"lon":125.29802522,"rwys":1,"ils":1,"elev":150,"index":5004465,"path":"e120n20/e125n24"
+,"runways":[
+{"len_m":2000,"wid_m":46.02,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":24.77573600,"lon1":125.28900300,"rwy2":"22","lat2":24.78990600,"lon2":125.30126700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"Miyako Tower"},
+{"type":"TWR","freq":126.2,"desc":"Miyako Tower"},
+{"type":"APP","freq":120.3,"desc":"Shimoji Approach"},
+{"type":"APP","freq":121.2,"desc":"Shimoji Approach"},
+{"type":"APP","freq":125,"desc":"Shimoji Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":24.77406900,"lon":125.28755800,"rng_nm":18,"alt_fmsl":150,"hdg":218.16,"id":"IMY","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":24.78701100,"lon":125.30027500,"rng_nm":10,"alt_fmsl":165,"id":"IMY","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":24.78694700,"lon":125.30034400,"rng_nm":18,"alt_fmsl":150,"id":"IMY","rwy":"22","desc":"DME-ILS"}
+]
+}

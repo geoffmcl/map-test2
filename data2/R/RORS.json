@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RORS","name":"Shimojijima","lat":24.82641884,"lon":125.14915695,"rwys":1,"ils":2,"elev":0,"index":5004464,"path":"e120n20/e125n24"
+,"runways":[
+{"len_m":2999,"wid_m":60.96,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":24.84004000,"lon1":125.14135300,"rwy2":"35","lat2":24.81376400,"lon2":125.14853900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"Shimojijima Ground"},
+{"type":"TWR","freq":118.3,"desc":"Shimojijima Tower"},
+{"type":"TWR","freq":126.2,"desc":"Shimojijima Tower"},
+{"type":"APP","freq":120.3,"desc":"Shimojijima Approach"},
+{"type":"APP","freq":121.2,"desc":"Shimojijima Approach"},
+{"type":"DEP","freq":125,"desc":"Shimojijima Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":24.81127800,"lon":125.14921700,"rng_nm":18,"alt_fmsl":0,"hdg":166.06,"id":"ISB","rwy":"17","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":24.84210600,"lon":125.14078600,"rng_nm":18,"alt_fmsl":0,"hdg":346.06,"id":"ISA","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":24.83702800,"lon":125.14095300,"rng_nm":10,"alt_fmsl":0,"id":"ISB","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":24.81661100,"lon":125.14653600,"rng_nm":10,"alt_fmsl":0,"id":"ISA","rwy":"35","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":24.84837500,"lon":125.13909200,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"17","desc":"MM"},
+{"type":"MM","freq":0,"lat":24.80588900,"lon":125.15075800,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":111.5,"lat":24.83700000,"lon":125.14085800,"rng_nm":18,"alt_fmsl":31,"id":"ISB","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":24.81659200,"lon":125.14643900,"rng_nm":18,"alt_fmsl":62,"id":"ISA","rwy":"35","desc":"DME-ILS"}
+]
+}

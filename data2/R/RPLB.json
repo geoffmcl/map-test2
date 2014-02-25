@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPLB","name":"Subic Bay Intl","lat":14.7944485,"lon":120.2713655,"rwys":1,"ils":2,"elev":64,"index":4921906,"path":"e120n10/e120n14"
+,"runways":[
+{"len_m":2745,"wid_m":45.11,"hdg":67,"surf":"Asphalt","rwy1":"07","lat1":14.78968600,"lon1":120.25959200,"rwy2":"25","lat2":14.79921100,"lon2":120.28313900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":134.4,"desc":"ATIS"},
+{"type":"CLD","freq":121.3,"desc":"CLNC DEL"},
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":121.8,"desc":"GND"},
+{"type":"APP","freq":119.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":14.79466700,"lon":120.26950000,"rng_nm":18,"alt_fmsl":47,"hdg":62.53,"id":"ISBA","rwy":"07","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":14.79516700,"lon":120.27550000,"rng_nm":18,"alt_fmsl":53,"hdg":241.30,"id":"ISBI","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":14.79183300,"lon":120.26183300,"rng_nm":10,"alt_fmsl":64,"id":"ISBA","rwy":"07","desc":"GS","gs":3.27},
+{"type":"GS","freq":110.9,"lat":14.79766700,"lon":120.28116700,"rng_nm":10,"alt_fmsl":64,"id":"ISBI","rwy":"25","desc":"GS","gs":3.46},
+{"type":"DME","freq":109.5,"lat":14.79183300,"lon":120.26183300,"rng_nm":18,"alt_fmsl":47,"id":"ISBA","rwy":"07","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":14.79766700,"lon":120.28116700,"rng_nm":18,"alt_fmsl":64,"id":"ISBI","rwy":"25","desc":"DME-ILS"}
+]
+}

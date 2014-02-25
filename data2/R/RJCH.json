@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCH","name":"Hakodate","lat":41.770161,"lon":140.8220295,"rwys":1,"ils":1,"elev":151,"index":5251315,"path":"e140n40/e140n41"
+,"runways":[
+{"len_m":2997,"wid_m":45.72,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":41.77433900,"lon1":140.80489200,"rwy2":"30","lat2":41.76598300,"lon2":140.83916700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.35,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"},
+{"type":"APP","freq":121,"desc":"APP"},
+{"type":"DEP","freq":121,"desc":"DEP"},
+{"type":"DEP","freq":127.9,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":41.76535000,"lon":140.84189400,"rng_nm":18,"alt_fmsl":51,"hdg":108.05,"id":"IHL","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":41.77250800,"lon":140.80775600,"rng_nm":10,"alt_fmsl":151,"id":"IHL","rwy":"12","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":41.77730000,"lon":140.79383900,"rng_nm":0,"alt_fmsl":151,"id":"----","rwy":"12","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":41.77242200,"lon":140.80771900,"rng_nm":18,"alt_fmsl":111,"id":"IHL","rwy":"12","desc":"DME-ILS"}
+]
+}

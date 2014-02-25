@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCW","name":"Wakkanai","lat":45.404111,"lon":141.800926,"rwys":1,"ils":1,"elev":30,"index":5267931,"path":"e140n40/e141n45"
+,"runways":[
+{"len_m":2000,"wid_m":45.72,"hdg":68,"surf":"Asphalt","rwy1":"08","lat1":45.40087200,"lon1":141.78900800,"rwy2":"26","lat2":45.40735000,"lon2":141.81284400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"RDO"},
+{"type":"TWR","freq":118.3,"desc":"RDO"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":45.40811700,"lon":141.81566900,"rng_nm":18,"alt_fmsl":30,"hdg":68.85,"id":"IWK","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":45.40088600,"lon":141.79330800,"rng_nm":10,"alt_fmsl":54,"id":"IWK","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.37925600,"lon":141.70969700,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.39783600,"lon":141.77783100,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"08","desc":"MM"}
+]
+}

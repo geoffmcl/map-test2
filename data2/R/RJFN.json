@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFN","name":"Nyutabaru","lat":32.083803,"lon":131.4517585,"rwys":1,"ils":1,"elev":259,"index":5103233,"path":"e130n30/e131n32"
+,"runways":[
+{"len_m":2705,"wid_m":45.72,"hdg":101,"surf":"Concrete","rwy1":"10","lat1":32.08628100,"lon1":131.43773100,"rwy2":"28","lat2":32.08132500,"lon2":131.46578600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"MIYAZAKI APP"},
+{"type":"APP","freq":120.9,"desc":"MIYAZAKI APP"},
+{"type":"APP","freq":123.6,"desc":"MIYAZAKI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":32.08679200,"lon":131.43454700,"rng_nm":18,"alt_fmsl":259,"hdg":281.66,"id":"INH","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":32.08068100,"lon":131.46287800,"rng_nm":10,"alt_fmsl":39,"id":"INH","rwy":"28","desc":"GS","gs":3}
+]
+}

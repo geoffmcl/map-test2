@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPVB","name":"Bacolod","lat":10.64564400,"lon":122.93378000,"rwys":1,"ils":1,"elev":25,"index":4954415,"path":"e120n10/e122n10"
+,"runways":[
+{"len_m":1955,"wid_m":29.87,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":10.63578900,"lon1":122.92381100,"rwy2":"22","lat2":10.64923300,"lon2":122.93541900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":121,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.9,"lat":10.63451400,"lon":122.92277500,"rng_nm":18,"alt_fmsl":24,"id":"IBC","rwy":"22","desc":"LOC"},
+{"type":"DME","freq":109.9,"lat":10.63451400,"lon":122.92277500,"rng_nm":18,"alt_fmsl":24,"id":"IBC","rwy":"22","desc":"DME-ILS"}
+]
+}

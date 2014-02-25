@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOK","name":"Kochi","lat":33.5460235,"lon":133.669396,"rwys":1,"ils":1,"elev":42,"index":5136098,"path":"e130n30/e133n33"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":33.55334400,"lon1":133.65916100,"rwy2":"32","lat2":33.53870300,"lon2":133.67963100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.45,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.75,"desc":"TWR"},
+{"type":"APP","freq":124.8,"desc":"APP"},
+{"type":"APP","freq":125,"desc":"APP"},
+{"type":"DEP","freq":124.8,"desc":"DEP"},
+{"type":"DEP","freq":125,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":33.55469400,"lon":133.65728900,"rng_nm":18,"alt_fmsl":35,"hdg":310.65,"id":"IKR","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":33.53955800,"lon":133.67646100,"rng_nm":10,"alt_fmsl":51,"id":"IKR","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":33.53949700,"lon":133.67638100,"rng_nm":18,"alt_fmsl":35,"id":"IKR","rwy":"32","desc":"DME-ILS"}
+]
+}

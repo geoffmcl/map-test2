@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCSS","name":"Sungshan","lat":25.06580800,"lon":121.55378100,"rwys":1,"ils":2,"elev":18,"index":4938946,"path":"e120n20/e121n25"
+,"runways":[
+{"len_m":2614,"wid_m":60.05,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":25.07005000,"lon1":121.53962200,"rwy2":"28","lat2":25.06912200,"lon2":121.56551700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CLD","freq":121.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.3,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"TAIPEI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":25.06905600,"lon":121.56788900,"rng_nm":18,"alt_fmsl":13,"hdg":92.23,"id":"ITSG","rwy":"10","desc":"ILS-cat-I"},
+{"type":"LOC","freq":108.1,"lat":25.06805600,"lon":121.56569400,"rng_nm":18,"alt_fmsl":18,"id":"ITLU","rwy":"28","desc":"LDA"},
+{"type":"GS","freq":108.9,"lat":25.07097200,"lon":121.54319400,"rng_nm":10,"alt_fmsl":12,"id":"ITSG","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":25.07433300,"lon":121.42444400,"rng_nm":0,"alt_fmsl":18,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":25.07041700,"lon":121.52958300,"rng_nm":0,"alt_fmsl":18,"id":"----","rwy":"10","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":25.07097200,"lon":121.54319400,"rng_nm":18,"alt_fmsl":18,"id":"ITSG","rwy":"10","desc":"DME-ILS"},
+{"type":"DME","freq":108.1,"lat":25.06761100,"lon":121.56519400,"rng_nm":18,"alt_fmsl":18,"id":"ITLU","rwy":"28","desc":"DME-ILS"}
+]
+}

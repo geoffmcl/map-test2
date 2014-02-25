@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTJ","name":"Iruma","lat":35.8415915,"lon":139.4107595,"rwys":1,"ils":0,"elev":295,"index":5234545,"path":"e130n30/e139n35"
+,"runways":[
+{"len_m":1989,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"17","lat1":35.85001400,"lon1":139.40698300,"rwy2":"35","lat2":35.83316900,"lon2":139.41453600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.05,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":118.3,"desc":"YOKOTA APP"},
+{"type":"DEP","freq":122.1,"desc":"YOKOTA DEP"}
+]
+,"ils":[
+]
+}

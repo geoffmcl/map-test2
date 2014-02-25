@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOH","name":"Miho","lat":35.4914665,"lon":133.2357195,"rwys":1,"ils":1,"elev":20,"index":5136216,"path":"e130n30/e133n35"
+,"runways":[
+{"len_m":2001,"wid_m":45.11,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":35.48750000,"lon1":133.22581700,"rwy2":"25","lat2":35.49543300,"lon2":133.24562200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":125.4,"desc":"APP/DEP"},
+{"type":"APP","freq":120.1,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":35.48750000,"lon":133.22450300,"rng_nm":18,"alt_fmsl":34,"hdg":245.23,"id":"IYV","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":35.49601100,"lon":133.24281100,"rng_nm":10,"alt_fmsl":54,"id":"IYV","rwy":"25","desc":"GS","gs":3},
+{"type":"DME","freq":108.95,"lat":35.49609200,"lon":133.24276100,"rng_nm":18,"alt_fmsl":34,"id":"IYV","rwy":"25","desc":"DME-ILS"}
+]
+}

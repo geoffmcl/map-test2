@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJNK","name":"Komatsu","lat":36.39425025,"lon":136.4068555,"rwys":2,"ils":1,"elev":36,"index":5185433,"path":"e130n30/e136n36"
+,"runways":[
+{"len_m":2705,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"06T","lat1":36.38770600,"lon1":136.39411900,"rwy2":"24T","lat2":36.40151700,"lon2":136.41897200},
+{"len_m":2704,"wid_m":45.72,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":36.38698900,"lon1":136.39474200,"rwy2":"24","lat2":36.40078900,"lon2":136.41958900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":127.95,"desc":"TCA"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":121.25,"desc":"APP"},
+{"type":"DEP","freq":120.1,"desc":"DEP"},
+{"type":"DEP","freq":121.25,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":36.40308100,"lon":136.42390600,"rng_nm":18,"alt_fmsl":47,"hdg":55.58,"id":"IKM","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":36.39032100,"lon":136.39843400,"rng_nm":10,"alt_fmsl":36,"id":"IKM","rwy":"06","desc":"GS","gs":2.5},
+{"type":"DME","freq":110.1,"lat":36.39032100,"lon":136.39843400,"rng_nm":18,"alt_fmsl":36,"id":"IKM","rwy":"06","desc":"DME-ILS"}
+]
+}

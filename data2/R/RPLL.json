@@ -1,0 +1,42 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPLL","name":"Ninoy Aquino International Airport","lat":14.50995651,"lon":121.01173896,"rwys":2,"ils":2,"elev":75,"index":4938272,"path":"e120n10/e121n14"
+,"runways":[
+{"len_m":3591,"wid_m":64.31,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":14.49772240,"lon1":120.99998907,"rwy2":"24","lat2":14.51378251,"lon2":121.02893984},
+{"len_m":1779,"wid_m":46.02,"hdg":134,"surf":"Asphalt","rwy1":"13","lat1":14.52293484,"lon1":121.00510905,"rwy2":"31","lat2":14.51161287,"lon2":121.01683303}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.29,"hdg":121,"surf":"Concrete","lat1":14.51361590,"lon1":121.01859265},
+{"rwy1":"H10","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51431031,"lon1":121.01844518},
+{"rwy1":"H11","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51446214,"lon1":121.01860719},
+{"rwy1":"H12","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51463734,"lon1":121.01835211},
+{"rwy1":"H13","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51608170,"lon1":121.02702001},
+{"rwy1":"H14","len_m":19,"wid_m":19.81,"hdg":121,"surf":"Concrete","lat1":14.52174116,"lon1":121.00274959},
+{"rwy1":"H15","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.52077823,"lon1":121.00341700},
+{"rwy1":"H16","len_m":21,"wid_m":21.34,"hdg":121,"surf":"Concrete","lat1":14.51887604,"lon1":121.00531987},
+{"rwy1":"H2","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51334941,"lon1":121.01943913},
+{"rwy1":"H3","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51350358,"lon1":121.01927988},
+{"rwy1":"H4","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51384312,"lon1":121.01925524},
+{"rwy1":"H5","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51368795,"lon1":121.01909322},
+{"rwy1":"H6","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51410008,"lon1":121.01866062},
+{"rwy1":"H7","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51389485,"lon1":121.01887778},
+{"rwy1":"H8","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51405002,"lon1":121.01904152},
+{"rwy1":"H9","len_m":12,"wid_m":12.19,"hdg":121,"surf":"Concrete","lat1":14.51426025,"lon1":121.01882608}
+]
+,"radios":[
+{"type":"ATIS","freq":124,"desc":"MANILA FSS"},
+{"type":"ATIS","freq":126.4,"desc":"RPLL AWOS"},
+{"type":"CLD","freq":125.1,"desc":"MANILA CLD"},
+{"type":"GND","freq":121.9,"desc":"MANILA GND"},
+{"type":"TWR","freq":118.1,"desc":"MANILA TWR"},
+{"type":"APP","freq":118.2,"desc":"MANILA APP"},
+{"type":"APP","freq":119.7,"desc":"MANILA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":14.51459200,"lon":121.03035300,"rng_nm":18,"alt_fmsl":21,"hdg":60.15,"id":"IML","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":14.49728300,"lon":120.99912500,"rng_nm":18,"alt_fmsl":71,"hdg":240.24,"id":"IMA","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":14.49888100,"lon":121.00443600,"rng_nm":10,"alt_fmsl":50,"id":"IML","rwy":"06","desc":"GS","gs":3.01},
+{"type":"GS","freq":109.9,"lat":14.51096700,"lon":121.02618900,"rng_nm":10,"alt_fmsl":50,"id":"IMA","rwy":"24","desc":"GS","gs":3.06},
+{"type":"DME","freq":109.1,"lat":14.49888100,"lon":121.00443600,"rng_nm":18,"alt_fmsl":50,"id":"IML","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":14.51100800,"lon":121.02618300,"rng_nm":18,"alt_fmsl":50,"id":"IMA","rwy":"24","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKJM","name":"Mokpo","lat":34.758904,"lon":126.379871,"rwys":1,"ils":0,"elev":23,"index":5021489,"path":"e120n30/e126n34"
+,"runways":[
+{"len_m":1591,"wid_m":29.87,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":34.75432200,"lon1":126.37318600,"rwy2":"24","lat2":34.76348600,"lon2":126.38655600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.25,"desc":"ATIS"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"GWANGJU APP"},
+{"type":"DEP","freq":130,"desc":"GWANGJU DEP"}
+]
+,"ils":[
+]
+}

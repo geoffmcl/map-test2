@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKUL","name":"G 536","lat":36.269009,"lon":127.11231175,"rwys":2,"ils":0,"elev":104,"index":5037968,"path":"e120n30/e127n36"
+,"runways":[
+{"len_m":1201,"wid_m":45.72,"hdg":103,"surf":"Concrete","rwy1":"11L","lat1":36.27069400,"lon1":127.10733300,"rwy2":"29R","lat2":36.26815000,"lon2":127.12032500},
+{"len_m":450,"wid_m":32.00,"hdg":110,"surf":"Concrete","rwy1":"11R","lat1":36.26929200,"lon1":127.10844200,"rwy2":"29L","lat2":36.26790000,"lon2":127.11314700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.2,"desc":"NON SAN TWR"}
+]
+,"ils":[
+]
+}

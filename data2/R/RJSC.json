@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJSC","name":"Yamagata","lat":38.4118955,"lon":140.3713305,"rwys":1,"ils":1,"elev":353,"index":5251097,"path":"e140n30/e140n38"
+,"runways":[
+{"len_m":1999,"wid_m":45.72,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":38.40294700,"lon1":140.37001700,"rwy2":"19","lat2":38.42084400,"lon2":140.37264400}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":38.42281400,"lon":140.37293300,"rng_nm":18,"alt_fmsl":353,"hdg":6.56,"id":"IYT","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":38.40575300,"lon":140.37181100,"rng_nm":10,"alt_fmsl":362,"id":"IYT","rwy":"01","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":38.39221900,"lon":140.36830000,"rng_nm":0,"alt_fmsl":353,"id":"----","rwy":"01","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":38.40575000,"lon":140.37192800,"rng_nm":18,"alt_fmsl":362,"id":"IYT","rwy":"01","desc":"DME-ILS"}
+]
+}

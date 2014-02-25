@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCQC","name":"Magong","lat":23.5686695,"lon":119.6283125,"rwys":1,"ils":1,"elev":103,"index":4906082,"path":"e110n20/e119n23"
+,"runways":[
+{"len_m":2989,"wid_m":45.11,"hdg":18,"surf":"Concrete","rwy1":"02","lat1":23.55584700,"lon1":119.62374400,"rwy2":"20","lat2":23.58149200,"lon2":119.63288100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.5,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":126.18,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":23.58511100,"lon":119.63413900,"rng_nm":18,"alt_fmsl":103,"hdg":18.04,"id":"IMKG","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":23.55922200,"lon":119.62383300,"rng_nm":10,"alt_fmsl":103,"id":"IMKG","rwy":"02","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":23.55922200,"lon":119.62383300,"rng_nm":18,"alt_fmsl":103,"id":"IMKG","rwy":"02","desc":"DME-ILS"}
+]
+}

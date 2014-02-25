@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKTH","name":"Pohang","lat":35.987857,"lon":129.4204875,"rwys":1,"ils":1,"elev":70,"index":5070713,"path":"e120n30/e129n35"
+,"runways":[
+{"len_m":2131,"wid_m":45.72,"hdg":89,"surf":"Concrete","rwy1":"10","lat1":35.98773600,"lon1":129.40867200,"rwy2":"28","lat2":35.98797800,"lon2":129.43230300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.72,"desc":"ATIS"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"TWR","freq":118.05,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP/DEP"},
+{"type":"APP","freq":124.25,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":35.98802800,"lon":129.43433300,"rng_nm":18,"alt_fmsl":62,"id":"IKPO","rwy":"10","desc":"LOC"},
+{"type":"DME","freq":110.9,"lat":35.98802900,"lon":129.43432600,"rng_nm":18,"alt_fmsl":11,"id":"IKPO","rwy":"10","desc":"DME-ILS"}
+]
+}

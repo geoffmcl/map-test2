@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFT","name":"Kumamoto","lat":32.837318,"lon":130.8550515,"rwys":1,"ils":1,"elev":642,"index":5086899,"path":"e130n30/e130n32"
+,"runways":[
+{"len_m":2999,"wid_m":45.72,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":32.83151400,"lon1":130.84058100,"rwy2":"25","lat2":32.84312200,"lon2":130.86952200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":122.9,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":122.9,"desc":"RAD"},
+{"type":"APP","freq":123.85,"desc":"TCA"},
+{"type":"APP","freq":118.9,"desc":"FUKUOKA CON"},
+{"type":"APP","freq":132.9,"desc":"FUKUOKA CON"},
+{"type":"APP","freq":122.9,"desc":"APP"},
+{"type":"APP","freq":119,"desc":"APP"},
+{"type":"APP","freq":126.5,"desc":"APP"},
+{"type":"DEP","freq":122.9,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":32.84403300,"lon":130.87179200,"rng_nm":18,"alt_fmsl":642,"hdg":64.49,"id":"IKU","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":32.83353600,"lon":130.84262800,"rng_nm":10,"alt_fmsl":651,"id":"IKU","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.80551400,"lon":130.76847200,"rng_nm":0,"alt_fmsl":642,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":32.82762800,"lon":130.83090000,"rng_nm":0,"alt_fmsl":601,"id":"----","rwy":"07","desc":"MM"}
+]
+}

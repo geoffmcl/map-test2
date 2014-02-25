@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKJY","name":"Yeosu","lat":34.842328,"lon":127.61685,"rwys":1,"ils":0,"elev":53,"index":5037874,"path":"e120n30/e127n34"
+,"runways":[
+{"len_m":2095,"wid_m":45.11,"hdg":158,"surf":"Asphalt","rwy1":"17","lat1":34.85108900,"lon1":127.61256700,"rwy2":"35","lat2":34.83356700,"lon2":127.62113300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.52,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"APP","freq":135.4,"desc":"SACHEON APP"},
+{"type":"APP","freq":119.72,"desc":"SACHEON APP"}
+]
+,"ils":[
+]
+}

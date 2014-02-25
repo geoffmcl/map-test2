@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJSH","name":"Hachinohe","lat":40.555713,"lon":141.4671045,"rwys":3,"ils":1,"elev":152,"index":5267617,"path":"e140n40/e141n40"
+,"runways":[
+{"len_m":2238,"wid_m":45.11,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":40.54755000,"lon1":141.45529400,"rwy2":"25","lat2":40.55655300,"lon2":141.47894200},
+{"len_m":767,"wid_m":13.72,"hdg":47,"surf":"Asphalt","rwy1":"06","lat1":40.55410800,"lon1":141.46066700,"rwy2":"24","lat2":40.55874200,"lon2":141.46739400},
+{"len_m":355,"wid_m":15.24,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":40.55918300,"lon1":141.46818300,"rwy2":"30","lat2":40.55814200,"lon2":141.47214700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":120.7,"desc":"MISAWA APP"},
+{"type":"APP","freq":125.3,"desc":"MISAWA APP"},
+{"type":"DEP","freq":125.3,"desc":"MISAWA DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":40.54661900,"lon":141.45250000,"rng_nm":18,"alt_fmsl":152,"hdg":243.68,"id":"IHE","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":40.55634200,"lon":141.47499700,"rng_nm":10,"alt_fmsl":148,"id":"IHE","rwy":"25","desc":"GS","gs":2.5},
+{"type":"MM","freq":0,"lat":40.56328600,"lon":141.49693900,"rng_nm":0,"alt_fmsl":152,"id":"----","rwy":"25","desc":"MM"}
+]
+}

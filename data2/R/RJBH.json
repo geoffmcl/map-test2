@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJBH","name":"Hiroshimanishi","lat":34.3667595,"lon":132.413897,"rwys":1,"ils":1,"elev":15,"index":5119761,"path":"e130n30/e132n34"
+,"runways":[
+{"len_m":1800,"wid_m":45.11,"hdg":28,"surf":"Asphalt","rwy1":"04","lat1":34.35964400,"lon1":132.40919400,"rwy2":"22","lat2":34.37387500,"lon2":132.41860000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.65,"desc":"FLIGHT SERVICE"},
+{"type":"APP","freq":124.05,"desc":"HIROSHIMA APP"},
+{"type":"APP","freq":125.15,"desc":"HIROSHIMA APP"},
+{"type":"DEP","freq":119.9,"desc":"HIROSHIMA DEP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.55,"lat":34.37571700,"lon":132.41911700,"rng_nm":18,"alt_fmsl":22,"id":"KPE","rwy":"04","desc":"LOC"},
+{"type":"DME","freq":108.55,"lat":34.37571700,"lon":132.41939400,"rng_nm":18,"alt_fmsl":22,"id":"KPE","rwy":"04","desc":"DME-ILS"}
+]
+}

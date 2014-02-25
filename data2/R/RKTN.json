@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKTN","name":"Daegu Ab","lat":35.89414025,"lon":128.659054,"rwys":2,"ils":2,"elev":116,"index":5054330,"path":"e120n30/e128n35"
+,"runways":[
+{"len_m":2748,"wid_m":45.72,"hdg":124,"surf":"Concrete","rwy1":"13R","lat1":35.90061100,"lon1":128.64583300,"rwy2":"31L","lat2":35.88666700,"lon2":128.67100000},
+{"len_m":2747,"wid_m":45.72,"hdg":124,"surf":"Concrete","rwy1":"13L","lat1":35.90163900,"lon1":128.64713900,"rwy2":"31R","lat2":35.88764400,"lon2":128.67224400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"CLD","freq":118.2,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.2,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":135.9,"desc":"APP"},
+{"type":"DEP","freq":135.9,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":35.90174900,"lon":128.64169300,"rng_nm":18,"alt_fmsl":114,"hdg":304.34,"id":"ITAG","rwy":"31L","desc":"ILS-cat-I"},
+{"type":"LOC","freq":111.9,"lat":35.90324200,"lon":128.64362500,"rng_nm":18,"alt_fmsl":105,"id":"IDAG","rwy":"31R","desc":"LOC"},
+{"type":"GS","freq":108.7,"lat":35.88798100,"lon":128.66787700,"rng_nm":10,"alt_fmsl":49,"id":"ITAG","rwy":"31L","desc":"GS","gs":3},
+{"type":"DME","freq":108.7,"lat":35.89888800,"lon":128.64500400,"rng_nm":18,"alt_fmsl":11,"id":"ITAG","rwy":"31L","desc":"DME-ILS"},
+{"type":"DME","freq":111.9,"lat":35.90381200,"lon":128.64408900,"rng_nm":18,"alt_fmsl":11,"id":"IDAG","rwy":"31R","desc":"DME-ILS"}
+]
+}

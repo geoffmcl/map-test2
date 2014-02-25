@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFG","name":"New Tanegashima","lat":30.60509,"lon":130.991605,"rwys":1,"ils":1,"elev":768,"index":5086755,"path":"e130n30/e130n30"
+,"runways":[
+{"len_m":2000,"wid_m":44.81,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":30.60999800,"lon1":130.98285100,"rwy2":"31","lat2":30.60018200,"lon2":131.00035900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.75,"desc":"TANEGASHIMA"},
+{"type":"TWR","freq":126.2,"desc":"TANEGASHIMA"},
+{"type":"APP","freq":133.85,"desc":"FUKUOKA"},
+{"type":"APP","freq":132.6,"desc":"FUKUOKA"}
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":30.61119000,"lon":130.98074400,"rng_nm":18,"alt_fmsl":768,"hdg":303.08,"id":"ITN","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":30.60072500,"lon":130.99706100,"rng_nm":10,"alt_fmsl":768,"id":"ITN","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":108.95,"lat":30.60069200,"lon":130.99702500,"rng_nm":18,"alt_fmsl":776,"id":"ITN","rwy":"31","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOB","name":"Okayama","lat":34.7569375,"lon":133.8554345,"rwys":1,"ils":1,"elev":806,"index":5136179,"path":"e130n30/e133n34"
+,"runways":[
+{"len_m":3000,"wid_m":45.72,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":34.75001900,"lon1":133.84135800,"rwy2":"25","lat2":34.76385600,"lon2":133.86951100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"APP","freq":120.4,"desc":"TAKAMATSU APP"},
+{"type":"APP","freq":121.2,"desc":"TAKAMATSU APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":34.76492800,"lon":133.87169700,"rng_nm":18,"alt_fmsl":806,"hdg":59.12,"id":"IOY","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":34.75053900,"lon":133.84497500,"rng_nm":10,"alt_fmsl":806,"id":"IOY","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.69049200,"lon":133.72028600,"rng_nm":0,"alt_fmsl":806,"id":"----","rwy":"07","desc":"OM"}
+]
+}

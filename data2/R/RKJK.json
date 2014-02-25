@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKJK","name":"Kunsan Ab","lat":35.9037555,"lon":126.6158935,"rwys":1,"ils":1,"elev":29,"index":5021562,"path":"e120n30/e126n35"
+,"runways":[
+{"len_m":2743,"wid_m":45.72,"hdg":169,"surf":"Concrete","rwy1":"18","lat1":35.91589200,"lon1":126.61300600,"rwy2":"36","lat2":35.89161900,"lon2":126.61878100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.22,"desc":"ATIS"},
+{"type":"CLD","freq":133.75,"desc":"CLNC DEL"},
+{"type":"GND","freq":123.5,"desc":"GND"},
+{"type":"TWR","freq":126.5,"desc":"TWR"},
+{"type":"APP","freq":124.1,"desc":"APP"},
+{"type":"DEP","freq":124.1,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":35.88449900,"lon":126.62045300,"rng_nm":18,"alt_fmsl":29,"hdg":169.11,"id":"KUZZ","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":35.91545100,"lon":126.61311300,"rng_nm":18,"alt_fmsl":32,"hdg":349.11,"id":"IKUZ","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":35.91346000,"lon":126.61501300,"rng_nm":10,"alt_fmsl":19,"id":"KUZZ","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":35.89435600,"lon":126.61950700,"rng_nm":10,"alt_fmsl":29,"id":"IKUZ","rwy":"36","desc":"GS","gs":3}
+]
+}

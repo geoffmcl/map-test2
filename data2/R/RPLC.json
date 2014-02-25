@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RPLC","name":"Clark Intl","lat":15.185989,"lon":120.56032325,"rwys":2,"ils":2,"elev":484,"index":4921932,"path":"e120n10/e120n15"
+,"runways":[
+{"len_m":3207,"wid_m":45.11,"hdg":21,"surf":"Concrete","rwy1":"02L","lat1":15.17058900,"lon1":120.55209400,"rwy2":"20R","lat2":15.19763900,"lon2":120.56281100},
+{"len_m":3200,"wid_m":60.05,"hdg":21,"surf":"Concrete","rwy1":"02R","lat1":15.17436700,"lon1":120.55784400,"rwy2":"20L","lat2":15.20136100,"lon2":120.56854400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":125.2,"desc":"CLNC DEL"},
+{"type":"TWR","freq":124.3,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":15.20401700,"lon":120.56959400,"rng_nm":18,"alt_fmsl":484,"hdg":20.93,"id":"ICA","rwy":"02R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":15.17160600,"lon":120.55675000,"rng_nm":18,"alt_fmsl":484,"hdg":200.93,"id":"ICK","rwy":"20L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":15.17675800,"lon":120.55999700,"rng_nm":10,"alt_fmsl":484,"id":"ICA","rwy":"02R","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":15.19851400,"lon":120.56861400,"rng_nm":10,"alt_fmsl":484,"id":"ICK","rwy":"20L","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":15.17675800,"lon":120.55999700,"rng_nm":18,"alt_fmsl":484,"id":"ICA","rwy":"02R","desc":"DME-ILS"},
+{"type":"DME","freq":110.1,"lat":15.19851400,"lon":120.56861400,"rng_nm":18,"alt_fmsl":484,"id":"ICK","rwy":"20L","desc":"DME-ILS"}
+]
+}

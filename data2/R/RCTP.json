@@ -1,0 +1,36 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCTP","name":"Taiwan Taoyuan International","lat":25.07875400,"lon":121.23395500,"rwys":2,"ils":4,"elev":106,"index":4938944,"path":"e120n20/e121n25"
+,"runways":[
+{"len_m":3665,"wid_m":60.05,"hdg":49,"surf":"Concrete","rwy1":"05","lat1":25.07308100,"lon1":121.21557200,"rwy2":"23","lat2":25.09464700,"lon2":121.24313300},
+{"len_m":3352,"wid_m":60.05,"hdg":49,"surf":"Concrete","rwy1":"06","lat1":25.06172800,"lon1":121.22370300,"rwy2":"24","lat2":25.08146900,"lon2":121.24888600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TAIPEI TWR"},
+{"type":"APP","freq":125.1,"desc":"TAIPEI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":25.09625000,"lon":121.24566700,"rng_nm":18,"alt_fmsl":106,"hdg":49.64,"id":"ITIA","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":25.08300000,"lon":121.25163900,"rng_nm":18,"alt_fmsl":106,"hdg":49.95,"id":"ICKS","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":25.07113900,"lon":121.21375000,"rng_nm":18,"alt_fmsl":106,"hdg":228.54,"id":"ITYA","rwy":"23","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":25.05966700,"lon":121.22200000,"rng_nm":18,"alt_fmsl":106,"hdg":228.16,"id":"ICJN","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":25.07575000,"lon":121.21733300,"rng_nm":10,"alt_fmsl":106,"id":"ITIA","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":25.06233300,"lon":121.22741700,"rng_nm":10,"alt_fmsl":106,"id":"ICKS","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":25.09372200,"lon":121.24016700,"rng_nm":10,"alt_fmsl":106,"id":"ITYA","rwy":"23","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":25.07858300,"lon":121.24763900,"rng_nm":10,"alt_fmsl":106,"id":"ICJN","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":25.02897200,"lon":121.16019400,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":25.06747200,"lon":121.20911100,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":25.09980600,"lon":121.25019400,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"23","desc":"MM"},
+{"type":"MM","freq":0,"lat":25.08675000,"lon":121.25641700,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"24","desc":"MM"},
+{"type":"IM","freq":0,"lat":25.07111100,"lon":121.21372200,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"05","desc":"IM"},
+{"type":"IM","freq":0,"lat":25.09627800,"lon":121.24569400,"rng_nm":0,"alt_fmsl":106,"id":"----","rwy":"23","desc":"IM"},
+{"type":"DME","freq":111.1,"lat":25.07575000,"lon":121.21733300,"rng_nm":18,"alt_fmsl":106,"id":"ITIA","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":25.06233300,"lon":121.22741700,"rng_nm":18,"alt_fmsl":106,"id":"ICKS","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":25.09372200,"lon":121.24016700,"rng_nm":18,"alt_fmsl":106,"id":"ITYA","rwy":"23","desc":"DME-ILS"},
+{"type":"DME","freq":111.9,"lat":25.07858300,"lon":121.24763900,"rng_nm":18,"alt_fmsl":106,"id":"ICJN","rwy":"24","desc":"DME-ILS"}
+]
+}

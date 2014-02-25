@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCDI","name":"Longtan","lat":24.8551375,"lon":121.2376345,"rwys":1,"ils":0,"elev":790,"index":4938928,"path":"e120n20/e121n24"
+,"runways":[
+{"len_m":999,"wid_m":30.48,"hdg":34,"surf":"Asphalt","rwy1":"04","lat1":24.85142800,"lon1":121.23482200,"rwy2":"22","lat2":24.85884700,"lon2":121.24044700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.3,"desc":"TWR"},
+{"type":"TWR","freq":135.5,"desc":"TWR"},
+{"type":"TWR","freq":135.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

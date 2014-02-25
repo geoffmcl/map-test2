@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCMT","name":"Beigan","lat":26.224153,"lon":120.00275,"rwys":1,"ils":0,"elev":41,"index":4922632,"path":"e120n20/e120n26"
+,"runways":[
+{"len_m":1158,"wid_m":29.87,"hdg":27,"surf":"Concrete","rwy1":"03","lat1":26.21950000,"lon1":120.00011100,"rwy2":"21","lat2":26.22880600,"lon2":120.00538900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":125.5,"desc":"TAIPEI CON"},
+{"type":"APP","freq":123.4,"desc":"TAIPEI CON"}
+]
+,"ils":[
+]
+}

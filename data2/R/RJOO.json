@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOO","name":"Osaka Intl","lat":34.79288100,"lon":135.43914790,"rwys":2,"ils":1,"elev":50,"index":5168945,"path":"e130n30/e135n34"
+,"runways":[
+{"len_m":2999,"wid_m":60.96,"hdg":135,"surf":"Concrete","rwy1":"14R","lat1":34.79132500,"lon1":135.42870600,"rwy2":"32L","lat2":34.77220000,"lon2":135.45187800},
+{"len_m":1827,"wid_m":45.72,"hdg":134,"surf":"Asphalt","rwy1":"14L","lat1":34.79526900,"lon1":135.42868600,"rwy2":"32R","lat2":34.78361700,"lon2":135.44280800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.6,"desc":"ATIS"},
+{"type":"CLD","freq":118.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":126.2,"desc":"GND"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"TCA"},
+{"type":"APP","freq":120.45,"desc":"KANSAI APP"},
+{"type":"APP","freq":127.5,"desc":"GCA"},
+{"type":"APP","freq":125.1,"desc":"GCA"},
+{"type":"APP","freq":134.1,"desc":"GCA"},
+{"type":"DEP","freq":119.5,"desc":"KANSAI DEP"},
+{"type":"DEP","freq":125.3,"desc":"KANSAI DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":34.79274200,"lon":135.42698900,"rng_nm":18,"alt_fmsl":50,"hdg":315.13,"id":"ISK","rwy":"32L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":34.77355000,"lon":135.44838600,"rng_nm":10,"alt_fmsl":54,"id":"ISK","rwy":"32L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":34.71909400,"lon":135.51591400,"rng_nm":0,"alt_fmsl":50,"id":"----","rwy":"32L","desc":"OM"},
+{"type":"MM","freq":0,"lat":34.76556100,"lon":135.46036700,"rng_nm":0,"alt_fmsl":50,"id":"----","rwy":"32L","desc":"MM"}
+]
+}

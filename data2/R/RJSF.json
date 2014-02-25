@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJSF","name":"Fukushima","lat":37.22792400,"lon":140.43191700,"rwys":1,"ils":1,"elev":1220,"index":5251017,"path":"e140n30/e140n37"
+,"runways":[
+{"len_m":2499,"wid_m":60.05,"hdg":2,"surf":"Asphalt","rwy1":"01","lat1":37.21617500,"lon1":140.42743300,"rwy2":"19","lat2":37.23868300,"lon2":140.42851400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":140,"surf":"Concrete","lat1":37.22138200,"lon1":140.43044700}
+]
+,"radios":[
+{"type":"TWR","freq":118.05,"desc":"Fukushima TWR"},
+{"type":"TWR","freq":126.2,"desc":"Fukushima TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":37.24080300,"lon":140.42861700,"rng_nm":18,"alt_fmsl":1220,"hdg":2.19,"id":"IFK","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":37.21879400,"lon":140.42620800,"rng_nm":10,"alt_fmsl":1220,"id":"IFK","rwy":"01","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":37.20806900,"lon":140.42707200,"rng_nm":0,"alt_fmsl":1220,"id":"----","rwy":"01","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":37.21880600,"lon":140.42608100,"rng_nm":18,"alt_fmsl":1223,"id":"IFK","rwy":"01","desc":"DME-ILS"}
+]
+}

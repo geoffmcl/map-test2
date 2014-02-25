@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJCJ","name":"Chitose","lat":42.7958645,"lon":141.66644875,"rwys":2,"ils":1,"elev":87,"index":5267762,"path":"e140n40/e141n42"
+,"runways":[
+{"len_m":4000,"wid_m":60.96,"hdg":172,"surf":"Concrete","rwy1":"18L","lat1":42.81100800,"lon1":141.66561400,"rwy2":"36R","lat2":42.77530300,"lon2":141.67193600},
+{"len_m":2692,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"18R","lat1":42.81058900,"lon1":141.66198900,"rwy2":"36L","lat2":42.78655800,"lon2":141.66625600}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":42.81388900,"lon":141.66527800,"rng_nm":18,"alt_fmsl":87,"hdg":352.78,"id":"ICB","rwy":"36R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":42.77805600,"lon":141.67000000,"rng_nm":10,"alt_fmsl":87,"id":"ICB","rwy":"36R","desc":"GS","gs":2.7},
+{"type":"MM","freq":0,"lat":42.76611100,"lon":141.67388900,"rng_nm":0,"alt_fmsl":87,"id":"----","rwy":"36R","desc":"MM"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJEB","name":"Monbetsu","lat":44.3039125,"lon":143.4040265,"rwys":1,"ils":1,"elev":80,"index":5300625,"path":"e140n40/e143n44"
+,"runways":[
+{"len_m":1999,"wid_m":45.11,"hdg":131,"surf":"Asphalt","rwy1":"14","lat1":44.30992500,"lon1":143.39470300,"rwy2":"32","lat2":44.29790000,"lon2":143.41335000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"REMOTE"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":44.31133900,"lon":143.39251100,"rng_nm":18,"alt_fmsl":80,"hdg":312.02,"id":"IMV","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":44.29898300,"lon":143.40941900,"rng_nm":10,"alt_fmsl":80,"id":"IMV","rwy":"32","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":44.29213600,"lon":143.42228300,"rng_nm":0,"alt_fmsl":80,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":111.55,"lat":44.29892200,"lon":143.40932500,"rng_nm":18,"alt_fmsl":86,"id":"IMV","rwy":"32","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFE","name":"Fukue","lat":32.666271,"lon":128.83281,"rwys":1,"ils":1,"elev":273,"index":5054123,"path":"e120n30/e128n32"
+,"runways":[
+{"len_m":1999,"wid_m":45.72,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":32.65815000,"lon1":128.82817800,"rwy2":"21","lat2":32.67439200,"lon2":128.83744200}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"LOC","freq":109.7,"lat":32.67624200,"lon":128.83850000,"rng_nm":18,"alt_fmsl":282,"id":"IFU","rwy":"03","desc":"LOC"},
+{"type":"DME","freq":109.7,"lat":32.67628100,"lon":128.83877800,"rng_nm":18,"alt_fmsl":282,"id":"IFU","rwy":"03","desc":"DME-ILS"}
+]
+}

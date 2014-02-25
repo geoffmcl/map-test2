@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTH","name":"Hachijojima","lat":33.1151045,"lon":139.785893,"rwys":1,"ils":0,"elev":303,"index":5234371,"path":"e130n30/e139n33"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"08","lat1":33.11195300,"lon1":139.77585300,"rwy2":"26","lat2":33.11825600,"lon2":139.79593300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"RDO"},
+{"type":"TWR","freq":118.7,"desc":"RDO"}
+]
+,"ils":[
+]
+}

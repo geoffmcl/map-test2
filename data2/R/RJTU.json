@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTU","name":"Utsunomiya","lat":36.5145375,"lon":139.8709365,"rwys":1,"ils":0,"elev":334,"index":5234595,"path":"e130n30/e139n36"
+,"runways":[
+{"len_m":1699,"wid_m":45.72,"hdg":4,"surf":"Concrete","rwy1":"01","lat1":36.50690300,"lon1":139.87021700,"rwy2":"19","lat2":36.52217200,"lon2":139.87165600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":122.45,"desc":"APP"}
+]
+,"ils":[
+]
+}

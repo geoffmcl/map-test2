@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOS","name":"Tokushima","lat":34.1328085,"lon":134.606639,"rwys":1,"ils":1,"elev":26,"index":5152522,"path":"e130n30/e134n34"
+,"runways":[
+{"len_m":1986,"wid_m":45.72,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":34.13473900,"lon1":134.59612500,"rwy2":"29","lat2":34.13087800,"lon2":134.61715300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":122.45,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"},
+{"type":"APP","freq":124,"desc":"APP"},
+{"type":"DEP","freq":120.1,"desc":"DEP"},
+{"type":"DEP","freq":124,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":34.13579200,"lon":134.59031900,"rng_nm":18,"alt_fmsl":26,"hdg":282.47,"id":"ITS","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":34.13245800,"lon":134.61448600,"rng_nm":10,"alt_fmsl":52,"id":"ITS","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":34.13245800,"lon":134.61448600,"rng_nm":18,"alt_fmsl":35,"id":"ITS","rwy":"29","desc":"DME-ILS"}
+]
+}

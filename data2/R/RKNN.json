@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKNN","name":"Gangneung","lat":37.7535595,"lon":128.9436265,"rwys":1,"ils":1,"elev":35,"index":5054451,"path":"e120n30/e128n37"
+,"runways":[
+{"len_m":2740,"wid_m":45.72,"hdg":68,"surf":"Concrete","rwy1":"08","lat1":37.74901100,"lon1":128.92917200,"rwy2":"26","lat2":37.75810800,"lon2":128.95808100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.05,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":124.6,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":37.74765000,"lon":128.92538500,"rng_nm":18,"alt_fmsl":36,"hdg":248.36,"id":"IKNG","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":37.75632900,"lon":128.95536800,"rng_nm":10,"alt_fmsl":36,"id":"IKNG","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":111.5,"lat":37.74765000,"lon":128.92527800,"rng_nm":18,"alt_fmsl":11,"id":"IKNG","rwy":"26","desc":"DME-ILS"}
+]
+}

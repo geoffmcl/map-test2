@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOT","name":"Takamatsu","lat":34.214053,"lon":134.015772,"rwys":1,"ils":1,"elev":607,"index":5152520,"path":"e130n30/e134n34"
+,"runways":[
+{"len_m":2499,"wid_m":60.96,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":34.21073900,"lon1":134.00280800,"rwy2":"26","lat2":34.21736700,"lon2":134.02873600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"TWR","freq":135.9,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.02,"desc":"TCA"},
+{"type":"APP","freq":121.2,"desc":"APP"},
+{"type":"APP","freq":120.4,"desc":"APP"},
+{"type":"DEP","freq":120.4,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":34.21011400,"lon":134.00036700,"rng_nm":18,"alt_fmsl":607,"hdg":252.81,"id":"IKT","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":34.21560000,"lon":134.02624700,"rng_nm":10,"alt_fmsl":53,"id":"IKT","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":34.21553100,"lon":134.02626100,"rng_nm":18,"alt_fmsl":606,"id":"IKT","rwy":"26","desc":"DME-ILS"}
+]
+}

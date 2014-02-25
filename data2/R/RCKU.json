@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCKU","name":"Chiayi","lat":23.46178475,"lon":120.3928195,"rwys":2,"ils":2,"elev":85,"index":4922457,"path":"e120n20/e120n23"
+,"runways":[
+{"len_m":3039,"wid_m":45.11,"hdg":179,"surf":"Concrete","rwy1":"18R","lat1":23.47733300,"lon1":120.39038900,"rwy2":"36L","lat2":23.44988900,"lon2":120.39072200},
+{"len_m":1615,"wid_m":22.56,"hdg":179,"surf":"Asphalt","rwy1":"18L","lat1":23.46725000,"lon1":120.39500000,"rwy2":"36R","lat2":23.45266700,"lon2":120.39516700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":126.18,"desc":"TWR"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":120.6,"desc":"TAICHUNG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":23.44686100,"lon":120.39069400,"rng_nm":18,"alt_fmsl":85,"hdg":179.47,"id":"IKUI","rwy":"18R","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":23.48033300,"lon":120.39036100,"rng_nm":18,"alt_fmsl":85,"hdg":359.38,"id":"ICHI","rwy":"36L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":23.47486100,"lon":120.39138900,"rng_nm":10,"alt_fmsl":85,"id":"IKUI","rwy":"18R","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":23.45250000,"lon":120.39200000,"rng_nm":10,"alt_fmsl":85,"id":"ICHI","rwy":"36L","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":23.47483300,"lon":120.39133300,"rng_nm":18,"alt_fmsl":85,"id":"IKUI","rwy":"18R","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":23.45250000,"lon":120.39200000,"rng_nm":18,"alt_fmsl":85,"id":"ICHI","rwy":"36L","desc":"DME-ILS"}
+]
+}

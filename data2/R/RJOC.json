@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJOC","name":"Izumo","lat":35.413701,"lon":132.889982,"rwys":1,"ils":1,"elev":15,"index":5119835,"path":"e130n30/e132n35"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":59,"surf":"Asphalt","rwy1":"07","lat1":35.40911900,"lon1":132.88050000,"rwy2":"25","lat2":35.41828300,"lon2":132.89946400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.1,"desc":"MIHO APP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.7,"lat":35.40804200,"lon":132.87827500,"rng_nm":18,"alt_fmsl":19,"id":"IXZ","rwy":"25","desc":"LOC"},
+{"type":"DME","freq":111.7,"lat":35.40809700,"lon":132.87791400,"rng_nm":18,"alt_fmsl":19,"id":"IXZ","rwy":"25","desc":"DME-ILS"}
+]
+}

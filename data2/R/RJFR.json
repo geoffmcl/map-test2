@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFR","name":"New Kitakyushu","lat":33.8459405,"lon":131.034689,"rwys":1,"ils":1,"elev":21,"index":5103344,"path":"e130n30/e131n33"
+,"runways":[
+{"len_m":2622,"wid_m":79.25,"hdg":170,"surf":"Asphalt","rwy1":"18","lat1":33.85759200,"lon1":131.03230600,"rwy2":"36","lat2":33.83428900,"lon2":131.03707200}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":109.15,"lat":33.83245600,"lon":131.03777200,"rng_nm":18,"alt_fmsl":54,"hdg":169.76,"id":"IKQ","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.15,"lat":33.85418900,"lon":131.03464200,"rng_nm":10,"alt_fmsl":46,"id":"IKQ","rwy":"18","desc":"GS","gs":3}
+]
+}

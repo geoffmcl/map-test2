@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFK","name":"Kagoshima","lat":31.8034,"lon":130.7194055,"rwys":1,"ils":1,"elev":906,"index":5086834,"path":"e130n30/e130n31"
+,"runways":[
+{"len_m":2999,"wid_m":45.72,"hdg":149,"surf":"Asphalt","rwy1":"16","lat1":31.81511400,"lon1":130.71148300,"rwy2":"34","lat2":31.79168600,"lon2":130.72732800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"TCA"},
+{"type":"APP","freq":120.8,"desc":"APP"},
+{"type":"APP","freq":119.4,"desc":"APP"},
+{"type":"APP","freq":126,"desc":"APP"},
+{"type":"DEP","freq":119.4,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":31.81691400,"lon":130.71026700,"rng_nm":18,"alt_fmsl":906,"hdg":330.11,"id":"IKG","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":31.79461400,"lon":130.72675000,"rng_nm":10,"alt_fmsl":906,"id":"IKG","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.70501400,"lon":130.78705300,"rng_nm":0,"alt_fmsl":906,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.78439200,"lon":130.73215300,"rng_nm":0,"alt_fmsl":906,"id":"----","rwy":"34","desc":"MM"}
+]
+}

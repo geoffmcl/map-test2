@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKTP","name":"Seosan Ab","lat":36.70475325,"lon":126.4860625,"rwys":2,"ils":1,"elev":39,"index":5021609,"path":"e120n30/e126n36"
+,"runways":[
+{"len_m":2728,"wid_m":45.72,"hdg":24,"surf":"Concrete","rwy1":"03L","lat1":36.69397200,"lon1":126.47860800,"rwy2":"21R","lat2":36.71631900,"lon2":126.49133900},
+{"len_m":2732,"wid_m":45.72,"hdg":24,"surf":"Concrete","rwy1":"03R","lat1":36.69316900,"lon1":126.48078100,"rwy2":"21L","lat2":36.71555300,"lon2":126.49352200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.3,"desc":"ATIS"},
+{"type":"TWR","freq":126.2,"desc":"HAEMI TWR"},
+{"type":"TWR","freq":136.77,"desc":"HAEMI TWR"},
+{"type":"APP","freq":124.6,"desc":"HAEMI APP"},
+{"type":"DEP","freq":124.6,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":36.71791100,"lon":126.49484300,"rng_nm":18,"alt_fmsl":39,"hdg":24.51,"id":"ISAN","rwy":"03R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":36.69498100,"lon":126.48327600,"rng_nm":10,"alt_fmsl":39,"id":"ISAN","rwy":"03R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":36.68586300,"lon":126.47694400,"rng_nm":0,"alt_fmsl":39,"id":"----","rwy":"03R","desc":"MM"}
+]
+}

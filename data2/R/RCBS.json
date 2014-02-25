@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCBS","name":"Shang Yi","lat":24.427896,"lon":118.3589155,"rwys":1,"ils":1,"elev":93,"index":4889753,"path":"e110n20/e118n24"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":63,"surf":"Asphalt","rwy1":"06","lat1":24.42186100,"lon1":118.34566700,"rwy2":"24","lat2":24.43393100,"lon2":118.37216400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.2,"desc":"KINMEN ATIS"},
+{"type":"TWR","freq":118,"desc":"KINMEN TWR"},
+{"type":"TWR","freq":126.2,"desc":"KINMEN TWR"},
+{"type":"APP","freq":124.6,"desc":"TAICHUNG APP"},
+{"type":"APP","freq":133.1,"desc":"TAICHUNG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":24.43491700,"lon":118.37416700,"rng_nm":18,"alt_fmsl":93,"hdg":63.30,"id":"ICKM","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":24.42422200,"lon":118.35344400,"rng_nm":10,"alt_fmsl":93,"id":"ICKM","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":24.42422200,"lon":118.35344400,"rng_nm":18,"alt_fmsl":93,"id":"ICKM","rwy":"06","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RCPO","name":"Hsinchu","lat":24.8180335,"lon":120.939396,"rwys":1,"ils":1,"elev":26,"index":4922547,"path":"e120n20/e120n24"
+,"runways":[
+{"len_m":3643,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":24.80636700,"lon1":120.92669200,"rwy2":"23","lat2":24.82970000,"lon2":120.95210000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.2,"desc":"TWR"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":123.5,"desc":"TAIPEI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":24.83147200,"lon":120.95444400,"rng_nm":18,"alt_fmsl":26,"hdg":45.10,"id":"IHSU","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":24.80908300,"lon":120.92827800,"rng_nm":10,"alt_fmsl":26,"id":"IHSU","rwy":"05","desc":"GS","gs":3},
+{"type":"DME","freq":108.7,"lat":24.83147200,"lon":120.95444400,"rng_nm":18,"alt_fmsl":26,"id":"IHSU","rwy":"05","desc":"DME-ILS"}
+]
+}

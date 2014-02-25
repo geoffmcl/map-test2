@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RODN","name":"Kadena Ab","lat":26.35561025,"lon":127.76763375,"rwys":2,"ils":2,"elev":143,"index":5037331,"path":"e120n20/e127n26"
+,"runways":[
+{"len_m":3688,"wid_m":91.44,"hdg":51,"surf":"Asphalt","rwy1":"05L","lat1":26.34624400,"lon1":127.75149400,"rwy2":"23R","lat2":26.36717200,"lon2":127.78023300},
+{"len_m":3688,"wid_m":60.96,"hdg":51,"surf":"Concrete","rwy1":"05R","lat1":26.34404700,"lon1":127.75503600,"rwy2":"23L","lat2":26.36497800,"lon2":127.78377200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.2,"desc":"ATIS"},
+{"type":"CLD","freq":123.3,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.5,"desc":"GND CTL"},
+{"type":"TWR","freq":126.2,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":26.36791400,"lon":127.78125000,"rng_nm":18,"alt_fmsl":130,"hdg":50.90,"id":"IKDN","rwy":"05L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":26.34449200,"lon":127.74908300,"rng_nm":18,"alt_fmsl":50,"hdg":230.90,"id":"IKZZ","rwy":"23R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":26.34725600,"lon":127.75531400,"rng_nm":10,"alt_fmsl":123,"id":"IKDN","rwy":"05L","desc":"GS","gs":2.5},
+{"type":"GS","freq":108.7,"lat":26.36475300,"lon":127.77836400,"rng_nm":10,"alt_fmsl":122,"id":"IKZZ","rwy":"23R","desc":"GS","gs":2.66}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RKNW","name":"Wonju","lat":37.438079,"lon":127.9603775,"rwys":1,"ils":0,"elev":329,"index":5038043,"path":"e120n30/e127n37"
+,"runways":[
+{"len_m":2730,"wid_m":45.72,"hdg":26,"surf":"Concrete","rwy1":"03","lat1":37.42703300,"lon1":127.95358300,"rwy2":"21","lat2":37.44912500,"lon2":127.96717200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.45,"desc":"ATIS"},
+{"type":"TWR","freq":118.32,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":130.2,"desc":"APP"},
+{"type":"DEP","freq":130.2,"desc":"DEP"}
+]
+,"ils":[
+]
+}

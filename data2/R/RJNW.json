@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJNW","name":"Noto","lat":37.293129,"lon":136.961946,"rwys":1,"ils":1,"elev":718,"index":5185491,"path":"e130n30/e136n37"
+,"runways":[
+{"len_m":2001,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":37.28957500,"lon1":136.95157500,"rwy2":"25","lat2":37.29668300,"lon2":136.97231700}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":108.95,"lat":37.28890800,"lon":136.94946700,"rng_nm":18,"alt_fmsl":721,"hdg":246.84,"id":"INT","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.95,"lat":37.29480600,"lon":136.97008600,"rng_nm":10,"alt_fmsl":721,"id":"INT","rwy":"25","desc":"GS","gs":3},
+{"type":"DME","freq":108.95,"lat":37.29471900,"lon":136.97011900,"rng_nm":18,"alt_fmsl":721,"id":"INT","rwy":"25","desc":"DME-ILS"}
+]
+}

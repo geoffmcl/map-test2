@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJFU","name":"Nagasaki","lat":32.92250475,"lon":129.923457,"rwys":2,"ils":1,"elev":15,"index":5070523,"path":"e120n30/e129n32"
+,"runways":[
+{"len_m":3000,"wid_m":60.96,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":32.92702200,"lon1":129.90271400,"rwy2":"32","lat2":32.90691900,"lon2":129.92417800},
+{"len_m":1325,"wid_m":30.48,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":32.93398600,"lon1":129.93274700,"rwy2":"36","lat2":32.92209200,"lon2":129.93418900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.85,"desc":"ATIS"},
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119.17,"desc":"APP"},
+{"type":"APP","freq":121.02,"desc":"APP"},
+{"type":"DEP","freq":121,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":32.92888300,"lon":129.90140000,"rng_nm":18,"alt_fmsl":30,"hdg":318.95,"id":"IOM","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":32.90836400,"lon":129.92082200,"rng_nm":10,"alt_fmsl":15,"id":"IOM","rwy":"32","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":32.90826400,"lon":129.92067200,"rng_nm":18,"alt_fmsl":30,"id":"IOM","rwy":"32","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"RJTA","name":"Atsugi Naf","lat":35.4546165,"lon":139.4501545,"rwys":1,"ils":1,"elev":205,"index":5234521,"path":"e130n30/e139n35"
+,"runways":[
+{"len_m":2436,"wid_m":45.72,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":35.44363600,"lon1":139.45035300,"rwy2":"19","lat2":35.46559700,"lon2":139.44995600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":123.8,"desc":"YOKOTA APP"},
+{"type":"APP","freq":118.3,"desc":"YOKOTA APP"},
+{"type":"DEP","freq":122.1,"desc":"YOKOTA DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":35.46843100,"lon":139.44983600,"rng_nm":18,"alt_fmsl":184,"hdg":359.03,"id":"IAG","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":35.44577800,"lon":139.44893100,"rng_nm":10,"alt_fmsl":46,"id":"IAG","rwy":"01","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":35.43437500,"lon":139.45040800,"rng_nm":0,"alt_fmsl":205,"id":"----","rwy":"01","desc":"MM"}
+]
+}
