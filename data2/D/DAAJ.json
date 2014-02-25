@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DAAJ","name":"Tiska","lat":24.28451875,"lon":9.45636575,"rwys":2,"ils":0,"elev":3176,"index":3103889,"path":"e000n20/e009n24"
+,"runways":[
+{"len_m":3102,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":24.29305600,"lon1":9.45194400,"rwy2":"31","lat2":24.27694400,"lon2":9.47694400},
+{"len_m":2407,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":24.27390800,"lon1":9.44398600,"rwy2":"20","lat2":24.29416700,"lon2":9.45258900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"DJANET TWR"},
+{"type":"TWR","freq":119.7,"desc":"DJANET TWR"}
+]
+,"ils":[
+]
+}

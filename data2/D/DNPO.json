@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNPO","name":"Port Harcourt Intl","lat":5.0154555,"lon":6.949529,"rwys":1,"ils":1,"elev":87,"index":3053511,"path":"e000n00/e006n05"
+,"runways":[
+{"len_m":3000,"wid_m":60.05,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":5.00350300,"lon1":6.94312500,"rwy2":"21","lat2":5.02740800,"lon2":6.95593300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.8,"desc":"ATIS"},
+{"type":"TWR","freq":118.9,"desc":"TWR"},
+{"type":"APP","freq":124.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":5.00111900,"lon":6.94184700,"rng_nm":18,"alt_fmsl":85,"hdg":208.09,"id":"IPC","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":5.02525000,"lon":6.95355000,"rng_nm":10,"alt_fmsl":131,"id":"IPC","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":5.02525000,"lon":6.95355000,"rng_nm":18,"alt_fmsl":87,"id":"IPC","rwy":"21","desc":"DME-ILS"}
+]
+}

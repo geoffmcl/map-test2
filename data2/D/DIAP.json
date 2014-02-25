@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DIAP","name":"Abidjan Felix Houphouet Boigny Intl","lat":5.25240600,"lon":-3.93333300,"rwys":1,"ils":1,"elev":21,"index":2889680,"path":"w010n00/w004n05"
+,"runways":[
+{"len_m":2999,"wid_m":49.99,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":5.24884700,"lon1":-3.93145300,"rwy2":"21","lat2":5.27392500,"lon2":-3.92113900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.6,"desc":"ATIS"},
+{"type":"TWR","freq":129.1,"desc":"INFO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":5.24605300,"lon":-3.93213900,"rng_nm":18,"alt_fmsl":13,"hdg":201.45,"id":"AN","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":5.26799400,"lon":-3.92181400,"rng_nm":10,"alt_fmsl":24,"id":"AN","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":5.34908300,"lon":-3.89041700,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"21","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":5.26799400,"lon":-3.92181400,"rng_nm":18,"alt_fmsl":24,"id":"AN","rwy":"21","desc":"DME-ILS"}
+]
+}

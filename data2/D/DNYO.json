@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNYO","name":"Yola","lat":9.263721,"lon":12.43125325,"rwys":2,"ils":1,"elev":599,"index":3152083,"path":"e010n00/e012n09"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":9.27105300,"lon1":12.42818600,"rwy2":"35","lat2":9.24430600,"lon2":12.43268600},
+{"len_m":1573,"wid_m":29.87,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":9.27396900,"lon1":12.42629700,"rwy2":"31","lat2":9.26555600,"lon2":12.43784400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":9.24161100,"lon":12.43315800,"rng_nm":18,"alt_fmsl":599,"hdg":170.54,"id":"IYL","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":9.26844200,"lon":12.42974200,"rng_nm":10,"alt_fmsl":599,"id":"IYL","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":9.26844200,"lon":12.42974200,"rng_nm":18,"alt_fmsl":599,"id":"IYL","rwy":"17","desc":"DME-ILS"}
+]
+}

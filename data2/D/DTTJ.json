@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DTTJ","name":"Djerba Zarzis","lat":33.87159500,"lon":10.77768000,"rwys":1,"ils":1,"elev":18,"index":3120883,"path":"e010n30/e010n33"
+,"runways":[
+{"len_m":3112,"wid_m":45.11,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":33.87503100,"lon1":10.76034200,"rwy2":"27","lat2":33.87586400,"lon2":10.79396400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"DJERBA AIRPORT TWR"},
+{"type":"APP","freq":120.3,"desc":"DJERBA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":33.87591700,"lon":10.79619400,"rng_nm":18,"alt_fmsl":18,"hdg":88.31,"id":"JAZ","rwy":"09","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":33.87619400,"lon":10.76352800,"rng_nm":10,"alt_fmsl":18,"id":"JAZ","rwy":"09","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":33.87475000,"lon":10.74897200,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"09","desc":"MM"}
+]
+}

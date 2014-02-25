@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DFFD","name":"Ouagadougou","lat":12.352189,"lon":-1.5116055,"rwys":2,"ils":1,"elev":1037,"index":2922899,"path":"w010n10/w002n12"
+,"runways":[
+{"len_m":3027,"wid_m":45.11,"hdg":33,"surf":"Asphalt","rwy1":"04L","lat1":12.34167800,"lon1":-1.52024700,"rwy2":"22R","lat2":12.36443900,"lon2":-1.50478600},
+{"len_m":1910,"wid_m":29.87,"hdg":35,"surf":"Gravel","rwy1":"04R","lat1":12.34428100,"lon1":-1.51578300,"rwy2":"22L","lat2":12.35835800,"lon2":-1.50560600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"AG VOICE OUAGA RDO"},
+{"type":"TWR","freq":118.1,"desc":"OUAGA TWR"},
+{"type":"APP","freq":118.1,"desc":"OUAGA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":12.36660300,"lon":-1.50333600,"rng_nm":18,"alt_fmsl":977,"hdg":33.54,"id":"OG","rwy":"04L","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.1,"lat":12.34449200,"lon":-1.51946900,"rng_nm":10,"alt_fmsl":1054,"id":"OG","rwy":"04L","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":12.33400000,"lon":-1.52519400,"rng_nm":0,"alt_fmsl":1102,"id":"----","rwy":"04L","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":12.34449200,"lon":-1.51946900,"rng_nm":18,"alt_fmsl":1054,"id":"OG","rwy":"04L","desc":"DME-ILS"}
+]
+}

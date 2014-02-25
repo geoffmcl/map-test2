@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNKA","name":"Kaduna","lat":10.6958665,"lon":7.3201445,"rwys":1,"ils":1,"elev":2073,"index":3070250,"path":"e000n10/e007n10"
+,"runways":[
+{"len_m":3000,"wid_m":60.05,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":10.68710000,"lon1":7.30968300,"rwy2":"23","lat2":10.70463300,"lon2":7.33060600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":122.3,"desc":"APP"},
+{"type":"APP","freq":122.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":10.70573200,"lon":7.33105300,"rng_nm":18,"alt_fmsl":2073,"hdg":48.42,"id":"IKA","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":10.68993000,"lon":7.31050000,"rng_nm":10,"alt_fmsl":2067,"id":"IKA","rwy":"05","desc":"GS","gs":3.08},
+{"type":"MM","freq":0,"lat":10.68182300,"lon":7.30249200,"rng_nm":0,"alt_fmsl":2060,"id":"----","rwy":"05","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":10.69000500,"lon":7.31046700,"rng_nm":18,"alt_fmsl":2060,"id":"IKA","rwy":"05","desc":"DME-ILS"}
+]
+}

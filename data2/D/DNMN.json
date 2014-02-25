@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNMN","name":"Minna New","lat":9.65234,"lon":6.46235,"rwys":1,"ils":1,"elev":834,"index":3053803,"path":"e000n00/e006n09"
+,"runways":[
+{"len_m":3399,"wid_m":44.20,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":9.64153600,"lon1":6.45133600,"rwy2":"23","lat2":9.66314400,"lon2":6.47336400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":9.66503300,"lon":6.47528100,"rng_nm":18,"alt_fmsl":834,"hdg":45.13,"id":"IMN","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":9.64267200,"lon":6.45400300,"rng_nm":10,"alt_fmsl":834,"id":"IMN","rwy":"05","desc":"GS","gs":3}
+]
+}

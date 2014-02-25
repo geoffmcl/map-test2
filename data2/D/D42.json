@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"D42","name":"Springfield Muni","lat":44.2310595,"lon":-94.998928,"rwys":1,"ils":0,"elev":1072,"index":1401224,"path":"w100n40/w095n44"
+,"runways":[
+{"len_m":1036,"wid_m":22.86,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":44.23417500,"lon1":-95.00375300,"rwy2":"31","lat2":44.22794400,"lon2":-94.99410300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.1,"desc":"MINNEAPOLIS CNTR"}
+]
+,"ils":[
+]
+}

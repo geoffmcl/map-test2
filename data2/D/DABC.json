@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DABC","name":"Mohamed Boudiaf Intl","lat":36.27604175,"lon":6.62027775,"rwys":2,"ils":1,"elev":2265,"index":3055506,"path":"e000n30/e006n36"
+,"runways":[
+{"len_m":3003,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":36.28805600,"lon1":6.61055600,"rwy2":"34","lat2":36.26277800,"lon2":6.62250000},
+{"len_m":2403,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":36.28444400,"lon1":6.61472200,"rwy2":"32","lat2":36.26888900,"lon2":6.63333300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"CONSTANTINE TWR"},
+{"type":"TWR","freq":119.7,"desc":"CONSTANTINE TWR"},
+{"type":"APP","freq":120.1,"desc":"CONSTANTINE APP"},
+{"type":"APP","freq":119.7,"desc":"CONSTANTINE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":36.28632200,"lon":6.61261100,"rng_nm":18,"alt_fmsl":2303,"hdg":316.21,"id":"CT","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":36.27208600,"lon":6.63146400,"rng_nm":10,"alt_fmsl":2303,"id":"CT","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.22373900,"lon":6.18681900,"rng_nm":0,"alt_fmsl":2303,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.26132200,"lon":6.64215600,"rng_nm":0,"alt_fmsl":2303,"id":"----","rwy":"32","desc":"MM"}
+]
+}

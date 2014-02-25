@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DAUH","name":"Oued Irara","lat":31.6729,"lon":6.140458,"rwys":1,"ils":0,"elev":463,"index":3055208,"path":"e000n30/e006n31"
+,"runways":[
+{"len_m":3024,"wid_m":45.11,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":31.68650000,"lon1":6.14163300,"rwy2":"36","lat2":31.65930000,"lon2":6.13928300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"HASSI MESSAOUD TWR"},
+{"type":"TWR","freq":119.7,"desc":"HASSI MESSAOUD TWR"},
+{"type":"APP","freq":120,"desc":"HASSI MESSAOUD APP"}
+]
+,"ils":[
+]
+}

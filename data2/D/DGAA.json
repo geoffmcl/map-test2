@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DGAA","name":"Accra_kotoka_intl","lat":5.60376231,"lon":-0.17174180,"rwys":1,"ils":1,"elev":204,"index":2938854,"path":"w010n00/w001n05"
+,"runways":[
+{"len_m":3389,"wid_m":60.96,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":5.58838023,"lon1":-0.17336539,"rwy2":"21","lat2":5.61677577,"lon2":-0.16183777}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"ACCRA GND"},
+{"type":"TWR","freq":118.6,"desc":"ACCRA TWR"},
+{"type":"APP","freq":119.5,"desc":"ACCRA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":5.58734989,"lon":-0.17381667,"rng_nm":18,"alt_fmsl":204,"hdg":202.10,"id":"IACA","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":5.61263323,"lon":-0.16216666,"rng_nm":10,"alt_fmsl":204,"id":"IACA","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":5.67617200,"lon":-0.13803300,"rng_nm":0,"alt_fmsl":204,"id":"----","rwy":"21","desc":"OM"}
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DTTA","name":"Carthage","lat":36.84470750,"lon":10.21733470,"rwys":2,"ils":3,"elev":22,"index":3121072,"path":"e010n30/e010n36"
+,"runways":[
+{"len_m":3194,"wid_m":45.11,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":36.83913100,"lon1":10.22375600,"rwy2":"19","lat2":36.86725000,"lon2":10.23141100},
+{"len_m":2852,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":36.85425600,"lon1":10.21769400,"rwy2":"29","lat2":36.84443300,"lon2":10.24724700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.67,"desc":"TUNIS ATIS"},
+{"type":"GND","freq":121.9,"desc":"TUNIS GND"},
+{"type":"TWR","freq":118.1,"desc":"TUNIS TWR"},
+{"type":"APP","freq":121.2,"desc":"TUNIS APP"},
+{"type":"APP","freq":119.5,"desc":"TUNIS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":36.83686100,"lon":10.22313900,"rng_nm":18,"alt_fmsl":13,"hdg":192.29,"id":"TSI","rwy":"19","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.5,"lat":36.85511100,"lon":10.21511100,"rng_nm":18,"alt_fmsl":22,"hdg":292.54,"id":"TKE","rwy":"29","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.1,"lat":36.84178162,"lon":10.22371674,"rng_nm":10,"alt_fmsl":22,"id":"TBL","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":36.86397200,"lon":10.23191700,"rng_nm":10,"alt_fmsl":22,"id":"TSI","rwy":"19","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":36.84727800,"lon":10.24241700,"rng_nm":10,"alt_fmsl":22,"id":"TKE","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.93983300,"lon":10.25122200,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.87663900,"lon":10.23397200,"rng_nm":0,"alt_fmsl":22,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":36.84178162,"lon":10.22371674,"rng_nm":18,"alt_fmsl":22,"id":"TBL","rwy":"01","desc":"DME-ILS"},
+{"type":"DME","freq":108.5,"lat":36.84727800,"lon":10.24241700,"rng_nm":18,"alt_fmsl":22,"id":"TKE","rwy":"29","desc":"DME-ILS"}
+]
+}

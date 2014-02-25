@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DTMB","name":"Monastir Habib Bourguiba Intl","lat":35.76015400,"lon":10.75173800,"rwys":1,"ils":1,"elev":9,"index":3121011,"path":"e010n30/e010n35"
+,"runways":[
+{"len_m":2938,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"07","lat1":35.75410800,"lon1":10.73843600,"rwy2":"25","lat2":35.76157800,"lon2":10.76961400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"BOURGUIBA TWR"},
+{"type":"APP","freq":119.3,"desc":"BOURGUIBA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":35.76213900,"lon":10.77197200,"rng_nm":18,"alt_fmsl":9,"hdg":73.57,"id":"MIS","rwy":"07","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.9,"lat":35.75600000,"lon":10.74141700,"rng_nm":10,"alt_fmsl":9,"id":"MIS","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":35.72547200,"lon":10.62330600,"rng_nm":0,"alt_fmsl":9,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":35.75150000,"lon":10.72752800,"rng_nm":0,"alt_fmsl":9,"id":"----","rwy":"07","desc":"MM"}
+]
+}

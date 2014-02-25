@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"D98","name":"Romeo State","lat":42.797977,"lon":-82.975279,"rwys":3,"ils":0,"elev":745,"index":1597744,"path":"w090n40/w083n42"
+,"runways":[
+{"len_m":1461,"wid_m":15.24,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":42.80175000,"lon1":-82.97973300,"rwy2":"33","lat2":42.79003100,"lon2":-82.97161100},
+{"len_m":1219,"wid_m":22.86,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":42.80181700,"lon1":-82.97457500,"rwy2":"36","lat2":42.79085300,"lon2":-82.97394700},
+{"len_m":637,"wid_m":15.24,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":42.80157500,"lon1":-82.97979700,"rwy2":"27","lat2":42.80183600,"lon2":-82.97201100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"SELFRIDGE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DTNH","name":"Enfidha-hammamet","lat":36.08652800,"lon":10.44280600,"rwys":1,"ils":1,"elev":21,"index":3121025,"path":"e010n30/e010n36"
+,"runways":[
+{"len_m":3299,"wid_m":60.05,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":36.07581400,"lon1":10.42028600,"rwy2":"27","lat2":36.07565000,"lon2":10.45691900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.3,"desc":"ATIS ENFIDHA"},
+{"type":"GND","freq":121.67,"desc":"ENFIDHA GND"},
+{"type":"TWR","freq":118.55,"desc":"ENFIDHA TWR"},
+{"type":"APP","freq":119.3,"desc":"ENFIDHA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":36.07580600,"lon":10.41702800,"rng_nm":18,"alt_fmsl":19,"hdg":269.30,"id":"EBI","rwy":"27","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.1,"lat":36.07452800,"lon":10.45344400,"rng_nm":10,"alt_fmsl":19,"id":"EBI","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":108.1,"lat":36.07452800,"lon":10.45344400,"rng_nm":18,"alt_fmsl":19,"id":"EBI","rwy":"27","desc":"DME-ILS"}
+]
+}

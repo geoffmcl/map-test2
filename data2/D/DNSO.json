@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNSO","name":"Sadiq Abubakar Iii Intl","lat":12.915896,"lon":5.2068945,"rwys":1,"ils":1,"elev":1010,"index":3037625,"path":"e000n10/e005n12"
+,"runways":[
+{"len_m":3000,"wid_m":60.05,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":12.91277500,"lon1":5.19344200,"rwy2":"26","lat2":12.91901700,"lon2":5.22034700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"SOKOTO TWR"},
+{"type":"TWR","freq":124.5,"desc":"SOKOTO TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":12.91967500,"lon":5.22318900,"rng_nm":18,"alt_fmsl":1024,"hdg":76.62,"id":"ISK","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":12.91237800,"lon":5.19653100,"rng_nm":10,"alt_fmsl":1047,"id":"ISK","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":12.91237800,"lon":5.19653100,"rng_nm":18,"alt_fmsl":1010,"id":"ISK","rwy":"08","desc":"DME-ILS"}
+]
+}

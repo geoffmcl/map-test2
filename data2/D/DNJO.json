@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNJO","name":"Yakubu Gowon","lat":9.6398225,"lon":8.869083,"rwys":1,"ils":1,"elev":4232,"index":3086574,"path":"e000n00/e008n09"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":9.64105600,"lon1":8.85546900,"rwy2":"28","lat2":9.63858900,"lon2":8.88269700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.7,"desc":"JOS TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":9.63834400,"lon":8.88515300,"rng_nm":18,"alt_fmsl":4232,"hdg":95.30,"id":"IJS","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":9.64186100,"lon":8.85840300,"rng_nm":10,"alt_fmsl":4232,"id":"IJS","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":9.64187200,"lon":8.85840300,"rng_nm":18,"alt_fmsl":4232,"id":"IJS","rwy":"10","desc":"DME-ILS"}
+]
+}

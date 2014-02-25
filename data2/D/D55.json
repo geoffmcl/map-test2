@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"D55","name":"Robertson Fld","lat":48.755764,"lon":-98.39104175,"rwys":2,"ils":0,"elev":1608,"index":1335986,"path":"w100n40/w099n48"
+,"runways":[
+{"len_m":1085,"wid_m":18.29,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":48.75888900,"lon1":-98.39750000,"rwy2":"32","lat2":48.75138900,"lon2":-98.38805600},
+{"len_m":714,"wid_m":45.72,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":48.75638900,"lon1":-98.39416700,"rwy2":"26","lat2":48.75638900,"lon2":-98.38444400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

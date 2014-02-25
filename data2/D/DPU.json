@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DPU","name":"Dumpu","lat":-5.85547662,"lon":145.73893935,"rwys":1,"ils":0,"elev":1193,"index":5330189,"path":"e140s10/e145s06"
+,"runways":[
+{"len_m":679,"wid_m":29.87,"hdg":52,"surf":"Turf/grass","rwy1":"05","lat1":-5.85781986,"lon1":145.73644297,"rwy2":"23","lat2":-5.85407600,"lon2":145.74130600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"DPU AWOS"}
+]
+,"ils":[
+]
+}

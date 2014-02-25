@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DN55","name":"Eket","lat":4.6421765,"lon":7.9490375,"rwys":1,"ils":0,"elev":42,"index":3069871,"path":"e000n00/e007n04"
+,"runways":[
+{"len_m":1301,"wid_m":21.34,"hdg":10,"surf":"Asphalt","rwy1":"01","lat1":4.63638100,"lon1":7.94800800,"rwy2":"19","lat2":4.64797200,"lon2":7.95006700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"AFIS"},
+{"type":"TWR","freq":122.1,"desc":"AFIS"},
+{"type":"TWR","freq":131.65,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

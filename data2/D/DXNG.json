@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DXNG","name":"Niamtougou","lat":9.77596511,"lon":1.09879213,"rwys":1,"ils":1,"elev":1515,"index":2971888,"path":"e000n00/e001n09"
+,"runways":[
+{"len_m":2693,"wid_m":45.11,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":9.75597996,"lon1":1.08640498,"rwy2":"21","lat2":9.77836204,"lon2":1.09607665}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"Tower"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":9.77950001,"lon":1.09654999,"rng_nm":20,"alt_fmsl":1515,"hdg":23.13,"id":"NM","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":9.75778294,"lon":1.08598328,"rng_nm":20,"alt_fmsl":1515,"id":"NM","rwy":"03","desc":"GS","gs":3}
+]
+}

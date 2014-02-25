@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"D05","name":"Garrison Muni","lat":47.65583325,"lon":-101.4364585,"rwys":2,"ils":0,"elev":1935,"index":1286762,"path":"w110n40/w102n47"
+,"runways":[
+{"len_m":1131,"wid_m":18.29,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":47.65888900,"lon1":-101.44138900,"rwy2":"31","lat2":47.65111100,"lon2":-101.43166700},
+{"len_m":896,"wid_m":36.58,"hdg":40,"surf":"Turf/grass","rwy1":"03","lat1":47.65361100,"lon1":-101.44027800,"rwy2":"21","lat2":47.65972200,"lon2":-101.43250000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

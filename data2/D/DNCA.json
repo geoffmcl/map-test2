@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNCA","name":"Calabar","lat":4.976046,"lon":8.3472985,"rwys":1,"ils":1,"elev":210,"index":3086266,"path":"e000n00/e008n04"
+,"runways":[
+{"len_m":2450,"wid_m":45.11,"hdg":26,"surf":"Asphalt","rwy1":"03","lat1":4.96616700,"lon1":8.34229400,"rwy2":"21","lat2":4.98592500,"lon2":8.35230300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.5,"desc":"TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":109.1,"lat":4.96461500,"lon":8.34048000,"rng_nm":18,"alt_fmsl":200,"id":"ICL","rwy":"21","desc":"LOC"}
+]
+}

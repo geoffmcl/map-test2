@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DAAE","name":"Soummam","lat":36.7118055,"lon":5.0698615,"rwys":1,"ils":1,"elev":20,"index":3039144,"path":"e000n30/e005n36"
+,"runways":[
+{"len_m":2391,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":36.71000000,"lon1":5.05666700,"rwy2":"26","lat2":36.71361100,"lon2":5.08305600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.9,"desc":"BEJAIA TWR"},
+{"type":"TWR","freq":119.7,"desc":"BEJAIA TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":110.5,"lat":36.71027800,"lon":5.05555600,"rng_nm":18,"alt_fmsl":20,"id":"BJ","rwy":"26","desc":"LOC"},
+{"type":"DME","freq":110.5,"lat":36.71027800,"lon":5.05555600,"rng_nm":18,"alt_fmsl":20,"id":"BJ","rwy":"26","desc":"DME-ILS"}
+]
+}

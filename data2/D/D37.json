@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"D37","name":"Warren Muni","lat":48.191125,"lon":-96.71118775,"rwys":2,"ils":0,"elev":886,"index":1368713,"path":"w100n40/w097n48"
+,"runways":[
+{"len_m":978,"wid_m":22.86,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":48.19375000,"lon1":-96.71566700,"rwy2":"30","lat2":48.18802800,"lon2":-96.70566700},
+{"len_m":794,"wid_m":60.96,"hdg":51,"surf":"Turf/grass","rwy1":"04","lat1":48.18913900,"lon1":-96.71588900,"rwy2":"22","lat2":48.19358300,"lon2":-96.70752800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.1,"desc":"GRAND FORKS APP/DEP"}
+]
+,"ils":[
+]
+}

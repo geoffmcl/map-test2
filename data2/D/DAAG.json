@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DAAG","name":"Alger Houari Boumediene","lat":36.69766300,"lon":3.20148400,"rwys":2,"ils":2,"elev":82,"index":3006376,"path":"e000n30/e003n36"
+,"runways":[
+{"len_m":3494,"wid_m":60.05,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":36.69391700,"lon1":3.22016700,"rwy2":"23","lat2":36.71286700,"lon2":3.25140000},
+{"len_m":3494,"wid_m":45.11,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":36.69213300,"lon1":3.17083300,"rwy2":"27","lat2":36.69116700,"lon2":3.20991700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"ALGER GND"},
+{"type":"TWR","freq":118.7,"desc":"ALGER TWR"},
+{"type":"TWR","freq":119.7,"desc":"ALGER TWR"},
+{"type":"APP","freq":121.4,"desc":"ALGER APP"},
+{"type":"APP","freq":119.7,"desc":"ALGER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":36.69111100,"lon":3.21333300,"rng_nm":18,"alt_fmsl":82,"hdg":91.73,"id":"HB","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":36.69221100,"lon":3.21751700,"rng_nm":18,"alt_fmsl":82,"hdg":232.74,"id":"AG","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":36.69096700,"lon":3.17423100,"rng_nm":10,"alt_fmsl":82,"id":"HB","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":36.71015300,"lon":3.24916100,"rng_nm":10,"alt_fmsl":82,"id":"AG","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.69396400,"lon":3.08995300,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"09","desc":"OM"},
+{"type":"OM","freq":0,"lat":36.75166100,"lon":3.31432200,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.71916667,"lon":3.26138889,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"23","desc":"MM"}
+]
+}

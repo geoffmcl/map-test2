@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DNMM","name":"Lagos Murtala Muhammed","lat":6.57876300,"lon":3.32064000,"rwys":2,"ils":3,"elev":135,"index":3004450,"path":"e000n00/e003n06"
+,"runways":[
+{"len_m":3899,"wid_m":60.05,"hdg":180,"surf":"Asphalt","rwy1":"18R","lat1":6.58778100,"lon1":3.31355600,"rwy2":"36L","lat2":6.55251900,"lon2":3.31355600},
+{"len_m":2742,"wid_m":45.11,"hdg":180,"surf":"Asphalt","rwy1":"18L","lat1":6.59700800,"lon1":3.32913900,"rwy2":"36R","lat2":6.57221100,"lon2":3.32913900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.9,"desc":"LAGOS WEST"},
+{"type":"APP","freq":124.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":6.56955600,"lon":3.32916700,"rng_nm":18,"alt_fmsl":92,"hdg":179.94,"id":"ILA","rwy":"18L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.1,"lat":6.54922500,"lon":3.31359400,"rng_nm":18,"alt_fmsl":56,"hdg":179.94,"id":"ILB","rwy":"18R","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":6.59386900,"lon":3.32777800,"rng_nm":10,"alt_fmsl":177,"id":"ILA","rwy":"18L","desc":"GS","gs":3},
+{"type":"GS","freq":108.1,"lat":6.58466100,"lon":3.31207800,"rng_nm":10,"alt_fmsl":105,"id":"ILB","rwy":"18R","desc":"GS","gs":3},
+{"type":"DME","freq":108.1,"lat":6.59386900,"lon":3.32778100,"rng_nm":18,"alt_fmsl":135,"id":"ILA","rwy":"18L","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":6.58466100,"lon":3.31207800,"rng_nm":18,"alt_fmsl":135,"id":"ILB","rwy":"18R","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DABB","name":"Annaba","lat":36.82932575,"lon":7.8137465,"rwys":2,"ils":1,"elev":16,"index":3071923,"path":"e000n30/e007n36"
+,"runways":[
+{"len_m":2993,"wid_m":45.11,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":36.81830600,"lon1":7.80869700,"rwy2":"19","lat2":36.84508300,"lon2":7.81273900},
+{"len_m":2277,"wid_m":45.11,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":36.82061100,"lon1":7.80674700,"rwy2":"23","lat2":36.83330300,"lon2":7.82680300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":36.81624700,"lon":7.80914200,"rng_nm":18,"alt_fmsl":16,"hdg":185.70,"id":"AN","rwy":"19","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.7,"lat":36.84243900,"lon":7.81120300,"rng_nm":10,"alt_fmsl":16,"id":"AN","rwy":"19","desc":"GS","gs":3}
+]
+}

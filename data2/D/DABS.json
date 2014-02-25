@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"DABS","name":"Cheikh Larbi Tebessi","lat":35.4316105,"lon":8.12071625,"rwys":2,"ils":0,"elev":2661,"index":3088216,"path":"e000n30/e008n35"
+,"runways":[
+{"len_m":3006,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":35.43845800,"lon1":8.10681700,"rwy2":"29","lat2":35.42801700,"lon2":8.13736700},
+{"len_m":2399,"wid_m":29.87,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":35.43567500,"lon1":8.10810600,"rwy2":"30","lat2":35.42429200,"lon2":8.13057500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TEBESSA TWR"},
+{"type":"TWR","freq":119.7,"desc":"TEBESSA TWR"}
+]
+,"ils":[
+]
+}
