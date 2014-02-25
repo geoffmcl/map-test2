@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AU49","name":"Lake King","lat":-33.08242789,"lon":119.77350664,"rwys":2,"ils":0,"elev":1276,"index":4902459,"path":"e110s40/e119s34"
+,"runways":[
+{"len_m":1325,"wid_m":81.08,"hdg":0,"surf":"Turf/grass","rwy1":"1","lat1":-33.08572211,"lon1":119.76603780,"rwy2":"19","lat2":-33.07377373,"lon2":119.76610353},
+{"len_m":1154,"wid_m":81.99,"hdg":122,"surf":"Turf/grass","rwy1":"12","lat1":-33.07907923,"lon1":119.76614823,"rwy2":"30","lat2":-33.08469014,"lon2":119.77656086}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

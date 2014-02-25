@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AYGR","name":"Girua","lat":-8.80720238,"lon":148.30857649,"rwys":1,"ils":0,"elev":285,"index":5379146,"path":"e140s10/e148s09"
+,"runways":[
+{"len_m":1663,"wid_m":29.87,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":-8.81045206,"lon1":148.30431662,"rwy2":"21","lat2":-8.79859954,"lon2":148.31362001}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.95,"desc":"YGRA AWOS"},
+{"type":"GND","freq":128.69,"desc":"GIRUA GND"},
+{"type":"TWR","freq":130.5,"desc":"GIRUA TWR"}
+]
+,"ils":[
+]
+}

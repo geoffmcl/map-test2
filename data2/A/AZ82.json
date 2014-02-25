@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AZ82","name":"Mogollon Airpark","lat":34.397259,"lon":-110.52985,"rwys":1,"ils":0,"elev":6657,"index":1138457,"path":"w120n30/w111n34"
+,"runways":[
+{"len_m":1042,"wid_m":15.24,"hdg":41,"surf":"Asphalt","rwy1":"03","lat1":34.39372500,"lon1":-110.53358500,"rwy2":"21","lat2":34.40079300,"lon2":-110.52611500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.9,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}

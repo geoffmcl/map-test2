@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ADC","name":"Andakombe","lat":-7.13219800,"lon":145.74683000,"rwys":2,"ils":0,"elev":3500,"index":5330101,"path":"e140s10/e145s08"
+,"runways":[
+{"len_m":606,"wid_m":60.05,"hdg":0,"surf":"Dirt","rwy1":"36","lat1":-7.13871398,"lon1":145.74498300,"rwy2":"18","lat2":-7.13322802,"lon2":145.74498300},
+{"len_m":671,"wid_m":60.05,"hdg":250,"surf":"Dirt","rwy1":"32","lat1":-7.13370003,"lon1":145.74751444,"rwy2":"14","lat2":-7.13576397,"lon2":145.74179956}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"ADC AWOS"}
+]
+,"ils":[
+]
+}

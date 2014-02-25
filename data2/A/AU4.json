@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AU4","name":"Vanderhoof","lat":54.0425955,"lon":-124.014413166667,"rwys":3,"ils":0,"elev":2225,"index":910339,"path":"w130n50/w125n54"
+,"runways":[
+{"len_m":1584,"wid_m":54.86,"hdg":41,"surf":"Gravel","rwy1":"02","lat1":54.03555800,"lon1":-124.01861100,"rwy2":"20","lat2":54.04618900,"lon2":-124.00251700},
+{"len_m":1518,"wid_m":30.48,"hdg":84,"surf":"Asphalt","rwy1":"07","lat1":54.04527800,"lon1":-124.02388900,"rwy2":"25","lat2":54.04666400,"lon2":-124.00083100},
+{"len_m":975,"wid_m":54.86,"hdg":171,"surf":"Gravel","rwy1":"15","lat1":54.04527800,"lon1":-124.02138900,"rwy2":"33","lat2":54.03660600,"lon2":-124.01924200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

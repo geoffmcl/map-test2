@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AYCH","name":"Chimbu","lat":-6.02374500,"lon":144.97052400,"rwys":2,"ils":0,"elev":4900,"index":5313791,"path":"e140s10/e144s07"
+,"runways":[
+{"len_m":998,"wid_m":27.13,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":-6.02755000,"lon1":144.96830300,"rwy2":"21","lat2":-6.02020800,"lon2":144.97355600},
+{"len_m":1036,"wid_m":30.48,"hdg":217,"surf":"Dirt","rwy1":"22","lat1":-6.02132196,"lon1":144.97335419,"rwy2":"04","lat2":-6.02879204,"lon2":144.96769381}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"CMU AWOS"}
+]
+,"ils":[
+]
+}

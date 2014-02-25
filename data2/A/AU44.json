@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AU44","name":"Beringarra","lat":-26.07458444,"lon":116.15326971,"rwys":2,"ils":0,"elev":1040,"index":4853752,"path":"e110s30/e116s27"
+,"runways":[
+{"len_m":1143,"wid_m":29.87,"hdg":164,"surf":"Dirt","rwy1":"17","lat1":-26.06548708,"lon1":116.15082444,"rwy2":"35","lat2":-26.07544300,"lon2":116.15384500},
+{"len_m":679,"wid_m":29.87,"hdg":80,"surf":"Dirt","rwy1":"08","lat1":-26.07122581,"lon1":116.15253016,"rwy2":"26","lat2":-26.07016626,"lon2":116.15921984}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

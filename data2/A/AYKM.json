@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AYKM","name":"Kerema","lat":-7.96341900,"lon":145.77230300,"rwys":2,"ils":0,"elev":10,"index":5330054,"path":"e140s10/e145s08"
+,"runways":[
+{"len_m":927,"wid_m":18.29,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":-7.96000000,"lon1":145.76888900,"rwy2":"32","lat2":-7.96694400,"lon2":145.77361100},
+{"len_m":942,"wid_m":30.48,"hdg":328,"surf":"Dirt","rwy1":"33","lat1":-7.96717135,"lon1":145.77319207,"rwy2":"15","lat2":-7.95988265,"lon2":145.76876993}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"KMA AWOS"}
+]
+,"ils":[
+]
+}

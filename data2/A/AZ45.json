@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"AZ45","name":"China Peak Observatory","lat":32.72923472,"lon":-110.29647528,"rwys":4,"ils":0,"elev":4800,"index":1138346,"path":"w120n30/w111n32"
+,"runways":[
+{"len_m":1369,"wid_m":45.72,"hdg":22,"surf":"Turf/grass","rwy1":"01","lat1":32.72351241,"lon1":-110.29922357,"rwy2":"19","lat2":32.73495703,"lon2":-110.29372699},
+{"len_m":945,"wid_m":38.10,"hdg":52,"surf":"Turf/grass","rwy1":"04","lat1":32.72661716,"lon1":-110.30045790,"rwy2":"22","lat2":32.73185228,"lon2":-110.29249266},
+{"len_m":593,"wid_m":33.53,"hdg":161,"surf":"Turf/grass","rwy1":"15","lat1":32.73177823,"lon1":-110.29745769,"rwy2":"33","lat2":32.72669121,"lon2":-110.29549287},
+{"len_m":503,"wid_m":36.58,"hdg":131,"surf":"Turf/grass","rwy1":"12","lat1":32.73074894,"lon1":-110.29847437,"rwy2":"30","lat2":32.72772050,"lon2":-110.29447619}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+]
+}
