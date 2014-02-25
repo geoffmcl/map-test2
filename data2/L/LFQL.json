@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQL","name":"Benifontaine","lat":50.46450400,"lon":2.81993300,"rwys":2,"ils":0,"elev":166,"index":2990875,"path":"e000n50/e002n50"
+,"runways":[
+{"len_m":1069,"wid_m":100.58,"hdg":31,"surf":"Turf/grass","rwy1":"03","lat1":50.46206500,"lon1":2.81540900,"rwy2":"21","lat2":50.47026300,"lon2":2.82327300},
+{"len_m":750,"wid_m":100.58,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":50.46641500,"lon1":2.81614400,"rwy2":"27","lat2":50.46640900,"lon2":2.82670800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.35,"desc":"LENS MULT"}
+]
+,"ils":[
+]
+}

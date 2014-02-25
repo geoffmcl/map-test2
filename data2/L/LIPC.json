@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPC","name":"Cervia","lat":44.22257610,"lon":12.30434890,"rwys":1,"ils":1,"elev":18,"index":3154313,"path":"e010n40/e012n44"
+,"runways":[
+{"len_m":3048,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"12","lat1":44.23036100,"lon1":12.29012500,"rwy2":"30","lat2":44.21822600,"lon2":12.32434200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"ROMAGNA APP"},
+{"type":"APP","freq":122.1,"desc":"ROMAGNA APP"},
+{"type":"APP","freq":118.57,"desc":"ROMAGNA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":44.21744400,"lon":12.32658600,"rng_nm":18,"alt_fmsl":12,"hdg":116.32,"id":"CER","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":44.22928100,"lon":12.29532500,"rng_nm":10,"alt_fmsl":19,"id":"CER","rwy":"12","desc":"GS","gs":3.01},
+{"type":"DME","freq":110.35,"lat":44.22928100,"lon":12.29532500,"rng_nm":18,"alt_fmsl":18,"id":"CER","rwy":"12","desc":"DME-ILS"}
+]
+}

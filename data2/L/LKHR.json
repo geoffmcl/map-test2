@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKHR","name":"Hradcany","lat":50.619181595,"lon":14.73139588,"rwys":2,"ils":0,"elev":912,"index":3187490,"path":"e010n50/e014n50"
+,"runways":[
+{"len_m":525,"wid_m":29.87,"hdg":97,"surf":"Turf/grass","rwy1":"9R","lat1":50.61932846,"lon1":14.72620785,"rwy2":"27L","lat2":50.61875215,"lon2":14.73357066},
+{"len_m":2498,"wid_m":79.86,"hdg":96,"surf":"Concrete","rwy1":"9L","lat1":50.62066145,"lon1":14.71537321,"rwy2":"27R","lat2":50.61798433,"lon2":14.75043179}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.82,"desc":"INFO"}
+]
+,"ils":[
+]
+}

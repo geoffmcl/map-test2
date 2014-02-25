@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"L38","name":"Louisiana Rgnl","lat":30.1727345,"lon":-90.9406305,"rwys":1,"ils":0,"elev":15,"index":1465864,"path":"w100n30/w091n30"
+,"runways":[
+{"len_m":1219,"wid_m":30.48,"hdg":171,"surf":"Asphalt","rwy1":"17","lat1":30.17817200,"lon1":-90.94157200,"rwy2":"35","lat2":30.16729700,"lon2":-90.93968900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":126.5,"desc":"BATON ROUGE APP/DEP"}
+]
+,"ils":[
+]
+}

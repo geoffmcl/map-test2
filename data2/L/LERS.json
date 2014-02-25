@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LERS","name":"Reus","lat":41.14797050,"lon":1.15789200,"rwys":2,"ils":1,"elev":0,"index":2973896,"path":"e000n40/e001n41"
+,"runways":[
+{"len_m":952,"wid_m":35.05,"hdg":290,"surf":"Turf/grass","rwy1":"12","lat1":41.13964227,"lon1":1.16684381,"rwy2":"30","lat2":41.14269920,"lon2":1.15624161},
+{"len_m":2461,"wid_m":45.11,"hdg":68,"surf":"Asphalt","rwy1":"7","lat1":41.14408317,"lon1":1.15578035,"rwy2":"25","lat2":41.15203668,"lon2":1.18315432}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"TWR","freq":121.5,"desc":"TWR"},
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":41.14285000,"lon":1.15157800,"rng_nm":18,"alt_fmsl":0,"hdg":248.87,"id":"IRS","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":41.15003300,"lon":1.18023900,"rng_nm":10,"alt_fmsl":0,"id":"IRS","rwy":"25","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":41.15003600,"lon":1.18024700,"rng_nm":18,"alt_fmsl":257,"id":"IRS","rwy":"25","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMV","name":"Caumont","lat":43.90445041,"lon":4.89880582,"rwys":3,"ils":1,"elev":124,"index":3023227,"path":"e000n40/e004n43"
+,"runways":[
+{"len_m":472,"wid_m":29.87,"hdg":169,"surf":"Turf/grass","rwy1":"16","lat1":43.91080605,"lon1":4.90321905,"rwy2":"34","lat2":43.90662331,"lon2":4.90428974},
+{"len_m":1879,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":43.91556441,"lon1":4.89936384,"rwy2":"35","lat2":43.89895841,"lon2":4.90384384},
+{"len_m":700,"wid_m":49.99,"hdg":168,"surf":"Turf/grass","rwy1":"17R","lat1":43.91292125,"lon1":4.89919522,"rwy2":"35L","lat2":43.90673757,"lon2":4.90086420}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.82,"desc":"LFMV ATIS"},
+{"type":"TWR","freq":122.6,"desc":"AVIGNON TWR"},
+{"type":"APP","freq":120.87,"desc":"AVIGNON APP"},
+{"type":"APP","freq":118.92,"desc":"ORANGE APP"},
+{"type":"APP","freq":131.22,"desc":"PROVENCE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":43.91732400,"lon":4.89908000,"rng_nm":18,"alt_fmsl":121,"hdg":348.79,"id":"AN","rwy":"35","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.5,"lat":43.90064600,"lon":4.90476000,"rng_nm":27,"alt_fmsl":124,"id":"AN","rwy":"17","desc":"LOC"},
+{"type":"GS","freq":110.5,"lat":43.91151700,"lon":4.90216900,"rng_nm":10,"alt_fmsl":168,"id":"AN","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":43.90043600,"lon":4.90498100,"rng_nm":10,"alt_fmsl":121,"id":"AN","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":43.90688300,"lon":4.90625800,"rng_nm":27,"alt_fmsl":124,"id":"AN","rwy":"17","desc":"DME-ILS"}
+]
+}

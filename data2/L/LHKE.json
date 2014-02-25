@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LHKE","name":"Kecskemet","lat":46.9175,"lon":19.749222,"rwys":1,"ils":0,"elev":376,"index":3269178,"path":"e010n40/e019n46"
+,"runways":[
+{"len_m":2496,"wid_m":60.05,"hdg":122,"surf":"Concrete","rwy1":"12","lat1":46.92361100,"lon1":19.73547200,"rwy2":"30","lat2":46.91138900,"lon2":19.76297200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.75,"desc":"TWR"},
+{"type":"APP","freq":120.25,"desc":"APP"}
+]
+,"ils":[
+]
+}

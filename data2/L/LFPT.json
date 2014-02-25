@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPT","name":"Pontoise Cormeilles En Vexin","lat":49.09384200,"lon":2.04286700,"rwys":2,"ils":2,"elev":325,"index":2990784,"path":"e000n40/e002n49"
+,"runways":[
+{"len_m":1689,"wid_m":49.99,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":49.08776700,"lon1":2.02739700,"rwy2":"23","lat2":49.09857500,"lon2":2.04365000},
+{"len_m":1650,"wid_m":49.99,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":49.10191100,"lon1":2.02567800,"rwy2":"30","lat2":49.09491700,"lon2":2.04560800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.12,"desc":"ATIS"},
+{"type":"TWR","freq":121.2,"desc":"PONTOISE TWR"},
+{"type":"APP","freq":118.8,"desc":"PONTOISE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":49.09922500,"lon":2.04462800,"rng_nm":18,"alt_fmsl":325,"hdg":44.57,"id":"CVN","rwy":"05","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.09,"lat":49.08728000,"lon":2.02660300,"rng_nm":18,"alt_fmsl":325,"hdg":224.66,"id":"CVN","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":49.09015800,"lon":2.02842200,"rng_nm":10,"alt_fmsl":325,"id":"CVN","rwy":"05","desc":"GS","gs":3.2},
+{"type":"GS","freq":108.09,"lat":49.09834700,"lon":2.04096200,"rng_nm":10,"alt_fmsl":325,"id":"CVN","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":110.95,"lat":49.09015800,"lon":2.02842200,"rng_nm":18,"alt_fmsl":325,"id":"CVN","rwy":"05","desc":"DME-ILS"}
+]
+}

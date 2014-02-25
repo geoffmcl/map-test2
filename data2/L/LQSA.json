@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LQSA","name":"Sarajevo","lat":43.82684400,"lon":18.33590700,"rwys":1,"ils":1,"elev":1708,"index":3252593,"path":"e010n40/e018n43"
+,"runways":[
+{"len_m":2600,"wid_m":45.72,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":43.82997200,"lon1":18.31713900,"rwy2":"30","lat2":43.81922200,"lon2":18.34586100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"TWR"},
+{"type":"APP","freq":119.4,"desc":"GCA"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":43.81845300,"lon":18.34782200,"rng_nm":25,"alt_fmsl":1709,"hdg":117.00,"id":"BHS","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":43.82942200,"lon":18.32180000,"rng_nm":25,"alt_fmsl":1705,"id":"BHS","rwy":"12","desc":"GS","gs":3.2},
+{"type":"MM","freq":0,"lat":43.83777800,"lon":18.30138900,"rng_nm":0,"alt_fmsl":1708,"id":"----","rwy":"12","desc":"MM"},
+{"type":"DME","freq":110.7,"lat":43.82942200,"lon":18.32180000,"rng_nm":25,"alt_fmsl":1705,"id":"BHS","rwy":"12","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDDU","name":"Dubrovnik","lat":42.55970760,"lon":18.26308250,"rwys":1,"ils":1,"elev":527,"index":3252513,"path":"e010n40/e018n42"
+,"runways":[
+{"len_m":3297,"wid_m":45.11,"hdg":118,"surf":"Asphalt","rwy1":"12","lat1":42.56986100,"lon1":18.24680600,"rwy2":"30","lat2":42.55581900,"lon2":18.28219200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":123.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":42.55474400,"lon":18.28489400,"rng_nm":25,"alt_fmsl":469,"hdg":118.21,"id":"IDU","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":42.56733900,"lon":18.25116900,"rng_nm":25,"alt_fmsl":502,"id":"IDU","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.62179700,"lon":18.12070800,"rng_nm":0,"alt_fmsl":34,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.57439200,"lon":18.23578600,"rng_nm":0,"alt_fmsl":262,"id":"----","rwy":"12","desc":"MM"}
+]
+}

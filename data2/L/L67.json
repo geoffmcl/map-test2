@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"L67","name":"Rialto Muni Miro Fld","lat":34.1306699583333,"lon":-117.40556711,"rwys":2,"ils":0,"elev":1455,"index":1023754,"path":"w120n30/w118n34"
+,"runways":[
+{"len_m":1371,"wid_m":29.87,"hdg":72,"surf":"Asphalt","rwy1":"06","lat1":34.12737311,"lon1":-117.41032629,"rwy2":"24","lat2":34.13112289,"lon2":-117.39615771},
+{"len_m":784,"wid_m":14.94,"hdg":179,"surf":"Asphalt","rwy1":"17","lat1":34.13305557,"lon1":-117.39873409,"rwy2":"35","lat2":34.12598734,"lon2":-117.39872368}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":34.13106284,"lon1":-117.40880313},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":34.13122734,"lon1":-117.40817291},
+{"rwy1":"H3","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":34.13139593,"lon1":-117.40754512},
+{"rwy1":"H4","len_m":7,"wid_m":7.92,"hdg":-117,"surf":"Concrete","lat1":34.13156418,"lon1":-117.40691061}
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.25,"desc":"SOCAL APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LYBT","name":"Batajnica","lat":44.9341018333333,"lon":20.2568116666667,"rwys":3,"ils":1,"elev":265,"index":3285433,"path":"e020n40/e020n44"
+,"runways":[
+{"len_m":2493,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"12L","lat1":44.94750000,"lon1":20.23775000,"rwy2":"30R","lat2":44.93450000,"lon2":20.26350000},
+{"len_m":2438,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"12R","lat1":44.93598300,"lon1":20.25176700,"rwy2":"30L","lat2":44.92333300,"lon2":20.27700000},
+{"len_m":985,"wid_m":58.22,"hdg":125,"surf":"Turf/grass","rwy1":"12","lat1":44.93420600,"lon1":20.25033100,"rwy2":"30","lat2":44.92908900,"lon2":20.26052200}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":44.93194400,"lon":20.26872200,"rng_nm":25,"alt_fmsl":269,"hdg":125.31,"id":"BTJ","rwy":"12L","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":44.94480600,"lon":20.24050000,"rng_nm":25,"alt_fmsl":249,"id":"BTJ","rwy":"12L","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":44.96836100,"lon":20.19630600,"rng_nm":0,"alt_fmsl":253,"id":"----","rwy":"12L","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.95308300,"lon":20.22672200,"rng_nm":0,"alt_fmsl":257,"id":"----","rwy":"12L","desc":"MM"}
+]
+}

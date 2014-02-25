@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEST","name":"Santiago","lat":42.89630100,"lon":-8.41952000,"rwys":1,"ils":2,"elev":1169,"index":2810170,"path":"w010n40/w009n42"
+,"runways":[
+{"len_m":3200,"wid_m":45.11,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":42.91177200,"lon1":-8.42043100,"rwy2":"35","lat2":42.88382200,"lon2":-8.41095000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.75,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":42.88169700,"lon":-8.41023900,"rng_nm":18,"alt_fmsl":1171,"hdg":166.06,"id":"IGO","rwy":"17","desc":"ILS-cat-III"},
+{"type":"ILS","freq":111.5,"lat":42.91332500,"lon":-8.42084200,"rng_nm":18,"alt_fmsl":1197,"hdg":346.20,"id":"ISO","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":42.90841400,"lon":-8.41780600,"rng_nm":10,"alt_fmsl":1171,"id":"IGO","rwy":"17","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":42.88694200,"lon":-8.41059200,"rng_nm":10,"alt_fmsl":1196,"id":"ISO","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":42.90839200,"lon":-8.41791100,"rng_nm":18,"alt_fmsl":1171,"id":"IGO","rwy":"17","desc":"DME-ILS"},
+{"type":"DME","freq":111.5,"lat":42.88692800,"lon":-8.41065600,"rng_nm":18,"alt_fmsl":1196,"id":"ISO","rwy":"35","desc":"DME-ILS"}
+]
+}

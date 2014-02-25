@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOA","name":"Avord","lat":47.0557375,"lon":2.6318065,"rwys":1,"ils":1,"elev":580,"index":2990658,"path":"e000n40/e002n47"
+,"runways":[
+{"len_m":3503,"wid_m":45.11,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":47.04794700,"lon1":2.61176900,"rwy2":"24","lat2":47.06352800,"lon2":2.65184400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":47.06594800,"lon":2.65810500,"rng_nm":18,"alt_fmsl":577,"hdg":60.32,"id":"AV","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":47.04560800,"lon":2.60576700,"rng_nm":18,"alt_fmsl":562,"hdg":240.26,"id":"AV","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":47.04790100,"lon":2.61343200,"rng_nm":10,"alt_fmsl":577,"id":"AV","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":47.06275800,"lon":2.64683300,"rng_nm":10,"alt_fmsl":633,"id":"AV","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.09611100,"lon":2.73500000,"rng_nm":0,"alt_fmsl":580,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.06944400,"lon":2.66722200,"rng_nm":0,"alt_fmsl":580,"id":"----","rwy":"24","desc":"MM"}
+]
+}

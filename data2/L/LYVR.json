@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LYVR","name":"Vrsac","lat":45.1478656666667,"lon":21.3088241666667,"rwys":3,"ils":0,"elev":276,"index":3301833,"path":"e020n40/e021n45"
+,"runways":[
+{"len_m":1000,"wid_m":21.95,"hdg":12,"surf":"Asphalt","rwy1":"01R","lat1":45.14247200,"lon1":21.30855600,"rwy2":"19L","lat2":45.15127800,"lon2":21.31122200},
+{"len_m":834,"wid_m":70.10,"hdg":12,"surf":"Turf/grass","rwy1":"01L","lat1":45.14422200,"lon1":21.30766700,"rwy2":"19R","lat2":45.15155600,"lon2":21.30991700},
+{"len_m":469,"wid_m":33.53,"hdg":161,"surf":"Turf/grass","rwy1":"16","lat1":45.15083300,"lon1":21.30683300,"rwy2":"34","lat2":45.14683300,"lon2":21.30875000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"INFO"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":125.05,"desc":"APP"},
+{"type":"APP","freq":118.6,"desc":"APP"}
+]
+,"ils":[
+]
+}

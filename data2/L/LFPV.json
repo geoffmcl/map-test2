@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPV","name":"Velizy","lat":48.77213700,"lon":2.20086000,"rwys":1,"ils":2,"elev":584,"index":2990768,"path":"e000n40/e002n48"
+,"runways":[
+{"len_m":1812,"wid_m":45.11,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":48.77412500,"lon1":2.18927800,"rwy2":"27","lat2":48.77460600,"lon2":2.21393300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.87,"desc":"VILLA GND"},
+{"type":"TWR","freq":122.1,"desc":"VILLA TWR"},
+{"type":"TWR","freq":128.95,"desc":"VILLA TWR"},
+{"type":"TWR","freq":121.87,"desc":"VILLA TWR"},
+{"type":"APP","freq":119.42,"desc":"VILLA APP/DEP"},
+{"type":"APP","freq":120.8,"desc":"VILLA APP/DEP"},
+{"type":"APP","freq":123.3,"desc":"VILLA APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":48.77465800,"lon":2.21651900,"rng_nm":18,"alt_fmsl":584,"hdg":88.31,"id":"VVE","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.75,"lat":48.77406700,"lon":2.18625000,"rng_nm":18,"alt_fmsl":581,"hdg":268.30,"id":"VVO","rwy":"27","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.35,"lat":48.77574200,"lon":2.19358600,"rng_nm":10,"alt_fmsl":584,"id":"VVE","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":110.75,"lat":48.77560600,"lon":2.20991100,"rng_nm":10,"alt_fmsl":584,"id":"VVO","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.77638200,"lon":2.31371700,"rng_nm":0,"alt_fmsl":584,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.77444300,"lon":2.22621400,"rng_nm":0,"alt_fmsl":584,"id":"----","rwy":"27","desc":"MM"},
+{"type":"DME","freq":111.35,"lat":48.77574200,"lon":2.19358600,"rng_nm":18,"alt_fmsl":11,"id":"VVE","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":110.75,"lat":48.77560600,"lon":2.20991100,"rng_nm":18,"alt_fmsl":11,"id":"VVO","rwy":"27","desc":"DME-ILS"}
+]
+}

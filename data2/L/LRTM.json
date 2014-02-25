@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRTM","name":"Transilvania Targu Mures","lat":46.467778,"lon":24.4125,"rwys":1,"ils":1,"elev":963,"index":3351065,"path":"e020n40/e024n46"
+,"runways":[
+{"len_m":1999,"wid_m":29.87,"hdg":73,"surf":"Concrete","rwy1":"07","lat1":46.46527800,"lon1":24.40000000,"rwy2":"25","lat2":46.47027800,"lon2":24.42500000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"TARGU MURES TWR"},
+{"type":"APP","freq":121.9,"desc":"TARGU MURES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":46.47106100,"lon":24.42969400,"rng_nm":18,"alt_fmsl":963,"hdg":74.22,"id":"ITM","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":46.46701700,"lon":24.40320000,"rng_nm":10,"alt_fmsl":963,"id":"ITM","rwy":"07","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":46.44691400,"lon":24.30658300,"rng_nm":0,"alt_fmsl":942,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.46160000,"lon":24.38126700,"rng_nm":0,"alt_fmsl":963,"id":"----","rwy":"07","desc":"MM"}
+]
+}

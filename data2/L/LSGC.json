@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSGC","name":"Les Eplatures","lat":47.08507726,"lon":6.79657980,"rwys":1,"ils":1,"elev":3368,"index":3056195,"path":"e000n40/e006n47"
+,"runways":[
+{"len_m":1136,"wid_m":28.96,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":47.08115349,"lon1":6.78744006,"rwy2":"24","lat2":47.08715377,"lon2":6.79955379}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.12,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.15,"lat":47.08075900,"lon":6.78670300,"rng_nm":18,"alt_fmsl":3376,"hdg":233.97,"id":"ICF","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.15,"lat":47.08575000,"lon":6.79547200,"rng_nm":10,"alt_fmsl":3371,"id":"ICF","rwy":"24","desc":"GS","gs":3.5}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKVO","name":"Vodochody","lat":50.218747315,"lon":14.38710185,"rwys":1,"ils":1,"elev":919,"index":3187465,"path":"e010n50/e014n50"
+,"runways":[
+{"len_m":2492,"wid_m":45.11,"hdg":104,"surf":"Asphalt","rwy1":"10","lat1":50.21955713,"lon1":14.37866979,"rwy2":"28","lat2":50.21379654,"lon2":14.41241670}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":20.12,"hdg":14,"surf":"Concrete","lat1":50.22081779,"lon1":14.37866046}
+]
+,"radios":[
+{"type":"TWR","freq":133.07,"desc":"TWR"},
+{"type":"APP","freq":127.47,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":50.22007908,"lon":14.37678990,"rng_nm":18,"alt_fmsl":919,"hdg":285.39,"id":"VO","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":50.21345005,"lon":14.40816717,"rng_nm":10,"alt_fmsl":919,"id":"VO","rwy":"28","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":50.21164094,"lon":14.42265425,"rng_nm":0,"alt_fmsl":919,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":110.75,"lat":50.21345005,"lon":14.40816717,"rng_nm":18,"alt_fmsl":919,"id":"VO","rwy":"28","desc":"DME-ILS"}
+]
+}

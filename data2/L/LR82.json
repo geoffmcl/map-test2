@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LR82","name":"Boboc","lat":45.216425,"lon":26.9786055,"rwys":1,"ils":0,"elev":344,"index":3383755,"path":"e020n40/e026n45"
+,"runways":[
+{"len_m":2507,"wid_m":79.86,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":45.20824200,"lon1":26.96761400,"rwy2":"22","lat2":45.22460800,"lon2":26.98959700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"},
+{"type":"DEP","freq":130,"desc":"DEP"}
+]
+,"ils":[
+]
+}

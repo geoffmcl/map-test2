@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLL","name":"Lyon Saint Exupery","lat":45.72556663,"lon":5.08106234,"rwys":2,"ils":3,"elev":820,"index":3039720,"path":"e000n40/e005n45"
+,"runways":[
+{"len_m":4005,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"18R","lat1":45.74659384,"lon1":5.08596244,"rwy2":"36L","lat2":45.71068847,"lon2":5.09033087},
+{"len_m":2679,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"18L","lat1":45.73499521,"lon1":5.09188409,"rwy2":"36R","lat2":45.71097123,"lon2":5.09481484}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":5,"surf":"Asphalt","lat1":45.72661357,"lon1":5.08375586}
+]
+,"radios":[
+{"type":"ATIS","freq":126.17,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"DEL"},
+{"type":"GND","freq":121.82,"desc":"GND"},
+{"type":"TWR","freq":120.45,"desc":"TWR"},
+{"type":"APP","freq":136.07,"desc":"APP"},
+{"type":"DEP","freq":120.22,"desc":"DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":45.70786667,"lon":5.09516668,"rng_nm":18,"alt_fmsl":822,"hdg":175.16,"id":"LSS","rwy":"18L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.75,"lat":45.74881744,"lon":5.08570004,"rng_nm":18,"alt_fmsl":744,"hdg":355.16,"id":"SAN","rwy":"36L","desc":"ILS-cat-III"},
+{"type":"ILS","freq":111.5,"lat":45.73766708,"lon":5.09154987,"rng_nm":18,"alt_fmsl":769,"hdg":355.16,"id":"LSN","rwy":"36R","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.1,"lat":45.73253250,"lon":5.09406662,"rng_nm":10,"alt_fmsl":775,"id":"LSS","rwy":"18L","desc":"GS","gs":3},
+{"type":"GS","freq":110.75,"lat":45.71419144,"lon":5.09137201,"rng_nm":10,"alt_fmsl":810,"id":"SAN","rwy":"36L","desc":"GS","gs":3},
+{"type":"GS","freq":111.5,"lat":45.71423340,"lon":5.09635019,"rng_nm":10,"alt_fmsl":812,"id":"LSN","rwy":"36R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.62666702,"lon":5.09999990,"rng_nm":0,"alt_fmsl":937,"id":"----","rwy":"36L","desc":"OM"},
+{"type":"DME","freq":109.1,"lat":45.73253250,"lon":5.09407091,"rng_nm":18,"alt_fmsl":775,"id":"LSS","rwy":"18L","desc":"DME-ILS"},
+{"type":"DME","freq":110.75,"lat":45.71419144,"lon":5.09137201,"rng_nm":18,"alt_fmsl":810,"id":"SAN","rwy":"36L","desc":"DME-ILS"},
+{"type":"DME","freq":111.5,"lat":45.71424103,"lon":5.09634304,"rng_nm":18,"alt_fmsl":812,"id":"LSN","rwy":"36R","desc":"DME-ILS"}
+]
+}

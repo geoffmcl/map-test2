@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRZ","name":"Saint Nazaire Montoir","lat":47.31422800,"lon":-2.16792500,"rwys":1,"ils":1,"elev":13,"index":2908755,"path":"w010n40/w003n47"
+,"runways":[
+{"len_m":2405,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":47.30911100,"lon1":-2.16442800,"rwy2":"26","lat2":47.31526400,"lon2":-2.13393100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.95,"desc":"SAINT NAZAIRE TWR"},
+{"type":"APP","freq":130.27,"desc":"NANTES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":47.30848100,"lon":-2.16754700,"rng_nm":18,"alt_fmsl":12,"hdg":253.41,"id":"MT","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":47.31555800,"lon":-2.13805800,"rng_nm":10,"alt_fmsl":12,"id":"MT","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":108.5,"lat":47.31555800,"lon":-2.13805800,"rng_nm":18,"alt_fmsl":16,"id":"MT","rwy":"26","desc":"DME-ILS"}
+]
+}

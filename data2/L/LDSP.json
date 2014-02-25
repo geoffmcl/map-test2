@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDSP","name":"Split","lat":43.53739930,"lon":16.29933740,"rwys":1,"ils":1,"elev":79,"index":3219809,"path":"e010n40/e016n43"
+,"runways":[
+{"len_m":2549,"wid_m":45.11,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":43.53205300,"lon1":16.28558300,"rwy2":"23","lat2":43.54599800,"lon2":16.31064100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.67,"desc":"INFO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"TWR","freq":124.67,"desc":"TWR"},
+{"type":"APP","freq":121.2,"desc":"APP"},
+{"type":"APP","freq":125.3,"desc":"APP"},
+{"type":"APP","freq":120.87,"desc":"APP"},
+{"type":"APP","freq":120.55,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":43.54787200,"lon":16.31401100,"rng_nm":25,"alt_fmsl":69,"hdg":52.57,"id":"IST","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":43.53266900,"lon":16.28912800,"rng_nm":25,"alt_fmsl":52,"id":"IST","rwy":"05","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.49684700,"lon":16.22251700,"rng_nm":0,"alt_fmsl":145,"id":"----","rwy":"05","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.52725800,"lon":16.27696900,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"05","desc":"MM"}
+]
+}

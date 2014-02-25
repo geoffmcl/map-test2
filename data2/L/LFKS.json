@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFKS","name":"Solenzara","lat":41.92281700,"lon":9.39914000,"rwys":1,"ils":1,"elev":27,"index":3105017,"path":"e000n40/e009n41"
+,"runways":[
+{"len_m":2612,"wid_m":45.11,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":41.93637500,"lon1":9.40526000,"rwy2":"36","lat2":41.91285700,"lon2":9.40538600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":9,"surf":"Concrete","lat1":41.92887100,"lon1":9.40035300},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":9,"surf":"Concrete","lat1":41.92889800,"lon1":9.40282400},
+{"rwy1":"H3","len_m":34,"wid_m":34.14,"hdg":9,"surf":"Concrete","lat1":41.93008100,"lon1":9.39996600},
+{"rwy1":"H4","len_m":34,"wid_m":34.14,"hdg":9,"surf":"Concrete","lat1":41.93047400,"lon1":9.39995800}
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"ZARA GND"},
+{"type":"TWR","freq":118.35,"desc":"ZARA TWR"},
+{"type":"APP","freq":119.9,"desc":"ZARA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":41.90934700,"lon":9.40572000,"rng_nm":27,"alt_fmsl":27,"hdg":178.95,"id":"SZA","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":41.93478900,"lon":9.40633000,"rng_nm":27,"alt_fmsl":27,"id":"SZA","rwy":"18","desc":"GS","gs":2.5}
+]
+}

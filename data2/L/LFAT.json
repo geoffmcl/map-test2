@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFAT","name":"Le Touquet Paris Plage","lat":50.51500800,"lon":1.61885200,"rwys":2,"ils":1,"elev":35,"index":2974498,"path":"e000n50/e001n50"
+,"runways":[
+{"len_m":1846,"wid_m":39.93,"hdg":133,"surf":"Asphalt","rwy1":"14","lat1":50.52398700,"lon1":1.61246900,"rwy2":"32","lat2":50.51256500,"lon2":1.63136700},
+{"len_m":595,"wid_m":36.58,"hdg":240,"surf":"Asphalt","rwy1":"25","lat1":50.51474700,"lon1":1.62720000,"rwy2":"07","lat2":50.51212900,"lon2":1.61987800}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":1,"surf":"Asphalt","lat1":50.51584300,"lon1":1.61940200}
+]
+,"radios":[
+{"type":"ATIS","freq":129.12,"desc":"LFAT ATIS"},
+{"type":"CTAF","freq":118.45,"desc":"LE_TOUQUET MULT"},
+{"type":"GND","freq":125.3,"desc":"LE_TOUQUET GND"},
+{"type":"TWR","freq":118.45,"desc":"LE_TOUQUET TWR"},
+{"type":"APP","freq":120.27,"desc":"LILLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":50.51178100,"lon":1.63265700,"rng_nm":27,"alt_fmsl":35,"hdg":134.00,"id":"LT","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":50.52127400,"lon":1.61588100,"rng_nm":27,"alt_fmsl":35,"id":"LT","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.56506729,"lon":1.82100000,"rng_nm":0,"alt_fmsl":35,"id":"----","rwy":"14","desc":"OM"},
+{"type":"DME","freq":110.15,"lat":50.52135700,"lon":1.61570200,"rng_nm":27,"alt_fmsl":35,"id":"LT","rwy":"14","desc":"DME-ILS"}
+]
+}

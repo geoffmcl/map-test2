@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPO","name":"Montichiari","lat":45.42652896,"lon":10.32587198,"rwys":1,"ils":1,"elev":344,"index":3121625,"path":"e010n40/e010n45"
+,"runways":[
+{"len_m":2995,"wid_m":46.94,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":45.43806316,"lon1":10.31772512,"rwy2":"32","lat2":45.41903336,"lon2":10.34484089}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":119.4,"desc":"TWR"},
+{"type":"APP","freq":124.45,"desc":"GARDA APP"},
+{"type":"APP","freq":124.25,"desc":"GARDA APP"},
+{"type":"APP","freq":118.55,"desc":"GARDA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":45.43908300,"lon":10.31630600,"rng_nm":18,"alt_fmsl":356,"hdg":315.02,"id":"IBS","rwy":"32","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.55,"lat":45.42250000,"lon":10.34000000,"rng_nm":10,"alt_fmsl":356,"id":"IBS","rwy":"32","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":45.41555600,"lon":10.35194400,"rng_nm":0,"alt_fmsl":344,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":110.55,"lat":45.42250000,"lon":10.34000000,"rng_nm":25,"alt_fmsl":356,"id":"IBS","rwy":"32","desc":"DME-ILS"}
+]
+}

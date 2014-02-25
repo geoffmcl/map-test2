@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBO","name":"Usak","lat":38.6814775,"lon":29.471675,"rwys":1,"ils":0,"elev":2897,"index":3432489,"path":"e020n30/e029n38"
+,"runways":[
+{"len_m":2555,"wid_m":29.87,"hdg":90,"surf":"Concrete","rwy1":"09","lat1":38.68166900,"lon1":29.45699200,"rwy2":"27","lat2":38.68128600,"lon2":29.48635800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.7,"desc":"TWR"},
+{"type":"TWR","freq":121.42,"desc":"TWR"},
+{"type":"APP","freq":132.05,"desc":"MENDERES APP"}
+]
+,"ils":[
+]
+}

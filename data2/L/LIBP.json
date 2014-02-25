@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIBP","name":"Pescara","lat":42.43274608,"lon":14.18959411,"rwys":1,"ils":1,"elev":48,"index":3186968,"path":"e010n40/e014n42"
+,"runways":[
+{"len_m":2421,"wid_m":45.11,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":42.42258819,"lon1":14.17411549,"rwy2":"22","lat2":42.43992518,"lon2":14.19194467}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.45,"desc":"TWR"},
+{"type":"APP","freq":120.05,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":42.42152800,"lon":14.17288900,"rng_nm":18,"alt_fmsl":48,"hdg":217.39,"id":"IPS","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":42.43697200,"lon":14.18680600,"rng_nm":10,"alt_fmsl":48,"id":"IPS","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":110.7,"lat":42.43702800,"lon":14.18658300,"rng_nm":18,"alt_fmsl":48,"id":"IPS","rwy":"22","desc":"DME-ILS"}
+]
+}

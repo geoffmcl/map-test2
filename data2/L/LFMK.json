@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMK","name":"Salvaza","lat":43.21401400,"lon":2.30963100,"rwys":1,"ils":1,"elev":433,"index":2990409,"path":"e000n40/e002n43"
+,"runways":[
+{"len_m":2098,"wid_m":45.11,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":43.21714000,"lon1":2.29265700,"rwy2":"28","lat2":43.21510400,"lon2":2.31833500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.02,"desc":"LFMK ATIS"},
+{"type":"CTAF","freq":121,"desc":"CARCASSONNE MULT"},
+{"type":"TWR","freq":121,"desc":"CARCASSONNE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":43.21498200,"lon":2.31956600,"rng_nm":27,"alt_fmsl":433,"hdg":96.29,"id":"CS","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":43.21773000,"lon":2.29892400,"rng_nm":27,"alt_fmsl":433,"id":"CS","rwy":"10","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.22402800,"lon":2.20577800,"rng_nm":0,"alt_fmsl":400,"id":"----","rwy":"10","desc":"OM"},
+{"type":"DME","freq":111.1,"lat":43.21772900,"lon":2.29893900,"rng_nm":27,"alt_fmsl":433,"id":"CS","rwy":"10","desc":"DME-ILS"}
+]
+}

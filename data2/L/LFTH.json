@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFTH","name":"Le Palyvestre Navy","lat":43.09362900,"lon":6.14695800,"rwys":2,"ils":0,"elev":6,"index":3055936,"path":"e000n40/e006n43"
+,"runways":[
+{"len_m":2122,"wid_m":45.11,"hdg":51,"surf":"Concrete","rwy1":"05","lat1":43.09446300,"lon1":6.14122800,"rwy2":"23","lat2":43.10642700,"lon2":6.16155200},
+{"len_m":1922,"wid_m":49.99,"hdg":135,"surf":"Concrete","rwy1":"14","lat1":43.10192000,"lon1":6.13979700,"rwy2":"32","lat2":43.08966800,"lon2":6.15646500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.65,"desc":"LFTH ATIS"},
+{"type":"GND","freq":121.8,"desc":"HYERES TOWER GND"},
+{"type":"TWR","freq":121,"desc":"HYERES TWR"},
+{"type":"APP","freq":123.3,"desc":"HYERES GCA APP"},
+{"type":"APP","freq":125.2,"desc":"HYERES GCA APP"},
+{"type":"APP","freq":118.82,"desc":"TOULON APP"},
+{"type":"APP","freq":122.1,"desc":"TOULON APP"},
+{"type":"APP","freq":126.32,"desc":"TOULON APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLNV","name":"Nevatim Ab","lat":31.206312625,"lon":35.015767375,"rwys":4,"ils":0,"elev":1330,"index":3530312,"path":"e030n30/e035n31"
+,"runways":[
+{"len_m":3349,"wid_m":44.81,"hdg":76,"surf":"Asphalt","rwy1":"08C","lat1":31.20441700,"lon1":34.99505600,"rwy2":"26C","lat2":31.21130600,"lon2":35.02927800},
+{"len_m":2599,"wid_m":44.81,"hdg":76,"surf":"Asphalt","rwy1":"08L","lat1":31.20747200,"lon1":34.99422200,"rwy2":"26R","lat2":31.21283300,"lon2":35.02077800},
+{"len_m":2558,"wid_m":21.34,"hdg":77,"surf":"Asphalt","rwy1":"08R","lat1":31.20000000,"lon1":34.99633300,"rwy2":"26L","lat2":31.20516700,"lon2":35.02250000},
+{"len_m":856,"wid_m":21.34,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":31.20788900,"lon1":35.03152800,"rwy2":"33","lat2":31.20141700,"lon2":35.03644400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV APP"},
+{"type":"APP","freq":121.4,"desc":"TEL AVIV APP"}
+]
+,"ils":[
+]
+}

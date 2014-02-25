@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LBGO","name":"Gorna Oryahovitsa","lat":43.14650300,"lon":25.72167700,"rwys":1,"ils":0,"elev":285,"index":3367242,"path":"e020n40/e025n43"
+,"runways":[
+{"len_m":2458,"wid_m":45.11,"hdg":98,"surf":"Concrete","rwy1":"10","lat1":43.15300300,"lon1":25.69795000,"rwy2":"28","lat2":43.14989200,"lon2":25.72787800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"TWR"}
+]
+,"ils":[
+{"type":"OM","freq":0,"lat":43.16166700,"lon":25.61277800,"rng_nm":0,"alt_fmsl":285,"id":"----","rwy":"10","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.15444400,"lon":25.68583300,"rng_nm":0,"alt_fmsl":285,"id":"----","rwy":"10","desc":"MM"}
+]
+}

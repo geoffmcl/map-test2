@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFCR","name":"Rodez Marcillac","lat":44.4078885,"lon":2.482646,"rwys":1,"ils":1,"elev":1910,"index":2990489,"path":"e000n40/e002n44"
+,"runways":[
+{"len_m":2047,"wid_m":45.11,"hdg":128,"surf":"Asphalt","rwy1":"13","lat1":44.41368300,"lon1":2.47265600,"rwy2":"31","lat2":44.40209400,"lon2":2.49263600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.12,"desc":"RODEZ TWR"},
+{"type":"APP","freq":125.37,"desc":"RODEZ APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":44.40107700,"lon":2.49426300,"rng_nm":18,"alt_fmsl":1906,"hdg":129.25,"id":"RDE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.75,"lat":44.41440600,"lon":2.47136400,"rng_nm":18,"alt_fmsl":1914,"hdg":309.01,"id":"RDE","rwy":"31","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.75,"lat":44.41424200,"lon":2.47380900,"rng_nm":10,"alt_fmsl":1906,"id":"RDE","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":110.75,"lat":44.40348300,"lon":2.48784200,"rng_nm":10,"alt_fmsl":1914,"id":"RDE","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":110.75,"lat":44.40348300,"lon":2.48784200,"rng_nm":18,"alt_fmsl":1939,"id":"RDE","rwy":"31","desc":"DME-ILS"}
+]
+}

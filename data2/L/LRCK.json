@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRCK","name":"Constanta - Mihail Kogalniceanu","lat":44.362114,"lon":28.488454,"rwys":1,"ils":2,"elev":353,"index":3416465,"path":"e020n40/e028n44"
+,"runways":[
+{"len_m":3488,"wid_m":45.11,"hdg":185,"surf":"Concrete","rwy1":"18","lat1":44.37773600,"lon1":28.49058600,"rwy2":"36","lat2":44.34649200,"lon2":28.48632200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.75,"desc":"ATIS"},
+{"type":"TWR","freq":120.45,"desc":"TWR"},
+{"type":"APP","freq":122.9,"desc":"BUCURESTI RDR"},
+{"type":"APP","freq":127.35,"desc":"BUCURESTI RDR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":44.34402200,"lon":28.48598300,"rng_nm":18,"alt_fmsl":353,"hdg":185.57,"id":"ICT","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":44.38166400,"lon":28.49112200,"rng_nm":18,"alt_fmsl":315,"hdg":5.57,"id":"ICK","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":44.37429700,"lon":28.49207500,"rng_nm":10,"alt_fmsl":353,"id":"ICT","rwy":"18","desc":"GS","gs":3.5},
+{"type":"GS","freq":110.3,"lat":44.34965000,"lon":28.48890000,"rng_nm":10,"alt_fmsl":315,"id":"ICK","rwy":"36","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":44.43628300,"lon":28.49865800,"rng_nm":0,"alt_fmsl":353,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.38840600,"lon":28.49205800,"rng_nm":0,"alt_fmsl":353,"id":"----","rwy":"18","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":44.34965000,"lon":28.48890000,"rng_nm":18,"alt_fmsl":353,"id":"ICK","rwy":"36","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPZ","name":"Venezia Tessera","lat":45.50267300,"lon":12.33966400,"rwys":2,"ils":1,"elev":7,"index":3154401,"path":"e010n40/e012n45"
+,"runways":[
+{"len_m":3304,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04R","lat1":45.49412230,"lon1":12.33773103,"rwy2":"22L","lat2":45.51618670,"lon2":12.36607807},
+{"len_m":2779,"wid_m":45.11,"hdg":42,"surf":"Asphalt","rwy1":"04L","lat1":45.49515100,"lon1":12.33555500,"rwy2":"22R","lat2":45.51370300,"lon2":12.35940100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.22,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":45.51864700,"lon":12.36925300,"rng_nm":18,"alt_fmsl":13,"hdg":42.02,"id":"VTS","rwy":"04R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.95,"lat":45.49528100,"lon":12.34170600,"rng_nm":10,"alt_fmsl":52,"id":"VTS","rwy":"04R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.44908300,"lon":12.27700000,"rng_nm":0,"alt_fmsl":7,"id":"----","rwy":"04R","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.48813900,"lon":12.32994400,"rng_nm":0,"alt_fmsl":7,"id":"----","rwy":"04R","desc":"MM"},
+{"type":"DME","freq":109.95,"lat":45.49512200,"lon":12.34200800,"rng_nm":18,"alt_fmsl":26,"id":"VTS","rwy":"04R","desc":"DME-ILS"}
+]
+}

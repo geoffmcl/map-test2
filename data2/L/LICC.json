@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LICC","name":"Catania Fontanarossa","lat":37.46991500,"lon":15.06648300,"rwys":1,"ils":1,"elev":39,"index":3203032,"path":"e010n30/e015n37"
+,"runways":[
+{"len_m":2438,"wid_m":45.11,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":37.46562500,"lon1":15.05269400,"rwy2":"26","lat2":37.46793300,"lon2":15.08010800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.72,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":120.8,"desc":"DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":37.46808300,"lon":15.08200000,"rng_nm":18,"alt_fmsl":25,"hdg":83.98,"id":"CTN","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":37.46461100,"lon":15.05830600,"rng_nm":10,"alt_fmsl":25,"id":"CTN","rwy":"08","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":37.46455600,"lon":15.05838900,"rng_nm":18,"alt_fmsl":45,"id":"CTN","rwy":"08","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIRE","name":"Pratica Di Mare","lat":41.65671200,"lon":12.45514300,"rwys":2,"ils":1,"elev":39,"index":3154153,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":2543,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":41.66114700,"lon1":12.43275600,"rwy2":"31","lat2":41.64643900,"lon2":12.45616700},
+{"len_m":2481,"wid_m":29.87,"hdg":129,"surf":"Asphalt","rwy1":"13L","lat1":41.66242200,"lon1":12.43448300,"rwy2":"31R","lat2":41.64808600,"lon2":12.45733100}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":12,"surf":"Concrete","lat1":41.66808300,"lon1":12.43786700},
+{"rwy1":"H2","len_m":34,"wid_m":34.14,"hdg":12,"surf":"Concrete","lat1":41.65923400,"lon1":12.44164200},
+{"rwy1":"H3","len_m":34,"wid_m":34.14,"hdg":12,"surf":"Concrete","lat1":41.65857800,"lon1":12.44514500},
+{"rwy1":"H4","len_m":34,"wid_m":34.14,"hdg":12,"surf":"Concrete","lat1":41.65897300,"lon1":12.44558100}
+]
+,"radios":[
+{"type":"ATIS","freq":128.69,"desc":"PRATICA DI MARE ATIS"},
+{"type":"GND","freq":124.3,"desc":"PRATICA DI MARE GND"},
+{"type":"TWR","freq":123.2,"desc":"PRATICA DI MARE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":41.66343600,"lon":12.42908100,"rng_nm":18,"alt_fmsl":39,"hdg":310.02,"id":"PRA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":41.64896400,"lon":12.45386700,"rng_nm":10,"alt_fmsl":82,"id":"PRA","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":109.55,"lat":41.64896400,"lon":12.45386700,"rng_nm":18,"alt_fmsl":82,"id":"PRA","rwy":"31","desc":"DME-ILS"}
+]
+}

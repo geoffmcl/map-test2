@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LERT","name":"Rota Ns","lat":36.64193000,"lon":-6.35124800,"rwys":1,"ils":1,"elev":86,"index":2842538,"path":"w010n30/w007n36"
+,"runways":[
+{"len_m":3689,"wid_m":60.96,"hdg":96,"surf":"Asphalt","rwy1":"10","lat1":36.64720600,"lon1":-6.36995800,"rwy2":"28","lat2":36.64321900,"lon2":-6.32900000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":130.7,"desc":"GND"},
+{"type":"TWR","freq":119.75,"desc":"TWR"},
+{"type":"APP","freq":120,"desc":"SEVILLA APP"},
+{"type":"APP","freq":120.8,"desc":"SEVILLA APP"},
+{"type":"APP","freq":128.5,"desc":"SEVILLA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":36.64267500,"lon":-6.32357800,"rng_nm":18,"alt_fmsl":86,"hdg":96.96,"id":"IAOG","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":36.64603900,"lon":-6.36656900,"rng_nm":10,"alt_fmsl":86,"id":"IAOG","rwy":"10","desc":"GS","gs":3}
+]
+}

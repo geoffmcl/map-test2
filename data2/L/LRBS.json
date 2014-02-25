@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRBS","name":"Bucarest Baneasa","lat":44.49659100,"lon":26.08651100,"rwys":1,"ils":1,"elev":297,"index":3383704,"path":"e020n40/e026n44"
+,"runways":[
+{"len_m":3201,"wid_m":45.11,"hdg":73,"surf":"Concrete","rwy1":"07","lat1":44.49922200,"lon1":26.08276400,"rwy2":"25","lat2":44.50716400,"lon2":26.12146100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":129.95,"desc":"GND"},
+{"type":"TWR","freq":120.8,"desc":"TWR"},
+{"type":"APP","freq":125.2,"desc":"PRECISION"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":44.50790800,"lon":26.12502500,"rng_nm":18,"alt_fmsl":297,"hdg":73.94,"id":"IBS","rwy":"07","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":44.50150600,"lon":26.08902800,"rng_nm":10,"alt_fmsl":297,"id":"IBS","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.47208600,"lon":25.95199700,"rng_nm":0,"alt_fmsl":297,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.49710800,"lon":26.07255600,"rng_nm":0,"alt_fmsl":297,"id":"----","rwy":"07","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPA","name":"Aviano Ab","lat":46.03086090,"lon":12.60126970,"rwys":1,"ils":1,"elev":410,"index":3154434,"path":"e010n40/e012n46"
+,"runways":[
+{"len_m":2595,"wid_m":43.89,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":46.02333300,"lon1":12.58388900,"rwy2":"23","lat2":46.03888900,"lon2":12.60888900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.3,"desc":"ATIS"},
+{"type":"CLD","freq":122.1,"desc":"CLNC DEL"},
+{"type":"APP","freq":120.12,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":46.04166700,"lon":12.61333300,"rng_nm":18,"alt_fmsl":410,"hdg":48.12,"id":"IAVI","rwy":"05","desc":"ILS-cat-I"}
+]
+}

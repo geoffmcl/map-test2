@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRJ","name":"Landivisiau Navy","lat":48.52448000,"lon":-4.14927000,"rwys":1,"ils":1,"elev":347,"index":2876067,"path":"w010n40/w005n48"
+,"runways":[
+{"len_m":2709,"wid_m":45.11,"hdg":73,"surf":"Asphalt","rwy1":"08","lat1":48.52672800,"lon1":-4.16936300,"rwy2":"26","lat2":48.53373000,"lon2":-4.13422100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"LANDI TWR"},
+{"type":"TWR","freq":119.7,"desc":"LANDI TWR"},
+{"type":"APP","freq":118.8,"desc":"LANDI_GCA APP"},
+{"type":"APP","freq":119.7,"desc":"LANDI APP"},
+{"type":"APP","freq":122.4,"desc":"LANDI APP"},
+{"type":"APP","freq":120.9,"desc":"LANDI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":48.52603100,"lon":-4.17286100,"rng_nm":18,"alt_fmsl":347,"hdg":253.24,"id":"LD","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":48.53374700,"lon":-4.13979200,"rng_nm":10,"alt_fmsl":347,"id":"LD","rwy":"26","desc":"GS","gs":2.5},
+{"type":"DME","freq":108.5,"lat":48.53374700,"lon":-4.13979200,"rng_nm":18,"alt_fmsl":347,"id":"LD","rwy":"26","desc":"DME-ILS"}
+]
+}

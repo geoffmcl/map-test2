@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTFE","name":"Milas Bodrum","lat":37.2511155,"lon":27.66535,"rwys":1,"ils":2,"elev":21,"index":3399634,"path":"e020n30/e027n37"
+,"runways":[
+{"len_m":2988,"wid_m":45.11,"hdg":106,"surf":"Concrete","rwy1":"11","lat1":37.25496700,"lon1":27.64921400,"rwy2":"29","lat2":37.24726400,"lon2":27.68148600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ATIS"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":124.2,"desc":"TWR"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"MENDERES APP"},
+{"type":"APP","freq":128.7,"desc":"MENDERES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":37.24651900,"lon":27.68473900,"rng_nm":18,"alt_fmsl":21,"hdg":106.64,"id":"IBDR","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":37.25563100,"lon":27.64643100,"rng_nm":18,"alt_fmsl":21,"hdg":286.68,"id":"IGML","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":37.25536900,"lon":27.65320600,"rng_nm":10,"alt_fmsl":21,"id":"IBDR","rwy":"11","desc":"GS","gs":3.3},
+{"type":"GS","freq":109.1,"lat":37.24935000,"lon":27.67851400,"rng_nm":10,"alt_fmsl":21,"id":"IGML","rwy":"29","desc":"GS","gs":3.9},
+{"type":"OM","freq":0,"lat":37.27677800,"lon":27.55388900,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":37.22888900,"lon":27.75888900,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.25766400,"lon":27.63787800,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":37.24451700,"lon":27.69308300,"rng_nm":0,"alt_fmsl":21,"id":"----","rwy":"29","desc":"MM"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LJLJ","name":"Ljubljana","lat":46.23088895,"lon":14.45424599,"rwys":1,"ils":1,"elev":1273,"index":3187209,"path":"e010n40/e014n46"
+,"runways":[
+{"len_m":3300,"wid_m":45.11,"hdg":126,"surf":"Asphalt","rwy1":"13","lat1":46.23249200,"lon1":14.44039200,"rwy2":"31","lat2":46.21487800,"lon2":14.47482500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.18,"desc":"LJUBLJANA ATIS"},
+{"type":"GND","freq":121.63,"desc":"LJUBLJANA GROUND"},
+{"type":"TWR","freq":118,"desc":"LJUBLJANA TOWER"},
+{"type":"TWR","freq":118.75,"desc":"LJUBLJANA TOWER"},
+{"type":"APP","freq":135.27,"desc":"LJUBLJANA APP"},
+{"type":"APP","freq":136,"desc":"LJUBLJANA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":46.23453900,"lon":14.43638900,"rng_nm":18,"alt_fmsl":1282,"hdg":306.46,"id":"LJB","rwy":"31","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.5,"lat":46.21567200,"lon":14.47065000,"rng_nm":10,"alt_fmsl":1198,"id":"LJB","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.17323100,"lon":14.55594400,"rng_nm":0,"alt_fmsl":1063,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.20988900,"lon":14.48453600,"rng_nm":0,"alt_fmsl":1184,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":46.21567200,"lon":14.47065000,"rng_nm":18,"alt_fmsl":1198,"id":"LJB","rwy":"31","desc":"DME-ILS"}
+]
+}

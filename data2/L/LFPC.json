@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPC","name":"Creil Ab","lat":49.24919978,"lon":2.51786010,"rwys":1,"ils":1,"elev":291,"index":2990794,"path":"e000n40/e002n49"
+,"runways":[
+{"len_m":2399,"wid_m":49.99,"hdg":65,"surf":"Asphalt","rwy1":"07","lat1":49.24902000,"lon1":2.50416950,"rwy2":"25","lat2":49.25806740,"lon2":2.53408600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":2,"surf":"Asphalt","lat1":49.25121565,"lon1":2.51733821}
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Creil Sol"},
+{"type":"TWR","freq":119.7,"desc":"Creil Tower"},
+{"type":"APP","freq":123.3,"desc":"DE GAULLE APP"},
+{"type":"APP","freq":118.15,"desc":"DE GAULLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":49.24786100,"lon":2.50038900,"rng_nm":18,"alt_fmsl":270,"hdg":245.20,"id":"CRL","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":49.25768900,"lon":2.52890800,"rng_nm":10,"alt_fmsl":291,"id":"CRL","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.29150000,"lon":2.64683300,"rng_nm":0,"alt_fmsl":291,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.26138900,"lon":2.54508300,"rng_nm":0,"alt_fmsl":291,"id":"----","rwy":"25","desc":"MM"}
+]
+}

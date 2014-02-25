@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRM","name":"Le Mans Arnage","lat":47.94624710,"lon":0.19661590,"rwys":1,"ils":1,"elev":194,"index":2957944,"path":"e000n40/e000n47"
+,"runways":[
+{"len_m":1419,"wid_m":29.87,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":47.94185300,"lon1":0.19798900,"rwy2":"20","lat2":47.95382500,"lon2":0.20459200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"LE MANS TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":109.75,"lat":47.95584400,"lon":0.20570300,"rng_nm":18,"alt_fmsl":194,"id":"LEM","rwy":"02","desc":"LOC"},
+{"type":"DME","freq":109.75,"lat":47.94458300,"lon":0.19778300,"rng_nm":18,"alt_fmsl":180,"id":"LEM","rwy":"02","desc":"DME-ILS"}
+]
+}

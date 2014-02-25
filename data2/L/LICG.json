@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LICG","name":"Pantelleria","lat":36.81519320,"lon":11.96984480,"rwys":2,"ils":1,"elev":635,"index":3137459,"path":"e010n30/e011n36"
+,"runways":[
+{"len_m":1663,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"08","lat1":36.81412800,"lon1":11.95690000,"rwy2":"26","lat2":36.81765800,"lon2":11.97502500},
+{"len_m":1231,"wid_m":29.87,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":36.80795600,"lon1":11.96327500,"rwy2":"21","lat2":36.81776900,"lon2":11.96970800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.45,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":36.81377092,"lon":11.95506595,"rng_nm":18,"alt_fmsl":635,"hdg":256.33,"id":"IPTL","rwy":"26","desc":"ILS-cat-I"},
+{"type":"DME","freq":110.9,"lat":36.81621004,"lon":11.97193869,"rng_nm":18,"alt_fmsl":635,"id":"IPTL","rwy":"26","desc":"DME-ILS"}
+]
+}

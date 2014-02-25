@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKMK","name":"Moravska Trebova","lat":49.79589297,"lon":16.67953315,"rwys":2,"ils":0,"elev":1322,"index":3220210,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":711,"wid_m":98.15,"hdg":79,"surf":"Turf/grass","rwy1":"08","lat1":49.79768677,"lon1":16.68296212,"rwy2":"26","lat2":49.79880534,"lon2":16.69269073},
+{"len_m":716,"wid_m":49.99,"hdg":92,"surf":"Turf/grass","rwy1":"09","lat1":49.79748792,"lon1":16.68310335,"rwy2":"27","lat2":49.79725068,"lon2":16.69305386}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.55,"desc":"INFO"}
+]
+,"ils":[
+]
+}

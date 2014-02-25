@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFGJ","name":"Dole Tavaux","lat":47.04360000,"lon":5.42512600,"rwys":1,"ils":2,"elev":645,"index":3039809,"path":"e000n40/e005n47"
+,"runways":[
+{"len_m":2230,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":47.03308600,"lon1":5.41534200,"rwy2":"23","lat2":47.04478100,"lon2":5.43918900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.77,"desc":"DOLE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":47.04687800,"lon":5.44346700,"rng_nm":18,"alt_fmsl":646,"hdg":54.27,"id":"DO","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.7,"lat":47.03259700,"lon":5.41426700,"rng_nm":18,"alt_fmsl":643,"hdg":234.34,"id":"DO","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":47.03379400,"lon":5.41949400,"rng_nm":10,"alt_fmsl":634,"id":"DO","rwy":"05","desc":"GS","gs":3.1},
+{"type":"GS","freq":109.7,"lat":47.04549800,"lon":5.43807600,"rng_nm":10,"alt_fmsl":643,"id":"DO","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":47.03379400,"lon":5.41949400,"rng_nm":18,"alt_fmsl":690,"id":"DO","rwy":"05","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFXB","name":"Saintes Thenac","lat":45.69446600,"lon":-0.62902800,"rwys":2,"ils":0,"elev":118,"index":2941417,"path":"w010n40/w001n45"
+,"runways":[
+{"len_m":901,"wid_m":49.99,"hdg":55,"surf":"Gravel","rwy1":"06","lat1":45.70055080,"lon1":-0.63739278,"rwy2":"24","lat2":45.70519520,"lon2":-0.62789522},
+{"len_m":801,"wid_m":99.97,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":45.70542907,"lon1":-0.63813209,"rwy2":"30","lat2":45.70161493,"lon2":-0.62939191}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"LA ROCHELLE TWR"},
+{"type":"APP","freq":124.2,"desc":"LA ROCHELLE APP"}
+]
+,"ils":[
+]
+}

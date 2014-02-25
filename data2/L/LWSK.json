@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LWSK","name":"Skopje","lat":41.96974800,"lon":21.62370700,"rwys":1,"ils":1,"elev":781,"index":3301626,"path":"e020n40/e021n41"
+,"runways":[
+{"len_m":2446,"wid_m":42.67,"hdg":165,"surf":"Asphalt","rwy1":"16","lat1":41.97227800,"lon1":21.61765600,"rwy2":"34","lat2":41.95096100,"lon2":21.62508900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":41.97500000,"lon":21.61666700,"rng_nm":25,"alt_fmsl":764,"hdg":345.00,"id":"MSK","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":41.95305600,"lon":21.62305600,"rng_nm":25,"alt_fmsl":813,"id":"MSK","rwy":"34","desc":"GS","gs":3.3},
+{"type":"OM","freq":0,"lat":41.89444400,"lon":21.64472200,"rng_nm":0,"alt_fmsl":748,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.94055600,"lon":21.62888900,"rng_nm":0,"alt_fmsl":774,"id":"----","rwy":"34","desc":"MM"},
+{"type":"DME","freq":108.7,"lat":41.95305600,"lon":21.62305600,"rng_nm":50,"alt_fmsl":758,"id":"MSK","rwy":"34","desc":"DME-ILS"}
+]
+}

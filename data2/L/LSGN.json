@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSGN","name":"Neuchatel","lat":46.95990900,"lon":6.86312200,"rwys":2,"ils":0,"elev":1427,"index":3056187,"path":"e000n40/e006n46"
+,"runways":[
+{"len_m":686,"wid_m":20.12,"hdg":51,"surf":"Asphalt","rwy1":"05","lat1":46.95540889,"lon1":6.86102260,"rwy2":"23","lat2":46.95926370,"lon2":6.86807060},
+{"len_m":551,"wid_m":29.87,"hdg":51,"surf":"Turf/grass","rwy1":"05R","lat1":46.95538997,"lon1":6.86170528,"rwy2":"23L","lat2":46.95848537,"lon2":6.86736435}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

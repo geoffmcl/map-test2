@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LA75","name":"Braithwaite Park","lat":29.85631722,"lon":-89.91951139,"rwys":2,"ils":0,"elev":4,"index":1482224,"path":"w090n20/w090n29"
+,"runways":[
+{"len_m":729,"wid_m":22.86,"hdg":183,"surf":"Turf/grass","rwy1":"18","lat1":29.85960429,"lon1":-89.91931276,"rwy2":"36","lat2":29.85303015,"lon2":-89.91971002},
+{"len_m":519,"wid_m":22.86,"hdg":73,"surf":"Turf/grass","rwy1":"07","lat1":29.85563555,"lon1":-89.92208226,"rwy2":"25","lat2":29.85699889,"lon2":-89.91694052}
+]
+,"helipads":[
+]
+,"waterways":[
+{"len_m":852,"wid_m":22,"hdg_t":152,"buoys":false,"rwy1":"15","lat1":29.85973884,"lon1":-89.92152159,"rwy2":"33","lat2":29.85289560,"lon2":-89.91750119},
+{"len_m":851,"wid_m":22,"hdg_t":172,"buoys":false,"rwy1":"17","lat1":29.86012877,"lon1":-89.92005101,"rwy2":"35","lat2":29.85250567,"lon2":-89.91897177}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

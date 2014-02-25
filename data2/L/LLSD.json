@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLSD","name":"Sde Dov","lat":32.11363000,"lon":34.78345500,"rwys":1,"ils":0,"elev":43,"index":3513987,"path":"e030n30/e034n32"
+,"runways":[
+{"len_m":1735,"wid_m":29.87,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":32.10773600,"lon1":34.77796100,"rwy2":"21","lat2":32.12158600,"lon2":34.78651400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.9,"desc":"ATIS"},
+{"type":"GND","freq":121.05,"desc":"TAMROOR TAXI"},
+{"type":"TWR","freq":125.25,"desc":"TAMROOR TWR"},
+{"type":"APP","freq":125.25,"desc":"TAMROOR APP"}
+]
+,"ils":[
+]
+}

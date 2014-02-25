@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LYTV","name":"Tivat","lat":42.41219000,"lon":18.71827500,"rwys":1,"ils":1,"elev":20,"index":3252506,"path":"e010n40/e018n42"
+,"runways":[
+{"len_m":2501,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":42.41314700,"lon1":18.71331100,"rwy2":"32","lat2":42.39616700,"lon2":18.73327800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":118,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":111.3,"lat":42.39591700,"lon":18.74138900,"rng_nm":50,"alt_fmsl":56,"id":"TIV","rwy":"32","desc":"LOC"},
+{"type":"DME","freq":111.3,"lat":42.39600000,"lon":18.74136100,"rng_nm":18,"alt_fmsl":49,"id":"TIV","rwy":"32","desc":"DME-ILS"}
+]
+}

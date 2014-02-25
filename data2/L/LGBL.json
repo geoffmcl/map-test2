@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGBL","name":"Nea Anchialos","lat":39.22254940,"lon":22.79176520,"rwys":1,"ils":0,"elev":83,"index":3317835,"path":"e020n30/e022n39"
+,"runways":[
+{"len_m":2758,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":39.21764400,"lon1":22.77866900,"rwy2":"26","lat2":39.22132800,"lon2":22.81026400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"ALMIROS TWR"},
+{"type":"APP","freq":120.35,"desc":"ALMIROS APP"},
+{"type":"APP","freq":122.1,"desc":"ALMIROS APP"}
+]
+,"ils":[
+]
+}

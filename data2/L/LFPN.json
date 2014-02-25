@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPN","name":"Toussus-le-noble","lat":48.75055700,"lon":2.11275200,"rwys":2,"ils":2,"elev":537,"index":2990768,"path":"e000n40/e002n48"
+,"runways":[
+{"len_m":1121,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07L","lat1":48.75115000,"lon1":2.09846100,"rwy2":"25R","lat2":48.75439400,"lon2":2.11289900},
+{"len_m":1043,"wid_m":29.87,"hdg":71,"surf":"Asphalt","rwy1":"07R","lat1":48.74953600,"lon1":2.09974300,"rwy2":"25L","lat2":48.75255800,"lon2":2.11318300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":36,"wid_m":35.05,"hdg":2,"surf":"Asphalt","lat1":48.74953800,"lon1":2.10401000},
+{"rwy1":"H2","len_m":7,"wid_m":7.32,"hdg":2,"surf":"Asphalt","lat1":48.75084400,"lon1":2.10917200},
+{"rwy1":"H3","len_m":7,"wid_m":7.32,"hdg":2,"surf":"Asphalt","lat1":48.75041000,"lon1":2.10938600},
+{"rwy1":"H4","len_m":10,"wid_m":10.67,"hdg":2,"surf":"Asphalt","lat1":48.75063200,"lon1":2.10928600},
+{"rwy1":"H5","len_m":15,"wid_m":15.24,"hdg":2,"surf":"Asphalt","lat1":48.74986400,"lon1":2.10958800},
+{"rwy1":"H6","len_m":7,"wid_m":7.32,"hdg":2,"surf":"Asphalt","lat1":48.74738100,"lon1":2.10614900}
+]
+,"radios":[
+{"type":"ATIS","freq":127.47,"desc":"LFPN ATIS"},
+{"type":"ATIS","freq":119.3,"desc":"TOUSSUS FSS"},
+{"type":"CTAF","freq":119.3,"desc":"TOUSSUS MULT"},
+{"type":"GND","freq":121.85,"desc":"TOUSSUS GND"},
+{"type":"TWR","freq":119.3,"desc":"TOUSSUS TWR"},
+{"type":"TWR","freq":122.1,"desc":"VILLA TWR"},
+{"type":"APP","freq":120.8,"desc":"VILLA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.29,"lat":48.75462300,"lon":2.11381300,"rng_nm":18,"alt_fmsl":538,"hdg":71.07,"id":"TNO","rwy":"07L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.15,"lat":48.75039100,"lon":2.09515800,"rng_nm":27,"alt_fmsl":537,"hdg":251.21,"id":"TNO","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.29,"lat":48.75217800,"lon":2.09916300,"rng_nm":10,"alt_fmsl":538,"id":"TNO","rwy":"07L","desc":"GS","gs":3},
+{"type":"GS","freq":110.15,"lat":48.75466100,"lon":2.10902800,"rng_nm":27,"alt_fmsl":537,"id":"TNO","rwy":"25R","desc":"GS","gs":3},
+{"type":"DME","freq":110.15,"lat":48.75466100,"lon":2.10902800,"rng_nm":18,"alt_fmsl":11,"id":"TNO","rwy":"25R","desc":"DME-ILS"}
+]
+}

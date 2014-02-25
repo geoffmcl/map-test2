@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRV","name":"Vannes Meucon","lat":47.72067500,"lon":-2.72862400,"rwys":1,"ils":1,"elev":439,"index":2908777,"path":"w010n40/w003n47"
+,"runways":[
+{"len_m":1527,"wid_m":45.11,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":47.71794400,"lon1":-2.72494800,"rwy2":"22","lat2":47.72858400,"lon2":-2.71207800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.6,"desc":"VANNES MULT"},
+{"type":"TWR","freq":122.6,"desc":"VANNES TWR"}
+]
+,"ils":[
+{"type":"LOC","freq":110.7,"lat":47.71715600,"lon":-2.72590600,"rng_nm":18,"alt_fmsl":432,"id":"VNS","rwy":"22","desc":"LOC"}
+]
+}

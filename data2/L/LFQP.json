@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQP","name":"Phalsbourg Bourscheid Army","lat":48.76209800,"lon":7.20078000,"rwys":1,"ils":1,"elev":1016,"index":3072688,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":2195,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"06","lat1":48.76087200,"lon1":7.18799200,"rwy2":"24","lat2":48.77154400,"lon2":7.21312200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.75,"desc":"PHALSBOURG FSS"},
+{"type":"TWR","freq":129.8,"desc":"PHALSBOURG TWR"},
+{"type":"APP","freq":128.75,"desc":"PHALSBOURG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":48.77428100,"lon":7.21952400,"rng_nm":18,"alt_fmsl":1017,"hdg":57.18,"id":"PB","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.15,"lat":48.75906100,"lon":7.18372200,"rng_nm":18,"alt_fmsl":1016,"hdg":237.20,"id":"PB","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":48.77837800,"lon":7.21246700,"rng_nm":10,"alt_fmsl":1017,"id":"PB","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.15,"lat":48.77201700,"lon":7.21171100,"rng_nm":10,"alt_fmsl":1016,"id":"PB","rwy":"24","desc":"GS","gs":3},
+{"type":"DME","freq":110.15,"lat":48.77201700,"lon":7.21171100,"rng_nm":18,"alt_fmsl":1016,"id":"PB","rwy":"24","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTCI","name":"Van","lat":38.468221,"lon":43.3323,"rwys":1,"ils":0,"elev":5480,"index":3661849,"path":"e040n30/e043n38"
+,"runways":[
+{"len_m":2747,"wid_m":45.11,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":38.45842800,"lon1":43.32267500,"rwy2":"21","lat2":38.47801400,"lon2":43.34192500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.7,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"},
+{"type":"APP","freq":118.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

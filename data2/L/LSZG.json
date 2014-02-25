@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSZG","name":"Grenchen","lat":47.18159076,"lon":7.415841085,"rwys":2,"ils":0,"elev":1411,"index":3072585,"path":"e000n40/e007n47"
+,"runways":[
+{"len_m":999,"wid_m":22.86,"hdg":65,"surf":"Asphalt","rwy1":"07C","lat1":47.17977247,"lon1":7.41118186,"rwy2":"25C","lat2":47.18348353,"lon2":7.42319614},
+{"len_m":499,"wid_m":29.87,"hdg":66,"surf":"Turf/grass","rwy1":"07L","lat1":47.18064432,"lon1":7.41147734,"rwy2":"25R","lat2":47.18246272,"lon2":7.41750900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.1,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":120.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFCK","name":"Mazamet","lat":43.55625,"lon":2.289182,"rwys":1,"ils":1,"elev":788,"index":2990433,"path":"e000n40/e002n43"
+,"runways":[
+{"len_m":1827,"wid_m":29.87,"hdg":141,"surf":"Concrete","rwy1":"14","lat1":43.56266100,"lon1":2.28210300,"rwy2":"32","lat2":43.54983900,"lon2":2.29626100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"CASTRES INFO"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":43.54766700,"lon":2.29865800,"rng_nm":18,"alt_fmsl":790,"hdg":141.34,"id":"EN","rwy":"14","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.35,"lat":43.56061700,"lon":2.28623900,"rng_nm":10,"alt_fmsl":726,"id":"EN","rwy":"14","desc":"GS","gs":3.5},
+{"type":"DME","freq":111.35,"lat":43.56061700,"lon":2.28624200,"rng_nm":18,"alt_fmsl":726,"id":"EN","rwy":"14","desc":"DME-ILS"}
+]
+}

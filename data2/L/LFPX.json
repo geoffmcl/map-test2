@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPX","name":"Chavenay Villepreux","lat":48.84105900,"lon":1.98068600,"rwys":2,"ils":0,"elev":427,"index":2974387,"path":"e000n40/e001n48"
+,"runways":[
+{"len_m":819,"wid_m":60.05,"hdg":52,"surf":"Turf/grass","rwy1":"05R","lat1":48.84013700,"lon1":1.97612000,"rwy2":"23","lat2":48.84465300,"lon2":1.98495000},
+{"len_m":700,"wid_m":79.86,"hdg":104,"surf":"Turf/grass","rwy1":"10","lat1":48.84289000,"lon1":1.97647500,"rwy2":"28L","lat2":48.84134200,"lon2":1.98572100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.57,"desc":"LFPX ATIS"},
+{"type":"CTAF","freq":126.95,"desc":"CHAVENAY MULT"},
+{"type":"GND","freq":121.75,"desc":"CHAVENAY GND"},
+{"type":"TWR","freq":126.95,"desc":"CHAVENAY TWR"}
+]
+,"ils":[
+]
+}

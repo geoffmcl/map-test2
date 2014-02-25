@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LPMT","name":"Montijo","lat":38.7090355,"lon":-9.030348,"rwys":2,"ils":0,"elev":46,"index":2793515,"path":"w010n30/w010n38"
+,"runways":[
+{"len_m":2442,"wid_m":45.11,"hdg":72,"surf":"Concrete","rwy1":"08","lat1":38.70500300,"lon1":-9.03717200,"rwy2":"26","lat2":38.71164400,"lon2":-9.01040600},
+{"len_m":2191,"wid_m":45.11,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":38.69994200,"lon1":-9.03834200,"rwy2":"19","lat2":38.71955300,"lon2":-9.03547200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":134.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

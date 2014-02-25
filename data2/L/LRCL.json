@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRCL","name":"Cluj Napoca","lat":46.7851095,"lon":23.6861665,"rwys":1,"ils":1,"elev":1036,"index":3334706,"path":"e020n40/e023n46"
+,"runways":[
+{"len_m":1847,"wid_m":29.87,"hdg":78,"surf":"Concrete","rwy1":"08","lat1":46.78352500,"lon1":23.67429400,"rwy2":"26","lat2":46.78669400,"lon2":23.69803900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.4,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":118.7,"desc":"PRECISION"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":46.78316900,"lon":23.67191400,"rng_nm":18,"alt_fmsl":1025,"hdg":258.84,"id":"ICL","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":46.78724700,"lon":23.69361100,"rng_nm":10,"alt_fmsl":1025,"id":"ICL","rwy":"26","desc":"GS","gs":3.2},
+{"type":"DME","freq":110.3,"lat":46.78724700,"lon":23.69387200,"rng_nm":18,"alt_fmsl":1100,"id":"ICL","rwy":"26","desc":"DME-ILS"}
+]
+}

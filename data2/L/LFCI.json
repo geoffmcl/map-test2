@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFCI","name":"Le Sequestre","lat":43.91573789,"lon":2.11674999,"rwys":1,"ils":1,"elev":563,"index":2990456,"path":"e000n40/e002n43"
+,"runways":[
+{"len_m":1557,"wid_m":29.87,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":43.91308358,"lon1":2.10102509,"rwy2":"27","lat2":43.91336642,"lon2":2.12041575}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.95,"desc":"ALBI INFO"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":43.91336823,"lon":2.12148333,"rng_nm":18,"alt_fmsl":567,"hdg":88.94,"id":"AB","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":43.91400146,"lon":2.10458326,"rng_nm":10,"alt_fmsl":556,"id":"AB","rwy":"09","desc":"GS","gs":3.2},
+{"type":"OM","freq":0,"lat":43.91193390,"lon":2.00358343,"rng_nm":0,"alt_fmsl":467,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.91288376,"lon":2.08861661,"rng_nm":0,"alt_fmsl":571,"id":"----","rwy":"09","desc":"MM"}
+]
+}

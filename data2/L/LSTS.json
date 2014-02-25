@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSTS","name":"St Stephan","lat":46.49294100,"lon":7.40246900,"rwys":1,"ils":0,"elev":3304,"index":3072537,"path":"e000n40/e007n46"
+,"runways":[
+{"len_m":1801,"wid_m":41.15,"hdg":135,"surf":"Concrete","rwy1":"14","lat1":46.50347700,"lon1":7.40372000,"rwy2":"32","lat2":46.49192500,"lon2":7.42018400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.05,"desc":"AFIS ASOS"},
+{"type":"TWR","freq":119.42,"desc":"TWR TWR"}
+]
+,"ils":[
+]
+}

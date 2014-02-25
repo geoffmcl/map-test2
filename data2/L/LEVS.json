@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEVS","name":"Cuatro Vientos","lat":40.36839400,"lon":-3.78150000,"rwys":2,"ils":0,"elev":2267,"index":2891920,"path":"w010n40/w004n40"
+,"runways":[
+{"len_m":1495,"wid_m":29.87,"hdg":93,"surf":"Asphalt","rwy1":"10","lat1":40.37112200,"lon1":-3.79392800,"rwy2":"28","lat2":40.37023300,"lon2":-3.77635300},
+{"len_m":1116,"wid_m":45.11,"hdg":94,"surf":"Dirt","rwy1":"10L","lat1":40.37234200,"lon1":-3.79070600,"rwy2":"28R","lat2":40.37162200,"lon2":-3.77758900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":122.5,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIMZ","name":"Levaldigi","lat":44.54949190,"lon":7.62364290,"rwys":1,"ils":1,"elev":1267,"index":3072418,"path":"e000n40/e007n44"
+,"runways":[
+{"len_m":2104,"wid_m":45.11,"hdg":32,"surf":"Asphalt","rwy1":"03","lat1":44.53962500,"lon1":7.61619200,"rwy2":"21","lat2":44.55558100,"lon2":7.63045300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.55,"desc":"CUNEO INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":44.53680600,"lon":7.61366700,"rng_nm":18,"alt_fmsl":1267,"hdg":212.50,"id":"LEV","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":44.55383300,"lon":7.62711100,"rng_nm":10,"alt_fmsl":1267,"id":"LEV","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.62780600,"lon":7.69505600,"rng_nm":0,"alt_fmsl":1267,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.56269400,"lon":7.63683300,"rng_nm":0,"alt_fmsl":1267,"id":"----","rwy":"21","desc":"MM"}
+]
+}

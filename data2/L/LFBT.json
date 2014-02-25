@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBT","name":"Tarbes Ossun Lourdes","lat":43.178643,"lon":-0.0063405,"rwys":1,"ils":1,"elev":1260,"index":2941259,"path":"w010n40/w001n43"
+,"runways":[
+{"len_m":2999,"wid_m":45.11,"hdg":20,"surf":"Asphalt","rwy1":"02","lat1":43.16598600,"lon1":-0.01275000,"rwy2":"20","lat2":43.19130000,"lon2":0.00006900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.95,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":119.05,"desc":"TWR"},
+{"type":"APP","freq":120.3,"desc":"APP"},
+{"type":"APP","freq":121.17,"desc":"PYRENEES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":43.16448900,"lon":-0.01350800,"rng_nm":18,"alt_fmsl":1265,"hdg":200.27,"id":"OS","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":43.18870800,"lon":0.00033100,"rng_nm":10,"alt_fmsl":1265,"id":"OS","rwy":"20","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":43.18870800,"lon":0.00033100,"rng_nm":18,"alt_fmsl":1217,"id":"OS","rwy":"20","desc":"DME-ILS"}
+]
+}

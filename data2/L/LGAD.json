@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGAD","name":"Andravida","lat":37.92795180,"lon":21.28766250,"rwys":1,"ils":0,"elev":55,"index":3301369,"path":"e020n30/e021n37"
+,"runways":[
+{"len_m":3137,"wid_m":45.11,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":37.93433300,"lon1":21.28783300,"rwy2":"34","lat2":37.90708300,"lon2":21.29733300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.65,"desc":"TWR"},
+{"type":"APP","freq":120.65,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

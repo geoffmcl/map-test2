@@ -1,0 +1,40 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBA","name":"Istanbul Ataturk","lat":40.98111600,"lon":28.81795100,"rwys":3,"ils":5,"elev":163,"index":3416251,"path":"e020n40/e028n40"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":178,"surf":"Concrete","rwy1":"17R","lat1":40.99635600,"lon1":28.80603100,"rwy2":"35L","lat2":40.96935000,"lon2":28.80697500},
+{"len_m":2988,"wid_m":45.11,"hdg":178,"surf":"Concrete","rwy1":"17L","lat1":40.99635800,"lon1":28.80852500,"rwy2":"35R","lat2":40.96945600,"lon2":28.80946900},
+{"len_m":2598,"wid_m":60.05,"hdg":58,"surf":"Concrete","rwy1":"05","lat1":40.96557700,"lon1":28.80980100,"rwy2":"23","lat2":40.97771700,"lon2":28.83618900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.2,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"YESILKOY DELIVERY"},
+{"type":"GND","freq":121.9,"desc":"YESILKOY GND"},
+{"type":"TWR","freq":121.8,"desc":"YESILKOY TWR"},
+{"type":"APP","freq":121.1,"desc":"YESILKOY APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":40.97694400,"lon":28.83416700,"rng_nm":18,"alt_fmsl":163,"hdg":58.26,"id":"IIST","rwy":"05","desc":"ILS-cat-II"},
+{"type":"ILS","freq":111.1,"lat":40.96805600,"lon":28.80944400,"rng_nm":18,"alt_fmsl":163,"hdg":178.60,"id":"IISB","rwy":"17L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.9,"lat":40.96500000,"lon":28.80833300,"rng_nm":18,"alt_fmsl":163,"hdg":238.74,"id":"IATA","rwy":"23","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.5,"lat":40.99805600,"lon":28.80583300,"rng_nm":18,"alt_fmsl":163,"hdg":358.28,"id":"ISEF","rwy":"35L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":40.99805600,"lon":28.80833300,"rng_nm":18,"alt_fmsl":163,"hdg":358.28,"id":"IYES","rwy":"35R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":40.96777800,"lon":28.81194400,"rng_nm":10,"alt_fmsl":163,"id":"IIST","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":40.99472200,"lon":28.80805600,"rng_nm":10,"alt_fmsl":163,"id":"IISB","rwy":"17L","desc":"GS","gs":3},
+{"type":"GS","freq":111.9,"lat":40.97583300,"lon":28.82944400,"rng_nm":10,"alt_fmsl":163,"id":"IATA","rwy":"23","desc":"GS","gs":3.2},
+{"type":"GS","freq":111.5,"lat":40.97194400,"lon":28.80805600,"rng_nm":10,"alt_fmsl":163,"id":"ISEF","rwy":"35L","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":40.97305600,"lon":28.80833300,"rng_nm":10,"alt_fmsl":163,"id":"IYES","rwy":"35R","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":41.05722200,"lon":28.80638900,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"17L","desc":"OM"},
+{"type":"OM","freq":0,"lat":41.01027800,"lon":28.90666700,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.96305600,"lon":28.80361100,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"05","desc":"MM"},
+{"type":"MM","freq":0,"lat":41.00666700,"lon":28.80861100,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"17L","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.98138900,"lon":28.84333300,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"23","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.96055600,"lon":28.80666700,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"35L","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.95972200,"lon":28.80972200,"rng_nm":0,"alt_fmsl":163,"id":"----","rwy":"35R","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":40.96777800,"lon":28.81194400,"rng_nm":18,"alt_fmsl":82,"id":"IIST","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":111.9,"lat":40.97583300,"lon":28.82944400,"rng_nm":18,"alt_fmsl":163,"id":"IATA","rwy":"23","desc":"DME-ILS"},
+{"type":"DME","freq":111.5,"lat":40.97194400,"lon":28.80805600,"rng_nm":18,"alt_fmsl":163,"id":"ISEF","rwy":"35L","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":40.97214800,"lon":28.80781100,"rng_nm":18,"alt_fmsl":163,"id":"IYES","rwy":"35R","desc":"DME-ILS"}
+]
+}

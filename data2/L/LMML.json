@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LMML","name":"La Valette Luqa","lat":35.85359814,"lon":14.47736448,"rwys":2,"ils":2,"elev":300,"index":3186545,"path":"e010n30/e014n35"
+,"runways":[
+{"len_m":3545,"wid_m":60.05,"hdg":134,"surf":"Asphalt","rwy1":"14","lat1":35.85645167,"lon1":14.47886019,"rwy2":"32","lat2":35.83396873,"lon2":14.50675119},
+{"len_m":2375,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"6","lat1":35.84752481,"lon1":14.46016449,"rwy2":"24","lat2":35.85996298,"lon2":14.48156742}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"CLD","freq":133.9,"desc":"APRON"},
+{"type":"TWR","freq":135.1,"desc":"TWR"},
+{"type":"APP","freq":128.15,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":35.83363900,"lon":14.50705600,"rng_nm":18,"alt_fmsl":230,"hdg":134.95,"id":"LQ","rwy":"14","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.5,"lat":35.85930600,"lon":14.47527800,"rng_nm":18,"alt_fmsl":256,"hdg":314.79,"id":"LM","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":35.85361100,"lon":14.48027800,"rng_nm":10,"alt_fmsl":256,"id":"LQ","rwy":"14","desc":"GS","gs":2.85},
+{"type":"GS","freq":110.5,"lat":35.83361100,"lon":14.50166700,"rng_nm":10,"alt_fmsl":230,"id":"LM","rwy":"32","desc":"GS","gs":2.85}
+]
+}

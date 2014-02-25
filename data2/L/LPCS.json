@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LPCS","name":"Cascais","lat":38.72475000,"lon":-9.35390400,"rwys":1,"ils":0,"elev":326,"index":2793514,"path":"w010n30/w010n38"
+,"runways":[
+{"len_m":1723,"wid_m":29.87,"hdg":164,"surf":"Asphalt","rwy1":"17","lat1":38.73264000,"lon1":-9.35797400,"rwy2":"35","lat2":38.71771000,"lon2":-9.35253700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.82,"desc":"GND"},
+{"type":"TWR","freq":120.3,"desc":"TWR"},
+{"type":"TWR","freq":119.9,"desc":"TWR"}
+]
+,"ils":[
+]
+}

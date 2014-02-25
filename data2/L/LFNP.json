@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNP","name":"Nizas","lat":43.50353700,"lon":3.41152000,"rwys":1,"ils":0,"elev":321,"index":3006817,"path":"e000n40/e003n43"
+,"runways":[
+{"len_m":701,"wid_m":49.99,"hdg":288,"surf":"Turf/grass","rwy1":"11","lat1":43.50372800,"lon1":3.41673200,"rwy2":"29","lat2":43.50577800,"lon2":3.40853400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"PEZENAS MULT"},
+{"type":"APP","freq":130.85,"desc":"MONTPELLIER APP"}
+]
+,"ils":[
+]
+}

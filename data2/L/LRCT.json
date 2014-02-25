@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRCT","name":"Campia Turzii","lat":46.502279,"lon":23.885914,"rwys":1,"ils":0,"elev":1083,"index":3334691,"path":"e020n40/e023n46"
+,"runways":[
+{"len_m":2505,"wid_m":49.99,"hdg":155,"surf":"Concrete","rwy1":"15","lat1":46.51257200,"lon1":23.87927500,"rwy2":"33","lat2":46.49198600,"lon2":23.89255300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129,"desc":"TWR"},
+{"type":"APP","freq":129,"desc":"APP"},
+{"type":"DEP","freq":129,"desc":"DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLY","name":"Lyon Bron","lat":45.72424900,"lon":4.94046100,"rwys":1,"ils":2,"elev":659,"index":3023339,"path":"e000n40/e004n45"
+,"runways":[
+{"len_m":1819,"wid_m":45.11,"hdg":163,"surf":"Asphalt","rwy1":"16","lat1":45.73501400,"lon1":4.94093300,"rwy2":"34","lat2":45.71932800,"lon2":4.94761400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"ATIS"},
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.45,"desc":"LYON APP"},
+{"type":"APP","freq":125.8,"desc":"LYON APP"},
+{"type":"APP","freq":127.57,"desc":"LYON APP"},
+{"type":"APP","freq":136.07,"desc":"LYON APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":45.73693600,"lon":4.94011400,"rng_nm":18,"alt_fmsl":640,"hdg":343.44,"id":"LY","rwy":"34","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.95,"lat":45.71788900,"lon":4.94822200,"rng_nm":18,"alt_fmsl":653,"id":"LBO","rwy":"16","desc":"LOC"},
+{"type":"GS","freq":111.3,"lat":45.72450800,"lon":4.94747500,"rng_nm":10,"alt_fmsl":659,"id":"LY","rwy":"34","desc":"GS","gs":3},
+{"type":"DME","freq":109.95,"lat":45.72451700,"lon":4.94746900,"rng_nm":18,"alt_fmsl":680,"id":"LBO","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":45.72450800,"lon":4.94747500,"rng_nm":18,"alt_fmsl":715,"id":"LY","rwy":"34","desc":"DME-ILS"}
+]
+}

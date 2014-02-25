@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBG","name":"Cognac Chateau Bernard","lat":45.65185200,"lon":-0.32575100,"rwys":2,"ils":1,"elev":102,"index":2941418,"path":"w010n40/w001n45"
+,"runways":[
+{"len_m":2423,"wid_m":45.11,"hdg":49,"surf":"Asphalt","rwy1":"05","lat1":45.64840300,"lon1":-0.32438600,"rwy2":"23","lat2":45.66251400,"lon2":-0.30068300},
+{"len_m":1881,"wid_m":60.05,"hdg":83,"surf":"Gravel","rwy1":"09","lat1":45.66080600,"lon1":-0.32258300,"rwy2":"27","lat2":45.66263900,"lon2":-0.29858300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.07,"desc":"COGNAC TWR"},
+{"type":"TWR","freq":122.1,"desc":"COGNAC TWR"},
+{"type":"TWR","freq":122.55,"desc":"COGNAC TWR"},
+{"type":"APP","freq":122.1,"desc":"COGNAC APP"},
+{"type":"APP","freq":122.55,"desc":"COGNAC APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":45.66322300,"lon":-0.29953000,"rng_nm":18,"alt_fmsl":102,"hdg":49.54,"id":"CG","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":45.64670300,"lon":-0.32724400,"rng_nm":18,"alt_fmsl":95,"hdg":229.57,"id":"CGC","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":45.64918500,"lon":-0.32168600,"rng_nm":10,"alt_fmsl":102,"id":"CG","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":45.65868300,"lon":-0.30415000,"rng_nm":10,"alt_fmsl":157,"id":"CGC","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.70565300,"lon":-0.22941900,"rng_nm":0,"alt_fmsl":102,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.66763100,"lon":-0.29205600,"rng_nm":0,"alt_fmsl":102,"id":"----","rwy":"23","desc":"MM"}
+]
+}

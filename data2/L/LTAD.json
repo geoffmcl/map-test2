@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTAD","name":"Etimesgut","lat":39.950193,"lon":32.6875945,"rwys":2,"ils":1,"elev":2653,"index":3481722,"path":"e030n30/e032n39"
+,"runways":[
+{"len_m":2608,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11L","lat1":39.95685500,"lon1":32.67120400,"rwy2":"29R","lat2":39.94745300,"lon2":32.69917200},
+{"len_m":1508,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11R","lat1":39.95096100,"lon1":32.68191700,"rwy2":"29L","lat2":39.94550300,"lon2":32.69808500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":119.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":122.1,"desc":"ESENBOGA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":39.94666700,"lon":32.70111100,"rng_nm":18,"alt_fmsl":2653,"hdg":113.97,"id":"IETI","rwy":"11L","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.5,"lat":39.95500000,"lon":32.67916700,"rng_nm":10,"alt_fmsl":2653,"id":"IETI","rwy":"11L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.99972200,"lon":32.54861100,"rng_nm":0,"alt_fmsl":2653,"id":"----","rwy":"11L","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.96083300,"lon":32.66305600,"rng_nm":0,"alt_fmsl":2653,"id":"----","rwy":"11L","desc":"MM"}
+]
+}

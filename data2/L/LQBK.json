@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LQBK","name":"Banja Luka","lat":44.94157251,"lon":17.29708098,"rwys":1,"ils":1,"elev":400,"index":3236281,"path":"e010n40/e017n44"
+,"runways":[
+{"len_m":2489,"wid_m":45.11,"hdg":169,"surf":"Concrete","rwy1":"17","lat1":44.95258599,"lon1":17.29420667,"rwy2":"35","lat2":44.93055903,"lon2":17.29995528}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.95,"desc":"TWR"},
+{"type":"APP","freq":118.95,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":44.92783000,"lon":17.30100800,"rng_nm":25,"alt_fmsl":413,"hdg":170.00,"id":"BAL","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":44.95012200,"lon":17.29675300,"rng_nm":25,"alt_fmsl":428,"id":"BAL","rwy":"17","desc":"GS","gs":3}
+]
+}

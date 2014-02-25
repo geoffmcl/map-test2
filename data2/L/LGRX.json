@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGRX","name":"Araxos","lat":38.15045170,"lon":21.41530230,"rwys":2,"ils":0,"elev":46,"index":3301385,"path":"e020n30/e021n38"
+,"runways":[
+{"len_m":3352,"wid_m":21.34,"hdg":183,"surf":"Asphalt","rwy1":"18L","lat1":38.16615300,"lon1":21.42831400,"rwy2":"36R","lat2":38.13599700,"lon2":21.42617800},
+{"len_m":3351,"wid_m":45.11,"hdg":182,"surf":"Asphalt","rwy1":"18R","lat1":38.16618900,"lon1":21.42653600,"rwy2":"36L","lat2":38.13603300,"lon2":21.42457500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.25,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":120.65,"desc":"ANDRAVIDA APP"},
+{"type":"APP","freq":122.1,"desc":"ANDRAVIDA APP"}
+]
+,"ils":[
+]
+}

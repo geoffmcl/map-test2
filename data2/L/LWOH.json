@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LWOH","name":"Ohrid","lat":41.1799265,"lon":20.742314,"rwys":1,"ils":1,"elev":2313,"index":3285194,"path":"e020n40/e020n41"
+,"runways":[
+{"len_m":2536,"wid_m":42.67,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":41.16904700,"lon1":20.73772500,"rwy2":"20","lat2":41.19080600,"lon2":20.74690300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":41.19333300,"lon":20.74805600,"rng_nm":25,"alt_fmsl":2326,"hdg":18.00,"id":"MOH","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":41.17166700,"lon":20.73722200,"rng_nm":25,"alt_fmsl":2303,"id":"MOH","rwy":"02","desc":"GS","gs":3.2},
+{"type":"MM","freq":0,"lat":41.16583300,"lon":20.73611100,"rng_nm":0,"alt_fmsl":2280,"id":"----","rwy":"02","desc":"MM"}
+]
+}

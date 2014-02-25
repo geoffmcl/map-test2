@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LHDC","name":"Debrecen","lat":47.48941725,"lon":21.6145765,"rwys":2,"ils":1,"elev":359,"index":3301978,"path":"e020n40/e021n47"
+,"runways":[
+{"len_m":2498,"wid_m":39.93,"hdg":47,"surf":"Concrete","rwy1":"05R","lat1":47.48138900,"lon1":21.60301700,"rwy2":"23L","lat2":47.49644700,"lon2":21.62762200},
+{"len_m":2466,"wid_m":70.10,"hdg":48,"surf":"Concrete","rwy1":"05L","lat1":47.48250000,"lon1":21.60166700,"rwy2":"23R","lat2":47.49733300,"lon2":21.62600000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.3,"desc":"BUDAPEST INFO"},
+{"type":"TWR","freq":132.4,"desc":"INFO"},
+{"type":"TWR","freq":125.9,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":47.49816900,"lon":21.63045600,"rng_nm":18,"alt_fmsl":359,"hdg":47.87,"id":"DCN","rwy":"05R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":47.48405300,"lon":21.60519200,"rng_nm":10,"alt_fmsl":359,"id":"DCN","rwy":"05R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":47.47530600,"lon":21.59311400,"rng_nm":0,"alt_fmsl":359,"id":"----","rwy":"05R","desc":"MM"}
+]
+}

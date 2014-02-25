@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LICT","name":"Trapani Birgi","lat":37.91377640,"lon":12.49144080,"rwys":1,"ils":1,"elev":24,"index":3153913,"path":"e010n30/e012n37"
+,"runways":[
+{"len_m":2691,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":37.91882200,"lon1":12.47581700,"rwy2":"31","lat2":37.90401100,"lon2":12.50005800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.95,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":37.92108100,"lon":12.47211900,"rng_nm":18,"alt_fmsl":13,"hdg":307.75,"id":"TRA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":37.90776900,"lon":12.49576700,"rng_nm":10,"alt_fmsl":61,"id":"TRA","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":110.95,"lat":37.92108100,"lon":12.47211900,"rng_nm":18,"alt_fmsl":7,"id":"TRA","rwy":"31","desc":"DME-ILS"}
+]
+}

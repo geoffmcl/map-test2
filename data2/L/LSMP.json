@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSMP","name":"Payerne","lat":46.84791700,"lon":6.91995800,"rwys":1,"ils":1,"elev":1465,"index":3056179,"path":"e000n40/e006n46"
+,"runways":[
+{"len_m":2857,"wid_m":39.93,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":46.83466839,"lon1":6.90104995,"rwy2":"23","lat2":46.85174042,"lon2":6.92906354}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.67,"desc":"TWR"},
+{"type":"APP","freq":136.35,"desc":"ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":46.83350000,"lon":6.89887500,"rng_nm":18,"alt_fmsl":1465,"hdg":228.53,"id":"IPY","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":46.84734400,"lon":6.92298100,"rng_nm":10,"alt_fmsl":1456,"id":"IPY","rwy":"23","desc":"GS","gs":3.7},
+{"type":"DME","freq":109.3,"lat":46.84728100,"lon":6.92298600,"rng_nm":18,"alt_fmsl":1456,"id":"IPY","rwy":"23","desc":"DME-ILS"}
+]
+}

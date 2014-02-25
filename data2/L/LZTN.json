@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LZTN","name":"Trencin","lat":48.86773675,"lon":17.99998475,"rwys":2,"ils":0,"elev":676,"index":3236531,"path":"e010n40/e017n48"
+,"runways":[
+{"len_m":1997,"wid_m":29.87,"hdg":42,"surf":"Concrete","rwy1":"04","lat1":48.85842500,"lon1":17.98295300,"rwy2":"22","lat2":48.87157200,"lon2":18.00149400},
+{"len_m":983,"wid_m":65.53,"hdg":32,"surf":"Turf/grass","rwy1":"03","lat1":48.86675800,"lon1":18.00411400,"rwy2":"21","lat2":48.87419200,"lon2":18.01137800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"INFO"},
+{"type":"TWR","freq":119.17,"desc":"INFO"},
+{"type":"TWR","freq":120.75,"desc":"INFO"},
+{"type":"TWR","freq":120.75,"desc":"TWR"}
+]
+,"ils":[
+]
+}

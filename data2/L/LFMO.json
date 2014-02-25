@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMO","name":"Caritat Ab","lat":44.14021100,"lon":4.86492900,"rwys":2,"ils":1,"elev":197,"index":3023243,"path":"e000n40/e004n44"
+,"runways":[
+{"len_m":2407,"wid_m":60.05,"hdg":144,"surf":"Concrete","rwy1":"15","lat1":44.14890000,"lon1":4.85974400,"rwy2":"33","lat2":44.13133300,"lon2":4.87735800},
+{"len_m":2424,"wid_m":60.05,"hdg":144,"surf":"Concrete","rwy1":"14","lat1":44.14905300,"lon1":4.85960600,"rwy2":"32","lat2":44.13136300,"lon2":4.87734000}
+]
+,"helipads":[
+{"rwy1":"H25","len_m":14,"wid_m":14.94,"hdg":4,"surf":"Concrete","lat1":44.13780600,"lon1":4.85821900}
+]
+,"radios":[
+{"type":"TWR","freq":120.7,"desc":"ORANGE TWR"},
+{"type":"TWR","freq":122.1,"desc":"ORANGE TWR"},
+{"type":"APP","freq":118.92,"desc":"ORANGE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":44.12891700,"lon":4.87978100,"rng_nm":18,"alt_fmsl":184,"hdg":144.27,"id":"ORG","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":44.14518300,"lon":4.86177200,"rng_nm":10,"alt_fmsl":250,"id":"ORG","rwy":"15","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":44.20655600,"lon":4.80138900,"rng_nm":0,"alt_fmsl":197,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.15544400,"lon":4.85327800,"rng_nm":0,"alt_fmsl":197,"id":"----","rwy":"15","desc":"MM"}
+]
+}

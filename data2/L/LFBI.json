@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBI","name":"Poitiers Biard","lat":46.58529300,"lon":0.31088600,"rwys":1,"ils":1,"elev":423,"index":2957857,"path":"e000n40/e000n46"
+,"runways":[
+{"len_m":2355,"wid_m":45.11,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":46.57962039,"lon1":0.30011694,"rwy2":"21","lat2":46.59785761,"lon2":0.31576106}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.77,"desc":"ATIS"},
+{"type":"TWR","freq":120.77,"desc":"POITERS INFO"},
+{"type":"TWR","freq":118.5,"desc":"POITIERS TWR"},
+{"type":"APP","freq":130.9,"desc":"POITIERS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":46.57853300,"lon":0.29918600,"rng_nm":18,"alt_fmsl":412,"hdg":210.51,"id":"PT","rwy":"21","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.95,"lat":46.59455800,"lon":0.31474700,"rng_nm":10,"alt_fmsl":412,"id":"PT","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":110.95,"lat":46.59455800,"lon":0.31474700,"rng_nm":18,"alt_fmsl":455,"id":"PT","rwy":"21","desc":"DME-ILS"}
+]
+}

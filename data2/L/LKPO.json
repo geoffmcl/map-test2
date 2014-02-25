@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKPO","name":"Prerov","lat":49.42314925,"lon":17.40661650,"rwys":1,"ils":1,"elev":676,"index":3236569,"path":"e010n40/e017n49"
+,"runways":[
+{"len_m":2499,"wid_m":60.05,"hdg":66,"surf":"Concrete","rwy1":"06","lat1":49.42136845,"lon1":17.38907640,"rwy2":"24","lat2":49.43047270,"lon2":17.42058163}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.75,"desc":"MTWR"},
+{"type":"APP","freq":127.78,"desc":"MAPP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":49.43182200,"lon":17.42517800,"rng_nm":18,"alt_fmsl":676,"hdg":66.02,"id":"CK","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":49.42346100,"lon":17.39206700,"rng_nm":10,"alt_fmsl":676,"id":"CK","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":110.15,"lat":49.42346100,"lon":17.39206700,"rng_nm":18,"alt_fmsl":722,"id":"CK","rwy":"06","desc":"DME-ILS"}
+]
+}

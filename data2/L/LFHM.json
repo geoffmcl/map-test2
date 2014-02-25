@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFHM","name":"Megeve","lat":45.81980200,"lon":6.65221200,"rwys":1,"ils":0,"elev":4839,"index":3056114,"path":"e000n40/e006n45"
+,"runways":[
+{"len_m":700,"wid_m":49.99,"hdg":333,"surf":"Concrete","rwy1":"34","lat1":45.82040550,"lon1":6.65122163,"rwy2":"16","lat2":45.82606847,"lon2":6.64725837}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.5,"desc":"MEGEVE MULT"},
+{"type":"APP","freq":123.7,"desc":"CHAMBERY APP"}
+]
+,"ils":[
+]
+}

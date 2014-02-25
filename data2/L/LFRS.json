@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRS","name":"Nantes_atlantique","lat":47.15157900,"lon":-1.60457400,"rwys":2,"ils":1,"elev":89,"index":2925129,"path":"w010n40/w002n47"
+,"runways":[
+{"len_m":2904,"wid_m":45.11,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":47.14160400,"lon1":-1.61953700,"rwy2":"21","lat2":47.16478800,"lon2":-1.60189500},
+{"len_m":610,"wid_m":30.48,"hdg":125,"surf":"Concrete","rwy1":"13","lat1":47.16047700,"lon1":-1.61493400,"rwy2":"31","lat2":47.15729100,"lon2":-1.60837800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.92,"desc":"LFRS ATIS"},
+{"type":"GND","freq":121.87,"desc":"NANTES GND"},
+{"type":"TWR","freq":118.65,"desc":"NANTES TWR"},
+{"type":"APP","freq":129.87,"desc":"NANTES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":47.16555200,"lon":-1.60130600,"rng_nm":27,"alt_fmsl":89,"hdg":27.42,"id":"NT","rwy":"03","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.9,"lat":47.14422200,"lon":-1.61934800,"rng_nm":27,"alt_fmsl":89,"id":"NT","rwy":"03","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":47.14422200,"lon":-1.61934900,"rng_nm":27,"alt_fmsl":89,"id":"NT","rwy":"03","desc":"DME-ILS"}
+]
+}

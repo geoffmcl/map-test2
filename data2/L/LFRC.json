@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRC","name":"Cherbourg Maupertus","lat":49.64737400,"lon":-1.47705700,"rwys":1,"ils":1,"elev":459,"index":2925290,"path":"w010n40/w002n49"
+,"runways":[
+{"len_m":2440,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":49.65220000,"lon1":-1.48686400,"rwy2":"28","lat2":49.64810300,"lon2":-1.45366400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.62,"desc":"CHERBOURG TWR"},
+{"type":"APP","freq":119.35,"desc":"DEAUVILLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":49.65263100,"lon":-1.49035000,"rng_nm":18,"alt_fmsl":459,"hdg":280.78,"id":"MP","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.55,"lat":49.64745600,"lon":-1.45730800,"rng_nm":10,"alt_fmsl":482,"id":"MP","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":110.55,"lat":49.64745600,"lon":-1.45730800,"rng_nm":18,"alt_fmsl":459,"id":"MP","rwy":"28","desc":"DME-ILS"}
+]
+}

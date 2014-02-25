@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIME","name":"Bergamo Orio Al Serio","lat":45.66502223,"lon":9.70265070,"rwys":2,"ils":1,"elev":779,"index":3105258,"path":"e000n40/e009n45"
+,"runways":[
+{"len_m":813,"wid_m":17.98,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":45.67822607,"lon1":9.70153005,"rwy2":"30","lat2":45.67441307,"lon2":9.71044405},
+{"len_m":3023,"wid_m":45.11,"hdg":104,"surf":"Asphalt","rwy1":"10","lat1":45.67117515,"lon1":9.68904423,"rwy2":"28","lat2":45.66420099,"lon2":9.72655155}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67571825,"lon1":9.70070502},
+{"rwy1":"H2","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67528744,"lon1":9.69996488},
+{"rwy1":"H3","len_m":15,"wid_m":15.85,"hdg":9,"surf":"Concrete","lat1":45.67486507,"lon1":9.69924101}
+]
+,"radios":[
+{"type":"GND","freq":120.5,"desc":"ORIO GND"},
+{"type":"TWR","freq":126.5,"desc":"ORIO TWR"},
+{"type":"TWR","freq":120.5,"desc":"ORIO TWR"},
+{"type":"APP","freq":126.75,"desc":"MILANO APP"},
+{"type":"APP","freq":132.7,"desc":"MILANO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":45.67166700,"lon":9.68694400,"rng_nm":18,"alt_fmsl":779,"hdg":285.08,"id":"BRM","rwy":"28","desc":"ILS-cat-III"},
+{"type":"GS","freq":108.7,"lat":45.66638900,"lon":9.72055600,"rng_nm":10,"alt_fmsl":779,"id":"BRM","rwy":"28","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":45.66146900,"lon":9.73802500,"rng_nm":0,"alt_fmsl":779,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":108.7,"lat":45.66666700,"lon":9.72055600,"rng_nm":18,"alt_fmsl":779,"id":"BRM","rwy":"28","desc":"DME-ILS"}
+]
+}

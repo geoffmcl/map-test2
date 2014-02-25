@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKST","name":"Strakonice","lat":49.25540118,"lon":13.89225703,"rwys":2,"ils":0,"elev":1377,"index":3171027,"path":"e010n40/e013n49"
+,"runways":[
+{"len_m":893,"wid_m":99.97,"hdg":33,"surf":"Turf/grass","rwy1":"03","lat1":49.24461651,"lon1":13.88935332,"rwy2":"21","lat2":49.25128500,"lon2":13.89620676},
+{"len_m":789,"wid_m":146.00,"hdg":130,"surf":"Turf/grass","rwy1":"13","lat1":49.25390527,"lon1":13.88869156,"rwy2":"31","lat2":49.24932142,"lon2":13.89697277}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.6,"desc":"INFO"}
+]
+,"ils":[
+]
+}

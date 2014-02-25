@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKKB","name":"Kbely","lat":50.12633128,"lon":14.53986971,"rwys":2,"ils":1,"elev":939,"index":3187466,"path":"e010n50/e014n50"
+,"runways":[
+{"len_m":1489,"wid_m":47.85,"hdg":62,"surf":"Turf/grass","rwy1":"06R","lat1":50.11701508,"lon1":14.53250326,"rwy2":"24L","lat2":50.12322459,"lon2":14.55095251},
+{"len_m":2001,"wid_m":49.99,"hdg":62,"surf":"Asphalt","rwy1":"06L","lat1":50.11720884,"lon1":14.53125963,"rwy2":"24R","lat2":50.12553534,"lon2":14.55607139}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.87,"desc":"TWR"},
+{"type":"TWR","freq":126.47,"desc":"TWR"},
+{"type":"APP","freq":124.67,"desc":"APP"},
+{"type":"APP","freq":123.3,"desc":"PRECISION"}
+]
+,"ils":[
+{"type":"ILS","freq":108.35,"lat":50.11601900,"lon":14.52777500,"rng_nm":18,"alt_fmsl":916,"hdg":242.31,"id":"KD","rwy":"24R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.35,"lat":50.12342800,"lon":14.55338300,"rng_nm":10,"alt_fmsl":916,"id":"KD","rwy":"24R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":50.15255000,"lon":14.63656700,"rng_nm":0,"alt_fmsl":916,"id":"----","rwy":"24R","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.12969200,"lon":14.56821900,"rng_nm":0,"alt_fmsl":916,"id":"----","rwy":"24R","desc":"MM"},
+{"type":"DME","freq":108.35,"lat":50.12342800,"lon":14.55338300,"rng_nm":18,"alt_fmsl":976,"id":"KD","rwy":"24R","desc":"DME-ILS"}
+]
+}

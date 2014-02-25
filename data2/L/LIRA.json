@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIRA","name":"Ciampino","lat":41.79773330,"lon":12.59256170,"rwys":1,"ils":1,"elev":427,"index":3154162,"path":"e010n40/e012n41"
+,"runways":[
+{"len_m":2207,"wid_m":46.94,"hdg":152,"surf":"Asphalt","rwy1":"15","lat1":41.80805800,"lon1":12.58882800,"rwy2":"33","lat2":41.79039700,"lon2":12.60100600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.4,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.5,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"ROMA ARR"},
+{"type":"APP","freq":119.2,"desc":"ROMA DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":41.78858300,"lon":12.60225000,"rng_nm":18,"alt_fmsl":426,"hdg":152.81,"id":"CIA","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":41.80527800,"lon":12.58930600,"rng_nm":10,"alt_fmsl":384,"id":"CIA","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.86513900,"lon":12.54950000,"rng_nm":0,"alt_fmsl":427,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.81580600,"lon":12.58344400,"rng_nm":0,"alt_fmsl":427,"id":"----","rwy":"15","desc":"MM"}
+]
+}

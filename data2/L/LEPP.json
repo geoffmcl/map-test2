@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEPP","name":"Pamplona","lat":42.76914264,"lon":-1.64134043,"rwys":2,"ils":1,"elev":1503,"index":2924849,"path":"w010n40/w002n42"
+,"runways":[
+{"len_m":2207,"wid_m":45.11,"hdg":151,"surf":"Asphalt","rwy1":"16","lat1":42.77954247,"lon1":-1.65325278,"rwy2":"34","lat2":42.76203553,"lon2":-1.64049722},
+{"len_m":2191,"wid_m":45.11,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":42.77954444,"lon1":-1.65325278,"rwy2":"33","lat2":42.76220000,"lon2":-1.64050000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":118.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":42.76032800,"lon":-1.63925300,"rng_nm":18,"alt_fmsl":1503,"hdg":151.86,"id":"IPN","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":42.77781400,"lon":-1.65025800,"rng_nm":10,"alt_fmsl":1503,"id":"IPN","rwy":"16","desc":"GS","gs":3.4},
+{"type":"DME","freq":109.7,"lat":42.77771900,"lon":-1.65046700,"rng_nm":18,"alt_fmsl":1470,"id":"IPN","rwy":"16","desc":"DME-ILS"}
+]
+}

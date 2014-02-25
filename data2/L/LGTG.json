@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGTG","name":"Tanagra","lat":38.33811190,"lon":23.56270980,"rwys":1,"ils":0,"elev":485,"index":3334162,"path":"e020n30/e023n38"
+,"runways":[
+{"len_m":2989,"wid_m":45.11,"hdg":104,"surf":"Asphalt","rwy1":"10","lat1":38.34328900,"lon1":23.54842500,"rwy2":"28","lat2":38.33640300,"lon2":23.58148900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.25,"desc":"TWR"},
+{"type":"APP","freq":120.25,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

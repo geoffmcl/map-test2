@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEVD","name":"Valladolid - Villanubla","lat":41.71157100,"lon":-4.85541300,"rwys":2,"ils":1,"elev":2775,"index":2875624,"path":"w010n40/w005n41"
+,"runways":[
+{"len_m":3003,"wid_m":60.05,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":41.69700000,"lon1":-4.86475000,"rwy2":"23","lat2":41.71605600,"lon2":-4.83913900},
+{"len_m":906,"wid_m":60.05,"hdg":144,"surf":"Dirt","rwy1":"15","lat1":41.71331700,"lon1":-4.86180800,"rwy2":"33","lat2":41.70670600,"lon2":-4.85541700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":41.69550000,"lon":-4.86680600,"rng_nm":18,"alt_fmsl":2779,"hdg":225.13,"id":"IVD","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":41.71313900,"lon":-4.84077800,"rng_nm":10,"alt_fmsl":2775,"id":"IVD","rwy":"23","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":41.78949200,"lon":-4.73908100,"rng_nm":0,"alt_fmsl":2775,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.72286100,"lon":-4.82972200,"rng_nm":0,"alt_fmsl":2775,"id":"----","rwy":"23","desc":"MM"}
+]
+}

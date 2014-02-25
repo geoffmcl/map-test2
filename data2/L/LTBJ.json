@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBJ","name":"Adnan Menderes","lat":38.29221,"lon":27.1559395,"rwys":2,"ils":2,"elev":412,"index":3399696,"path":"e020n30/e027n38"
+,"runways":[
+{"len_m":3235,"wid_m":44.81,"hdg":166,"surf":"Asphalt","rwy1":"16L","lat1":38.30657800,"lon1":27.15271900,"rwy2":"34R","lat2":38.27820600,"lon2":27.16120800},
+{"len_m":3240,"wid_m":44.81,"hdg":166,"surf":"Concrete","rwy1":"16R","lat1":38.30623100,"lon1":27.15064200,"rwy2":"34L","lat2":38.27782500,"lon2":27.15918900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.2,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"MENDERES GND"},
+{"type":"TWR","freq":118.1,"desc":"MENDERES TWR"},
+{"type":"APP","freq":119.5,"desc":"MENDERES APP"},
+{"type":"APP","freq":119.77,"desc":"MENDERES APP"},
+{"type":"APP","freq":120.1,"desc":"MENDERES APP"},
+{"type":"APP","freq":120.17,"desc":"MENDERES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":38.27638900,"lon":27.16194400,"rng_nm":18,"alt_fmsl":412,"hdg":166.52,"id":"IIMR","rwy":"16L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":38.30930500,"lon":27.15195700,"rng_nm":18,"alt_fmsl":412,"hdg":346.86,"id":"IMEN","rwy":"34R","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":38.30333300,"lon":27.15250000,"rng_nm":10,"alt_fmsl":412,"id":"IIMR","rwy":"16L","desc":"GS","gs":3.1},
+{"type":"GS","freq":110.3,"lat":38.28069300,"lon":27.15917900,"rng_nm":10,"alt_fmsl":412,"id":"IMEN","rwy":"34R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.37194400,"lon":27.13305600,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"16L","desc":"OM"},
+{"type":"OM","freq":0,"lat":38.20000000,"lon":27.18000000,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"34R","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.31472200,"lon":27.15000000,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"16L","desc":"MM"},
+{"type":"MM","freq":0,"lat":38.26666700,"lon":27.16166700,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"34R","desc":"MM"}
+]
+}

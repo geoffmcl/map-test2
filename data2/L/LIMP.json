@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIMP","name":"Parma","lat":44.81813430,"lon":10.29144000,"rwys":1,"ils":1,"elev":161,"index":3121585,"path":"e010n40/e010n44"
+,"runways":[
+{"len_m":2121,"wid_m":45.11,"hdg":17,"surf":"Asphalt","rwy1":"02","lat1":44.81765600,"lon1":10.29312900,"rwy2":"20","lat2":44.83589100,"lon2":10.30108700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.45,"desc":"TWR"},
+{"type":"APP","freq":126.55,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":44.81556702,"lon":10.29220009,"rng_nm":18,"alt_fmsl":163,"hdg":197.37,"id":"IPR","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":44.83197200,"lon":10.29763900,"rng_nm":10,"alt_fmsl":145,"id":"IPR","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.88983300,"lon":10.32491700,"rng_nm":0,"alt_fmsl":161,"id":"----","rwy":"20","desc":"OM"},
+{"type":"DME","freq":110.5,"lat":44.83202800,"lon":10.29719400,"rng_nm":18,"alt_fmsl":163,"id":"IPR","rwy":"20","desc":"DME-ILS"}
+]
+}

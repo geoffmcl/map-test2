@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRB","name":"Brest Bretagne","lat":48.44412700,"lon":-4.41785100,"rwys":2,"ils":1,"elev":325,"index":2876058,"path":"w010n40/w005n48"
+,"runways":[
+{"len_m":3102,"wid_m":45.11,"hdg":71,"surf":"Asphalt","rwy1":"07R","lat1":48.44338700,"lon1":-4.43837200,"rwy2":"25L","lat2":48.45236700,"lon2":-4.39867000},
+{"len_m":769,"wid_m":18.90,"hdg":71,"surf":"Asphalt","rwy1":"07L","lat1":48.44976500,"lon1":-4.42286700,"rwy2":"25R","lat2":48.45198700,"lon2":-4.41301700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.35,"desc":"LFRB ATIS"},
+{"type":"TWR","freq":120.1,"desc":"GUIPAVAS TWR"},
+{"type":"APP","freq":119.57,"desc":"IROISE APP"},
+{"type":"APP","freq":135.82,"desc":"IROISE APP"},
+{"type":"APP","freq":122.4,"desc":"LANDI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":48.44226800,"lon":-4.44325000,"rng_nm":27,"alt_fmsl":325,"hdg":251.20,"id":"BG","rwy":"25L","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.9,"lat":48.45169700,"lon":-4.40660600,"rng_nm":27,"alt_fmsl":325,"id":"BG","rwy":"25L","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.47194500,"lon":-4.31283300,"rng_nm":0,"alt_fmsl":325,"id":"----","rwy":"25L","desc":"OM"},
+{"type":"DME","freq":109.9,"lat":48.45169700,"lon":-4.40660600,"rng_nm":27,"alt_fmsl":325,"id":"BG","rwy":"25L","desc":"DME-ILS"}
+]
+}

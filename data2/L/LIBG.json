@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIBG","name":"Grottaglie","lat":40.52062457,"lon":17.39872678,"rwys":1,"ils":1,"elev":215,"index":3236001,"path":"e010n40/e017n40"
+,"runways":[
+{"len_m":3198,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":40.53163177,"lon1":17.39949688,"rwy2":"35","lat2":40.50339323,"lon2":17.40692556}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":118.7,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.35,"lat":40.53245900,"lon":17.39925400,"rng_nm":20,"alt_fmsl":215,"hdg":348.72,"id":"ITGT","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.35,"lat":40.50780500,"lon":17.40459600,"rng_nm":10,"alt_fmsl":215,"id":"ITGT","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":108.35,"lat":40.50780500,"lon":17.40459600,"rng_nm":25,"alt_fmsl":215,"id":"ITGT","rwy":"35","desc":"DME-ILS"}
+]
+}

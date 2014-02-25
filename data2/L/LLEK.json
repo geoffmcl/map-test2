@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLEK","name":"Tel Nov","lat":31.8373093333333,"lon":34.8258318333333,"rwys":3,"ils":0,"elev":193,"index":3513971,"path":"e030n30/e034n31"
+,"runways":[
+{"len_m":2403,"wid_m":45.72,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":31.84689200,"lon1":34.81846100,"rwy2":"36","lat2":31.82524200,"lon2":34.81728100},
+{"len_m":2399,"wid_m":45.72,"hdg":150,"surf":"Asphalt","rwy1":"15R","lat1":31.84716400,"lon1":34.82071100,"rwy2":"33L","lat2":31.82829700,"lon2":34.83312200},
+{"len_m":2399,"wid_m":45.72,"hdg":150,"surf":"Asphalt","rwy1":"15L","lat1":31.84756700,"lon1":34.82650800,"rwy2":"33R","lat2":31.82869400,"lon2":34.83890800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV APP"},
+{"type":"APP","freq":132,"desc":"TEL AVIV APP"}
+]
+,"ils":[
+]
+}

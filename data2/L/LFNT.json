@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNT","name":"Pujaut","lat":43.9966833333333,"lon":4.75664533333333,"rwys":3,"ils":0,"elev":148,"index":3023227,"path":"e000n40/e004n43"
+,"runways":[
+{"len_m":649,"wid_m":70.10,"hdg":345,"surf":"Turf/grass","rwy1":"17","lat1":43.99288800,"lon1":4.75996800,"rwy2":"35","lat2":43.99854200,"lon2":4.75789400},
+{"len_m":1161,"wid_m":89.92,"hdg":303,"surf":"Turf/grass","rwy1":"14","lat1":43.99522300,"lon1":4.76270300,"rwy2":"32","lat2":44.00094100,"lon2":4.75058500},
+{"len_m":1349,"wid_m":99.97,"hdg":345,"surf":"Turf/grass","rwy1":"18","lat1":43.99037800,"lon1":4.75650000,"rwy2":"36","lat2":44.00212800,"lon2":4.75222200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.35,"desc":"PUJAUT TWR"}
+]
+,"ils":[
+]
+}

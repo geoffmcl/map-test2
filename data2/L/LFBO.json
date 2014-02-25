@@ -1,0 +1,37 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBO","name":"Toulouse Blagnac","lat":43.61769870,"lon":1.35914040,"rwys":2,"ils":4,"elev":499,"index":2974049,"path":"e000n40/e001n43"
+,"runways":[
+{"len_m":3500,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14R","lat1":43.64411400,"lon1":1.34593100,"rwy2":"32L","lat2":43.61898100,"lon2":1.37209700},
+{"len_m":3025,"wid_m":45.11,"hdg":142,"surf":"Asphalt","rwy1":"14L","lat1":43.63736400,"lon1":1.35762200,"rwy2":"32R","lat2":43.61564400,"lon2":1.38022500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.12,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":121.25,"desc":"TOULOUSE INFO"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP"},
+{"type":"APP","freq":125.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":124.97,"desc":"TOULOUSE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":43.61391100,"lon":1.38202800,"rng_nm":18,"alt_fmsl":494,"hdg":143.02,"id":"TG","rwy":"14L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.7,"lat":43.61477500,"lon":1.37647500,"rng_nm":18,"alt_fmsl":497,"hdg":143.01,"id":"TBS","rwy":"14R","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.3,"lat":43.64836900,"lon":1.34149700,"rng_nm":18,"alt_fmsl":487,"hdg":322.99,"id":"TBN","rwy":"32L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":108.35,"lat":43.63919400,"lon":1.35544400,"rng_nm":18,"alt_fmsl":486,"hdg":322.70,"id":"TD","rwy":"32R","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.9,"lat":43.63451700,"lon":1.35825800,"rng_nm":10,"alt_fmsl":494,"id":"TG","rwy":"14L","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":43.64266900,"lon":1.34976400,"rng_nm":10,"alt_fmsl":497,"id":"TBS","rwy":"14R","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":43.62183300,"lon":1.37145800,"rng_nm":10,"alt_fmsl":487,"id":"TBN","rwy":"32L","desc":"GS","gs":3},
+{"type":"GS","freq":108.35,"lat":43.61697200,"lon":1.37680600,"rng_nm":10,"alt_fmsl":486,"id":"TD","rwy":"32R","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":43.56398392,"lon":1.43005002,"rng_nm":0,"alt_fmsl":420,"id":"----","rwy":"32L","desc":"OM"},
+{"type":"OM","freq":0,"lat":43.57910156,"lon":1.41866672,"rng_nm":0,"alt_fmsl":472,"id":"----","rwy":"32R","desc":"OM"},
+{"type":"DME","freq":108.9,"lat":43.63451700,"lon":1.35825800,"rng_nm":18,"alt_fmsl":528,"id":"TG","rwy":"14L","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":43.64266900,"lon":1.34976400,"rng_nm":18,"alt_fmsl":538,"id":"TBS","rwy":"14R","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":43.62183600,"lon":1.37145800,"rng_nm":18,"alt_fmsl":535,"id":"TBN","rwy":"32L","desc":"DME-ILS"},
+{"type":"DME","freq":108.35,"lat":43.61697200,"lon":1.37680600,"rng_nm":18,"alt_fmsl":554,"id":"TD","rwy":"32R","desc":"DME-ILS"}
+]
+}

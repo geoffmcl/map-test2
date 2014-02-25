@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIRS","name":"Grosseto","lat":42.76180650,"lon":11.07412150,"rwys":2,"ils":0,"elev":15,"index":3137840,"path":"e010n40/e011n42"
+,"runways":[
+{"len_m":2994,"wid_m":45.11,"hdg":30,"surf":"Asphalt","rwy1":"03","lat1":42.74935600,"lon1":11.06120000,"rwy2":"21","lat2":42.77246700,"lon2":11.08001900},
+{"len_m":2355,"wid_m":24.38,"hdg":30,"surf":"Asphalt","rwy1":"03R","lat1":42.75053100,"lon1":11.06598300,"rwy2":"21L","lat2":42.76874700,"lon2":11.08071700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.1,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":124.52,"desc":"APP"}
+]
+,"ils":[
+]
+}

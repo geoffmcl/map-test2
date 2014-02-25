@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIRZ","name":"Perugia","lat":43.09429121,"lon":12.50301969,"rwys":1,"ils":1,"elev":693,"index":3154242,"path":"e010n40/e012n43"
+,"runways":[
+{"len_m":1760,"wid_m":46.94,"hdg":14,"surf":"Asphalt","rwy1":"01","lat1":43.08851221,"lon1":12.51065091,"rwy2":"19","lat2":43.10387151,"lon2":12.51599826}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":43.10525000,"lon":12.51647200,"rng_nm":18,"alt_fmsl":693,"hdg":14.25,"id":"IPE","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":43.09030600,"lon":12.51286100,"rng_nm":10,"alt_fmsl":667,"id":"IPE","rwy":"01","desc":"GS","gs":3.4},
+{"type":"DME","freq":110.95,"lat":43.09030600,"lon":12.51291700,"rng_nm":18,"alt_fmsl":667,"id":"IPE","rwy":"01","desc":"DME-ILS"}
+]
+}

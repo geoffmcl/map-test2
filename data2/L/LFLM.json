@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLM","name":"Macon Charnay","lat":46.2951055,"lon":4.7957515,"rwys":1,"ils":0,"elev":728,"index":3023379,"path":"e000n40/e004n46"
+,"runways":[
+{"len_m":1229,"wid_m":24.08,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":46.30060800,"lon1":4.79494700,"rwy2":"35","lat2":46.28960300,"lon2":4.79655600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119,"desc":"MACON INFO"},
+{"type":"APP","freq":135.2,"desc":"LYON APP"}
+]
+,"ils":[
+]
+}

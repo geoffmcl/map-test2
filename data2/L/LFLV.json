@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLV","name":"Vichy Charmeil","lat":46.16433330,"lon":3.39898850,"rwys":1,"ils":1,"elev":817,"index":3006985,"path":"e000n40/e003n46"
+,"runways":[
+{"len_m":2203,"wid_m":45.11,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":46.15987800,"lon1":3.40172200,"rwy2":"19","lat2":46.17950000,"lon2":3.40575300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.4,"desc":"VICHY INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":46.18259700,"lon":3.40623900,"rng_nm":18,"alt_fmsl":820,"hdg":7.84,"id":"VZ","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":46.16286900,"lon":3.40064400,"rng_nm":10,"alt_fmsl":870,"id":"VZ","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.09408300,"lon":3.38863900,"rng_nm":0,"alt_fmsl":817,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.15183300,"lon":3.39941700,"rng_nm":0,"alt_fmsl":817,"id":"----","rwy":"01","desc":"MM"}
+]
+}

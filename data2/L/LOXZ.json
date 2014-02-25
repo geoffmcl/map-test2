@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOXZ","name":"Zeltweg","lat":47.203682,"lon":14.74585525,"rwys":2,"ils":0,"elev":2220,"index":3187274,"path":"e010n40/e014n47"
+,"runways":[
+{"len_m":2726,"wid_m":60.05,"hdg":80,"surf":"Asphalt","rwy1":"08","lat1":47.20075000,"lon1":14.72647200,"rwy2":"26","lat2":47.20477800,"lon2":14.76197200},
+{"len_m":1100,"wid_m":39.93,"hdg":80,"surf":"Turf/grass","rwy1":"08L","lat1":47.20382200,"lon1":14.74031900,"rwy2":"26R","lat2":47.20537800,"lon2":14.75465800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"TWR","freq":132.65,"desc":"TWR"},
+{"type":"APP","freq":129.47,"desc":"RADAR"},
+{"type":"APP","freq":135.37,"desc":"RADAR"}
+]
+,"ils":[
+]
+}

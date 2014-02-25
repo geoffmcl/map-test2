@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFHP","name":"Le Puy Loudes","lat":45.07535904,"lon":3.76304358,"rwys":2,"ils":1,"elev":2731,"index":3006915,"path":"e000n40/e003n45"
+,"runways":[
+{"len_m":1448,"wid_m":29.87,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":45.08629315,"lon1":3.75826038,"rwy2":"33","lat2":45.07489315,"lon2":3.76718038},
+{"len_m":753,"wid_m":57.91,"hdg":150,"surf":"Turf/grass","rwy1":"15R","lat1":45.08348184,"lon1":3.75908819,"rwy2":"33L","lat2":45.07755544,"lon2":3.76373939}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"LE PUY INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":45.08663100,"lon":3.75798300,"rng_nm":18,"alt_fmsl":2707,"hdg":331.04,"id":"PY","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":45.07770800,"lon":3.76686100,"rng_nm":10,"alt_fmsl":2786,"id":"PY","rwy":"33","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":45.02900000,"lon":3.80544400,"rng_nm":0,"alt_fmsl":2731,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.06697200,"lon":3.77336100,"rng_nm":0,"alt_fmsl":2731,"id":"----","rwy":"33","desc":"MM"},
+{"type":"DME","freq":108.5,"lat":45.07770800,"lon":3.76686100,"rng_nm":18,"alt_fmsl":2786,"id":"PY","rwy":"33","desc":"DME-ILS"}
+]
+}

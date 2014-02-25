@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LZIB","name":"Bratislava/m.r. Stefanik","lat":48.17107200,"lon":17.20228900,"rwys":2,"ils":2,"elev":436,"index":3236488,"path":"e010n40/e017n48"
+,"runways":[
+{"len_m":2956,"wid_m":45.11,"hdg":133,"surf":"Concrete","rwy1":"13","lat1":48.17573051,"lon1":17.20394636,"rwy2":"31","lat2":48.15727749,"lon2":17.23256243},
+{"len_m":2911,"wid_m":60.05,"hdg":43,"surf":"Concrete","rwy1":"04","lat1":48.16069127,"lon1":17.19937086,"rwy2":"22","lat2":48.17955849,"lon2":17.22650782}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.08,"hdg":17,"surf":"Concrete","lat1":48.16788126,"lon1":17.20251009},
+{"rwy1":"H2","len_m":24,"wid_m":24.08,"hdg":17,"surf":"Concrete","lat1":48.16672759,"lon1":17.20138873}
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"ATIS"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":134.93,"desc":"APP"}
+]
+,"ils":[
+{"type":"GS","freq":108.3,"lat":48.17664400,"lon":17.22477800,"rng_nm":10,"alt_fmsl":436,"id":"OKR","rwy":"22","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":48.16030800,"lon":17.23096400,"rng_nm":10,"alt_fmsl":433,"id":"OB","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.22386700,"lon":17.29031900,"rng_nm":0,"alt_fmsl":436,"id":"----","rwy":"22","desc":"OM"},
+{"type":"OM","freq":0,"lat":48.11482800,"lon":17.29836700,"rng_nm":0,"alt_fmsl":436,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.18635000,"lon":17.23618900,"rng_nm":0,"alt_fmsl":436,"id":"----","rwy":"22","desc":"MM"},
+{"type":"MM","freq":0,"lat":48.15076700,"lon":17.24266100,"rng_nm":0,"alt_fmsl":436,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":108.3,"lat":48.17664700,"lon":17.22476400,"rng_nm":25,"alt_fmsl":436,"id":"OKR","rwy":"22","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":48.16030800,"lon":17.23096400,"rng_nm":25,"alt_fmsl":433,"id":"OB","rwy":"31","desc":"DME-ILS"}
+]
+}

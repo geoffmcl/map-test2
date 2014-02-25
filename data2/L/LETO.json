@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LETO","name":"Torrejon","lat":40.49092209,"lon":-3.44122520,"rwys":1,"ils":1,"elev":2025,"index":2891930,"path":"w010n40/w004n40"
+,"runways":[
+{"len_m":3659,"wid_m":66.14,"hdg":43,"surf":"Asphalt","rwy1":"05","lat1":40.48477200,"lon1":-3.46070001,"rwy2":"23","lat2":40.50871900,"lon2":-3.43103901}
+]
+,"helipads":[
+{"rwy1":"H9","len_m":49,"wid_m":49.99,"hdg":-3,"surf":"Concrete","lat1":40.49917108,"lon1":-3.43234764}
+]
+,"radios":[
+{"type":"GND","freq":118.3,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.9,"desc":"GCA"},
+{"type":"APP","freq":125.3,"desc":"GCA"},
+{"type":"APP","freq":118.4,"desc":"MADRID APP"},
+{"type":"APP","freq":118.75,"desc":"MADRID APP"},
+{"type":"APP","freq":119.95,"desc":"MADRID APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":40.47865000,"lon":-3.46826700,"rng_nm":18,"alt_fmsl":2025,"hdg":223.26,"id":"ITJA","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":40.50673100,"lon":-3.43529700,"rng_nm":10,"alt_fmsl":2025,"id":"ITJA","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":40.50661400,"lon":-3.43536400,"rng_nm":18,"alt_fmsl":2011,"id":"ITJA","rwy":"23","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSX","name":"Luxeuil St Sauveur Ab","lat":47.79198200,"lon":6.35439900,"rwys":2,"ils":2,"elev":912,"index":3056241,"path":"e000n40/e006n47"
+,"runways":[
+{"len_m":2433,"wid_m":45.11,"hdg":113,"surf":"Asphalt","rwy1":"11","lat1":47.79159200,"lon1":6.33453600,"rwy2":"29","lat2":47.78301400,"lon2":6.36440800},
+{"len_m":2325,"wid_m":35.97,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":47.77718300,"lon1":6.35716400,"rwy2":"22","lat2":47.79369200,"lon2":6.37621900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"LUXEUIL TWR"},
+{"type":"APP","freq":129.92,"desc":"LUXEUIL APP"},
+{"type":"APP","freq":119.7,"desc":"LUXEUIL APP"},
+{"type":"APP","freq":123.3,"desc":"LUXEUIL GCA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.1,"lat":47.79276300,"lon":6.33016100,"rng_nm":18,"alt_fmsl":912,"hdg":293.00,"id":"LXI","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.09,"lat":47.78105200,"lon":6.37116200,"rng_nm":18,"alt_fmsl":912,"hdg":113.00,"id":"LXI","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.1,"lat":47.78799100,"lon":6.35651200,"rng_nm":10,"alt_fmsl":912,"id":"LXI","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":108.09,"lat":47.78799100,"lon":6.35651200,"rng_nm":10,"alt_fmsl":912,"id":"LXI","rwy":"29","desc":"GS","gs":3}
+]
+}

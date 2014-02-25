@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMU","name":"Beziers Vias","lat":43.32082500,"lon":3.35238700,"rwys":1,"ils":1,"elev":54,"index":3006801,"path":"e000n40/e003n43"
+,"runways":[
+{"len_m":1819,"wid_m":35.05,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":43.32402100,"lon1":3.34238700,"rwy2":"28","lat2":43.32282300,"lon2":3.36475900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.52,"desc":"LFMU ATIS"},
+{"type":"TWR","freq":120.17,"desc":"BEZIERS TWR"},
+{"type":"TWR","freq":123,"desc":"BEZIERS TWR"},
+{"type":"APP","freq":130.85,"desc":"MONTPELLIER APP"},
+{"type":"APP","freq":133.77,"desc":"MONTPELLIER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":43.32247222,"lon":3.36935833,"rng_nm":18,"alt_fmsl":50,"hdg":94.52,"id":"ZR","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":43.32266900,"lon":3.34758600,"rng_nm":10,"alt_fmsl":92,"id":"ZR","rwy":"10","desc":"GS","gs":3},
+{"type":"DME","freq":109.35,"lat":43.32266900,"lon":3.34758600,"rng_nm":18,"alt_fmsl":92,"id":"ZR","rwy":"10","desc":"DME-ILS"}
+]
+}

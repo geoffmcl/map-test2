@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRO","name":"Lannion","lat":48.75667600,"lon":-3.47077200,"rwys":1,"ils":2,"elev":291,"index":2892466,"path":"w010n40/w004n48"
+,"runways":[
+{"len_m":1694,"wid_m":45.11,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":48.75660900,"lon1":-3.48273500,"rwy2":"29","lat2":48.75200900,"lon2":-3.46075900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.4,"desc":"LANNION MULT"},
+{"type":"TWR","freq":118.4,"desc":"LANNION TWR"},
+{"type":"APP","freq":125.5,"desc":"BREST_CONTROL APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":48.75692500,"lon":-3.48419700,"rng_nm":18,"alt_fmsl":291,"hdg":287.64,"id":"LN","rwy":"29","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":48.75074000,"lon":-3.46076300,"rng_nm":10,"alt_fmsl":292,"id":"LN","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":110.35,"lat":48.75431100,"lon":-3.46630000,"rng_nm":10,"alt_fmsl":291,"id":"LN","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":110.35,"lat":48.75431100,"lon":-3.46630000,"rng_nm":18,"alt_fmsl":291,"id":"LN","rwy":"29","desc":"DME-ILS"}
+]
+}

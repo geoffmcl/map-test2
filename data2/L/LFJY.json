@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFJY","name":"Chambley Ba","lat":49.02208000,"lon":5.87990200,"rwys":2,"ils":0,"elev":866,"index":3039939,"path":"e000n40/e005n49"
+,"runways":[
+{"len_m":2405,"wid_m":45.11,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":49.01828114,"lon1":5.86376106,"rwy2":"23","lat2":49.03263486,"lon2":5.88837294},
+{"len_m":843,"wid_m":30.48,"hdg":48,"surf":"Turf/grass","rwy1":"05L","lat1":49.02324454,"lon1":5.87134836,"rwy2":"23R","lat2":49.02827946,"lon2":5.87998164}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.2,"desc":"RSA OPERATIONS"}
+]
+,"ils":[
+]
+}

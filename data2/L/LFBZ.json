@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBZ","name":"Biarritz-anglet-bayonne","lat":43.47079385,"lon":-1.53306100,"rwys":1,"ils":2,"elev":245,"index":2924889,"path":"w010n40/w002n43"
+,"runways":[
+{"len_m":2257,"wid_m":45.11,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":43.46827347,"lon1":-1.53726988,"rwy2":"27","lat2":43.46857996,"lon2":-1.50937511}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":32.00,"hdg":-1,"surf":"Concrete","lat1":43.46927375,"lon1":-1.53507707},
+{"rwy1":"H2","len_m":10,"wid_m":10.97,"hdg":-1,"surf":"Asphalt","lat1":43.47045904,"lon1":-1.53539720},
+{"rwy1":"H3","len_m":10,"wid_m":10.97,"hdg":-1,"surf":"Asphalt","lat1":43.47031090,"lon1":-1.53539420},
+{"rwy1":"H4","len_m":10,"wid_m":10.97,"hdg":-1,"surf":"Asphalt","lat1":43.47015947,"lon1":-1.53539223},
+{"rwy1":"H5","len_m":14,"wid_m":14.94,"hdg":-1,"surf":"Concrete","lat1":43.46615364,"lon1":-1.53555407}
+]
+,"radios":[
+{"type":"ATIS","freq":128.22,"desc":"LFBZ ATIS"},
+{"type":"GND","freq":121.95,"desc":"BIARRITZ GND"},
+{"type":"TWR","freq":118.7,"desc":"BIARRITZ TWR"},
+{"type":"APP","freq":125.6,"desc":"BIARRITZ APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.34,"lat":43.46851000,"lon":-1.50879300,"rng_nm":18,"alt_fmsl":243,"hdg":89.35,"id":"BZ","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.35,"lat":43.46822500,"lon":-1.53896900,"rng_nm":18,"alt_fmsl":234,"hdg":269.04,"id":"BZ","rwy":"27","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.34,"lat":43.46754100,"lon":-1.53545600,"rng_nm":10,"alt_fmsl":243,"id":"BZ","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":111.35,"lat":43.46760000,"lon":-1.51294200,"rng_nm":10,"alt_fmsl":234,"id":"BZ","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":111.35,"lat":43.46760000,"lon":-1.51293100,"rng_nm":18,"alt_fmsl":223,"id":"BZ","rwy":"27","desc":"DME-ILS"}
+]
+}

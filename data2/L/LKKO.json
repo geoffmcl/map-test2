@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKKO","name":"Kolin","lat":50.00541589,"lon":15.17356463,"rwys":2,"ils":0,"elev":925,"index":3203840,"path":"e010n50/e015n50"
+,"runways":[
+{"len_m":851,"wid_m":35.05,"hdg":27,"surf":"Turf/grass","rwy1":"03R","lat1":49.99806123,"lon1":15.17117162,"rwy2":"21L","lat2":50.00484045,"lon2":15.17668541},
+{"len_m":896,"wid_m":110.03,"hdg":27,"surf":"Turf/grass","rwy1":"03L","lat1":49.99836363,"lon1":15.17027184,"rwy2":"21R","lat2":50.00550093,"lon2":15.17607694}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"INFO"}
+]
+,"ils":[
+]
+}

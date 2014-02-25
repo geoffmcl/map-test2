@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKPM","name":"Pribram","lat":49.71599928,"lon":14.09449521,"rwys":2,"ils":0,"elev":1528,"index":3187432,"path":"e010n40/e014n49"
+,"runways":[
+{"len_m":1437,"wid_m":29.87,"hdg":55,"surf":"Asphalt","rwy1":"06L","lat1":49.71531511,"lon1":14.08949758,"rwy2":"24R","lat2":49.72262249,"lon2":14.10594256},
+{"len_m":1436,"wid_m":38.10,"hdg":55,"surf":"Turf/grass","rwy1":"06R","lat1":49.71572889,"lon1":14.08908086,"rwy2":"24L","lat2":49.72303274,"lon2":14.10550895}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.75,"desc":"INFO"}
+]
+,"ils":[
+]
+}

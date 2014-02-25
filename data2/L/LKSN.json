@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKSN","name":"Slany","lat":50.21839959,"lon":14.09086980,"rwys":2,"ils":0,"elev":1079,"index":3187464,"path":"e010n50/e014n50"
+,"runways":[
+{"len_m":662,"wid_m":39.93,"hdg":72,"surf":"Turf/grass","rwy1":"07L","lat1":50.21546094,"lon1":14.08361204,"rwy2":"25R","lat2":50.21728580,"lon2":14.09244688},
+{"len_m":449,"wid_m":22.86,"hdg":72,"surf":"Turf/grass","rwy1":"07R","lat1":50.21633647,"lon1":14.08629265,"rwy2":"25L","lat2":50.21755660,"lon2":14.09229896}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"INFO"}
+]
+,"ils":[
+]
+}

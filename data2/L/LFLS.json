@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLS","name":"St Geoirs","lat":45.36021200,"lon":5.33079800,"rwys":3,"ils":1,"elev":1302,"index":3039697,"path":"e000n40/e005n45"
+,"runways":[
+{"len_m":3049,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.36278200,"lon1":5.30983100,"rwy2":"27","lat2":45.36267200,"lon2":5.34875300},
+{"len_m":901,"wid_m":31.09,"hdg":90,"surf":"Turf/grass","rwy1":"09R","lat1":45.36208216,"lon1":5.31764233,"rwy2":"27L","lat2":45.36205393,"lon2":5.32915163},
+{"len_m":499,"wid_m":24.99,"hdg":160,"surf":"Turf/grass","rwy1":"16","lat1":45.36086577,"lon1":5.32880642,"rwy2":"34","lat2":45.35664080,"lon2":5.33098302}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":5,"surf":"Concrete","lat1":45.36129700,"lon1":5.33845800},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":5,"surf":"Turf/grass","lat1":45.36064200,"lon1":5.32878500}
+]
+,"radios":[
+{"type":"ATIS","freq":125.72,"desc":"LFLS ATIS"},
+{"type":"GND","freq":121.92,"desc":"GRENOBLE GND"},
+{"type":"TWR","freq":119.3,"desc":"GRENOBLE TWR"},
+{"type":"APP","freq":119.3,"desc":"GRENOBLE APP"},
+{"type":"APP","freq":120.4,"desc":"GRENOBLE APP"},
+{"type":"APP","freq":125.8,"desc":"LYON APP"},
+{"type":"APP","freq":127.57,"desc":"LYON APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.36266700,"lon":5.35202000,"rng_nm":27,"alt_fmsl":1302,"hdg":90.23,"id":"SG","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.36412200,"lon":5.31310800,"rng_nm":27,"alt_fmsl":1302,"id":"SG","rwy":"09","desc":"GS","gs":3},
+{"type":"DME","freq":109.3,"lat":45.36412200,"lon":5.31310800,"rng_nm":27,"alt_fmsl":1302,"id":"SG","rwy":"09","desc":"DME-ILS"}
+]
+}

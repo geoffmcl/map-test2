@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFKJ","name":"Napoleon Bonaparte","lat":41.92033200,"lon":8.79530600,"rwys":2,"ils":1,"elev":18,"index":3088635,"path":"e000n40/e008n41"
+,"runways":[
+{"len_m":2406,"wid_m":54.86,"hdg":25,"surf":"Asphalt","rwy1":"02","lat1":41.91186937,"lon1":8.79496744,"rwy2":"20","lat2":41.93149762,"lon2":8.80723663},
+{"len_m":1053,"wid_m":29.87,"hdg":94,"surf":"Concrete","rwy1":"10","lat1":41.92444700,"lon1":8.79174100,"rwy2":"28","lat2":41.92372900,"lon2":8.80440100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.92,"desc":"LFKJ ATIS"},
+{"type":"GND","freq":121.7,"desc":"AJACCIO GND"},
+{"type":"TWR","freq":118.1,"desc":"AJACCIO TWR"},
+{"type":"APP","freq":121.05,"desc":"AJACCIO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":41.93249300,"lon":8.80785800,"rng_nm":27,"alt_fmsl":18,"hdg":24.92,"id":"AC","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":41.91365000,"lon":8.79812300,"rng_nm":27,"alt_fmsl":18,"id":"AC","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":41.84335300,"lon":8.75154400,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"02","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":41.91364300,"lon":8.79812700,"rng_nm":27,"alt_fmsl":18,"id":"AC","rwy":"02","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LJMB","name":"Maribor","lat":46.47861468,"lon":15.68166053,"rwys":2,"ils":1,"elev":876,"index":3203610,"path":"e010n40/e015n46"
+,"runways":[
+{"len_m":2488,"wid_m":45.11,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":46.48915000,"lon1":15.67709404,"rwy2":"33","lat2":46.47056900,"lon2":15.69516104},
+{"len_m":1201,"wid_m":60.05,"hdg":146,"surf":"Turf/grass","rwy1":"15L","lat1":46.48587380,"lon1":15.68154275,"rwy2":"33R","lat2":46.47690659,"lon2":15.69028165}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"Maribor TWR"},
+{"type":"APP","freq":119.2,"desc":"Maribor APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":46.49166400,"lon":15.67464700,"rng_nm":18,"alt_fmsl":876,"hdg":326.19,"id":"MAR","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":46.47201900,"lon":15.69155300,"rng_nm":10,"alt_fmsl":856,"id":"MAR","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.42761700,"lon":15.73650600,"rng_nm":0,"alt_fmsl":807,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.46275300,"lon":15.70306100,"rng_nm":0,"alt_fmsl":847,"id":"----","rwy":"33","desc":"MM"}
+]
+}

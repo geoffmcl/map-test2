@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LHSM","name":"Balaton","lat":46.68828875,"lon":17.15765825,"rwys":2,"ils":1,"elev":408,"index":3236392,"path":"e010n40/e017n46"
+,"runways":[
+{"len_m":2503,"wid_m":60.05,"hdg":165,"surf":"Concrete","rwy1":"16","lat1":46.69728300,"lon1":17.15491700,"rwy2":"34","lat2":46.67550000,"lon2":17.16320000},
+{"len_m":945,"wid_m":64.62,"hdg":165,"surf":"Turf/grass","rwy1":"17R","lat1":46.69429400,"lon1":17.15467200,"rwy2":"35L","lat2":46.68607800,"lon2":17.15784400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":135.7,"desc":"INFO"},
+{"type":"TWR","freq":127.6,"desc":"INFO"},
+{"type":"TWR","freq":127.6,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":46.67298900,"lon":17.16414200,"rng_nm":18,"alt_fmsl":408,"hdg":165.40,"id":"SMK","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":46.69461700,"lon":17.15753900,"rng_nm":10,"alt_fmsl":408,"id":"SMK","rwy":"16","desc":"GS","gs":3},
+{"type":"DME","freq":108.75,"lat":46.69461700,"lon":17.15753900,"rng_nm":18,"alt_fmsl":408,"id":"SMK","rwy":"16","desc":"DME-ILS"}
+]
+}

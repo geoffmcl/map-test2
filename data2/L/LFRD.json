@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRD","name":"Dinard Pleurtuit-st Malo","lat":48.58912300,"lon":-2.07586800,"rwys":2,"ils":1,"elev":216,"index":2908835,"path":"w010n40/w003n48"
+,"runways":[
+{"len_m":2193,"wid_m":45.11,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":48.59805600,"lon1":-2.08267700,"rwy2":"35","lat2":48.57862200,"lon2":-2.07754700},
+{"len_m":1499,"wid_m":45.11,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":48.59048500,"lon1":-2.08892600,"rwy2":"30","lat2":48.58477100,"lon2":-2.07051400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.57,"desc":"LFRD ATIS"},
+{"type":"TWR","freq":120.15,"desc":"DINARD TWR"},
+{"type":"APP","freq":124.9,"desc":"RENNES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":48.59976500,"lon":-2.08312300,"rng_nm":27,"alt_fmsl":216,"hdg":350.08,"id":"DR","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.75,"lat":48.58131400,"lon":-2.07661100,"rng_nm":27,"alt_fmsl":216,"id":"DR","rwy":"35","desc":"GS","gs":3},
+{"type":"DME","freq":110.75,"lat":48.59976300,"lon":-2.08312300,"rng_nm":27,"alt_fmsl":216,"id":"DR","rwy":"35","desc":"DME-ILS"}
+]
+}

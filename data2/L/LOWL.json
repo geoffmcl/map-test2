@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOWL","name":"Linz Hoersching","lat":48.23941325,"lon":14.19191496,"rwys":1,"ils":2,"elev":978,"index":3187336,"path":"e010n40/e014n48"
+,"runways":[
+{"len_m":2995,"wid_m":60.05,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":48.23239906,"lon1":14.16738659,"rwy2":"27","lat2":48.23403894,"lon2":14.20763865}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":38,"wid_m":24.99,"hdg":14,"surf":"Concrete","lat1":48.23002408,"lon1":14.18111720},
+{"rwy1":"H13","len_m":14,"wid_m":14.02,"hdg":14,"surf":"Concrete","lat1":48.23850990,"lon1":14.18686475}
+]
+,"radios":[
+{"type":"ATIS","freq":128.12,"desc":"ATIS"},
+{"type":"TWR","freq":118.8,"desc":"TWR"},
+{"type":"APP","freq":129.62,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.55,"lat":48.23405075,"lon":14.20950031,"rng_nm":18,"alt_fmsl":955,"hdg":86.63,"id":"OEM","rwy":"09","desc":"ILS-cat-II"},
+{"type":"ILS","freq":109.3,"lat":48.23243100,"lon":14.16473600,"rng_nm":18,"alt_fmsl":978,"hdg":266.76,"id":"OEL","rwy":"27","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.55,"lat":48.23115158,"lon":14.17441654,"rng_nm":12,"alt_fmsl":964,"id":"OEM","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":48.23496400,"lon":14.20151700,"rng_nm":10,"alt_fmsl":996,"id":"OEL","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.23710000,"lon":14.32178300,"rng_nm":0,"alt_fmsl":978,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.23483600,"lon":14.21903300,"rng_nm":0,"alt_fmsl":978,"id":"----","rwy":"27","desc":"MM"},
+{"type":"DME","freq":110.55,"lat":48.23415158,"lon":14.17441654,"rng_nm":18,"alt_fmsl":964,"id":"OEM","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":48.23501700,"lon":14.20150600,"rng_nm":18,"alt_fmsl":996,"id":"OEL","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LYBE","name":"Belgrade","lat":44.81731900,"lon":20.29029700,"rwys":1,"ils":2,"elev":335,"index":3285425,"path":"e020n40/e020n44"
+,"runways":[
+{"len_m":3400,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":44.82651900,"lon1":20.29096900,"rwy2":"30","lat2":44.81033900,"lon2":20.32745300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"BELGRADE TWR"},
+{"type":"APP","freq":119.1,"desc":"BELGRADE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.80836100,"lon":20.33188900,"rng_nm":25,"alt_fmsl":315,"hdg":121.92,"id":"YUB","rwy":"12","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.9,"lat":44.82819400,"lon":20.28716700,"rng_nm":25,"alt_fmsl":298,"hdg":301.94,"id":"YBE","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.82602800,"lon":20.29552800,"rng_nm":25,"alt_fmsl":305,"id":"YUB","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":44.81458300,"lon":20.32086100,"rng_nm":25,"alt_fmsl":328,"id":"YBE","rwy":"30","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.86247200,"lon":20.20980700,"rng_nm":0,"alt_fmsl":236,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":44.77730600,"lon":20.40272200,"rng_nm":0,"alt_fmsl":232,"id":"----","rwy":"30","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.83180600,"lon":20.27911100,"rng_nm":0,"alt_fmsl":291,"id":"----","rwy":"12","desc":"MM"},
+{"type":"MM","freq":0,"lat":44.80688900,"lon":20.33513900,"rng_nm":0,"alt_fmsl":316,"id":"----","rwy":"30","desc":"MM"}
+]
+}

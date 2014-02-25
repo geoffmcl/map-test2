@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPR","name":"Rimini Mil","lat":44.02289100,"lon":12.61762100,"rwys":1,"ils":1,"elev":41,"index":3154306,"path":"e010n40/e012n44"
+,"runways":[
+{"len_m":2995,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13","lat1":44.02853100,"lon1":12.59696400,"rwy2":"31","lat2":44.01204200,"lon2":12.62652800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"ROMAGNA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":44.03091700,"lon":12.59266700,"rng_nm":18,"alt_fmsl":41,"hdg":307.77,"id":"MIR","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":44.01688900,"lon":12.62100000,"rng_nm":10,"alt_fmsl":41,"id":"MIR","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.96561100,"lon":12.70975000,"rng_nm":0,"alt_fmsl":41,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.00872200,"lon":12.63247200,"rng_nm":0,"alt_fmsl":41,"id":"----","rwy":"31","desc":"MM"}
+]
+}

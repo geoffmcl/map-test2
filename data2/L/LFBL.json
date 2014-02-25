@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBL","name":"Limoges Bellegarde","lat":45.86136630,"lon":1.17666420,"rwys":1,"ils":2,"elev":1300,"index":2974192,"path":"e000n40/e001n45"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":45.85248900,"lon1":1.17253900,"rwy2":"21","lat2":45.87130300,"lon2":1.19019700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.07,"desc":"ATIS"},
+{"type":"TWR","freq":124.05,"desc":"LIMOGES INFO"},
+{"type":"TWR","freq":118.17,"desc":"LIMOGES TWR"},
+{"type":"APP","freq":119.2,"desc":"LIMOGES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.29,"lat":45.87168500,"lon":1.19050100,"rng_nm":18,"alt_fmsl":1299,"hdg":33.10,"id":"LG","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":45.85098300,"lon":1.17112800,"rng_nm":18,"alt_fmsl":1271,"hdg":213.16,"id":"LG","rwy":"21","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.29,"lat":45.85309200,"lon":1.17454900,"rng_nm":10,"alt_fmsl":1299,"id":"LG","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":45.86940600,"lon":1.18656900,"rng_nm":10,"alt_fmsl":1271,"id":"LG","rwy":"21","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":45.86940600,"lon":1.18656900,"rng_nm":18,"alt_fmsl":1340,"id":"LG","rwy":"21","desc":"DME-ILS"}
+]
+}

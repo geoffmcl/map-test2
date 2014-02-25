@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LR81","name":"Deveselu","lat":44.077275,"lon":24.4164055,"rwys":1,"ils":0,"elev":289,"index":3350913,"path":"e020n40/e024n44"
+,"runways":[
+{"len_m":2505,"wid_m":79.86,"hdg":105,"surf":"Concrete","rwy1":"11","lat1":44.08028600,"lon1":24.40133600,"rwy2":"29","lat2":44.07426400,"lon2":24.43147500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"},
+{"type":"DEP","freq":130,"desc":"DEP"}
+]
+,"ils":[
+]
+}

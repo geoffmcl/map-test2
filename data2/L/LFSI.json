@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSI","name":"Saint Dizier Robinson","lat":48.63209806,"lon":4.90302594,"rwys":2,"ils":1,"elev":458,"index":3023531,"path":"e000n40/e004n48"
+,"runways":[
+{"len_m":2422,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":48.64027102,"lon1":4.88431232,"rwy2":"29","lat2":48.63177864,"lon2":4.91458709},
+{"len_m":1247,"wid_m":99.97,"hdg":113,"surf":"Transparent","rwy1":"11L","lat1":48.63701215,"lon1":4.90041023,"rwy2":"29R","lat2":48.63261404,"lon2":4.91597547}
+]
+,"helipads":[
+{"rwy1":"H2","len_m":31,"wid_m":28.96,"hdg":4,"surf":"Asphalt","lat1":48.63246329,"lon1":4.90715311}
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":134.77,"desc":"ST DIZIER TWR"},
+{"type":"APP","freq":134.77,"desc":"ST DIZIER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":48.64164700,"lon":4.87939200,"rng_nm":18,"alt_fmsl":458,"hdg":292.98,"id":"SDI","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":48.63129700,"lon":4.91198300,"rng_nm":10,"alt_fmsl":458,"id":"SDI","rwy":"29","desc":"GS","gs":2.82},
+{"type":"OM","freq":0,"lat":48.60450000,"lon":5.01194400,"rng_nm":0,"alt_fmsl":458,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.62838900,"lon":4.92666700,"rng_nm":0,"alt_fmsl":458,"id":"----","rwy":"29","desc":"MM"}
+]
+}

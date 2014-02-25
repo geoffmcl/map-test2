@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNG","name":"Candillargues","lat":43.61321600,"lon":4.07123700,"rwys":1,"ils":0,"elev":4,"index":3023200,"path":"e000n40/e004n43"
+,"runways":[
+{"len_m":899,"wid_m":29.87,"hdg":143,"surf":"Asphalt","rwy1":"33","lat1":43.61343900,"lon1":4.06693300,"rwy2":"15","lat2":43.60693100,"lon2":4.07356700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"CANDILLARGUES MULT"},
+{"type":"TWR","freq":118.77,"desc":"MONTPELLIER TWR"},
+{"type":"APP","freq":130.85,"desc":"MONTPELLIER APP"}
+]
+,"ils":[
+]
+}

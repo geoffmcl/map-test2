@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBF","name":"Balikesir","lat":39.6192585,"lon":27.9259595,"rwys":1,"ils":0,"elev":340,"index":3399779,"path":"e020n30/e027n39"
+,"runways":[
+{"len_m":2990,"wid_m":43.89,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":39.63271400,"lon1":27.92661900,"rwy2":"36","lat2":39.60580300,"lon2":27.92530000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.92,"desc":"INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

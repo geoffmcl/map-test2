@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFST","name":"Entzheim","lat":48.54216700,"lon":7.62410700,"rwys":1,"ils":2,"elev":504,"index":3072674,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":2411,"wid_m":45.11,"hdg":48,"surf":"Asphalt","rwy1":"05","lat1":48.53117900,"lon1":7.61600100,"rwy2":"23","lat2":48.54549100,"lon2":7.64052900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":7,"surf":"Concrete","lat1":48.53724600,"lon1":7.62244400},
+{"rwy1":"H2","len_m":17,"wid_m":17.98,"hdg":7,"surf":"Asphalt","lat1":48.54660800,"lon1":7.63203300},
+{"rwy1":"H3","len_m":7,"wid_m":7.92,"hdg":7,"surf":"Concrete","lat1":48.54068400,"lon1":7.62329400},
+{"rwy1":"H4","len_m":7,"wid_m":7.92,"hdg":7,"surf":"Concrete","lat1":48.54008000,"lon1":7.62224900},
+{"rwy1":"H5","len_m":7,"wid_m":7.92,"hdg":7,"surf":"Concrete","lat1":48.53865600,"lon1":7.62011600},
+{"rwy1":"H6","len_m":7,"wid_m":7.92,"hdg":7,"surf":"Concrete","lat1":48.53895700,"lon1":7.62065300},
+{"rwy1":"H7","len_m":7,"wid_m":7.92,"hdg":7,"surf":"Concrete","lat1":48.53920900,"lon1":7.62117100}
+]
+,"radios":[
+{"type":"ATIS","freq":126.92,"desc":"LFST ATIS"},
+{"type":"GND","freq":121.8,"desc":"STRASBOURG GND"},
+{"type":"TWR","freq":126.87,"desc":"STRASBOURG TWR"},
+{"type":"APP","freq":119.45,"desc":"STRASBOURG APP"},
+{"type":"APP","freq":119.57,"desc":"STRASBOURG APP"},
+{"type":"APP","freq":120.7,"desc":"STRASBOURG APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.55,"lat":48.54879400,"lon":7.64620000,"rng_nm":18,"alt_fmsl":499,"hdg":48.63,"id":"ENT","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.55,"lat":48.52782200,"lon":7.61025800,"rng_nm":18,"alt_fmsl":515,"hdg":228.59,"id":"STZ","rwy":"23","desc":"ILS-cat-III"},
+{"type":"GS","freq":108.55,"lat":48.53189400,"lon":7.61969700,"rng_nm":10,"alt_fmsl":561,"id":"ENT","rwy":"05","desc":"GS","gs":3.5},
+{"type":"GS","freq":109.55,"lat":48.54273300,"lon":7.63826100,"rng_nm":10,"alt_fmsl":542,"id":"STZ","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":108.55,"lat":48.53188600,"lon":7.61970000,"rng_nm":18,"alt_fmsl":504,"id":"ENT","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":109.55,"lat":48.54272800,"lon":7.54272800,"rng_nm":18,"alt_fmsl":504,"id":"STZ","rwy":"23","desc":"DME-ILS"}
+]
+}

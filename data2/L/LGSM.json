@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGSM","name":"Samos","lat":37.69123840,"lon":26.91165160,"rwys":1,"ils":0,"elev":19,"index":3383275,"path":"e020n30/e026n37"
+,"runways":[
+{"len_m":2043,"wid_m":45.11,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":37.68965500,"lon1":26.89956700,"rwy2":"27","lat2":37.68836900,"lon2":26.92267800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.1,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":124.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

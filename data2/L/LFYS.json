@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFYS","name":"Sainte Leocadie","lat":42.44573000,"lon":2.01374800,"rwys":1,"ils":0,"elev":4330,"index":2990360,"path":"e000n40/e002n42"
+,"runways":[
+{"len_m":782,"wid_m":89.92,"hdg":70,"surf":"Dirt","rwy1":"7","lat1":42.44484953,"lon1":2.00148192,"rwy2":"25","lat2":42.44724418,"lon2":2.01042198}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":2,"surf":"Asphalt","lat1":42.44580620,"lon1":2.01236929}
+]
+,"radios":[
+{"type":"CTAF","freq":118.62,"desc":"SAINTE LEOCADIE MULT"}
+]
+,"ils":[
+]
+}

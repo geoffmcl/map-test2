@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LZKZ","name":"Kosice","lat":48.6630305,"lon":21.2411545,"rwys":1,"ils":1,"elev":755,"index":3302056,"path":"e020n40/e021n48"
+,"runways":[
+{"len_m":3101,"wid_m":45.11,"hdg":13,"surf":"Asphalt","rwy1":"01","lat1":48.64944700,"lon1":21.23640600,"rwy2":"19","lat2":48.67661400,"lon2":21.24590300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":133.75,"desc":"TWR"},
+{"type":"TWR","freq":120.4,"desc":"TWR"},
+{"type":"APP","freq":129.58,"desc":"APP"},
+{"type":"APP","freq":129.57,"desc":"APP"},
+{"type":"APP","freq":119.85,"desc":"APP"},
+{"type":"APP","freq":133.75,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":48.68121700,"lon":21.24751100,"rng_nm":18,"alt_fmsl":739,"hdg":13.00,"id":"KE","rwy":"01","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":48.65232200,"lon":21.23573900,"rng_nm":10,"alt_fmsl":739,"id":"KE","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.58811400,"lon":21.21506900,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.64095800,"lon":21.23340000,"rng_nm":0,"alt_fmsl":755,"id":"----","rwy":"01","desc":"MM"}
+]
+}

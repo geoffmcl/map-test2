@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFAV","name":"Denain","lat":50.33005600,"lon":3.45748100,"rwys":2,"ils":1,"elev":177,"index":3007249,"path":"e000n50/e003n50"
+,"runways":[
+{"len_m":748,"wid_m":91.44,"hdg":61,"surf":"Turf/grass","rwy1":"25","lat1":50.32785400,"lon1":3.45534600,"rwy2":"07","lat2":50.33108000,"lon2":3.46456400},
+{"len_m":610,"wid_m":73.15,"hdg":110,"surf":"Turf/grass","rwy1":"11","lat1":50.32784400,"lon1":3.45776800,"rwy2":"29","lat2":50.32589400,"lon2":3.46578600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":3,"surf":"Asphalt","lat1":50.33075600,"lon1":3.46015400}
+]
+,"radios":[
+{"type":"ATIS","freq":122.6,"desc":"VALENCIENNES FSS"},
+{"type":"CTAF","freq":122.6,"desc":"VALENCIENNES MULT"},
+{"type":"APP","freq":126.47,"desc":"LILLE APP"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":50.32268600,"lon":3.47451700,"rng_nm":18,"alt_fmsl":177,"id":"VS","rwy":"11","desc":"LOC"},
+{"type":"DME","freq":108.5,"lat":50.32264700,"lon":3.47425300,"rng_nm":18,"alt_fmsl":177,"id":"VS","rwy":"11","desc":"DME-ILS"}
+]
+}

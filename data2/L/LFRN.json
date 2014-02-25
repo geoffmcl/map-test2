@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRN","name":"Rennes St Jacques","lat":48.06882600,"lon":-1.72979500,"rwys":2,"ils":1,"elev":124,"index":2925185,"path":"w010n40/w002n48"
+,"runways":[
+{"len_m":849,"wid_m":29.87,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":48.06991100,"lon1":-1.74049800,"rwy2":"32","lat2":48.06388100,"lon2":-1.73349800},
+{"len_m":2106,"wid_m":45.11,"hdg":100,"surf":"Asphalt","rwy1":"10","lat1":48.07368900,"lon1":-1.74606400,"rwy2":"28","lat2":48.07015900,"lon2":-1.71828600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":34,"wid_m":34.14,"hdg":-1,"surf":"Concrete","lat1":48.06470100,"lon1":-1.73207100}
+]
+,"radios":[
+{"type":"ATIS","freq":136.4,"desc":"LFRN ATIS"},
+{"type":"CTAF","freq":120.5,"desc":"RENNES MULT"},
+{"type":"GND","freq":121.72,"desc":"RENNES GND"},
+{"type":"TWR","freq":120.5,"desc":"RENNES TWR"},
+{"type":"APP","freq":134,"desc":"RENNES APP"},
+{"type":"APP","freq":124.9,"desc":"RENNES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":48.07396100,"lon":-1.74831400,"rng_nm":18,"alt_fmsl":124,"hdg":280.72,"id":"RS","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":48.07171900,"lon":-1.72193900,"rng_nm":10,"alt_fmsl":124,"id":"RS","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":48.07171900,"lon":-1.72193900,"rng_nm":18,"alt_fmsl":174,"id":"RS","rwy":"28","desc":"DME-ILS"}
+]
+}

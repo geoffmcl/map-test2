@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LR79","name":"Ianca","lat":45.158611,"lon":27.4308335,"rwys":1,"ils":0,"elev":131,"index":3400137,"path":"e020n40/e027n45"
+,"runways":[
+{"len_m":2496,"wid_m":79.86,"hdg":27,"surf":"Concrete","rwy1":"03","lat1":45.14861100,"lon1":27.42361100,"rwy2":"21","lat2":45.16861100,"lon2":27.43805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"},
+{"type":"DEP","freq":130,"desc":"DEP"}
+]
+,"ils":[
+]
+}

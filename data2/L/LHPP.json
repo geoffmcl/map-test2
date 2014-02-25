@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LHPP","name":"Pecs South","lat":45.989306,"lon":18.242083,"rwys":1,"ils":1,"elev":1000,"index":3252728,"path":"e010n40/e018n45"
+,"runways":[
+{"len_m":1506,"wid_m":29.87,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":45.99555600,"lon1":18.23833300,"rwy2":"34","lat2":45.98305600,"lon2":18.24583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.9,"desc":"POGANY INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":108.35,"lat":45.99782200,"lon":18.23701700,"rng_nm":18,"alt_fmsl":676,"hdg":337.47,"id":"PCS","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.35,"lat":45.98509700,"lon":18.24303100,"rng_nm":10,"alt_fmsl":676,"id":"PCS","rwy":"34","desc":"GS","gs":3}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMC","name":"Le Cannet","lat":43.38215400,"lon":6.38571500,"rwys":2,"ils":1,"elev":264,"index":3055961,"path":"e000n40/e006n43"
+,"runways":[
+{"len_m":1461,"wid_m":29.87,"hdg":130,"surf":"Asphalt","rwy1":"13","lat1":43.38866900,"lon1":6.38019600,"rwy2":"31","lat2":43.38018900,"lon2":6.39398000},
+{"len_m":800,"wid_m":29.87,"hdg":88,"surf":"Asphalt","rwy1":"09","lat1":43.38433100,"lon1":6.37871200,"rwy2":"27","lat2":43.38453100,"lon2":6.38858200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.65,"desc":"LFMC ATIS"},
+{"type":"GND","freq":121.85,"desc":"LE LUC GND"},
+{"type":"TWR","freq":119.7,"desc":"LE LUC TWR"},
+{"type":"TWR","freq":123,"desc":"LE LUC TWR"},
+{"type":"APP","freq":122.2,"desc":"LE LUC APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":43.38473900,"lon":6.39023900,"rng_nm":18,"alt_fmsl":259,"hdg":87.22,"id":"LC","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":43.38372500,"lon":6.38126400,"rng_nm":10,"alt_fmsl":1060,"id":"LC","rwy":"09","desc":"GS","gs":4},
+{"type":"DME","freq":109.3,"lat":43.38372800,"lon":6.38126400,"rng_nm":18,"alt_fmsl":1060,"id":"LC","rwy":"09","desc":"DME-ILS"}
+]
+}

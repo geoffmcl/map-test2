@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBA","name":"Agen La Garenne","lat":44.174025,"lon":0.592961,"rwys":1,"ils":1,"elev":204,"index":2957706,"path":"e000n40/e000n44"
+,"runways":[
+{"len_m":2164,"wid_m":29.87,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":44.17770300,"lon1":0.58042800,"rwy2":"29","lat2":44.17034700,"lon2":0.60549400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":129.6,"desc":"ATIS"},
+{"type":"TWR","freq":121.3,"desc":"AGEN TWR"},
+{"type":"APP","freq":121.1,"desc":"BLAGNAC APP"},
+{"type":"APP","freq":121.17,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":129.3,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":123.85,"desc":"TOULOUSE APP"},
+{"type":"APP","freq":124.97,"desc":"TOULOUSE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":44.17807500,"lon":0.57916700,"rng_nm":18,"alt_fmsl":213,"hdg":292.25,"id":"AG","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":44.17169700,"lon":0.59681700,"rng_nm":10,"alt_fmsl":240,"id":"AG","rwy":"29","desc":"GS","gs":3.3},
+{"type":"DME","freq":110.35,"lat":44.17169700,"lon":0.59681700,"rng_nm":18,"alt_fmsl":240,"id":"AG","rwy":"29","desc":"DME-ILS"}
+]
+}

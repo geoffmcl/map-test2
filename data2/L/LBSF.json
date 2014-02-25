@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LBSF","name":"Sofia","lat":42.68945500,"lon":23.40287000,"rwys":1,"ils":2,"elev":1741,"index":3334441,"path":"e020n40/e023n42"
+,"runways":[
+{"len_m":3605,"wid_m":45.11,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":42.69826000,"lon1":23.39477400,"rwy2":"27","lat2":42.69600000,"lon2":23.43867000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.05,"desc":"LBSF ATIS"},
+{"type":"TWR","freq":118.1,"desc":"SOFIA TWR"},
+{"type":"TWR","freq":121.9,"desc":"Sofia_East CNTR"},
+{"type":"TWR","freq":131.1,"desc":"Sofia_West CNTR"},
+{"type":"APP","freq":123.7,"desc":"SOFIA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":42.69585037,"lon":23.44300079,"rng_nm":18,"alt_fmsl":1741,"hdg":93.91,"id":"ISL","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":42.69844818,"lon":23.39083290,"rng_nm":18,"alt_fmsl":1741,"hdg":273.91,"id":"ISF","rwy":"27","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.7,"lat":42.69683456,"lon":23.40108299,"rng_nm":10,"alt_fmsl":1741,"id":"ISL","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":109.5,"lat":42.69733429,"lon":23.43600082,"rng_nm":10,"alt_fmsl":1741,"id":"ISF","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.70275116,"lon":23.30459976,"rng_nm":0,"alt_fmsl":1797,"id":"----","rwy":"09","desc":"OM"},
+{"type":"OM","freq":0,"lat":42.69205093,"lon":23.51111603,"rng_nm":0,"alt_fmsl":1726,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.70091629,"lon":23.33659935,"rng_nm":0,"alt_fmsl":1771,"id":"----","rwy":"09","desc":"MM"},
+{"type":"MM","freq":0,"lat":42.69345093,"lon":23.48538399,"rng_nm":0,"alt_fmsl":1731,"id":"----","rwy":"27","desc":"MM"},
+{"type":"IM","freq":0,"lat":42.69891739,"lon":23.37960052,"rng_nm":0,"alt_fmsl":1739,"id":"----","rwy":"09","desc":"IM"},
+{"type":"IM","freq":0,"lat":42.69578171,"lon":23.44555092,"rng_nm":0,"alt_fmsl":1741,"id":"----","rwy":"27","desc":"IM"},
+{"type":"DME","freq":110.7,"lat":42.69687271,"lon":23.39275360,"rng_nm":18,"alt_fmsl":1741,"id":"ISL","rwy":"09","desc":"DME-ILS"}
+]
+}

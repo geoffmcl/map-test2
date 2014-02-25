@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRTR","name":"Traian Vuia","lat":45.8098335,"lon":21.3378725,"rwys":1,"ils":1,"elev":348,"index":3301873,"path":"e020n40/e021n45"
+,"runways":[
+{"len_m":3488,"wid_m":45.11,"hdg":109,"surf":"Concrete","rwy1":"11","lat1":45.81513900,"lon1":21.31675600,"rwy2":"29","lat2":45.80452800,"lon2":21.35898900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"TIMISOARA GND"},
+{"type":"TWR","freq":120.1,"desc":"TIMISOARA TWR"},
+{"type":"APP","freq":120.1,"desc":"TIMISOARA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.81636100,"lon":21.31187800,"rng_nm":18,"alt_fmsl":343,"hdg":289.80,"id":"ITR","rwy":"29","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.3,"lat":45.80452200,"lon":21.35440800,"rng_nm":10,"alt_fmsl":343,"id":"ITR","rwy":"29","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":45.80131400,"lon":21.37177500,"rng_nm":0,"alt_fmsl":348,"id":"----","rwy":"29","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":45.80452200,"lon":21.35440800,"rng_nm":18,"alt_fmsl":399,"id":"ITR","rwy":"29","desc":"DME-ILS"}
+]
+}

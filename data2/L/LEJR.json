@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEJR","name":"Jerez","lat":36.74527700,"lon":-6.06529900,"rwys":2,"ils":1,"elev":93,"index":2842539,"path":"w010n30/w007n36"
+,"runways":[
+{"len_m":2300,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"03","lat1":36.73497464,"lon1":-6.06481368,"rwy2":"21","lat2":36.75426936,"lon2":-6.05540632},
+{"len_m":2300,"wid_m":45.11,"hdg":21,"surf":"Asphalt","rwy1":"02","lat1":36.73497500,"lon1":-6.06481400,"rwy2":"20","lat2":36.75426900,"lon2":-6.05540600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"APP","freq":128.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":36.73245000,"lon":-6.06604700,"rng_nm":18,"alt_fmsl":68,"hdg":201.34,"id":"IJR","rwy":"20","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":36.75098300,"lon":-6.05555600,"rng_nm":10,"alt_fmsl":93,"id":"IJR","rwy":"20","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.83446700,"lon":-6.01621700,"rng_nm":0,"alt_fmsl":93,"id":"----","rwy":"20","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.76395300,"lon":-6.05055000,"rng_nm":0,"alt_fmsl":93,"id":"----","rwy":"20","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":36.75098300,"lon":-6.05555600,"rng_nm":18,"alt_fmsl":93,"id":"IJR","rwy":"20","desc":"DME-ILS"}
+]
+}

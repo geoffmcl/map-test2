@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGIO","name":"Ioannina","lat":39.69256590,"lon":20.82369610,"rwys":1,"ils":0,"elev":1558,"index":3285099,"path":"e020n30/e020n39"
+,"runways":[
+{"len_m":2391,"wid_m":45.11,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":39.70500300,"lon1":20.81388900,"rwy2":"32","lat2":39.68805800,"lon2":20.83111100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":132.2,"desc":"AFIS"},
+{"type":"TWR","freq":132.2,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP"}
+]
+,"ils":[
+]
+}

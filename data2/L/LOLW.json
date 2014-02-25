@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOLW","name":"Wels","lat":48.17663312,"lon":14.03992908,"rwys":3,"ils":0,"elev":1043,"index":3187336,"path":"e010n40/e014n48"
+,"runways":[
+{"len_m":1394,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":48.18296419,"lon1":14.03148049,"rwy2":"27","lat2":48.18361881,"lon2":14.05021443},
+{"len_m":933,"wid_m":49.99,"hdg":88,"surf":"Turf/grass","rwy1":"09L","lat1":48.18186013,"lon1":14.03390606,"rwy2":"27R","lat2":48.18202587,"lon2":14.04645496},
+{"len_m":903,"wid_m":45.11,"hdg":88,"surf":"Turf/grass","rwy1":"09R","lat1":48.18046830,"lon1":14.03444313,"rwy2":"27L","lat2":48.18061470,"lon2":14.04658489}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"AFIS"}
+]
+,"ils":[
+]
+}

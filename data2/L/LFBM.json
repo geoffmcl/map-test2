@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBM","name":"Mont De Marsan","lat":43.9115045,"lon":-0.509371,"rwys":1,"ils":1,"elev":203,"index":2941305,"path":"w010n40/w001n43"
+,"runways":[
+{"len_m":3603,"wid_m":45.11,"hdg":87,"surf":"Asphalt","rwy1":"09","lat1":43.91071700,"lon1":-0.53177800,"rwy2":"27","lat2":43.91229200,"lon2":-0.48696400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.7,"desc":"MARSAN TWR"},
+{"type":"TWR","freq":122.1,"desc":"MARSAN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":43.91234200,"lon":-0.48534100,"rng_nm":18,"alt_fmsl":204,"hdg":87.23,"id":"MDM","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":43.91040300,"lon":-0.54067800,"rng_nm":18,"alt_fmsl":220,"hdg":267.19,"id":"MDM","rwy":"27","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.5,"lat":43.90990100,"lon":-0.53311100,"rng_nm":10,"alt_fmsl":204,"id":"MDM","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":43.91074700,"lon":-0.49183600,"rng_nm":10,"alt_fmsl":250,"id":"MDM","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.91663900,"lon":-0.38055600,"rng_nm":0,"alt_fmsl":203,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.91269400,"lon":-0.47530600,"rng_nm":0,"alt_fmsl":203,"id":"----","rwy":"27","desc":"MM"}
+]
+}

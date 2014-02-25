@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSMD","name":"Duebendorf","lat":47.40218095,"lon":8.62802996,"rwys":2,"ils":1,"elev":1470,"index":3088986,"path":"e000n40/e008n47"
+,"runways":[
+{"len_m":2707,"wid_m":39.93,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":47.40197633,"lon1":8.63208994,"rwy2":"29","lat2":47.39454708,"lon2":8.66623984},
+{"len_m":890,"wid_m":29.87,"hdg":107,"surf":"Turf/grass","rwy1":"11R","lat1":47.39957033,"lon1":8.63520146,"rwy2":"29L","lat2":47.39711698,"lon2":8.64642530}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":29.87,"hdg":8,"surf":"Concrete","lat1":47.39610594,"lon1":8.63764980}
+]
+,"radios":[
+{"type":"TWR","freq":128.47,"desc":"TWR"},
+{"type":"APP","freq":134.92,"desc":"ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":47.40261100,"lon":8.63027800,"rng_nm":18,"alt_fmsl":1470,"hdg":288.32,"id":"IDU","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":47.39535800,"lon":8.65958900,"rng_nm":10,"alt_fmsl":1464,"id":"IDU","rwy":"29","desc":"GS","gs":4.5},
+{"type":"DME","freq":111.15,"lat":47.39535800,"lon":8.65953300,"rng_nm":18,"alt_fmsl":1464,"id":"IDU","rwy":"29","desc":"DME-ILS"}
+]
+}

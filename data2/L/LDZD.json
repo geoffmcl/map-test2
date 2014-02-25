@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDZD","name":"Zadar","lat":44.09539030,"lon":15.35381980,"rwys":2,"ils":1,"elev":289,"index":3203457,"path":"e010n40/e015n44"
+,"runways":[
+{"len_m":2488,"wid_m":44.81,"hdg":135,"surf":"Asphalt","rwy1":"14","lat1":44.11638600,"lon1":15.33569400,"rwy2":"32","lat2":44.10035600,"lon2":15.35740300},
+{"len_m":1988,"wid_m":44.81,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":44.07939200,"lon1":15.34116400,"rwy2":"22","lat2":44.09276700,"lon2":15.35765300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.7,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":44.09799200,"lon":15.36060300,"rng_nm":25,"alt_fmsl":246,"hdg":135.69,"id":"IZD","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":44.11536400,"lon":15.33918600,"rng_nm":25,"alt_fmsl":236,"id":"IZD","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.16918600,"lon":15.26408100,"rng_nm":0,"alt_fmsl":78,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.12320300,"lon":15.32645600,"rng_nm":0,"alt_fmsl":220,"id":"----","rwy":"14","desc":"MM"}
+]
+}

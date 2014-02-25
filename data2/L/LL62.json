@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LL62","name":"Hatserim","lat":31.2340518333333,"lon":34.6580598333333,"rwys":3,"ils":0,"elev":725,"index":3513930,"path":"e030n30/e034n31"
+,"runways":[
+{"len_m":2943,"wid_m":34.14,"hdg":105,"surf":"Asphalt","rwy1":"10R","lat1":31.23235800,"lon1":34.64898100,"rwy2":"28L","lat2":31.22542200,"lon2":34.67880300},
+{"len_m":2424,"wid_m":39.93,"hdg":105,"surf":"Asphalt","rwy1":"10L","lat1":31.24157200,"lon1":34.64603900,"rwy2":"28R","lat2":31.23581400,"lon2":34.67058900},
+{"len_m":1769,"wid_m":22.86,"hdg":143,"surf":"Asphalt","rwy1":"15","lat1":31.24098100,"lon1":34.64644400,"rwy2":"33","lat2":31.22816400,"lon2":34.65750300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV APP"},
+{"type":"APP","freq":121.4,"desc":"TEL AVIV APP"}
+]
+,"ils":[
+]
+}

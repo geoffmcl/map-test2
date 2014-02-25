@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGKO","name":"Kos","lat":36.79903400,"lon":27.09066400,"rwys":1,"ils":0,"elev":412,"index":3399600,"path":"e020n30/e027n36"
+,"runways":[
+{"len_m":2412,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":36.80363900,"lon1":27.08363900,"rwy2":"32","lat2":36.78516700,"lon2":27.09788900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.95,"desc":"ATIS"},
+{"type":"TWR","freq":121.05,"desc":"IPPOKRATIS TWR"},
+{"type":"TWR","freq":122.1,"desc":"IPPOKRATIS TWR"},
+{"type":"APP","freq":119.95,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

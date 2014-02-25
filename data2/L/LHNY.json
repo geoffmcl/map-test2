@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LHNY","name":"Nyiregyhaza","lat":47.982923,"lon":21.6945925,"rwys":2,"ils":0,"elev":338,"index":3302010,"path":"e020n40/e021n47"
+,"runways":[
+{"len_m":880,"wid_m":60.05,"hdg":181,"surf":"Turf/grass","rwy1":"18L","lat1":47.98579400,"lon1":21.69700600,"rwy2":"36R","lat2":47.97787800,"lon2":21.69673900},
+{"len_m":1001,"wid_m":20.12,"hdg":181,"surf":"Asphalt","rwy1":"18R","lat1":47.98851400,"lon1":21.69246700,"rwy2":"36L","lat2":47.97950600,"lon2":21.69215800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.6,"desc":"INFO"}
+]
+,"ils":[
+]
+}

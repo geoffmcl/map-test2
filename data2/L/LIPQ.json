@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPQ","name":"Ronchi Dei Legionari","lat":45.82194800,"lon":13.47959100,"rwys":1,"ils":1,"elev":37,"index":3170801,"path":"e010n40/e013n45"
+,"runways":[
+{"len_m":3000,"wid_m":45.11,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.82795800,"lon1":13.44735600,"rwy2":"27","lat2":45.82775600,"lon2":13.48597100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.2,"desc":"TWR"},
+{"type":"APP","freq":119.15,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.75,"lat":45.82773600,"lon":13.49113300,"rng_nm":18,"alt_fmsl":43,"hdg":90.43,"id":"RNC","rwy":"09","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.75,"lat":45.82932500,"lon":13.45416100,"rng_nm":10,"alt_fmsl":82,"id":"RNC","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.82880600,"lon":13.36022200,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.82797200,"lon":13.43544400,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"09","desc":"MM"},
+{"type":"DME","freq":110.75,"lat":45.82950000,"lon":13.45425000,"rng_nm":18,"alt_fmsl":53,"id":"RNC","rwy":"09","desc":"DME-ILS"}
+]
+}

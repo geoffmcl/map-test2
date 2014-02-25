@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIEO","name":"Olbia Costa Smeralda","lat":40.90207670,"lon":9.51341440,"rwys":1,"ils":2,"elev":37,"index":3104954,"path":"e000n40/e009n40"
+,"runways":[
+{"len_m":2445,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"06","lat1":40.89241100,"lon1":9.50568600,"rwy2":"24","lat2":40.90491100,"lon2":9.52957200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.95,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.97,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":40.90590800,"lon":9.53147500,"rng_nm":18,"alt_fmsl":36,"hdg":55.31,"id":"ISM","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":40.89155000,"lon":9.50403000,"rng_nm":20,"alt_fmsl":36,"hdg":235.31,"id":"IOL","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":40.89605000,"lon":9.50992500,"rng_nm":10,"alt_fmsl":36,"id":"ISM","rwy":"06","desc":"GS","gs":3.5},
+{"type":"GS","freq":111.3,"lat":40.90182000,"lon":9.52625000,"rng_nm":10,"alt_fmsl":36,"id":"IOL","rwy":"24","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":40.88966100,"lon":9.50039700,"rng_nm":0,"alt_fmsl":37,"id":"----","rwy":"06","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":40.89605000,"lon":9.50992500,"rng_nm":18,"alt_fmsl":36,"id":"ISM","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":111.3,"lat":40.90182000,"lon":9.52625000,"rng_nm":25,"alt_fmsl":36,"id":"IOL","rwy":"24","desc":"DME-ILS"}
+]
+}

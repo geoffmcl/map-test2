@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LELC","name":"Murcia San Javier","lat":37.78741400,"lon":-0.80304700,"rwys":3,"ils":1,"elev":11,"index":2940912,"path":"w010n30/w001n37"
+,"runways":[
+{"len_m":809,"wid_m":60.05,"hdg":135,"surf":"Turf/grass","rwy1":"14","lat1":37.78675000,"lon1":-0.81389400,"rwy2":"32","lat2":37.78150800,"lon2":-0.80750000},
+{"len_m":2302,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05R","lat1":37.76772200,"lon1":-0.82155600,"rwy2":"23L","lat2":37.78219400,"lon2":-0.80283300},
+{"len_m":1997,"wid_m":49.99,"hdg":45,"surf":"Asphalt","rwy1":"05L","lat1":37.77540000,"lon1":-0.82200000,"rwy2":"23R","lat2":37.78796000,"lon2":-0.80576000}
+]
+,"helipads":[
+{"rwy1":"H9","len_m":20,"wid_m":20.12,"hdg":0,"surf":"Concrete","lat1":37.77624223,"lon1":-0.81435477}
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"SAN JAVIER GND"},
+{"type":"TWR","freq":130.3,"desc":"SAN JAVIER TWR"},
+{"type":"TWR","freq":118.2,"desc":"SAN JAVIER TWR"},
+{"type":"APP","freq":130.3,"desc":"SAN JAVIER APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":37.78344400,"lon":-0.80119400,"rng_nm":18,"alt_fmsl":11,"hdg":45.68,"id":"ISJ","rwy":"05R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":37.76886100,"lon":-0.81780600,"rng_nm":10,"alt_fmsl":11,"id":"ISJ","rwy":"05R","desc":"GS","gs":2.8},
+{"type":"OM","freq":0,"lat":37.67630600,"lon":-0.93927800,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"05R","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.76183300,"lon":-0.82905600,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"05R","desc":"MM"}
+]
+}

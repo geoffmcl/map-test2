@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLN","name":"Saint Yan","lat":46.40732024,"lon":4.02718820,"rwys":3,"ils":2,"elev":796,"index":3023384,"path":"e000n40/e004n46"
+,"runways":[
+{"len_m":2034,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"15L","lat1":46.42203100,"lon1":4.00711700,"rwy2":"33R","lat2":46.40649400,"lon2":4.02109700},
+{"len_m":1512,"wid_m":29.87,"hdg":148,"surf":"Asphalt","rwy1":"15R","lat1":46.41658863,"lon1":4.00716130,"rwy2":"33L","lat2":46.40504151,"lon2":4.01755744},
+{"len_m":720,"wid_m":99.97,"hdg":147,"surf":"Turf/grass","rwy1":"14","lat1":46.41565912,"lon1":4.01814659,"rwy2":"32","lat2":46.41016444,"lon2":4.02312654}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.47,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":122.3,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP"},
+{"type":"APP","freq":123.4,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.09,"lat":46.40507500,"lon":4.02241300,"rng_nm":18,"alt_fmsl":794,"hdg":148.13,"id":"SN","rwy":"15L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.75,"lat":46.42460600,"lon":4.00480000,"rng_nm":18,"alt_fmsl":794,"hdg":328.18,"id":"SN","rwy":"33R","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.09,"lat":46.42112400,"lon":4.00996100,"rng_nm":10,"alt_fmsl":794,"id":"SN","rwy":"15L","desc":"GS","gs":3},
+{"type":"GS","freq":111.75,"lat":46.40807200,"lon":4.01737800,"rng_nm":10,"alt_fmsl":820,"id":"SN","rwy":"33R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.35058300,"lon":4.07127800,"rng_nm":0,"alt_fmsl":796,"id":"----","rwy":"33R","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.39938900,"lon":4.02747200,"rng_nm":0,"alt_fmsl":796,"id":"----","rwy":"33R","desc":"MM"},
+{"type":"DME","freq":111.75,"lat":46.40822200,"lon":4.01737800,"rng_nm":18,"alt_fmsl":830,"id":"SN","rwy":"33R","desc":"DME-ILS"}
+]
+}

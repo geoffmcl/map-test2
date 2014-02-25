@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFCF","name":"Figeac Livernon","lat":44.671833485,"lon":1.789581415,"rwys":2,"ils":0,"elev":1084,"index":2974123,"path":"e000n40/e001n44"
+,"runways":[
+{"len_m":902,"wid_m":29.87,"hdg":109,"surf":"Asphalt","rwy1":"11","lat1":44.67392741,"lon1":1.78259725,"rwy2":"29","lat2":44.67115717,"lon2":1.79330009},
+{"len_m":280,"wid_m":20.12,"hdg":109,"surf":"Turf/grass","rwy1":"11R","lat1":44.67155548,"lon1":1.78955066,"rwy2":"29L","lat2":44.67069387,"lon2":1.79287766}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.5,"desc":"Livernon A/A"}
+]
+,"ils":[
+]
+}

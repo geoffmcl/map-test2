@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOE","name":"Fauville","lat":49.0286695,"lon":1.2198665,"rwys":1,"ils":2,"elev":464,"index":2974400,"path":"e000n40/e001n49"
+,"runways":[
+{"len_m":3001,"wid_m":45.11,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":49.01831400,"lon1":1.20671100,"rwy2":"22","lat2":49.03902500,"lon2":1.23302200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"EVREUX GND"},
+{"type":"TWR","freq":119.7,"desc":"EVREUX TWR"},
+{"type":"TWR","freq":122.1,"desc":"EVREUX TWR"},
+{"type":"TWR","freq":125.37,"desc":"EVREUX TWR"},
+{"type":"APP","freq":118.12,"desc":"EVREUX APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.29,"lat":49.03962700,"lon":1.23379600,"rng_nm":18,"alt_fmsl":463,"hdg":39.81,"id":"EVX","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.3,"lat":49.01626400,"lon":1.20410300,"rng_nm":18,"alt_fmsl":464,"hdg":219.79,"id":"EVX","rwy":"22","desc":"ILS-cat-II"},
+{"type":"GS","freq":111.29,"lat":49.01897000,"lon":1.20876200,"rng_nm":10,"alt_fmsl":463,"id":"EVX","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":111.3,"lat":49.03646700,"lon":1.23243900,"rng_nm":10,"alt_fmsl":464,"id":"EVX","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.08927800,"lon":1.29622200,"rng_nm":0,"alt_fmsl":464,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.04680600,"lon":1.24377800,"rng_nm":0,"alt_fmsl":464,"id":"----","rwy":"22","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRIA","name":"Iasi","lat":47.17849,"lon":27.620632,"rwys":1,"ils":1,"elev":397,"index":3400266,"path":"e020n40/e027n47"
+,"runways":[
+{"len_m":1780,"wid_m":29.87,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":47.18571100,"lon1":27.61555600,"rwy2":"33","lat2":47.17126900,"lon2":27.62570800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.2,"desc":"TWR"},
+{"type":"APP","freq":119.2,"desc":"APP"},
+{"type":"APP","freq":118.8,"desc":"PRECISION"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":47.16974200,"lon":27.62655300,"rng_nm":18,"alt_fmsl":397,"hdg":154.92,"id":"IIS","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":47.18342200,"lon":27.61844200,"rng_nm":10,"alt_fmsl":397,"id":"IIS","rwy":"15","desc":"GS","gs":3},
+{"type":"DME","freq":109.1,"lat":47.18337500,"lon":27.61838900,"rng_nm":18,"alt_fmsl":500,"id":"IIS","rwy":"15","desc":"DME-ILS"}
+]
+}

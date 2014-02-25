@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPK","name":"Forli","lat":44.19002150,"lon":12.06866260,"rwys":1,"ils":1,"elev":97,"index":3154312,"path":"e010n40/e012n44"
+,"runways":[
+{"len_m":2410,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":44.19977200,"lon1":12.05673300,"rwy2":"30","lat2":44.18971400,"lon2":12.08344200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.75,"desc":"TWR"},
+{"type":"TWR","freq":118.95,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"ROMAGNA APP"},
+{"type":"APP","freq":122.1,"desc":"ROMAGNA APP"},
+{"type":"APP","freq":124.85,"desc":"ROMAGNA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":44.18833300,"lon":12.08722200,"rng_nm":18,"alt_fmsl":98,"hdg":117.63,"id":"FOR","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":44.19694400,"lon":12.05972200,"rng_nm":10,"alt_fmsl":98,"id":"FOR","rwy":"12","desc":"GS","gs":3.33},
+{"type":"OM","freq":0,"lat":44.22861100,"lon":11.97722200,"rng_nm":0,"alt_fmsl":97,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.20444400,"lon":12.04305600,"rng_nm":0,"alt_fmsl":97,"id":"----","rwy":"12","desc":"MM"}
+]
+}

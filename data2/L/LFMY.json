@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMY","name":"Salon Ab","lat":43.60304700,"lon":5.10798800,"rwys":3,"ils":1,"elev":197,"index":3039584,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":2001,"wid_m":45.11,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":43.61570000,"lon1":5.10447000,"rwy2":"34","lat2":43.59880400,"lon2":5.11306400},
+{"len_m":964,"wid_m":89.92,"hdg":164,"surf":"Turf/grass","rwy1":"17","lat1":43.61467288,"lon1":5.11603454,"rwy2":"35R","lat2":43.60631312,"lon2":5.11925059},
+{"len_m":786,"wid_m":39.93,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":43.60908800,"lon1":5.10927900,"rwy2":"27","lat2":43.60897000,"lon2":5.11901700}
+]
+,"helipads":[
+{"rwy1":"H32","len_m":34,"wid_m":34.14,"hdg":5,"surf":"Concrete","lat1":43.60469000,"lon1":5.10806100}
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"SALON TWR"},
+{"type":"TWR","freq":135.15,"desc":"SALON TWR"},
+{"type":"APP","freq":135.15,"desc":"SALON APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":43.59694000,"lon":5.11397700,"rng_nm":27,"alt_fmsl":197,"hdg":159.68,"id":"SAL","rwy":"16","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.9,"lat":43.61294400,"lon":5.10753500,"rng_nm":27,"alt_fmsl":197,"id":"SAL","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":43.68397200,"lon":5.06969400,"rng_nm":0,"alt_fmsl":197,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":43.62313900,"lon":5.10077800,"rng_nm":0,"alt_fmsl":197,"id":"----","rwy":"16","desc":"MM"}
+]
+}

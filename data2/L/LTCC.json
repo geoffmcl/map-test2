@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTCC","name":"Diyarbakir","lat":37.8938985,"lon":40.2010165,"rwys":1,"ils":0,"elev":2251,"index":3612664,"path":"e040n30/e040n37"
+,"runways":[
+{"len_m":3548,"wid_m":45.11,"hdg":162,"surf":"Concrete","rwy1":"16","lat1":37.90915300,"lon1":40.19498300,"rwy2":"34","lat2":37.87864400,"lon2":40.20705000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.42,"desc":"ATIS"},
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+]
+}

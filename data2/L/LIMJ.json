@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIMJ","name":"Genova Sestri","lat":44.41415400,"lon":8.84453098,"rwys":1,"ils":1,"elev":13,"index":3088795,"path":"e000n40/e008n44"
+,"runways":[
+{"len_m":2924,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":44.41544087,"lon1":8.82416198,"rwy2":"28","lat2":44.40847396,"lon2":8.85957047}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":44.41661100,"lon":8.82277800,"rng_nm":18,"alt_fmsl":9,"hdg":287.30,"id":"GSE","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":44.40902800,"lon":8.85322200,"rng_nm":10,"alt_fmsl":26,"id":"GSE","rwy":"28","desc":"GS","gs":3.17},
+{"type":"DME","freq":109.3,"lat":44.40897200,"lon":8.85319400,"rng_nm":18,"alt_fmsl":26,"id":"GSE","rwy":"28","desc":"DME-ILS"}
+]
+}

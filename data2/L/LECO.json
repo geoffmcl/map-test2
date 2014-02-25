@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LECO","name":"A Coruna","lat":43.30250544,"lon":-8.38079777,"rwys":1,"ils":1,"elev":323,"index":2810194,"path":"w010n40/w009n43"
+,"runways":[
+{"len_m":1941,"wid_m":45.11,"hdg":31,"surf":"Asphalt","rwy1":"04","lat1":43.29477658,"lon1":-8.38325303,"rwy2":"22","lat2":43.30975142,"lon2":-8.37091842}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"SANTIAGO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":43.29372800,"lon":-8.38409400,"rng_nm":18,"alt_fmsl":329,"hdg":210.89,"id":"LCO","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":43.30721700,"lon":-8.37210000,"rng_nm":10,"alt_fmsl":323,"id":"LCO","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":43.30721700,"lon":-8.37208300,"rng_nm":18,"alt_fmsl":293,"id":"LCO","rwy":"22","desc":"DME-ILS"}
+]
+}

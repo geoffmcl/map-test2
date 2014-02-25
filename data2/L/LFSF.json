@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSF","name":"Metz Frescaty","lat":49.07881550,"lon":6.12459610,"rwys":1,"ils":2,"elev":629,"index":3056320,"path":"e000n40/e006n49"
+,"runways":[
+{"len_m":2400,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"01","lat1":49.06166400,"lon1":6.12996900,"rwy2":"19","lat2":49.08293300,"lon2":6.13555000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"METZ GND"},
+{"type":"TWR","freq":131.27,"desc":"METZ TWR"},
+{"type":"TWR","freq":119.7,"desc":"METZ TWR"},
+{"type":"APP","freq":119.12,"desc":"METZ APP"},
+{"type":"APP","freq":125.9,"desc":"METZ APP"},
+{"type":"APP","freq":119.3,"desc":"METZ APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.09,"lat":49.08562900,"lon":6.13618300,"rng_nm":18,"alt_fmsl":623,"hdg":9.64,"id":"MZ","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.1,"lat":49.05932200,"lon":6.12935300,"rng_nm":18,"alt_fmsl":629,"hdg":189.75,"id":"MZ","rwy":"19","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.09,"lat":49.07872000,"lon":6.13728500,"rng_nm":10,"alt_fmsl":623,"id":"MZ","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":109.1,"lat":49.08021700,"lon":6.13650000,"rng_nm":10,"alt_fmsl":629,"id":"MZ","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.18958300,"lon":6.16361100,"rng_nm":0,"alt_fmsl":629,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.09161100,"lon":6.13811100,"rng_nm":0,"alt_fmsl":629,"id":"----","rwy":"19","desc":"MM"}
+]
+}

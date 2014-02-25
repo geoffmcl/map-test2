@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTCF","name":"Kars","lat":40.5620835,"lon":43.115,"rwys":1,"ils":1,"elev":5889,"index":3661984,"path":"e040n40/e043n40"
+,"runways":[
+{"len_m":3495,"wid_m":45.11,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":40.55527800,"lon1":43.09638900,"rwy2":"24","lat2":40.56888900,"lon2":43.13361100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.9,"desc":"TWR"},
+{"type":"TWR","freq":122.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.3,"lat":40.56944400,"lon":43.13611100,"rng_nm":18,"alt_fmsl":5899,"hdg":64.87,"id":"IKAR","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.3,"lat":40.55472200,"lon":43.09694400,"rng_nm":10,"alt_fmsl":5882,"id":"IKAR","rwy":"06","desc":"GS","gs":3}
+]
+}

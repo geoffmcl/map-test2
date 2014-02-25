@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLX","name":"Chateauroux Deols","lat":46.86186220,"lon":1.72227120,"rwys":1,"ils":1,"elev":529,"index":2974258,"path":"e000n40/e001n46"
+,"runways":[
+{"len_m":3498,"wid_m":45.11,"hdg":33,"surf":"Concrete","rwy1":"04","lat1":46.85055600,"lon1":1.71916700,"rwy2":"22","lat2":46.87694400,"lon2":1.74416700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.87,"desc":"CHATEAUROUX INFO"},
+{"type":"TWR","freq":125.87,"desc":"CHATEAUROUX TWR"},
+{"type":"APP","freq":130.9,"desc":"POITERS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":46.84746900,"lon":1.71604200,"rng_nm":18,"alt_fmsl":522,"hdg":213.11,"id":"CX","rwy":"22","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":46.87292200,"lon":1.74269700,"rng_nm":10,"alt_fmsl":522,"id":"CX","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":46.87292200,"lon":1.74269700,"rng_nm":18,"alt_fmsl":577,"id":"CX","rwy":"22","desc":"DME-ILS"}
+]
+}

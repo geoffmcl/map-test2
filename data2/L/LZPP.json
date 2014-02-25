@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LZPP","name":"Piestany","lat":48.625246,"lon":17.828443,"rwys":1,"ils":1,"elev":545,"index":3236523,"path":"e010n40/e017n48"
+,"runways":[
+{"len_m":1999,"wid_m":29.87,"hdg":13,"surf":"Asphalt","rwy1":"01","lat1":48.61651400,"lon1":17.82521900,"rwy2":"19","lat2":48.63397800,"lon2":17.83166700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.45,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":48.63647500,"lon":17.83273300,"rng_nm":18,"alt_fmsl":535,"hdg":13.98,"id":"CN","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":48.61862200,"lon":17.82787800,"rng_nm":10,"alt_fmsl":535,"id":"CN","rwy":"01","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":48.60814200,"lon":17.82226400,"rng_nm":0,"alt_fmsl":545,"id":"----","rwy":"01","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":48.61863100,"lon":17.82783900,"rng_nm":18,"alt_fmsl":561,"id":"CN","rwy":"01","desc":"DME-ILS"}
+]
+}

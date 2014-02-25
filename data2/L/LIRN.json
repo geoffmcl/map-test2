@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIRN","name":"Naples Capodichino","lat":40.87964000,"lon":14.28347700,"rwys":1,"ils":2,"elev":294,"index":3186873,"path":"e010n40/e014n40"
+,"runways":[
+{"len_m":2627,"wid_m":45.11,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":40.87978600,"lon1":14.27754200,"rwy2":"24","lat2":40.89227800,"lon2":14.30402500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.97,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"NAPOLI GND CLNC DEL"},
+{"type":"TWR","freq":118.5,"desc":"NAPOLI TWR"},
+{"type":"APP","freq":124.35,"desc":"NAPOLI RADAR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":40.88688900,"lon":14.28988900,"rng_nm":18,"alt_fmsl":294,"hdg":52.74,"id":"NPC","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":40.87905600,"lon":14.27600000,"rng_nm":18,"alt_fmsl":288,"hdg":238.03,"id":"INPL","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":40.88427800,"lon":14.28358300,"rng_nm":10,"alt_fmsl":294,"id":"NPC","rwy":"06","desc":"GS","gs":3.5},
+{"type":"GS","freq":109.5,"lat":40.89116700,"lon":14.29894400,"rng_nm":10,"alt_fmsl":250,"id":"INPL","rwy":"24","desc":"GS","gs":3.33},
+{"type":"OM","freq":0,"lat":40.92861100,"lon":14.38305600,"rng_nm":0,"alt_fmsl":294,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":40.89711100,"lon":14.31427800,"rng_nm":0,"alt_fmsl":294,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":110.15,"lat":40.88427800,"lon":14.28358300,"rng_nm":25,"alt_fmsl":294,"id":"NPC","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":109.5,"lat":40.89116700,"lon":14.29894400,"rng_nm":25,"alt_fmsl":250,"id":"INPL","rwy":"24","desc":"DME-ILS"}
+]
+}

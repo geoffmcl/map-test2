@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDOC","name":"Cepin","lat":45.54242925,"lon":18.632523,"rwys":2,"ils":0,"elev":299,"index":3252706,"path":"e010n40/e018n45"
+,"runways":[
+{"len_m":1187,"wid_m":29.87,"hdg":102,"surf":"Asphalt","rwy1":"10","lat1":45.54390600,"lon1":18.62471400,"rwy2":"28","lat2":45.54152200,"lon2":18.63953900},
+{"len_m":1103,"wid_m":45.11,"hdg":102,"surf":"Dirt","rwy1":"10R","lat1":45.54324200,"lon1":18.62603100,"rwy2":"28L","lat2":45.54104700,"lon2":18.63980800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":118.8,"desc":"OSIJEK APP"}
+]
+,"ils":[
+]
+}

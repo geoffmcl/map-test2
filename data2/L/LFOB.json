@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOB","name":"Beauvais-tille","lat":49.45825762,"lon":2.11256554,"rwys":2,"ils":2,"elev":358,"index":2990808,"path":"e000n40/e002n49"
+,"runways":[
+{"len_m":2428,"wid_m":45.11,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":49.45831050,"lon1":2.10385000,"rwy2":"30","lat2":49.44620550,"lon2":2.13173256},
+{"len_m":708,"wid_m":24.99,"hdg":41,"surf":"Asphalt","rwy1":"04","lat1":49.45735800,"lon1":2.11680000,"rwy2":"22","lat2":49.46212780,"lon2":2.12327200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.37,"desc":"BEAUVAIS ATIS"},
+{"type":"TWR","freq":119.9,"desc":"BEAUVAIS TWR"},
+{"type":"TWR","freq":121.4,"desc":"BEAUVAIS TWR"},
+{"type":"APP","freq":119.9,"desc":"BEAUVAIS APP"},
+{"type":"APP","freq":121.4,"desc":"BEAUVAIS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.15,"lat":49.44483185,"lon":2.13490009,"rng_nm":18,"alt_fmsl":289,"hdg":123.73,"id":"BVT","rwy":"12","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.95,"lat":49.45953369,"lon":2.10104990,"rng_nm":18,"alt_fmsl":327,"hdg":303.83,"id":"BI","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.15,"lat":49.45534897,"lon":2.10770011,"rng_nm":10,"alt_fmsl":344,"id":"BVT","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":109.95,"lat":49.44654846,"lon":2.12794995,"rng_nm":10,"alt_fmsl":305,"id":"BI","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":111.15,"lat":49.45534897,"lon":2.10770011,"rng_nm":18,"alt_fmsl":344,"id":"BVT","rwy":"12","desc":"DME-ILS"},
+{"type":"DME","freq":109.95,"lat":49.44635010,"lon":2.12806678,"rng_nm":18,"alt_fmsl":303,"id":"BI","rwy":"30","desc":"DME-ILS"}
+]
+}

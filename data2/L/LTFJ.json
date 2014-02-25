@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTFJ","name":"Sabiha Gokcen","lat":40.8985515,"lon":29.309221,"rwys":1,"ils":2,"elev":312,"index":3432633,"path":"e020n40/e029n40"
+,"runways":[
+{"len_m":2957,"wid_m":45.11,"hdg":64,"surf":"Concrete","rwy1":"06","lat1":40.89273600,"lon1":29.29343100,"rwy2":"24","lat2":40.90436700,"lon2":29.32501100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.55,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":120.92,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":122.62,"desc":"TWR"},
+{"type":"TWR","freq":118.8,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":40.90475000,"lon":29.32605300,"rng_nm":18,"alt_fmsl":293,"hdg":64.03,"id":"ISAB","rwy":"06","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.9,"lat":40.89153100,"lon":29.29016100,"rng_nm":18,"alt_fmsl":285,"hdg":244.01,"id":"ISBH","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":40.89277800,"lon":29.29707800,"rng_nm":10,"alt_fmsl":294,"id":"ISAB","rwy":"06","desc":"GS","gs":3.5},
+{"type":"GS","freq":110.9,"lat":40.90201900,"lon":29.32257800,"rng_nm":10,"alt_fmsl":299,"id":"ISBH","rwy":"24","desc":"GS","gs":3.5},
+{"type":"MM","freq":0,"lat":40.88891900,"lon":29.28306700,"rng_nm":0,"alt_fmsl":272,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":40.90805600,"lon":29.33527800,"rng_nm":0,"alt_fmsl":312,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":109.9,"lat":40.89277800,"lon":29.29707800,"rng_nm":18,"alt_fmsl":312,"id":"ISAB","rwy":"06","desc":"DME-ILS"},
+{"type":"DME","freq":110.9,"lat":40.90201900,"lon":29.32257800,"rng_nm":18,"alt_fmsl":318,"id":"ISBH","rwy":"24","desc":"DME-ILS"}
+]
+}

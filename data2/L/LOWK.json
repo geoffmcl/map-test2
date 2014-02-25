@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOWK","name":"Klagenfurt Woerthersee","lat":46.64986192,"lon":14.32387607,"rwys":2,"ils":1,"elev":1470,"index":3187241,"path":"e010n40/e014n46"
+,"runways":[
+{"len_m":2720,"wid_m":45.11,"hdg":106,"surf":"Concrete","rwy1":"10L","lat1":46.64594400,"lon1":14.32068600,"rwy2":"28R","lat2":46.63908300,"lon2":14.35478900},
+{"len_m":711,"wid_m":27.13,"hdg":106,"surf":"Turf/grass","rwy1":"10R","lat1":46.64409029,"lon1":14.32014113,"rwy2":"28L","lat2":46.64228529,"lon2":14.32905813}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":22.86,"hdg":14,"surf":"Concrete","lat1":46.64772791,"lon1":14.32707616},
+{"rwy1":"H2","len_m":21,"wid_m":22.86,"hdg":14,"surf":"Concrete","lat1":46.64747292,"lon1":14.32719729},
+{"rwy1":"H3","len_m":21,"wid_m":22.86,"hdg":14,"surf":"Concrete","lat1":46.64725950,"lon1":14.32736686}
+]
+,"radios":[
+{"type":"ATIS","freq":124.07,"desc":"ATIS"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":126.82,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":46.64667200,"lon":14.31707500,"rng_nm":18,"alt_fmsl":1470,"hdg":286.32,"id":"OEK","rwy":"28R","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.1,"lat":46.63858600,"lon":14.35017500,"rng_nm":10,"alt_fmsl":1479,"id":"OEK","rwy":"28R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":46.62268600,"lon":14.44202500,"rng_nm":0,"alt_fmsl":1470,"id":"----","rwy":"28R","desc":"OM"},
+{"type":"MM","freq":0,"lat":46.63350300,"lon":14.38248300,"rng_nm":0,"alt_fmsl":1470,"id":"----","rwy":"28R","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":46.63854200,"lon":14.35011100,"rng_nm":18,"alt_fmsl":1479,"id":"OEK","rwy":"28R","desc":"DME-ILS"}
+]
+}

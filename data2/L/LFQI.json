@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQI","name":"Epinoy Ba","lat":50.21919300,"lon":3.15219700,"rwys":1,"ils":1,"elev":256,"index":3007240,"path":"e000n50/e003n50"
+,"runways":[
+{"len_m":2519,"wid_m":49.99,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":50.22266600,"lon1":3.13656200,"rwy2":"28","lat2":50.22105600,"lon2":3.17177000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.52,"desc":"CAMBRAI TWR"},
+{"type":"TWR","freq":122.1,"desc":"CAMBRAI TWR"},
+{"type":"APP","freq":123.3,"desc":"CAMBRAI_GCA APP"},
+{"type":"APP","freq":119.7,"desc":"CAMBRAI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":50.22291400,"lon":3.13080300,"rng_nm":18,"alt_fmsl":256,"hdg":274.04,"id":"CMB","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":50.22208900,"lon":3.17240600,"rng_nm":10,"alt_fmsl":256,"id":"CMB","rwy":"28","desc":"GS","gs":2.82},
+{"type":"OM","freq":0,"lat":50.21527800,"lon":3.30244400,"rng_nm":0,"alt_fmsl":256,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":50.22047200,"lon":3.18422200,"rng_nm":0,"alt_fmsl":256,"id":"----","rwy":"28","desc":"MM"}
+]
+}

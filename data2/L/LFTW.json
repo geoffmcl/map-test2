@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFTW","name":"Garons Navy","lat":43.75854900,"lon":4.41158200,"rwys":1,"ils":2,"elev":308,"index":3023217,"path":"e000n40/e004n43"
+,"runways":[
+{"len_m":2635,"wid_m":45.11,"hdg":177,"surf":"Concrete","rwy1":"18","lat1":43.76929100,"lon1":4.41555600,"rwy2":"36","lat2":43.74559700,"lon2":4.41722000}
+]
+,"helipads":[
+{"rwy1":"H33","len_m":24,"wid_m":24.99,"hdg":4,"surf":"Concrete","lat1":43.75862600,"lon1":4.41268400},
+{"rwy1":"H34","len_m":39,"wid_m":39.93,"hdg":4,"surf":"Asphalt","lat1":43.75705500,"lon1":4.41923300},
+{"rwy1":"H35","len_m":34,"wid_m":34.14,"hdg":4,"surf":"Concrete","lat1":43.74771700,"lon1":4.41218700}
+]
+,"radios":[
+{"type":"ATIS","freq":129.35,"desc":"LFTW ATIS"},
+{"type":"ATIS","freq":119.7,"desc":"RHONE FSS"},
+{"type":"ATIS","freq":127.92,"desc":"RHONE FSS"},
+{"type":"GND","freq":121.8,"desc":"GARONS GND"},
+{"type":"TWR","freq":123.2,"desc":"GARONS TWR"},
+{"type":"APP","freq":120.35,"desc":"RHONE APP"},
+{"type":"APP","freq":119.7,"desc":"GARONS APP"},
+{"type":"APP","freq":122.1,"desc":"GARONS APP"},
+{"type":"APP","freq":124.9,"desc":"GARONS APP"},
+{"type":"APP","freq":124.6,"desc":"GARONS APPROACH APP"},
+{"type":"APP","freq":119.9,"desc":"GARONS GCA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":43.74400000,"lon":4.41731100,"rng_nm":18,"alt_fmsl":306,"hdg":177.13,"id":"NG","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.09,"lat":43.76886700,"lon":4.41539100,"rng_nm":18,"alt_fmsl":308,"hdg":356.75,"id":"NG","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":43.76589200,"lon":4.41755300,"rng_nm":10,"alt_fmsl":302,"id":"NG","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":109.09,"lat":43.76668900,"lon":4.41914000,"rng_nm":10,"alt_fmsl":308,"id":"NG","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":109.55,"lat":43.76589200,"lon":4.41755300,"rng_nm":18,"alt_fmsl":340,"id":"NG","rwy":"18","desc":"DME-ILS"}
+]
+}

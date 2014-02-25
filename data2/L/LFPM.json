@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFPM","name":"Melun Villaroche","lat":48.60540800,"lon":2.67629000,"rwys":2,"ils":1,"elev":302,"index":2990754,"path":"e000n40/e002n48"
+,"runways":[
+{"len_m":1972,"wid_m":45.11,"hdg":103,"surf":"Asphalt","rwy1":"10","lat1":48.60647800,"lon1":2.66328600,"rwy2":"28","lat2":48.60233600,"lon2":2.68929400},
+{"len_m":1299,"wid_m":29.87,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":48.60614200,"lon1":2.67097800,"rwy2":"19","lat2":48.61753900,"lon2":2.67485300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.17,"desc":"ATIS"},
+{"type":"TWR","freq":121.1,"desc":"MELUN TWR"},
+{"type":"APP","freq":118.05,"desc":"SEINE APP"},
+{"type":"APP","freq":121.65,"desc":"SEINE APP"},
+{"type":"APP","freq":134.3,"desc":"SEINE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":48.60842800,"lon":2.65103300,"rng_nm":18,"alt_fmsl":302,"hdg":283.52,"id":"MV","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":48.60451400,"lon":2.68432200,"rng_nm":10,"alt_fmsl":302,"id":"MV","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":48.60451400,"lon":2.68432200,"rng_nm":18,"alt_fmsl":302,"id":"MV","rwy":"28","desc":"DME-ILS"}
+]
+}

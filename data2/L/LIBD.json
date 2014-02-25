@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIBD","name":"Bari Palese Macchie","lat":41.13608842,"lon":16.76674710,"rwys":1,"ils":1,"elev":177,"index":3219659,"path":"e010n40/e016n41"
+,"runways":[
+{"len_m":2828,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":41.13340099,"lon1":16.74254340,"rwy2":"25","lat2":41.14232978,"lon2":16.77409246}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":21,"wid_m":21.03,"hdg":16,"surf":"Concrete","lat1":41.13450795,"lon1":16.76109419}
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":41.14311111,"lon":16.77683333,"rng_nm":18,"alt_fmsl":177,"hdg":69.25,"id":"BAP","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.35,"lat":41.13683333,"lon":16.75036111,"rng_nm":10,"alt_fmsl":177,"id":"BAP","rwy":"07","desc":"GS","gs":3.32},
+{"type":"OM","freq":0,"lat":41.11044444,"lon":16.66088889,"rng_nm":0,"alt_fmsl":177,"id":"----","rwy":"07","desc":"OM"},
+{"type":"DME","freq":111.35,"lat":41.13708333,"lon":16.75027778,"rng_nm":18,"alt_fmsl":183,"id":"BAP","rwy":"07","desc":"DME-ILS"}
+]
+}

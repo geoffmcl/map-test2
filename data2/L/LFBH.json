@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBH","name":"La Rochelle Laleu","lat":46.17540000,"lon":-1.19346700,"rwys":1,"ils":1,"elev":74,"index":2925067,"path":"w010n40/w002n46"
+,"runways":[
+{"len_m":2256,"wid_m":45.11,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":46.17967500,"lon1":-1.21100600,"rwy2":"28","lat2":46.17881400,"lon2":-1.18181400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.72,"desc":"LA ROCHELLE ATIS"},
+{"type":"ATIS","freq":126.87,"desc":"LA ROCHELLE ATIS"},
+{"type":"TWR","freq":118,"desc":"LA ROCHELLE TWR"},
+{"type":"APP","freq":124.2,"desc":"LA ROCHELLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.55,"lat":46.17972800,"lon":-1.21276900,"rng_nm":18,"alt_fmsl":72,"hdg":272.43,"id":"RL","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.55,"lat":46.17797200,"lon":-1.19104400,"rng_nm":10,"alt_fmsl":108,"id":"RL","rwy":"28","desc":"GS","gs":3.1},
+{"type":"DME","freq":109.55,"lat":46.17797200,"lon":-1.19104400,"rng_nm":18,"alt_fmsl":66,"id":"RL","rwy":"28","desc":"DME-ILS"}
+]
+}

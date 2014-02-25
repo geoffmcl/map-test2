@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOWS","name":"Salzburg Maxglan","lat":47.79081600,"lon":12.99893200,"rwys":1,"ils":1,"elev":1411,"index":3154547,"path":"e010n40/e012n47"
+,"runways":[
+{"len_m":2750,"wid_m":45.11,"hdg":157,"surf":"Concrete","rwy1":"16","lat1":47.80472200,"lon1":12.99716700,"rwy2":"34","lat2":47.78194400,"lon2":13.01150000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.72,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":134.97,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":47.77909200,"lon":13.01294700,"rng_nm":18,"alt_fmsl":1411,"hdg":157.53,"id":"OES","rwy":"16","desc":"ILS-cat-III"},
+{"type":"GS","freq":109.9,"lat":47.80089400,"lon":13.00110600,"rng_nm":10,"alt_fmsl":1446,"id":"OES","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":47.87933300,"lon":12.94986400,"rng_nm":0,"alt_fmsl":1411,"id":"----","rwy":"16","desc":"OM"},
+{"type":"DME","freq":109.9,"lat":47.80094200,"lon":13.00129400,"rng_nm":18,"alt_fmsl":1446,"id":"OES","rwy":"16","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBX","name":"Perigueux Bassillac","lat":45.197254,"lon":0.8159775,"rwys":1,"ils":1,"elev":328,"index":2957771,"path":"e000n40/e000n45"
+,"runways":[
+{"len_m":1751,"wid_m":29.87,"hdg":113,"surf":"Asphalt","rwy1":"12","lat1":45.20041100,"lon1":0.80576900,"rwy2":"30","lat2":45.19409700,"lon2":0.82618600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.77,"desc":"PERIGUEUX INFO"},
+{"type":"APP","freq":119.27,"desc":"AQUITAINE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":45.20077500,"lon":0.80459400,"rng_nm":18,"alt_fmsl":312,"hdg":293.69,"id":"PX","rwy":"30","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.1,"lat":45.19457200,"lon":0.82171700,"rng_nm":10,"alt_fmsl":387,"id":"PX","rwy":"30","desc":"GS","gs":3.4},
+{"type":"DME","freq":109.1,"lat":45.19448900,"lon":0.82171700,"rng_nm":18,"alt_fmsl":387,"id":"PX","rwy":"30","desc":"DME-ILS"}
+]
+}

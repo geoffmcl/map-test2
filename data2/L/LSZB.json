@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSZB","name":"Bern-belp","lat":46.91281400,"lon":7.50169200,"rwys":3,"ils":1,"elev":1672,"index":3072570,"path":"e000n40/e007n46"
+,"runways":[
+{"len_m":1731,"wid_m":29.87,"hdg":140,"surf":"Asphalt","rwy1":"14","lat1":46.91941290,"lon1":7.49067710,"rwy2":"32","lat2":46.90745490,"lon2":7.50524310},
+{"len_m":648,"wid_m":29.87,"hdg":139,"surf":"Turf/grass","rwy1":"14L","lat1":46.91451180,"lon1":7.49509679,"rwy2":"32R","lat2":46.91005020,"lon2":7.50057521},
+{"len_m":647,"wid_m":29.87,"hdg":140,"surf":"Turf/grass","rwy1":"14R","lat1":46.91415793,"lon1":7.49449180,"rwy2":"32L","lat2":46.90969207,"lon2":7.49995020}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":46.91299719,"lon1":7.49946022},
+{"rwy1":"H2","len_m":14,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":46.91323543,"lon1":7.49917798}
+]
+,"radios":[
+{"type":"ATIS","freq":125.12,"desc":"ATIS"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"TWR","freq":121.02,"desc":"TWR"},
+{"type":"APP","freq":127.32,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":46.90622000,"lon":7.50681800,"rng_nm":18,"alt_fmsl":1702,"hdg":140.24,"id":"IBE","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":46.91691800,"lon":7.49457000,"rng_nm":10,"alt_fmsl":1664,"id":"IBE","rwy":"14","desc":"GS","gs":4},
+{"type":"DME","freq":110.1,"lat":46.90611111,"lon":7.50575000,"rng_nm":18,"alt_fmsl":1684,"id":"IBE","rwy":"14","desc":"DME-ILS"}
+]
+}

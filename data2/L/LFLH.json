@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLH","name":"Chalon Champforgueil","lat":46.8261195,"lon":4.8176445,"rwys":1,"ils":1,"elev":623,"index":3023411,"path":"e000n40/e004n46"
+,"runways":[
+{"len_m":1435,"wid_m":29.87,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":46.83249200,"lon1":4.81612500,"rwy2":"35","lat2":46.81974700,"lon2":4.81916400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"CHALON INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":108.5,"lat":46.83369700,"lon":4.81574700,"rng_nm":18,"alt_fmsl":636,"id":"CC","rwy":"35","desc":"LOC"}
+]
+}

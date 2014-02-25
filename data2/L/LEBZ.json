@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEBZ","name":"Talavera La Real","lat":38.88288300,"lon":-6.81449200,"rwys":1,"ils":1,"elev":609,"index":2842680,"path":"w010n30/w007n38"
+,"runways":[
+{"len_m":2852,"wid_m":60.05,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":38.89875300,"lon1":-6.83461700,"rwy2":"31","lat2":38.88378900,"lon2":-6.80789400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"BADAJOZ TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":38.90027800,"lon":-6.83736100,"rng_nm":18,"alt_fmsl":609,"hdg":305.70,"id":"ITL","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":38.88625000,"lon":-6.80988900,"rng_nm":10,"alt_fmsl":609,"id":"ITL","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.81658300,"lon":-6.69819400,"rng_nm":0,"alt_fmsl":609,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.87827800,"lon":-6.79794400,"rng_nm":0,"alt_fmsl":609,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":110.5,"lat":38.88625000,"lon":-6.80988900,"rng_nm":18,"alt_fmsl":639,"id":"ITL","rwy":"31","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,41 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGAV","name":"Athens Intl Airport Elefterios Venizel","lat":37.93553000,"lon":23.94053900,"rwys":2,"ils":2,"elev":308,"index":3334139,"path":"e020n30/e023n37"
+,"runways":[
+{"len_m":4000,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03R","lat1":37.92351100,"lon1":23.94326100,"rwy2":"21L","lat2":37.95242500,"lon2":23.97042200},
+{"len_m":3799,"wid_m":45.11,"hdg":36,"surf":"Asphalt","rwy1":"03L","lat1":37.92101100,"lon1":23.91920300,"rwy2":"21R","lat2":37.94848300,"lon2":23.94499400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.12,"desc":"ATIS"},
+{"type":"CLD","freq":118.67,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":136.02,"desc":"INFO"},
+{"type":"TWR","freq":118.62,"desc":"TWR"},
+{"type":"TWR","freq":136.27,"desc":"TWR"},
+{"type":"APP","freq":126.57,"desc":"ATHINAI APP"},
+{"type":"APP","freq":124.02,"desc":"ATHINAI APP"},
+{"type":"APP","freq":131.17,"desc":"ATHINAI APP"},
+{"type":"APP","freq":132.97,"desc":"ATHINAI ARR"},
+{"type":"APP","freq":126.57,"desc":"ATHINAI ARR"},
+{"type":"APP","freq":121.4,"desc":"ATHINAI DIR"},
+{"type":"DEP","freq":118.3,"desc":"DEPATURE RADAR DEP"},
+{"type":"DEP","freq":128.95,"desc":"ATHINAI DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":37.95269200,"lon":23.94894200,"rng_nm":18,"alt_fmsl":282,"hdg":36.52,"id":"IATL","rwy":"03L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":111.1,"lat":37.95444400,"lon":23.97277800,"rng_nm":18,"alt_fmsl":302,"hdg":36.97,"id":"IATR","rwy":"03R","desc":"ILS-cat-II"},
+{"type":"ILS","freq":111.1,"lat":37.91928100,"lon":23.93929400,"rng_nm":18,"alt_fmsl":271,"hdg":216.52,"id":"IEVL","rwy":"21L","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.5,"lat":37.91674400,"lon":23.91520300,"rng_nm":18,"alt_fmsl":255,"hdg":216.50,"id":"IEVR","rwy":"21R","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.5,"lat":37.92680000,"lon":23.92220000,"rng_nm":10,"alt_fmsl":255,"id":"IATL","rwy":"03L","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":37.92777800,"lon":23.94888900,"rng_nm":10,"alt_fmsl":271,"id":"IATR","rwy":"03R","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":37.94730000,"lon":23.96760000,"rng_nm":10,"alt_fmsl":302,"id":"IEVL","rwy":"21L","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":37.94520000,"lon":23.93960000,"rng_nm":10,"alt_fmsl":282,"id":"IEVR","rwy":"21R","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":37.92680000,"lon":23.92220000,"rng_nm":18,"alt_fmsl":255,"id":"IATL","rwy":"03L","desc":"DME-ILS"},
+{"type":"DME","freq":111.1,"lat":37.94730000,"lon":23.96760000,"rng_nm":18,"alt_fmsl":303,"id":"IEVL","rwy":"21L","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":37.94520000,"lon":23.93960000,"rng_nm":18,"alt_fmsl":282,"id":"IEVR","rwy":"21R","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQV","name":"Charleville Mezieres","lat":49.7839305,"lon":4.647068,"rwys":1,"ils":1,"elev":492,"index":3023602,"path":"e000n40/e004n49"
+,"runways":[
+{"len_m":1498,"wid_m":29.87,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":49.78646700,"lon1":4.63742800,"rwy2":"29","lat2":49.78139400,"lon2":4.65670800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":49.78102800,"lon":4.65809400,"rng_nm":18,"alt_fmsl":492,"hdg":112.18,"id":"CZ","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.5,"lat":49.78706000,"lon":4.63497000,"rng_nm":18,"alt_fmsl":489,"hdg":291.98,"id":"CZ","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":49.78448100,"lon":4.64054400,"rng_nm":10,"alt_fmsl":492,"id":"CZ","rwy":"11","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.81325000,"lon":4.53538900,"rng_nm":0,"alt_fmsl":492,"id":"----","rwy":"11","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.79002800,"lon":4.62613900,"rng_nm":0,"alt_fmsl":492,"id":"----","rwy":"11","desc":"MM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRT","name":"Saint Brieuc Armor","lat":48.53547200,"lon":-2.85334000,"rwys":1,"ils":1,"elev":452,"index":2908832,"path":"w010n40/w003n48"
+,"runways":[
+{"len_m":2203,"wid_m":45.11,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":48.53314100,"lon1":-2.86737900,"rwy2":"24","lat2":48.54338900,"lon2":-2.84184500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.4,"desc":"SAINT_BRIEUC FSS"},
+{"type":"CTAF","freq":119.4,"desc":"ST_BRIEUC MULT"},
+{"type":"TWR","freq":119.4,"desc":"ST_BRIEUC TWR"},
+{"type":"APP","freq":124.9,"desc":"RENNES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":48.53222200,"lon":-2.86968100,"rng_nm":18,"alt_fmsl":452,"hdg":238.78,"id":"SB","rwy":"24","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.95,"lat":48.54290800,"lon":-2.84618300,"rng_nm":10,"alt_fmsl":452,"id":"SB","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.56738900,"lon":-2.78233300,"rng_nm":0,"alt_fmsl":452,"id":"----","rwy":"24","desc":"OM"}
+]
+}

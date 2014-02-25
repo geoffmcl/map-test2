@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOJ","name":"Bricy","lat":47.98182300,"lon":1.77676860,"rwys":1,"ils":1,"elev":412,"index":2974331,"path":"e000n40/e001n47"
+,"runways":[
+{"len_m":2403,"wid_m":45.11,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":47.98391100,"lon1":1.74556100,"rwy2":"25","lat2":47.99154400,"lon2":1.77568900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":122.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":124.8,"desc":"TWR"},
+{"type":"APP","freq":122.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":47.98308100,"lon":1.74228900,"rng_nm":18,"alt_fmsl":412,"hdg":249.25,"id":"OAN","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":47.98935600,"lon":1.77160000,"rng_nm":10,"alt_fmsl":412,"id":"OAN","rwy":"25","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":48.01938900,"lon":1.88638900,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.99486100,"lon":1.78883300,"rng_nm":0,"alt_fmsl":412,"id":"----","rwy":"25","desc":"MM"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSN","name":"Nancy Essey","lat":48.692079,"lon":6.230454,"rwys":1,"ils":1,"elev":751,"index":3056296,"path":"e000n40/e006n48"
+,"runways":[
+{"len_m":1397,"wid_m":39.93,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":48.68657500,"lon1":6.22586900,"rwy2":"21","lat2":48.69758300,"lon2":6.23503900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"AFIS"},
+{"type":"APP","freq":127.25,"desc":"LORRAINE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":48.69941100,"lon":6.23728600,"rng_nm":18,"alt_fmsl":751,"hdg":30.42,"id":"NY","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":48.68595500,"lon":6.22522800,"rng_nm":18,"alt_fmsl":751,"hdg":209.11,"id":"NY","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":48.68940000,"lon":6.22683600,"rng_nm":10,"alt_fmsl":751,"id":"NY","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.62941700,"lon":6.18069400,"rng_nm":0,"alt_fmsl":751,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.67733300,"lon":6.21927800,"rng_nm":0,"alt_fmsl":751,"id":"----","rwy":"03","desc":"MM"}
+]
+}

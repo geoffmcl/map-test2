@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEXJ","name":"Santander","lat":43.42457600,"lon":-3.82415900,"rwys":1,"ils":1,"elev":16,"index":2892120,"path":"w010n40/w004n43"
+,"runways":[
+{"len_m":2320,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":43.43078300,"lon1":-3.83392200,"rwy2":"29","lat2":43.42359200,"lon2":-3.80701900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.37,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":43.43140600,"lon":-3.83626100,"rng_nm":18,"alt_fmsl":16,"hdg":290.19,"id":"STA","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":43.42563900,"lon":-3.81020300,"rng_nm":10,"alt_fmsl":16,"id":"STA","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":43.42563900,"lon":-3.81020300,"rng_nm":18,"alt_fmsl":26,"id":"STA","rwy":"29","desc":"DME-ILS"}
+]
+}

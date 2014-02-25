@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEAS","name":"Asturias","lat":43.55951700,"lon":-6.03395900,"rwys":1,"ils":1,"elev":416,"index":2842979,"path":"w010n40/w007n43"
+,"runways":[
+{"len_m":2204,"wid_m":45.11,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":43.56656748,"lon1":-6.04764133,"rwy2":"29","lat2":43.56042548,"lon2":-6.02169933}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"},
+{"type":"APP","freq":118.15,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.56708100,"lon":-6.04946100,"rng_nm":18,"alt_fmsl":416,"hdg":288.30,"id":"AVS","rwy":"29","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.1,"lat":43.56224400,"lon":-6.02463100,"rng_nm":10,"alt_fmsl":416,"id":"AVS","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":43.56235000,"lon":-6.02459400,"rng_nm":18,"alt_fmsl":430,"id":"AVS","rwy":"29","desc":"DME-ILS"}
+]
+}

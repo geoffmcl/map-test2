@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLW","name":"Aurillac","lat":44.8914165,"lon":2.422195,"rwys":1,"ils":1,"elev":2096,"index":2990521,"path":"e000n40/e002n44"
+,"runways":[
+{"len_m":1655,"wid_m":29.87,"hdg":149,"surf":"Asphalt","rwy1":"15","lat1":44.89786100,"lon1":2.41694500,"rwy2":"33","lat2":44.88497200,"lon2":2.42744500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.32,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.88290300,"lon":2.42871100,"rng_nm":18,"alt_fmsl":2057,"hdg":150.87,"id":"AR","rwy":"15","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":44.89446900,"lon":2.41750800,"rng_nm":10,"alt_fmsl":2106,"id":"AR","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.95583344,"lon":2.36805010,"rng_nm":0,"alt_fmsl":2077,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.90458300,"lon":2.41002800,"rng_nm":0,"alt_fmsl":2096,"id":"----","rwy":"15","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LERE","name":"Requena","lat":39.47502600,"lon":-1.03869400,"rwys":1,"ils":0,"elev":11,"index":2924635,"path":"w010n30/w002n39"
+,"runways":[
+{"len_m":900,"wid_m":39.93,"hdg":109,"surf":"Asphalt","rwy1":"12","lat1":39.47599700,"lon1":-1.03960900,"rwy2":"30","lat2":39.47322700,"lon2":-1.02976700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":-1,"surf":"Asphalt","lat1":39.47534804,"lon1":-1.03729595},
+{"rwy1":"H2","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Concrete","lat1":39.47489646,"lon1":-1.03747678},
+{"rwy1":"H3","len_m":20,"wid_m":20.12,"hdg":-1,"surf":"Concrete","lat1":39.47465482,"lon1":-1.03758467}
+]
+,"radios":[
+{"type":"ATIS","freq":121.75,"desc":"ATIS_VLC ATIS"},
+{"type":"TWR","freq":123.5,"desc":"Torre_LERE TWR"},
+{"type":"APP","freq":120.1,"desc":"Aproximacion_VLC APP"}
+]
+,"ils":[
+]
+}

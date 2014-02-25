@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOU","name":"Cholet Le Pontreau","lat":47.0821345,"lon":-0.8770625,"rwys":1,"ils":0,"elev":443,"index":2941504,"path":"w010n40/w001n47"
+,"runways":[
+{"len_m":1380,"wid_m":29.87,"hdg":25,"surf":"Asphalt","rwy1":"03","lat1":47.07650800,"lon1":-0.88090800,"rwy2":"21","lat2":47.08776100,"lon2":-0.87321700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.4,"desc":"CHOLET INFO"},
+{"type":"APP","freq":130.27,"desc":"NANTES APP"}
+]
+,"ils":[
+]
+}

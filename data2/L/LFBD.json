@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBD","name":"Bordeaux Merignac","lat":44.83243235,"lon":-0.70212293,"rwys":2,"ils":2,"elev":166,"index":2941361,"path":"w010n40/w001n44"
+,"runways":[
+{"len_m":3100,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"05","lat1":44.81921870,"lon1":-0.72896149,"rwy2":"23","lat2":44.83874314,"lon2":-0.70095469},
+{"len_m":2422,"wid_m":45.11,"hdg":106,"surf":"Asphalt","rwy1":"11","lat1":44.83162304,"lon1":-0.72924702,"rwy2":"29","lat2":44.82546392,"lon2":-0.69985752}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":27,"wid_m":28.04,"hdg":0,"surf":"Asphalt","lat1":44.83837287,"lon1":-0.69648097}
+]
+,"radios":[
+{"type":"ATIS","freq":131.15,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"Ground"},
+{"type":"TWR","freq":118.3,"desc":"Tower"},
+{"type":"APP","freq":118.6,"desc":"Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":44.81513600,"lon":-0.73463600,"rng_nm":18,"alt_fmsl":161,"hdg":225.33,"id":"BD","rwy":"23","desc":"ILS-cat-III"},
+{"type":"ILS","freq":111.15,"lat":44.83230800,"lon":-0.73284400,"rng_nm":18,"alt_fmsl":160,"hdg":286.30,"id":"BEI","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":44.83781900,"lon":-0.70493900,"rng_nm":10,"alt_fmsl":152,"id":"BD","rwy":"23","desc":"GS","gs":3},
+{"type":"GS","freq":111.15,"lat":44.82521700,"lon":-0.70387800,"rng_nm":10,"alt_fmsl":158,"id":"BEI","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":44.83781700,"lon":-0.70493900,"rng_nm":18,"alt_fmsl":207,"id":"BD","rwy":"23","desc":"DME-ILS"},
+{"type":"DME","freq":111.15,"lat":44.82521700,"lon":-0.70387800,"rng_nm":18,"alt_fmsl":214,"id":"BEI","rwy":"29","desc":"DME-ILS"}
+]
+}

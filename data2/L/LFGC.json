@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:25:42 UTC"
+,"type":16,"icao":"LFGC","name":"[s] Neuhof","lat":48.55615500,"lon":7.78105000,"rwys":2,"ils":0,"elev":456,"index":3072675,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":730,"wid_m":80.47,"hdg":353,"surf":"Turf/grass","rwy1":"36R","lat1":48.54978564,"lon1":7.77947849,"rwy2":"18L","lat2":48.55631636,"lon2":7.77844151},
+{"len_m":700,"wid_m":79.86,"hdg":353,"surf":"Turf/grass","rwy1":"36L","lat1":48.54984731,"lon1":7.77766727,"rwy2":"18R","lat2":48.55611069,"lon2":7.77667273}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.87,"desc":"NEUHOF MULT"}
+]
+,"ils":[
+]
+}

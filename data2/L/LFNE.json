@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNE","name":"Eyguieres","lat":43.65966900,"lon":5.01533000,"rwys":4,"ils":0,"elev":245,"index":3039592,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":1251,"wid_m":130.15,"hdg":90,"surf":"Turf/grass","rwy1":"27","lat1":43.65759500,"lon1":5.00214100,"rwy2":"09","lat2":43.65749700,"lon2":5.01766100},
+{"len_m":1200,"wid_m":130.15,"hdg":155,"surf":"Turf/grass","rwy1":"34","lat1":43.66340900,"lon1":5.00917700,"rwy2":"16","lat2":43.65361900,"lon2":5.01546300},
+{"len_m":300,"wid_m":14.94,"hdg":155,"surf":"Asphalt","rwy1":"16L","lat1":43.65669300,"lon1":5.01420500,"rwy2":"34R","lat2":43.65424500,"lon2":5.01577700},
+{"len_m":200,"wid_m":7.01,"hdg":155,"surf":"Concrete","rwy1":"16R","lat1":43.65679900,"lon1":5.01273200,"rwy2":"34L","lat2":43.65516700,"lon2":5.01378000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.7,"desc":"RHONE FSS"},
+{"type":"CTAF","freq":119.57,"desc":"EYGUIERES MULT"},
+{"type":"TWR","freq":123.6,"desc":"ISTRES TWR"},
+{"type":"TWR","freq":120.45,"desc":"SALON TWR"},
+{"type":"TWR","freq":122.1,"desc":"SALON TWR"},
+{"type":"APP","freq":135.15,"desc":"SALON APP"}
+]
+,"ils":[
+]
+}

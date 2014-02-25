@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSME","name":"Emmen","lat":47.08784600,"lon":8.30851800,"rwys":1,"ils":1,"elev":1400,"index":3088961,"path":"e000n40/e008n47"
+,"runways":[
+{"len_m":2501,"wid_m":39.62,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":47.08345300,"lon1":8.29506900,"rwy2":"22","lat2":47.10128600,"lon2":8.31516700}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":18,"wid_m":18.29,"hdg":8,"surf":"Concrete","lat1":47.08964300,"lon1":8.29860500}
+]
+,"radios":[
+{"type":"TWR","freq":120.42,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"ARR/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":47.08165600,"lon":8.29298100,"rng_nm":18,"alt_fmsl":1400,"hdg":217.57,"id":"IEM","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":47.09789200,"lon":8.31259200,"rng_nm":10,"alt_fmsl":1406,"id":"IEM","rwy":"22","desc":"GS","gs":4},
+{"type":"DME","freq":110.35,"lat":47.09781900,"lon":8.31272800,"rng_nm":18,"alt_fmsl":1406,"id":"IEM","rwy":"22","desc":"DME-ILS"}
+]
+}

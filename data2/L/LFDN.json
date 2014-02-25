@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFDN","name":"Rochefort Saint Agnant","lat":45.88758500,"lon":-0.98355300,"rwys":1,"ils":1,"elev":56,"index":2941432,"path":"w010n40/w001n45"
+,"runways":[
+{"len_m":2280,"wid_m":45.11,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":45.89617200,"lon1":-0.99726100,"rwy2":"31","lat2":45.88511400,"lon2":-0.97251900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"ROCHEFORT INFO"},
+{"type":"TWR","freq":119.3,"desc":"ROCHEFORT TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":45.89738900,"lon":-0.99997200,"rng_nm":18,"alt_fmsl":62,"hdg":302.70,"id":"ROC","rwy":"31","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.5,"lat":45.88725600,"lon":-0.97491900,"rng_nm":10,"alt_fmsl":100,"id":"ROC","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.84194400,"lon":-0.87486100,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.87969400,"lon":-0.96077800,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"31","desc":"MM"}
+]
+}

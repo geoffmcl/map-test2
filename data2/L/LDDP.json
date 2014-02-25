@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDDP","name":"Ploce","lat":43.038686,"lon":17.429647,"rwys":1,"ils":0,"elev":7,"index":3236161,"path":"e010n40/e017n43"
+,"runways":[
+{"len_m":1195,"wid_m":22.86,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":43.03333300,"lon1":17.42889400,"rwy2":"19","lat2":43.04403900,"lon2":17.43040000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.62,"desc":"INFO"},
+{"type":"TWR","freq":123.5,"desc":"INFO"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKNA","name":"Namest","lat":49.17184292,"lon":16.12149547,"rwys":1,"ils":1,"elev":1548,"index":3220168,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":2402,"wid_m":45.11,"hdg":129,"surf":"Concrete","rwy1":"13","lat1":49.17305036,"lon1":16.11163419,"rwy2":"31","lat2":49.15936032,"lon2":16.13711833}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.85,"desc":"TWR"},
+{"type":"TWR","freq":126.25,"desc":"TWR"},
+{"type":"APP","freq":120.22,"desc":"APP"},
+{"type":"APP","freq":123.3,"desc":"PRECISION"}
+]
+,"ils":[
+{"type":"ILS","freq":111.35,"lat":49.17521400,"lon":16.10761700,"rng_nm":18,"alt_fmsl":1548,"hdg":309.41,"id":"LA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.35,"lat":49.16000600,"lon":16.13333100,"rng_nm":10,"alt_fmsl":1548,"id":"LA","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":111.35,"lat":49.16000600,"lon":16.13333100,"rng_nm":18,"alt_fmsl":1550,"id":"LA","rwy":"31","desc":"DME-ILS"}
+]
+}

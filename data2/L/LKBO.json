@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKBO","name":"Bohunovice","lat":49.66988952,"lon":17.28847242,"rwys":1,"ils":0,"elev":774,"index":3236585,"path":"e010n40/e017n49"
+,"runways":[
+{"len_m":839,"wid_m":17.98,"hdg":76,"surf":"Turf/grass","rwy1":"07","lat1":49.66980152,"lon1":17.28931177,"rwy2":"25","lat2":49.67150769,"lon2":17.30064064}
+]
+,"helipads":[
+{"rwy1":"H","len_m":14,"wid_m":14.94,"hdg":17,"surf":"Dirt","lat1":49.66964670,"lon1":17.28948194}
+]
+,"radios":[
+{"type":"TWR","freq":118.28,"desc":"INFO"}
+]
+,"ils":[
+]
+}

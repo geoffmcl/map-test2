@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LRBC","name":"Bacau","lat":46.5219045,"lon":26.9101775,"rwys":1,"ils":0,"elev":607,"index":3383843,"path":"e020n40/e026n46"
+,"runways":[
+{"len_m":2488,"wid_m":79.86,"hdg":164,"surf":"Concrete","rwy1":"16","lat1":46.53270600,"lon1":26.90593300,"rwy2":"34","lat2":46.51110300,"lon2":26.91442200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":118.6,"desc":"APP"},
+{"type":"APP","freq":133.7,"desc":"PRECISION"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LBBG","name":"Burgas","lat":42.56606200,"lon":27.51743600,"rwys":1,"ils":1,"elev":135,"index":3399970,"path":"e020n40/e027n42"
+,"runways":[
+{"len_m":3202,"wid_m":45.11,"hdg":44,"surf":"Concrete","rwy1":"04","lat1":42.55982800,"lon1":27.50159700,"rwy2":"22","lat2":42.58043100,"lon2":27.52888300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.95,"desc":"ATIS"},
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":125.1,"desc":"APP"},
+{"type":"APP","freq":119.65,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":42.55725000,"lon":27.49819400,"rng_nm":18,"alt_fmsl":135,"hdg":224.26,"id":"IBG","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":42.57774200,"lon":27.52736900,"rng_nm":10,"alt_fmsl":135,"id":"IBG","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":42.62694400,"lon":27.58944400,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":42.58715300,"lon":27.53777800,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"22","desc":"MM"}
+]
+}

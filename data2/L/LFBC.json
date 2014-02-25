@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBC","name":"Cazaux","lat":44.534018,"lon":-1.125346,"rwys":1,"ils":2,"elev":84,"index":2924963,"path":"w010n40/w002n44"
+,"runways":[
+{"len_m":2398,"wid_m":45.11,"hdg":56,"surf":"Asphalt","rwy1":"06","lat1":44.52806900,"lon1":-1.13793600,"rwy2":"24","lat2":44.53996700,"lon2":-1.11275600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":119.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.09,"lat":44.54246500,"lon":-1.10745700,"rng_nm":18,"alt_fmsl":82,"hdg":56.48,"id":"CAA","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":44.52570600,"lon":-1.14294700,"rng_nm":18,"alt_fmsl":82,"hdg":236.46,"id":"CAA","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.09,"lat":44.52651600,"lon":-1.13906600,"rng_nm":10,"alt_fmsl":82,"id":"CAA","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":44.53881900,"lon":-1.11243900,"rng_nm":10,"alt_fmsl":140,"id":"CAA","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.59464700,"lon":-0.99638900,"rng_nm":0,"alt_fmsl":52,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.54486700,"lon":-1.10237500,"rng_nm":0,"alt_fmsl":82,"id":"----","rwy":"24","desc":"MM"}
+]
+}

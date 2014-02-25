@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLIB","name":"Mahanaim I Ben Yaakov","lat":32.98155275,"lon":35.570652,"rwys":2,"ils":0,"elev":922,"index":3530426,"path":"e030n30/e035n32"
+,"runways":[
+{"len_m":1113,"wid_m":30.48,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":32.98716100,"lon1":35.56811900,"rwy2":"33","lat2":32.97842500,"lon2":35.57398900},
+{"len_m":972,"wid_m":30.48,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":32.97774200,"lon1":35.56603600,"rwy2":"23","lat2":32.98288300,"lon2":35.57446400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.45,"desc":"ROSH PINA TWR"}
+]
+,"ils":[
+]
+}

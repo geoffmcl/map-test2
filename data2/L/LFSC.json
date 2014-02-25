@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSC","name":"Meyenheim Ab","lat":47.92716900,"lon":7.40926700,"rwys":1,"ils":1,"elev":693,"index":3072633,"path":"e000n40/e007n47"
+,"runways":[
+{"len_m":2428,"wid_m":45.11,"hdg":14,"surf":"Concrete","rwy1":"01","lat1":47.91134700,"lon1":7.39566400,"rwy2":"19","lat2":47.93251900,"lon2":7.40365000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":24,"wid_m":24.99,"hdg":7,"surf":"Concrete","lat1":47.91800300,"lon1":7.40118700}
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"COLMAR TWR"},
+{"type":"APP","freq":123.3,"desc":"COLMAR_GCA APP"},
+{"type":"APP","freq":118.95,"desc":"COLMAR APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":47.90842500,"lon":7.39455600,"rng_nm":18,"alt_fmsl":702,"hdg":194.19,"id":"CLR","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":47.93191900,"lon":7.40173300,"rng_nm":10,"alt_fmsl":732,"id":"CLR","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":48.03233300,"lon":7.44233300,"rng_nm":0,"alt_fmsl":693,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.94355600,"lon":7.40780600,"rng_nm":0,"alt_fmsl":693,"id":"----","rwy":"19","desc":"MM"}
+]
+}

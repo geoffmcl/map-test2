@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LUBL","name":"Balti Intl","lat":47.838111,"lon":27.7814665,"rwys":1,"ils":1,"elev":758,"index":3400307,"path":"e020n40/e027n47"
+,"runways":[
+{"len_m":2208,"wid_m":42.67,"hdg":153,"surf":"Concrete","rwy1":"15","lat1":47.84699400,"lon1":27.77486900,"rwy2":"33","lat2":47.82922800,"lon2":27.78806400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":47.85638100,"lon":27.76895300,"rng_nm":18,"alt_fmsl":758,"hdg":334.71,"id":"IBL","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":47.83128300,"lon":27.78604400,"rng_nm":10,"alt_fmsl":758,"id":"IBL","rwy":"33","desc":"GS","gs":2.6},
+{"type":"OM","freq":0,"lat":47.79794200,"lon":27.81399700,"rng_nm":0,"alt_fmsl":758,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.82130300,"lon":27.79536400,"rng_nm":0,"alt_fmsl":758,"id":"----","rwy":"33","desc":"MM"}
+]
+}

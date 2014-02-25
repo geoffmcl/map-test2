@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTAZ","name":"Kapadokya","lat":38.771865,"lon":34.5345485,"rwys":1,"ils":1,"elev":3100,"index":3514418,"path":"e030n30/e034n38"
+,"runways":[
+{"len_m":2987,"wid_m":45.11,"hdg":117,"surf":"Concrete","rwy1":"11","lat1":38.77802200,"lon1":34.51926400,"rwy2":"29","lat2":38.76570800,"lon2":34.54983300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.35,"desc":"TWR"},
+{"type":"TWR","freq":128.45,"desc":"TWR"},
+{"type":"TWR","freq":128.8,"desc":"TWR"},
+{"type":"TWR","freq":119,"desc":"TWR"},
+{"type":"APP","freq":119.1,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":119.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":120.6,"desc":"ESENBOGA APP"},
+{"type":"APP","freq":122.1,"desc":"ESENBOGA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":38.76444400,"lon":34.55277800,"rng_nm":18,"alt_fmsl":3100,"hdg":117.47,"id":"ITZK","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":38.77777800,"lon":34.52277800,"rng_nm":10,"alt_fmsl":3100,"id":"ITZK","rwy":"11","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":38.78250000,"lon":34.50833300,"rng_nm":0,"alt_fmsl":3100,"id":"----","rwy":"11","desc":"MM"}
+]
+}

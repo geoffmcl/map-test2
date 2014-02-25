@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSZR","name":"St.gallen-altenrhein","lat":47.48763578,"lon":9.55267511,"rwys":2,"ils":1,"elev":1306,"index":3105370,"path":"e000n40/e009n47"
+,"runways":[
+{"len_m":1500,"wid_m":29.87,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":47.48613051,"lon1":9.55028415,"rwy2":"28","lat2":47.48407248,"lon2":9.56995630},
+{"len_m":602,"wid_m":22.86,"hdg":98,"surf":"Turf/grass","rwy1":"10L","lat1":47.48642987,"lon1":9.55741410,"rwy2":"28R","lat2":47.48560381,"lon2":9.56531027}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":123.77,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"TWR","freq":119.7,"desc":"TWR"},
+{"type":"APP","freq":119.92,"desc":"ZURICH ARR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.75,"lat":47.48373100,"lon":9.57082200,"rng_nm":18,"alt_fmsl":1306,"hdg":99.82,"id":"IAL","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.75,"lat":47.48498300,"lon":9.55431400,"rng_nm":10,"alt_fmsl":1333,"id":"IAL","rwy":"10","desc":"GS","gs":4},
+{"type":"DME","freq":108.75,"lat":47.48501900,"lon":9.55432200,"rng_nm":18,"alt_fmsl":1333,"id":"IAL","rwy":"10","desc":"DME-ILS"}
+]
+}

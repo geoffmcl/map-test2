@@ -1,0 +1,31 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFSB","name":"Bale-mulhouse","lat":47.59962100,"lon":7.53161100,"rwys":2,"ils":2,"elev":885,"index":3072610,"path":"e000n40/e007n47"
+,"runways":[
+{"len_m":3902,"wid_m":60.05,"hdg":154,"surf":"Concrete","rwy1":"15","lat1":47.61770400,"lon1":7.50985600,"rwy2":"33","lat2":47.58594200,"lon2":7.53195400},
+{"len_m":1820,"wid_m":58.83,"hdg":76,"surf":"Concrete","rwy1":"08","lat1":47.58795100,"lon1":7.51691900,"rwy2":"26","lat2":47.59164500,"lon2":7.54049300}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":47.60256800,"lon1":7.52415500},
+{"rwy1":"H2","len_m":10,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":47.60244200,"lon1":7.52423700},
+{"rwy1":"H3","len_m":10,"wid_m":14.94,"hdg":7,"surf":"Concrete","lat1":47.60249300,"lon1":7.52440500},
+{"rwy1":"H4","len_m":7,"wid_m":7.62,"hdg":7,"surf":"Gravel","lat1":47.60551200,"lon1":7.52293700},
+{"rwy1":"H5","len_m":6,"wid_m":6.10,"hdg":7,"surf":"Gravel","lat1":47.60588400,"lon1":7.52301700}
+]
+,"radios":[
+{"type":"ATIS","freq":121.25,"desc":"BALE FSS"},
+{"type":"ATIS","freq":127.87,"desc":"LFSB ATIS"},
+{"type":"GND","freq":121.6,"desc":"BALE GND"},
+{"type":"TWR","freq":118.3,"desc":"BALE TWR"},
+{"type":"APP","freq":118.57,"desc":"BALE APP"},
+{"type":"APP","freq":119.35,"desc":"BALE APP"},
+{"type":"APP","freq":121.25,"desc":"BALE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":47.58406900,"lon":7.53326400,"rng_nm":18,"alt_fmsl":888,"hdg":154.87,"id":"MH","rwy":"15","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.35,"lat":47.61896476,"lon":7.50899051,"rng_nm":18,"alt_fmsl":885,"hdg":334.87,"id":"IBLU","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":47.61470800,"lon":7.51018100,"rng_nm":10,"alt_fmsl":860,"id":"MH","rwy":"15","desc":"GS","gs":3},
+{"type":"GS","freq":109.35,"lat":47.58808372,"lon":7.52912406,"rng_nm":10,"alt_fmsl":885,"id":"IBLU","rwy":"33","desc":"GS","gs":3.5},
+{"type":"DME","freq":111.55,"lat":47.61470800,"lon":7.51018100,"rng_nm":18,"alt_fmsl":860,"id":"MH","rwy":"15","desc":"DME-ILS"},
+{"type":"DME","freq":109.35,"lat":47.58808372,"lon":7.52912406,"rng_nm":18,"alt_fmsl":885,"id":"IBLU","rwy":"33","desc":"DME-ILS"}
+]
+}

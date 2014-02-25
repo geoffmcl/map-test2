@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFGA","name":"Houssen","lat":48.10933500,"lon":7.36237000,"rwys":1,"ils":1,"elev":627,"index":3072641,"path":"e000n40/e007n48"
+,"runways":[
+{"len_m":1614,"wid_m":29.87,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":48.10257400,"lon1":7.35689400,"rwy2":"19","lat2":48.11682800,"lon2":7.36103600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119,"desc":"HOUSSEN FSS"},
+{"type":"ATIS","freq":121.87,"desc":"LFGA ATIS"},
+{"type":"CTAF","freq":119,"desc":"HOUSSEN MULT"},
+{"type":"TWR","freq":119,"desc":"HOUSSEN TWR"},
+{"type":"APP","freq":119.35,"desc":"BASLE APP"},
+{"type":"APP","freq":118.95,"desc":"COLMAR APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":48.10126400,"lon":7.35650600,"rng_nm":18,"alt_fmsl":627,"hdg":191.00,"id":"HO","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":48.11462500,"lon":7.36203300,"rng_nm":10,"alt_fmsl":627,"id":"HO","rwy":"19","desc":"GS","gs":3.8},
+{"type":"OM","freq":0,"lat":48.22225000,"lon":7.39266700,"rng_nm":0,"alt_fmsl":627,"id":"----","rwy":"19","desc":"OM"}
+]
+}

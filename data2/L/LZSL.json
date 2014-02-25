@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LZSL","name":"Sliac","lat":48.637839,"lon":19.134108,"rwys":1,"ils":1,"elev":1043,"index":3269288,"path":"e010n40/e019n48"
+,"runways":[
+{"len_m":2333,"wid_m":60.05,"hdg":181,"surf":"Concrete","rwy1":"18","lat1":48.64832500,"lon1":19.13464400,"rwy2":"36","lat2":48.62735300,"lon2":19.13357200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.9,"desc":"TWR"},
+{"type":"TWR","freq":135,"desc":"TWR"},
+{"type":"TWR","freq":121.3,"desc":"TWR"},
+{"type":"TWR","freq":119.15,"desc":"TWR"},
+{"type":"APP","freq":121.82,"desc":"APP"},
+{"type":"APP","freq":135,"desc":"APP"},
+{"type":"APP","freq":119.15,"desc":"APP"},
+{"type":"APP","freq":122.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":48.65217800,"lon":19.13484700,"rng_nm":18,"alt_fmsl":1042,"hdg":1.94,"id":"FS","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":48.62958300,"lon":19.13178300,"rng_nm":10,"alt_fmsl":1042,"id":"FS","rwy":"36","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":48.56280000,"lon":19.13004200,"rng_nm":0,"alt_fmsl":1043,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":48.61808100,"lon":19.13251900,"rng_nm":0,"alt_fmsl":1043,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":108.7,"lat":48.62958300,"lon":19.13178300,"rng_nm":18,"alt_fmsl":1047,"id":"FS","rwy":"36","desc":"DME-ILS"}
+]
+}

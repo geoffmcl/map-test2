@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEGR","name":"Granada","lat":37.18415387,"lon":-3.77630018,"rwys":1,"ils":1,"elev":1859,"index":2891720,"path":"w010n30/w004n37"
+,"runways":[
+{"len_m":2904,"wid_m":44.81,"hdg":89,"surf":"Asphalt","rwy1":"09","lat1":37.18861045,"lon1":-3.79371670,"rwy2":"27","lat2":37.18885155,"lon2":-3.76100130}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GRANADA GND"},
+{"type":"TWR","freq":118.85,"desc":"GRANADA TWR"},
+{"type":"APP","freq":118.85,"desc":"GRANADA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":37.18886900,"lon":-3.75828100,"rng_nm":18,"alt_fmsl":1859,"hdg":89.49,"id":"GRD","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":37.18975000,"lon":-3.78971700,"rng_nm":10,"alt_fmsl":1859,"id":"GRD","rwy":"09","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.18791400,"lon":-3.87835000,"rng_nm":0,"alt_fmsl":1859,"id":"----","rwy":"09","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.18854200,"lon":-3.80588100,"rng_nm":0,"alt_fmsl":1859,"id":"----","rwy":"09","desc":"MM"}
+]
+}

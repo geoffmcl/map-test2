@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIEE","name":"Cagliari Elmas","lat":39.25426300,"lon":9.05935200,"rwys":1,"ils":1,"elev":13,"index":3104848,"path":"e000n30/e009n39"
+,"runways":[
+{"len_m":2790,"wid_m":45.11,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":39.26081100,"lon1":9.04346700,"rwy2":"32","lat2":39.24213900,"lon2":9.06511400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.6,"desc":"GND"},
+{"type":"TWR","freq":120.6,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.4,"desc":"CAGLIARI APP"},
+{"type":"APP","freq":118.75,"desc":"CAGLIARI APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":39.26205600,"lon":9.04205600,"rng_nm":18,"alt_fmsl":7,"hdg":318.12,"id":"IEL","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":39.24352800,"lon":9.06127800,"rng_nm":10,"alt_fmsl":9,"id":"IEL","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.21463900,"lon":9.09747200,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.23608300,"lon":9.07213900,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"32","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":39.24358300,"lon":9.06127800,"rng_nm":18,"alt_fmsl":26,"id":"IEL","rwy":"32","desc":"DME-ILS"}
+]
+}

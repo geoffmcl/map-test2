@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTFA","name":"Kaklic","lat":38.5166295,"lon":26.9760515,"rwys":1,"ils":0,"elev":13,"index":3383331,"path":"e020n30/e026n38"
+,"runways":[
+{"len_m":3030,"wid_m":45.11,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":38.53016700,"lon1":26.97384400,"rwy2":"35","lat2":38.50309200,"lon2":26.97825900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":120.1,"desc":"MENDERES APP"},
+{"type":"APP","freq":132.9,"desc":"MENDERES APP"}
+]
+,"ils":[
+]
+}

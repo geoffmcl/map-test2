@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LICP","name":"Boccadifalco","lat":38.10821910,"lon":13.31026080,"rwys":1,"ils":0,"elev":345,"index":3170305,"path":"e010n30/e013n38"
+,"runways":[
+{"len_m":1224,"wid_m":45.11,"hdg":174,"surf":"Asphalt","rwy1":"17","lat1":38.11601700,"lon1":13.31272200,"rwy2":"35","lat2":38.10503600,"lon2":13.31401700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"AFIS"},
+{"type":"TWR","freq":122.6,"desc":"AFIS"},
+{"type":"APP","freq":120.2,"desc":"RAISI APP"}
+]
+,"ils":[
+]
+}

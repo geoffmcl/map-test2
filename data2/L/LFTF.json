@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFTF","name":"Pierrefeu","lat":43.24698400,"lon":6.12072000,"rwys":1,"ils":0,"elev":269,"index":3055944,"path":"e000n40/e006n43"
+,"runways":[
+{"len_m":1986,"wid_m":32.00,"hdg":110,"surf":"Concrete","rwy1":"11","lat1":43.25073500,"lon1":6.11516400,"rwy2":"29","lat2":43.24454900,"lon2":6.13810800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CUERS MULT"},
+{"type":"TWR","freq":118.27,"desc":"CUERS TWR"},
+{"type":"TWR","freq":119.7,"desc":"CUERS TWR"},
+{"type":"TWR","freq":122.7,"desc":"CUERS TWR"}
+]
+,"ils":[
+]
+}

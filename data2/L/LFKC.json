@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFKC","name":"St Catherine","lat":42.52314500,"lon":8.79030100,"rwys":1,"ils":1,"elev":208,"index":3088675,"path":"e000n40/e008n42"
+,"runways":[
+{"len_m":2312,"wid_m":39.93,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":42.54117000,"lon1":8.79282700,"rwy2":"36","lat2":42.52035400,"lon2":8.79302300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":131.17,"desc":"LFKC ATIS"},
+{"type":"GND","freq":121.7,"desc":"CALVI GND"},
+{"type":"TWR","freq":120.8,"desc":"CALVI TWR"},
+{"type":"TWR","freq":123.2,"desc":"CALVI TWR"},
+{"type":"APP","freq":123.82,"desc":"BASTIA APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":42.51821400,"lon":8.79303600,"rng_nm":18,"alt_fmsl":230,"id":"CLI","rwy":"18","desc":"LOC"},
+{"type":"DME","freq":109.5,"lat":42.51814400,"lon":8.79303600,"rng_nm":18,"alt_fmsl":230,"id":"CLI","rwy":"18","desc":"DME-ILS"}
+]
+}

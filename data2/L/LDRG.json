@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LDRG","name":"Grobnicko Polje","lat":45.37799925,"lon":14.5060785,"rwys":2,"ils":0,"elev":951,"index":3187162,"path":"e010n40/e014n45"
+,"runways":[
+{"len_m":1860,"wid_m":22.56,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":45.37660300,"lon1":14.49653300,"rwy2":"27","lat2":45.37643300,"lon2":14.52028900},
+{"len_m":1614,"wid_m":29.87,"hdg":75,"surf":"Asphalt","rwy1":"07","lat1":45.37760300,"lon1":14.49378900,"rwy2":"25","lat2":45.38135800,"lon2":14.51370300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"GROBNIK INFO"}
+]
+,"ils":[
+]
+}

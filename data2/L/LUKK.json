@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LUKK","name":"Chisinau Intl","lat":46.93450500,"lon":28.92973700,"rwys":1,"ils":2,"elev":399,"index":3416635,"path":"e020n40/e028n46"
+,"runways":[
+{"len_m":3590,"wid_m":44.20,"hdg":88,"surf":"Concrete","rwy1":"08","lat1":46.92731700,"lon1":28.90736400,"rwy2":"26","lat2":46.92826900,"lon2":28.95448300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":133.7,"desc":"ATIS"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":125.9,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":46.92833600,"lon":28.95786900,"rng_nm":18,"alt_fmsl":399,"hdg":88.33,"id":"IRG","rwy":"08","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":46.92725600,"lon":28.90441100,"rng_nm":18,"alt_fmsl":399,"hdg":268.29,"id":"ILD","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":46.92642200,"lon":28.91202500,"rng_nm":10,"alt_fmsl":399,"id":"IRG","rwy":"08","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":46.92721400,"lon":28.95121700,"rng_nm":10,"alt_fmsl":399,"id":"ILD","rwy":"26","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":46.92642200,"lon":28.91202500,"rng_nm":18,"alt_fmsl":397,"id":"IRG","rwy":"08","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":46.92721400,"lon":28.95121700,"rng_nm":18,"alt_fmsl":286,"id":"ILD","rwy":"26","desc":"DME-ILS"}
+]
+}

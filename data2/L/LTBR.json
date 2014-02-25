@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBR","name":"Yenisehir","lat":40.25520825,"lon":29.56256875,"rwys":2,"ils":1,"elev":764,"index":3432594,"path":"e020n40/e029n40"
+,"runways":[
+{"len_m":2992,"wid_m":45.11,"hdg":74,"surf":"Concrete","rwy1":"07L","lat1":40.25221400,"lon1":29.54540100,"rwy2":"25R","lat2":40.25940600,"lon2":29.57930000},
+{"len_m":2992,"wid_m":29.87,"hdg":74,"surf":"Concrete","rwy1":"07R","lat1":40.25101000,"lon1":29.54583700,"rwy2":"25L","lat2":40.25820300,"lon2":29.57973700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR/APP"},
+{"type":"TWR","freq":124.2,"desc":"TWR/APP"},
+{"type":"APP","freq":124.2,"desc":"APP"},
+{"type":"APP","freq":120.32,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":40.25129200,"lon":29.54166700,"rng_nm":18,"alt_fmsl":764,"hdg":254.21,"id":"IYEN","rwy":"25R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":40.25990300,"lon":29.57527500,"rng_nm":10,"alt_fmsl":798,"id":"IYEN","rwy":"25R","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":40.26184700,"lon":29.59138900,"rng_nm":0,"alt_fmsl":764,"id":"----","rwy":"25R","desc":"MM"}
+]
+}

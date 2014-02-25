@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LICA","name":"Lamezia Terme","lat":38.91022400,"lon":16.24171300,"rwys":1,"ils":1,"elev":39,"index":3219512,"path":"e010n30/e016n38"
+,"runways":[
+{"len_m":2400,"wid_m":45.11,"hdg":98,"surf":"Asphalt","rwy1":"10","lat1":38.90699400,"lon1":16.22858900,"rwy2":"28","lat2":38.90379400,"lon2":16.25595300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":38.90731400,"lon":16.22585300,"rng_nm":18,"alt_fmsl":21,"hdg":278.54,"id":"LAM","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":38.90330600,"lon":16.25037200,"rng_nm":10,"alt_fmsl":21,"id":"LAM","rwy":"28","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.89406400,"lon":16.33576900,"rng_nm":0,"alt_fmsl":39,"id":"----","rwy":"28","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.90269200,"lon":16.26537500,"rng_nm":0,"alt_fmsl":39,"id":"----","rwy":"28","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":38.90330600,"lon":16.25037200,"rng_nm":25,"alt_fmsl":21,"id":"LAM","rwy":"28","desc":"DME-ILS"}
+]
+}

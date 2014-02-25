@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPU","name":"Padova","lat":45.39957430,"lon":11.84983250,"rwys":1,"ils":1,"elev":44,"index":3138011,"path":"e010n40/e011n45"
+,"runways":[
+{"len_m":1120,"wid_m":29.87,"hdg":39,"surf":"Asphalt","rwy1":"04","lat1":45.39247500,"lon1":11.84366100,"rwy2":"22","lat2":45.40023000,"lon2":11.85281500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.25,"desc":"INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":45.39916700,"lon":11.85277800,"rng_nm":18,"alt_fmsl":44,"hdg":43.73,"id":"PDV","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":45.39277800,"lon":11.84527800,"rng_nm":10,"alt_fmsl":44,"id":"PDV","rwy":"04","desc":"GS","gs":3},
+{"type":"DME","freq":111.3,"lat":45.39916700,"lon":11.85166700,"rng_nm":18,"alt_fmsl":44,"id":"PDV","rwy":"04","desc":"DME-ILS"}
+]
+}

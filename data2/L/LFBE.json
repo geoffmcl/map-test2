@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBE","name":"Bergerac Roumaniere","lat":44.824525,"lon":0.5187765,"rwys":1,"ils":1,"elev":171,"index":2957746,"path":"e000n40/e000n44"
+,"runways":[
+{"len_m":2193,"wid_m":45.11,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":44.82526900,"lon1":0.50495000,"rwy2":"28","lat2":44.82378100,"lon2":0.53260300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.8,"desc":"BERGERAC TWR"},
+{"type":"APP","freq":119.27,"desc":"AQUITAINE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.15,"lat":44.82534200,"lon":0.50359700,"rng_nm":18,"alt_fmsl":184,"hdg":274.33,"id":"RM","rwy":"28","desc":"ILS-cat-II"},
+{"type":"GS","freq":108.15,"lat":44.82305800,"lon":0.52585300,"rng_nm":10,"alt_fmsl":220,"id":"RM","rwy":"28","desc":"GS","gs":3}
+]
+}

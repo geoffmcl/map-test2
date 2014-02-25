@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLU","name":"Valence Chabeuil","lat":44.91837690,"lon":4.96567110,"rwys":1,"ils":1,"elev":525,"index":3023291,"path":"e000n40/e004n44"
+,"runways":[
+{"len_m":2100,"wid_m":45.11,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":44.91223100,"lon1":4.96810300,"rwy2":"19","lat2":44.93095600,"lon2":4.97169700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.1,"desc":"VALENCE TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.15,"lat":44.93293300,"lon":4.97207500,"rng_nm":18,"alt_fmsl":547,"hdg":7.74,"id":"VE","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.15,"lat":44.91685600,"lon":4.97052500,"rng_nm":10,"alt_fmsl":574,"id":"VE","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":44.84886100,"lon":4.95555600,"rng_nm":0,"alt_fmsl":525,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":44.90533300,"lon":4.96675000,"rng_nm":0,"alt_fmsl":525,"id":"----","rwy":"01","desc":"MM"},
+{"type":"DME","freq":110.15,"lat":44.91685600,"lon":4.97052500,"rng_nm":18,"alt_fmsl":574,"id":"VE","rwy":"01","desc":"DME-ILS"}
+]
+}

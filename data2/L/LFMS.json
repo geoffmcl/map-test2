@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMS","name":"Deaux","lat":44.07217900,"lon":4.14445500,"rwys":1,"ils":0,"elev":668,"index":3023232,"path":"e000n40/e004n44"
+,"runways":[
+{"len_m":1399,"wid_m":29.87,"hdg":12,"surf":"Asphalt","rwy1":"01","lat1":44.06350500,"lon1":4.14003300,"rwy2":"19","lat2":44.07578500,"lon2":4.14394100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.19,"desc":"ALES FSS"},
+{"type":"TWR","freq":120.7,"desc":"ORANGE TWR"},
+{"type":"APP","freq":124.9,"desc":"GARONS APP"}
+]
+,"ils":[
+]
+}

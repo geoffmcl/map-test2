@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFBP","name":"Pau Pyrenees","lat":43.38184360,"lon":-0.41368200,"rwys":1,"ils":1,"elev":616,"index":2941274,"path":"w010n40/w001n43"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":43.38765800,"lon1":-0.43326100,"rwy2":"31","lat2":43.37449700,"lon2":-0.40824200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.47,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":124.15,"desc":"TWR"},
+{"type":"APP","freq":121.17,"desc":"PYRENEES APP"},
+{"type":"APP","freq":128.8,"desc":"PYRENEES APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":43.38909200,"lon":-0.43598600,"rng_nm":18,"alt_fmsl":576,"hdg":305.89,"id":"PU","rwy":"31","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.1,"lat":43.37528100,"lon":-0.41226400,"rng_nm":10,"alt_fmsl":676,"id":"PU","rwy":"31","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":43.37528100,"lon":-0.41226400,"rng_nm":18,"alt_fmsl":608,"id":"PU","rwy":"31","desc":"DME-ILS"}
+]
+}

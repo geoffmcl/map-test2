@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LROD","name":"Oradea","lat":47.0253225,"lon":21.9024095,"rwys":1,"ils":1,"elev":465,"index":3301955,"path":"e020n40/e021n47"
+,"runways":[
+{"len_m":1785,"wid_m":29.87,"hdg":11,"surf":"Concrete","rwy1":"01","lat1":47.01744200,"lon1":21.90013600,"rwy2":"19","lat2":47.03320300,"lon2":21.90468300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.2,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":47.01410300,"lon":21.89917800,"rng_nm":18,"alt_fmsl":450,"hdg":191.11,"id":"IOD","rwy":"19","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.5,"lat":47.02999200,"lon":21.90575300,"rng_nm":10,"alt_fmsl":450,"id":"IOD","rwy":"19","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":47.10034700,"lon":21.92413100,"rng_nm":0,"alt_fmsl":656,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.04519400,"lon":21.90813600,"rng_nm":0,"alt_fmsl":450,"id":"----","rwy":"19","desc":"MM"}
+]
+}

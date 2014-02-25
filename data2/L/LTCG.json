@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTCG","name":"Trabzon","lat":40.99506,"lon":39.789701,"rwys":1,"ils":1,"elev":104,"index":3596475,"path":"e030n40/e039n40"
+,"runways":[
+{"len_m":2628,"wid_m":45.11,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":40.99954200,"lon1":39.77524400,"rwy2":"29","lat2":40.99057800,"lon2":39.80415800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":120.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":40.98972200,"lon":39.80666700,"rng_nm":18,"alt_fmsl":95,"hdg":112.50,"id":"ITBZ","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":41.00000000,"lon":39.77888900,"rng_nm":10,"alt_fmsl":104,"id":"ITBZ","rwy":"11","desc":"GS","gs":3.3},
+{"type":"DME","freq":109.1,"lat":40.99916700,"lon":39.77888900,"rng_nm":18,"alt_fmsl":98,"id":"ITBZ","rwy":"11","desc":"DME-ILS"}
+]
+}

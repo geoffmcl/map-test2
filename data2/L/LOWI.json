@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LOWI","name":"Innsbruck Kranebitten","lat":47.25782232,"lon":11.35269721,"rwys":1,"ils":2,"elev":1906,"index":3138129,"path":"e010n40/e011n47"
+,"runways":[
+{"len_m":2000,"wid_m":45.11,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":47.25882780,"lon1":11.33091400,"rwy2":"26","lat2":47.26162380,"lon2":11.35702000}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":15,"wid_m":15.85,"hdg":11,"surf":"Transparent","lat1":47.25504341,"lon1":11.34549130}
+]
+,"radios":[
+{"type":"ATIS","freq":126.02,"desc":"ATIS"},
+{"type":"TWR","freq":120.1,"desc":"TWR"},
+{"type":"APP","freq":119.27,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":47.25858900,"lon":11.34074400,"rng_nm":27,"alt_fmsl":1906,"hdg":256.00,"id":"OEV","rwy":"26","desc":"LOC-GS"},
+{"type":"LOC","freq":109.7,"lat":47.31452500,"lon":11.60235000,"rng_nm":30,"alt_fmsl":1906,"id":"OEJ","rwy":"26","desc":"LOC"},
+{"type":"GS","freq":111.1,"lat":47.26014700,"lon":11.35349400,"rng_nm":18,"alt_fmsl":1911,"id":"OEV","rwy":"26","desc":"GS","gs":3.8},
+{"type":"OM","freq":0,"lat":47.21553900,"lon":11.02783900,"rng_nm":0,"alt_fmsl":6726,"id":"----","rwy":"26","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.27645800,"lon":11.45354200,"rng_nm":0,"alt_fmsl":1906,"id":"----","rwy":"26","desc":"MM"},
+{"type":"DME","freq":109.7,"lat":47.31450300,"lon":11.60242200,"rng_nm":30,"alt_fmsl":1906,"id":"OEJ","rwy":"26","desc":"DME-ILS"},
+{"type":"DME","freq":111.1,"lat":47.26010000,"lon":11.35347500,"rng_nm":27,"alt_fmsl":1911,"id":"OEV","rwy":"26","desc":"DME-ILS"}
+]
+}

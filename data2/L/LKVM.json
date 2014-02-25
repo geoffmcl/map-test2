@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKVM","name":"Vysoke Myto","lat":49.93421776,"lon":16.17589052,"rwys":3,"ils":0,"elev":987,"index":3220216,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":599,"wid_m":17.98,"hdg":121,"surf":"Asphalt","rwy1":"12L","lat1":49.93100159,"lon1":16.17951639,"rwy2":"30R","lat2":49.92814888,"lon2":16.18660833},
+{"len_m":1200,"wid_m":39.93,"hdg":121,"surf":"Turf/grass","rwy1":"12R","lat1":49.93074453,"lon1":16.17925397,"rwy2":"30L","lat2":49.92504994,"lon2":16.19345317},
+{"len_m":968,"wid_m":79.86,"hdg":136,"surf":"Turf/grass","rwy1":"14","lat1":49.92958396,"lon1":16.18161407,"rwy2":"32","lat2":49.92325950,"lon2":16.19089073}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.6,"desc":"INFO"}
+]
+,"ils":[
+]
+}

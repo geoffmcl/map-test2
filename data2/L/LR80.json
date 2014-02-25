@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LR80","name":"Fetesti","lat":44.3923055,"lon":27.7266945,"rwys":1,"ils":0,"elev":180,"index":3400090,"path":"e020n40/e027n44"
+,"runways":[
+{"len_m":2500,"wid_m":79.86,"hdg":184,"surf":"Concrete","rwy1":"18","lat1":44.40351400,"lon1":27.72806100,"rwy2":"36","lat2":44.38109700,"lon2":27.72532800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"APP","freq":130,"desc":"APP"}
+]
+,"ils":[
+]
+}

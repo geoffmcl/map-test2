@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNA","name":"Tallard","lat":44.45439500,"lon":6.03459200,"rwys":1,"ils":0,"elev":1985,"index":3056024,"path":"e000n40/e006n44"
+,"runways":[
+{"len_m":879,"wid_m":32.00,"hdg":26,"surf":"Concrete","rwy1":"21","lat1":44.45001600,"lon1":6.03410300,"rwy2":"03","lat2":44.45710600,"lon2":6.03902500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.1,"desc":"GAP FSS"},
+{"type":"ATIS","freq":129.32,"desc":"LFNA ATIS"}
+]
+,"ils":[
+]
+}

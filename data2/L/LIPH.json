@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIPH","name":"Treviso","lat":45.64727020,"lon":12.19752690,"rwys":1,"ils":1,"elev":59,"index":3154408,"path":"e010n40/e012n45"
+,"runways":[
+{"len_m":2418,"wid_m":43.89,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":45.64464500,"lon1":12.17962700,"rwy2":"25","lat2":45.65235300,"lon2":12.20864500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":124.15,"desc":"PADOVA INFO"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.7,"desc":"TWR"},
+{"type":"APP","freq":121.15,"desc":"APP"},
+{"type":"APP","freq":120.4,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":45.65308300,"lon":12.21138900,"rng_nm":18,"alt_fmsl":51,"hdg":69.20,"id":"TRE","rwy":"07","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":45.64702200,"lon":12.18402800,"rng_nm":10,"alt_fmsl":56,"id":"TRE","rwy":"07","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":45.62247200,"lon":12.09563900,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"07","desc":"OM"},
+{"type":"MM","freq":0,"lat":45.64100000,"lon":12.16686100,"rng_nm":0,"alt_fmsl":57,"id":"----","rwy":"07","desc":"MM"}
+]
+}

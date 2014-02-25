@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLRM","name":"Ramon","lat":30.776062,"lon":34.6667715,"rwys":2,"ils":0,"elev":2126,"index":3513906,"path":"e030n30/e034n30"
+,"runways":[
+{"len_m":2995,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07R","lat1":30.76931700,"lon1":34.65310000,"rwy2":"25L","lat2":30.77988100,"lon2":34.68190000},
+{"len_m":2706,"wid_m":45.11,"hdg":66,"surf":"Asphalt","rwy1":"07L","lat1":30.77271700,"lon1":34.65305000,"rwy2":"25R","lat2":30.78233300,"lon2":34.67903600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.9,"desc":"TEL AVIV CON"},
+{"type":"APP","freq":121.4,"desc":"TEL AVIV CON"}
+]
+,"ils":[
+]
+}

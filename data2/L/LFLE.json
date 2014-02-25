@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLE","name":"Challes-les-eaux","lat":45.55913700,"lon":5.97406800,"rwys":1,"ils":0,"elev":983,"index":3039715,"path":"e000n40/e005n45"
+,"runways":[
+{"len_m":990,"wid_m":20.12,"hdg":144,"surf":"Asphalt","rwy1":"15","lat1":45.56423000,"lon1":5.97194100,"rwy2":"33","lat2":45.55701800,"lon2":5.97939900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":20,"wid_m":20.12,"hdg":5,"surf":"Asphalt","lat1":45.55781900,"lon1":5.97756500}
+]
+,"radios":[
+{"type":"CTAF","freq":118.4,"desc":"CHALLES MULT"}
+]
+,"ils":[
+]
+}

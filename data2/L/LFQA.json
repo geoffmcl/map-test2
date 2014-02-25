@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQA","name":"Reims Prunay","lat":49.208822,"lon":4.15705,"rwys":1,"ils":0,"elev":313,"index":3023560,"path":"e000n40/e004n49"
+,"runways":[
+{"len_m":1151,"wid_m":29.87,"hdg":66,"surf":"Asphalt","rwy1":"07","lat1":49.20674400,"lon1":4.14981100,"rwy2":"25","lat2":49.21090000,"lon2":4.16428900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":134.92,"desc":"AFIS"},
+{"type":"APP","freq":119.8,"desc":"REIMS APP"}
+]
+,"ils":[
+]
+}

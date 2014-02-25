@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFNB","name":"Mende Brenoux","lat":44.50620895,"lon":3.52763158,"rwys":1,"ils":1,"elev":3361,"index":3006882,"path":"e000n40/e003n44"
+,"runways":[
+{"len_m":1301,"wid_m":29.87,"hdg":125,"surf":"Asphalt","rwy1":"13","lat1":44.50466900,"lon1":3.52648100,"rwy2":"31","lat2":44.49786100,"lon2":3.53980300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"MENDE INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":44.49762800,"lon":3.54026700,"rng_nm":18,"alt_fmsl":3370,"id":"MD","rwy":"13","desc":"LOC"},
+{"type":"DME","freq":111.9,"lat":44.49761100,"lon":3.54028900,"rng_nm":18,"alt_fmsl":3379,"id":"MD","rwy":"13","desc":"DME-ILS"}
+]
+}

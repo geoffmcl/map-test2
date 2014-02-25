@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMH","name":"Saint Etienne Boutheon","lat":45.53441100,"lon":4.29470900,"rwys":1,"ils":2,"elev":1325,"index":3023329,"path":"e000n40/e004n45"
+,"runways":[
+{"len_m":2305,"wid_m":45.11,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":45.55119700,"lon1":4.29514200,"rwy2":"36","lat2":45.53053900,"lon2":4.29775800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.8,"desc":"SAINT ETIENNE ATIS"},
+{"type":"TWR","freq":118.65,"desc":"SAINT ETIENNE TWR"},
+{"type":"TWR","freq":119.25,"desc":"SAINT ETIENNE TWR"},
+{"type":"APP","freq":118.65,"desc":"SAINT ETIENNE APP"},
+{"type":"APP","freq":119.26,"desc":"SAINT ETIENNE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.35,"lat":45.52884700,"lon":4.29797200,"rng_nm":18,"alt_fmsl":1330,"hdg":174.93,"id":"EB","rwy":"18","desc":"ILS-cat-II"},
+{"type":"ILS","freq":110.9,"lat":45.55259300,"lon":4.29483200,"rng_nm":18,"alt_fmsl":1325,"hdg":354.69,"id":"EB","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.35,"lat":45.54624400,"lon":4.29734200,"rng_nm":10,"alt_fmsl":1297,"id":"EB","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":45.53236400,"lon":4.29856100,"rng_nm":10,"alt_fmsl":1325,"id":"EB","rwy":"36","desc":"GS","gs":3},
+{"type":"DME","freq":110.35,"lat":45.54623900,"lon":4.29734400,"rng_nm":18,"alt_fmsl":1352,"id":"EB","rwy":"18","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LETI","name":"El Tietar","lat":40.24705275,"lon":-4.78868225,"rwys":2,"ils":0,"elev":1401,"index":2875528,"path":"w010n40/w005n40"
+,"runways":[
+{"len_m":999,"wid_m":14.94,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":40.24277800,"lon1":-4.79294400,"rwy2":"23","lat2":40.24893600,"lon2":-4.78436900},
+{"len_m":600,"wid_m":60.05,"hdg":40,"surf":"Dirt","rwy1":"05L","lat1":40.24620800,"lon1":-4.79102200,"rwy2":"23R","lat2":40.25028900,"lon2":-4.78639400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

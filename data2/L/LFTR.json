@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:23:58 UTC"
+,"type":17,"icao":"LFTR","name":"[h] St Mandrier Navy","lat":43.08208400,"lon":5.93231900,"rwys":0,"ils":0,"elev":2,"index":3039555,"path":"e000n40/e005n43"
+,"runways":[]
+,"helipads":[
+{"rwy1":"H10","len_m":34,"wid_m":34.14,"hdg":5,"surf":"Concrete","lat1":43.08386200,"lon1":5.93715100},
+{"rwy1":"H11","len_m":34,"wid_m":34.14,"hdg":5,"surf":"Concrete","lat1":43.08357800,"lon1":5.93619400},
+{"rwy1":"H12","len_m":34,"wid_m":34.14,"hdg":5,"surf":"Concrete","lat1":43.08328100,"lon1":5.93519700},
+{"rwy1":"H13","len_m":34,"wid_m":34.14,"hdg":5,"surf":"Concrete","lat1":43.08297600,"lon1":5.93417600}
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"ST MANDRIER TWR"},
+{"type":"TWR","freq":119.7,"desc":"ST MANDRIER TWR"},
+{"type":"APP","freq":118.82,"desc":"TOULON APP"},
+{"type":"APP","freq":122.1,"desc":"TOULON APP"},
+{"type":"APP","freq":125.6,"desc":"TOULON APP"}
+]
+,"ils":[
+]
+}

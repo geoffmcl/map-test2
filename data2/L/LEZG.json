@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEZG","name":"Zaragoza Ab","lat":41.66362000,"lon":-1.06152800,"rwys":2,"ils":1,"elev":862,"index":2924779,"path":"w010n40/w002n41"
+,"runways":[
+{"len_m":3717,"wid_m":45.11,"hdg":120,"surf":"Asphalt","rwy1":"12R","lat1":41.68020600,"lon1":-1.08237200,"rwy2":"30L","lat2":41.66346100,"lon2":-1.04371400},
+{"len_m":3032,"wid_m":45.11,"hdg":120,"surf":"Asphalt","rwy1":"12L","lat1":41.66905800,"lon1":-1.03983300,"rwy2":"30R","lat2":41.65539400,"lon2":-1.00831700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":118.1,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":127.05,"desc":"APP"},
+{"type":"APP","freq":119.3,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":41.67126100,"lon":-1.04491700,"rng_nm":18,"alt_fmsl":862,"hdg":300.12,"id":"IZZA","rwy":"30R","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":41.65579200,"lon":-1.01295600,"rng_nm":10,"alt_fmsl":862,"id":"IZZA","rwy":"30R","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":41.59889700,"lon":-0.87796400,"rng_nm":0,"alt_fmsl":862,"id":"----","rwy":"30R","desc":"OM"},
+{"type":"MM","freq":0,"lat":41.65062200,"lon":-0.99732500,"rng_nm":0,"alt_fmsl":862,"id":"----","rwy":"30R","desc":"MM"}
+]
+}

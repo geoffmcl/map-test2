@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRU","name":"Morlaix Ploujean","lat":48.59999100,"lon":-3.81659900,"rwys":1,"ils":1,"elev":277,"index":2892448,"path":"w010n40/w004n48"
+,"runways":[
+{"len_m":1616,"wid_m":36.88,"hdg":40,"surf":"Asphalt","rwy1":"04","lat1":48.59767600,"lon1":-3.82291400,"rwy2":"22","lat2":48.60880000,"lon2":-3.80879800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.5,"desc":"MORLAIX FSS"},
+{"type":"CTAF","freq":118.5,"desc":"MORLAIX MULT"},
+{"type":"APP","freq":135.82,"desc":"IROISE APP"},
+{"type":"APP","freq":122.4,"desc":"LANDI APP"}
+]
+,"ils":[
+{"type":"LOC","freq":110.5,"lat":48.59699700,"lon":-3.82384200,"rng_nm":18,"alt_fmsl":277,"id":"MX","rwy":"22","desc":"LOC"},
+{"type":"DME","freq":110.5,"lat":48.59718900,"lon":-3.82420800,"rng_nm":18,"alt_fmsl":277,"id":"MX","rwy":"22","desc":"DME-ILS"}
+]
+}

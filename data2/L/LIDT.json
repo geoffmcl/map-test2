@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LIDT","name":"Mattarello","lat":46.02026400,"lon":11.12667700,"rwys":2,"ils":0,"elev":609,"index":3138048,"path":"e010n40/e011n46"
+,"runways":[
+{"len_m":978,"wid_m":29.87,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":46.02591307,"lon1":11.12476960,"rwy2":"36","lat2":46.01710985,"lon2":11.12476960},
+{"len_m":217,"wid_m":31.09,"hdg":0,"surf":"Transparent","rwy1":"1","lat1":46.01781800,"lon1":11.12546300,"rwy2":"19","lat2":46.01977900,"lon2":11.12546300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.65,"desc":"TRENTO RDO TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LESO","name":"San_sebastian","lat":43.35790569,"lon":-1.79120345,"rwys":1,"ils":0,"elev":14,"index":2924880,"path":"w010n40/w002n43"
+,"runways":[
+{"len_m":1756,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":43.35035700,"lon1":-1.79739800,"rwy2":"22","lat2":43.36268300,"lon2":-1.78382400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-1,"surf":"Concrete","lat1":43.35516965,"lon1":-1.79332378}
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.85,"desc":"TWR"},
+{"type":"APP","freq":119.85,"desc":"APP"}
+]
+,"ils":[
+]
+}

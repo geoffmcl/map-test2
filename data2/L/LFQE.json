@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQE","name":"Rouvres","lat":49.226915,"lon":5.6722095,"rwys":1,"ils":1,"elev":770,"index":3039946,"path":"e000n40/e005n49"
+,"runways":[
+{"len_m":2400,"wid_m":45.11,"hdg":13,"surf":"Asphalt","rwy1":"01","lat1":49.21642200,"lon1":5.66834400,"rwy2":"19","lat2":49.23740800,"lon2":5.67607500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":120.12,"desc":"ETAIN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":49.23989700,"lon":5.67700300,"rng_nm":18,"alt_fmsl":770,"hdg":13.55,"id":"MCY","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":49.21889200,"lon":5.67095800,"rng_nm":10,"alt_fmsl":770,"id":"MCY","rwy":"01","desc":"GS","gs":3},
+{"type":"DME","freq":110.5,"lat":49.21889200,"lon":5.67095800,"rng_nm":18,"alt_fmsl":770,"id":"MCY","rwy":"01","desc":"DME-ILS"}
+]
+}

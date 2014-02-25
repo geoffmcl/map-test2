@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LCPH","name":"Pafos Intl","lat":34.7180375,"lon":32.4857305,"rwys":1,"ils":1,"elev":41,"index":3481385,"path":"e030n30/e032n34"
+,"runways":[
+{"len_m":2702,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":34.72225600,"lon1":32.47189200,"rwy2":"29","lat2":34.71381900,"lon2":32.49956900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"TWR"},
+{"type":"APP","freq":120.8,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":34.72430600,"lon":32.46833300,"rng_nm":18,"alt_fmsl":73,"hdg":292.21,"id":"IPA","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":34.71716700,"lon":32.49616700,"rng_nm":10,"alt_fmsl":73,"id":"IPA","rwy":"29","desc":"GS","gs":3},
+{"type":"DME","freq":108.9,"lat":34.71716700,"lon":32.49616700,"rng_nm":18,"alt_fmsl":73,"id":"IPA","rwy":"29","desc":"DME-ILS"}
+]
+}

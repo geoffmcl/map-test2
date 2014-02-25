@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTBS","name":"Dalaman","lat":36.72062697,"lon":28.78743007,"rwys":1,"ils":0,"elev":20,"index":3415979,"path":"e020n30/e028n36"
+,"runways":[
+{"len_m":2996,"wid_m":45.11,"hdg":15,"surf":"Concrete","rwy1":"01","lat1":36.70016523,"lon1":28.78808595,"rwy2":"19","lat2":36.72621177,"lon2":28.79694055}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.35,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"TWR","freq":128.9,"desc":"TWR"},
+{"type":"APP","freq":119.22,"desc":"APP"},
+{"type":"APP","freq":129.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

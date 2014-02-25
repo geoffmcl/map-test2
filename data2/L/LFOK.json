@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFOK","name":"Chalons Vatry","lat":48.776207,"lon":4.1841665,"rwys":1,"ils":2,"elev":587,"index":3023536,"path":"e000n40/e004n48"
+,"runways":[
+{"len_m":3860,"wid_m":45.11,"hdg":101,"surf":"Concrete","rwy1":"10","lat1":48.77958600,"lon1":4.15840800,"rwy2":"28","lat2":48.77282800,"lon2":4.20992500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.4,"desc":"INFO"},
+{"type":"TWR","freq":119.4,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":48.77230300,"lon":4.21391700,"rng_nm":18,"alt_fmsl":587,"hdg":101.28,"id":"CVD","rwy":"10","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.55,"lat":48.78010800,"lon":4.15441400,"rng_nm":18,"alt_fmsl":587,"hdg":281.23,"id":"CVL","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":48.77756900,"lon":4.16330600,"rng_nm":10,"alt_fmsl":613,"id":"CVD","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":109.55,"lat":48.77225600,"lon":4.20382200,"rng_nm":10,"alt_fmsl":637,"id":"CVL","rwy":"28","desc":"GS","gs":3},
+{"type":"DME","freq":111.3,"lat":48.77756900,"lon":4.16329400,"rng_nm":18,"alt_fmsl":587,"id":"CVD","rwy":"10","desc":"DME-ILS"},
+{"type":"DME","freq":109.55,"lat":48.77225300,"lon":4.20383300,"rng_nm":18,"alt_fmsl":587,"id":"CVL","rwy":"28","desc":"DME-ILS"}
+]
+}

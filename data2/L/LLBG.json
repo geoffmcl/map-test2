@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LLBG","name":"Tel Aviv Ben Gurion","lat":32.00390100,"lon":34.87198300,"rwys":3,"ils":2,"elev":135,"index":3513987,"path":"e030n30/e034n32"
+,"runways":[
+{"len_m":3668,"wid_m":45.11,"hdg":79,"surf":"Asphalt","rwy1":"08","lat1":32.01303300,"lon1":34.86038300,"rwy2":"26","lat2":32.01890600,"lon2":34.89860000},
+{"len_m":3134,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"12","lat1":32.01468600,"lon1":34.86584400,"rwy2":"30","lat2":31.99994700,"lon2":34.89415300},
+{"len_m":1762,"wid_m":45.11,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":32.00416900,"lon1":34.89116700,"rwy2":"21","lat2":32.01806700,"lon2":34.90020800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.5,"desc":"ATIS"},
+{"type":"CLD","freq":119.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":118.05,"desc":"GND WEST"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.5,"desc":"TMA"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":31.99878600,"lon":34.89649400,"rng_nm":18,"alt_fmsl":130,"hdg":121.47,"id":"BG","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":32.01279700,"lon":34.85884700,"rng_nm":18,"alt_fmsl":97,"hdg":259.72,"id":"BA","rwy":"26","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":32.01279700,"lon":34.86855300,"rng_nm":10,"alt_fmsl":135,"id":"BG","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":108.7,"lat":32.01833300,"lon":34.88875600,"rng_nm":10,"alt_fmsl":100,"id":"BA","rwy":"26","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":32.06255600,"lon":34.77078300,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"12","desc":"OM"},
+{"type":"OM","freq":0,"lat":32.02750000,"lon":34.95388900,"rng_nm":0,"alt_fmsl":135,"id":"----","rwy":"26","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":32.01194200,"lon":34.86855300,"rng_nm":18,"alt_fmsl":135,"id":"BG","rwy":"12","desc":"DME-ILS"}
+]
+}

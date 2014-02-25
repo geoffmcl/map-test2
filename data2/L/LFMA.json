@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFMA","name":"Les Milles","lat":43.50401600,"lon":5.36589600,"rwys":1,"ils":0,"elev":366,"index":3039585,"path":"e000n40/e005n43"
+,"runways":[
+{"len_m":1602,"wid_m":29.87,"hdg":145,"surf":"Asphalt","rwy1":"15","lat1":43.51137900,"lon1":5.36173800,"rwy2":"33","lat2":43.49948100,"lon2":5.37293000}
+]
+,"helipads":[
+{"rwy1":"H10","len_m":14,"wid_m":14.94,"hdg":5,"surf":"Asphalt","lat1":43.50261000,"lon1":5.36736300},
+{"rwy1":"H6","len_m":9,"wid_m":9.14,"hdg":5,"surf":"Concrete","lat1":43.50628500,"lon1":5.36529300},
+{"rwy1":"H7","len_m":9,"wid_m":9.14,"hdg":5,"surf":"Concrete","lat1":43.50248600,"lon1":5.36858700},
+{"rwy1":"H8","len_m":9,"wid_m":9.14,"hdg":5,"surf":"Asphalt","lat1":43.50525000,"lon1":5.36987800},
+{"rwy1":"H9","len_m":9,"wid_m":9.14,"hdg":5,"surf":"Asphalt","lat1":43.50509900,"lon1":5.37001800}
+]
+,"radios":[
+{"type":"ATIS","freq":136.22,"desc":"AIX ATIS"},
+{"type":"TWR","freq":118.75,"desc":"AIX TWR"},
+{"type":"TWR","freq":122.1,"desc":"AIX TWR"},
+{"type":"TWR","freq":118.1,"desc":"PROVENCE TWR"},
+{"type":"APP","freq":120.2,"desc":"PROVENCE APP"},
+{"type":"APP","freq":129.47,"desc":"PROVENCE APP"}
+]
+,"ils":[
+]
+}

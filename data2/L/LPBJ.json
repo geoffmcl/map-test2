@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LPBJ","name":"Beja","lat":38.07878375,"lon":-7.9311815,"rwys":2,"ils":1,"elev":636,"index":2826240,"path":"w010n30/w008n38"
+,"runways":[
+{"len_m":3449,"wid_m":60.05,"hdg":5,"surf":"Concrete","rwy1":"01L","lat1":38.06344700,"lon1":-7.93442800,"rwy2":"19R","lat2":38.09436100,"lon2":-7.93036700},
+{"len_m":2950,"wid_m":29.87,"hdg":5,"surf":"Concrete","rwy1":"01R","lat1":38.06544400,"lon1":-7.93170300,"rwy2":"19L","lat2":38.09188300,"lon2":-7.92822800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"TWR","freq":130.4,"desc":"TWR"},
+{"type":"APP","freq":130.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":38.05947800,"lon":-7.93495000,"rng_nm":18,"alt_fmsl":628,"hdg":185.90,"id":"BJ","rwy":"19R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":38.09160600,"lon":-7.93268100,"rng_nm":10,"alt_fmsl":625,"id":"BJ","rwy":"19R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.15926400,"lon":-7.92170800,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"19R","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.10631900,"lon":-7.92879400,"rng_nm":0,"alt_fmsl":636,"id":"----","rwy":"19R","desc":"MM"}
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKMT","name":"Ostrava Mosnov","lat":49.69660353,"lon":18.115077,"rwys":1,"ils":1,"elev":843,"index":3252968,"path":"e010n40/e018n49"
+,"runways":[
+{"len_m":3520,"wid_m":63.09,"hdg":46,"surf":"Concrete","rwy1":"04","lat1":49.68529998,"lon1":18.09319357,"rwy2":"22","lat2":49.70713416,"lon2":18.12851631}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":39.93,"hdg":18,"surf":"Concrete","lat1":49.69698999,"lon1":18.11929906}
+]
+,"radios":[
+{"type":"TWR","freq":120.8,"desc":"TOWER"},
+{"type":"TWR","freq":121.5,"desc":"TOWER"}
+]
+,"ils":[
+{"type":"ILS","freq":110.95,"lat":49.68215800,"lon":18.08814700,"rng_nm":18,"alt_fmsl":807,"hdg":226.26,"id":"OSV","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.95,"lat":49.70446700,"lon":18.12657800,"rng_nm":10,"alt_fmsl":807,"id":"OSV","rwy":"22","desc":"GS","gs":3},
+{"type":"DME","freq":110.95,"lat":49.70447200,"lon":18.12656100,"rng_nm":18,"alt_fmsl":824,"id":"OSV","rwy":"22","desc":"DME-ILS"}
+]
+}

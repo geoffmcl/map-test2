@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFRG","name":"Deauville Saint Gatien","lat":49.365296,"lon":0.1543235,"rwys":1,"ils":1,"elev":479,"index":2958032,"path":"e000n40/e000n49"
+,"runways":[
+{"len_m":2548,"wid_m":45.11,"hdg":117,"surf":"Asphalt","rwy1":"12","lat1":49.37052800,"lon1":0.13871400,"rwy2":"30","lat2":49.36006400,"lon2":0.16993300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":136.15,"desc":"ATIS"},
+{"type":"TWR","freq":119.82,"desc":"DEAUVILLE INFO"},
+{"type":"TWR","freq":120.35,"desc":"DEAUVILLE INFO"},
+{"type":"TWR","freq":118.3,"desc":"DEAUVILLE TWR"},
+{"type":"APP","freq":120.35,"desc":"DEAUVILLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.55,"lat":49.37175600,"lon":0.13504700,"rng_nm":18,"alt_fmsl":479,"hdg":297.22,"id":"DV","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.55,"lat":49.36391700,"lon":0.16208100,"rng_nm":10,"alt_fmsl":479,"id":"DV","rwy":"30","desc":"GS","gs":3},
+{"type":"DME","freq":111.55,"lat":49.36391700,"lon":0.16208100,"rng_nm":18,"alt_fmsl":466,"id":"DV","rwy":"30","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LEMH","name":"Menorca","lat":39.86706920,"lon":4.22361040,"rwys":2,"ils":1,"elev":298,"index":3022960,"path":"e000n30/e004n39"
+,"runways":[
+{"len_m":2350,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"01L","lat1":39.85125800,"lon1":4.21631900,"rwy2":"19R","lat2":39.87216400,"lon2":4.22061700},
+{"len_m":2100,"wid_m":45.11,"hdg":9,"surf":"Asphalt","rwy1":"01R","lat1":39.85338900,"lon1":4.21913600,"rwy2":"19L","lat2":39.87207500,"lon2":4.22297800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":39.87783600,"lon":4.22178100,"rng_nm":18,"alt_fmsl":298,"hdg":8.97,"id":"IMH","rwy":"01L","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":39.85442200,"lon":4.21555800,"rng_nm":10,"alt_fmsl":298,"id":"IMH","rwy":"01L","desc":"GS","gs":3},
+{"type":"DME","freq":110.3,"lat":39.85442200,"lon":4.21555000,"rng_nm":18,"alt_fmsl":298,"id":"IMH","rwy":"01L","desc":"DME-ILS"}
+]
+}

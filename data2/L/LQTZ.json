@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LQTZ","name":"Tuzla","lat":44.4586665,"lon":18.724833,"rwys":1,"ils":1,"elev":784,"index":3252634,"path":"e010n40/e018n44"
+,"runways":[
+{"len_m":2480,"wid_m":45.11,"hdg":95,"surf":"Asphalt","rwy1":"09","lat1":44.45983300,"lon1":18.70933300,"rwy2":"27","lat2":44.45750000,"lon2":18.74033300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130.85,"desc":"TWR"},
+{"type":"APP","freq":125.8,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":44.45722200,"lon":18.74297800,"rng_nm":25,"alt_fmsl":788,"hdg":96.00,"id":"TLA","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":44.45851400,"lon":18.71261100,"rng_nm":25,"alt_fmsl":251,"id":"TLA","rwy":"09","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":44.45851400,"lon":18.71261100,"rng_nm":25,"alt_fmsl":251,"id":"TLA","rwy":"09","desc":"DME-ILS"}
+]
+}

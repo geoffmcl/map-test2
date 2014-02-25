@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFES","name":"Guiscriff Scaer","lat":48.05335500,"lon":-3.66212600,"rwys":1,"ils":0,"elev":575,"index":2892417,"path":"w010n40/w004n48"
+,"runways":[
+{"len_m":1504,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":48.04627300,"lon1":-3.66867100,"rwy2":"21","lat2":48.05875900,"lon2":-3.66090900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":129.8,"desc":"GUISCRIFF MULT"},
+{"type":"APP","freq":119.57,"desc":"IROISE APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LPPR","name":"Porto","lat":41.24013700,"lon":-8.67142600,"rwys":1,"ils":1,"elev":228,"index":2810057,"path":"w010n40/w009n41"
+,"runways":[
+{"len_m":3485,"wid_m":45.11,"hdg":168,"surf":"Asphalt","rwy1":"17","lat1":41.26332800,"lon1":-8.68524400,"rwy2":"35","lat2":41.23253600,"lon2":-8.67719700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"INFO"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":41.23004200,"lon":-8.67653100,"rng_nm":18,"alt_fmsl":228,"hdg":168.87,"id":"PR","rwy":"17","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.9,"lat":41.25815800,"lon":-8.68256400,"rng_nm":10,"alt_fmsl":228,"id":"PR","rwy":"17","desc":"GS","gs":2.72},
+{"type":"OM","freq":0,"lat":41.34798600,"lon":-8.70751400,"rng_nm":0,"alt_fmsl":228,"id":"----","rwy":"17","desc":"OM"},
+{"type":"DME","freq":109.9,"lat":41.25815800,"lon":-8.68256400,"rng_nm":18,"alt_fmsl":228,"id":"PR","rwy":"17","desc":"DME-ILS"}
+]
+}

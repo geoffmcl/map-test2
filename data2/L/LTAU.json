@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LTAU","name":"Erkilet","lat":38.7703845,"lon":35.4954275,"rwys":1,"ils":1,"elev":3463,"index":3530801,"path":"e030n30/e035n38"
+,"runways":[
+{"len_m":2999,"wid_m":44.20,"hdg":76,"surf":"Concrete","rwy1":"07","lat1":38.76719700,"lon1":35.47865800,"rwy2":"25","lat2":38.77357200,"lon2":35.51219700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.95,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":38.76666700,"lon":35.47555600,"rng_nm":18,"alt_fmsl":3453,"hdg":256.40,"id":"IKSR","rwy":"25","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":38.77194400,"lon":35.50916700,"rng_nm":10,"alt_fmsl":3463,"id":"IKSR","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":38.79472200,"lon":35.62305600,"rng_nm":0,"alt_fmsl":3838,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":38.77583300,"lon":35.52444400,"rng_nm":0,"alt_fmsl":3463,"id":"----","rwy":"25","desc":"MM"}
+]
+}

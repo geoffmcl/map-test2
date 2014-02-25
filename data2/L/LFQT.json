@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFQT","name":"Calonne","lat":50.62494300,"lon":2.64460300,"rwys":2,"ils":1,"elev":60,"index":2990882,"path":"e000n50/e002n50"
+,"runways":[
+{"len_m":1842,"wid_m":34.14,"hdg":37,"surf":"Asphalt","rwy1":"04","lat1":50.61183500,"lon1":2.63434600,"rwy2":"22","lat2":50.62497900,"lon2":2.65018600},
+{"len_m":996,"wid_m":100.58,"hdg":37,"surf":"Turf/grass","rwy1":"04R","lat1":50.62090700,"lon1":2.64794100,"rwy2":"22L","lat2":50.62801500,"lon2":2.65650900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.92,"desc":"LFQT ATIS"},
+{"type":"CTAF","freq":119.07,"desc":"MERVILLE MULT"},
+{"type":"GND","freq":121.67,"desc":"MERVILLE GND"},
+{"type":"TWR","freq":119.07,"desc":"MERVILLE TWR"},
+{"type":"APP","freq":120.27,"desc":"LILLE APP"},
+{"type":"APP","freq":126.47,"desc":"LILLE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.35,"lat":50.61053100,"lon":2.63276700,"rng_nm":18,"alt_fmsl":60,"hdg":217.41,"id":"MER","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.35,"lat":50.62380000,"lon":2.64661700,"rng_nm":10,"alt_fmsl":60,"id":"MER","rwy":"22","desc":"GS","gs":3.5},
+{"type":"DME","freq":109.35,"lat":50.62380000,"lon":2.64661700,"rng_nm":18,"alt_fmsl":60,"id":"MER","rwy":"22","desc":"DME-ILS"}
+]
+}

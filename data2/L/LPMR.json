@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LPMR","name":"Monte Real","lat":39.831239,"lon":-8.8872585,"rwys":1,"ils":1,"elev":187,"index":2809968,"path":"w010n30/w009n39"
+,"runways":[
+{"len_m":2991,"wid_m":45.11,"hdg":1,"surf":"Concrete","rwy1":"01","lat1":39.81777200,"lon1":-8.88778900,"rwy2":"19","lat2":39.84470600,"lon2":-8.88672800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":119.72,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":121.7,"desc":"APP"},
+{"type":"APP","freq":120.47,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":39.81697500,"lon":-8.88782800,"rng_nm":18,"alt_fmsl":187,"hdg":181.74,"id":"MR","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":39.84011100,"lon":-8.88550800,"rng_nm":10,"alt_fmsl":187,"id":"MR","rwy":"19","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":39.90774700,"lon":-8.88354200,"rng_nm":0,"alt_fmsl":187,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.85180800,"lon":-8.88644700,"rng_nm":0,"alt_fmsl":187,"id":"----","rwy":"19","desc":"MM"}
+]
+}

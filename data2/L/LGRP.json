@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LGRP","name":"Diagoras","lat":36.40242526,"lon":28.09124110,"rwys":1,"ils":1,"elev":17,"index":3415960,"path":"e020n30/e028n36"
+,"runways":[
+{"len_m":3306,"wid_m":45.11,"hdg":70,"surf":"Asphalt","rwy1":"07","lat1":36.40033900,"lon1":28.06886900,"rwy2":"25","lat2":36.41050000,"lon2":28.10351700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.35,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.25,"desc":"RODOS APP"},
+{"type":"APP","freq":120.6,"desc":"RODOS APP"},
+{"type":"APP","freq":122.1,"desc":"RODOS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":36.39982700,"lon":28.06615900,"rng_nm":18,"alt_fmsl":17,"hdg":250.45,"id":"IRDS","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":36.41010500,"lon":28.09921500,"rng_nm":10,"alt_fmsl":17,"id":"IRDS","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.44121700,"lon":28.20893900,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.41316100,"lon":28.11282600,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"25","desc":"MM"}
+]
+}

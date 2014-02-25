@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LFLA","name":"Auxerre Branches","lat":47.850361,"lon":3.497153,"rwys":1,"ils":1,"elev":523,"index":3007089,"path":"e000n40/e003n47"
+,"runways":[
+{"len_m":1649,"wid_m":29.87,"hdg":5,"surf":"Asphalt","rwy1":"01","lat1":47.84297800,"lon1":3.49610000,"rwy2":"19","lat2":47.85774400,"lon2":3.49820600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":129.8,"desc":"AUXERRE INFO"}
+]
+,"ils":[
+{"type":"ILS","freq":109.95,"lat":47.84234400,"lon":3.49600800,"rng_nm":18,"alt_fmsl":523,"hdg":185.47,"id":"AX","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.95,"lat":47.85545000,"lon":3.49654200,"rng_nm":10,"alt_fmsl":523,"id":"AX","rwy":"19","desc":"GS","gs":3},
+{"type":"DME","freq":109.95,"lat":47.85545300,"lon":3.49654200,"rng_nm":18,"alt_fmsl":523,"id":"AX","rwy":"19","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LCRA","name":"Akrotiri","lat":34.590417,"lon":32.98775,"rwys":1,"ils":1,"elev":76,"index":3481379,"path":"e030n30/e032n34"
+,"runways":[
+{"len_m":2743,"wid_m":60.96,"hdg":107,"surf":"Asphalt","rwy1":"10","lat1":34.59416700,"lon1":32.97350000,"rwy2":"28","lat2":34.58666700,"lon2":33.00200000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":122.1,"desc":"APP"},
+{"type":"APP","freq":122.1,"desc":"DIRECTOR"},
+{"type":"APP","freq":123.3,"desc":"DIRECTOR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":34.59515800,"lon":32.96953900,"rng_nm":18,"alt_fmsl":76,"hdg":287.62,"id":"AK","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":34.58849400,"lon":32.99933100,"rng_nm":10,"alt_fmsl":76,"id":"AK","rwy":"28","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.58421100,"lon":33.01243100,"rng_nm":0,"alt_fmsl":76,"id":"----","rwy":"28","desc":"MM"}
+]
+}

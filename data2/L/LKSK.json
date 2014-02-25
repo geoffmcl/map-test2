@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LKSK","name":"Skutec","lat":49.83191196,"lon":16.00288351,"rwys":2,"ils":0,"elev":1601,"index":3220208,"path":"e010n40/e016n49"
+,"runways":[
+{"len_m":869,"wid_m":199.95,"hdg":125,"surf":"Turf/grass","rwy1":"13","lat1":49.83127342,"lon1":15.99976818,"rwy2":"31","lat2":49.82671208,"lon2":16.00959080},
+{"len_m":567,"wid_m":149.96,"hdg":18,"surf":"Turf/grass","rwy1":"03","lat1":49.82367224,"lon1":16.00617177,"rwy2":"21","lat2":49.82850517,"lon2":16.00870502}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":123.5,"desc":"INFO"}
+]
+,"ils":[
+]
+}

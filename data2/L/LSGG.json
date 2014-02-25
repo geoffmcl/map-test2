@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"LSGG","name":"Geneva","lat":46.22886836,"lon":6.10362784,"rwys":2,"ils":2,"elev":1410,"index":3056136,"path":"e000n40/e006n46"
+,"runways":[
+{"len_m":3904,"wid_m":54.86,"hdg":45,"surf":"Concrete","rwy1":"05","lat1":46.22579381,"lon1":6.09093933,"rwy2":"23","lat2":46.25039752,"lon2":6.12706146},
+{"len_m":824,"wid_m":29.87,"hdg":45,"surf":"Turf/grass","rwy1":"05L","lat1":46.23481646,"lon1":6.09953181,"rwy2":"23R","lat2":46.24001038,"lon2":6.10715805}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.75,"desc":"ATIS"},
+{"type":"ATIS","freq":135.57,"desc":"ATIS"},
+{"type":"GND","freq":118.7,"desc":"Geneva Apron"},
+{"type":"GND","freq":121.67,"desc":"Geneva Ground"},
+{"type":"GND","freq":119.7,"desc":"Geneva Ground (auxiliary)"},
+{"type":"TWR","freq":118.7,"desc":"Geneva Tower"},
+{"type":"TWR","freq":119.9,"desc":"Geneva Tower (auxiliary)"},
+{"type":"TWR","freq":119.7,"desc":"Geneva Tower (instructed by ATC)"},
+{"type":"APP","freq":136.25,"desc":"Geneva Arrival"},
+{"type":"APP","freq":131.32,"desc":"Geneva Approach (instructed by ATC)"},
+{"type":"APP","freq":121.3,"desc":"Geneva Departure (instructed by ATC)"},
+{"type":"APP","freq":120.3,"desc":"Geneva Final"},
+{"type":"DEP","freq":119.52,"desc":"Geneva Departure"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":46.25147200,"lon":6.12863900,"rng_nm":18,"alt_fmsl":1407,"hdg":45.45,"id":"INE","rwy":"05","desc":"ILS-cat-III"},
+{"type":"ILS","freq":109.9,"lat":46.22483300,"lon":6.08952800,"rng_nm":20,"alt_fmsl":1363,"hdg":225.43,"id":"ISW","rwy":"23","desc":"ILS-cat-III"},
+{"type":"GS","freq":110.9,"lat":46.23055600,"lon":6.09547200,"rng_nm":18,"alt_fmsl":1460,"id":"INE","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":46.24891700,"lon":6.12269400,"rng_nm":20,"alt_fmsl":1384,"id":"ISW","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":110.9,"lat":46.23055600,"lon":6.09547200,"rng_nm":27,"alt_fmsl":1460,"id":"INE","rwy":"05","desc":"DME-ILS"},
+{"type":"DME","freq":109.9,"lat":46.24891700,"lon":6.12269400,"rng_nm":30,"alt_fmsl":1384,"id":"ISW","rwy":"23","desc":"DME-ILS"}
+]
+}
