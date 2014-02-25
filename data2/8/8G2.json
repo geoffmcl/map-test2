@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"8G2","name":"Corry Lawrence","lat":41.9075555,"lon":-79.641047,"rwys":1,"ils":0,"elev":1766,"index":1646841,"path":"w080n40/w080n41"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":132,"surf":"Asphalt","rwy1":"14","lat1":41.91136900,"lon1":-79.64658300,"rwy2":"32","lat2":41.90374200,"lon2":-79.63551100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121,"desc":"ERIE APP/DEP"},
+{"type":"APP","freq":126.05,"desc":"ERIE APP/DEP"}
+]
+,"ils":[
+]
+}

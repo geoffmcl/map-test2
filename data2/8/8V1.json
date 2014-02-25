@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"8V1","name":"Del Norte Muni And County","lat":37.71715275,"lon":-106.35069425,"rwys":2,"ils":0,"elev":7949,"index":1204202,"path":"w110n30/w107n37"
+,"runways":[
+{"len_m":1839,"wid_m":18.29,"hdg":31,"surf":"Turf/grass","rwy1":"02","lat1":37.71361100,"lon1":-106.35444400,"rwy2":"20","lat2":37.72777800,"lon2":-106.34361100},
+{"len_m":1151,"wid_m":14.94,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":37.71361100,"lon1":-106.35888900,"rwy2":"26","lat2":37.71361100,"lon2":-106.34583300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"80D","name":"Clare Co","lat":44.05283525,"lon":-84.81252425,"rwys":2,"ils":0,"elev":1142,"index":1565056,"path":"w090n40/w085n44"
+,"runways":[
+{"len_m":847,"wid_m":15.24,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":44.05481900,"lon1":-84.81237200,"rwy2":"36","lat2":44.04719400,"lon2":-84.81255800},
+{"len_m":705,"wid_m":30.48,"hdg":94,"surf":"Turf/grass","rwy1":"09","lat1":44.05490000,"lon1":-84.81697500,"rwy2":"27","lat2":44.05442800,"lon2":-84.80819200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

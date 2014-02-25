@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"8D1","name":"New Holstein Muni","lat":43.944061,"lon":-88.11501675,"rwys":2,"ils":0,"elev":992,"index":1499515,"path":"w090n40/w089n43"
+,"runways":[
+{"len_m":1096,"wid_m":22.86,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":43.94809700,"lon1":-88.11773900,"rwy2":"32","lat2":43.94038600,"lon2":-88.10921700},
+{"len_m":909,"wid_m":76.20,"hdg":38,"surf":"Turf/grass","rwy1":"04","lat1":43.94068600,"lon1":-88.12009700,"rwy2":"22","lat2":43.94707500,"lon2":-88.11301400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

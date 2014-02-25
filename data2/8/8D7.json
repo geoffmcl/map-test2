@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"8D7","name":"Clark County","lat":44.89571025,"lon":-97.71092775,"rwys":2,"ils":0,"elev":1792,"index":1352121,"path":"w100n40/w098n44"
+,"runways":[
+{"len_m":1127,"wid_m":18.29,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":44.89790000,"lon1":-97.71531400,"rwy2":"31","lat2":44.89111900,"lon2":-97.70470000},
+{"len_m":837,"wid_m":30.48,"hdg":43,"surf":"Turf/grass","rwy1":"03","lat1":44.89415800,"lon1":-97.71546900,"rwy2":"21","lat2":44.89966400,"lon2":-97.70822800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

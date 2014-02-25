@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"8A3","name":"Livingston Muni","lat":36.4121835,"lon":-85.311539,"rwys":1,"ils":0,"elev":1372,"index":1548186,"path":"w090n30/w086n36"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":36.40760000,"lon1":-85.31528100,"rwy2":"21","lat2":36.41676700,"lon2":-85.30779700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}
