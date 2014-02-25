@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"X59","name":"Valkaria","lat":27.96326375,"lon":-80.56361275,"rwys":2,"ils":0,"elev":26,"index":1629561,"path":"w090n20/w081n27"
+,"runways":[
+{"len_m":1202,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":27.96222200,"lon1":-80.57111400,"rwy2":"27","lat2":27.96194400,"lon2":-80.55889200},
+{"len_m":1234,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":27.96861100,"lon1":-80.56638900,"rwy2":"32","lat2":27.96027800,"lon2":-80.55805600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

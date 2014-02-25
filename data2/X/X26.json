@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"X26","name":"Sebastian Muni","lat":27.813797125,"lon":-80.497094375,"rwys":4,"ils":0,"elev":21,"index":1629554,"path":"w090n20/w081n27"
+,"runways":[
+{"len_m":1226,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":27.80868600,"lon1":-80.50031100,"rwy2":"22","lat2":27.81649700,"lon2":-80.49149700},
+{"len_m":1225,"wid_m":45.72,"hdg":135,"surf":"Asphalt","rwy1":"13","lat1":27.81941400,"lon1":-80.50029400,"rwy2":"31","lat2":27.81158300,"lon2":-80.49151100},
+{"len_m":1231,"wid_m":45.72,"hdg":180,"surf":"Asphalt","rwy1":"18","lat1":27.81861100,"lon1":-80.50138900,"rwy2":"36","lat2":27.80750000,"lon2":-80.50138900},
+{"len_m":975,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":27.81405000,"lon1":-80.50013300,"rwy2":"26","lat2":27.81403600,"lon2":-80.49023100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

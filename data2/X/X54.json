@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"X54","name":"Benger Air Park","lat":34.6546686666667,"lon":-102.692739166667,"rwys":3,"ils":0,"elev":4003,"index":1269545,"path":"w110n30/w103n34"
+,"runways":[
+{"len_m":907,"wid_m":18.29,"hdg":44,"surf":"Asphalt","rwy1":"04R","lat1":34.65111100,"lon1":-102.69527800,"rwy2":"22L","lat2":34.65694400,"lon2":-102.68833300},
+{"len_m":832,"wid_m":45.72,"hdg":180,"surf":"Turf/grass","rwy1":"17","lat1":34.65916700,"lon1":-102.69472200,"rwy2":"35","lat2":34.65166700,"lon2":-102.69472200},
+{"len_m":731,"wid_m":18.29,"hdg":45,"surf":"Turf/grass","rwy1":"04L","lat1":34.65223100,"lon1":-102.69451100,"rwy2":"22R","lat2":34.65689200,"lon2":-102.68886900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"XBRO","name":"Isle Of Skye Broadford","lat":57.25339894,"lon":-5.82448891,"rwys":1,"ils":0,"elev":23,"index":2860240,"path":"w010n50/w006n57"
+,"runways":[
+{"len_m":796,"wid_m":25.91,"hdg":60,"surf":"Asphalt","rwy1":"08","lat1":57.25141725,"lon1":-5.83357271,"rwy2":"26","lat2":57.25490716,"lon2":-5.82204849}
+]
+,"helipads":[
+{"rwy1":"H46","len_m":49,"wid_m":49.99,"hdg":-5,"surf":"Asphalt","lat1":57.25406107,"lon1":-5.83467346},
+{"rwy1":"H47","len_m":49,"wid_m":49.99,"hdg":-5,"surf":"Asphalt","lat1":57.25520423,"lon1":-5.82790325},
+{"rwy1":"H48","len_m":49,"wid_m":49.99,"hdg":-5,"surf":"Asphalt","lat1":57.24994717,"lon1":-5.82939075},
+{"rwy1":"H49","len_m":49,"wid_m":49.99,"hdg":-5,"surf":"Asphalt","lat1":57.25155663,"lon1":-5.82195325}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"X6KT","name":"Kirknewton","lat":55.8756736266667,"lon":-3.39954565,"rwys":3,"ils":0,"elev":665,"index":2892922,"path":"w010n50/w004n55"
+,"runways":[
+{"len_m":802,"wid_m":49.99,"hdg":50,"surf":"Asphalt","rwy1":"06","lat1":55.87182483,"lon1":-3.40294000,"rwy2":"24","lat2":55.87639900,"lon2":-3.39302800},
+{"len_m":746,"wid_m":38.10,"hdg":170,"surf":"Dirt","rwy1":"17","lat1":55.87911310,"lon1":-3.40077487,"rwy2":"35","lat2":55.87249299,"lon2":-3.39889088},
+{"len_m":792,"wid_m":38.10,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":55.87849170,"lon1":-3.40665170,"rwy2":"29","lat2":55.87572013,"lon2":-3.39498844}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":121.2,"desc":"Edinburgh Approach"}
+]
+,"ils":[
+]
+}

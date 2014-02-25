@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"X07","name":"Lake Wales Muni","lat":27.89379875,"lon":-81.6203945,"rwys":2,"ils":0,"elev":127,"index":1613177,"path":"w090n20/w082n27"
+,"runways":[
+{"len_m":1218,"wid_m":30.48,"hdg":59,"surf":"Asphalt","rwy1":"06","lat1":27.89043100,"lon1":-81.62546400,"rwy2":"24","lat2":27.89601400,"lon2":-81.61480000},
+{"len_m":1218,"wid_m":22.86,"hdg":167,"surf":"Asphalt","rwy1":"17","lat1":27.89974400,"lon1":-81.62199700,"rwy2":"35","lat2":27.88900600,"lon2":-81.61931700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.65,"desc":"TAMPA APP/DEP"}
+]
+,"ils":[
+]
+}

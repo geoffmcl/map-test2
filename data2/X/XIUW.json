@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"XIUW","name":"Ulan-ude Vostochny","lat":51.85926034,"lon":107.75224506,"rwys":1,"ils":0,"elev":1689,"index":4711283,"path":"e100n50/e107n51"
+,"runways":[
+{"len_m":2662,"wid_m":64.92,"hdg":77,"surf":"Concrete","rwy1":"08","lat1":51.84812700,"lon1":107.72051900,"rwy2":"26","lat2":51.85330900,"lon2":107.75823900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"Kedrach ATIS"},
+{"type":"TWR","freq":124,"desc":"Kedrach Start"}
+]
+,"ils":[
+]
+}

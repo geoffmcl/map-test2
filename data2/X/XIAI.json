@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"XIAI","name":"Cheremushki","lat":52.06765569,"lon":113.43242228,"rwys":1,"ils":0,"elev":2129,"index":4809601,"path":"e110n50/e113n52"
+,"runways":[
+{"len_m":2703,"wid_m":39.93,"hdg":143,"surf":"Concrete","rwy1":"15","lat1":52.08323214,"lon1":113.42114112,"rwy2":"33","lat2":52.06379506,"lon2":113.44479815}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":127.4,"desc":"Cheremushki ATIS"},
+{"type":"TWR","freq":124,"desc":"Cheremushki Start"},
+{"type":"APP","freq":130,"desc":"Cheremushki Center"},
+{"type":"DEP","freq":128.5,"desc":"Cheremushki Departure"}
+]
+,"ils":[
+]
+}
