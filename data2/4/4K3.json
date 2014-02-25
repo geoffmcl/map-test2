@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4K3","name":"Lexington Muni","lat":39.2097805,"lon":-93.9280031666667,"rwys":3,"ils":0,"elev":691,"index":1417288,"path":"w100n30/w094n39"
+,"runways":[
+{"len_m":934,"wid_m":38.10,"hdg":135,"surf":"Dirt","rwy1":"13","lat1":39.21275800,"lon1":-93.93045800,"rwy2":"31","lat2":39.20670800,"lon2":-93.92292800},
+{"len_m":891,"wid_m":12.19,"hdg":42,"surf":"Asphalt","rwy1":"04","lat1":39.20691400,"lon1":-93.93030600,"rwy2":"22","lat2":39.21283600,"lon2":-93.92333300},
+{"len_m":686,"wid_m":38.10,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":39.21282500,"lon1":-93.93049700,"rwy2":"36","lat2":39.20664200,"lon2":-93.93049700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

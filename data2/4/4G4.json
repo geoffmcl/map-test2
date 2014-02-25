@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4G4","name":"Youngstown Elser Metro","lat":40.961682,"lon":-80.6773455,"rwys":1,"ils":0,"elev":1070,"index":1630393,"path":"w090n40/w081n40"
+,"runways":[
+{"len_m":1222,"wid_m":15.24,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":40.96172500,"lon1":-80.68460800,"rwy2":"28","lat2":40.96163900,"lon2":-80.67008300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"AKRON CANTON CLNC"},
+{"type":"APP","freq":125.5,"desc":"AKRON CANTON APP/DEP"}
+]
+,"ils":[
+]
+}

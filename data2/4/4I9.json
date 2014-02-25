@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4I9","name":"Morrow Co","lat":40.5245195,"lon":-82.850061,"rwys":1,"ils":0,"elev":1085,"index":1597600,"path":"w090n40/w083n40"
+,"runways":[
+{"len_m":1065,"wid_m":22.86,"hdg":91,"surf":"Asphalt","rwy1":"10","lat1":40.52460600,"lon1":-82.85635000,"rwy2":"28","lat2":40.52443300,"lon2":-82.84377200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.2,"desc":"MANSFIELD APP/DEP"}
+]
+,"ils":[
+]
+}

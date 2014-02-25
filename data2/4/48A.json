@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"48A","name":"Cochran","lat":32.3993545,"lon":-83.275922,"rwys":1,"ils":0,"elev":336,"index":1580698,"path":"w090n30/w084n32"
+,"runways":[
+{"len_m":975,"wid_m":15.24,"hdg":46,"surf":"Asphalt","rwy1":"05","lat1":32.39630600,"lon1":-83.27966100,"rwy2":"23","lat2":32.40240300,"lon2":-83.27218300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.6,"desc":"ATLANTA APP/DEP"},
+{"type":"APP","freq":124.2,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

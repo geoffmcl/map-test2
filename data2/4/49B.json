@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"49B","name":"Sturgis Muni","lat":44.418008,"lon":-103.3754505,"rwys":1,"ils":0,"elev":3243,"index":1253786,"path":"w110n40/w104n44"
+,"runways":[
+{"len_m":1554,"wid_m":17.98,"hdg":112,"surf":"Asphalt","rwy1":"11","lat1":44.42074100,"lon1":-103.38443400,"rwy2":"29","lat2":44.41527500,"lon2":-103.36646700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.8,"desc":"AWOS"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.5,"desc":"ELLSWORTH APP/DEP"}
+]
+,"ils":[
+]
+}

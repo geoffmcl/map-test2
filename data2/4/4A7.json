@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4A7","name":"Clayton Co Tara Fld","lat":33.38812300,"lon":-84.32923900,"rwys":1,"ils":0,"elev":874,"index":1564378,"path":"w090n30/w085n33"
+,"runways":[
+{"len_m":1372,"wid_m":22.86,"hdg":54,"surf":"Asphalt","rwy1":"06","lat1":33.38550683,"lon1":-84.33836842,"rwy2":"24","lat2":33.39270317,"lon2":-84.32636958}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.82,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.25,"desc":"CLNC DEL"},
+{"type":"APP","freq":119.8,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

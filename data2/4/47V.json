@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"47V","name":"Curtis Muni","lat":40.63672725,"lon":-100.47160905,"rwys":2,"ils":0,"elev":2676,"index":1302698,"path":"w110n40/w101n40"
+,"runways":[
+{"len_m":1044,"wid_m":17.98,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":40.64195770,"lon1":-100.47755295,"rwy2":"30","lat2":40.63606619,"lon2":-100.46793096},
+{"len_m":671,"wid_m":68.88,"hdg":2,"surf":"Turf/grass","rwy1":"17","lat1":40.63530700,"lon1":-100.47466997,"rwy2":"35","lat2":40.64134400,"lon2":-100.47431800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

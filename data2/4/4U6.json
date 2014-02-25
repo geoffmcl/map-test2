@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4U6","name":"Circle Town Co","lat":47.4162395,"lon":-105.551573,"rwys":2,"ils":0,"elev":2426,"index":1221209,"path":"w110n40/w106n47"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":137,"surf":"Asphalt","rwy1":"13","lat1":47.42083300,"lon1":-105.55611100,"rwy2":"31","lat2":47.41250000,"lon2":-105.54500000},
+{"len_m":762,"wid_m":59.44,"hdg":47,"surf":"Turf/grass","rwy1":"03","lat1":47.41351900,"lon1":-105.55634200,"rwy2":"21","lat2":47.41810600,"lon2":-105.54883900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

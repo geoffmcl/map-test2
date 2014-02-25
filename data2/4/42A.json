@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"42A","name":"Melbourne Muni John E Miller Fld","lat":36.070983,"lon":-91.830136,"rwys":1,"ils":0,"elev":730,"index":1449856,"path":"w100n30/w092n36"
+,"runways":[
+{"len_m":1220,"wid_m":22.86,"hdg":31,"surf":"Asphalt","rwy1":"03","lat1":36.06630800,"lon1":-91.83370000,"rwy2":"21","lat2":36.07565800,"lon2":-91.82657200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"DEP","freq":126.85,"desc":"MEMPHIS CTR"}
+]
+,"ils":[
+]
+}

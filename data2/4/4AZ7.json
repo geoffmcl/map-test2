@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4AZ7","name":"San Carlos","lat":33.37479175,"lon":-110.45937775,"rwys":2,"ils":0,"elev":2896,"index":1138386,"path":"w120n30/w111n33"
+,"runways":[
+{"len_m":2245,"wid_m":21.34,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":33.38166700,"lon1":-110.46500000,"rwy2":"32","lat2":33.36527500,"lon2":-110.45083900},
+{"len_m":1183,"wid_m":12.19,"hdg":159,"surf":"Asphalt","rwy1":"15","lat1":33.38111100,"lon1":-110.46306100,"rwy2":"33","lat2":33.37111400,"lon2":-110.45861100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

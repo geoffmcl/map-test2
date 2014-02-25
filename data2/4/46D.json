@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"46D","name":"Carrington Muni","lat":47.45097225,"lon":-99.15180575,"rwys":2,"ils":0,"elev":1604,"index":1319515,"path":"w100n40/w100n47"
+,"runways":[
+{"len_m":1295,"wid_m":22.86,"hdg":139,"surf":"Asphalt","rwy1":"13","lat1":47.45555600,"lon1":-99.15666700,"rwy2":"31","lat2":47.44666700,"lon2":-99.14555600},
+{"len_m":696,"wid_m":13.11,"hdg":37,"surf":"Asphalt","rwy1":"03","lat1":47.44833300,"lon1":-99.15527800,"rwy2":"21","lat2":47.45333300,"lon2":-99.14972200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4D0","name":"Abrams Muni","lat":42.77470325,"lon":-84.733478,"rwys":2,"ils":0,"elev":842,"index":1564977,"path":"w090n40/w085n42"
+,"runways":[
+{"len_m":974,"wid_m":22.86,"hdg":85,"surf":"Asphalt","rwy1":"09","lat1":42.77528300,"lon1":-84.73596400,"rwy2":"27","lat2":42.77595800,"lon2":-84.72408600},
+{"len_m":771,"wid_m":36.58,"hdg":180,"surf":"Turf/grass","rwy1":"18","lat1":42.77725800,"lon1":-84.73693100,"rwy2":"36","lat2":42.77031400,"lon2":-84.73693100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.65,"desc":"LANSING APP/DEP"}
+]
+,"ils":[
+]
+}

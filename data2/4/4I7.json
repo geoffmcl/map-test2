@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"4I7","name":"Putnam Co","lat":39.6335435,"lon":-86.8138195,"rwys":1,"ils":0,"elev":842,"index":1532008,"path":"w090n30/w087n39"
+,"runways":[
+{"len_m":1524,"wid_m":30.48,"hdg":181,"surf":"Asphalt","rwy1":"18","lat1":39.64040600,"lon1":-86.81364700,"rwy2":"36","lat2":39.62668100,"lon2":-86.81399200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.12,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":121.1,"desc":"INDIANAPOLIS APP"}
+]
+,"ils":[
+]
+}
