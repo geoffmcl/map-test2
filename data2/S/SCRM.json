@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCRM","name":"Teniente Rodolfo Marsh Martin","lat":-62.19324624,"lon":-58.98198265,"rwys":1,"ils":0,"elev":147,"index":1984240,"path":"w060s70/w059s63"
+,"runways":[
+{"len_m":1292,"wid_m":64.01,"hdg":116,"surf":"Dirt","rwy1":"11","lat1":-62.18828477,"lon1":-58.99829631,"rwy2":"29","lat2":-62.19352588,"lon2":-58.97615228}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":118.1,"desc":"MARSH APP"},
+{"type":"APP","freq":119.7,"desc":"MARSH APP"}
+]
+,"ils":[
+]
+}

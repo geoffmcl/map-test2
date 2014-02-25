@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SESM","name":"Rio Amazonas","lat":-1.5052455,"lon":-78.0626765,"rwys":1,"ils":0,"elev":3465,"index":1660447,"path":"w080s10/w079s02"
+,"runways":[
+{"len_m":1538,"wid_m":24.99,"hdg":119,"surf":"Asphalt","rwy1":"12","lat1":-1.50183300,"lon1":-78.06870000,"rwy2":"30","lat2":-1.50865800,"lon2":-78.05665300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.6,"desc":"SHELL TWR"},
+{"type":"APP","freq":119.5,"desc":"SHELL APP"}
+]
+,"ils":[
+]
+}

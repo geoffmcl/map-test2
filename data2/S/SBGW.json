@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBGW","name":"Guaratingueta","lat":-22.7916085,"lon":-45.204779,"rwys":1,"ils":0,"elev":1761,"index":2199755,"path":"w050s30/w046s23"
+,"runways":[
+{"len_m":1551,"wid_m":29.87,"hdg":358,"surf":"Asphalt","rwy1":"02","lat1":-22.79861100,"lon1":-45.20464700,"rwy2":"20","lat2":-22.78460600,"lon2":-45.20491100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"GUARA TWR"},
+{"type":"TWR","freq":122.8,"desc":"GUARA TWR"},
+{"type":"APP","freq":122.8,"desc":"GUARA APP"}
+]
+,"ils":[
+]
+}

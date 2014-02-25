@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SKBO","name":"Bogota - El Dorado Intl","lat":4.69892900,"lon":-74.14286000,"rwys":2,"ils":2,"elev":8361,"index":1726382,"path":"w080n00/w075n04"
+,"runways":[
+{"len_m":3798,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13L","lat1":4.71338600,"lon1":-74.15206100,"rwy2":"31R","lat2":4.69270000,"lon2":-74.12472800},
+{"len_m":3802,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"13R","lat1":4.71050300,"lon1":-74.16917500,"rwy2":"31L","lat2":4.68978900,"lon2":-74.14182200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.9,"desc":"BOGOTA FIS"},
+{"type":"APP","freq":119.5,"desc":"BOGOTA APP"},
+{"type":"APP","freq":119.65,"desc":"BOGOTA APP"},
+{"type":"APP","freq":121.3,"desc":"BOGOTA APP"},
+{"type":"APP","freq":119.05,"desc":"BOGOTA APP"},
+{"type":"DEP","freq":119.5,"desc":"BOGOTA DEP"},
+{"type":"DEP","freq":119.65,"desc":"BOGOTA DEP"},
+{"type":"DEP","freq":121.3,"desc":"BOGOTA DEP"},
+{"type":"DEP","freq":119.05,"desc":"BOGOTA DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":4.69115300,"lon":-74.12268100,"rng_nm":18,"alt_fmsl":8355,"hdg":127.21,"id":"IEDR","rwy":"13L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.7,"lat":4.68770300,"lon":-74.13906900,"rng_nm":18,"alt_fmsl":8355,"hdg":127.23,"id":"IADO","rwy":"13R","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":4.71249400,"lon":-74.14918100,"rng_nm":10,"alt_fmsl":8357,"id":"IEDR","rwy":"13L","desc":"GS","gs":3},
+{"type":"GS","freq":110.7,"lat":4.70810600,"lon":-74.16760600,"rng_nm":10,"alt_fmsl":8361,"id":"IADO","rwy":"13R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":4.76507800,"lon":-74.22048100,"rng_nm":0,"alt_fmsl":8552,"id":"----","rwy":"13L","desc":"OM"},
+{"type":"MM","freq":0,"lat":4.71913300,"lon":-74.15965800,"rng_nm":0,"alt_fmsl":8355,"id":"----","rwy":"13L","desc":"MM"},
+{"type":"MM","freq":0,"lat":4.71621400,"lon":-74.17671900,"rng_nm":0,"alt_fmsl":8552,"id":"----","rwy":"13R","desc":"MM"},
+{"type":"IM","freq":0,"lat":4.71271400,"lon":-74.17201700,"rng_nm":0,"alt_fmsl":8552,"id":"----","rwy":"13R","desc":"IM"},
+{"type":"DME","freq":111.3,"lat":4.71249400,"lon":-74.14918100,"rng_nm":18,"alt_fmsl":8361,"id":"IEDR","rwy":"13L","desc":"DME-ILS"},
+{"type":"DME","freq":110.7,"lat":4.70810600,"lon":-74.16760600,"rng_nm":18,"alt_fmsl":8361,"id":"IADO","rwy":"13R","desc":"DME-ILS"}
+]
+}

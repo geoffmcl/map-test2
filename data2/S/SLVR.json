@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SLVR","name":"Viru Viru Intl","lat":-17.6447555,"lon":-63.1353625,"rwys":1,"ils":1,"elev":1225,"index":1905174,"path":"w070s20/w064s18"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":147,"surf":"Concrete","rwy1":"16","lat1":-17.63146700,"lon1":-63.14430000,"rwy2":"34","lat2":-17.65804400,"lon2":-63.12642500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":121.8,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":119.7,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-17.62923300,"lon":-63.14580300,"rng_nm":18,"alt_fmsl":1224,"hdg":327.34,"id":"VCZ","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-17.65479200,"lon":-63.12693300,"rng_nm":10,"alt_fmsl":1224,"id":"VCZ","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-17.72918100,"lon":-63.07833900,"rng_nm":0,"alt_fmsl":1224,"id":"----","rwy":"34","desc":"OM"}
+]
+}

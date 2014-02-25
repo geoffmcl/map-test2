@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCVM","name":"Vina Del Mar","lat":-32.94813200,"lon":-71.48158300,"rwys":1,"ils":1,"elev":461,"index":1773122,"path":"w080s40/w072s33"
+,"runways":[
+{"len_m":1755,"wid_m":29.87,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":-32.95444700,"lon1":-71.48601400,"rwy2":"23","lat2":-32.94477500,"lon2":-71.47115300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"GND"},
+{"type":"TWR","freq":118.4,"desc":"TWR"},
+{"type":"APP","freq":128.1,"desc":"SANTIAGO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":-32.94425800,"lon":-71.47035800,"rng_nm":18,"alt_fmsl":456,"hdg":52.20,"id":"IVDM","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":-32.95331900,"lon":-71.48287800,"rng_nm":10,"alt_fmsl":456,"id":"IVDM","rwy":"05","desc":"GS","gs":3.2},
+{"type":"MM","freq":0,"lat":-32.96027800,"lon":-71.49500000,"rng_nm":0,"alt_fmsl":461,"id":"----","rwy":"05","desc":"MM"},
+{"type":"DME","freq":110.7,"lat":-32.94416700,"lon":-71.47027800,"rng_nm":18,"alt_fmsl":423,"id":"IVDM","rwy":"05","desc":"DME-ILS"}
+]
+}

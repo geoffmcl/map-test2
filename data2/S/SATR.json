@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SATR","name":"Reconquista","lat":-29.20744525,"lon":-59.68498275,"rwys":2,"ils":0,"elev":161,"index":1969969,"path":"w060s30/w060s30"
+,"runways":[
+{"len_m":2799,"wid_m":49.99,"hdg":89,"surf":"Concrete","rwy1":"10","lat1":-29.21043100,"lon1":-59.69428900,"rwy2":"28","lat2":-29.21023600,"lon2":-59.66550300},
+{"len_m":1255,"wid_m":34.14,"hdg":7,"surf":"Concrete","rwy1":"01","lat1":-29.21017200,"lon1":-59.69090300,"rwy2":"19","lat2":-29.19894200,"lon2":-59.68923600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119,"desc":"TWR/APP"},
+{"type":"TWR","freq":118.5,"desc":"TWR/APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SASJ","name":"Jujuy","lat":-24.3927365,"lon":-65.097833,"rwys":1,"ils":1,"elev":3019,"index":1871971,"path":"w070s30/w066s25"
+,"runways":[
+{"len_m":2955,"wid_m":39.93,"hdg":150,"surf":"Asphalt","rwy1":"15","lat1":-24.38116700,"lon1":-65.10508300,"rwy2":"33","lat2":-24.40430600,"lon2":-65.09058300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"TWR/APP"},
+{"type":"TWR","freq":118.5,"desc":"TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-24.37783300,"lon":-65.10716700,"rng_nm":18,"alt_fmsl":3019,"hdg":330.30,"id":"JU","rwy":"33","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-24.40291700,"lon":-65.09291700,"rng_nm":10,"alt_fmsl":3019,"id":"JU","rwy":"33","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-24.46083300,"lon":-65.05538900,"rng_nm":0,"alt_fmsl":3019,"id":"----","rwy":"33","desc":"OM"},
+{"type":"MM","freq":0,"lat":-24.41600000,"lon":-65.08325000,"rng_nm":0,"alt_fmsl":3019,"id":"----","rwy":"33","desc":"MM"}
+]
+}

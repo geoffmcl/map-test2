@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPQU","name":"Rodriguez Ballon","lat":-16.340578,"lon":-71.5708025,"rwys":1,"ils":1,"elev":8405,"index":1774187,"path":"w080s20/w072s17"
+,"runways":[
+{"len_m":2978,"wid_m":45.11,"hdg":93,"surf":"Asphalt","rwy1":"09","lat1":-16.33983900,"lon1":-71.58471900,"rwy2":"27","lat2":-16.34131700,"lon2":-71.55688600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"AREQUIPA TWR"},
+{"type":"APP","freq":118.7,"desc":"AREQUIPA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-16.34144400,"lon":-71.55451400,"rng_nm":18,"alt_fmsl":8405,"hdg":93.17,"id":"IARB","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-16.34094400,"lon":-71.58261100,"rng_nm":10,"alt_fmsl":8405,"id":"IARB","rwy":"09","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":-16.34094400,"lon":-71.58261100,"rng_nm":18,"alt_fmsl":8405,"id":"IARB","rwy":"09","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBBE","name":"Val De Caes Intl","lat":-1.38836300,"lon":-48.48056400,"rwys":2,"ils":1,"elev":54,"index":2151972,"path":"w050s10/w049s02"
+,"runways":[
+{"len_m":2801,"wid_m":45.11,"hdg":45,"surf":"Asphalt","rwy1":"06","lat1":-1.38808300,"lon1":-48.48496900,"rwy2":"24","lat2":-1.37032200,"lon2":-48.46701400},
+{"len_m":1825,"wid_m":45.11,"hdg":4,"surf":"Asphalt","rwy1":"02","lat1":-1.39057800,"lon1":-48.47703100,"rwy2":"20","lat2":-1.37412200,"lon2":-48.47574200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"BELEM ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"BELEM TWR"},
+{"type":"APP","freq":119.05,"desc":"BELEM APP"},
+{"type":"APP","freq":119.5,"desc":"BELEM APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":-1.36888900,"lon":-48.46527800,"rng_nm":18,"alt_fmsl":48,"hdg":45.72,"id":"IBE","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":-1.38500000,"lon":-48.48333300,"rng_nm":10,"alt_fmsl":48,"id":"IBE","rwy":"06","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-1.39444400,"lon":-48.49173100,"rng_nm":0,"alt_fmsl":54,"id":"----","rwy":"06","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":-1.36888900,"lon":-48.46527800,"rng_nm":18,"alt_fmsl":48,"id":"IBE","rwy":"06","desc":"DME-ILS"}
+]
+}

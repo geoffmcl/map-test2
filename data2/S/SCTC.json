@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCTC","name":"Maquehue","lat":-38.77009090,"lon":-72.63831474,"rwys":1,"ils":0,"elev":304,"index":1756361,"path":"w080s40/w073s39"
+,"runways":[
+{"len_m":1699,"wid_m":44.81,"hdg":67,"surf":"Asphalt","rwy1":"06","lat1":-38.76979778,"lon1":-72.64610123,"rwy2":"24","lat2":-38.76383822,"lon2":-72.62809452}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":124.5,"desc":"APP"}
+]
+,"ils":[
+]
+}

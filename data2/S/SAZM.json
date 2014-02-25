@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZM","name":"Mar Del Plata Brig Gen D Bartolome","lat":-37.93394800,"lon":-57.58221700,"rwys":1,"ils":1,"elev":71,"index":2002177,"path":"w060s40/w058s38"
+,"runways":[
+{"len_m":2197,"wid_m":60.05,"hdg":122,"surf":"Asphalt","rwy1":"13","lat1":-37.92886400,"lon1":-57.58393300,"rwy2":"31","lat2":-37.93951700,"lon2":-57.56285800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":120.5,"desc":"TWR/APP"},
+{"type":"APP","freq":124.4,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-37.94091700,"lon":-57.55994400,"rng_nm":18,"alt_fmsl":71,"hdg":122.49,"id":"MP","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-37.93158300,"lon":-57.58152800,"rng_nm":10,"alt_fmsl":71,"id":"MP","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-37.89588900,"lon":-57.64900000,"rng_nm":0,"alt_fmsl":71,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":-37.92418100,"lon":-57.59302800,"rng_nm":0,"alt_fmsl":71,"id":"----","rwy":"13","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":-37.93158300,"lon":-57.58152800,"rng_nm":18,"alt_fmsl":70,"id":"MP","rwy":"13","desc":"DME-ILS"}
+]
+}

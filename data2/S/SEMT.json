@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SEMT","name":"Eloy Alfaro Intl","lat":-0.946078,"lon":-80.678807,"rwys":1,"ils":1,"elev":48,"index":1627714,"path":"w090s10/w081s01"
+,"runways":[
+{"len_m":2856,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"05","lat1":-0.95333100,"lon1":-80.68942500,"rwy2":"23","lat2":-0.93882500,"lon2":-80.66818900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"MANTA TWR"},
+{"type":"APP","freq":122.7,"desc":"MANTA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-0.95500300,"lon":-80.69175600,"rng_nm":18,"alt_fmsl":40,"hdg":235.53,"id":"ILM","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-0.93972200,"lon":-80.67083300,"rng_nm":10,"alt_fmsl":40,"id":"ILM","rwy":"23","desc":"GS","gs":2.8},
+{"type":"DME","freq":110.1,"lat":-0.93972200,"lon":-80.67083300,"rng_nm":18,"alt_fmsl":40,"id":"ILM","rwy":"23","desc":"DME-ILS"}
+]
+}

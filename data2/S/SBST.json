@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBST","name":"Base Aerea De Santos","lat":-23.925204,"lon":-46.2874985,"rwys":1,"ils":0,"elev":10,"index":2183298,"path":"w050s30/w047s24"
+,"runways":[
+{"len_m":1390,"wid_m":45.11,"hdg":148,"surf":"Asphalt","rwy1":"17","lat1":-23.91984400,"lon1":-46.29105300,"rwy2":"35","lat2":-23.93056400,"lon2":-46.28394400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.8,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.8,"desc":"SAO PAULO APP"},
+{"type":"APP","freq":120.05,"desc":"SAO PAULO APP"},
+{"type":"APP","freq":129.5,"desc":"SAO PAULO APP"}
+]
+,"ils":[
+]
+}

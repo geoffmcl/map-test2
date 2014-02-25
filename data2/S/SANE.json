@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SANE","name":"Santiago Del Estero","lat":-27.7656265,"lon":-64.3101205,"rwys":1,"ils":0,"elev":656,"index":1888138,"path":"w070s30/w065s28"
+,"runways":[
+{"len_m":2422,"wid_m":45.11,"hdg":27,"surf":"Asphalt","rwy1":"03","lat1":-27.77530300,"lon1":-64.31583300,"rwy2":"21","lat2":-27.75595000,"lon2":-64.30440800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.7,"desc":"SANTIAGO TWR"},
+{"type":"TWR","freq":118.8,"desc":"SANTIAGO TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPSO","name":"Pisco Intl","lat":-13.744864,"lon":-76.220282,"rwys":1,"ils":0,"elev":39,"index":1692438,"path":"w080s20/w077s14"
+,"runways":[
+{"len_m":3020,"wid_m":45.11,"hdg":38,"surf":"Asphalt","rwy1":"04","lat1":-13.75562200,"lon1":-76.22888100,"rwy2":"22","lat2":-13.73410600,"lon2":-76.21168300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"APP/TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SMJP","name":"Paramaribo Johan A Pengel Intl","lat":5.45714430,"lon":-55.20040890,"rwys":1,"ils":1,"elev":59,"index":2037726,"path":"w060n00/w056n05"
+,"runways":[
+{"len_m":3482,"wid_m":45.11,"hdg":89,"surf":"Concrete","rwy1":"11","lat1":5.45273900,"lon1":-55.20349400,"rwy2":"29","lat2":5.45292200,"lon2":-55.17207200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"PENGEL TWR"},
+{"type":"APP","freq":120,"desc":"PENGEL APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":5.45293100,"lon":-55.17070600,"rng_nm":18,"alt_fmsl":59,"hdg":89.67,"id":"IZAN","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":5.45165000,"lon":-55.20086400,"rng_nm":10,"alt_fmsl":56,"id":"IZAN","rwy":"11","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":5.45269700,"lon":-55.21165300,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"11","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SVSA","name":"San Antonio Del Tachira","lat":7.840832,"lon":-72.439743,"rwys":1,"ils":0,"elev":1312,"index":1759348,"path":"w080n00/w073n07"
+,"runways":[
+{"len_m":1869,"wid_m":39.93,"hdg":165,"surf":"Asphalt","rwy1":"17","lat1":7.84901400,"lon1":-72.44186700,"rwy2":"35","lat2":7.83265000,"lon2":-72.43761900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

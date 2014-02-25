@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBPA","name":"Salgado Filho","lat":-29.98907124,"lon":-51.17856093,"rwys":1,"ils":1,"elev":11,"index":2100995,"path":"w060s30/w052s30"
+,"runways":[
+{"len_m":2285,"wid_m":42.06,"hdg":91,"surf":"Asphalt","rwy1":"11","lat1":-29.99414205,"lon1":-51.18326698,"rwy2":"29","lat2":-29.99471395,"lon2":-51.15958495}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"PALEGRE TWR"},
+{"type":"APP","freq":119,"desc":"PALEGRE APP"},
+{"type":"APP","freq":120.1,"desc":"PALEGRE APP"},
+{"type":"APP","freq":120.55,"desc":"PALEGRE APP"},
+{"type":"APP","freq":128.9,"desc":"PALEGRE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-29.99450000,"lon":-51.15783300,"rng_nm":18,"alt_fmsl":11,"hdg":90.92,"id":"IPA","rwy":"11","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-29.99533300,"lon":-51.17983300,"rng_nm":10,"alt_fmsl":11,"id":"IPA","rwy":"11","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-29.99300000,"lon":-51.28166700,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"11","desc":"OM"},
+{"type":"MM","freq":0,"lat":-29.99400000,"lon":-51.19583300,"rng_nm":0,"alt_fmsl":11,"id":"----","rwy":"11","desc":"MM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SKTQ","name":"Tres Esquinas Ab","lat":0.7459,"lon":-75.234025,"rwys":1,"ils":0,"elev":585,"index":1709742,"path":"w080n00/w076n00"
+,"runways":[
+{"len_m":1895,"wid_m":24.08,"hdg":63,"surf":"Concrete","rwy1":"07","lat1":0.74210600,"lon1":-75.24165800,"rwy2":"25","lat2":0.74969400,"lon2":-75.22639200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":122.3,"desc":"APP"},
+{"type":"APP","freq":124.5,"desc":"CTL"}
+]
+,"ils":[
+]
+}

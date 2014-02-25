@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAAV","name":"Sauce Viejo","lat":-31.711653,"lon":-60.811597,"rwys":1,"ils":1,"elev":56,"index":1953424,"path":"w070s40/w061s32"
+,"runways":[
+{"len_m":2323,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"03","lat1":-31.72130600,"lon1":-60.81636100,"rwy2":"21","lat2":-31.70200000,"lon2":-60.80683300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":118.95,"desc":"APP"},
+{"type":"APP","freq":118.45,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-31.70030600,"lon":-60.80602800,"rng_nm":18,"alt_fmsl":56,"hdg":22.71,"id":"SV","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-31.71808300,"lon":-60.81647200,"rng_nm":10,"alt_fmsl":56,"id":"SV","rwy":"03","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-31.78085000,"lon":-60.84305600,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"03","desc":"OM"},
+{"type":"MM","freq":0,"lat":-31.73227500,"lon":-60.82109400,"rng_nm":0,"alt_fmsl":56,"id":"----","rwy":"03","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":-31.71808300,"lon":-60.81647200,"rng_nm":18,"alt_fmsl":56,"id":"SV","rwy":"03","desc":"DME-ILS"}
+]
+}

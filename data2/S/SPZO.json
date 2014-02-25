@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPZO","name":"Teniente Alejandro Velasco Astete Intl","lat":-13.535722,"lon":-71.9387805,"rwys":1,"ils":0,"elev":10860,"index":1774360,"path":"w080s20/w072s14"
+,"runways":[
+{"len_m":3397,"wid_m":45.11,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":-13.53413600,"lon1":-71.95438900,"rwy2":"28","lat2":-13.53730800,"lon2":-71.92317200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"CUSCO TWR"},
+{"type":"APP","freq":120.6,"desc":"CUSCO APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SKUA","name":"Marandua Ab","lat":5.526289,"lon":-68.6813055,"rwys":2,"ils":0,"elev":285,"index":1824738,"path":"w070n00/w069n05"
+,"runways":[
+{"len_m":2460,"wid_m":30.48,"hdg":23,"surf":"Dirt","rwy1":"03","lat1":5.51791400,"lon1":-68.68148300,"rwy2":"21","lat2":5.53827800,"lon2":-68.67254200},
+{"len_m":2066,"wid_m":44.20,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":5.52030600,"lon1":-68.69393900,"rwy2":"25","lat2":5.52865800,"lon2":-68.67725800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"RODRIGUEZ TWR"},
+{"type":"APP","freq":131,"desc":"TERECAY RADAR"}
+]
+,"ils":[
+]
+}

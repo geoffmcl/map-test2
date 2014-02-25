@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBFL","name":"Hercillo Luz","lat":-27.66478200,"lon":-48.54610800,"rwys":2,"ils":1,"elev":19,"index":2150289,"path":"w050s30/w049s28"
+,"runways":[
+{"len_m":2299,"wid_m":45.11,"hdg":121,"surf":"Asphalt","rwy1":"14","lat1":-27.66560000,"lon1":-48.55128100,"rwy2":"32","lat2":-27.67633600,"lon2":-48.53133600},
+{"len_m":1500,"wid_m":45.11,"hdg":11,"surf":"Concrete","rwy1":"03","lat1":-27.67663600,"lon1":-48.55458100,"rwy2":"21","lat2":-27.66337500,"lon2":-48.55152200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.7,"desc":"FLORIANOPOLIS TWR"},
+{"type":"TWR","freq":122.8,"desc":"FLORIANOPOLIS TWR"},
+{"type":"APP","freq":119.65,"desc":"FLORIANOPOLIS APP"},
+{"type":"APP","freq":128.95,"desc":"FLORIANOPOLIS APP"},
+{"type":"APP","freq":129.45,"desc":"FLORIANOPOLIS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-27.67750000,"lon":-48.52950000,"rng_nm":18,"alt_fmsl":19,"hdg":121.67,"id":"IFL","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-27.66819400,"lon":-48.54875000,"rng_nm":10,"alt_fmsl":19,"id":"IFL","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-27.62183300,"lon":-48.63250000,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":-27.66150000,"lon":-48.55916700,"rng_nm":0,"alt_fmsl":19,"id":"----","rwy":"14","desc":"MM"}
+]
+}

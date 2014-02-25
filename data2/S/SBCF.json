@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBCF","name":"Tancredo Neves","lat":-19.62443900,"lon":-43.97363700,"rwys":1,"ils":1,"elev":2715,"index":2232728,"path":"w050s20/w044s20"
+,"runways":[
+{"len_m":3002,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"16","lat1":-19.62355600,"lon1":-43.97828300,"rwy2":"34","lat2":-19.64396100,"lon2":-43.95942500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"BELO HORIZONTE ATIS"},
+{"type":"CLD","freq":121,"desc":"CONFINS CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.2,"desc":"CONFINS TWR"},
+{"type":"APP","freq":120.2,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.1,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":129.4,"desc":"BELO HORIZONTE APP"},
+{"type":"APP","freq":119.65,"desc":"BELO HORIZONTE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-19.64600000,"lon":-43.95750000,"rng_nm":18,"alt_fmsl":2716,"hdg":138.90,"id":"ICF","rwy":"16","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-19.62713600,"lon":-43.97674700,"rng_nm":10,"alt_fmsl":2716,"id":"ICF","rwy":"16","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-19.55983300,"lon":-44.03683300,"rng_nm":0,"alt_fmsl":2715,"id":"----","rwy":"16","desc":"OM"},
+{"type":"MM","freq":0,"lat":-19.61607200,"lon":-43.98503600,"rng_nm":0,"alt_fmsl":2715,"id":"----","rwy":"16","desc":"MM"}
+]
+}

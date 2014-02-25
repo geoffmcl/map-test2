@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SVCB","name":"Ciudad Bolivar","lat":8.12159875,"lon":-63.536451,"rwys":2,"ils":0,"elev":197,"index":1906819,"path":"w070n00/w064n08"
+,"runways":[
+{"len_m":1684,"wid_m":45.11,"hdg":55,"surf":"Asphalt","rwy1":"07","lat1":8.11762600,"lon1":-63.54378400,"rwy2":"25","lat2":8.12615400,"lon2":-63.53111700},
+{"len_m":1372,"wid_m":41.15,"hdg":115,"surf":"Asphalt","rwy1":"12","lat1":8.12398600,"lon1":-63.54106900,"rwy2":"30","lat2":8.11862900,"lon2":-63.52983400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"},
+{"type":"TWR","freq":121.9,"desc":"TWR"}
+]
+,"ils":[
+]
+}

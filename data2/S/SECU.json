@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SECU","name":"Mariscal Lamar","lat":-2.89032495,"lon":-78.98776261,"rwys":1,"ils":1,"elev":8306,"index":1660352,"path":"w080s10/w079s03"
+,"runways":[
+{"len_m":1898,"wid_m":35.97,"hdg":52,"surf":"Asphalt","rwy1":"05","lat1":-2.89473473,"lon1":-78.99114169,"rwy2":"23","lat2":-2.88420127,"lon2":-78.97765437}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122.3,"desc":"APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-2.89611100,"lon":-78.99305600,"rng_nm":18,"alt_fmsl":8284,"hdg":232.25,"id":"ILC","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-2.88500000,"lon":-78.98194400,"rng_nm":10,"alt_fmsl":8284,"id":"ILC","rwy":"23","desc":"GS","gs":3.2},
+{"type":"MM","freq":0,"lat":-2.86250000,"lon":-78.94861100,"rng_nm":0,"alt_fmsl":8306,"id":"----","rwy":"23","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":-2.88500000,"lon":-78.98000000,"rng_nm":18,"alt_fmsl":8306,"id":"ILC","rwy":"23","desc":"DME-ILS"}
+]
+}

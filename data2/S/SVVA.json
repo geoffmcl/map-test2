@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SVVA","name":"Arturo Michelena Intl","lat":10.1497335,"lon":-67.9284,"rwys":1,"ils":0,"elev":1417,"index":1841416,"path":"w070n10/w068n10"
+,"runways":[
+{"len_m":2991,"wid_m":49.99,"hdg":92,"surf":"Asphalt","rwy1":"10","lat1":10.15040000,"lon1":-67.94203300,"rwy2":"28","lat2":10.14906700,"lon2":-67.91476700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"VALENCIA TWR"}
+]
+,"ils":[
+]
+}

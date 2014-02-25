@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAWE","name":"Rio Grande","lat":-53.777667,"lon":-67.749389,"rwys":1,"ils":1,"elev":65,"index":1837321,"path":"w070s60/w068s54"
+,"runways":[
+{"len_m":1997,"wid_m":39.93,"hdg":87,"surf":"Asphalt","rwy1":"07","lat1":-53.77805600,"lon1":-67.76452800,"rwy2":"25","lat2":-53.77727800,"lon2":-67.73425000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"GRANDE TWR/APP"},
+{"type":"TWR","freq":120.2,"desc":"GRANDE TWR/APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.5,"lat":-53.77813900,"lon":-67.76994400,"rng_nm":18,"alt_fmsl":66,"id":"GR","rwy":"25","desc":"LOC"},
+{"type":"GS","freq":109.5,"lat":-53.77821929,"lon":-67.73882695,"rng_nm":10,"alt_fmsl":65,"id":"GR","rwy":"25","desc":"GS","gs":3},
+{"type":"DME","freq":109.5,"lat":-53.77869400,"lon":-67.73927800,"rng_nm":18,"alt_fmsl":66,"id":"GR","rwy":"25","desc":"DME-ILS"}
+]
+}

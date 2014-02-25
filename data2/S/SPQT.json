@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPQT","name":"Coronel Francisco Secada Vignetta Intl","lat":-3.784739,"lon":-73.3088055,"rwys":1,"ils":1,"elev":306,"index":1742221,"path":"w080s10/w074s04"
+,"runways":[
+{"len_m":2500,"wid_m":45.11,"hdg":56,"surf":"Concrete","rwy1":"06","lat1":-3.79094700,"lon1":-73.31821400,"rwy2":"24","lat2":-3.77853100,"lon2":-73.29939700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"IQUITOS TWR"},
+{"type":"APP","freq":124.1,"desc":"IQUITOS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-3.77699400,"lon":-73.29706900,"rng_nm":18,"alt_fmsl":306,"hdg":56.52,"id":"ISEC","rwy":"06","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-3.79028900,"lon":-73.31541100,"rng_nm":10,"alt_fmsl":306,"id":"ISEC","rwy":"06","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":-3.79028900,"lon":-73.31541100,"rng_nm":18,"alt_fmsl":306,"id":"ISEC","rwy":"06","desc":"DME-ILS"}
+]
+}

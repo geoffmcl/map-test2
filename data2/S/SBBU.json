@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBBU","name":"Bauru","lat":-22.3450405,"lon":-49.0538015,"rwys":1,"ils":0,"elev":2025,"index":2134251,"path":"w050s30/w050s23"
+,"runways":[
+{"len_m":1500,"wid_m":35.05,"hdg":122,"surf":"Asphalt","rwy1":"14","lat1":-22.34139200,"lon1":-49.05993900,"rwy2":"32","lat2":-22.34868900,"lon2":-49.04766400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.87,"desc":"ATIS"},
+{"type":"TWR","freq":121.3,"desc":"RDO"},
+{"type":"APP","freq":121.3,"desc":"APP"}
+]
+,"ils":[
+]
+}

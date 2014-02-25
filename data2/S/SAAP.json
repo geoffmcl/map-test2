@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAAP","name":"General Urquiza","lat":-31.794778,"lon":-60.480347,"rwys":1,"ils":1,"elev":243,"index":1953418,"path":"w070s40/w061s32"
+,"runways":[
+{"len_m":2098,"wid_m":44.81,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":-31.80413900,"lon1":-60.48197200,"rwy2":"19","lat2":-31.78541700,"lon2":-60.47872200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.6,"desc":"PARANA TWR"},
+{"type":"TWR","freq":118.5,"desc":"PARANA TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-31.80833300,"lon":-60.48333300,"rng_nm":18,"alt_fmsl":243,"hdg":189.71,"id":"PA","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-31.78833300,"lon":-60.48000000,"rng_nm":10,"alt_fmsl":243,"id":"PA","rwy":"19","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":-31.72333300,"lon":-60.46166700,"rng_nm":0,"alt_fmsl":243,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":-31.77666700,"lon":-60.47666700,"rng_nm":0,"alt_fmsl":243,"id":"----","rwy":"19","desc":"MM"}
+]
+}

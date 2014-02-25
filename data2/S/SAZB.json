@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZB","name":"Comandante Espora","lat":-38.7255025,"lon":-62.168801,"rwys":3,"ils":1,"elev":246,"index":1920211,"path":"w070s40/w063s39"
+,"runways":[
+{"len_m":2622,"wid_m":60.05,"hdg":163,"surf":"Asphalt","rwy1":"16L","lat1":-38.71546900,"lon1":-62.15778900,"rwy2":"34R","lat2":-38.73815600,"lon2":-62.14938300},
+{"len_m":2018,"wid_m":35.36,"hdg":60,"surf":"Asphalt","rwy1":"06","lat1":-38.72780600,"lon1":-62.18098100,"rwy2":"24","lat2":-38.71891100,"lon2":-62.16073300},
+{"len_m":1487,"wid_m":29.87,"hdg":164,"surf":"Asphalt","rwy1":"16R","lat1":-38.71989200,"lon1":-62.18430300,"rwy2":"34L","lat2":-38.73278100,"lon2":-62.17961700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":119.15,"desc":"ESPORA TWR"},
+{"type":"TWR","freq":118.1,"desc":"ESPORA TWR"},
+{"type":"APP","freq":124.8,"desc":"BAHIA BLANCA APP"},
+{"type":"APP","freq":119.15,"desc":"BAHIA BLANCA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-38.74000000,"lon":-62.14833300,"rng_nm":18,"alt_fmsl":217,"hdg":163.26,"id":"BC","rwy":"16L","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-38.72000000,"lon":-62.15333300,"rng_nm":10,"alt_fmsl":240,"id":"BC","rwy":"16L","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":-38.65166700,"lon":-62.18166700,"rng_nm":0,"alt_fmsl":246,"id":"----","rwy":"16L","desc":"OM"},
+{"type":"MM","freq":0,"lat":-38.70666700,"lon":-62.16000000,"rng_nm":0,"alt_fmsl":246,"id":"----","rwy":"16L","desc":"MM"}
+]
+}

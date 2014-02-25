@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCTE","name":"El Tepual","lat":-41.43585629,"lon":-73.09806690,"rwys":1,"ils":2,"elev":293,"index":1739811,"path":"w080s50/w074s42"
+,"runways":[
+{"len_m":2648,"wid_m":45.11,"hdg":171,"surf":"Concrete","rwy1":"17","lat1":-41.42707678,"lon1":-73.09616792,"rwy2":"35","lat2":-41.45069218,"lon2":-73.09174069}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":12,"wid_m":12.19,"hdg":-73,"surf":"Concrete","lat1":-41.44098281,"lon1":-73.09667431},
+{"rwy1":"H2","len_m":12,"wid_m":12.19,"hdg":-73,"surf":"Concrete","lat1":-41.44120418,"lon1":-73.09662976}
+]
+,"radios":[
+{"type":"CTAF","freq":128.3,"desc":"CNTR"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":123.7,"desc":"APP"},
+{"type":"DEP","freq":126.9,"desc":"RDO"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-41.42655182,"lon":-73.09628296,"rng_nm":18,"alt_fmsl":293,"hdg":351.94,"id":"IMON","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-41.44753265,"lon":-73.09403229,"rng_nm":10,"alt_fmsl":293,"id":"IMON","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-41.52500153,"lon":-73.09694672,"rng_nm":0,"alt_fmsl":233,"id":"----","rwy":"35","desc":"OM"},
+{"type":"DME","freq":115.7,"lat":-41.42583466,"lon":-73.09361267,"rng_nm":18,"alt_fmsl":293,"id":"IMON","rwy":"35","desc":"DME-ILS"}
+]
+}

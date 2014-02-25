@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SADQ","name":"Quilmes","lat":-34.70834581,"lon":-58.24584574,"rwys":1,"ils":0,"elev":7,"index":1986003,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":1246,"wid_m":36.88,"hdg":172,"surf":"Dirt","rwy1":"18","lat1":-34.70113285,"lon1":-58.24534241,"rwy2":"36","lat2":-34.71228654,"lon2":-58.24367548}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-58,"surf":"Concrete","lat1":-34.70998192,"lon1":-58.24718253}
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"Quilmes TWR"}
+]
+,"ils":[
+]
+}

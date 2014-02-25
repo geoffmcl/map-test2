@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCDA","name":"Diego Aracena Intl","lat":-20.53522777,"lon":-70.18127917,"rwys":1,"ils":1,"elev":155,"index":1790302,"path":"w080s30/w071s21"
+,"runways":[
+{"len_m":3352,"wid_m":45.11,"hdg":182,"surf":"Asphalt","rwy1":"18","lat1":-20.52010833,"lon1":-70.18046944,"rwy2":"36","lat2":-20.55034722,"lon2":-70.18208889}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.9,"desc":"IQUIQUE TWR"},
+{"type":"APP","freq":122.7,"desc":"IQUIQUE APP"},
+{"type":"APP","freq":124.9,"desc":"IQUIQUE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-20.55305600,"lon":-70.18222200,"rng_nm":18,"alt_fmsl":174,"hdg":182.85,"id":"IIQQ","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-20.52277800,"lon":-70.17944400,"rng_nm":10,"alt_fmsl":105,"id":"IIQQ","rwy":"18","desc":"GS","gs":3.2},
+{"type":"DME","freq":109.9,"lat":-20.52277800,"lon":-70.18333300,"rng_nm":18,"alt_fmsl":105,"id":"IIQQ","rwy":"18","desc":"DME-ILS"}
+]
+}

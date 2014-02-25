@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCPF","name":"Marcel Marchant","lat":-41.45468290,"lon":-72.91947636,"rwys":1,"ils":0,"elev":367,"index":1756192,"path":"w080s50/w073s42"
+,"runways":[
+{"len_m":1000,"wid_m":10.06,"hdg":24,"surf":"Concrete","rwy1":"01","lat1":-41.45858156,"lon1":-72.92013014,"rwy2":"19","lat2":-41.45035999,"lon2":-72.91524613}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":9,"wid_m":9.14,"hdg":-72,"surf":"Asphalt","lat1":-41.45378984,"lon1":-72.91808921}
+]
+,"radios":[
+{"type":"TWR","freq":127.3,"desc":"INFO"}
+]
+,"ils":[
+]
+}

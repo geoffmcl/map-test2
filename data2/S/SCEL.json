@@ -1,0 +1,25 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCEL","name":"Arturo Merino Benitez Intl","lat":-33.39232300,"lon":-70.79366400,"rwys":2,"ils":2,"elev":1550,"index":1789472,"path":"w080s40/w071s34"
+,"runways":[
+{"len_m":3800,"wid_m":45.11,"hdg":177,"surf":"Asphalt","rwy1":"17R","lat1":-33.37195000,"lon1":-70.80371667,"rwy2":"35L","lat2":-33.40618056,"lon2":-70.80188056},
+{"len_m":3198,"wid_m":54.86,"hdg":177,"surf":"Asphalt","rwy1":"17L","lat1":-33.37608056,"lon1":-70.78670833,"rwy2":"35R","lat2":-33.40488889,"lon2":-70.78515833}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":132.1,"desc":"ATIS"},
+{"type":"CLD","freq":121.7,"desc":"CLNC DEL"},
+{"type":"GND","freq":122.2,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"SANTIAGO TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-33.41111755,"lon":-70.78343201,"rng_nm":18,"alt_fmsl":1555,"hdg":173.64,"id":"IUEL","rwy":"17L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":-33.40805054,"lon":-70.80049896,"rng_nm":18,"alt_fmsl":1555,"hdg":174.24,"id":"IMER","rwy":"17R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-33.37788391,"lon":-70.78718567,"rng_nm":10,"alt_fmsl":1555,"id":"IUEL","rwy":"17L","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":-33.37245178,"lon":-70.80578613,"rng_nm":10,"alt_fmsl":1555,"id":"IMER","rwy":"17R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-33.30494308,"lon":-70.78969574,"rng_nm":0,"alt_fmsl":1590,"id":"----","rwy":"17L","desc":"OM"},
+{"type":"IM","freq":0,"lat":-33.37284470,"lon":-70.78723145,"rng_nm":0,"alt_fmsl":1559,"id":"----","rwy":"17L","desc":"IM"},
+{"type":"DME","freq":110.3,"lat":-33.37888718,"lon":-70.78500366,"rng_nm":18,"alt_fmsl":1557,"id":"IUEL","rwy":"17L","desc":"DME-ILS"},
+{"type":"DME","freq":111.1,"lat":-33.37444305,"lon":-70.80472565,"rng_nm":18,"alt_fmsl":1555,"id":"IMER","rwy":"17R","desc":"DME-ILS"}
+]
+}

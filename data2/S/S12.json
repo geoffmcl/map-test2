@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"S12","name":"Albany Muni","lat":44.63789844,"lon":-123.06145108,"rwys":1,"ils":0,"elev":226,"index":926123,"path":"w130n40/w124n44"
+,"runways":[
+{"len_m":915,"wid_m":22.86,"hdg":179,"surf":"Asphalt","rwy1":"16","lat1":44.64193300,"lon1":-123.05945800,"rwy2":"34","lat2":44.63369700,"lon2":-123.05944200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.5,"desc":"CASCADE APP/DEP"}
+]
+,"ils":[
+]
+}

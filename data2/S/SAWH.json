@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAWH","name":"Ushuaia_intl_islas Malvinas","lat":-54.83983863,"lon":-68.30453232,"rwys":1,"ils":1,"elev":91,"index":1820874,"path":"w070s60/w069s55"
+,"runways":[
+{"len_m":2913,"wid_m":45.11,"hdg":86,"surf":"Concrete","rwy1":"07","lat1":-54.84419918,"lon1":-68.31752377,"rwy2":"25","lat2":-54.84242103,"lon2":-68.27226971}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"USHUAIA TWR"},
+{"type":"APP","freq":118.1,"desc":"USHUAIA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":-54.84425000,"lon":-68.31966700,"rng_nm":18,"alt_fmsl":54,"hdg":266.19,"id":"US","rwy":"25","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":-54.84163900,"lon":-68.28055600,"rng_nm":10,"alt_fmsl":91,"id":"US","rwy":"25","desc":"GS","gs":3.5},
+{"type":"DME","freq":111.3,"lat":-54.84163900,"lon":-68.28055600,"rng_nm":18,"alt_fmsl":92,"id":"US","rwy":"25","desc":"DME-ILS"}
+]
+}

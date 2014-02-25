@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCFM","name":"Capitan Fuentes Martinez","lat":-53.2504416666667,"lon":-70.32567,"rwys":3,"ils":0,"elev":104,"index":1788202,"path":"w080s60/w071s54"
+,"runways":[
+{"len_m":2513,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"09","lat1":-53.24982800,"lon1":-70.33691100,"rwy2":"27","lat2":-53.25757200,"lon2":-70.30154200},
+{"len_m":1328,"wid_m":45.11,"hdg":110,"surf":"Gravel","rwy1":"10","lat1":-53.24746100,"lon1":-70.33921900,"rwy2":"28","lat2":-53.25155600,"lon2":-70.32052500},
+{"len_m":961,"wid_m":29.87,"hdg":46,"surf":"Gravel","rwy1":"03","lat1":-53.25108300,"lon1":-70.33314200,"rwy2":"21","lat2":-53.24515000,"lon2":-70.32268100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.7,"desc":"PORVENIR INFO"}
+]
+,"ils":[
+]
+}

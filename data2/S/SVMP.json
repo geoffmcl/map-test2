@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SVMP","name":"Metropolitano","lat":10.1331685,"lon":-66.7878235,"rwys":1,"ils":0,"elev":574,"index":1857801,"path":"w070n10/w067n10"
+,"runways":[
+{"len_m":1421,"wid_m":29.87,"hdg":77,"surf":"Asphalt","rwy1":"08","lat1":10.13175600,"lon1":-66.79415000,"rwy2":"26","lat2":10.13458100,"lon2":-66.78149700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":122,"desc":"TWR"}
+]
+,"ils":[
+]
+}

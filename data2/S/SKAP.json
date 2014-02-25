@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SKAP","name":"Gomez Nino Apiay Ab","lat":4.076071,"lon":-73.5627305,"rwys":1,"ils":1,"elev":1227,"index":1742723,"path":"w080n00/w074n04"
+,"runways":[
+{"len_m":2500,"wid_m":49.99,"hdg":95,"surf":"Asphalt","rwy1":"10","lat1":4.07708600,"lon1":-73.57394400,"rwy2":"28","lat2":4.07505600,"lon2":-73.55151700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"VILLAVICENCIO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":4.07732800,"lon":-73.57662500,"rng_nm":18,"alt_fmsl":1244,"hdg":275.19,"id":"APY","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":4.07639700,"lon":-73.55424200,"rng_nm":10,"alt_fmsl":1199,"id":"APY","rwy":"28","desc":"GS","gs":2.5}
+]
+}

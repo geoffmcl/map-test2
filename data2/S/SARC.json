@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SARC","name":"Corrientes","lat":-27.445503,"lon":-58.7618625,"rwys":1,"ils":1,"elev":203,"index":1986464,"path":"w060s30/w059s28"
+,"runways":[
+{"len_m":2089,"wid_m":45.11,"hdg":7,"surf":"Concrete","rwy1":"02","lat1":-27.45484200,"lon1":-58.76330800,"rwy2":"20","lat2":-27.43616400,"lon2":-58.76041700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-27.45741700,"lon":-58.76366700,"rng_nm":18,"alt_fmsl":203,"hdg":187.73,"id":"CR","rwy":"20","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.7,"lat":-27.43916700,"lon":-58.75955600,"rng_nm":10,"alt_fmsl":203,"id":"CR","rwy":"20","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-27.42775000,"lon":-58.75902800,"rng_nm":0,"alt_fmsl":203,"id":"----","rwy":"20","desc":"MM"}
+]
+}

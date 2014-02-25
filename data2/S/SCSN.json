@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCSN","name":"Santo Domingo","lat":-33.65491532,"lon":-71.61410822,"rwys":1,"ils":1,"elev":246,"index":1773073,"path":"w080s40/w072s34"
+,"runways":[
+{"len_m":801,"wid_m":17.98,"hdg":56,"surf":"Asphalt","rwy1":"05","lat1":-33.65866542,"lon1":-71.61928771,"rwy2":"23","lat2":-33.65463911,"lon2":-71.61211635}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GNDC Santo Domingo"},
+{"type":"TWR","freq":118.5,"desc":"Tower Santo Domingo"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-33.65908432,"lon":-71.62003326,"rng_nm":18,"alt_fmsl":246,"hdg":241.42,"id":"ISNO","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-33.65515137,"lon":-71.61238098,"rng_nm":10,"alt_fmsl":246,"id":"GP","rwy":"23","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":-33.65548325,"lon":-71.61271667,"rng_nm":18,"alt_fmsl":246,"id":"GP","rwy":"23","desc":"DME-ILS"}
+]
+}

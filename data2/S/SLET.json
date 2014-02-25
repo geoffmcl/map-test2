@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SLET","name":"El Trompillo","lat":-17.8115805,"lon":-63.1714805,"rwys":1,"ils":0,"elev":1371,"index":1905166,"path":"w070s20/w064s18"
+,"runways":[
+{"len_m":2799,"wid_m":37.80,"hdg":143,"surf":"Asphalt","rwy1":"15","lat1":-17.80138900,"lon1":-63.17930000,"rwy2":"33","lat2":-17.82177200,"lon2":-63.16366100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TROMPILLO TWR"},
+{"type":"APP","freq":119.7,"desc":"VIRU VIRU APP"}
+]
+,"ils":[
+]
+}

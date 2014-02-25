@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBYS","name":"Campo Fontenelle","lat":-21.9845635,"lon":-47.3369013333333,"rwys":3,"ils":1,"elev":1968,"index":2167045,"path":"w050s30/w048s22"
+,"runways":[
+{"len_m":2108,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"02C","lat1":-21.99405000,"lon1":-47.34115000,"rwy2":"20C","lat2":-21.97500600,"lon2":-47.34120600},
+{"len_m":2108,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"02L","lat1":-21.99404700,"lon1":-47.34264700,"rwy2":"20R","lat2":-21.97500300,"lon2":-47.34269700},
+{"len_m":1899,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"02R","lat1":-21.99321400,"lon1":-47.32679700,"rwy2":"20L","lat2":-21.97606100,"lon2":-47.32691100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"ACADEMIA TWR"},
+{"type":"TWR","freq":122.8,"desc":"ACADEMIA TWR"},
+{"type":"APP","freq":120.1,"desc":"ACADEMIA APP"},
+{"type":"APP","freq":122.4,"desc":"ACADEMIA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":-21.97300000,"lon":-47.34133300,"rng_nm":18,"alt_fmsl":1959,"hdg":359.54,"id":"IYS","rwy":"02C","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":-21.99075800,"lon":-47.34234700,"rng_nm":10,"alt_fmsl":1959,"id":"IYS","rwy":"02C","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-22.06750000,"lon":-47.34066700,"rng_nm":0,"alt_fmsl":1968,"id":"----","rwy":"02C","desc":"OM"},
+{"type":"MM","freq":0,"lat":-22.00246100,"lon":-47.34112500,"rng_nm":0,"alt_fmsl":1968,"id":"----","rwy":"02C","desc":"MM"}
+]
+}

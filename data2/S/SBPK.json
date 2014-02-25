@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBPK","name":"Pelotas","lat":-31.71609159,"lon":-52.33117636,"rwys":2,"ils":0,"elev":59,"index":2084498,"path":"w060s40/w053s32"
+,"runways":[
+{"len_m":1981,"wid_m":42.06,"hdg":51,"surf":"Concrete","rwy1":"06","lat1":-31.72281109,"lon1":-52.33618481,"rwy2":"24","lat2":-31.71163609,"lon2":-52.31987381},
+{"len_m":1232,"wid_m":42.06,"hdg":142,"surf":"Turf/grass","rwy1":"15","lat1":-31.71923968,"lon1":-52.33062482,"rwy2":"33","lat2":-31.72802505,"lon2":-52.32265304}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"RDO"}
+]
+,"ils":[
+]
+}

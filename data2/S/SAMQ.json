@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAMQ","name":"Aeroparque Mendoza","lat":-32.863804865,"lon":-68.872367285,"rwys":1,"ils":0,"elev":2647,"index":1822280,"path":"w070s40/w069s33"
+,"runways":[
+{"len_m":1696,"wid_m":29.87,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":-32.85745457,"lon1":-68.87098289,"rwy2":"36","lat2":-32.87267681,"lon2":-68.87280035}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":22.86,"hdg":-68,"surf":"Concrete","lat1":-32.86254404,"lon1":-68.87284295}
+]
+,"radios":[
+{"type":"TWR","freq":126.6,"desc":"MENDOZA CTR"}
+]
+,"ils":[
+]
+}

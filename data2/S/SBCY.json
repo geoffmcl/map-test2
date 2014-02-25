@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBCY","name":"Marechal Rondon","lat":-15.65282200,"lon":-56.11943800,"rwys":1,"ils":1,"elev":609,"index":2019991,"path":"w060s20/w057s16"
+,"runways":[
+{"len_m":2294,"wid_m":45.11,"hdg":152,"surf":"Asphalt","rwy1":"17","lat1":-15.64371700,"lon1":-56.12163100,"rwy2":"35","lat2":-15.66214200,"lon2":-56.11180800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"CUIABA TWR"},
+{"type":"APP","freq":119.4,"desc":"CUIABA APP"},
+{"type":"APP","freq":120.35,"desc":"CUIABA APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.3,"lat":-15.64200000,"lon":-56.12216700,"rng_nm":18,"alt_fmsl":609,"id":"ICB","rwy":"35","desc":"LOC"}
+]
+}

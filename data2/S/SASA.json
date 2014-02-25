@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SASA","name":"Salta","lat":-24.85553175,"lon":-65.48361575,"rwys":2,"ils":1,"elev":4088,"index":1871946,"path":"w070s30/w066s25"
+,"runways":[
+{"len_m":2988,"wid_m":45.11,"hdg":11,"surf":"Asphalt","rwy1":"02","lat1":-24.87283300,"lon1":-65.48993600,"rwy2":"20","lat2":-24.84637200,"lon2":-65.48414700},
+{"len_m":2399,"wid_m":29.87,"hdg":52,"surf":"Asphalt","rwy1":"06","lat1":-24.85809400,"lon1":-65.48957200,"rwy2":"24","lat2":-24.84482800,"lon2":-65.47080800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":128.85,"desc":"TWR/APP"},
+{"type":"TWR","freq":118.4,"desc":"TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-24.84465300,"lon":-65.48388300,"rng_nm":18,"alt_fmsl":4088,"hdg":11.03,"id":"SA","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-24.87107500,"lon":-65.49093100,"rng_nm":10,"alt_fmsl":4088,"id":"SA","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-24.93341700,"lon":-65.50246900,"rng_nm":0,"alt_fmsl":4078,"id":"----","rwy":"02","desc":"OM"},
+{"type":"MM","freq":0,"lat":-24.88308100,"lon":-65.49224400,"rng_nm":0,"alt_fmsl":4062,"id":"----","rwy":"02","desc":"MM"}
+]
+}

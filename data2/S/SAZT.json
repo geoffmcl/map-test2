@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZT","name":"Tandil","lat":-37.234278,"lon":-59.228639,"rwys":1,"ils":1,"elev":574,"index":1969459,"path":"w060s40/w060s38"
+,"runways":[
+{"len_m":2538,"wid_m":47.85,"hdg":5,"surf":"Concrete","rwy1":"01","lat1":-37.24566700,"lon1":-59.22991700,"rwy2":"19","lat2":-37.22288900,"lon2":-59.22736100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.4,"desc":"APP/TWR"},
+{"type":"APP","freq":118.5,"desc":"APP/TWR"},
+{"type":"APP","freq":120.9,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-37.25187800,"lon":-59.23063300,"rng_nm":18,"alt_fmsl":574,"hdg":185.14,"id":"DI","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-37.22575300,"lon":-59.22610000,"rng_nm":10,"alt_fmsl":574,"id":"DI","rwy":"19","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":-37.15833300,"lon":-59.22166700,"rng_nm":0,"alt_fmsl":574,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":-37.20833300,"lon":-59.22666700,"rng_nm":0,"alt_fmsl":574,"id":"----","rwy":"19","desc":"MM"}
+]
+}

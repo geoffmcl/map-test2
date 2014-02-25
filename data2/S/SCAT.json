@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCAT","name":"Desierto De Atacama","lat":-27.2612455,"lon":-70.7792205,"rwys":1,"ils":1,"elev":670,"index":1789864,"path":"w080s30/w071s28"
+,"runways":[
+{"len_m":2190,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":-27.25139400,"lon1":-70.78012200,"rwy2":"35","lat2":-27.27109700,"lon2":-70.77831900}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-27.27472200,"lon":-70.77805600,"rng_nm":18,"alt_fmsl":670,"hdg":175.50,"id":"IDAT","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-27.25388900,"lon":-70.77833300,"rng_nm":10,"alt_fmsl":628,"id":"IDAT","rwy":"17","desc":"GS","gs":3}
+]
+}

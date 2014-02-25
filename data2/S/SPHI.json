@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPHI","name":"Capt Jose A Quinones Gonzales Intl","lat":-6.787475,"lon":-79.828097,"rwys":1,"ils":1,"elev":97,"index":1643721,"path":"w080s10/w080s07"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":7,"surf":"Asphalt","rwy1":"01","lat1":-6.79868300,"lon1":-79.82952500,"rwy2":"19","lat2":-6.77626700,"lon2":-79.82666900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"CHICLAYO APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-6.80133300,"lon":-79.82886100,"rng_nm":18,"alt_fmsl":97,"hdg":184.96,"id":"IJAQ","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-6.77921100,"lon":-79.82786700,"rng_nm":10,"alt_fmsl":97,"id":"IJAQ","rwy":"19","desc":"GS","gs":3},
+{"type":"DME","freq":109.7,"lat":-6.77921100,"lon":-79.82786700,"rng_nm":18,"alt_fmsl":97,"id":"IJAQ","rwy":"19","desc":"DME-ILS"}
+]
+}

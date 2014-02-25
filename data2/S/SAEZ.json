@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAEZ","name":"Ministro Pistarini (ezeiza)","lat":-34.81310000,"lon":-58.54008300,"rwys":2,"ils":2,"elev":66,"index":1985993,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":3291,"wid_m":57.91,"hdg":102,"surf":"Asphalt","rwy1":"11","lat1":-34.81918422,"lon1":-58.55340482,"rwy2":"29","lat2":-34.82541916,"lon2":-58.51823524},
+{"len_m":2783,"wid_m":46.02,"hdg":163,"surf":"Asphalt","rwy1":"17","lat1":-34.80840466,"lon1":-58.53385825,"rwy2":"35","lat2":-34.83251210,"lon2":-58.52542675}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND/CLNC DEL"},
+{"type":"TWR","freq":118.6,"desc":"EZEIZA TWR"},
+{"type":"APP","freq":119.9,"desc":"EZEIZA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-34.82578278,"lon":-58.51621628,"rng_nm":18,"alt_fmsl":66,"hdg":102.08,"id":"PC","rwy":"11","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.7,"lat":-34.80441666,"lon":-58.53531647,"rng_nm":18,"alt_fmsl":66,"hdg":343.90,"id":"EZ","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-34.82099915,"lon":-58.55044556,"rng_nm":10,"alt_fmsl":66,"id":"PC","rwy":"11","desc":"GS","gs":3},
+{"type":"GS","freq":108.7,"lat":-34.82880783,"lon":-58.52508163,"rng_nm":10,"alt_fmsl":66,"id":"EZ","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-34.80483246,"lon":-58.63344574,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"11","desc":"OM"},
+{"type":"OM","freq":0,"lat":-34.89027786,"lon":-58.50602722,"rng_nm":0,"alt_fmsl":81,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":-34.81705475,"lon":-58.56466675,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":-34.84164047,"lon":-58.52236176,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"35","desc":"MM"},
+{"type":"IM","freq":0,"lat":-34.81852722,"lon":-58.55622101,"rng_nm":0,"alt_fmsl":66,"id":"----","rwy":"11","desc":"IM"},
+{"type":"DME","freq":110.1,"lat":-34.82099915,"lon":-58.55044556,"rng_nm":18,"alt_fmsl":66,"id":"PC","rwy":"11","desc":"DME-ILS"},
+{"type":"DME","freq":108.7,"lat":-34.82880783,"lon":-58.52508163,"rng_nm":18,"alt_fmsl":66,"id":"EZ","rwy":"35","desc":"DME-ILS"}
+]
+}

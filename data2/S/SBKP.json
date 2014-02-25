@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBKP","name":"Sao Paulo Viracopos","lat":-23.00748800,"lon":-47.14446600,"rwys":1,"ils":1,"elev":2170,"index":2166971,"path":"w050s30/w048s24"
+,"runways":[
+{"len_m":3240,"wid_m":45.11,"hdg":127,"surf":"Asphalt","rwy1":"15","lat1":-22.99842800,"lon1":-47.14701900,"rwy2":"33","lat2":-23.01633900,"lon2":-47.12202500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.25,"desc":"CAMPINAS TWR"},
+{"type":"APP","freq":121.4,"desc":"CAMPINAS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-23.01866700,"lon":-47.11883300,"rng_nm":18,"alt_fmsl":2170,"hdg":127.95,"id":"IKP","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-22.99916700,"lon":-47.14400000,"rng_nm":10,"alt_fmsl":2170,"id":"IKP","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-22.95750000,"lon":-47.20416700,"rng_nm":0,"alt_fmsl":2170,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":-22.99283300,"lon":-47.15516700,"rng_nm":0,"alt_fmsl":2170,"id":"----","rwy":"15","desc":"MM"}
+]
+}

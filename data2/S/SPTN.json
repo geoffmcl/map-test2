@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SPTN","name":"Coronel Carlos Ciriani Santa Rosa Intl","lat":-18.0532865,"lon":-70.275821,"rwys":1,"ils":1,"elev":1538,"index":1790461,"path":"w080s20/w071s19"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":19,"surf":"Asphalt","rwy1":"02","lat1":-18.06393100,"lon1":-70.27975600,"rwy2":"20","lat2":-18.04264200,"lon2":-70.27188600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"TACNA APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-18.04068300,"lon":-70.27116100,"rng_nm":18,"alt_fmsl":1538,"hdg":19.36,"id":"ICSR","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-18.06222200,"lon":-70.27792200,"rng_nm":10,"alt_fmsl":1538,"id":"ICSR","rwy":"02","desc":"GS","gs":2.5},
+{"type":"DME","freq":109.7,"lat":-18.06222200,"lon":-70.27792200,"rng_nm":18,"alt_fmsl":1538,"id":"ICSR","rwy":"02","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SEGS","name":"Galapagos - Baltra","lat":-0.44624100,"lon":-90.26963800,"rwys":1,"ils":1,"elev":207,"index":1463909,"path":"w100s10/w091s01"
+,"runways":[
+{"len_m":2400,"wid_m":35.05,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":-0.44499400,"lon1":-90.27227800,"rwy2":"32","lat2":-0.46251900,"lon2":-90.25955000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.2,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-0.46358392,"lon":-90.25877667,"rng_nm":18,"alt_fmsl":207,"hdg":144.01,"id":"ILB","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-0.44672987,"lon":-90.27000025,"rng_nm":10,"alt_fmsl":207,"id":"ILB","rwy":"14","desc":"GS","gs":3}
+]
+}

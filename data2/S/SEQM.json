@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SEQM","name":"Quito - Mariscal Sucre Intl","lat":-0.12703847,"lon":-78.35950469,"rwys":1,"ils":2,"elev":7841,"index":1660533,"path":"w080s10/w079s01"
+,"runways":[
+{"len_m":4098,"wid_m":52.12,"hdg":177,"surf":"Asphalt","rwy1":"18","lat1":-0.10557448,"lon1":-78.35515431,"rwy2":"36","lat2":-0.14260400,"lon2":-78.35360700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"QUITO Ground Control"},
+{"type":"TWR","freq":118.1,"desc":"QUITO Tower"},
+{"type":"APP","freq":119.7,"desc":"QUITO Approach"},
+{"type":"APP","freq":121.2,"desc":"QUITO Approach"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":-0.14529500,"lon":-78.35351000,"rng_nm":18,"alt_fmsl":7841,"hdg":177.61,"id":"IQN","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":-0.10275600,"lon":-78.35532300,"rng_nm":18,"alt_fmsl":7841,"hdg":357.61,"id":"IQS","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":-0.10918600,"lon":-78.35389600,"rng_nm":10,"alt_fmsl":7841,"id":"IQN","rwy":"18","desc":"GS","gs":3.2},
+{"type":"GS","freq":109.3,"lat":-0.13939300,"lon":-78.35268300,"rng_nm":10,"alt_fmsl":7841,"id":"IQS","rwy":"36","desc":"GS","gs":3.2}
+]
+}

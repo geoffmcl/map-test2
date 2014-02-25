@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SVSR","name":"San Fernando De Apure","lat":7.8833165,"lon":-67.4440265,"rwys":1,"ils":0,"elev":154,"index":1841276,"path":"w070n00/w068n07"
+,"runways":[
+{"len_m":1956,"wid_m":48.77,"hdg":107,"surf":"Asphalt","rwy1":"11","lat1":7.88598600,"lon1":-67.45248600,"rwy2":"29","lat2":7.88064700,"lon2":-67.43556700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.15,"desc":"TWR"}
+]
+,"ils":[
+]
+}

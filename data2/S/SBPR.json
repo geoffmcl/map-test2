@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBPR","name":"Carlos Prates","lat":-19.9091665,"lon":-43.9908335,"rwys":1,"ils":0,"elev":3044,"index":2232704,"path":"w050s20/w044s20"
+,"runways":[
+{"len_m":925,"wid_m":17.98,"hdg":66,"surf":"Asphalt","rwy1":"09","lat1":-19.91080000,"lon1":-43.99490000,"rwy2":"27","lat2":-19.90753300,"lon2":-43.98676700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"BELO HORIZONTE ATIS"},
+{"type":"TWR","freq":125.85,"desc":"RDO"}
+]
+,"ils":[
+]
+}

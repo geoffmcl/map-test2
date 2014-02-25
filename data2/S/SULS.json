@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SULS","name":"Capitan Corbeta C A Curbelo Intl","lat":-34.8571595,"lon":-55.0976875,"rwys":2,"ils":0,"elev":95,"index":2035147,"path":"w060s40/w056s35"
+,"runways":[
+{"len_m":2134,"wid_m":45.11,"hdg":72,"surf":"Asphalt","rwy1":"08","lat1":-34.85984400,"lon1":-55.11233900,"rwy2":"26","lat2":-34.85404400,"lon2":-55.09008600},
+{"len_m":1599,"wid_m":38.10,"hdg":357,"surf":"Asphalt","rwy1":"01","lat1":-34.86458100,"lon1":-55.09384200,"rwy2":"19","lat2":-34.85016900,"lon2":-55.09448300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"A/G"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

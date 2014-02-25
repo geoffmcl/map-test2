@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZG","name":"General Pico","lat":-35.6943105,"lon":-63.762118,"rwys":2,"ils":0,"elev":459,"index":1904016,"path":"w070s40/w064s36"
+,"runways":[
+{"len_m":2363,"wid_m":54.86,"hdg":159,"surf":"Asphalt","rwy1":"16","lat1":-35.68618600,"lon1":-63.76279400,"rwy2":"34","lat2":-35.70617800,"lon2":-63.75377800},
+{"len_m":836,"wid_m":49.99,"hdg":32,"surf":"Dirt","rwy1":"03","lat1":-35.69563100,"lon1":-63.76840300,"rwy2":"21","lat2":-35.68924700,"lon2":-63.76349700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119,"desc":"PICO TWR"}
+]
+,"ils":[
+]
+}

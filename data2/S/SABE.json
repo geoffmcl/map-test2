@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SABE","name":"Aeroparque Jorge Newbery","lat":-34.55627177,"lon":-58.41599448,"rwys":1,"ils":1,"elev":17,"index":1986010,"path":"w060s40/w059s35"
+,"runways":[
+{"len_m":2098,"wid_m":39.93,"hdg":123,"surf":"Concrete","rwy1":"13","lat1":-34.55415947,"lon1":-58.42525655,"rwy2":"31","lat2":-34.56466919,"lon2":-58.40624215}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.6,"desc":"AEROPARQUE ATIS"},
+{"type":"CLD","freq":129.3,"desc":"AEROPARQUE CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"AEROPARQUE GND"},
+{"type":"TWR","freq":118.85,"desc":"AEROPARQUE TWR"},
+{"type":"APP","freq":118.85,"desc":"AEROPARQUE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-34.56553268,"lon":-58.40480042,"rng_nm":18,"alt_fmsl":17,"hdg":123.95,"id":"AE","rwy":"13","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-34.55614090,"lon":-58.42324829,"rng_nm":10,"alt_fmsl":17,"id":"AE","rwy":"13","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-34.52027893,"lon":-58.48611069,"rng_nm":0,"alt_fmsl":63,"id":"----","rwy":"13","desc":"OM"},
+{"type":"MM","freq":0,"lat":-34.54888153,"lon":-58.43471527,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"13","desc":"MM"},
+{"type":"IM","freq":0,"lat":-34.55246735,"lon":-58.42838287,"rng_nm":0,"alt_fmsl":17,"id":"----","rwy":"13","desc":"IM"},
+{"type":"DME","freq":109.5,"lat":-34.55614090,"lon":-58.42324829,"rng_nm":18,"alt_fmsl":17,"id":"AE","rwy":"13","desc":"DME-ILS"}
+]
+}

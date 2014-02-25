@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAOC","name":"Rio Cuarto Area De Material","lat":-33.0923105,"lon":-64.26511375,"rwys":2,"ils":1,"elev":1381,"index":1887802,"path":"w070s40/w065s34"
+,"runways":[
+{"len_m":2247,"wid_m":49.99,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":-33.09915800,"lon1":-64.27752800,"rwy2":"23","lat2":-33.08462800,"lon2":-64.26074400},
+{"len_m":2071,"wid_m":49.99,"hdg":178,"surf":"Asphalt","rwy1":"18","lat1":-33.08339200,"lon1":-64.26140000,"rwy2":"36","lat2":-33.10206400,"lon2":-64.26078300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":118.75,"desc":"APP/TWR"},
+{"type":"APP","freq":118.7,"desc":"APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":-33.08222200,"lon":-64.25750000,"rng_nm":18,"alt_fmsl":1380,"hdg":44.73,"id":"RC","rwy":"05","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":-33.09600000,"lon":-64.27500000,"rng_nm":10,"alt_fmsl":1380,"id":"RC","rwy":"05","desc":"GS","gs":3}
+]
+}

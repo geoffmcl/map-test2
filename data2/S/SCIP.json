@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCIP","name":"Mataveri Intl","lat":-27.16379200,"lon":-109.42182900,"rwys":1,"ils":1,"elev":227,"index":1150898,"path":"w110s30/w110s28"
+,"runways":[
+{"len_m":3307,"wid_m":44.20,"hdg":117,"surf":"Asphalt","rwy1":"10","lat1":-27.15796400,"lon1":-109.43666900,"rwy2":"28","lat2":-27.17161700,"lon2":-109.40698900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"PASCUA TWR"},
+{"type":"TWR","freq":121.9,"desc":"PASCUA TWR"},
+{"type":"APP","freq":127.3,"desc":"PASCUA APP"},
+{"type":"APP","freq":118.1,"desc":"PASCUA APP"},
+{"type":"APP","freq":121.5,"desc":"PASCUA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-27.16777800,"lon":-109.41694400,"rng_nm":18,"alt_fmsl":127,"hdg":119.21,"id":"IIPA","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-27.15888900,"lon":-109.43305600,"rng_nm":10,"alt_fmsl":148,"id":"IIPA","rwy":"10","desc":"GS","gs":2.5}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SLLP","name":"La Paz","lat":-16.50833100,"lon":-68.17757300,"rwys":2,"ils":1,"elev":13313,"index":1823326,"path":"w070s20/w069s17"
+,"runways":[
+{"len_m":3999,"wid_m":46.02,"hdg":91,"surf":"Concrete","rwy1":"10","lat1":-16.51274400,"lon1":-68.21097500,"rwy2":"28","lat2":-16.51393100,"lon2":-68.17353600},
+{"len_m":2049,"wid_m":91.44,"hdg":97,"surf":"Dirt","rwy1":"10L","lat1":-16.50413900,"lon1":-68.19836100,"rwy2":"28R","lat2":-16.50661100,"lon2":-68.17933300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"LA PAZ TWR"},
+{"type":"APP","freq":119.5,"desc":"LA PAZ APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-16.51405300,"lon":-68.16970600,"rng_nm":18,"alt_fmsl":13313,"hdg":91.89,"id":"ILPA","rwy":"10","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-16.51166900,"lon":-68.20789400,"rng_nm":10,"alt_fmsl":13313,"id":"ILPA","rwy":"10","desc":"GS","gs":2.4},
+{"type":"MM","freq":0,"lat":-16.51243300,"lon":-68.22078600,"rng_nm":0,"alt_fmsl":13313,"id":"----","rwy":"10","desc":"MM"}
+]
+}

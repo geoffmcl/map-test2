@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZS","name":"San Carlos De Bariloche","lat":-41.151172,"lon":-71.1575415,"rwys":1,"ils":1,"elev":2776,"index":1772595,"path":"w080s50/w072s42"
+,"runways":[
+{"len_m":2348,"wid_m":47.85,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":-41.14676900,"lon1":-71.17026100,"rwy2":"29","lat2":-41.15557500,"lon2":-71.14482200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.9,"desc":"ATIS"},
+{"type":"TWR","freq":119.1,"desc":"BARILOCHE TWR/APP"},
+{"type":"TWR","freq":118.65,"desc":"BARILOCHE TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-41.14555600,"lon":-71.17363900,"rng_nm":18,"alt_fmsl":2776,"hdg":294.79,"id":"BR","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-41.15538900,"lon":-71.14905600,"rng_nm":10,"alt_fmsl":2776,"id":"BR","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-41.18222200,"lon":-71.06816700,"rng_nm":0,"alt_fmsl":2774,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":-41.15947200,"lon":-71.13369400,"rng_nm":0,"alt_fmsl":2776,"id":"----","rwy":"29","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":-41.15940300,"lon":-71.15118100,"rng_nm":18,"alt_fmsl":2776,"id":"BR","rwy":"29","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBMQ","name":"Macapa","lat":0.0506385,"lon":-51.0721625,"rwys":1,"ils":0,"elev":56,"index":2102919,"path":"w060n00/w052n00"
+,"runways":[
+{"len_m":2105,"wid_m":45.11,"hdg":57,"surf":"Asphalt","rwy1":"08","lat1":0.04550800,"lon1":-51.08013100,"rwy2":"26","lat2":0.05576900,"lon2":-51.06419400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP"}
+]
+,"ils":[
+]
+}

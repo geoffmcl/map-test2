@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SUMU","name":"Montevideo Carrasco Intl","lat":-34.84123600,"lon":-56.02592300,"rwys":3,"ils":2,"elev":105,"index":2018763,"path":"w060s40/w057s35"
+,"runways":[
+{"len_m":3200,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"06","lat1":-34.84403600,"lon1":-56.03999200,"rwy2":"24","lat2":-34.82681900,"lon2":-56.01191700},
+{"len_m":2251,"wid_m":45.11,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":-34.84186400,"lon1":-56.03064400,"rwy2":"19","lat2":-34.82157200,"lon2":-56.03099200},
+{"len_m":1703,"wid_m":45.11,"hdg":90,"surf":"Concrete","rwy1":"10","lat1":-34.83741700,"lon1":-56.03571900,"rwy2":"28","lat2":-34.83762200,"lon2":-56.01709700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":121.8,"desc":"TWR"},
+{"type":"APP","freq":120.2,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":-34.84494400,"lon":-56.03075000,"rng_nm":18,"alt_fmsl":105,"hdg":179.51,"id":"IMVD","rwy":"19","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":-34.84372200,"lon":-56.03958300,"rng_nm":18,"alt_fmsl":105,"hdg":233.35,"id":"ICAR","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":-34.82461100,"lon":-56.03194400,"rng_nm":10,"alt_fmsl":105,"id":"IMVD","rwy":"19","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":-34.82972200,"lon":-56.01861100,"rng_nm":10,"alt_fmsl":105,"id":"ICAR","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-34.78469400,"lon":-55.94341700,"rng_nm":0,"alt_fmsl":105,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":-34.82344400,"lon":-56.00627800,"rng_nm":0,"alt_fmsl":105,"id":"----","rwy":"24","desc":"MM"},
+{"type":"DME","freq":111.1,"lat":-34.84494400,"lon":-56.03050000,"rng_nm":18,"alt_fmsl":66,"id":"IMVD","rwy":"19","desc":"DME-ILS"}
+]
+}

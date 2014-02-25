@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZR","name":"Santa Rosa","lat":-36.5883205,"lon":-64.2756945,"rwys":1,"ils":1,"elev":630,"index":1887578,"path":"w070s40/w065s37"
+,"runways":[
+{"len_m":2299,"wid_m":29.87,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":-36.59848300,"lon1":-64.27818300,"rwy2":"19","lat2":-36.57815800,"lon2":-64.27320600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-36.60094400,"lon":-64.27894400,"rng_nm":18,"alt_fmsl":630,"hdg":191.43,"id":"SR","rwy":"19","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":-36.58101400,"lon":-64.27572800,"rng_nm":10,"alt_fmsl":630,"id":"SR","rwy":"19","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-36.56833300,"lon":-64.27000000,"rng_nm":0,"alt_fmsl":630,"id":"----","rwy":"19","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":-36.58101400,"lon":-64.27572800,"rng_nm":18,"alt_fmsl":640,"id":"SR","rwy":"19","desc":"DME-ILS"}
+]
+}

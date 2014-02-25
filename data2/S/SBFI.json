@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBFI","name":"Foz Do Iguacu","lat":-25.60017099,"lon":-54.48516014,"rwys":1,"ils":1,"elev":787,"index":2052122,"path":"w060s30/w055s26"
+,"runways":[
+{"len_m":2202,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"14","lat1":-25.58931200,"lon1":-54.49575600,"rwy2":"32","lat2":-25.60226900,"lon2":-54.47912900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.8,"desc":"SBFI_TWR"},
+{"type":"APP","freq":119.15,"desc":"SBFI_APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":-25.60283300,"lon":-54.47850000,"rng_nm":18,"alt_fmsl":761,"hdg":130.98,"id":"IFI","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":-25.59236400,"lon":-54.49328600,"rng_nm":10,"alt_fmsl":761,"id":"IFI","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-25.53116700,"lon":-54.57050000,"rng_nm":0,"alt_fmsl":787,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":-25.58416700,"lon":-54.50250000,"rng_nm":0,"alt_fmsl":787,"id":"----","rwy":"14","desc":"MM"}
+]
+}

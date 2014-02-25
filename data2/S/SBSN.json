@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBSN","name":"Santarem","lat":-2.42322100,"lon":-54.78541900,"rwys":1,"ils":1,"elev":198,"index":2053601,"path":"w060s10/w055s03"
+,"runways":[
+{"len_m":2401,"wid_m":45.11,"hdg":80,"surf":"Asphalt","rwy1":"10","lat1":-2.42417500,"lon1":-54.80344200,"rwy2":"28","lat2":-2.42068600,"lon2":-54.78213300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"},
+{"type":"APP","freq":131.4,"desc":"APP"}
+]
+,"ils":[
+{"type":"LOC","freq":109.3,"lat":-2.42191700,"lon":-54.78908300,"rng_nm":18,"alt_fmsl":198,"id":"ISN","rwy":"10","desc":"LOC"}
+]
+}

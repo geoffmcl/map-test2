@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SDR","name":"Saidor","lat":-5.62534798,"lon":146.45807753,"rwys":1,"ils":0,"elev":89,"index":5346579,"path":"e140s10/e146s06"
+,"runways":[
+{"len_m":1809,"wid_m":71.02,"hdg":121,"surf":"Turf/grass","rwy1":"12","lat1":-5.62413766,"lon1":146.45778926,"rwy2":"30","lat2":-5.63257336,"lon2":146.47178573}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.3,"desc":"SDR ATIS"},
+{"type":"GND","freq":131.6,"desc":"Saidor GND"},
+{"type":"TWR","freq":130.3,"desc":"Saidor TWR"}
+]
+,"ils":[
+]
+}

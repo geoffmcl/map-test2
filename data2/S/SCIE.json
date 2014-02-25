@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SCIE","name":"Carriel Sur Intl","lat":-36.77164800,"lon":-73.06310300,"rwys":1,"ils":1,"elev":26,"index":1740107,"path":"w080s40/w074s37"
+,"runways":[
+{"len_m":2298,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"02","lat1":-36.78203333,"lon1":-73.06856667,"rwy2":"20","lat2":-36.76327222,"lon2":-73.05765278}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"CONCEPCION TWR"},
+{"type":"APP","freq":120.5,"desc":"CONCEPCION APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-36.76153183,"lon":-73.05858612,"rng_nm":18,"alt_fmsl":25,"hdg":17.95,"id":"ICEP","rwy":"02","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-36.78219986,"lon":-73.06894684,"rng_nm":10,"alt_fmsl":25,"id":"ICEP","rwy":"02","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-36.85749817,"lon":-73.11389160,"rng_nm":0,"alt_fmsl":147,"id":"----","rwy":"02","desc":"OM"},
+{"type":"DME","freq":109.9,"lat":-36.77861023,"lon":-73.06833649,"rng_nm":18,"alt_fmsl":25,"id":"ICEP","rwy":"02","desc":"DME-ILS"}
+]
+}

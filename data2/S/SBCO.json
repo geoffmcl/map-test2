@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBCO","name":"Canoas","lat":-29.94412600,"lon":-51.14385200,"rwys":1,"ils":0,"elev":26,"index":2100995,"path":"w060s30/w052s30"
+,"runways":[
+{"len_m":2754,"wid_m":44.20,"hdg":109,"surf":"Asphalt","rwy1":"12","lat1":-29.94180300,"lon1":-51.15781700,"rwy2":"30","lat2":-29.95008600,"lon2":-51.13091700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.85,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":122.8,"desc":"TWR"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"PALEGRE APP"},
+{"type":"APP","freq":120.1,"desc":"PALEGRE APP"},
+{"type":"APP","freq":120.55,"desc":"PALEGRE APP"},
+{"type":"APP","freq":128.9,"desc":"PALEGRE APP"}
+]
+,"ils":[
+]
+}

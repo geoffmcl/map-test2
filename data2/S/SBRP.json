@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBRP","name":"Leite Lopes","lat":-21.1341665,"lon":-47.774189,"rwys":1,"ils":0,"elev":1802,"index":2167089,"path":"w050s30/w048s22"
+,"runways":[
+{"len_m":2099,"wid_m":35.05,"hdg":163,"surf":"Asphalt","rwy1":"18","lat1":-21.12508300,"lon1":-47.77709200,"rwy2":"36","lat2":-21.14325000,"lon2":-47.77128600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.42,"desc":"ATIS"},
+{"type":"TWR","freq":118,"desc":"RIBEIRAO RDO"},
+{"type":"TWR","freq":118,"desc":"RIBEIRAO TWR"},
+{"type":"APP","freq":119.55,"desc":"RIBEIRAO APP"}
+]
+,"ils":[
+]
+}

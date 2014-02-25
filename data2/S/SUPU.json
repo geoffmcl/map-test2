@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SUPU","name":"Paysandu","lat":-32.36146953,"lon":-58.06869102,"rwys":2,"ils":0,"elev":177,"index":1986155,"path":"w060s40/w059s33"
+,"runways":[
+{"len_m":1515,"wid_m":29.87,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":-32.37007600,"lon1":-58.06330500,"rwy2":"19","lat2":-32.35657600,"lon2":-58.06083100},
+{"len_m":909,"wid_m":11.89,"hdg":92,"surf":"Asphalt","rwy1":"09","lat1":-32.36284000,"lon1":-58.07443200,"rwy2":"27","lat2":-32.36314200,"lon2":-58.06477300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.1,"desc":"Paysandu Tower"}
+]
+,"ils":[
+]
+}

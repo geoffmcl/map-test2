@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAWG","name":"Rio Gallegos","lat":-51.6088735,"lon":-69.312636,"rwys":1,"ils":1,"elev":61,"index":1804698,"path":"w070s60/w070s52"
+,"runways":[
+{"len_m":3547,"wid_m":45.11,"hdg":85,"surf":"Concrete","rwy1":"07","lat1":-51.61010000,"lon1":-69.33816400,"rwy2":"25","lat2":-51.60764700,"lon2":-69.28710800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":119.1,"desc":"APP/TWR"},
+{"type":"APP","freq":124.7,"desc":"CON"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-51.61027800,"lon":-69.34280600,"rng_nm":18,"alt_fmsl":61,"hdg":265.67,"id":"GL","rwy":"25","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":-51.60918600,"lon":-69.29193300,"rng_nm":10,"alt_fmsl":61,"id":"GL","rwy":"25","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-51.60702800,"lon":-69.27411100,"rng_nm":0,"alt_fmsl":62,"id":"----","rwy":"25","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":-51.60918600,"lon":-69.29193300,"rng_nm":18,"alt_fmsl":61,"id":"GL","rwy":"25","desc":"DME-ILS"}
+]
+}

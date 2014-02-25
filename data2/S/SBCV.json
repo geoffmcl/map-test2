@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBCV","name":"Caravelas","lat":-17.65125425,"lon":-39.25270075,"rwys":2,"ils":0,"elev":36,"index":2298389,"path":"w040s20/w040s18"
+,"runways":[
+{"len_m":1542,"wid_m":49.99,"hdg":34,"surf":"Asphalt","rwy1":"06","lat1":-17.65660000,"lon1":-39.25611900,"rwy2":"24","lat2":-17.64506900,"lon2":-39.24795600},
+{"len_m":1150,"wid_m":49.99,"hdg":154,"surf":"Asphalt","rwy1":"18","lat1":-17.64699200,"lon1":-39.25572200,"rwy2":"36","lat2":-17.65635600,"lon2":-39.25100600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":125.9,"desc":"RDO"}
+]
+,"ils":[
+]
+}

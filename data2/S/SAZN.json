@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZN","name":"Presidente Peron","lat":-38.949,"lon":-68.1557125,"rwys":1,"ils":1,"elev":895,"index":1821891,"path":"w070s40/w069s39"
+,"runways":[
+{"len_m":2569,"wid_m":44.81,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":-38.94895600,"lon1":-68.17053100,"rwy2":"26","lat2":-38.94904400,"lon2":-68.14089400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.3,"desc":"NEUQUEN TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-38.95016700,"lon":-68.13702800,"rng_nm":18,"alt_fmsl":895,"hdg":92.65,"id":"NE","rwy":"08","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-38.95125000,"lon":-68.16583300,"rng_nm":10,"alt_fmsl":896,"id":"NE","rwy":"08","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-38.94994400,"lon":-68.25775000,"rng_nm":0,"alt_fmsl":895,"id":"----","rwy":"08","desc":"OM"},
+{"type":"MM","freq":0,"lat":-38.95000000,"lon":-68.18708300,"rng_nm":0,"alt_fmsl":895,"id":"----","rwy":"08","desc":"MM"}
+]
+}

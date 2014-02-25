@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAWB","name":"Base Marambio","lat":-64.23914689,"lon":-56.62814414,"rwys":1,"ils":0,"elev":760,"index":2016880,"path":"w060s70/w057s65"
+,"runways":[
+{"len_m":1210,"wid_m":42.98,"hdg":65,"surf":"Dirt","rwy1":"06","lat1":-64.24123781,"lon1":-56.64454868,"rwy2":"24","lat2":-64.23672093,"lon2":-56.62184894}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"MARAMBIO TWR"},
+{"type":"TWR","freq":118.5,"desc":"MARAMBIO TWR"}
+]
+,"ils":[
+]
+}

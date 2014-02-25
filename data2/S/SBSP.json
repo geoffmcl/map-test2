@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBSP","name":"Sao Paulo Congonhas","lat":-23.63079200,"lon":-46.65851000,"rwys":2,"ils":2,"elev":2631,"index":2183313,"path":"w050s30/w047s24"
+,"runways":[
+{"len_m":1947,"wid_m":44.81,"hdg":147,"surf":"Asphalt","rwy1":"17R","lat1":-23.61984200,"lon1":-46.66145300,"rwy2":"35L","lat2":-23.63462800,"lon2":-46.65112500},
+{"len_m":1436,"wid_m":44.81,"hdg":147,"surf":"Asphalt","rwy1":"17L","lat1":-23.62070300,"lon1":-46.65828600,"rwy2":"35R","lat2":-23.63160000,"lon2":-46.65064400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"CLD","freq":120.6,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.15,"desc":"SAO PAULO TWR"},
+{"type":"APP","freq":129.5,"desc":"SAO PAULO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":-23.63766700,"lon":-46.64883300,"rng_nm":18,"alt_fmsl":2631,"hdg":147.03,"id":"ISP","rwy":"17R","desc":"ILS-cat-I"},
+{"type":"LOC","freq":110.1,"lat":-23.61933300,"lon":-46.66150000,"rng_nm":18,"alt_fmsl":2631,"id":"ICO","rwy":"35L","desc":"LOC"},
+{"type":"GS","freq":109.3,"lat":-23.62269200,"lon":-46.65742800,"rng_nm":10,"alt_fmsl":2631,"id":"ISP","rwy":"17R","desc":"GS","gs":2.9},
+{"type":"OM","freq":0,"lat":-23.54483300,"lon":-46.71166700,"rng_nm":0,"alt_fmsl":2631,"id":"----","rwy":"17R","desc":"OM"},
+{"type":"MM","freq":0,"lat":-23.61016700,"lon":-46.66750000,"rng_nm":0,"alt_fmsl":2631,"id":"----","rwy":"17R","desc":"MM"}
+]
+}

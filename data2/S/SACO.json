@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SACO","name":"Ambrosio L V Taravella","lat":-31.31349875,"lon":-64.2041235,"rwys":2,"ils":1,"elev":1604,"index":1887915,"path":"w070s40/w065s32"
+,"runways":[
+{"len_m":3172,"wid_m":45.11,"hdg":179,"surf":"Concrete","rwy1":"18","lat1":-31.29583600,"lon1":-64.20810800,"rwy2":"36","lat2":-31.32444700,"lon2":-64.20796100},
+{"len_m":2464,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":-31.32480600,"lon1":-64.20925600,"rwy2":"23","lat2":-31.30890600,"lon2":-64.19116900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"CORDOBA TWR/APP"},
+{"type":"TWR","freq":118.55,"desc":"CORDOBA TWR/APP"},
+{"type":"TWR","freq":119.45,"desc":"CORDOBA TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-31.32652800,"lon":-64.20808300,"rng_nm":18,"alt_fmsl":1604,"hdg":179.96,"id":"CB","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-31.29913900,"lon":-64.20722200,"rng_nm":10,"alt_fmsl":1604,"id":"CB","rwy":"18","desc":"GS","gs":2.5},
+{"type":"OM","freq":0,"lat":-31.23688900,"lon":-64.20958300,"rng_nm":0,"alt_fmsl":1523,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":-31.28613900,"lon":-64.20872200,"rng_nm":0,"alt_fmsl":1523,"id":"----","rwy":"18","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":-31.29913900,"lon":-64.20722200,"rng_nm":18,"alt_fmsl":1523,"id":"CB","rwy":"18","desc":"DME-ILS"}
+]
+}

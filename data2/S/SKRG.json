@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SKRG","name":"Jose Maria Cordova","lat":6.16728470333333,"lon":-75.4249882166667,"rwys":1,"ils":1,"elev":6955,"index":1710092,"path":"w080n00/w076n06"
+,"runways":[
+{"len_m":3499,"wid_m":45.11,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":6.18035419,"lon1":-75.42322500,"rwy2":"36","lat2":6.14871019,"lon2":-75.42301400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":-75,"surf":"Concrete","lat1":6.16875653,"lon1":-75.42995946},
+{"rwy1":"H2","len_m":35,"wid_m":35.05,"hdg":-75,"surf":"Concrete","lat1":6.16856539,"lon1":-75.42188569}
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":127.2,"desc":"MEDELLIN FIS"},
+{"type":"TWR","freq":118.6,"desc":"TWR"},
+{"type":"APP","freq":121.1,"desc":"MEDELLIN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":6.18285300,"lon":-75.42323900,"rng_nm":18,"alt_fmsl":6955,"hdg":359.62,"id":"IMDE","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":6.15133300,"lon":-75.42194700,"rng_nm":10,"alt_fmsl":6955,"id":"IMDE","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":6.05552800,"lon":-75.42250800,"rng_nm":0,"alt_fmsl":8679,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":6.13988100,"lon":-75.42282800,"rng_nm":0,"alt_fmsl":8679,"id":"----","rwy":"36","desc":"MM"}
+]
+}

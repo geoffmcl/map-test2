@@ -1,0 +1,29 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBBR","name":"Brasilia Presidente Juscelino Kubitsch","lat":-15.86894400,"lon":-47.92229600,"rwys":2,"ils":2,"elev":3479,"index":2167432,"path":"w050s20/w048s16"
+,"runways":[
+{"len_m":3307,"wid_m":45.11,"hdg":86,"surf":"Asphalt","rwy1":"11R","lat1":-15.88065600,"lon1":-47.93998900,"rwy2":"29L","lat2":-15.87858300,"lon2":-47.90918300},
+{"len_m":3201,"wid_m":45.11,"hdg":86,"surf":"Asphalt","rwy1":"11L","lat1":-15.86350000,"lon1":-47.92758300,"rwy2":"29R","lat2":-15.86166700,"lon2":-47.89775000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"BRASILIA ATIS"},
+{"type":"CLD","freq":121.8,"desc":"BRASILIA CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"BRASILIA TWR"},
+{"type":"TWR","freq":118.45,"desc":"BRASILIA TWR"},
+{"type":"APP","freq":119.2,"desc":"BRASILIA APP"},
+{"type":"APP","freq":119.5,"desc":"BRASILIA APP"},
+{"type":"APP","freq":119.7,"desc":"BRASILIA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-15.86133300,"lon":-47.89500000,"rng_nm":18,"alt_fmsl":3445,"hdg":86.04,"id":"IBR","rwy":"11L","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":-15.86366700,"lon":-47.92966700,"rng_nm":18,"alt_fmsl":3479,"hdg":266.28,"id":"IND","rwy":"29R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-15.86194400,"lon":-47.92361100,"rng_nm":10,"alt_fmsl":3445,"id":"IBR","rwy":"11L","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":-15.86027800,"lon":-47.90027800,"rng_nm":10,"alt_fmsl":3479,"id":"IND","rwy":"29R","desc":"GS","gs":2.96},
+{"type":"OM","freq":0,"lat":-15.86966700,"lon":-48.02166700,"rng_nm":0,"alt_fmsl":3479,"id":"----","rwy":"11L","desc":"OM"},
+{"type":"MM","freq":0,"lat":-15.86416700,"lon":-47.93733300,"rng_nm":0,"alt_fmsl":3479,"id":"----","rwy":"11L","desc":"MM"},
+{"type":"MM","freq":0,"lat":-15.86083300,"lon":-47.88533300,"rng_nm":0,"alt_fmsl":3479,"id":"----","rwy":"29R","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":-15.86366700,"lon":-47.92966700,"rng_nm":18,"alt_fmsl":3479,"id":"IND","rwy":"29R","desc":"DME-ILS"}
+]
+}

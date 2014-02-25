@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAVV","name":"Gobernador Castello","lat":-40.86752075,"lon":-62.99712475,"rwys":2,"ils":0,"elev":20,"index":1920072,"path":"w070s50/w063s41"
+,"runways":[
+{"len_m":2551,"wid_m":45.11,"hdg":105,"surf":"Asphalt","rwy1":"10","lat1":-40.86697200,"lon1":-63.01113900,"rwy2":"28","lat2":-40.87311100,"lon2":-62.98197200},
+{"len_m":1458,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"02","lat1":-40.87091700,"lon1":-63.00144400,"rwy2":"20","lat2":-40.85908300,"lon2":-62.99394400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"VIEDMA TWR"}
+]
+,"ils":[
+]
+}

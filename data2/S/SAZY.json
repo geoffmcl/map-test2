@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAZY","name":"Aviador C Campos","lat":-40.0753835,"lon":-71.1372945,"rwys":1,"ils":0,"elev":2569,"index":1772667,"path":"w080s50/w072s41"
+,"runways":[
+{"len_m":2507,"wid_m":44.81,"hdg":68,"surf":"Asphalt","rwy1":"06","lat1":-40.07957800,"lon1":-71.15094200,"rwy2":"24","lat2":-40.07118900,"lon2":-71.12364700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":119.6,"desc":"CHAPELCO TWR"},
+{"type":"TWR","freq":118.2,"desc":"CHAPELCO TWR"}
+]
+,"ils":[
+]
+}

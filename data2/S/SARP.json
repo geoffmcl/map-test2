@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SARP","name":"Posadas","lat":-27.3858375,"lon":-55.9707265,"rwys":1,"ils":1,"elev":430,"index":2035616,"path":"w060s30/w056s28"
+,"runways":[
+{"len_m":2257,"wid_m":29.87,"hdg":359,"surf":"Asphalt","rwy1":"01","lat1":-27.39602200,"lon1":-55.97059200,"rwy2":"19","lat2":-27.37565300,"lon2":-55.97086100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.1,"desc":"TWR/APP"},
+{"type":"TWR","freq":118.5,"desc":"TWR/APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-27.39730600,"lon":-55.97033300,"rng_nm":18,"alt_fmsl":430,"hdg":178.76,"id":"PO","rwy":"19","desc":"ILS-cat-II"},
+{"type":"GS","freq":109.9,"lat":-27.37841700,"lon":-55.96941700,"rng_nm":10,"alt_fmsl":430,"id":"PO","rwy":"19","desc":"GS","gs":3},
+{"type":"DME","freq":109.9,"lat":-27.37841700,"lon":-55.96941700,"rng_nm":18,"alt_fmsl":429,"id":"PO","rwy":"19","desc":"DME-ILS"}
+]
+}

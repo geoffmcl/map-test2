@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SANT","name":"Teniente Benjamin Matienzo","lat":-26.8408,"lon":-65.10460056,"rwys":1,"ils":1,"elev":1494,"index":1871819,"path":"w070s30/w066s27"
+,"runways":[
+{"len_m":2891,"wid_m":46.02,"hdg":9,"surf":"Concrete","rwy1":"01","lat1":-26.85365800,"lon1":-65.10708941,"rwy2":"19","lat2":-26.82794200,"lon2":-65.10211172}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.5,"desc":"TUCUMAN TWR"},
+{"type":"TWR","freq":118.35,"desc":"TUCUMAN TWR/Aux"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-26.82583300,"lon":-65.10191700,"rng_nm":18,"alt_fmsl":1439,"hdg":9.42,"id":"TU","rwy":"01","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-26.85105600,"lon":-65.10547200,"rng_nm":10,"alt_fmsl":1496,"id":"TU","rwy":"01","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-26.91858300,"lon":-65.11997200,"rng_nm":0,"alt_fmsl":1494,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":-26.86269400,"lon":-65.10911100,"rng_nm":0,"alt_fmsl":1494,"id":"----","rwy":"01","desc":"MM"}
+]
+}

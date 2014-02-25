@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"S34","name":"Plains","lat":47.470816,"lon":-114.89992575,"rwys":2,"ils":0,"elev":2462,"index":1073752,"path":"w120n40/w115n47"
+,"runways":[
+{"len_m":925,"wid_m":15.24,"hdg":143,"surf":"Asphalt","rwy1":"12","lat1":47.47583300,"lon1":-114.90361100,"rwy2":"30","lat2":47.46909700,"lon2":-114.89638900},
+{"len_m":533,"wid_m":30.48,"hdg":89,"surf":"Turf/grass","rwy1":"07","lat1":47.46916700,"lon1":-114.90338900,"rwy2":"25","lat2":47.46916700,"lon2":-114.89631400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

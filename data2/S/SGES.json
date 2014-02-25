@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SGES","name":"Guarani Intl","lat":-25.4554985,"lon":-54.843593,"rwys":1,"ils":1,"elev":846,"index":2052128,"path":"w060s30/w055s26"
+,"runways":[
+{"len_m":3400,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"05","lat1":-25.46711900,"lon1":-54.85463600,"rwy2":"23","lat2":-25.44387800,"lon2":-54.83255000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"},
+{"type":"APP","freq":119.3,"desc":"APP"},
+{"type":"APP","freq":120.6,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.3,"lat":-25.46910800,"lon":-54.85652500,"rng_nm":18,"alt_fmsl":846,"hdg":220.63,"id":"ICES","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.3,"lat":-25.44250000,"lon":-54.83777800,"rng_nm":10,"alt_fmsl":804,"id":"ICES","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-25.36805600,"lon":-54.76083300,"rng_nm":0,"alt_fmsl":793,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":-25.43666700,"lon":-54.82555600,"rng_nm":0,"alt_fmsl":849,"id":"----","rwy":"23","desc":"MM"}
+]
+}

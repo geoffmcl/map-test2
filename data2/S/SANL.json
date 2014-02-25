@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SANL","name":"Capitan V. Almandos Almonacid","lat":-29.38554585,"lon":-66.79465283,"rwys":1,"ils":1,"elev":1433,"index":1855264,"path":"w070s30/w067s30"
+,"runways":[
+{"len_m":2853,"wid_m":29.87,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":-29.39431474,"lon1":-66.80356954,"rwy2":"21","lat2":-29.37160727,"lon2":-66.78971335}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.4,"desc":"LA RIOJA TWR"},
+{"type":"TWR","freq":118.45,"desc":"LA RIOJA TWR"},
+{"type":"APP","freq":118.4,"desc":"LA RIOJA APP"},
+{"type":"APP","freq":118.45,"desc":"LA RIOJA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":-29.39444400,"lon":-66.80361100,"rng_nm":18,"alt_fmsl":1433,"hdg":207.94,"id":"LR","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":-29.37336900,"lon":-66.78928300,"rng_nm":10,"alt_fmsl":1433,"id":"LR","rwy":"21","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":-29.35851100,"lon":-66.78154700,"rng_nm":0,"alt_fmsl":1394,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":110.1,"lat":-29.37336900,"lon":-66.78928300,"rng_nm":18,"alt_fmsl":1437,"id":"LR","rwy":"21","desc":"DME-ILS"}
+]
+}

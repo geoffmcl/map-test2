@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SAVC","name":"Comodoro Rivadavia","lat":-45.785349,"lon":-67.465561,"rwys":1,"ils":1,"elev":190,"index":1837834,"path":"w070s50/w068s46"
+,"runways":[
+{"len_m":2832,"wid_m":49.99,"hdg":79,"surf":"Concrete","rwy1":"07","lat1":-45.78778100,"lon1":-67.48343600,"rwy2":"25","lat2":-45.78291700,"lon2":-67.44768600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.9,"desc":"COMODORO TWR"},
+{"type":"TWR","freq":120.8,"desc":"COMODORO TWR"},
+{"type":"APP","freq":124.3,"desc":"COMODORO CON"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-45.78805600,"lon":-67.48694400,"rng_nm":18,"alt_fmsl":190,"hdg":259.38,"id":"CR","rwy":"25","desc":"ILS-cat-II"},
+{"type":"GS","freq":110.3,"lat":-45.78213900,"lon":-67.45236100,"rng_nm":10,"alt_fmsl":190,"id":"CR","rwy":"25","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-45.77477800,"lon":-67.36441700,"rng_nm":0,"alt_fmsl":190,"id":"----","rwy":"25","desc":"OM"},
+{"type":"MM","freq":0,"lat":-45.78144400,"lon":-67.43275000,"rng_nm":0,"alt_fmsl":190,"id":"----","rwy":"25","desc":"MM"}
+]
+}

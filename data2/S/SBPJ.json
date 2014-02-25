@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBPJ","name":"Tocantins","lat":-10.29066700,"lon":-48.35694500,"rwys":1,"ils":0,"elev":774,"index":2151405,"path":"w050s20/w049s11"
+,"runways":[
+{"len_m":2494,"wid_m":45.11,"hdg":123,"surf":"Asphalt","rwy1":"14","lat1":-10.28523600,"lon1":-48.36642500,"rwy2":"32","lat2":-10.29781100,"lon2":-48.34751900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119,"desc":"PALMAS RDO"},
+{"type":"TWR","freq":118,"desc":"PALMAS TWR"},
+{"type":"APP","freq":119,"desc":"PALMAS APP"}
+]
+,"ils":[
+]
+}

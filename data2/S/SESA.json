@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SESA","name":"General Ulpiano Paez","lat":-2.206341,"lon":-80.98620875,"rwys":2,"ils":1,"elev":18,"index":1627632,"path":"w090s10/w081s03"
+,"runways":[
+{"len_m":2436,"wid_m":29.87,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-2.20293100,"lon1":-80.99363300,"rwy2":"31","lat2":-2.21692200,"lon2":-80.97670800},
+{"len_m":1109,"wid_m":39.93,"hdg":81,"surf":"Asphalt","rwy1":"08","lat1":-2.20348600,"lon1":-80.99218300,"rwy2":"26","lat2":-2.20202500,"lon2":-80.98231100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":122.4,"desc":"SALINAS TWR"},
+{"type":"APP","freq":124.1,"desc":"SALINAS APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":-2.20176700,"lon":-80.99487200,"rng_nm":18,"alt_fmsl":13,"hdg":309.86,"id":"ISA","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":-2.21454400,"lon":-80.97810600,"rng_nm":10,"alt_fmsl":13,"id":"ISA","rwy":"31","desc":"GS","gs":2.8},
+{"type":"DME","freq":108.7,"lat":-2.21454400,"lon":-80.97810600,"rng_nm":18,"alt_fmsl":18,"id":"ISA","rwy":"31","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SELT","name":"Cotopaxi Intl","lat":-0.9068335,"lon":-78.615757,"rwys":1,"ils":1,"elev":9205,"index":1660483,"path":"w080s10/w079s01"
+,"runways":[
+{"len_m":3693,"wid_m":45.11,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":-0.89018100,"lon1":-78.61450800,"rwy2":"36","lat2":-0.92348600,"lon2":-78.61700600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"LATACUNGA GND"},
+{"type":"TWR","freq":118.5,"desc":"LATACUNGA APP/TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":-0.92442200,"lon":-78.61707500,"rng_nm":18,"alt_fmsl":9117,"hdg":184.29,"id":"ILA","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":-0.89777800,"lon":-78.61583300,"rng_nm":10,"alt_fmsl":9172,"id":"ILA","rwy":"18","desc":"GS","gs":3.2},
+{"type":"DME","freq":108.7,"lat":-0.89777800,"lon":-78.61583300,"rng_nm":18,"alt_fmsl":9116,"id":"ILA","rwy":"18","desc":"DME-ILS"}
+]
+}

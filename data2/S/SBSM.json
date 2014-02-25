@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBSM","name":"Santa Maria","lat":-29.70640800,"lon":-53.69282500,"rwys":2,"ils":0,"elev":287,"index":2068241,"path":"w060s30/w054s30"
+,"runways":[
+{"len_m":2697,"wid_m":45.11,"hdg":93,"surf":"Concrete","rwy1":"11","lat1":-29.71053900,"lon1":-53.70384700,"rwy2":"29","lat2":-29.71198900,"lon2":-53.67601900},
+{"len_m":1763,"wid_m":30.48,"hdg":2,"surf":"Asphalt","rwy1":"02","lat1":-29.72138600,"lon1":-53.68868600,"rwy2":"20","lat2":-29.70549200,"lon2":-53.68786900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.85,"desc":"TWR"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":119.35,"desc":"APP"},
+{"type":"APP","freq":121.35,"desc":"APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SARL","name":"Paso De Los Libres","lat":-29.6894235,"lon":-57.152076,"rwys":1,"ils":0,"elev":230,"index":2002707,"path":"w060s30/w058s30"
+,"runways":[
+{"len_m":2261,"wid_m":44.81,"hdg":170,"surf":"Asphalt","rwy1":"18","lat1":-29.67935000,"lon1":-57.15393300,"rwy2":"36","lat2":-29.69949700,"lon2":-57.15021900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.3,"desc":"LIBRES TWR/APP"},
+{"type":"TWR","freq":118.5,"desc":"LIBRES TWR/APP"},
+{"type":"TWR","freq":118.1,"desc":"LIBRES TWR/APP"}
+]
+,"ils":[
+]
+}

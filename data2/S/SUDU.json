@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SUDU","name":"Santa Bernardina Intl","lat":-33.35956575,"lon":-56.50141025,"rwys":2,"ils":1,"elev":305,"index":2018857,"path":"w060s40/w057s34"
+,"runways":[
+{"len_m":2280,"wid_m":45.11,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":-33.36939400,"lon1":-56.50461900,"rwy2":"21","lat2":-33.35050300,"lon2":-56.49493300},
+{"len_m":1452,"wid_m":29.87,"hdg":86,"surf":"Asphalt","rwy1":"09","lat1":-33.35956900,"lon1":-56.51083300,"rwy2":"27","lat2":-33.35879700,"lon2":-56.49525600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":120.4,"desc":"DURAZNO TWR"},
+{"type":"TWR","freq":126.2,"desc":"DURAZNO TWR"},
+{"type":"APP","freq":120.4,"desc":"DURAZNO APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-33.37180600,"lon":-56.50588900,"rng_nm":18,"alt_fmsl":305,"hdg":203.25,"id":"IDUR","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-33.35386100,"lon":-56.49522200,"rng_nm":10,"alt_fmsl":305,"id":"IDUR","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-33.27038900,"lon":-56.45386100,"rng_nm":0,"alt_fmsl":305,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":-33.34316700,"lon":-56.49116700,"rng_nm":0,"alt_fmsl":305,"id":"----","rwy":"21","desc":"MM"}
+]
+}

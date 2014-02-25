@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"SBSJ","name":"Sao Jose Dos Campos","lat":-23.22427600,"lon":-45.86290400,"rwys":1,"ils":1,"elev":2120,"index":2199728,"path":"w050s30/w046s24"
+,"runways":[
+{"len_m":2660,"wid_m":45.11,"hdg":134,"surf":"Asphalt","rwy1":"15","lat1":-23.21968300,"lon1":-45.87193300,"rwy2":"33","lat2":-23.23665800,"lon2":-45.85354200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.9,"desc":"GND"},
+{"type":"TWR","freq":118.5,"desc":"TWR"},
+{"type":"APP","freq":119.25,"desc":"APP"},
+{"type":"APP","freq":129.05,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":-23.23950000,"lon":-45.85033300,"rng_nm":18,"alt_fmsl":2120,"hdg":134.95,"id":"ISJ","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":-23.22300000,"lon":-45.87083300,"rng_nm":10,"alt_fmsl":2120,"id":"ISJ","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-23.16450000,"lon":-45.93150000,"rng_nm":0,"alt_fmsl":2120,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":-23.21283300,"lon":-45.87950000,"rng_nm":0,"alt_fmsl":2120,"id":"----","rwy":"15","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":-23.23950000,"lon":-45.85033300,"rng_nm":18,"alt_fmsl":2120,"id":"ISJ","rwy":"15","desc":"DME-ILS"}
+]
+}
