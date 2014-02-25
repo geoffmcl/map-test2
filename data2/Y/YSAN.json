@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSAN","name":"Sandstone","lat":-27.98217424,"lon":119.28587566,"rwys":2,"ils":0,"elev":1727,"index":4902785,"path":"e110s30/e119s28"
+,"runways":[
+{"len_m":1196,"wid_m":121.01,"hdg":181,"surf":"Dirt","rwy1":"01","lat1":-27.97152914,"lon1":119.28723629,"rwy2":"19","lat2":-27.98232471,"lon2":119.28700185},
+{"len_m":1181,"wid_m":110.95,"hdg":272,"surf":"Dirt","rwy1":"10","lat1":-27.98304433,"lon1":119.29861513,"rwy2":"28","lat2":-27.98263674,"lon2":119.28661901}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"Sandstone MULT"}
+]
+,"ils":[
+]
+}

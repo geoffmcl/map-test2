@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YARA","name":"Ararat","lat":-37.30788460,"lon":142.98779972,"rwys":2,"ils":0,"elev":1006,"index":5279019,"path":"e140s40/e142s38"
+,"runways":[
+{"len_m":1238,"wid_m":21.95,"hdg":126,"surf":"Asphalt","rwy1":"12","lat1":-37.30813003,"lon1":142.98537982,"rwy2":"30","lat2":-37.31471753,"lon2":142.99666197},
+{"len_m":646,"wid_m":22.86,"hdg":55,"surf":"Turf/grass","rwy1":"04","lat1":-37.31094766,"lon1":142.98693219,"rwy2":"22","lat2":-37.30761404,"lon2":142.99290857}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.8,"desc":"YARA Traffic MULT"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPEC","name":"Aeropelican","lat":-33.06607979,"lon":151.65055872,"rwys":1,"ils":0,"elev":10,"index":5426746,"path":"e150s40/e151s34"
+,"runways":[
+{"len_m":876,"wid_m":13.11,"hdg":82,"surf":"Asphalt","rwy1":"07","lat1":-33.06644449,"lon1":151.64168593,"rwy2":"25","lat2":-33.06536371,"lon2":151.65097990}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126,"desc":"AEROPELICAN MULTICOM"},
+{"type":"TWR","freq":125.7,"desc":"BRISBANE CTR"}
+]
+,"ils":[
+]
+}

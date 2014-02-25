@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBRK","name":"Rockhampton","lat":-23.37695386,"lon":150.47739516,"rwys":2,"ils":0,"elev":34,"index":5410977,"path":"e150s30/e150s24"
+,"runways":[
+{"len_m":1643,"wid_m":31.09,"hdg":52,"surf":"Asphalt","rwy1":"04","lat1":-23.38242359,"lon1":150.46519416,"rwy2":"22","lat2":-23.37339102,"lon2":150.47794354},
+{"len_m":2626,"wid_m":45.11,"hdg":157,"surf":"Asphalt","rwy1":"15","lat1":-23.36870629,"lon1":150.47012862,"rwy2":"33","lat2":-23.39064986,"lon2":150.47988465}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.5,"desc":"ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"CTAF"},
+{"type":"GND","freq":121.8,"desc":"ROCKY GND"},
+{"type":"TWR","freq":118.1,"desc":"TWR"}
+]
+,"ils":[
+]
+}

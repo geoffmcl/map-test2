@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNBR","name":"Narrabri","lat":-30.31860140,"lon":149.82861429,"rwys":2,"ils":0,"elev":788,"index":5394155,"path":"e140s40/e149s31"
+,"runways":[
+{"len_m":1522,"wid_m":29.87,"hdg":13,"surf":"Asphalt","rwy1":"18","lat1":-30.32752638,"lon1":149.82393844,"rwy2":"36","lat2":-30.31415697,"lon2":149.82754261},
+{"len_m":1338,"wid_m":92.05,"hdg":95,"surf":"Turf/grass","rwy1":"09","lat1":-30.31341865,"lon1":149.82394036,"rwy2":"27","lat2":-30.31455818,"lon2":149.83779858}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

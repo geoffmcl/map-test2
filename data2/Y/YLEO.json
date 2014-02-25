@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLEO","name":"Leonora","lat":-28.87923980,"lon":121.31669140,"rwys":2,"ils":0,"elev":1217,"index":4935489,"path":"e120s30/e121s29"
+,"runways":[
+{"len_m":2015,"wid_m":29.87,"hdg":36,"surf":"Asphalt","rwy1":"04","lat1":-28.88912140,"lon1":121.30608811,"rwy2":"22","lat2":-28.87454860,"lon2":121.31844821},
+{"len_m":1260,"wid_m":49.99,"hdg":133,"surf":"Dirt","rwy1":"12","lat1":-28.87481795,"lon1":121.30804624,"rwy2":"30","lat2":-28.88259273,"lon2":121.31747852}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTQY","name":"Torquay","lat":-38.29268044,"lon":144.36443955,"rwys":3,"ils":0,"elev":30,"index":5311721,"path":"e140s40/e144s39"
+,"runways":[
+{"len_m":627,"wid_m":36.88,"hdg":141,"surf":"Turf/grass","rwy1":"13","lat1":-38.29180985,"lon1":144.36546132,"rwy2":"31","lat2":-38.29623155,"lon2":144.36993029},
+{"len_m":484,"wid_m":29.87,"hdg":99,"surf":"Turf/grass","rwy1":"09","lat1":-38.29577641,"lon1":144.36439300,"rwy2":"27","lat2":-38.29650634,"lon2":144.36985667},
+{"len_m":708,"wid_m":59.13,"hdg":9,"surf":"Turf/grass","rwy1":"18","lat1":-38.29830352,"lon1":144.36412123,"rwy2":"36","lat2":-38.29200352,"lon2":144.36540117}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

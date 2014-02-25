@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCTM","name":"Cootamundra","lat":-34.62849388,"lon":148.03393495,"rwys":2,"ils":0,"elev":1110,"index":5377488,"path":"e140s40/e148s35"
+,"runways":[
+{"len_m":1409,"wid_m":17.98,"hdg":173,"surf":"Asphalt","rwy1":"16","lat1":-34.61705035,"lon1":148.03567077,"rwy2":"34","lat2":-34.62967400,"lon2":148.03744600},
+{"len_m":973,"wid_m":81.08,"hdg":110,"surf":"Dirt","rwy1":"10","lat1":-34.62389078,"lon1":148.02817889,"rwy2":"28","lat2":-34.62691458,"lon2":148.03814435}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

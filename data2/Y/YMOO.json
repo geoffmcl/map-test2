@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMOO","name":"Mooraberree","lat":-25.23971411,"lon":140.98885827,"rwys":2,"ils":0,"elev":280,"index":5247027,"path":"e140s30/e140s26"
+,"runways":[
+{"len_m":1813,"wid_m":86.87,"hdg":66,"surf":"Dirt","rwy1":"05","lat1":-25.24545524,"lon1":140.97134633,"rwy2":"23","lat2":-25.23895674,"lon2":140.98786233},
+{"len_m":1133,"wid_m":71.93,"hdg":148,"surf":"Dirt","rwy1":"14","lat1":-25.23665174,"lon1":140.98502276,"rwy2":"32","lat2":-25.24536316,"lon2":140.99092461}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

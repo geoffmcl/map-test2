@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCEE","name":"Cleve","lat":-33.70886098,"lon":136.50099118,"rwys":2,"ils":0,"elev":589,"index":5180946,"path":"e130s40/e136s34"
+,"runways":[
+{"len_m":1348,"wid_m":17.98,"hdg":90,"surf":"Asphalt","rwy1":"08","lat1":-33.71024700,"lon1":136.49920800,"rwy2":"26","lat2":-33.71038900,"lon2":136.51375800},
+{"len_m":894,"wid_m":17.98,"hdg":181,"surf":"Dirt","rwy1":"18","lat1":-33.70768900,"lon1":136.50425600,"rwy2":"36","lat2":-33.71574700,"lon2":136.50398600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMCT","name":"Millicent","lat":-37.58460167,"lon":140.36904085,"rwys":2,"ils":0,"elev":56,"index":5246233,"path":"e140s40/e140s38"
+,"runways":[
+{"len_m":1195,"wid_m":17.98,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":-37.58350386,"lon1":140.35973434,"rwy2":"26","lat2":-37.58249472,"lon2":140.37320564},
+{"len_m":574,"wid_m":49.99,"hdg":150,"surf":"Turf/grass","rwy1":"15","lat1":-37.57826516,"lon1":140.36616514,"rwy2":"33","lat2":-37.58276708,"lon2":140.36937638}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

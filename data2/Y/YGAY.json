@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGAY","name":"Gayndah","lat":-25.61498385,"lon":151.61683273,"rwys":1,"ils":0,"elev":368,"index":5427226,"path":"e150s30/e151s26"
+,"runways":[
+{"len_m":1265,"wid_m":20.12,"hdg":65,"surf":"Asphalt","rwy1":"06","lat1":-25.61804024,"lon1":151.61503328,"rwy2":"24","lat2":-25.61327019,"lon2":151.62648184}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.1,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"GAYNDAH MULT"}
+]
+,"ils":[
+]
+}

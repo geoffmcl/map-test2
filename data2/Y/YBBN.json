@@ -1,0 +1,32 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBBN","name":"Brisbane Intl","lat":-27.38811200,"lon":153.11458000,"rwys":2,"ils":2,"elev":12,"index":5459872,"path":"e150s30/e153s28"
+,"runways":[
+{"len_m":3588,"wid_m":45.11,"hdg":27,"surf":"Asphalt","rwy1":"01","lat1":-27.40330800,"lon1":153.11795500,"rwy2":"19","lat2":-27.37446400,"lon2":153.13445100},
+{"len_m":1760,"wid_m":29.87,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":-27.35599500,"lon1":153.12418100,"rwy2":"32","lat2":-27.36908900,"lon2":153.13425300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.5,"desc":"YBBN ATIS"},
+{"type":"CLD","freq":118.6,"desc":"BRISBANE CLD"},
+{"type":"GND","freq":121.7,"desc":"BRISBANE GND"},
+{"type":"TWR","freq":120.5,"desc":"BRISBANE TWR"},
+{"type":"APP","freq":123.5,"desc":"BRISBANE APP"},
+{"type":"APP","freq":124.7,"desc":"BRISBANE APP"},
+{"type":"APP","freq":125.6,"desc":"BRISBANE APP"},
+{"type":"APP","freq":119.5,"desc":"BRISBANE APP"},
+{"type":"APP","freq":125.7,"desc":"BRISBANE APP"},
+{"type":"DEP","freq":124.35,"desc":"BRISBANE DEP"},
+{"type":"DEP","freq":124.7,"desc":"BRISBANE DEP"},
+{"type":"DEP","freq":125.6,"desc":"BRISBANE DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-27.37027800,"lon":153.13666700,"rng_nm":18,"alt_fmsl":28,"hdg":26.70,"id":"IBA","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.1,"lat":-27.41277800,"lon":153.11250000,"rng_nm":18,"alt_fmsl":49,"hdg":206.97,"id":"IBS","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-27.40083300,"lon":153.12138900,"rng_nm":10,"alt_fmsl":13,"id":"IBA","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":110.1,"lat":-27.37805600,"lon":153.13444400,"rng_nm":10,"alt_fmsl":13,"id":"IBS","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-27.45750000,"lon":153.08722200,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"01","desc":"OM"},
+{"type":"MM","freq":0,"lat":-27.41000000,"lon":153.11416700,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":-27.36750000,"lon":153.13833300,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"19","desc":"MM"}
+]
+}

@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YAMB","name":"Amberley Military","lat":-27.64068555,"lon":152.71014935,"rwys":4,"ils":1,"elev":87,"index":5443474,"path":"e150s30/e152s28"
+,"runways":[
+{"len_m":476,"wid_m":35.05,"hdg":102,"surf":"Turf/grass","rwy1":"10","lat1":-27.63476962,"lon1":152.71245512,"rwy2":"28","lat2":-27.63572993,"lon2":152.71716502},
+{"len_m":3185,"wid_m":46.02,"hdg":158,"surf":"Asphalt","rwy1":"15","lat1":-27.62119298,"lon1":152.70507569,"rwy2":"33","lat2":-27.64799443,"lon2":152.71674918},
+{"len_m":1523,"wid_m":46.02,"hdg":54,"surf":"Asphalt","rwy1":"04","lat1":-27.64461099,"lon1":152.70788851,"rwy2":"22","lat2":-27.63660200,"lon2":152.72043300},
+{"len_m":687,"wid_m":34.14,"hdg":158,"surf":"Turf/grass","rwy1":"15R","lat1":-27.63431187,"lon1":152.70928467,"rwy2":"33L","lat2":-27.64009384,"lon2":152.71181490}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.92,"desc":"AMBERLEY GND"},
+{"type":"TWR","freq":118.3,"desc":"AMBERLEY TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":-27.65000000,"lon":152.71777800,"rng_nm":18,"alt_fmsl":91,"hdg":158.66,"id":"IAM","rwy":"15","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":-27.62388900,"lon":152.70833300,"rng_nm":10,"alt_fmsl":84,"id":"IAM","rwy":"15","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-27.53916700,"lon":152.66888900,"rng_nm":0,"alt_fmsl":91,"id":"----","rwy":"15","desc":"OM"},
+{"type":"MM","freq":0,"lat":-27.61361100,"lon":152.70250000,"rng_nm":0,"alt_fmsl":91,"id":"----","rwy":"15","desc":"MM"}
+]
+}

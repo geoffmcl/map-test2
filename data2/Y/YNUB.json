@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNUB","name":"Nullarbor Motel","lat":-31.44208129,"lon":130.90189140,"rwys":3,"ils":0,"elev":220,"index":5082787,"path":"e130s40/e130s32"
+,"runways":[
+{"len_m":975,"wid_m":24.08,"hdg":106,"surf":"Dirt","rwy1":"10","lat1":-31.44076080,"lon1":130.90017393,"rwy2":"28","lat2":-31.44327100,"lon2":130.91000400},
+{"len_m":1053,"wid_m":24.99,"hdg":150,"surf":"Dirt","rwy1":"15","lat1":-31.43675600,"lon1":130.89932699,"rwy2":"33","lat2":-31.44506027,"lon2":130.90472082},
+{"len_m":862,"wid_m":25.91,"hdg":41,"surf":"Dirt","rwy1":"4","lat1":-31.44340173,"lon1":130.90009418,"rwy2":"22","lat2":-31.43754958,"lon2":130.90607923}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

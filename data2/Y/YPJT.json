@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPJT","name":"Jandakot","lat":-32.09547410,"lon":115.87699284,"rwys":3,"ils":0,"elev":99,"index":4836987,"path":"e110s40/e115s33"
+,"runways":[
+{"len_m":988,"wid_m":29.87,"hdg":114,"surf":"Asphalt","rwy1":"12","lat1":-32.09996601,"lon1":115.87247748,"rwy2":"30","lat2":-32.10364979,"lon2":115.88201977},
+{"len_m":1391,"wid_m":29.87,"hdg":54,"surf":"Asphalt","rwy1":"06L","lat1":-32.10060094,"lon1":115.87356691,"rwy2":"24R","lat2":-32.09329963,"lon2":115.88556105},
+{"len_m":1148,"wid_m":18.90,"hdg":54,"surf":"Asphalt","rwy1":"06R","lat1":-32.10087893,"lon1":115.87692633,"rwy2":"24L","lat2":-32.09486436,"lon2":115.88683147}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":15.85,"hdg":115,"surf":"Asphalt","lat1":-32.09708727,"lon1":115.87794972},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":115,"surf":"Asphalt","lat1":-32.09665053,"lon1":115.87867558}
+]
+,"radios":[
+{"type":"ATIS","freq":120.9,"desc":"YPJT ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"JANDAKOT MULTICOM"},
+{"type":"CTAF","freq":123.9,"desc":"ACTIVATE LIGHTS ONLY MULTICOM"},
+{"type":"CLD","freq":132.94,"desc":"PERTH CLNC"},
+{"type":"GND","freq":124.3,"desc":"JANDAKOT GND"},
+{"type":"TWR","freq":118.1,"desc":"JANDAKOT TWR"},
+{"type":"APP","freq":123.7,"desc":"PERTH APP"},
+{"type":"APP","freq":128.1,"desc":"PERTH APP"},
+{"type":"APP","freq":127.5,"desc":"PERTH APP"},
+{"type":"DEP","freq":118.7,"desc":"PERTH DEP"},
+{"type":"DEP","freq":128.1,"desc":"PERTH DEP"}
+]
+,"ils":[
+]
+}

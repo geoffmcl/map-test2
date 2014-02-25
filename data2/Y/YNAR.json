@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNAR","name":"Narrandera","lat":-34.70450567,"lon":146.51251997,"rwys":2,"ils":0,"elev":472,"index":5344722,"path":"e140s40/e146s35"
+,"runways":[
+{"len_m":1611,"wid_m":29.87,"hdg":143,"surf":"Asphalt","rwy1":"14","lat1":-34.69331300,"lon1":146.50545800,"rwy2":"32","lat2":-34.70504300,"lon2":146.51583200},
+{"len_m":1019,"wid_m":29.87,"hdg":53,"surf":"Dirt","rwy1":"05","lat1":-34.70362900,"lon1":146.50909300,"rwy2":"23","lat2":-34.69812700,"lon2":146.51800700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"NARRANDERA MULT"}
+]
+,"ils":[
+]
+}

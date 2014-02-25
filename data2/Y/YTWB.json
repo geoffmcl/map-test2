@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTWB","name":"Toowoomba","lat":-27.54452201,"lon":151.91800982,"rwys":2,"ils":0,"elev":2085,"index":5427099,"path":"e150s30/e151s28"
+,"runways":[
+{"len_m":1122,"wid_m":29.87,"hdg":116,"surf":"Asphalt","rwy1":"11","lat1":-27.54021531,"lon1":151.91198836,"rwy2":"29","lat2":-27.54479369,"lon2":151.92212245},
+{"len_m":779,"wid_m":49.99,"hdg":72,"surf":"Transparent","rwy1":"07","lat1":-27.54417182,"lon1":151.91052007,"rwy2":"25","lat2":-27.54206566,"lon2":151.91805380}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":121.2,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":127.65,"desc":"TOOWOOMBA MULT"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMTI","name":"Mornington Is","lat":-16.66226820,"lon":139.17007030,"rwys":2,"ils":0,"elev":33,"index":5231185,"path":"e130s20/e139s17"
+,"runways":[
+{"len_m":1517,"wid_m":29.87,"hdg":98,"surf":"Asphalt","rwy1":"09","lat1":-16.66051553,"lon1":139.16300776,"rwy2":"27","lat2":-16.66250647,"lon2":139.17708131},
+{"len_m":812,"wid_m":17.98,"hdg":134,"surf":"Gravel","rwy1":"12","lat1":-16.65674400,"lon1":139.16153900,"rwy2":"30","lat2":-16.66190000,"lon2":139.16695800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

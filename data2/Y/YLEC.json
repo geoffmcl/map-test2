@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLEC","name":"Leigh Creek","lat":-30.59765975,"lon":138.42167412,"rwys":2,"ils":0,"elev":856,"index":5213913,"path":"e130s40/e138s31"
+,"runways":[
+{"len_m":1707,"wid_m":29.87,"hdg":120,"surf":"Asphalt","rwy1":"11","lat1":-30.59571454,"lon1":138.42401515,"rwy2":"29","lat2":-30.60362019,"lon2":138.43930098},
+{"len_m":1224,"wid_m":25.91,"hdg":30,"surf":"Asphalt","rwy1":"2","lat1":-30.60380656,"lon1":138.42009467,"rwy2":"20","lat2":-30.59424399,"lon2":138.42648296}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"Leigh Creek UNICOM"}
+]
+,"ils":[
+]
+}

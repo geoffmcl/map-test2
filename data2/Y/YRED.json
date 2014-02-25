@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YRED","name":"Redcliffe","lat":-27.20617340,"lon":153.07403669,"rwys":1,"ils":0,"elev":6,"index":5459888,"path":"e150s30/e153s28"
+,"runways":[
+{"len_m":852,"wid_m":17.98,"hdg":76,"surf":"Asphalt","rwy1":"07","lat1":-27.20647007,"lon1":153.06447886,"rwy2":"25","lat2":-27.20469543,"lon2":153.07285459}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.98,"hdg":153,"surf":"Asphalt","lat1":-27.20612891,"lon1":153.07207344},
+{"rwy1":"H2","len_m":13,"wid_m":13.11,"hdg":153,"surf":"Concrete","lat1":-27.20642768,"lon1":153.07111126},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":153,"surf":"Concrete","lat1":-27.20639301,"lon1":153.07126719},
+{"rwy1":"H4","len_m":13,"wid_m":13.11,"hdg":153,"surf":"Asphalt","lat1":-27.20633119,"lon1":153.07141849},
+{"rwy1":"H5","len_m":13,"wid_m":13.11,"hdg":153,"surf":"Asphalt","lat1":-27.20629361,"lon1":153.07159704}
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.8,"desc":"REDCLIFFE UNIC"},
+{"type":"TWR","freq":125.7,"desc":"Brisbane CNTR"}
+]
+,"ils":[
+]
+}

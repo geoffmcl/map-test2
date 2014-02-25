@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMOR","name":"Moree","lat":-29.49608396,"lon":149.84983905,"rwys":2,"ils":0,"elev":701,"index":5394211,"path":"e140s30/e149s30"
+,"runways":[
+{"len_m":1608,"wid_m":29.87,"hdg":17,"surf":"Asphalt","rwy1":"01","lat1":-29.50625046,"lon1":149.84298765,"rwy2":"19","lat2":-29.49239254,"lon2":149.84791634},
+{"len_m":975,"wid_m":10.06,"hdg":58,"surf":"Asphalt","rwy1":"5","lat1":-29.50077650,"lon1":149.83651971,"rwy2":"23","lat2":-29.49615481,"lon2":149.84508390}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

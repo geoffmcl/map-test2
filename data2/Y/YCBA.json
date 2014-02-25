@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCBA","name":"Cobar","lat":-31.53738128,"lon":145.79770931,"rwys":2,"ils":0,"elev":724,"index":5328539,"path":"e140s40/e145s32"
+,"runways":[
+{"len_m":1519,"wid_m":29.87,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":-31.54156323,"lon1":145.78724995,"rwy2":"23","lat2":-31.53369177,"lon2":145.80034222},
+{"len_m":1221,"wid_m":29.87,"hdg":175,"surf":"Dirt","rwy1":"17","lat1":-31.53527600,"lon1":145.79455800,"rwy2":"35","lat2":-31.54625800,"lon2":145.79563600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"COBAR MULT"},
+{"type":"CTAF","freq":124.9,"desc":"MELBOURNE CENTRE MULT"}
+]
+,"ils":[
+]
+}

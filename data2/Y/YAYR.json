@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YAYR","name":"Ayr","lat":-19.59469500,"lon":147.32735300,"rwys":2,"ils":0,"elev":41,"index":5362074,"path":"e140s20/e147s20"
+,"runways":[
+{"len_m":1126,"wid_m":29.87,"hdg":114,"surf":"Turf/grass","rwy1":"11","lat1":-19.59506200,"lon1":147.31628500,"rwy2":"29","lat2":-19.59934800,"lon2":147.32602300},
+{"len_m":1457,"wid_m":29.87,"hdg":22,"surf":"Asphalt","rwy1":"01","lat1":-19.59943100,"lon1":147.32294400,"rwy2":"19","lat2":-19.58723500,"lon2":147.32816600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.55,"desc":"BRISBANE CNTR FSS"},
+{"type":"ATIS","freq":126.7,"desc":"CTAF FSS"},
+{"type":"CTAF","freq":122.1,"desc":"YAYR UNIC"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF CTAF"}
+]
+,"ils":[
+]
+}

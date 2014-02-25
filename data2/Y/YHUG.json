@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YHUG","name":"Hughenden","lat":-20.81641493,"lon":144.22718977,"rwys":2,"ils":0,"elev":1043,"index":5312841,"path":"e140s30/e144s21"
+,"runways":[
+{"len_m":1642,"wid_m":29.87,"hdg":127,"surf":"Asphalt","rwy1":"12","lat1":-20.80828068,"lon1":144.21865930,"rwy2":"30","lat2":-20.81738080,"lon2":144.23112004},
+{"len_m":1066,"wid_m":49.99,"hdg":65,"surf":"Dirt","rwy1":"6","lat1":-20.81873587,"lon1":144.21720136,"rwy2":"24","lat2":-20.81476860,"lon2":144.22653839}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

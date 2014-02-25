@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YOLD","name":"Olympic Dam","lat":-30.48333767,"lon":136.88408693,"rwys":1,"ils":0,"elev":343,"index":5181155,"path":"e130s40/e136s31"
+,"runways":[
+{"len_m":1590,"wid_m":20.12,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":-30.48734048,"lon1":136.86829395,"rwy2":"24","lat2":-30.48255033,"lon2":136.88390416}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":122,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"OLYMPIC DAM MULT"}
+]
+,"ils":[
+]
+}

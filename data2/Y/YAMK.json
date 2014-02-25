@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YAMK","name":"Andamooka","lat":-30.43750400,"lon":137.13895171,"rwys":2,"ils":0,"elev":250,"index":5197536,"path":"e130s40/e137s31"
+,"runways":[
+{"len_m":655,"wid_m":32.92,"hdg":159,"surf":"Dirt","rwy1":"15","lat1":-30.43324673,"lon1":137.13671438,"rwy2":"33","lat2":-30.43880119,"lon2":137.13906052},
+{"len_m":1205,"wid_m":35.05,"hdg":72,"surf":"Dirt","rwy1":"7","lat1":-30.44073159,"lon1":137.12858546,"rwy2":"25","lat2":-30.43752329,"lon2":137.14057387}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

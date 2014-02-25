@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YADD","name":"Arubiddy Station","lat":-31.81017309,"lon":125.92596742,"rwys":3,"ils":0,"elev":400,"index":5000843,"path":"e120s40/e125s32"
+,"runways":[
+{"len_m":1171,"wid_m":43.89,"hdg":148,"surf":"Dirt","rwy1":"16","lat1":-31.80920026,"lon1":125.91638010,"rwy2":"34","lat2":-31.81821023,"lon2":125.92284217},
+{"len_m":1107,"wid_m":32.92,"hdg":9,"surf":"Dirt","rwy1":"1","lat1":-31.81923534,"lon1":125.91720433,"rwy2":"19","lat2":-31.80939750,"lon2":125.91923388},
+{"len_m":1035,"wid_m":28.96,"hdg":69,"surf":"Dirt","rwy1":"07","lat1":-31.81591869,"lon1":125.91271626,"rwy2":"25","lat2":-31.81257246,"lon2":125.92292811}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"Insert comm name here MULT"}
+]
+,"ils":[
+]
+}

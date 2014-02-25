@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBKE","name":"Bourke","lat":-30.04088980,"lon":145.95089652,"rwys":2,"ils":0,"elev":352,"index":5328635,"path":"e140s40/e145s31"
+,"runways":[
+{"len_m":1120,"wid_m":49.99,"hdg":7,"surf":"Dirt","rwy1":"18","lat1":-30.04194435,"lon1":145.95544556,"rwy2":"36","lat2":-30.03191442,"lon2":145.95688297},
+{"len_m":1829,"wid_m":29.87,"hdg":62,"surf":"Asphalt","rwy1":"05","lat1":-30.04495055,"lon1":145.93661013,"rwy2":"23","lat2":-30.03735000,"lon2":145.95345100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPOD","name":"Portland","lat":-38.31659138,"lon":141.47067340,"rwys":2,"ils":0,"elev":264,"index":5262569,"path":"e140s40/e141s39"
+,"runways":[
+{"len_m":1616,"wid_m":29.87,"hdg":87,"surf":"Asphalt","rwy1":"08","lat1":-38.31935320,"lon1":141.46283951,"rwy2":"26","lat2":-38.31869530,"lon2":141.48130585},
+{"len_m":1185,"wid_m":24.99,"hdg":177,"surf":"Asphalt","rwy1":"17","lat1":-38.31349622,"lon1":141.46627580,"rwy2":"35","lat2":-38.32416847,"lon2":141.46691729}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":125.8,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"PORTLAND MULT"}
+]
+,"ils":[
+]
+}

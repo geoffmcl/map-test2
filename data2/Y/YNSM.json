@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNSM","name":"Norseman","lat":-32.20825245,"lon":121.75936123,"rwys":2,"ils":0,"elev":863,"index":4935283,"path":"e120s40/e121s33"
+,"runways":[
+{"len_m":1098,"wid_m":102.11,"hdg":42,"surf":"Dirt","rwy1":"04","lat1":-32.21568415,"lon1":121.75008716,"rwy2":"22","lat2":-32.20835115,"lon2":121.75792697},
+{"len_m":1413,"wid_m":85.95,"hdg":5,"surf":"Dirt","rwy1":"1","lat1":-32.21087278,"lon1":121.75639785,"rwy2":"19","lat2":-32.19817942,"lon2":121.75777176}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

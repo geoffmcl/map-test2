@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGFN","name":"Grafton","lat":-29.75966563,"lon":153.02859625,"rwys":1,"ils":0,"elev":110,"index":5459720,"path":"e150s30/e153s30"
+,"runways":[
+{"len_m":1706,"wid_m":29.87,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":-29.74710528,"lon1":153.03195983,"rwy2":"36","lat2":-29.76243722,"lon2":153.03035261}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"GRAFTON MULT"},
+{"type":"TWR","freq":122.6,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

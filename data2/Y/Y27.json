@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"Y27","name":"Standing Rock","lat":46.06637225,"lon":-100.6347825,"rwys":2,"ils":0,"elev":1633,"index":1303041,"path":"w110n40/w101n46"
+,"runways":[
+{"len_m":1127,"wid_m":18.29,"hdg":155,"surf":"Asphalt","rwy1":"14","lat1":46.07204800,"lon1":-100.63640100,"rwy2":"32","lat2":46.06284700,"lon2":-100.63025700},
+{"len_m":975,"wid_m":36.58,"hdg":65,"surf":"Turf/grass","rwy1":"05","lat1":46.06344700,"lon1":-100.64195300,"rwy2":"23","lat2":46.06714700,"lon2":-100.63051900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

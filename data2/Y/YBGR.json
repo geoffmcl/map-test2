@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBGR","name":"Bridgewater","lat":-36.61890967,"lon":143.95261309,"rwys":2,"ils":0,"elev":500,"index":5295451,"path":"e140s40/e143s37"
+,"runways":[
+{"len_m":1136,"wid_m":28.96,"hdg":90,"surf":"Turf/grass","rwy1":"09","lat1":-36.61945997,"lon1":143.94699323,"rwy2":"27","lat2":-36.61948347,"lon2":143.95969299},
+{"len_m":740,"wid_m":17.07,"hdg":175,"surf":"Turf/grass","rwy1":"18","lat1":-36.61840901,"lon1":143.94909894,"rwy2":"36","lat2":-36.62506135,"lon2":143.94968937}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.3,"desc":"CTAF - AFRU"}
+]
+,"ils":[
+]
+}

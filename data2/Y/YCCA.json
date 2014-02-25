@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCCA","name":"Chinchilla","lat":-26.76653000,"lon":150.61521600,"rwys":2,"ils":0,"elev":1028,"index":5410762,"path":"e150s30/e150s27"
+,"runways":[
+{"len_m":1068,"wid_m":17.98,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":-26.76813140,"lon1":150.61428146,"rwy2":"32","lat2":-26.77575704,"lon2":150.62085907},
+{"len_m":595,"wid_m":17.98,"hdg":38,"surf":"Dirt","rwy1":"03","lat1":-26.77214436,"lon1":150.61849266,"rwy2":"21","lat2":-26.76793964,"lon2":150.62222534}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

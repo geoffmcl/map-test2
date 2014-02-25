@@ -1,0 +1,33 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPAD","name":"Adelaide Intl","lat":-34.94774507,"lon":138.52808561,"rwys":2,"ils":1,"elev":20,"index":5213634,"path":"e130s40/e138s35"
+,"runways":[
+{"len_m":3101,"wid_m":46.02,"hdg":50,"surf":"Asphalt","rwy1":"05","lat1":-34.95852900,"lon1":138.51720042,"rwy2":"23","lat2":-34.94065900,"lon2":138.54330673},
+{"len_m":1651,"wid_m":46.02,"hdg":123,"surf":"Asphalt","rwy1":"12","lat1":-34.94117850,"lon1":138.52191000,"rwy2":"30","lat2":-34.94939000,"lon2":138.53698400}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":138,"surf":"Concrete","lat1":-34.93518312,"lon1":138.53192488},
+{"rwy1":"H2","len_m":39,"wid_m":41.15,"hdg":138,"surf":"Concrete","lat1":-34.94658683,"lon1":138.52277413}
+]
+,"radios":[
+{"type":"ATIS","freq":134.5,"desc":"YPAD ATIS"},
+{"type":"CLD","freq":126.1,"desc":"ADELAIDE CLD"},
+{"type":"GND","freq":121.7,"desc":"ADELAIDE GND"},
+{"type":"TWR","freq":120.5,"desc":"ADELAIDE TWR"},
+{"type":"APP","freq":118.2,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":123.05,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":124.2,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":128.6,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":130.44,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":125.3,"desc":"ADELAIDE APP"},
+{"type":"APP","freq":127.05,"desc":"ADELAIDE APP"},
+{"type":"DEP","freq":118.2,"desc":"ADELAIDE APPROACH DEP"},
+{"type":"DEP","freq":124.2,"desc":"ADELAIDE DEP"},
+{"type":"DEP","freq":128.6,"desc":"ADELAIDE DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-34.95987200,"lon":138.51525500,"rng_nm":18,"alt_fmsl":20,"hdg":230.13,"id":"IAD","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-34.94353485,"lon":138.54162598,"rng_nm":10,"alt_fmsl":20,"id":"IAD","rwy":"23","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-34.89852200,"lon":138.60387500,"rng_nm":0,"alt_fmsl":20,"id":"----","rwy":"23","desc":"OM"},
+{"type":"MM","freq":0,"lat":-34.93480300,"lon":138.55173600,"rng_nm":0,"alt_fmsl":20,"id":"----","rwy":"23","desc":"MM"}
+]
+}

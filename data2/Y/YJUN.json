@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YJUN","name":"Jundee","lat":-26.41914757,"lon":120.58811655,"rwys":1,"ils":0,"elev":1845,"index":4919266,"path":"e120s30/e120s27"
+,"runways":[
+{"len_m":2095,"wid_m":29.87,"hdg":83,"surf":"Transparent","rwy1":"08","lat1":-26.42297609,"lon1":120.56749775,"rwy2":"26","lat2":-26.42068291,"lon2":120.58835264}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.7,"desc":"CTAF FSS"},
+{"type":"ATIS","freq":118.95,"desc":"MELBOURNE CNTR FSS"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF CTAF"}
+]
+,"ils":[
+]
+}

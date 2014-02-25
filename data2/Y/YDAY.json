@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDAY","name":"Dalby","lat":-27.16370298,"lon":151.26589263,"rwys":2,"ils":0,"elev":1137,"index":5427121,"path":"e150s30/e151s28"
+,"runways":[
+{"len_m":1267,"wid_m":22.86,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":-27.15413588,"lon1":151.25914263,"rwy2":"31","lat2":-27.16265400,"lon2":151.26767300},
+{"len_m":915,"wid_m":17.98,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":-27.16118302,"lon1":151.25999971,"rwy2":"22","lat2":-27.15560005,"lon2":151.26680377}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

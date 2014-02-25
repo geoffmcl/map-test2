@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWKI","name":"Waikerie","lat":-34.18417071,"lon":140.02648485,"rwys":2,"ils":0,"elev":138,"index":5246448,"path":"e140s40/e140s35"
+,"runways":[
+{"len_m":960,"wid_m":17.98,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":-34.18710253,"lon1":140.02374227,"rwy2":"26","lat2":-34.18633647,"lon2":140.03411868},
+{"len_m":893,"wid_m":17.98,"hdg":23,"surf":"Gravel","rwy1":"02","lat1":-34.18355600,"lon1":140.03098600,"rwy2":"20","lat2":-34.17615072,"lon2":140.03480687}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWLG","name":"Walgett","lat":-30.03202217,"lon":148.12237696,"rwys":2,"ils":0,"elev":439,"index":5377784,"path":"e140s40/e148s31"
+,"runways":[
+{"len_m":1625,"wid_m":29.87,"hdg":58,"surf":"Asphalt","rwy1":"05","lat1":-30.03732798,"lon1":148.11825194,"rwy2":"23","lat2":-30.02956402,"lon2":148.13254828},
+{"len_m":1162,"wid_m":29.87,"hdg":10,"surf":"Transparent","rwy1":"18","lat1":-30.03687067,"lon1":148.12415937,"rwy2":"36","lat2":-30.02655765,"lon2":148.12634568}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"WALGETT MULT"},
+{"type":"TWR","freq":127.1,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

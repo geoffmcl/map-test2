@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGDO","name":"Gundaroo","lat":-35.04505418,"lon":149.25782000,"rwys":2,"ils":0,"elev":1895,"index":5393849,"path":"e140s40/e149s36"
+,"runways":[
+{"len_m":1098,"wid_m":13.11,"hdg":8,"surf":"Asphalt","rwy1":"18","lat1":-35.05487538,"lon1":149.25489351,"rwy2":"36","lat2":-35.04507312,"lon2":149.25661894},
+{"len_m":423,"wid_m":28.04,"hdg":101,"surf":"Turf/grass","rwy1":"09","lat1":-35.05450465,"lon1":149.25540703,"rwy2":"27","lat2":-35.05524627,"lon2":149.25995531}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"GUNDAROO TRAFFIC MULT"},
+{"type":"TWR","freq":124.5,"desc":"CANBERRA APPROACH CNTR"}
+]
+,"ils":[
+]
+}

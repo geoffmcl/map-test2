@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGIL","name":"Gilgandra","lat":-31.69888420,"lon":148.63407341,"rwys":2,"ils":0,"elev":1050,"index":5377682,"path":"e140s40/e148s32"
+,"runways":[
+{"len_m":1214,"wid_m":34.14,"hdg":162,"surf":"Gravel","rwy1":"15","lat1":-31.69134846,"lon1":148.63434984,"rwy2":"33","lat2":-31.70177797,"lon2":148.63826182},
+{"len_m":705,"wid_m":49.07,"hdg":93,"surf":"Turf/grass","rwy1":"08","lat1":-31.69693450,"lon1":148.63352233,"rwy2":"26","lat2":-31.69732213,"lon2":148.64094904}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

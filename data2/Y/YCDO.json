@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCDO","name":"Condobolin","lat":-33.06981234,"lon":147.21281931,"rwys":2,"ils":0,"elev":650,"index":5361208,"path":"e140s40/e147s34"
+,"runways":[
+{"len_m":1370,"wid_m":29.87,"hdg":24,"surf":"Asphalt","rwy1":"01","lat1":-33.07019527,"lon1":147.21063920,"rwy2":"19","lat2":-33.05895800,"lon2":147.21673200},
+{"len_m":1338,"wid_m":92.96,"hdg":104,"surf":"Dirt","rwy1":"10","lat1":-33.06290069,"lon1":147.19904353,"rwy2":"28","lat2":-33.06595526,"lon2":147.21290708}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

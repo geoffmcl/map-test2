@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCOR","name":"Corowa","lat":-35.98884719,"lon":146.35570455,"rwys":2,"ils":0,"elev":469,"index":5344641,"path":"e140s40/e146s36"
+,"runways":[
+{"len_m":1480,"wid_m":29.87,"hdg":144,"surf":"Asphalt","rwy1":"14","lat1":-35.98309700,"lon1":146.34642499,"rwy2":"32","lat2":-35.99390853,"lon2":146.35604053},
+{"len_m":1826,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":-36.00082200,"lon1":146.34466400,"rwy2":"23","lat2":-35.99118100,"lon2":146.36108300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNAP","name":"Nappa Merrie","lat":-27.54969452,"lon":141.15680382,"rwys":2,"ils":0,"elev":180,"index":5263256,"path":"e140s30/e141s28"
+,"runways":[
+{"len_m":1106,"wid_m":96.01,"hdg":57,"surf":"Dirt","rwy1":"05","lat1":-27.55045678,"lon1":141.15806570,"rwy2":"23","lat2":-27.54502504,"lon2":141.16746343},
+{"len_m":1170,"wid_m":49.99,"hdg":148,"surf":"Dirt","rwy1":"14","lat1":-27.54407291,"lon1":141.15475767,"rwy2":"32","lat2":-27.55303782,"lon2":141.16102697}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

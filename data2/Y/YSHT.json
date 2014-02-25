@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSHT","name":"Shepparton","lat":-36.42679683,"lon":145.39063640,"rwys":2,"ils":0,"elev":374,"index":5328225,"path":"e140s40/e145s37"
+,"runways":[
+{"len_m":1302,"wid_m":17.98,"hdg":190,"surf":"Asphalt","rwy1":"18","lat1":-36.42123124,"lon1":145.39315995,"rwy2":"36","lat2":-36.43277074,"lon2":145.39050188},
+{"len_m":572,"wid_m":32.92,"hdg":99,"surf":"Gravel","rwy1":"9","lat1":-36.42940292,"lon1":145.39040749,"rwy2":"27","lat2":-36.43026761,"lon2":145.39670036}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.8,"desc":"Unicom"}
+]
+,"ils":[
+]
+}

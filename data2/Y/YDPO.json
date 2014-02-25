@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDPO","name":"Devonport","lat":-41.17164920,"lon":146.42766084,"rwys":2,"ils":0,"elev":33,"index":5344305,"path":"e140s50/e146s42"
+,"runways":[
+{"len_m":1837,"wid_m":45.11,"hdg":76,"surf":"Asphalt","rwy1":"06","lat1":-41.16973454,"lon1":146.41910799,"rwy2":"24","lat2":-41.16574646,"lon2":146.44035619},
+{"len_m":1000,"wid_m":42.06,"hdg":155,"surf":"Turf/grass","rwy1":"15","lat1":-41.16519102,"lon1":146.42827028,"rwy2":"33","lat2":-41.17342001,"lon2":146.43313187}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"TWR","freq":126.8,"desc":"DEVONPORT TWR"},
+{"type":"TWR","freq":120.7,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

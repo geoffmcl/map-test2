@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPGV","name":"Gove","lat":-12.27008517,"lon":136.82209808,"rwys":1,"ils":0,"elev":179,"index":5182318,"path":"e130s20/e136s13"
+,"runways":[
+{"len_m":2207,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-12.26281404,"lon1":136.80978907,"rwy2":"31","lat2":-12.27561780,"lon2":136.82534942}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":125,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":127.8,"desc":"NHULUNBUY MULT"}
+]
+,"ils":[
+]
+}

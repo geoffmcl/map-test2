@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMRY","name":"Moruya","lat":-35.90263653,"lon":150.14662418,"rwys":2,"ils":0,"elev":14,"index":5410176,"path":"e150s40/e150s36"
+,"runways":[
+{"len_m":1485,"wid_m":29.87,"hdg":11,"surf":"Asphalt","rwy1":"18","lat1":-35.90226950,"lon1":150.14493250,"rwy2":"36","lat2":-35.88917000,"lon2":150.14835000},
+{"len_m":563,"wid_m":17.98,"hdg":56,"surf":"Asphalt","rwy1":"05","lat1":-35.90373140,"lon1":150.14013367,"rwy2":"23","lat2":-35.90090146,"lon2":150.14531326}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.8,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"MORUYA UNIC"}
+]
+,"ils":[
+]
+}

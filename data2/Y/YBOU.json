@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBOU","name":"Boulia","lat":-22.91166772,"lon":139.90290451,"rwys":2,"ils":0,"elev":542,"index":5230787,"path":"e130s30/e139s23"
+,"runways":[
+{"len_m":1276,"wid_m":29.87,"hdg":149,"surf":"Asphalt","rwy1":"14","lat1":-22.90750551,"lon1":139.89756137,"rwy2":"32","lat2":-22.91744449,"lon2":139.90385663},
+{"len_m":879,"wid_m":66.14,"hdg":21,"surf":"Dirt","rwy1":"2","lat1":-22.91264521,"lon1":139.89903008,"rwy2":"20","lat2":-22.90525037,"lon2":139.90216243}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

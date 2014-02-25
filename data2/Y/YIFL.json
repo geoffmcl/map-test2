@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YIFL","name":"Innisfail","lat":-17.55987727,"lon":146.01503025,"rwys":2,"ils":0,"elev":46,"index":5345816,"path":"e140s20/e146s18"
+,"runways":[
+{"len_m":1380,"wid_m":29.87,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":-17.55422120,"lon1":146.00714840,"rwy2":"32","lat2":-17.56393402,"lon2":146.01531397},
+{"len_m":1467,"wid_m":49.99,"hdg":35,"surf":"Turf/grass","rwy1":"3","lat1":-17.56480986,"lon1":146.00845080,"rwy2":"21","lat2":-17.55402208,"lon2":146.01648089}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

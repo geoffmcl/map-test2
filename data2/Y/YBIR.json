@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBIR","name":"Birchip","lat":-35.99854638,"lon":142.91327277,"rwys":2,"ils":0,"elev":341,"index":5279107,"path":"e140s40/e142s36"
+,"runways":[
+{"len_m":1044,"wid_m":17.98,"hdg":51,"surf":"Asphalt","rwy1":"3","lat1":-36.00040661,"lon1":142.91389640,"rwy2":"21","lat2":-35.99457537,"lon2":142.92299009},
+{"len_m":646,"wid_m":49.99,"hdg":97,"surf":"Turf/grass","rwy1":"9","lat1":-36.00050831,"lon1":142.91450008,"rwy2":"27","lat2":-36.00123574,"lon2":142.92161776}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

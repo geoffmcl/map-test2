@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGLO","name":"Glenormiston","lat":-22.88875720,"lon":138.82546249,"rwys":2,"ils":0,"elev":519,"index":5214403,"path":"e130s30/e138s23"
+,"runways":[
+{"len_m":690,"wid_m":98.15,"hdg":82,"surf":"Dirt","rwy1":"8","lat1":-22.88956018,"lon1":138.81829493,"rwy2":"26","lat2":-22.88873576,"lon2":138.82496975},
+{"len_m":1349,"wid_m":96.93,"hdg":167,"surf":"Dirt","rwy1":"16","lat1":-22.88273647,"lon1":138.82007409,"rwy2":"34","lat2":-22.89462141,"lon2":138.82298917}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

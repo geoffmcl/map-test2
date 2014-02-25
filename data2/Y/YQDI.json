@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YQDI","name":"Quirindi","lat":-31.49468665,"lon":150.52251897,"rwys":2,"ils":0,"elev":1054,"index":5410466,"path":"e150s40/e150s32"
+,"runways":[
+{"len_m":1104,"wid_m":17.07,"hdg":65,"surf":"Asphalt","rwy1":"06","lat1":-31.50152035,"lon1":150.51322765,"rwy2":"24","lat2":-31.49738923,"lon2":150.52381019},
+{"len_m":1767,"wid_m":29.87,"hdg":139,"surf":"Transparent","rwy1":"14","lat1":-31.49088708,"lon1":150.51442735,"rwy2":"32","lat2":-31.50301892,"lon2":150.52649366}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

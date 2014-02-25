@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLSM","name":"Lismore","lat":-37.92804202,"lon":143.34958265,"rwys":2,"ils":0,"elev":654,"index":5295361,"path":"e140s40/e143s38"
+,"runways":[
+{"len_m":716,"wid_m":29.87,"hdg":89,"surf":"Turf/grass","rwy1":"08","lat1":-37.92711400,"lon1":143.34219503,"rwy2":"26","lat2":-37.92702400,"lon2":143.35034800},
+{"len_m":628,"wid_m":29.87,"hdg":164,"surf":"Turf/grass","rwy1":"15","lat1":-37.92639072,"lon1":143.34594411,"rwy2":"33","lat2":-37.93184400,"lon2":143.34787000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

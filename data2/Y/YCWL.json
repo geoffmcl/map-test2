@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCWL","name":"Cowell","lat":-33.66937725,"lon":136.89307975,"rwys":3,"ils":0,"elev":127,"index":5180947,"path":"e130s40/e136s34"
+,"runways":[
+{"len_m":1181,"wid_m":89.92,"hdg":127,"surf":"Dirt","rwy1":"12","lat1":-33.66348267,"lon1":136.88744861,"rwy2":"30","lat2":-33.67001057,"lon2":136.89751260},
+{"len_m":1593,"wid_m":89.92,"hdg":176,"surf":"Dirt","rwy1":"17","lat1":-33.66073700,"lon1":136.88810104,"rwy2":"35","lat2":-33.67508466,"lon2":136.88902948},
+{"len_m":1311,"wid_m":84.12,"hdg":45,"surf":"Dirt","rwy1":"04","lat1":-33.67178921,"lon1":136.88752584,"rwy2":"22","lat2":-33.66348384,"lon2":136.89759188}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.9,"desc":"MELBOURNE CENTRE MULTICOM"}
+]
+,"ils":[
+]
+}

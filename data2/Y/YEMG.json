@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YEMG","name":"Eromanga","lat":-26.71039245,"lon":143.26283214,"rwys":2,"ils":0,"elev":545,"index":5296081,"path":"e140s30/e143s27"
+,"runways":[
+{"len_m":955,"wid_m":74.98,"hdg":97,"surf":"Dirt","rwy1":"10","lat1":-26.71172326,"lon1":143.26072938,"rwy2":"28","lat2":-26.71286581,"lon2":143.27024533},
+{"len_m":1569,"wid_m":92.05,"hdg":186,"surf":"Dirt","rwy1":"18","lat1":-26.69782674,"lon1":143.26301282,"rwy2":"36","lat2":-26.71189817,"lon2":143.26118450}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

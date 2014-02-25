@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLIL","name":"Lilydale","lat":-37.69314018,"lon":145.36861587,"rwys":2,"ils":0,"elev":237,"index":5328145,"path":"e140s40/e145s38"
+,"runways":[
+{"len_m":857,"wid_m":46.02,"hdg":8,"surf":"Turf/grass","rwy1":"18L","lat1":-37.69854299,"lon1":145.36644286,"rwy2":"36R","lat2":-37.69089658,"lon2":145.36785259},
+{"len_m":856,"wid_m":25.91,"hdg":188,"surf":"Turf/grass","rwy1":"18R","lat1":-37.69075800,"lon1":145.36673500,"rwy2":"36L","lat2":-37.69839600,"lon2":145.36533293}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"LILYDALE MULT"},
+{"type":"APP","freq":135.69,"desc":"MELBOURNE APP"}
+]
+,"ils":[
+]
+}

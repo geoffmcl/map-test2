@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPNG","name":"Penong","lat":-31.92694937,"lon":133.00610445,"rwys":3,"ils":0,"elev":82,"index":5131904,"path":"e130s40/e133s32"
+,"runways":[
+{"len_m":617,"wid_m":49.99,"hdg":0,"surf":"Turf/grass","rwy1":"1","lat1":-31.92613649,"lon1":133.00122432,"rwy2":"19","lat2":-31.92056627,"lon2":133.00126657},
+{"len_m":995,"wid_m":49.07,"hdg":138,"surf":"Turf/grass","rwy1":"13","lat1":-31.92018379,"lon1":132.99861812,"rwy2":"31","lat2":-31.92689736,"lon2":133.00559956},
+{"len_m":978,"wid_m":49.99,"hdg":59,"surf":"Turf/grass","rwy1":"5","lat1":-31.92455217,"lon1":132.99682355,"rwy2":"23","lat2":-31.92004579,"lon2":133.00572376}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSWB","name":"Swan Bay","lat":-29.049098,"lon":153.30093802,"rwys":1,"ils":0,"elev":14,"index":5459769,"path":"e150s30/e153s30"
+,"runways":[
+{"len_m":466,"wid_m":4.88,"hdg":303,"surf":"Asphalt","rwy1":"11","lat1":-29.05025101,"lon1":153.30294202,"rwy2":"29","lat2":-29.04794499,"lon2":153.29893403}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.3,"desc":"BRISBANE CNTR FSS"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF CTAF"}
+]
+,"ils":[
+]
+}

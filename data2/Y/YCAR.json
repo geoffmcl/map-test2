@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCAR","name":"Carnarvon","lat":-24.88344847,"lon":113.66416012,"rwys":2,"ils":0,"elev":13,"index":4804674,"path":"e110s30/e113s25"
+,"runways":[
+{"len_m":1638,"wid_m":29.87,"hdg":43,"surf":"Asphalt","rwy1":"04","lat1":-24.88668600,"lon1":113.66393900,"rwy2":"22","lat2":-24.87594009,"lon2":113.67508759},
+{"len_m":1171,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":-24.87884993,"lon1":113.66628657,"rwy2":"36","lat2":-24.88942748,"lon2":113.66644377}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

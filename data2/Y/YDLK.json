@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDLK","name":"Dulkaninna","lat":-29.01966900,"lon":138.47950700,"rwys":2,"ils":0,"elev":112,"index":5214009,"path":"e130s30/e138s30"
+,"runways":[
+{"len_m":1363,"wid_m":36.88,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":-29.00801687,"lon1":138.48056000,"rwy2":"36","lat2":-29.02031913,"lon2":138.48056000},
+{"len_m":999,"wid_m":29.87,"hdg":275,"surf":"Dirt","rwy1":"09","lat1":-29.01635307,"lon1":138.48677750,"rwy2":"27","lat2":-29.01541493,"lon2":138.47657050}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

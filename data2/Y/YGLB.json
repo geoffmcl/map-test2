@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGLB","name":"Goulburn","lat":-34.80657267,"lon":149.73330626,"rwys":2,"ils":0,"elev":2141,"index":5393866,"path":"e140s40/e149s35"
+,"runways":[
+{"len_m":1279,"wid_m":29.87,"hdg":47,"surf":"Asphalt","rwy1":"04","lat1":-34.81319866,"lon1":149.72149841,"rwy2":"22","lat2":-34.80543100,"lon2":149.73183100},
+{"len_m":729,"wid_m":86.87,"hdg":91,"surf":"Dirt","rwy1":"08","lat1":-34.80964640,"lon1":149.72714337,"rwy2":"26","lat2":-34.80986544,"lon2":149.73511287}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.15,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

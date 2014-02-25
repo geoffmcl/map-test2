@@ -1,0 +1,36 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPDN","name":"Darwin Intl","lat":-12.40937463,"lon":130.88150096,"rwys":2,"ils":1,"elev":102,"index":5084007,"path":"e130s20/e130s13"
+,"runways":[
+{"len_m":3352,"wid_m":60.05,"hdg":108,"surf":"Asphalt","rwy1":"11","lat1":-12.40943900,"lon1":130.86527900,"rwy2":"29","lat2":-12.41925900,"lon2":130.89445100},
+{"len_m":1524,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":-12.40888800,"lon1":130.87067200,"rwy2":"36","lat2":-12.42267000,"lon2":130.87070800}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":130,"surf":"Concrete","lat1":-12.41282100,"lon1":130.88553100},
+{"rwy1":"H10","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41179400,"lon1":130.88645100},
+{"rwy1":"H11","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41201000,"lon1":130.88637600},
+{"rwy1":"H2","len_m":14,"wid_m":14.02,"hdg":130,"surf":"Asphalt","lat1":-12.41366600,"lon1":130.86940000},
+{"rwy1":"H3","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41173100,"lon1":130.88535000},
+{"rwy1":"H4","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41179100,"lon1":130.88560200},
+{"rwy1":"H5","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41153600,"lon1":130.88569200},
+{"rwy1":"H6","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41141100,"lon1":130.88546400},
+{"rwy1":"H7","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41157400,"lon1":130.88540600},
+{"rwy1":"H8","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41171300,"lon1":130.88621400},
+{"rwy1":"H9","len_m":4,"wid_m":4.88,"hdg":130,"surf":"Asphalt","lat1":-12.41193100,"lon1":130.88613800}
+]
+,"radios":[
+{"type":"CLD","freq":126.8,"desc":"DARWIN CLD"},
+{"type":"GND","freq":119.55,"desc":"DARWIN GND"},
+{"type":"GND","freq":121.8,"desc":"DARWIN GND"},
+{"type":"TWR","freq":133.1,"desc":"DARWIN TWR"},
+{"type":"APP","freq":123,"desc":"DARWIN TRAFFIC APP"},
+{"type":"APP","freq":134.1,"desc":"DARWIN APP"},
+{"type":"APP","freq":125.2,"desc":"DARWIN APP"},
+{"type":"DEP","freq":134.1,"desc":"DARWIN DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.7,"lat":-12.40861100,"lon":130.86277800,"rng_nm":18,"alt_fmsl":103,"hdg":289.00,"id":"IDN","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.7,"lat":-12.41666700,"lon":130.89111100,"rng_nm":10,"alt_fmsl":103,"id":"IDN","rwy":"29","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-12.44000000,"lon":130.95472200,"rng_nm":0,"alt_fmsl":105,"id":"----","rwy":"29","desc":"OM"},
+{"type":"MM","freq":0,"lat":-12.42250000,"lon":130.90361100,"rng_nm":0,"alt_fmsl":103,"id":"----","rwy":"29","desc":"MM"}
+]
+}

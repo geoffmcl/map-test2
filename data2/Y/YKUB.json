@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YKUB","name":"Kubin","lat":-10.22883403,"lon":142.22339050,"rwys":1,"ils":0,"elev":14,"index":5280753,"path":"e140s20/e142s11"
+,"runways":[
+{"len_m":998,"wid_m":17.98,"hdg":114,"surf":"Asphalt","rwy1":"11","lat1":-10.22448679,"lon1":142.21561057,"rwy2":"29","lat2":-10.22819689,"lon2":142.22392148}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.3,"desc":"Brisbane Centre MULT"},
+{"type":"CTAF","freq":126.5,"desc":"Kubin MULT"}
+]
+,"ils":[
+]
+}

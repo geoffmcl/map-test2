@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMAY","name":"Albury Airport","lat":-36.06990400,"lon":146.95324200,"rwys":1,"ils":0,"elev":539,"index":5344635,"path":"e140s40/e146s37"
+,"runways":[
+{"len_m":1900,"wid_m":29.87,"hdg":81,"surf":"Asphalt","rwy1":"07","lat1":-36.06807905,"lon1":146.94891738,"rwy2":"25","lat2":-36.06544095,"lon2":146.96975845}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":13.11,"hdg":146,"surf":"Concrete","lat1":-36.06934797,"lon1":146.95260143},
+{"rwy1":"H2","len_m":13,"wid_m":13.11,"hdg":146,"surf":"Concrete","lat1":-36.06903950,"lon1":146.95253081},
+{"rwy1":"H3","len_m":13,"wid_m":13.11,"hdg":146,"surf":"Concrete","lat1":-36.06940406,"lon1":146.95218015},
+{"rwy1":"H4","len_m":13,"wid_m":13.11,"hdg":146,"surf":"Concrete","lat1":-36.06909759,"lon1":146.95211200}
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.2,"desc":"ALBURY MULT"},
+{"type":"TWR","freq":124.2,"desc":"ALBURY TWR"},
+{"type":"TWR","freq":125.2,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

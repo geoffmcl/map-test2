@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNRB","name":"Narembeen","lat":-32.10712748,"lon":118.40587556,"rwys":2,"ils":0,"elev":1000,"index":4886137,"path":"e110s40/e118s33"
+,"runways":[
+{"len_m":811,"wid_m":49.99,"hdg":9,"surf":"Dirt","rwy1":"01","lat1":-32.11468790,"lon1":118.40563470,"rwy2":"19","lat2":-32.10748364,"lon2":118.40711848},
+{"len_m":1079,"wid_m":36.88,"hdg":74,"surf":"Dirt","rwy1":"08","lat1":-32.10978875,"lon1":118.39713499,"rwy2":"26","lat2":-32.10723200,"lon2":118.40816856}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

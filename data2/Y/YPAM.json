@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPAM","name":"Palm Island","lat":-18.75192436,"lon":146.57986766,"rwys":1,"ils":0,"elev":29,"index":5345740,"path":"e140s20/e146s19"
+,"runways":[
+{"len_m":1134,"wid_m":17.98,"hdg":142,"surf":"Asphalt","rwy1":"14","lat1":-18.75104563,"lon1":146.57817083,"rwy2":"32","lat2":-18.75919937,"lon2":146.58468325}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"TWR","freq":120.55,"desc":"BRISBANE CNTR"},
+{"type":"APP","freq":126.8,"desc":"TOWNSVILLE APP"}
+]
+,"ils":[
+]
+}

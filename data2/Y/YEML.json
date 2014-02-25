@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YEML","name":"Emerald","lat":-23.56910308,"lon":148.17464491,"rwys":2,"ils":0,"elev":623,"index":5378200,"path":"e140s30/e148s24"
+,"runways":[
+{"len_m":1898,"wid_m":29.87,"hdg":70,"surf":"Asphalt","rwy1":"06","lat1":-23.57206962,"lon1":148.17102748,"rwy2":"24","lat2":-23.56634838,"lon2":148.18855694},
+{"len_m":702,"wid_m":18.90,"hdg":151,"surf":"Asphalt","rwy1":"15","lat1":-23.56469663,"lon1":148.17475906,"rwy2":"33","lat2":-23.57027405,"lon2":148.17803731}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":122.3,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"EMRALD MULT"}
+]
+,"ils":[
+]
+}

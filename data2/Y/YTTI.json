@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTTI","name":"Troughton I","lat":-13.75299822,"lon":126.14840607,"rwys":1,"ils":0,"elev":27,"index":5018377,"path":"e120s20/e126s14"
+,"runways":[
+{"len_m":1096,"wid_m":45.11,"hdg":147,"surf":"Gravel","rwy1":"14","lat1":-13.74791262,"lon1":126.14616467,"rwy2":"32","lat2":-13.75622988,"lon2":126.15168298}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":126,"surf":"Concrete","lat1":-13.75291183,"lon1":126.14854520},
+{"rwy1":"H2","len_m":10,"wid_m":10.06,"hdg":126,"surf":"Concrete","lat1":-13.75259871,"lon1":126.14833510},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":126,"surf":"Concrete","lat1":-13.75230116,"lon1":126.14813623}
+]
+,"radios":[
+{"type":"CTAF","freq":128,"desc":"NORTH KIMBERLEY MULT"},
+{"type":"TWR","freq":132.9,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

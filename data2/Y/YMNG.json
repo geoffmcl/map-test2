@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMNG","name":"Mangalore","lat":-36.88935166,"lon":145.18508438,"rwys":2,"ils":0,"elev":467,"index":5328192,"path":"e140s40/e145s37"
+,"runways":[
+{"len_m":1453,"wid_m":24.99,"hdg":8,"surf":"Asphalt","rwy1":"01","lat1":-36.89576177,"lon1":145.18732154,"rwy2":"19","lat2":-36.88282258,"lon2":145.18985617},
+{"len_m":2024,"wid_m":45.11,"hdg":54,"surf":"Asphalt","rwy1":"05","lat1":-36.89347650,"lon1":145.17292100,"rwy2":"23","lat2":-36.88276150,"lon2":145.19130571}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

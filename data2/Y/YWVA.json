@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWVA","name":"Warnervale","lat":-33.24029220,"lon":151.43064210,"rwys":1,"ils":0,"elev":30,"index":5426737,"path":"e150s40/e151s34"
+,"runways":[
+{"len_m":868,"wid_m":6.10,"hdg":36,"surf":"Asphalt","rwy1":"02","lat1":-33.24395814,"lon1":151.42669159,"rwy2":"20","lat2":-33.23765205,"lon2":151.43220989}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":132.1,"desc":"WARNERVALE TRAFFIC CTAF"},
+{"type":"TWR","freq":125.8,"desc":"SYDNEY RADAR CNTR"}
+]
+,"ils":[
+]
+}

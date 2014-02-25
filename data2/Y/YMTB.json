@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMTB","name":"Muttaburra","lat":-22.58486095,"lon":144.52866502,"rwys":2,"ils":0,"elev":753,"index":5312730,"path":"e140s30/e144s23"
+,"runways":[
+{"len_m":1120,"wid_m":25.91,"hdg":51,"surf":"Concrete","rwy1":"04","lat1":-22.58995751,"lon1":144.51974525,"rwy2":"22","lat2":-22.58360261,"lon2":144.52822258},
+{"len_m":1251,"wid_m":78.03,"hdg":161,"surf":"Dirt","rwy1":"16","lat1":-22.57849180,"lon1":144.52513129,"rwy2":"34","lat2":-22.58919392,"lon2":144.52903974}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

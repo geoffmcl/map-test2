@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCCR","name":"Coomalie Creek","lat":-13.00409624,"lon":131.12897404,"rwys":1,"ils":0,"elev":175,"index":5100345,"path":"e130s20/e131s14"
+,"runways":[
+{"len_m":1078,"wid_m":20.12,"hdg":170,"surf":"Asphalt","rwy1":"17","lat1":-13.00390814,"lon1":131.12915241,"rwy2":"35","lat2":-13.01353369,"lon2":131.13073478}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"COOMALIE CREEK CTAF"},
+{"type":"TWR","freq":118.15,"desc":"BRISBANE CENTRE CNTR"}
+]
+,"ils":[
+]
+}

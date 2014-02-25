@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPMQ","name":"Port Macquarie","lat":-31.43109726,"lon":152.86743407,"rwys":2,"ils":0,"elev":12,"index":5443235,"path":"e150s40/e152s32"
+,"runways":[
+{"len_m":1588,"wid_m":29.87,"hdg":29,"surf":"Asphalt","rwy1":"03","lat1":-31.44129127,"lon1":152.85830568,"rwy2":"21","lat2":-31.42885273,"lon2":152.86658722},
+{"len_m":761,"wid_m":61.87,"hdg":114,"surf":"Turf/grass","rwy1":"10","lat1":-31.43249581,"lon1":152.86560047,"rwy2":"28","lat2":-31.43531070,"lon2":152.87290835}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":39,"wid_m":49.07,"hdg":152,"surf":"Turf/grass","lat1":-31.43028838,"lon1":152.86771424}
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.1,"desc":"PORT MACQUARIE MULT"},
+{"type":"TWR","freq":120.55,"desc":"BRISBANE CNTR"},
+{"type":"TWR","freq":126.6,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

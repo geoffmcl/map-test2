@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YHOT","name":"Mt Hotham","lat":-37.05142433,"lon":147.33819186,"rwys":1,"ils":0,"elev":4260,"index":5360953,"path":"e140s40/e147s38"
+,"runways":[
+{"len_m":1460,"wid_m":29.87,"hdg":123,"surf":"Asphalt","rwy1":"11","lat1":-37.04450682,"lon1":147.32831674,"rwy2":"29","lat2":-37.05176868,"lon2":147.34201124}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.2,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":126.75,"desc":"MT HOTHAM MULT"}
+]
+,"ils":[
+]
+}

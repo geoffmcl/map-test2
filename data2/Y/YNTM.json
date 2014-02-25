@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNTM","name":"Northam","lat":-31.62343500,"lon":116.68236000,"rwys":1,"ils":0,"elev":500,"index":4853402,"path":"e110s40/e116s32"
+,"runways":[
+{"len_m":949,"wid_m":29.87,"hdg":319,"surf":"Asphalt","rwy1":"14","lat1":-31.62792700,"lon1":116.68647400,"rwy2":"32","lat2":-31.62137900,"lon2":116.68003200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.2,"desc":"Northam MULT"},
+{"type":"TWR","freq":130,"desc":"Melbourne CNTR"}
+]
+,"ils":[
+]
+}

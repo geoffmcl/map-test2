@@ -1,0 +1,37 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSNW","name":"Nowra Military","lat":-34.94225600,"lon":150.53944900,"rwys":2,"ils":1,"elev":400,"index":5410242,"path":"e150s40/e150s35"
+,"runways":[
+{"len_m":2013,"wid_m":45.11,"hdg":94,"surf":"Asphalt","rwy1":"08","lat1":-34.94787900,"lon1":150.52651700,"rwy2":"26","lat2":-34.94926500,"lon2":150.54849900},
+{"len_m":2093,"wid_m":45.11,"hdg":44,"surf":"Asphalt","rwy1":"03","lat1":-34.94900400,"lon1":150.53627900,"rwy2":"21","lat2":-34.93551800,"lon2":150.55230500}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94431800,"lon1":150.54626400},
+{"rwy1":"H10","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94566500,"lon1":150.54759400},
+{"rwy1":"H11","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94609900,"lon1":150.54784400},
+{"rwy1":"H12","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94272600,"lon1":150.54623500},
+{"rwy1":"H2","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94486300,"lon1":150.54658500},
+{"rwy1":"H3","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94538900,"lon1":150.54689800},
+{"rwy1":"H4","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94583000,"lon1":150.54717200},
+{"rwy1":"H5","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94626200,"lon1":150.54742800},
+{"rwy1":"H6","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94414600,"lon1":150.54670400},
+{"rwy1":"H7","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94469500,"lon1":150.54702500},
+{"rwy1":"H8","len_m":34,"wid_m":34.14,"hdg":150,"surf":"Concrete","lat1":-34.94570700,"lon1":150.54214100},
+{"rwy1":"H9","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Concrete","lat1":-34.94521500,"lon1":150.54733400}
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.85,"desc":"MBZ MULT"},
+{"type":"CTAF","freq":121.2,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CLD","freq":128.35,"desc":"NOWRA CLD"},
+{"type":"CLD","freq":121.75,"desc":"NOWRA GROUND CLD"},
+{"type":"GND","freq":135.85,"desc":"NOWRA GND"},
+{"type":"TWR","freq":118.85,"desc":"NOWRA TWR"},
+{"type":"APP","freq":123.5,"desc":"NOWRA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":-34.95166700,"lon":150.53305600,"rng_nm":18,"alt_fmsl":400,"hdg":224.34,"id":"INA","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":-34.93750000,"lon":150.54805600,"rng_nm":10,"alt_fmsl":400,"id":"INA","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-34.86527800,"lon":150.63583300,"rng_nm":0,"alt_fmsl":400,"id":"----","rwy":"21","desc":"OM"},
+{"type":"DME","freq":108.5,"lat":-34.93750000,"lon":150.54805600,"rng_nm":18,"alt_fmsl":400,"id":"INA","rwy":"21","desc":"DME-ILS"}
+]
+}

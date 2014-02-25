@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YHSM","name":"Horsham","lat":-36.67075979,"lon":142.17007986,"rwys":2,"ils":0,"elev":445,"index":5279056,"path":"e140s40/e142s37"
+,"runways":[
+{"len_m":1321,"wid_m":29.87,"hdg":89,"surf":"Asphalt","rwy1":"08","lat1":-36.66904652,"lon1":142.17064325,"rwy2":"26","lat2":-36.66898000,"lon2":142.18542900},
+{"len_m":740,"wid_m":17.98,"hdg":179,"surf":"Dirt","rwy1":"17","lat1":-36.67005000,"lon1":142.17193844,"rwy2":"35","lat2":-36.67671898,"lon2":142.17198198}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

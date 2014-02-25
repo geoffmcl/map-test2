@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTLP","name":"Tilpa","lat":-30.92618050,"lon":144.41819493,"rwys":2,"ils":0,"elev":280,"index":5312193,"path":"e140s40/e144s31"
+,"runways":[
+{"len_m":671,"wid_m":18.90,"hdg":164,"surf":"Dirt","rwy1":"16","lat1":-30.92270285,"lon1":144.41373547,"rwy2":"34","lat2":-30.92852785,"lon2":144.41565200},
+{"len_m":999,"wid_m":11.89,"hdg":94,"surf":"Asphalt","rwy1":"09","lat1":-30.92521536,"lon1":144.41519368,"rwy2":"27","lat2":-30.92585667,"lon2":144.42562322}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

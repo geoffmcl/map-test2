@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBMK","name":"Mackay","lat":-21.17000109,"lon":149.17451998,"rwys":2,"ils":0,"elev":18,"index":5394737,"path":"e140s30/e149s22"
+,"runways":[
+{"len_m":1980,"wid_m":45.11,"hdg":147,"surf":"Asphalt","rwy1":"14","lat1":-21.16319546,"lon1":149.17748973,"rwy2":"32","lat2":-21.17832304,"lon2":149.18766607},
+{"len_m":1343,"wid_m":29.87,"hdg":57,"surf":"Asphalt","rwy1":"05","lat1":-21.17568926,"lon1":149.17419747,"rwy2":"23","lat2":-21.16924828,"lon2":149.18516595}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.07,"hdg":149,"surf":"Asphalt","lat1":-21.17335813,"lon1":149.18087904},
+{"rwy1":"H2","len_m":17,"wid_m":17.07,"hdg":149,"surf":"Asphalt","lat1":-21.17376280,"lon1":149.18115197},
+{"rwy1":"H5","len_m":17,"wid_m":17.07,"hdg":149,"surf":"Asphalt","lat1":-21.16796784,"lon1":149.18489492}
+]
+,"radios":[
+{"type":"ATIS","freq":128,"desc":"YBMK ATIS"},
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":124.5,"desc":"MACKAY MULT"},
+{"type":"TWR","freq":124.5,"desc":"MACKAY TWR"},
+{"type":"TWR","freq":135.5,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWMC","name":"William Creek","lat":-28.90707202,"lon":136.34232324,"rwys":2,"ils":0,"elev":242,"index":5181249,"path":"e130s30/e136s29"
+,"runways":[
+{"len_m":1004,"wid_m":22.86,"hdg":69,"surf":"Dirt","rwy1":"6","lat1":-28.90632064,"lon1":136.33977820,"rwy2":"24","lat2":-28.90313891,"lon2":136.34942371},
+{"len_m":1320,"wid_m":43.89,"hdg":115,"surf":"Dirt","rwy1":"11","lat1":-28.90319072,"lon1":136.33682785,"rwy2":"29","lat2":-28.90838319,"lon2":136.34901943}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

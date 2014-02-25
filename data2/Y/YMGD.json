@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMGD","name":"Maningrida","lat":-12.05463872,"lon":134.23236867,"rwys":1,"ils":0,"elev":122,"index":5149561,"path":"e130s20/e134s13"
+,"runways":[
+{"len_m":1528,"wid_m":29.87,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":-12.05255226,"lon1":134.23269629,"rwy2":"32","lat2":-12.06434674,"lon2":134.24000045}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":127.5,"desc":"BOUCAUT MULT"},
+{"type":"CTAF","freq":123.4,"desc":"BRISBANE CENTRE MULT"}
+]
+,"ils":[
+]
+}

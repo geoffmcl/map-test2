@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMND","name":"Maitland (nsw)","lat":-32.70460520,"lon":151.48918264,"rwys":4,"ils":0,"elev":85,"index":5426769,"path":"e150s40/e151s33"
+,"runways":[
+{"len_m":595,"wid_m":49.99,"hdg":40,"surf":"Turf/grass","rwy1":"04","lat1":-32.70060816,"lon1":151.49077778,"rwy2":"22","lat2":-32.69655596,"lon2":151.49494023},
+{"len_m":445,"wid_m":70.10,"hdg":175,"surf":"Turf/grass","rwy1":"17","lat1":-32.69671355,"lon1":151.49122469,"rwy2":"35","lat2":-32.70071692,"lon2":151.49157523},
+{"len_m":798,"wid_m":9.14,"hdg":93,"surf":"Asphalt","rwy1":"08","lat1":-32.70106532,"lon1":151.48844683,"rwy2":"26","lat2":-32.70145324,"lon2":151.49695155},
+{"len_m":1127,"wid_m":10.97,"hdg":56,"surf":"Asphalt","rwy1":"05","lat1":-32.70313200,"lon1":151.48954877,"rwy2":"23","lat2":-32.69755187,"lon2":151.49960537}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"MAITLAND MULTICOM"},
+{"type":"TWR","freq":125.7,"desc":"BRISBANE CTR"}
+]
+,"ils":[
+]
+}

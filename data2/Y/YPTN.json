@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPTN","name":"Tindal (military)","lat":-14.51906100,"lon":132.38132100,"rwys":1,"ils":1,"elev":443,"index":5116635,"path":"e130s20/e132s15"
+,"runways":[
+{"len_m":2742,"wid_m":45.11,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":-14.51219500,"lon1":132.36884400,"rwy2":"32","lat2":-14.53087500,"lon2":132.38556600}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":11,"wid_m":11.89,"hdg":132,"surf":"Transparent","lat1":-14.52064800,"lon1":132.38461100},
+{"rwy1":"H2","len_m":11,"wid_m":11.89,"hdg":132,"surf":"Transparent","lat1":-14.52033900,"lon1":132.38416300}
+]
+,"radios":[
+{"type":"CTAF","freq":122.6,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":119.7,"desc":"TINDAL MULT"},
+{"type":"CLD","freq":128.1,"desc":"TINDAL (MILITARY) CLD"},
+{"type":"GND","freq":135.85,"desc":"TINDAL GND"},
+{"type":"TWR","freq":119.7,"desc":"TINDAL TWR"},
+{"type":"APP","freq":125.8,"desc":"TINDAL TRAFFIC APP"},
+{"type":"APP","freq":121.9,"desc":"TINDAL APP"},
+{"type":"APP","freq":130.1,"desc":"TINDAL APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.7,"lat":-14.53294700,"lon":132.38749400,"rng_nm":18,"alt_fmsl":443,"hdg":138.97,"id":"ITN","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.7,"lat":-14.51527800,"lon":132.36944400,"rng_nm":10,"alt_fmsl":443,"id":"ITN","rwy":"14","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-14.46270000,"lon":132.32460800,"rng_nm":0,"alt_fmsl":443,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":-14.50500600,"lon":132.36247200,"rng_nm":0,"alt_fmsl":443,"id":"----","rwy":"14","desc":"MM"}
+]
+}

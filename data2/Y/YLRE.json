@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLRE","name":"Longreach","lat":-23.43909607,"lon":144.27141454,"rwys":2,"ils":0,"elev":627,"index":5312673,"path":"e140s30/e144s24"
+,"runways":[
+{"len_m":760,"wid_m":46.02,"hdg":93,"surf":"Dirt","rwy1":"09","lat1":-23.43763841,"lon1":144.27243723,"rwy2":"27","lat2":-23.43801284,"lon2":144.27986435},
+{"len_m":1933,"wid_m":24.99,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":-23.43796043,"lon1":144.27059308,"rwy2":"22","lat2":-23.42595807,"lon2":144.28432961}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":122.1,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"LONGREACH MULT"}
+]
+,"ils":[
+]
+}

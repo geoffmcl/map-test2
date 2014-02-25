@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTYA","name":"Tyabb","lat":-38.26366793,"lon":145.18143150,"rwys":2,"ils":0,"elev":88,"index":5328104,"path":"e140s40/e145s39"
+,"runways":[
+{"len_m":1127,"wid_m":11.89,"hdg":0,"surf":"Asphalt","rwy1":"17","lat1":-38.27182010,"lon1":145.17950148,"rwy2":"35","lat2":-38.26166601,"lon2":145.17968207},
+{"len_m":710,"wid_m":79.86,"hdg":89,"surf":"Turf/grass","rwy1":"8","lat1":-38.26536182,"lon1":145.17100007,"rwy2":"26","lat2":-38.26533477,"lon2":145.17911941}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":7,"wid_m":7.92,"hdg":145,"surf":"Asphalt","lat1":-38.26355261,"lon1":145.18139144},
+{"rwy1":"H2","len_m":7,"wid_m":7.92,"hdg":145,"surf":"Asphalt","lat1":-38.26341458,"lon1":145.18138774}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

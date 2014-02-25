@@ -1,0 +1,30 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSCB","name":"Canberra","lat":-35.30155969,"lon":149.19746504,"rwys":2,"ils":1,"elev":1887,"index":5393832,"path":"e140s40/e149s36"
+,"runways":[
+{"len_m":3281,"wid_m":45.11,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":-35.29063100,"lon1":149.19444400,"rwy2":"35","lat2":-35.32020900,"lon2":149.19444400},
+{"len_m":1678,"wid_m":45.11,"hdg":129,"surf":"Asphalt","rwy1":"12","lat1":-35.30068456,"lon1":149.18515573,"rwy2":"30","lat2":-35.31038622,"lon2":149.19932341}
+]
+,"helipads":[
+{"rwy1":"H19","len_m":20,"wid_m":20.12,"hdg":149,"surf":"Asphalt","lat1":-35.30350120,"lon1":149.19599879},
+{"rwy1":"H21","len_m":6,"wid_m":6.10,"hdg":149,"surf":"Concrete","lat1":-35.30267888,"lon1":149.18592403},
+{"rwy1":"H22","len_m":6,"wid_m":6.10,"hdg":149,"surf":"Concrete","lat1":-35.30286358,"lon1":149.18619410},
+{"rwy1":"H23","len_m":6,"wid_m":6.10,"hdg":149,"surf":"Concrete","lat1":-35.30303843,"lon1":149.18645512}
+]
+,"radios":[
+{"type":"ATIS","freq":127.45,"desc":"YSCB ATIS"},
+{"type":"CTAF","freq":118.7,"desc":"CANBERRA MULT"},
+{"type":"CLD","freq":121.7,"desc":"CANBERRA GROUND CLD"},
+{"type":"GND","freq":121.7,"desc":"CANBERRA GND"},
+{"type":"TWR","freq":118.7,"desc":"CANBERRA TWR"},
+{"type":"TWR","freq":125.9,"desc":"MELBOURNE CENTRE CNTR"},
+{"type":"APP","freq":124.5,"desc":"CANBERRA APP"},
+{"type":"APP","freq":125.9,"desc":"CANBERRA APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-35.28722200,"lon":149.19444400,"rng_nm":18,"alt_fmsl":1888,"hdg":360.00,"id":"ICB","rwy":"35","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-35.31194400,"lon":149.19638900,"rng_nm":10,"alt_fmsl":1888,"id":"ICB","rwy":"35","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-35.37888900,"lon":149.19444400,"rng_nm":0,"alt_fmsl":1888,"id":"----","rwy":"35","desc":"OM"},
+{"type":"MM","freq":0,"lat":-35.32944400,"lon":149.19444400,"rng_nm":0,"alt_fmsl":1888,"id":"----","rwy":"35","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":-35.28138900,"lon":149.19583300,"rng_nm":18,"alt_fmsl":1888,"id":"ICB","rwy":"35","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMAV","name":"Avalon","lat":-38.03951411,"lon":144.47086541,"rwys":1,"ils":1,"elev":35,"index":5311737,"path":"e140s40/e144s39"
+,"runways":[
+{"len_m":3044,"wid_m":45.11,"hdg":187,"surf":"Asphalt","rwy1":"18","lat1":-38.02724602,"lon1":144.46940540,"rwy2":"36","lat2":-38.05444248,"lon2":144.46485917}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":38,"wid_m":38.10,"hdg":144,"surf":"Asphalt","lat1":-38.02630029,"lon1":144.48067048}
+]
+,"radios":[
+{"type":"CTAF","freq":129.3,"desc":"AVALON FLIGHT OPS UNIC"},
+{"type":"CTAF","freq":119.65,"desc":"AVTIVATE LIGHTS ONLY MULT"},
+{"type":"TWR","freq":120.1,"desc":"AVALON TWR"},
+{"type":"TWR","freq":129.3,"desc":"AVALON TWR"},
+{"type":"APP","freq":135.69,"desc":"MELBOURNE APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":-38.05972200,"lon":144.46388900,"rng_nm":18,"alt_fmsl":32,"hdg":187.62,"id":"IAV","rwy":"18","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":-38.03055600,"lon":144.47083300,"rng_nm":10,"alt_fmsl":35,"id":"IAV","rwy":"18","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-37.96221100,"lon":144.47992500,"rng_nm":0,"alt_fmsl":35,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":-38.01777800,"lon":144.47111100,"rng_nm":0,"alt_fmsl":35,"id":"----","rwy":"18","desc":"MM"},
+{"type":"DME","freq":109.5,"lat":-38.04916700,"lon":144.45916700,"rng_nm":18,"alt_fmsl":35,"id":"IAV","rwy":"18","desc":"DME-ILS"}
+]
+}

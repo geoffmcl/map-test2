@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWBN","name":"Wedderburn","lat":-34.18285026,"lon":150.80950102,"rwys":1,"ils":0,"elev":875,"index":5410291,"path":"e150s40/e150s35"
+,"runways":[
+{"len_m":974,"wid_m":14.94,"hdg":180,"surf":"Asphalt","rwy1":"17","lat1":-34.17700609,"lon1":150.80895336,"rwy2":"35","lat2":-34.18579409,"lon2":150.80882357}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.55,"desc":"WEDDERBURN TRAFFIC CTAF"},
+{"type":"TWR","freq":124.55,"desc":"SYDNEY RADAR CNTR"}
+]
+,"ils":[
+]
+}

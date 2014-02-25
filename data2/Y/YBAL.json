@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBAL","name":"Balladonia","lat":-32.35117893,"lon":123.61825157,"rwys":2,"ils":0,"elev":571,"index":4968042,"path":"e120s40/e123s33"
+,"runways":[
+{"len_m":1535,"wid_m":49.99,"hdg":134,"surf":"Dirt","rwy1":"13","lat1":-32.34285394,"lon1":123.61018661,"rwy2":"31","lat2":-32.35255900,"lon2":123.62182400},
+{"len_m":947,"wid_m":34.14,"hdg":40,"surf":"Dirt","rwy1":"4","lat1":-32.34907324,"lon1":123.61269244,"rwy2":"22","lat2":-32.34260146,"lon2":123.61925844}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,46 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSBK","name":"Bankstown","lat":-33.92188647,"lon":150.98196989,"rwys":3,"ils":0,"elev":29,"index":5410307,"path":"e150s40/e150s34"
+,"runways":[
+{"len_m":1385,"wid_m":29.87,"hdg":123,"surf":"Asphalt","rwy1":"11C","lat1":-33.91948645,"lon1":150.98342217,"rwy2":"29C","lat2":-33.92644899,"lon2":150.99586195},
+{"len_m":1103,"wid_m":29.87,"hdg":123,"surf":"Asphalt","rwy1":"11L","lat1":-33.92013600,"lon1":150.98662834,"rwy2":"29R","lat2":-33.92567200,"lon2":150.99654100},
+{"len_m":1031,"wid_m":22.86,"hdg":123,"surf":"Asphalt","rwy1":"11R","lat1":-33.92165250,"lon1":150.98522136,"rwy2":"29L","lat2":-33.92684300,"lon2":150.99447900}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Concrete","lat1":-33.91731723,"lon1":150.99380562},
+{"rwy1":"H10","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92098854,"lon1":150.98223991},
+{"rwy1":"H11","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92073273,"lon1":150.98202216},
+{"rwy1":"H12","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92073375,"lon1":150.98184356},
+{"rwy1":"H13","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92637034,"lon1":150.98186182},
+{"rwy1":"H14","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92625959,"lon1":150.98205190},
+{"rwy1":"H15","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Turf/grass","lat1":-33.92000247,"lon1":150.99350749},
+{"rwy1":"H16","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Turf/grass","lat1":-33.92034470,"lon1":150.99231794},
+{"rwy1":"H17","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91504210,"lon1":150.98728561},
+{"rwy1":"H18","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91495886,"lon1":150.98720733},
+{"rwy1":"H19","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91484720,"lon1":150.98705442},
+{"rwy1":"H2","len_m":15,"wid_m":15.85,"hdg":150,"surf":"Asphalt","lat1":-33.91720874,"lon1":150.99361578},
+{"rwy1":"H20","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91477411,"lon1":150.98682201},
+{"rwy1":"H21","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91470508,"lon1":150.98664342},
+{"rwy1":"H22","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.91507456,"lon1":150.98749053},
+{"rwy1":"H23","len_m":29,"wid_m":29.87,"hdg":150,"surf":"Asphalt","lat1":-33.92112328,"lon1":150.99185200},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":150,"surf":"Concrete","lat1":-33.91708865,"lon1":150.99730015},
+{"rwy1":"H4","len_m":15,"wid_m":15.85,"hdg":150,"surf":"Asphalt","lat1":-33.91711511,"lon1":150.99343847},
+{"rwy1":"H5","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Asphalt","lat1":-33.91531649,"lon1":150.98440683},
+{"rwy1":"H6","len_m":14,"wid_m":14.94,"hdg":150,"surf":"Asphalt","lat1":-33.91633174,"lon1":150.98443638},
+{"rwy1":"H7","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92142539,"lon1":150.98225805},
+{"rwy1":"H8","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92127989,"lon1":150.98225214},
+{"rwy1":"H9","len_m":6,"wid_m":6.10,"hdg":150,"surf":"Concrete","lat1":-33.92113269,"lon1":150.98224725}
+]
+,"radios":[
+{"type":"ATIS","freq":120.9,"desc":"YSBK ATIS"},
+{"type":"CTAF","freq":132.8,"desc":"BANKSTOWN MULT"},
+{"type":"GND","freq":119.9,"desc":"BANKSTOWN GND"},
+{"type":"TWR","freq":123.6,"desc":"BANKSTOWN TWR"},
+{"type":"TWR","freq":132.8,"desc":"BANKSTOWN TWR"},
+{"type":"APP","freq":128.3,"desc":"SYDNEY APP"},
+{"type":"APP","freq":124.55,"desc":"SYDNEY APP"},
+{"type":"DEP","freq":118.4,"desc":"SYDNEY DEP"},
+{"type":"DEP","freq":129.69,"desc":"SYDNEY DEP"}
+]
+,"ils":[
+]
+}

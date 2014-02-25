@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNHL","name":"Nhill","lat":-36.30867496,"lon":141.64804545,"rwys":2,"ils":0,"elev":454,"index":5262698,"path":"e140s40/e141s37"
+,"runways":[
+{"len_m":997,"wid_m":17.98,"hdg":102,"surf":"Asphalt","rwy1":"09","lat1":-36.30952158,"lon1":141.64169524,"rwy2":"27","lat2":-36.31147000,"lon2":141.65253500},
+{"len_m":1219,"wid_m":85.95,"hdg":7,"surf":"Turf/grass","rwy1":"18","lat1":-36.31713790,"lon1":141.64233561,"rwy2":"36","lat2":-36.30623224,"lon2":141.64402133}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

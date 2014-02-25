@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSNB","name":"Snake Bay","lat":-11.42243000,"lon":130.65255700,"rwys":1,"ils":0,"elev":172,"index":5084069,"path":"e130s20/e130s12"
+,"runways":[
+{"len_m":1443,"wid_m":29.87,"hdg":129,"surf":"Asphalt","rwy1":"13","lat1":-11.41371300,"lon1":130.64358900,"rwy2":"31","lat2":-11.42200300,"lon2":130.65379900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.15,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"SNAKE BAY MULT"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDBY","name":"Derby","lat":-17.36939200,"lon":123.66341300,"rwys":2,"ils":0,"elev":24,"index":4969005,"path":"e120s20/e123s18"
+,"runways":[
+{"len_m":1736,"wid_m":29.87,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":-17.36884850,"lon1":123.65344544,"rwy2":"29","lat2":-17.37431350,"lon2":123.66876079},
+{"len_m":1155,"wid_m":29.87,"hdg":56,"surf":"Transparent","rwy1":"05","lat1":-17.37457759,"lon1":123.65829171,"rwy2":"23","lat2":-17.36876441,"lon2":123.66732200}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":13,"wid_m":14.02,"hdg":123,"surf":"Asphalt","lat1":-17.36948443,"lon1":123.66481926}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWYY","name":"Wynyard","lat":-40.99364465,"lon":145.72569999,"rwys":2,"ils":0,"elev":62,"index":5327938,"path":"e140s50/e145s41"
+,"runways":[
+{"len_m":1650,"wid_m":29.87,"hdg":99,"surf":"Asphalt","rwy1":"09","lat1":-40.99679393,"lon1":145.72390599,"rwy2":"27","lat2":-40.99918607,"lon2":145.74326104},
+{"len_m":766,"wid_m":29.87,"hdg":64,"surf":"Asphalt","rwy1":"05","lat1":-40.99806019,"lon1":145.72312501,"rwy2":"23","lat2":-40.99509668,"lon2":145.73135705}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.9,"desc":"WYNYARD MULT"},
+{"type":"TWR","freq":122.6,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

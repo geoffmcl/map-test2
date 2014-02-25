@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCBR","name":"Collarenebri","lat":-29.52366857,"lon":148.57558319,"rwys":2,"ils":0,"elev":500,"index":5377818,"path":"e140s30/e148s30"
+,"runways":[
+{"len_m":1037,"wid_m":22.86,"hdg":184,"surf":"Dirt","rwy1":"18","lat1":-29.51835785,"lon1":148.57838150,"rwy2":"36","lat2":-29.52768479,"lon2":148.57747210},
+{"len_m":767,"wid_m":29.87,"hdg":227,"surf":"Turf/grass","rwy1":"04","lat1":-29.52189717,"lon1":148.58168575,"rwy2":"22","lat2":-29.52661523,"lon2":148.57588990}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

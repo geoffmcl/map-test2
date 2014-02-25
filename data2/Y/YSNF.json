@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSNF","name":"Norfolk Island Intl","lat":-29.03563322,"lon":167.94370052,"rwys":2,"ils":0,"elev":371,"index":5689147,"path":"e160s30/e167s30"
+,"runways":[
+{"len_m":2008,"wid_m":46.02,"hdg":122,"surf":"Asphalt","rwy1":"11","lat1":-29.03644200,"lon1":167.92974200,"rwy2":"29","lat2":-29.04607185,"lon2":167.94721012},
+{"len_m":1558,"wid_m":29.87,"hdg":50,"surf":"Asphalt","rwy1":"04","lat1":-29.04737661,"lon1":167.93254105,"rwy2":"22","lat2":-29.03834771,"lon2":167.94480537}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTFA","name":"Truro Flats Airpark","lat":-34.39803005,"lon":139.38418438,"rwys":3,"ils":0,"elev":233,"index":5230049,"path":"e130s40/e139s35"
+,"runways":[
+{"len_m":521,"wid_m":17.98,"hdg":79,"surf":"Turf/grass","rwy1":"07","lat1":-34.39695331,"lon1":139.37968563,"rwy2":"25","lat2":-34.39612800,"lon2":139.38527000},
+{"len_m":771,"wid_m":21.03,"hdg":38,"surf":"Turf/grass","rwy1":"03","lat1":-34.39812263,"lon1":139.38005714,"rwy2":"21","lat2":-34.39265668,"lon2":139.38524180},
+{"len_m":704,"wid_m":21.03,"hdg":139,"surf":"Turf/grass","rwy1":"13","lat1":-34.39257746,"lon1":139.38021227,"rwy2":"31","lat2":-34.39741151,"lon2":139.38517377}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

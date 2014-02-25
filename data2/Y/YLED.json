@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLED","name":"Lethbridge","lat":-37.92063448,"lon":144.10181689,"rwys":2,"ils":0,"elev":787,"index":5311744,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":1274,"wid_m":11.89,"hdg":112,"surf":"Turf/grass","rwy1":"10","lat1":-37.91966636,"lon1":144.09662966,"rwy2":"28","lat2":-37.92397153,"lon2":144.11006995},
+{"len_m":931,"wid_m":18.90,"hdg":358,"surf":"Turf/grass","rwy1":"01","lat1":-37.92685074,"lon1":144.10135190,"rwy2":"19","lat2":-37.91845739,"lon2":144.10115776}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

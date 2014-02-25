@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YISF","name":"Isisford","lat":-24.26115031,"lon":144.42772048,"rwys":2,"ils":0,"elev":694,"index":5312617,"path":"e140s30/e144s25"
+,"runways":[
+{"len_m":1368,"wid_m":29.87,"hdg":148,"surf":"Asphalt","rwy1":"14","lat1":-24.25406778,"lon1":144.42067667,"rwy2":"32","lat2":-24.26456148,"lon2":144.42778545},
+{"len_m":1239,"wid_m":89.00,"hdg":84,"surf":"Dirt","rwy1":"8","lat1":-24.26030693,"lon1":144.41905079,"rwy2":"26","lat2":-24.25925368,"lon2":144.43119828}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

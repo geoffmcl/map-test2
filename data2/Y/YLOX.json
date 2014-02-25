@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLOX","name":"Loxton","lat":-34.47966372,"lon":140.66442110,"rwys":2,"ils":0,"elev":125,"index":5246434,"path":"e140s40/e140s35"
+,"runways":[
+{"len_m":986,"wid_m":82.91,"hdg":179,"surf":"Dirt","rwy1":"17","lat1":-34.46868710,"lon1":140.66333339,"rwy2":"35","lat2":-34.47758141,"lon2":140.66333476},
+{"len_m":1326,"wid_m":81.08,"hdg":90,"surf":"Transparent","rwy1":"08","lat1":-34.47627467,"lon1":140.66368103,"rwy2":"26","lat2":-34.47633698,"lon2":140.67811511}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

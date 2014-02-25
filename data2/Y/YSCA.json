@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSCA","name":"Scotia Sanctuary","lat":-33.20792001,"lon":141.17259855,"rwys":2,"ils":0,"elev":180,"index":5262896,"path":"e140s40/e141s34"
+,"runways":[
+{"len_m":1988,"wid_m":21.95,"hdg":84,"surf":"Dirt","rwy1":"08","lat1":-33.20799905,"lon1":141.16539793,"rwy2":"26","lat2":-33.20622691,"lon2":141.18661785},
+{"len_m":981,"wid_m":28.04,"hdg":171,"surf":"Dirt","rwy1":"17","lat1":-33.20114393,"lon1":141.16560053,"rwy2":"35","lat2":-33.20989354,"lon2":141.16717021}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

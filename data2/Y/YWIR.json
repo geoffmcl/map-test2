@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWIR","name":"Wiraminna","lat":-31.18467500,"lon":136.22010800,"rwys":3,"ils":0,"elev":459,"index":5181104,"path":"e130s40/e136s32"
+,"runways":[
+{"len_m":1328,"wid_m":17.98,"hdg":178,"surf":"Dirt","rwy1":"17","lat1":-31.18469438,"lon1":136.21963468,"rwy2":"35","lat2":-31.19667162,"lon2":136.22000132},
+{"len_m":842,"wid_m":17.98,"hdg":246,"surf":"Dirt","rwy1":"06","lat1":-31.19130137,"lon1":136.22323548,"rwy2":"24","lat2":-31.19438063,"lon2":136.21515052},
+{"len_m":728,"wid_m":17.98,"hdg":114,"surf":"Dirt","rwy1":"11","lat1":-31.19169145,"lon1":136.21711253,"rwy2":"29","lat2":-31.19445855,"lon2":136.22404947}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

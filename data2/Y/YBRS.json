@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBRS","name":"Barwon Heads","lat":-38.25879087,"lon":144.42664876,"rwys":2,"ils":0,"elev":50,"index":5311721,"path":"e140s40/e144s39"
+,"runways":[
+{"len_m":742,"wid_m":24.99,"hdg":8,"surf":"Turf/grass","rwy1":"1","lat1":-38.25929112,"lon1":144.42730989,"rwy2":"19","lat2":-38.25266804,"lon2":144.42853215},
+{"len_m":496,"wid_m":18.90,"hdg":97,"surf":"Turf/grass","rwy1":"9","lat1":-38.25778677,"lon1":144.42510931,"rwy2":"27","lat2":-38.25836030,"lon2":144.43073306}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

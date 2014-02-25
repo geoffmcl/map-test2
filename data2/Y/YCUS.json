@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCUS","name":"Cummins","lat":-34.21497075,"lon":135.64224529,"rwys":2,"ils":0,"elev":197,"index":5164530,"path":"e130s40/e135s35"
+,"runways":[
+{"len_m":1317,"wid_m":17.98,"hdg":179,"surf":"Dirt","rwy1":"17","lat1":-34.21134300,"lon1":135.63444400,"rwy2":"35","lat2":-34.22321600,"lon2":135.63446200},
+{"len_m":749,"wid_m":17.98,"hdg":93,"surf":"Dirt","rwy1":"08","lat1":-34.21513500,"lon1":135.63440600,"rwy2":"26","lat2":-34.21552400,"lon2":135.64252800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

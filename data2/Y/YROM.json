@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YROM","name":"Roma","lat":-26.54331160,"lon":148.77928091,"rwys":2,"ils":0,"elev":1032,"index":5378011,"path":"e140s30/e148s27"
+,"runways":[
+{"len_m":1502,"wid_m":29.87,"hdg":11,"surf":"Asphalt","rwy1":"18","lat1":-26.55097556,"lon1":148.77421687,"rwy2":"36","lat2":-26.53769244,"lon2":148.77726478},
+{"len_m":860,"wid_m":29.87,"hdg":101,"surf":"Turf/grass","rwy1":"09","lat1":-26.54401050,"lon1":148.76593147,"rwy2":"27","lat2":-26.54558900,"lon2":148.77438600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

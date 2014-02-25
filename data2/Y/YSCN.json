@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSCN","name":"Camden","lat":-34.04057600,"lon":150.68932300,"rwys":4,"ils":0,"elev":229,"index":5410298,"path":"e150s40/e150s35"
+,"runways":[
+{"len_m":1494,"wid_m":29.87,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":-34.04067900,"lon1":150.68047100,"rwy2":"24","lat2":-34.03494900,"lon2":150.69512300},
+{"len_m":722,"wid_m":49.99,"hdg":110,"surf":"Turf/grass","rwy1":"10","lat1":-34.04147800,"lon1":150.68198200,"rwy2":"28","lat2":-34.04380800,"lon2":150.68929200},
+{"len_m":722,"wid_m":29.87,"hdg":111,"surf":"Turf/grass","rwy1":"10R","lat1":-34.04208900,"lon1":150.68141600,"rwy2":"28L","lat2":-34.04442500,"lon2":150.68872400},
+{"len_m":722,"wid_m":29.87,"hdg":73,"surf":"Turf/grass","rwy1":"08","lat1":-34.04630300,"lon1":150.68132500,"rwy2":"26","lat2":-34.04440300,"lon2":150.68881500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.1,"desc":"YSCN ATIS"},
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":120.1,"desc":"CAMDEN MULT"},
+{"type":"GND","freq":121.9,"desc":"CAMDEN GND"},
+{"type":"TWR","freq":120.1,"desc":"CAMDEN TWR"},
+{"type":"APP","freq":124.55,"desc":"SYDNEY APP"}
+]
+,"ils":[
+]
+}

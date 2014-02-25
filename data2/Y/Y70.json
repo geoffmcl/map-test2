@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"Y70","name":"Ionia Co","lat":42.937998,"lon":-85.060523,"rwys":2,"ils":0,"elev":818,"index":1548603,"path":"w090n40/w086n42"
+,"runways":[
+{"len_m":1310,"wid_m":22.86,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":42.93791400,"lon1":-85.07108600,"rwy2":"27","lat2":42.93778300,"lon2":-85.05503100},
+{"len_m":1307,"wid_m":103.63,"hdg":178,"surf":"Turf/grass","rwy1":"18","lat1":42.94403100,"lon1":-85.05813100,"rwy2":"36","lat2":42.93226400,"lon2":-85.05784400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.65,"desc":"LANSING APP/DEP"}
+]
+,"ils":[
+]
+}

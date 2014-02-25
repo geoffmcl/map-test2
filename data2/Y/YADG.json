@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YADG","name":"Aldinga","lat":-35.28793060,"lon":138.49228558,"rwys":4,"ils":0,"elev":108,"index":5213609,"path":"e130s40/e138s36"
+,"runways":[
+{"len_m":878,"wid_m":17.98,"hdg":140,"surf":"Dirt","rwy1":"14","lat1":-35.28571288,"lon1":138.49121494,"rwy2":"32","lat2":-35.29183754,"lon2":138.49733549},
+{"len_m":766,"wid_m":10.97,"hdg":35,"surf":"Asphalt","rwy1":"03","lat1":-35.29137259,"lon1":138.49196732,"rwy2":"21","lat2":-35.28571558,"lon2":138.49680207},
+{"len_m":403,"wid_m":22.86,"hdg":85,"surf":"Turf/grass","rwy1":"08","lat1":-35.28598088,"lon1":138.49184668,"rwy2":"26","lat2":-35.28572507,"lon2":138.49626606},
+{"len_m":677,"wid_m":27.13,"hdg":177,"surf":"Turf/grass","rwy1":"18","lat1":-35.28566043,"lon1":138.49705201,"rwy2":"36","lat2":-35.29176259,"lon2":138.49743001}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.15,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

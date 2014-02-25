@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWYM","name":"Wyndham","lat":-15.50542200,"lon":128.15259300,"rwys":2,"ils":0,"elev":14,"index":5051033,"path":"e120s20/e128s16"
+,"runways":[
+{"len_m":1605,"wid_m":20.12,"hdg":124,"surf":"Asphalt","rwy1":"12","lat1":-15.50439625,"lon1":128.14863645,"rwy2":"30","lat2":-15.51255822,"lon2":128.16100711},
+{"len_m":1318,"wid_m":38.10,"hdg":5,"surf":"Dirt","rwy1":"18","lat1":-15.51596000,"lon1":128.14836774,"rwy2":"36","lat2":-15.50410533,"lon2":128.14957493}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

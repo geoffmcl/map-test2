@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YOLW","name":"Onslow","lat":-21.66696400,"lon":115.11112600,"rwys":2,"ils":0,"elev":16,"index":4837648,"path":"e110s30/e115s22"
+,"runways":[
+{"len_m":1652,"wid_m":49.99,"hdg":22,"surf":"Dirt","rwy1":"03","lat1":-21.67795407,"lon1":115.10826836,"rwy2":"21","lat2":-21.66419363,"lon2":115.11445000},
+{"len_m":633,"wid_m":41.15,"hdg":112,"surf":"Dirt","rwy1":"11","lat1":-21.66691380,"lon1":115.10813194,"rwy2":"29","lat2":-21.66910486,"lon2":115.11378685}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

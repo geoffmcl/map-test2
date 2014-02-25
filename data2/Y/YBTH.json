@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBTH","name":"Bathurst","lat":-33.41404000,"lon":149.65560900,"rwys":2,"ils":0,"elev":2435,"index":5393954,"path":"e140s40/e149s34"
+,"runways":[
+{"len_m":1703,"wid_m":29.87,"hdg":176,"surf":"Asphalt","rwy1":"17","lat1":-33.40077800,"lon1":149.65070500,"rwy2":"35","lat2":-33.41610600,"lon2":149.65192300},
+{"len_m":1314,"wid_m":29.87,"hdg":90,"surf":"Dirt","rwy1":"08","lat1":-33.40669700,"lon1":149.64927400,"rwy2":"26","lat2":-33.40683100,"lon2":149.66340400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":127.35,"desc":"BATHURST MULT"},
+{"type":"CTAF","freq":135.25,"desc":"MELBOURNE CENTRE MULT"}
+]
+,"ils":[
+]
+}

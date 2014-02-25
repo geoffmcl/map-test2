@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCIN","name":"Curtin","lat":-17.57481239,"lon":123.82282710,"rwys":1,"ils":0,"elev":300,"index":4968990,"path":"e120s20/e123s18"
+,"runways":[
+{"len_m":3048,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"11","lat1":-17.57563291,"lon1":123.81509425,"rwy2":"29","lat2":-17.58522700,"lon2":123.84201200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBLT","name":"Ballarat","lat":-37.51327600,"lon":143.78819800,"rwys":3,"ils":0,"elev":1433,"index":5295387,"path":"e140s40/e143s38"
+,"runways":[
+{"len_m":646,"wid_m":82.91,"hdg":136,"surf":"Dirt","rwy1":"13","lat1":-37.50526141,"lon1":143.78725161,"rwy2":"31","lat2":-37.50949168,"lon2":143.79227443},
+{"len_m":1377,"wid_m":49.99,"hdg":188,"surf":"Asphalt","rwy1":"18","lat1":-37.50691190,"lon1":143.79474881,"rwy2":"36","lat2":-37.51917884,"lon2":143.79235401},
+{"len_m":1383,"wid_m":36.88,"hdg":61,"surf":"Asphalt","rwy1":"05","lat1":-37.51285111,"lon1":143.78579380,"rwy2":"23","lat2":-37.50696435,"lon2":143.79958196}
+]
+,"helipads":[
+{"rwy1":"H3","len_m":22,"wid_m":22.86,"hdg":143,"surf":"Asphalt","lat1":-37.51250501,"lon1":143.78829274}
+]
+,"radios":[
+{"type":"CTAF","freq":126,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

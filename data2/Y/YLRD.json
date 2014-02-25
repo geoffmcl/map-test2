@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLRD","name":"Lightning Ridge","lat":-29.45239387,"lon":147.98099410,"rwys":2,"ils":0,"elev":539,"index":5361443,"path":"e140s30/e147s30"
+,"runways":[
+{"len_m":1406,"wid_m":18.90,"hdg":109,"surf":"Asphalt","rwy1":"10","lat1":-29.45048657,"lon1":147.96965614,"rwy2":"28","lat2":-29.45470214,"lon2":147.98332738},
+{"len_m":852,"wid_m":49.99,"hdg":47,"surf":"Dirt","rwy1":"04","lat1":-29.45540486,"lon1":147.97993940,"rwy2":"22","lat2":-29.45022477,"lon2":147.98642934}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":127.1,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.7,"desc":"LIGHTNING RIDGE ONLY MULT"}
+]
+,"ils":[
+]
+}

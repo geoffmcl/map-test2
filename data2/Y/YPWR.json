@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPWR","name":"Woomera","lat":-31.14668040,"lon":136.80848732,"rwys":2,"ils":0,"elev":548,"index":5181107,"path":"e130s40/e136s32"
+,"runways":[
+{"len_m":2374,"wid_m":45.11,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":-31.13507230,"lon1":136.81387121,"rwy2":"36","lat2":-31.15637500,"lon2":136.81134000},
+{"len_m":1855,"wid_m":49.99,"hdg":125,"surf":"Transparent","rwy1":"12","lat1":-31.13539940,"lon1":136.81305029,"rwy2":"30","lat2":-31.14506481,"lon2":136.82894057}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"TWR","freq":118.3,"desc":"TWR"}
+]
+,"ils":[
+]
+}

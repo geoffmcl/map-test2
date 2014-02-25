@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPKA","name":"Karratha","lat":-20.71046197,"lon":116.77091039,"rwys":1,"ils":0,"elev":29,"index":4854102,"path":"e110s30/e116s21"
+,"runways":[
+{"len_m":2222,"wid_m":29.87,"hdg":83,"surf":"Asphalt","rwy1":"08","lat1":-20.71378062,"lon1":116.76529962,"rwy2":"26","lat2":-20.71166011,"lon2":116.78651275}
+]
+,"helipads":[
+{"rwy1":"H5","len_m":10,"wid_m":10.06,"hdg":116,"surf":"Concrete","lat1":-20.71029742,"lon1":116.76893193},
+{"rwy1":"H7","len_m":10,"wid_m":10.06,"hdg":116,"surf":"Concrete","lat1":-20.71026706,"lon1":116.76925301},
+{"rwy1":"H8","len_m":10,"wid_m":10.06,"hdg":116,"surf":"Concrete","lat1":-20.71023382,"lon1":116.76957288},
+{"rwy1":"H9","len_m":10,"wid_m":10.06,"hdg":116,"surf":"Concrete","lat1":-20.70895713,"lon1":116.77263479}
+]
+,"radios":[
+{"type":"CTAF","freq":127.35,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

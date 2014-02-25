@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNRM","name":"Narromine","lat":-32.22170367,"lon":148.22859181,"rwys":5,"ils":0,"elev":782,"index":5377648,"path":"e140s40/e148s33"
+,"runways":[
+{"len_m":1036,"wid_m":67.97,"hdg":53,"surf":"Turf/grass","rwy1":"04L","lat1":-32.21488993,"lon1":148.22424510,"rwy2":"22R","lat2":-32.20926735,"lon2":148.23303121},
+{"len_m":715,"wid_m":96.93,"hdg":8,"surf":"Turf/grass","rwy1":"18","lat1":-32.21374243,"lon1":148.22601293,"rwy2":"36","lat2":-32.20735806,"lon2":148.22707452},
+{"len_m":804,"wid_m":49.99,"hdg":121,"surf":"Turf/grass","rwy1":"11L","lat1":-32.21145168,"lon1":148.21752676,"rwy2":"29R","lat2":-32.21521569,"lon2":148.22481800},
+{"len_m":1526,"wid_m":49.99,"hdg":121,"surf":"Asphalt","rwy1":"11","lat1":-32.21231584,"lon1":148.21762734,"rwy2":"29","lat2":-32.21948325,"lon2":148.23144973},
+{"len_m":1099,"wid_m":45.11,"hdg":53,"surf":"Asphalt","rwy1":"04","lat1":-32.21839866,"lon1":148.22088436,"rwy2":"22","lat2":-32.21254600,"lon2":148.23029500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

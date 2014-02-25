@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCOS","name":"Cosmo Newberry","lat":-27.99416521,"lon":122.89698685,"rwys":2,"ils":0,"elev":1663,"index":4951939,"path":"e120s30/e122s28"
+,"runways":[
+{"len_m":1241,"wid_m":35.05,"hdg":10,"surf":"Dirt","rwy1":"1","lat1":-27.99120500,"lon1":122.90330018,"rwy2":"19","lat2":-27.98019640,"lon2":122.90565572},
+{"len_m":1354,"wid_m":29.87,"hdg":83,"surf":"Dirt","rwy1":"8","lat1":-27.98622485,"lon1":122.89958001,"rwy2":"26","lat2":-27.98478757,"lon2":122.91325509}
+]
+,"helipads":[
+{"rwy1":"H36","len_m":11,"wid_m":11.89,"hdg":122,"surf":"Concrete","lat1":-27.99153708,"lon1":122.90274264}
+]
+,"radios":[
+]
+,"ils":[
+]
+}

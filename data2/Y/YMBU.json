@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMBU","name":"Maryborough","lat":-37.03478795,"lon":143.70877845,"rwys":2,"ils":0,"elev":766,"index":5295418,"path":"e140s40/e143s38"
+,"runways":[
+{"len_m":761,"wid_m":93.88,"hdg":68,"surf":"Dirt","rwy1":"6","lat1":-37.03291155,"lon1":143.70861869,"rwy2":"24","lat2":-37.03038083,"lon2":143.71657659},
+{"len_m":1041,"wid_m":17.07,"hdg":172,"surf":"Asphalt","rwy1":"17","lat1":-37.03046198,"lon1":143.70667775,"rwy2":"35","lat2":-37.03977385,"lon2":143.70811005}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

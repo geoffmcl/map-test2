@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YFTN","name":"Mount Fitton Talc","lat":-29.90843476,"lon":139.47575645,"rwys":2,"ils":0,"elev":810,"index":5230337,"path":"e130s30/e139s30"
+,"runways":[
+{"len_m":1199,"wid_m":25.91,"hdg":9,"surf":"Dirt","rwy1":"01","lat1":-29.91011905,"lon1":139.47477508,"rwy2":"19","lat2":-29.89944143,"lon2":139.47681203},
+{"len_m":802,"wid_m":28.04,"hdg":147,"surf":"Dirt","rwy1":"14","lat1":-29.90424886,"lon1":139.47339922,"rwy2":"32","lat2":-29.91036061,"lon2":139.47785959}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

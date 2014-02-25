@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDLH","name":"Dalhousie","lat":-26.42317431,"lon":135.50387059,"rwys":2,"ils":0,"elev":381,"index":5165026,"path":"e130s30/e135s27"
+,"runways":[
+{"len_m":1291,"wid_m":60.05,"hdg":32,"surf":"Dirt","rwy1":"03","lat1":-26.42821253,"lon1":135.50557604,"rwy2":"21","lat2":-26.41843406,"lon2":135.51262293},
+{"len_m":620,"wid_m":32.92,"hdg":4,"surf":"Dirt","rwy1":"1","lat1":-26.42837950,"lon1":135.50909596,"rwy2":"19","lat2":-26.42279506,"lon2":135.50955640}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

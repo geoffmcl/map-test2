@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YIVL","name":"Inverell","lat":-29.88414686,"lon":151.14098623,"rwys":2,"ils":0,"elev":2666,"index":5426944,"path":"e150s30/e151s30"
+,"runways":[
+{"len_m":2084,"wid_m":29.87,"hdg":170,"surf":"Asphalt","rwy1":"16","lat1":-29.87894914,"lon1":151.14325578,"rwy2":"34","lat2":-29.89749236,"lon2":151.14683487},
+{"len_m":747,"wid_m":49.99,"hdg":50,"surf":"Dirt","rwy1":"04","lat1":-29.89279097,"lon1":151.13747858,"rwy2":"22","lat2":-29.88848129,"lon2":151.14342438}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"INVERELL MULT"},
+{"type":"TWR","freq":127.1,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

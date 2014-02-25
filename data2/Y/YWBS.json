@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWBS","name":"Warraber Island","lat":-10.20635779,"lon":142.82351401,"rwys":1,"ils":0,"elev":10,"index":5280758,"path":"e140s20/e142s11"
+,"runways":[
+{"len_m":719,"wid_m":17.98,"hdg":122,"surf":"Asphalt","rwy1":"12","lat1":-10.20565523,"lon1":142.82118679,"rwy2":"30","lat2":-10.20915789,"lon2":142.82671531}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":120.3,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126.5,"desc":"WARRABER MULT"}
+]
+,"ils":[
+]
+}

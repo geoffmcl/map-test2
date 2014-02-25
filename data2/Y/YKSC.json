@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YKSC","name":"Kingscote","lat":-35.70952573,"lon":137.52276100,"rwys":3,"ils":0,"elev":24,"index":5197202,"path":"e130s40/e137s36"
+,"runways":[
+{"len_m":1400,"wid_m":29.87,"hdg":21,"surf":"Asphalt","rwy1":"01","lat1":-35.72114454,"lon1":137.52289085,"rwy2":"19","lat2":-35.70937996,"lon2":137.52851103},
+{"len_m":1129,"wid_m":43.89,"hdg":156,"surf":"Dirt","rwy1":"15","lat1":-35.70961112,"lon1":137.51807614,"rwy2":"33","lat2":-35.71895548,"lon2":137.52303086},
+{"len_m":966,"wid_m":46.94,"hdg":66,"surf":"Dirt","rwy1":"06","lat1":-35.71485762,"lon1":137.51679471,"rwy2":"24","lat2":-35.71132332,"lon2":137.52655845}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.3,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126,"desc":"KINGSCOTE MULT"},
+{"type":"APP","freq":123.05,"desc":"ADELAIDE APP"}
+]
+,"ils":[
+]
+}

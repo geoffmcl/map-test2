@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCFS","name":"Coffs Harbour","lat":-30.32396900,"lon":153.11585700,"rwys":2,"ils":0,"elev":18,"index":5459688,"path":"e150s40/e153s31"
+,"runways":[
+{"len_m":2079,"wid_m":45.11,"hdg":40,"surf":"Asphalt","rwy1":"03","lat1":-30.33838400,"lon1":153.10653400,"rwy2":"21","lat2":-30.32416200,"lon2":153.12064200},
+{"len_m":852,"wid_m":17.98,"hdg":107,"surf":"Asphalt","rwy1":"10","lat1":-30.31644900,"lon1":153.11409600,"rwy2":"28","lat2":-30.31870700,"lon2":153.12256400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":130.3,"desc":"YSCH ATIS"},
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.2,"desc":"COFFS HARBOUR MULT"},
+{"type":"TWR","freq":118.2,"desc":"COFFS TWR"},
+{"type":"TWR","freq":122.6,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

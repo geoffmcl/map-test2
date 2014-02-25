@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNDR","name":"Nundroo","lat":-31.79040680,"lon":132.21922969,"rwys":2,"ils":0,"elev":98,"index":5115528,"path":"e130s40/e132s32"
+,"runways":[
+{"len_m":1074,"wid_m":29.87,"hdg":14,"surf":"Dirt","rwy1":"01","lat1":-31.79996163,"lon1":132.21593733,"rwy2":"19","lat2":-31.79057300,"lon2":132.21875100},
+{"len_m":510,"wid_m":21.95,"hdg":56,"surf":"Dirt","rwy1":"5","lat1":-31.79987191,"lon1":132.21598199,"rwy2":"23","lat2":-31.79731934,"lon2":132.22047394}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

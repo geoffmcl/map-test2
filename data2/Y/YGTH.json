@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGTH","name":"Griffith","lat":-34.25502715,"lon":146.06255943,"rwys":2,"ils":0,"elev":439,"index":5344744,"path":"e140s40/e146s35"
+,"runways":[
+{"len_m":1502,"wid_m":29.87,"hdg":65,"surf":"Asphalt","rwy1":"06","lat1":-34.25648475,"lon1":146.05382608,"rwy2":"24","lat2":-34.25093045,"lon2":146.06870885},
+{"len_m":718,"wid_m":91.14,"hdg":8,"surf":"Dirt","rwy1":"18","lat1":-34.25256760,"lon1":146.06748956,"rwy2":"36","lat2":-34.24615860,"lon2":146.06860709}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.55,"desc":"GRIFFITH MULT"},
+{"type":"TWR","freq":126,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

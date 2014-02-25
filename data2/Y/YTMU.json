@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTMU","name":"Tumut","lat":-35.26776824,"lon":148.24213887,"rwys":1,"ils":0,"elev":877,"index":5377448,"path":"e140s40/e148s36"
+,"runways":[
+{"len_m":1059,"wid_m":17.98,"hdg":182,"surf":"Asphalt","rwy1":"17","lat1":-35.26347311,"lon1":148.24068605,"rwy2":"35","lat2":-35.27301489,"lon2":148.24027794}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"TUMUT MULT"},
+{"type":"TWR","freq":119.5,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

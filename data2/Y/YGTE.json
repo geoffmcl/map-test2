@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGTE","name":"Groote Eylandt","lat":-13.97348783,"lon":136.46008987,"rwys":1,"ils":0,"elev":52,"index":5182211,"path":"e130s20/e136s14"
+,"runways":[
+{"len_m":1904,"wid_m":29.87,"hdg":99,"surf":"Asphalt","rwy1":"10","lat1":-13.97104320,"lon1":136.45008125,"rwy2":"28","lat2":-13.97377780,"lon2":136.46747991}
+]
+,"helipads":[
+{"rwy1":"H8","len_m":14,"wid_m":14.94,"hdg":136,"surf":"Asphalt","lat1":-13.97335272,"lon1":136.46033854}
+]
+,"radios":[
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":122.2,"desc":"BRISBANE CENTRE MULT"},
+{"type":"CTAF","freq":126,"desc":"GROOTE EYLANDT MULT"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPLI","name":"Palmers Island/maclean","lat":-29.44473889,"lon":153.26681579,"rwys":1,"ils":0,"elev":6,"index":5459745,"path":"e150s30/e153s30"
+,"runways":[
+{"len_m":900,"wid_m":17.98,"hdg":99,"surf":"Turf/grass","rwy1":"09","lat1":-29.44514748,"lon1":153.26623016,"rwy2":"27","lat2":-29.44648204,"lon2":153.27538824}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"McIntyres Field MULT"},
+{"type":"TWR","freq":122.6,"desc":"BRISBANE CENTRE CNTR"}
+]
+,"ils":[
+]
+}

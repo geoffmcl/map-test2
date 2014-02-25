@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPRA","name":"Prairie","lat":-36.31046688,"lon":144.14718970,"rwys":3,"ils":0,"elev":356,"index":5311848,"path":"e140s40/e144s37"
+,"runways":[
+{"len_m":715,"wid_m":17.98,"hdg":128,"surf":"Turf/grass","rwy1":"13","lat1":-36.30908842,"lon1":144.14009263,"rwy2":"31","lat2":-36.31307194,"lon2":144.14635526},
+{"len_m":505,"wid_m":28.96,"hdg":183,"surf":"Turf/grass","rwy1":"1","lat1":-36.30867962,"lon1":144.14661133,"rwy2":"19","lat2":-36.31322439,"lon2":144.14628564},
+{"len_m":750,"wid_m":29.87,"hdg":50,"surf":"Turf/grass","rwy1":"04","lat1":-36.31295497,"lon1":144.14037906,"rwy2":"22","lat2":-36.30862184,"lon2":144.14680164}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

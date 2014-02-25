@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTIB","name":"Tibooburra","lat":-29.44895594,"lon":142.05783023,"rwys":2,"ils":0,"elev":584,"index":5279520,"path":"e140s30/e142s30"
+,"runways":[
+{"len_m":993,"wid_m":17.98,"hdg":29,"surf":"Asphalt","rwy1":"02","lat1":-29.45742624,"lon1":142.05413052,"rwy2":"20","lat2":-29.44964682,"lon2":142.05922645},
+{"len_m":1652,"wid_m":71.02,"hdg":161,"surf":"Dirt","rwy1":"15","lat1":-29.44347847,"lon1":142.05362599,"rwy2":"33","lat2":-29.45758215,"lon2":142.05914175}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

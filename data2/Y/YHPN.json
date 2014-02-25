@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YHPN","name":"Hopetoun (vic)","lat":-35.71625889,"lon":142.35698557,"rwys":2,"ils":0,"elev":256,"index":5279121,"path":"e140s40/e142s36"
+,"runways":[
+{"len_m":1195,"wid_m":21.03,"hdg":20,"surf":"Asphalt","rwy1":"2","lat1":-35.72057957,"lon1":142.35804516,"rwy2":"20","lat2":-35.71046523,"lon2":142.36260386},
+{"len_m":602,"wid_m":95.10,"hdg":89,"surf":"Turf/grass","rwy1":"8","lat1":-35.71397860,"lon1":142.35702287,"rwy2":"26","lat2":-35.71396766,"lon2":142.36367995}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

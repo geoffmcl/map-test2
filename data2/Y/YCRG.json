@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YCRG","name":"Corryong","lat":-36.18334895,"lon":147.89276330,"rwys":1,"ils":0,"elev":962,"index":5361011,"path":"e140s40/e147s37"
+,"runways":[
+{"len_m":1398,"wid_m":17.98,"hdg":72,"surf":"Asphalt","rwy1":"06","lat1":-36.18529389,"lon1":147.87889255,"rwy2":"24","lat2":-36.18143647,"lon2":147.89368913}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CORRYONG MULT"},
+{"type":"TWR","freq":125.2,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

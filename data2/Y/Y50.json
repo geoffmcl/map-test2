@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"Y50","name":"Wautoma Muni","lat":44.04599500,"lon":-89.30618800,"rwys":3,"ils":0,"elev":859,"index":1483138,"path":"w090n40/w090n44"
+,"runways":[
+{"len_m":1006,"wid_m":18.29,"hdg":131,"surf":"Asphalt","rwy1":"13","lat1":44.04463900,"lon1":-89.30917200,"rwy2":"31","lat2":44.03861100,"lon2":-89.29980600},
+{"len_m":694,"wid_m":45.72,"hdg":82,"surf":"Turf/grass","rwy1":"08","lat1":44.04497800,"lon1":-89.31187500,"rwy2":"26","lat2":44.04579400,"lon2":-89.30327800},
+{"len_m":363,"wid_m":10.67,"hdg":47,"surf":"Asphalt","rwy1":"05","lat1":44.04053060,"lon1":-89.30617035,"rwy2":"23","lat2":44.04271940,"lon2":-89.30280165}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

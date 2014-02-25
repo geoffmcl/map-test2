@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWBL","name":"Warrnambool","lat":-38.29899719,"lon":142.44950683,"rwys":2,"ils":0,"elev":242,"index":5278953,"path":"e140s40/e142s39"
+,"runways":[
+{"len_m":1369,"wid_m":29.87,"hdg":138,"surf":"Asphalt","rwy1":"13","lat1":-38.28967304,"lon1":142.44135937,"rwy2":"31","lat2":-38.29885657,"lon2":142.45182142},
+{"len_m":1188,"wid_m":86.87,"hdg":48,"surf":"Transparent","rwy1":"04","lat1":-38.29890703,"lon1":142.44309876,"rwy2":"22","lat2":-38.29177559,"lon2":142.45322599}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

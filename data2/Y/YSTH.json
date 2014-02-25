@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSTH","name":"St Helens","lat":-41.33655331,"lon":148.28132498,"rwys":1,"ils":0,"elev":158,"index":5377065,"path":"e140s50/e148s42"
+,"runways":[
+{"len_m":1071,"wid_m":17.98,"hdg":93,"surf":"Gravel","rwy1":"08","lat1":-41.33746600,"lon1":148.27911000,"rwy2":"26","lat2":-41.33806600,"lon2":148.29188800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.2,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":119.1,"desc":"ST HELENS MULT"},
+{"type":"TWR","freq":126.5,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

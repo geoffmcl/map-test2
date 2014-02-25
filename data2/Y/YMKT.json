@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMKT","name":"Emkaytee","lat":-12.60829273,"lon":131.05718030,"rwys":2,"ils":0,"elev":69,"index":5100376,"path":"e130s20/e131s13"
+,"runways":[
+{"len_m":1279,"wid_m":29.87,"hdg":74,"surf":"Dirt","rwy1":"07","lat1":-12.61156084,"lon1":131.04660062,"rwy2":"25","lat2":-12.60854645,"lon2":131.05796962},
+{"len_m":819,"wid_m":34.14,"hdg":162,"surf":"Dirt","rwy1":"16","lat1":-12.60621198,"lon1":131.04627421,"rwy2":"34","lat2":-12.61329001,"lon2":131.04849166}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.1,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

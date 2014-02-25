@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YKBR","name":"Kalbarri","lat":-27.68583039,"lon":114.26178216,"rwys":1,"ils":0,"elev":514,"index":4820881,"path":"e110s30/e114s28"
+,"runways":[
+{"len_m":1600,"wid_m":29.87,"hdg":0,"surf":"Asphalt","rwy1":"18","lat1":-27.69942048,"lon1":114.25922285,"rwy2":"36","lat2":-27.68497600,"lon2":114.25925132}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"Kalbarri MULT"},
+{"type":"TWR","freq":121.2,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

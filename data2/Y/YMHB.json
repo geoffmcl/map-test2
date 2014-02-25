@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMHB","name":"Hobart","lat":-42.83565863,"lon":147.50161902,"rwys":1,"ils":1,"elev":12,"index":5360586,"path":"e140s50/e147s43"
+,"runways":[
+{"len_m":2250,"wid_m":45.11,"hdg":135,"surf":"Asphalt","rwy1":"12","lat1":-42.82900549,"lon1":147.50206525,"rwy2":"30","lat2":-42.84332901,"lon2":147.52153013}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":22,"wid_m":22.86,"hdg":147,"surf":"Asphalt","lat1":-42.83864300,"lon1":147.50904994}
+]
+,"radios":[
+{"type":"ATIS","freq":128.44,"desc":"YMHB ATIS"},
+{"type":"CTAF","freq":118.1,"desc":"HOBART MULT"},
+{"type":"TWR","freq":118.1,"desc":"HOBART TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":-42.84611100,"lon":147.52527800,"rng_nm":18,"alt_fmsl":12,"hdg":135.13,"id":"IHB","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":-42.83000000,"lon":147.50583300,"rng_nm":10,"alt_fmsl":12,"id":"IHB","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-42.78611100,"lon":147.43694400,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":-42.81250000,"lon":147.47861100,"rng_nm":0,"alt_fmsl":12,"id":"----","rwy":"12","desc":"MM"}
+]
+}

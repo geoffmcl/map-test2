@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNRV","name":"Ravensthorpe","lat":-33.79299117,"lon":120.21204707,"rwys":2,"ils":0,"elev":209,"index":4918792,"path":"e120s40/e120s34"
+,"runways":[
+{"len_m":1677,"wid_m":29.87,"hdg":58,"surf":"Asphalt","rwy1":"06","lat1":-33.80180007,"lon1":120.20038833,"rwy2":"24","lat2":-33.79399067,"lon2":120.21590551},
+{"len_m":1197,"wid_m":29.87,"hdg":138,"surf":"Gravel","rwy1":"14","lat1":-33.79341690,"lon1":120.20688908,"rwy2":"32","lat2":-33.80152910,"lon2":120.21541692}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

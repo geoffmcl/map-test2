@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSMI","name":"Smithton","lat":-40.82877100,"lon":145.08405700,"rwys":2,"ils":0,"elev":31,"index":5327944,"path":"e140s50/e145s41"
+,"runways":[
+{"len_m":1600,"wid_m":17.98,"hdg":69,"surf":"Asphalt","rwy1":"06","lat1":-40.83857300,"lon1":145.07491600,"rwy2":"24","lat2":-40.83350900,"lon2":145.09268600},
+{"len_m":550,"wid_m":17.98,"hdg":112,"surf":"Gravel","rwy1":"10","lat1":-40.83094100,"lon1":145.08480900,"rwy2":"28","lat2":-40.83287500,"lon2":145.09081900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":119.1,"desc":"SMITHTON MULT"},
+{"type":"TWR","freq":122.6,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

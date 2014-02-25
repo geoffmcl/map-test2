@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YIMB","name":"Kimba","lat":-33.09392862,"lon":136.46823858,"rwys":2,"ils":0,"elev":764,"index":5180985,"path":"e130s40/e136s34"
+,"runways":[
+{"len_m":1574,"wid_m":24.99,"hdg":40,"surf":"Dirt","rwy1":"03","lat1":-33.09855790,"lon1":136.46076785,"rwy2":"21","lat2":-33.08772708,"lon2":136.47167839},
+{"len_m":1300,"wid_m":22.86,"hdg":160,"surf":"Dirt","rwy1":"15","lat1":-33.08355252,"lon1":136.46068758,"rwy2":"33","lat2":-33.09458752,"lon2":136.46538858}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

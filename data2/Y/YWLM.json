@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWLM","name":"Williamtown","lat":-32.79123700,"lon":151.83940100,"rwys":1,"ils":1,"elev":31,"index":5426763,"path":"e150s40/e151s33"
+,"runways":[
+{"len_m":2438,"wid_m":45.11,"hdg":130,"surf":"Asphalt","rwy1":"12","lat1":-32.78876700,"lon1":151.82486900,"rwy2":"30","lat2":-32.80298900,"lon2":151.84472200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":125.7,"desc":"ATIS"},
+{"type":"CTAF","freq":118.3,"desc":"CTAF"},
+{"type":"CLD","freq":130.35,"desc":"CLNC DEL"},
+{"type":"GND","freq":121.8,"desc":"GND"},
+{"type":"TWR","freq":118.3,"desc":"TWR"},
+{"type":"APP","freq":135.7,"desc":"WILLY APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.5,"lat":-32.80472200,"lon":151.84694400,"rng_nm":18,"alt_fmsl":31,"hdg":130.68,"id":"IWM","rwy":"12","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.5,"lat":-32.79138900,"lon":151.82638900,"rng_nm":10,"alt_fmsl":31,"id":"IWM","rwy":"12","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":-32.73111100,"lon":151.74444400,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"12","desc":"OM"},
+{"type":"MM","freq":0,"lat":-32.78277800,"lon":151.81611100,"rng_nm":0,"alt_fmsl":31,"id":"----","rwy":"12","desc":"MM"}
+]
+}

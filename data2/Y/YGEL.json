@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGEL","name":"Geraldton","lat":-28.79600700,"lon":114.70292300,"rwys":3,"ils":0,"elev":121,"index":4820810,"path":"e110s30/e114s29"
+,"runways":[
+{"len_m":687,"wid_m":31.09,"hdg":79,"surf":"Dirt","rwy1":"06","lat1":-28.78767313,"lon1":114.70164729,"rwy2":"24","lat2":-28.78653268,"lon2":114.70857200},
+{"len_m":945,"wid_m":49.99,"hdg":142,"surf":"Dirt","rwy1":"14","lat1":-28.78792778,"lon1":114.70021797,"rwy2":"32","lat2":-28.79467360,"lon2":114.70614278},
+{"len_m":1980,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"03","lat1":-28.80453303,"lon1":114.70336576,"rwy2":"21","lat2":-28.78757500,"lon2":114.70976548}
+]
+,"helipads":[
+{"rwy1":"H6","len_m":10,"wid_m":10.97,"hdg":114,"surf":"Asphalt","lat1":-28.79479288,"lon1":114.70349405}
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

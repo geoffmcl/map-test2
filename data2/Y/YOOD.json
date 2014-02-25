@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YOOD","name":"Oodnadatta","lat":-27.55712158,"lon":135.44087648,"rwys":2,"ils":0,"elev":386,"index":5164953,"path":"e130s30/e135s28"
+,"runways":[
+{"len_m":1411,"wid_m":60.05,"hdg":138,"surf":"Dirt","rwy1":"13","lat1":-27.55792403,"lon1":135.43844964,"rwy2":"31","lat2":-27.56748307,"lon2":135.44789501},
+{"len_m":1361,"wid_m":38.10,"hdg":48,"surf":"Dirt","rwy1":"04","lat1":-27.56184288,"lon1":135.43824988,"rwy2":"22","lat2":-27.55363888,"lon2":135.44851641}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

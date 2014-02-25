@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWOV","name":"Woodvale","lat":-36.63659700,"lon":144.18843600,"rwys":2,"ils":0,"elev":494,"index":5311824,"path":"e140s40/e144s37"
+,"runways":[
+{"len_m":998,"wid_m":30.48,"hdg":162,"surf":"Dirt","rwy1":"16","lat1":-36.62790807,"lon1":144.18165005,"rwy2":"34","lat2":-36.63651193,"lon2":144.18492795},
+{"len_m":1000,"wid_m":30.48,"hdg":129,"surf":"Dirt","rwy1":"12","lat1":-36.62945643,"lon1":144.17906876,"rwy2":"30","lat2":-36.63523957,"lon2":144.18765724}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMYU","name":"Myrup","lat":-33.79257333,"lon":121.95670913,"rwys":2,"ils":0,"elev":43,"index":4935179,"path":"e120s40/e121s34"
+,"runways":[
+{"len_m":1376,"wid_m":29.87,"hdg":38,"surf":"Dirt","rwy1":"04","lat1":-33.79623840,"lon1":121.94931797,"rwy2":"22","lat2":-33.78653100,"lon2":121.95858100},
+{"len_m":933,"wid_m":18.90,"hdg":134,"surf":"Dirt","rwy1":"13","lat1":-33.78911549,"lon1":121.95612732,"rwy2":"31","lat2":-33.79499400,"lon2":121.96334223}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWGN","name":"Wagin","lat":-33.31644552,"lon":117.35854483,"rwys":2,"ils":0,"elev":837,"index":4869673,"path":"e110s40/e117s34"
+,"runways":[
+{"len_m":1005,"wid_m":22.86,"hdg":168,"surf":"Dirt","rwy1":"16","lat1":-33.31381815,"lon1":117.35947219,"rwy2":"34","lat2":-33.32269838,"lon2":117.36163426},
+{"len_m":1037,"wid_m":25.91,"hdg":50,"surf":"Dirt","rwy1":"05","lat1":-33.31920691,"lon1":117.35592271,"rwy2":"23","lat2":-33.31320035,"lon2":117.36445858}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.6,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

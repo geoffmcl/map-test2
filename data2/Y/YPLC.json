@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPLC","name":"Port Lincoln","lat":-34.60332656,"lon":135.87500473,"rwys":3,"ils":0,"elev":35,"index":5164507,"path":"e130s40/e135s35"
+,"runways":[
+{"len_m":1488,"wid_m":29.87,"hdg":16,"surf":"Asphalt","rwy1":"01","lat1":-34.61255162,"lon1":135.87680182,"rwy2":"19","lat2":-34.59969388,"lon2":135.88145881},
+{"len_m":1285,"wid_m":32.00,"hdg":57,"surf":"Dirt","rwy1":"05","lat1":-34.60736575,"lon1":135.87517518,"rwy2":"23","lat2":-34.60111311,"lon2":135.88697986},
+{"len_m":1450,"wid_m":35.97,"hdg":153,"surf":"Transparent","rwy1":"15","lat1":-34.59910034,"lon1":135.87536770,"rwy2":"33","lat2":-34.61083923,"lon2":135.88232375}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":17,"wid_m":17.07,"hdg":135,"surf":"Asphalt","lat1":-34.60276299,"lon1":135.87604516}
+]
+,"radios":[
+{"type":"CTAF","freq":124.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"JOHN MORRIS UNIC"},
+{"type":"CTAF","freq":125.9,"desc":"MELBOURNE CENTRE MULT"}
+]
+,"ils":[
+]
+}

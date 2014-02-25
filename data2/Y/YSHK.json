@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YSHK","name":"Shark Bay","lat":-25.89168100,"lon":113.57851000,"rwys":1,"ils":0,"elev":110,"index":4804610,"path":"e110s30/e113s26"
+,"runways":[
+{"len_m":1684,"wid_m":29.87,"hdg":179,"surf":"Asphalt","rwy1":"18","lat1":-25.88886700,"lon1":113.57721100,"rwy2":"36","lat2":-25.90407500,"lon2":113.57732500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":122.1,"desc":"MELBOURNE CNTR FSS"},
+{"type":"CTAF","freq":126.7,"desc":"CTAF UNICOM UNIC"}
+]
+,"ils":[
+]
+}

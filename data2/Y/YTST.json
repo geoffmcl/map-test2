@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YTST","name":"Truscott-mungalalu","lat":-14.09020677,"lon":126.38517346,"rwys":1,"ils":0,"elev":175,"index":5018363,"path":"e120s20/e126s15"
+,"runways":[
+{"len_m":1499,"wid_m":29.87,"hdg":128,"surf":"Asphalt","rwy1":"12","lat1":-14.08422000,"lon1":126.37552500,"rwy2":"30","lat2":-14.09262600,"lon2":126.38641500}
+]
+,"helipads":[
+{"rwy1":"H14","len_m":10,"wid_m":10.06,"hdg":126,"surf":"Dirt","lat1":-14.08990527,"lon1":126.38442886}
+]
+,"radios":[
+{"type":"CTAF","freq":128,"desc":"NORTH KIMBERLEY MULT"},
+{"type":"TWR","freq":132.9,"desc":"BRISBANE CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGLI","name":"Glen Innes","lat":-29.67497554,"lon":151.69296656,"rwys":2,"ils":0,"elev":3433,"index":5426962,"path":"e150s30/e151s30"
+,"runways":[
+{"len_m":1795,"wid_m":49.99,"hdg":105,"surf":"Transparent","rwy1":"10","lat1":-29.67316574,"lon1":151.67954768,"rwy2":"28","lat2":-29.67760936,"lon2":151.69738372},
+{"len_m":1679,"wid_m":29.87,"hdg":154,"surf":"Asphalt","rwy1":"14","lat1":-29.66705569,"lon1":151.68617475,"rwy2":"32","lat2":-29.68068031,"lon2":151.69375528}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

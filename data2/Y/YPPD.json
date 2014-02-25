@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YPPD","name":"Port Hedland Intl","lat":-20.38335854,"lon":118.62625714,"rwys":2,"ils":0,"elev":33,"index":4886885,"path":"e110s30/e118s21"
+,"runways":[
+{"len_m":2499,"wid_m":45.11,"hdg":137,"surf":"Asphalt","rwy1":"14","lat1":-20.37405594,"lon1":118.62163197,"rwy2":"32","lat2":-20.39068306,"lon2":118.63782871},
+{"len_m":998,"wid_m":17.98,"hdg":2,"surf":"Asphalt","rwy1":"18","lat1":-20.37923879,"lon1":118.62892539,"rwy2":"36","lat2":-20.37022498,"lon2":118.62932840}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":10,"wid_m":10.06,"hdg":118,"surf":"Asphalt","lat1":-20.38023369,"lon1":118.63228730},
+{"rwy1":"H2","len_m":20,"wid_m":21.03,"hdg":118,"surf":"Asphalt","lat1":-20.38096386,"lon1":118.63240775},
+{"rwy1":"H3","len_m":10,"wid_m":10.06,"hdg":118,"surf":"Asphalt","lat1":-20.38025347,"lon1":118.63271351}
+]
+,"radios":[
+{"type":"CTAF","freq":119.6,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.6,"desc":"MELBOURNE CENTRE MULT"},
+{"type":"CTAF","freq":119.9,"desc":"PORT HEDLAND MULT"}
+]
+,"ils":[
+]
+}

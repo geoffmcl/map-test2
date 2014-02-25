@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBUN","name":"Bunbury","lat":-33.37497106,"lon":115.68230873,"rwys":1,"ils":0,"elev":52,"index":4836906,"path":"e110s40/e115s34"
+,"runways":[
+{"len_m":1215,"wid_m":17.98,"hdg":63,"surf":"Asphalt","rwy1":"07","lat1":-33.38050742,"lon1":115.67265741,"rwy2":"25","lat2":-33.37558312,"lon2":115.68433140}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":125.1,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":126.7,"desc":"BUNBURY MULT"},
+{"type":"CTAF","freq":124.9,"desc":"MELBOURNE CENTRE MULT"}
+]
+,"ils":[
+]
+}

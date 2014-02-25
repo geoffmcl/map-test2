@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLEG","name":"Leongatha","lat":-38.49442337,"lon":145.85934057,"rwys":2,"ils":0,"elev":263,"index":5328099,"path":"e140s40/e145s39"
+,"runways":[
+{"len_m":1034,"wid_m":17.98,"hdg":46,"surf":"Asphalt","rwy1":"04","lat1":-38.49911708,"lon1":145.85706208,"rwy2":"22","lat2":-38.49269200,"lon2":145.86565100},
+{"len_m":662,"wid_m":18.90,"hdg":7,"surf":"Dirt","rwy1":"18","lat1":-38.49925646,"lon1":145.86007142,"rwy2":"36","lat2":-38.49334539,"lon2":145.86108248}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

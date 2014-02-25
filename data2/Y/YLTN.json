@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YLTN","name":"Laverton","lat":-28.61443235,"lon":122.42236391,"rwys":2,"ils":0,"elev":1530,"index":4951897,"path":"e120s30/e122s29"
+,"runways":[
+{"len_m":1799,"wid_m":29.87,"hdg":69,"surf":"Asphalt","rwy1":"07","lat1":-28.61675111,"lon1":122.42106063,"rwy2":"25","lat2":-28.61112500,"lon2":122.43831700},
+{"len_m":1039,"wid_m":78.94,"hdg":157,"surf":"Dirt","rwy1":"16","lat1":-28.60583780,"lon1":122.42244991,"rwy2":"34","lat2":-28.61451633,"lon2":122.42648414}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

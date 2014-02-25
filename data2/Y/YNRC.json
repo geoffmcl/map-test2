@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YNRC","name":"Naracoorte","lat":-36.97873083,"lon":140.72689744,"rwys":2,"ils":0,"elev":169,"index":5246274,"path":"e140s40/e140s37"
+,"runways":[
+{"len_m":1115,"wid_m":28.96,"hdg":27,"surf":"Turf/grass","rwy1":"02","lat1":-36.98827696,"lon1":140.72416010,"rwy2":"20","lat2":-36.97933443,"lon2":140.72988881},
+{"len_m":1045,"wid_m":17.98,"hdg":84,"surf":"Asphalt","rwy1":"08","lat1":-36.98091291,"lon1":140.71731960,"rwy2":"26","lat2":-36.97993255,"lon2":140.72899587}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

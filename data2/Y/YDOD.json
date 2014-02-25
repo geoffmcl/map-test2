@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YDOD","name":"Donald","lat":-36.36117326,"lon":143.00547008,"rwys":2,"ils":0,"elev":409,"index":5295464,"path":"e140s40/e143s37"
+,"runways":[
+{"len_m":1166,"wid_m":17.98,"hdg":97,"surf":"Asphalt","rwy1":"09","lat1":-36.35966900,"lon1":143.00461900,"rwy2":"27","lat2":-36.36105600,"lon2":143.01749700},
+{"len_m":812,"wid_m":29.87,"hdg":187,"surf":"Turf/grass","rwy1":"18","lat1":-36.36081400,"lon1":143.00742500,"rwy2":"36","lat2":-36.36806900,"lon2":143.00622800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

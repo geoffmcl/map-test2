@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YKII","name":"King Island","lat":-39.87959374,"lon":143.88199604,"rwys":3,"ils":0,"elev":131,"index":5295235,"path":"e140s40/e143s40"
+,"runways":[
+{"len_m":1583,"wid_m":29.87,"hdg":114,"surf":"Asphalt","rwy1":"10","lat1":-39.87342762,"lon1":143.87028355,"rwy2":"28","lat2":-39.87934438,"lon2":143.88712331},
+{"len_m":911,"wid_m":27.13,"hdg":73,"surf":"Transparent","rwy1":"06","lat1":-39.87798205,"lon1":143.87813512,"rwy2":"24","lat2":-39.87563186,"lon2":143.88834274},
+{"len_m":1225,"wid_m":32.92,"hdg":4,"surf":"Transparent","rwy1":"17","lat1":-39.88330064,"lon1":143.88353966,"rwy2":"35","lat2":-39.87229242,"lon2":143.88459306}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123.4,"desc":"ACTIVATE LIGHTS ONLY MULT"},
+{"type":"CTAF","freq":118.8,"desc":"KING I MULT"},
+{"type":"TWR","freq":123.9,"desc":"MELBOURNE CNTR"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YRBE","name":"Robe","lat":-37.17648665,"lon":139.80293054,"rwys":2,"ils":0,"elev":20,"index":5229875,"path":"e130s40/e139s38"
+,"runways":[
+{"len_m":525,"wid_m":32.92,"hdg":31,"surf":"Turf/grass","rwy1":"02","lat1":-37.17678807,"lon1":139.80410728,"rwy2":"20","lat2":-37.17277256,"lon2":139.80724102},
+{"len_m":650,"wid_m":52.12,"hdg":147,"surf":"Turf/grass","rwy1":"14","lat1":-37.17258265,"lon1":139.80328421,"rwy2":"32","lat2":-37.17752933,"lon2":139.80721647}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":121,"desc":"Robe MULTICOM"}
+]
+,"ils":[
+]
+}

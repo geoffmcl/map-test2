@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YGIG","name":"Gingin","lat":-31.46682714,"lon":115.86165772,"rwys":1,"ils":0,"elev":249,"index":4837027,"path":"e110s40/e115s32"
+,"runways":[
+{"len_m":1916,"wid_m":46.02,"hdg":74,"surf":"Asphalt","rwy1":"08","lat1":-31.46660548,"lon1":115.85328914,"rwy2":"26","lat2":-31.46212935,"lon2":115.87276356}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.5,"desc":"GINGIN CTAF"},
+{"type":"GND","freq":121.65,"desc":"GINGIN GND"},
+{"type":"TWR","freq":118.5,"desc":"GINGIN TWR"},
+{"type":"APP","freq":123.3,"desc":"PEARCE APP"},
+{"type":"APP","freq":128.1,"desc":"PERTH APP"},
+{"type":"DEP","freq":135.9,"desc":"PEARCE DEP"}
+]
+,"ils":[
+]
+}

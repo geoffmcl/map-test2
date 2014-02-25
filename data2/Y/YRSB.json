@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YRSB","name":"Roseberth","lat":-25.82675836,"lon":139.62709338,"rwys":2,"ils":0,"elev":180,"index":5230602,"path":"e130s30/e139s26"
+,"runways":[
+{"len_m":1422,"wid_m":29.87,"hdg":141,"surf":"Dirt","rwy1":"14","lat1":-25.82318259,"lon1":139.62504925,"rwy2":"32","lat2":-25.83320800,"lon2":139.63390800},
+{"len_m":1186,"wid_m":22.86,"hdg":115,"surf":"Dirt","rwy1":"11","lat1":-25.82340550,"lon1":139.62207529,"rwy2":"29","lat2":-25.82797734,"lon2":139.63278138}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

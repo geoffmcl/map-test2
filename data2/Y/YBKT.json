@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YBKT","name":"Burketown","lat":-17.74560587,"lon":139.53803101,"rwys":2,"ils":0,"elev":21,"index":5231124,"path":"e130s20/e139s18"
+,"runways":[
+{"len_m":1372,"wid_m":29.87,"hdg":41,"surf":"Asphalt","rwy1":"4","lat1":-17.75518364,"lon1":139.53096558,"rwy2":"22","lat2":-17.74594324,"lon2":139.53960275},
+{"len_m":814,"wid_m":49.99,"hdg":132,"surf":"Dirt","rwy1":"13","lat1":-17.74915243,"lon1":139.52611335,"rwy2":"31","lat2":-17.75412198,"lon2":139.53177490}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

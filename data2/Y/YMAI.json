@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMAI","name":"Manguri","lat":-28.98501127,"lon":134.39266561,"rwys":2,"ils":0,"elev":659,"index":5148481,"path":"e130s30/e134s29"
+,"runways":[
+{"len_m":1063,"wid_m":78.03,"hdg":172,"surf":"Dirt","rwy1":"17","lat1":-28.98460115,"lon1":134.39096738,"rwy2":"35","lat2":-28.99410935,"lon2":134.39246488},
+{"len_m":1266,"wid_m":74.98,"hdg":100,"surf":"Dirt","rwy1":"10","lat1":-28.98533874,"lon1":134.38285395,"rwy2":"28","lat2":-28.98741503,"lon2":134.39563454}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":126.7,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

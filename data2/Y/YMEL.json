@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YMEL","name":"Melton","lat":-37.61834901,"lon":144.56853304,"rwys":3,"ils":0,"elev":670,"index":5311770,"path":"e140s40/e144s38"
+,"runways":[
+{"len_m":923,"wid_m":49.99,"hdg":112,"surf":"Turf/grass","rwy1":"11","lat1":-37.62004971,"lon1":144.55993283,"rwy2":"29","lat2":-37.62317946,"lon2":144.56962419},
+{"len_m":968,"wid_m":49.07,"hdg":49,"surf":"Transparent","rwy1":"04","lat1":-37.62456233,"lon1":144.56094794,"rwy2":"22","lat2":-37.61890724,"lon2":144.56930749},
+{"len_m":528,"wid_m":49.99,"hdg":167,"surf":"Turf/grass","rwy1":"16","lat1":-37.61909012,"lon1":144.56708953,"rwy2":"34","lat2":-37.62374046,"lon2":144.56835686}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":124.2,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

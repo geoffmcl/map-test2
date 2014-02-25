@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"YWLU","name":"Wiluna","lat":-26.62783528,"lon":120.22025297,"rwys":2,"ils":0,"elev":1649,"index":4919248,"path":"e120s30/e120s27"
+,"runways":[
+{"len_m":1810,"wid_m":29.87,"hdg":146,"surf":"Asphalt","rwy1":"15","lat1":-26.62590422,"lon1":120.21686107,"rwy2":"33","lat2":-26.63954322,"lon2":120.22688363},
+{"len_m":1572,"wid_m":89.00,"hdg":32,"surf":"Dirt","rwy1":"3","lat1":-26.63871583,"lon1":120.21488535,"rwy2":"21","lat2":-26.62678638,"lon2":120.22344648}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":127.2,"desc":"CTAF"}
+]
+,"ils":[
+]
+}
