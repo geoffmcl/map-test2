@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"33V","name":"Walden Jackson Co","lat":40.7493645,"lon":-106.27150975,"rwys":2,"ils":0,"elev":8153,"index":1204394,"path":"w110n40/w107n40"
+,"runways":[
+{"len_m":1798,"wid_m":22.86,"hdg":45,"surf":"Asphalt","rwy1":"03","lat1":40.74447500,"lon1":-106.27926400,"rwy2":"21","lat2":40.75576100,"lon2":-106.26399700},
+{"len_m":1357,"wid_m":30.48,"hdg":180,"surf":"Turf/grass","rwy1":"16","lat1":40.75472200,"lon1":-106.27138900,"rwy2":"34","lat2":40.74250000,"lon2":-106.27138900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.62,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

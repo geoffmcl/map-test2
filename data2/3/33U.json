@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"33U","name":"Dutch John","lat":40.9197563333333,"lon":-109.389456,"rwys":3,"ils":0,"elev":6561,"index":1155258,"path":"w110n40/w110n40"
+,"runways":[
+{"len_m":2011,"wid_m":18.29,"hdg":123,"surf":"Asphalt","rwy1":"11","lat1":40.92305300,"lon1":-109.40166100,"rwy2":"29","lat2":40.91313300,"lon2":-109.38168100},
+{"len_m":1417,"wid_m":45.72,"hdg":44,"surf":"Dirt","rwy1":"03","lat1":40.91583300,"lon1":-109.39306100,"rwy2":"21","lat2":40.92485800,"lon2":-109.38116400},
+{"len_m":1346,"wid_m":30.48,"hdg":82,"surf":"Dirt","rwy1":"07","lat1":40.91999700,"lon1":-109.39750000,"rwy2":"25","lat2":40.92166400,"lon2":-109.38166900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

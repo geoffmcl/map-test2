@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3GV","name":"East Kansas City","lat":39.014914,"lon":-94.21442975,"rwys":2,"ils":0,"elev":835,"index":1400899,"path":"w100n30/w095n39"
+,"runways":[
+{"len_m":1373,"wid_m":13.41,"hdg":91,"surf":"Asphalt","rwy1":"09","lat1":39.01425600,"lon1":-94.22360800,"rwy2":"27","lat2":39.01398100,"lon2":-94.20775300},
+{"len_m":672,"wid_m":6.10,"hdg":57,"surf":"Asphalt","rwy1":"05","lat1":39.01407200,"lon1":-94.21644400,"rwy2":"23","lat2":39.01734700,"lon2":-94.20991400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":121.3,"desc":"KANSAS CITY CLNC DEL"},
+{"type":"APP","freq":119,"desc":"KANSAS CITY APP/DEP"}
+]
+,"ils":[
+]
+}

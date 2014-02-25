@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3CM","name":"James Clements Muni","lat":43.54686325,"lon":-83.8956245,"rwys":2,"ils":0,"elev":586,"index":1581408,"path":"w090n40/w084n43"
+,"runways":[
+{"len_m":1157,"wid_m":22.86,"hdg":176,"surf":"Asphalt","rwy1":"18","lat1":43.55239200,"lon1":-83.89540600,"rwy2":"36","lat2":43.54199400,"lon2":-83.89445800},
+{"len_m":798,"wid_m":22.86,"hdg":44,"surf":"Asphalt","rwy1":"05","lat1":43.54398100,"lon1":-83.89979200,"rwy2":"23","lat2":43.54908600,"lon2":-83.89284200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.95,"desc":"SAGINAW APP/DEP"}
+]
+,"ils":[
+]
+}

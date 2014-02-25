@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3SQ","name":"St Charles","lat":38.8489533333333,"lon":-90.4999453333333,"rwys":3,"ils":0,"elev":442,"index":1466418,"path":"w100n30/w091n38"
+,"runways":[
+{"len_m":1052,"wid_m":14.94,"hdg":90,"surf":"Asphalt","rwy1":"09","lat1":38.84696700,"lon1":-90.50760300,"rwy2":"27","lat2":38.84683100,"lon2":-90.49548600},
+{"len_m":749,"wid_m":31.39,"hdg":153,"surf":"Dirt","rwy1":"15","lat1":38.85302200,"lon1":-90.49956400,"rwy2":"33","lat2":38.84699400,"lon2":-90.49567500},
+{"len_m":687,"wid_m":30.48,"hdg":180,"surf":"Dirt","rwy1":"18","lat1":38.85305000,"lon1":-90.50067200,"rwy2":"36","lat2":38.84685600,"lon2":-90.50067200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":120.15,"desc":"CLNC DEL"},
+{"type":"APP","freq":124.2,"desc":"ST LOUIS APP/DEP"}
+]
+,"ils":[
+]
+}

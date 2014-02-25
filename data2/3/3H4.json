@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3H4","name":"Hillsboro Muni","lat":47.3594445,"lon":-97.0604165,"rwys":1,"ils":0,"elev":905,"index":1352275,"path":"w100n40/w098n47"
+,"runways":[
+{"len_m":999,"wid_m":18.29,"hdg":171,"surf":"Asphalt","rwy1":"16","lat1":47.36388900,"lon1":-97.06138900,"rwy2":"34","lat2":47.35500000,"lon2":-97.05944400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.9,"desc":"CTAF"},
+{"type":"APP","freq":120.4,"desc":"FARGO APP/DEP"}
+]
+,"ils":[
+]
+}

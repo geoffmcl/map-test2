@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3T5","name":"Fayette Rgnl Air Cntr","lat":29.907978,"lon":-96.9500125,"rwys":1,"ils":0,"elev":324,"index":1367544,"path":"w100n20/w097n29"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":162,"surf":"Asphalt","rwy1":"16","lat1":29.91453900,"lon1":-96.95238900,"rwy2":"34","lat2":29.90141700,"lon2":-96.94763600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

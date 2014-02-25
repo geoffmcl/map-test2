@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3I7","name":"Phillipsburg","lat":39.913278,"lon":-84.4004125,"rwys":1,"ils":0,"elev":1031,"index":1564794,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":914,"wid_m":12.19,"hdg":23,"surf":"Asphalt","rwy1":"03","lat1":39.90950300,"lon1":-84.40254700,"rwy2":"21","lat2":39.91705300,"lon2":-84.39827800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP"},
+{"type":"DEP","freq":118,"desc":"DAYTON DEP"}
+]
+,"ils":[
+]
+}

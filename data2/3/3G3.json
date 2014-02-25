@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3G3","name":"Wadsworth Muni","lat":41.00374231,"lon":-81.75603734,"rwys":2,"ils":0,"elev":974,"index":1614016,"path":"w090n40/w082n41"
+,"runways":[
+{"len_m":1075,"wid_m":22.86,"hdg":10,"surf":"Asphalt","rwy1":"02","lat1":40.99682500,"lon1":-81.75629400,"rwy2":"20","lat2":41.00634700,"lon2":-81.75395600},
+{"len_m":656,"wid_m":11.89,"hdg":90,"surf":"Asphalt","rwy1":"10","lat1":41.00548600,"lon1":-81.76271400,"rwy2":"28","lat2":41.00546700,"lon2":-81.75490600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.6,"desc":"AKRON CANTON APP/DEP"}
+]
+,"ils":[
+]
+}

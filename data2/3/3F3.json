@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3F3","name":"C E Rusty Williams","lat":32.072077,"lon":-93.765121,"rwys":2,"ils":0,"elev":324,"index":1416832,"path":"w100n30/w094n32"
+,"runways":[
+{"len_m":1540,"wid_m":45.72,"hdg":45,"surf":"Asphalt","rwy1":"04","lat1":32.06583300,"lon1":-93.77055300,"rwy2":"22","lat2":32.07555300,"lon2":-93.75888900},
+{"len_m":1371,"wid_m":30.48,"hdg":185,"surf":"Asphalt","rwy1":"18","lat1":32.07961400,"lon1":-93.76479200,"rwy2":"36","lat2":32.06730800,"lon2":-93.76625000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":119.9,"desc":"SHREVEPORT APP/DEP"},
+{"type":"APP","freq":121.4,"desc":"SHREVEPORT APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3L2","name":"Sky Ranch","lat":35.79767975,"lon":-115.62596325,"rwys":2,"ils":0,"elev":2599,"index":1056625,"path":"w120n30/w116n35"
+,"runways":[
+{"len_m":1017,"wid_m":13.72,"hdg":43,"surf":"Asphalt","rwy1":"03","lat1":35.79549200,"lon1":-115.62694700,"rwy2":"21","lat2":35.80211400,"lon2":-115.61915300},
+{"len_m":1005,"wid_m":32.00,"hdg":133,"surf":"Dirt","rwy1":"12","lat1":35.79969400,"lon1":-115.63289200,"rwy2":"30","lat2":35.79341900,"lon2":-115.62486100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"39N","name":"Princeton","lat":40.3990975,"lon":-74.6590095,"rwys":1,"ils":0,"elev":128,"index":1728665,"path":"w080n40/w075n40"
+,"runways":[
+{"len_m":1065,"wid_m":22.86,"hdg":89,"surf":"Asphalt","rwy1":"10","lat1":40.39903900,"lon1":-74.66528600,"rwy2":"28","lat2":40.39915600,"lon2":-74.65273300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.72,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":132.8,"desc":"NEW YORK APP/DEP"}
+]
+,"ils":[
+]
+}

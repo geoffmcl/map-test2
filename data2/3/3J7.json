@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3J7","name":"Greene Co Rgnl","lat":33.597671,"lon":-83.138996,"rwys":1,"ils":0,"elev":677,"index":1580771,"path":"w090n30/w084n33"
+,"runways":[
+{"len_m":1525,"wid_m":22.86,"hdg":64,"surf":"Asphalt","rwy1":"06","lat1":33.59466700,"lon1":-83.14638600,"rwy2":"24","lat2":33.60067500,"lon2":-83.13160600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.5,"desc":"ATLANTA APP/DEP"}
+]
+,"ils":[
+]
+}

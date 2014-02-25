@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3CU","name":"Cable Union","lat":46.1953,"lon":-91.2485355,"rwys":2,"ils":0,"elev":1360,"index":1450507,"path":"w100n40/w092n46"
+,"runways":[
+{"len_m":1130,"wid_m":22.86,"hdg":164,"surf":"Asphalt","rwy1":"16","lat1":46.19915300,"lon1":-91.24832200,"rwy2":"34","lat2":46.18933900,"lon2":-91.24449200},
+{"len_m":865,"wid_m":60.96,"hdg":77,"surf":"Turf/grass","rwy1":"08","lat1":46.19553300,"lon1":-91.25614200,"rwy2":"26","lat2":46.19717500,"lon2":-91.24518600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

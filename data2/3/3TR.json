@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3TR","name":"Jerry Tyler Mem","lat":41.8359325,"lon":-86.22517925,"rwys":2,"ils":0,"elev":750,"index":1532147,"path":"w090n40/w087n41"
+,"runways":[
+{"len_m":1249,"wid_m":22.86,"hdg":145,"surf":"Asphalt","rwy1":"14","lat1":41.84015800,"lon1":-86.22910300,"rwy2":"32","lat2":41.83083600,"lon2":-86.22068100},
+{"len_m":1010,"wid_m":15.24,"hdg":33,"surf":"Asphalt","rwy1":"03","lat1":41.83259200,"lon1":-86.22885800,"rwy2":"21","lat2":41.84014400,"lon2":-86.22207500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.55,"desc":"SOUTH BEND APP/DEP"}
+]
+,"ils":[
+]
+}

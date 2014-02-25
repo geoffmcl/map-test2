@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"32S","name":"Stevensville","lat":46.5250975,"lon":-114.052806,"rwys":1,"ils":0,"elev":3610,"index":1073699,"path":"w120n40/w115n46"
+,"runways":[
+{"len_m":1158,"wid_m":18.29,"hdg":133,"surf":"Asphalt","rwy1":"12","lat1":46.52866700,"lon1":-114.05830600,"rwy2":"30","lat2":46.52152800,"lon2":-114.04730600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":124.9,"desc":"SPOKANE APP/DEP"}
+]
+,"ils":[
+]
+}

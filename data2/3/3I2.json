@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3I2","name":"Mason Co","lat":38.914635,"lon":-82.0985795,"rwys":1,"ils":0,"elev":643,"index":1597499,"path":"w090n30/w083n38"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":64,"surf":"Asphalt","rwy1":"07","lat1":38.91230300,"lon1":-82.10494200,"rwy2":"25","lat2":38.91696700,"lon2":-82.09221700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.8,"desc":"AWOS 1"},
+{"type":"CTAF","freq":122.8,"desc":"UNICOM"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+,"ils":[
+]
+}

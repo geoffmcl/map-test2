@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3B5","name":"Twitchell","lat":44.18895275,"lon":-70.23285625,"rwys":2,"ils":0,"elev":356,"index":1794443,"path":"w080n40/w071n44"
+,"runways":[
+{"len_m":655,"wid_m":30.48,"hdg":100,"surf":"Turf/grass","rwy1":"11","lat1":44.18913300,"lon1":-70.23729700,"rwy2":"29","lat2":44.18802500,"lon2":-70.22924200},
+{"len_m":641,"wid_m":15.24,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":44.19031400,"lon1":-70.23621100,"rwy2":"30","lat2":44.18833900,"lon2":-70.22867500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"}
+]
+,"ils":[
+]
+}

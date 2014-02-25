@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3M7","name":"Lafayette Muni","lat":36.5183805,"lon":-86.0582805,"rwys":1,"ils":0,"elev":970,"index":1531811,"path":"w090n30/w087n36"
+,"runways":[
+{"len_m":1216,"wid_m":22.86,"hdg":6,"surf":"Asphalt","rwy1":"01","lat1":36.51293300,"lon1":-86.05902800,"rwy2":"19","lat2":36.52382800,"lon2":-86.05753300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.45,"desc":"NASHVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3AU","name":"Augusta Muni","lat":37.671632,"lon":-97.0778625,"rwys":1,"ils":0,"elev":1328,"index":1351659,"path":"w100n30/w098n37"
+,"runways":[
+{"len_m":1280,"wid_m":18.29,"hdg":184,"surf":"Asphalt","rwy1":"18","lat1":37.67738300,"lon1":-97.07733300,"rwy2":"36","lat2":37.66588100,"lon2":-97.07839200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":125,"desc":"CLNC DEL"},
+{"type":"APP","freq":134.8,"desc":"WICHITA APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3Y3","name":"Winterset Madison Co","lat":41.363183,"lon":-94.021061,"rwys":1,"ils":0,"elev":1110,"index":1401043,"path":"w100n40/w095n41"
+,"runways":[
+{"len_m":914,"wid_m":15.24,"hdg":141,"surf":"Asphalt","rwy1":"14","lat1":41.36641900,"lon1":-94.02443900,"rwy2":"32","lat2":41.35994700,"lon2":-94.01768300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.7,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":135.2,"desc":"DES MOINES APP/DEP"}
+]
+,"ils":[
+]
+}

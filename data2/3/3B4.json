@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3B4","name":"Littlebrook Air Park","lat":43.14305,"lon":-70.772078,"rwys":1,"ils":0,"elev":130,"index":1794376,"path":"w080n40/w071n43"
+,"runways":[
+{"len_m":786,"wid_m":15.24,"hdg":108,"surf":"Asphalt","rwy1":"12","lat1":43.14416400,"lon1":-70.77666400,"rwy2":"30","lat2":43.14193600,"lon2":-70.76749200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":125.05,"desc":"BOSTON APP/DEP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"38AZ","name":"Peabody Bedard Fld","lat":36.471667,"lon":-110.417779,"rwys":1,"ils":0,"elev":6564,"index":1138586,"path":"w120n30/w111n36"
+,"runways":[
+{"len_m":2280,"wid_m":22.86,"hdg":33,"surf":"Asphalt","rwy1":"02","lat1":36.46305600,"lon1":-110.42471900,"rwy2":"20","lat2":36.48027800,"lon2":-110.41083900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.22,"desc":"AWOS 2"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF"}
+]
+,"ils":[
+]
+}

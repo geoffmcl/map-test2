@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"3A1","name":"Folsom Fld","lat":34.268701,"lon":-86.858039,"rwys":1,"ils":0,"elev":969,"index":1531664,"path":"w090n30/w087n34"
+,"runways":[
+{"len_m":1676,"wid_m":30.48,"hdg":16,"surf":"Asphalt","rwy1":"02","lat1":34.26145800,"lon1":-86.86062800,"rwy2":"20","lat2":34.27594400,"lon2":-86.85545000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.05,"desc":"HUNTSVILLE APP/DEP"}
+]
+,"ils":[
+]
+}

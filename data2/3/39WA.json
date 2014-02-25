@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"39WA","name":"Tailskid Ranch","lat":47.84975137,"lon":-117.78379409,"rwys":1,"ils":0,"elev":1890,"index":1024624,"path":"w120n40/w118n47"
+,"runways":[
+{"len_m":730,"wid_m":12.19,"hdg":41,"surf":"Dirt","rwy1":"03","lat1":47.84727734,"lon1":-117.78700583,"rwy2":"21","lat2":47.85222539,"lon2":-117.78058235}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":135.18,"desc":"WX ASOS at DEW"},
+{"type":"CTAF","freq":122.72,"desc":"UNICOM"}
+]
+,"ils":[
+]
+}
