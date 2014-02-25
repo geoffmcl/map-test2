@@ -1,0 +1,20 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BKPR","name":"Pristina Intl","lat":42.58291647,"lon":21.03030656,"rwys":1,"ils":1,"elev":1789,"index":3301664,"path":"e020n40/e021n42"
+,"runways":[
+{"len_m":2488,"wid_m":45.11,"hdg":175,"surf":"Asphalt","rwy1":"17","lat1":42.58570004,"lon1":21.03454647,"rwy2":"35","lat2":42.56336104,"lon2":21.03682306}
+]
+,"helipads":[
+{"rwy1":"H1","len_m":49,"wid_m":49.99,"hdg":21,"surf":"Concrete","lat1":42.58306615,"lon1":21.03165924},
+{"rwy1":"H2","len_m":49,"wid_m":49.99,"hdg":21,"surf":"Concrete","lat1":42.58220127,"lon1":21.02732992}
+]
+,"radios":[
+{"type":"GND","freq":118,"desc":"GND"},
+{"type":"TWR","freq":122.1,"desc":"TWR"},
+{"type":"APP","freq":118.77,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.1,"lat":42.55875000,"lon":21.03730600,"rng_nm":18,"alt_fmsl":1794,"hdg":175.69,"id":"PRS","rwy":"17","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.1,"lat":42.58277800,"lon":21.03630600,"rng_nm":10,"alt_fmsl":1794,"id":"PRS","rwy":"17","desc":"GS","gs":3},
+{"type":"DME","freq":110.1,"lat":42.58361100,"lon":21.03638900,"rng_nm":18,"alt_fmsl":1794,"id":"PRS","rwy":"17","desc":"DME-ILS"}
+]
+}

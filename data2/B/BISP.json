@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BISP","name":"Sprengisandur","lat":64.65382606,"lon":-18.49582313,"rwys":2,"ils":0,"elev":2049,"index":2647721,"path":"w020n60/w019n64"
+,"runways":[
+{"len_m":953,"wid_m":49.99,"hdg":35,"surf":"Gravel","rwy1":"06","lat1":64.65206150,"lon1":-18.50070500,"rwy2":"24","lat2":64.65906050,"lon2":-18.48923252},
+{"len_m":602,"wid_m":39.93,"hdg":75,"surf":"Gravel","rwy1":"10","lat1":64.65380793,"lon1":-18.50129433,"rwy2":"28","lat2":64.65519600,"lon2":-18.48910200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"COM"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BPD","name":"Bapi","lat":-7.74366500,"lon":147.02134200,"rwys":1,"ils":0,"elev":2750,"index":5362832,"path":"e140s10/e147s08"
+,"runways":[
+{"len_m":492,"wid_m":30.48,"hdg":327,"surf":"Dirt","rwy1":"33","lat1":-7.74546021,"lon1":147.02178722,"rwy2":"15","lat2":-7.74169179,"lon2":147.01941078}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"BPD AWOS"}
+]
+,"ils":[
+]
+}

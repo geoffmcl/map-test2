@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIBA","name":"Bakki","lat":63.55854959,"lon":-20.14519819,"rwys":2,"ils":0,"elev":29,"index":2614881,"path":"w030n60/w021n63"
+,"runways":[
+{"len_m":802,"wid_m":29.87,"hdg":18,"surf":"Turf/grass","rwy1":"03","lat1":63.55287085,"lon1":-20.15231335,"rwy2":"21","lat2":63.55971515,"lon2":-20.14729604},
+{"len_m":1000,"wid_m":29.87,"hdg":105,"surf":"Asphalt","rwy1":"12","lat1":63.55739655,"lon1":-20.14741460,"rwy2":"30","lat2":63.55498600,"lon2":-20.12803500}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"Control"}
+]
+,"ils":[
+]
+}

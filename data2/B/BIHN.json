@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIHN","name":"Hornafjordur","lat":64.30218087,"lon":-15.22648520,"rwys":1,"ils":0,"elev":23,"index":2696849,"path":"w020n60/w016n64"
+,"runways":[
+{"len_m":1504,"wid_m":29.87,"hdg":167,"surf":"Asphalt","rwy1":"18","lat1":64.30226501,"lon1":-15.23079419,"rwy2":"36","lat2":64.28910099,"lon2":-15.22390464}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":119.1,"desc":"AFIS"},
+{"type":"TWR","freq":118.1,"desc":"INFO"}
+]
+,"ils":[
+{"type":"OM","freq":0,"lat":64.25222222,"lon":-15.20413889,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"36","desc":"OM"},
+{"type":"IM","freq":0,"lat":64.25222222,"lon":-15.20413889,"rng_nm":0,"alt_fmsl":30,"id":"----","rwy":"36","desc":"IM"}
+]
+}

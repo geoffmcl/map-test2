@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIEG","name":"Egilsstadir","lat":65.27461098,"lon":-14.40650857,"rwys":1,"ils":1,"elev":76,"index":2713297,"path":"w020n60/w015n65"
+,"runways":[
+{"len_m":2007,"wid_m":45.11,"hdg":25,"surf":"Asphalt","rwy1":"04","lat1":65.27469464,"lon1":-14.41126621,"rwy2":"22","lat2":65.29096500,"lon2":-14.39285011}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":119.4,"desc":"AFIS"}
+]
+,"ils":[
+{"type":"ILS","freq":109.3,"lat":65.29250000,"lon":-14.39113889,"rng_nm":18,"alt_fmsl":76,"hdg":25.26,"id":"IES","rwy":"04","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.3,"lat":65.27911111,"lon":-14.40944444,"rng_nm":10,"alt_fmsl":76,"id":"IES","rwy":"04","desc":"GS","gs":3}
+]
+}

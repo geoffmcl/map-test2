@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIAR","name":"Akureyri","lat":65.65465278,"lon":-18.07558168,"rwys":1,"ils":1,"elev":5,"index":2647785,"path":"w020n60/w019n65"
+,"runways":[
+{"len_m":2400,"wid_m":45.11,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":65.64584450,"lon1":-18.06994448,"rwy2":"19","lat2":65.66730400,"lon2":-18.07400520}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":118.7,"desc":"RADAR"}
+]
+,"ils":[
+{"type":"LOC","freq":111.9,"lat":65.63144444,"lon":-18.01119444,"rng_nm":18,"alt_fmsl":200,"id":"IEY","rwy":"01","desc":"LDA"},
+{"type":"GS","freq":111.9,"lat":65.64850000,"lon":-18.06780556,"rng_nm":10,"alt_fmsl":44,"id":"IEY","rwy":"01","desc":"GS","gs":5},
+{"type":"IM","freq":0,"lat":65.60113889,"lon":-18.04361111,"rng_nm":0,"alt_fmsl":32,"id":"----","rwy":"01","desc":"IM"}
+]
+}

@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIKA","name":"Kaldarmelar","lat":64.77962857,"lon":-22.25744121,"rwys":2,"ils":0,"elev":160,"index":2582193,"path":"w030n60/w023n64"
+,"runways":[
+{"len_m":532,"wid_m":27.43,"hdg":138,"surf":"Gravel","rwy1":"16","lat1":64.78475243,"lon1":-22.26185533,"rwy2":"34","lat2":64.78115037,"lon2":-22.25450587},
+{"len_m":655,"wid_m":25.91,"hdg":16,"surf":"Turf/grass","rwy1":"04","lat1":64.77381135,"lon1":-22.26042386,"rwy2":"22","lat2":64.77945829,"lon2":-22.25660663}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"INFO"}
+]
+,"ils":[
+]
+}

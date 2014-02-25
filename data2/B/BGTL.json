@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BGTL","name":"Thule Air Base","lat":76.531203,"lon":-68.7031625,"rwys":1,"ils":1,"elev":251,"index":1829280,"path":"w070n70/w069n76"
+,"runways":[
+{"len_m":3047,"wid_m":42.67,"hdg":84,"surf":"Asphalt","rwy1":"08T","lat1":76.53000600,"lon1":-68.76151100,"rwy2":"26T","lat2":76.53240000,"lon2":-68.64481400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CLD","freq":119.9,"desc":"CLNC DEL"},
+{"type":"GND","freq":119.9,"desc":"GND"},
+{"type":"TWR","freq":126.2,"desc":"TWR"},
+{"type":"APP","freq":134.1,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.5,"lat":76.53263092,"lon":-68.63301849,"rng_nm":18,"alt_fmsl":251,"hdg":85.06,"id":"IITL","rwy":"08T","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.5,"lat":76.53109741,"lon":-68.75268555,"rng_nm":10,"alt_fmsl":251,"id":"IITL","rwy":"08T","desc":"GS","gs":3}
+]
+}

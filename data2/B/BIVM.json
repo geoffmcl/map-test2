@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIVM","name":"Vestmannaeyjar","lat":63.42583959,"lon":-20.27398206,"rwys":4,"ils":0,"elev":326,"index":2614873,"path":"w030n60/w021n63"
+,"runways":[
+{"len_m":1193,"wid_m":45.11,"hdg":109,"surf":"Asphalt","rwy1":"13","lat1":63.42561100,"lon1":-20.28702800,"rwy2":"31","lat2":63.42200000,"lon2":-20.26452800},
+{"len_m":1142,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"04","lat1":63.42005600,"lon1":-20.28202800,"rwy2":"22","lat2":63.42977800,"lon2":-20.27480600},
+{"len_m":1160,"wid_m":45.11,"hdg":18,"surf":"Asphalt","rwy1":"03","lat1":63.42070000,"lon1":-20.28242000,"rwy2":"21","lat2":63.43056950,"lon2":-20.27500300},
+{"len_m":1205,"wid_m":45.11,"hdg":110,"surf":"Asphalt","rwy1":"12","lat1":63.42633600,"lon1":-20.28751133,"rwy2":"30","lat2":63.42258600,"lon2":-20.26487800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.5,"desc":"TWR"}
+]
+,"ils":[
+]
+}

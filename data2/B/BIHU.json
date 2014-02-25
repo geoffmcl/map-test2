@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIHU","name":"Husavik","lat":65.9523055,"lon":-17.425978,"rwys":1,"ils":1,"elev":47,"index":2664185,"path":"w020n60/w018n65"
+,"runways":[
+{"len_m":1600,"wid_m":47.85,"hdg":11,"surf":"Asphalt","rwy1":"03","lat1":65.94527500,"lon1":-17.42950600,"rwy2":"21","lat2":65.95933600,"lon2":-17.42245000}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"INFO"}
+]
+,"ils":[
+{"type":"LOC","freq":110.9,"lat":65.96305556,"lon":-17.42138889,"rng_nm":18,"alt_fmsl":51,"id":"IHU","rwy":"03","desc":"LOC"},
+{"type":"OM","freq":0,"lat":65.87777778,"lon":-17.46333333,"rng_nm":0,"alt_fmsl":48,"id":"----","rwy":"03","desc":"OM"}
+]
+}

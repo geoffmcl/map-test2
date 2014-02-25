@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIRK","name":"Reykjavik","lat":64.13058123,"lon":-21.93379856,"rwys":3,"ils":2,"elev":47,"index":2598536,"path":"w030n60/w022n64"
+,"runways":[
+{"len_m":1567,"wid_m":45.11,"hdg":355,"surf":"Asphalt","rwy1":"01","lat1":64.12195850,"lon1":-21.93619700,"rwy2":"19","lat2":64.13596750,"lon2":-21.93885367},
+{"len_m":855,"wid_m":29.87,"hdg":46,"surf":"Asphalt","rwy1":"06","lat1":64.12724050,"lon1":-21.94663000,"rwy2":"24","lat2":64.13253550,"lon2":-21.93390479},
+{"len_m":1230,"wid_m":45.11,"hdg":116,"surf":"Asphalt","rwy1":"13","lat1":64.13252141,"lon1":-21.95536147,"rwy2":"31","lat2":64.12763797,"lon2":-21.93270629}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.1,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"GND"},
+{"type":"TWR","freq":118,"desc":"TWR"},
+{"type":"APP","freq":119,"desc":"APP/DEP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":64.12069444,"lon":-21.93594444,"rng_nm":18,"alt_fmsl":20,"hdg":175.26,"id":"IRK","rwy":"19","desc":"ILS-cat-I"},
+{"type":"LOC","freq":109.1,"lat":64.12694444,"lon":-21.92955556,"rng_nm":18,"alt_fmsl":38,"id":"IRE","rwy":"13","desc":"LOC"},
+{"type":"GS","freq":109.9,"lat":64.13363889,"lon":-21.94091667,"rng_nm":10,"alt_fmsl":48,"id":"IRK","rwy":"19","desc":"GS","gs":3.5},
+{"type":"OM","freq":0,"lat":64.30544444,"lon":-21.97127778,"rng_nm":0,"alt_fmsl":48,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":64.14641667,"lon":-21.94144444,"rng_nm":0,"alt_fmsl":20,"id":"----","rwy":"19","desc":"MM"}
+]
+}

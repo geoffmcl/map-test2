@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIBL","name":"Blonduos","lat":65.64834878,"lon":-20.28669204,"rwys":1,"ils":0,"elev":130,"index":2615017,"path":"w030n60/w021n65"
+,"runways":[
+{"len_m":972,"wid_m":27.13,"hdg":15,"surf":"Gravel","rwy1":"04","lat1":65.64121304,"lon1":-20.29009541,"rwy2":"22","lat2":65.64959900,"lon2":-20.28432300}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"OM","freq":0,"lat":65.68611111,"lon":-20.29250000,"rng_nm":0,"alt_fmsl":0,"id":"----","rwy":"22","desc":"OM"}
+]
+}

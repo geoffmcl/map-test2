@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"BIKE","name":"Kerlingarfjoll","lat":64.70555406,"lon":-19.41665614,"rwys":3,"ils":0,"elev":2100,"index":2631337,"path":"w020n60/w020n64"
+,"runways":[
+{"len_m":581,"wid_m":36.58,"hdg":88,"surf":"Gravel","rwy1":"10","lat1":64.69992097,"lon1":-19.41699219,"rwy2":"28","lat2":64.70001183,"lon2":-19.40481181},
+{"len_m":286,"wid_m":36.58,"hdg":178,"surf":"Gravel","rwy1":"20","lat1":64.70125266,"lon1":-19.41095454,"rwy2":"02","lat2":64.69868014,"lon2":-19.41084946},
+{"len_m":698,"wid_m":35.97,"hdg":81,"surf":"Gravel","rwy1":"11","lat1":64.70447008,"lon1":-19.42235682,"rwy2":"29","lat2":64.70542500,"lon2":-19.40789200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":118.1,"desc":"INFO"}
+]
+,"ils":[
+]
+}
