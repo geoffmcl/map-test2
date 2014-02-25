@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZHCC","name":"Zhengzhou Xinzheng","lat":34.52506792,"lon":113.84529847,"rwys":1,"ils":2,"elev":495,"index":4808483,"path":"e110n30/e113n34"
+,"runways":[
+{"len_m":3399,"wid_m":39.93,"hdg":112,"surf":"Concrete","rwy1":"12","lat1":34.52516285,"lon1":113.82401520,"rwy2":"30","lat2":34.51350724,"lon2":113.85825800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"ZHENGZHOU ATIS"},
+{"type":"GND","freq":121.75,"desc":"ZHENGZHOU GND"},
+{"type":"TWR","freq":130,"desc":"ZHENGZHOU TWR"},
+{"type":"TWR","freq":118.3,"desc":"ZHENGZHOU TWR Additional"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":34.51324844,"lon":113.85908508,"rng_nm":18,"alt_fmsl":482,"hdg":112.39,"id":"IFF","rwy":"12","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":34.52553177,"lon":113.82289886,"rng_nm":18,"alt_fmsl":489,"hdg":292.39,"id":"IAA","rwy":"30","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":34.52308273,"lon":113.82666779,"rng_nm":10,"alt_fmsl":489,"id":"IFF","rwy":"12","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":34.51351547,"lon":113.85476685,"rng_nm":10,"alt_fmsl":485,"id":"IAA","rwy":"30","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":34.52890015,"lon":113.81300354,"rng_nm":0,"alt_fmsl":503,"id":"----","rwy":"12","desc":"MM"},
+{"type":"MM","freq":0,"lat":34.50933456,"lon":113.87083435,"rng_nm":0,"alt_fmsl":490,"id":"----","rwy":"30","desc":"MM"},
+{"type":"DME","freq":110.3,"lat":34.52330780,"lon":113.82625580,"rng_nm":18,"alt_fmsl":489,"id":"IFF","rwy":"12","desc":"DME-ILS"},
+{"type":"DME","freq":109.3,"lat":34.51596451,"lon":113.85569763,"rng_nm":18,"alt_fmsl":485,"id":"IAA","rwy":"30","desc":"DME-ILS"}
+]
+}

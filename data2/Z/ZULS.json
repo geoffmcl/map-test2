@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZULS","name":"Lhasa-gonggar","lat":29.2980775,"lon":90.9122945,"rwys":1,"ils":1,"elev":11713,"index":4431315,"path":"e090n20/e090n29"
+,"runways":[
+{"len_m":4002,"wid_m":45.72,"hdg":88,"surf":"Concrete","rwy1":"09L","lat1":29.29776500,"lon1":90.89170100,"rwy2":"27R","lat2":29.29839000,"lon2":90.93288800}
+]
+,"helipads":[
+]
+,"radios":[
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":29.29773980,"lon":90.89004579,"rng_nm":18,"alt_fmsl":11713,"hdg":269.00,"id":"ISS","rwy":"27R","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":29.29916504,"lon":90.92972674,"rng_nm":10,"alt_fmsl":11713,"id":"ISS","rwy":"27R","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":29.30079701,"lon":91.09148803,"rng_nm":0,"alt_fmsl":11713,"id":"----","rwy":"27R","desc":"OM"},
+{"type":"DME","freq":110.3,"lat":29.29916504,"lon":90.92972674,"rng_nm":18,"alt_fmsl":11713,"id":"ISS","rwy":"27R","desc":"DME-ILS"}
+]
+}

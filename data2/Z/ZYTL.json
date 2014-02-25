@@ -1,0 +1,21 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZYTL","name":"Zhoushuizi","lat":38.9656655,"lon":121.5386,"rwys":1,"ils":2,"elev":107,"index":4939834,"path":"e120n30/e121n38"
+,"runways":[
+{"len_m":3299,"wid_m":45.11,"hdg":95,"surf":"Concrete","rwy1":"10","lat1":38.96713100,"lon1":121.51965600,"rwy2":"28","lat2":38.96420000,"lon2":121.55754400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.65,"desc":"ATIS"},
+{"type":"TWR","freq":118.25,"desc":"DALIAN TWR"},
+{"type":"TWR","freq":118.85,"desc":"DALIAN TWR"},
+{"type":"APP","freq":123.85,"desc":"DALIAN APP"},
+{"type":"APP","freq":127.95,"desc":"DALIAN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":38.96522800,"lon":121.56652200,"rng_nm":18,"alt_fmsl":106,"hdg":93.00,"id":"IZF","rwy":"10","desc":"ILS-cat-I"},
+{"type":"ILS","freq":111.1,"lat":38.96761900,"lon":121.51334200,"rng_nm":18,"alt_fmsl":106,"hdg":275.67,"id":"IKD","rwy":"28","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":38.96634400,"lon":121.52353600,"rng_nm":10,"alt_fmsl":106,"id":"IZF","rwy":"10","desc":"GS","gs":3},
+{"type":"GS","freq":111.1,"lat":38.96328300,"lon":121.55407500,"rng_nm":10,"alt_fmsl":106,"id":"IKD","rwy":"28","desc":"GS","gs":3}
+]
+}

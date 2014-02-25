@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSOF","name":"Luogang","lat":31.780018,"lon":117.2987135,"rwys":1,"ils":2,"elev":108,"index":4873841,"path":"e110n30/e117n31"
+,"runways":[
+{"len_m":3001,"wid_m":49.99,"hdg":135,"surf":"Concrete","rwy1":"14","lat1":31.78963600,"lon1":117.28756900,"rwy2":"32","lat2":31.77040000,"lon2":117.30985800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.85,"desc":"ATIS"},
+{"type":"TWR","freq":118.75,"desc":"HEFEI TWR"},
+{"type":"TWR","freq":118.1,"desc":"HEFEI TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.1,"lat":31.76920000,"lon":117.31111100,"rng_nm":18,"alt_fmsl":108,"hdg":135.61,"id":"ISB","rwy":"14","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.3,"lat":31.79146700,"lon":117.28538300,"rng_nm":18,"alt_fmsl":108,"hdg":315.35,"id":"IGV","rwy":"32","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.1,"lat":31.78688600,"lon":117.28919200,"rng_nm":10,"alt_fmsl":108,"id":"ISB","rwy":"14","desc":"GS","gs":3},
+{"type":"GS","freq":108.3,"lat":31.77154400,"lon":117.30668100,"rng_nm":10,"alt_fmsl":108,"id":"IGV","rwy":"32","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.83595600,"lon":117.23204200,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"14","desc":"OM"},
+{"type":"OM","freq":0,"lat":31.74344700,"lon":117.34212200,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"32","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.79579400,"lon":117.28019200,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"14","desc":"MM"},
+{"type":"MM","freq":0,"lat":31.76476400,"lon":117.31660800,"rng_nm":0,"alt_fmsl":95,"id":"----","rwy":"32","desc":"MM"}
+]
+}

@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZYMD","name":"Hailang","lat":44.5240735,"lon":129.568974,"rwys":1,"ils":1,"elev":883,"index":5071266,"path":"e120n40/e129n44"
+,"runways":[
+{"len_m":2609,"wid_m":45.11,"hdg":25,"surf":"Concrete","rwy1":"04","lat1":44.51351100,"lon1":129.56180600,"rwy2":"22","lat2":44.53463600,"lon2":129.57614200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"MUDANJIANG TWR"},
+{"type":"TWR","freq":118.6,"desc":"MUDANJIANG TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":109.9,"lat":44.51026900,"lon":129.55961900,"rng_nm":18,"alt_fmsl":884,"hdg":205.80,"id":"IQM","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":109.9,"lat":44.53267200,"lon":129.57314200,"rng_nm":10,"alt_fmsl":884,"id":"IQM","rwy":"22","desc":"GS","gs":3}
+]
+}

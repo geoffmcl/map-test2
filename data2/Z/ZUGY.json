@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZUGY","name":"Longdongbao","lat":26.538461,"lon":106.800793,"rwys":1,"ils":2,"elev":3736,"index":4693283,"path":"e100n20/e106n26"
+,"runways":[
+{"len_m":3201,"wid_m":60.05,"hdg":9,"surf":"Concrete","rwy1":"01","lat1":26.52422800,"lon1":106.79804400,"rwy2":"19","lat2":26.55269400,"lon2":106.80354200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.3,"desc":"GUIYANG TWR"},
+{"type":"TWR","freq":130,"desc":"GUIYANG TWR"},
+{"type":"APP","freq":126.05,"desc":"GUIYING APP"},
+{"type":"APP","freq":119.45,"desc":"GUIYING APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.1,"lat":26.55465600,"lon":106.80389400,"rng_nm":18,"alt_fmsl":3730,"hdg":9.76,"id":"IGG","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.3,"lat":26.52226700,"lon":106.79769200,"rng_nm":18,"alt_fmsl":3730,"hdg":189.76,"id":"IOI","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.1,"lat":26.52718900,"lon":106.79978600,"rng_nm":10,"alt_fmsl":3730,"id":"IGG","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":110.3,"lat":26.54953900,"lon":106.80379400,"rng_nm":10,"alt_fmsl":3730,"id":"IOI","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":26.44343600,"lon":106.78356700,"rng_nm":0,"alt_fmsl":3730,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":26.64821100,"lon":106.82068900,"rng_nm":0,"alt_fmsl":3730,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":26.51527200,"lon":106.79643900,"rng_nm":0,"alt_fmsl":3730,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":26.56294200,"lon":106.80538100,"rng_nm":0,"alt_fmsl":3730,"id":"----","rwy":"19","desc":"MM"}
+]
+}

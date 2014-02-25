@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSYT","name":"Laishan","lat":37.4003055,"lon":121.370367,"rwys":1,"ils":2,"elev":59,"index":4939737,"path":"e120n30/e121n37"
+,"runways":[
+{"len_m":2599,"wid_m":45.11,"hdg":37,"surf":"Concrete","rwy1":"04","lat1":37.39101400,"lon1":121.36143100,"rwy2":"22","lat2":37.40959700,"lon2":121.37930300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.45,"desc":"YANTAI TWR"},
+{"type":"TWR","freq":118.1,"desc":"YANTAI TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":37.41168100,"lon":121.38128100,"rng_nm":18,"alt_fmsl":59,"hdg":37.35,"id":"IFZ","rwy":"04","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":37.38888100,"lon":121.35940600,"rng_nm":18,"alt_fmsl":59,"hdg":217.34,"id":"IJN","rwy":"22","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":37.39239700,"lon":121.36458300,"rng_nm":10,"alt_fmsl":59,"id":"IFZ","rwy":"04","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":37.40803900,"lon":121.37615300,"rng_nm":10,"alt_fmsl":59,"id":"IJN","rwy":"22","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.32188100,"lon":121.29592800,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"04","desc":"OM"},
+{"type":"OM","freq":0,"lat":37.44529700,"lon":121.41321400,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"22","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.38268100,"lon":121.35352500,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"04","desc":"MM"},
+{"type":"MM","freq":0,"lat":37.41821900,"lon":121.38748300,"rng_nm":0,"alt_fmsl":59,"id":"----","rwy":"22","desc":"MM"}
+]
+}

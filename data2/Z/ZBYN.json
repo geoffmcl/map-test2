@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZBYN","name":"Wusu","lat":37.746897,"lon":112.6284265,"rwys":1,"ils":2,"elev":2575,"index":4792298,"path":"e110n30/e112n37"
+,"runways":[
+{"len_m":3209,"wid_m":45.11,"hdg":126,"surf":"Concrete","rwy1":"13","lat1":37.75559400,"lon1":112.61388100,"rwy2":"31","lat2":37.73820000,"lon2":112.64297200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.25,"desc":"TAIYUAN TWR"},
+{"type":"TWR","freq":124.35,"desc":"TAIYUAN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":37.73681100,"lon":112.64534700,"rng_nm":18,"alt_fmsl":2575,"hdg":127.06,"id":"ICC","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":37.75698300,"lon":112.61150600,"rng_nm":18,"alt_fmsl":2575,"hdg":307.04,"id":"IBB","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":37.75295800,"lon":112.61568600,"rng_nm":10,"alt_fmsl":2575,"id":"ICC","rwy":"13","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":37.73905000,"lon":112.63907500,"rng_nm":10,"alt_fmsl":2575,"id":"IBB","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":37.80953900,"lon":112.52154400,"rng_nm":0,"alt_fmsl":2575,"id":"----","rwy":"13","desc":"OM"},
+{"type":"OM","freq":0,"lat":37.69939700,"lon":112.70921900,"rng_nm":0,"alt_fmsl":2575,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":37.76200800,"lon":112.60291700,"rng_nm":0,"alt_fmsl":2575,"id":"----","rwy":"13","desc":"MM"},
+{"type":"MM","freq":0,"lat":37.73258900,"lon":112.65256100,"rng_nm":0,"alt_fmsl":2575,"id":"----","rwy":"31","desc":"MM"}
+]
+}

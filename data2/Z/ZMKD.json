@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZMKD","name":"Khovd","lat":47.9528845,"lon":91.62858375,"rwys":2,"ils":0,"elev":4898,"index":4448890,"path":"e090n40/e091n47"
+,"runways":[
+{"len_m":2850,"wid_m":48.77,"hdg":157,"surf":"Asphalt","rwy1":"16","lat1":47.96557800,"lon1":91.61986900,"rwy2":"34","lat2":47.94191900,"lon2":91.63456400},
+{"len_m":1982,"wid_m":49.99,"hdg":158,"surf":"Dirt","rwy1":"16L","lat1":47.96029400,"lon1":91.62500800,"rwy2":"34R","lat2":47.94374700,"lon2":91.63489400}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"APP","freq":130,"desc":"KHAR US APP"}
+]
+,"ils":[
+]
+}

@@ -1,0 +1,27 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSNJ","name":"Lukou","lat":31.7420405,"lon":118.862024,"rwys":1,"ils":2,"elev":49,"index":4890219,"path":"e110n30/e118n31"
+,"runways":[
+{"len_m":3599,"wid_m":45.11,"hdg":58,"surf":"Concrete","rwy1":"06","lat1":31.73345000,"lon1":118.84590600,"rwy2":"24","lat2":31.75063100,"lon2":118.87814200}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.25,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"NANJING GND"},
+{"type":"TWR","freq":118.85,"desc":"NANJING TWR"},
+{"type":"TWR","freq":118.15,"desc":"NANJING TWR"},
+{"type":"APP","freq":119.25,"desc":"NANJING APP"},
+{"type":"APP","freq":120.35,"desc":"NANJING APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":31.75200300,"lon":118.88062200,"rng_nm":18,"alt_fmsl":49,"hdg":57.86,"id":"IMI","rwy":"06","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":31.73207800,"lon":118.84342500,"rng_nm":18,"alt_fmsl":49,"hdg":237.85,"id":"IGG","rwy":"24","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":31.73600000,"lon":118.84778600,"rng_nm":10,"alt_fmsl":49,"id":"IMI","rwy":"06","desc":"GS","gs":3},
+{"type":"GS","freq":110.9,"lat":31.75013300,"lon":118.87471900,"rng_nm":10,"alt_fmsl":49,"id":"IGG","rwy":"24","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":31.68839700,"lon":118.76465300,"rng_nm":0,"alt_fmsl":49,"id":"----","rwy":"06","desc":"OM"},
+{"type":"OM","freq":0,"lat":31.79631700,"lon":118.96072800,"rng_nm":0,"alt_fmsl":49,"id":"----","rwy":"24","desc":"OM"},
+{"type":"MM","freq":0,"lat":31.72845300,"lon":118.83688300,"rng_nm":0,"alt_fmsl":49,"id":"----","rwy":"06","desc":"MM"},
+{"type":"MM","freq":0,"lat":31.75578100,"lon":118.88744200,"rng_nm":0,"alt_fmsl":49,"id":"----","rwy":"24","desc":"MM"},
+{"type":"IM","freq":0,"lat":31.73198900,"lon":118.84326700,"rng_nm":0,"alt_fmsl":49,"id":"----","rwy":"06","desc":"IM"}
+]
+}

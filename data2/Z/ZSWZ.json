@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSWZ","name":"Wenzhou","lat":27.91407115,"lon":120.84739610,"rwys":1,"ils":1,"elev":14,"index":4922747,"path":"e120n20/e120n27"
+,"runways":[
+{"len_m":2396,"wid_m":45.11,"hdg":28,"surf":"Concrete","rwy1":"03","lat1":27.90325246,"lon1":120.84598214,"rwy2":"21","lat2":27.92230890,"lon2":120.85748599}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"TWR","freq":118.2,"desc":"TWR"},
+{"type":"APP","freq":120.85,"desc":"APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":27.92316628,"lon":120.85800171,"rng_nm":18,"alt_fmsl":13,"hdg":28.05,"id":"IKN","rwy":"03","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":27.90625000,"lon":120.84639740,"rng_nm":10,"alt_fmsl":13,"id":"IKN","rwy":"03","desc":"GS","gs":3}
+]
+}

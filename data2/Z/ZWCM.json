@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZWCM","name":"Qiemo","lat":38.14428851,"lon":85.53342735,"rwys":1,"ils":0,"elev":4081,"index":4349962,"path":"e080n30/e085n38"
+,"runways":[
+{"len_m":1698,"wid_m":29.87,"hdg":11,"surf":"Asphalt","rwy1":"01","lat1":38.14200814,"lon1":85.53102668,"rwy2":"19","lat2":38.15700391,"lon2":85.53488067}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.85,"desc":"TWR"}
+]
+,"ils":[
+{"type":"MM","freq":0,"lat":38.12390137,"lon":85.52645111,"rng_nm":0,"alt_fmsl":4107,"id":"----","rwy":"01","desc":"MM"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSCN","name":"Changbei Intl","lat":28.865,"lon":115.900001,"rwys":1,"ils":2,"elev":143,"index":4840883,"path":"e110n20/e115n28"
+,"runways":[
+{"len_m":2800,"wid_m":45.11,"hdg":22,"surf":"Concrete","rwy1":"03","lat1":28.85337200,"lon1":115.89439400,"rwy2":"21","lat2":28.87662800,"lon2":115.90560800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.4,"desc":"ATIS"},
+{"type":"GND","freq":121.7,"desc":"NANCHANG GND"},
+{"type":"TWR","freq":118.65,"desc":"NANCHANG TWR"},
+{"type":"TWR","freq":130,"desc":"NANCHANG TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":111.7,"lat":28.87804700,"lon":115.90626900,"rng_nm":18,"alt_fmsl":144,"hdg":22.86,"id":"IEE","rwy":"03","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":28.85103600,"lon":115.89330300,"rng_nm":18,"alt_fmsl":144,"hdg":202.83,"id":"INC","rwy":"21","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.7,"lat":28.85647200,"lon":115.89476400,"rng_nm":10,"alt_fmsl":144,"id":"IEE","rwy":"03","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":28.87451700,"lon":115.90329400,"rng_nm":10,"alt_fmsl":144,"id":"INC","rwy":"21","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.94994200,"lon":115.93985000,"rng_nm":0,"alt_fmsl":144,"id":"----","rwy":"21","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.84356700,"lon":115.88981900,"rng_nm":0,"alt_fmsl":144,"id":"----","rwy":"03","desc":"MM"},
+{"type":"MM","freq":0,"lat":28.88580800,"lon":115.90989400,"rng_nm":0,"alt_fmsl":144,"id":"----","rwy":"21","desc":"MM"},
+{"type":"DME","freq":111.7,"lat":28.85647200,"lon":115.89476400,"rng_nm":18,"alt_fmsl":85,"id":"IEE","rwy":"03","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZMUB","name":"Chinggis Khaan Intl","lat":47.84262034,"lon":106.76290625,"rwys":2,"ils":1,"elev":4364,"index":4694643,"path":"e100n40/e106n47"
+,"runways":[
+{"len_m":3099,"wid_m":60.05,"hdg":138,"surf":"Asphalt","rwy1":"14","lat1":47.85297500,"lon1":106.75328600,"rwy2":"32","lat2":47.83221700,"lon2":106.78092200},
+{"len_m":1902,"wid_m":39.93,"hdg":146,"surf":"Dirt","rwy1":"15","lat1":47.84978171,"lon1":106.75169906,"rwy2":"33","lat2":47.83550765,"lon2":106.76571795}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126,"desc":"ATIS"},
+{"type":"APP","freq":120,"desc":"ULAANBAATAR APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":47.82753372,"lon":106.78681946,"rng_nm":50,"alt_fmsl":4364,"hdg":138.45,"id":"IDA","rwy":"14","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":47.85003281,"lon":106.75498199,"rng_nm":50,"alt_fmsl":4147,"id":"IDA","rwy":"14","desc":"GS","gs":2.7},
+{"type":"OM","freq":0,"lat":47.87913513,"lon":106.71875000,"rng_nm":0,"alt_fmsl":4091,"id":"----","rwy":"14","desc":"OM"},
+{"type":"MM","freq":0,"lat":47.85696793,"lon":106.74774933,"rng_nm":0,"alt_fmsl":4147,"id":"----","rwy":"14","desc":"MM"}
+]
+}

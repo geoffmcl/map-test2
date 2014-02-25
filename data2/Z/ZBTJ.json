@@ -1,0 +1,28 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZBTJ","name":"Binhai","lat":39.1243515,"lon":117.346182,"rwys":1,"ils":2,"elev":10,"index":4874305,"path":"e110n30/e117n39"
+,"runways":[
+{"len_m":3199,"wid_m":49.99,"hdg":154,"surf":"Concrete","rwy1":"16","lat1":39.13735300,"lon1":117.33820800,"rwy2":"34","lat2":39.11135000,"lon2":117.35415600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":126.4,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"RAMP CON"},
+{"type":"TWR","freq":127.9,"desc":"TIANJIN TWR"},
+{"type":"TWR","freq":130,"desc":"TIANJIN TWR"},
+{"type":"APP","freq":118.2,"desc":"TIANJIN APP"},
+{"type":"APP","freq":120.9,"desc":"TIANJIN APP"}
+]
+,"ils":[
+{"type":"ILS","freq":110.9,"lat":39.10788300,"lon":117.35624200,"rng_nm":18,"alt_fmsl":7,"hdg":154.61,"id":"IJS","rwy":"16","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":39.13994700,"lon":117.33647200,"rng_nm":18,"alt_fmsl":7,"hdg":334.37,"id":"ICG","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.9,"lat":39.13388100,"lon":117.33857800,"rng_nm":10,"alt_fmsl":36,"id":"IJS","rwy":"16","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":39.11331100,"lon":117.35113900,"rng_nm":10,"alt_fmsl":10,"id":"ICG","rwy":"34","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":39.17029700,"lon":117.31743100,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"16","desc":"OM"},
+{"type":"OM","freq":0,"lat":39.04802200,"lon":117.39372200,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"34","desc":"OM"},
+{"type":"MM","freq":0,"lat":39.14601700,"lon":117.33266700,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":39.10221900,"lon":117.35979200,"rng_nm":0,"alt_fmsl":10,"id":"----","rwy":"34","desc":"MM"},
+{"type":"DME","freq":110.9,"lat":39.13388100,"lon":117.33857800,"rng_nm":18,"alt_fmsl":36,"id":"IJS","rwy":"16","desc":"DME-ILS"},
+{"type":"DME","freq":110.5,"lat":39.11331100,"lon":117.35113900,"rng_nm":18,"alt_fmsl":10,"id":"ICG","rwy":"34","desc":"DME-ILS"}
+]
+}

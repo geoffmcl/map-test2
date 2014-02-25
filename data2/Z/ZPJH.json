@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZPJH","name":"Gasa","lat":21.9739155,"lon":100.7596125,"rwys":1,"ils":1,"elev":1815,"index":4594686,"path":"e100n20/e100n21"
+,"runways":[
+{"len_m":2197,"wid_m":45.11,"hdg":160,"surf":"Concrete","rwy1":"16","lat1":21.98327800,"lon1":100.75609200,"rwy2":"34","lat2":21.96455300,"lon2":100.76313300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"BANNA TWR"},
+{"type":"TWR","freq":118.6,"desc":"BANNA TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":21.98497800,"lon":100.75543600,"rng_nm":18,"alt_fmsl":1814,"hdg":340.74,"id":"ILK","rwy":"34","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":21.96754700,"lon":100.76315600,"rng_nm":10,"alt_fmsl":1814,"id":"ILK","rwy":"34","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":21.99333300,"lon":100.75500000,"rng_nm":0,"alt_fmsl":1814,"id":"----","rwy":"16","desc":"MM"},
+{"type":"MM","freq":0,"lat":21.89551100,"lon":100.78990800,"rng_nm":0,"alt_fmsl":1814,"id":"----","rwy":"34","desc":"MM"},
+{"type":"IM","freq":0,"lat":21.95666700,"lon":100.76833300,"rng_nm":0,"alt_fmsl":1814,"id":"----","rwy":"34","desc":"IM"}
+]
+}

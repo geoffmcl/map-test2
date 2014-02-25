@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZBLA","name":"Dongshan","lat":49.204999,"lon":119.825,"rwys":1,"ils":1,"elev":2169,"index":4907723,"path":"e110n40/e119n49"
+,"runways":[
+{"len_m":2599,"wid_m":45.11,"hdg":83,"surf":"Concrete","rwy1":"09","lat1":49.20374200,"lon1":119.80726400,"rwy2":"27","lat2":49.20625600,"lon2":119.84273600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.1,"desc":"HAILAR TWR"},
+{"type":"TWR","freq":130,"desc":"HAILAR TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":49.20327200,"lon":119.80110300,"rng_nm":18,"alt_fmsl":2169,"hdg":263.72,"id":"IUC","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":49.20686100,"lon":119.83858300,"rng_nm":10,"alt_fmsl":2169,"id":"IUC","rwy":"27","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":49.21500000,"lon":119.96000000,"rng_nm":0,"alt_fmsl":2169,"id":"----","rwy":"27","desc":"OM"},
+{"type":"MM","freq":0,"lat":49.20729200,"lon":119.85636900,"rng_nm":0,"alt_fmsl":2169,"id":"----","rwy":"27","desc":"MM"}
+]
+}

@@ -1,0 +1,26 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZGHA","name":"Huanghua","lat":28.1891585,"lon":113.219632,"rwys":1,"ils":2,"elev":217,"index":4808072,"path":"e110n20/e113n28"
+,"runways":[
+{"len_m":2600,"wid_m":45.11,"hdg":176,"surf":"Concrete","rwy1":"18","lat1":28.20087500,"lon1":113.21893300,"rwy2":"36","lat2":28.17744200,"lon2":113.22033100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.8,"desc":"ATIS"},
+{"type":"GND","freq":121.75,"desc":"GND"},
+{"type":"TWR","freq":118.55,"desc":"TWR"},
+{"type":"TWR","freq":128,"desc":"TWR"},
+{"type":"APP","freq":119.65,"desc":"CHANGSHU"},
+{"type":"APP","freq":120.6,"desc":"CHANGSHU"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":28.17573100,"lon":113.22043300,"rng_nm":18,"alt_fmsl":215,"hdg":176.99,"id":"IWW","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":28.20294700,"lon":113.21880800,"rng_nm":18,"alt_fmsl":215,"hdg":356.99,"id":"ISV","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":28.19796100,"lon":113.22023100,"rng_nm":10,"alt_fmsl":215,"id":"IWW","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":28.18013600,"lon":113.21904700,"rng_nm":10,"alt_fmsl":215,"id":"ISV","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":28.26775300,"lon":113.21491400,"rng_nm":0,"alt_fmsl":215,"id":"----","rwy":"18","desc":"OM"},
+{"type":"OM","freq":0,"lat":28.10124700,"lon":113.22490300,"rng_nm":0,"alt_fmsl":215,"id":"----","rwy":"36","desc":"OM"},
+{"type":"MM","freq":0,"lat":28.21422800,"lon":113.21813100,"rng_nm":0,"alt_fmsl":215,"id":"----","rwy":"18","desc":"MM"},
+{"type":"MM","freq":0,"lat":28.16660300,"lon":113.22098100,"rng_nm":0,"alt_fmsl":215,"id":"----","rwy":"36","desc":"MM"}
+]
+}

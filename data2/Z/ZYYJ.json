@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZYYJ","name":"Yanji","lat":42.882799,"lon":129.451258,"rwys":1,"ils":1,"elev":624,"index":5071161,"path":"e120n40/e129n42"
+,"runways":[
+{"len_m":2600,"wid_m":45.11,"hdg":81,"surf":"Concrete","rwy1":"09","lat1":42.88110600,"lon1":129.43550800,"rwy2":"27","lat2":42.88449200,"lon2":129.46700800}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":130,"desc":"TWR"},
+{"type":"TWR","freq":118.75,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.7,"lat":42.88496900,"lon":129.47124400,"rng_nm":18,"alt_fmsl":624,"hdg":81.62,"id":"IJA","rwy":"09","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.7,"lat":42.88151400,"lon":129.43913900,"rng_nm":10,"alt_fmsl":624,"id":"IJA","rwy":"09","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":42.87833300,"lon":129.33833300,"rng_nm":0,"alt_fmsl":624,"id":"----","rwy":"09","desc":"MM"}
+]
+}

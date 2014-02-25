@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZJHK","name":"Meilan","lat":19.93483617,"lon":110.45526413,"rwys":1,"ils":2,"elev":75,"index":4758395,"path":"e110n10/e110n19"
+,"runways":[
+{"len_m":3607,"wid_m":45.11,"hdg":89,"surf":"Concrete","rwy1":"09","lat1":19.93477104,"lon1":110.43803320,"rwy2":"27","lat2":19.93490129,"lon2":110.47249506}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.65,"desc":"ATIS"},
+{"type":"GND","freq":121.65,"desc":"GND"},
+{"type":"TWR","freq":118.6,"desc":"HAIKOU TWR"},
+{"type":"TWR","freq":124.3,"desc":"HAIKOU TWR"},
+{"type":"APP","freq":119.15,"desc":"HAIKOU APP"},
+{"type":"APP","freq":123.85,"desc":"HAIKOU APP"}
+]
+,"ils":[
+{"type":"ILS","freq":111.5,"lat":19.93493100,"lon":110.47854700,"rng_nm":18,"alt_fmsl":75,"hdg":89.77,"id":"IHH","rwy":"09","desc":"ILS-cat-I"},
+{"type":"ILS","freq":108.5,"lat":19.93483900,"lon":110.43875600,"rng_nm":18,"alt_fmsl":75,"hdg":269.88,"id":"IPP","rwy":"27","desc":"ILS-cat-I"},
+{"type":"GS","freq":111.5,"lat":19.93358300,"lon":110.44482800,"rng_nm":10,"alt_fmsl":69,"id":"IHH","rwy":"09","desc":"GS","gs":3},
+{"type":"GS","freq":108.5,"lat":19.93375000,"lon":110.47308100,"rng_nm":10,"alt_fmsl":66,"id":"IPP","rwy":"27","desc":"GS","gs":3},
+{"type":"DME","freq":111.5,"lat":19.93358300,"lon":110.44482800,"rng_nm":18,"alt_fmsl":69,"id":"IHH","rwy":"09","desc":"DME-ILS"},
+{"type":"DME","freq":108.5,"lat":19.93375000,"lon":110.47308100,"rng_nm":18,"alt_fmsl":66,"id":"IPP","rwy":"27","desc":"DME-ILS"}
+]
+}

@@ -1,0 +1,19 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZYHB","name":"Taiping","lat":45.6234015,"lon":126.2503265,"rwys":1,"ils":2,"elev":457,"index":5022177,"path":"e120n40/e126n45"
+,"runways":[
+{"len_m":3200,"wid_m":45.11,"hdg":39,"surf":"Asphalt","rwy1":"05","lat1":45.61227200,"lon1":126.23730600,"rwy2":"23","lat2":45.63453100,"lon2":126.26334700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.4,"desc":"ATIS"},
+{"type":"TWR","freq":118.7,"desc":"HARBIN TWR"},
+{"type":"TWR","freq":118.1,"desc":"HARBIN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":45.63628300,"lon":126.26535600,"rng_nm":18,"alt_fmsl":456,"hdg":39.26,"id":"ILL","rwy":"05","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.9,"lat":45.61016900,"lon":126.23489400,"rng_nm":18,"alt_fmsl":456,"hdg":219.23,"id":"IMJ","rwy":"23","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":45.61381900,"lon":126.24105000,"rng_nm":10,"alt_fmsl":456,"id":"ILL","rwy":"05","desc":"GS","gs":3},
+{"type":"GS","freq":109.9,"lat":45.63180800,"lon":126.26203600,"rng_nm":10,"alt_fmsl":456,"id":"IMJ","rwy":"23","desc":"GS","gs":3}
+]
+}

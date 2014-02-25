@@ -1,0 +1,23 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZLLL","name":"Lanzhou-zhongchuan","lat":36.50984572,"lon":103.61499477,"rwys":1,"ils":2,"elev":6388,"index":4644770,"path":"e100n30/e103n36"
+,"runways":[
+{"len_m":3595,"wid_m":45.11,"hdg":177,"surf":"Concrete","rwy1":"18","lat1":36.53141816,"lon1":103.61977625,"rwy2":"36","lat2":36.49905514,"lon2":103.62163281}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":128.45,"desc":"Lanzhou ATIS"},
+{"type":"TWR","freq":118.1,"desc":"Lanzhou TWR"},
+{"type":"TWR","freq":130,"desc":"Lanzhou TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.5,"lat":36.49853516,"lon":103.62166595,"rng_nm":18,"alt_fmsl":6334,"hdg":177.38,"id":"IKQ","rwy":"18","desc":"ILS-cat-I"},
+{"type":"ILS","freq":109.3,"lat":36.53191757,"lon":103.61975098,"rng_nm":18,"alt_fmsl":6394,"hdg":357.38,"id":"IYY","rwy":"36","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.5,"lat":36.52853394,"lon":103.62106323,"rng_nm":10,"alt_fmsl":6387,"id":"IKQ","rwy":"18","desc":"GS","gs":3},
+{"type":"GS","freq":109.3,"lat":36.50173187,"lon":103.62283325,"rng_nm":10,"alt_fmsl":6336,"id":"IYY","rwy":"36","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.61666489,"lon":103.61483002,"rng_nm":0,"alt_fmsl":6703,"id":"----","rwy":"18","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.54029846,"lon":103.61921692,"rng_nm":0,"alt_fmsl":6419,"id":"----","rwy":"18","desc":"MM"},
+{"type":"MM","freq":0,"lat":36.48654938,"lon":103.62243652,"rng_nm":0,"alt_fmsl":6305,"id":"----","rwy":"36","desc":"MM"},
+{"type":"DME","freq":109.3,"lat":36.51358414,"lon":103.62339783,"rng_nm":18,"alt_fmsl":6341,"id":"IYY","rwy":"36","desc":"DME-ILS"}
+]
+}

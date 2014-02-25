@@ -1,0 +1,22 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSNB","name":"Lishe","lat":29.8266815,"lon":121.4619055,"rwys":1,"ils":2,"elev":13,"index":4939249,"path":"e120n20/e121n29"
+,"runways":[
+{"len_m":3202,"wid_m":45.11,"hdg":123,"surf":"Concrete","rwy1":"13","lat1":29.83459400,"lon1":121.44804400,"rwy2":"31","lat2":29.81876900,"lon2":121.47576700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"GND","freq":121.85,"desc":"NINGBO GND"},
+{"type":"TWR","freq":118.35,"desc":"NINGBO TWR"},
+{"type":"TWR","freq":130,"desc":"NINGBO TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":29.81733900,"lon":121.47842200,"rng_nm":18,"alt_fmsl":30,"hdg":123.22,"id":"IBK","rwy":"13","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.9,"lat":29.83633600,"lon":121.44594400,"rng_nm":18,"alt_fmsl":13,"hdg":304.17,"id":"ILL","rwy":"31","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":29.83438100,"lon":121.45165800,"rng_nm":10,"alt_fmsl":13,"id":"IBK","rwy":"13","desc":"GS","gs":3.2},
+{"type":"GS","freq":110.9,"lat":29.82117200,"lon":121.47395300,"rng_nm":10,"alt_fmsl":13,"id":"ILL","rwy":"31","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":29.78130600,"lon":121.54174700,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"31","desc":"OM"},
+{"type":"MM","freq":0,"lat":29.81418300,"lon":121.48396700,"rng_nm":0,"alt_fmsl":13,"id":"----","rwy":"31","desc":"MM"},
+{"type":"DME","freq":108.9,"lat":29.83438100,"lon":121.45165800,"rng_nm":18,"alt_fmsl":30,"id":"IBK","rwy":"13","desc":"DME-ILS"}
+]
+}

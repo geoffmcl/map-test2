@@ -1,0 +1,18 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZWTN","name":"Hotan","lat":37.038521,"lon":79.864932,"rwys":1,"ils":1,"elev":4672,"index":4251587,"path":"e070n30/e079n37"
+,"runways":[
+{"len_m":3168,"wid_m":49.99,"hdg":110,"surf":"Concrete","rwy1":"11","lat1":37.04350300,"lon1":79.84824700,"rwy2":"29","lat2":37.03353900,"lon2":79.88161700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"TWR","freq":118.65,"desc":"TWR"},
+{"type":"TWR","freq":130,"desc":"TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":110.3,"lat":37.04444400,"lon":79.84508600,"rng_nm":18,"alt_fmsl":4672,"hdg":290.49,"id":"IRB","rwy":"29","desc":"ILS-cat-I"},
+{"type":"GS","freq":110.3,"lat":37.03355800,"lon":79.87799400,"rng_nm":10,"alt_fmsl":4762,"id":"IRB","rwy":"29","desc":"GS","gs":3},
+{"type":"MM","freq":0,"lat":37.04695300,"lon":79.83665600,"rng_nm":0,"alt_fmsl":4672,"id":"----","rwy":"11","desc":"MM"},
+{"type":"MM","freq":0,"lat":37.02883300,"lon":79.89742200,"rng_nm":0,"alt_fmsl":4672,"id":"----","rwy":"29","desc":"MM"}
+]
+}

@@ -1,0 +1,24 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"ZSJN","name":"Yaoqiang","lat":36.8572125,"lon":117.215992,"rwys":1,"ils":2,"elev":76,"index":4874160,"path":"e110n30/e117n36"
+,"runways":[
+{"len_m":3600,"wid_m":45.11,"hdg":359,"surf":"Concrete","rwy1":"01","lat1":36.84098900,"lon1":117.21600300,"rwy2":"19","lat2":36.87343600,"lon2":117.21598100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.05,"desc":"ATIS"},
+{"type":"GND","freq":121.85,"desc":"JINNAN GND"},
+{"type":"TWR","freq":118.55,"desc":"JINAN TWR"},
+{"type":"TWR","freq":130,"desc":"JINAN TWR"}
+]
+,"ils":[
+{"type":"ILS","freq":108.9,"lat":36.87531100,"lon":117.21596100,"rng_nm":18,"alt_fmsl":75,"hdg":359.94,"id":"IFF","rwy":"01","desc":"ILS-cat-I"},
+{"type":"ILS","freq":110.5,"lat":36.83781400,"lon":117.21603100,"rng_nm":18,"alt_fmsl":75,"hdg":179.94,"id":"IGO","rwy":"19","desc":"ILS-cat-I"},
+{"type":"GS","freq":108.9,"lat":36.84300600,"lon":117.21759200,"rng_nm":10,"alt_fmsl":75,"id":"IFF","rwy":"01","desc":"GS","gs":3},
+{"type":"GS","freq":110.5,"lat":36.87188100,"lon":117.21726400,"rng_nm":10,"alt_fmsl":75,"id":"IGO","rwy":"19","desc":"GS","gs":3},
+{"type":"OM","freq":0,"lat":36.77969200,"lon":117.21706400,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"01","desc":"OM"},
+{"type":"OM","freq":0,"lat":36.93200300,"lon":117.21496700,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"19","desc":"OM"},
+{"type":"MM","freq":0,"lat":36.83017800,"lon":117.21618900,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"01","desc":"MM"},
+{"type":"MM","freq":0,"lat":36.88244700,"lon":117.21582500,"rng_nm":0,"alt_fmsl":75,"id":"----","rwy":"19","desc":"MM"}
+]
+}
