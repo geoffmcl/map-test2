@@ -1,0 +1,13 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"IHU","name":"Ihu","lat":-7.89557000,"lon":145.39443400,"rwys":1,"ils":0,"elev":40,"index":5330051,"path":"e140s10/e145s08"
+,"runways":[
+{"len_m":984,"wid_m":30.48,"hdg":305,"surf":"Dirt","rwy1":"31","lat1":-7.90038684,"lon1":145.40008719,"rwy2":"13","lat2":-7.89517916,"lon2":145.39285081}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":127.7,"desc":"IHU AWOS"}
+]
+,"ils":[
+]
+}

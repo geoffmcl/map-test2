@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I18","name":"Jackson Co","lat":38.929768,"lon":-81.8194835,"rwys":1,"ils":0,"elev":758,"index":1613880,"path":"w090n30/w082n38"
+,"runways":[
+{"len_m":1219,"wid_m":22.86,"hdg":29,"surf":"Asphalt","rwy1":"04","lat1":38.92499200,"lon1":-81.82295600,"rwy2":"22","lat2":38.93454400,"lon2":-81.81601100}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":121.3,"desc":"AWOS 2"},
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":128.4,"desc":"HUNTINGTON APP/DEP"}
+]
+,"ils":[
+]
+}

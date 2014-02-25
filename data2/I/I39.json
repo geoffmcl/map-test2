@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I39","name":"Madison","lat":37.6308485,"lon":-84.332351,"rwys":1,"ils":0,"elev":1000,"index":1564650,"path":"w090n30/w085n37"
+,"runways":[
+{"len_m":1372,"wid_m":30.48,"hdg":174,"surf":"Asphalt","rwy1":"18","lat1":37.63700300,"lon1":-84.33308300,"rwy2":"36","lat2":37.62469400,"lon2":-84.33161900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":122.8,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":120.15,"desc":"LEXINGTON APP/DEP"}
+]
+,"ils":[
+]
+}

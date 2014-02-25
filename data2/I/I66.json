@@ -1,0 +1,15 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I66","name":"Clinton Fld","lat":39.50448297,"lon":-83.86096270,"rwys":1,"ils":0,"elev":1033,"index":1581152,"path":"w090n30/w084n39"
+,"runways":[
+{"len_m":1090,"wid_m":20.12,"hdg":28,"surf":"Asphalt","rwy1":"03","lat1":39.49892800,"lon1":-83.86578100,"rwy2":"21","lat2":39.50757500,"lon2":-83.85976900}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":124.17,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

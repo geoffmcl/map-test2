@@ -1,0 +1,14 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I17","name":"Piqua Hartzell Fld","lat":40.1646875,"lon":-84.3084295,"rwys":1,"ils":0,"elev":994,"index":1564810,"path":"w090n40/w085n40"
+,"runways":[
+{"len_m":1218,"wid_m":22.86,"hdg":75,"surf":"Asphalt","rwy1":"08","lat1":40.16331700,"lon1":-84.31535300,"rwy2":"26","lat2":40.16605800,"lon2":-84.30150600}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"CTAF","freq":123,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":134.45,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

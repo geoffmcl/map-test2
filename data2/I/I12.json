@@ -1,0 +1,16 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I12","name":"Sidney Muni","lat":40.24111225,"lon":-84.15105125,"rwys":2,"ils":0,"elev":1044,"index":1564811,"path":"w090n40/w085n40"
+,"runways":[
+{"len_m":1458,"wid_m":22.86,"hdg":94,"surf":"Asphalt","rwy1":"10","lat1":40.24294400,"lon1":-84.15888300,"rwy2":"28","lat2":40.24198300,"lon2":-84.14179200},
+{"len_m":908,"wid_m":15.24,"hdg":40,"surf":"Asphalt","rwy1":"05","lat1":40.23662800,"lon1":-84.15519700,"rwy2":"23","lat2":40.24289400,"lon2":-84.14833300}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":120.42,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.05,"desc":"CTAF/UNICOM"},
+{"type":"APP","freq":127.65,"desc":"DAYTON APP/DEP"}
+]
+,"ils":[
+]
+}

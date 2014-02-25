@@ -1,0 +1,17 @@
+{"success":true,"source":"xp2csv.pl","last_updated":"2014/02/20 16:16:00 UTC"
+,"type":1,"icao":"I68","name":"Lebanon Warren Co","lat":39.4621735,"lon":-84.2518475,"rwys":1,"ils":0,"elev":898,"index":1564762,"path":"w090n30/w085n39"
+,"runways":[
+{"len_m":1372,"wid_m":19.81,"hdg":4,"surf":"Asphalt","rwy1":"01","lat1":39.45601100,"lon1":-84.25242800,"rwy2":"19","lat2":39.46833600,"lon2":-84.25126700}
+]
+,"helipads":[
+]
+,"radios":[
+{"type":"ATIS","freq":118.92,"desc":"AWOS 3"},
+{"type":"CTAF","freq":123.07,"desc":"CTAF/UNICOM"},
+{"type":"CLD","freq":119.4,"desc":"DAYTON CLNC DEL"},
+{"type":"APP","freq":118.85,"desc":"DAYTON APP"},
+{"type":"DEP","freq":126.5,"desc":"DAYTON DEP"}
+]
+,"ils":[
+]
+}
