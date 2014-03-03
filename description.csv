@@ -49,3 +49,16 @@ testcss3.html,Test of rotating text - not all works!
 dist-test.html,Experiments with getting fast distance calculation
 colormap.html,View color ranges to build height map image
 map-test2.html,EXCLUDE
+display-csv-ok.html,EXCLUDE
+display-csv.html,Load of 1/4 million cvs records and display on 3D layered sphere
+fgcom.html,Live FGCOM Server Connections
+map-fsm.html,Display of STAR as a 'flat spraghetti monster'
+map2.html,STAR display using manual generated STAR.json
+mapx.html,STAR display with airways added
+mod4.html,EXCLUDE
+navview.html,EXCLUDE
+testjs3-ok.html,EXCLUDE
+testjs3-ok2.html,EXCLUDE
+testjs3.html,EXCLUDE
+testjs4.html,EXCLUDE
+testjs5.html,EXCLUDE
