@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   WMM - World Magnetic Model
+  </title>
+  <meta charset="utf-8">
+  <script src='js/WorldMagneticModel.js'
+        type="text/javascript">
+</script>
+  <style type="text/css">
+html, body, #map {
+      margin: 1em;
+      width: 100%;
+      height: 100%;
+    }
+
+.sz4redb  { font-size: 18pt; color: #FF0000; font-family: Arial; font-weight: bold }
+
+.redb  { color: #FF0000; font-family: Arial; font-weight: bold }
+
+#compass {
+  width: 380px;
+  height: 380px;
+  background-image:url('images/compass.jpg');
+  position: relative;
+}
+
+#arrow {
+  width: 280px;
+  height: 10px;
+  background-color:#F00;
+  position: absolute;
+  top: 180px;
+  left: 50px;
+  
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -o-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  
+  -moz-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+#compass3:hover #arrow3 {
+  -webkit-transform:rotate(107deg);
+  -moz-transform:rotate(107deg);
+  -o-transform:rotate(107deg);
+  -ms-transform:rotate(107deg);
+}
+
+#arrow2 {
+  width: 180px;
+  height: 5px;
+  background-color:#000;
+  position: absolute;
+  top: 140px;
+  left: 100px;
+  
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -o-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+
+  -moz-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+#compass2:hover #arrow3 {
+  -webkit-transform:rotate(0deg);
+  -moz-transform:rotate(0deg);
+  -o-transform:rotate(0deg);
+  -ms-transform:rotate(0deg);
+}
+  
+    </style>
+  <script type="text/javascript">
+var startTime = new Date();
+    var myurl = 'data2';    // for the file fetching
+    var MonthDays = [];
+    var yr = startTime.getFullYear();
+    var ExtraDay = 0;
+    var declination;
+    var clat,clon,cyy,cmm,cdd,calt,chh,cmi,cdecd;
+    var wmm = new WorldMagneticModel();
+    if ( ((yr % 4 == 0) && (yr % 100 != 0)) || (yr % 400 == 0) ) {
+        ExtraDay = 1;
+    }
+    MonthDays[0] = 0;
+    MonthDays[1] = 31;
+    MonthDays[2] = 28 + ExtraDay;
+    MonthDays[3] = 31;
+    MonthDays[4] = 30;
+    MonthDays[5] = 31;
+    MonthDays[6] = 30;
+    MonthDays[7] = 31;
+    MonthDays[8] = 31;
+    MonthDays[9] = 30;
+    MonthDays[10] = 31;
+    MonthDays[11] = 30;
+    MonthDays[12] = 31;
+    //           0                 1                  2                  3
+	var files = ['apt1000-nav.csv','apt1000-icao.csv','apt1000-heli.csv','apt1000-sea.csv'];
+    var files_loaded = 0;
+    var time_ms = 2000;
+    var myTimer;
+    var timer_is_on = 0;
+    
+    function AddDDLItem(Text,Value) {
+        // Create an Option object
+        var opt = document.createElement("option");
+        // Add an Option object to Drop Down/List Box
+        var ddlId = document.getElementById("DropDownList");
+        ddlId.options.add(opt);
+        // Assign text and value to Option object
+        opt.text = Text;
+        opt.value = Value;
+    }
+
+    function loadFile() {
+        if ((this.readyState == 4) && (this.status == "200")) {
+            var text = this.responseText;
+            var user = this.userdata; // get 'usrdata' back
+            var i = user[0];
+            var f = user[1];
+            var d = new Date();
+            var msg = 'CB2 i='+i+' f='+f+' elap '+
+                ms2hhmmss(d.valueOf() - startTime.valueOf());
+            var lines = text.split(/\r\n|\n/);
+            var length = lines.length - 1;
+            var sep = ',';
+            var j,lat,lon,alt,nam,line,arr,typ,val,n;
+            var mitemcnt = 0;
+            for (j = 1; j < length; j++) {
+                line = lines[j];
+                arr  = line.split(sep);
+                if (i == 0) {
+                    continue; // skip ALL navaids (for now)
+                    //       0    1   2   3    4    6   6    7  8    9   10
+                    // nav - type,lat,lon,feet,freq,rng,bear,id,icao,rwy,"name"
+                    // 2,38.08777778,-077.32491667,0,396,50,0.0,APH,,,"A P HILL NDB"
+                    // 3,26.95550000,-101.47102778,1864,11790,130,8.0,MOV,,,"MONCLOVA VOR-DME"
+                    // 4,33.63949200,-085.15496700,1161,11170,18,343.900,ICTJ,KCTJ,35,"ILS-cat-I"
+                    // 5,46.83369700,004.81574700,636,10850,18,350.485,CC,LFLH,35,"LOC"
+                    // 6,49.71930800,-124.89669200,77,11170,10,300135.000,IQQ,CYQQ,12,"GS"
+                    // 7,32.57452500,-091.96044700,79,0,0,224.886,----,KMLU,22,"OM"
+                    // 8,32.66824200,-114.59339400,213,0,0,223.985,----,KNYL,21R,"MM"
+                    // 9,35.02177800,-089.97238300,341,0,0,359.010,----,KMEM,36R,"IM"
+                    // 12,42.23324700,-083.34732200,650,11070,18,0.000,IDTW,KDTW,04R,"DME-ILS"
+                    // 13,49.20933100,007.39577800,1201,10910,25,0.0,ZND,,,"ZWEIBRUCKEN DME"
+                    typ = parseInt(arr[0],10);
+                    if ( !((typ == 2)||(typ == 3)) ) {
+                        continue; // only NDB or VOR (for now)
+                    }
+                    
+                    lat = parseFloat(arr[1]);
+                    lat = parseFloat(arr[2]);
+                    alt = (parseInt(arr[3]) * 0.0003048).toFixed(2);
+                    nam = arr[10];
+                } else {
+                    //        0    1      2   3   4       5   6
+                    // icao - icao,"name",lat,lon,runways,ils,elev_ft_AMSL
+                    // 01MN,"[s] Barnes",47.89963777,-92.55738945,0,0,1358
+                    typ = parseInt(arr[5]);
+                    if (typ == 0) continue; // only those with an ILS
+                    nam = arr[0];
+                    lat = parseFloat(arr[2]);
+                    lon = parseFloat(arr[3]);
+                    alt = (parseInt(arr[6]) * 0.0003048).toFixed(2);
+                }
+                val = lat+','+lon+','+alt;
+                // ugh! This is failing????
+                //var mwmm = new WorldMagneticModel();
+                //var tdec = mwmm.declination(alt, lat, lon, cdecd); 
+                //n = tdec.toFixed(2);
+                //nam += ' '+n;
+                AddDDLItem(nam,val);
+                mitemcnt++;
+            }
+            msg += ' loaded '+mitemcnt;
+            console.log(msg);
+        }
+    }
+    
+    function loadFiles() {
+        var len = files.length;
+        var i, file, url;
+        for (i = 0; i < len; i++) {
+            file = files[i];
+            url = myurl+'/'+file;
+            requestFileCB2( url, loadFile, [i,file] );
+        }
+    }
+    function getOption() {
+        printDate();
+        clat = parseFloat(document.getElementById("lat").value);
+        clon = parseFloat(document.getElementById("lon").value);
+        cyy  = parseInt(document.getElementById("year").value,10);
+        cmm  = parseInt(document.getElementById("month").value,10);
+        cdd  = parseInt(document.getElementById("day").value,10);
+        calt = parseFloat(document.getElementById("alt").value);
+        chh  = parseInt(document.getElementById("hours").value,10);
+        cmi  = parseInt(document.getElementById("mins").value,10);
+        cdecd = getDecimalDate(cyy,cmm,cdd,(chh+(cmi/60))).toFixed(2);
+        console.log('yy='+cyy+' mm='+cmm+' dd='+cdd+' dec='+cdecd);
+        declination = wmm.declination(calt, clat, clon, cdecd); 
+        var n = declination.toFixed(2);
+        
+        var msg = '<span class="sz4redb">Deviation '+n+' degrees</span>, at lat,lon,alt '+clat+','+clon+','+calt+
+            ' on '+cdecd+' year';
+        document.getElementById("results").innerHTML = msg;
+        setArrow();
+    }
+    
+    function getDecimalDate(yy,mm,dd,hh) {
+        var i;
+        var days = 0;
+        for (i = 1; i <= mm; i++) {
+            days += MonthDays[i];
+        }
+        days += dd;
+        days += hh / 24;
+        var decd = yy + (days / 365.2526);
+        return decd;
+    }
+    
+    function printDate() {
+        var temp = new Date();
+        var yy = temp.getFullYear();
+        var mm = 1 + temp.getMonth();
+        var dd = temp.getDate();
+        var hh = temp.getHours();
+        var mi = temp.getMinutes();
+        var ss = temp.getSeconds();
+        var decd = getDecimalDate(yy,mm,dd,(hh+(mi/60)));
+        var dateStr = yy + '/' +
+                      padStr(mm) + '/' +
+                      padStr(dd) + ' ' +
+                      padStr(hh) + ':' +
+                      padStr(mi) + ':' +
+                      padStr(ss);
+        var msg = 'Current Date: '+dateStr;
+        msg += ' Decimal Year: '+decd.toFixed(2);
+        document.getElementById("date").innerHTML = msg;
+        //debug (dateStr );
+    }
+
+    function padStr(i) {
+        return (i < 10) ? "0" + i : "" + i;
+    }
+    function getYear() {
+        var d = new Date();
+        return d.getFullYear();
+    }
+    function getMonth() {
+        var d = new Date();
+        return 1 + d.getMonth();
+    }
+    function getDay() {
+        var d = new Date();
+        return d.getDate();
+    }
+    
+    function setDate() {
+        var temp = new Date();
+        var yy = temp.getFullYear();
+        var mm = padStr(1 + temp.getMonth());
+        var dd = padStr(temp.getDate());
+        var hh = padStr(temp.getHours());
+        var mi = padStr(temp.getMinutes());
+        document.getElementById("year").value = yy;
+        document.getElementById("month").value = mm;
+        document.getElementById("day").value = dd;
+        document.getElementById("hours").value = hh;
+        document.getElementById("mins").value = mi;
+    }
+    function setNewLocation(lat,lon,alt) {
+        document.getElementById("lat").value = lat;
+        document.getElementById("lon").value = lon;
+        document.getElementById("alt").value = alt;
+        getOption();
+    }
+    function setArrow() {
+        var ao = document.getElementById("arrow");
+        if (ao && ao.style) {
+            var dec = parseInt(declination,10) + 90;
+            var css = '-webkit-transform:rotate('+dec+'deg);' +
+                       '-moz-transform:rotate('+dec+'deg);' +
+                       '-o-transform:rotate('+dec+'deg);' +
+                       '-ms-transform:rotate('+dec+'deg);';
+            ao.style.cssText = css;
+            console.log("Set css text with dec "+dec);
+        }
+    }
+    
+    // =====================================================================
+    // this is the ticket, the key - it is an Object, so can add user values
+    // =====================================================================
+    function requestFileCB2( fname, callback, userdata ) {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open( 'GET', fname, true );
+        xmlhttp.onreadystatechange = callback;
+        xmlhttp.userdata = userdata; // NOTE THIS!
+        xmlhttp.send( null );
+    }
+    function requestFileCB( fname, callback ) {
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open( 'GET', fname, true );
+        xmlhttp.onreadystatechange = callback;
+        xmlhttp.send( null );
+    }
+    function getElapsed(bgn) {
+        var d = new Date();
+        var ms = d.valueOf() - bgn.valueOf();
+        var elap = ms2hhmmss(ms);
+        return elap;
+    }
+    
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+    function gup( name ) {
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return "";
+        return results[1];
+    }
+    function newLocation() {
+        var ddl = document.getElementById("DropDownList");
+        var sel = ddl.selectedIndex;
+        var val = ddl.options[sel].value;
+        var txt = ddl.options[sel].text;
+        var arr = val.split(',');
+        var lat = parseFloat(arr[0]);
+        var lon = parseFloat(arr[1]);
+        var alt = parseFloat(arr[2]);
+        console.log("Sel: "+txt+' '+lat+','+lon+','+alt+' ('+sel+')');
+        setNewLocation(lat,lon,alt);
+        var n = declination.toFixed(2);
+        var arr = txt.split(' ');
+        txt = arr[0]+' '+n;
+        ddl.options[sel].text = txt;
+    }
+    function newLocation2() {
+        clearTimer();
+        newLocation();
+    }
+    function doNext() {
+        clearTimer();
+        var ddl = document.getElementById("DropDownList");
+        var sel = ddl.selectedIndex;
+        var len = ddl.options.length;
+        sel++;
+        if (sel >= len) sel = 0;
+        ddl.selectedIndex = sel;
+        newLocation();
+    }
+    function doBack() {
+        clearTimer();
+        var ddl = document.getElementById("DropDownList");
+        var sel = ddl.selectedIndex;
+        var len = ddl.options.length;
+        if (sel)
+            sel--;
+        else
+            sel = len - 1;
+        ddl.selectedIndex = sel;
+        newLocation();
+    }
+    function doLast() {
+        clearTimer();
+        var ddl = document.getElementById("DropDownList");
+        var sel = ddl.selectedIndex;
+        var len = ddl.options.length;
+        sel = len - 1;
+        ddl.selectedIndex = sel;
+        newLocation();
+    }
+    function doFirst() {
+        clearTimer();
+        var ddl = document.getElementById("DropDownList");
+        ddl.selectedIndex = 0;
+        newLocation();
+    }
+    function doAuto() {
+        doNext();
+        myTimer = setTimeout(doAuto,time_ms);
+        timer_is_on = 1;
+    } 
+    function clearTimer() {
+        if (timer_is_on) {
+            clearTimeout(myTimer);
+            timer_is_on = 0;
+        }
+    }
+    function newTimeout() {
+        time_ms = parseInt(document.getElementById("timeout").value,10);
+    }
+            
+ </script>
+
+ </head>
+ <body>
+  <h1 align="center">
+   WMM - World Magnetic Model
+  </h1>
+<form action="#">
+  Latitude : <input type="text" name="lat" id="lat" value="37.618674211"> degrees (- for S)<br>
+  Longitude : <input type="text" name="lon" id="lon" value="-122.375007609"> degrees (- for W)<br>
+  Altitude : <input type="text" name="alt" id="alt" value="0.0"> kilometres AMSL<br>
+  Date : <input type="text" name="year" id="year" size="4">/
+  <input type="text" name="month" id="month" size="2">/
+  <input type="text" name="day" id="day" size="2"> 
+  <input type="text" name="hours" id="hours" size="2">:
+  <input type="text" name="mins" id="mins" size="2"> year/mm/dd hh:mm range 2010-2015<br>
+  <input type="button" value="Go" onclick="getOption()"> 
+  Select Location: <select id="DropDownList" onChange="newLocation2()">
+    <option value="37.618674211,-122.375007609,0.0">KSFO 13.83</option>
+    <option value="48.726969293,2.369992317,0.09">LPFO 0.01</option>
+    <option value="-54.843310105,-68.294896740,0.0">SAWH 12.64</option>
+    <option value="-42.837405125,147.510423815,0.0">YMHB 14.9</option>
+    </select>
+    <input type="button" value="Next" onclick="doNext()">
+    <input type="button" value="Back" onclick="doBack()">
+    <input type="button" value="Last" onclick="doLast()">
+    <input type="button" value="First" onclick="doFirst()">
+    <input type="button" value="Auto" onclick="doAuto()"> each
+    <input type="text" name="hours" id="timeout" size="2" value="2000" onChange="newTimeout()"> (millisecs)
+</form>
+<p id="date">&nbsp;</p>
+<p id="results">&nbsp;</p>
+
+<!-- <p>Hover over compass to see deviation</p> -->
+<div id="compass">
+  <div id="arrow2"></div>
+  <div id="arrow"></div>
+</div>
+
+  <script type="text/javascript">
+  setDate();
+  printDate();
+  getOption();  
+  setArrow();
+  loadFiles();
+</script>
+<!-- 
+<form action="#">
+  <input type="button" value="Next" onclick="doTest()">
+</form>  
+  -->
+  <p>&nbsp;</p>
+  
+  </body>
+</html>
