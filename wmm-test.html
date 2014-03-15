@@ -10,56 +10,59 @@
 </script>
   <style type="text/css">
 html, body, #map {
-      margin: 1em;
-      width: 100%;
-      height: 100%;
-    }
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-right:1em;
+    margin-left:1em;
+    width: 100%;
+    height: 100%;
+  }
 
-.sz4redb  { font-size: 18pt; color: #FF0000; font-family: Arial; font-weight: bold }
+  .sz4redb  { font-size: 18pt; color: #FF0000; font-family: Arial; font-weight: bold }
 
-.redb  { color: #FF0000; font-family: Arial; font-weight: bold }
+  .redb  { color: #FF0000; font-family: Arial; font-weight: bold }
 
-#compass {
+  #compass {
   width: 380px;
   height: 380px;
   background-image:url('images/compass.jpg');
   position: relative;
-}
+  }
 
-#arrow {
+  #arrow {
   width: 280px;
   height: 10px;
   background-color:#F00;
   position: absolute;
   top: 180px;
   left: 50px;
-  
+
   -webkit-transform:rotate(90deg);
   -moz-transform:rotate(90deg);
   -o-transform:rotate(90deg);
   -ms-transform:rotate(90deg);
-  
+
   -moz-transition: all 1s ease;
   -webkit-transition: all 1s ease;
   -o-transition: all 1s ease;
   transition: all 1s ease;
-}
+  }
 
-#compass3:hover #arrow3 {
+  #compass3:hover #arrow3 {
   -webkit-transform:rotate(107deg);
   -moz-transform:rotate(107deg);
   -o-transform:rotate(107deg);
   -ms-transform:rotate(107deg);
-}
+  }
 
-#arrow2 {
+  #arrow2 {
   width: 180px;
   height: 5px;
   background-color:#000;
   position: absolute;
   top: 140px;
   left: 100px;
-  
+
   -webkit-transform:rotate(90deg);
   -moz-transform:rotate(90deg);
   -o-transform:rotate(90deg);
@@ -69,16 +72,18 @@ html, body, #map {
   -webkit-transition: all 1s ease;
   -o-transition: all 1s ease;
   transition: all 1s ease;
-}
+  }
 
-#compass2:hover #arrow3 {
+  #compass2:hover #arrow3 {
   -webkit-transform:rotate(0deg);
   -moz-transform:rotate(0deg);
   -o-transform:rotate(0deg);
   -ms-transform:rotate(0deg);
-}
-  
-    </style>
+  }
+
+  .nob { margin : 0 0 0 0; border-style : none; padding : 0 0 0 0; } 
+
+  </style>
   <script type="text/javascript">
 var startTime = new Date();
     var myurl = 'data2';    // for the file fetching
@@ -86,6 +91,17 @@ var startTime = new Date();
     var yr = startTime.getFullYear();
     var ExtraDay = 0;
     var declination;
+    var west_min = 999;
+    var west_max = -999;
+    var east_min = 999;
+    var east_max = -999;
+    var max_west = '';
+    var min_west = '';
+    var max_east = '';
+    var min_east = '';
+    var curr_icao = 'KSFO';
+    var changed_by_go = 0;  // just use lat,lon,alt inputs, so NO icao
+    
     var clat,clon,cyy,cmm,cdd,calt,chh,cmi,cdecd;
     var wmm = new WorldMagneticModel();
     if ( ((yr % 4 == 0) && (yr % 100 != 0)) || (yr % 400 == 0) ) {
@@ -105,21 +121,18 @@ var startTime = new Date();
     MonthDays[11] = 30;
     MonthDays[12] = 31;
     //           0                 1                  2                  3
-	var files = ['apt1000-nav.csv','apt1000-icao.csv','apt1000-heli.csv','apt1000-sea.csv'];
+    var files = ['apt1000-nav.csv','apt1000-icao.csv','apt1000-heli.csv','apt1000-sea.csv'];
     var files_loaded = 0;
     var time_ms = 2000;
     var myTimer;
     var timer_is_on = 0;
     
     function AddDDLItem(Text,Value) {
-        // Create an Option object
-        var opt = document.createElement("option");
-        // Add an Option object to Drop Down/List Box
-        var ddlId = document.getElementById("DropDownList");
-        ddlId.options.add(opt);
-        // Assign text and value to Option object
-        opt.text = Text;
-        opt.value = Value;
+        var opt = document.createElement("option"); // Create an Option object
+        var ddlId = document.getElementById("DropDownList"); // get object
+        ddlId.options.add(opt); // Add an Option object to Drop Down/List Box
+        opt.text = Text; // Assign text 
+        opt.value = Value; // and value to Option object
     }
 
     function loadFile() {
@@ -184,6 +197,10 @@ var startTime = new Date();
             }
             msg += ' loaded '+mitemcnt;
             console.log(msg);
+            files_loaded++;
+            if (files_loaded == files.length) {
+                doAuto2();
+            }
         }
     }
     
@@ -210,13 +227,62 @@ var startTime = new Date();
         console.log('yy='+cyy+' mm='+cmm+' dd='+cdd+' dec='+cdecd);
         declination = wmm.declination(calt, clat, clon, cdecd); 
         var n = declination.toFixed(2);
-        
-        var msg = '<span class="sz4redb">Deviation '+n+' degrees</span>, at lat,lon,alt '+clat+','+clon+','+calt+
+        var at;
+        if (changed_by_go)
+            at = 'at lat,lon,alt';
+        else
+            at = 'at '+curr_icao;
+        var msg = '<span class="sz4redb">Deviation '+n+' degrees<\/span>, '+at+' '+clat+','+clon+','+calt+
             ' on '+cdecd+' year';
         document.getElementById("results").innerHTML = msg;
         setArrow();
+        var chg = 0;
+        var e;
+        n = parseFloat(n);
+        if (n < 0.0) {
+            // west - negative
+            if (n < west_min) {
+                west_min = n;
+                chg++;
+                min_west = 'min '+curr_icao+' '+n+' '+clat+','+clon+','+calt+' '+cdecd;
+            }
+            if (n > west_max) {
+                west_max = n;
+                chg++;
+                max_west = 'max '+curr_icao+' '+n+' '+clat+','+clon+','+calt+' '+cdecd;
+            }
+            if (chg) {
+                e = document.getElementById("west");
+                if (e) {
+                    e.innerHTML = 'WEST '+min_west+' - '+max_west;
+                }
+            }
+        } else {
+            // east - positive
+            if (n < east_min) {
+                east_min = n;
+                chg++;
+                min_east = 'min '+curr_icao+' '+n+' '+clat+','+clon+','+calt+' '+cdecd;
+            }
+            if (n > east_max) {
+                east_max = n;
+                chg++;
+                max_east = 'max '+curr_icao+' '+n+' '+clat+','+clon+','+calt+' '+cdecd;
+            }
+            if (chg) {
+                e = document.getElementById("east");
+                if (e) {
+                    e.innerHTML = 'EAST '+max_east+' - '+min_east;
+                }
+            }
+        }
     }
-    
+    function getOption2() {
+        changed_by_go = 1;
+        curr_icao = '';
+        clearTimer();
+        getOption();
+    }
     function getDecimalDate(yy,mm,dd,hh) {
         var i;
         var days = 0;
@@ -362,6 +428,7 @@ var startTime = new Date();
         return results[1];
     }
     function newLocation() {
+        changed_by_go = 0;  // we have VALID ICAO to use
         var ddl = document.getElementById("DropDownList");
         var sel = ddl.selectedIndex;
         var val = ddl.options[sel].value;
@@ -370,19 +437,20 @@ var startTime = new Date();
         var lat = parseFloat(arr[0]);
         var lon = parseFloat(arr[1]);
         var alt = parseFloat(arr[2]);
-        console.log("Sel: "+txt+' '+lat+','+lon+','+alt+' ('+sel+')');
+        var arr2 = txt.split(' ');
+        curr_icao = arr2[0];
+        // console.log("Sel: "+txt+' '+lat+','+lon+','+alt+' ('+sel+')');
         setNewLocation(lat,lon,alt);
         var n = declination.toFixed(2);
-        var arr = txt.split(' ');
-        txt = arr[0]+' '+n;
+        txt = curr_icao+' '+n;
         ddl.options[sel].text = txt;
     }
     function newLocation2() {
         clearTimer();
         newLocation();
     }
-    function doNext() {
-        clearTimer();
+    function doNext(v) {
+        if (v) clearTimer();
         var ddl = document.getElementById("DropDownList");
         var sel = ddl.selectedIndex;
         var len = ddl.options.length;
@@ -419,72 +487,163 @@ var startTime = new Date();
         newLocation();
     }
     function doAuto() {
-        doNext();
+        doNext(0);
         myTimer = setTimeout(doAuto,time_ms);
         timer_is_on = 1;
     } 
+    function doAuto2() {
+        if (timer_is_on) {
+            clearTimer();
+        } else {
+            doAuto();
+            var e = document.getElementById("auto");
+            if (e) {
+                e.value = 'Off';
+            }
+        }
+    }
     function clearTimer() {
         if (timer_is_on) {
             clearTimeout(myTimer);
             timer_is_on = 0;
+            var e = document.getElementById("auto");
+            if (e) {
+                e.value = 'Auto';
+            }
         }
     }
     function newTimeout() {
         time_ms = parseInt(document.getElementById("timeout").value,10);
     }
             
- </script>
-
+  </script>
  </head>
  <body>
   <h1 align="center">
    WMM - World Magnetic Model
   </h1>
-<form action="#">
-  Latitude : <input type="text" name="lat" id="lat" value="37.618674211"> degrees (- for S)<br>
-  Longitude : <input type="text" name="lon" id="lon" value="-122.375007609"> degrees (- for W)<br>
-  Altitude : <input type="text" name="alt" id="alt" value="0.0"> kilometres AMSL<br>
-  Date : <input type="text" name="year" id="year" size="4">/
-  <input type="text" name="month" id="month" size="2">/
-  <input type="text" name="day" id="day" size="2"> 
-  <input type="text" name="hours" id="hours" size="2">:
-  <input type="text" name="mins" id="mins" size="2"> year/mm/dd hh:mm range 2010-2015<br>
-  <input type="button" value="Go" onclick="getOption()"> 
-  Select Location: <select id="DropDownList" onChange="newLocation2()">
-    <option value="37.618674211,-122.375007609,0.0">KSFO 13.83</option>
-    <option value="48.726969293,2.369992317,0.09">LPFO 0.01</option>
-    <option value="-54.843310105,-68.294896740,0.0">SAWH 12.64</option>
-    <option value="-42.837405125,147.510423815,0.0">YMHB 14.9</option>
-    </select>
-    <input type="button" value="Next" onclick="doNext()">
-    <input type="button" value="Back" onclick="doBack()">
-    <input type="button" value="Last" onclick="doLast()">
-    <input type="button" value="First" onclick="doFirst()">
-    <input type="button" value="Auto" onclick="doAuto()"> each
-    <input type="text" name="hours" id="timeout" size="2" value="2000" onChange="newTimeout()"> (millisecs)
-</form>
-<p id="date">&nbsp;</p>
-<p id="results">&nbsp;</p>
 
-<!-- <p>Hover over compass to see deviation</p> -->
-<div id="compass">
-  <div id="arrow2"></div>
-  <div id="arrow"></div>
-</div>
+  <p class="nob"
+     id="date">
+   &nbsp;
+  </p>
 
+  <form action="#">
+   Latitude : <input type="text"
+         name="lat"
+         id="lat"
+         value="37.618674211"> degrees (- for S)
+   <br>
+   Longitude : <input type="text"
+         name="lon"
+         id="lon"
+         value="-122.375007609"> degrees (- for W)
+   <br>
+   Altitude : <input type="text"
+         name="alt"
+         id="alt"
+         value="0.0"> kilometres AMSL
+   <br>
+   Date : <input type="text"
+         name="year"
+         id="year"
+         size="4">/ <input type="text"
+         name="month"
+         id="month"
+         size="2">/ <input type="text"
+         name="day"
+         id="day"
+         size="2"> <input type="text"
+         name="hours"
+         id="hours"
+         size="2">: <input type="text"
+         name="mins"
+         id="mins"
+         size="2"> year/mm/dd hh:mm range 2010-2015
+   <br>
+   <input type="button"
+         value="Go"
+         onclick="getOption2()"> using above <b>OR</b> Select Location: <select id="DropDownList"
+         onchange="newLocation2()">
+    <option value="37.618674211,-122.375007609,0.0">
+     KSFO 13.83
+    </option>
+    <option value="48.726969293,2.369992317,0.09">
+     LPFO 0.01
+    </option>
+    <option value="-54.843310105,-68.294896740,0.0">
+     SAWH 12.64
+    </option>
+    <option value="-42.837405125,147.510423815,0.0">
+     YMHB 14.9
+    </option>
+   </select> <b>OR</b> <input type="button"
+         value="Next"
+         onclick="doNext(1)"> <input type="button"
+         value="Back"
+         onclick="doBack()"> <input type="button"
+         value="Last"
+         onclick="doLast()"> <input type="button"
+         value="First"
+         onclick="doFirst()"> <input type="button"
+         value="Auto"
+         id="auto"
+         onclick="doAuto2()"> each <input type="text"
+         name="hours"
+         id="timeout"
+         size="2"
+         value="2000"
+         onchange="newTimeout()"> (millisecs)
+  </form>
+
+  <p class="nob"
+     id="results">
+   &nbsp;
+  </p>
+  <!-- <p>Hover over compass to see deviation</p> -->
+
+  <div id="compass">
+   <div id="arrow2">
+   </div>
+
+   <div id="arrow">
+   </div>
+  </div>
   <script type="text/javascript">
-  setDate();
+setDate();
   printDate();
-  getOption();  
+  getOption2();  
   setArrow();
   loadFiles();
-</script>
-<!-- 
+  </script><!-- 
 <form action="#">
   <input type="button" value="Next" onclick="doTest()">
 </form>  
   -->
-  <p>&nbsp;</p>
-  
-  </body>
+
+  <table border="0"
+         width="100%"
+         summary="max and mins">
+   <tr>
+    <td>
+     <div id="west">
+      &nbsp;
+     </div>
+    </td>
+   </tr>
+
+   <tr>
+    <td>
+     <div id="east">
+      &nbsp;
+     </div>
+    </td>
+   </tr>
+  </table>
+
+  <p class="nob">
+   Values given here can be checked at <a target="_blank"
+      href="http://www.ngdc.noaa.gov/geomag-web/#declination">http://www.ngdc.noaa.gov/geomag-web/#declination</a>
+  </p>
+ </body>
 </html>
