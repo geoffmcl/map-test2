@@ -224,7 +224,7 @@ var startTime = new Date();
         chh  = parseInt(document.getElementById("hours").value,10);
         cmi  = parseInt(document.getElementById("mins").value,10);
         cdecd = getDecimalDate(cyy,cmm,cdd,(chh+(cmi/60))).toFixed(2);
-        console.log('yy='+cyy+' mm='+cmm+' dd='+cdd+' dec='+cdecd);
+        // console.log('yy='+cyy+' mm='+cmm+' dd='+cdd+' dec='+cdecd);
         declination = wmm.declination(calt, clat, clon, cdecd); 
         var n = declination.toFixed(2);
         var at;
@@ -360,7 +360,7 @@ var startTime = new Date();
                        '-o-transform:rotate('+dec+'deg);' +
                        '-ms-transform:rotate('+dec+'deg);';
             ao.style.cssText = css;
-            console.log("Set css text with dec "+dec);
+            // console.log("Set css text with dec "+dec);
         }
     }
     
