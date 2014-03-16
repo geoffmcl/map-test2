@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang='en'>
+ <head>
+  <title>
+   Flights 3D
+  </title>
+  <meta charset='utf-8'>
+  <meta name='viewport'
+        content='width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0'>
+ </head>
+ <body>
+ <!--
+  <script src='http://mrdoob.github.com/three.js/examples/js/Detector.js'
+        type="text/javascript">
+</script><script src='http://mrdoob.github.com/three.js/build/three.min.js'
+        type="text/javascript">
+</script><script src='http://mrdoob.github.com/three.js/examples/js/controls/TrackballControls.js'
+        type="text/javascript">
+</script><script src='http://mrdoob.github.com/three.js/examples/js/libs/stats.min.js'
+        type="text/javascript">
+</script>
+-->
+<script src='js/Detector.js'></script>
+<script src='js/three.min.js'></script>
+<script src='js/TrackballControls.js'></script>
+<script src='js/stats.min.js'></script>
+  <script type="text/javascript"
+    src="js/jquery-2.0.3.js">
+</script>
+  <script type="text/javascript">
+  if ( ! Detector.webgl ) { Detector.addGetWebGLMessage(); }
+    var url_base = 'data2';
+    var csv_files = ['apt1000-ils.csv','apt1000-icao.csv','apt1000-nav.csv'];
+    var file_num =  0; // 0, 1 or 2
+    var def_rad = 50;
+    var curr_file;
+    var json_url = "http://crossfeed.fgx.ch/flights.json";
+    var ms_timeout = 1000;
+    
+    var renderer, scene, camera, controls, light, stats;
+    var geometry, material, mesh, info;
+    var cube;
+
+    var startTime = new Date();
+    var data = [];
+    var pi = Math.PI;
+    var d2r = Math.PI / 180;
+
+    var flights = [];
+    var flights_added = [];
+    
+    init();
+    animate();
+
+    function init() {
+       if ( ! Detector.webgl ) {
+            renderer = new THREE.CanvasRenderer();
+       } else {
+            renderer = new THREE.WebGLRenderer( { antialias: true } );
+       }
+       renderer.setSize( window.innerWidth, window.innerHeight );
+       document.body.appendChild( renderer.domElement );
+       scene = new THREE.Scene();
+
+       camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 1000 );
+       camera.position.set(-100, 100, 100);
+       controls = new THREE.TrackballControls( camera, renderer.domElement );
+
+       stats = new Stats();
+       stats.domElement.style.cssText = 'position: absolute; top: 0px; zIndex: 100; ';
+       document.body.appendChild( stats.domElement );
+
+        //  User stuff
+       var css = document.createElement('style')
+       css.innerHTML = 'body {font: 600 12pt monospace; margin: 0; overflow: hidden; text-align: center; }';
+       document.body.appendChild( css );
+
+       // geometry = new THREE.CubeGeometry( 10, 10, 10 );
+       geometry = new THREE.SphereGeometry(def_rad, 100, 100);
+       //material = new THREE.MeshNormalMaterial();
+       material = new THREE.MeshBasicMaterial( { color: 0x0000ff, transparent: true, opacity: 0.3 } );
+       cube = new THREE.Mesh( geometry, material );
+       scene.add( cube );
+
+       info = document.createElement( 'div' );
+       document.body.appendChild( info );
+       info.style.cssText = 'color: white; margin 0 0 0 100px: auto; position: absolute; top: 0px; width: 100% ';
+       info.innerHTML = '<p>Open CSV file and display. Takes a little time to load and paint.<br>' +
+         '<button onclick="doCSVLoad()" >Load CSV<\/button> ' +
+         '<\/p>';
+        if (file_num == 0) {
+            doCSVLoad();    // this small file is very quick
+        }
+    }
+    
+    function doCSVLoad() {
+        startTime = new Date();
+        curr_file = csv_files[file_num];
+        var url = url_base+'/'+curr_file;
+        loadFileCB(url, callbackCSV);
+        loadFileCB(json_url,callbackJSON);  // start crossfeed
+    }
+    function loadFileCB( fname, callback ) {
+       xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }
+
+    function callbackCSV() {
+        if ( (this.readyState == 4) && (this.status == "200") ) {
+            var dataLines = this.responseText;
+            dataLines = dataLines.split(/\r\n|\n/);
+            var dataLength = dataLines.length - 1;
+            var sep = ',';
+            data = [];
+            for ( var i = 1; i < dataLength; i++ ) {
+                data.push( dataLines[i].split( sep ) );
+            }
+            dataLength = data.length;
+            var elap = getElapsed(startTime);
+            var d = new Date();
+            addAirports();
+            var elap2 = getElapsed(d);
+            
+            info.innerHTML = '<p>Loaded CSV lines: '+dataLength+' from '+curr_file+'<br>' +
+              'Load Time: ' + elap + ' Paint Time: ' + elap2 + '<br>' +
+              //'Samples of the data in memory:<br>' +
+              //'First: ' + data[0] + '<br>' +
+              //'Second: ' + data[1] + '<br>' +
+              //'Random: ' + data[parseInt(Math.random() * dataLength)] + '<br>' +
+              //'Last: ' + data[ (dataLength - 3) ] + 
+              '<\/p>';
+
+        } else {
+            console.log('waiting for csv load...');
+        }
+    }
+
+    function addAirports() {
+        var ap, i, len, lat, lon, lato, lono;
+        var objects = new THREE.Object3D();
+        //geometry = new THREE.CubeGeometry( 1, 1, 1);
+        //geometry = new THREE.CubeGeometry( 0.2, 0.2, 0.2 );
+        geometry = new THREE.SphereGeometry( 0.2, 10, 10 );
+        //material = new THREE.MeshNormalMaterial();
+        material = new THREE.MeshBasicMaterial( { color: 0xffffff, transparent: true, opacity: 0.5 } );
+        if (file_num == 2) {
+            // type,lat,lon,feet,freq,rng,bear,id,icao,rwy,"name"
+            lato = 1;
+            lono = 2;
+        } else {
+            lato = 2;
+            lono = 3;
+        }
+        len = data.length; 
+        for (i = 0; i < len; i++) {
+            ap = data[i];
+            cube = new THREE.Mesh( geometry, material );
+            lat = parseFloat(ap[lato]);
+            lon = parseFloat(ap[lono]);
+            cube.position = calcPosition( lat, lon, def_rad );
+            // cube.ap = ap;
+            objects.add( cube );
+        }
+        scene.add( objects );
+    }
+    function addFlights() {
+        var objs = new THREE.Object3D();
+        // these should be global - done only once - not each second
+        var geom = new THREE.SphereGeometry( 0.5, 10, 10 );
+        var mat  = new THREE.MeshBasicMaterial( { color: 0xff0000, transparent: true, opacity: 0.5 } );
+        var mat2 = new THREE.MeshBasicMaterial( { color: 0x00ff00, transparent: true, opacity: 0.5 } );
+        var max  = flights.length;
+        var len  = flights_added.length;
+        var i,j,msg;
+        var fid,lat,lon,alt,hdg,spd,flt,rad,vec,sobj,flt2,fid2,fnd,atc;
+        var added = 0;
+        var inscene = 0;
+        var delcnt = 0;
+        var failcnt = 0;
+        for (i = 0; i < max; i++) {
+            flt = flights[i];
+            //               0   1   2   3   4   5   6   7  8
+            // flights.push([fid,lat,lon,alt,hdg,spd,atc,cs,mod]);
+            fid = flt[0];
+            lat = flt[1];
+            lon = flt[2];
+            alt = flt[3];
+            hdg = flt[4];
+            spd = flt[5];
+            atc = flt[6];
+            stg = JSON.stringify(fid);
+            rad = def_rad + (alt / 5000); // hmmm, this should be accordind to some scale
+            vec = calcPosition( lat, lon, rad );
+            // how to FIND this object in the scene
+            sobj = scene.getObjectByName( stg, true );
+            // decide to update position or add
+            if (sobj && sobj.name && (sobj.name == stg)) {
+                plane.position = vec;
+                plane.flight = flt;
+                inscene++;
+            } else {
+                if (atc)
+                    plane = new THREE.Mesh( geom, mat2 );
+                else
+                    plane = new THREE.Mesh( geom, mat );
+               
+                plane.position = vec;
+                plane.flight = flt;
+                plane.name = stg;
+                objs.add( plane );
+                flights_added.push(flt);
+                added++;
+            }
+        }
+        if (added) {
+            scene.add( objs );
+        }
+        // Now how to remove a flight
+        var todelete = [];
+        for (j = 0; j < len; j++) {
+            flt2 = flights_added[j];
+            fid2 = flt2[0];
+            fnd = 0;
+            for (i = 0; i < max; i++) {
+                flt = flights[i];
+                fid = flt[0];
+                if (fid2 == fid) {
+                    fnd = 1;    // still in list
+                    break;
+                }
+            }
+            if (!fnd) { // ok must DELETE this flight from the scene
+                stg = JSON.stringify(fid2);
+                sobj = scene.getObjectByName( stg, true );
+                // how to DELETE/REMOVE object
+                if (sobj && sobj.name && (sobj.name == stg)) {
+                    scene.remove(sobj); // does this do it?
+                    delcnt++;
+                } else {
+                    failcnt++;
+                }
+                todelete.push(flt2);
+            }
+        }
+        var dcnt = todelete.length;
+        for (j = 0; j < dcnt; j++) {
+            flt2 = todelete[j];
+            var index = $.inArray(flt2, flights_added);
+            if (index >= 0) flights_added.splice(index, 1);
+        }
+        dcnt = len + added - flights_added.length; // just a debug check sum
+        if (failcnt || (delcnt != dcnt)) {
+            msg = 'Of '+max+' flights, added '+added+', inscene '+inscene+', delcnt '+delcnt+' ('+dcnt+'), failed '+failcnt;
+            console.log(msg);   // only show if it looks like an ERROR
+        }
+    }
+    function callbackJSON() {
+        if ( (this.readyState == 4) && (this.status == "200") ) {
+            var text = this.responseText;
+            var data = JSON.parse(text);
+            var fid,lat,lon,alt,hdg,spd,mod,cs,atc;
+            flights = [];
+            // {"fid":1394988249000,"callsign":"CEF4200","lat":45.127233,"lon":-57.716853,"alt_ft":41641,
+            // "model":"Aircraft/707/Models/707.xml","spd_kts":520,"hdg":71,"dist_nm":775},
+
+			$(data.flights).each(function (i) {
+                fid = parseInt(this.fid,10);
+                lat = parseFloat(this.lat);
+                lon = parseFloat(this.lon);
+                hdg = parseInt(this.hdg);
+  	            alt = parseInt(this.alt_ft);
+  	            spd = parseInt(this.spd_kts);
+                cs  = this.callsign;
+                mod = get_model(this.model);
+                atc = is_atc(cs,mod);
+                flights.push([fid,lat,lon,alt,hdg,spd,atc,cs,mod]);
+            });
+            fid = flights.length;
+            //console.log("Have "+fid+" flights...");
+            addFlights();
+            setTimeout("loadFileCB('"+json_url+"',callbackJSON)", ms_timeout);
+       }    
+    }
+
+    function v(x,y,z){ return new THREE.Vector3(x,y,z); }
+    function cos(a){return Math.cos(a);}
+    function sin(a){return Math.sin(a);}
+
+    function calcPosition( lat, lon, rad ) {
+        var clat = cos( lat * d2r );
+        return  v(
+            rad * clat * cos( pi - lon * d2r),
+            rad * sin( lat * d2r ),
+            rad * clat * sin( pi - lon * d2r)
+        );
+    }
+
+    function animate() {
+       requestAnimationFrame( animate );
+       controls.update();
+       renderer.render( scene, camera );
+       stats.update();
+    }
+    
+    // helpers
+    // various guesses that it is ATC
+    function is_atc( callsign, model ) {
+        if (model == 'OpenRadar') return true;
+        var mod = model.toUpperCase();
+        var n = mod.indexOf('ATC');
+        if (n >= 0) return true;
+        n = callsign.indexOf('ATC');
+        if (n >= 0) return true;
+        return false;
+    }
+    // strip .xml extension, and strip '-model'
+    function strip_extent(txt) {
+        var n = txt.lastIndexOf('.');
+        if (n > 0) {
+            txt = txt.substr(0,n);
+            n = txt.indexOf('-model'); // like 'A-10-model'
+            if (n > 0) {
+                txt = txt.substr(0,n);
+            } else {
+                n = txt.indexOf('-jsbsim'); // like 'dr400-180-jsbsim'
+                if (n > 0) {
+                    txt = txt.substr(0,n);
+                }
+            }
+        }
+        return txt;
+    }
+    // remove path from model name, strip .xml extension, and limit length to 10 letters
+    function get_model(txt) {
+        var n = txt.lastIndexOf('/');
+        if (n > 0) {
+            txt = strip_extent(txt.substr(n+1));
+        }
+        if (txt.length > 10) {
+            txt = txt.substr(0,10);
+        }
+        return txt;
+    }
+        
+    function getElapsed(bgn) {
+        var d = new Date();
+        var ms = d.valueOf() - bgn.valueOf();
+        var elap = ms2hhmmss(ms);
+        return elap;
+    }
+    
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+
+  </script>
+ </body>
+</html>
