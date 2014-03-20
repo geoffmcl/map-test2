@@ -1,0 +1,67 @@
+
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+}
+body {
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-size: 80%;
+	margin: 0;
+	padding: 0;
+}
+div.body {
+	margin: 10pt;
+}
+h1 {
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-size: 1.3em;
+	color: #3366CC;
+	/* padding-bottom: .3em;
+	border-bottom: 1px solid black;
+	margin-bottom: 1em; */
+}
+h2 {
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-size: 1.2em;
+	color: #3366CC;
+}
+h3 {
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-size: 1.1em;
+	color: #333366;
+}
+h4 {
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	font-size: 1em;
+	color: #333366;
+}
+td, th {
+	font-size: 80%;
+	font-family: "Segoe UI", "Lucida Grande", Verdana, Arial, sans-serif;
+	padding: 5px;
+}
+.viewsource {
+	font-size: 8pt;
+	background: #e4e4e4;
+	border: 1px solid black;
+	margin: 5px 0;
+	padding: 5px;
+	color: black !important;
+}
+.copyright {
+	font-size: 8pt;
+	margin: 5px 0;
+	padding: 5px;
+}
+A {
+	color: #3366CC;
+	text-decoration: none;
+}
+A:visited {
+	color: #333366;
+}
+A:hover {
+	text-decoration: underline;
+}
+
