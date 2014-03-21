@@ -5,7 +5,7 @@
 
  <head>
   <title>
-   The Saftey Palette Tables
+   Height Color Tables
   </title>
   <meta content="text/html; charset=us-ascii"
         http-equiv="Content-Type">
@@ -24,10 +24,63 @@
 
  <body>
   <div class="body">
-   <p>
-    <strong>Taken from</strong> <a target="_blank"
-       href="http://msdn.microsoft.com/en-us/library/bb250466(VS.85).aspx">http://msdn.microsoft.com/en-us/library/bb250466(VS.85).aspx</a>
+   <a name="top"
+        id="top"></a>
+   <h1 align="center">
+    Height Color Tables
+   </h1>
+
+   <p align="center">
+    <a href="index.html">index</a> <a href="#end">end</a>
    </p>
+
+   <p>
+    I wanted, needed to find a set of colors that I could apply to a colored height map to 'show'
+    a 3-sec DEM file, in this case N37W123.hgt (San Francisco), and wanted the colors 'related'.
+    After several tries, came up with the following table of 26 entries -
+   </p>
+   <script type="text/javascript">
+var red_colors = [];
+
+    red_colors[0] = '#FFCCCC';
+    red_colors[1] = '#FF9999';
+    red_colors[2] = '#FF6666';
+    red_colors[3] = '#FF3333';
+    red_colors[4] = '#FF0000';
+    red_colors[5] = '#CC0000';
+    red_colors[6] = '#990000';
+    red_colors[7] = '#660000';
+    red_colors[8] = '#330000';
+
+    var main_row = [ "#FF0000", "#FF3300", "#FF6600", "#FF9900", "#FFCC00", "#FFFF00",
+        "#CCFF00", "#99FF00", "#66FF00", "#33FF00", "#00FF00",
+        "#00FF33", "#00FF66", "#00FF99", "#00FFCC", "#00FFFF",
+        "#00CCFF", "#0099FF", "#0066FF", "#0033FF", "#0000FF",
+        "#3300FF", "#6600FF", "#9900FF", "#CC00FF", "#FF00FF" ];
+    var len = main_row.length;
+    var msg = '<p style="margin:0; padding:0">Main color row of '+len+' colors, stopping before the reds repeat, '+
+        'but could perhaps be extended a little...<\/p>';
+    document.write(msg);
+    msg = '<table cellpadding="0" cellspacing="1" summary="white to black" style="background: black">';
+    msg += '<tr>';
+    var i;
+    for (i = 0; i < len; i++) {
+        msg += '<td class="colorTD" style="background: '+main_row[i]+'">'+
+            '<img alt="'+main_row[i]+'" src="images/ts.gif" width="15" height="10" border="0"><\/td>';
+    }
+    msg += '<\/tr><\/table>';
+    document.write(msg);
+
+   </script>
+   <p>
+    In this search was influenced by the following Microsoft site <a target="_blank"
+       href="http://msdn.microsoft.com/en-us/library/bb250466(VS.85).aspx">http://msdn.microsoft.com/en-us/library/bb250466(VS.85).aspx</a>.
+       The second table shows what it calls an outside-to-inside perspective. At the
+       <a href="#end">end</a> of this page the PNG image generated is shown, using the above
+       table.
+   </p>
+
+   <hr>
 
    <h1>
     The Safety Palette Table 1: Top-to-Bottom Perspective
@@ -4133,45 +4186,112 @@
    <!-- START_PAGE_FOOTER -->
 
    <br>
-   <script type="text/javascript">
-var red_colors = [];
-
-    red_colors[0] = '#FFCCCC';
-    red_colors[1] = '#FF9999';
-    red_colors[2] = '#FF6666';
-    red_colors[3] = '#FF3333';
-    red_colors[4] = '#FF0000';
-    red_colors[5] = '#CC0000';
-    red_colors[6] = '#990000';
-    red_colors[7] = '#660000';
-    red_colors[8] = '#330000';
-
-    var main_row = [ "#FF0000", "#FF3300", "#FF6600", "#FF9900", "#FFCC00", "#FFFF00",
-        "#CCFF00", "#99FF00", "#66FF00", "#33FF00", "#00FF00",
-        "#00FF33", "#00FF66", "#00FF99", "#00FFCC", "#00FFFF",
-        "#00CCFF", "#0099FF", "#0066FF", "#0033FF", "#0000FF",
-        "#3300FF", "#6600FF", "#9900FF", "#CC00FF", "#FF00FF" ];
-    var len = main_row.length;
-    var msg = '<p style="margin:0; padding:0">Main color row of '+len+' colors, stopping before the reds repeat, '+
-        'but could perhaps be extended a little...<\/p>';
-    document.write(msg);
-    msg = '<table cellpadding="0" cellspacing="1" summary="white to black" style="background: black">';
-    msg += '<tr>';
-    var i;
-    for (i = 0; i < len; i++) {
-        msg += '<td class="colorTD" style="background: '+main_row[i]+'">'+
-            '<img alt="'+main_row[i]+'" src="images/ts.gif" width="15" height="10" border="0"><\/td>';
-    }
-    msg += '<\/tr><\/table>';
-    document.write(msg);
-
-   </script>
-   <p class="viewsource">
-    [Right-click and choose View Source from the shortcut menu.]
-   </p>
    <a class="copyright"
         href="http://www.microsoft.com/isapi/gomscom.asp?TARGET=/info/cpyright.htm">&copy;
         Microsoft Corporation. All rights reserved. Terms of use. <!-- END_PAGE_FOOTER --></a>
+
+   <hr>
+   <a name="end"
+        id="end"></a>
+   <p style="margin:0; padding:0">
+    PNG image generated from N37W123.hgt from <a target="_blank"
+       href="http://www.viewfinderpanoramas.org">viewfinderpanoramas</a> using my own developing
+       dem3 app... Click image to load full size in a new window.
+   </p>
+
+   <table style="margin:0; padding:0"
+          summary="image holder"
+          align="center">
+    <tr>
+     <td>
+      <a target="_blank"
+          href="images/N37W123.png"><img src="images/N37W123.png"
+           width="512"
+           height="512"
+           alt="color height image"></a>
+     </td>
+     <td>
+      Count of colors used
+      <br>
+      in BGR hex format
+      <br>
+      0000FF: 169881
+      <br>
+      0033FF: 67615
+      <br>
+      0066FF: 60441
+      <br>
+      0099FF: 56727
+      <br>
+      00CCFF: 50233
+      <br>
+      00FFFF: 40164
+      <br>
+      00FFCC: 30858
+      <br>
+      00FF99: 22476
+      <br>
+      00FF66: 17794
+      <br>
+      00FF33: 14331
+      <br>
+      00FF00: 11499
+      <br>
+      33FF00: 9056
+      <br>
+      66FF00: 7196
+      <br>
+      99FF00: 5435
+      <br>
+      CCFF00: 3664
+      <br>
+      FFFF00: 2353
+      <br>
+      FFCC00: 1025
+      <br>
+      FF9900: 513
+      <br>
+      FF6600: 279
+      <br>
+      FF3300: 72
+      <br>
+      FF0000: 870789
+      <br>
+      FF0033: 0
+      <br>
+      FF0066: 0
+      <br>
+      FF0099: 0
+      <br>
+      FF00CC: 0
+      <br>
+      FF00FF: 0
+     </td>
+    </tr>
+   </table>
+
+   <p>
+    Some previous ruminations on this color range topic is <a target="_blank"
+       href="colormap.html">colormap</a>
+   </p>
+
+   <p align="center">
+    <a href="#top">top</a>
+   </p>
+
+   <p>
+    <a target="_blank"
+       href="http://tidy.sourceforge.net/"><img border="0"
+         src="images/checked_by_tidy.gif"
+         alt="checked by tidy"
+         width="32"
+         height="32"></a>&nbsp; <a href="http://validator.w3.org/check?uri=referer"
+       target="_blank"><img src="images/valid-html401.gif"
+         alt="Valid HTML 4.01 Transitional"
+         width="88"
+         height="31"></a>
+   </p>
+   <!-- 20140320 - added page - further experiments in generating a color height mapping scale -->
   </div>
  </body>
 </html>
