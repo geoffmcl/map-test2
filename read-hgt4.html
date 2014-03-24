@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang=en >
+<head>
+<meta name=viewport content=width=device-width,initial-scale=1 >
+<meta charset=utf-8 ><title>read-hgt4</title>
+</head>
+<body>
+<script>
+var startTime = new Date();
+// File obtained from http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm
+	var fileName = 'data2/N37W123.hgt'; // '../J10/N37W123.hgt';
+
+// File obtained from http://dds.cr.usgs.gov/srtm/version2_1/SRTM3/North_America/
+//	var fileName = '../N37W123.hgt/N37W123.hgt';
+	var xmlHttp;
+
+	init();
+
+	function init() {
+		document.body.style.cssText = ' font: bold 12pt monospace; ';
+		var info = document.body.appendChild( document.createElement( 'div' ) );
+		info.innerHTML = '<h1>Read HGT Files</h1>' +
+			'<div id=msg></div>';
+		requestFile( fileName );
+	}
+
+	function requestFile( fname ) {
+		xmlHttp = new XMLHttpRequest();
+		xmlHttp.responseType = "arraybuffer";
+		xmlHttp.open( 'GET', fname, true );
+		xmlHttp.send( null );
+		xmlHttp.onload = callback;
+	}
+
+	function callback() {
+		var canvas;
+		var context;
+		var arrayBuffer;
+		var byteArray;
+		var swappedArray;
+		var elevations = [];
+		var min = 1000000;
+		var max = 0;
+		var noData = 0;
+        var load = getElapsed(startTime); // get file load time
+		var littleEndian = ( new Int8Array( new Int32Array([1] ).buffer )[0] === 1) ? 0 : 1;  // a test offered by Geoff
+		arrayBuffer = xmlHttp.response;
+		swapBytes( arrayBuffer );
+		byteArray = new Int16Array( arrayBuffer );
+
+		var txt = 'LittleEndian value: ' + littleEndian + '<br>' +
+			'File: ' + fileName + ' Length:' + byteArray.length + ' ByteLength:' + byteArray.byteLength + ' Sqrt Length:' + Math.sqrt( byteArray.length );
+        var i, elev, blen = byteArray.byteLength;
+        // first fast run is to get the MAXIMUM (and assuming there are no 'voids')
+		for (i = 0; i <  blen; i++) {
+            elev = byteArray[i];
+            if (elev > max) max = elev;
+            if (elev < min) min = elev;
+			if ( elevations.indexOf( elev ) < 0 ) {
+				elevations.push( elev );
+			}
+		}
+        var inter = getElapsed(startTime); // after byte swap and first run to get max
+		txt += ' Max:' + max + ' Min:' + min + ' No data:' + noData + ' Elevs:' + elevations.length + ' load '+load+' inter '+inter;
+
+
+		canvas = document.body.appendChild( document.createElement( 'canvas' ) );
+		canvas.width = canvas.height = 1201;
+		canvas.style.cssText = 'border: 1px solid black; ';
+		context = canvas.getContext( '2d' );
+
+		imageData = context.createImageData( 1201, 1201 );
+		var id = imageData.data;
+		var height, idx = 0;
+		var addSpace = 0xffffff;  // push elevations to FULL color range
+        if (max < 1) max = 1;   // avoid a div zero (JIC!)
+		for ( var i = 0, len = id.length; i < len; i++) {
+            elev = byteArray[ idx++ ]; // extract, and convert to color
+			height = ( (elev / max) * addSpace ).toString( 16 ).slice( -6 );
+			id[ i++ ] = parseInt( height.substr( 0, 2 ), 16 );
+			id[ i++ ] = parseInt( height.substr( 2, 2 ), 16 );
+			id[ i++ ] = parseInt( height.substr( 4, 2 ), 16 );
+			id[ i ] = 255;
+		}
+		context.putImageData( imageData, 0, 0 );
+        var proc = getElapsed(startTime); // get total elapased
+        txt += " fin "+proc;
+		msg.innerHTML = txt;
+	}
+
+	function swapBytes( buffer ){
+		var bytes = new Uint8Array( buffer );
+		var len = bytes.length;
+		var holder;
+		for ( var i = 0; i < len; i++ ){
+			holder = bytes[ i ];
+			bytes[ i++ ] = bytes[ i] ;
+			bytes[ i ] = holder;
+//			bytes.splice( i, 2, bytes[ i + 1 ], bytes[ i ] );  // looks nice but can't get it to work
+		}
+	}
+    
+    function getElapsed(bgn) {
+        var d = new Date();
+        var ms = d.valueOf() - bgn.valueOf();
+        var elap = ms2hhmmss(ms);
+        return elap;
+    }
+    
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+
+</script>
+</body>
+</html>
