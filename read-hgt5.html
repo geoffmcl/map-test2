@@ -2,7 +2,7 @@
 <html lang=en >
 <head>
 <meta name=viewport content=width=device-width,initial-scale=1 >
-<meta charset=utf-8 ><title>read-hgt4</title>
+<meta charset=utf-8 ><title>read-hgt5</title>
 </head>
 <body>
 <script>
@@ -32,59 +32,86 @@ var startTime = new Date();
 		xmlHttp.onload = callback;
 	}
 
+var elevations;
+
 	function callback() {
 		var canvas;
 		var context;
 		var arrayBuffer;
 		var byteArray;
 		var swappedArray;
-		var elevations = [];
+
 		var min = 1000000;
 		var max = 0;
 		var noData = 0;
-        var load = getElapsed(startTime); // get file load time
+        var elev;
 		var littleEndian = ( new Int8Array( new Int32Array([1] ).buffer )[0] === 1) ? 0 : 1;  // a test offered by Geoff
+
 		arrayBuffer = xmlHttp.response;
-		swapBytes( arrayBuffer );
-		byteArray = new Int16Array( arrayBuffer );
+        var load = getElapsed(startTime); // get file load time
 
-		var txt = 'LittleEndian value: ' + littleEndian + '<br>' +
-			'File: ' + fileName + ' Length:' + byteArray.length + ' ByteLength:' + byteArray.byteLength + ' Sqrt Length:' + Math.sqrt( byteArray.length );
-        var i, elev, blen = byteArray.byteLength;
-        // first fast run is to get the MAXIMUM (and assuming there are no 'voids')
-		for (i = 0; i <  blen; i++) {
-            elev = byteArray[i];
-            if (elev > max) max = elev;
+//		swapBytes( arrayBuffer );   // this 'costs' time, but works...
+//		byteArray = new Int16Array( arrayBuffer );  // *** THIS IS WRONG **
+		byteArray = new Int8Array( arrayBuffer );   // want it as a BYTE array
+//		len = byteArray.length / 2; // *** THIS IS WRONG ***
+		len = byteArray.length  // we are stepping by 2, so NO divis by 2 here
+
+//		elevations = [];
+//		elevations = new Uint8Array( arrayBuffer ); // *** THIS IS WRONG ***
+		elevations = new Int16Array( arrayBuffer ); // elevation is 16-bits - 2 bytes - a short
+//		elevations = new Uint16Array( arrayBuffer ); // slight color change if UNSIGNED used -
+        // basically less shift to the red due to no sign extension...
+        
+		var index = 0;
+        var lb,hb;
+		for (i = 0; i < len; i+=2 ) {
+        
+            lb = byteArray[i+0];    // get low byte
+            hb = byteArray[i+1];    // get high byte
+            
+            // deal with endianess
+            if (littleEndian > 0) {
+                elev = (hb << 8) + lb;  // keep order as is - high stays high, and low stays low
+            } else {
+                elev = (lb << 8) + hb;  // make low to high, and high to low - a byte SWAP
+            }
+            
+			elevations[ index++ ] = elev;   // set new elevation
+            
             if (elev < min) min = elev;
-			if ( elevations.indexOf( elev ) < 0 ) {
-				elevations.push( elev );
-			}
+            if (elev > max) max = elev;
 		}
-        var inter = getElapsed(startTime); // after byte swap and first run to get max
-		txt += ' Max:' + max + ' Min:' + min + ' No data:' + noData + ' Elevs:' + elevations.length + ' load '+load+' inter '+inter;
 
+// Wanted an array with positive and negative decimal integers
+// console.log( elevations );
+        var inter = getElapsed(startTime); // after byte swap
+
+		var txt = 'Endian type: ' + (littleEndian ? 'little' : 'big') + '<br>' +
+			'File: ' + fileName + ' Blen: ' +len+ ' ELen: ' + elevations.length + 
+            ' max: '+max+' min: '+min;
+        txt += ' load '+load+' inter '+inter;
 
 		canvas = document.body.appendChild( document.createElement( 'canvas' ) );
 		canvas.width = canvas.height = 1201;
 		canvas.style.cssText = 'border: 1px solid black; ';
 		context = canvas.getContext( '2d' );
 
-		imageData = context.createImageData( 1201, 1201 );
+		var imageData = context.createImageData( 1201, 1201 );
 		var id = imageData.data;
 		var height, idx = 0;
-		var addSpace = 0xffffff;  // push elevations to FULL color range
-        if (max < 1) max = 1;   // avoid a div zero (JIC!)
-		for ( var i = 0, len = id.length; i < len; i++) {
-            elev = byteArray[ idx++ ]; // extract, and convert to color
-			height = ( (elev / max) * addSpace ).toString( 16 ).slice( -6 );
-			id[ i++ ] = parseInt( height.substr( 0, 2 ), 16 );
-			id[ i++ ] = parseInt( height.substr( 2, 2 ), 16 );
-			id[ i++ ] = parseInt( height.substr( 4, 2 ), 16 );
-			id[ i ] = 255;
+		var addSpace = 1000;  // setting to a higher data can help make data more 'visible'
+        len = id.length;
+		for ( var i = 0; i < len; i += 4) {
+			height = ( addSpace * elevations[ idx ] + 0xffffffff + 1 ).toString( 16 ).slice( -6 );
+			id[ i+0 ] = parseInt( height.substr( 0, 2 ), 16 );
+			id[ i+1 ] = parseInt( height.substr( 2, 2 ), 16 );
+			id[ i+2 ] = parseInt( height.substr( 4, 2 ), 16 );
+			id[ i+3 ] = 255;
+			idx += 1;
 		}
 		context.putImageData( imageData, 0, 0 );
-        var proc = getElapsed(startTime); // get total elapased
-        txt += " fin "+proc;
+        var done = getElapsed(startTime); // get total elapased
+        txt += ' Dlen\4 '+(len / 4)+" fin "+done;
 		msg.innerHTML = txt;
 	}
 
@@ -97,21 +124,10 @@ var startTime = new Date();
 			bytes[ i + 0 ] = bytes[ i + 1 ]; // replace first with second byte
 			bytes[ i + 1 ] = holder; // set second as first byte
 //			bytes.splice( i, 2, bytes[ i + 1 ], bytes[ i ] );  // looks nice but can't get it to work
-//              But to me *** LOOKS REAL WRONG *** - splice ADDS bytes, not replace the bytes
-		}
-    }
-    
-    function swapBytes_OLD( buffer ){
-		var bytes = new Uint8Array( buffer );
-		var len = bytes.length;
-		var holder;
-		for ( var i = 0; i < len; i++ ){
-			holder = bytes[ i ];
-			bytes[ i++ ] = bytes[ i] ;
-			bytes[ i ] = holder;
-//			bytes.splice( i, 2, bytes[ i + 1 ], bytes[ i ] );  // looks nice but can't get it to work
+//              But to me *** THIS IS WRONG *** - splice ADDS bytes, not replace the bytes
 		}
 	}
+
     
     function getElapsed(bgn) {
         var d = new Date();
@@ -152,7 +168,7 @@ var startTime = new Date();
             secs = '0'+secs;
         return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
     }
-
+    
 </script>
 </body>
 </html>
