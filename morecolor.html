@@ -1,0 +1,543 @@
+
+<!doctype html>
+<html lang=en >
+<head>
+<title>more on color</title>
+<meta charset=utf-8 >
+<meta name=author content='Theo Armour'>
+</head>
+<body>
+<script>
+// Marianas Trench - 10,911 meters
+// Mount Everest - 8,848 meters - 27 59 17 N = 27.9880555555556 - 86 55 31 E = 86.9252777777778 = N27E086.hgt
+// Mountains near sea - Norway - N60E006.hgt
+
+// http://krazydad.com/tutorials/makecolors.php
+	var frequency1 = 0.0001, 
+	frequency2 = 0.0002, 
+	frequency3 = 0.0008, 
+	phase1 = 0, 
+	phase2 = 2, // 2 * Math.PI / 3, 
+	phase3 = 4, // 4 * Math.PI / 3 , 
+	center = 128; //255 / 2, 
+	amplitude = 127; // / 2;
+
+	var sin = function( n ) { return Math.sin( n ); };
+
+	var list = [];
+    var color_table = [
+    "#FF0000", "#FF3300", "#FF6600", "#FF9900", "#FFCC00", "#FFFF00",
+    "#CCFF00", "#99FF00", "#66FF00", "#33FF00", "#00FF00",
+    "#00FF33", "#00FF66", "#00FF99", "#00FFCC", "#00FFFF",
+    "#00CCFF", "#0099FF", "#0066FF", "#0033FF", "#0000FF",
+    "#3300FF", "#6600FF", "#9900FF", "#CC00FF", "#FF00FF" ];
+
+	init();
+
+	function init() {
+		document.body.style.cssText = ' font: bold 12pt monospace; ';
+
+		var info = document.body.appendChild( document.createElement( 'div' ) );
+		info.innerHTML = '<a name="top"></a>'+
+                '<h1>Global Heightmap Color Range Experiments ~ ' +
+				'<a id=aHelp href=# onclick=help.style.display="block"; >&#x24D8;</a> ' +
+			'</h1>' +
+               '<p align="center">'+
+                'top '+
+                'table 1 '+
+                '<a href="#table2">table 2</a> '+
+                '<a href="#table3">table 3</a> '+
+                '<a href="#table4">table 4</a> '+
+                '<a href="#table5">table 5</a> '+
+                '<a href="#end">end</a> '+
+                '</p>' +
+			'<div id=msg></div>' +
+			'<div id=menu>' +
+				'Frequency 1:<input id=inpFrequency1 > ' +
+				'Frequency 2:<input id=inpFrequency2 > ' +
+				'Frequency 3:<input id=inpFrequency3 >' +
+				'<br>' +
+				'Phase 1:<input id=inpPhase1 > ' +
+				'Phase 2:<input id=inpPhase2 > ' +
+				'Phase 3:<input id=inpPhase3 > - ' +
+				'Center:<input id=inpCenter > ' +
+				'Amplitude:<input id=inpAmplitude > - ' +
+				'<a href=JavaScript:drawColors(); >Go</a>' +
+			'</div>' +
+			'<div id=vals></div>' +
+            '<p>&nbsp;</p>';
+
+		inpFrequency1.type = 'range';
+		inpFrequency1.min = 0.00001;
+		inpFrequency1.max = 0.001;
+		inpFrequency1.step = 0.0001;
+		inpFrequency1.title = inpFrequency1.value = frequency1;
+		inpFrequency1.onchange = function() { inpFrequency1.title = frequency1 = parseFloat( this.value); };
+
+		inpFrequency2.type = 'range';
+		inpFrequency2.min = 0.00001;
+		inpFrequency2.max = 0.001;
+		inpFrequency2.step = 0.0001;
+		inpFrequency2.title = inpFrequency2.value = frequency2;
+		inpFrequency2.onchange = function() { inpFrequency2.title = frequency2 = parseFloat( this.value); };
+
+		inpFrequency3.type = 'range';
+		inpFrequency3.min = 0.00001;
+		inpFrequency3.max = 0.001;
+		inpFrequency3.step = 0.0001;
+		inpFrequency3.title = inpFrequency3.value = frequency3;
+		inpFrequency3.onchange = function() { inpFrequency3.title = frequency3 = parseFloat( this.value); };
+
+		inpPhase1.type = 'range';
+		inpPhase1.min = 0;
+		inpPhase1.max = Math.PI * 2;
+		inpPhase1.step = 0.1;
+		inpPhase1.title = inpPhase1.value = phase1;
+		inpPhase1.onchange = function() { inpPhase1.title = phase1 = parseFloat( this.value); };
+
+		inpPhase2.type = 'range';
+		inpPhase2.min = 0;
+		inpPhase2.max = Math.PI * 2;
+		inpPhase2.step = 0.1;
+		inpPhase2.title = inpPhase2.value = phase2;
+		inpPhase2.onchange = function() { inpPhase2.title = phase2 = parseFloat( this.value); };
+
+		inpPhase3.type = 'range';
+		inpPhase3.min = 0;
+		inpPhase3.max = Math.PI * 2;
+		inpPhase3.step = 0.1;
+		inpPhase3.title = inpPhase3.value = phase3;
+		inpPhase3.onchange = function() { inpPhase3.title = phase3 = parseFloat( this.value); };
+
+		inpCenter.type = 'range';
+		inpCenter.min = 0;
+		inpCenter.max = 255;
+		inpCenter.step = 0.5;
+		inpCenter.title = inpCenter.value = center;
+		inpCenter.onchange = function() { inpCenter.title = center = parseFloat( this.value); };
+
+		inpAmplitude.type = 'range';
+		inpAmplitude.min = 0;
+		inpAmplitude.max = 255;
+		inpAmplitude.step = 0.5;
+		inpAmplitude.title = inpAmplitude.value = amplitude;
+		inpAmplitude.onchange = function() { inpAmplitude.title = phase1 = parseFloat( this.value); };
+
+		for ( var i = 0; i < 9000; i += 10 ) {
+			list.push( i );
+		}
+
+		drawColors();
+		addHelp();
+	}
+
+	function drawColors() {
+        var txt, str, i, len;
+		vals.innerHTML = 'Settings: Frequency1: ' + frequency1 + ' Frequency2: ' + frequency2 + ' Frequency3: ' + frequency3 + 
+			' - Phase1: ' + phase1 + ' Phase2: ' + phase2 + ' Phase3: ' + phase3.toFixed(3) + ' - Center: ' + center + ' Amplitude: ' + amplitude;
+
+		msg.innerHTML = '';
+        len = color_table.length;
+        var max_max = 9000;
+        var min_min = -100;
+        var step = max_max / 20;
+        var nstep = min_min / 5;
+        var max, min, line, tmp;
+        txt = '<a name="table1"></a>';
+        txt += '<p>1: A recent attempt at a colored height table looks good when laid out '+
+            'in this table, but is a disaster when appplied to a "relief" map! Since the blues merge '+
+            'there is NO coastal outline, very important for a map</p>';
+        txt += '<div align="center">';
+        txt += '<table align="center" width="80%">';
+		for (i = 0; i < len; i++) {
+            str = color_table[i];
+            txt += '<tr>';
+            txt += '<td align="center" style="background:'+str+'">';
+            //txt += '<td>';
+            line = (i+1)+': ';
+            tmp = line;
+            if ((i+1) < 10) {
+                line += '&nbsp;';
+                tmp += ' ';
+            }
+            line += 'Range: ';
+            tmp += 'Range: ';
+            if (i < 20) {
+                min = max_max - (step * (i + 1));
+                if (i == 0)
+                    max = '...';
+                else
+                    max = min + step - 1;
+                if (min == 0) min = 1;
+            } else if (i == 20) {
+                min = max = 0;
+            } else {
+                min = nstep * (i - 21);
+                max = min + nstep;
+                if (min == 0)
+                    min = -1;
+                else
+                    min += -1
+                if ((i+1) == len) max = '...';
+            }
+            line += ' '+min+' - '+max;
+            tmp += ' '+min+' - '+max;
+            while (tmp.length < 24) {
+                tmp += ' ';
+                line += '&nbsp;';
+            }
+            txt += line;
+            //txt += '</td>';
+            //txt += '<td width="80%" align="center" style="background:'+str+'">';
+            //txt += '<font size=48 color="#000000" style=margin-left:1px; >'+str+'</font>';
+            txt += str;
+            txt += '</td>';
+            txt += '</tr>';
+        }
+        txt += '</table>';
+        txt += '<p align="center">'+
+                '<a href="#top">top</a> '+
+                '<a href="#table1">table 1</a> '+
+                'table 2 '+
+                '<a href="#table3">table 3</a> '+
+                '<a href="#table4">table 4</a> '+
+                '<a href="#table5">table 5</a> '+
+                '<a href="#end">end</a> '+
+                '</p>';
+        txt += '</div>';
+        msg.innerHTML += txt;
+        ////////////////////////////////////////////////////////////////////////////////
+        // I want to make the first 20 entries go from red to green
+        // That is from #ff0000 to #00ff00
+        var hgtColors = [];
+            // =====================================
+        hgtColors.push( [ 7549, 9000	, '#FF0000', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 6493, 7548	, '#FF1A00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 5662, 6492    , '#FF3200', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 4977, 5661	, '#FF4C00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 4395, 4976	, '#FF6400', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 3888, 4394	, '#FF7E00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 3439, 3887	, '#FF9600', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 3037, 3438	, '#FFB000', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 2672, 3036	, '#FFC800', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 2338, 2671	, '#FFE200', 0, 0, 0, 0 ] );
+            // ------------------------------------
+        hgtColors.push( [ 2031, 2337	, '#E2FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 1746, 2030	, '#C8FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 1480, 1745	, '#B0FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 1232, 1479	, '#96FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [  998, 1231	, '#7EFF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [  777,  997	, '#64FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [  568,  776	, '#4CFF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 370,  567	, '#32FF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 181, 369	, '#1AFF00', 0, 0, 0, 0 ] );
+        hgtColors.push( [ 1, 180	, '#00FF00', 0, 0, 0, 0 ] );
+            // ======================================
+        hgtColors.push( [ 0, 0	, '#0000FF', 0, 0, 0, 0 ] );
+        hgtColors.push( [ -1, -20	, '#3300FF', 0, 0, 0, 0 ] );
+        hgtColors.push( [ -21, -40	, '#6600FF', 0, 0, 0, 0 ] );
+        hgtColors.push( [ -41, -60	, '#9900FF', 0, 0, 0, 0 ] );
+        hgtColors.push( [ -61, -80	, '#CC00FF', 0, 0, 0, 0 ] );
+        hgtColors.push( [ -81, -11000 , '#FF00FF', 0, 0, 0, 0 ] );
+        len = hgtColors.length;
+        txt = '<a name="table2"></a>';
+        txt += '<p>2: Yet another of '+len+' colors... it implements a logrithmic range, and '+
+            'a clear coastal transition... but fails in the all the low lying areas, '+
+            'potentially the majority of the earths land surface, shows no relief.</p>';
+        txt += '<div align="center">';
+        txt += '<table align="center" width="80%">';
+        var arr;
+        for (i = 0; i < len; i++) {
+            arr = hgtColors[i];
+            min = arr[0];
+            max = arr[1];
+            str = arr[2];
+            txt += '<tr>';
+            txt += '<td align="center" style="background:'+str+'">';
+            //txt += '<td>';
+            line = (i+1)+': ';
+            tmp = line;
+            if ((i+1) < 10) {
+                line += '&nbsp;';
+                tmp += ' ';
+            }
+            line += 'Range: ';
+            tmp += 'Range: ';
+            line += ' '+min+' - '+max;
+            tmp += ' '+min+' - '+max;
+            while (tmp.length < 24) {
+                tmp += ' ';
+                line += '&nbsp;';
+            }
+            txt += line;
+            //txt += '</td>';
+            //txt += '<td width="80%" align="center" style="background:'+str+'">';
+            //txt += '<font size=48 color="#000000" style=margin-left:1px; >'+str+'</font>';
+            txt += str;
+            txt += '</td>';
+            txt += '</tr>';
+        }
+        txt += '</table>';
+        txt += '<p align="center">'+
+                '<a href="#top">top</a> '+
+                '<a href="#table1">table 1</a> '+
+                '<a href="#table2">table 2</a> '+
+                'table 3 '+
+                '<a href="#table4">table 4</a> '+
+                '<a href="#end">end</a> '+
+                '</p>';
+        txt += '</div>';
+        msg.innerHTML += txt;
+        ////////////////////////////////////////////////////////////////////////////////
+        hgtColor2 = [];
+        // =====================================
+        hgtColor2.push( [7549, 9000	, '#FF0090', 0 ] );
+        hgtColor2.push( [6493, 7548	, '#FF0080', 0 ] );
+        hgtColor2.push( [5662, 6492    , '#FF0060', 0 ] );
+        hgtColor2.push( [4977, 5661	, '#FF0050', 0 ] );
+        hgtColor2.push( [4395, 4976	, '#FF0040', 0 ] );
+        hgtColor2.push( [3888, 4394	, '#FF0030', 0 ] );
+        hgtColor2.push( [3439, 3887	, '#FF0020', 0 ] );
+        hgtColor2.push( [3037, 3438	, '#FF0010', 0 ] );
+        hgtColor2.push( [2672, 3036	, '#FF0000', 0 ] );
+        hgtColor2.push( [2338, 2671	, '#FF1000', 0 ] );
+        // ------------------------------------
+        hgtColor2.push( [2031, 2337	, '#FF1800', 0 ] );
+        hgtColor2.push( [1746, 2030	, '#FF2000', 0 ] );
+        hgtColor2.push( [1480, 1745	, '#FF2800', 0 ] );
+        hgtColor2.push( [1232, 1479	, '#FF3800', 0 ] );
+        hgtColor2.push( [ 998, 1231	, '#FF4000', 0 ] );
+        hgtColor2.push( [ 777,  997	, '#FF4C00', 0 ] );
+        hgtColor2.push( [ 568,  776	, '#FF7E00', 0 ] );
+        hgtColor2.push( [370,  567	, '#FFB000', 0 ] );
+        hgtColor2.push( [181, 369	, '#FFFF00', 0 ] );
+        hgtColor2.push( [1, 180	, '#00FF00', 0 ] );
+        // ======================================
+        hgtColor2.push( [0, 0	, '#0000FF', 0 ] );
+        hgtColor2.push( [-1, -20	, '#3300FF', 0 ] );
+        hgtColor2.push( [-21, -40	, '#6600FF', 0 ] );
+        hgtColor2.push( [-41, -60	, '#9900FF', 0 ] );
+        hgtColor2.push( [-61, -80	, '#CC00FF', 0 ] );
+        hgtColor2.push( [-81, -11000 , '#FF00FF', 0 ] );
+        len = hgtColor2.length;
+        txt = '<a name="table3"></a>';
+        txt += '<p>3: Yet another '+len+' colors... it implements a log range and color spread... '+
+            'This produces a "reasonable" relief maps. Some examples '+
+            '<a href="images/N37W123-3.png" target="_blank">San Francisco (N37W123)</a> '+
+            '<a href="images/N27E086.png" target="_blank">Mt Everest (N27E086)</a> '+
+            '<a href="images/N60E006.png" target="_blank">Norway (N60E006)</a> '+
+            '</p>';
+        txt += '<div align="center">';
+        txt += '<table align="center" width="80%">';
+        var arr;
+        for (i = 0; i < len; i++) {
+            arr = hgtColor2[i];
+            min = arr[0];
+            max = arr[1];
+            str = arr[2];
+            txt += '<tr>';
+            txt += '<td align="center" style="background:'+str+'">';
+            //txt += '<td>';
+            line = (i+1)+': ';
+            tmp = line;
+            if ((i+1) < 10) {
+                line += '&nbsp;';
+                tmp += ' ';
+            }
+            line += 'Range: ';
+            tmp += 'Range: ';
+            line += ' '+min+' - '+max;
+            tmp += ' '+min+' - '+max;
+            while (tmp.length < 24) {
+                tmp += ' ';
+                line += '&nbsp;';
+            }
+            txt += line;
+            //txt += '</td>';
+            //txt += '<td width="80%" align="center" style="background:'+str+'">';
+            //txt += '<font size=48 color="#000000" style=margin-left:1px; >'+str+'</font>';
+            txt += str;
+            txt += '</td>';
+            txt += '</tr>';
+        }
+        txt += '</table>';
+        txt += '<p>But Pete reminded us of another concept, and that is normally above 3,000 meters '+
+            'snow is expected, so the high areas could be shades of grey, thus giving better color '+
+            'ranges for the middle altitudes. An idea for yet another table.</p>';
+        txt += '<p align="center">'+
+                '<a href="#top">top</a> '+
+                '<a href="#table1">table 1</a> '+
+                '<a href="#table2">table 2</a> '+
+                '<a href="#table3">table 3</a> '+
+                'table 4 '+
+                '<a href="#table5">table 5</a> '+
+                '<a href="#end">end</a> '+
+                '</p>';
+        txt += '</div>';
+        msg.innerHTML += txt;
+        // can I generate a table using the algorithm Theo used?
+        // ====================================================
+        txt = '<a name="table4"></a>';
+        txt = '<p>4: What about using a linear color generation?</p>';
+        txt += '<pre>';
+        txt += '  var addSpace = 80;  // setting to a higher data can help make data more visible\n';
+        txt += '  for ( i = 0; i < len; i++) {\n';
+        txt += '    elev = elevations[ index++ ];\n';
+        txt += '    height = ( addSpace * elev + 0xffffffff + 1 ).toString( 16 ).slice( -6 );\n';
+        txt += '    r = parseInt( height.substr( 0, 2 ), 16 );\n';
+		txt += '    g = parseInt( height.substr( 2, 2 ), 16 );\n';
+		txt += '    b = parseInt( height.substr( 4, 2 ), 16 );\n';
+        txt += '</pre>';
+        txt += '<p>While this type of "linear" generation allows being able to lookup a color '+
+            ' and convert it back to an elevation, it leads to many black bands, so is not '+
+            ' very aesthetically pleasing, like...</p>';
+        txt += '<table align="center" width="80%">';
+        var height,r,g,b;
+        var addSpace = 80;
+        len = 25;
+        for (i = 1; i < 26; i++) {
+            height = ( addSpace * i + 0xffffffff + 1 ).toString( 16 ).slice( -6 );
+            r = height.substr( 0, 2 );
+            g = height.substr( 2, 2 );
+            b = height.substr( 4, 2 );
+            str = '#'+r+g+b;
+            txt += '<tr>';
+            txt += '<td align="center" style="background:'+str+'">';
+            txt += '<span style="color: #ffffff;">elev '+i+' color '+str+'</span>';
+            txt += '</td>';
+            txt += '</tr>';
+        }
+        txt += '</table>';
+        msg.innerHTML += txt;
+        // ====================================================
+        txt = '<a name="table5"></a>';
+        txt += '<p>5: Any more... well Theo has been looking at a generation using the sin() curve '+
+            'from <a href="http://krazydad.com/tutorials/makecolors.php" target="_blank">Making annoying rainbows in javascript</a></p>';
+        msg.innerHTML += txt;
+        len = list.length;
+		for (i = 0; i < len; i++) {
+			if ( i % 50 === 0 ) {
+                txt = ('hts: ' + ( i * 10 + 1) + '-' + ( i * 10 + 500) + ' ... ' ).substr(0,15);
+                msg.innerHTML += '<br>' +  txt;
+                str = getColorOnGradient( list[i] );
+                msg.innerHTML += '<font size=48 color="#' + str + '" style=margin-left:1px; >&#9608;</font>';
+                txt += ' color #'+str;
+                console.log ( txt );
+            } else {
+                msg.innerHTML += '<font size=48 color="#' + getColorOnGradient( list[i] ) + '" style=margin-left:1px; >&#9608;</font>';
+            }
+		}
+        
+        txt = '<a name="end"></a>';
+        txt += '<p align="center">'+
+                '<a href="#top">top</a> '+
+                '<a href="#table1">table 1</a> '+
+                '<a href="#table2">table 2</a> '+
+                '<a href="#table3">table 3</a> '+
+                '<a href="#table4">table 4</a> '+
+                'table 5 '+
+                'end '+
+                '</p>';
+        msg.innerHTML += txt;
+        ////////////////////////////////////////////////////////////////////////////////
+	}
+
+	function getColorOnGradient( number ) {
+		var red = sin( frequency1 * number + phase1 ) * amplitude + center;
+		var grn = sin( frequency2 * number + phase2 ) * amplitude + center;
+		var blu = sin( frequency3 * number + phase3 ) * amplitude + center;
+		var str = ( ( red << 16 ) | ( grn << 8 ) | blu ).toString( 16 );
+		str = ( '0' + str ).slice(-6); 
+//console.log ( str );
+		return str;
+	}
+
+	function addHelp() {
+		help = document.body.appendChild( document.createElement( 'div' ) );
+		help.style.cssText = 'display: none; background-color: #ccc; left: 50px; opacity: 0.9; padding: 20px; ' +
+			'bottom: 0; left: 0; height: 370px; margin: auto; position: absolute; right: 0; top: 0; width: 500px; zIndex:10; ';
+		help.innerHTML =
+			'<div onclick=help.style.display="none"; >' +
+				'<h3>Global Heightmap Color Range Experiments</h3>' +
+				'<ul>' +
+                    '<li>Some fixed tables, trying to get the range and colors right</li>'+
+					'<li>Attempts at color generation from elevation.</li>' +
+				'</ul>' +
+				// '<a href="https://github.com/jaanga/terrain-plus/tree/gh-pages/cookbook/global-heightmap-color-ranges" target="_blank">Source code</a><br>' +
+				// '<small>' +
+				// '<a href="http://jaanga.github.io" target="_blank">jaanga</a><br>' +
+				// 'copyright &copy; 2014 Jaanga authors ~ MIT license</small><br><br>' +
+                '<p>There are two basic, perhaps conflicting, concepts at work here</p>'+
+                '<ul>'+
+                    '<li>Create an aesthetically pleasing map</li>'+
+                    '<li>Convey elevation using a colored heightmap</li>'+
+                '</ul>'+
+                '<p>Perhaps it is impossible to do both! The first needs to take account of the distribution elevation '+
+                'and assigned appropriate colors, while the second must be easily convertible '+
+                'back to an elevation. This page is just experiments with both.</p>'+
+				'<i>Click anywhere in this message to hide...</i>' +
+		'</div>';
+		aHelp.style.cssText += 'text-decoration: none; ';
+		aHelp.title = 'Get help and information';
+		//aHelp.onclick = 'help.style.display="block";';
+	}
+
+/*
+		var
+		frequency1 = 0.3, 
+		frequency2 = 0.3, 
+		frequency3 = 0.3, 
+		phase1 = 0, 
+		phase2 = 2 * Math.PI / 3, 
+		phase3 = 4 * Math.PI / 3 , 
+		center = 128; //255 / 2, 
+		amplitude = 127; // / 2, 
+		len = 80;
+
+		makeColorGradient( frequency1, frequency2, frequency3, phase1, phase2, phase3, center, amplitude, len );
+*/
+	function makeColorGradient( frequency1, frequency2, frequency3, phase1, phase2, phase3, center, amplitude, len ) {
+		if ( len == undefined ) len = 50;
+		if ( center == undefined ) center = 128;
+		if ( amplitude == undefined ) amplitude = 127;
+		var red, grn, blu;
+		for ( var i = 0; i < len; ++i) {
+			red = Math.sin( frequency1 * i + phase1 ) * amplitude + center;
+			grn = Math.sin( frequency2 * i + phase2 ) * amplitude + center;
+			blu = Math.sin( frequency3 * i + phase3 ) * amplitude + center;
+			document.write( '<font color="' + RGB2Color(red,grn,blu) + '">&#9608;</font>');  // Note that &#9608; is a unicode character that makes a solid block
+		}
+
+		document.write( '<br>');
+
+		for ( i = 0; i < len; ++i) {
+			red = Math.sin( frequency1 * i + phase1) * amplitude + center;
+			grn = Math.sin( frequency2 * i + phase2) * amplitude + center;
+			blu = Math.sin( frequency3 * i + phase3) * amplitude + center;
+			document.write( '<font color="#' + rgbToHex(red,grn,blu) + '">&#9608;</font>');  // box character
+		}
+	}
+
+	function RGB2Color(r,g,b) {
+		var str = '#' + byte2Hex(r) + byte2Hex(g) + byte2Hex(b);
+console.log( str );
+		return str;
+	}
+
+	function byte2Hex( n ) {
+		var nybHexString = "0123456789ABCDEF";
+		return String( nybHexString.substr( ( n >> 4 ) & 0x0F, 1 ) ) + nybHexString.substr( n & 0x0F, 1 );
+	}
+
+// http://stackoverflow.com/questions/6735470/get-pixel-color-from-canvas-on-mouseover
+	function rgbToHex(r, g, b) {
+		if (r > 255 || g > 255 || b > 255) throw "Invalid color component";
+		var str = ( ( r << 16 ) | ( g << 8 ) | b ).toString( 16 );
+		str = ('0' + str).slice(-6); 
+console.log ( str );
+		return str;
+	}
+
+</script>
+</body>
+</html>
