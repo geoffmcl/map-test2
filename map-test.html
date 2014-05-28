@@ -163,7 +163,8 @@
             map.setCenter(centerpoint,zoom); 
             if (icao.length) {
                 // load ICAO data, if available
-                var file = 'data/'+icao+'.json';
+                var dir = icao.substr(0,1);
+                var file = 'data2/'+dir+'/'+icao+'.json';
                 sendRequestCB(file,icaoLoad);
             }
 
