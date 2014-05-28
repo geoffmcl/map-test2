@@ -879,13 +879,15 @@ margin: 0;
     }
 
     function CB_AirJson() {
-        var data, ind, air, icao, file;
+        var data, ind, air, icao, file, dir;
 		if ( this.readyState == 4  ) {
             if (this.status == "200") {
                 data = JSON.parse(this.responseText);
                 icao = data.icao;
                 jsonLoaded[icao] = data;
-                console.log("Loaded: "+icao+".json - "+data.name);
+                dir = icao.substr(0,1);
+                file = 'data2/'+dir+'/'+icao+'.json';
+                console.log("Loaded: "+file+" - "+data.name);
                 paintIcaoJson(data);
             } else {
                 console.log("Failed a json load!");
@@ -897,7 +899,8 @@ margin: 0;
     }
     
     function getICAO(icao) {
-        file = 'data/'+icao+'.json';
+        var dir = icao.substr(0,1);
+        var file = 'data2/'+dir+'/'+icao+'.json';
         requestFile( file, CB_AirJson );
     }
     
@@ -923,7 +926,7 @@ margin: 0;
     var czm  = gup('zoom');
 	init(clat,clon,czm);
     setGLobalBounds();
-    requestFile( 'data/apt1000-nav.csv', callbackNavaids );
+    requestFile( 'data2/apt1000-nav.csv', callbackNavaids );
     //getICAO('LFPO');
     </script>
   </body>
