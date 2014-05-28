@@ -353,11 +353,11 @@ html, body, #map {
         // VOR-95x83.png
         var vor_size = new OpenLayers.Size(95,83);
         var vor_off = new OpenLayers.Pixel(-(vor_size.w/2), -vor_size.h);
-        vor_icon = new OpenLayers.Icon('data/img/VOR-95x83.png',vor_size,vor_off);
+        vor_icon = new OpenLayers.Icon('img/VOR-95x83.png',vor_size,vor_off);
         // NDB-95x95.png
         var ndb_size = new OpenLayers.Size(95,95);
         var ndb_off = new OpenLayers.Pixel(-(ndb_size.w/2), -ndb_size.h);
-        ndb_icon = new OpenLayers.Icon('data/img/NDB-95x95.png',ndb_size,ndb_off);
+        ndb_icon = new OpenLayers.Icon('img/NDB-95x95.png',ndb_size,ndb_off);
         var air_size = new OpenLayers.Size(40,40);
         var air_off = new OpenLayers.Pixel(-(air_size.w/2), -air_size.h/2);
         air_icon = new OpenLayers.Icon('textures/fg_generic_craft.png',air_size,air_off);
@@ -882,7 +882,7 @@ html, body, #map {
             }
             done = false;
             if (img.length) {
-                icon = new OpenLayers.Icon('data/img/'+img);
+                icon = new OpenLayers.Icon('img/'+img);
                 marker = new OpenLayers.Marker(pos, icon);
                 markerLayer.addMarker(marker);
                 painted++;
@@ -1084,7 +1084,7 @@ html, body, #map {
             feat2 = new OpenLayers.Feature.Vector(circ2, null, green_style);
             vectorLayer.addFeatures([feat,feat2]);
             
-            var icon = new OpenLayers.Icon('data/img/HP.gif');
+            var icon = new OpenLayers.Icon('img/HP.gif');
             var marker;
             if (add_hover_tooltip) {
                 marker = new OpenLayers.Marker.Label(pos, icon.clone(), info ,{mouseOver:true});
@@ -1394,7 +1394,7 @@ html, body, #map {
      * to commence airport and helipad JSON loads
      */
    function getAirJson(airs,heli,navs) {
-        var i,ind,max,icao,air,file,cnt,tcnt,type;
+        var i,ind,max,icao,air,file,cnt,tcnt,type,dir;
         max = airs.length;
         cnt = 0;
         tcnt = 0;
@@ -1462,7 +1462,8 @@ html, body, #map {
             // painting will be done on last request
             for (i = 0; i < max; i++) {
                 icao = todoAir[i];
-                file = 'data/'+icao+'.json';
+                dir = icao.substr(0,1);
+                file = 'data2/'+dir+'/'+icao+'.json';
                 console.log("A:Fetching "+file);
                 requestFile( file, CB_AirJson );
             }
@@ -1579,9 +1580,9 @@ html, body, #map {
         doneAir = false;
         doneHeli = false;
         doneNavs = false;
-        requestFile( 'data/apt1000-icao.csv', callbackAirports ); // airports CSV
-        requestFile( 'data/apt1000-heli.csv', callbackHelipads ); // heliport CSV
-        requestFile( 'data/apt1000-nav.csv', callbackNavaids );
+        requestFile( 'data2/apt1000-icao.csv', callbackAirports ); // airports CSV
+        requestFile( 'data2/apt1000-heli.csv', callbackHelipads ); // heliport CSV
+        requestFile( 'data2/apt1000-nav.csv', callbackNavaids );
     }
     // ========== end load data ====
     

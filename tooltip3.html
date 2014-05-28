@@ -42,7 +42,7 @@ z-index: 1000;
     
     var add_vector_layers = false;
     
-    var add_2nd_marker = false;
+    var add_2nd_marker = true;
     var lon2 = 13.39416;
     var lat2 = 52.51608;
     function init(lat,lon,zoom) {
@@ -75,7 +75,7 @@ z-index: 1000;
     	markers.addMarker(marker);
         if (add_2nd_marker) {
             var pos = new OpenLayers.LonLat(lon2,lat2).transform( fromProjection, toProjection);
-            var icon2 = new OpenLayers.Icon('data/img/OM.png');
+            var icon2 = new OpenLayers.Icon('img/OM.png');
             ttTxt = " Outer Marker at lat="+lat2+", lon="+lon2+" ";
             marker = new OpenLayers.Marker.Label(pos, icon2.clone(), ttTxt ,{mouseOver:true});
             markers.addMarker(marker);

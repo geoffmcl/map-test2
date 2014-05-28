@@ -31,7 +31,7 @@
         markerLayer = new OpenLayers.Layer.Markers( "Markers" );
     	map.addLayer(markerLayer);
     	//markers.addMarker(new OpenLayers.Marker(position));
-        icon = new OpenLayers.Icon('data/img/HP.gif');
+        icon = new OpenLayers.Icon('img/HP.gif');
         var ttTxt = " Helipad H2 lat="+lat+", lon="+lon+", alt=??? ";
         var marker = new OpenLayers.Marker.Label(position, icon.clone(), ttTxt ,{mouseOver:true});
         markerLayer.addMarker(marker); 

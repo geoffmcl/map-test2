@@ -56,7 +56,7 @@
                 var img = images[next_image];
                 next_image++;
                 if (next_image >= images.length) next_image = 0;
-                var icon = new OpenLayers.Icon('data/img/'+img);   
+                var icon = new OpenLayers.Icon('img/'+img);   
                 var lonlat = map.getLonLatFromPixel(position);
                 var lonlatTransf = lonlat.transform(map.getProjectionObject(), proj4326);
                 // alert ('lonlatTrans=> lat='+lonlatTransf.lat+' lon='+lonlatTransf.lon+'\nlonlat=>'+lonlat+'\nposition=>'+position);

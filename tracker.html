@@ -851,7 +851,7 @@ html, body, #basicMap {
             }
             done = false;
             if (img.length) {
-                icon = new OpenLayers.Icon('data/img/'+img);
+                icon = new OpenLayers.Icon('img/'+img);
                 marker = new OpenLayers.Marker(pos, icon);
                 markerLayer.addMarker(marker);
                 painted++;
@@ -1032,7 +1032,7 @@ html, body, #basicMap {
             feat2 = new OpenLayers.Feature.Vector(circ2, null, green_style);
             vectorLayer.addFeatures([feat,feat2]);
             
-            var icon = new OpenLayers.Icon('data/img/HP.gif');
+            var icon = new OpenLayers.Icon('img/HP.gif');
             var marker;
             marker = new OpenLayers.Marker(pos, icon);
             markerLayer.addMarker(marker);
@@ -1628,7 +1628,7 @@ html, body, #basicMap {
     function getAirJson() {
         var todoAir = [];
         var max = icaoFound.length; // collect what needs to be done
-        var i, icao, cnt;
+        var i, icao, cnt, dir, file;
         cnt = 0;
         for (i = 0; i < max; i++) {
             icao = icaoFound[i];
@@ -1649,7 +1649,8 @@ html, body, #basicMap {
             // painting will be done on last request
             for (i = 0; i < max; i++) {
                 icao = todoAir[i];
-                file = 'data/'+icao+'.json';
+                dir = icao.substr(0,1);
+                file = 'data2/'+dir+'/'+icao+'.json';
                 console.log("Fetching "+file);
                 requestFile( file, CB_AirJson );
             }
@@ -1674,11 +1675,11 @@ html, body, #basicMap {
         doneHeli = false;
         airFound = [];  // index of airports found in bounds
         //console.log("Getting navaids...");
-       requestFile( 'data/apt1000-nav.csv', callbackNavaids );
+       requestFile( 'data2/apt1000-nav.csv', callbackNavaids );
         //console.log("Getting airports...");
-        requestFile( 'data/apt1000-icao.csv', callbackAirports ); // first in chain, last is getJson
+        requestFile( 'data2/apt1000-icao.csv', callbackAirports ); // first in chain, last is getJson
         //console.log("Getting heliports...");
-       requestFile( 'data/apt1000-heli.csv', callbackHelipads );
+       requestFile( 'data2/apt1000-heli.csv', callbackHelipads );
     }
 
     // === end get airports === */     

@@ -309,7 +309,7 @@ var labelStyle = new OpenLayers.Style({
         heliportCircles.addFeatures([feat,feat2]);
         
         // TODO: Add heliport marker
-        var icon = new OpenLayers.Icon('data/img/HP.gif');
+        var icon = new OpenLayers.Icon('img/HP.gif');
         var marker = new OpenLayers.Marker(point, icon);
         heliMarkers.addMarker(marker);
         
@@ -562,15 +562,15 @@ var labelStyle = new OpenLayers.Style({
             //console.log("Painted ILS "+icao+' '+irwy+'_'+ifreq+'_'+iid+' '+ilat+','+ilon);
         } else if (typ == 7) {  // 'OM'
             markerCircle(ilat,ilon);
-            airportMarker( ilat, ilon, 'data/img/OM.png' );
+            airportMarker( ilat, ilon, 'img/OM.png' );
             console.log("Painted OM "+icao+' '+irwy+' '+ilat+','+ilon);
         } else if (typ == 8) { // 'MM'
             markerCircle(ilat,ilon);
-            airportMarker( ilat, ilon, 'data/img/MM.png' );
+            airportMarker( ilat, ilon, 'img/MM.png' );
             //console.log("Painted MM "+icao+' '+irwy+' '+ilat+','+ilon);
         } else if (typ == 9) { // 'IM'
             markerCircle(ilat,ilon);
-            airportMarker( ilat, ilon, 'data/img/IM.png' );
+            airportMarker( ilat, ilon, 'img/IM.png' );
             //console.log("Painted IM "+icao+' '+irwy+' '+ilat+','+ilon);
         } else if (typ == 6) { // 'GS'
             // what to do for this, if anything
@@ -750,7 +750,8 @@ var labelStyle = new OpenLayers.Style({
     }
     
   function getAirJson(icao) {
-    var file = 'data/'+icao+'.json';
+    var dir = icao.substr(0,1);
+    var file = 'data2/'+dir+'/'+icao+'.json';
     if (icao in jsonDone) {
         console.log("Already attempted load of "+file);
     } else {
@@ -768,9 +769,9 @@ var labelStyle = new OpenLayers.Style({
     FGx.doneAir = false;
     FGx.doneHeli = false;
     FGx.doneNav = false;
-    requestFile( 'data/apt1000-icao.csv', callbackAirports, 0 ); // get Airports - csv
-    requestFile( 'data/apt1000-heli.csv', callbackHeliports, 0 ); // get Heliport - csv
-    requestFile( 'data/apt1000-nav.csv', callbackNavaids, 0 ); // get Navaids -csv
+    requestFile( 'data2/apt1000-icao.csv', callbackAirports, 0 ); // get Airports - csv
+    requestFile( 'data2/apt1000-heli.csv', callbackHeliports, 0 ); // get Heliport - csv
+    requestFile( 'data2/apt1000-nav.csv', callbackNavaids, 0 ); // get Navaids -csv
     
   }
   
