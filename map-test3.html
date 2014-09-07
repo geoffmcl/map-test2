@@ -1,0 +1,1621 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   FG Tracker API 1
+  </title>
+  <meta http-equiv="Content-Type"
+        content="text/html; charset=utf-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta name="apple-mobile-web-app-capable"
+        content="yes">
+  <script type="text/javascript"
+        src="js/jquery-2.0.3.js">
+</script><!--
+    20140904: With crossfeed down, get data from mpserver15 fg tracker API
+-->
+  <link rel="stylesheet"
+        href="css/map-test3.css"
+        type="text/css">
+  <link rel="stylesheet"
+        href="css/style.css"
+        type="text/css">
+   <style type="text/css">
+#status_flights {
+    position: absolute;
+    font-size: 12px;
+    bottom: 1em;
+    left: 10em;
+    width: 900px;
+    z-index: 1000;
+    vertical-align: middle;
+    <!-- border: 1px solid #000000; -->
+  }
+  .p.nob {
+    border: 0;
+    padding: 0;
+  }
+
+  </style>
+ <script src="js/OpenLayers.js">
+</script>
+  <script src="js/geodesic.js"
+        type="text/javascript">
+</script>
+  <script type="text/javascript">
+     
+        // disable ajax caching
+         $.ajaxSetup({cache: false});
+
+    var add_tracker_html = false;   // need to fix 'tracker' to match API
+    
+       //var cf_url = 'http://crossfeed.fgx.ch/flights.json';
+        //var cf_to = 1800;   // about each 2 seconds
+        var fids = [];
+        var callsigns = [];
+        //var live_to = 60000;  // refresh each 60 seconds
+        var live_to = 10000;  // refresh each 10 seconds
+        var tr_url = 'proxy/livedata.php';
+        var yh_url = 'https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%3D%22http%3A%2F%2Fmpserver15.flightgear.org%2Fmodules%2Ffgtracker%2Finterface.php%3Faction%3Dlivewaypoints%22&format=json&callback=';
+        var use_proxy = false;
+        var data_keys_all = ['id','flight_id','callsign','model','time','time_raw','lat','lon','alt','current_status'];
+        var data_keys = ['flight_id','callsign','model','lat','lon','alt'];
+        var bgn_req;
+        var min_req = 9999;
+        var max_req = 0;
+        
+	var pi = Math.PI;
+    var pi05 = pi * 0.5;
+    var pi2 = pi + pi;
+	var d2r = pi / 180;
+    var r2d = 180 / pi;  // degrees / radians
+        // ----------------------------------------------------------------------------------------------
+        // Openlayers
+        // ----------------------------------------------------------------------------------------------
+        // ----------------------------------------------------------------------------------------------
+        // Creating the map
+        // ----------------------------------------------------------------------------------------------
+       
+       var map;
+       var add_heading_img = true;
+       var def_zoom = 10;   // hard to select the 'right' zoom level
+       var def_atc = 12;
+       var fromProjection = new OpenLayers.Projection("EPSG:4326"); // geographic - WGS-84 (World Geodetic System)
+       var toProjection   = new OpenLayers.Projection("EPSG:3857"); // identical to EPSG:900913? - meters?
+       var pointLayer, trackLayer;
+       
+       var planeStyle = new OpenLayers.Style(
+             {
+             pointRadius: 1,
+             strokeWidth: 0.0,
+             graphicWidth: "30", graphicHeight: "30", graphicOpacity: 0.99,
+             rotation: "${hdg}",
+             labelAlign: "center",
+             labelXOffset: "0",
+             labelYOffset: "0"
+             }
+             ,{
+           rules: [
+             new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.LESS_THAN,
+                    property: "spd_kts",
+                    value: 10
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_gray_30x30.png"
+                }
+             }),
+             new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.GREATER_THAN,
+                    property: "spd_kts",
+                    value: 9
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_red_30x30.png"
+                }
+            }),
+            new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.GREATER_THAN,
+                    property: "select",
+                    value: 0
+                }),
+                symbolizer: {
+                    externalGraphic: "images/plane_green_30x30.png"
+                }
+            }),
+             new OpenLayers.Rule({
+                filter: new OpenLayers.Filter.Comparison({
+                    type: OpenLayers.Filter.Comparison.GREATER_THAN,
+                    property: "is_atc",
+                    value: 0
+                }),
+                symbolizer: {
+                    externalGraphic: "images/atc_green_12x12.png"
+                }
+             })
+            ]}
+        );
+
+
+       
+        var labelStyle = new OpenLayers.Style(
+            {
+            externalGraphic: "images/label_background.gif",
+            graphicWidth: "${labelWidth}", graphicHeight: "13", graphicOpacity: 0.99,
+            graphicXOffset: "${labelOffset}", graphicYOffset: 14,
+            fillColor: "#000000",
+            fillOpacity: 0.0,
+            strokeWidth: 0.0,
+            label : "${callsign}",
+            fontColor: "#CCCCCC", fontSize: "11px", fontFamily: "\"DejaVuSansMonoBold\",monospace", fontWeight: "normal",
+            labelAlign: "center",
+            labelXOffset: "0",
+            labelYOffset: "-22"
+            }
+        );
+             
+        var planes = new OpenLayers.Layer.Vector("Planes", {styleMap: planeStyle});
+        var planesLabel = new OpenLayers.Layer.Vector("Callsign", {styleMap: labelStyle});
+
+        function init(lon,lat,zoom,icao){
+        
+            map = new OpenLayers.Map("map", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+            });
+             
+            var osmlayer = new OpenLayers.Layer.OSM();
+        
+            map.addLayers([osmlayer,planes,planesLabel]);
+            map.addControl(new OpenLayers.Control.Permalink('permalink'));
+            map.addControl(new OpenLayers.Control.MousePosition());
+            map.addControl(new OpenLayers.Control.ScaleLine());
+            map.addControl(new OpenLayers.Control.LayerSwitcher());
+            
+            // for historic tacker info
+            pointLayer = new OpenLayers.Layer.Vector("Point Layer"); 
+            map.addLayer(pointLayer);
+            trackLayer = new OpenLayers.Layer.Vector("Track Layer"); 
+            map.addLayer(trackLayer);
+
+            if (zoom.length == 0) { zoom = 5; }  // set default ZOOM
+            var centerpoint;
+            var clat = 50.0;
+            var clon =  1.0;
+            if (lon.length && lat.length) {     // if URL contains lon,lat points
+                centerpoint = new OpenLayers.LonLat(lon,lat); // user center point
+            } else {
+                centerpoint = new OpenLayers.LonLat(clon,clat); // get a default center
+            }
+            var repoint = centerpoint.transform( fromProjection, toProjection);
+            map.setCenter(centerpoint,zoom); 
+            if (icao.length) {
+                // load ICAO data, if available
+                var dir = icao.substr(0,1);
+                var file = 'data2/'+dir+'/'+icao+'.json';
+                sendRequestCB(file,icaoLoad);
+            }
+
+        }
+        function icaoLoad() {
+            if (this.readyState == 4) {
+                if (this.status == "200") {
+                    // JSON parsing the response string
+                    var text = this.responseText;
+                    var data = JSON.parse(text);
+                    // console.log("Got json ["+text+"]");
+                    var lat = data.lat;
+                    var lon = data.lon;
+                    var icao = data.icao;
+                    var zoom = 14;
+                    console.log("Got ICAO ["+icao+"] lat "+lat+" lon "+lon);
+                    var cp = new OpenLayers.LonLat(lon,lat); // ICAO center point
+                    var rep = cp.transform( fromProjection, toProjection );
+                    map.setCenter(cp,zoom); // pop map to this location
+                } else {
+                    console.log("Got CB status ["+this.status+"]");
+                }
+            }
+        }
+        // Planes and Labels are doubled, it’s not possible to set a background for
+        // a label in OpenLayers yet. This is a snag. Because we want rotation we can’t
+        // have a point graphic with label integrated.
+        function addPlanes(mapfid, callsign, lon, lat, hdg, spd_kts, model) {
+            var point =  new OpenLayers.Geometry.Point(lon,lat)
+            var repoint = point.transform( fromProjection, toProjection);
+            var feature = new OpenLayers.Feature.Vector(repoint);
+            // that does the trick, the feature gets the fid
+            // as feature ID
+            feature.id = mapfid;
+            if (selected == mapfid) {
+                feature.attributes.select = 1;
+            }
+          
+            feature.attributes.hdg = hdg;
+            feature.attributes.spd_kts = spd_kts;
+            feature.attributes.model = model;
+            feature.attributes.is_atc = is_atc(callsign,model) ? 1 : 0;
+            
+            planes.addFeatures(feature);
+        }
+       
+       function addLabels(mapfid, callsign, lon, lat) {
+          var pointLabel =  new OpenLayers.Geometry.Point(lon,lat) 
+          var repointLabel = pointLabel.transform( fromProjection, toProjection);
+          var labelFeature = new OpenLayers.Feature.Vector(repointLabel);
+          labelFeature.id = "label"+mapfid;
+          labelFeature.attributes.callsign = callsign; // maybe callsign.toUpperCase();
+          
+          // This calculates label background width and offset
+          labelWidth = 8*callsign.length
+          labelOffset = labelWidth/2*-1.0
+          
+          labelFeature.attributes.labelWidth = labelWidth;
+          labelFeature.attributes.labelOffset = labelOffset;
+          planesLabel.addFeatures(labelFeature);
+       }
+       
+       function removePlanes(fid) {
+          planes.removeFeatures(planes.getFeatureById(fid));
+          planesLabel.removeFeatures(planesLabel.getFeatureById("label"+fid));
+       }
+       
+       function removePlaneOnly(fid) {
+          planes.removeFeatures(planes.getFeatureById(fid));
+       }
+       
+       // now re-drawing of the features, just move what’s already here
+       function updatePlanes(mapfid, callsign, lon, lat, hdg, spd_kts, model) {
+       
+          //planes.getFeatureById(mapfid).move(new OpenLayers.LonLat(lon,lat));
+          removePlaneOnly(mapfid)
+          addPlanes(mapfid, callsign, lon, lat, hdg, spd_kts, model)
+          var movepoint = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+          planesLabel.getFeatureById("label"+mapfid).move(movepoint);
+       }
+       
+        // In case we zoom to one plane we center the map
+        // In case it there are more than one plane selected we zoom to bounds. Hah!
+        function zoomToBoundsSelected(selected) {
+            bounds = new OpenLayers.Bounds();
+            var lon, lat;
+            if (selected.length > 1) {
+                // have more than one selected
+                for (i=0;i<selected.length;i++) {
+                    lon = planesLabel.getFeatureById("label"+selected[i]).geometry.x;
+                    lat = planesLabel.getFeatureById("label"+selected[i]).geometry.y;
+                    bounds.extend(new OpenLayers.LonLat(lon,lat));
+                    bounds.toBBOX();
+                }
+                map.zoomToExtent(bounds);
+                console.log("BBOX: " + bounds.toString());
+            }else{
+                // our first selection
+                lon = planesLabel.getFeatureById("label"+selected[0]).geometry.x;
+                lat = planesLabel.getFeatureById("label"+selected[0]).geometry.y;
+                var zoompoint = new OpenLayers.LonLat(lon, lat);
+                map.setCenter(zoompoint, 9);
+                console.log("Center: lon=" + lon + ", lat=" + lat);
+            }
+        }
+       
+       // ----------------------------------------------------------------------------------------------
+       // jQuery
+       // ----------------------------------------------------------------------------------------------
+       // ----------------------------------------------------------------------------------------------
+       // This is needed to NOT remove the flights from the first load
+       // ----------------------------------------------------------------------------------------------
+     
+       var firstload = 1
+       var isdown = 0
+       var sortcolumn = '';
+       var sortdir = 0;
+       var currCount = 0;
+       var maxCount = 0;
+       var atcCount = 0;
+       var is_collapsed = false;
+       
+       // ----------------------------------------------------------------------------------------------
+       // Init vars
+       // ----------------------------------------------------------------------------------------------
+       
+       var datamap = [];
+       var removal = [];
+       var selected = [];   // mouse selected flights
+       var tr_flights = [];
+       var flightFrame = [];
+       
+        // ----------------------------------------------------------------------------------------------
+        // Utility functions
+        // ----------------------------------------------------------------------------------------------
+        // various guesses that it is ATC
+        function is_atc( callsign, model ) {
+            if (model == 'OpenRadar') return true;
+            var mod = model.toUpperCase();
+            var n = mod.indexOf('ATC');
+            if (n >= 0) return true;
+            n = callsign.indexOf('ATC');
+            if (n >= 0) return true;
+            return false;
+        }
+        // strip .xml extension, and strip '-model'
+        function strip_extent(txt) {
+            var n = txt.lastIndexOf('.');
+            if (n > 0) {
+                txt = txt.substr(0,n);
+                n = txt.indexOf('-model'); // like 'A-10-model'
+                if (n > 0) {
+                    txt = txt.substr(0,n);
+                } else {
+                    n = txt.indexOf('-jsbsim'); // like 'dr400-180-jsbsim'
+                    if (n > 0) {
+                        txt = txt.substr(0,n);
+                    }
+                }
+            }
+            return txt;
+        }
+        // remove path from model name, strip .xml extension, and limit length to 10 letters
+        function get_model(txt) {
+            var n = txt.lastIndexOf('/');
+            if (n > 0) {
+                txt = strip_extent(txt.substr(n+1));
+            }
+            if (txt.length > 10) {
+                txt = txt.substr(0,10);
+            }
+            return txt;
+        }
+        function collapse() {
+            //alert("I was clicked");
+            if (is_collapsed) {
+                //$('#flights').show();
+                $("#content_flights").css('display', 'block');
+                $("#toggle").text("H");
+                is_collapsed = false;
+            } else {
+                //$('#flights').hide();
+                $("#content_flights").css('display', 'none');
+                $("#toggle").text("S");
+                is_collapsed = true;
+            }
+        }
+        
+        // compare strings - case insensitive
+        function stg_compare(a,b) {
+            var str1 = a.toUpperCase();
+            var str2 = b.toUpperCase();
+            if (sortdir) {
+                return str1 < str2 ? 1 : str1 > str2 ? -1 : 0;
+            }
+            return str1 < str2 ? -1 : str1 > str2 ? 1 : 0;
+        }
+        
+        // compare numbers, depending on sort direction
+        function num_compare(i1,i2) {
+            if (sortdir) {
+                return i1 < i2 ? 1 : i1 > i2 ? -1 : 0;
+            }
+            return i1 < i2 ? -1 : i1 > i2 ? 1 : 0;
+        }
+        
+        function compare_strings(a,b) {
+            var str1 = '';
+            var str2 = '';
+            var n1 = a.childNodes;
+            var n2 = b.childNodes;
+            var i, str, n, max;
+            max = n1.length; // assumes n2 is same size!!!
+            for ( i = 0; i < max; i++ ) {
+                str = n1[i].className; // things like hdg can have multiple clases, so
+                n = str.indexOf(sortcolumn);
+                if (n >= 0) {
+                    str1 = n1[i].innerText;
+                    str2 = n2[i].innerText;
+                    str1 = $.trim(str1);
+                    str2 = $.trim(str2);
+                    break;
+                }
+            }
+            //console.log("Comp " + str1 + " " + str2);
+            return stg_compare( str1, str2 );
+        }
+        function compare_numbers(a,b) {
+            var str1, str2;
+            var i1 = 0;
+            var i2 = 0;
+            var n1 = a.childNodes;
+            var n2 = b.childNodes;
+            var i, str, n, max;
+            max = n1.length; // assumes n2 is same size!!!
+            for ( i = 0; i < max; i++ ) {
+                str = n1[i].className; // things like hdg can have multiple clases, so
+                n = str.indexOf(sortcolumn);
+                if (n >= 0) {
+                    // found our comumn class
+                    str1 = n1[i].innerText;
+                    str2 = n2[i].innerText;
+                    str1 = $.trim(str1);
+                    str2 = $.trim(str2);
+                    i1 = parseInt(str1);
+                    i2 = parseInt(str2);
+                    break;
+                }
+            }
+            //console.log("Comp " + str1 + " " + str2);
+            return num_compare( i1, i2 );
+        }
+        
+        function setSortColumn( col ) {
+            if (sortcolumn == col) {
+                if (sortdir) {
+                    sortdir = 0;
+                } else {
+                    sortdir = 1;
+                }
+            } else {
+                sortdir = 0;
+            }
+            sortcolumn = col;
+        }
+        
+        // TODO: maybe could use 'replace' instead of empty() and append
+        function updateFlightTable(a) {
+            var i, nr;
+            var cnt = a.length;
+            $('#flights').empty();
+            for (i = 0; i < cnt; i++) {
+                nr = a[i];
+                $('#flights').append(nr);
+            }
+        }
+
+        // on column header click
+        function sortcs() {
+            var flightshere = [];
+            setSortColumn('callsign');
+            $('.flightrow').each( function() {
+                flightshere.push(this);
+            });
+            flightshere.sort( compare_strings );
+            updateFlightTable(flightshere);
+        }
+        
+        // on column header click
+        function sortalt() {
+            var flightshere = [];
+            setSortColumn('alt_ft');
+            $('.flightrow').each( function() {
+                flightshere.push(this);
+            });
+            flightshere.sort( compare_numbers );
+            updateFlightTable(flightshere);
+        }
+        
+        // on column header click
+        function sortspd() {
+            var flightshere = [];
+            setSortColumn('spd_kts');
+            $('.flightrow').each( function() {
+                flightshere.push(this);
+            });
+            // now how to reorder rows in a table
+            flightshere.sort( compare_numbers );
+            updateFlightTable(flightshere);
+        }
+        
+        // on column header click
+        function sortmodel() {
+            var flightshere = [];
+            setSortColumn('model');
+            $('.flightrow').each( function() {
+                flightshere.push(this);
+            });
+            flightshere.sort( compare_strings );
+            updateFlightTable(flightshere);
+        }
+        
+        // on column header click
+        function sorthdg() {
+            var flightshere = [];
+            setSortColumn('hdg');
+            $('.flightrow').each( function() {
+                flightshere.push(this);
+            });
+            flightshere.sort( compare_numbers );
+            updateFlightTable(flightshere);
+        }
+
+        // ----------------------------------------------------------------------------------------------
+        // Creating the main table
+        // ----------------------------------------------------------------------------------------------
+        // Some strings to construct the table...
+                    // "<td class='spd_kts'><p onclick='sortspd();'>Speed<\/p><\/td>"+
+        var tableheader = "<table><tr class='table_header'><td class='fid' style='display: none;'><p>FID<\/p>'"+
+                    "<\/td><td class='cs2'><p onclick='sortcs();'>Callsign<\/p><\/td><td class='lon' style='display: none'><p>Longitude<\/p><\/td>"+
+                    "<td class='lat' style='display: none'><p>Latitude<\/p><\/td><td class='hdg'><p onclick='sorthdg();'>Heading<\/p><\/td>"+
+                    "<td class='alt_ft'><p onclick='sortalt();'>Altitude<\/p><\/td>"+
+                    "<td class='spd_kts' style='display: none'><p>Speed<\/p><\/td>"+
+                    "<td class='model2'><p onclick='sortmodel();'>Model<\/p><\/td>"+
+                    "<td><p id='toggle' onclick='collapse();'>H<\/p><\/td><\/tr>";
+        var info_line = 'Active mp flights';
+        
+    $(document).ready(function() {
+            $(tableheader).appendTo('#header_flights')
+            $("<table cellspacing='0' cellpadding='0' id='flights' />")
+             .appendTo("#content_flights");
+            $('#flights').hide().show(300);
+            // $(info_line).appendTo("#info_line");
+            $("#info_line").html(info_line);
+
+       });
+       
+       // ----------------------------------------------------------------------------------------------
+       // Adding flights
+       // ----------------------------------------------------------------------------------------------
+       
+       function addFlight(flight) {
+          
+          // Add flight to the map
+          var fid = flight.children('.fid').text()
+          var callsign = flight.children('.callsign').text()
+          var lon = flight.children('.lon').text()
+          var lat = flight.children('.lat').text()
+          var hdg = flight.children('.hdg').text()
+          var spd_kts = flight.children('.spd_kts').text()
+          var model = get_model(flight.children('.model').text());
+
+          addPlanes(fid, callsign, lon, lat, hdg, spd_kts, model)
+          addLabels(fid, callsign, lon, lat)
+          
+          // Add flight to the table
+          $('#flights').append(flight);
+       }
+       
+       // ----------------------------------------------------------------------------------------------
+       // Removing flights
+       // ----------------------------------------------------------------------------------------------
+       
+       function removeFlights() {
+            var delCnt = 0;
+            // Remove features from table
+            $.each(removal, function(i, val) {
+                $.each($('.flightrow'), function(i, row) {
+                    if (($(row).get(0).id) == val) {
+                        var fid = $(row).get(0).id;
+                        // FIX: 20131103 - check and remove 'fid' from selected, if in selected
+                        for(var j = selected.length-1; j >= 0; j--) { 
+                            if (selected[j] == fid) {
+                                selected.splice(j,1);   // remove item
+                            }
+                        }
+                        $(row).hide(1000, function(){ $(row).remove(); });
+                        delCnt++;
+                    }
+                });
+            });
+          
+            // Remove features from the map
+            $.each(removal, function(i, val) {
+                removePlanes(val)
+            });
+            return delCnt;
+       }
+       
+        function inTracker(cs) {
+            var max = callsigns.length;
+            if (max && !valInArray(cs,callsigns)) {
+                return '*';
+            }
+            return '';
+        }
+        // ----------------------------------------------------------------------------------------------
+        // Loading the JSON data
+        // ----------------------------------------------------------------------------------------------
+        // Function has a fixed timeout (5 secs)
+        function workData() {
+    
+            $('.fid').hide()
+            $('.latitude').hide()
+            $('.longitude').hide()
+
+            // reset the arrays
+            var flightshere = [];
+            var flightsdata = [];
+            var datafids = [];
+            removal = [];
+        
+            // we do not care about the "success" label, we check for
+            // request loading state directly
+            if ((this.readyState == 4)&&(this.status == "200")) {
+        
+                // JSON parsing the response string
+                var data = JSON.parse(this.responseText);
+        
+                $(data.flights).each(function (i){
+                    // Defining the flight row
+                    //        "<td class='callsign'><p>"+this.callsign.toUpperCase()+
+                    var model = get_model(this.model);
+                    var cs = inTracker(this.callsign);
+                    var flightrow = "<tr class='flightrow' id='"+this.fid+"'>"+
+                            "<td class='fid' style='display: none'><p>"+this.fid+
+                            "<td class='callsign'><p>"+this.callsign+cs+
+                            "<td class='lon' style='display: none'><p>"+this.lon+
+                            "<td class='lat' style='display: none'><p>"+this.lat+
+                            "<td class='hdg'><p>"+this.hdg+
+                            "<td class='alt_ft'><p>"+this.alt_ft+
+                            "<td class='spd_kts'><p>"+this.spd_kts+
+                            "<td class='model'><p>"+model+"<\/tr>"
+                      
+                      flightsdata.push($(flightrow))
+                      datafids.push(JSON.stringify(this.fid))
+                    
+                }); // END each flight
+                
+                // We start to draw only when document is fully loaded
+                $(document).ready(function() {
+                    
+                    // Getting all the flights already on screen
+                    $('.flightrow').each( function() {
+                        flightshere.push($(this).children('.fid').text())
+                    });
+                    
+                    // First load, append all data to the page
+                    if (firstload > 0) {
+                        $.each(flightsdata, function () {
+                           addFlight($(this));
+                        });
+                    } else {
+                        // ADD OR UPDATE: Not first load, so append only what's not already here
+                        atcCount = 0;   // start ATC (guess) counter
+                        $.each(flightsdata, function(i) {
+                            var checkfidel = $(this).children('.fid').text()
+                            
+                            if ($.inArray(checkfidel, selected) >= 0) {
+                                $(this).addClass('back_greenB7F')
+                            }else{
+                                $(this).removeClass('back_greenB7F')
+                             }
+                            
+                            // Update vars
+                            var checkfid = $(this).children('.fid').text();
+                            var callsign = $(this).children('.callsign').text();
+                            var lat = $(this).children('.lat').text()
+                            var lon = $(this).children('.lon').text()
+                            var hdg = $(this).children('.hdg').text()
+                            var spd_kts = $(this).children('.spd_kts').text()
+                            var model = get_model($(this).children('.model').text());
+                            var an_ATC = is_atc(callsign,model);
+                            if (an_ATC) {
+                                $(this).addClass('back_yellowFF0');
+                                atcCount++;
+                            } else if (spd_kts < 10) {
+                                $(this).addClass('gray666');
+                            }
+                            // Update check
+                            if ($.inArray(checkfidel, flightshere) > -1) {
+                           
+                                // Update table
+                                var checkfid2 = "\[id=\""+checkfid+"\"\]";
+                                $(checkfid2).replaceWith($(this))
+     
+                                // Update the map
+                                // For openlayers we have to change lat/lon order, grmbl
+                                updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model)
+                            } else {
+                                //console.log("Flight to add: "+flightsdata[i].children('.callsign').text())
+                                // TODO: If a column sort is active, sortcolumn.length, then should
+                                // add this at the correct place in the list, using maybe 
+                                // insertBefore, rather than just append it...
+                                addFlight($(this))
+                            }
+                        });
+                    }
+                    
+                    
+                    // REMOVE: Have a look what needs to be removed and add it to the removal array
+                    $('.fid').each( function() {
+                        var fidrem = $(this).children().text()
+                        
+                        if ($.inArray(fidrem, datafids) < 0) {
+                           removal.push(fidrem)
+                        }
+                        //if ($.inArray(fidrem, flightsdata) > -1) {
+                        //}
+                    });     
+                    
+                    removeFlights();
+                  
+                    // update information line
+                    // ========================
+                    // var inf = $('#info_line');
+                    currCount = flightsdata.length;
+                    info_line = "Active " + currCount
+                    if (atcCount > 0) {
+                        info_line += " (ATC " + atcCount + ")";
+                    }
+                    if (currCount > maxCount) {
+                        maxCount = currCount;
+                    }
+                    if (maxCount > currCount)
+                        info_line += " (max. " + maxCount + ")";
+                    $("#info_line").html(info_line);
+                    // ========================
+                    
+                    // Showing the heading with background image
+                    if (add_heading_img) {
+                        $('.hdg').each( function() {
+                            var value = $(this).children('p').text()
+                            if (between(value,0,22) || between(value,293,360)) {
+                                $(this).addClass('hdg_n')
+                            } else if (between(value,23,67)) {
+                                $(this).addClass('hdg_ne')
+                            } else if (between(value,68,112)) {
+                                $(this).addClass('hdg_e')
+                            } else if (between(value,113,157)) {
+                                $(this).addClass('hdg_se')
+                            } else if (between(value,158,202)) {
+                                $(this).addClass('hdg_s')
+                            } else if (between(value,203,247)) {
+                                $(this).addClass('hdg_sw')
+                            } else if (between(value,248,292)) {
+                                $(this).addClass('hdg_w')
+                            }
+                       });
+                    }
+                  
+                    $('.flightrow').hover(
+                        function() {
+                            $(this).addClass('back_grayCCC')
+                        },
+                        function() {
+                            $(this).removeClass('back_grayCCC')
+                        }
+                    );
+                 
+                    // Select a flight in the list
+                    $('.flightrow').click(
+                        function() {
+                            var check = $(this).children('.fid').text();
+                            if ($.inArray(check, selected) < 0) {
+                                $(this).addClass('back_greenB7F');
+                                selected.push(check);
+                                zoomToBoundsSelected(selected);
+                                var fid = $(this).children('.fid').text();
+                                var callsign = $(this).children('.callsign').text();
+                                var model = $(this).children('.model').text();
+                                var lon = $(this).children('.lon').text();
+                                var lat = $(this).children('.lat').text();
+                                var alt = $(this).children('.alt_ft').text();
+                                var hdg = $(this).children('.hdg').text();
+                                //var url = "show-one.html?fid="+fid+"&callsign="+callsign+"&model="+model+
+                                //    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                                var url2 = "tracker.html?fid="+fid+"&callsign="+callsign+"&model="+model+
+                                    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                                //var spec = 'width=1024,height=768'; // should it be a fixed size, or
+                                var spec = 'fullscreen=yes';
+                                // other specs ???? - should be a FULL normal window
+                                spec += ',location=yes'; // Whether or not to display the address field 
+                                spec += ',menubar=yes';  // Whether or not to display the menu bar 
+                                spec += ',resizable=yes'; // Whether or not the window is resizable 
+                                spec += ',scrollbars=yes'; // Whether or not to display scroll bars 
+                                spec += ',status=yes';    // Whether or not to add a status bar 
+                                spec += ',titlebar=yes';  // Whether or not to display the title bar. Ignored unless the calling application is an HTML Application or a trusted dialog box 
+                                spec += ',toolbar=yes';   // Whether or not to display the browser toolbar 
+                                var msg = "Click: ";
+                                if (is_atc(callsign,model)) {
+                                    // tracking of ATC, since they do NOT move!!!
+                                    // TODO: in tracker.html want to ADD nearby moving aircraft
+                                    url2 += '&zoom='+def_atc;
+                                    msg += 'ATC: ';
+                                } else {
+                                    //window.open(url,model,spec);
+                                    url2 += '&zoom='+def_zoom;
+                                }
+                                msg += "url: "+url2;
+                                console.log(msg);
+                                window.open(url2,model,spec);
+                            } else {
+                                $(this).removeClass('back_greenB7F');
+                                var index = selected.indexOf($(this).children('.fid').text());
+                                selected.splice(index,1);
+                                $(this).removeClass('back_greenB7F');
+                            }
+                        }   // function 
+                    );  // CLICK FUNCTION
+                  
+                }); // END document ready
+                // Reload data around 2 sec (1800 ms, cf-client updates 1000)
+                // setTimeout("sendRequest('"+cf_url+"')", cf_to);
+            } // END if this.readyState
+        } // END workData()
+
+       // ----------------------------------------------------------------------------------------------
+       // initial loading in document body now, but we set first load flag here
+       // ----------------------------------------------------------------------------------------------
+       
+       firstload = 0 // means it’s not the first load anymore ;-)
+       
+       // ----------------------------------------------------------------------------------------------
+       // Helpers
+       // ----------------------------------------------------------------------------------------------
+       
+       // XMLHttpRequest handling
+       function getXMLHttpRequest() {
+            var httpReq = null;
+            if (window.XMLHttpRequest) {
+                httpReq = new XMLHttpRequest();
+            } 
+            else if (typeof ActiveXObject != "undefined") { 
+                httpReq = new ActiveXObject("Microsoft.XMLHTTP")
+            }
+            return httpReq;
+        }
+        function sendRequestCB(url,callback) {
+            var req = getXMLHttpRequest();
+            if (req !== null) {
+                req.onreadystatechange = callback;
+                req.open("GET", url);
+                req.send(null);
+            } else {
+                alert("Your browser does not support an XMLHttpRequest object. No updates will happen!");
+            }
+        }
+        function sendRequest(url) {
+            sendRequestCB(url,workData);
+        }
+        
+        function valInArray(s,a) {
+            var i, t;
+            var max = a.length;
+            for (i = 0; i < max; i++) {
+                t = a[i];
+                if ( s == t ) {
+                    return true;
+                }
+            }
+            return false;
+        }
+        
+    /////////////////////////////////////////////////////////////////////////////////////////////
+    // TRACKER
+    
+    function requestFile( fname, callback ) {
+       var xmlhttp = new XMLHttpRequest();
+       xmlhttp.open( 'GET', fname, true );
+       xmlhttp.onreadystatechange = callback;
+       xmlhttp.send( null );
+    }
+    // Add historic tracker path
+    var dot_style = { 
+      strokeColor: '#008000', 
+      strokeOpacity: 0.5,
+      strokeWidth: 2,
+      fill: false
+    };
+    
+    function tr_putDotatPos(pos) {
+        var radius = 50;  // TODO: what SIZE should the DOT be? probably should DEPEND on zoom???
+        // distance to vertex, in map units
+        var sides = 20;     // docs say '20 approximates a circle'... so ...
+        var point = new OpenLayers.Geometry.Point(pos.lon, pos.lat);
+        var circle = OpenLayers.Geometry.Polygon.createRegularPolygon(
+            point,
+            radius,
+            sides,
+            0 );
+        var featurecircle = new OpenLayers.Feature.Vector(circle, null, dot_style);
+        pointLayer.addFeatures([featurecircle]);
+    }
+    function tr_putDot(lat,lon) {
+        var pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        tr_putDotatPos(pos);
+    }
+    function tr_paintLine( lat1, lon1, lat2, lon2, style ) {
+        var points = new Array(
+            new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
+            new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
+        );
+        var line = new OpenLayers.Geometry.LineString(points);
+        var lineFeature = new OpenLayers.Feature.Vector(line, null, style);
+        trackLayer.addFeatures([lineFeature]);
+    }
+    function tr_putLine( lat1, lon1, lat2, lon2 ) {
+        var red_style = { 
+            strokeColor: '#008000', 
+            strokeOpacity: 0.5,
+            strokeWidth: 2,
+            fill: false
+        };
+        tr_paintLine( lat1, lon1, lat2, lon2, red_style );
+    }
+    
+    /* ==================================================================
+       Example json
+        {"header":
+            {"request_time_raw":1387105903,"request_time":"2013-12-15 19:11:43+0800"},
+         "data":
+            {"pilot":[
+                {"callsign":"ECHO1","flight_id":"5095014","model":"C-5","start_time":"2013-12-15 16:09:05+08","start_time_raw":"1387094945",
+             "wpt":[
+                {"time":"2013-12-15 19:12:00+08","time_raw":"1387094945","lat":"43.631467","lon":"-23.42679","alt":"43.631467"},
+                {"time":"2013-12-15 19:11:50+08","time_raw":"1387094945","lat":"43.631347","lon":"-23.395632","alt":"43.631347"},
+                ... etc ...
+        NOTE: can be zero, and have seen "alt":"-9999"
+       ================================================================== */
+    function tr_paintFlight(data) {
+        var hdr, msg, i, obj;
+        var dat = data.data;
+        var pilot = dat.pilot;
+        var cs = pilot[0].callsign;
+        var fid = pilot[0].flight_id;
+        var mod = pilot[0].model;
+        //curr_cs = cs;
+        //curr_tid = fid;
+        //curr_model = mod;
+        var wpta = pilot[0].wpt;
+        var max = wpta.length;
+        msg = "Pilot "+cs+" mod "+mod+" fid "+fid+" Got "+max+" wpts ";
+        var time, lat, lon, alt, dist, llat, llon, pos;
+        //var min_dist = 0.03;   // 30 meters
+        var min_dist = 0.1;   // 100 meters
+        var min_dist2 = 0.5;   // 500 meters
+        var cumm_dist = 0;
+        var clat = 0;
+        var clon = 0;
+        var pcnt = 0;
+        var minlat,minlon,maxlat,maxlon;
+        var mindist, maxdist;
+        var bounds = new OpenLayers.Bounds();
+        for (i = 0; i < max; i++) {
+            obj = wpta[i];
+            time = obj.time;
+            lat  = parseFloat(obj.lat);
+            lon  = parseFloat(obj.lon);
+            alt  = parseFloat(obj.alt);
+            if (alt == -9999)
+                continue;
+            pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
+            if (i) {
+                dist = getDistRect(llat,llon,lat,lon);
+                if (dist > min_dist) {
+                    cumm_dist += dist;
+                    tr_putDotatPos(pos);    // paint DOT
+                    if (dist > min_dist2) {
+                        tr_putLine(llat,llon,lat,lon);
+                    }
+                    llat = lat;
+                    llon = lon;
+                    clat += lat;
+                    clon += lon;
+                    if (pcnt > 1) {
+                        if (dist > maxdist)
+                            maxdist = dist;
+                        if (dist < mindist)
+                            mindist = dist;
+                    } else {
+                        mindist = dist;
+                        maxdist = dist;
+                    }
+                    pcnt++;
+                    if (lat > maxlat)
+                        maxlat = lat;
+                    if (lat < minlat)
+                        minlat = lat;
+                    if (lon > maxlon)
+                        maxlon = lon;
+                    if (lon < minlon)
+                        minlon = lon;
+                    bounds.extend(pos);
+                    bounds.toBBOX();
+                }
+            } else {
+                tr_putDotatPos(pos);    // paint FIRST DOT
+                llat = lat;
+                llon = lon;
+                clat += lat;
+                clon += lon;
+                pcnt++;
+                minlat = lat;
+                minlon = lon;
+                maxlat = lat;
+                maxlon = lon;
+                bounds.extend(pos);
+                bounds.toBBOX();
+            }
+        }
+        if (pcnt) {
+            if (pcnt > 1) {
+                lat = (maxlat + minlat) / 2;
+                lon = (maxlon + minlon) / 2;
+                //map.zoomToExtent(bounds);
+                msg += " dist "+mindist.toFixed(4)+","+maxdist.toFixed(2);
+            } else {
+                lat = clat / pcnt;
+                lon = clon / pcnt;
+                pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+                //map.setCenter( pos, curr_zoom );
+            }
+            //getGlobalBounds();
+        }
+        msg += " points "+pcnt;
+        msg += " dist "+cumm_dist.toFixed(1);
+        var d = new Date();
+        var ms = d.valueOf() - tr_start.valueOf();
+        msg += " in "+ms+" ms.";
+        console.log(msg);
+        //setStatus(msg);
+    }
+    
+    function tr_CB_Flight() {
+        if ( this.readyState == 4  ) {
+            if (this.status == "200") {
+                var text = this.responseText;
+                var msg; // = "<p>"+text+"<\/p>"
+                try {
+                    var data = JSON.parse(text);
+                    //if ( data.header && data.data && data.data.pilot ) {
+                    if ( data.data && data.data.pilot ) {
+                        tr_paintFlight(data);
+                        //getGlobalBounds();
+                    } else {
+                        msg = "Received data does not seem valid!";
+                        console.log(msg);
+                        setStatus(msg);
+                        console.log(text);
+                    }
+                } catch (err) {
+                    msg = "JSON.parse error: "+err.message;
+                    console.log(msg);
+                    setStatus(msg);
+                    console.log(text);
+                }
+            }
+        }
+    }
+
+    // the API for this has CHANGED!!! No longer included waypoints
+    // need to use flight_id
+    function tr_getFGTracker(cs) {
+        var url = 'proxy/livepilots.php?cs='+cs;
+        if (cs.length) {
+            msg = "Getting pilot "+cs+"... moment... using url "+url;
+            console.log(msg);
+            // setStatus(msg);
+            tr_start = new Date();
+            requestFile( url, tr_CB_Flight );
+        }
+    }
+        
+        
+        function tr_flight(cs,fid,model,lat,lon,alt) {
+            this.callsign = cs;
+            this.fid = fid;
+            this.model = model;
+            this.lat = lat;
+            this.lon = lon;
+            this.alt = parseInt(alt);
+            this.hdg = 0;
+            this.spd_kts = 0;
+            this.waypoints = [];
+            this.status = 'OPEN';
+        }
+
+        //////////////////////////////////////////////////////////////////////////////////////
+        // DISPLAY OF DATA
+        // ===============
+        var tr_first = 1;
+        function tr_addFlights(msg) {
+        
+            //$('.fid').hide()
+            //$('.latitude').hide()
+            //$('.longitude').hide()
+            var flt;
+            var flightsdata = [];
+            var datafids = [];
+            var flightshere = [];
+            var newCnt = 0;
+            var updCnt = 0;
+            var remCnt = 0;
+            var delCnt = 0;
+            removal = [];
+            var i, max = tr_flights.length;
+            for (i = 0; i < max; i++) {
+                flt = tr_flights[i];
+                    // "<td class='spd_kts'><p>"+flt.spd_kts+
+                var flightrow = "<tr class='flightrow' id='"+flt.fid+"'>"+
+                    "<td class='fid' style='display: none'><p>"+flt.fid+
+                    "<td class='callsign'><p>"+flt.callsign+
+                    "<td class='lon' style='display: none'><p>"+flt.lon+
+                    "<td class='lat' style='display: none'><p>"+flt.lat+
+                    "<td class='hdg'><p>"+flt.hdg+
+                    "<td class='alt_ft'><p>"+flt.alt+
+                    "<td class='spd_kts' style='display: none'><p>"+flt.spd_kts+
+                    "<td class='model'><p>"+flt.model+"<\/tr>"
+                      
+                flightsdata.push($(flightrow))
+                //datafids.push(JSON.stringify(flt.fid))
+                datafids.push(parseInt(flt.fid))
+            }   // end each flight
+            
+            // We start to draw only when document is fully loaded
+            $(document).ready(function() {
+                // Getting all the flights already on screen
+                $('.flightrow').each( function() {
+                    flightshere.push($(this).children('.fid').text())
+                });
+                if (tr_first > 0) {
+                    tr_first = 0;
+                    $.each(flightsdata, function () {
+                        addFlight($(this));
+                        newCnt++;
+                    });
+                } else {
+                    // not first
+                    // ADD OR UPDATE: Not first load, so append only what's not already here
+                    atcCount = 0;   // start ATC (guess) counter
+                    $.each(flightsdata, function(i) {
+                        var checkfidel = $(this).children('.fid').text()
+                        
+                        if ($.inArray(checkfidel, selected) >= 0) {
+                            $(this).addClass('back_greenB7F')
+                        }else{
+                            $(this).removeClass('back_greenB7F')
+                         }
+                        
+                        // Update vars
+                        var checkfid = $(this).children('.fid').text();
+                        var callsign = $(this).children('.callsign').text();
+                        var lat = $(this).children('.lat').text();
+                        var lon = $(this).children('.lon').text();
+                        var hdg = $(this).children('.hdg').text();
+                        var spd_kts = $(this).children('.spd_kts').text();
+                        var model = $(this).children('.model').text();
+                        var an_ATC = is_atc(callsign,model);
+                        if (an_ATC) {
+                            $(this).addClass('back_yellowFF0');
+                            atcCount++;
+                        } else if (spd_kts < 10) {
+                            $(this).addClass('gray666');
+                        }
+                        // Update check
+                        if ($.inArray(checkfidel, flightshere) > -1) {
+                       
+                            // Update table
+                            var checkfid2 = "\[id=\""+checkfid+"\"\]";
+                            $(checkfid2).replaceWith($(this));
+ 
+                            // Update the map
+                            // For openlayers we have to change lat/lon order, grmbl
+                            updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model);
+                            updCnt++;
+                        } else {
+                            //console.log("Flight to add: "+flightsdata[i].children('.callsign').text())
+                            // TODO: If a column sort is active, sortcolumn.length, then should
+                            // add this at the correct place in the list, using maybe 
+                            // insertBefore, rather than just append it...
+                            addFlight($(this));
+                            newCnt++;
+                        }
+                    });
+                    
+                    // REMOVE: Have a look what needs to be removed and add it to the removal array
+                    $('.fid').each( function() {
+                        var fidrem = parseInt($(this).children().text());
+                        if (fidrem > 0) {
+                            if ($.inArray(fidrem, datafids) < 0) {
+                                removal.push(fidrem);
+                                remCnt++;
+                            }
+                        }
+                    });     
+                    delCnt = removeFlights();
+                }   // first time y/n
+                
+                
+                currCount = flightsdata.length;
+                info_line = " Active " + currCount
+                if (atcCount > 0) {
+                    info_line += " (ATC " + atcCount + ")";
+                }
+                if (currCount > maxCount) {
+                    maxCount = currCount;
+                }
+                if (maxCount > currCount)
+                    info_line += " (max " + maxCount + ")";
+                    
+                if (newCnt > 0)
+                    info_line += " new " + newCnt;
+                if (updCnt > 0)
+                    info_line += " upd " + updCnt;
+                if (remCnt > 0)
+                    info_line += " rem " + remCnt;
+                if (delCnt > 0)
+                    info_line += " del " + delCnt;
+                
+                //msg += info_line;
+                //setStatus(msg);
+                $("#info_line").html(info_line);
+                // ========================
+                
+                // Showing the heading with background image
+                if (add_heading_img) {
+                    $('.hdg').each( function() {
+                        var value = $(this).children('p').text()
+                        if (between(value,0,22) || between(value,293,360)) {
+                            $(this).addClass('hdg_n')
+                        } else if (between(value,23,67)) {
+                            $(this).addClass('hdg_ne')
+                        } else if (between(value,68,112)) {
+                            $(this).addClass('hdg_e')
+                        } else if (between(value,113,157)) {
+                            $(this).addClass('hdg_se')
+                        } else if (between(value,158,202)) {
+                            $(this).addClass('hdg_s')
+                        } else if (between(value,203,247)) {
+                            $(this).addClass('hdg_sw')
+                        } else if (between(value,248,292)) {
+                            $(this).addClass('hdg_w')
+                        }
+                   });
+                }
+              
+                $('.flightrow').hover(
+                    function() {
+                        $(this).addClass('back_grayCCC')
+                    },
+                    function() {
+                        $(this).removeClass('back_grayCCC')
+                    }
+                );
+             
+                // Select a flight in the list
+                $('.flightrow').click(
+                    function() {
+                        var check = $(this).children('.fid').text();
+                        if ($.inArray(check, selected) < 0) {
+                            $(this).addClass('back_greenB7F');
+                            selected.push(check);
+                            zoomToBoundsSelected(selected);
+                            if (add_tracker_html) {
+                                var fid = $(this).children('.fid').text();
+                                var callsign = $(this).children('.callsign').text();
+                                var model = $(this).children('.model').text();
+                                var lon = $(this).children('.lon').text();
+                                var lat = $(this).children('.lat').text();
+                                var alt = $(this).children('.alt_ft').text();
+                                var hdg = $(this).children('.hdg').text();
+                                //var url = "show-one.html?fid="+fid+"&callsign="+callsign+"&model="+model+
+                                //    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                                var url2 = "tracker.html?fid="+fid+"&callsign="+callsign+"&model="+model+
+                                    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                                //var spec = 'width=1024,height=768'; // should it be a fixed size, or
+                                var spec = 'fullscreen=yes';
+                                // other specs ???? - should be a FULL normal window
+                                spec += ',location=yes'; // Whether or not to display the address field 
+                                spec += ',menubar=yes';  // Whether or not to display the menu bar 
+                                spec += ',resizable=yes'; // Whether or not the window is resizable 
+                                spec += ',scrollbars=yes'; // Whether or not to display scroll bars 
+                                spec += ',status=yes';    // Whether or not to add a status bar 
+                                spec += ',titlebar=yes';  // Whether or not to display the title bar. Ignored unless the calling application is an HTML Application or a trusted dialog box 
+                                spec += ',toolbar=yes';   // Whether or not to display the browser toolbar 
+                                var msg = "Click: ";
+                                if (is_atc(callsign,model)) {
+                                    // tracking of ATC, since they do NOT move!!!
+                                    // TODO: in tracker.html want to ADD nearby moving aircraft
+                                    url2 += '&zoom='+def_atc;
+                                    msg += 'ATC: ';
+                                } else {
+                                    //window.open(url,model,spec);
+                                    url2 += '&zoom='+def_zoom;
+                                }
+                                msg += "url: "+url2;
+                                console.log(msg);
+                                window.open(url2,model,spec);
+                            }
+                        } else {
+                            $(this).removeClass('back_greenB7F');
+                            var index = selected.indexOf($(this).children('.fid').text());
+                            selected.splice(index,1);
+                            $(this).removeClass('back_greenB7F');
+                        }
+                    }   // function 
+                );  // CLICK FUNCTION
+                
+            }); // document ready
+        }
+       // Data from FG Tracker - each 60 seconds
+        // var data_keys = ['flight_id','callsign','model','lat','lon','alt'];
+        function collectData(data) {
+            var flights = [];
+            var dato = data.data;
+            var wpta = dato.wpt;
+            var max = wpta.length;
+            var i,obj,fid,model,cs,stat,closed,flt,wpcnt,pair,index,ocnt;
+            var lat,lon,alt,doneb;
+            fids = [];  // clear previous list
+            callsigns = []; // and callsigns
+            tr_flights = [];
+            closed = 0;
+            wpcnt = 0;
+            doneb = false;
+            for (i = 0; i < max; i++) {
+                obj = wpta[i];
+                fid  = obj.flight_id;
+                stat = obj.current_status;
+                cs   = obj.callsign;
+                alt   = obj.alt;
+                pair = cs + fid;
+                index = callsigns.indexOf( pair );
+                if (index < 0) {
+                    model = obj.model;
+                    lat   = obj.lat;
+                    lon   = obj.lon;
+                    callsigns.push(pair);
+                    flt = new tr_flight(cs,fid,model,lat,lon,alt);
+                    flt.waypoints.push(obj);
+                    flights.push(flt);
+                    doneb = false;
+                    index = callsigns.indexOf( pair );
+                } else {
+                    flt = flights[index];
+                    if (!doneb) {
+                        doneb = true;
+                        flt.hdg = getBearing(lat,lon,obj.lat,obj.lon);
+                    }
+                    if ((flt.alt < 0) && (alt > 0)) {
+                        flt.alt = alt;  // use a positive altitude
+                    }
+                    flt.waypoints.push(obj);
+                }
+                if (stat != 'OPEN') {
+                    if (index >= 0) {
+                        if (flights[index].status != 'CLOSED') {
+                            closed++;
+                            flights[index].status = 'CLOSED'
+                        }
+                    }
+                }
+            }
+            wpcnt = 0;
+            ocnt = 0;
+            for (i = 0; i < flights.length; i++) {
+                flt = flights[i];
+                if (flt.status != 'OPEN') {
+                    continue;
+                }
+                tr_flights.push(flt);
+                cs = flt.callsign;
+                wpta = flt.waypoints;
+                wpcnt += wpta.length;
+                ocnt++;
+            }
+            i = callsigns.length;
+            var dt = new Date();
+            var msg = dt.toUTCString();
+            var elap = getElapsed(bgn_req);
+            var maxt = ms2hhmmss(max_req);
+            var mint = ms2hhmmss(min_req);
+            msg += " From "+max+", have "+i+" flights, "+closed+" closed, "+ocnt+" open, wps "+wpcnt;
+            msg += ", elap: "+elap+" min: "+mint+" max: "+maxt;
+            setStatus(msg);
+            console.log(msg);
+            tr_addFlights(msg);
+        }
+        function setStatus(msg) {
+            $("#status_flights").html('<p><b>'+msg+'<\/b><\/p>');
+        }
+        
+	function getBearing( Lat1, Lon1, Lat2, Lon2 ) {
+		// convert to radians
+		var startLat = Lat1 * d2r;
+		var startLon = Lon1 * d2r;
+		var endLat   = Lat2 * d2r;
+		var endLon   = Lon2 * d2r;
+		var dLon = endLon - startLon;
+        var pi4 = pi / 4;
+
+		var dPhi = Math.log( Math.tan( (endLat / 2.0) + pi4 ) / 
+                Math.tan( (startLat / 2.0) + pi4 ) );
+
+		if ( Math.abs( dLon ) > pi ) {
+			if ( dLon > 0.0) {
+				dLon = -( pi2 - dLon );
+			} else {
+				dLon =  ( pi2 + dLon );
+			}
+		}
+
+		var d = Math.atan2( dLon, dPhi ) * r2d;
+		return parseInt((d + 360.0) % 360.0);
+	}
+        
+        
+        
+        function CB_JsonLive() {
+            if ( this.readyState == 4  ) {
+                if (this.status == "200") {
+                    var msg;
+                    var text = this.responseText;
+                    if (use_proxy) {
+                        var data = JSON.parse(text);
+                        if (data.data && data.data.wpt) {
+                            collectData(data);
+                        } else {
+                            msg = "Data received appears invalid";
+                            setStatus(msg);
+                            console.log(msg);
+                            console.log(text);
+                        }
+                        setTimeout("sendRequest2('"+tr_url+"')", live_to);
+                    } else {
+                        try {
+                            var file = JSON.parse(text);
+                            var data = file.query.results.body.p;
+                            data = JSON.parse( data );
+                            if (data.data && data.data.wpt) {
+                                collectData(data);
+                            } else {
+                                msg = "Data received appears invalid";
+                                setStatus(msg);
+                                console.log(msg);
+                                console.log(text);
+                            }
+                        } catch( err ) {
+                            msg = "Got error: "+err.message;
+                            setStatus(msg);
+                            msg += " data: "+text;
+                            console.log(msg);
+                        }
+                        setTimeout("sendRequest2('"+yh_url+"')", live_to);
+                    }
+                }
+            }
+        }
+        
+        function sendRequest2(url) {
+            bgn_req = new Date();
+            sendRequestCB( url, CB_JsonLive );
+        }
+       
+       // Check number between
+       function between(x, min, max) {
+          return x >= min && x <= max;
+       }
+       
+       // Array IE workaround from Mozilla, fastest implementation
+       if (!Array.prototype.indexOf) {
+        Array.prototype.indexOf = function (searchElement /*, fromIndex */ ) {
+       "use strict";
+       if (this == null) {
+          throw new TypeError();
+       }
+       var t = Object(this);
+       var len = t.length >>> 0;
+       if (len === 0) {
+          return -1;
+       }
+       var n = 0;
+       if (arguments.length > 1) {
+          n = Number(arguments[1]);
+          if (n != n) { // shortcut for verifying if it's NaN
+             n = 0;
+          } else if (n != 0 && n != Infinity && n != -Infinity) {
+             n = (n > 0 || -1) * Math.floor(Math.abs(n));
+          }
+       }
+       if (n >= len) {
+          return -1;
+       }
+       var k = n >= 0 ? n : Math.max(len - Math.abs(n), 0);
+       for (; k < len; k++) {
+          if (k in t && t[k] === searchElement) {
+             return k;
+          }
+       }
+       return -1;
+        }
+        }
+        
+        // The good old GUP function by Geoff McLane
+        function gup( name ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return "";
+        else
+            return results[1];
+        }
+        
+    ///////////////////////////////////////////////////////////////////////////
+    function getElapsed(bgn) {
+        var d = Date.now();
+        var ms = d.valueOf() - bgn.valueOf();
+        if (ms > max_req) {
+            max_req = ms;
+        }
+        if (ms < min_req) {
+            min_req = ms;
+        }
+        var elap = ms2hhmmss(ms);
+        return elap;
+    }
+    
+    function ms2hhmmss( ms ) {
+        if (ms < 1000) {
+            return ''+ms+' ms';
+        }
+        var secs = Math.floor( ms / 1000 );
+        ms -= (secs * 1000);
+        if (secs < 60) {
+            var stg = ''+((ms / 1000).toFixed(2));
+            stg = stg.substr(1);    // drop the zero
+            return ''+secs+stg+' secs';
+        }
+        var mins = Math.floor(secs / 60);
+        secs -= (mins * 60);
+        if (ms > 500)
+            secs++;
+        if (secs >= 60) {
+            secs -= 60;
+            mins++;
+        }
+        if (mins < 60) {
+            if (secs < 10)
+                secs = '0'+secs;
+            return ''+mins+':'+secs+' mm:ss';
+        }
+        var hours = Math.floor(mins / 60);
+        mins -= (hours * 60);
+        if (mins < 10)
+            mins = '0'+mins;
+        if (secs < 10)
+            secs = '0'+secs;
+        return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
+    }
+        
+  </script>
+ </head>
+ <body>
+   <div id="info_line">
+    Info:
+   </div>
+  <div id="wrapper">
+
+   <div id="header_flights">
+   </div>
+
+   <div id="content_flights">
+   </div>
+  </div>
+
+  <div id="map">
+  </div>
+
+  <div id="status_flights">
+   Status:
+  </div>
+  <!-- This gives IE compatibility with the OpenLayers map init function -->
+  <script type="text/javascript"
+        defer="defer">
+        if (use_proxy) {
+            sendRequest2(tr_url);   // get the FGTracker livewaypoints
+        } else {
+            sendRequest2(yh_url);   // get the FGTracker livewaypoints
+        }
+        var lat = gup('lat');
+        var lon = gup('lon');
+        var zoom = gup('zoom');
+        var icao = gup('icao');
+        init(lon,lat,zoom,icao);     // init the map, etc
+        // sendRequest(cf_url);    // start up crossfeed fetch
+  </script>
+ </body>
+</html>
