@@ -80,6 +80,7 @@
        var map;
        var add_heading_img = true;
        var def_zoom = 10;   // hard to select the 'right' zoom level
+       var curr_zoom = 5;   // is set after a zoom event
        var def_atc = 12;
        var fromProjection = new OpenLayers.Projection("EPSG:4326"); // geographic - WGS-84 (World Geodetic System)
        var toProjection   = new OpenLayers.Projection("EPSG:3857"); // identical to EPSG:900913? - meters?
@@ -161,12 +162,12 @@
         var planes = new OpenLayers.Layer.Vector("Planes", {styleMap: planeStyle});
         var planesLabel = new OpenLayers.Layer.Vector("Callsign", {styleMap: labelStyle});
 
-        function init(lon,lat,zoom,icao){
+        function init(lon,lat,zoom,icao) {
         
             map = new OpenLayers.Map("map", {
-            projection: new OpenLayers.Projection("EPSG:3857"),
-            // this sets wgs84/4326 as default for display coords
-            displayProjection: new OpenLayers.Projection("EPSG:4326")
+                projection: new OpenLayers.Projection("EPSG:3857"),
+                // this sets wgs84/4326 as default for display coords
+                displayProjection: new OpenLayers.Projection("EPSG:4326")
             });
              
             var osmlayer = new OpenLayers.Layer.OSM();
@@ -184,6 +185,12 @@
             map.addLayer(trackLayer);
 
             if (zoom.length == 0) { zoom = 5; }  // set default ZOOM
+            
+            curr_zoom = zoom;
+            
+            map.events.register('zoomend', undefined, zoomChanged);
+            map.events.register('moveend', undefined, moveEnded);
+            
             var centerpoint;
             var clat = 50.0;
             var clon =  1.0;
@@ -200,8 +207,18 @@
                 var file = 'data2/'+dir+'/'+icao+'.json';
                 sendRequestCB(file,icaoLoad);
             }
-
         }
+        
+    function zoomChanged() {
+        //var msg = setGLobalBounds();
+        curr_zoom = map.getZoom();  // when zoom is 7
+    }
+
+    function moveEnded() {
+        //var msg = setGLobalBounds();
+        curr_zoom = map.getZoom();
+    }
+    
         function icaoLoad() {
             if (this.readyState == 4) {
                 if (this.status == "200") {
@@ -212,7 +229,7 @@
                     var lat = data.lat;
                     var lon = data.lon;
                     var icao = data.icao;
-                    var zoom = 14;
+                    var zoom = curr_zoom;
                     console.log("Got ICAO ["+icao+"] lat "+lat+" lon "+lon);
                     var cp = new OpenLayers.LonLat(lon,lat); // ICAO center point
                     var rep = cp.transform( fromProjection, toProjection );
@@ -744,6 +761,9 @@
                     }
                     if (maxCount > currCount)
                         info_line += " (max. " + maxCount + ")";
+                        
+                    info_line += ' z='+curr_zoom;
+                    
                     $("#info_line").html(info_line);
                     // ========================
                     
@@ -1237,7 +1257,7 @@
                     info_line += " rem " + remCnt;
                 if (delCnt > 0)
                     info_line += " del " + delCnt;
-                
+                info_line += ' z='+curr_zoom;
                 //msg += info_line;
                 //setStatus(msg);
                 $("#info_line").html(info_line);
