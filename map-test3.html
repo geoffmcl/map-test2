@@ -2,7 +2,7 @@
 <html>
  <head>
   <title>
-   FG Tracker API 1
+   FG Tracker API 2
   </title>
   <meta http-equiv="Content-Type"
         content="text/html; charset=utf-8">
@@ -260,6 +260,9 @@
             feature.attributes.spd_kts = spd_kts;
             feature.attributes.model = model;
             feature.attributes.is_atc = is_atc(callsign,model) ? 1 : 0;
+            // 20140907 - also keep the features position
+            feature.attributes.lat = lat;
+            feature.attributes.lon = lon;
             
             planes.addFeatures(feature);
         }
@@ -286,17 +289,31 @@
        }
        
        function removePlaneOnly(fid) {
-          planes.removeFeatures(planes.getFeatureById(fid));
+            var feature = planes.getFeatureById(fid);
+            var pos = {
+                lat: feature.attributes.lat,
+                lon: feature.attributes.lon
+                };
+            planes.removeFeatures(feature);
+            return pos;
        }
        
        // now re-drawing of the features, just move what’s already here
        function updatePlanes(mapfid, callsign, lon, lat, hdg, spd_kts, model) {
        
           //planes.getFeatureById(mapfid).move(new OpenLayers.LonLat(lon,lat));
-          removePlaneOnly(mapfid)
+          var pos = removePlaneOnly(mapfid)
+          var dist = getDistance(pos.lat,pos.lon,lat,lon);
+          if (dist > 0.0) {
+            hdg = getBearing(pos.lat,pos.lon,lat,lon);
+          }
           addPlanes(mapfid, callsign, lon, lat, hdg, spd_kts, model)
           var movepoint = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
           planesLabel.getFeatureById("label"+mapfid).move(movepoint);
+          if (dist > 0.0) {
+            tr_putLine(pos.lat,pos.lon,lat,lon);
+          }
+          return hdg;   // this may have been corrected
        }
        
         // In case we zoom to one plane we center the map
@@ -718,13 +735,14 @@
                             // Update check
                             if ($.inArray(checkfidel, flightshere) > -1) {
                            
-                                // Update table
-                                var checkfid2 = "\[id=\""+checkfid+"\"\]";
-                                $(checkfid2).replaceWith($(this))
-     
                                 // Update the map
                                 // For openlayers we have to change lat/lon order, grmbl
-                                updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model)
+                                hdg = updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model);
+                                
+                                // Update table
+                                var checkfid2 = "\[id=\""+checkfid+"\"\]";
+                                $(checkfid2).replaceWith($(this));
+     
                             } else {
                                 //console.log("Flight to add: "+flightsdata[i].children('.callsign').text())
                                 // TODO: If a column sort is active, sortcolumn.length, then should
@@ -1207,13 +1225,20 @@
                         // Update check
                         if ($.inArray(checkfidel, flightshere) > -1) {
                        
+                            // Update the map
+                            // For openlayers we have to change lat/lon order, grmbl
+                            var nhdg = updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model);
+                            // if got a better heading
+                            if (nhdg != hdg) {
+                                // how to update 'this'
+                                var tmp = $(this).children('.hdg');
+                                tmp.innerText = nhdg;
+                                //$(this).hdg = nhdg;
+                            }
                             // Update table
                             var checkfid2 = "\[id=\""+checkfid+"\"\]";
                             $(checkfid2).replaceWith($(this));
  
-                            // Update the map
-                            // For openlayers we have to change lat/lon order, grmbl
-                            updatePlanes(checkfid, callsign, lon, lat, hdg, spd_kts, model);
                             updCnt++;
                         } else {
                             //console.log("Flight to add: "+flightsdata[i].children('.callsign').text())
