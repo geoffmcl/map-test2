@@ -82,6 +82,7 @@
        var def_zoom = 10;   // hard to select the 'right' zoom level
        var curr_zoom = 5;   // is set after a zoom event
        var def_atc = 12;
+       var curr_lat1, curr_lon1, curr_lat2, curr_lon2;
        var fromProjection = new OpenLayers.Projection("EPSG:4326"); // geographic - WGS-84 (World Geodetic System)
        var toProjection   = new OpenLayers.Projection("EPSG:3857"); // identical to EPSG:900913? - meters?
        var pointLayer, trackLayer;
@@ -207,16 +208,18 @@
                 var file = 'data2/'+dir+'/'+icao+'.json';
                 sendRequestCB(file,icaoLoad);
             }
+            //var msg = 'Init: ';
+            //msg += setGLobalBounds("init");
+            //$("#info_line").html(msg);
+            
         }
         
     function zoomChanged() {
-        //var msg = setGLobalBounds();
-        curr_zoom = map.getZoom();  // when zoom is 7
+        var msg = setGLobalBounds("zoomChanged");
     }
 
     function moveEnded() {
-        //var msg = setGLobalBounds();
-        curr_zoom = map.getZoom();
+        var msg = setGLobalBounds("moveEnded");
     }
     
         function icaoLoad() {
@@ -567,9 +570,7 @@
             $("<table cellspacing='0' cellpadding='0' id='flights' />")
              .appendTo("#content_flights");
             $('#flights').hide().show(300);
-            // $(info_line).appendTo("#info_line");
             $("#info_line").html(info_line);
-
        });
        
        // ----------------------------------------------------------------------------------------------
@@ -1600,6 +1601,63 @@
             secs = '0'+secs;
         return ''+hours+':'+mins+':'+secs+' hh:mm:ss';
     }
+    
+    /**
+      * function setGLobalBounds()
+      * Get current 'extent' of the map
+      */
+    function setGLobalBounds(caller) {
+        curr_zoom = map.getZoom();
+        var ext = map.getExtent();
+        //var stg = ext.toBBOX();
+        var mlat,mlon,width,height,uwid,uht;
+        var left = ext.left;
+        var top  = ext.top;
+        var right = ext.right;
+        var bott = ext.bottom;
+        uwid = right - left;
+        uht  = top - bott;
+        var tl = new OpenLayers.LonLat(left,top).transform( toProjection, fromProjection );
+        var br = new OpenLayers.LonLat(right,bott).transform( toProjection, fromProjection );
+        var lat1 = tl.lat;
+        var lon1 = tl.lon;
+        var lat2 = br.lat;
+        var lon2 = br.lon;
+        // expand this to a minimum of 0.1 degrees span - WHY? not sure!
+        var av;
+        if ((lat1 - lat2) < 0.1) {
+            av = (lat1 + lat2) / 2;
+            lat1 = av + 0.05;
+            lat2 = av - 0.05;
+        }
+        if ((lon2 - lon1) < 0.1) {
+            av = ( lon1 + lon2 ) / 2;
+            lon1 = av - 0.05;
+            lon2 = av + 0.05;
+        }
+        
+        // set GLOBAL screen bounds - as EPSG:4326, WGS-84 (World Geodetic System)
+        curr_lat1 = lat1;
+        curr_lon1 = lon1;
+        curr_lat2 = lat2;
+        curr_lon2 = lon2;
+        mlat = (lat1 + lat2) / 2;
+        mlon = (lon1 + lon2) / 2;
+        // get current width and height in map unitz
+        width = getDistance( mlat, lon1, mlat, lon2 );  // constant lat, get width
+        height = getDistance( lat1, mlon, lat2, mlon ); // constant lon, get height
+        // var line = new OpenLayers.Geometry.LineString(points_array);
+        // var len = line.getLength(); // this can be the radius (well diameter) of a BIG cirlce
+        // this remains CONSTANT, but how to convert it the say pixels at current zoom
+        var msg = caller+" Bnds: TL="+lat1.toFixed(2)+","+lon1.toFixed(2)+
+            " BR="+lat2.toFixed(2)+","+lon2.toFixed(2)+
+            " w="+width.toFixed(1)+" h="+height.toFixed(1)+" km"+
+            " u "+uwid.toFixed(2)+","+uht.toFixed(2);
+        msg += " z="+curr_zoom;
+        console.log(msg);
+        return msg;
+    }
+
         
   </script>
  </head>
