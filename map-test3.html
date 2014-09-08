@@ -1724,6 +1724,16 @@
   <!-- This gives IE compatibility with the OpenLayers map init function -->
   <script type="text/javascript"
         defer="defer">
+        var fetch = gup('f');
+        if (fetch.length) {
+            if (fetch == 'p') {
+                use_proxy = true;
+                console.log("Set to use proxy php/curl");
+            } else if (fetch == 'y') {
+                use_proxy = false;
+                console.log("Set to use Yahoo! API");
+            }
+        }
         if (use_proxy) {
             sendRequest2(tr_url);   // get the FGTracker livewaypoints
         } else {
