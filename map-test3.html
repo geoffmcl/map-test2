@@ -64,7 +64,8 @@
         var bgn_req;
         var min_req = 9999;
         var max_req = 0;
-        
+        var max_txt = 100;  // limit text to console
+       
 	var pi = Math.PI;
     var pi05 = pi * 0.5;
     var pi2 = pi + pi;
@@ -1488,6 +1489,7 @@
             if ( this.readyState == 4  ) {
                 if (this.status == "200") {
                     var msg;
+                    var lto = live_to;
                     var text = this.responseText;
                     if (use_proxy) {
                         var data = JSON.parse(text);
@@ -1497,9 +1499,13 @@
                             msg = "Data received appears invalid";
                             setStatus(msg);
                             console.log(msg);
+                            if (text.length > max_txt) {
+                                text = text.substr(0,max_txt);
+                            }
                             console.log(text);
+                            lto = 55;
                         }
-                        setTimeout("sendRequest2('"+tr_url+"')", live_to);
+                        setTimeout("sendRequest2('"+tr_url+"')", lto);
                     } else {
                         try {
                             var file = JSON.parse(text);
@@ -1511,15 +1517,24 @@
                                 msg = "Data received appears invalid";
                                 setStatus(msg);
                                 console.log(msg);
+                                if (text.length > max_txt) {
+                                    text = text.substr(0,max_txt);
+                                }
                                 console.log(text);
+                                lto == 55;
                             }
                         } catch( err ) {
                             msg = "Got error: "+err.message;
                             setStatus(msg);
-                            msg += " data: "+text;
                             console.log(msg);
+                            if (text.length > max_txt) {
+                                text = text.substr(0,max_txt);
+                            }
+                            msg = " data: "+text;
+                            console.log(msg);
+                            lto = 55;
                         }
-                        setTimeout("sendRequest2('"+yh_url+"')", live_to);
+                        setTimeout("sendRequest2('"+yh_url+"')", lto);
                     }
                 }
             }
