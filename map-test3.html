@@ -1383,13 +1383,12 @@
             var wpta = dato.wpt;
             var max = wpta.length;
             var i,obj,fid,model,cs,stat,closed,flt,wpcnt,pair,index,ocnt;
-            var lat,lon,alt,doneb;
+            var lat,lon,alt;
             fids = [];  // clear previous list
             callsigns = []; // and callsigns
             tr_flights = [];
             closed = 0;
             wpcnt = 0;
-            doneb = false;
             for (i = 0; i < max; i++) {
                 obj = wpta[i];
                 fid  = obj.flight_id;
@@ -1406,14 +1405,9 @@
                     flt = new tr_flight(cs,fid,model,lat,lon,alt);
                     flt.waypoints.push(obj);
                     flights.push(flt);
-                    doneb = false;
                     index = callsigns.indexOf( pair );
                 } else {
                     flt = flights[index];
-                    if (!doneb) {
-                        doneb = true;
-                        flt.hdg = getBearing(lat,lon,obj.lat,obj.lon);
-                    }
                     if ((flt.alt < 0) && (alt > 0)) {
                         flt.alt = alt;  // use a positive altitude
                     }
@@ -1430,16 +1424,23 @@
             }
             wpcnt = 0;
             ocnt = 0;
+            var wpts;
             for (i = 0; i < flights.length; i++) {
                 flt = flights[i];
                 if (flt.status != 'OPEN') {
                     continue;
                 }
-                tr_flights.push(flt);
                 cs = flt.callsign;
                 wpta = flt.waypoints;
-                wpcnt += wpta.length;
+                wpts = wpta.length;
+                wpcnt += wpts;
                 ocnt++;
+                if (wpts > 1) {
+                    // this ASSUMES the waypoint array is in time order, but a test
+                    // using time_raw seemed to show this was true.
+                    flt.hdg = getBearing( wpta[1].lat, wpta[1].lon, wpta[0].lat, wpta[0].lon );
+                }
+                tr_flights.push(flt);
             }
             i = callsigns.length;
             var dt = new Date();
