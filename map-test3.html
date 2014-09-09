@@ -2,7 +2,7 @@
 <html>
  <head>
   <title>
-   FG Tracker API 2
+   FG Tracker Planes (v3)
   </title>
   <meta http-equiv="Content-Type"
         content="text/html; charset=utf-8">
@@ -12,7 +12,9 @@
         content="yes">
   <script type="text/javascript"
         src="js/jquery-2.0.3.js">
-</script><!--
+</script><!-- Brief history of updates
+    20140909: v3: Also delete history track when plane and label deleted
+    20140907/8: v2: Add history track, fix zoom when icao given and other fixes 
     20140904: With crossfeed down, get data from mpserver15 fg tracker API
 -->
   <link rel="stylesheet"
@@ -288,6 +290,13 @@
           planes.removeFeatures(planes.getFeatureById(fid));
           planesLabel.removeFeatures(planesLabel.getFeatureById("label"+fid));
        }
+       function removeTracks(fid) {
+            var feat = trackLayer.getFeatureById(fid);
+            while (feat) {
+                trackLayer.removeFeatures(feat);
+                feat = trackLayer.getFeatureById(fid);
+            }
+       }
        
        function removePlaneOnly(fid) {
             var feature = planes.getFeatureById(fid);
@@ -312,7 +321,7 @@
           var movepoint = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
           planesLabel.getFeatureById("label"+mapfid).move(movepoint);
           if (dist > 0.0) {
-            tr_putLine(pos.lat,pos.lon,lat,lon);
+            tr_putLine(mapfid,pos.lat,pos.lon,lat,lon);
           }
           return hdg;   // this may have been corrected
        }
@@ -636,9 +645,11 @@
                 });
             });
           
-            // Remove features from the map
+            // Remove plane features from the map
+            // 20140909 - Added remove any track drawn
             $.each(removal, function(i, val) {
-                removePlanes(val)
+                removePlanes(val);
+                removeTracks(val);
             });
             return delCnt;
        }
@@ -956,23 +967,25 @@
         var pos = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
         tr_putDotatPos(pos);
     }
-    function tr_paintLine( lat1, lon1, lat2, lon2, style ) {
+    function tr_paintLine( mapfid, lat1, lon1, lat2, lon2, style ) {
         var points = new Array(
             new OpenLayers.Geometry.Point(lon1,lat1).transform( fromProjection, toProjection ),
             new OpenLayers.Geometry.Point(lon2,lat2).transform( fromProjection, toProjection )
         );
         var line = new OpenLayers.Geometry.LineString(points);
         var lineFeature = new OpenLayers.Feature.Vector(line, null, style);
+        lineFeature.id = mapfid; // give the line a id=fid to be able to find and delete it
+        // TODO: Is there a problem giving the 'same' id to many lines??? I hope not...
         trackLayer.addFeatures([lineFeature]);
     }
-    function tr_putLine( lat1, lon1, lat2, lon2 ) {
+    function tr_putLine( mapfid, lat1, lon1, lat2, lon2 ) {
         var red_style = { 
             strokeColor: '#008000', 
             strokeOpacity: 0.5,
             strokeWidth: 2,
             fill: false
         };
-        tr_paintLine( lat1, lon1, lat2, lon2, red_style );
+        tr_paintLine( mapfid, lat1, lon1, lat2, lon2, red_style );
     }
     
     /* ==================================================================
@@ -1027,7 +1040,7 @@
                     cumm_dist += dist;
                     tr_putDotatPos(pos);    // paint DOT
                     if (dist > min_dist2) {
-                        tr_putLine(llat,llon,lat,lon);
+                        tr_putLine(fid,llat,llon,lat,lon);
                     }
                     llat = lat;
                     llon = lon;
@@ -1746,5 +1759,6 @@
         init(lon,lat,zoom,icao);     // init the map, etc
         // sendRequest(cf_url);    // start up crossfeed fetch
   </script>
+  
  </body>
 </html>
