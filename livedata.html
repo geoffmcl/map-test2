@@ -19,7 +19,7 @@
         type="text/javascript">
 </script>
   <link rel="stylesheet"
-        href="css/home.css"
+        href="css/livedata.css"
         type="text/css">
   <style>
 #wrapper{
@@ -57,7 +57,7 @@
    padding-right: 5px;
    overflow-y: scroll; 
    overflow-x: hidden;
-   height: 600px;
+   height: 550px;
    width: 94%;
   }
 
@@ -687,11 +687,17 @@ var use_proxy = true;
             console.log("Set to use Yahoo! API");
         }
     }
+    info_line = 'Fetching livedata... ';
     if (use_proxy) {
+        info_line += 'Using '+tr_url;
         sendRequest2(tr_url);   // get the FGTracker livewaypoints
     } else {
+        info_line += 'Using Yahoo!';
         sendRequest2(yh_url);   // get the FGTracker livewaypoints
     }
+    info_line += ' Normally takes 1/2 secs...';
+    $("#status_line").html(info_line);
+    
     var lat = gup('lat');
     var lon = gup('lon');
     var zoom = gup('zoom');

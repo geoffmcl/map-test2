@@ -1,0 +1,127 @@
+/* home.css for GeoffAir/root - 2010.03.15 - 2007.06.05 
+   20131114 added to map-test/css */
+
+body { 
+background-image : url('../images/clds3.jpg');
+margin : 0 1cm 0 1cm;
+text-align : justify;
+} 
+
+h1 { 
+background : #efefef;
+text-align : center;
+} 
+
+h2 { 
+font-size : 16pt;
+font-weight : bold;
+background-color : #ccccff;
+} 
+
+.sz4redb { 
+font-size : 18pt;
+color : #ff0000;
+font-family : Arial;
+font-weight : bold;
+} 
+
+.redb { 
+color : #ff0000;
+font-family : Arial;
+font-weight : bold;
+} 
+
+.cd { 
+background : #f0f8ff;
+font-style : italic;
+font-weight : bold;
+color : #202080;
+} 
+
+.ctr { 
+text-align : center;
+} 
+
+.cn { 
+font-family : "Courier New";
+} 
+
+.bld { 
+font-weight : bold;
+} 
+
+.bldcn { 
+font-family : "Courier New";
+font-weight : bold;
+} 
+
+.just { 
+text-align : justify;
+} 
+
+.nob { 
+margin : 0 0 0 0;
+border-style : none;
+padding : 0 0 0 0;
+} 
+
+.nmt { margin-top : 0; border-style : none; padding : 0; }
+.nmb { margin-bottom : 0; border-style : none; padding : 0; }
+
+a:link { 
+color : #0000ff;
+} 
+
+a:visited { 
+color : #ff00ff;
+} 
+
+a:hover { 
+color : #ff0000;
+} 
+
+a:active { 
+color : #008000;
+} 
+
+hr.mini { 
+margin : 0;
+border-style : none;
+padding : 0;
+width : 20%;
+text-align : center;
+} 
+
+p.top { 
+margin : 0;
+border-style : none;
+padding : 0;
+text-align : center;
+}
+
+.smlfnt {
+  font-size : small;
+}
+
+.xsmlfnt {
+  font-size : x-small;
+}
+
+.nombtd {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+.x4bold {
+ font-size : 120%;
+ font-weight : bold;
+ }
+
+.yellbg { 
+background-color : #ffffaa; 
+} 
+ 
+ 
+/* eof */
