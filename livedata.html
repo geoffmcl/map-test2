@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
   <title>
-   livedata - FG Tracker API
+   livedata - FG Tracker API = v2
   </title>
   <meta charset="utf-8">
   <meta name="viewport"
@@ -277,7 +277,7 @@ var use_proxy = true;
         var updCnt = 0;
         var remCnt = 0;
         var delCnt = 0;
-        var alt;
+        var alt,hfid;
         removal = [];
         var i, max = open_flights.length;
         for (i = 0; i < max; i++) {
@@ -287,8 +287,15 @@ var use_proxy = true;
             } else {
                 alt = 'FL' + parseInt(flt.alt / 100);
             }
+            hfid = '<a href="tracker2.html?fid='+flt.fid;
+            if (use_proxy) {
+                hfid += '&f=p';
+            } else {
+                hfid += '&f=y';
+            }
+            hfid += '" target="_blank">'+flt.fid+'</a>';
             var flightrow = "<tr class='flightrow' id='"+flt.fid+"'>"+
-                "<td class='fid'><p>"+flt.fid+
+                "<td class='fid'><p>"+hfid+
                 "<td class='time' style='display: none'><p>"+flt.secs+
                 "<td class='callsign'><p>"+flt.callsign+
                 "<td class='lon'><p>"+flt.lon+
@@ -654,7 +661,7 @@ var use_proxy = true;
  </head>
  <body>
   <h1>
-   livedata - FG Tracker API
+   livedata - FG Tracker API - v2
   </h1>
 
   <div id="wrapper">
@@ -691,5 +698,6 @@ var use_proxy = true;
     var icao = gup('icao');
     init(lon,lat,zoom,icao);  // init - but no map here...
   </script>
+  <!-- 20140910 - Add a link to tracker2.html to follow a flight on the map -->
  </body>
 </html>
