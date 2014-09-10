@@ -356,6 +356,10 @@ html, body, #basicMap {
         plane.icon.imageDiv.style.webkitTransform = "rotate(" + hdg + "deg)";
         markerLayer.addMarker(plane);
 
+        // TODO: Start adding airports, runways, ILS, navaids
+        //setGlobalBounds();  // establish BOUND of current map
+        //getAirports();  // start load airports, helipads, navaids, then ICAO.json, THEN get mamserver15 tracker
+
     } // end init()
 
     // blue track style
@@ -2228,9 +2232,6 @@ html, body, #basicMap {
         got_fid = true;
         m_fid = fid;
         getFIDData();
-        //init(fid,callsign,model,lon,lat,alt,hdg,spd,zoom);
-        //setGlobalBounds();  // establish BOUND of current map
-        //getAirports();  // start load airports, helipads, navaids, then ICAO.json, THEN get mamserver15 tracker
     } else {
         fid = '<span class="sz4redb"><strong>ERROR: No flight id like, fid=5781776 found in the parameters! Nothing to do!</strong></span>';
         $("#status_flights").html(fid);
@@ -2240,5 +2241,6 @@ html, body, #basicMap {
             'text-align':'center'});
     }
   </script>
+  <!-- 20140910 - Initial page, replacing crossfeed fetching with fg tracker mp#15 API -->
  </body>
 </html>
