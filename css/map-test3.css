@@ -73,7 +73,7 @@ html, body {
    position: absolute;
    color: #ffffff;
    background: #999999 ;/*url('../images/background_trans.png');*/
-   width: 393px;
+   width: 415px;
    bottom: 0px;
    line-height: 0px;
 }
@@ -95,7 +95,7 @@ html, body {
    overflow-y: scroll; 
    overflow-x: hidden;
    height: 300px;
-   width: 371px;
+   width: 400px;
 }
       
 #flights {

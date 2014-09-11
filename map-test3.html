@@ -50,11 +50,10 @@
         // disable ajax caching
          $.ajaxSetup({cache: false});
 
-    var add_tracker_html = false;   // need to fix 'tracker' to match API
+    var add_tracker_html = true;   // use new 'tracker2.html' matching FG Tracker API
     
        //var cf_url = 'http://crossfeed.fgx.ch/flights.json';
         //var cf_to = 1800;   // about each 2 seconds
-        var fids = [];
         var callsigns = [];
         //var live_to = 60000;  // refresh each 60 seconds
         var live_to = 10000;  // refresh each 10 seconds
@@ -73,7 +72,10 @@
     var pi2 = pi + pi;
 	var d2r = pi / 180;
     var r2d = 180 / pi;  // degrees / radians
-        // ----------------------------------------------------------------------------------------------
+    
+    var mps2knots = 1.94384617;
+    
+       // ----------------------------------------------------------------------------------------------
         // Openlayers
         // ----------------------------------------------------------------------------------------------
         // ----------------------------------------------------------------------------------------------
@@ -374,7 +376,7 @@
        var datamap = [];
        var removal = [];
        var selected = [];   // mouse selected flights
-       var tr_flights = [];
+       var open_flights = [];
        var flightFrame = [];
        
         // ----------------------------------------------------------------------------------------------
@@ -587,7 +589,7 @@
                     "<\/td><td class='cs2'><p onclick='sortcs();'>Callsign<\/p><\/td><td class='lon' style='display: none'><p>Longitude<\/p><\/td>"+
                     "<td class='lat' style='display: none'><p>Latitude<\/p><\/td><td class='hdg'><p onclick='sorthdg();'>Heading<\/p><\/td>"+
                     "<td class='alt_ft'><p onclick='sortalt();'>Altitude<\/p><\/td>"+
-                    "<td class='spd_kts' style='display: none'><p>Speed<\/p><\/td>"+
+                    "<td class='spd_kts'><p>Speed<\/p><\/td>"+
                     "<td class='model2'><p onclick='sortmodel();'>Model<\/p><\/td>"+
                     "<td><p id='toggle' onclick='collapse();'>H<\/p><\/td><\/tr>";
         var info_line = 'Active mp flights';
@@ -697,7 +699,7 @@
                             "<td class='hdg'><p>"+this.hdg+
                             "<td class='alt_ft'><p>"+this.alt_ft+
                             "<td class='spd_kts'><p>"+this.spd_kts+
-                            "<td class='model'><p>"+model+"<\/tr>"
+                            "<td class='model2'><p>"+model+"<\/tr>"
                       
                       flightsdata.push($(flightrow))
                       datafids.push(JSON.stringify(this.fid))
@@ -1145,19 +1147,22 @@
         }
     }
         
-        
-        function tr_flight(cs,fid,model,lat,lon,alt) {
-            this.callsign = cs;
-            this.fid = fid;
-            this.model = model;
-            this.lat = lat;
-            this.lon = lon;
-            this.alt = parseInt(alt);
-            this.hdg = 0;
-            this.spd_kts = 0;
-            this.waypoints = [];
-            this.status = 'OPEN';
-        }
+    function tr_flight(cs,fid,model,lat,lon,alt,time) {
+        this.callsign = cs;
+        this.fid = fid;
+        this.model = model;
+        this.lat = lat;
+        this.lon = lon;
+        this.alt = parseInt(alt);
+        this.hdg = 0;
+        this.spd_kts = 0;
+        this.waypoints = [];
+        this.time_raw = time;
+        this.time_last = time;
+        this.status = 'OPEN';
+        this.dist = 0;
+        this.secs = 0;
+    }
 
         //////////////////////////////////////////////////////////////////////////////////////
         // DISPLAY OF DATA
@@ -1168,7 +1173,8 @@
             //$('.fid').hide()
             //$('.latitude').hide()
             //$('.longitude').hide()
-            var flt;
+            var flt, callsign, model, an_ATC;
+            var lat,lon,hdg,spd_kts,alt;
             var flightsdata = [];
             var datafids = [];
             var flightshere = [];
@@ -1177,9 +1183,17 @@
             var remCnt = 0;
             var delCnt = 0;
             removal = [];
-            var i, max = tr_flights.length;
+            var i, max = open_flights.length;
             for (i = 0; i < max; i++) {
-                flt = tr_flights[i];
+                flt = open_flights[i];
+                model = flt.model;
+                //if (model.length > 10) {
+                //    model = model.substr(0,10);
+                //}
+                alt = flt.alt;
+                if (alt > 5000) {
+                    alt = 'FL' + parseInt(alt / 100);
+                }
                     // "<td class='spd_kts'><p>"+flt.spd_kts+
                 var flightrow = "<tr class='flightrow' id='"+flt.fid+"'>"+
                     "<td class='fid' style='display: none'><p>"+flt.fid+
@@ -1187,9 +1201,9 @@
                     "<td class='lon' style='display: none'><p>"+flt.lon+
                     "<td class='lat' style='display: none'><p>"+flt.lat+
                     "<td class='hdg'><p>"+flt.hdg+
-                    "<td class='alt_ft'><p>"+flt.alt+
-                    "<td class='spd_kts' style='display: none'><p>"+flt.spd_kts+
-                    "<td class='model'><p>"+flt.model+"<\/tr>"
+                    "<td class='alt_ft'><p>"+alt+
+                    "<td class='spd_kts'><p>"+parseInt(flt.spd_kts)+
+                    "<td class='model'><p>"+model+"<\/tr>"
                       
                 flightsdata.push($(flightrow))
                 //datafids.push(JSON.stringify(flt.fid))
@@ -1202,39 +1216,48 @@
                 $('.flightrow').each( function() {
                     flightshere.push($(this).children('.fid').text())
                 });
+                atcCount = 0;   // start ATC (guess) counter
                 if (tr_first > 0) {
-                    tr_first = 0;
+                    tr_first = 0; // reset first, and add all
                     $.each(flightsdata, function () {
+                        callsign = $(this).children('.callsign').text();
+                        model = $(this).children('.model').text();
+                        an_ATC = is_atc(callsign,model);
+                        if (an_ATC) {
+                            $(this).addClass('back_yellowFF0');
+                            atcCount++;
+                        }
                         addFlight($(this));
                         newCnt++;
                     });
                 } else {
                     // not first
                     // ADD OR UPDATE: Not first load, so append only what's not already here
-                    atcCount = 0;   // start ATC (guess) counter
                     $.each(flightsdata, function(i) {
                         var checkfidel = $(this).children('.fid').text()
                         
                         if ($.inArray(checkfidel, selected) >= 0) {
-                            $(this).addClass('back_greenB7F')
+                            $(this).addClass('back_greenB7F');
                         }else{
-                            $(this).removeClass('back_greenB7F')
+                            $(this).removeClass('back_greenB7F');
                          }
                         
                         // Update vars
                         var checkfid = $(this).children('.fid').text();
-                        var callsign = $(this).children('.callsign').text();
-                        var lat = $(this).children('.lat').text();
-                        var lon = $(this).children('.lon').text();
-                        var hdg = $(this).children('.hdg').text();
-                        var spd_kts = $(this).children('.spd_kts').text();
-                        var model = $(this).children('.model').text();
-                        var an_ATC = is_atc(callsign,model);
+                        callsign = $(this).children('.callsign').text();
+                        lat = $(this).children('.lat').text();
+                        lon = $(this).children('.lon').text();
+                        hdg = $(this).children('.hdg').text();
+                        spd_kts = $(this).children('.spd_kts').text();
+                        model = $(this).children('.model').text();
+                        an_ATC = is_atc(callsign,model);
                         if (an_ATC) {
                             $(this).addClass('back_yellowFF0');
                             atcCount++;
                         } else if (spd_kts < 10) {
                             $(this).addClass('gray666');
+                        } else {
+                            $(this).removeClass('gray666');
                         }
                         // Update check
                         if ($.inArray(checkfidel, flightshere) > -1) {
@@ -1299,7 +1322,6 @@
                     info_line += " del " + delCnt;
                 info_line += ' z='+curr_zoom;
                 //msg += info_line;
-                //setStatus(msg);
                 $("#info_line").html(info_line);
                 // ========================
                 
@@ -1337,23 +1359,18 @@
                 // Select a flight in the list
                 $('.flightrow').click(
                     function() {
-                        var check = $(this).children('.fid').text();
-                        if ($.inArray(check, selected) < 0) {
+                        var fid = $(this).children('.fid').text();
+                        if ($.inArray(fid, selected) < 0) {
                             $(this).addClass('back_greenB7F');
-                            selected.push(check);
+                            selected.push(fid);
                             zoomToBoundsSelected(selected);
                             if (add_tracker_html) {
-                                var fid = $(this).children('.fid').text();
-                                var callsign = $(this).children('.callsign').text();
-                                var model = $(this).children('.model').text();
-                                var lon = $(this).children('.lon').text();
-                                var lat = $(this).children('.lat').text();
-                                var alt = $(this).children('.alt_ft').text();
-                                var hdg = $(this).children('.hdg').text();
-                                //var url = "show-one.html?fid="+fid+"&callsign="+callsign+"&model="+model+
-                                //    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
-                                var url2 = "tracker.html?fid="+fid+"&callsign="+callsign+"&model="+model+
-                                    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                                var url2 = "tracker2.html?fid="+fid;
+                                if (use_proxy) {
+                                    url2 += '&f=p';
+                                } else {
+                                    url2 += '&f=y';
+                                }
                                 //var spec = 'width=1024,height=768'; // should it be a fixed size, or
                                 var spec = 'fullscreen=yes';
                                 // other specs ???? - should be a FULL normal window
@@ -1365,17 +1382,9 @@
                                 spec += ',titlebar=yes';  // Whether or not to display the title bar. Ignored unless the calling application is an HTML Application or a trusted dialog box 
                                 spec += ',toolbar=yes';   // Whether or not to display the browser toolbar 
                                 var msg = "Click: ";
-                                if (is_atc(callsign,model)) {
-                                    // tracking of ATC, since they do NOT move!!!
-                                    // TODO: in tracker.html want to ADD nearby moving aircraft
-                                    url2 += '&zoom='+def_atc;
-                                    msg += 'ATC: ';
-                                } else {
-                                    //window.open(url,model,spec);
-                                    url2 += '&zoom='+def_zoom;
-                                }
                                 msg += "url: "+url2;
                                 console.log(msg);
+                                var model = $(this).children('.model').text();
                                 window.open(url2,model,spec);
                             }
                         } else {
@@ -1389,18 +1398,27 @@
                 
             }); // document ready
         }
+        
+    function search_fid(fid, array) {
+        var i, len = array.length;
+        for ( i = 0; i < len; i++) {
+            if (array[i].fid === fid) {
+                return i;
+            }
+        }
+        return -1;
+    }    
+        
        // Data from FG Tracker - each 60 seconds
         // var data_keys = ['flight_id','callsign','model','lat','lon','alt'];
         function collectData(data) {
-            var flights = [];
             var dato = data.data;
             var wpta = dato.wpt;
             var max = wpta.length;
             var i,obj,fid,model,cs,stat,closed,flt,wpcnt,pair,index,ocnt;
-            var lat,lon,alt;
-            fids = [];  // clear previous list
+            var lat,lon,alt,time,ind;
             callsigns = []; // and callsigns
-            tr_flights = [];
+            var flights = [];
             closed = 0;
             wpcnt = 0;
             for (i = 0; i < max; i++) {
@@ -1415,9 +1433,30 @@
                     model = obj.model;
                     lat   = obj.lat;
                     lon   = obj.lon;
+                    time  = obj.time_raw;
                     callsigns.push(pair);
-                    flt = new tr_flight(cs,fid,model,lat,lon,alt);
+                    ind   = search_fid(fid, open_flights);
+                    if (ind >= 0) {
+                        last = open_flights[ind].time_last;
+                    }
+                    flt = new tr_flight(cs,fid,model,lat,lon,alt,time);
                     flt.waypoints.push(obj);
+                    if (ind >= 0) {
+                        // accumulate distance from last position to new position
+                        dist = getDistance( open_flights[ind].lat, open_flights[ind].lon, lat, lon );
+                        flt.dist += dist;
+                        flt.time_raw = open_flights[ind].time_raw;  // return time to original start time
+                        flt.secs = time - flt.time_raw; // current minus first time
+                        flt.time_last = time;
+                        if ((dist > 0.001) && (time > last)) {
+                            flt.spd_kts = ((dist * 1000) / (time - last)) * mps2knots;    // meters per second to knots
+                            if ((flt.spd_kts > 10000)||(flt.spd_kts < 0)) {
+                                flt.spd_kts = 0;
+                            }
+                        } else {
+                            flt.spd_kts = 0;
+                        }
+                    }                    
                     flights.push(flt);
                     index = callsigns.indexOf( pair );
                 } else {
@@ -1439,6 +1478,7 @@
             wpcnt = 0;
             ocnt = 0;
             var wpts;
+            open_flights = [];
             for (i = 0; i < flights.length; i++) {
                 flt = flights[i];
                 if (flt.status != 'OPEN') {
@@ -1450,11 +1490,24 @@
                 wpcnt += wpts;
                 ocnt++;
                 if (wpts > 1) {
+                    var lat2,lon2,dist,time;
                     // this ASSUMES the waypoint array is in time order, but a test
                     // using time_raw seemed to show this was true.
-                    flt.hdg = getBearing( wpta[1].lat, wpta[1].lon, wpta[0].lat, wpta[0].lon );
+                    lat = wpta[0].lat;
+                    lon = wpta[0].lon;
+                    lat2 = wpta[1].lat;
+                    lon2 = wpta[1].lon;
+                    flt.hdg = getBearing( lat2, lon2, lat, lon );
+                    dist = getDistance( lat2, lon2, lat, lon );
+                    time = wpta[0].time_raw - wpta[1].time_raw;
+                    if ((time > 0) && (dist > 0.001)) {
+                        flt.spd_kts = ((dist * 1000) / time) * mps2knots;    // meters per second to knots
+                        if ((flt.spd_kts > 10000)||(flt.spd_kts < 0)) {
+                            flt.spd_kts = 0;
+                        }
+                    }
                 }
-                tr_flights.push(flt);
+                open_flights.push(flt);
             }
             i = callsigns.length;
             var dt = new Date();
@@ -1469,7 +1522,7 @@
             tr_addFlights(msg);
         }
         function setStatus(msg) {
-            $("#status_flights").html('<p><b>'+msg+'<\/b><\/p>');
+            $("#status_flights").html(msg);
         }
         
 	function getBearing( Lat1, Lon1, Lat2, Lon2 ) {
@@ -1747,6 +1800,14 @@
                 console.log("Set to use Yahoo! API");
             }
         }
+        fetch = 'Getting livedata ';
+        if (use_proxy) {
+            fetch += 'using proxy php';   // get the FGTracker livewaypoints
+        } else {
+            fetch += 'using Yahoo1';   // get the FGTracker livewaypoints
+        }
+        fetch += '... usually takes 1-2 seconds...';
+        setStatus(fetch);
         if (use_proxy) {
             sendRequest2(tr_url);   // get the FGTracker livewaypoints
         } else {

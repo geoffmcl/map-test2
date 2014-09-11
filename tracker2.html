@@ -25,6 +25,7 @@ html, body, #basicMap {
     z-index: 1000;
     vertical-align: middle;
     border: 1px solid #000000;
+    background: url('images/background_trans.png');
   }
   .p.nob {
     border: 0;
@@ -77,6 +78,8 @@ html, body, #basicMap {
     var json_url = 'http://crossfeed.fgx.ch/flights.json';
     var close_nm = 100; // paint close planes within this range (nm)
     var done_init = false;
+    var live_count = 0;
+    var live_max = 3;
     
     // program variables
     var def_lat = 52.32;
@@ -1808,6 +1811,7 @@ html, body, #basicMap {
         var data, wpta, wptcnt, alt;
         var msg, wpta, wptcnt, emsg;
         emsg = '';
+        wptcnt = 0;
         if (use_proxy) {
             data = JSON.parse(text);
         } else {
@@ -1832,23 +1836,23 @@ html, body, #basicMap {
             }
         }
         if (failed) {
-            msg = '<span class="sz4redb">ERROR: Fetch of fid='+m_fid+' FAILED. '+emsg+' Got data shown above...</span>';
+            msg = '<span class="sz4redb">ERROR: Fetch of fid='+m_fid+' FAILED. '+emsg+'</span>';
             $("#status_flights").html(msg);
-            $("#basicMap").html(text);
             got_fid = false;
+            setTimeout(getFIDData, tracker_to); // try getting the data again
             return;
         }
         
         // got waypoints for this flight, time for the map...
         var elap = getElapsed(bgn_req);
-        msg = 'Fetched '+len+' bytes in '+elap;
-        if (use_proxy) {
-            msg += ', using '+tr_url_fid;
-        } else {
-            msg += ', using Yahoo!';
-        }
+        msg = 'Got '+len+' bytes in '+elap;
+        //if (use_proxy) {
+        //    msg += ', using '+tr_url_fid;
+        //} else {
+        //    msg += ', using Yahoo!';
+        //}
         var i;
-        msg += " total " + wptcnt + " waypoints";
+        msg += " total " + wptcnt + " wpts";
         var dato = data.data;
             // data":{"flightid":5781776,"callsign":"Alpha","model":"BAC-TSR2-model",
             // "start_time":"2014-09-09 17:48:00+08","start_time_raw":1410256080,
@@ -1860,8 +1864,6 @@ html, body, #basicMap {
         var callsign = dato.callsign;
         var model = dato.model;
         msg += ', flightid '+dato.flightid+', callsign '+callsign+', model '+model;
-        console.log(msg);
-        $("#status_flights").html(msg);
         var lat, lon, alt, hdg, spd, wpt, zoom, tim;
         var lat2,lon2,wpt2,etim;
         // ARG: I suspect the tracks are only APPENDED, unlike live data
@@ -1880,12 +1882,14 @@ html, body, #basicMap {
             lat2 = wpt2.lat;
             lon2 = wpt2.lon;
             var dist = getDistance( lat, lon, lat2, lon2 );
-            hdg = getBearing( lat2, lon2, lat, lon );
-            if ((etim > 0) && (dist > 0.001)) {
-                spd = (((dist * 1000) / etim) * mps2knots);    // meters per second to knots
+            if ((dist > 0.001) && (dist < 10)) {
+                hdg = getBearing( lat2, lon2, lat, lon );
+                if ((etim > 0) && (dist > 0.001)) {
+                    spd = (((dist * 1000) / etim) * mps2knots);    // meters per second to knots
+                }
             }
         }
-        
+        msg += ', spd '+parseInt(spd)+', hdg '+parseInt(hdg);
         if (!done_init) {
             console.log("Init: fid="+m_fid+", cs="+callsign+", model="+model+", lon="+lon+", lat="+
                 lat+", alt="+alt+", hdg="+hdg+", spd="+parseInt(spd));
@@ -1927,15 +1931,20 @@ html, body, #basicMap {
             // livedata returned first, and fid has been found in OPEN flights
             // need to do continuous fetches for this FID and update the position
             setTimeout(getFIDData, tracker_to);
+            console.log(msg);
+            $("#status_flights").html(msg);
         } else {
+            console.log(msg);
             msg = 'flightid '+m_fid+', callsign '+callsign+', model '+model;
             console.log(msg);
             if (got_livedata) {
                 msg += ' NOT FOUND in livedata';
                 msg = '<span class="sz4redb"><strong>NOTE: '+msg+'</strong></span>';
+                document.title = "CLOSED "+m_fid;
             } else {
                 msg += ' awaiting livedata';
             }
+            console.log(msg);
             $("#status_flights").html(msg);
         }
     }    
@@ -2130,11 +2139,11 @@ html, body, #basicMap {
             //console.log('fids CLOSED '+cfids.join());
             msg += " fid "+m_fid+" NOT FOUND";
         }
-        //setStatus(msg);
         console.log(msg);
         if (found) {
             setTimeout(getLIVEData, ld_to );
         }
+        $("#status_flights").html(update_msg);
         got_livedata = true;
     }
     
@@ -2147,7 +2156,7 @@ html, body, #basicMap {
         }    
         var text = this.responseText;
         var failed = false;
-        var msg;
+        var msg, data;
         var emsg = '';
         if (use_proxy) {
             data = JSON.parse(text);
@@ -2171,10 +2180,20 @@ html, body, #basicMap {
             failed = true;
         }
         if (failed) {
-            msg = 'FAILED to get livedata';
+            live_count++;
+            msg = 'FAILED '+live_count+' of '+live_max+' to get livedata '+emsg;
+            if (live_count < live_max) {
+                msg += " will try again...";
+            } else {
+                msg += " last try. Perhaps try manual refresh.";
+            }
             console.log(msg);
+            if (live_count < live_max) {
+                getLIVEData();
+            }
             return;
         }
+        live_count = 0;
         var elap = getElapsed(bgn_req_ld);
         msg = "Got "+wptcnt+" waypoints in "+elap;
         console.log(msg);
@@ -2214,7 +2233,6 @@ html, body, #basicMap {
   <script type="text/javascript"
         defer="defer">
    
-    getLIVEData();  // start fetching livedata
     var fetch = gup('f');
     if (fetch.length) {
         if (fetch == 'p') {
@@ -2225,6 +2243,7 @@ html, body, #basicMap {
             console.log("Set to use Yahoo! API");
         }
     }
+    getLIVEData();  // start fetching livedata
     var fid = gup('fid');
     console.log("Got a fid="+fid);
     $("#centerAir").css('display', 'none');
