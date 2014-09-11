@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Roatation Demo</title>
+    <style type="text/css">
+      html, body, #basicMap {
+	  margin: 0;
+          width: 100%;
+          height: 100%;
+      }
+    </style>
+    <script src="js/OpenLayers.js"></script>
+  <script type="text/javascript"
+        src="js/jquery-2.0.3.js">
+    </script>
+   <script src="js/utils.js"
+        type="text/javascript">
+   </script>
+    <script>
+    /* test rotation in various browsers */
+    var plane, air_icon, close_icon;
+    var map, mapnik;
+    var markerLayer;
+    var fromProjection, toProjection;
+    var m_hdg = 40;
+    var hdg_to = 3000;
+    var def_w = 180;
+    var def_h = 180;
+    
+    function changeHeading() {
+        m_hdg += 40;
+        m_hdg = ( m_hdg % 360 );
+        var obj = plane.icon.imageDiv.style;
+        set_orientation( obj, m_hdg );
+        setTimeout( changeHeading, hdg_to );
+    }
+    
+    function init(lat,lon,zoom) {
+        map = new OpenLayers.Map("basicMap", {
+            projection: new OpenLayers.Projection("EPSG:3857"),
+            // this sets wgs84/4326 as default for display coords
+            displayProjection: new OpenLayers.Projection("EPSG:4326")
+		});
+        mapnik         = new OpenLayers.Layer.OSM();
+        fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+        toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+        var position   = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection);
+        map.addLayer(mapnik);
+        
+        map.addControl(new OpenLayers.Control.Permalink('permalink'));
+        map.addControl(new OpenLayers.Control.MousePosition());
+        map.addControl(new OpenLayers.Control.ScaleLine());
+        map.addControl(new OpenLayers.Control.LayerSwitcher());
+
+        map.setCenter(position, zoom );
+
+        markerLayer = new OpenLayers.Layer.Markers( "Markers" );
+    	map.addLayer(markerLayer);
+        
+        var air_size = new OpenLayers.Size(def_w,def_h);
+        var air_off = new OpenLayers.Pixel(-(air_size.w/2), -air_size.h/2);
+        air_icon = new OpenLayers.Icon('textures/fg_generic_red.gif',air_size,air_off);
+        close_icon = new OpenLayers.Icon('textures/fg_generic_blue.gif',air_size,air_off);
+        plane = new OpenLayers.Marker(position, air_icon);
+        markerLayer.addMarker(plane);
+        // from : http://coherent-labs.com/cryengine-3-minimap-made-with-coherent-ui/
+        // plane.icon.imageDiv.style.webkitTransform = "rotate(" + m_hdg + "deg)";
+        var obj = plane.icon.imageDiv.style;
+        set_orientation( obj, m_hdg );
+        
+        setTimeout( changeHeading, hdg_to );
+        
+    }
+    
+    </script>
+  </head>
+  <body>
+    <div id="basicMap"></div>
+    <script type="text/javascript" defer="defer">
+
+    function gup2( name, def ) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+        if( results == null )
+            return def;
+        return results[1];
+    }
+
+	var lat = gup2('lat',52.52);
+	var lon = gup2('lon',13.41);
+	var zoom = gup2('zoom',15);
+	init(lat,lon,zoom);
+    </script>
+  </body>
+</html>

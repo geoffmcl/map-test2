@@ -103,4 +103,12 @@ function ms2hhmmss( ms ) {
 }
 
 
+function set_orientation( obj, degs ) {
+    var val = "rotate(" + degs + "deg)"
+    obj.webkitTransform = val;
+    obj.msTransform = val;
+    obj.MozTransform = val;
+    obj.OTransform = val;
+}
+
 /* eof */
