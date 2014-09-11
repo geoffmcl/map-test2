@@ -62,3 +62,13 @@ testjs3-ok2.html,EXCLUDE
 testjs3.html,EXCLUDE
 testjs4.html,EXCLUDE
 testjs5.html,EXCLUDE
+flightid.html,Give a ?id=5781776 parameter fetch and diplay in table
+flights3d.html,Display of 2392 ILS on a 3D globe
+livedata.html,Table display of livedata from FG Tracker API
+map-test3.html,FG Tracker Planes using FG Tracker API
+morecolor.html,Global Heightmap Color Range Experiments
+read-hgt4.html,Display of data2/N37W123.hgt colormap
+read-hgt5.html,Display of data2/N37W123.hgt colormap
+safety_palette.html,Height Color Table Tests
+tracker2.html,Given a fid=5785737 track flight 2D using FG Tracker
+wmm-test.html,Show magnetic deviation using World Magnetic Model

@@ -3,7 +3,7 @@
 <html>
  <head>
   <meta http-equiv="Content-type"
-        content="text/html; charset=us-ascii">
+        content="text/html; charset=utf-8">
   <title>
    Map Testing Site 2
   </title>
@@ -17,42 +17,41 @@
   </h1>
 
   <p>
-   Note, this is <span class="redb">NOT</span> a 'show case' nor user 'viewing' site!
-   <span class="yellbg">Not ALL pages 'work'!</span> They are mainly javascript coding tests.
-   Perhaps the MAIN page, if there is one, is <a target="_blank"
-      href="map-test.html">map-test</a>, where, if an active flight callsign is selected (clicked)
-      in the table list, then a 'tracker' page will be opened to follow that single flight. The
-      current 'track' per the <a target="_blank"
-      href="crossfeed.php">crossfeed</a> json feed in 'blue', and a predicted path in 'red'. This
-      will continue until the flight leaves the MP server. IFF that flight is being 'tracked' by
-      <a target="_blank"
-      href="http://mpserver15.flightgear.org/modules/fgtracker/">FGTracker</a>, where the left
-      panel shows which MP servers are active and being 'tracked', then the 'history' of that
-      flight will also be added as a 'green' line. If 'map-test' knows the flight is NOT being
-      tracked, by checking the FGTracker <a target="_blank"
-      href="http://mpserver15.flightgear.org/modules/content/index.php?id=4">API</a>, then it will
-      append an '*' to the callsign.
+   Note, this is <span class="redb">NOT</span> a 'show case' nor user 'viewing' site! <span class=
+   "yellbg">Not ALL pages 'work'!</span> They are mainly javascript coding tests.
+  </p>
+
+  <p>
+   Perhaps a MAIN page, if there is one, is <a target="_blank"
+      href="map-test3.html">map-test3</a>, using the <a target="_blank"
+      href="http://mpserver15.flightgear.org/modules/content/index.php?id=4">FlightGear Tracker
+      API</a> to display the current flightgear multiplayers. And a similar <a target="_blank"
+      href="livedata.html">livedata</a> table display with links to an individual flight 'tracker'
+      display. Of course ONLY flights 'tracked' by <a target="_blank"
+      href="http://mpserver15.flightgear.org/modules/fgtracker/">FGTracker</a> are shown.
+  </p>
+
+  <p>
+   This is a stop-gap measure while 'crossfeed' is <span class="sz4redb">DOWN!</span>
   </p>
 
   <p>
    Otherwise, this is just a BIG bunch of 'map' tests, using OpenLayers, OpenStreetMap, and much
-   more, It started out as just looking at and experimenting with our FGx <a target="_blank"
-      href="http://test.fgx.ch">test.fgx.ch</a>, examining, experimenting, until I had
-      <a target="_blank"
-      href="map-test.html">map-test</a>, but then went on to many other tests and experiments.
-      Most were concerning OpenLayers, and quite a number of experiments with mouse hover popups,
-      and tools tips, some of which 'failed', but others work as expected, as I learned some of
-      the ins and outs of such tooltip popup displays. In the final 'map' I wanted to be able to
-      display information about the 'feature' as the mouse hovered over it. While not 'hovering'
-      the 'marker-custom.html' example shows the adding of a custom marker with a label to a
-      vector layer as a feature shows lots of promise.
+   more, It started out as just looking at and experimenting with our FGx test.fgx.ch (also down),
+   examining, experimenting, until I had my own map-test display, but then went on to many other
+   tests and experiments. Most were concerning OpenLayers, and quite a number of experiments with
+   mouse hover popups, and tools tips, some of which 'failed', but others work as expected, as I
+   learned some of the ins and outs of such tooltip popup displays. In the final 'map' I wanted to
+   be able to display information about the 'feature' as the mouse hovered over it. While not
+   'hovering' the 'marker-custom.html' example shows the adding of a custom marker with a label to
+   a vector layer as a feature shows lots of promise.
   </p>
 
   <p>
    The table below contains the current 'work' files, with a brief description, in approximate
-   date order, or an alpha sorted link <a href="#sorted">list</a>. To repeat -
-   <span class="yellbg">NOT ALL PAGES 'WORK'!</span> - Such 'bad' examples, tests, are left here
-   to show what DOES NOT WORK, and perhaps later discover the reason.
+   date order, or an alpha sorted link <a href="#sorted">list</a>. To repeat - <span class=
+   "yellbg">NOT ALL PAGES 'WORK'!</span> - Such 'bad' examples, tests, are left here to show what
+   DOES NOT WORK, and perhaps later discover the reason.
   </p>
   <!-- *** MAIN TABLE BEGIN *** -->
 
@@ -83,50 +82,51 @@
     <tr>
      <td>
       <a target="_blank"
-          href="display-csv.html">display-csv.html</a>
+          href="livedata.html">livedata.html</a>
      </td>
      <td>
-      Load of 1/4 million cvs records and display on 3D layered sphere
+      Table display of livedata from FG Tracker API
      </td>
      <td>
       <a target="_blank"
-          href="mapx.html">mapx.html</a>
+          href="tracker2.html">tracker2.html</a>
      </td>
      <td>
-      STAR display with airways added
+      Given a fid=5785737 track flight 2D using FG Tracker
      </td>
     </tr>
 
     <tr>
      <td>
       <a target="_blank"
-          href="map-fsm.html">map-fsm.html</a>
+          href="map-test3.html">map-test3.html</a>
      </td>
      <td>
-      Display of STAR as a 'flat spraghetti monster'
+      FG Tracker Planes using FG Tracker API
      </td>
      <td>
       <a target="_blank"
-          href="map2.html">map2.html</a>
+          href="flightid.html">flightid.html</a>
      </td>
      <td>
-      STAR display using manual generated STAR.json
+      Give a ?id=5781776 parameter fetch and diplay in table
      </td>
     </tr>
 
     <tr>
      <td>
       <a target="_blank"
-          href="fgcom.html">fgcom.html</a>
+          href="flights.html">flights.html</a>
      </td>
      <td>
-      Live FGCOM Server Connections
+      Simple table display of crossfeed json
      </td>
      <td>
-      <strong>index.html</strong>
+      <a target="_blank"
+          href="tooltip1.html">tooltip1.html</a>
      </td>
      <td>
-      This file
+      Full map with layer switcher and markers but custom tooltips does not appear?
      </td>
     </tr>
 
@@ -140,27 +140,78 @@
      </td>
      <td>
       <a target="_blank"
-          href="colormap.html">colormap.html</a>
+          href="tracker.html">tracker.html</a>
      </td>
      <td>
-      View color ranges to build height map image
+      Development of a tracker - Used by globe 3D on flight selection
      </td>
     </tr>
 
     <tr>
      <td>
       <a target="_blank"
-          href="tracker.html">tracker.html</a>
+          href="tooltip3.html">tooltip3.html</a>
      </td>
      <td>
-      Development of a tracker - Used by globe 3D on flight selection
+      Full map with marker with hover tooltips using label.js
      </td>
+     <td>
+      <a target="_blank"
+          href="tooltip2.html">tooltip2.html</a>
+     </td>
+     <td>
+      Full map with marker with hover tooltips using label.js
+     </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="nav.html">nav.html</a>
      </td>
      <td>
       Started loading csv/json adding airports etc to display
+     </td>
+     <td>
+      <a target="_blank"
+          href="marker.html">marker.html</a>
+     </td>
+     <td>
+      Small map with mouse pos outside map adds diff. image markers on click has selector
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="mapx.html">mapx.html</a>
+     </td>
+     <td>
+      STAR display with airways added
+     </td>
+     <td>
+      <a target="_blank"
+          href="map2.html">map2.html</a>
+     </td>
+     <td>
+      STAR display using manual generated STAR.json
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="map-fsm.html">map-fsm.html</a>
+     </td>
+     <td>
+      Display of STAR as a 'flat spraghetti monster'
+     </td>
+     <td>
+      <a target="_blank"
+          href="json-load.html">json-load.html</a>
+     </td>
+     <td>
+      Further experiments with csv/json loading
      </td>
     </tr>
 
@@ -174,10 +225,94 @@
      </td>
      <td>
       <a target="_blank"
-          href="json-load.html">json-load.html</a>
+          href="dist-test.html">dist-test.html</a>
      </td>
      <td>
-      Further experiments with csv/json loading
+      Experiments with getting fast distance calculation
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="morecolor.html">morecolor.html</a>
+     </td>
+     <td>
+      Global Heightmap Color Range Experiments
+     </td>
+     <td>
+      <a target="_blank"
+          href="read-hgt5.html">read-hgt5.html</a>
+     </td>
+     <td>
+      Display of data2/N37W123.hgt colormap
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="read-hgt4.html">read-hgt4.html</a>
+     </td>
+     <td>
+      Display of data2/N37W123.hgt colormap
+     </td>
+     <td>
+      <a target="_blank"
+          href="safety_palette.html">safety_palette.html</a>
+     </td>
+     <td>
+      Height Color Table Tests
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="flights3d.html">flights3d.html</a>
+     </td>
+     <td>
+      Display of 2392 ILS on a 3D globe
+     </td>
+     <td>
+      <a target="_blank"
+          href="wmm-test.html">wmm-test.html</a>
+     </td>
+     <td>
+      Show magnetic deviation using World Magnetic Model
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <strong>index.html</strong>
+     </td>
+     <td>
+      This file
+     </td>
+     <td>
+      <a target="_blank"
+          href="display-csv.html">display-csv.html</a>
+     </td>
+     <td>
+      Load of 1/4 million cvs records and display on 3D layered sphere
+     </td>
+    </tr>
+
+    <tr>
+     <td>
+      <a target="_blank"
+          href="fgcom.html">fgcom.html</a>
+     </td>
+     <td>
+      Live FGCOM Server Connections
+     </td>
+     <td>
+      <a target="_blank"
+          href="colormap.html">colormap.html</a>
+     </td>
+     <td>
+      View color ranges to build height map image
      </td>
     </tr>
 
@@ -201,21 +336,11 @@
     <tr>
      <td>
       <a target="_blank"
-          href="marker.html">marker.html</a>
-     </td>
-     <td>
-      Small map with mouse pos outside map adds diff. image markers on click has selector
-     </td>
-     <td>
-      <a target="_blank"
           href="marker1.html">marker1.html</a>
      </td>
      <td>
       Simple map with marker and line draw
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="moving.html">moving.html</a>
@@ -223,6 +348,9 @@
      <td>
       No map - Just entering text Add Task and Delete tasks in javascript
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="nav1.html">nav1.html</a>
@@ -230,9 +358,6 @@
      <td>
       Full screen map with marker and selector and big zoom tool
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="popup.html">popup.html</a>
@@ -240,6 +365,9 @@
      <td>
       Simple full map with marker but NO popup tooltip!
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="popup2.html">popup2.html</a>
@@ -247,9 +375,6 @@
      <td>
       No map jQuery UI Dialog - basic dialog display
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="popup3.html">popup3.html</a>
@@ -257,6 +382,9 @@
      <td>
       No map jQuery UI Dialog - Animated dialog display and destroy
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="popup4.html">popup4.html</a>
@@ -264,9 +392,6 @@
      <td>
       Small map test using ext-all-debug.js slider to dim map display
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="proxy.php">proxy.php</a>
@@ -274,6 +399,9 @@
      <td>
       Do a fetch given a url
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="show-one.html">show-one.html</a>
@@ -281,9 +409,6 @@
      <td>
       3D display of three.js json aircraft model
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="sundial2.html">sundial2.html</a>
@@ -291,6 +416,9 @@
      <td>
       FramedCloud Popup with Text File - OpenLayers - FAILS!
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="testcss.html">testcss.html</a>
@@ -298,9 +426,6 @@
      <td>
       Just testing some CSS
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="testcss3.html">testcss3.html</a>
@@ -308,6 +433,9 @@
      <td>
       Test of rotating text - not all works!
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="testjs.html">testjs.html</a>
@@ -315,9 +443,6 @@
      <td>
       Just some quick tests of javascript code
      </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="testjs2.html">testjs2.html</a>
@@ -325,39 +450,15 @@
      <td>
       Test javascript input checkbox onclick
      </td>
+    </tr>
+
+    <tr>
      <td>
       <a target="_blank"
           href="threejs-demo.html">threejs-demo.html</a>
      </td>
      <td>
       Started experiments with Theo's fgx-globe/fgx-globe-r3
-     </td>
-    </tr>
-
-    <tr>
-     <td>
-      <a target="_blank"
-          href="tooltip1.html">tooltip1.html</a>
-     </td>
-     <td>
-      Full map with layer switcher and markers but custom tooltips does not appear?
-     </td>
-     <td>
-      <a target="_blank"
-          href="tooltip2.html">tooltip2.html</a>
-     </td>
-     <td>
-      Full map with marker with hover tooltips using label.js
-     </td>
-    </tr>
-
-    <tr>
-     <td>
-      <a target="_blank"
-          href="tooltip3.html">tooltip3.html</a>
-     </td>
-     <td>
-      Full map with marker with hover tooltips using label.js
      </td>
      <td>
       <a target="_blank"
@@ -382,6 +483,13 @@
      </td>
      <td>
       Small no map random features marker line with tooltip popup
+     </td>
+    </tr>
+
+    <tr>
+     <td align="center"
+         colspan="4">
+      <a href="#top">top</a> <a href="#end">end</a>
      </td>
     </tr>
 
@@ -412,27 +520,10 @@
      </td>
      <td>
       <a target="_blank"
-          href="dist-test.html">dist-test.html</a>
-     </td>
-     <td>
-      Experiments with getting fast distance calculation
-     </td>
-    </tr>
-
-    <tr>
-     <td>
-      <a target="_blank"
           href="draw-feature.html">draw-feature.html</a>
      </td>
      <td>
       Small map with 4 layers in switcher to draw points lines etc with delete experiments
-     </td>
-     <td>
-      <a target="_blank"
-          href="flights.html">flights.html</a>
-     </td>
-     <td>
-      Simple table display of crossfeed json
      </td>
     </tr>
 
@@ -488,13 +579,6 @@
     </tr>
 
     <tr>
-     <td align="center"
-         colspan="4">
-      <a href="#top">top</a> <a href="#end">end</a>
-     </td>
-    </tr>
-
-    <tr>
      <td>
       <a target="_blank"
           href="jquery.qtip.html">jquery.qtip.html</a>
@@ -546,7 +630,9 @@
       href="dist-test.html">dist-test.html</a> <a target="_blank"
       href="draw-feature.html">draw-feature.html</a> <a target="_blank"
       href="fgcom.html">fgcom.html</a> <a target="_blank"
+      href="flightid.html">flightid.html</a> <a target="_blank"
       href="flights.html">flights.html</a> <a target="_blank"
+      href="flights3d.html">flights3d.html</a> <a target="_blank"
       href="getip.html">getip.html</a> <a target="_blank"
       href="globe.html">globe.html</a> <a target="_blank"
       href="highlight-feature.html">highlight-feature.html</a> <a target="_blank"
@@ -556,14 +642,17 @@
       href="index_json2.html">index_json2.html</a> <a target="_blank"
       href="jquery.qtip.html">jquery.qtip.html</a> <a target="_blank"
       href="json-load.html">json-load.html</a> <a target="_blank"
+      href="livedata.html">livedata.html</a> <a target="_blank"
       href="map-fsm.html">map-fsm.html</a> <a target="_blank"
       href="map-test.html">map-test.html</a> <a target="_blank"
+      href="map-test3.html">map-test3.html</a> <a target="_blank"
       href="map.html">map.html</a> <a target="_blank"
       href="map2.html">map2.html</a> <a target="_blank"
       href="mapx.html">mapx.html</a> <a target="_blank"
       href="marker-custom.html">marker-custom.html</a> <a target="_blank"
       href="marker.html">marker.html</a> <a target="_blank"
       href="marker1.html">marker1.html</a> <a target="_blank"
+      href="morecolor.html">morecolor.html</a> <a target="_blank"
       href="moving.html">moving.html</a> <a target="_blank"
       href="nav.html">nav.html</a> <a target="_blank"
       href="nav1.html">nav1.html</a> <a target="_blank"
@@ -572,6 +661,9 @@
       href="popup3.html">popup3.html</a> <a target="_blank"
       href="popup4.html">popup4.html</a> <a target="_blank"
       href="proxy.php">proxy.php</a> <a target="_blank"
+      href="read-hgt4.html">read-hgt4.html</a> <a target="_blank"
+      href="read-hgt5.html">read-hgt5.html</a> <a target="_blank"
+      href="safety_palette.html">safety_palette.html</a> <a target="_blank"
       href="show-one.html">show-one.html</a> <a target="_blank"
       href="sundial2.html">sundial2.html</a> <a target="_blank"
       href="testcss.html">testcss.html</a> <a target="_blank"
@@ -583,13 +675,15 @@
       href="tooltip2.html">tooltip2.html</a> <a target="_blank"
       href="tooltip3.html">tooltip3.html</a> <a target="_blank"
       href="tracker.html">tracker.html</a> <a target="_blank"
+      href="tracker2.html">tracker2.html</a> <a target="_blank"
       href="updown.html">updown.html</a> <a target="_blank"
       href="updown2.html">updown2.html</a> <a target="_blank"
-      href="vector-features.html">vector-features.html</a>
+      href="vector-features.html">vector-features.html</a> <a target="_blank"
+      href="wmm-test.html">wmm-test.html</a>
   </p>
 
   <p>
-   Done Site Map of 52 of 61 files, on 2014/03/03 13:21:36 UTC, by genindex04.pl
+   Done Site Map of 62 of 63 files, on 2014/09/11 12:14:51 UTC, by genindex04.pl
   </p>
 
   <p>
