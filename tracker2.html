@@ -356,7 +356,9 @@ html, body, #basicMap {
         close_icon = new OpenLayers.Icon('textures/fg_generic_blue.gif',air_size,air_off);
         plane = new OpenLayers.Marker(position, air_icon);
         // from : http://coherent-labs.com/cryengine-3-minimap-made-with-coherent-ui/
-        plane.icon.imageDiv.style.webkitTransform = "rotate(" + hdg + "deg)";
+        // plane.icon.imageDiv.style.webkitTransform = "rotate(" + hdg + "deg)";
+        var obj = plane.icon.imageDiv.style;
+        set_orientation( obj, hdg );
         markerLayer.addMarker(plane);
 
         // TODO: Start adding airports, runways, ILS, navaids
@@ -440,8 +442,11 @@ html, body, #basicMap {
         // move plane
         var lonlat = new OpenLayers.LonLat(lon,lat).transform( fromProjection, toProjection );
         plane = new OpenLayers.Marker(lonlat, air_icon);
-        if (p_hdg != c_hdg) // maybe (if (abs(p_hdg-c_hdg) > 0.1) or something
-            plane.icon.imageDiv.style.webkitTransform = "rotate(" + c_hdg + "deg)";
+        if (p_hdg != c_hdg) { // maybe (if (abs(p_hdg-c_hdg) > 0.1) or something
+            // plane.icon.imageDiv.style.webkitTransform = "rotate(" + c_hdg + "deg)";
+            var obj = plane.icon.imageDiv.style;
+            set_orientation( obj, c_hdg );
+        }
         markerLayer.addMarker(plane);
         
         if (center_aircraft)
@@ -481,7 +486,9 @@ html, body, #basicMap {
             flt = closePlanes[i];
             var lonlat = new OpenLayers.LonLat(flt.lon,flt.lat).transform( fromProjection, toProjection );
             pln = new OpenLayers.Marker(lonlat, close_icon);
-            pln.icon.imageDiv.style.webkitTransform = "rotate(" + flt.hdg + "deg)";
+            // pln.icon.imageDiv.style.webkitTransform = "rotate(" + flt.hdg + "deg)";
+            var obj = pln.icon.imageDiv.style;
+            set_orientation( obj, flt.hdg );
             markerLayer.addMarker(pln);
             paintedPlanes.push(pln);
         }
