@@ -1,7 +1,7 @@
 <!DOCTYPE html public "-//W3C//DTD HTML 4.0 Strict//en">
 <html>
     <head>
-        <title>Crossfeed JSON Test 6</title>
+        <title>Crossfeed JSON Test 7</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,6 +23,7 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow this links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
+      20140921 - v7 - Add parameter &url=http://domain.com:port/fligts.json to fetch json
       20140111 - Add ?icao=ICAO to center map to that location quickly
       20131217 - Get the FGTracker livewaypoints, and only mark callsign in BOLD if present in tracker
       20131127 - Flight selection opens one new window - tracker.html
@@ -37,7 +38,8 @@
         // disable ajax caching
          $.ajaxSetup({cache: false});
 
-        var cf_url = 'http://crossfeed.fgx.ch/flights.json';
+        //var cf_url = 'http://crossfeed.fgx.ch/flights.json';
+        var cf_url = 'http://192.168.1.34:5555/flights.json';
         var cf_to = 1800;   // about each 2 seconds
         var fids = [];
         var callsigns = [];
@@ -760,6 +762,7 @@
                     //    "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
                     var url2 = "tracker.html?fid="+fid+"&callsign="+callsign+"&model="+model+
                         "&lon="+lon+"&lat="+lat+"&alt="+alt+"&hdg="+hdg;
+                    url2 += "&url="+cf_url;    
                     //var spec = 'width=1024,height=768'; // should it be a fixed size, or
                     var spec = 'fullscreen=yes';
                     // other specs ???? - should be a FULL normal window
@@ -975,6 +978,10 @@
         <div id="status_flights">Status:</div>
     <!-- This gives IE compatibility with the OpenLayers map init function -->
     <script type="text/javascript" defer="defer">
+        var url = gup('url');
+        if (url.lenght) {
+            cf_url = url;   // set user requested url
+        }
         sendRequest2(tr_url);   // get the FGTracker livewaypoints
         var lat = gup('lat');
         var lon = gup('lon');

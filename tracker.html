@@ -5,7 +5,7 @@
         content="Geoff R. McLane">
   <meta charset="UTF-8">
   <title>
-   2D Tracker 6
+   2D Tracker 7
   </title><!--
              ,MMN,    ...................................................................................
               ,MMM,           CROSSFEED CLIENT MAPPING TESTSUITE: FULL SCREEN MAP
@@ -23,6 +23,7 @@
       For OpenLayers (FreeBSD license) and jQuery (MIT license) please follow these links:
       http://openlayers.org, http://jquery.org
       ........................................................................................
+      20140921 - 0.0.7 - Add param url=http://domain.com:port/flights.json to set url fetch
       20131215 - 0.0.6 - Add Hazuki mpserver15 previous track of the callsign
       20131210 - 0.0.5 - switch to using ils/navaid loaded CSV search - depreciate json ils/navaid array
       20131126 - 0.0.4 - do all xmlhttp together, add red aircraft, add blue aircraft
@@ -80,7 +81,8 @@ html, body, #basicMap {
     var show_waiting = false;    // mainly a http callback diagnostic
     var upd_to_log = false;
     var feed_ms = 1800;
-    var json_url = 'http://crossfeed.fgx.ch/flights.json';
+    //var json_url = 'http://crossfeed.fgx.ch/flights.json';
+    var json_url = 'http://192.168.1.34:5555/flights.json';
     var close_nm = 100; // paint close planes within this range (nm)
     
     // program variables
@@ -513,7 +515,7 @@ html, body, #basicMap {
                 update_msg += ',z='+curr_zoom+' '+elap; 
                 if (upd_to_log) console.log(update_msg);
                 $("#status_flights").html(update_msg);
-                setTimeout("sendRequest('http://crossfeed.fgx.ch/flights.json')", feed_ms)
+                setTimeout("sendRequest('"+json_url+"')", feed_ms)
             } else {
                 // no longer in the data - flight ended - what to do - close window???
                 update_msg = "Update: fid="+m_fid+":"+m_callsign+":"+m_model+": NO LONGER IN DATA! flight ended.";
@@ -1597,8 +1599,8 @@ html, body, #basicMap {
         if (!done_flights_json) {
             // time to start crossfeed json
             done_flights_json = true;
-            console.log("Starting crossfeed json feed...");
-            sendRequest('http://crossfeed.fgx.ch/flights.json');
+            console.log("Starting crossfeed json feed using "+json_url);
+            sendRequest(json_url);
         }
     }
     
@@ -1783,6 +1785,11 @@ html, body, #basicMap {
         return results[1];
     }
     
+    var url = gup('url');
+    if (url.length) {
+        json_url = url
+        console.log("Set user json url to "+json_url);
+    }
     var fid = gup('fid');
     var callsign = gup('callsign');
     var model = gup('model');
