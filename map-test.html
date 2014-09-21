@@ -979,8 +979,11 @@
     <!-- This gives IE compatibility with the OpenLayers map init function -->
     <script type="text/javascript" defer="defer">
         var url = gup('url');
-        if (url.lenght) {
+        if (url.length) {
             cf_url = url;   // set user requested url
+            console.log("Set user url to '"+cf_url+"'");
+        } else {
+            console.log("Using default url of '"+cf_url+"'");
         }
         sendRequest2(tr_url);   // get the FGTracker livewaypoints
         var lat = gup('lat');
