@@ -84,6 +84,8 @@
   "14bis",
   "21",
   "707",
+  "717-perl",
+  "717-ass",
   "717-200",
   "717-200-smooth",
   "727-230",
@@ -865,12 +867,13 @@
         var lineGeometry = new THREE.Geometry();
         lineGeometry.vertices.push( P, Q );
         lineGeometry.computeLineDistances();
-        if ( dashed === undefined || !dashed )
-            var lineMaterial = new THREE.LineBasicMaterial( {color:0x884400} );
-        else // dashed = true
-            var lineMaterial = new THREE.LineDashedMaterial( { dashSize: 2, gapSize: 2 } );
-        if (color !== undefined)
-            lineMaterial.color = color;
+        //if ( dashed === undefined || !dashed )
+        //    var lineMaterial = new THREE.LineBasicMaterial( {color:0xFFFFFF} );
+        //else // dashed = true
+            var lineMaterial = new THREE.LineDashedMaterial( { dashSize: 2, gapSize: 2,
+                color : 0xffffff } );
+        //if (color !== undefined)
+        //    lineMaterial.color = color;
         var line = new THREE.Line( lineGeometry, lineMaterial );
         //scene.add(line);
         group.add(line);
@@ -941,7 +944,8 @@
         V1 = new THREE.Vector3(xMin,yMax,zMin);
         V2 = new THREE.Vector3(xMin,yMin,zMin);
         drawLine( V1, V2, 0xFF0000, true );
-        
+        var msg = "bbox: x "+(xMax - xMin).toFixed(2)+" y "+(yMax - yMin).toFixed(2)+" z "+(zMax - zMin).toFixed(2);
+        console.log(msg);
     }
     
     function addAirplane( geometry, craft ) {
