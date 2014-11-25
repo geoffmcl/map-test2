@@ -75,7 +75,7 @@ html, body, #basicMap {
     var show_waiting = false;    // mainly a http callback diagnostic
     var upd_to_log = false;
     var feed_ms = 1800;
-    var json_url = 'http://crossfeed.fgx.ch/flights.json';
+    var json_url = 'http://crossfeed.freeflightsim.org/flights.json';
     var close_nm = 100; // paint close planes within this range (nm)
     var done_init = false;
     var live_count = 0;
@@ -534,7 +534,7 @@ html, body, #basicMap {
                 update_msg += ',z='+curr_zoom+' '+elap; 
                 if (upd_to_log) console.log(update_msg);
                 $("#status_flights").html(update_msg);
-                setTimeout("sendRequest('http://crossfeed.fgx.ch/flights.json')", feed_ms)
+                setTimeout("sendRequest('http://crossfeed.freeflightsim.org/flights.json')", feed_ms)
             } else {
                 // no longer in the data - flight ended - what to do - close window???
                 update_msg = "Update: fid="+m_fid+":"+m_callsign+":"+m_model+": NO LONGER IN DATA! flight ended.";
@@ -1619,7 +1619,7 @@ html, body, #basicMap {
             // time to start crossfeed json
             done_flights_json = true;
             console.log("Starting crossfeed json feed...");
-            sendRequest('http://crossfeed.fgx.ch/flights.json');
+            sendRequest('http://crossfeed.freeflightsim.org/flights.json');
         }
     }
     
