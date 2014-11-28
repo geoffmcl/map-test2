@@ -1170,7 +1170,7 @@
             });
             if (found) {
                 console.log("Update: lon="+lon+",lat="+lat+",alt="+alt+",hdg="+hdg );
-                setTimeout("sendRequest('http://crossfeed.fgx.ch/flights.json')", 1800)
+                setTimeout("sendRequest('http://crossfeed.freeflightsim.org/flights.json')", 1800)
             } else {
                 // no longer in the data - flight ended - what to do - close window???
                 console.log("Update: fid="+my_fid+" no longer in data");
@@ -1225,7 +1225,7 @@
         
         init(fid,callsign,model,lon,lat,alt,hdg);
         animate();
-		// sendRequest("http://crossfeed.fgx.ch/flights.json")
+		// sendRequest("http://crossfeed.freeflightsim.org/flights.json")
     </script>
   <!-- 20131103 - copied load-one2.html from fg/globe and commenced adapting to a 3d view of the model -->
   <!-- 20130724 - last update -->
