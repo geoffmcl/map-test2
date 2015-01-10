@@ -11,7 +11,7 @@
  </head>
  <body>
   <div id="secs"
-       style="position: absolute; left:0px; bottom:20px">
+       style="background-color: #ccc; position: absolute; left:5px; bottom:20px">
    ms 0
   </div>
   <!-- === go local ===
@@ -69,6 +69,7 @@
     var light, geometry, material, mesh, info;
     var xMax, xMin, yMax, yMin, zMax, zMin;
     var show_flat_plane = false;
+    var add_other_lights = true;
     
     var contAcList = 0;
     var contUpdate = true;
@@ -541,19 +542,20 @@
         // light.position.set( 200, 400, 200 );
                
         //  Assets      
+        if (add_other_lights) {
+            light = new THREE.DirectionalLight( 0xffffff, 1 );
+            light.position.set( 1, 1, 1 ).normalize();
+            scene.add( light );
 
-        light = new THREE.DirectionalLight( 0xffffff, 1 );
-        light.position.set( 1, 1, 1 ).normalize();
-        scene.add( light );
-
-        light = new THREE.DirectionalLight( 0xffffff, 1 );
-        light.position.set( -1, -1, -1 ).normalize();
-        scene.add( light );
-               
-        light = new THREE.AmbientLight( 0xffffff);
-        light.color.setHSL( 0.1, 0.5, 0.3 );
-        scene.add( light );     
-
+            light = new THREE.DirectionalLight( 0xffffff, 1 );
+            light.position.set( -1, -1, -1 ).normalize();
+            scene.add( light );
+                   
+            light = new THREE.AmbientLight( 0xffffff);
+            light.color.setHSL( 0.1, 0.5, 0.3 );
+            scene.add( light );     
+        }
+        
         light = new THREE.SpotLight( 0xffffff, 1.5 );
         light.position.set( 200, 400, 200 );
         light.castShadow = true;
@@ -595,13 +597,11 @@
                
         info = document.createElement( 'div' );
         document.body.appendChild( info );
-        info.style.cssText = 'margin 0 0 0 100px: auto; position: absolute; top: 0px; width: 100% ';
-        info.innerHTML = '<p>' +
-            'x:<input type="range" id="spin" min="-50" max="50" onchange="randx=this.value;group.position.x=randx;" step="5" value="' + group.position.x + '" > ' +
-            'y:<input type="range" id="spin" min="-50" max="50" onchange="randy=this.value;group.position.y=randy;" step="5" value="' + group.position.y + '" > ' +
-            'z:<input type="range" id="spin" min="-50" max="50" onchange="randz=this.value;group.position.z=randz;" step="5" value="' + group.position.z + '" > ' +
-            '<\/p>'+
-            '<p id="info" name="info">&nbsp;<\/p>'; 
+        //info.style.cssText = 'margin 0 0 0 100px: auto; position: absolute; top: 0px; width: 100% ';
+        info.style.cssText = 'background-color: #ccc; left: 80px; max-height: ' + ( window.innerHeight - 50 ) + 'px ;' +
+			'opacity: 0.9; overflow: auto; padding: 2px; position: absolute; resize: both; top: 2px; width: 300px; z-index: 20;';
+
+        info.innerHTML = '<span id="info" name="info">&nbsp;<\/span>'; 
        
         // add GUI controller
         // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
@@ -986,10 +986,17 @@
                group.add(mesh);
         
         setLastPlane(planenum); // keep cookie of the last plane loaded
+        xMin = geometry.boundingBox.min.x;
+        xMax = geometry.boundingBox.max.x;
+        yMin = geometry.boundingBox.min.y;
+        yMax = geometry.boundingBox.max.y;
+        zMin = geometry.boundingBox.min.z;
+        zMax = geometry.boundingBox.max.z;
         
         var obj = document.getElementById('info');
-        var msg = "" + (planenum + 1) + " of " + maxplanes + ": " + craft;               
-        //var msg = "addAirplane: "+craft+" ("+my_model+")";
+        var msg = "" + (planenum + 1) + " of " + maxplanes + ": " + craft + "<br>" +
+            "bbox: x "+(xMax - xMin).toFixed(2)+" y "+(yMax - yMin).toFixed(2)+" z "+(zMax - zMin).toFixed(2);
+            
         obj.innerHTML = msg;
         console.log( msg+', at x='+randx+' y='+randy+' z='+randz );
         // NOTES: TODO: concerning model sizing and zoom level
@@ -1227,6 +1234,7 @@
         animate();
 		// sendRequest("http://crossfeed.freeflightsim.org/flights.json")
     </script>
+  <!-- 20150110 - add bbox dimensions to info -->
   <!-- 20131103 - copied load-one2.html from fg/globe and commenced adapting to a 3d view of the model -->
   <!-- 20130724 - last update -->
   <!-- 20130726 - added to site geoffair.org/fg/globe -->
