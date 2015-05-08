@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang=en >
+<head>
+<title>HGT ZIP USGS 1-Sec - read-hgt8.html</title>
+<meta charset=utf-8 />
+<meta name=viewport content='width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0' />
+</head>
+<body>
+<script src=http://mrdoob.github.io/three.js/build/three.min.js ></script>
+<script src=http://mrdoob.github.io/three.js/examples/js/controls/OrbitControls.js ></script>
+<script src=http://mrdoob.github.io/three.js/examples/js/libs/stats.min.js ></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js ></script>
+<script>
+
+	var scale = 10;
+	var viewSize = 3601;
+//	var viewSize = 1201;
+
+	var viewLeft = 0;
+	var viewTop = 0;	
+
+    // NO VOIDS
+	//var fileName = 'N37W123.SRTMGL1.hgt.zip';  // San Francisco
+	//var sourceDir = 'http://jaanga.github.io/terrain-usgs-data-1second/hgt-zip/';
+    // older source, with VOIDS
+	var fileName = 'N37W123.hgt.zip';  // San Francisco
+	var sourceDir = 'data2/'; // from : http://dds.cr.usgs.gov/srtm/version2_1/SRTM1/Region_04/';
+    
+    // others
+	//var sourceDir = 'http://cloudcapsupport.com/elevation/World-90m/';
+	//var sourceDir = 'c:/temp/';
+	//var sourceDir = 'c:/temp/de-ferranti/1degree-zips/';
+	//var sourceDir = 'c:/temp/usgs/04/';
+    //var sourceDir = 'http://caper.ws/terrain/usgs/Region_04/';
+    //var sourceDir = 'http://caper.ws/terrain/de-ferranti/1degree/';
+
+	var stats, renderer, scene, camera, controls;
+	var geometry, vertices, material, mesh, axisHelper;
+
+	var canvasHeightMap, contextHeightMap, imageHeightMap;
+	var canvasTerrain, contextTerrain;
+	var terrain;
+    var m_max_elev = -99999;
+    var m_min_elev =  99999;
+
+	init();
+	animate();
+
+	function init() {
+
+		var css = document.head.appendChild( document.createElement('style') );
+		css.innerHTML ='body { font: 600 12pt monospace; margin: 0; overflow: hidden; }' ;
+
+		var info = document.body.appendChild( document.createElement( 'div' ) );
+		info.style.cssText = 'margin: 0 20px; max-width: 200px; position: absolute; ';
+		info.innerHTML = '<a href="" ><h3>' + document.title + '</h3></a>' +
+			'<p>Move the East/West & North/South sliders a bit. Then have fun with the Size and Scale sliders.</p>' +
+			'<div id=msg1 ></div>' +
+			'<p>East / West <input type=range id=inpLeft min=0 max=3345 value=' + viewLeft + ' step=1 onmousemove=viewLeft=parseFloat(inpLeft.value);updateTerrain(); /></p>' +
+			'<p>North / South <input type=range id=inpTop min=0 max=3345 value=' + viewTop + ' step=1 onmousemove=viewTop=parseFloat(inpTop.value);updateTerrain(); /></p>' +
+			'<p>View Size <input type=range id=inpSize min=100 max=3601 value=' + viewSize + ' step=1 onmousemove=viewSize=parseFloat(inpSize.value);updateTerrain(); /></p>' +
+			'<p>Vertical Scale <input type=range id=inpScale min=1 max=20 value=' + scale + ' step=1 onmousemove=scale=parseFloat(inpScale.value);updateTerrain(); /></p>' +
+			'<p>' +
+				'Go: <button onclick=tileWest(); title="Go west" >&#8678;</button> ' +
+				'<button onclick=tileEast(); title="Go east"  >&#8680;</button> ' +
+
+				'<button onclick=tileNorth(); title="Go north" >&#8679;</button> ' +
+				'<button onclick=tileSouth(); title="Go south" >&#8681;</button> ' +
+			'</p>' +
+
+		'';
+
+		stats = new Stats();
+		stats.domElement.style.cssText = 'position: absolute; right: 0; top: 0; z-index: 100; ';
+		document.body.appendChild( stats.domElement );
+
+		renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff }  );
+		renderer.setSize( window.innerWidth, window.innerHeight );
+		document.body.appendChild( renderer.domElement );
+
+		camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 1000 );
+		camera.position.set( 200, 200, 200 );
+
+		controls = new THREE.OrbitControls( camera, renderer.domElement );
+
+		scene = new THREE.Scene();
+
+// axes
+		var axisHelper = new THREE.AxisHelper( 50 );
+		scene.add( axisHelper );
+
+		material = new THREE.MeshNormalMaterial( { shading: THREE.SmoothShading, side: 2 } );
+		geometry = new THREE.PlaneBufferGeometry( 256, 256, 255, 255 );
+		geometry.applyMatrix( new THREE.Matrix4().makeRotationX( 0.5 * Math.PI ) );
+		vertices = geometry.attributes.position.array;
+
+		canvasHeightMap = document.createElement( 'canvas' );
+//		document.body.appendChild( canvasHeightMap );
+//		canvasHeightMap.style.cssText = ' border: 5px solid red; margin: 20px; position: absolute; top: 0; z-index: -10; ';
+		canvasHeightMap.width = canvasHeightMap.height =  viewSize;
+
+		contextHeightMap = canvasHeightMap.getContext( '2d' );
+
+		imageHeightMap = contextHeightMap.createImageData( viewSize, viewSize );
+		png = imageHeightMap.data;
+
+		canvasTerrain = document.createElement( 'canvas' );
+		canvasTerrain.width = canvasTerrain.height = 256;
+		contextTerrain = canvasTerrain.getContext( '2d' );
+
+		THREE.ImageUtils.crossOrigin = 'anonymous';
+
+		imageOverlay = document.createElement( 'img' );
+		imageOverlay.crossOrigin = 'anonymous';
+		document.body.appendChild( imageOverlay );
+		imageOverlay.style.cssText = 'border: 1px red solid; margin: 20px; position: absolute; top: 30px; right: 0px; z-index: -10; ';
+		imageOverlay.onload = updateMapMaterial;
+
+
+		if ( !location.hash ) {
+
+			fileName = sourceDir + fileName;
+
+
+		} else {
+
+			fileName = location.hash.split( '#' )[ 1 ];
+		}
+
+		window.addEventListener ( 'hashchange', onHashChange, false );
+
+		requestFile( fileName );
+
+	}
+
+	function onHashChange() {
+
+		var hashes = location.hash.split ( '#' );
+
+		if ( hashes.length < 2 ) { return; } 
+
+		requestFile( hashes[ 1 ] );
+
+	}
+
+	function requestFile( fileName ) {
+        console.log("Loading " + fileName)
+		xmlHttp = new XMLHttpRequest();
+		xmlHttp.open( 'GET', fileName, true );
+		xmlHttp.crossOrigin = 'anonymous';
+		xmlHttp.responseType = "arraybuffer";
+		xmlHttp.onreadystatechange = callbackRequestFile;
+		xmlHttp.send( null );
+
+	}
+
+	function callbackRequestFile() {
+
+		if ( xmlHttp.readyState !== 4  ) { return; }
+
+		var zip = new JSZip( xmlHttp.response );
+		var keys = Object.keys( zip.files );
+		var fileName = keys[ 0 ];
+
+// console.log( zip.files, fileName );
+
+		byteArray = zip.file( fileName ).asUint8Array();
+
+		parseHGT();
+
+		msg1.innerHTML = 'file:' + fileName + ' bytes:' + byteArray.length;
+
+	}
+
+
+	function parseHGT() {
+
+		var elevation, prev_elev;
+        var zeros = 0;
+        var voids = 0;
+        
+        prev_elev = 0;
+		for ( var i = 0, j = 0; i < byteArray.length; ) {
+
+			elevation = ( byteArray[ i++ ] << 8 ) + byteArray[ i++ ] ;
+			elevation = elevation < 32768 ? elevation: elevation - 65535;
+            if (elevation < -11000) {
+                // should be NONE if from http://e4ftl01.cr.usgs.gov/SRTM/SRTMGL1.003/2000.02.11/
+                voids++;
+                elevation = prev_elev;
+            }
+			png[ j++ ] = elevation & 0x0000ff;
+			png[ j++ ] = ( elevation & 0x00ff00 ) >> 8;
+			png[ j++ ] = 0; //( elevation & 0xff0000 ) >> 16;
+			png[ j++ ] = 255;
+            if (elevation > m_max_elev) {
+                m_max_elev = elevation;
+            }
+            if (elevation < m_min_elev) {
+                m_min_elev = elevation;
+            }
+            if (elevation == 0) {
+                zeros++;
+            }
+            prev_elev = elevation;
+
+		}
+        console.log("Loop " + byteArray.length + ", max " + m_max_elev + ", min " + m_min_elev +
+            ", zeros " + zeros + ", voids " + voids);
+        
+		contextHeightMap.putImageData( imageHeightMap, 0, 0 );
+
+		updateTerrain();
+	}
+
+
+	function updateTerrain() {
+
+        var max_elev = -99999;
+        var min_elev =  99999;
+		contextTerrain.clearRect( 0, 0, 256, 256 );
+		contextTerrain.drawImage( canvasHeightMap, viewLeft, viewTop, viewSize, viewSize, 0, 0, 256, 256 );
+
+		var rgb = contextTerrain.getImageData( 0, 0, 256, 256 ).data;
+		var elevation;
+		var scl = 0.01 * scale;
+        var last_elev = 0;
+        var below = 0;
+        var above = 0;
+        var loopcnt = 0;
+        var r,g,b,a;
+		for ( var i = 0, j = 1; i < rgb.length; i += 4, j += 3 ) {
+            r = rgb[ i ];
+            g = rgb[ i + 1 ];
+            //b = rgb[ i + 2 ]; // should be zero
+            //a = rgb[ i + 3 ]; // should be 255
+			elevation = r + (256 * g); 
+
+			//if ( rgb[ i + 2 ] > 0 ) {
+			//	elevation = 0;
+			//}
+			elevation = elevation < 32768 ? elevation : elevation - 65536; // 16777216;
+
+// uncomment the next line of code to see the errors corrected, but we should not need this correction
+// the data should come in already without error
+            if (elevation < m_min_elev) {
+                elevation = last_elev;
+                below++;
+            } else if (elevation > m_max_elev) {
+                elevation = last_elev;
+                above++;
+            }
+			//elevation  = elevation < -11000 || elevation > 3000 ? 0 : elevation ;
+
+			vertices[ j ] = scl * elevation ;
+            if (elevation > max_elev) {
+                max_elev = elevation;
+            }
+            if (elevation < min_elev) {
+                min_elev = elevation;
+            }
+            last_elev = elevation;
+            loopcnt++;
+		}
+        var step = rgb.length / loopcnt;
+        console.log("Loop " + loopcnt + ", len " + rgb.length + ", max " + max_elev + 
+            ", min " + min_elev + ", above " + above + ", below " + below +
+            ", step " + step);
+        
+		geometry.computeFaceNormals();
+		geometry.computeVertexNormals();
+
+		scene.remove( terrain )
+		terrain = new THREE.Mesh( geometry.clone(), material );
+		terrain.scale.z = -1;
+		scene.add( terrain );
+
+//		setLocationMapTarget();
+
+	}
+
+
+	function updateMapMaterial() {
+
+		var texture = new THREE.Texture( imageOverlay );
+		texture.minFilter = texture.magFilter = THREE.NearestFilter;
+		texture.needsUpdate = true;
+
+		var mapMaterial = new THREE.MeshBasicMaterial( { color: 0xffffff, map: texture, shading: THREE.SmoothShading, side: 2 } );
+
+		if ( terrain ) {
+
+			terrain.material = mapMaterial;
+			terrain.material.needsUpdate = true;
+
+		}
+
+	}
+
+	function setLocationMapTarget() {
+
+		f = fileName.substr( fileName.lastIndexOf( '/') + 1, 7 );
+
+console.log( 'fn', fileName, f );
+
+		lat = parseFloat( f.substr( 1, 2 ) ) + 0.5;
+		lat = f.substr( 0, 1 ) === 'N' ? lat : -lat;
+
+		lon = parseFloat( f.substr( 4, 3 ) ) - 0.5;
+		lon = f.substr( 3, 1 ) === 'E' ? lon : -lon;
+
+		var size = 256;
+
+//		var top = size * ( 1 - parseFloat( parent.inpTop.value ) );
+//		var left = size * parseFloat( parent.inpLeft.value );
+
+//		hotSpot = Math.floor( 256 * viewSize / 3601 );
+
+		imageOverlay.src = 'http://maps.googleapis.com/maps/api/staticmap?center=' + lat + ',' + lon + '&maptype=hybrid&zoom=' + 8 + '&scale=2&size=' + 180 + 'x' + 240 + 
+			'&markers=color:blue|38,-123|38,-122|37,-123|37,-122'
+		;
+
+//
+//		image.src = 'http://mt1.google.com/vt/lyrs=y&x=' + tileX + '&y=' + tileY  + '&z=' + zoom + '&scale=2';
+
+
+	}
+
+
+	function tileWest() {
+
+		lon = --lon > -180 ? lon : 179;
+		dLon = --dLon > -180 ? dLon : 179;
+		getHeightMap();
+
+	}
+
+	function tileEast() {
+		
+		lon = ++lon < 180 ? lon : -179;
+		dLon = ++dLon < 180 ? dLon : -179;
+		getHeightMap();
+
+	}
+
+
+	function tileNorth() {
+
+		lat = ++lat < 80 ? lat : 80;
+		dLat = ++dLat < 80 ? dLat : 80;
+		getHeightMap();
+
+	}
+
+	function tileSouth() {
+
+		lat = --lat > -90 ? lat : -90;
+		dLat = --dLat > -90 ? dLat : -90;
+		getHeightMap();
+
+	}
+
+
+	function animate() {
+
+		requestAnimationFrame( animate );
+		controls.update();
+		stats.update();
+		renderer.render( scene, camera );
+
+	}
+
+
+</script>
+</body>
+</html>
