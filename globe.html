@@ -431,6 +431,12 @@
         var res = model.split('/');
         model = 'ac/' + res[res.length - 1];
 		model = model.replace( '.xml', '.js' );
+        
+        if ( model.indexOf( '330' ) !== -1 ) { model = 'ac/A330.js';
+        } else if ( model.indexOf( '707' ) !== -1 ) { model = 'ac/707.js'; 
+        } else if ( model.indexOf( '320' ) !== -1 ) { model = 'ac/A320.js'; 
+        }
+
         /* =======================================
 		model = model.replace( 'Models/', '' );
 		model = model.replace( 'Aircraft/', '../../fgx-aircraft/data/' );
