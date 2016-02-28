@@ -1,34 +1,748 @@
-<!doctype html>
-<html lang="en">
+﻿<!doctype html>
+<html lang=en >
 <head>
-<title>FGx Globe r3.1</title>
-<meta charset="utf-8" />
-<script src="js/jquery-1.9.1.js"></script>
-<script src="js/jquery-ui.js"></script>
-<link rel="stylesheet" href="css/j3que.css" type="text/css" charset="utf-8" />
-<script src="js/j3que.js"></script>
-
-<!--
-<link rel="stylesheet" href="./ajax/tablesorter/css/theme.default.css" type="text/css" charset="utf-8" />
-<script src="./ajax/tablesorter/js/jquery.tablesorter.min.js"></script>
-<script src="./ajax/tablesorter/js/jquery.tablesorter.widgets.min.js"></script>
--->
-
-<script src="js/fgx-globe.js"></script>
+<meta charset=utf-8 />
+<title>FGx Globe R7</title>
+<meta charset=utf-8 />
+<meta name=viewport content='width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0' />
 </head>
 <body>
+
+<script src=http://mrdoob.github.io/three.js/build/three.min.js ></script>
+<script src=http://mrdoob.github.io/three.js/examples/js/controls/OrbitControls.js ></script>
+<script src=http://mrdoob.github.io/three.js/examples/js/libs/stats.min.js ></script>
+<!--
+<script src = http://rawgit.com/mrdoob/three.js/dev/build/three.js ></script>
+<script src = http://rawgit.com/mrdoob/three.js/dev/examples/js/controls/OrbitControls.js ></script>
+<script src = http://rawgit.com/mrdoob/three.js/dev/examples/js/libs/stats.min.js ></script>
+-->
 <script>
-// causes the planes to disappear if inside jQuery and you open accordian panel...
-	$.ifr = parent.document.body.appendChild( document.createElement( "iframe" ) );
-	$.ifr.src = "threejs-demo.html";
-	$.ifr.style.cssText = 'outline: solid 0px black; height: ' +
-		window.innerHeight + 'px; position: absolute; top: 0; width: ' + window.innerWidth + 'px; z-index: -5; ';	
 
-	$(function() {
-		$.getHash(); // j3que.js
+	var fileName = 'http://crossfeed.freeflightsim.org/flights.json';
+	var fileWaypoints = 'http://mpserver15.flightgear.org/modules/fgtracker/interface.php?action=livepilots&wpt=y';
 
-		// $("#create_button").button();
-	});	
+	var pi = Math.PI, pi2 = 2 * Math.PI, pi05 = 0.5 * Math.PI, pi_05 = -0.5 * Math.PI;
+	var d2r = pi / 180;
+	var v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); };
+
+	var delayTime = 5000;
+	var startTime = performance.now();
+	var rotateTime = performance.now();
+
+	var fleet;
+	var models;
+	var waypoints;
+	var defaultAircraft;
+
+	//var sourceFolder = '../textures/';
+	var sourceFolder = 'textures/';
+	var heightMapSource = sourceFolder + 'bathymetry_bw_composite-a_2k.png';
+
+	overlays = [
+		[ 'bathymetry_bw_composite_2k.png', 'height map' ],
+		[ 'Elevation.jpg', 'Elevation' ],
+		[ 'GLOBALeb3colshade.jpg', 'Global eb3 color shade' ],
+		[ 'world.topo.bathy.200408.3x5400x2700.jpg', 'World Topo Bathy' ],
+		[ '2_no_clouds_4k.jpg','no clouds'],
+		[ 'world-map.jpg','world-map']
+
+	];
+
+	var earthRadiusEquator = 6371;
+
+	var width = 2048;
+	var height = 1024;
+
+	var scale = 2;
+	var scaleAdjust = 0.0009;
+	var scl = scaleAdjust * scale;
+
+	var startTime = performance.now();
+	var delayTime = 2000;
+	var autoRotateSpeed = 0.5;
+	var materialOverlay;
+
+	var v = function( x, y, z ){ return new THREE.Vector3( x, y, z ); }
+
+	var hamburger, stats, renderer, scene, camera, controls;
+	var geometry, material, mesh, axisHelper;
+
+	var heightMap, heightMesh, seaLevel, canvasHeightMap, contextHeightMap;
+
+	init();
+	animate();
+
+	function init() {
+
+		var css = document.head.appendChild( document.createElement( 'style' ) );
+		css.innerHTML =
+
+			'body { font: 12pt monospace; margin: 0; overflow: hidden; }' +
+			'a {text-decoration: none; }' +
+			'h2 { margin: 0 }' +
+			'td { font-size: 8pt; }' +
+
+			'input[type=button] { background-color: #eee; border: 2px #eee solid; color: #888; }' +
+
+			'input[type=range] { -webkit-appearance: none; -moz-appearance: none; background-color: silver; height: 20px; width: 180px; }' +
+			'input[type=range]::-moz-range-thumb { -moz-appearance: none; background-color: #888; height: 20px; width: 10px; }' +
+			'input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #888; height: 20px; opacity: 0.85; width: 10px; }' +
+
+		'';
+
+		hamburger = document.body.appendChild( document.createElement( 'div' ) );
+		hamburger.style.cssText = ' left: 320px; position: absolute; top: 0px; transition: left 1s; ';
+		hamburger.innerHTML = '<h2><a id=bars href=JavaScript:slideHamburger(); >&#9776;</a></h2>';
+
+		var menu = hamburger.appendChild( document.createElement( 'div' ) );
+		menu.style.cssText = ' background-color: #eee; border: 1px #ccc solid; left: -320px;  max-height: ' + ( window.innerHeight - 50 ) + 'px; ' +
+			'opacity: 0.8; overflow: auto; padding: 0 10px; position: absolute; top: 0px; transition: left 1s; max-width: 300px; ';
+		menu.innerHTML =
+
+			'<h2>' +
+			'	<a href="" >' + document.title + '</a>' +
+			'	<a id=i href=http://fgx.github.io/ >❦</a>' +
+			'</h2>' +
+			'<p>Rotate|Zoom|Pan = 1|2|3 fingers</p>' +
+			'<p><a href="http://wiki.flightgear.org" >FlightGear</a> <a href="http://wiki.flightgear.org/Howto:Multiplayer" >Multiplayer<a> tracker</p>' +
+			'<p>Overlay: <select id=selOverlay onchange=selectOverlay(); ></select>' +
+			'<p>Vertical Scale <input type=range id=inpScale min=0 max=3 step=0.05 value=2 onchange=selectScale(this.valueAsNumber); /></p>' +
+			'<p><input type=checkbox id=inpHelpers onchange=axis.visible=!axis.visible; checked /> Display axis</p>' +
+			'<p><input type=checkbox id=chkGradient onchange=toggleGradientBackground(); checked /> Display gradient</p>' +
+			'<p><input type=checkbox id=chkRotate checked /> Auto Rotation</p>' +
+			'<p id=info ></p>' +
+		'';
+
+		for (var i = 0; i < overlays.length; i++) {
+				selOverlay.appendChild( document.createElement( 'option' ) );
+				selOverlay.children[ i ].text = overlays[i][1];
+
+		}
+		selOverlay.selectedIndex = 1;
+
+		stats = new Stats();
+		stats.domElement.style.cssText = 'position: absolute; right: 0; top: 0; z-index: 100; ';
+		document.body.appendChild( stats.domElement );
+
+		renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true }  );
+		renderer.setSize( window.innerWidth, window.innerHeight );
+
+		renderer.gammaInput = true;
+		renderer.gammaOutput = true;
+
+		document.body.appendChild( renderer.domElement );
+
+		camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 40000 );
+		camera.position.set( -15000, 15000, 15000 );
+
+		controls = new THREE.OrbitControls( camera, renderer.domElement );
+		controls.minDistance = 2500;
+		controls.maxDistance = 30000;
+
+		scene = new THREE.Scene();
+
+		var size = 13000;
+		var lightAmbient, lightDirectional, lightPoint;
+
+		lightAmbient = new THREE.AmbientLight( 0x444444 );
+		scene.add( lightAmbient );
+
+		lightDirectional = new THREE.DirectionalLight( 0xffffff, 0.5 );
+		lightDirectional.position.set( -size, size, size );
+/*
+		var d = size;
+		lightDirectional.shadow.camera.left = -d;
+		lightDirectional.shadow.camera.right = d;
+		lightDirectional.shadow.camera.top = d;
+		lightDirectional.shadow.camera.bottom = -d;
+
+		lightDirectional.shadow.camera.near = 0;
+		lightDirectional.shadow.camera.far = 4 * size;
+
+		lightDirectional.shadow.bias = -0.001;
+
+		lightDirectional.shadow.mapSize.width = 2048;  // default 512
+		lightDirectional.shadow.mapSize.height = 2048;
+*/
+
+		scene.add( lightDirectional );
+
+		lightPoint = new THREE.PointLight( 0xffffff, 0.5 );
+		camera.add( lightPoint );
+		lightPoint.position = new THREE.Vector3( 0, 0, 1 );
+		scene.add( camera );
+
+		controls.autoRotateSpeed = autoRotateSpeed;
+
+		window.addEventListener( 'resize', onWindowResize, false );
+		renderer.domElement.addEventListener( 'mousemove', onMouseMove, false ); // or mousedown?
+
+/// assets
+
+		var axis = new THREE.AxisHelper( 10000 );
+
+		models = new THREE.Object3D();  // container
+
+		fleet = new THREE.Object3D();
+		scene.add( fleet );
+
+		toggleGradientBackground();
+
+		geometry = new THREE.SphereBufferGeometry( earthRadiusEquator + 1500, 50, 25 );
+		material = new THREE.MeshNormalMaterial( { opacity: 0.5, transparent: true } );
+		seaLevel = new THREE.Mesh( geometry, material );
+		scene.add( seaLevel );
+
+		canvasHeightMap = document.createElement( 'canvas' );
+//		document.body.appendChild( canvasHeightMap );
+//		canvasHeightMap.style.cssText = 'margin: 20px; position: absolute; top: 0;';
+		canvasHeightMap.width = width;
+		canvasHeightMap.height = height;
+		contextHeightMap = canvasHeightMap.getContext( '2d' );
+
+		selectOverlay();
+
+		imageLoader = new THREE.ImageLoader();
+		imageLoader.crossOrigin = 'anonymous';
+		imageLoader.load( heightMapSource, updateTerrain );
+
+		requestCrossfeed();
+		requestWaypoints();
+
+	}
+
+	function selectScale( scale ) {
+
+		scene.remove( seaLevel );
+
+		scale = scale ? scale : 2;
+
+		scl= scale * scaleAdjust;
+
+		var geometry = new THREE.SphereBufferGeometry( ( 1 + scl * 128 ) * earthRadiusEquator, 50, 25 );
+
+		var material = new THREE.MeshNormalMaterial( { opacity: 0.5, transparent: true } );
+
+		seaLevel = new THREE.Mesh( geometry, material );
+		scene.add( seaLevel );
+
+		updateTerrain();
+		selectOverlay();
+
+	}
+
+	function selectOverlay() {
+
+		var loader = new THREE.TextureLoader();
+		loader.crossOrigin = 'anonymous';
+		loader.load( sourceFolder + overlays[ selOverlay.selectedIndex ][0], updateTexture );
+
+	}
+
+	function updateTexture( texture ) {
+
+		texture.needsUpdate = true;
+		materialOverlay = new THREE.MeshPhongMaterial( { color: 0xcccccc, emissive: 0x000000, map: texture, specular: 0x111111 } );
+		if ( heightMesh ){ heightMesh.material = materialOverlay; }
+
+	}
+
+	function updateTerrain( mesh ) {
+
+		scene.remove( heightMesh );
+
+		heightMap = mesh ? mesh : heightMap ;
+
+		contextHeightMap.drawImage( heightMap, 0, 0, width, height, 0, 0, width, height );
+
+		var map = contextHeightMap.getImageData( 0, 0, width, height ).data;
+
+		var geometry = new THREE.SphereBufferGeometry( earthRadiusEquator, width - 1, height - 1 );
+
+		var vertices = geometry.attributes.position.array;
+
+		for ( var i = 0, j = 0; i < vertices.length; i += 3, j += 4 ) {
+
+			var s = 1 + scl * map[ j ];
+			vertices[ i ] *= s;
+			vertices[ i + 1 ] *= s;
+			vertices[ i + 2 ] *= s;
+
+		}
+
+		geometry.computeFaceNormals();
+		geometry.computeVertexNormals();
+
+		heightMesh = new THREE.Mesh( geometry, materialOverlay );
+
+		scene.add( heightMesh );
+
+		requestCrossfeed();
+
+	}
+
+	function requestCrossfeed() {
+
+		var xhr = new XMLHttpRequest();
+		xhr.open( 'GET', fileName, true );
+		xhr.onreadystatechange = callbackCrossfeed;
+		xhr.send( null );
+
+		function callbackCrossfeed() {
+
+			if ( xhr.readyState != 4  ) { return; }
+
+			scene.remove( waypoints );
+
+			waypoints = new THREE.Object3D();
+
+			var response = JSON.parse( xhr.responseText );
+			var flights = response.flights;
+
+			var text = 'Update: ' + response.last_updated + '<br>' +
+				'Count: ' + flights.length +
+				'<table><th><tr><td>callsign</td><td>lat</td><td>lon</td><td>alt ft</td><td>model</td></tr></th>';
+
+			var altitudeFactor = ( 1 + scl * 140 ) * earthRadiusEquator;
+			defaultAircraft = makePlane(); 
+
+			for ( var i = 0; i < flights.length; i++ ) {
+
+				var flight = flights[ i ];
+				var callsign = flight.callsign;
+				var position = convertPosition( flight.lat, -flight.lon, altitudeFactor + 0.05 * flight.alt_ft );
+
+				aircraft = fleet.getObjectByName( callsign );
+
+				if ( aircraft === undefined ) {
+
+					model = models.getObjectByName( flight.model );
+
+					if ( model === undefined ) {
+
+						addModel( flight, position );
+
+					} else {
+
+						aircraft = model.clone();
+
+						aircraft.name = callsign;
+
+						placard = drawPlacard( flight.callsign, 1, 60, 0, 0, -200 );
+						aircraft.add( placard );
+
+						aircraft.userData = [ flight ];
+						fleet.add( aircraft );
+
+						updateAircraftPosition( aircraft, position, getHeading(flight.hdg) );
+
+					}
+
+				} else {
+
+					aircraft.userData.push( flight );
+					getWaypoints( aircraft );
+
+					updateAircraftPosition( aircraft, position, getHeading(flight.hdg) );
+
+				}
+
+				var name = flight.model.split('/').pop()
+
+				text += '<tr><td>' + callsign  + '</td><td>' + flight.lat.toFixed( 1 ) + '</td><td>' + flight.lon.toFixed( 1 ) + '</td><td>' + flight.alt_ft + '</td><td>' + name + '</td></tr>';
+
+			}
+
+			info.innerHTML = text + '</table>';
+
+			scene.add( waypoints );
+
+		}
+
+	}
+
+	function requestWaypoints() {
+
+		xhr = new XMLHttpRequest();
+		xhr.open( 'GET', fileWaypoints, true );
+		xhr.onreadystatechange = callbackWaypoints;
+		xhr.send( null );
+
+
+
+		function callbackWaypoints() {
+
+			if ( xhr.readyState != 4  ) { return; }
+
+			var response = JSON.parse( xhr.responseText );
+
+			pilots = response.data.pilot
+
+			for ( var ii = 0; ii < pilots.length; ii++ ) {
+
+				pilot = pilots[ ii ];
+
+				aircraft = fleet.getObjectByName( pilot.callsign );
+
+				if ( aircraft ) {
+					aircraft.userData.waypoints = pilot.wpt;
+
+//	console.log( 'response', aircraft.userData.waypoints );
+
+					wpts = pilot.wpt;
+					var geometry = new THREE.PlaneBufferGeometry( 1, 1, wpts.length - 1, 1 );
+					var material = new THREE.MeshBasicMaterial( { color: 0xffff00, side: 2 } );
+					var vertices = geometry.attributes.position.array;
+					var count = 0;
+
+					for ( i = 0; i < 2; i++ ) {
+
+						s = i === 0 ? 1: 0.98;
+
+						for ( var j = 0; j < wpts.length; j++ ) {
+
+							wpt = wpts[ j ];
+
+							point = convertPosition( wpt.lat, -wpt.lon, ( 1 + scl * 128 ) * earthRadiusEquator + 0.05 * wpt.alt );
+
+							vertices[ count++ ] = s * point.x;
+							vertices[ count++ ] = s * point.y;
+							vertices[ count++ ] = s * point.z;
+
+						}
+
+					}
+
+					mmesh = new THREE.Mesh( geometry, material );
+					scene.add( mmesh );
+
+				}
+
+			}
+
+		}
+
+	}
+
+
+	function addModel( flight, position ) {
+
+		var model = flight.model;
+        var res = model.split('/');
+        model = 'ac/' + res[res.length - 1];
+		model = model.replace( '.xml', '.js' );
+        /* =======================================
+		model = model.replace( 'Models/', '' );
+		model = model.replace( 'Aircraft/', '../../fgx-aircraft/data/' );
+
+		if ( model.indexOf( '137' ) !== -1 ) { model = '../../fgx-aircraft/data/ec135/ec135.js'; 
+		} else if ( model.indexOf( '145' ) !== -1 ) { model = '../../fgx-aircraft/data/erj145/erj145.js'; 
+		} else if ( model.indexOf( '707' ) !== -1 ) { model = '../../fgx-aircraft/data/707/707.js'; 
+		} else if ( model.indexOf( '737-700' ) !== -1 ) { model = '../../fgx-aircraft/data/737-300/737-300.js'; 
+		} else if ( model.indexOf( '747' ) !== -1 ) { model = '../../fgx-aircraft/data/747-8i/747-8i.js'; 
+		} else if ( model.indexOf( '757' ) !== -1 ) { model = '../../fgx-aircraft/data/757-200/757-200.js';
+		} else if ( model.indexOf( '777' ) !== -1 ) { model = '../../fgx-aircraft/data/777/777-200.js';
+		} else if ( model.indexOf( '787' ) !== -1 ) { model = '../../fgx-aircraft/data/787/787-8.js';
+		} else if ( model.indexOf( '340' ) !== -1 ) { model = '../../fgx-aircraft/data/A340-600/A340.js';
+		} else if ( model.indexOf( '319' ) !== -1 ) { model = '../../fgx-aircraft/data/A340-600/A340.js';
+		} else if ( model.indexOf( '330' ) !== -1 ) { model = '../../fgx-aircraft/data/A330/A330.js';
+		} else if ( model.indexOf( '380' ) !== -1 ) { model = '../../fgx-aircraft/data/A380/a380.js';
+		} else if ( model.toLowerCase().indexOf( 'b29' ) !== -1 ) { model = '../../fgx-aircraft/data/b29/b29.js';
+		} else if ( model.toLowerCase().indexOf( 'buccaneer' ) !== -1 ) { model = '../../fgx-aircraft/data/Buccaneer/buccaneer.js';
+		} else if ( model.toLowerCase().indexOf( 'c130' ) !== -1 ) { model = '../../fgx-aircraft/data/C130/c130.js';
+		} else if ( model.toLowerCase().indexOf( 'cessna337' ) !== -1 ) { model = '../../fgx-aircraft/data/Cessna337/Cessna337_Skymaster.js';
+		} else if ( model.toLowerCase().indexOf( 'cessna-208' ) !== -1 ) { model = '../../fgx-aircraft/data/Cessna-208-Caravan/caravan.js';
+		} else if ( model.toLowerCase().indexOf( 'concorde' ) !== -1 ) { model = '../../fgx-aircraft/data/Concorde/concorde.js';
+		} else if ( model.toLowerCase().indexOf( 'dc3' ) !== -1 ) { model = '../../fgx-aircraft/data/dc3/dc-3.js';
+		} else if ( model.toLowerCase().indexOf( 'f-14' ) !== -1 ) { model = '../../fgx-aircraft/data/f-14b/f14.js';
+		} else if ( model.toLowerCase().indexOf( 'f-15' ) !== -1 ) { model = '../../fgx-aircraft/data/f15c/f15c.js';
+		} else if ( model.toLowerCase().indexOf( '2000' ) !== -1 ) { model = '../../fgx-aircraft/data/mirage2000/mirage2000.js';
+		} else if ( model.toLowerCase().indexOf( 'viggen' ) !== -1 ) { model = '../../fgx-aircraft/data/viggen/viggen.json';
+		}
+          ============================================= */
+		var loader = new THREE.JSONLoader();
+		loader.load( model, function( geometry ) {
+
+			drawLoaded( geometry );
+
+		}, function(){}, function() { 
+
+			drawLoaded( defaultAircraft.clone() );
+
+		} );
+
+		function drawLoaded( geometry ) {
+
+			geometry.applyMatrix( new THREE.Matrix4().makeRotationX( pi_05 ) );
+			geometry.center();
+			geometry.computeBoundingSphere();
+			s = 500 / geometry.boundingSphere.radius;
+			geometry.scale( s, s, s );
+
+			var material = new THREE.MeshNormalMaterial();
+			var mesh = new THREE.Mesh( geometry, material );
+			mesh.name = flight.model;
+			models.add( mesh );
+
+			aircraft = mesh.clone();
+			aircraft.name = flight.callsign;
+			aircraft.userData = [ flight ];
+
+			placard = drawPlacard( flight.callsign, 5, 60, 0, 0, -1000 );
+			aircraft.add( placard );
+
+			fleet.add( aircraft );
+
+			updateAircraftPosition( aircraft, position, getHeading(flight.hdg) );
+
+		}
+
+	}
+
+    function getHeading( degs ) {
+        // return ( pi_05 + degs * d2r );
+        return ( pi_05 * (degs * d2r) );
+    }
+
+	function updateAircraftPosition( aircraft, position, heading ) {
+
+		aircraft.position.copy ( position );
+		aircraft.lookAt( v( 0, 0, 0 ) );
+		aircraft.rotation.z = heading;
+		var c = 0.00005 * camera.position.distanceTo( v( 0, 0, 0 ) );
+		aircraft.scale.set( c, c, c );
+
+	}
+
+	function getWaypoints( aircraft ) {
+
+		data = aircraft.userData;
+		points = [];
+
+// only add new points
+		for ( var i = 0; i < data.length; i++ ) {
+
+			flight = data[ i ];
+
+			if ( flight.dist_nm > 0 ) {
+
+				points.push( convertPosition( flight.lat, -flight.lon, ( 1 + scl * 128 ) * earthRadiusEquator + 0.05 * flight.alt_ft ) );
+
+			}
+
+		}
+
+		if ( points.length > 0 ) {
+
+			var geometry = new THREE.PlaneBufferGeometry( 1, 1, points.length - 1, 1 );
+			var material = new THREE.MeshBasicMaterial( { color: 0xff0000, side: 2 } );
+			var vertices = geometry.attributes.position.array;
+			var count = 0;
+
+			for ( i = 0; i < 2; i++ ) {
+
+				s = i === 0 ? 1: 0.98;
+
+				for ( var j = 0; j < points.length; j++ ) {
+
+					point = points[ j ];
+					vertices[ count++ ] = s * point.x;
+					vertices[ count++ ] = s * point.y;
+					vertices[ count++ ] = s * point.z;
+
+				}
+
+			}
+
+			var mesh = new THREE.Mesh( geometry, material );
+			waypoints.add( mesh );
+
+		}
+
+	}
+
+	function convertPosition( lat, lon, radius ) {
+
+		var rc = radius * Math.cos( lat * d2r );
+		return v( rc * Math.cos( lon * d2r ), radius * Math.sin( lat * d2r ), rc * Math.sin( lon * d2r) );
+
+	}
+
+	function drawPlacard( text, scale, color, x, y, z ) {
+
+		placard = new THREE.Object3D();
+
+		var texture = canvasMultilineText( text, { backgroundColor: color }  );
+		var spriteMaterial = new THREE.SpriteMaterial( { map: texture, opacity: 0.9, transparent: true } );
+		var sprite = new THREE.Sprite( spriteMaterial );
+		var s = 1.2;
+		sprite.position.set( x, y, z ) ;
+		sprite.scale.set( scale * texture.image.width, scale * texture.image.height );
+
+		var geometry = new THREE.Geometry();
+		geometry.vertices = [ v( -x, -y, -z ),  v( x, y, z ) ];
+		var material = new THREE.LineBasicMaterial( { color: 0xaaaaaa } );
+		var line = new THREE.Line( geometry, material );
+
+		placard.add( sprite, line );
+
+		return placard;
+
+		function canvasMultilineText( textArray, parameters ) {
+
+			parameters = parameters || {} ;
+			var width = 0;
+			var canvas = document.createElement( 'canvas' );
+			var context = canvas.getContext( '2d' );
+
+			if ( typeof textArray === 'string' ) textArray = [ textArray ];
+
+			context.font = parameters.font ? parameters.font : '48px sans-serif';
+
+			for ( var i = 0; i < textArray.length; i++) {
+
+				width = context.measureText( textArray[ i ] ).width > width ? context.measureText( textArray[ i ] ).width : width;
+
+			}
+
+			canvas.width = width + 20;
+			canvas.height = textArray.length * 60;
+
+			var col = parameters.backgroundColor ? parameters.backgroundColor : 120 ;
+
+			context.fillStyle = 'hsl( ' + col + ', 80%, 50% )' ;
+			context.fillRect( 0, 0, canvas.width, canvas.height);
+
+			context.lineWidth = 1 ;
+			context.strokeStyle = '#000';
+			context.strokeRect( 0, 0, canvas.width, canvas.height );
+
+			context.fillStyle = '#000' ;
+			context.font = parameters.font ? parameters.font : '48px sans-serif';
+
+			for ( i = 0; i < textArray.length; i++) {
+
+				context.fillText( textArray[ i ], 10, 48  + i * 60 );
+
+			}
+
+			var texture = new THREE.Texture( canvas );
+			texture.minFilter = texture.magFilter = THREE.NearestFilter;
+			texture.needsUpdate = true;
+
+			return texture;
+
+		}
+
+	}
+
+	function makePlane() {
+
+		var material = new THREE.MeshNormalMaterial();
+
+		// body
+		var geo = new THREE.BoxGeometry( 100, 10, 10 );
+
+		// wing
+		var geometry = new THREE.BoxGeometry( 20, 3, 100 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 20, -2, 0 ) );
+		geo.merge( geometry );
+
+		// tail
+		geometry = new THREE.BoxGeometry( 10, 2, 40 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( -45, 2, 0 ) );
+		geo.merge( geometry );
+
+		// rudder
+		geometry = new THREE.BoxGeometry( 10, 20, 2 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( -45, 12, 0 ) );
+		geo.merge( geometry );
+
+		// cabin
+		geometry = new THREE.BoxGeometry( 20, 6, 8 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 15, 8, 0 ) );
+		geo.merge( geometry );
+
+		// propeller
+		geometry = new THREE.BoxGeometry( 2, 30, 3 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 52, 0, 0 ) );
+		geometry.applyMatrix( new THREE.Matrix4().makeRotationX( 0.785 ) );
+		geo.merge( geometry );
+
+		geometry = new THREE.BoxGeometry( 2, 30, 3 );
+		geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 52, 0, 0 ) );
+		geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.785 ) );
+		geo.merge( geometry );
+
+		geo.mergeVertices();
+
+		return geo;
+
+	}
+
+	function toggleGradientBackground() {
+
+		if ( chkGradient.checked ) {
+
+			document.body.style.cssText += ' height: ' + window.innerHeight + 'px; ';
+
+			var col1 = Math.random().toString(16).slice(2, 8);
+			var col2 = Math.random().toString(16).slice(2, 8);
+			var col3 = Math.random().toString(16).slice(2, 8);
+			var x = ( Math.random() * window.innerWidth ).toFixed(0);
+			var y = ( Math.random() * window.innerHeight ).toFixed(0);
+
+			document.body.style.backgroundImage = 'radial-gradient( circle farthest-corner at ' + x + 'px ' + y + 'px, #' + col1 + ' 0%, #' + col2 + ' 50%, #' + col3 + ' 100%)';
+
+		} else {
+
+			document.body.style.backgroundImage = '';
+
+		}
+
+	}
+
+	function slideHamburger() {
+
+		hamburger.style.left = hamburger.style.left === '320px' ? 0 : '320px';
+
+	}
+
+	function onWindowResize() {
+
+		camera.aspect = window.innerWidth / window.innerHeight;
+		camera.updateProjectionMatrix();
+
+		renderer.setSize( window.innerWidth, window.innerHeight );
+
+	}
+
+	function onMouseMove() {
+
+		rotateTime = chkRotate.checked ? performance.now() : 1000000 ;
+		controls.autoRotate = false;
+
+	}
+
+	function animate( timestamp ) {
+
+		controls.autoRotate = timestamp - rotateTime > delayTime && chkRotate.checked ? true : false;
+
+		if ( timestamp - startTime > 8000 ) {
+
+			startTime = performance.now();
+
+			requestCrossfeed();
+
+		}
+
+		renderer.render( scene, camera );
+		controls.update();
+		stats.update();
+		requestAnimationFrame( animate );
+
+	}
+
 </script>
 </body>
 </html>
