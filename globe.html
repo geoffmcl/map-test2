@@ -427,6 +427,7 @@
 
 	function addModel( flight, position ) {
 
+        var cs = flight.callsign;
 		var model = flight.model;
         var res = model.split('/');
         model = 'ac/' + res[res.length - 1];
@@ -435,6 +436,10 @@
         if ( model.indexOf( '330' ) !== -1 ) { model = 'ac/A330.js';
         } else if ( model.indexOf( '707' ) !== -1 ) { model = 'ac/707.js'; 
         } else if ( model.indexOf( '320' ) !== -1 ) { model = 'ac/A320.js'; 
+        } else if ( model.indexOf( 'F-15C' ) !== -1 ) { model = 'ac/f15c.js'; 
+        } else if ( model.indexOf( 'EC-137' ) !== -1 ) { model = 'ac/ec130.js'; 
+        } else if ( model.indexOf( 'dhc2wheels' ) !== -1 ) { model = 'ac/dhc1.js'; 
+        } else if ( model.indexOf( 'Velocity' ) !== -1 ) { model = 'ac/velocity.js'; 
         }
 
         /* =======================================
@@ -466,13 +471,17 @@
 		} else if ( model.toLowerCase().indexOf( 'viggen' ) !== -1 ) { model = '../../fgx-aircraft/data/viggen/viggen.json';
 		}
           ============================================= */
+        ///console.log( 'Model: ', model );
+          
 		var loader = new THREE.JSONLoader();
 		loader.load( model, function( geometry ) {
 
+            // console.log( 'CS: ' + cs + ', Mod: ' + model );
 			drawLoaded( geometry );
 
 		}, function(){}, function() { 
 
+            // console.log( 'CS: ' + cs + ', Def: ' + model );
 			drawLoaded( defaultAircraft.clone() );
 
 		} );
@@ -507,7 +516,8 @@
 
     function getHeading( degs ) {
         // return ( pi_05 + degs * d2r );
-        return ( pi_05 * (degs * d2r) );
+        // return ( pi_05 * (degs * d2r) );
+        return 0;
     }
 
 	function updateAircraftPosition( aircraft, position, heading ) {
